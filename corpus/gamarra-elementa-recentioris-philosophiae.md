@@ -1116,7 +1116,7 @@ is it our intention, however, while we present these, to list all the Gymnasia a
 
 [p. 18]
 
-## 61 For this reason the Emperor Leopold the Great in 1670 added spurs to the
+61 For this reason the Emperor Leopold the Great in 1670 added spurs to the
 
 Academicians, holding out to them the hope of his patronage, so that they might de‐
 
@@ -13056,7 +13056,7 @@ In
 
 [p. 123]
 
-## 377 In the first kind of lever, by as much as the distance CB exceeds the dis‐
+377 In the first kind of lever, by as much as the distance CB exceeds the dis‐
 
 tance AC, by so much does the power B exceed the resistance of the body A: and
 
@@ -18656,7 +18656,7 @@ nothing resists, it follows that by its pressure the iron is urged toward the ma
 
 [p. 249]
 
-## 798 That this can come about by the help of effluvia is fittingly shown; first
+798 That this can come about by the help of effluvia is fittingly shown; first
 
 of all from the fact that the little fibers of iron are softer and more flexible than
 

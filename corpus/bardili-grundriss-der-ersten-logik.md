@@ -26,7 +26,7 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 > der
 
-#### of
+of
 
 > gereiniget
 
@@ -34,57 +34,57 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 > von
 
-#### purified
+purified
 
 > den Jrrthümmern bisheriger Logiken
 
-#### of
+of
 
 > überhaupt,
 
-#### the errors of previous logics
+the errors of previous logics
 
 > | der:
 
-#### in general,
+in general,
 
 > $antifd)en inSbefonbere;
 
-#### and of the
+and of the
 
 > Keine Kritik ſondern eine
 
-#### Kantian in particular;
+Kantian in particular;
 
 > Medicina mentis,
 
-#### Not a critique but a
+Not a critique but a
 
 > brauchbar hauptſächlich für Deutſchlands
 
-#### *Medicina mentis*,
+*Medicina mentis*,
 
 > Kritiſche Philoſophie
 
-#### useful chiefly for Germany’s
+useful chiefly for Germany’s
 
 > von
 
-#### critical philosophy
+critical philosophy
 
 > | Stuttgart,
 
-#### by
+by
 
 > bei Franz Chriſtian Ldflund, 1800
 
-#### C. G. Bardili.
+C. G. Bardili.
 
 > Ey
 
-#### Stuttgart,
+Stuttgart,
 
-#### published by Franz Christian Löflund.
+published by Franz Christian Löflund.
 
 1800.
 
@@ -92,51 +92,51 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 > - Der
 
-#### To the
+To the
 
 > Berliner Akademie der Wiſſenſchaften,
 
-#### Berlin Academy of Sciences,
+Berlin Academy of Sciences,
 
 > | ben Herren
 
-#### to Messrs
+to Messrs
 
 > Herder, Schloſſer, Eberhard
 
-#### Herder, Schlosser, Eberhard,
+Herder, Schlosser, Eberhard,
 
 > Fedem ö
 
-#### to each
+to each
 
 > Retter des erkrankten Schulverſtands in
 
-#### a rescuer of the ailing understanding
+a rescuer of the ailing understanding
 
 > Deutſchland,
 
-#### of the schools in Germany,
+of the schools in Germany,
 
 > mithin vorzüglich auch dem
 
-#### and therefore especially also to
+and therefore especially also to
 
 > Herrn
 
-#### Mr
+Mr
 
 > Friederi< Nikolai
 
-#### Friedrich Nicolai,
+Friedrich Nicolai,
 
 > wiedmet dies Denkmal |
 
-#### this monument is dedicated
+this monument is dedicated
 
 > die deutſche Vaterlandsliebe,
 
-#### by German love of the fatherland.
+by German love of the fatherland.
 
 [scan 10]
 
@@ -2670,7 +2670,7 @@ Philosophy, 3rd Part. (A as A, in A, through A) posited (in B + b)
 
 > (Hier hängen: fid) bann ‘erſt —
 
-#### (+ b)
+(+ b)
 
 > ble ſinnlichen Attribute ———— Accidentien wiederum an.) Es iﬀ gar niht mbglid), elnen Begriff zu
 

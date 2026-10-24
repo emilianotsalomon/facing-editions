@@ -22,39 +22,39 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 > Encyklopädie
 
-#### Encyclopaedia
+Encyclopaedia
 
-#### of the
+of the
 
 > der philosophischen Wissenschaften im Grundrisse.
 
-#### Philosophical Sciences
+Philosophical Sciences
 
 > Zum Gebrauch seiner Vorlesungen Don
 
-#### in Outline.
+in Outline.
 
-#### For Use in His Lectures
+For Use in His Lectures
 
 > D. Georg Wilhelm Friedrich Hegel,
 
-#### by
+by
 
 > Professor der Philosophie an der Universität zu Heidelberg.
 
-#### Dr. Georg Wilhelm Friedrich Hegel,
+Dr. Georg Wilhelm Friedrich Hegel,
 
-#### Professor of Philosophy at the University
+Professor of Philosophy at the University
 
 > RY Heidelberg,
 
-#### of Heidelberg.
+of Heidelberg.
 
 > in August Oswald's Universitätsbuchhandlung.
 
-#### Heidelberg,
+Heidelberg,
 
-#### at August Oswald’s University Bookshop.
+at August Oswald’s University Bookshop.
 
 > 1817.
 
@@ -146,7 +146,7 @@ Page.
 
 Introduction 3
 
-#### A.
+A.
 
 > Die Wissenschaft der Logik.
 
@@ -318,7 +318,7 @@ c. Absolute Idea 123
 
 > 123 с. Absolute Idee
 
-#### B.
+B.
 
 > ς B.
 
@@ -398,7 +398,7 @@ B. Vegetable Nature 183–185
 
 C. The Animal Organism 185–204
 
-#### C.
+C.
 
 > 1 C. 1
 
@@ -728,7 +728,7 @@ sciences are only determinations of the Idea itself, and that it is only the Ide
 
 [p. 15]
 
-#### A.
+A.
 
 > A. Die Wissenschaft der Logik.
 
@@ -1296,7 +1296,7 @@ The *atomistic* philosophy is this standpoint, on which the absolute determines 
 
 > B. Quantität.
 
-#### B.
+B.
 
 > a.) Die reine Quantität. §. 52.
 
@@ -1412,7 +1412,7 @@ The *sides* of the quantitative relationship, however, are themselves still only
 
 > C. Das Maaß. §. 60.
 
-#### C.
+C.
 
 > Das Maaß ist das qualitative Quantum, zunächst
 
@@ -1496,7 +1496,7 @@ But since this negativity is not external to being but is its own dialectic, its
 
 In the sphere of essence, *relativity* constitutes the dominant determination. In the sphere of being, identity is *immediate* relation to itself, and the negative the mere *otherness*; in the present sphere, by contrast, everything is posited as being only in such a way that at the same time it has been gone beyond; it is a *being of reflection, relationship*.
 
-#### A.
+A.
 
 > aber nicht in
 
@@ -1656,7 +1656,7 @@ Ground has as yet no *content*, nor *end*, therefore it is not yet *active*, nor
 
 > B. Die Erscheinung. a.) Die Existenz.
 
-#### B.
+B.
 
 > ?
 
@@ -1872,7 +1872,7 @@ the immediate passing over, the one in the other; they are the semblance, posite
 
 > C.
 
-#### C.
+C.
 
 > Die Wirklichkeit. §. 91.
 
@@ -2146,7 +2146,7 @@ has, however, hitherto never been considered and investigated, any more than the
 
 > Der subjective Begriff
 
-#### A.
+A.
 
 > a.) Der Begriff als solch er
 
@@ -2546,7 +2546,7 @@ dialectic is at first only negative, and the transition from it to the positive 
 
 > B Das Object.
 
-#### B.
+B.
 
 > §. 140.
 
@@ -2792,7 +2792,7 @@ In the *Concept*, however, the end has realized itself and sublated its finitude
 
 subjectivity of the end and in the independence of the Object over against it. What happens in the realizing of the end is only that *its own subjectivity* and the mere semblance of objective independence are sublated. In seizing the means the *Concept* posits itself as the essence, being *in itself*, of the Object; in the mechanical and chemical process the independence of the latter has already evaporated *in itself*, and in its course, under the mastery of the end, the semblance of that independence, its negative *against the Concept*, is sublated; but this negative is the particularity and direction outward which the Concept gave itself as self-determination; through this process it has thereby returned into itself, as negative relation to itself, or being-for-itself, which has become for itself just as much as the *objective in-itself*. — This realized end is the *Idea*.
 
-#### C.
+C.
 
 > Die Idee das Wahre an und für sich ist die,
 
@@ -3166,7 +3166,7 @@ The speculative Idea, which is thus *for itself* the Idea, is thereby the infini
 
 > B. Die Philosophie der Natur. §. 192.
 
-#### B.
+B.
 
 > in die
 
@@ -3432,7 +3432,7 @@ exposition, in my System of Logic, vol. 1, part 1, p. 119 ff.
 
 Matter, as *heavy*, is at first only 1) the matter *that is within itself*, or *universal* matter; it is the object of *mechanics*. But this Concept must 2) *specify* itself; thus it is *elemental* matter, and object of *elemental physics*. 3) Particular matter, gathering itself together into *singularity*, is *individualized* matter, and object of the physics of the *proper world of bodies*.
 
-#### A.
+A.
 
 > Die Materie hat zunächst als bloß allgemeine nur,
 
@@ -3606,7 +3606,7 @@ The empty abstraction of a formless matter admits a merely quantitative differen
 
 > B. Elementarische Physik.
 
-#### B.
+B.
 
 > !
 
@@ -3842,7 +3842,7 @@ The *Concept* of matter, gravity, lays out its moments in the elemental nature, 
 
 > C Individuelle Physik.:
 
-#### C.
+C.
 
 > §. 234.
 
@@ -4222,7 +4222,7 @@ The real totality of the individual body, in that it has made its particularity 
 
 the universal image of life; the *geological* organism; b) as particular or formal subjectivity, the *vegetable* one, c) as singular concrete subjectivity, *animal* nature.
 
-#### A.
+A.
 
 > §. 261.
 
@@ -4278,7 +4278,7 @@ This crystal of life, the dead-lying organism of the earth, which has its *Conce
 
 > B. 1 Die vegetabilische Natur.
 
-#### B.
+B.
 
 > §. 266. Die Allgemeinheit des Lebens und seine Einzelnheit
 
@@ -4348,7 +4348,7 @@ In that the plant thus offers up its self in sacrifice, this *externalization* i
 
 3) The process of the genus, as distinguished from the process of configuration and of reproduction of the individual, is in the actuality of vegetable nature a superfluity, because those processes are immediately also a falling apart into many individuals. But in the Concept it is, as the subjectivity that has gone together with itself, the *universality*, in which the plant sublates the *immediate singularity* of its organic life, and thereby grounds the transition into the higher organism.
 
-#### C.
+C.
 
 > Der thierische Organismus. §. 273.
 
@@ -4676,7 +4676,7 @@ But the subjectivity of the living being is just as essentially *in itself* iden
 
 > C. Die Philosophie des Geistes. §. 299.
 
-#### C.
+C.
 
 > Der Geist hat für uns Natur die zu seiner Voraus
 
@@ -4780,7 +4780,7 @@ Spirit can be called subjective insofar as it is in its *Concept*. Since now the
 
 > vität. A.
 
-#### A.
+A.
 
 > Die Seele.
 
@@ -4832,7 +4832,7 @@ Spirit is at first this immediate being-immersed in nature, a) the soul in its *
 
 *opposition* against this its unconsciousness; c) it is actual in the latter as its corporeity.
 
-#### a.
+a.
 
 > §. 311.
 
@@ -4926,7 +4926,7 @@ anger and courage in the breast, the seat of the irritable, and reflective think
 
 > Gegensaß der subjectiven Seele gegen
 
-#### b.
+b.
 
 > ihre Substantialität. §. 319. Die Seele, die zunächst unmittelbar in ihrer sub-
 
@@ -5028,7 +5028,7 @@ The activity of the soul against the body is rather to *posit* its identity *in 
 
 It therefore *forms* itself into the body, which it has by *nature* (§ 318). In this immediate being it brings forth its universality through *repetition* of the actions determined by its end, through *induction*. Thus it *recollects* itself in it, on the one hand, in such a way that this its identity with it is determined by it and is its subjective unity with itself. On the other hand, it has *being* in it, a being that, as its own, as *universal*, is habit, and determinate habit, *skill*. It masters the body as this instrument thoroughly formed by it.
 
-#### c.
+c.
 
 > Die Wirklichkeit der Seele. §. 326.
 
@@ -5076,7 +5076,7 @@ it is determined as *singularity*, which is subject for itself, and *resolves* i
 
 > 1
 
-#### B.
+B.
 
 > B. 1 1
 
@@ -5138,7 +5138,7 @@ The goal of spirit as consciousness is to make this its appearance identical wit
 
 The stages of this raising of certainty to truth are that it is a) *consciousness* in general, which has an object as such, b) *self-consciousness*, for which the I is the object, c) unity of consciousness and self-consciousness, in that spirit intuits the content of the object as itself and itself as determined in and for itself; — *reason, the Concept of spirit*.
 
-#### a.
+a.
 
 > ,. a
 
@@ -5246,7 +5246,7 @@ On the consciousness of life, however, *self-consciousness* is kindled; for as c
 
 > Erscheinung oder zur Negation herabgesekte Moment, dje nun als innerer Unterschied, oder Begriff, die Ne
 
-#### b.
+b.
 
 > gation ihrer selbst gegen das Bewußtseyn ist
 
@@ -5412,7 +5412,7 @@ This unity of consciousness and self-consciousness at first has the individuals 
 
 > an, meinheit und Objectivität des Selbstbewußtseyns,
 
-#### c.
+c.
 
 > die Vernunft
 
@@ -5448,7 +5448,7 @@ certainty that the determinations of self-consciousness are just as much objecti
 
 Reason, as this identity, is the absolute *substance*, which is the *truth*. The peculiar *determinacy* that it has here, after the Object presupposed over against the I, as well as the I that is self-like over against the Object, has sublated its one-sidedness, — is the substantial truth, whose determinacy is the pure Concept that is for itself, the I, — the certainty of itself as infinite universality. This knowing truth is *spirit*.
 
-#### C.
+C.
 
 > ,, seiner selbst als unendliche Allgemeinheit, ist
 
@@ -5764,7 +5764,7 @@ Thinking, because it is the free Concept, is also free as to *content*; the *det
 
 > b Der praktische Gei ſt. §. 388.
 
-#### b
+b
 
 > Der Geist als Intelligenz ist zunächst aber abstract
 
@@ -5950,7 +5950,7 @@ reality, or the totality of the *syllogism*, *ethical life*.
 
 > §. 402.
 
-#### A.
+A.
 
 > Der Geist in der Unmittelbarkeit seiner absoluten Freyheit ist Einzelner, aber der seine Einzelnheit als abso =
 
@@ -6100,7 +6100,7 @@ thereby immediate determination of free personality; the subsumption of the part
 
 > sich bestimmtes wird. B.
 
-#### B.
+B.
 
 > Die Moralität.
 
@@ -6236,7 +6236,7 @@ The purely abstract *good disposition* is, within itself, the sublation of the m
 
 of the good, — of the nullity of the null. This universal has at the same time in its Concept and in this consciousness the meaning of the unsayable or of the absolutely *immediate* good, — hence of the *objective*. Subjectivity, in this its own identity with it, has thereby sublated the standpoint of the *relationship*, and has passed over into *ethical life*.
 
-#### C.
+C.
 
 > Identität mit demselben hat damit den Standpunkt des Verhältnisses aufgehoben, und ist zur Sittlich.
 
@@ -6512,7 +6512,7 @@ The diremption of this universal and pure substance of spirit is therefore the j
 
 > §. 456.
 
-#### a.
+a.
 
 > Die unmittelbare Gestalt dieses Wissens ist die der Anschauung und Vorstellung des absoluten Geistes
 
@@ -6604,7 +6604,7 @@ But in world history absolute spirit sublates this finitude of its knowing actua
 
 universality, just as the form of intuition, of immediate knowing and determinate being, passes over into the self-mediating knowing, into a determinate being that is itself knowing, into the *revealing*.
 
-#### b.
+b.
 
 > Die geoffenbarte Religion.
 
@@ -6682,7 +6682,7 @@ The revelation of the absolute, which presents its life in a cycle of concrete s
 
 > Die Philosophie.
 
-#### c.
+c.
 
 > §. 472. Sie insofern die Einheit der Kunst und der Re-
 
@@ -6750,4 +6750,4 @@ its presupposition and the latter the universal extreme. As such, nature is imme
 
 > CALIFORNIA Druck und Papier von C. E. Brede in Offenbach.
 
-#### Printing and paper by C. E. Brede in Offenbach.
+Printing and paper by C. E. Brede in Offenbach.

@@ -20,7 +20,7 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 [scan 11]
 
-#### New
+New
 
 > Neue THE SIT
 
@@ -28,21 +28,21 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 > Kritik der Vernunft von
 
-#### by
+by
 
 > Jacob Friedrich Fries. 11
 
-#### Jacob Friedrich Fries.
+Jacob Friedrich Fries.
 
 > Erster Band.
 
-#### Volume One.
+Volume One.
 
 > Heidelberg,
 
-#### Heidelberg,
+Heidelberg,
 
-#### Mohr and Zimmer,
+Mohr and Zimmer,
 
 > ben Mohr und Zimmer 180 7.
 
@@ -660,7 +660,7 @@ and thinks its divinity and holiness already profaned if anyone wishes to subjec
 
 ## Critique
 
-#### of
+of
 
 > der erkennenden Vernunft. Fries Kritik Iter Theil. I
 
@@ -5558,7 +5558,7 @@ again one-sided; it hits neither the pronouncements of practical tact nor those 
 
 ## Critique of Reason
 
-#### by
+by
 
 > Jakob Friedrich Fries.
 
@@ -5586,7 +5586,7 @@ again one-sided; it hits neither the pronouncements of practical tact nor those 
 
 > der
 
-#### of
+of
 
 > erkennenden Vernunft.
 
@@ -5802,7 +5802,7 @@ Anthropologically we can see thus why we must begin precisely with this. The imm
 
 ## of Rational Cognition
 
-#### or
+or
 
 > odcr Theorie der Einheit und Verbindung.
 

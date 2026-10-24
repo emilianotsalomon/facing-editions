@@ -22,7 +22,7 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 > Georg Wilhelm Friedrich Hegel's
 
-#### The Life of
+The Life of
 
 > Leben beschrieben
 
@@ -30,25 +30,25 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 > durch
 
-#### described
+described
 
-#### by
+by
 
-#### Karl Rosenkranz.
+Karl Rosenkranz.
 
 > Karl Rosenkranz. * Supplement zu Hegel's Werken. LIBRARY OF THE UNIVERSITY Mit Hegel's Bildniß, gestochen von K. Barth.
 
-#### Supplement to Hegel’s Works.
+Supplement to Hegel’s Works.
 
 > Berlin
 
-#### With Hegel’s portrait, engraved by K. Barth.
+With Hegel’s portrait, engraved by K. Barth.
 
 > Verlag von Duncker und Humblot.
 
-#### Berlin,
+Berlin,
 
-#### Published by Duncker and Humblot.
+Published by Duncker and Humblot.
 
 > 1844.
 
@@ -1662,7 +1662,7 @@ Schelling’s answer, on the eve of Epiphany 1795.
 
 > Antwort Schelling's 1795 am heiligen drei Königsabend.
 
-#### Hegel to Schelling; undated, 1795.
+Hegel to Schelling; undated, 1795.
 
 > Hegel an Schelling; ohne Datum 1795. Mein Lieber!
 
@@ -1722,7 +1722,7 @@ Schelling’s answer. Tübingen, the 4th of February 1795.
 
 > Mein Lieber!
 
-#### Hegel to Schelling. Bern, the 16th of April 1795.
+Hegel to Schelling. Bern, the 16th of April 1795.
 
 > Das Verspäten meiner Antwort hat theils in mancherlei Ge-
 
@@ -1762,7 +1762,7 @@ Schelling’s answer of 21 July 1795, from Tübingen.
 
 > Hegel an Schelling. Tschugg bei Erlach über Bern den 30. August 1795
 
-#### Hegel to Schelling. Tschugg near Erlach, via Bern, the 30th of August 1795.
+Hegel to Schelling. Tschugg near Erlach, via Bern, the 30th of August 1795.
 
 > ,. Die Geschenke, mein Bester, die Du mir geschickt hast, so wie Dein Brief, haben mir die lebhafteste Freude verursacht und den
 
@@ -6410,7 +6410,7 @@ man and father.
 
 > Euer getreuer Mann und Vater.
 
-#### H.
+H.
 
 > H. Fügen wir noch hinzu, daß Hegel durch van Ghert's Vermittelung Ehrenmitglied der Königlichen Gesellschaft Concordia zu Brüssel unter Präsident Schuermanns ernannt; daß 1830 von Seiten der Studirenden eine Medaille auf ihn geschlagen und er 1831, in seinem Todesjahr von dem Könige mit einem, Orden decorirt zu welcher lekteren Auszeichnung der darüber höchst erfreute wurde, Minister v. Altenstein Hegel in einem sehr liebevollen Schreiben beglückwünschte so haben wir Alles beisammen was Hegel in Berzu,: lin von wohlverdienten Ehren hauptsächlich Theil ward; denn von kleineren Beweisen der Freundschaft und Verehrung wurde er zuleht fast beständig wie von einem seidenen Nez umwoben. Die Stiftung der Berliner Jahrbücher für Kritik. Es ist oben erwähnt worden, daß es Berlin in unserem Jahr-
 
@@ -7030,7 +7030,7 @@ And when specters stir again, / Which long ago you banished into the night, / Wh
 
 [scan 476]
 
-#### I.
+I.
 
 > I. Hegel's Tagebuch aus der Gymnasialzeit.
 
@@ -7038,7 +7038,7 @@ And when specters stir again, / Which long ago you banished into the night, / Wh
 
 > 1785 Sonntags den 26. Juni.
 
-#### 1785. Sunday, the 26th of June.
+1785. Sunday, the 26th of June.
 
 > In der Morgenkirch predigte Herr Stiftsprediger Regier. Er verlas die Augsburgische Confession und zwar zuerst den Eingang in dieselbe dann wurde gepredigt;. Wenn ich auch sonst nichts behalten hätte, so wäre doch meine historische Kenntniß vermehrt worden. Ich lernte nämlich, daß den 25. Juni 1530 die Augsburgische Confession überreicht 1535 den Februar Würtemberg reformirt und 1599 durch die 2. wurde, daß den Prager Vertrag evangelische Religion bestätigt wurde. Den Namen Protestanten erhielten sie von der Protestation gegen den harten Reichsschluß zu Speier 1529. Noch fällt mir ein, daß Luther 1546 den 18. Februar starb und daß der Churfürst von Sachsen, Johann der Weise, 1547 den 24. April total geschlagen und gefangen wurde. Montags den 27. Juni. Noch keine Weltgeschichte hat mir bes- Er
 
@@ -7422,7 +7422,7 @@ and bears the greatest part of his many burdensome labors. — In the evening we
 
 Sunday, the 7th of January. Forenoon trigonometry. After dinner the beautiful sky enticed me to go for a walk. I followed the attraction and took myself a healthy exercise of several hours. On the way I met countless pedestrians, riders, and travelers in carriages. In the evening I visited *Leypold* in the Academy. All the remaining time, in the afternoon and after supper, I devoted to trigonometry.
 
-#### II.
+II.
 
 > dem Reiz und machte mir eine gesunde stundenlange Bewegung. Auf dem Weg begegneten mir unzählige Fußgänger, Reiter und Fahrende.
 
@@ -7438,7 +7438,7 @@ Sunday, the 7th of January. Forenoon trigonometry. After dinner the beautiful sk
 
 > der Griechen und Römer. 4. Ueber einige charakteristischeUnterschiede der alten Dichter.
 
-#### March 1786.
+March 1786.
 
 > Ueber das Ercipiren. März 1786. „ Da das sogenannte Ercipiren, die Niederschreibung eines Themas in einer andern Sprache, als in der das Thema abgefaßt ist, von Vielen, theils Lehrern, theils Andern, auf der einen Seite heftig vertheidigt und beibehalten, auf der andern Seite aber von eben so Vielen verworfen und verbannt wird, so will ich die Gründe, die man zur Vertheidigung desselben vorzubringen pflegt, so weit meine Einsicht reicht, un-
 
@@ -7484,7 +7484,7 @@ What I have said here in general about excipiring holds of all kinds of excipiri
 
 > Unterredung zwischen Dreien. 1785. 30. Mai.
 
-#### 1785. 30 May.
+1785. 30 May.
 
 > Antonius.Habt ihr über den Plan den, ich euch vorgelegt habe, nachgedacht? Seid ihr nunmehr schlüssig? Octavius. Ich habe ihn in Erwägung gezogen und wohl über-
 
@@ -7630,7 +7630,7 @@ Imbecility went off first, and then arrogance after it. What Antonius said of Le
 
 > gegangen
 
-#### 1787. 10 August.
+1787. 10 August.
 
 > er. - Der Gedanke, so sind an eine Gottheit sie darin ist dem Menschen so natürlich daß sich auch bei allen Völkern entwickelt hat. In ihrer Kindheit, in, dem Urstand der Natur, dachten sie sich Sott als ein allmächtiges Wesen, das sie und Alles blos nach Willkür regiere Sie bildeten sich ihre Vorstellung von ihm nach den Herrschern, die sie. kannten, den Vätern und Fürsten der Familien, die über Leben und Tod ihrer Untergebenen ganz nach Gefallen schalten, denen sie in allen, auch in ungerechten und unmenschlichen Befehlen, blindlings folgten, die als
 
@@ -7698,7 +7698,7 @@ From their history we learn how usual it is, through habit and long prescription
 
 > immer gerechter und menschenliebender gegen Andere werden. Ueber einige charakteristische Unterschiede der alten Dichter.
 
-#### 1788. 7 August.
+1788. 7 August.
 
 > 1788. 7. August. Die Einleitung, welche damals allgemein gewordene culturgeschichtliche Ansichten darstellt, kann übergangen werden, der Rest aber ist als erste umfassendere Aeußerung Hegel's über einen ästhetischen Gegenstand nicht nur für die Geschichte seiner Bildung, sondern auch an und für sich merkwürdig. Nachdem Hegel von der Vereinigung des allge-
 
@@ -7942,7 +7942,7 @@ XVIII. Those who have maintained it to be compatible in our age were not arbiter
 
 > „ Montags, den 25. Juli 1796, ging ich mit drei sächsischen Hofmeistern, Thomas Stolde und Hohenbaum um
 
-#### IV.
+IV.
 
 > , Uhr des Mor, 4gens von Bern Wir langten
 
@@ -8152,7 +8152,7 @@ The trip up to here between the green, most varied shores of the lake, which mir
 
 still drenched us, while we flew along the shores, now pleasantly sown with country houses, before we finally arrived at *Lucerne*.” —
 
-#### V.
+V.
 
 > V.
 
@@ -8438,7 +8438,7 @@ Hegel concludes the whole with resignation as to the possibility of a sublation 
 
 > Fragmente historischer Studien. 515 VI. Fragmente historischer Studien.
 
-#### VI.
+VI.
 
 > „ Geist der Orientalen: Wirklichkeit und Ausschmückung
 
@@ -9280,7 +9280,7 @@ led astray by the grossest deceptions and the most pernicious principles.” Sha
 
 > IX.
 
-#### IX.
+IX.
 
 > Förster's Geburtstagsgedicht 1826.
 
@@ -9350,7 +9350,7 @@ Thus you created a realm of actuality and of truth, / Then descended yourself in
 
 Hebe approached you in divine beauty and youth, / Offered on a blooming meadow a nectar-filled goblet. / And the friends gather here for the festive games; / Once they extolled Nemea, today we extol our Berlin.
 
-#### X.
+X.
 
 > der der läßt
 
@@ -9470,4 +9470,4 @@ Freedom, joy, peace he has given us, and these three guardian spirits will be th
 
 > 148
 
-#### Printed by J. Petsch in Berlin.
+Printed by J. Petsch in Berlin.

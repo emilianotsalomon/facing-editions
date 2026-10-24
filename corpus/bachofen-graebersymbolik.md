@@ -24,19 +24,19 @@ Ancient Mortuary Symbolism
 
 [PDF 2]
 
-## An Essay on
+An Essay on
 
 Ancient Mortuary Symbolism
 
 by
 
-## J. J. Bachofen
+J. J. Bachofen
 
-## Second, unaltered edition
+Second, unaltered edition
 
-## With a foreword by C. A. Bernoulli
+With a foreword by C. A. Bernoulli
 
-## and an appreciation by Ludwig Klages
+and an appreciation by Ludwig Klages
 
 Basel, 1925
 
@@ -58,7 +58,7 @@ Plates I–IV
 
 [PDF 5]
 
-## Preface to the Second Edition.
+Preface to the Second Edition.
 
 It is sixty-five years since a most highly esteemed citizen, intellectually as well as socially probably the most unconditionally independent in the Basel of that day, brought out with the bookseller Detloff on the Freienstrasse his Essay on Ancient Mortuary Symbolism. Already for fourteen years retired from his post as full professor in the faculty of law, but as a member of the court of appeal still in full touch with the public life of the city, with the “commonweal,” as people liked to say then, Johann Jakob Bachofen in his forty-fourth year had set foot on an entirely new path of research, on which only today he is stepping out of the darkness of general incomprehension, to be recognized and appreciated by the friends of antiquity as a profound interpreter of the ancient soul.
 

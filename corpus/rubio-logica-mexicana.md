@@ -5348,7 +5348,7 @@ position of the text; and Toledo, doubt 3, says that it is probable.
 
 > 12 Secunda opinio affirmat,Eafdem definitiones, intelligiž Porphyrio de reali inhærentia accidentis:Ethæc eft probabi-lior.Probatur efficaciter ex Porphyrio, qui vt explicaretpri-mamdefinitionem, non effe contrariam diuifioni , traditdi-uerfos modos ſeparationis,accidentis à ſubiecto,nempe reale, &per intellectum:quodnoneffetneceſſarium, ſidefinitioin-telligeretur deprædicatione, &nonde reali inhæfione : nam prædicatio,feparationemdicitperintellectum, ſi ſit negatiua . Probatur fecundo:Quia eodem modo fumitur accidens in definitionibus,ficutin diuifione, feddiuifio non poteſt intel-ligi de prædicatione,fedderealiſeparatione: nam in primo fenfu,nullum accidens effet infeparabile,ergodefinitiones de reali inhærentia intelliguntur. Adprimum teftimonium reſpondetur: Nonper ſolam ne. gationem aliorum prædicabilium,definiſſe Porphyrium acci-dens, ſedper realem inhærentiam, quaminvltimo verbo de-finitionis pofuir. Secundum teftimonium, potiùs probatno-ftram fententiam .                                          2 Adprimum arg.refpondetur:Quodrealis inhærentia, fun-damentumeft fecundæ intentionis :quam neceſſefuit expli-careper definitiones,vtnaturahuius prædicabilis, meliusin--telligeretur. Adfecundumdicimus,Entia rationis, non habererealem inhærentiam in fubiecto, fed intelligià nobis per fimilitudi-nem,adaccidentia realia, quæ illam habent : & ideo de illis etiamloquimur,ac fi realiter inhærent : quareper fimilitudi-nem,applicantur eis definitiones accidentis. ## QUÆSTIO              IV . 1 An prima definitio accidentisfit bana. I        Atiodubitandieft, quia multafunt accidentia ,quæ RALfubiectum corrumpunt,vt morbus,lethalis,combuftio & mors:ergo eisnon conuenit definitio : quianon poffunt adeffe, & abeffe,præter fubiecti corruptionem . Difficultas huius quæftionis, in co confiftit : An ea quæ enumerantur in argumento,fint accidentia,vel non.Et prima opinio, negat effe accidentía, fed potiùs, dicit eſſe deftru-tiones fubſtantiæ , vel prædicatata ſubſtantialia priuatiua. Probat :quia corruptio vel mors, eſt diſſolutio principiorum vitæ: fedprincipia vitæ funt ſubſtantialia : ergo corruptio, &mors,cruntpotius quid ſubſtantiale,quam accidentale.
 
-## 12 The second opinion affirms that the same definitions are understood by
+12 The second opinion affirms that the same definitions are understood by
 
 Porphyry of the real inherence of the accident; and this is more probable. It is
 
@@ -13796,7 +13796,7 @@ belong to the other categories is shown by their rationes, which are most di‐
 
 verse from duration.
 
-## 6 But the argument of the other opinion, by which it is proved that time
+6 But the argument of the other opinion, by which it is proved that time
 
 is to be excluded from this category because it belongs to the category of
 
@@ -20884,7 +20884,7 @@ The end of this work.
 
 THE BOOKS OF ARISTOTLE’S TOPICS,
 
-## BY WHICH STUDENTS OF THE LIBERAL
+BY WHICH STUDENTS OF THE LIBERAL
 
 Arts of this most flourishing Academy of Alcalá
 

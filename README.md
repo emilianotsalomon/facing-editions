@@ -12,6 +12,12 @@ The research group's bilingual editions of philosophical texts (German, Spanish,
 
 All translations are machine-made (Claude) and reviewed against the original by Claude, not by a human translator, unless a file's header says otherwise. Where the header says the original is "OCR, uncorrected", the scan in the PDF edition is the authority.
 
+## Annotating in the reader
+
+Select any passage in the reader and a small bar appears: three faded highlight colours, underline, strikeout, and a comment. Comments stand in the right-hand margin next to the passage they belong to; the two switches at the top hide comments, or all annotations, for your own view. Everything is shared: annotations are saved in this repository (`annotations/<text>.json`) and everyone sees them on the next load.
+
+To write annotations (reading needs nothing), click **sign in to annotate** once and paste a GitHub token: github.com → Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token; Repository access: only this repository; Permissions: Contents → Read and write. The token stays in your own browser. Your own comments carry a × to delete them; clicking a highlight, underline or strikeout offers to remove it.
+
 ## Working with the corpus
 
 Claude Project: create a project, paste `corpus/PROJECT-INSTRUCTIONS.md` into its instructions, upload the `corpus/*.md` files and `corpus/glossaries/*.md` as project knowledge, share the project with the group.

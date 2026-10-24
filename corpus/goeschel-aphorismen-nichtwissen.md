@@ -24,31 +24,31 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 ## Aphorisms
 
-#### on
+on
 
 ### Non-Knowing and Absolute Knowing
 
 > jur
 
-#### in Relation
+in Relation
 
-#### to
+to
 
 > christlichen Glaubenserkenntniß.
 
 ### the Christian Cognition of Faith.
 
-#### By
+By
 
 > Pon
 
 ### Carl Friedrich Göschel.
 
-#### Higher Regional Court Councillor
+Higher Regional Court Councillor
 
 > Carl Friedrich Goschel. Oberlandgerichts rath in Naumburg,
 
-#### in Naumburg.
+in Naumburg.
 
 [scan 5]
 
@@ -58,7 +58,7 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 > Nichtwissen und absolutes Wissen
 
-#### on
+on
 
 > im Verhältnisse zu v
 
@@ -66,11 +66,11 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 > christlichen Glaubenserkenntniß.
 
-#### in Relation
+in Relation
 
 > Ein Beytrag
 
-#### to
+to
 
 > zum
 
@@ -78,11 +78,11 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 > Verständnisse der Philosophie unserer Zeit.
 
-#### A Contribution
+A Contribution
 
 > 1
 
-#### to the
+to the
 
 > Von
 
@@ -90,7 +90,7 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 > Carl Friedrich G..... l.
 
-#### By
+By
 
 > Darum rühme sich Niemand eines Menschen. Es ist Alles euer. Es sey Paulus oder Apollo, es sey Kephas oder die Welt, ek sey das
 
@@ -106,11 +106,11 @@ Therefore let no one boast of men. All things are yours. Whether it be Paul or A
 
 > O
 
-#### Berlin,
+Berlin,
 
 > V3 ND
 
-#### published by E. Franklin.
+published by E. Franklin.
 
 > CA.
 
@@ -118,7 +118,7 @@ Therefore let no one boast of men. All things are yours. Whether it be Paul or A
 
 [scan 6]
 
-#### ∗
+∗
 
 > * Wo sind die Klugen? Wo sind die Schriftgelehrten? Wo sind die Weltweisen? Hat nicht Gott die Weisheit dieser Welt zur Thorheit gemacht? Denn dieweil die Welt durch ihre Weisheit Gott in seiner Weisheit nicht erkannte, gefiel es Gott wohl, durch thörichte Predigt selig zu machen die, so daran glauben. Sintemal die Juden ein Zeichen fordern, und die Griechen nach Weisheit fragen, wir aber predigen den gekreuzigten Christum. 1 Cor. 1, 20-23.
 
@@ -128,7 +128,7 @@ Where are the wise? Where are the scribes? Where are the sages of the world? Has
 
 1 Cor. 1:20–23.
 
-#### ∗
+∗
 
 [scan 7]
 
@@ -240,7 +240,7 @@ III. Faith and Knowing — 116–189
 
 Afterword — 190–195
 
-#### ∗
+∗
 
 > ,,Niemand betrüge Ach selbst. Melcher Ach unter euch dünket weife » zu seyn, der werde ein Karr in dieser Welt, das er möge weise seyn.,, Denn dieser Welt Weisheit it Thorheit bey Gott. "
 
@@ -250,11 +250,11 @@ Afterword — 190–195
 
 1 Cor. 3:18–19.
 
-#### ∗
+∗
 
 [scan 14]
 
-#### ∗
+∗
 
 > „ Schet zu, das euch Niemand beraube durch die Philosophie und leere, lofe Abkehr, nach der Menschen Ueberlieferung, und nach der „Belt Satzungen, und nicht nach Christo, denn in Ihm wohnet die ganze " „ Fülle der Gottheit leibhaftig. Col. 2, 8. 9. *
 
@@ -262,7 +262,7 @@ Afterword — 190–195
 
 Col. 2:8–9.
 
-#### ∗
+∗
 
 [scan 15]
 
@@ -1650,7 +1650,7 @@ But as this singular it also dies again.
 
 > schon todte Hülle, sondern auch die Abstraction des
 
-#### p. 737.
+p. 737.
 
 > ‫دو‬göttlichen Wesens." 6. 737,
 
@@ -2750,7 +2750,7 @@ Blessed are those who do not see, and yet believe. John 20:29. But blessed also 
 
 > :
 
-#### or
+or
 
 > III.
 
@@ -4242,6 +4242,6 @@ p. l.
 
 > „ αταραξια” Halle, gedruckt in der Gebauerschen Buchdruckererey.
 
-#### Halle, printed at the Gebauer press.
+Halle, printed at the Gebauer press.
 
 #### [These corrections have been applied in the translation.]

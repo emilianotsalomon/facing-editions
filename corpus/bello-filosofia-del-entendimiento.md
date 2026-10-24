@@ -22,7 +22,7 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 OF
 
-## DON ANDRÉS BELLO
+DON ANDRÉS BELLO
 
 [PDF 2]
 
@@ -50,21 +50,21 @@ Abdón Cifuentes.
 
 OF
 
-## DON ANDRÉS BELLO
+DON ANDRÉS BELLO
 
-## EDITION PREPARED UNDER THE DIRECTION OF THE COUNCIL OF PUBLIC INSTRUCTION
+EDITION PREPARED UNDER THE DIRECTION OF THE COUNCIL OF PUBLIC INSTRUCTION
 
-## IN FULFILMENT
+IN FULFILMENT
 
-## OF THE LAW OF SEPTEMBER 5, 1872
+OF THE LAW OF SEPTEMBER 5, 1872
 
-## V olume I
+V olume I
 
-## PHILOSOPHY OF THE UNDERSTANDING
+PHILOSOPHY OF THE UNDERSTANDING
 
-## SANTIAGO DE CHILE
+SANTIAGO DE CHILE
 
-## PRINTED BY PEDRO G. RAMÍREZ
+PRINTED BY PEDRO G. RAMÍREZ
 
 1881
 
@@ -204,7 +204,7 @@ Finally, it seems to us that the Philosophy of the Understanding ought to figure
 
 Would that the reading of this work might elevate so many young intelligences of our country subject to the cui bono, and stimulate them to the cultivation of the noblest of the human sciences.
 
-## THE EDITOR
+THE EDITOR.
 
 October 1881.
 

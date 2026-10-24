@@ -20,27 +20,27 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 [scan 2]
 
-#### Reasonable
+Reasonable
 
 ## Thoughts
 
-#### on
+on
 
 ## GOD,
 
-#### the
+the
 
 ## World,
 
-#### and the
+and the
 
 ## Soul of Man,
 
-#### and on All Things in General,
+and on All Things in General,
 
-#### Communicated to the Lovers of Truth
+Communicated to the Lovers of Truth
 
-#### by
+by
 
 ## Christian Wolff,
 
@@ -48,17 +48,17 @@ Royal Prussian Court Councillor and Professor Publicus Ordinarius of Mathematics
 
 Member of the Royal Society of Great Britain and of the Royal Prussian Society of Sciences.
 
-#### With Royal Polish and Electoral Saxon Most Gracious Privilege.
+With Royal Polish and Electoral Saxon Most Gracious Privilege.
 
-#### HALLE, 1720.
+HALLE, 1720.
 
-#### To be had at the Renger Bookshop.
+To be had at the Renger Bookshop.
 
 [scan 4]
 
 ## Preface.
 
-#### Gentle Reader,
+Gentle Reader,
 
 Understanding, virtue and health are the three principal things after which men ought to strive in this world. Yet in general nothing is less regarded than these three. And whoever considers the present unhappy times sees how they arise from a lack of understanding and of virtue. People who are children in understanding but men in malice plunge
 
@@ -102,7 +102,7 @@ I have also retained it, and set it in such a light as this ingenious discovery 
 
 have set forth here contributes to the promotion of virtue will soon appear, when I shall explain thoroughly their nature and constitution through the nature of the soul. Meanwhile I wish every one who shall read the present book patience and attention, so that he may thoroughly see into everything that is set forth here and apply it to the manifold use which can grow from the cognition of truths so important and so deeply hidden!
 
-#### Halle, the 23rd of December 1719.
+Halle, the 23rd of December 1719.
 
 [scan 15]
 
@@ -152,7 +152,7 @@ Royal Prussian Court Councillor and *Prof. Publ. Ordinarius*, Member of the Roya
 
 #### writings.
 
-#### Halle in Magdeburg, in the year 1720.
+Halle in Magdeburg, in the year 1720.
 
 #### To be had at the Renger Bookshop.
 
@@ -294,13 +294,13 @@ On this, now, I shall hold fast with God, and shall not let myself be disturbed,
 
 or not, and it will not be necessary for me to answer where the answer occurs of itself to everyone: but least of all will it be necessary to repeat the answer once given to repeated accusations. But should anyone conceive from this some suspicion against me, he is free to do so. I have always asked little after people who are only an echo of others, and shall not let grey hairs grow on me in future over this, that people who are not capable of looking into the matters themselves imagine something disagreeable of me. I can very well bear it if one despises what one does not understand, and I ask no one to be saddled with my opinions, any more than I let any be saddled upon me. Meanwhile I always reserve to myself the right to touch upon the objections and briefly to show what is to be thought of them, when occasion in my writings leads me to it. These remarks I have thought necessary, since I am beginning to publish the grounds of philosophy, because I know very well that philosophy is commonly regarded as the true *Pomum Eridos*.
 
-#### Halle, the 20th of December 1719.
+Halle, the 20th of December 1719.
 
 [scan 32]
 
 #### Reasonable Thoughts
 
-#### on
+on
 
 ## God and the Soul
 

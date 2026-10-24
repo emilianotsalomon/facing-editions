@@ -20,11 +20,11 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 [PDF 1]
 
-## (Didactic Adaptation)
+(Didactic Adaptation)
 
 by
 
-## CARLOS VAZ FERREIRA
+CARLOS VAZ FERREIRA
 
 Professor of Philosophy
 
@@ -38,13 +38,13 @@ Montevideo
 
 [PDF 3]
 
-## (DIDACTIC ADAPTATION)
+(DIDACTIC ADAPTATION)
 
 BY
 
 Carlos Vaz Ferreira Professor of Philosophy at the University of Montevideo
 
-## MONTEVIDEO
+MONTEVIDEO
 
 P ress of the N ational S chool of A rts and T rades
 
@@ -3040,13 +3040,13 @@ It can be asserted almost with certainty that the last statement is exaggerated:
 
 [p. 208]
 
-> esas exageraciones ; cómo se producen en casos más importan-tes , etc. No , seguramente, para toda una clase por lo menos, para una clase de Enseñanza Secundaria), pero si para ciertos alumnos , y . no sólo para hacer lógica viva, sino para ayudar a otros fines de la enseñanza filosófica , el profesor debe llevar á la clase libros , revistas , memorias , etc., y analizarlos ó hacerlos analizar, no se-parando, aislando, los trozos que contengan falacias, sino hacién-dolas descubrir y sentir como están. No me cansaria de repetir que este es el mejor modo , y que si yo , aqui, presento los pasajes falaciosos aislados , es sólo por falta de espacio. Pero quiero mos-trar un solo caso . Lleve el profesor, por ejemplo , à la clase, los dos últimos años de la Revue Philosophique ( 1909-10 ), y podrá hacer observaciones como estas : ## AÑO 1909 ## VOL .   I ‫ر‬ Pág. 177 : Mostrar sombreos de falsa oposición, vagos , varias veces. Pág . 162 : Mal razonamiento ( al principio del párrafo que em-pieza en esa página : << Mais une telle entreprise ... » Pág . 192 : Simplismo verbalista y falsa precisión, en la con-clusión de un articulo ( lineas 4.4, 5.а у 6.4 . (El que lea esas tres lineas comprenderá todo el partido que puede sacar un buen profesor de pasajes como ese, para hacer sentir el buen espiritu filosófico , por oposición á los medios de filosofar simplistas y verbalistas ) . Pág . 203 : Se discuten alli varios problemas « normativos » . Leer toda esa página, é inquirir qué reflexiones sugiere la critica que el rapporteur hace al autor      lineas 37 á 39 . Pág. 263: Mal « modo de pensar » , representado por la palabra « esencialmente » , linea 19 . Pág. 437 : Falsa oposición ( por ejemplo : en el párrafo que em-pieza: « La morale sociologique ...., pero sombrea otras partes. Es bastante dificil de descubrir y de analizar ) . Pag. 438 : Falsa sistematización, ó exageración sistemática ; las tres primeras lineas del rapport que empieza en esa página.
+> esas exageraciones ; cómo se producen en casos más importan-tes , etc. No , seguramente, para toda una clase por lo menos, para una clase de Enseñanza Secundaria), pero si para ciertos alumnos , y . no sólo para hacer lógica viva, sino para ayudar a otros fines de la enseñanza filosófica , el profesor debe llevar á la clase libros , revistas , memorias , etc., y analizarlos ó hacerlos analizar, no se-parando, aislando, los trozos que contengan falacias, sino hacién-dolas descubrir y sentir como están. No me cansaria de repetir que este es el mejor modo , y que si yo , aqui, presento los pasajes falaciosos aislados , es sólo por falta de espacio. Pero quiero mos-trar un solo caso . Lleve el profesor, por ejemplo , à la clase, los dos últimos años de la Revue Philosophique ( 1909-10 ), y podrá hacer observaciones como estas : AÑO 1909 ## VOL .   I ‫ر‬ Pág. 177 : Mostrar sombreos de falsa oposición, vagos , varias veces. Pág . 162 : Mal razonamiento ( al principio del párrafo que em-pieza en esa página : << Mais une telle entreprise ... » Pág . 192 : Simplismo verbalista y falsa precisión, en la con-clusión de un articulo ( lineas 4.4, 5.а у 6.4 . (El que lea esas tres lineas comprenderá todo el partido que puede sacar un buen profesor de pasajes como ese, para hacer sentir el buen espiritu filosófico , por oposición á los medios de filosofar simplistas y verbalistas ) . Pág . 203 : Se discuten alli varios problemas « normativos » . Leer toda esa página, é inquirir qué reflexiones sugiere la critica que el rapporteur hace al autor      lineas 37 á 39 . Pág. 263: Mal « modo de pensar » , representado por la palabra « esencialmente » , linea 19 . Pág. 437 : Falsa oposición ( por ejemplo : en el párrafo que em-pieza: « La morale sociologique ...., pero sombrea otras partes. Es bastante dificil de descubrir y de analizar ) . Pag. 438 : Falsa sistematización, ó exageración sistemática ; las tres primeras lineas del rapport que empieza en esa página.
 
 such exaggerations come about; how they occur in more important cases, etc.
 
 Not, certainly, for a whole class (at least, for a class in Secondary Education), but yes for certain pupils, and not only in order to do living logic, but to help other ends of philosophical teaching, the teacher should bring books, reviews, memoirs, etc., to the class, and analyze them or have them analyzed, not separating, isolating, the passages that contain fallacies, but having the fallacies discovered and felt as they stand. I should never tire of repeating that this is the best method, and that if I, here, present the fallacious passages isolated, it is only for lack of space. But I wish to show a single case. Let the teacher bring to class, for example, the last two years of the Revue Philosophique (1909- 10), and he will be able to make observations such as these:
 
-## YEAR 1909
+YEAR 1909
 
 ## VOL. I
 
@@ -3068,7 +3068,7 @@ Page 438: False systematization, or systematic exaggeration; the first three lin
 
 [p. 209]
 
-> Pág . 522 à 523 : el párrafo que empieza en la primera de esas páginas y concluye en la segunda : el sofisma de los metafisicos , de que se habla en la pág .       de esta obra . Pág . 479 : Malos raciocinios , y, sobre todo, mal modo de filoso-far : lineas 4 á 10 inclusive . El profesor, cuando desee presentar ejemplos de simplismo , falsa precisión , etc., tiene una mina inagotable en los trabajos de la primera época de la psicologia de laboratorio ; notablemente, de los experimentadores alemanes y norteamericanos . Pero también encontrará algunos de épocas ulteriores y de otros psicólogos. En este volumen de la Revue hay, á propósito de eso, un interesante rapport, que puede servir para mostrar el trabajo que, en casos como esos , tiene que realizar después la crítica : Ver págs . 330 у 331 ; también, 333 á 334. ## VOL .   11 De la pág . 121 á la pág . 132, una critica de Fechner que mues-tra muy bien, en la psicologia de este autor, las falacias de falsa precisión. Pág. 580 : Las primeras ocho lineas del segundo párrafo de la pág. 581 ( léase antes toda esta) ¿son un argumento ? ¿ bueno 0 malo ? ¿ contra lo que se combate ahi ? ¿ contra qué ? ... etc. ## AÑO 1910 ## VOL.    I Pág . 85 : Leer el párrafo que empieza « Mais cela n'est que secon-daire ... Con este , y otros mil análogos que se encuentran tan fácilmente , mostrar y hacer sentir, el carácter palabresco y poco útil, lo words - word - sand - words de todo eso ; la degeneración ver-balista como enfermedad de la Filosofia . Pág. 213 : Último párrafo. Falsa oposición posible . Pág . 365 : Analizar varias cuestiones que se discuten en esa pá-gina, al efecto de determinar si son de hechos ó de palabras, y en qué grado . Pág . 580 : Párrafo tercero . Falsa oposición . Págs . 585 , 586, 587 : Falsa oposición ( Buscarlas : aparece muchas veces) . Pág . 585. Ver la falsa oposición con que se plantea cierta cues
+> Pág . 522 à 523 : el párrafo que empieza en la primera de esas páginas y concluye en la segunda : el sofisma de los metafisicos , de que se habla en la pág .       de esta obra . Pág . 479 : Malos raciocinios , y, sobre todo, mal modo de filoso-far : lineas 4 á 10 inclusive . El profesor, cuando desee presentar ejemplos de simplismo , falsa precisión , etc., tiene una mina inagotable en los trabajos de la primera época de la psicologia de laboratorio ; notablemente, de los experimentadores alemanes y norteamericanos . Pero también encontrará algunos de épocas ulteriores y de otros psicólogos. En este volumen de la Revue hay, á propósito de eso, un interesante rapport, que puede servir para mostrar el trabajo que, en casos como esos , tiene que realizar después la crítica : Ver págs . 330 у 331 ; también, 333 á 334. ## VOL .   11 De la pág . 121 á la pág . 132, una critica de Fechner que mues-tra muy bien, en la psicologia de este autor, las falacias de falsa precisión. Pág. 580 : Las primeras ocho lineas del segundo párrafo de la pág. 581 ( léase antes toda esta) ¿son un argumento ? ¿ bueno 0 malo ? ¿ contra lo que se combate ahi ? ¿ contra qué ? ... etc. AÑO 1910 ## VOL.    I Pág . 85 : Leer el párrafo que empieza « Mais cela n'est que secon-daire ... Con este , y otros mil análogos que se encuentran tan fácilmente , mostrar y hacer sentir, el carácter palabresco y poco útil, lo words - word - sand - words de todo eso ; la degeneración ver-balista como enfermedad de la Filosofia . Pág. 213 : Último párrafo. Falsa oposición posible . Pág . 365 : Analizar varias cuestiones que se discuten en esa pá-gina, al efecto de determinar si son de hechos ó de palabras, y en qué grado . Pág . 580 : Párrafo tercero . Falsa oposición . Págs . 585 , 586, 587 : Falsa oposición ( Buscarlas : aparece muchas veces) . Pág . 585. Ver la falsa oposición con que se plantea cierta cues
 
 Pages 522 to 523: the paragraph that begins on the first of those pages and ends on the second: the sophism of the metaphysicians, discussed on page of this work.
 
@@ -3082,7 +3082,7 @@ From page 121 to page 132, a criticism of Fechner which shows very well, in that
 
 Page 580: The first eight lines of the second paragraph of page 581 (read the whole of that page first): are they an argument? good or bad? against what is being combated there? against what?... etc.
 
-## YEAR 1910
+YEAR 1910
 
 ## VOL. I
 

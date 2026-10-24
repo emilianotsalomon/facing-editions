@@ -26,7 +26,7 @@ by
 
 Dr. Melchior Palágyi.
 
-## BERLIN
+BERLIN
 
 C. A. Schwetschke & Son
 
@@ -60,7 +60,7 @@ Appendix. 15. Analytic and Synthetic Judgments                 130—148 16. Fac
 
 IV                           Contents.
 
-## Page
+Page
 
 Part II.
 

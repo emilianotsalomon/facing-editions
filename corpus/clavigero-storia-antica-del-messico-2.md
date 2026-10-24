@@ -24,7 +24,7 @@ OF MEXICO D R AW N F R O M T H E B E S T S P A N I S H H I S T O R I A N S , A N
 
 DIVIDED INTO TEN BOOKS,
 
-## AND FURNISHED WITH MAPS
+AND FURNISHED WITH MAPS
 
 A N D VA R I O U S F I G U R E S :
 
@@ -32,15 +32,15 @@ AND
 
 D I S S E RTAT I O N S O N T H E L A N D, T H E A N I M A L S , A N D T H E I N H A B I TA N T S O F M E X I C O.
 
-## A WORK
+A WORK
 
-## BY THE ABBÉ
+BY THE ABBÉ
 
 D O N F R A N C E S C O S AV E R I O
 
 C L AV I G E R O
 
-## VOLUME II
+VOLUME II.
 
 CESENA, MDCCLXXX. P R I N T E D B Y G R E G O R I O B I A S I N I AT T H E S I G N O F PA L L A S .
 
@@ -8054,7 +8054,7 @@ To represent a person they painted a man, or else a human head, and above it a f
 
 Numeral characters and symbolic figures.
 
-## that is, the year 1780
+that is, the year 1780
 
 A the day. B the night. C midnight. D the year. E the century. F the sky. G the air. H the earth. I water.
 

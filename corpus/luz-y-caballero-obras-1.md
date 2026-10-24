@@ -20,35 +20,35 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 [PDF 1]
 
-> ## Educ 1557.1.3 ## OBRAS ESCOGIDAS DE ## Cubana AUTORES CUBANOS , EN PROSA Y VERSO Biblioteca                               COLECCIONADASPOR ## Alfredo Zayas Alfonso ## TOMO          PRIMERO ## OBRAS COMPLETAS DE la           Luz Caballero 22222222                    de ## VOLUMEN          PRIMERO José Don ## HABANA ## LITERARIA - ## LA PROPAGANDA -                           - - ## IMPRENTA       ESTEREOTIPIA         GALVANOPLASTIA              LIBRERÍA - Zulueta    28      entre Virtudes 1890 y   Animas
+> Educ 1557.1.3 OBRAS ESCOGIDAS DE Cubana AUTORES CUBANOS , EN PROSA Y VERSO Biblioteca                               COLECCIONADASPOR Alfredo Zayas Alfonso TOMO          PRIMERO OBRAS COMPLETAS DE la           Luz Caballero 22222222                    de VOLUMEN          PRIMERO José Don HABANA LITERARIA - LA PROPAGANDA -                           - - IMPRENTA       ESTEREOTIPIA         GALVANOPLASTIA              LIBRERÍA - Zulueta    28      entre Virtudes 1890 y   Animas
 
-## L   ibrary Cuban
+L   ibrary Cuban
 
-## SELECTED WORKS
-
-OF
-
-## CUBAN AUTHORS, IN PROSE AND VERSE
-
-## COLLECTED BY
-
-## Alfredo Zayas Alfonso
-
-## Volume the First
-
-## COMPLETE WORKS
+SELECTED WORKS
 
 OF
 
-## DON JOSÉ DE LA LUZ CABALLERO
+CUBAN AUTHORS, IN PROSE AND VERSE
+
+COLLECTED BY
+
+Alfredo Zayas Alfonso
+
+Volume the First
+
+COMPLETE WORKS
+
+OF
+
+DON JOSÉ DE LA LUZ CABALLERO
 
 Volume One
 
-## H AVA N A
+H AVA N A
 
-## LA PROPAGANDA LITERARIA
+LA PROPAGANDA LITERARIA
 
-## PRINTING — STEREOTYPING — ELECTROTYPING — BOOKSHOP
+PRINTING — STEREOTYPING — ELECTROTYPING — BOOKSHOP
 
 Zulueta—28—between Virtudes and Animas
 
@@ -56,13 +56,13 @@ Zulueta—28—between Virtudes and Animas
 
 [PDF 2]
 
-## SELECTED WORKS OF CUBAN
+SELECTED WORKS OF CUBAN
 
-## AUTHORS
+AUTHORS
 
-## IN PROSE AND VERSE
+IN PROSE AND VERSE
 
-## VOLUME THE FIRST
+VOLUME THE FIRST
 
 [PDF 3]
 
@@ -76,7 +76,7 @@ OF
 
 ## DON JOSÉ DE LA LUZ CABALLERO
 
-## collected and published
+collected and published
 
 BY
 
@@ -258,11 +258,11 @@ Illustrious patrician.... honor and glory of our soil, and one to whom his count
 
 [p. 12]
 
-> como de su profunda y variada instrucción en los ramos del verdadero saber , utilizados eminentemente por su acen-drado amor á la patria . ## (Pbro . Francisco Ruiz . 1839 ) ( 1 ) D. José de la Luz Caballero es el literato de más presti-gio en la Habana ; pero creo yo que le conviene más el nom-bre de sabio que el de literato . Sus escritos suelen ser pro-fundos , pero demasiado escolásticos . Al través de sus vas-tos conocimientos , especialmente filosóficos , se trasluce un mal gusto de dicción ...... Algunos artículos de filosofia in-sertos en el " Diario de la Habana " revelan un profundo sa-ber , pero la controversia es de aula ...... Nos parece que el señor de la Luz es demasiado buen maestro para ser gran-de escritor . (J. Salas y Quiroga ) ( 2) Sólo depende quizás de circunstancias favorables el que los nombres de D. José Antonio Saco , D. José de la Luz y D. Domingo del Monte , se vean rodeados de un brillo eu-ropeo . D. José de la Luz es una inteligencia delicada , penetran-te , químico de primer orden , notable filólogo , escritor de talento . ( La Condesa de Merlín ) (3 ) En filosofia Luz alcanza el puesto más elevado . (R. R. Madden ) (4) No ha dejado Vd. nunca de ser mirado por mí, con los mayores sentimientos de afecto y los más sinceros de respeto y veneración , porque en mi largo trato con los hom- -- (1 ) Diario de la Habana . (2 ) Madrid 1840 . - - (3 ) La Havane Bruselas 1844. Tomo IV , pág . 13 . (4) The Island of Cuba its resources , etc. Londres , 1853 .
+> como de su profunda y variada instrucción en los ramos del verdadero saber , utilizados eminentemente por su acen-drado amor á la patria . (Pbro . Francisco Ruiz . 1839 ) ( 1 ) D. José de la Luz Caballero es el literato de más presti-gio en la Habana ; pero creo yo que le conviene más el nom-bre de sabio que el de literato . Sus escritos suelen ser pro-fundos , pero demasiado escolásticos . Al través de sus vas-tos conocimientos , especialmente filosóficos , se trasluce un mal gusto de dicción ...... Algunos artículos de filosofia in-sertos en el " Diario de la Habana " revelan un profundo sa-ber , pero la controversia es de aula ...... Nos parece que el señor de la Luz es demasiado buen maestro para ser gran-de escritor . (J. Salas y Quiroga ) ( 2) Sólo depende quizás de circunstancias favorables el que los nombres de D. José Antonio Saco , D. José de la Luz y D. Domingo del Monte , se vean rodeados de un brillo eu-ropeo . D. José de la Luz es una inteligencia delicada , penetran-te , químico de primer orden , notable filólogo , escritor de talento . ( La Condesa de Merlín ) (3 ) En filosofia Luz alcanza el puesto más elevado . (R. R. Madden ) (4) No ha dejado Vd. nunca de ser mirado por mí, con los mayores sentimientos de afecto y los más sinceros de respeto y veneración , porque en mi largo trato con los hom- -- (1 ) Diario de la Habana . (2 ) Madrid 1840 . - - (3 ) La Havane Bruselas 1844. Tomo IV , pág . 13 . (4) The Island of Cuba its resources , etc. Londres , 1853 .
 
 as of his profound and varied instruction in the branches of true knowledge, eminently turned to account by his unalloyed love of country.
 
-## (Fr. Francisco Ruiz. 1839) (1)
+(Fr. Francisco Ruiz. 1839) (1)
 
 Don José de la Luz Caballero is the man of letters of greatest prestige in Havana; but I believe the name of sage suits him better than that of man of letters. His writings are usually profound, but too scholastic. Through his vast knowledge, especially in philosophy, there shows a bad taste in diction...... Some articles on philosophy inserted in the “Diario de la Habana” reveal a profound learning, but the controversy is of the lecture hall...... It seems to us that Mr. de la Luz is too good a teacher to be a great writer.
 
@@ -468,7 +468,7 @@ He left to his country the example of his life; a life without stain, the prodig
 
 [PDF 23]
 
-> ## ADVERTENCIAS                        (1) N. B. En la Habana empecé á recojer unos aforismos por este estilo , que llegaban á unos 50660. Era en Junio de 1842 , en el Cerro , al lado de mi ídolo , de mi Mariana y de mi Luisa : " Cuando Dios quería . " -¿Cuándo querrá ? ## (París , Enero 2 de 1844. ) N. B. Me abstengo de hablar todavía de aquello mismo en que me han dado más caudal el sentimiento y la obser-vación ; porque en el estado endeble de mi salud , causa ex-clusiva por la que me separé de los dos pedazos de mi cora-zón , me excitaría sobremanera : á saber : "amor , matrimonio , -amistad y enfermedad . " ¡ Y la mina del desengaño ? [ aunque para esa tengo dos inagotables bien creo ( á puño religión y filosofia ] cerrado ) en la virtud y amistad , más que -si nadie . (Enero 5 de 1844 ) N.   B.     Hay algunos aforismos que sólo son motivos pa-ra pensar . -agregarse después de " Junio de 1842" , un paréntesis que dice . " (y al reproducirlo ahora " mi viene il ribrezzo . " ( Α . Ζ .) (1) Las dos primeras notas que siguen constan en un pequeño cua-derno donde aparecen sólo 15 pensamientos ó proposiciones de fecha anterior á dichas notas . En otro cuaderno de nueve hojas de papel co-mún , en el que comenzó Luz á copiar sus aforismos , en 1847 , está la tercera nota , y se copian las dos que la anteceden , expresándose pue-den servir de prólogo ó advertencia á aquellos, y sin otra variante que
+> ## ADVERTENCIAS                        (1) N. B. En la Habana empecé á recojer unos aforismos por este estilo , que llegaban á unos 50660. Era en Junio de 1842 , en el Cerro , al lado de mi ídolo , de mi Mariana y de mi Luisa : " Cuando Dios quería . " -¿Cuándo querrá ? (París , Enero 2 de 1844. ) N. B. Me abstengo de hablar todavía de aquello mismo en que me han dado más caudal el sentimiento y la obser-vación ; porque en el estado endeble de mi salud , causa ex-clusiva por la que me separé de los dos pedazos de mi cora-zón , me excitaría sobremanera : á saber : "amor , matrimonio , -amistad y enfermedad . " ¡ Y la mina del desengaño ? [ aunque para esa tengo dos inagotables bien creo ( á puño religión y filosofia ] cerrado ) en la virtud y amistad , más que -si nadie . (Enero 5 de 1844 ) N.   B.     Hay algunos aforismos que sólo son motivos pa-ra pensar . -agregarse después de " Junio de 1842" , un paréntesis que dice . " (y al reproducirlo ahora " mi viene il ribrezzo . " ( Α . Ζ .) (1) Las dos primeras notas que siguen constan en un pequeño cua-derno donde aparecen sólo 15 pensamientos ó proposiciones de fecha anterior á dichas notas . En otro cuaderno de nueve hojas de papel co-mún , en el que comenzó Luz á copiar sus aforismos , en 1847 , está la tercera nota , y se copian las dos que la anteceden , expresándose pue-den servir de prólogo ó advertencia á aquellos, y sin otra variante que
 
 ## P reliminary N otes (1)
 
@@ -1340,7 +1340,7 @@ XCV
 
 [p. 57]
 
-> ## XCVIII (Setiembre den pasarlo - ## 27 de 1848. ) Casi todas las profesiones pue- sin entusiasmo ; la de maestro no puede abso-lutamente . Lo ha menester para inculcar la doctrina y para vencer los obstáculos . Ha de ser todo inspiración , sacerdocio , mansedumbre , carácter , templanza , flexibilidad . ## XCIX - (Junio 23 de 1852. ) Sagrado es este ministerio de la enseñanza , y tremendo por los deberes que impone todavía más al que enseña que al enseñado ; pero de cualquier modo nada puede el uno sin el otro , están estrechamente ligados ante Dios y los hombres . C (Agosto 22. ) -La enseñanza es un contrato con Dios , no con los hombres . Arte por excelencia , como que es todo de inspiración aunque descanse en la esperiencia .
+> ## XCVIII (Setiembre den pasarlo - 27 de 1848. ) Casi todas las profesiones pue- sin entusiasmo ; la de maestro no puede abso-lutamente . Lo ha menester para inculcar la doctrina y para vencer los obstáculos . Ha de ser todo inspiración , sacerdocio , mansedumbre , carácter , templanza , flexibilidad . ## XCIX - (Junio 23 de 1852. ) Sagrado es este ministerio de la enseñanza , y tremendo por los deberes que impone todavía más al que enseña que al enseñado ; pero de cualquier modo nada puede el uno sin el otro , están estrechamente ligados ante Dios y los hombres . C (Agosto 22. ) -La enseñanza es un contrato con Dios , no con los hombres . Arte por excelencia , como que es todo de inspiración aunque descanse en la esperiencia .
 
 ## XCVIII
 
@@ -1362,7 +1362,7 @@ An art par excellence, since it is all inspiration, even though it rests on expe
 
 [PDF 55]
 
-> CI ## (Madruga , Mayo 23 de 1846 )    .- El primer filósofo de la cristiandad , San Pablo . Los P. P. los primeros moralistas del orbe , .... y los últimos . CII ( Octubre 23 ) -No hay una línea de San Agustín que no respire penitencia y alabanza . Aun en las materias más agenas de ello al parecer , Alma grande , grandísima : aún más en su humillación que en su grandeza mundanal . Nada engrandece más que la humillación ante Dios . Co-mo que nos hace más fuertes contra el mundo exterior é interior ( las pasiones , el leo rugiens de San Pablo ) . Es necesario considerar á San Agustin, no ya como un escritor de primer orden , sino como uno de los hombres más grandes que han existido . Como escritor , le distingue la concisión y es sin igual en
+> CI (Madruga , Mayo 23 de 1846 )    .- El primer filósofo de la cristiandad , San Pablo . Los P. P. los primeros moralistas del orbe , .... y los últimos . CII ( Octubre 23 ) -No hay una línea de San Agustín que no respire penitencia y alabanza . Aun en las materias más agenas de ello al parecer , Alma grande , grandísima : aún más en su humillación que en su grandeza mundanal . Nada engrandece más que la humillación ante Dios . Co-mo que nos hace más fuertes contra el mundo exterior é interior ( las pasiones , el leo rugiens de San Pablo ) . Es necesario considerar á San Agustin, no ya como un escritor de primer orden , sino como uno de los hombres más grandes que han existido . Como escritor , le distingue la concisión y es sin igual en
 
 ❖      ❖    ❖    ❖    ❖    ❖    ❖    ❖     ❖    ❖    ❖    ❖    ❖    ❖    ❖
 
@@ -5382,7 +5382,7 @@ D. O. M.
 
 AS WELL AS IN SPANISH LAW,
 
-## IS DEVOTED AND CONSECRATED BY
+IS DEVOTED AND CONSECRATED BY
 
 D. JOSÉ DE LA LUZ Y CABALLERO,
 
@@ -5390,9 +5390,9 @@ D. JOSÉ DE LA LUZ Y CABALLERO,
 
 The place of the disputation shall be the Great Hall of the same College, on the 15th day of July of the year 1817, at the customary hour, there presiding Fr. Lic. D. Justo Vélez, Moderator of National Law.
 
-## BY PERMISSION OF THE SUPERIORS
+BY PERMISSION OF THE SUPERIORS.
 
-## HAVANA: PRINTED BY DON PEDRO NOLASCO PALMER
+HAVANA: PRINTED BY DON PEDRO NOLASCO PALMER.
 
 [p. 360]
 
@@ -5408,7 +5408,7 @@ I have the satisfaction of communicating to Your Lordship the appointment which 
 
 [p. 361]
 
-> ## en el bienio próximo entrante , pudiendo - concurrir V.S. á la última junta á tomar po . . sesión de su destino Dios g . áv . s . ms . ## añs . Habana y Diciembre 17 de 1834.- Antonio Zambrana . V. GobiernoPolítico y Militar ## DE LA HABANA  Con esta fecha digo al R. P. Rector de la Real y Pontificia Universidad de esta Ciu- dad lo que sigue :-Pasado al señor Te- niente Asesor general 1º el expediente ins- truído á conseqüencia de lo representado por D. José de la Luz para que se le con- ceda permiso para regentear una clase de Filosofia en esta ciudad , me ha consultado con fecha de 4 del actual lo siguiente.- Exmo . Sr.- En vista del informe favora- ble del Rmo . Sr. Rector y las circunstancias que concurren en D. José de la Luz profesor acreditado de Filosofía , puede servirse V. E. concederle su Superior permiso para esta- blecer en esta Ciudad una Clase de dicha ciencia con la precisa dependencia de la Universidad que indica dicho Sr. Rector y - la obligación de presentar dentro de un año la aprobación de S. M. salvo etc. Y ha- biendome conformado con este dictamen - lo traslado á V. S. R. para conocimiento y demás que corresponda      . Lo que transcri- bo á V. con el fin á que por su parte se -Sr -         - contrae . Dios g . á V. ms . as . Habana 7 de Setiembre de 1838. Joaquín de Ezpeleta . . D. José de la Luz . VI . Ministerio de Marina. DE COMERCIO Y GOBERNACION ## DE ULTRAMAR  deComercioy Seccion       Ultramar . Excmo . Sr.-S. M. la Reina Gobernadora se ha enterado de la instancia documenta- da del abogado D. José de la Luz que V. E.
+> ## en el bienio próximo entrante , pudiendo - concurrir V.S. á la última junta á tomar po . . sesión de su destino Dios g . áv . s . ms . añs . Habana y Diciembre 17 de 1834.- Antonio Zambrana . V. GobiernoPolítico y Militar ## DE LA HABANA  Con esta fecha digo al R. P. Rector de la Real y Pontificia Universidad de esta Ciu- dad lo que sigue :-Pasado al señor Te- niente Asesor general 1º el expediente ins- truído á conseqüencia de lo representado por D. José de la Luz para que se le con- ceda permiso para regentear una clase de Filosofia en esta ciudad , me ha consultado con fecha de 4 del actual lo siguiente.- Exmo . Sr.- En vista del informe favora- ble del Rmo . Sr. Rector y las circunstancias que concurren en D. José de la Luz profesor acreditado de Filosofía , puede servirse V. E. concederle su Superior permiso para esta- blecer en esta Ciudad una Clase de dicha ciencia con la precisa dependencia de la Universidad que indica dicho Sr. Rector y - la obligación de presentar dentro de un año la aprobación de S. M. salvo etc. Y ha- biendome conformado con este dictamen - lo traslado á V. S. R. para conocimiento y demás que corresponda      . Lo que transcri- bo á V. con el fin á que por su parte se -Sr -         - contrae . Dios g . á V. ms . as . Habana 7 de Setiembre de 1838. Joaquín de Ezpeleta . . D. José de la Luz . VI . Ministerio de Marina. DE COMERCIO Y GOBERNACION ## DE ULTRAMAR  deComercioy Seccion       Ultramar . Excmo . Sr.-S. M. la Reina Gobernadora se ha enterado de la instancia documenta- da del abogado D. José de la Luz que V. E.
 
 for the coming biennium, Your Lordship being able to attend the last meeting to take possession of your post.—God keep Your Lordship many years. Havana, December 17, 1834.—Antonio Zambrana.
 
@@ -5634,7 +5634,7 @@ At this point the Prosecutor ordered the proceeding suspended, to be continued w
 
 [p. 373]
 
-> CONFESIÓN   DE D. JOSÉ DE LA LUZ CABALLERO : ## JUNIO   10 DE 1845  P. , habiéndole leído la declaración instructiva que tiene ministrada en esta causa y obra á fojas 1320 , si es la mis-ma que prestó ; si se afirma ó ratifica en su contenido , si tiene algo que añadir ó quitar , si la firma y rúbrica con que está autorizada es de su puño y letra , y quiere se le tenga en parte de esta su confesión .--Dijo , que cuanto se le ha leído es lo mismo que tiene declarado , que se afirma y ratifica nuevamente en su contenido , sin tener que añadir , ni quitar , reconociendo por suya la firma que la valoriza , y por lo tanto quiere se le tenga por parte de esta su con-fesión . Se le hace cargo de la complicidad que aparece de autos contra el confesante en el proyecto fraguado por Mr. David Turnbull , ex- Cónsul de S. M. B. en esta Isla por el que tra-tó de llevar á cabo la emancipación de la esclavitud .--Dijo , que á toda esa barahunda de sugestiones , imposturas y contradicciones que se advierte en la declaración del more-no Miguel Flores ( que acaba de leérsele al confesante ) dá por único descargo , se le responda : cuando ? - P. , si con el descargo que ha dado se considera negar el que se le ha hecho . Dijo . que sí . Reconvenido , como niega el cargo que se le hace , cuando ha visto sus acusaciones , por la lectura que se le ha dado de ellas , de la declaración de Miguel Flores , á fojas 278 , у lo expuesto por el pardo Gabriel de la Concepción Valdés , á fojas 814 ; hechos que mirados con su instructiva á la vis-ta, tienen alguna concordancia , pues tiene dicho visitaba en París á D. Domingo del Monte , cuyas opiniones están pa-tentes , pues por ellas fué expatriado ó expulsado de la Isla; y   en esta Capital á Mr. Turnbull , y aunque esto no sea su-ficiente , dá la casualidad que este Sr. , tanto en la época de su Consulado , cuanto antes y después , ha demostrado cla-ramente y á la faz de todos sus ideas de emancipación , lla-mando la atención en estas circunstancias el oficio que certificado obra á fojas 667 , el cual es producción del con-fesante , reprochando ó rebatiendo la idea de algunos socios , en la de Amigos del País , que viendo y considerando no era compatible estuviere Turnbull asociado con ellos cuando maquinaba contra él , pidierou su expulsión : en cuya vir-tud se le amonesta sea franco y explícito manifestando
+> CONFESIÓN   DE D. JOSÉ DE LA LUZ CABALLERO : JUNIO   10 DE 1845 . P. , habiéndole leído la declaración instructiva que tiene ministrada en esta causa y obra á fojas 1320 , si es la mis-ma que prestó ; si se afirma ó ratifica en su contenido , si tiene algo que añadir ó quitar , si la firma y rúbrica con que está autorizada es de su puño y letra , y quiere se le tenga en parte de esta su confesión .--Dijo , que cuanto se le ha leído es lo mismo que tiene declarado , que se afirma y ratifica nuevamente en su contenido , sin tener que añadir , ni quitar , reconociendo por suya la firma que la valoriza , y por lo tanto quiere se le tenga por parte de esta su con-fesión . Se le hace cargo de la complicidad que aparece de autos contra el confesante en el proyecto fraguado por Mr. David Turnbull , ex- Cónsul de S. M. B. en esta Isla por el que tra-tó de llevar á cabo la emancipación de la esclavitud .--Dijo , que á toda esa barahunda de sugestiones , imposturas y contradicciones que se advierte en la declaración del more-no Miguel Flores ( que acaba de leérsele al confesante ) dá por único descargo , se le responda : cuando ? - P. , si con el descargo que ha dado se considera negar el que se le ha hecho . Dijo . que sí . Reconvenido , como niega el cargo que se le hace , cuando ha visto sus acusaciones , por la lectura que se le ha dado de ellas , de la declaración de Miguel Flores , á fojas 278 , у lo expuesto por el pardo Gabriel de la Concepción Valdés , á fojas 814 ; hechos que mirados con su instructiva á la vis-ta, tienen alguna concordancia , pues tiene dicho visitaba en París á D. Domingo del Monte , cuyas opiniones están pa-tentes , pues por ellas fué expatriado ó expulsado de la Isla; y   en esta Capital á Mr. Turnbull , y aunque esto no sea su-ficiente , dá la casualidad que este Sr. , tanto en la época de su Consulado , cuanto antes y después , ha demostrado cla-ramente y á la faz de todos sus ideas de emancipación , lla-mando la atención en estas circunstancias el oficio que certificado obra á fojas 667 , el cual es producción del con-fesante , reprochando ó rebatiendo la idea de algunos socios , en la de Amigos del País , que viendo y considerando no era compatible estuviere Turnbull asociado con ellos cuando maquinaba contra él , pidierou su expulsión : en cuya vir-tud se le amonesta sea franco y explícito manifestando
 
 C onfession of D on J osé de la L uz C aballero :
 
@@ -5732,7 +5732,7 @@ His Excellency the Governor and Captain General, having been informed of the res
 
 [p. 378]
 
-> declararla sin lugar , en virtud de lo termi- nante del artículo 6º de la Ley de 27 de Ju- lio último : lo que participo á V. S. para su inteligencia y fines consiguientes    .  Dios ## guarde á V. S. muchos años. Habana y ## Febrero 16 de 1860.- Antonio L. de Le- tona . Sr. D. José de la Luz Caballero . Es la naturaleza , no la voluntad , quien me impide la entrada en el Ayuntamiento de la Habana .      Por eso juzgué ocioso aplicarme el artículo 8º de la Ley , é inapli- cable el 6º en que estriba la repulsa del Excmo Sr. Gobernador Capitán General . El caso es pues de mera observación , que podrá verificar el Gobierno como y cuando guste , en el concepto de que nunca fuí hombre para embozarme con vanos pre- - testos , ni cubrirme con otro manto que el - de la verdad . Dios guarde á V. S. muchos - años . Cerro y Febrero 19 de 1860. de la Luz . Excmo . Sr. Gobernador Su- perior Civil . José XIV Conservo una hoja de papel en la cual mi padre D. José María Zayas desde la habitación en que espiraba D. José de -                  -L–J la Luz , participaba á mi madre la aproximación del fatal desenlace con estas palabras : " Junio 22 1862 ser que cuando recibas esta , ya D. Pepe no exista . . puede . М.— y después , como si ya en marcha el mensajero se le hu-biese llamado para agregarlo , se lée un renglón escrito con pluma borrosa y pulso agitado que dice : " a las 74 ha falle-cido."   ( A. Z. ) XV . Queriendo dar un solemne testimonio de la consideración que merecieron siempre al Gobierno Superior de esta Isla , los méritos literarios y las virtudes públicas y privadas que distinguieron durante su vida al Sr. D José de la Luz y Ca-ballero , Vocal que fué de la Inspección de Estudios y Direc-tor del Colegio del Salvador del Cerro , he tenido por conve-niente disponer lo que sigue :
+> declararla sin lugar , en virtud de lo termi- nante del artículo 6º de la Ley de 27 de Ju- lio último : lo que participo á V. S. para su inteligencia y fines consiguientes    .  Dios ## guarde á V. S. muchos años. Habana y Febrero 16 de 1860.- Antonio L. de Le- tona . Sr. D. José de la Luz Caballero . Es la naturaleza , no la voluntad , quien me impide la entrada en el Ayuntamiento de la Habana .      Por eso juzgué ocioso aplicarme el artículo 8º de la Ley , é inapli- cable el 6º en que estriba la repulsa del Excmo Sr. Gobernador Capitán General . El caso es pues de mera observación , que podrá verificar el Gobierno como y cuando guste , en el concepto de que nunca fuí hombre para embozarme con vanos pre- - testos , ni cubrirme con otro manto que el - de la verdad . Dios guarde á V. S. muchos - años . Cerro y Febrero 19 de 1860. de la Luz . Excmo . Sr. Gobernador Su- perior Civil . José XIV Conservo una hoja de papel en la cual mi padre D. José María Zayas desde la habitación en que espiraba D. José de -                  -L–J la Luz , participaba á mi madre la aproximación del fatal desenlace con estas palabras : " Junio 22 1862 ser que cuando recibas esta , ya D. Pepe no exista . . puede . М.— y después , como si ya en marcha el mensajero se le hu-biese llamado para agregarlo , se lée un renglón escrito con pluma borrosa y pulso agitado que dice : " a las 74 ha falle-cido."   ( A. Z. ) XV . Queriendo dar un solemne testimonio de la consideración que merecieron siempre al Gobierno Superior de esta Isla , los méritos literarios y las virtudes públicas y privadas que distinguieron durante su vida al Sr. D José de la Luz y Ca-ballero , Vocal que fué de la Inspección de Estudios y Direc-tor del Colegio del Salvador del Cerro , he tenido por conve-niente disponer lo que sigue :
 
 to declare it inadmissible, by virtue of the express terms of article 6 of the Law of the 27th of July last: which I communicate to Your Lordship for your information and the consequent purposes.—God keep Your Lordship many years.—Havana, February 16, 1860.—Antonio L. de Letona.—Don José de la Luz Caballero.
 
@@ -5772,7 +5772,7 @@ According to my information this priest died a short while ago in the Canary Isl
 
 [p. 380]
 
-> ## XVII  - ( Carta de D. Gaspar Betancourt ( El Lugareño ) á D. José de ## la Luz . Febrero 29 de 1840 ) Allá va un paquete en lengua camagüeyana . En la sema-na entrante irá el segundo artículo del viaje " Trinidad ," en que le doy sus mordidas á los paisanitos , pero muy suaves . Solo le tiro una tenazada de caiman , de paso , á un Fraile que me encontré á bordo , franciscano , español , que me dijo que iba á abrir una clase de filosofía en Trinidad . Entra-mos en materia , y el hombre es un pobre fraile , y nada más ; figurese Vd. , cuando me dijo que no estaba acorde con algunas doctrinas filosóficas de Varela , y que conside-raba el latín como indispensable para estudiar filosofía .... * - ** (Carta del mismo al mismo . Marzo 29 de 1840. ) Pues volviendo al franciscano , verá Vd . , Pepe , que fraile tan descortés y desvergonzado . Yo no le dije en mi ar-tículo " Trinidad ," cosa que pueda ofender á criatura vi-viente : él ha cojido el rábano por las hojas ó la mona por la cola . En fin lea Vd . su ataque y mi contestación , y suelte Vd . la sentencia . Yo podría contestarle en otro estilo pero no quiero pendencias con frailes       ...... - Por su artículo se puede juzgar la leche que dará esa vaca frailesca algo , hombre ! .... . Digale ## XVIII  ( Carta de D. Félix Varela   á D. Manuel        González del Valle . -Octubre 22 de 1840. ) En muchas partes se enseña simultáneamente , ( la Física y la Lógica ) y si no estoy equivocado , aún nuestro D. José de la Luz lo practicó así , y acaso lo practica . Acuérdome que cuando me escribió que enseñaba la Física antes que la Lógica , le contesté que encontraba en ello una ventaja , y es que los estudiantes prefieren el estudio de la Física por ser más agradable , y así se les forma el gusto , enseñán-doles al mismo tiempo la Lógica sin que lo perciban . ## FIN DEL VOLUMEN PRIMERO 
+> ## XVII  - ( Carta de D. Gaspar Betancourt ( El Lugareño ) á D. José de la Luz . Febrero 29 de 1840 ) Allá va un paquete en lengua camagüeyana . En la sema-na entrante irá el segundo artículo del viaje " Trinidad ," en que le doy sus mordidas á los paisanitos , pero muy suaves . Solo le tiro una tenazada de caiman , de paso , á un Fraile que me encontré á bordo , franciscano , español , que me dijo que iba á abrir una clase de filosofía en Trinidad . Entra-mos en materia , y el hombre es un pobre fraile , y nada más ; figurese Vd. , cuando me dijo que no estaba acorde con algunas doctrinas filosóficas de Varela , y que conside-raba el latín como indispensable para estudiar filosofía .... * - ** (Carta del mismo al mismo . Marzo 29 de 1840. ) Pues volviendo al franciscano , verá Vd . , Pepe , que fraile tan descortés y desvergonzado . Yo no le dije en mi ar-tículo " Trinidad ," cosa que pueda ofender á criatura vi-viente : él ha cojido el rábano por las hojas ó la mona por la cola . En fin lea Vd . su ataque y mi contestación , y suelte Vd . la sentencia . Yo podría contestarle en otro estilo pero no quiero pendencias con frailes       ...... - Por su artículo se puede juzgar la leche que dará esa vaca frailesca algo , hombre ! .... . Digale ## XVIII  ( Carta de D. Félix Varela   á D. Manuel        González del Valle . -Octubre 22 de 1840. ) En muchas partes se enseña simultáneamente , ( la Física y la Lógica ) y si no estoy equivocado , aún nuestro D. José de la Luz lo practicó así , y acaso lo practica . Acuérdome que cuando me escribió que enseñaba la Física antes que la Lógica , le contesté que encontraba en ello una ventaja , y es que los estudiantes prefieren el estudio de la Física por ser más agradable , y así se les forma el gusto , enseñán-doles al mismo tiempo la Lógica sin que lo perciban . ## FIN DEL VOLUMEN PRIMERO 
 
 ## XVII
 

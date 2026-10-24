@@ -22,33 +22,33 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 > BIBLIOTECA DE « LA ILUSTRACIÓN CUBANA -SCIS *** CONFERENCIAS 200 POR
 
-#### LIBRARY OF “LA ILUSTRACIÓN CUBANA”
+LIBRARY OF “LA ILUSTRACIÓN CUBANA”
 
 > Enrique José Varona
 
-#### — SIX —
+— SIX —
 
 > GORGAS Y CA
 
-#### LECTURES
+LECTURES
 
 > 34
 
-#### BY
+BY
 
 > - RAMBLA DE CATALUÑA – 34 BARCELONA
 
-#### Enrique José Varona
+Enrique José Varona
 
 > .
 
-#### GORGAS & Co.
+GORGAS & Co.
 
-#### 34 – Rambla de Cataluña – 34
+34 – Rambla de Cataluña – 34
 
 > Imp de Giró
 
-#### BARCELONA
+BARCELONA
 
 Printed by Giró
 
@@ -76,7 +76,7 @@ Printed by Giró
 
 ## LECTURES
 
-#### BY
+BY
 
 > GORGAS Y CA
 

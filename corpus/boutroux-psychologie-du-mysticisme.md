@@ -18,19 +18,25 @@ generated: 2026-10-24 by corpus.py
 
 Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong.
 
-[scan 16]
+> [scan 16] EXTRAIT DE LA *REVUE BLEUE* / du 15 mars 1902
 
-#### EXTRAIT DE LA *REVUE BLEUE* / du 15 mars 1902 — OFFPRINT FROM THE *REVUE BLEUE* / of March 15, 1902
+[scan 16] OFFPRINT FROM THE *REVUE BLEUE* / of March 15, 1902
 
-[scan 17]
+> [scan 17] ÉMILE BOUTROUX / MEMBRE DE L'INSTITUT / PROFESSEUR À L'UNIVERSITÉ DE PARIS
 
-#### ÉMILE BOUTROUX / MEMBRE DE L'INSTITUT / PROFESSEUR À L'UNIVERSITÉ DE PARIS — ÉMILE BOUTROUX / MEMBER OF THE INSTITUT / PROFESSOR AT THE UNIVERSITY OF PARIS
+[scan 17] ÉMILE BOUTROUX / MEMBER OF THE INSTITUT / PROFESSOR AT THE UNIVERSITY OF PARIS
 
-#### La Psychologie / du Mysticisme — The Psychology / of Mysticism
+> La Psychologie / du Mysticisme
 
-#### CONFÉRENCE / FAITE / A L'INSTITUT PSYCHOLOGIQUE INTERNATIONAL / LE 7 FÉVRIER 1902 — LECTURE / DELIVERED / AT THE INSTITUT PSYCHOLOGIQUE INTERNATIONAL / ON FEBRUARY 7, 1902
+The Psychology / of Mysticism
 
-#### ÉDITIONS / DE LA REVUE BLEUE / 41 bis, rue de Châteaudun, PARIS. — PUBLISHED BY / THE REVUE BLEUE / 41 bis, rue de Châteaudun, PARIS.
+> CONFÉRENCE / FAITE / A L'INSTITUT PSYCHOLOGIQUE INTERNATIONAL / LE 7 FÉVRIER 1902
+
+LECTURE / DELIVERED / AT THE INSTITUT PSYCHOLOGIQUE INTERNATIONAL / ON FEBRUARY 7, 1902
+
+> ÉDITIONS / DE LA REVUE BLEUE / 41 bis, rue de Châteaudun, PARIS.
+
+PUBLISHED BY / THE REVUE BLEUE / 41 bis, rue de Châteaudun, PARIS.
 
 [scan 19]
 

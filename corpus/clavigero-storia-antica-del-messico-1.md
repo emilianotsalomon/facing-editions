@@ -28,17 +28,17 @@ AND
 
 D I S S E RTAT I O N S On the Land, the Animals, and the inhabitants of Mexico.
 
-## A WORK
+A WORK
 
-## BY THE ABBÉ
+BY THE ABBÉ
 
 D O N F R A N C E S C O S AV E R I O
 
 C L AV I G E R O
 
-## VOLUME I
+VOLUME I.
 
-## CESENA, MDCCLXXX
+CESENA, MDCCLXXX.
 
 Printed by Gregorio Biasini at the Sign of Pallas
 
@@ -46,15 +46,15 @@ With Permission of the Superiors.
 
 [PDF 2]
 
-## iij
+iij
 
-## T O T H E ROYA L
+T O T H E ROYA L
 
 and
 
-## PONTIFICAL
+PONTIFICAL
 
-## UNIVERSITY
+UNIVERSITY
 
 O F M E X I C O.
 
@@ -9994,7 +9994,7 @@ B O O K V.
 
 Events of the reign of Moctezuma II, ninth king of Mexico, up to the year
 
-## 1519. Account of his life, of his government, and of the magnificence of his
+1519. Account of his life, of his government, and of the magnificence of his
 
 palaces, gardens, and woods. War of Tlaxcala, and the fortunes of Tlahuicole, a
 

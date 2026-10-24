@@ -32,15 +32,15 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 > «El descontento y la promesa»
 
-#### “Discontent and Promise”
+“Discontent and Promise”
 
 > «Caminos de nuestra historia literaria»
 
-#### “Paths of Our Literary History”
+“Paths of Our Literary History”
 
 > «Hacia el nuevo teatro»
 
-#### “Toward the New Theater”
+“Toward the New Theater”
 
 [scan 5]
 
@@ -550,7 +550,7 @@ Everything leads one to foresee that, throughout the twentieth century, literary
 
 > quedar aletargadas.
 
-#### II
+II
 
 > II Si la historia literaria pide selección, pide también sentido del carácter, de la originalidad: ha de ser la historia de las notas nuevas —acento personal o sabor del país, de la tierra nativa— en la obra viviente y completa de los mejores. En la América española, el criterio vacila. ¿Tenemos originalidad? ¿O somos simples, perpetuos imitadores? ¿Vivimos en todo de Europa? ¿O pondremos fe en las «nuevas generaciones» cuando pregonan —cada tres o cuatro lustros, desde la independencia— que ahora sí va a nacer la expresión genuina de nuestra América? 53
 
@@ -1306,7 +1306,7 @@ Lecture delivered at the Librería General of Mexico, December 6, 1913. Included
 
 > I
 
-#### I
+I
 
 > Interesantísima, para la historia espiritual de nuestro tiempo, en la América española, es la formación de la corriente poética a que pertenecen los versos de Enrique González Martínez.1 Esta poesía de conceptos trascendentales y de emociones sutiles es la última
 
@@ -1330,7 +1330,7 @@ This is, meanwhile, the force that dominates our poetry: Symbolism. We have been
 
 > SEIS ENSAYOS EN BUSCA DE NUESTRA EXPRESIÓN
 
-#### II
+II
 
 > II Así lo demuestra la obra de Enrique González Martínez; así lo demuestra el culto que suscita entre los jóvenes. Aunque muchos en América no lo conocen todavía, González Martínez es en 1915 el poeta a quien admira y prefiere la juventud intelec-
 
@@ -1570,7 +1570,7 @@ He finds his road. He stands before the gates of maturity. He has won his equili
 
 > su impulso propio y su dolor particular…
 
-#### IV
+IV
 
 > IV La autobiografía lírica de Enrique González Martínez es la historia de una ascensión perpetua. Hacia mayor serenidad, pero a la vez hacia mayor sinceridad; hacia más severo y hondo concepto de la vida. Espejo de nuestras luchas, voz de nuestros anhelos, esta poesía es plenamente de nuestro siglo y de nuestro mundo. Terribles tempestades azotan a nuestra América; pero Némesis vigila, pronta a castigar todo desmayo, toda vacilación. Tampoco pretendamos olvidar, entre frívolos juegos, entre devaneos ingeniosos, el deber de edificar, de construir, que el momento impone. Nuestro credo no puede ser el hedonismo; ni símbolo de nuestras preferencias ideales el faisán de oro o el cisne de seda. ¿Qué significan las Prosas profanas, de Rubén Darío, cuyos senderos comienzan en el jardín florido de las Fiestas galantes y acaban en la sala escultórica de Los trofeos? Diversión momentánea, juvenil divagación en que reposó el espíritu fuerte antes de entonar los Cantos de vida y esperanza. 101
 
@@ -1608,7 +1608,7 @@ Enrique González Martínez gives voice to the new aesthetic aspiration. He does
 
 > el misterioso libro del silencio nocturno.
 
-#### V
+V
 
 > V Bajo las solemnes contemplaciones del poeta vive, con amenazas de tumulto, la inquietud antigua. Así, bajo la triunfal armonía de Shelley, arcángel cuya espada de llamas señala cumbres al anhelo perenne, gemía, momentáneamente, la nota
 
@@ -2072,7 +2072,7 @@ Included in *Six Essays in Search of Our*
 
 > C onocí a Héctor Ripa Alberdi en México en septiem-
 
-#### I
+I
 
 > bre de 1921, y fue para mí la revelación íntima de la Argentina. Conocía yo hasta entonces, junto a la Argentina de fama internacional, la que revelan sus escritores; siempre observé cómo el ímpetu y el brillo, que dan carácter al país en nuestra época, y que se atribuyen a su reciente desarrollo, existían desde antaño; los encontraba en Echeverría, en Mármol, en Sarmiento, en Andrade. Pero la literatura argentina, con sus solos cien años, no revela toda la vida nacional; si es posible, digamos, conocer a través de los escritores el carácter del pueblo inglés o del francés, en todo su pormenor, ningún pueblo de América ha llegado en sus creaciones literarias a semejante corografía. Hay gran parte de la vida nuestra, sobre todo de la diaria y familiar, que el simple lector, aun el lector asiduo, no puede conocer 1
 
@@ -2122,7 +2122,7 @@ I came to know then Héctor’s clear and fine intelligence, his capacity for st
 
 > conocido.
 
-#### II
+II
 
 > II Cuando la muerte corta bruscamente una vida que comenzaba a florecer en abundancia, como la de Héctor Ripa Alberdi, los amigos, inconformes con el golpe inesperado, se reúnen a pensar cómo perpetuarán la memoria del que se fue a destiempo.
 
@@ -2162,7 +2162,7 @@ There was an occasion, however, when he came out of his retreat to sing, drawn a
 
 > de los nobles coros populares.2
 
-#### IV
+IV
 
 > IV Aquel espíritu tranquilo era espíritu fuerte: por eso unía, a la honda paz de su vida interior, la franca entereza de su vida pública. Creo que lo mejor de su obra escrita queda en sus discursos, porque ellos representan una parte de aquella vida pública. El hombre de estudio iba revelándose en las breves páginas de crítica. En ellas expresaba siempre su desdén de la moda, su devoción a las normas eternas. Sus temas eran cosas de
 
@@ -2358,7 +2358,7 @@ Tables of values? Let that be another time. Let us say only that Julio Noé’s 
 
 > D urante los veinte años que corren desde 1907 hasta
 
-#### I
+I
 
 > 1927, la literatura se ha transformado en las dos Américas, la inglesa y la hispánica. La transformación es mayor en los Estados Unidos que en la América espa- ñola: vuelco brusco y total entre 1910 y 1915. Nuestro gran vuelco ocurrió antes, entre 1890 y 1900. Después hemos cambiado mucho; hasta hemos adoptado posiciones francamente contrarias a las de 1900; pero a paso lento o a saltos cortos. Hay en nuestro ambiente fuerzas capaces de adquirir aceleración súbita y crear variaciones decisivas: el afán nacionalista, por ejemplo, ya en el camino indígena, ya en el sendero criollo; o la función de la imagen en el estilo. Pero todo está en proceso. 1
 
@@ -2412,7 +2412,7 @@ of a higher order. In his last years, Mark Twain wrote the synthesis of his idea
 
 > Nietzsche y en Shaw.
 
-#### II
+II
 
 > II ¿Qué ocurría precisamente, veinte años atrás, en 1907? Imperaba la mediocridad de 1900; pero iba resquebrajándose:
 
@@ -2508,7 +2508,7 @@ To the army of rebels the United States will owe its moral and intellectual salv
 
 > mundo. La lucha está indecisa.
 
-#### IV
+IV
 
 > IV Del batallón de los ensayistas, el que más inquieta al público es Henry Louis Mencken. Para los «buenos patriotas», la pesadilla indomable, el genio del mal, el corruptor supremo. Desafía, con coraje burlesco, todas las iras, y procura que nadie deje de escuchar sus blasfemias. Ha llegado a escribir, en su odio a los absurdos nacionales: «Cuando los japoneses conquisten los Estados Unidos y la república descienda a los infiernos…». Es señor del estilo epigramático, centelleante, crepitante, sazonado de cultismos y popularismos sabrosos; fértil en la invención de hipérboles humorísticas, definiciones grotescas, desprecios contundentes. Incansable en la cacería del filisteo, lo persigue hasta sus tabernáculos de respetabilidad y convierte en términos de oprobio sus orgullosos: homo americanus, Rotary Clubs, logias, congresos, universidades de alfalfa… Ha compilado, con George Jean Nathan, otro ágil 148
 
@@ -2566,7 +2566,7 @@ Of a very different flavor, not tragic but lyrical, are the autobiographies of A
 
 > dose a mayor energía; Alfred Kreymborg, a mayor delicadeza.
 
-#### V
+V
 
 > V La novela está saturada de problemas nacionales. Los trae en solución desde los tiempos de Howells y James, a quien le fascinaron las vicisitudes del descastamiento, el caso del hombre de América en Europa; se hacen densos en Edith Wharton: ¡áspero sabor el de La costumbre del país! Ahora abundan los novelistas
 
@@ -2638,7 +2638,7 @@ Cabell and Hergesheimer are central figures. Cabell, who wraps his inventions in
 
 > SEIS ENSAYOS EN BUSCA DE NUESTRA EXPRESIÓN
 
-#### VI
+VI
 
 > VI A iniciarse el siglo XX, sobre el drama pesaba en los Estados Unidos la maldición que lo deshizo en Inglaterra durante cien años: el teatro no era, no quería ser literatura. Los empresarios se lo vedaban, bajo el pretexto del gusto del público: la eterna incógnita calumniada. Entre la balumba de melodramas y sainetes, apenas se levantaban, con aspiraciones de limpieza, las mediocres comedias realistas de Augustus Thomas y de Clyde Fitch. De Fitch se salva una que otra escena, como el comienzo de Los trepadores, donde una familia regresa del entierro del padre declarando que fue un éxito social. Hubo después intentos de drama poético (Percy MacKaye) y obras aisladas de aliento vigoroso, como The Great Divide, del buen poeta William Vaughan Moody, con aroma de desierto en sus escenas iniciales, o de ingenio vivaz, como The New York Idea, de Langdon Mitchell (1907). La regeneración vino, por fin, de los teatros pequeños, de los aficionados, dispuestos a representar buen drama y a reformar los métodos de la escena, especialmente las decoraciones. En 1914 surgen, en Nueva York, los Washington Square Players, cuyos fundadores habrán de dispersarse luego y organizar nuevos grupos, como el Teatro de Greenwich Village y la Liga del Teatro (Theatre Guild). Dan a conocer obras breves, como Insignificancias (Trifles) de Susan Glaspell, Resonancias (Overtones) de Alice Gerstenberg, El marido de Helena de Philip Moeller, que de allí se abre camino para mayores cosas. Aparecen grupos independientes en diversas ciudades: los Provincetown Players en Nueva York; el Little Theatre de Maurice Browne en Chicago; el Portmanteau Theatre, viajero; después, en Nueva York, el Teatro de los Dramaturgos, de escritores revolucionarios, el Teatro Cívico de Repertorio, y tantos más, en continua aparición y desaparición. Los estudiantes universitarios hacen buen teatro en todo el país. 155
 

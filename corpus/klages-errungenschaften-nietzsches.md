@@ -20,15 +20,15 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 [PDF 1]
 
-## ACHIEVEMENTS OF NIETZSCHE
+ACHIEVEMENTS OF NIETZSCHE
 
 BY
 
-## LUDWIG KLAGES
+LUDWIG KLAGES
 
 1   9   2   6
 
-## LEIPZIG / JOHANN AMBROSIUS BARTH
+LEIPZIG / JOHANN AMBROSIUS BARTH
 
 [PDF 2]
 

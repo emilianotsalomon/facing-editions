@@ -26,13 +26,13 @@ Bolzano’s
 
 Theory of Science
 
-#### and
+and
 
 > beurtheilenden Ueberſicht — ee | Eine Schrift für Alle, die deſſen wichtigſte Anfichten
 
 Science of Religion
 
-#### in a
+in a
 
 > kennen zu lernen wünſchen. 5 lzch,
 

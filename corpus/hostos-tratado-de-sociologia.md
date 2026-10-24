@@ -22,11 +22,11 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 ON
 
-## SOCIOLOGY
+SOCIOLOGY
 
 BY
 
-## EUGENIO M. DE HOSTOS
+EUGENIO M. DE HOSTOS
 
 Professor of Universal History at the “Miguel Luis Amunátegui” Lyceum;
 
@@ -40,9 +40,9 @@ Professor of Constitutional Law at the University of Chile;
 
 etc., etc.
 
-## MADRID
+MADRID
 
-## PRINTING HOUSE OF BAILLY-BAILLIÈRE AND SONS
+PRINTING HOUSE OF BAILLY-BAILLIÈRE AND SONS
 
 Calle de la Cava Alta, No. 5.
 
