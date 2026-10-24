@@ -12,6 +12,7 @@ source: ‘2 Los_tres_grados_de_la_belleza_sensible.html’ (HTML reader) — TH
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 5
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 
@@ -20,6 +21,8 @@ generated: 2026-10-24 by corpus.py
 Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong.
 
 ## Los tres grados de la belleza sensible o lo apolíneo, lo dionisíaco y lo místico∗</sup><sup>1</sup>
+
+<sup>1</sup> Fragmento de un libro juvenil sobre la estética del baile, que no llegó a terminarse. Vasconcelos presentó estas ideas en una sesión del Ateneo de México entre 1910 y 1911, con ejemplos de baile. El texto fue publicado en La Antorcha, 30 de abril de 1925, pp. 8–9 y 14.
 
 Por José Vasconcelos
 
@@ -54,5 +57,3 @@ Apolo es la expresión de la belleza formal perfecta; y gusta de divertirse con 
 Así recorre el espíritu auxiliado por el arte del baile, los tres grados de la revelación de la belleza: la imagen que suspende el ánimo y que hizo exclamar a los griegos: eres un Dios; la pasión que nos embriaga cuando desesperamos de encontrar lo infinito y por último la conquista del misterio que es como embriaguez de fuerza y alegría en el universo nuevo.
 
 Si queréis términos que ayuden a retener la tesis diremos: Apolo lo individual imperfecto; Dionisios lo universal pero no lo universal abstracto, sino la emoción de la alegría del mundo; y Buda, lo absoluto en el primero de los ciclos sagrados. Conforme a tal ley tríplice opera la belleza para llevar las imágenes a la unidad del sentir estético: la unidad es el ritmo trascendental de lo bello y para acercar las imágenes a la gracia divina, con el que, no sólo las almas, sino las cosas también se salvan.
-
-<sup>1</sup> Fragmento de un libro juvenil sobre la estética del baile, que no llegó a terminarse. Vasconcelos presentó estas ideas en una sesión del Ateneo de México entre 1910 y 1911, con ejemplos de baile. El texto fue publicado en La Antorcha, 30 de abril de 1925, pp. 8–9 y 14.

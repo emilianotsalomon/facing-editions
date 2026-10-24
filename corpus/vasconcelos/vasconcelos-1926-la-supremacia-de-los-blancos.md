@@ -12,6 +12,7 @@ source: ‘7.0.1 La supremacía de los blancos.html’ (HTML reader) — THIS FI
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 1
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

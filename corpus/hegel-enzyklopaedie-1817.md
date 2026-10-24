@@ -10,6 +10,7 @@ source: page files of _facing-pipeline/hegel-enz (generated — edit the page fi
 original_text: OCR of the scan, uncorrected (the scan in the PDF edition is the authority)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 302
+genre: Hegel and his school
 generated: 2026-10-24 by corpus.py
 ---
 

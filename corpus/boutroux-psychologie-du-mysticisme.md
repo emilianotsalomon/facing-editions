@@ -10,6 +10,7 @@ source: page files of _facing-pipeline/boutroux (generated — edit the page fil
 original_text: corrected transcription of the print (by the translators, checked by the reviewers)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 20
+genre: Psychology and religion
 generated: 2026-10-24 by corpus.py
 ---
 

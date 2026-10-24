@@ -10,6 +10,7 @@ source: ‘trendelenburg-lu-2.de.md’ — THIS FILE IS THE SOURCE, corrections 
 original_text: OCR text as supplied (Markdown/plain), uncorrected unless the file says otherwise
 translation: none
 pages: 538
+genre: Logic
 generated: 2026-10-24 by corpus.py
 ---
 

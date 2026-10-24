@@ -12,6 +12,7 @@ source: ‘6.0 Educational Aspirations - Jose Vasconcelos (1924).html’ (HTML r
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 2
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

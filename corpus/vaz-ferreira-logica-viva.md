@@ -10,6 +10,7 @@ source: recovered from the PDF ‘Vaz Ferreira - Lógica viva - Living Logic (ES
 original_text: OCR text layer of the scan, uncorrected
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 225
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

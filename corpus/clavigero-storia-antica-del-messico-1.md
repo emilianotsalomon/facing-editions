@@ -10,6 +10,7 @@ source: recovered from the PDF ‘Clavigero - Storia antica del Messico TOMO I (
 original_text: not in this file (scan only — see the PDF edition)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 317
+genre: History of the Americas
 generated: 2026-10-24 by corpus.py
 ---
 

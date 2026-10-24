@@ -12,6 +12,7 @@ source: ‘1 vasconcelos-b.html’ (HTML reader) — THIS FILE IS THE SOURCE, co
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 23
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

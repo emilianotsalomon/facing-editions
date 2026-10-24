@@ -12,6 +12,7 @@ source: ‘8.0.1 Why I Became a Magazine Editor.html’ (HTML reader) — THIS F
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 2
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

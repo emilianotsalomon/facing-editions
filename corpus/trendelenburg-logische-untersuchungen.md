@@ -10,6 +10,7 @@ source: chunk files in trendelenburg-chunks (tag-aligned blocks) — THIS FILE I
 original_text: OCR of the print, corrected by the translators where evident
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 538
+genre: Logic
 generated: 2026-10-24 by corpus.py
 ---
 

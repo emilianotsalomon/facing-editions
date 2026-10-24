@@ -12,6 +12,7 @@ source: ‘6.1 mensaje_vasconcelos_1924.html’ (HTML reader) — THIS FILE IS T
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 0
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

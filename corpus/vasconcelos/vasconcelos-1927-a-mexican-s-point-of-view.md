@@ -12,6 +12,7 @@ source: ‘7.2 (1927) A Mexican's Point of View.html’ (HTML reader) — THIS F
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 41
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

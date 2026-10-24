@@ -10,6 +10,7 @@ source: ‘klages-persoenlichkeit.md’ — THIS FILE IS THE SOURCE, corrections
 original_text: OCR text as supplied (Markdown/plain), uncorrected unless the file says otherwise
 translation: none
 pages: 35
+genre: Lebensphilosophie
 generated: 2026-10-24 by corpus.py
 ---
 

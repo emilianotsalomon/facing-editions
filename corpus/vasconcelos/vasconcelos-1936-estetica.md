@@ -12,6 +12,7 @@ source: ‘9 Estetica-Vasconcelos-completa.html’ (HTML reader) — THIS FILE I
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 363
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

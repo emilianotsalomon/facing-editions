@@ -12,6 +12,7 @@ source: ‘98.9 Geografía Estética de México.html’ (HTML reader) — THIS F
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 8
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

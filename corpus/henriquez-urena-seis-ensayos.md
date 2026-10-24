@@ -10,6 +10,7 @@ source: page files of _facing-pipeline/seis (generated — edit the page files, 
 original_text: the source PDF's own text (born-digital)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 138
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

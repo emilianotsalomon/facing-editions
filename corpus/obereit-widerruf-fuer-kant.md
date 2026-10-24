@@ -10,6 +10,7 @@ source: ‘obereits-wiederruf.pdf’ — THIS FILE IS THE SOURCE, corrections go
 original_text: text layer of the PDF — uncorrected where it is OCR
 translation: none
 pages: 38
+genre: Kant and post-Kantian philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

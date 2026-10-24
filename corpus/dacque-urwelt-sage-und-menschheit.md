@@ -10,6 +10,7 @@ source: ‘Edgar_Dacqué_Urwelt_Sage_und_Menschheit.pdf’ — THIS FILE IS THE 
 original_text: text layer of the PDF — uncorrected where it is OCR
 translation: none
 pages: 383
+genre: Myth and symbolism
 generated: 2026-10-24 by corpus.py
 ---
 

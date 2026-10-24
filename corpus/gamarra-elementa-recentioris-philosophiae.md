@@ -10,6 +10,7 @@ source: recovered from the PDF ‘Gamarra - Elementa recentioris philosophiae (L
 original_text: not in this file (scan only — see the PDF edition)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 544
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

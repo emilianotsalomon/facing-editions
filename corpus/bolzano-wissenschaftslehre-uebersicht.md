@@ -10,6 +10,7 @@ source: page files of _facing-pipeline/bolzano (generated — edit the page file
 original_text: OCR of the scan, uncorrected (the scan in the PDF edition is the authority)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 228
+genre: Logic
 generated: 2026-10-24 by corpus.py
 ---
 

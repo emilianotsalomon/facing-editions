@@ -10,6 +10,7 @@ source: recovered from the PDF ‘Logica_mexicana_facing.pdf’ (the page files 
 original_text: OCR text layer of the scan, uncorrected
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 771
+genre: Logic
 generated: 2026-10-24 by corpus.py
 ---
 

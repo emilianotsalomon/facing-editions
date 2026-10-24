@@ -12,6 +12,7 @@ source: ‘4.2 El Día del Maestro.html’ (HTML reader) — THIS FILE IS THE SO
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 1
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

@@ -12,6 +12,7 @@ source: ‘7.1 vasconcelos-aspects.html’ (HTML reader) — THIS FILE IS THE SO
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 110
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

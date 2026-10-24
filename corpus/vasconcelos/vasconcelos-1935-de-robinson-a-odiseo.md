@@ -12,6 +12,7 @@ source: ‘92 de_robinson_a_odiseo.html’ (HTML reader) — THIS FILE IS THE SO
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 222
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 
@@ -955,6 +956,8 @@ Casi sin límites puede, entonces, desarrollar la Universidad iberoamericana las
 
 Conservar la cultura y difundirla, aumentarla por obra de investigación y de creación, organizar y defender el alma nacional, reglamentar y crear el profesionalismo, colaborar en la educación pública construyendo una aristocracia del espíritu y con ella aconsejar, dirigir los destinos patrios con miras de universidad; tal es, en resumen, la tarea de las Universidades.1</sup><sup>1</sup>
 
+<sup>1</sup> Para que se vea hasta qué punto es actual lo que decimos, piénsese en la experiencia del presidente Rooselvet, que de la Universidad ha sacado su «trust de cerebros», no sólo especialistas de la economía y las finanzas, sino también organizadores y orientadores, filósofos sociales. Interesante ensayo de platonismo político está demostrando, ya que no hay mejor realismo que el platonismo, tan calumniado, por temido, de los calibanes que tienen usurpada la realidad. Pues sólo un real platonismo se decide a romper la hegemonía de los banqueros, a poner en liquidación compañías de transportes que fundaron su éxito en el fraude y en colusión con héroes nacionales que sirven de cómplices tal vez ingenuos, prestando al fraude el apoyo de su popularidad, como acaba de verse en el caso de Lindberg, el aviador. Pues bien, sólo el idealista, sí es además sabio y filósofo, cuenta con la autoridad necesaria para librar a los pueblos de tal acumulación de circunstancias nefastas.
+
 #### Política universitaria
 
 La Universidad también puede hacer política y aun imperialismo. De la mejor clase de imperialismo, del que más falta hace en el continente hispánico. Sin duda, el mayor acierto de toda la política exterior de México –disparatada desde el momento que nuestra nación traicionó a su ministro Lucas Alamán– fue la práctica [p. 199] que logré establecer durante unos cuantos años al otorgar sesenta becas a estudiantes centroamericanos. De no haber vuelto a triunfar en México la misma traición que derrocó a Alamán, hoy el servicio de becas iberoamericanas abarcaría el continente hispánico y la capital de México sería la metrópoli de una estirpe, cumpliendo así el deber que le impone su antiguo abolengo.
@@ -1018,6 +1021,8 @@ En suma, el auto sacramental calderoniano. ¿Acaso no es lógico que alguna vez 
 #### El dibujo
 
 Desde que se mandaron retirar de las escuelas los manuales norteamericanos para la enseñanza del dibujo, la dirección de Bellas Artes tomó sobre sí la responsabilidad del arte gráfico en la enseñanza. Para subsistir al maestro normalista se dispuso del sinnúmero de pintores sin trabajo que anualmente gradúa nuestra vieja Academia de Bellas Artes. Para dar un programa uniforme a todo este nuevo personal, se siguieron dos sistemas: el del dibujo y pintura directos según modelo tomado del natural y el sistema de dibujo decorativo inventado por el pintor mexicano Adolfo Best, que consiste en siete elementos tomados al arte de todos los tiempos y combinados según las múltiples ocurrencias de cada fantasía.2</sup><sup>2</sup>
+
+<sup>2</sup> De sus experiencias de aquella época derivó Best un sistema, adoptado más tarde por algunas escuelas de Norteamérica y cuya doctrina consta en el libro que le editó, en inglés, la casa Knopf, de Nueva York, año 1926.
 
 El grupo de maestros del natural se repartió en las escuelas y creó, además, las academias al aire libre; en ellas y en la escuela se despertó el interés en tal forma que se disfrutaba la ilusión de ver aparecer generaciones enteras de artistas infantiles.
 
@@ -1167,6 +1172,8 @@ Con las películas educativas de ciencias y de historia natural se podrían orga
 
 Probablemente, lo que más urge en estos instantes en el campo de la pedagogía no es un nuevo método para enseñar las viejas cosas, sino un plan realmente moderno que incorpore a la enseñanza lo que la era científica puede darle: el mejoramiento del útil. En educación como en la industria y en lo demás, al fin y al cabo, la época moderna no hace sino perfeccionar, acrecentar [p. 236] nuestros medios. Hoy es más fácil enseñar a leer que antes. Lo que enseñamos, una vez que se ha aprendido a leer, no difiere en esencia de lo que decía la antigüedad; pero el modo de la enseñanza ha cambiado y ha mejorado gracias a la proyección de la imagen en la pantalla, gracias a la reproducción fonética del gramófono, etc. Y más harán los que buscan novedades si adaptan los métodos nuevos a los viejos fines que si andan queriendo cambiar los fines cuando lo único que modifica en torno al siglo es la vestimenta de la civilización y sus manos, no su entraña ni su alma.3</sup><sup>3</sup> [p. 237] EL DEPARTAMENTO DE BIBLIOTECAS Sus propósitos no sólo auxiliares, sino esenciales en la cultura moderna se han explicado ya, por lo que aquí nos referimos únicamente a los rasgos generales de su organización. Insistimos también, para comenzar, en que no es completa una gestión educativa que no cuente con el material de libros que supone un sistema de bibliotecas y con ideas claras acerca de lo que se ha de hacer de los libros.
 
+<sup>3</sup> El distinguido hombre de letras peruano Manual Beltroy presentó al Ministerio de Educación de la Argentina, en el año de 1933, un programa de enseñanza de la música en la primaria por radiofonía que es lástima no haya podido vencer la rutina burocrática.
+
 El primer paso de una política librera es la reorganización y fortalecimiento de todas las viejas bibliotecas que de alguna manera dependen de organizaciones oficiales y la protección y apo-
 
 ⁂
@@ -1230,6 +1237,8 @@ Una gran cúpula central bizantina, cubierta en el exterior de oro o de porcelan
 Bajo esta cúpula de milagro quedaría el salón principal de lectura. El mosaico sería entonces como una síntesis suspendida sobre la cabeza de lectores humildes o geniales. Algo como un resumen del máximo libro, síntesis de cuanto ha engendrado el saber.
 
 El cimborrio se dejaría sin vitrales, para dar libre acceso al juego de los rayos del sol. En las pechinas, cuatro ángeles de tipo característico representarían las razas principales de la familia humana que aspira a la luz: un ángel negro, uno indígena, otro asiático y otro blanco: las cuatro razas ya establecidas en el Mundo Nuevo, cuya misión es fusionarlas. Los arcos torales ajustados al gusto bizantino, decorados con mosaicos en oro, azules y rojos, reposarían en capiteles finamente tallados a lo Bizancio, sin volutas ni acantos estériles. El fuste de las columnas luciría los mejores mármoles del país en colores variados, así como las pilastras y tableros. Una profusión de leyendas y pensamientos ilustres se mezclarían al mosaico de los muros como para precisar la meditación excitada por la lectura. En los retablos y en lienzos adecuados se fijarían preferentemente, en mosaicos, escenas célebres de la cultura; Sócrates en su último cenáculo, Nietzsche soñando a la media noche el retorno eterno, Dante asomado a las estrellas, la elevación de la hostia del Berruguete,4</sup><sup>4</sup> Cortés derribando ídolos. Medallones con retratos de filósofos, poetas, novelistas y literatos ocuparían sitios de honor. Bajo un espléndido arco, o bien en el ábside, se podría levantar el monumento a Platón, con su cabeza de mármol, la más bella de todas las cabezas humanas. La sala, en paralelogramo, se prolongaría bajo la nave central, con bóveda de cañón, sin una sola nervadura gótica, y comunicada con las naves laterales. Anexos a éstas se crearían capillas o salas para secciones especiales de la Biblioteca. [p. 247] Los anaqueles ocuparían el zócalo de todos los muros, pero evitando canceles que obstruyan la vista, pues lo esencial será conservar la sensación de espacio, que es tónico del espíritu y casi su terapéutica. Sólo bajo una alta bóveda se piensa bien, y los que han pensado mejor lo hicieron bajo el firmamento o bajo las estrellas.
+
+<sup>4</sup> Este cuadro de Berruguete se le podría comprar al museo de la Catedral de Segovia, donde se encuentra.
 
 Una capilla se destinaría a los libros peores de la humanidad; los que incitan la soberbia, la lujuria, la gula, el fraude. Los libros destructores se encerrarían así en la cueva de lo monstruoso, que nada puede contra el día. El pecado espiritual entre rejas, pero abierto el portillo para los mayores.
 
@@ -1346,11 +1355,3 @@ Ma . Luisa Soler A.
 De Robinsón a Odiseo [p. 267]
 
 *[Note on the text: Se terminó de imprimir en febrero de 2001, en los talleres de Grafo Print Editores, S.A., Avenida Insurgentes 4274, Colinas de San Jerónimo 64630, Monterrey, Nuevo León, México. Se utilizó tipografía Times en 12 puntos. / Cuidado de la Edición: Laura Guillén / Diseño: Ma. Luisa Soler A.]*
-
-<sup>1</sup> Para que se vea hasta qué punto es actual lo que decimos, piénsese en la experiencia del presidente Rooselvet, que de la Universidad ha sacado su «trust de cerebros», no sólo especialistas de la economía y las finanzas, sino también organizadores y orientadores, filósofos sociales. Interesante ensayo de platonismo político está demostrando, ya que no hay mejor realismo que el platonismo, tan calumniado, por temido, de los calibanes que tienen usurpada la realidad. Pues sólo un real platonismo se decide a romper la hegemonía de los banqueros, a poner en liquidación compañías de transportes que fundaron su éxito en el fraude y en colusión con héroes nacionales que sirven de cómplices tal vez ingenuos, prestando al fraude el apoyo de su popularidad, como acaba de verse en el caso de Lindberg, el aviador. Pues bien, sólo el idealista, sí es además sabio y filósofo, cuenta con la autoridad necesaria para librar a los pueblos de tal acumulación de circunstancias nefastas.
-
-<sup>2</sup> De sus experiencias de aquella época derivó Best un sistema, adoptado más tarde por algunas escuelas de Norteamérica y cuya doctrina consta en el libro que le editó, en inglés, la casa Knopf, de Nueva York, año 1926.
-
-<sup>3</sup> El distinguido hombre de letras peruano Manual Beltroy presentó al Ministerio de Educación de la Argentina, en el año de 1933, un programa de enseñanza de la música en la primaria por radiofonía que es lástima no haya podido vencer la rutina burocrática.
-
-<sup>4</sup> Este cuadro de Berruguete se le podría comprar al museo de la Catedral de Segovia, donde se encuentra.

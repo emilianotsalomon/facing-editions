@@ -12,6 +12,7 @@ source: ‘98.8 Manual de filosofia.html’ (HTML reader) — THIS FILE IS THE S
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 359
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

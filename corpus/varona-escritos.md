@@ -10,6 +10,7 @@ source: page files of _facing-pipeline/escritos (generated — edit the page fil
 original_text: OCR of the scan, uncorrected (the scan in the PDF edition is the authority)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 85
+genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 

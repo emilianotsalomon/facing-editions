@@ -10,6 +10,7 @@ source: recovered from the PDF ‘Tiberghien_Logique_I_facing.pdf’ (the page f
 original_text: not in this file (scan only — see the PDF edition)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 487
+genre: Logic
 generated: 2026-10-24 by corpus.py
 ---
 
