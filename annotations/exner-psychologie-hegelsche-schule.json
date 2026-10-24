@@ -1,6 +1,35 @@
-{"items": [
- {"id": "demo1", "user": "ES", "time": "2026-10-24T22:30:00Z", "type": "hl", "color": "straw", "card": "c3", "quote": "literary journal", "prefix": "", "suffix": ""},
- {"id": "demo2", "user": "ES", "time": "2026-10-24T22:31:00Z", "type": "cm", "card": "c3", "quote": "well-tested thoughts", "prefix": "", "suffix": "", "text": "Exner's modesty topos; compare the Vorrede of Herbart's Psychologie als Wissenschaft."},
- {"id": "demo3", "user": "ES", "time": "2026-10-24T22:32:00Z", "type": "ul", "card": "c3", "quote": "Hoffnung hatte", "prefix": "", "suffix": ""},
- {"id": "demo4", "user": "ES", "time": "2026-10-24T22:33:00Z", "type": "st", "card": "c3", "quote": "little hope", "prefix": "", "suffix": ""}
-]}
+{
+ "items": [
+  {
+   "id": "demo2",
+   "user": "ES",
+   "time": "2026-10-24T22:31:00Z",
+   "type": "cm",
+   "card": "c3",
+   "quote": "well-tested thoughts",
+   "prefix": "",
+   "suffix": "",
+   "text": "Exner's modesty topos; compare the Vorrede of Herbart's Psychologie als Wissenschaft."
+  },
+  {
+   "id": "demo3",
+   "user": "ES",
+   "time": "2026-10-24T22:32:00Z",
+   "type": "ul",
+   "card": "c3",
+   "quote": "Hoffnung hatte",
+   "prefix": "",
+   "suffix": ""
+  },
+  {
+   "id": "demo4",
+   "user": "ES",
+   "time": "2026-10-24T22:33:00Z",
+   "type": "st",
+   "card": "c3",
+   "quote": "little hope",
+   "prefix": "",
+   "suffix": ""
+  }
+ ]
+}
