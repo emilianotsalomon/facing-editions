@@ -28,17 +28,17 @@ AND
 
 D I S S E RTAT I O N S On the Land, the Animals, and the inhabitants of Mexico.
 
-A WORK
+## A WORK
 
-BY THE ABBÉ
+## BY THE ABBÉ
 
 D O N F R A N C E S C O S AV E R I O
 
 C L AV I G E R O
 
-VOLUME I.
+## VOLUME I
 
-CESENA, MDCCLXXX.
+## CESENA, MDCCLXXX
 
 Printed by Gregorio Biasini at the Sign of Pallas
 
@@ -46,15 +46,15 @@ With Permission of the Superiors.
 
 [PDF 2]
 
-iij
+## iij
 
-T O T H E ROYA L
+## T O T H E ROYA L
 
 and
 
-PONTIFICAL
+## PONTIFICAL
 
-UNIVERSITY
+## UNIVERSITY
 
 O F M E X I C O.
 
@@ -100,7 +100,7 @@ Deign meanwhile to accept this labor of mine as a token of my most sincere love 
 
 Bologna, 13 June 1780.
 
-Your Most Illustrious Lordships’
+## Your Most Illustrious Lordships’
 
 Affectionate compatriot and most humble servant,
 
@@ -132,7 +132,7 @@ Fr. Antonius Gatti, Vicar of the Holy Office of Cesena.
 
 [p. 1]
 
-P R E FAC E
+## P R E FAC E
 
 he ancient History of Mexico, which I undertook in order
 
@@ -376,17 +376,17 @@ C2                     such
 
 such rude monuments contained was entirely lost, and no information remained concerning the ancient revolutions and policy of the empire, but what was derived from tradition, or from some fragments of their historical paintings that escaped the barbarous researches of Zummaraga. From the experience of all nations it is manifest, that the memory of past transactions can neither be long preserved, nor be transmitted with any fidelity by tradition. The Mexican paintings, which are supposed to have served as annals of their empire, are few in number, and of ambiguous meaning. Thus amidst the uncertainty of the former, and the obscurity of the latter, we must glean what intelligence can be collected from the scanty materials scattered in the Spanish writers.” But in all this the author is mistaken; for, 1. the materials found in the Spanish historians are not so scanty that a reasonable, though not altogether complete, history of the Mexicans cannot be formed from them, as is manifest to anyone who consults them without partiality: it is enough to know how to make the choice, and to separate the grain from the chaff. 2. Nor, in order to write such a history, is there need to rely on the materials scattered among the Spaniards, since there are so many Histories and Memoirs written by the Indians themselves, of which Robertson had no knowledge. 3. Nor are the historical paintings that escaped the researches of the first missionaries few, except in relation to the unspeakable abundance that existed before, as may easily be seen in our history, and in that of Torquemada, and of other writers. 4. Neither are such paintings of ambiguous meaning, except to Robertson, and to all those who do not understand the characters and the figures of the Mexicans, nor know the method that they had for representing things, just as our writings are of ambiguous meaning to those who have not learned to read. When the lamentable burning of the paintings was carried out by the missionaries, there were living very many historians, Acolhuas, Mexicans, Tepanecs, Tlaxcalans, etc., who exerted themselves to repair the loss of such monuments, as in part they succeeded in doing, now by making new paintings, now by making use of our characters, already learned by them, now by instructing
 
-their
+## their
 
 [p. 21]
 
 their own preachers by word of mouth in their antiquities, so that they might preserve them in their writings, as did Motolinía, Olmos, and Sahagún. It is therefore absolutely false that whatever knowledge of remote events… was entirely lost. It is false likewise that no information remained concerning the ancient revolutions and policy of the empire, but what was derived from tradition, &c. In our history, and principally in our dissertations, we shall make plain some of the many errors that there are in the history of the aforesaid author, and in the works of other foreign writers, of whom large volumes could be made. Not content with vitiating the history of Mexico with the errors, absurdities, and lies written in their books, some authors have also spoiled it with lying pictures and figures engraved on copper, such as those of the famous Theodor de Bry. In Gage’s work, in M. Prévost’s general history of voyages, and in others, there is depicted a fine road built over the Mexican lake for going from Mexico to Texcoco, which is certainly the greatest absurdity in the world. In the great work entitled La Galerie agréable du monde there are depicted the ambassadors sent in ancient times to the court of Mexico mounted on horseback upon elephants. This is, without a doubt, a magnificent lie.
 
-Paintings
+## Paintings
 
 [p. 22]
 
-PAINTINGS
+## PAINTINGS
 
 W       e do not pretend to make here a register of all the Mexican
 
@@ -422,7 +422,7 @@ of
 
 of these paintings, containing some events of the conquest, and some fine portraits of the Mexican kings. In 1770 there were published in Mexico, together with Cortés’s letters, the figure of the Mexican year and thirty-two copies of as many paintings of the tributes that several cities of Mexico paid to that crown, the one and the others taken from the Boturini Museum. Those of the tributes are the same as those of the Mendoza collection, published by Purchas and by Thévenot. Those of Mexico are better engraved, and have the figures of the tributary cities, which for the most part are lacking in the others; but for the rest, six copies of those belonging to the tributes are altogether wanting in them, and there are a thousand absurdities in the interpretation of the figures, caused by ignorance of antiquity and of the Mexican language. This must be noted, so that those who see that work printed in Mexico under a respected name may not for that reason trust it and stumble into some error.
 
-NOTICE.
+## NOTICE
 
 W       herever we make mention of toises, feet, and inches without
 
@@ -436,7 +436,7 @@ History of Mexico, Vol. I.                 D                  because
 
 because their names are so long that they would leave no room for the names of the provinces. Those two little islands that are seen in the Gulf of Mexico are hardly a mile and a half from the coast; but it pleased the engraver to represent them farther off. One of them is the one that the Spaniards called San Juan de Ulúa.
 
-Ancient
+## Ancient
 
 [PDF 34]
 
@@ -446,9 +446,9 @@ awn by the author of the Ancient History of Mexico, 1780. (Folding map; this cop
 
 A N C I E N T H I S T O RY
 
-OF MEXICO
+## OF MEXICO
 
-BOOK I.
+## BOOK I
 
 Description of the country of Anahuac, or a brief account of the land, the climate, the mountains, the rivers, the lakes, the minerals, the plants, the animals,
 
@@ -2984,7 +2984,7 @@ belly red, except in the part nearest the tail, which is variegated with
 
 white and blue; the tail green above and black beneath, the wings
 
-partly black and partly white, and the eyes black with a reddish-yel‐
+## partly black and partly white, and the eyes black with a reddish-yel‐
 
 low iris. This beautiful bird lives in the maritime lands.
 
@@ -7770,7 +7770,7 @@ brothers
 
 brothers of his, from among whom you can choose a lord who will govern you and a father who will welcome you. Imagine that for a Bk. III. short time the sun has been eclipsed and the earth darkened, and that now the light returns to us in the new king. What matters is that, without lingering in long conferences, we elect a prince who will restore the honor of our nation, avenge the affronts done to it, and set it again in its primitive liberty.” They proceeded at once to the election, and Prince Itzcoatl was elected by common consent, half-brother on the father’s side of the two preceding kings, and natural son of Acamapichtli, born of a slave woman. As much as he might lose in esteem by the unfortunate condition of his mother, so much was he worthy by the nobility and renown of his father, and far more by his own virtues, of which he gave many examples in the post of general of the Mexican armies, which he had held for more than thirty years. He was esteemed the most prudent, upright, and valiant man of the whole nation. Placed upon the Tlatocaicpalli, or royal seat, he was saluted as king by all the nobility with singular acclamations. Then one of the orators made him an address on the obligations of a sovereign: “All of us, O great king and lord,” he said to him among other things, “all of us now hang upon you. On your shoulders are borne the old, the orphans, and the widows. Will you have the heart to lay down this burden? Will you allow the children who crawl on the ground to perish at the hands of our enemies? Come, lord, begin to spread out your mantle to carry on your back the poor Mexicans, who flatter themselves that they live secure beneath the cool shade of your kindness.” This ceremony over, the exaltation of the new monarch was celebrated with public dances and games. It was no less applauded by Nezahualcoyotl and by his whole party: for no one doubted that the new king would be a constant ally of the prince his brother-in-law; and they hoped for great advantages from his prowess and from his military skill; but to the Tepanecs and their allies, and above all to the Tyrant, such an election was very displeasing.
 
-Itzcoatl
+## Itzcoatl
 
 [p. 208]
 
@@ -8990,7 +8990,7 @@ scripts and paintings of his most valuable museum.
 
 of punishment, not only for the rebellion but also for other new crimes. At this time they had the rashness to take prisoner a brother Bk. IV. of King Moctezuma himself, who was, as we believe, lord of Ehecatepec, together with other Mexicans. Such an attempt, carried out upon a person so closely bound in blood to their sovereign, seems to have been a means devised by them to withdraw from the dominion of the Mexicans and make the city of Chalco a rival of that of Mexico; for they wished to make that lord king of Chalco, and often, though in vain, proposed it to him. He, seeing them obstinate in their resolution, told them that he accepted the crown offered to him; and in order that the act of his exaltation might be more solemn, he wished a very tall tree to be planted in the marketplace, and a scaffold to be made upon it, from which he could be seen by all. Everything was done as he required, and, gathering the Mexicans around the tree, he climbed upon the scaffold with a nosegay of flowers in his hand; and from that height, in view of an immense throng of people, he spoke to his own thus: “You know well, brave Mexicans, that the Chalcas wish to crown me king; but may it not please our god that I should betray our country: rather I wish to teach you by my example to prize the fidelity owed to it more than life itself.” And having said this he hurled himself from the scaffold. An act truly barbarous, but quite in conformity with the ideas that the ancients had of magnanimity, and so much the less blameworthy than that of Cato and of others celebrated by antiquity as the motive was nobler and the spirit of the Mexican greater. This resolution so inflamed the anger of the Chalcas that they at once fell upon the other Mexicans and killed them with lance thrusts. The following night they chanced to hear the melancholy cry of an owl, and, as men given to superstition, they took it for a bad omen of their imminent ruin. Nor were they mistaken in their presentiment of their misfortune; for Moctezuma, gravely angered by their rebellion and by their enormous outrages, immediately proclaimed the
 
-war
+## war
 
 [p. 240]
 
@@ -9994,7 +9994,7 @@ B O O K V.
 
 Events of the reign of Moctezuma II, ninth king of Mexico, up to the year
 
-1519. Account of his life, of his government, and of the magnificence of his
+## 1519. Account of his life, of his government, and of the magnificence of his
 
 palaces, gardens, and woods. War of Tlaxcala, and the fortunes of Tlahuicole, a
 
@@ -10774,7 +10774,7 @@ Bk. V.
 
 Tzotzollan. Before anything else they treacherously killed all the
 
-§ 8. Mexicans who were in the garrisons of Huaxyacac and of other
+## § 8. Mexicans who were in the garrisons of Huaxyacac and of other
 
 Rebellion of the places. As soon as Moctezuma had news of this rebellion, he sent
 
@@ -11534,27 +11534,27 @@ End of the First Volume.
 
 [PDF 313]
 
-TRACED FROM THE BEGINNING OF THE THIRTEENTH CENTURY.
+## TRACED FROM THE BEGINNING OF THE THIRTEENTH CENTURY
 
-Ilhuicatl married to
+## Ilhuicatl married to
 
-Tlacapantzin about the year
+## Tlacapantzin about the year
 
 1220.
 
-Huitzilihuitl the Elder
+## Huitzilihuitl the Elder
 
-Opochtli married to Atozoztli
+## Opochtli married to Atozoztli
 
 ACAMAPICHTLI King I of Mexico
 
-Tezozomoctli
+## Tezozomoctli
 
 ITZCOATL HUITZILIHUITL = CHIMALPOPOCA =         married to     =                        King IV of King II of Mexico King III of Mexico Matlalatzin his
 
 Mexico
 
-niece
+## niece
 
 Matlalcihuatzin
 
@@ -11564,7 +11564,7 @@ King of                   King V of Mexico                                  uncl
 
 Acolhuacan
 
-AXAYACATL                                     AHUITZOTL
+## AXAYACATL                                     AHUITZOTL
 
 =                            =
 
@@ -11590,7 +11590,7 @@ Acolhuacan                    of Acolhuacan
 
 MOCTEZUMA Ixtlilcuechahuac     =
 
-XOCOYOTZIN = CUITLÁHUAC =
+## XOCOYOTZIN = CUITLÁHUAC =
 
 Ahuitzotl Lord of Tollan                 King IX of King X of Mexico
 
@@ -11616,11 +11616,11 @@ Don Diego Luis Ihuitemoctzin Moctezuma, married in Spain to Doña Francisca de l
 
 [p. 303]
 
-INDEX
+## INDEX
 
 O F VO L U M E I .
 
-BOOK I.
+## BOOK I
 
 § 1 Division of the Country of Anahuac.                              p. 27 2 Provinces of the Kingdom of Mexico.                                   31 3 Rivers, Lakes, and Springs.                                           36 4 Climate of Anahuac.                                                   39 5 Mountains, Stones, and Minerals.                                      40 6 Plants Valued for Their Flowers.                                      45 7 Plants Prized for Their Fruit.                                        48 8 Plants Valued for Their Root, Their Leaves, Their Stem, or Their
 
@@ -11634,7 +11634,7 @@ Qq             19 Founding
 
 § 19 Founding of Mexico.                                                             p. 168 20 Division of the Tenochca and the Tlatelolcas.                                        170 21 Inhuman Sacrifice.                                                                   171
 
-BOOK III.
+## BOOK III
 
 § 1 Acamapichtli, First King of Mexico.                                              p. 173 2 Cuacuauhpitzahuac, First King of Tlatelolco.                                          174 3 Burdens Imposed on the Mexicans.                                                      175 4 Huitzilihuitl, Second King of Mexico.                                                178 5 Techotlalatzin, King of Acolhuacan.                                                  180 6 Enmity of Prince Maxtla toward the Mexicans.                                         182 7 Tlacateotl, Second King of Tlatelolco.                                               184 8 Ixtlilxochitl, King of Acolhuacan.                                                   184 9 Chimalpopoca, Third King of Mexico.                                                  186 10 Memorable Deed of Cihuacuecuenotzin.                                                187 11 Tragic Death of King Ixtlilxochitl, and Tyranny of Tezozomoc.                       189
 
@@ -11654,7 +11654,7 @@ B O O K I V. § 1 Restoration of the Royal Family of the Chichimecs to the Thron
 
 B O O K V. § 1 Moctezuma II, Ninth King of Mexico.                      264 2 Conduct and Ceremonial of King Moctezuma.                  267 3 Magnificence of the Royal Palaces and Houses.              271 4 The Good and the Bad in Moctezuma.                         274 5 War of Tlaxcala.                                           275 6 Tlahuicole, Celebrated General of the Tlaxcalans.          281 7 Famine in Mexico, and Public Works.                        282 8 Rebellion of the Mixtecs and the Zapotecs.                 284 9 Dispute between the Huexotzincas and the Cholulans.        284 10 Expedition against Atlixco and Other Places.              285 11 Presages of the War with the Spaniards.                   286 12 Memorable Occurrence Concerning a Mexican Princess.       287 13 Remarkable Phenomena.                                     292 14 Erection of a New Altar for the Sacrifices, etc.          293 15 Death and Eulogy of King Nezahualpilli.                   294 16 Revolutions of the Kingdom of Acolhuacan.                 297
 
-ERRATA
+## ERRATA
 
 [p. 306]
 

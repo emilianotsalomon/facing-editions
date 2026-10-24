@@ -20,7 +20,7 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 [PDF 1]
 
-THE SCIENCE OF KNOWLEDGE
+## THE SCIENCE OF KNOWLEDGE
 
 [PDF 2]
 
@@ -28,25 +28,25 @@ Brussels. — Printed by A. Lacroix, Verboeckhoven & Co., rue Royale, 3, impasse
 
 [PDF 3]
 
-THE SCIENCE OF KNOWLEDGE
+## THE SCIENCE OF KNOWLEDGE
 
 BY
 
 G. TIBERGHIEN DOCTOR OF PHILOSOPHY. — ORDINARY PROFESSOR AT THE UNIVERSITY OF BRUSSELS
 
-PART ONE
+## PART ONE
 
-GENERAL THEORY OF KNOWLEDGE
+## GENERAL THEORY OF KNOWLEDGE
 
-ITS ORIGINS, ITS LAWS, ITS LEGITIMACY
+## ITS ORIGINS, ITS LAWS, ITS LEGITIMACY
 
-PARIS
+## PARIS
 
-LIBRAIRIE INTERNATIONALE
+## LIBRAIRIE INTERNATIONALE
 
 13, RUE DE GRAMMONT, 13 A. LACROIX, VERBOECKHOVEN & C ie , PUBLISHERS
 
-IN BRUSSELS, LEGHORN AND LEIPZIG
+## IN BRUSSELS, LEGHORN AND LEIPZIG
 
 1865
 
@@ -180,7 +180,7 @@ they are a gradual elevation of the mind to the infinite and absolute being, a m
 
 [PDF 22]
 
-I. THE NOTION OF LOGIC
+## I. THE NOTION OF LOGIC
 
 Every science is a body of knowledge, invested with the character of truth and certainty, set forth with method and presented in systematic form. The study of nature and mathematics, history and philosophy, deserve the name of science only on this condition. Isolated affirmations, without relation to one another, are apophthegms or aphorisms, like the sayings of the Sages of Greece; judgments passed in haste, probable indications, individual opinions, are prejudices, paralogisms or common knowledge. Something other than error and hypothesis is needed, something more than disconnected maxims, however just, to constitute science; truth and certainty are needed, method and system are needed. Science, whatever its object, is an organic whole, a body of doctrines whose members are regularly linked together, whose parts explain one another, in which everything holds together, is concatenated, and relates to everything else, as in a living body.
 
@@ -282,7 +282,7 @@ The first principles of philosophy constitute metaphysics, the general science o
 
 Logic depends on metaphysics, since the science of principles in general is also the science of the principles of logic, as they exist. This is why logic can be treated as a branch of metaphysics, in the synthetic part of science, as the deduction of the absolute principle (1). But metaphysics in its turn depends on logic, since the science of the general conditions of scientific knowledge is also the science of the possibility of metaphysics as a science. Metaphysics must satisfy the laws of thought, as logic must satisfy the laws of reality. When both are exact, they necessarily agree; but in the contrary case they contradict each other, and have the right to check each other mutually. Logic then attacks metaphysics, by demonstrating that it fails in the rules of method or of systematization; and metaphysics refutes logic, by proving in its turn that the principles which serve it as a basis are illusions, hypotheses, without foundation in the nature of things, and that the axioms which it rejects, or which it applies only in one sense, are in every respect the most incontestable truths, witness the law of contradiction.
 
-III. THE UTILITY OF LOGIC
+## III. THE UTILITY OF LOGIC
 
 The advantages of logic are those of philosophy: as a general science, it elevates, extends, and ripens thought, and tends to exert the same influence upon feeling and upon will. Philosophy, by giving to the faculties of the human soul the elevation, the extension, and the maturity which distinguish us from the lower beings of creation, by directing the spiritual forces toward the whole of things and toward the absolute principle, the ideal of reason, forms the character and gives to man the salutary conviction of his dignity, of his
 
@@ -364,7 +364,7 @@ of Aristotle and of Bacon, treats precisely of the organization of knowledge. Wh
 
 These two parts of logic are the matter of the two volumes that I am publishing. The following table presents them as a whole and allows their unity to be grasped:
 
-GENERAL PART
+## GENERAL PART
 
 Formation of Knowledge
 
@@ -398,7 +398,7 @@ Chap. II. Transcendent Knowledge: Existence of God.
 
 Chap. III. Conclusion.
 
-SPECIAL PART
+## SPECIAL PART
 
 Organization of Knowledge
 
@@ -442,15 +442,15 @@ Chap. III. Instrument of Science: The Method.
 
 [PDF 44]
 
-GENERAL PART
+## GENERAL PART
 
-THEORY OF KNOWLEDGE
+## THEORY OF KNOWLEDGE
 
 [PDF 45]
 
-BOOK ONE
+## BOOK ONE
 
-THE NOTION OF KNOWLEDGE
+## THE NOTION OF KNOWLEDGE
 
 Psychology teaches that the human mind possesses three fundamental faculties, irreducible, always distinct from one another, never separated in life: thought or intellect, feeling, and will. Two of these faculties, feeling and will, are foreign to logic—not that we can think without performing an act of will or without experiencing some emotion, but thought has its own laws and must not be diverted from its end by the influence of the other faculties of the soul. Science is not an affair of feeling and does not conform to our desires: we must see things as they are, and not as they please us or as we would wish them to be. Feeling and will can sustain, fortify, and warm thought, but they must not weigh upon it or lead it astray. The intellect alone has the mission of acquiring truth and certainty. It is therefore the intellect that we shall have to study
 
@@ -464,7 +464,7 @@ Thought is the faculty of knowing. To think is to have consciousness of an objec
 
 thought and that will guide us in the theory of knowledge (1).
 
-1. Will. Mind.   2. Feeling.
+## 1. Will. Mind.   2. Feeling.
 
 1. Conservation of cognitions: Memory.
 
@@ -504,9 +504,9 @@ then as of ourselves, in whatever manner we may have discovered them.
 
 To determine this notion of knowledge, we must analyze it in the three elements it contains, as subject, as object, and as relation.
 
-CHAPTER ONE
+## CHAPTER ONE
 
-THE SUBJECT OF KNOWLEDGE
+## THE SUBJECT OF KNOWLEDGE
 
 The subject of knowledge is thought, that is to say, the mind as an intelligent being. Intellect and thought are synonymous for us. And as the mind is one and its intellect is one, the subject of knowledge is always the same for each of us. The objects of thought may vary to infinity; the subject does not vary. However manifold our cognitions may be, they are always our cognitions, that is to say, the manifestations of one and the same individual substance. The whole sum of things can thus be reflected in each intellect; each self is a mirror of the world. Here again we see an image of human nature. Anthropology teaches that man is an epitome of the entire creation, that all the forces of the physical world and of the spiritual world are balanced in humanity and show themselves there at their highest power. The part is like the whole. The thought of rational beings reproduces, it seems, the universal organization, or becomes, as Leibniz said of his monads, representative of the entire universe.
 
@@ -548,9 +548,9 @@ But if cognitions are essentially variable as to their objects, are they not fix
 
 memories do not reach back to the first year of our earthly existence, it is impossible to decide by way of observation whether our cognitions have or have not a beginning in this world. All that can be affirmed with some likelihood is that knowledge is to the mind what light is to the eyes, that intelligible light has its dawn as physical light has, that we do not pass abruptly from the darkness of ignorance to the clearness of science, that knowledge, in short, is at first in us only in the state of a vague glimmer, and that it emerges insensibly and continuously, by a movement more or less rapid, according to the energies of the soul, the organic dispositions, and the circumstances without.
 
-CHAPTER TWO
+## CHAPTER TWO
 
-THE OBJECT OF KNOWLEDGE
+## THE OBJECT OF KNOWLEDGE
 
 The object of knowledge is as manifold as reality: it embraces first of all everything that is known, then everything that is intelligible; and is not the intelligible everything that is? To be sure, we do not yet know everything that exists in space, in time, in the entire world; but what we do not know at present, shall we not know one day, and do not some of our fellows know it already? By intelligible I mean what is accessible to the thought of rational beings, and I take care not to confound the limits of my own knowledge with those of human knowledge. Is there an object that is not intelligible, that cannot be known in some manner or other, true or false, complete or partial? It would be impossible to decide the question without trespassing on metaphysics, but it is important, at least, to understand its meaning.
 
@@ -728,7 +728,7 @@ Kant’s table is better coordinated. The categories are there represented as th
 
 various kinds of judgments and are themselves supra-sensible concepts, implied in all the complex operations of thought. Kant's error on this point consists in relying on the common division of judgments, without even seeking to complete and reform it, in order to discover the simplest elements of the intelligence. The categories are not posterior but anterior to judgment. Here first is the table of judgments:
 
-1. Quantity.                 2. Quality.
+## 1. Quantity.                 2. Quality.
 
 Singular judgment,           Affirmative judgment,
 
@@ -842,9 +842,9 @@ with matter and remains distinct from it without being separated from it: that i
 
 Here is the whole of the categories of being from these three points of view:
 
-I. Being considered in itself: the Thesis.
+## I. Being considered in itself: the Thesis.
 
-Being
+## Being
 
 Essence Form
 
@@ -948,11 +948,11 @@ Such is the table of the categories as a whole. A subject of this kind would req
 
 the errors that arise from an exclusive point of view cast upon the objects of thought. It is needless to add that in setting forth the categories as universal attributes we do not pretend to have demonstrated that they all apply to every thing. This question will present itself in connection with the laws and the legitimacy of our knowledge, and cannot be resolved without the aid of the deductive or synthetic part of science.
 
-CHAPTER THREE
+## CHAPTER THREE
 
 T H E R E L AT I O N B E T W E E N S U B J E C T A N D
 
-OBJECT IN KNOWLEDGE
+## OBJECT IN KNOWLEDGE
 
 We know what the subject is and what the possible objects of knowledge are; but knowledge is constituted only by a certain relation between subject and object. What is this relation? The object offers itself to thought, either because it imposes itself on the mind, if it is present, or because it waits to be discovered, if it lies beyond our horizon. How is it given to us? Knowledge, finally, has a twofold aspect, the one subjective, the other objective; how is it determined from these two points of view? That is what we must inquire into in order to complete the notion of knowledge in general.
 
@@ -1074,7 +1074,7 @@ Supra-sensible objects are therefore given immediately to reason, which is insep
 
 [PDF 111]
 
-THE ORIGINS OF KNOWLEDGE
+## THE ORIGINS OF KNOWLEDGE
 
 The division of knowledge according to its sources corresponds to the division of our receptive faculties: we have, on the one hand, sensible cognitions, which derive their origin from sensibility and imagination, and, on the other, non-sensible cognitions, which rest upon reason. Sensibility and reason nourish the whole life of the soul and distribute all its acts, intellectual or affective, into two groups, the one sensible or empirical, the other speculative or non-sensible. The former have a sensible intuition as their condition, the latter an intellectual intuition.
 
@@ -1128,9 +1128,9 @@ of the external sensible kind, so ill understood even now by those very persons 
 
 We shall neglect indeterminate knowledge, the existence of which it is enough for us to point out in order to fill a regrettable gap, one fruitful in consequences; applied knowledge, the developments of which are found in the philosophy of history; and internal sensible knowledge, which by itself fills experimental psychology or “the science of the soul within the limits of observation.”
 
-CHAPTER ONE
+## CHAPTER ONE
 
-SENSIBLE KNOWLEDGE
+## SENSIBLE KNOWLEDGE
 
 Logical Aesthetic.
 
@@ -1668,9 +1668,9 @@ Such is the sum of the consequences of sensualism. They are summed up in a word:
 
 good to pleasure, justice to force, God to matter. What can come of this? Disgust in all who have any moral feeling; if not, the ruin of society, a return to barbarism.
 
-CHAPTER TWO
+## CHAPTER TWO
 
-ABSTRACT KNOWLEDGE
+## ABSTRACT KNOWLEDGE
 
 Logical Analytic.
 
@@ -1940,7 +1940,7 @@ M. l’abbé Gratry is therefore very ill inspired (for science is for him a mat
 
 they are hypotheses to be verified, or truths self-evident in themselves that require no logical proof. Any proposition that is not deduced or demonstrated by synthesis leaves doubts remaining in the minds of those who are not sufficiently prepared to receive it. Certainty is individual. Thus Newton’s attraction, the fundamental principle of celestial mechanics, still passes for an hypothesis in the eyes of a great number of scientists who pride themselves on scientific rigor. The very principles of the infinitesimal analysis are not admitted without protest by mathematicians. It would be otherwise if intuition had the value of a demonstration. Intuition does not demonstrate, it shows, as Kepler said of his method. No one has ever protested against the theorems of geometry. The reason is that the geometrical method is something altogether different from induction. To indicate in anticipation how it applies to philosophy, I have only to refer to the Ethics of Spinoza.
 
-CHAPTER THREE
+## CHAPTER THREE
 
 R AT I O N A L K N O W L E D G E
 
@@ -2722,9 +2722,9 @@ T H E L AW S O F K N O W L E D G E
 
 Is knowledge subject to laws? What are these laws, and what is their value? These questions are still disputed and deserve a rigorous examination, for they are of a nature to cast some light upon the theory of knowledge. Sensualism and positivism, with the pretension of confining the whole of science within the limits of phenomena, are absolutely ignorant of the laws of thought, and the excommunication they pronounce upon the a priori elements of human knowledge proceeds, for the most part, from this oversight.
 
-CHAPTER ONE
+## CHAPTER ONE
 
-THE NOTION AND DIVISION OF THE
+## THE NOTION AND DIVISION OF THE
 
 L AW S O F T H O U G H T
 
@@ -2798,7 +2798,7 @@ It is evident, in any case, that from the laws of thought and of knowledge the p
 
 truth; but most often one goes astray, and never is one assured of having reached the end or of possessing complete elements that withstand criticism. Science is not improvised. We must proceed with method in the search for truth. Now to proceed with method is to follow exactly the laws of thought and of knowledge. The functions of thought consist in reflecting, grasping, and determining, and there are only two ways of determining an object; it may be observed in itself by intuition, or it may be referred to its principle by deduction. Hence analysis and synthesis, which are combined in construction. Whoever has grasped these laws sees at the same time how exclusive are the authors who absolutely reject one or the other of the instruments of the mind, and who imagine, for example, that experience is the sole and only method of science. But it is not enough to analyze and to deduce; these two inverse directions, ascending and descending, require a basis; a certain order must be observed in analysis and in synthesis, in order to obtain a sufficient determination and to be able afterward to compare the results of the two methods. This order resides in the system of the categories. The categories are the fundamental properties of things. If, then, method is to be applied to reality or to be regulated by the objects of science, as has been repeated since Aristotle, the table of the categories, or of the laws of knowledge, is the first necessity of method.
 
-CHAPTER TWO
+## CHAPTER TWO
 
 T H E L AW S O F T H O U G H T
 
@@ -2898,7 +2898,7 @@ a division to infinity. I take up again the form or the direction of the line. T
 
 Geometry, then, is not an experimental science, as some positivists assert. Experience, in the ordinary sense of the word, insofar as it has for its object real things subject to the senses, plays no part in it. But analysis shows itself in it in one of its applications, in its relations with the schemata of the imagination, which have only an abstract existence, like numbers. It is this application that is confounded with experience, in order afterward to confound experience with the whole of method. This is sheer ignorance of the laws of thought. Geometry is essentially deductive, a priori, like metaphysics, and sensible intuitions are manifested in it only as signs or symbols of general truths. The same system of construction is applicable to all the philosophical sciences.
 
-CHAPTER THREE
+## CHAPTER THREE
 
 T H E L AW S O F K N O W L E D G E
 
@@ -3060,7 +3060,7 @@ Such is the whole of the laws of knowledge, recognized in their organic relation
 
 [PDF 386]
 
-THE LEGITIMACY OF KNOWLEDGE
+## THE LEGITIMACY OF KNOWLEDGE
 
 We have studied knowledge in itself, in its origins and in its laws; we know what it is, into what species it is divided, and by what principles it is formed. It remains to examine whether it is legitimate, whether it attains its object, whether thought has an objective validity. This is the question of truth and certainty, or the question of science. Are our cognitions always exact? Evidently not, since error is possible for us. Can they be exact, and furthermore can we have firm assurance of that exactness? In other words, if by truth we understand the equation between thought and its object, and by certainty the consciousness of this adequate relation, can our cognitions ever be true and certain? Such is the point in dispute between dogmatism and skepticism. For the one, the human mind is capable of truth and certainty, under conditions to be determined in science; for the other, it is, whatever it may do, condemned to error and doubt. Truth, say the skeptics, is an illusion of which we are the dupes, and the
 
@@ -3092,9 +3092,9 @@ A starting point and a principle, linked together by method: such are the fundam
 
 scientific knowledge. By the one, science begins; by the other, it is completed. The first is the subjective basis of the development of thought; the second is its objective basis. The latter supports synthesis; the former, analysis. To demonstrate that these two conditions are fulfilled is to demonstrate the legitimacy of knowledge. The starting point belongs to our immanent knowledge, the principle to our transcendent knowledge. Let us examine the question from these two points of view.
 
-CHAPTER ONE
+## CHAPTER ONE
 
-IMMANENT KNOWLEDGE
+## IMMANENT KNOWLEDGE
 
 The starting point of science must be immediate, certain, universal. Psychology proves that there is a truth that unites these three conditions, that this truth is single and unique, and that it consists in the thought I. It is not a question of the existence of the self, nor of the identity of the self, according to the formulas of Descartes and of Fichte; for existence and identity are properties which would have to be defined and could be contested; that is not the primitive fact of consciousness; before affirming its existence and its identity, the child affirms itself, and it can recognize its existence and its identity only by referring them to the self in the form of a judgment, after already having the intuition of itself. It is a question purely and simply of the self, without designation, but also without exclusion of any of its qualities. This is the first example of a notion that implies neither judgment nor reasoning. The thought I is prior to every particular thought relating to the properties, the parts, the acts, the relations of the self. Nothing can be affirmed of the self without first affirming the self. A fortiori, the thought I is prior to every thought relating to the not-self, to all knowledge of the world or of God. For the not-self
 
@@ -3166,9 +3166,9 @@ that there exist in the totality of things substances and accidents and that the
 
 Immanent knowledge, rigorously circumscribed within its domain, thus withstands the attacks of criticism. It is legitimate as soon as it fulfills the conditions of science. Hence a whole body of certain truths, which doubt can no longer shake. Thought is no longer in contradiction with all reality, for it is at least in agreement with itself. Skepticism is no longer absolute; it has hold now only upon the not-self, upon transcendent knowledge. It remains to examine whether it can be dislodged from that post.
 
-CHAPTER TWO
+## CHAPTER TWO
 
-TRANSCENDENT KNOWLEDGE
+## TRANSCENDENT KNOWLEDGE
 
 Doubt is logically possible only with regard to objects that are outside the self and above the self. There, in fact, the testimony of consciousness no longer suffices; the intervention of the senses and of reason is required. There the subject and the object of knowledge are foreign to each other, perhaps even
 
@@ -3528,9 +3528,9 @@ I can therefore affirm against the skeptics, and every man who knows the value o
 
 [p. 448]
 
-CHAPTER THREE
+## CHAPTER THREE
 
-CONCLUSION
+## CONCLUSION
 
 To establish the legitimacy of knowledge, it was necessary to show that science possesses a certain starting point and a certain principle. This demonstration has been made. The principle and the starting point are found in the knowledge of God and of oneself, which is the mark of wisdom according to Bossuet. The knowledge of ourselves raises us to God; the knowledge of God completes the development of our own consciousness, by linking the self to the principle of all things. At the origin and at the term of the evolution of thought, we find two intuitions that doubt can no longer breach, for both stand above the opposition between the subject and the object of the intellect. At the starting point, the self is as yet neither subject nor object; at the end, God is the common reason of the self and the not-self, the absolute principle of thought and of reality. How can these two truths be contested? He who doubts affirms himself; he who affirms anything must distinguish between thought and things, and ascend by the law of causality to the ultimate reason of knowledge. If there is anything, God exists. In examining the relation of these two intuitions, we become convinced that each of us must begin with his own self, for it is the self that aspires to know God, it is in the self that this knowledge must be made to germinate, and it is by the consciousness of its own limitation and dependence that the mind acquires the certainty of the existence of God. But once this certainty is acquired, we must also recognize that the intuition I is founded, like everything else, in the intuition God, which embraces all our particular thoughts and which alone can furnish a scientific explanation of them. In analysis we are content with the fact that the self relates to itself by inner sense, and the fact is certain, whether it has a reason or not. But in synthesis we ask
 
@@ -3752,7 +3752,7 @@ God. Not only can we be mistaken about the things that are within our reach, but
 
 [PDF 475]
 
-CONTENTS
+## CONTENTS
 
 [PDF 476]
 
@@ -3766,7 +3766,7 @@ knowledge. The author's plan: psychology, logic, metaphysics.
 
 I N T RO D U C T I O N
 
-I. THE NOTION OF LOGIC
+## I. THE NOTION OF LOGIC
 
 Science as the organism of knowledge, page 23. — Properties common
 
@@ -3802,7 +3802,7 @@ Logic. — I.                                             31
 
 [p. 482]
 
-III. THE UTILITY OF LOGIC
+## III. THE UTILITY OF LOGIC
 
 Importance of philosophy, p. 35. — Influence of logic as the science of
 
@@ -3828,9 +3828,9 @@ G E N E R A L PA RT
 
 T H E F O R M AT I O N O F K N O W L E D G E
 
-BOOK ONE
+## BOOK ONE
 
-THE NOTION OF KNOWLEDGE
+## THE NOTION OF KNOWLEDGE
 
 Psychological data: will, feeling, and thought, p. 47. — The intellectual
 
@@ -3842,9 +3842,9 @@ Knowledge, a relative property of the mind, p. 50. — Content of
 
 knowledge: subject, object, and relation, p. 51.
 
-CHAPTER ONE
+## CHAPTER ONE
 
-THE SUBJECT OF KNOWLEDGE
+## THE SUBJECT OF KNOWLEDGE
 
 The subject of knowledge is the mind. The thought I, primitive fact of
 
@@ -3860,7 +3860,7 @@ versal and permanent, p. 56.
 
 C H A P T E R T WO
 
-THE OBJECT OF KNOWLEDGE
+## THE OBJECT OF KNOWLEDGE
 
 The object of knowledge is everything that is intelligible, everything that has
 
@@ -3906,7 +3906,7 @@ Being considered in itself: categories of essence, of form, and of existence, p.
 
 Being in itself and in its content: categories of subordination, p. 92.
 
-CHAPTER THREE
+## CHAPTER THREE
 
 T H E R E L AT I O N B E T W E E N S U B J E C T A N D
 
@@ -3936,7 +3936,7 @@ Intellectual intuition, p. 109. — The idea and sensation, p. 111.
 
 B O O K T WO
 
-THE ORIGINS OF KNOWLEDGE
+## THE ORIGINS OF KNOWLEDGE
 
 Sensibility and reason, p. 113. — Sensible knowledge, internal and exter‐
 
@@ -3946,11 +3946,11 @@ Harmonic or applied knowledge, p. 115. — Indeterminate knowledge,
 
 p. 116.
 
-CHAPTER ONE
+## CHAPTER ONE
 
-SENSIBLE KNOWLEDGE
+## SENSIBLE KNOWLEDGE
 
-LOGICAL AESTHETIC
+## LOGICAL AESTHETIC
 
 Object of external sensible knowledge: the facts or phenomena of the ex‐
 
@@ -4014,7 +4014,7 @@ and Büchner.
 
 C H A P T E R T WO
 
-ABSTRACT KNOWLEDGE
+## ABSTRACT KNOWLEDGE
 
 L O G I C A L A NA LY T I C
 
@@ -4064,7 +4064,7 @@ ization do not apply to the infinite, the absolute, God, p. 230. — Error
 
 of the Abbé Gratry, p. 232.
 
-CHAPTER THREE
+## CHAPTER THREE
 
 R AT I O N A L K N O W L E D G E
 
@@ -4200,11 +4200,11 @@ finite is still infinite potentially: infinite divisibility, the infinitely smal
 
 knowledge of the finite supposes that of the infinite, p. 342.
 
-BOOK THREE
+## BOOK THREE
 
 T H E L AW S O F K N O W L E D G E
 
-CHAPTER ONE
+## CHAPTER ONE
 
 T H E N O T I O N A N D D I V I S I O N O F T H E L AW S O F
 
@@ -4258,7 +4258,7 @@ of analysis and synthesis: construction, p. 365. — Example of scientific
 
 construction: geometry, p. 366.
 
-CHAPTER THREE
+## CHAPTER THREE
 
 O B J E C T I V E L AW S
 
@@ -4288,13 +4288,13 @@ external and internal, p. 384. — Relation of the parts to one another: prin‐
 
 ciples of conditionality and of reciprocity, p. 385. — Relation of the
 
-parts to the whole: principle of containment, p. 385. — Principles of
+## parts to the whole: principle of containment, p. 385. — Principles of
 
 reason and of cause, p. 386.
 
-BOOK FOUR
+## BOOK FOUR
 
-THE LEGITIMACY OF KNOWLEDGE
+## THE LEGITIMACY OF KNOWLEDGE
 
 State of the question; debate between dogmatism and skepticism, p. 389.
 
@@ -4302,9 +4302,9 @@ State of the question; debate between dogmatism and skepticism, p. 389.
 
 391.
 
-CHAPTER ONE
+## CHAPTER ONE
 
-IMMANENT KNOWLEDGE
+## IMMANENT KNOWLEDGE
 
 Conditions of the starting point of science: the thought I, p. 393. —
 
@@ -4324,7 +4324,7 @@ p. 401. — Conclusion, p. 402.
 
 C H A P T E R T WO
 
-TRANSCENDENT KNOWLEDGE
+## TRANSCENDENT KNOWLEDGE
 
 Difficulties of the question, p. 402. — Passage from immanent knowledge
 
@@ -4380,9 +4380,9 @@ of God, p. 444. — Whether this certainty depends on the validity of the cat‐
 
 egories and of the laws of thought, p. 446. — Objections of Kant, p. 447.
 
-CHAPTER THREE
+## CHAPTER THREE
 
-CONCLUSION
+## CONCLUSION
 
 Recapitulation; relation between self-knowledge and the knowledge of God, p.
 

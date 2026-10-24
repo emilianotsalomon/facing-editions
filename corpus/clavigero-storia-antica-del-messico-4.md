@@ -24,7 +24,7 @@ OF MEXICO D R AW N F RO M T H E B E S T S P A N I S H H I S T O R I A N S ,
 
 A N D F RO M M A N U S C R I P T S, A N D F RO M T H E A N C I E N T PA I N T I N G S O F T H E I N D I A N S :
 
-DIVIDED INTO TEN BOOKS, AND FURNISHED WITH MAPS
+## DIVIDED INTO TEN BOOKS, AND FURNISHED WITH MAPS
 
 A N D VA R I O U S F I G U R E S :
 
@@ -32,9 +32,9 @@ AND
 
 D I S S E RTAT I O N S O N T H E L A N D, T H E A N I M A L S , A N D T H E I N H A B I TA N T S O F M E X I C O.
 
-A WORK
+## A WORK
 
-BY THE ABBÉ
+## BY THE ABBÉ
 
 D O N F R A N C E S C O S AV E R I O
 
@@ -42,21 +42,21 @@ C L AV I G E R O
 
 V O L U M E I V,
 
-C O N TA I N I N G T H E D I S S E RTAT I O N S .
+## C O N TA I N I N G T H E D I S S E RTAT I O N S 
 
 CESENA, MDCCLXXXI. P R I N T E D B Y G R E G O R I O B I A S I N I AT T H E S I G N O F PA L L A S .
 
-WITH PERMISSION OF THE SUPERIORS.
+## WITH PERMISSION OF THE SUPERIORS
 
 [p. 3]
 
 T O H I S E XC E L L E N C Y
 
-THE LORD
+## THE LORD
 
 D O N G I O VA N N I R I N A L D O
 
-COUNT CARLI
+## COUNT CARLI
 
 Knight and Commander of the Sacred Order of Saints
 
@@ -98,7 +98,7 @@ about concerning America by some celebrated modern Authors are
 
 refuted.
 
-TO THE READER.
+## TO THE READER
 
 hese Dissertations that we now bring to light are
 
@@ -144,9 +144,9 @@ Dissertation
 
 [p. 9]
 
-D I S S E RTAT I O N I .
+## D I S S E RTAT I O N I 
 
-ON THE PEOPLING OF AMERICA, AND
+## ON THE PEOPLING OF AMERICA, AND
 
 PA RT I C U L A R LY O N T H AT O F M E X I C O.
 
@@ -220,7 +220,7 @@ oil for making light, which, being on the one hand very ancient in Asia and in E
 
 § II.
 
-Who Were the Settlers of America?
+## Who Were the Settlers of America?
 
 Those freethinkers who do not recognize in the holy books the stamp of supreme truth, or do not make much account of them, say that the Americans do not derive their origin from Adam and Noah, and believe, or pretend to believe, that as God created Adam in order to be the Father of the Asiatics, so he made
 
@@ -338,7 +338,7 @@ Those
 
 Those men who undertook the building of the tower of Babel encouraged one another to work at that construction with these words: “Come,” they said, “let us build ourselves a city and a tower whose top may touch the heavens, and let us make our name famous before we are scattered over all the earth.” (o) They knew, then, that they were to be dispersed through all the lands; and God, because by such a building they were opposing his counsels, or at least delaying the execution of his orders concerning the peopling of the earth, confounded their language, and so contrived to separate them and to scatter them from that place through all the lands. (p) Hence it is likely that Noah, a venerable old man, revered by all as a father, who survived the Flood by three hundred and fifty years, assigned to each family its district according to the instruction he had received from God; for otherwise the division could not have been carried out without bloody wars, each one wishing to enjoy his native country without exposing himself to many perils and misfortunes in unknown lands. This opinion of mine becomes still more likely from the tradition of the Chiapanecs concerning the peopling of Anahuac by Votan, of whom we have already spoken. Yet it must not be thought that those very persons who separated from the other families at Babel actually peopled, as the Chiapanecs said, the lands of America; rather it was their descendants, as those first families went on little by little toward that region and multiplied in the course of their journey.
 
-From
+## From
 
 (o) Come, let us make us a city and a tower, the top whereof may reach to heaven; and let us make our name famous before we be scattered abroad into all lands. Gen. 11.
 
@@ -346,7 +346,7 @@ From
 
 [p. 25]
 
-§ III.
+## § III
 
 From What Quarter, and How, the Settlers and the Animals Passed into America.
 
@@ -464,7 +464,7 @@ lands
 
 lands that were united, and has formed new straits and gulfs. We also have examples of all these revolutions in past centuries. Sicily was once joined to the continent of Naples, as Euboea (today Negroponte) to Boeotia. Diodorus, Strabo, and other ancient authors say the same of Spain and Africa, and affirm that by a violent irruption made by the Ocean into the land that lay between the mountains Abila and Calpe, that communication was broken, and the Mediterranean Sea was formed. Among the Ceylonese there is a tradition that such an irruption of the sea separated their island from the peninsula of India. The Malabars believe the same with regard to the Maldive islands, and the Malays with regard to that of Sumatra. It is certain, says Count de Buffon, that in Ceylon the land has lost thirty or forty leagues of terrain, which the sea has taken from it, and, on the contrary, at Tongres, a place in the Low Countries, the sea has yielded more than thirty leagues to the land. The northern part of Egypt owes its existence to the inundations of the Nile. (A) The earth that this river has brought from the inland countries of Africa and deposited in its inundations has formed a soil more than twenty-five braccia deep. Likewise, adds the aforesaid author, the province of the Yellow River in China and that of Louisiana were formed only of the mud of rivers. Pliny, Seneca, Diodorus, and Strabo report innumerable examples of such revolutions, (B) which I pass over, lest this dissertation
 
-E2                        seem
+## E2                        seem
 
 (A) Pharos, or Farion, an island of Egypt, which, as Homer indicates in the Odyssey, was a day and a night’s sail distant from the northern land of Egypt, was so near to it in the time of the celebrated Cleopatra that it lay barely seven stadia off; for such was the length of the bridge that that queen had the Rhodians build to give communication between that island and the continent. Herodotus, Aristotle, Seneca, Pliny, and other ancient authors make mention of this notable increase of the land of Egypt.
 
@@ -676,7 +676,7 @@ chronology
 
 chronology of the ancient paintings. There remains, then, no other recourse than to say that that famous capital was founded in 1325 of the common era: and this was without doubt the opinion of Dr. Sigüenza; for Gemelli, who had in this matter no other instruction than what was given him by that Mexican man of letters, puts this founding in the year 1325, which he says was II Calli. (b) If he was previously of another opinion, he afterward changed it, perceiving that it did not agree well with that certain principle, that the year 1519 was I Acatl.
 
-§ III.
+## § III
 
 On the Chronology of the Mexican Kings.
 
@@ -806,7 +806,7 @@ Dissertation
 
 [p. 65]
 
-D I S S E RTAT I O N I I I .
+## D I S S E RTAT I O N I I I 
 
 O N T H E L A N D O F M E X I C O.
 
@@ -934,7 +934,7 @@ Why, he says again, were even those nations that lived in society ignorant of th
 
 Why, he adds, had they not tamed the animals, nor made use of any other except the Llama (h) and the Paco; which were not like our domestic animals, steady, faithful, and docile? Because there were no other animals that could be tamed. Does M. de Buffon want them to tame tigers, pumas, wolves, and other such wild beasts? M. de P. reproaches the Americans with their little industry in not having made use of reindeer, as the Laplanders do; but these quadrupeds were found only in countries too far from Mexico, and those
 
-savages
+## savages
 
 (h) Llama (not Lama) was, according to Father Acosta, the generic name of the four species of quadrupeds of that kind; but today it is used to signify only that which the Spaniards call Carnero, that is, Ram of Peru. The other three species are the Paco, the Guanaco, or Huannaco, and the Vicuña. The name Llama is pronounced as in Italian Gliama.
 
@@ -970,7 +970,7 @@ believe
 
 believe M. de Buffon, at whose fountain M. de P. drank, and whose testimony he has used against Dom Pernety. M. de Buffon, who in many places of his Natural History produces the smallness of the American animals as a certain argument of the malignity of the climate of America, reasoning then of wild beasts in vol. XI, says thus: “Since all things, even the freest creatures, are subject to physical laws, and animals, like men, are subject to the influence of the Sky and of the Earth: it seems that those same causes which have civilized and softened the human species in our climates have likewise produced similar effects in the other species. The wolf, which is perhaps the most ferocious of all the quadrupeds of the temperate zone, is yet incomparably less terrible than the tiger, the lion, and the panther of the torrid zone, and than the white bear, the lynx, and the hyena of the cold zone… In America, where the air and the land are milder than those of Africa, the tiger, the lion, and the panther are terrible only in name… They have degenerated, if indeed ferocity added to cruelty made up their nature, or, to put it better, they have done nothing but suffer the influence of the climate: under a milder sky, their natural disposition has been softened… From excessive climates are taken the drugs, the perfumes, the poisons, and all those plants whose qualities are excessive. The temperate earth, on the contrary, produces only temperate things: the sweeter herbs, the more wholesome vegetables, the more delightful fruits, the more tranquil animals, and the more humane men are proper to this happy climate. Thus the earth makes the plants; the earth and the plants make the animals; the earth, the plants, and the animals make man… The physical qualities of man, and those of the animals that feed on other animals, depend, though more remotely, on those same causes, which have an influence also on their natural disposition and on their customs. The greatest proof to show that in temperate climates everything is tempered, and in excessive climates everything is excessive, and that the
 
-size
+## size
 
 [p. 80]
 
@@ -1010,7 +1010,7 @@ L2                     what
 
 what place of America has there ever been seen a serpent of fifty Roman cubits, like the one that Augustus showed to the Roman people in the spectacles, as Suetonius affirms, (l) or one as thick as the one that was killed in the Vatican in the time of the Emperor Claudius, concerning which Pliny, an author almost contemporary, testifies that an entire child was found in its belly? But above all, where has there ever been seen, even in the most solitary forests of America, a serpent that can in any way be compared with that most enormous and prodigious one of a hundred and twenty feet, seen in Africa at the time of the first Punic War, and killed with war machines by the army of Atilius Regulus, whose skin and jaws were preserved in a temple at Rome until the Numantine War, as Livy, Pliny, and other Roman historians testify? I know well that some historian of America says that in certain forests there is found a certain gigantic species of serpents which with their breath draw men to them and swallow them; but I know also that several historians, ancient as well as modern, relate the same of the serpents of Asia, and something more besides. Megasthenes, cited by Pliny, said that in Asia there were found serpents so large that they swallowed whole stags and bulls. (m) Metrodorus, cited by the same author, affirms that in Pontus there were serpents that with their breath drew down birds, however high and swift their flight. Among the moderns, Gemelli, in vol. 5 of his Giro del mondo, where he discourses of the animals of the Philippine islands, says as follows: “There are serpents in these islands of immense size. There is one called Ibitin, very long, which, hanging itself by the tail from the trunk of a tree
 
-waits
+## waits
 
 (l) In Octavian Caesar.
 
@@ -1064,7 +1064,7 @@ than Paris. The difference is likewise perceptible in Hudson’s Bay and in the 
 
 Even if we conceded all this to M. de P., it would avail him nothing to demonstrate the malignity of the American climate. For if from the excess of cold in the American lands one wishes to deduce its bad climate, should one not rather deduce the bad climate of the old continent from the excess of heat in the countries situated at an equal distance from the equator? M. de P. will not be able to form in this matter any argument against America that the Americans cannot effectively turn against Europe, or against Africa. But to tell the truth, all the observations that have been made are not sufficient to establish, as a general principle, that the countries of the New World are colder than those of the old world situated in the same latitude, and much less to believe, as M. de P. believes, that it is as hot in the old continent at thirty degrees of polar altitude as in the new continent at eighteen degrees. If that were true, the cold would be as intense in America at 67 degrees of latitude as in the old continent at 80 degrees. Now M. de Pauw says (*) that the cold in the old continent must become in November, beyond the eightieth degree, so deadly to men that no one could live there: therefore neither could one live in America beyond the sixty-seventh degree. How then does he himself affirm in the same place that in the countries of the Eskimos inhabitants are found beyond the seventy-fifth degree? And if the feeble Americans can subsist in that latitude, we must believe that the very strong Europeans would be capable of withstanding the cold of the eightieth degree. Moreover, if that principle were true, it would be as hot in Jerusalem, situated at a little less than 32 degrees, as in Veracruz, situated at a little less than 20 degrees: which no one other than M. de P. is capable of thinking. Similarly one could deduce other equally preposterous consequences
 
-especially
+## especially
 
 (*) Recherch. philosoph., pt. 3, sect. 1, p. 304 (in my copy).
 
@@ -1102,7 +1102,7 @@ M2                          lands,
 
 lands, etc.” (B) Other historians say the same as Acosta of America, and particularly of Mexico and the neighboring provinces, whose inland countries, from nearly the isthmus of Panama up to the fortieth degree of latitude (since those that lie beyond that degree have not yet been discovered), enjoy a mild air and a climate favorable to life, except a few places which either because of their lowness are hot and humid, or because of their great height are of a harsh climate. But how many places in the old world are not harsh or noxious?
 
-§ III.
+## § III
 
 On the Quality of the Land of Mexico.
 
@@ -1242,13 +1242,13 @@ continent,
 
 continent, and they make up at least a fourth part of its extent. But what countries! Let one see the description that Europeans themselves give of them. Let one see at least the eloquent description that M. de Buffon makes of the deserts of Arabia. “A country,” he says, “without verdure and without water: a sun forever burning, a sky forever dry, sandy plains, mountains still more arid, over which the sight extends as far as it can without meeting any living object: a land, so to speak, dead and flayed by the winds, which presents nothing but bones, scattered stones, and cliffs upraised or overturned: a wholly bare desert, in which the traveler never breathes beneath the shade, where nothing keeps him company, and there is nothing to remind him of living nature: an absolute solitude far more frightful than that of the forests; for at least the trees are living creatures that bring some relief to man, who finds himself alone, isolated, more naked and more lost in these empty and boundless places. All the ground that presents itself to him he sees as his sepulchre: the light of day, more melancholy than the shadows of night, is born again only to show him his nakedness and his impotence, and to set before his eyes his horrible situation, pushing back from his sight the limits of the void, and widening around him the abyss of immensity that separates him from the inhabited earth; an immensity so great that he would seek in vain to cross it; for hunger, thirst, and the burning heat shorten those moments that remain to him between despair and death.” (S)
 
-Dissertation
+## Dissertation
 
 (S) Buffon, Hist. nat., vol. 22.
 
 [p. 105]
 
-D I S S E RTAT I O N I V.
+## D I S S E RTAT I O N I V
 
 O N T H E A N I M A L S O F M E X I C O.
 
@@ -1322,7 +1322,7 @@ in
 
 in bk. I of the History: the first, the Xoloitzcuintli, or hairless dog; the second, the Itzcuintepotzotli, or humped dog; the third, the Techichi, or edible little dog; and the fourth, the Tepeitzcuintli, or mountain little dog. These four very different species of quadrupeds have been reduced by Count de Buffon to one. He says that Dr. Hernández was mistaken in what he wrote of the Xoloitzcuintli; because no other author makes mention of it, and it must therefore be believed that that quadruped was transported there from Europe; since the same Hernández affirms that he had first seen it in Spain, and it had no name in Mexico; whereas Xoloitzcuintli is the proper name of the wolf, imposed by Hernández on that other quadruped: that all those dogs were known in Mexico by the generic name of Alco. Here, in a few words, is a mass of errors. The name Alco, or Allco, is not Mexican, nor was it ever used in Mexico, but in South America. That of Xoloitzcuintli is not even the name of the wolf, nor do I know that there was ever anyone in Mexico who so called it. The Mexicans call the wolf Cuetlachtli, and in some places, where Mexican is not spoken with the greatest propriety, they call it Tecuani, which is the generic name of wild beasts. It is moreover evident from the very text of Hernández, which we set down here, (f) that the Xoloitzcuintli was not transported from Europe to Mexico, nor was that name imposed on it by Hernández, but it was the name by which the Mexicans called it. Hernández had seen that quadruped in Spain because it had been transported there from Mexico, as he himself indicates, just as he had seen in the gardens of Philip II several Mexican plants. But why has no other author made mention of the Xoloitzcuintli? Because no other, neither before nor after him, has undertaken the history of the Mexican quadrupeds, and the historians of that kingdom have
 
-contented
+## contented
 
 (f) “Besides the dogs known to our world, which, almost all brought over by the Spaniards, are today raised by the Indians in these regions, you will find three other kinds, of which the first, before I betook myself hither, I saw in my own country; the others I had not seen, nor do I think they have been carried thither even yet. The first, called Xoloitzcuintli, surpasses the others in size of body, etc.” Hernández, Hist. Quadrup. Novae Hisp., ch. 20.
 
@@ -1406,7 +1406,7 @@ those show the principle of Count de Buffon to be false. Dr. Hernández affirms 
 
 It is therefore false that all the animals of the New World are smaller than those of the Old World without any exception. It is also most false that they are all much smaller, and that Nature has made use in the New World of a different scale of size, as Count de Buffon affirms in another place. (u) In like manner the error of M. de Pauw can be shown in saying that all the quadrupeds of America are a sixth part smaller than their analogues of the old continent. The Tuza of Mexico is the analogue of the European mole, and is larger than it, according to what Count de Buffon says. That Mexican quadruped which Count de Buffon calls Coquallino, and we Tlalmototli, is analogous to the squirrel of Europe, and is, by the same author’s account, twice as large: the shrew of Brazil is analogous to the European shrew, and yet is larger than it, as the aforesaid author confesses. The Cojote, analogue of the jackal, is twice as large. The Llama, or sheep of Peru, analogue of the sheep of Europe, is incomparably larger, etc. But these philosophers, too bent on vilifying America and discrediting its animals, find even
 
-something
+## something
 
 (t) Count de Buffon distinguishes the species of black bears from that of the brown, and affirms that black bears are not at all ferocious; but the Mexican bears, which are all black, are very ferocious indeed, as is notorious in Mexico; and I can be a witness to it.
 
@@ -1638,7 +1638,7 @@ So
 
 So think two modern Italians, (ff) as learned in certain speculative matters as they are ignorant of the things of America. The testimony of Dr. Hernández, which we copy here below, (gg) would suffice to confound these authors: who, after having heard the best nightingales at the court of Philip II, heard for many years the Centzontli, or polyglots, the cardinals, the Tigretti, the Cuitlaccochi, and other innumerable species of songbirds common in Mexico and not known in Europe, besides the nightingales, the goldfinches, the calandra larks, and others common to both continents. Among all the songbirds the most prized in Europe is the much-renowned nightingale, and yet this is far better in America, according to what M. de Bomare affirms. “The nightingale of Louisiana,” he says, “is the same as that of Europe; but it is more familiar, sings all year, and its song is more varied.” Behold three great advantages of the American over the European. But even if there were in America neither nightingales, nor goldfinches, nor any other bird of those that are esteemed in Europe for their song, the Centzontli or polyglot alone (*) would suffice to leave it nothing to envy any country in the world. I protest to our anti-American philosophers that what Dr. Hernández says about the great excess of merit of the polyglot over the nightingale is quite true, and in agreement with the judgment of the Europeans who have been in Mexico, and with that of the Mexicans who have been in Europe. Besides the singular sweetness of its song, the
 
-prodigious
+## prodigious
 
 (ff) The author of a certain metaphysico-political Dissertation on the proportion of talents, and their use, in which he wrote such nonsense about America, and showed himself as ignorant of the land, the climate, the animals, and the men of that New World as a child. The other is the author of certain pretty little Italian fables, in one of which he puts an American bird conversing with a nightingale.
 
@@ -1696,7 +1696,7 @@ S2                        Of
 
 [p. 140]
 
-OF THE CAMELS.
+## OF THE CAMELS
 
 “Of all the quadrupeds transported to America,” says M. de P., “those that have succeeded least have undoubtedly been the camels. At the beginning of the sixteenth century some were brought from Africa to Peru, where the cold disordered their organs of reproduction, and they left no posterity.” But, passing over for the moment the chronological error into which he falls, as one that matters little to our purpose, (nn) if it was the cold that destroyed the species of camels in America, the same would happen in Europe, especially in the northern countries, where the cold is beyond comparison greater than in any country of Peru. If the cold was the cause of their extinction, let M. de Pauw blame those who established those quadrupeds in places not suited to their nature, and not America, in which there are hot and dry lands such as are required for the subsistence of camels. The same experiment that was made in Peru with camels was also made in Spain, and proved similarly fruitless; and yet there will be no one to doubt that the climate of that peninsula is among the most temperate and the mildest in Europe. Count de Buffon says that those quadrupeds could be propagated no less in America than in Spain, if all the necessary precautions were taken; and I do not doubt that in the districts of New Galicia they would do quite well. For the rest, it is false that the camels transported to Peru left no posterity; for Father Acosta, who went there some years afterward, testifies that he saw them multiplied, though little. (oo)
 
@@ -1712,7 +1712,7 @@ This is one of those species of animals which our philosophers
 
 believe to be degraded in America, and to which the climate is supposed to be contrary. But even if in Canada oxen have perhaps lost a part of their bodily frame, as Count de Buffon affirms, and if in Hispaniola their flesh has become more fibrous, as M. de Pauw would have it, at least this is not so in the greater part of the countries of the New World, in which the multitude and the size of those animals and the goodness of their flesh show how favorable those climates are to their generation. Their prodigious multiplication in those countries is attested by a great many European authors, ancient as well as modern. Father Acosta relates (pp) that in the fleet which came from New Spain to Old Spain, and in which he returned to Europe in 1587, that is, about sixty years after the first bulls and cows had been transported to Mexico, 64,360 ox hides were carried from that country, and from Hispaniola alone, which M. de Pauw believes so contrary to the generation of these quadrupeds, 35,444. I do not doubt that if one compared the number of bulls and cows carried from the old continent to the new with the number of hides that America has sent in return to Europe, more than five million hides would be found for each of those animals. Valdecebro, a Spanish Dominican who lived some years in Mexico toward the middle of the last century, relates as a notorious thing that Don Juan Orduña, a Mexican knight, was given thirty-six thousand calves in one year for his cows: (qq) which could not have happened except in a herd of two hundred thousand bulls and cows. Today there are private individuals who own 50,000. But nothing else shows more clearly the stupendous multiplication of such quadrupeds than their selling so cheaply in those countries, where they are necessary for the sustenance of men and for the labors of the field, and where, because of the abundance of
 
-silver
+## silver
 
 (pp) Bk. 4, ch. 33.
 
@@ -1742,7 +1742,7 @@ O F T H E S H E E P.
 
 Count de Buffon confesses (uu) that sheep have done very well both in the hot countries and in the cold ones of the new continent; but he adds that although they have multiplied greatly, they are nevertheless leaner, and their flesh is less juicy and less tender, than in Europe: in which he shows that he was badly informed. In the hot countries of the New World sheep for the most part do not do well, and the flesh of wethers is bad: at which there is no cause for wonder, since the hot climate is so contrary to them even in the old continent, as Count de Buffon himself says, that under it they are covered with hair instead of wool. In the cold and temperate climes of New Spain they have multiplied in proportion even more than bulls: their wool is in many places as fine as that of the sheep of Spain, and their flesh as good as the best in Europe, as those Europeans can testify who have been in those countries. The multiplication of sheep in America has been astonishing. Father Acosta testifies (vv) that before he went there there were well-to-do men in America who possessed seventy and even a hundred thousand sheep, and today
 
-there
+## there
 
 (uu) Hist. nat., vol. 18.
 
@@ -1752,11 +1752,11 @@ there
 
 there are in New Spain some who have four hundred, five hundred, and even seven hundred thousand. (xx) Valdecebro says (yy) that Don Diego Muñoz Camargo, a Tlaxcalan noble, of whom we have made mention in the Notice of the writers of the Ancient History of Mexico, had from ten sheep alone forty thousand in ten years. Now how could those animals multiply so excessively if the climate were contrary to their generation? As for their size, I protest sincerely that I have so far seen in Europe no rams larger than those of Mexico.
 
-O F T H E G OAT S .
+## O F T H E G OAT S 
 
 Count de Buffon himself, although he commits himself so strongly to disparaging the animals of America, nevertheless confesses that goats have done well in the American climates, and that their multiplication there is much greater than in Europe; (zz) for whereas in Europe they bear in each birth a single kid, or at most two, in America they bear three, four, and sometimes five. M. de P., who worthily gives Count de Buffon the title of Pliny of France, and wants one to defer to his authority in the matter of animals, as to one who has made a review of all the animals of the earth, ought to have weighed these and other confessions of that learned philosopher before setting himself to write about American animals.
 
-OF THE HOGS.
+## OF THE HOGS
 
 Our philosophers are not in agreement on this article; for whereas Count de Buffon puts hogs among the animals
 
@@ -1772,7 +1772,7 @@ degraded
 
 degraded in America, M. de P. on the contrary affirms that these are the only animals which have acquired in the New World an extraordinary bodily frame, and whose flesh has been perfected. This contradiction arose undoubtedly from not distinguishing, as they ought, the different countries of America. It may be that there are some, though I do not know of them, in which hogs have lost a part of their size; but it is certain that in New Spain, in the Antilles, in Tierra Firme, and in other countries of America they are as large as those of Europe, and on the island of Cuba there is a breed of hogs twice as large as the European: which is constant and notorious to all those who have been in those countries. Our philosophers can, if they please, get information from several European authors who have seen the hogs of Toluca and of Puebla in New Spain, of Cartagena, of Cuba, etc., about their excessive multiplication and the excellence of their flesh. (Aa)
 
-OF THE HORSES AND THE MULES.
+## OF THE HORSES AND THE MULES
 
 In nothing else of all that Count de Buffon and M. de Pauw say against the American animals do they do a greater wrong to America and to the truth than in supposing the horses too to be degraded there. Of these Father Acosta says (Bb) “that in many countries of America, or in the greater part, they have turned out, and do turn out, quite well, and there are some breeds as good as the best of Spain, no less for the course and for show than for journeys and toils.”
 
@@ -1786,7 +1786,7 @@ Ancient History of Mexico, Vol. IV.                T                         Suc
 
 Such testimony of a European so critical, so impartial, and so familiar with the affairs of America and of Europe is worth far more than all the declamations of those philosophers against the New World. Lieutenant General Don Antonio de Ulloa, a learned Spanish mathematician still living, (Cc) speaks with amazement of the American horses that he saw in Chile and in Peru, and praises highly the Chilean ones for their gait, those that are called Aguilillas for their extraordinary speed, and those called Parameros for their stupendous agility in the running they do in the hunting of deer, with the horsemen on their backs, over the slopes and over the roughest and steepest places of the mountains. He testifies that he made many times, on one of the horses called Aguilillas, which, he adds, was not among the swiftest of its breed, more than fifteen miles in 57 or 58 minutes. In New Spain there is an indescribable quantity of horses and mules. Their multitude may be conjectured from their price, for whereas in the time of the conquest an ordinary horse was worth as much as a thousand scudi, today a good one is acquired for ten or twelve scudi. (Dd) Their size is that of the common horses of Europe; seldom is a horse seen in Mexico as small as the Slavonian ones that we see in Italy, and much less like those of Iceland and of other northern countries according to Anderson, or those of India according to Tavernier and other authors. Their strength is such that it is quite common among the inhabitants of those countries to ride seventy or eighty miles, and sometimes even more, going all the while at a good pace, without ever stopping or changing horses, over roads that are often difficult. Saddle horses, although for the most part geldings, have a stupendous fire. The mules, which in all that kingdom serve for coaches and for the pack, are also, as regards size
 
-such
+## such
 
 (Cc) A Voyage to South America, pt. 1, bk. 6, ch. 9.
 
@@ -1796,7 +1796,7 @@ such
 
 such as the common ones of Europe. Those for the pack, which travel in a train, carry about five hundred pounds on their backs; they do not make more than twelve or fourteen miles a day, according to the custom of those carriers; but in this manner they make journeys of eight hundred, a thousand, and even fifteen hundred miles. Those for the coach go at the pace of the posts of Europe, although the coaches carry a much greater weight because of the baggage of the passengers, and the same mules do so on very long journeys, going at least thirty miles each day. Saddle mules are used for the longest journeys. It is common to make on a mule the journey from Mexico to Guatemala, of about a thousand miles, over a road that is largely mountainous and bad, covering thirty or more miles each day. All this that I have adduced to expose the error of our philosophers concerning the alleged degradation of those quadrupeds is public and notorious in that kingdom, and agrees with the report that several European authors give of it. But nothing, in my opinion, shows more clearly the multitude and the excellence of American horses than an observation I have made. Among the many things that the Spaniards settled in America send for from Spain at any cost, out of the love they keep for their native land, I do not know (at least with regard to Mexico) that in the last two hundred years they have ever had horses brought from Spain; and on the contrary I am sure that they have often sent American horses to Spain to be presented to the grandees of the court, and even to the Catholic King himself.
 
-OF THE DOGS.
+## OF THE DOGS
 
 Among the great absurdities published by M. de Pauw, which are not few, a very great one is that which he writes about dogs. Dogs, he says (Ee), transported from our countries lose their voice at once, and cease to bark in the greater part of the regions
 
@@ -1808,7 +1808,7 @@ T2                         of
 
 of the new continent. Americans have, on other counts, too much to laugh at in M. de Pauw’s work; but on reading this passage about dogs they will laugh uproariously. Even if we conceded to M. de P. that for the most part dogs have degenerated, nothing would be concluded against that new continent that could not equally be concluded against the Old World; since, as Count de Buffon affirms, dogs transported from temperate climates into the cold ones of the old continent lose their voice, and transported into excessively hot countries lose, besides their voice, their hair also. This assertion of Count de Buffon rests on the experiment made with European dogs transported to Asia and to Africa, whose degeneration, the aforesaid philosopher says, is so rapid in Guinea and in other excessively hot countries that after three or four years they remain quite mute and hairless. M. de P. does not dare to say as much of dogs transported to America; but even what he does affirm is entirely false; for which are those countries of America where dogs have lost their voice? On the faith of what authors has he dared to publish such a fable? The greater part of the American countries to which European dogs were transported are subject to the Catholic King, and in none of them has such a misfortune befallen dogs. Neither among the European authors who have noted the particularities of America, nor among the very many Americans who are here at present, come from all the countries of Spanish America, have I found even one who confirms M. de P.’s anecdote. What we do know, however, both from several writers on America and from several persons acquainted with those countries, from whom we have informed ourselves, is that dogs never have rabies in Peru, in Quito, in Chile, and in other districts of that New World. If perhaps in the dominions of England or of France there is some country (which I do not believe) in which dogs have become mute, must it nevertheless be said that they have lost their voice in the greater part of the regions of the new continent? Did M. de P. perchance read that in some countries of America there were dogs that did not bark, and was that enough for him to publish
 
-that
+## that
 
 [p. 149]
 
@@ -1832,11 +1832,11 @@ of
 
 of their ancestors, as is established partly from the confession of those same philosophers, partly from the deposition of European authors who are impartial, judicious, and familiar with those countries, and partly also from the notoriety to which we appeal without fear of being given the lie. We do not doubt that impartial readers will recognize, from what we have sincerely set forth thus far, the errors and contradictions of our philosophers, caused by the ridiculous determination to defame the New World, the falsity of their observations, the groundlessness of their reasonings, and the rashness of their censure.
 
-Catalogue
+## Catalogue
 
 [p. 151]
 
-C ATA L O G U E
+## C ATA L O G U E
 
 O F A M E R I C A N Q UA D RU P E D S .
 
@@ -2048,7 +2048,7 @@ The Tepeitzcuintli, or mountain dog of Mexico, with the glutton. (z) The Xoloitz
 
 added to the ninety-four above, and they will make a hundred and two.
 
-§ III.
+## § III
 
 Species Unknown to, or Wrongly Denied by, Count de Buffon. Achuni, a cercopithecus of Quito, furnished with a long muzzle and very
 
@@ -2148,11 +2148,11 @@ Dissertation
 
 [p. 160]
 
-D I S S E RTAT I O N V.
+## D I S S E RTAT I O N V
 
-ON THE PHYSICAL AND MORAL
+## ON THE PHYSICAL AND MORAL
 
-CONSTITUTION OF THE MEXICANS.
+## CONSTITUTION OF THE MEXICANS
 
 F    our classes of men may be distinguished in Mexico and in other
 
@@ -2312,7 +2312,7 @@ Americans
 
 Americans as those many and great labors in which they are continually employed. M. de Pauw says (o) that when the New World was discovered nothing was to be seen there but thick woods: that today there are some cultivated lands there, but by Africans and Europeans, not by Americans; and that the cultivated land, in relation to the uncultivated, is in the proportion of two thousand to two millions. (p) These three assertions are so many errors; but reserving for another dissertation what pertains to the labors of the ancient Mexicans, and speaking only of later times, it is certain that since the conquest the Americans alone have been those who have borne all the labors of agriculture in all the vast countries of the continent of North America, and in the greater part of those of South America, subject to the Crown of Spain. A European is never seen employed in the labors of the field. The Blacks, who in the vast kingdom of New Spain are very few in comparison with the Americans, are charged with the cultivation of sugar cane and tobacco, and with the manufacture of sugar; but the land destined for the cultivation of those plants is not, in relation to all the cultivated land, even in the proportion of one to two thousand. The Americans are those who work the land there. They alone are the plowmen, the sowers, the weeders, and the reapers of wheat, of maize, of rice, of the broad bean, of beans, and of the other grains and legumes; of cacao, of vanilla, of cotton, of indigo, and of all the other plants useful for the sustenance, the clothing, and the commerce of those provinces, and without them nothing is done, to such a degree that in the year 1762 the harvest of wheat was abandoned in many places because of the sickness there was, which did not permit the Indians to do the reaping. But this is little: they are those who cut and transport
 
-from
+## from
 
 (o) Défense des Recherches, ch. 12.
 
@@ -2412,7 +2412,7 @@ letter
 
 letter, of which we have made mention, representing to him the evils that those wicked Christians made the Indians suffer, and begging him to interpose his authority. The Pope, moved by such grave remonstrances, dispatched the following year that original bull, a faithful copy of which we give here below: (A) which was not made, as is manifest, to declare the Americans true men; for this would be a folly far removed from such a Pontiff, and from any other; but only to uphold the natural rights of the Americans against the attempts of their persecutors, and to condemn the injustice and inhumanity of those who, under the pretext that those men were idolaters, or incapable of instruction, took from them their goods and their liberty, and made use of them as of beasts. The Spaniards, in truth, would have been even more witless than the crudest savages of the New
 
-World
+## World
 
 (A) “Pope Paul III, to all the faithful of Christ who shall see these present Letters, health and apostolic benediction. — Truth itself, which can neither deceive nor be deceived, when it appointed the Preachers of the Faith to the office of preaching, is known to have said: Going, teach ye all nations: all, it said, without any selection, since all are capable of the discipline of the Faith. Seeing and envying which, the enemy of the human race, who always opposes good works that they may perish, devised a method hitherto unheard of, to hinder the Word of God from being preached to the Gentiles that they might be saved: and he stirred up some of his satellites, who, desiring to satisfy their own cupidity, presume to assert everywhere that the Indians of the West and of the South, and other peoples who in these times have come to our knowledge, are, under the pretext that they are strangers to the Catholic Faith, to be reduced to our service like brute animals, and they reduce them to servitude, pressing them with such afflictions as they scarcely inflict on the brute animals that serve them. We therefore, who hold on earth the place of the same our Lord, though unworthy, and with all our effort seek the Sheep of His flock committed to us that are outside His Fold, to bring them into the same Fold, considering that the said Indians, as being truly men, are not only capable of the Christian Faith but, as has been made known to us, run most promptly to the Faith itself, and wishing to provide suitable remedies in this matter, by Apostolic Authority, through these present letters, decree and declare that the aforesaid Indians, and all other peoples who shall hereafter come to the knowledge of Christians, although they be outside the faith of Christ, may use, possess, and enjoy freely and lawfully their liberty and dominion of this kind, and ought not to be reduced to servitude, and that whatever may happen otherwise is null and void, and that the same Indians and other peoples are to be invited to the said Faith of Christ by the preaching of the Word of God and by the example of a good life, notwithstanding the foregoing and any other things to the contrary whatsoever. — Given at Rome in the year 1537, on the fourth day before the Nones of June, in the third year of our Pontificate.” This, and no other, is that famous bull on account of which so great an uproar has been made.
 
@@ -2420,7 +2420,7 @@ World
 
 World, if in order to recognize the Americans as true men they had had to wait for the decision of Rome. It is certain that long before the Pope dispatched that bull, the Catholic Kings had warmly recommended the instruction of the Americans, had given the most solicitous orders that they should be well treated, and that no wrong should be done them in their goods or in their liberty, (B) and had sent to the New World several bishops and some hundreds of missionaries at the expense of the royal treasury, to preach to those Satyrs the Faith of Jesus Christ and to instruct them in the Christian life. In 1531, six years before that bull came out, the Franciscan missionaries alone had baptized in Mexico more than a million of those Satyrs, as Monsignor Zumárraga attests, (C) and in 1534 the Seminary of Santa Cruz had already been founded in Tlatelolco for the instruction of a good number of Little Apes, where they learned the Latin language, Rhetoric, Philosophy, and Medicine. (D) If the Americans were at first thought Satyrs, no one can say so better than Christopher Columbus, their discoverer. Hear, then, how that celebrated Admiral speaks, in his report to the Catholic Kings Ferdinand and Isabella, of the first Satyrs seen by him in the island of Haiti, or Hispaniola: “I swear to Your Highnesses,” he says, “that there is not in the world a better people than this, nor one so loving, affable, and gentle. They love their neighbors as themselves: their speech is the sweetest, the softest, the gayest, for they always speak smiling, and although they go naked, believe me, Your Highnesses, that they have very praiseworthy customs, and that their King is served with great majesty, and has manners so pleasing that it gives great pleasure to see him, as also to consider the great
 
-retentiveness
+## retentiveness
 
 (B) The orders given by the Catholic Kings concerning the conversion of the Americans before that bull, and the laws published by them in favor of those nations, may be seen in the Decades of Herrera and in the Indian Code.
 
@@ -2568,7 +2568,7 @@ etc., etc. (R) Almost all the historians relate the wonder that the frugality of
 
 Drunkenness is the dominant vice of those nations. I admit it candidly in the first book of my History; I set forth its excesses and point out its causes; but I add besides that it was not so in the countries of Anahuac before the Spaniards entered them, because of the great severity with which that vice was punished, a vice which in the greater part of the countries of the old continent goes unpunished, and even serves as an exception or excuse for other, graver crimes. It is likewise established by the testimony of the writers who made inquiries into the political government of the Mexicans, that there were severe laws against drunkenness, in Mexico as well as in Texcoco, in Tlaxcala, and in other states, which I have seen represented in ancient paintings. The sixty-third painting of the Collection of Mendoza represents two young people of both sexes
 
-condemned
+## condemned
 
 (R) Monsignor de las Casas, in that memorial of his to Philip II which bears the title On the Destruction of the Indies, affirms that the fare of the Americans is such that that of the ancient holy Fathers of the Thebaid could not have been less delightful, nor more scanty, nor more wretched. Monsignor Garcés, in his letter to Pope Paul III, says that their sobriety cannot be sufficiently expressed. The Anonymous Conqueror asserts in his Relation that the Americans are, of all the peoples of the world, those who sustain themselves on the least. So speak all the eyewitnesses of their customs. We know from Torquemada that the first most abstemious religious who announced the Gospel to the Mexicans found not a little to admire, and even to learn, in their sobriety.
 
@@ -2594,7 +2594,7 @@ that
 
 that he displays against the Inca Garcilaso, because he defends the Peruvians from such an imputation, humanity? Even if there were grave authors who attributed that crime to all the peoples of America, since there are, as in fact there are, many authors equally grave who affirm the very contrary, M. de Pauw ought, in accordance with the laws of humanity, to have refrained from so grave an accusation. How much more ought he to refrain from it, when there is no authoritative writer on whose testimony he can rest so universal an assertion. He will find, indeed, some authors, such as the Anonymous Conqueror, Gómara, and Herrera, who have charged some Americans with that vice, or at most some people of America; but where will he ever find a reputable historian who has dared to say that pederasty was in great vogue in the islands, in Peru, and in Mexico, and in the whole new continent? On the contrary, all the historians of Mexico say with one voice that this vice was supremely abhorred by those nations, and they make mention of the terrible penalties prescribed against it by their laws, as may be seen in the works of Gómara, Herrera, Torquemada, Vetancurt, and others. Monsignor de las Casas testified in a writing of his presented to Charles V in 1542 that, having made diligent inquiries in the islands of Hispaniola, Cuba, Jamaica, and Puerto Rico, and in the Lucayas, he found that there was never any memory of that crime among those nations. He affirms the same of Peru, of Yucatán, and of all the countries of America in general, except in some place where it is said that there are some guilty of it; but not therefore, he adds, is that whole world to be blamed. (T) Who
 
-then
+## then
 
 (T) “The Spaniards” (Monsignor de las Casas is speaking of some of them, not of all) “have defamed the Indians with the greatest crimes for no other reason than their temporal interest. . . . Since they perceived that their wealth consisted in seizing the goods and the persons of the Indians, they have a thousand times defamed them and accused them of being infected with sodomy; but such an imputation is a great falsehood, and a wickedness of the accusers; for in all the great islands of Hispaniola, Cuba, San Juan, and Jamaica, and in sixty Lucaya islands, in which there were very numerous peoples, there was never any memory of such a vice, as we can testify, having made inquiries about it from the very beginning. Nor in Peru, nor in Yucatán, was such a vice found, and so generally everywhere, except in some places where it is said that there are some, etc.” Casas, in the memorial On the Liberty Claimed by the Suppliant Indian, Reason 6.
 
@@ -2604,7 +2604,7 @@ then has authorized M. de P. to defame the whole New World in so grave a matter?
 
 Among the crimes that M. de P. charges against the Americans, he also gives a place to suicide. It is indeed true that there were many who at the time of the conquest hanged themselves, or threw themselves from heights, or ended their bitter lives by starvation; but what wonder is it that men deprived of the light of the true religion, and driven to despair by the intolerable vexations which they suffered from the conquerors, should do what was done so frequently by the Romans, the Greeks, and the ancient Spaniards, and by the English, the French, and the Japanese of modern times, for a slight
 
-motive
+## motive
 
 (U) Recherch. philosoph., pt. 4, sect. 4.
 
@@ -2626,11 +2626,11 @@ Ancient History of Mexico, Vol. IV.              Cc                         titl
 
 title: Philosophical Researches on the Inhabitants of the Old Continent. He, following the same method as M. de P., would gather whatever he might find written of the barren countries of the Old World, of inaccessible mountains, of marshy plains, of impenetrable forests, of sandy deserts, and of bad climates; of loathsome and noxious reptiles and insects, of serpents, of toads, of scorpions, of ants, of spiders, of centipedes, of beetles, of bedbugs, and of lice; of irregular, small, tailless, defective, and pusillanimous quadrupeds; of degenerate peoples, of ugly color, of irregular stature, of deformed features, of bad complexion, of paltry spirit, of dull intelligence, and of cruel disposition. When he came to the article of vices, what an immense abundance of materials he would have for his work! What examples of baseness, of perfidy, of cruelty, of superstition, and of dissoluteness! What excesses in every sort of vice! The history of the Romans alone, the most celebrated nation of the Old World, would furnish him an incredible quantity of the most horrible crimes. He would admit, too, that such defects and vices were not common either to all countries or to all the other inhabitants of the old continent; but it does not matter, since he was to write on the very model of M. de P., and to use the same logic. This work would doubtless be far more valuable and more worthy of credit than that of M. de P., because whereas this philosopher cites against America and the Americans only European authors, that American writer, on the contrary, would avail himself for his curious work only of authors native to the very continent against which he would be writing.
 
-Dissertation
+## Dissertation
 
 [p. 203]
 
-D I S S E RTAT I O N V I .
+## D I S S E RTAT I O N V I 
 
 O N T H E C I V I L I Z AT I O N O F T H E M E X I C A N S .
 
@@ -2660,7 +2660,7 @@ some
 
 some figures of geometry, and was filled with joy, persuading himself that he had arrived among a Greek people and not in a barbarous nation. Imagine that by some accident you come to an unknown country: if you find some money there, do not doubt that you have arrived among a civilized people.” But if Montesquieu rightly concludes the civilization of a people from the use of money, M. de P. infers very badly the lack of civilization from the lack of money. If by money is meant a piece of metal coined with the stamp of the prince or of the public, it is certain that the lack of it in a nation does not demonstrate barbarism. “The Athenians,” says the same Montesquieu, “because they had no use of any metals, made use of oxen for money, as the Romans did of sheep,” and from this originated, as all know, the name pecunia, since the Romans put on the first money that they coined the stamp of the sheep which they had previously used for their contracts. The Greeks were without doubt a very civilized nation in the times of Homer, since it was not possible that in the midst of an uncivilized nation there should be raised up a man capable of composing the Iliad and the Odyssey, those two immortal poems which after twenty-seven centuries are still admired, but cannot be imitated. And yet the Greeks at those times did not know coined money, as appears from the works of that renowned poet himself, who wherever he wishes to signify the value of anything does not express it otherwise than by the number of oxen or sheep that it was worth: as he does in bk. 7 of the Iliad, where he says that Glaucus gave his arms of gold, which were worth a hundred oxen, for those of Diomedes, which were of copper, and were worth no more than nine oxen. Wherever, moreover, he makes mention of some acquisition by contract, he speaks of nothing but that of exchange or barter. And so in that ancient controversy which arose between the Sabinians and the Proculians, two sects of jurisconsults, the former maintained that a true sale and purchase could be made without a price, alleging for this certain passages of Homer, in which those who did nothing else than barter are said to buy and sell. The Lacedaemonians
 
-were
+## were
 
 [p. 206]
 
@@ -2718,7 +2718,7 @@ But finally, if those are barbarous who have not the use of iron, what shall tho
 
 For the rest, our Researcher is as much mistaken in what he says of American iron as in what he thinks of copper. In New Spain, in Chile, and in many other countries of America, infinite mines of good iron have been discovered, and if it were not forbidden to work them, in order not to prejudice the commerce of Spain, America could furnish Europe with all the iron necessary, as she supplies it with gold and silver. If M. de P. had known how to make his researches about America, he would have found in the chronicler Herrera, (g) that even in the island of Hispaniola there is iron better than that of Biscay. He would likewise have found (h) in the same author that in Zacatula, a maritime province of Mexico, there is
 
-copper
+## copper
 
 (g) Dec. 4, bk. 6, ch. 7.
 
@@ -2728,7 +2728,7 @@ copper
 
 copper of two kinds: the one hard, which they used in place of iron to make axes, hatchets, and other instruments of war and of agriculture, and the other ordinary and pliable, which they employed in pots, basins, and other vessels for domestic uses; so that they had no need of the vaunted secret of hardening copper. My sincerity obliges me equally to defend the true progress of American industry and to reject those imaginary inventions that are attributed to the nations of that New World. The secret that the Americans truly possessed is that which is read in Oviedo, an eyewitness, and very experienced and knowledgeable in metals: “The Indians,” he says, (i) “know how to gild very well vessels of copper, or of low gold, and to give them so excellent and so glowing a color that it seems gold of twenty-two carats and more: which they do with certain herbs. This work succeeds so well that if some goldsmith of Spain or of Italy had this secret, he would think himself very rich.”
 
-§ III.
+## § III
 
 On the Arts of Building Ships and Bridges and of Making Lime.
 
@@ -2778,7 +2778,7 @@ He says, then, that the Mexicans did not use hieroglyphics: that their paintings
 
 In all this M. de P. shows his ignorance, and from it springs his rashness in writing. But should greater credence be given to a Prussian philosopher, who has seen only the crude copies of Purchas, than to those who have seen, and diligently studied, a great many original paintings of the Mexicans? M. de P. does not want the Mexicans to have made use of hieroglyphics, lest it be thought that he grants them some resemblance to the ancient Egyptians. Father Kircher, that celebrated investigator and eulogist of Egyptian antiquities in his work entitled Oedipus Aegyptiacus, and Brian Walton in the prolegomena to the Polyglot Bible, are of the same opinion as M. de P., and their opinion has no other support than that of the aforesaid copy of Purchas; but Motolinía, (m) Sahagún, Valadés, Torquemada, Enrico
 
-Martínez
+## Martínez
 
 (m) Toribio de Motolinía in his manuscripts, especially in the exposition of the Mexican Calendar. Bernardino Sahagún in his universal dictionary of the Mexican language. Diego Valadés in his Rhetorica christiana, printed at Perugia and dedicated to Pope Gregory XIII in the year 1579. Enrico Martínez in his History of New Spain. Sigüenza in his Ciclografia mexicana, and in the work entitled Teatro de virtudes políticas. Torquemada in his Monarquía indiana. Valadés dealt with the Mexicans for thirty years, Torquemada for more than forty,
 
@@ -2822,7 +2822,7 @@ Ee2                        these
 
 these has known up to now enough to translate a book? Oh, how many absurdities in so few words! In order that the Spaniards might understand the Mexican paintings it was not necessary that the Mexicans should know the Spanish language; for it was enough that the Spaniards understood Mexican: nor does the explanation of a painting require as much as is needed to translate a book. M. de P. says that on account of the roughness of the Mexican language there has been up to now no Spaniard who could pronounce it, and that on account of the incapacity of the Mexicans none of them has up to now learned the Spanish language; but the one and the other are very far from the truth. Of the Mexican language we shall treat in its place. Castilian has always been very common among the Mexicans, and there are very many who speak it as well as the Spaniards themselves. Many of them wrote in Castilian their ancient history, and that of the conquest of Mexico as well, some of whom I have praised in the Catalogue of writers which I prefixed to my History. Others translated Latin books into Castilian, Castilian ones into Mexican, and Mexican ones into Castilian: among whom the following are worthy of particular mention: Don Fernando de Alva Ixtlilxochitl, so often cited by us; Don Antonio Valeriano of Azcapotzalco, teacher of the Mexican language to the historian Torquemada and celebrated by him with great praise; Don Juan Berardo of Huexotzinco; Don Francisco Bautista Contreras of Cuauhnahuac; Fernando de Ribas and Esteban Bravo of Texcoco; Pedro de Gante, Diego Adriano, and Agustín de la Fuente of Tlatelolco. (p) We know from the history of the Conquest that the celebrated Indian woman Doña Marina learned the Castilian language with the greatest quickness and ease, and that she spoke very well both Mexican and Maya, which differ more from each other than French, Hebrew, and Illyrian. Since, then, there have been in all times very many Spaniards who have learned Mexican, as we shall show later, and very many Mexicans,
 
-who
+## who
 
 (p) On what we say of those Indian translators, one may consult Torquemada in the Monarquía indiana, Pinelo in the epitome of the Biblioteca occidental, Dr. Eguiara in the Biblioteca mexicana, and Vetancurt in the Teatro mexicano.
 
@@ -2832,7 +2832,7 @@ who have learned Spanish, why should the Mexicans not have been able to instruct
 
 As to the copies of the Mexican paintings published by Purchas and by Thévenot, it is true that in them neither the proportions nor the laws of perspective are seen to be observed; but since those crude copies were cut in wood, it may be that those authors increased the defects of the originals: nor should we wonder if they perhaps left out something belonging to the perfection of those paintings, since we know that they omitted altogether the copies of paintings 21 and 22 of that Collection, and the images of the cities in the greater part of the others, and moreover changed the figures of the years corresponding to the reigns of Ahuitzotl and of Moctezuma II, as we have said where we treated of the various collections of Mexican paintings in vol. I of the History. The Chevalier Boturini, who saw in Mexico original paintings of those annals, and of that register of tributes, which are contained in the copies published by Purchas and by Thévenot, complains of the great defects that crept into these editions. Indeed, it suffices to compare the copies published in Mexico in the year 1770 by Monsignor Lorenzana with those published in London by Purchas and in Paris by Thévenot to recognize the great difference between the figures of the one and of the others. But I do not undertake to maintain the perfection of the original paintings copied by Purchas; indeed, I do not doubt that they were imperfect, as almost all the historical paintings were, in which the painters, content with the outlines and the coloring of the objects, took no care for proportions, nor for chiaroscuro, nor for perspective. Nor was it possible for those laws of art to be observed, given the extraordinary speed with which they made such paintings, to which Cortés and Bernal Díaz, eyewitnesses, bear witness. But let us see the consequences that M. de P. draws from this. Here are his arguments: The Mexicans did not observe the laws of perspective in their paintings; therefore they could not by means of them perpetuate the memory of their events: The Mexicans were bad painters;
 
-therefore
+## therefore
 
 [p. 222]
 
@@ -2988,7 +2988,7 @@ they
 
 they are evidently eastern. The forms of the silver ornaments upon them, representing dragons, &c. may be considered as a confirmation of this. They are infinitely superior in point of workmanship to any effort of American art… The only unquestionable specimen of Mexican art that I know of in Great Britain, is a cup of very fine gold, which is said to have belonged to Montezuma… A man’s head is represented on this cup. On one side the full face, on the other the profile, on the third the back parts of the head… The features are rude, but very tolerable, and certainly too rude for Spanish workmanship. This cup was purchased by Edward earl of Orford, while he lay in the harbour of Cadiz.” Thus far Robertson, to whose arguments we reply: 1. That there is no reason to believe that those rude works are truly Mexican. 2. That we do not even know whether those persons on whose judgment Robertson thought he could rely were such as to deserve our faith; for we have observed that Robertson often relies on the testimony of Gage, of Corral, of Ibagnez, and of other such authors, wholly unworthy of being believed. It might also be that those persons who judged of such works had a heated imagination; since it is far easier, according to the condition of our fallen nature, to heat the imagination against a nation than in its favor. 3. That it is far more probable that those copper arms, believed by intelligent judges to be evidently eastern, are truly Mexican; for we are certain from the testimony of all the writers on Mexico that those nations used such plates of copper in war, and that with them they sought to cover the breast, the arms, and the thighs to defend themselves from arrows, whereas we do not know that they were ever in use among the inhabitants of the Philippine Islands, (C) or among any other people,
 
-that
+## that
 
 (C) Dr. Robertson says that the Spaniards probably had those arms from the Philippine Islands.
 
@@ -3118,13 +3118,13 @@ could
 
 could not but have the names of the animals altered. To satisfy himself of the alteration which they suffered in the hands of Count de Buffon, whoever wishes need only compare the Mexican names that are read in the Natural History of that philosopher with those of the Roman edition of Hernández. For the rest, it is certain that the difficulty we find in pronouncing a language to which we are not accustomed, and especially if its articulation is too different from that of our own language, does not prove that it is barbarous. That same difficulty which Count de Buffon feels in pronouncing Mexican names, the Mexicans would feel in pronouncing French names. Those who are accustomed to the Spanish language feel great difficulty in pronouncing German and Polish, and these seem to them the harshest and roughest of all. The Mexican language was not that of my parents, nor did I learn it as a child; and yet all the Mexican names of animals produced by Count de Buffon as an argument for the barbarity of that language seem to me incomparably easier to pronounce than many others taken from certain European languages, which he employs (N) in his Natural History: and perhaps it will seem so to those Europeans who are accustomed neither to the one nor to the other languages; nor will there be wanting someone to wonder that Count de Buffon took the trouble to write those names, capable of frightening the most courageous writers. Finally, as to what concerns the American languages, one must abide by the judgment of those Europeans who knew them rather than by the opinion of those who know nothing of them.
 
-§ VII.
+## § VII
 
 (N) Let the following names of animals used by Count de Buffon be read and compared with the Mexican ones set down and altered by him: Baurd mannet-jes          Miszorzechowa             Niedzwiedz Brand-birts               Stachel-schwein           Przawiaska Chenik-skarzecsek         Scebeuschlafer            Meer-schwein Uldgiers-diur             Sterzeczieck              Sczurcz &c.
 
 [p. 248]
 
-§ VII.
+## § VII
 
 On the Laws of the Mexicans.
 
@@ -3170,7 +3170,7 @@ Ii2                      of
 
 of the causes, and turned them away from many clandestine practices which could have swayed them in favor of one of the parties. The capital penalties prescribed against those who perverted justice, the promptness of their execution, and the vigilance of the sovereigns kept the magistrates in check, and the care taken to supply them at the king’s expense with everything necessary made them inexcusable. Those assemblies that were held every twenty days before the sovereign, and particularly that general assembly of all the magistrates every eighty days to conclude the pending causes, besides avoiding those great evils which the slowness of judgments occasions, brought it about that the magistrates communicated their lights to one another reciprocally; that the king came to know better those whom he had appointed depositaries of his authority; that innocence had more recourse; and that the apparatus of judgment rendered justice more respectable. That law which permitted appeal from the tribunal of the Tlacatecatl to that of the Cihuacoatl in criminal causes, and not in civil ones, shows that the Mexicans, respecting the laws of humanity, recognized that more was required to believe a man guilty than to declare him a debtor. In the trials of the Mexicans no other proof against the accused was admitted than that of witnesses. Torture was never seen employed among them to make the innocent guilty by force of torments, nor did they avail themselves of those barbarous proofs of the duel, of fire, of boiling water, and the like, which were once so frequent in Europe and are now read by us with astonishment in the histories. “There will be no one who does not marvel,” says Montesquieu on this subject, (O) “that our forefathers made the honor, the fortune, and the property of citizens depend on certain things which belonged less to the jurisdiction of reason than to that of chance; and that they constantly employed those proofs which proved nothing, and were connected neither with innocence nor with crime.” What we now say of those proofs, our posterity will say in time to come of torture, and
 
-will
+## will
 
 (O) The Spirit of the Laws, bk. 28, ch. 17.
 
@@ -3266,13 +3266,13 @@ Catalogue
 
 [p. 262]
 
-C ATA L O G U E
+## C ATA L O G U E
 
 O F S O M E E U RO P E A N A N D C R E O L E AU T H O R S W H O
 
 H AV E W R I T T E N O N C H R I S T I A N D O C T R I N E A N D
 
-M O R A L S I N T H E L A N G UAG E S O F N E W S PA I N .
+## M O R A L S I N T H E L A N G UAG E S O F N E W S PA I N 
 
 A stands for Augustinian, D. for Dominican, F. for Franciscan, G. for Jesuit, P. for secu‐
 
@@ -3334,7 +3334,7 @@ Authors
 
 AU T H O R S O F G R A M M A R S A N D D I C T I O N A R I E S O F
 
-T H E A F O R E S A I D L A N G UAG E S .
+## T H E A F O R E S A I D L A N G UAG E S 
 
 Of the Mexican.           Juan Bta. de Lagunas Gram.
 
@@ -3400,11 +3400,11 @@ Dissertation
 
 [p. 265]
 
-D I S S E RTAT I O N V I I .
+## D I S S E RTAT I O N V I I 
 
 O N T H E B O U N DA R I E S A N D P O P U L AT I O N O F
 
-T H E K I N G D O M S O F A N A H UAC .
+## T H E K I N G D O M S O F A N A H UAC 
 
 T    he mistakes of many Spanish writers concerning the boundaries
 
@@ -3502,7 +3502,7 @@ Ancient History of Mexico, Vol. IV.                    Mm                       
 
 of Mexico, indeed to deny it boldly against the uniform deposition of all the early historians? But if the population of Mexico was so great in 1518, why in 1521 was it necessary to bring people there from the Lucayan Islands, and afterward from the coasts of Africa, to people it? I confess candidly that I cannot read this objection of M. de P. without indignation, seeing such boldness in affirming what is absolutely false and wholly contrary to the account of the authors. Where has M. de P. ever read that in order to people Mexico it was necessary to transport people there from the Lucayas? I challenge him to produce me a single author who says so; on the contrary, from many writers we know quite the opposite. We know from the chronicler Herrera and from other writers that from 1493, the year in which the Spaniards established themselves on the island of Santo Domingo, until 1496, a third of the inhabitants of that great island perished through the war and through other very grave hardships. (e) In 1507 there remained no more than a tenth part of the Indians who had been there in 1493, as Monsignor de las Casas, an eyewitness, attests; (f) and from then on the population of that island diminished to such a degree that in 1540 scarcely two hundred Indians were left there. For this reason, from the beginning of the sixteenth century the Spaniards began to draw thousands of Indians from the Lucayas to replenish the population of Hispaniola; but as these too perished, they began, before the conquest of Mexico, to bring settlers there from Tierra Firme and from other countries of the American continent, as these were discovered. We know from a letter written to the Council of the Indies by the first bishop of Mexico, and cited to the Emperor Charles V by Monsignor de las Casas, that the cruel Nuño de Guzmán, governor of Pánuco, sent from there twenty-eight ships laden with enslaved Indians to be sold in the islands; so that it is so far from the truth that the Spaniards
 
-brought
+## brought
 
 (e) Dec. 1, bk. 2, ch. 18.
 
@@ -3644,15 +3644,15 @@ from
 
 from Dr. Robertson himself: “The Spaniards,” he says, “accustomed to this mode of habitation (of isolated huts) among all the savage tribes with which they were then acquainted, were astonished, on entering New Spain, to find the natives residing in towns of such extent as resembled those of Europe.” But Cortés and his companions, before going to Mexico, already knew that those peoples were not savage tribes and that their houses were not huts: having already heard from all those who a year earlier had made that voyage with Grijalva that there were fine settlements, furnished with houses well built of stone and lime, and with lofty towers, as Bernal Díaz, an eyewitness, attests. That was not, then, the cause of their wonder; but rather the real greatness and multitude of the cities which they saw there. “It is not surprising, then,” adds Robertson, “that Cortes and his companions, powerfully tempted to magnify, in order to exalt the merit of their own discoveries and conquests, should have been betrayed into this common error, and have raised their descriptions considerably above truth.” But Cortés was no fool, and saw well that to exaggerate the number of his allies, so far from exalting the merit, served to diminish the glory of his conquests. Yet he often confesses that he was aided in his conquests now by eighty, now by a hundred thousand, now by more than two hundred thousand men: and as these candid confessions make plain his truthfulness, so those so numerous armies demonstrate the great population of that country. Moreover Dr. Robertson supposes that whatever the Spanish authors wrote concerning the number of the houses of the Mexican cities was expressed by them only by conjecture and according to the judgment they formed by eye; but it did not happen so: for Cortés himself testifies in his first letter to the Emperor Charles V that he had caused a count to be made of the houses that were in the district of the republic of Tlaxcala, and had found more than a hundred and fifty thousand, and in the city of Tzompantzinco alone more than twenty thousand.
 
-Dissertation
+## Dissertation
 
 [p. 288]
 
-D I S S E RTAT I O N V I I I .
+## D I S S E RTAT I O N V I I I 
 
-ON THE RELIGION OF THE MEXICANS.
+## ON THE RELIGION OF THE MEXICANS
 
-I    have nothing to do in this dissertation, as in the others, with M.
+## I    have nothing to do in this dissertation, as in the others, with M.
 
 de Pauw; for he candidly acknowledges the resemblance that there is between the delusions of the Americans and those of other nations of the old continent in matters of religion. “Since the religious superstitions of the peoples of America,” he says, (a) “have had a sensible resemblance to those which the nations of the old continent have practiced, these absurdities have been spoken of only in order to make the comparison, and to show that, in spite of the diversity of climes, the weakness of the human mind has been constant and invariable.” If he had reasoned with the same judgment on other points, he would have spared us several disputes, and would have preserved his work from those grave and strong censures that some wise men of Europe itself have made of it. I, however, address this dissertation to those who, from ignorance of what has passed and is passing at present in the world, or from want of reflection, have made such an outcry in reading in the History of Mexico of the cruelty and superstition of those peoples, as if they were things never heard of among mortals. I shall therefore make their error plain, and shall demonstrate that the religion of the Mexicans was less superstitious, less indecent, less puerile, and less irrational than that of the most civilized nations of ancient Europe, and that examples of cruelty like theirs have been seen, and perhaps even more atrocious ones, among almost all the peoples of the world.
 
@@ -3816,17 +3816,17 @@ them
 
 them for war. Pliny severely reproaches the Greeks for the custom of eating all the parts of the human body to cure various diseases. (x) Now what wonder that the Mexicans performed as a maxim of religion what the Greeks practiced for medicine? But no, I do not pretend to make an apology for the Mexicans on this point. Their religion in what concerns anthropophagy was without doubt more barbarous than that of the Romans, the Egyptians, and those other civilized nations; but for the rest it cannot be doubted, given what we have said, that it was less superstitious, less ridiculous, and less indecent.
 
-Dissertation
+## Dissertation
 
 (x) Who first thought of devouring each separate human limb? By what conjecture was he led? How could that medicine have had such an origin? Who made poisonings more innocent than remedies? Be it so, let barbarous and foreign rites have invented them; did the Greeks too make these their arts? etc. Pliny, Natural History, bk. 28, ch. 1.
 
 [p. 303]
 
-D I S S E RTAT I O N I X .
+## D I S S E RTAT I O N I X 
 
-ON THE ORIGIN OF THE FRENCH DISEASE.
+## ON THE ORIGIN OF THE FRENCH DISEASE
 
-I   n the present Dissertation we have to dispute not only with M. de
+## I   n the present Dissertation we have to dispute not only with M. de
 
 Pauw, but also with nearly all Europeans, who are already generally persuaded that the French disease had its origin in America: for after various nations of Europe had for more than thirty years laid the blame on one another for the origin of so shameful a disease, they finally agreed to blame the New World. We should without doubt be charged with rashness in wishing to combat so universal an opinion, if the arguments that we are about to oppose to it, and the example of two modern Europeans, did not render our boldness excusable. (a) Since among the supporters of the common opinion the principal one, the most renowned, and he who has written about it most copiously and most learnedly is M. Astruc, a learned French physician, it is he who will be chiefly attacked by us, availing ourselves for this purpose in large part of those very materials which he furnishes us in his work. (b)
 
@@ -3920,7 +3920,7 @@ great commerce which Egypt had for so many centuries, on the one hand with the e
 
 Not only from Asia, but also from Africa could the French disease have passed into Europe before America was discovered; for the Portuguese, thirty years before the glorious expedition of Columbus, had already discovered a great part of the equatorial countries of Africa, and had opened commerce there. Now could not some Portuguese, there infected with the French disease, have infected in turn his countrymen, and subsequently other nations of Europe, as perhaps in fact happened, according to what we shall say below? Let M. Astruc see, then, in how many ways the French disease could have been communicated to Europe without the intervention of America, although the torrid zone was believed by the ancients to be inaccessible.
 
-§ III.
+## § III
 
 The French Disease Could Have Arisen in Europe without Contagion.
 
@@ -4000,7 +4000,7 @@ women
 
 women during their periodic evacuation. M. de Pauw, that capital enemy of the whole New World, and that great Researcher into American filth, speaks thus in part 1 of his Recherches: “There was a law among all the savage peoples of the New World not to approach women at the time of their courses, either because contact with the flux was held by them to be pernicious, or because instinct alone taught them such a regard.” 3. M. Astruc represents the men and women of Hispaniola as exceedingly heated and agitated by a violent and raging lust; Count de Buffon and M. de Pauw (x) represent, on the contrary, all the Americans as most cold and insensible to the stimuli of love. What does such a contradiction mean, if not that these systematic authors paint the Americans in whatever colors turn out to suit them? When they want to bring out the apathy or insensibility of those men, they say that they are most cold; but when they claim to discredit their customs, or to blame them for the French disease, then they affirm that they are beyond measure libidinous. M. Astruc cites the testimony of Gonzalo de Oviedo in bk. 5, ch. 3 of his History to convince us that the Haitian women were too shameless, and that they prostituted themselves indiscriminately to all men; but besides that the testimony of this author against the Americans is worth less than nothing, as we shall show below, he does not say what M. Astruc would have us believe. Here is what Oviedo says in the cited place: The women of this island were continent with their own men; but with the Christians they willingly made free of themselves. Here is what Herrera says of it: (y) The women were continent with their fellow natives, and dishonest with the Castilians. If they were continent with their fellow natives, their incontinence could not cause the French disease before the Spaniards landed there. If they were dishonest only with the Christians, it must be believed
 
-Rr 2                      that
+## Rr 2                      that
 
 (x) See what Count de Buffon says concerning the coldness of the Americans in various places of his Natural History, and M. de P. in pt. 1 of his Recherches.
 
@@ -4036,7 +4036,7 @@ by vanity. It is enough to read the second book of his History, in which, beside
 
 He speaks with some variation in the Sumario of the History and in the History itself; but since the latter is his principal work, the more extensive, published some years after the Sumario, and composed with greater study, we ought rather to stand by what he says in it, wherever there is any divergence. He says, then, in bk. 2, ch. 14 of the General History of the Indies, that the Spaniards who returned with Columbus to Spain in 1496 from their second voyage to America brought back from the island of Hispaniola the French disease together with samples of the gold of the famous mines of Cibao: and that some of them, already infected, who passed into Italy with the Great Captain Gonzalo Fernández de Córdoba, infected through the Italian women the French who had come with King Charles VIII to take possession of the kingdom of Naples: But this account is wholly untenable, and full of anachronisms; for Columbus returned to Spain from his second voyage on June 3, 1496, and we know from countless eyewitnesses that Europe was already infected with the French disease at least as early as 1495: therefore such infection could not have come from those Spaniards who then returned with Columbus. Then, to show with the greatest historical evidence that the French who were at Naples with King Charles
 
-VIII
+## VIII
 
 (A) The learned Don Ferdinand Columbus, in ch. 9 of his History, reproaches Oviedo with the extravagance of his opinions and the infidelity of his citations.
 
@@ -4078,7 +4078,7 @@ Ancient History of Mexico, Vol. IV.                    Sf                       
 
 began in Auvergne, a province of France very far from Spain, in 1493. Battista Fulgosio, or rather Fregoso, Doge of Genoa in 1478, in his curious work entitled Dicta factaque memorabilia, printed in 1509, affirms (G) that the French disease began to be known two years before King Charles VIII came into Italy. Now he came into Italy in September 1494: therefore that evil was known as early as 1492, or at the latest at the beginning of 1493, that is, some months before Columbus returned from his first voyage. John Leo, formerly a Mohammedan, a native of Granada in Spain, commonly called Leo Africanus, in his Description of Africa, composed in Rome under the pontificate of Leo X, after he had been converted, says that the Jews, driven out of Spain in the times of Ferdinand the Catholic, carried the French disease into Barbary and infected the Africans: for which reason it was there called Spanish Evil. (H) Now the edict of the Catholic Kings concerning the expulsion of the Jews was published in March 1492, as Mariana says (I), granting them no more than four months in which to sell their goods, if they did not wish to carry them with them: and in the following month another edict was published by Brother Tomás de Torquemada, Inquisitor General; in which Christians were forbidden, under very heavy penalties, to deal with the Jews and to furnish them with provisions after that term prescribed by the king: so that all, except those who became, or pretended to become, Christians, were
 
-forced
+## forced
 
 (G) Two years before Charles (VIII) came into Italy, a new sickness was discovered among mortals, for which the physicians could find neither name nor remedies from the teaching of the ancients, and which was called variously, according to the regions. In Gaul they called it the Neapolitan disease, but in Italy they called it the Gallic. Bk. 1, ch. 4, last §.
 
@@ -4152,7 +4152,7 @@ T H E E N D.
 
 [p. 329]
 
-INDEX
+## INDEX
 
 O F VO L U M E I V.
 
@@ -4192,7 +4192,7 @@ Tt                  § IV.
 
 § IV. On the Lack of Letters.                                        p. 214 § V. On the Arts of the Mexicans.                                    p. 226 § VI. On the Mexican Language.                                       p. 240 § VII. On the Laws of the Mexicans.                                  p. 248
 
-C ATA L O G U E O F S O M E E U R O P E A N A N D C R E O L E
+## C ATA L O G U E O F S O M E E U R O P E A N A N D C R E O L E
 
 AU T H O RS W H O H AV E W R I T T E N O N C H R I S T I A N D O C T R I N E A N D M O R A L S I N T H E L A N G UAG E S O F
 
@@ -4218,7 +4218,7 @@ Europe from Other Countries of the Old Continent.              p. 305 § III. Th
 
 Contagion.                                                     p. 308 § IV. The French Disease Did Not Come from America.               p. 316
 
-ERRATA
+## ERRATA
 
 [p. 331]
 

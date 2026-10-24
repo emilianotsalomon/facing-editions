@@ -20,17 +20,17 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 [PDF 1]
 
-FOUNDATIONS OF THE
+## FOUNDATIONS OF THE
 
-THEORY OF KNOWLEDGE
+## THEORY OF KNOWLEDGE
 
 BY
 
-DR. MELCHIOR PALÁGYI
+## DR. MELCHIOR PALÁGYI
 
-WITH THE SUPPORT OF THE HUNGARIAN ACADEMY OF SCIENCES
+## WITH THE SUPPORT OF THE HUNGARIAN ACADEMY OF SCIENCES
 
-BUDAPEST PUBLISHED BY THE ATHENAEUM LITERARY AND PRINTING CO.
+## BUDAPEST PUBLISHED BY THE ATHENAEUM LITERARY AND PRINTING CO
 
 1904.
 
@@ -156,7 +156,7 @@ I believe that a very characteristic error is contained in the above questions. 
 
 construct a language in which he strives as far as possible to dispense with every characteristic of which he can even remotely suppose that it is not needed in the construction of a language. And then he will easily come upon the following elementary necessity: Every human language must of necessity be such that in it we express our knowledge in sentences, which are composed of words. A language in which no units could be formed that correspond to our sentences, or in which these sentences did not consist of units parallel to our words, we could not acknowledge as a language at all. It is an indispensable, and therefore logical, characteristic of all speech that it should be formed of sentences which consist of words: at least speech in which we wish to express science must be of this character. If someone were to remark on this that what we set up as the common logical character of every language is a “matter of course,” I could have no objection whatever to this remark, and could at most add to it that among all the wonders of nature there is no more wonderful phenomenon than that we express our knowledge in sentences which consist of words. For the realm of the true mysteries begins where men call something “a matter of course.”
 
-2. Symbolic Logic.
+## 2. Symbolic Logic.
 
 4. I call that logic symbolic which — as I have said — neglects the investigation of impressions and places the chief emphasis on the investigation of the signs we use. The chief achievement, or rather the cardinal fundamental idea, of this symbolic logic may be expressed by saying that human knowledge can be resolved into elements. The elements of all knowledge would be the so-called concepts, and from these concepts our judgments would arise by composition. Of all Aristotle’s logical distinctions we ascribe the greatest importance to the definition which he repeated five times in three chapters of his Hermeneutics (1, 4, 5), and according to which we must distinguish thoughts into concepts and judgments. There are, he says, thoughts which necessarily fall under the point of view of the true and the not-true, and these are judgments; there are
 
@@ -1006,7 +1006,7 @@ If the impressionist thinker has seen this, then he must take one step more. He 
 
 feeling be convinced that in that body there is something, an indestructible reality. Yes, he is right when he says that what never passes away he feels, sees with his eyes, notices with all his sense-organs. Yes, it is the eternal itself that we feel, see, notice in those passing impressions which our sense-organs afford us: but we must add also that neither by feeling, nor by seeing, nor by any other sense-organ whatever should we be capable of finding the eternal, if we were not able to refer to our impressions by true sentences. In our passing impressions an eternal essence presents itself to us: this is the fundamental principle of logic, or rather of metaphysics, and it is as certain as it is certain that we can give an account of our impressions in true sentences.
 
-7. Judgment and Impression.
+## 7. Judgment and Impression.
 
 22. In the preceding chapter we arrived at a distinction which, epistemologically, is of greater importance to us than any other: we distinguished our judgments from our impressions. If we follow attentively the thinking of the masses, indeed if we study the works of the philosophers too, we may not infrequently observe with pain that minds learned and unlearned alike are inclined to exchange their impressions for their judgments, although between these there obtains a difference such as that between transience and eternity. Our impressions without exception are all fleeting; they emerge in the course of time and sink down again in it: but the truth that is contained in a judgment of ours lays claim to eternal validity. Our experiences we call impressions insofar as they are transitory, and we may call them experiences of eternity insofar as they are judgments containing truth. A graver difference than this cannot be imagined: our impressions are experiences of transience, our judgments, on the contrary, experiences of eternity.
 
@@ -1428,7 +1428,7 @@ as the accompanying figure shows.*) Here the series of points a2, a3, a4 . . . .
 
 we see also that memory-judgments of equal content need not, as we did earlier, be represented by parallel straight lines, but that we can unite all memory-judgments on one and the same straight line, by regarding the point that represents the memory as moving along the straight line.
 
-11. The Principle of Identity.
+## 11. The Principle of Identity.
 
 36. At bottom all our discussions hitherto contain nothing other than the principle of identity, and I may add that all our subsequent discussions too will contain nothing other. Nevertheless we need not fear that in treating this principle we shall ever run out of new objects, thoughts, guiding Ideas, for the principle of identity is an inexhaustible fundamental principle of reason. When the mind investigates itself, the very first and chief result of this self-investigation is that it is able to constate some state of affairs, that is, that it identifies, judges. This identifying judging, however, is nothing other than the relating of our transitory impressions to an eternal essence, as we have already seen proved. We could therefore express the principle of identity by saying that everything that is transitory is the appearance of what never passes away. This principle at the same time sheds light on facts (as transitory things) and on the human mind, whose power of judgment consists precisely in being able to place transitory facts under the point of view of eternity. And since we can never run out of facts, there is always fresh occasion, through their identification, to cast new glances into the principle of identity itself, just as, conversely, through an ever deeper understanding of the principle of identity we arrive at a more unified conception of nature. All the phenomena of nature are only parables of the principle of identity,*) just as nothing else comes to expression in the principle of identity than our unifying striving in the face of the totality of facts. That this striving of ours can never lead to a final conclusion needs no discussion. And this is equivalent to the boundless capacity of the principle of identity to be deepened, or rather to the boundless capacity of logic for progress.
 
@@ -1588,7 +1588,7 @@ Apart from this: it is the greatest rashness to dream of a perfect system of sig
 
 [p. 166]
 
-13. On Awareness.
+## 13. On Awareness.
 
 40. We already saw in the preceding chapter that, properly speaking, not even one judgment can exist in isolation. For if by a sentence A we become aware of some impression of ours, then it is impossible that we should not have cognizance of this sentence A, that is, that we should not become aware of this sentence A as of a new fact capable of being constated. It is true that in everyday speech we mostly omit the sentence B, which would constate that we had formed a sentence A, but this sentence B is nevertheless understood, as it were of itself, in the sentence A. If, for example, I say that this rose is red, then I understand also that I see and express this. Properly I should have to form such a double sentence: “I see that this rose is red”; but how inclined man is to take these two assertions as only one is confirmed by language in that it is quite easy to combine the two sentences into one sentence in this way: “I see this red rose.” What was formerly an object-sentence is now only the object (complementary) part of a sentence. It is known from the elements of syntax how independent sentences can be so transformed that they appear as members of an extended sentence; and conversely, how from individual members of an extended sentence we can make (attributive, adverbial, complementary) subordinate clauses. All these grammatical phenomena remind us that our sentences, as it were, play into one another, and that one can so to speak slip into the other, to figure there as a mere member of a sentence, or again slip out, to assume the character of an independent sentence.
 
@@ -1748,7 +1748,7 @@ the human mind is constructed precisely so as to find eternal reality in its imp
 
 What I have set forth above with regard to Kant’s theory of space can be transferred to his theory of time as well. So long as we stand on the position that our knowledge is divisible into two factors (the matter and the form of cognition), we shall become entangled in contradictions, whatever epistemological problem we may treat. But although we cannot make Kant’s theory of space and time our own, we readily acknowledge that profound presentiments lurk in this theory, and that it was Kant who saw the immeasurable epistemological importance of the doctrine of space and time better than his sensualist and rationalist predecessors.
 
-15. Neutral Awareness.
+## 15. Neutral Awareness.
 
 45. Whatever impression we constate, the concepts “here” and “now” must necessarily play a part in our judgments. The theory of constating judgments — and with it the principle of identity too — would remain very deficient if we did not occupy ourselves more thoroughly with the concepts of space and time. In every physical science the determinations of the place and duration of phenomena are of fundamental significance, so much so that without such determinations serious investigation of nature is not even conceivable. Yet there are scarcely any concepts about which greater confusion prevails, even among investigators of nature, than precisely the concepts of space and time. This confusion also avenges itself in every branch and chapter of the natural sciences, even where we should least suspect it.
 
@@ -1800,7 +1800,7 @@ Dr. Palágyi: The Foundations of the Theory of Knowledge. 13
 
 [p. 194]
 
-16. Object-Awareness.
+## 16. Object-Awareness.
 
 47. Although it may seem an insignificant matter when we speak of five, six, seven or still more senses, this enumeration of the spheres of sense has nevertheless had an enormously disturbing effect on the development of the doctrine of the senses, and thus indirectly of the theory of knowledge as well. If we take into account that the senses of taste and smell function only when larger or smaller, or invisibly minute, particles of foreign bodies penetrate our organism and set certain of our mucous membranes in excitement, then this circumstance alone is sufficient for us not to regard taste and smell as senses of the same kind as touch, sight and hearing, for whose functioning it is by no means required that minute particles of other bodies should enter our organism. I should not at all consider it expedient to call senses those excitements which arise in our organism strictly on the ground that nutritive and reproductive processes take place in it, for then we should have to classify the phenomena arising from sexual stimulation too as separate senses. The impressions of touch, sight and hearing must be separated from all those excitements or stimulations which arise in our organism in connection with the vegetative processes going on in it (nutrition, reproduction). To these vegetative excitements belong the stimulations of taste and smell, of heat and cold, of hunger and thirst, etc., which for the theorist of knowledge are of only secondary significance. As senses properly so called we should have to regard only the so-called higher senses: touch, sight and hearing, whose wonderful cooperation forms the foundation of our object-awareness, and consequently of all our knowledge. For the theorist of knowledge only these three senses properly exist; or rather, everything that anyone might still classify as a 4th, 5th, 6th, 7th . . . and heaven knows what sense, he is inclined to regard only as a vegetative stimulation, as the following discussions will justify more fully.
 
@@ -1932,7 +1932,7 @@ By these discussions I wished to indicate the close connection which exists betw
 
 that physiological principle according to which we can become aware of an experience a only with the help of an inverse experience b: which principle — if I am not mistaken — will play in physiology just as notable a part as the principle of action and reaction in mechanics. For this principle will be called upon to explain why we have several senses, how they cooperate, and what physiological processes those are on which the functions of remembering and imagining rest.
 
-18. Outer and Inner Perception.
+## 18. Outer and Inner Perception.
 
 52. On the basis of the principle of double experiences we can now also clear up the fundamental error in which impressionist logic dwells when it distinguishes an inner and an outer sense from each other, and on this basis speaks too of two kinds of perception, inner and outer perception (or inner and outer experience), and, what is still more significant, when it wishes to distinguish, corresponding to the two kinds of perception, two worlds of appearances as well, namely a physical world of phenomena, which would lie open to outer perception, and a psychical world of phenomena, which would lie open to inner perception or sensing. These two worlds of appearances would form two series more or less parallel to one another, in such a way that to individual physical appearances individual psychical appearances would correspond, although there may exist physical phenomena too which have no corresponding psychical counterpart, and conversely there would not in every case be some physical appearance corresponding to psychical phenomena. This is the theory of the so-called “psychophysical parallelism,” which appears in modern psychology, or rather in psychologistic theory of knowledge, in various shadings, and is as it were the supreme flowering of the whole psychologistic mode of thinking. The two worlds of appearances of which this theory speaks are not determined in the same way by the different authors, and perhaps there is only one point on which the overwhelming majority agree: namely, that physical phenomena possess a character in space and time, while psychical phenomena are supposed not to be spatial but to run their course only in time. But even this proposition is not usually enunciated clearly and sharply, so that it remains more or less obscure whether by psychical phenomena are really to be understood
 
@@ -2094,7 +2094,7 @@ And this elementary truth is not so useless as many a superficial mind would ima
 
 [p. 235]
 
-20. Rest and Motion.
+## 20. Rest and Motion.
 
 58. Although we became convinced in the foregoing that duration cannot occur in any phenomenon without being bound up with extension as well, it is nevertheless beyond doubt that semblance rather favors the view that there really are purely temporal phenomena, such as our thoughts, volitions, feelings, passions, etc. No one doubts that all these experiences of ours are bound to time, but extension (extension in the strict sense of the word, such as can be measured with a meter) no one assuredly ascribes to them. If we consider this, we understand perfectly how the psychologistic theory could arise, which thought it could recognize purely temporal phenomena, since all semblance bears witness in its favor. But if we examine the cause of this semblance more closely, we are at once rid of it.
 
@@ -2188,7 +2188,7 @@ But in order to see still more deeply into the nature of rest and motion, we mus
 
 [p. 247]
 
-21. Conclusion.
+## 21. Conclusion.
 
 61. We have convinced ourselves that every phenomenon must necessarily be extended and at the same time possess a certain duration, although there are phenomena which produce the semblance as if they had no extension, and conversely there are some which seem to lack temporal continuity, and so to be standing phenomena. But in order to be strengthened in our conception that space and time constitute the unified order of the world of phenomena, it is expedient also to bring the phantasms which we are accustomed to form for ourselves of space and of time into close connection with one another, in such a way that one phantasm shall arise from the two. For it is vain to repeat that space and time, in spite of all their distinctness, establish only one order of phenomena, if we do not accustom ourselves to fold, as it were, our phantasms corresponding to space and to time into one another.
 

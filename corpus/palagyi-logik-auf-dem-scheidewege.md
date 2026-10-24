@@ -26,7 +26,7 @@ by
 
 Dr. Melchior Palágyi.
 
-BERLIN
+## BERLIN
 
 C. A. Schwetschke & Son
 
@@ -60,7 +60,7 @@ Appendix. 15. Analytic and Synthetic Judgments                 130—148 16. Fac
 
 IV                           Contents.
 
-Page
+## Page
 
 Part II.
 
@@ -76,7 +76,7 @@ Special Logic. 23. Neutral Awareness                         258—276 24. Space
 
 [PDF 4]
 
-Introduction.
+## Introduction.
 
 In two earlier writings I have already concerned myself with the critical situation of the modern theory of knowledge; in the present work, however, I mean to go a step further, and not only to trace the source of that crisis, but also to attempt to sketch the path that might lead to overcoming it. Accordingly this work falls into two parts: a negative or polemical part, in which I contest the dualistic theory of knowledge, whose chief representative we may take to be K a n t , and a positive, constructive part, in which I endeavor to outline a doctrine of the unity of cognition, at least in its main features.
 
@@ -160,7 +160,7 @@ Of the monistic logic, the sketch of which I offer in this work, I have, inciden
 
 [PDF 16]
 
-Part I.
+## Part I.
 
 The Dualistic Theory of
 
@@ -168,11 +168,11 @@ Knowledge.
 
 [PDF 17]
 
-Section I.
+## Section I.
 
 Formalism and the Theory of Space.
 
-1. The Alchemy of Cognition.
+## 1. The Alchemy of Cognition.
 
 Every dualistic theory of knowledge is characterized by the fact that it begins by dividing cognition into two factors, or else into two classes, and the faculty of cognition itself into two component powers or components. The most interesting and historically most important example of this is furnished by the critical philosophy, which, as is well known, splits cognition into a formal and a material factor, and the faculty of cognition itself, to begin with, into sensibility and understanding. It would be a mistake, however, to believe that there is only one kind of dichotomy of cognition, for the history of logic teaches that such bipartitions have been attempted in a great variety of ways, and have even been worked out into systems. Thus L e i b n i z gives us, if not a decomposition of cognition into two factors, at any rate a division of all cognition into two classes: into “vérités de fait,” that is, into factual truths, which relate to facts that actually take place, and into “vérités de raison,” or truths of reason, such as, for example, the theorems of mathematics.
 
@@ -252,7 +252,7 @@ But apart from this, there is already contained, as I have shown, a contradictio
 
 appears to me a flashing sword which is able, in a wonderful way, to cut itself in two. How dualism manages this is a mystery, but far more mysterious still is the purpose for which it performs its wonders. For if we have gained two faculties of cognition instead of one, we must surely go on advancing in geometrical progression to four, eight, sixteen … faculties of cognition. At any rate we shall convince ourselves that the dualistic theory of knowledge does not stop at the single self-division; for the present, however, we wish merely to look more closely at the splitting of the faculty of cognition into sensibility and understanding, and to ask how Kant means to make the impossible possible and to separate sensibility from the understanding, in order to investigate the two apart.
 
-2. The Elimination of the Understanding.
+## 2. The Elimination of the Understanding.
 
 In order to investigate the sensible faculty of cognition first, it must, according to Kant, be “isolated” by itself, by separating off from it everything that the understanding accomplishes through its concepts. Once sensibility has been isolated in this way, one must then carry out a further splitting within sensibility, by detaching the matter of empirical intuition and retaining only its forms. Kant expresses this in the following way:
 
@@ -310,7 +310,7 @@ are two components of cognition, then it is only a new contradiction to want to 
 
 we must subject the splitting and pasting together of cognition to an exact examination.
 
-3. Matter and Form of Cognition.
+## 3. Matter and Form of Cognition.
 
 One must distinguish well the faculty of cognition from its products or achievements, namely the judgments, which are presented linguistically in the form of sentences. The dualistic theory of knowledge splits not only the faculty of cognition into two components, but also its products into two constituents (or classes), and if the first undertaking was burdened with a contradiction, then the second, presumably, will be in no better case. I wish first to show that the splitting of the products of cognition into matter and form involves just as much an impossibility as the splitting of the faculty of cognition into sensibility and understanding.
 
@@ -434,7 +434,7 @@ Nonetheless we must agree with Schopenhauer that the Transcendental Aesthetic ha
 
 [p. 5]
 
-5. The Mysticism of the Form of Space.
+## 5. The Mysticism of the Form of Space.
 
 In the considerations of the preceding chapter I could emphasize only that basic feature of the Kantian doctrine of space which, in agreement with the generally prevailing primitive intuition of space, posits a dualism between space and the world of bodies, in consequence of which space becomes a sort of milieu, vessel, or form for the world of bodies, and exists independently of it, indeed precedes it as a condition of being. That space and the world of bodies mutually condition each other, that is, that a world of bodies can be there only because there is a space, and conversely a space can be there only because there are bodies that extend, so that therefore a priority of being belongs neither to space nor to bodies, I can set forth only in the positive part of this work: here, however, it is now a matter of working out clearly also what is peculiarly Kantian in the Kantian theory of space, whereby it differs in principle from the current conception of space, so that we may establish the high originality, but unfortunately also the untenability, of the Kantian conception.
 
@@ -482,7 +482,7 @@ Exactly as with the Kantian dualism, so it stands with every dualism in the theo
 
 but it seems that thinking humanity must still make many an ingenious attempt to split the power of cognition, until it finally arrives at the conviction that conjuring of spirits and fortune-telling contain a far more real endeavor than the decomposition of the faculty of cognition into two factors.
 
-6. The Desensualized Sensibility.
+## 6. The Desensualized Sensibility.
 
 In the preceding chapter I was at pains to demonstrate the double sense of the expression “form,” and thereby to dissolve the mystical charm of the Kantian theory of space. What “form” is, everyone knows who regards a body and perceives in it extension, shape, position; Kant, however, uses the expression form also for the purpose of designating that secret power of our sensibility by virtue of which we are able to perceive the world of phenomena only as ordered in space and time. Although we now learn not the least about this secret power of our sensibility, Kant nonetheless designates it by the name “form of sensibility,” and by this name awakens the semblance as if something were made known to us about the power that compels us to perceive the world of phenomena as a spatio-temporal one. At bottom, however, we have only a name for a wholly unknown power, and moreover a confusing (metaphorical) name, because the expression “form” deceives us with the show of something intuitive, whereas that “form” which is supposed to be a precondition of all intuiting is necessarily unintuitive. Of the expression “form,” then, the classic saying of the poet holds: “For where concepts are lacking, a word steps in at the right time.”
 
@@ -528,7 +528,7 @@ space and time. 2. In vain do we have nothing but healthy sense-organs; they are
 
 Kant combines with the bipartition of intuitions into form and matter the tendency to grant an original home in our sensibility to form alone, but to deny one to matter. Thus there falls to the matter of our intuitions, the sensations, the heavy fate of utter homelessness. The sensations would, as has been shown, have to come over into the forms of space and time out of a world without space and time, which is yet impossible; on the other hand there are also no forms a priori for them from which they could derive their origin. So they hover between heaven and earth, midway between outer and inner things in themselves: a riddle of the Kantian philosophy, a symbol of the desensualized sensibility.
 
-7. On “Things in Themselves.”
+## 7. On “Things in Themselves.”
 
 One can contest the formalist theory of knowledge from the ground up without having so much as to touch the romantic concept of the
 
@@ -574,11 +574,11 @@ theory of knowledge, which in our day stands antagonistically over against the f
 
 [PDF 74]
 
-Section II.
+## Section II.
 
 Psychologism and the Theory of Time.
 
-8. Symbolic and Impressionist Logic.
+## 8. Symbolic and Impressionist Logic.
 
 The critical situation of the modern theory of knowledge can perhaps best be characterized through the conflict of two parties, of which the one seeks the salvation of logic in the Kantian doctrine of forms, or else in Bolzano’s Wissenschaftslehre, while the other expects the laying of the foundation of a logic quite properly not from this science itself but from psychology. The representatives of this latter direction of thought are also customarily called “psychologicists,” but since this name seems to have originated in an ironizing intention, I believe I should replace it by the designation “impressionists,” because psychologism in the modern theory of knowledge may be conceived as a parallel phenomenon to impressionism in belles-lettres and the plastic arts.
 
@@ -662,7 +662,7 @@ The first consequence of the Aristotelian confusion of the symbols with cognitio
 
 pure judgments to other human beings as well. Since this whole procedure rested on self-deception, the necessary consequence of it was that one lost oneself in empty word-quibbling to precisely the same degree to which one believed oneself exalted above all symbols and able to draw pure thoughts from the pure understanding. Thus decadent symbolic logic smoothed the way for its arch-enemy, impressionist logic: that new kind of logic which really did regard all human symbols with the deepest mistrust, indeed represented them as the real canker of all science, as may be seen from the brilliant aphorisms of B a c o n ’s New Organon, borne by mighty eloquence.
 
-9. Continuation.
+## 9. Continuation.
 
 What a profound influence B a c o n exerted on English thinking can be gauged from the contempt with which H o b b e s treats linguistic symbols, but perhaps still more from that discord into which L o c k e fell with himself when he finally arrived at the conviction that a consideration of linguistic signs cannot, after all, be omitted in an inquiry into the human understanding. This thinker, so extraordinarily amiable in his frankness, makes a formal confession of his change of opinion, which took place rather late, and since this confession positively constitutes a document for the history of the development of modern logic, may I be permitted to insert its wording here. Locke says in the third book of his Essay concerning Human Understanding (ch. 9, § 21):
 
@@ -782,7 +782,7 @@ One ought not, I believe, to rail against words in philosophy, for all words wit
 
 [p. 11]
 
-11. Outer and Inner Perception.
+## 11. Outer and Inner Perception.
 
 Modern psychologism rests on an oppositional distinction between outer and inner perception, for it is this distinction first of all that misleads the investigators into speaking either of two separate worlds of phenomena or of an outer and an inner side of one and the same world of phenomena. We must therefore subject the so-called inner perception to a critical examination, in order to be able to press through to a judgment on modern psychologism at all. For this purpose it seems to me most fitting to raise such questions as could be decided only on the basis of an “inner perception”; if it then turns out that this celebrated inner perception is wholly incapable of perceiving anything just where one could most wish or demand that it do its duty, then we shall have gained a definite foothold for judging it.
 
@@ -824,7 +824,7 @@ The origin of such distinctions as outer and inner perception I explain to mysel
 
 It belongs to the character of the new age that it is thirsty everywhere for observation, perception, etc., even where such a thirst must remain forever unquenchable. If, for example, someone has an insight into the truth of the Pythagorean theorem, his insight is something invisible, and there is no means of beholding it with armed or unarmed eyes. Modern logicians, however, were inclined to make concessions to the gaping crowd, and to give the semblance that there is a method of satisfying the eyes where they must remain unsatisfied. Out of dread of metaphysics, they let themselves be tempted into making such a metaphysical fiction as the opposition of outer and inner perception is. We do violence to the facts in order to avoid the semblance of being metaphysicians. One is accustomed to call someone a metaphysician who makes fictions where it would be a matter of observing facts, but more recent philosophy shows us that one may fall into fiction-making out of an anti-metaphysical tendency just as well as out of a metaphysical intention. I believe, therefore, that the catchwords “metaphysician” and “anti-metaphysician” should be dropped, for in the end it is never a question of party colors, but of the progress of our knowledge.
 
-12. Psychophysical Parallelism.
+## 12. Psychophysical Parallelism.
 
 There is a self-knowledge as opposed to a knowledge of objects, but there is no inner perception as opposed to an outer one, because the cognizing mind is unable to perceive itself and its cognition as it perceives, for example, any phenomena it pleases in space and in time. Our modern impressionist thinking, however, is characterized by the fact that it would like at any price to perceive even the imperceptible, and in
 
@@ -1020,11 +1020,11 @@ Pa l á g y i , Logic at the Crossroads.                  9
 
 [PDF 132]
 
-Section III.
+## Section III.
 
-Appendix.
+## Appendix.
 
-15. Analytic and Synthetic Judgments.
+## 15. Analytic and Synthetic Judgments.
 
 In this appendix I should like to discuss two questions which offer me an opportunity of casting light in advance on the standpoint I take up in the outline of a monistic theory of knowledge. The first of these questions concerns the Kantian distinction between analytic and synthetic judgments; the second, on the other hand, the Leibnizian distinction between factual and rational truths. As to the first question, modern logicians are accustomed to lay hardly any weight any longer on the distinction of analytic and synthetic judgments in Kant’s sense, and one can certainly only agree with them in this regard, at least insofar as by analytic and synthetic merely explicative and ampliative judgments are meant. It has long been seen through that hardly anything can be accomplished in logic with this opposition; nevertheless I believe I must enter into the Kantian distinction, because it offers an opportunity to open up the fundamental problem of the theory of judgment, and thus of logic in general. For in that Kant wishes to distinguish analytic and synthetic judgments, it comes out clearly, against his intention, how highly enigmatic the relation of the subject
 
@@ -1150,7 +1150,7 @@ To emphasize this seems to me to be of great importance for this reason, that ha
 
 almost infinite difficulty which form the content of general logic. We may perhaps venture to say that we have as yet no systematic general logic at all, but that only the first beginnings of this difficult science are present in individual great thinkers.
 
-16. Factual and Rational Truths.
+## 16. Factual and Rational Truths.
 
 Already in the first chapter I pointed to the difference between chemical and classificatory dualism in the theory of knowledge, and it now remains to consider this latter more closely, because it still exerts a powerful after-effect upon modern logic. The chief representative, indeed one may say the father, of classificatory dualism in the theory of knowledge is L e i b n i z , who joins to his distinction of “vérités de fait” and “vérités de raison” most ingenious metaphysical speculations. “There are,” he teaches, “two classes of truth: rational and factual. The rational are necessary and their opposite is impossible; the factual are contingent and their opposite possible.” (Monadology, p. 707.) It is this dualism which Kant combines with a chemical one (of form and matter) and in addition with an impressionist one (of outer and inner sense), and develops into a transcendental idealism. B o l z a n o too appropriates the Leibnizian classificatory dualism and combines it with a new chemical dualism of act and content of judgments, indeed he adds to it also a dualism of simple and composite ideas, which he developed after the analogy of Locke’s chemistry of ideas. We are concerned here, however, only with the classificatory dualism, which also in modern logic, in manifold turns of phrase, such as, for example, that of the evident and non-evident,
 
@@ -1218,7 +1218,7 @@ truths and their connections better and commands them. In short, with every so-c
 
 [PDF 161]
 
-Part II.
+## Part II.
 
 Outline of a Monistic Logic.
 
@@ -1578,7 +1578,7 @@ Pa l á g y i , Logic at the Crossroads.             14
 
 and the subsumption of concepts under more general concepts comes into its own. Whoever starts from this subsumption of concepts under more general concepts builds logic from above, and is never able to cognize the essence of judgment; indeed, he will necessarily mistake it, and he will consequently also be incapable of doing justice to the nature of concepts. Against empiricism and sensualism we must stress that logic proceeds not from the impressions but from the act of judgment; but we confront the rationalists and scholastics by proceeding not from concepts and their subsumption but from the judgment in which we constate sensible impressions. Only so have we any prospect of being able to turn the true kernel of sensualism, together with the true kernel of rationalism, to account for the construction of a monistic logic.
 
-20. The Principle of Identity.
+## 20. The Principle of Identity.
 
 15. The truth that a judgment must consist of a subject-concept and a predicate-concept has perhaps never been esteemed in logic according to its real significance, as is evident from the fact that it has never been ranked among the “laws” or “axioms” of logic. One speaks of a law of identity, of a law of contradiction, of a law of sufficient reason, etc., but of a law according to which a judgment must consist of a subject and a predicate there is no mention. This truth is treated altogether in an ambiguous manner, which can be characterized only with extreme difficulty. For in logic one speaks of the subject-concept and predicate-concept of a judgment as of a s e l f -e v i d e n t m a t t e r , but on the other hand one seems to want to assume that the dual articulation of the judgment is merely a dual articulation of its linguistic expression, so that
 
@@ -1708,7 +1708,7 @@ The principle of identity, however, is not only a refutation of the division of 
 
 and a posteriori, but also a refutation of the division of our judgments into analytic and synthetic. In all judgments that are true, identity prevails, and only in false judgments is it lacking. If, then, K a n t means that in synthetic judgments subject and predicate are combined without identity, this comes about because by identity he understands that contentless repetition of a sentence which we characterized above. Such a conception of identity leads, to be sure, to a complete disorganization of logic.
 
-21. The Double Judgment.
+## 21. The Double Judgment.
 
 20. Logical investigations are afflicted with a peculiar, painful difficulty, which I have already touched on often before, but of which one is reluctant to give oneself an account, because it has a strongly humorous aftertaste. The logician, that is, must confess that nothing comes harder to him than, when he speaks about judgments, also to adduce a suitable example of a judgment. This is strange enough, since in everyday intercourse we form countless sentences or judgments, and in logical exposition do nothing else at all than pass judgments. But when it is a question of adducing a suitable example of a judgment, one is at once in great embarrassment, not so much because of the banality of such an example to be adduced, as rather because it is extremely difficult to find such an example in which the judgment adduced also makes the definite impression of a s i n g l e j u d g m e n t . If I say, for example, “Here on the table stands a lamp,” the reader learns thereby that here is a table, further also that here is a lamp, as well as that the lamp stands on the table; indeed it is quite impossible to foresee how many judgments there may be that stand in an intimate connection with the one adduced and accordingly give rise to a most disturbing
 
@@ -1838,7 +1838,7 @@ There is therefore no reason whatever not to place memory under the same double 
 
 relating itself by direct awareness to a fact. Now memory, however, so long as it is memory, can be only a means and never an end for the direct awareness of a person; so for that very person it must always offer only a one-sided aspect. For the direct awareness of a second person it would have to become a spatiotemporal fact just as much — if one had the physical means for it — as any arbitrary physical occurrence to which we assign a position in space and time.
 
-22. The Doctrine of Unity.
+## 22. The Doctrine of Unity.
 
 25. The human mind is, as has been said, thoroughly steeped in sensibility, and strives in vain to shake it off. Judgment is indeed an experience of eternity, but we are unable to pass it without the aid of impression and memory; nor is it possible to judge about a judgment unless the first were present, rendered sensible by signs. Thus our cognition goes about on two crutches: on the crutch of the sensible impression, and on the crutch of the sensible symbol; and is accordingly always exposed to a twofold danger of stumbling, for on the one side it is threatened by the deceptive semblance of impressions and memories, and on the other side by the misunderstanding of symbols. But one misunderstands not only the symbols (words) that a second person uses: one misunderstands — what is far worse — one’s own word. One misunderstands it because ambiguity adheres to the word just as much as semblance does to the sensible impression. Instead of concealing this, it is far better to acknowledge it, and to procure means for combating the ambiguity to which we may succumb with every word. The Scholastics have indeed directed their attention to this
 
@@ -2040,7 +2040,7 @@ In that mathematics sets us above the difference between subject and predicate, 
 
 [p. 24]
 
-24. Space and Time.
+## 24. Space and Time.
 
 30. In the doctrine of neutral awareness the answer to the question what space and time are is also already contained. This question is commonly raised because, in face of the concepts of space and time, one finds oneself in a peculiar predicament of the understanding. One says to oneself, on the one hand, that one has no impressions of space and time, as one has, for example, of the hardness, color or warmth of a body; on the other hand, however, one cannot deny that by touching and looking at a body one also gains an impression of its spatial extension, of its shape and position; indeed, if the body is in motion, one cannot deny that one also receives an impression of this motion, which would have the consequence that even the duration of a motion would make an impression on us. In short, one would like to let space and time count as impressions, and yet again also as no impressions; one would like to represent them as sensed, and yet also as not sensed. Out of this perplexity grows the question what space and time are.
 
@@ -2298,7 +2298,7 @@ space itself as the whole corporeal world of phenomena in space, and expresses t
 
 Stream of time The resting point P1 presents itself in the next now-space as P2 and in the following one as P3, etc.; it describes the time-line, that is, it is in an ideal uniform motion, each stage of which covers all the previous ones, so that the point is for this very reason called resting. If, however, the point has received by a slight impulse a velocity in a certain direction, it no longer is projected on the corresponding points of the spaces R1, R2, R3 . . . , but traverses the spaces somewhat as the following figure symbolizes:
 
-Stream of time
+## Stream of time
 
 [p. 24]
 
@@ -2308,7 +2308,7 @@ But not only the principle of inertia, but all the principles of analytical mech
 
 [p. 316]
 
-25. Concluding Reflections.
+## 25. Concluding Reflections.
 
 37. If we ask what relation obtains between space and time, or what connection prevails between spatial and temporal order, so that the two make up only one order: this question really goes to the connection of all phenomena which are ranged in that double order, that is, what we are really concerned with is the establishment of a universal law which governs the totality of the world of phenomena, endless in space and time. The law of identity is, to be sure, such a universal law, for it asserts that every phenomenon is the phenomenon of an eternal; yet this law cannot by any means satisfy us, for its whole content is nothing other than the cognition that an eternal world-order really exists. Without this cognition nothing, of course, can be accomplished, for whether we make it distinct to ourselves or not, whether we assent to it, once it has been made distinct, or not: it nevertheless lurks, even against our will or without being distinctly grasped, in all our judgments.
 

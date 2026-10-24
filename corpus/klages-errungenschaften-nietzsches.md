@@ -20,15 +20,15 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 [PDF 1]
 
-ACHIEVEMENTS OF NIETZSCHE
+## ACHIEVEMENTS OF NIETZSCHE
 
 BY
 
-LUDWIG KLAGES
+## LUDWIG KLAGES
 
 1   9   2   6
 
-LEIPZIG / JOHANN AMBROSIUS BARTH
+## LEIPZIG / JOHANN AMBROSIUS BARTH
 
 [PDF 2]
 
@@ -50,9 +50,9 @@ March 1926.                                                     The Author.
 
 Page Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     1
 
-Part One
+## Part One
 
-Nietzsche’s Aim and Method of Inquiry
+## Nietzsche’s Aim and Method of Inquiry
 
 I. Chapter. Nietzsche as Explorer of the Soul . . . . . . . . . . . . . . . . . . .                      9
 
@@ -162,9 +162,9 @@ N I E T Z S C H E ’ S A I M A N D M E T H O D O F I N Q U I RY
 
 [PDF 13]
 
-NIETZSCHE
+## NIETZSCHE
 
-AS EXPLORER OF THE SOUL
+## AS EXPLORER OF THE SOUL
 
 That Schiller’s countlessly quoted saying about the hatred and favor of the parties probably fitted no one ever to a higher degree than Nietzsche is grounded partly in the passionate vehemence of his manner of expression, partly in the combative stance he adopts toward all the “ideals” of mankind without exception: he cleaves them with the sword of dialectic and burns them in the fire of his hatred. But the clamor of dispute among the men of letters, unavoidable on that account — some of whom covered him with insult and ignominy or with the still more eloquent silence, while the others extravagantly praised him and consciously or unconsciously imitated him — has long been dying away, if it has not already died away completely, although an echo of it has admittedly survived in the never-ending discussions of Nietzsche’s type of achievement and endowment. Even his opponents admit today that he belongs among the most remarkable phenomena of all the periods of culture known to us; but now he is supposed to have been a philosopher, now a prophet, now a poet, now an artist of language and stylist, now a rhetorician, and more of the like; indeed we recall having read at some time, with reference to him, the neologism “lyricist of knowledge,” as affected as it is tasteless!
 
@@ -214,9 +214,9 @@ of his didactic works of the early period more and more over to the passionately
 
 [PDF 21]
 
-KNOWLEDGE OF OTHERS
+## KNOWLEDGE OF OTHERS
 
-AND SELF -EXAMIN ATION
+## AND SELF -EXAMIN ATION
 
 We shall make it easier to mark off Nietzsche’s utterly different science of essence from the by no means youthful academic psychology, which in the 19th century could only record a flowering hitherto without precedent, by applying results of our own inquiries which would not in every particular have met with Nietzsche’s approval. In this way we shall have sketched, as it were in woodcut fashion, the outline of his explorations as well as of his findings, and its lines remain unaffected by the fact that to produce them we made use of an instrument which Nietzsche — to his detriment, as we shall see — disdained.
 
@@ -302,7 +302,7 @@ foundation. Why in doing so he took, with a momentum never before seen in anythi
 
 BASIC THEME:
 
-SELF-DECEPTION
+## SELF-DECEPTION
 
 When Goethe, one of the greatest knowers of themselves who ever lived, meets the possibility of self-knowledge with the most decided mistrust, this will give us more to think about than know-it-all revelations in the mouths of those who still indulge the popular belief in the immediate certainty of consciousness, and it will make us eager for his reasons for it. “Herewith I confess,” he writes in 1823, “that the great and so significant-sounding task: Know thyself, has always seemed suspicious to me, as a ruse of secretly allied priests who wished to confuse man with unattainable demands and . . to lead him astray into a false inward contemplativeness. Man knows himself only insofar as he knows the world . . . I have therefore in riper years paid great attention to how far others might perhaps come to know me, so that in and by them, as in so many mirrors, I might become . . clearer about myself.” A treatise would be required to hold fast all the thoughts that the above sentences could awaken, and a new light would probably fall from them on the almost passionate interest of most people in the judgments of others about their own nature. Here we content ourselves with pointing to the authoritative confirmation which the physiognomic manner of psychological investigation, just circumscribed by us and exemplarily practiced by Nietzsche, has thereby received. Goethe’s well-known remark to Chancellor Müller from the year 1824 is pitched in exactly the same key: “I maintain that man can never come to know himself, never regard himself purely as an object. Others know me better than I know myself.” And he repeats the same thing yet again to Eckermann in 1829. Were one to search his collected work for all the utterances that concern themselves with the problem of self-knowledge, one would hardly find even a single one in contradiction with the conviction of his old age. But if one thinks that
 
@@ -544,7 +544,7 @@ A P P L I C AT I O N S A N D R E S U LT S
 
 [PDF 69]
 
-TRANSITION
+## TRANSITION
 
 For two reasons we have called Nietzsche the “first psychologist”: first, because his main task, namely to shed light into the developmental history of the value character of general concepts, forms the propaedeutic to every possible science of the soul; secondly, in view of his method of examining every value-concept as to whether it does not conceal an emergency of the will to power and thus bear witness to a self-deception. In our attempt to set forth the applications of his technique of disillusionment, we must restrict ourselves to results that are either especially novel or especially rich in consequences; since otherwise, given his almost incredible wealth of thought, we would run the risk of copying out the whole of Nietzsche. We shall not take into account, or at most touch upon, what he believes he has found out about the nature of love and of pity, because in this he remained dependent on Schopenhauer to the end — thanks, it goes without saying, to his aversion to the latter’s morality of pity, already outlived today; further, his psychology of the characters of the sexes, which, notwithstanding astonishingly clairvoyant details, on the whole betrays more of the personal peculiarities of taste of its creator than of the matter itself; finally, to some extent also his uncommonly sharp-sighted contributions to the science of expression, because in relation to the tree of knowledge of his main results they represent a kind of side shoot, which would demand and deserve a special treatment.
 
@@ -572,7 +572,7 @@ science of essences, of questioning the value character of general concepts as t
 
 [PDF 73]
 
-ON NIETZSCHE’S MOTIF OF THE “NEAREST THINGS”
+## ON NIETZSCHE’S MOTIF OF THE “NEAREST THINGS”
 
 Through all of Nietzsche’s writings there runs — often in the form of a somber admonition — the assertion that for millennia mankind, over all manner of castles in the air and cloud-cuckoo-lands, has misjudged the importance of the “nearest things,” indeed has denied them, partly deliberately and according to plan, partly at least involuntarily. Bound up with this, at first still hesitantly but with the years increasingly decisively, is the conviction that man’s most demonstrable reality is not, say, the still halfway admitted “spirit,” still less the “soul” merely invented for a “higher” purpose, but the living body; the psychologist, then, ought rather to be a physiologist and will get all the further the more he studies the body.
 
@@ -674,9 +674,9 @@ of whose kinship with morality no one had hitherto had an inkling. But if, thank
 
 [PDF 89]
 
-ON THE PERSUASIVE POWER
+## ON THE PERSUASIVE POWER
 
-OF SUCCESS
+## OF SUCCESS
 
 Thus equipped, we may venture to simplify greatly the formulas for what we have just called Nietzsche’s resonator, without still having to fear misunderstandings. Little as there is to object to if one posits a faculty of judgment or, following general linguistic usage, the “understanding,” in order to characterize the indisputable fact that human beings pass judgments, one nevertheless runs a great risk with such an abbreviation of overlooking that in every judgment, however apt it may be, there is also involved an interest and, with it, that for which one prefers an underlying concept of seemingly opposite stamp: namely the will. If we were to form a series according to degrees of its participation and, with the help of the ends of the series, to develop two types, the type of those who are wont to judge with the understanding and the type of those who are wont to judge with the will, then even this would only be meant in the sense of the pronounced predominance in each case of one of the two elements, and would not relieve us of the obligation to trace the share of the will even in the judgment of the most matter-of-fact minds. With the remark that Nietzsche seeks, fathoms, adduces proofs in the service of the doctrine that man thinks with the will — understood, of course, without noticing it and having words for it — the most general characteristic of his direction of research, or better still of his bent for research, would surely be designated with all the brevity one could wish.
 
@@ -848,7 +848,7 @@ would fail, then we shall perceive not only in the need for applause and in vani
 
 ON
 
-“LOVE OF ONE’S NEIGHBOR”
+## “LOVE OF ONE’S NEIGHBOR”
 
 We choose the heading “love of one’s neighbor” because, in Nietzsche’s sense, it allows us to bracket together to some extent: traits such as goodness, gratitude, benevolence, readiness to recognize others, tolerance, indulgence, considerateness, moderation, modesty, diligence, pity, the gift for self-sacrifice — and more or less pronounced directions of disposition such as public spirit, “altruism,” love of the fatherland, etc. — Endeavoring once again to track down the will to power in such character traits, seemingly of so entirely opposite a kind, and to revalue the names that clothe it far more deceptively than in the case of the striving for recognition, Nietzsche in part follows his skeptical predecessors among the examiners of morality, with acute demonstrations of hypocrisies that by no means lie open to view, except that we are to accustom ourselves to see in these, too, predominantly self-deceptions and, as it were, certain “wolves in sheep’s clothing” who are inclined to take themselves for sheep. A few pieces of evidence! Supposed love of one’s neighbor out of actual curiosity: “If curiosity did not exist, little would be done for the welfare of one’s neighbor. But curiosity creeps, under the name of duty or of pity, into the house of the unfortunate and needy” (MA). Out of ambition: “One jumps in after a man who falls into the water twice as gladly if people are present who do not dare to” (MA). Out of fear: “The greatest giver of alms is cowardice” (W). “At bottom they simple-mindedly want one thing most of all: that no one should hurt them. So they anticipate everyone and do him good” (Z). “The trodden worm curls up. That is clever. It thereby reduces the probability of being trodden on anew. In the language of morality: humility” (G). Out of weakness of will: “The fatalism of the weak-willed embellishes
 
@@ -882,7 +882,7 @@ with which Nietzsche — avoiding affirmation — takes the most decisive step t
 
 ON
 
-SELF -OVERCOMING
+## SELF -OVERCOMING
 
 We first give Nietzsche the floor. “In every ascetic morality man worships a part of himself as God and has need, for that, to diabolize the remaining part.” “The most usual means which the ascetic and saint employs in order to make life still bearable and entertaining after all consists in occasional waging of war and in the alternation of victory and defeat. For this he needs an opponent and finds him in the so-called ‘inner enemy.’ In particular he exploits his inclination to vanity, to the lust for honor and for domination, and then his sensual desires, so as to be permitted to regard his life as a continual battle and himself as a battlefield on which good and evil spirits wrestle with alternating success . . The intention is not that he (man) become more moral, but that he feel himself as sinful as possible . . That was the last pleasure which antiquity invented, after it had grown dull even to the sight of the combats of beasts and men.” “Now the saint practices that defiance against himself which is a close relative of the lust for domination and still gives even the loneliest the feeling of power; now his swollen sensation leaps over from the desire to let his passions run free into the desire to make them collapse like wild horses, under the mighty pressure of a proud soul; now he wants a complete cessation of all disturbing . . sensations, a waking sleep . .; now he seeks the struggle and kindles it within himself because boredom holds its yawning face up to him: he scourges his self-deification with self-contempt and cruelty . . ; he knows how to lay a snare for his affect, for example that of the most extreme lust for domination, so that it passes over into that of the most extreme abasement, and his incited soul is torn from all its joints by this contrast; and finally, when visions, conversations with the dead or with divine beings even
 
@@ -910,9 +910,9 @@ partitionings, splittings of the personality there merely emerges, more sharply 
 
 [PDF 120]
 
-ENVY
+## ENVY
 
-OF LIFE
+## OF LIFE
 
 Since the sentences of a Callicles handed down to us — indeed, if one likes, ever since the annihilating words with which Heraclitus, also valuing the “good Eris” differently from Hesiod and Nietzsche, scourged root and branch the public outlet for envy of the Greeks known as “ostracism,” as follows: “The Ephesians ought, as many of them as are grown up, to hang themselves one and all and leave the city to those not yet grown; for they have banished Hermodorus, their ablest man, saying: among us no one shall be the ablest, and if anyone is, let him be so elsewhere and among other people,”21) — there has never been a lack of voices that warned us not merely against the dangerousness of envy in general, but in particular also against its arts of forgery. From the last century and a half alone one could fill several volumes with them. A rich yield would be supplied by Schiller (perhaps under the motto: “The world loves to blacken what is radiant — and to drag the sublime into the dust”), no small one by Goethe (“Against great advantages in another there is no means of rescue but love”), Lichtenberg, Stendhal, Gobineau, Jean Paul, Byron, Balzac (“For it lies in human nature to destroy what one cannot possess, to deny what one does not understand, to insult what one envies”), Busch, a very considerable one by Schopenhauer (as also by Gracián, whom he quoted so gladly and so excellently!), and many others.
 
@@ -1132,9 +1132,9 @@ falls prey to decomposition: the bodily pole becomes hostile to the psychic pole
 
 [PDF 151]
 
-ON THE PSYC HOLOGY
+## ON THE PSYC HOLOGY
 
-OF CHRISTIANITY
+## OF CHRISTIANITY
 
 Of Nietzsche’s creative conflict between the life of the body and moral values, the pulsing point is formed by the conflict between the life of the body and Christian moral values, and with his doctrine of value-creating revenge on life he merely generalizes what he believed he had ascertained of the spirit of Christianity. We would therefore have nothing more of significance to add to the findings of the previous chapter, did not the application of a psychological theory to a fact of the history of religion offer the opportunity to show, in Nietzsche’s character as a thinker, a line without which our picture of his science of the soul would suffer from a most sensitive gap.
 
@@ -1210,7 +1210,7 @@ only the Christian were the meaning . . also the last judgment of all the rest.�
 
 [PDF 162]
 
-CONSCIOUSNESS AND LIFE
+## CONSCIOUSNESS AND LIFE
 
 Had Nietzsche presented his researches in the form of a system, his doctrine of envy of life would have furnished the roof-ridge, and that of the relation of consciousness to life the foundation. In contrast to the prejudice — now, incidentally, on the wane — that he examined exclusively ethical values, it cannot be repeated often enough that, while with the knife-edge of his critique he always pursues the moralistic counterfeitings, he follows them with special predilection into the domains of the intellect and of supposedly “pure” rationality, and has thus made contributions to what has hitherto been called epistemology hardly less weighty than to the testing of moral values. Precisely this is his distinguishing peculiarity and the novelty of his schooling in suspicion, that he seeks and finds the stage-management of wishes and interests in regions where before him one had least suspected them, and teaches us to recognize in the faculty of judgment, to a large extent, an apparatus that is invented, built, and set in operation for purposes essentially other than those of knowledge — by the will. “The whole apparatus of knowledge is . . directed not at knowledge but at the taking possession of things.” “Science: transformation of nature into concepts for the purpose of mastering nature.” “In summa, science is preparing a sovereign ignorance” (WzM).
 
@@ -1352,9 +1352,9 @@ C O N C LU D I N G C R I T I Q U E Klages, Nietzsche’s Psychological Achieveme
 
 [PDF 183]
 
-NIETZSCHE’S
+## NIETZSCHE’S
 
-SOCRATISM
+## SOCRATISM
 
 We have shown how Nietzsche, equipped with insights of a science of life that had grown out of his discovering reflection on the nature of his own bodily being and its orgiastic impulses, searched through the most highly valued traits of historical man in their whole breadth for their share in the egoistic will to success, which he was able to demonstrate in character traits seemingly quite opposed to it; how he unveiled a technique of deception peculiar to the layer of the mainsprings, by virtue of which the ego conceals its selfish stirrings from the consciousness of their bearer through a whitewashing reinterpretation; how he derived the sanctification of all “self-overcomings,” and thereby of all the ideals and moral statutes of Christendom, from the measures of retaliation taken by a will that feels itself excluded from the fullness of life; how, finally, he sought the condition of so terrible a distortion of the feeling of life in a contagious disease, without, to be sure, arriving at a conclusive diagnosis of it; and we have given sufficiently to understand that and why we consider all these findings to be correct in principle, and why it would be utterly hopeless henceforth to try to philosophize about the “essence of man” without knowledge of them and without practice in the method that made them possible. We have thereby at the same time shown in detail why we cannot accuse Nietzsche of boastfulness but must grant that he is right when he says of himself in Ecce Homo: “That out of my writings there speaks a psychologist who has not his equal, that is perhaps the first insight a good reader arrives at.” This, then, in our judgment, would be what is imperishable in his work and his contribution to the science of the soul, which casts all kindred wisdom into the shade.
 
@@ -1484,7 +1484,7 @@ But we need not go on. The minute of world history in question can appear mendac
 
 [PDF 200]
 
-THE MOTIF OF OVERCOMING
+## THE MOTIF OF OVERCOMING
 
 Were it not the Christian in Nietzsche who, with the doctrine of the will to power, speaks to confessors of the will to power, namely to Christians, then even his sparkling dialectic and incomparable art of presentation would hardly have sufficed to conceal the self-contradiction even where it rises quite unveiled from the interior to the surface. The will to power is supposed to be life, life the will to power. Now it is precisely the priest who manifests the toughest, most ruthless will to power, one that never fails even under the most difficult conditions; he puts to shame with his arts of dissimulation and deception the recipes of Machiavelli, and becomes master over warriors, kings, over all mankind: thus he would clearly be the manifestation of life most to be revered. But it is supposed to be the will to power of a disease of life, indeed a will to power of weakness and a will to nothingness, that he represents. Should one think it credible that anyone besides Nietzsche himself, who on this point was blinded for reasons known to us, failed to notice the complete hollowness of such turns of phrase?
 
@@ -1564,9 +1564,9 @@ Nietzsche calls it Zarathustra’s going-under; we call it Nietzsche’s “havi
 
 [PDF 212]
 
-ON NIETZSCHE’S
+## ON NIETZSCHE’S
 
-SELF - ANNIHIL ATION
+## SELF - ANNIHIL ATION
 
 Whoever among our readers is content to have learned what, according to its title, our work had promised — Nietzsche’s psychological achievements — need take no further notice of this chapter. And if with it we now for our part make a contribution to the characterology of the creative spirit, of which we declared at the outset that it did not immediately concern us, this supplement nonetheless intends to be no more than the expression of an opinion, upon which whoever takes pleasure in it may reflect. Whether one agrees with it wholly or in part, whether one rejects it wholly or in part, neither strengthens nor diminishes the weight of the reasons we have put forward for and against Nietzsche’s findings. The dogmatic formulation henceforth therefore serves merely for brevity. — Having developed Nietzsche’s results partly by way of a conflict of the soul within him, our critique inevitably led us deeper into this conflict as well, and so it seems fitting to us not to keep silent our final formula for it, although at best it can deepen the understanding of what has already been decided, and by no means increase or extend the decisions themselves.
 
@@ -1776,9 +1776,9 @@ What he weaves, no weaver knows.
 
 Years come and go,
 
-Human tears trickle, run
+## Human tears trickle, run
 
-Down upon the earth, and the earth
+## Down upon the earth, and the earth
 
 Sucks them in with silent greed —
 

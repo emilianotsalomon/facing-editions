@@ -24,7 +24,7 @@ OF MEXICO D R AW N F R O M T H E B E S T S P A N I S H H I S T O R I A N S , A N
 
 DIVIDED INTO TEN BOOKS,
 
-AND FURNISHED WITH MAPS
+## AND FURNISHED WITH MAPS
 
 A N D VA R I O U S F I G U R E S :
 
@@ -32,15 +32,15 @@ AND
 
 D I S S E RTAT I O N S O N T H E L A N D, T H E A N I M A L S , A N D T H E I N H A B I TA N T S O F M E X I C O.
 
-A WORK
+## A WORK
 
-BY THE ABBÉ
+## BY THE ABBÉ
 
 D O N F R A N C E S C O S AV E R I O
 
 C L AV I G E R O
 
-VOLUME II.
+## VOLUME II
 
 CESENA, MDCCLXXX. P R I N T E D B Y G R E G O R I O B I A S I N I AT T H E S I G N O F PA L L A S .
 
@@ -142,7 +142,7 @@ funerals.
 
 (several unbelievers of our century foolishly go on imagining), those nations could not have invented a dogma more suited to encourage Bk. VI. their soldiers than one that assured them so weighty a reward after death. They added, furthermore, that after four years of that glorious life those spirits passed on to animate clouds and birds of lovely plumage and sweet song, remaining always free to rise again into heaven and to come down to earth to sing and to suck the flowers. The Tlaxcalans believed that all the souls of the nobles, after death, animated beautiful and melodious birds and noble quadrupeds, and those of the commoners, weasels, beetles, and other vile animals. Whence it is seen that the preposterous system of the Pythagorean transmigration, which has taken such deep root and spread so widely in the countries of the Levant, found its partisans in those of the West as well. (a) The souls of those who died drowned, or struck by lightning, or of dropsy, tumors, sores, or any other such infirmity, like the souls of children, at least of those who were sacrificed to Tlaloc, god of water, went, as the Mexicans said, to a cool and pleasant place called Tlalocan, where that god dwelt and where every sort of delicate food and of pleasure abounded. In the enclosure of the great temple of Mexico there was a place where they believed that on a certain day of the year all the children sacrificed to Tlaloc were present, invisible. The Mixtecs were persuaded that a great cavern, which lay in a very high mountain of their province, was the gate of Paradise; and therefore all the lords and nobles had themselves buried near that cavern, in order to be nearer to that place of delights. Finally, the third place destined for the souls of those who ended by any other death was the Mictlan, or hell,
 
-which
+## which
 
 (a) Who would ever believe that so rancid and improbable a system as that of the Pythagorean transmigration should be promoted by a Christian philosopher in the very center of Christendom, and in the enlightened eighteenth century? And yet it was seriously promoted not long ago by a Frenchman in a book printed in Paris under this extravagant title, L'an deux mille quatre cent quarante. To such excesses does freedom of thinking in matters of religion lead.
 
@@ -2522,11 +2522,11 @@ H2                   1 Cipactli
 
 Bk. VI.                       1     Cipactli.       11    Ozomatli.
 
-2     Ehecatl.        12    Malinalli.
+## 2     Ehecatl.        12    Malinalli.
 
-3     Calli.          13    Acatl.
+## 3     Calli.          13    Acatl.
 
-4     Cuetzpalin.     14    Ocelotl.
+## 4     Cuetzpalin.     14    Ocelotl.
 
 5     Coatl.          15    Quauhtli.
 
@@ -2778,9 +2778,9 @@ History of Mexico, Vol. II.                         I                      1 Mox
 
 Bk. VI.                      1    Mox              11    Batz
 
-2    Igh              12    Enob
+## 2    Igh              12    Enob
 
-3    VOTAN            13    BEEN
+## 3    VOTAN            13    BEEN
 
 4    Ghanan           14    Hix
 
@@ -2790,7 +2790,7 @@ Bk. VI.                      1    Mox              11    Batz
 
 7    Moxic            17    Chix
 
-8    LAMBAT           18    CHINAX
+## 8    LAMBAT           18    CHINAX
 
 9    Mòlo, or Mùlu    19    Cabogh
 
@@ -4302,7 +4302,7 @@ In the fifty-second painting are represented two boys of eleven years, whose fat
 
 In the fifty-third painting are represented two youths of fifteen years, the one handed over by his father to a priest, that he may instruct him in the rites of religion, and the other handed over to the Achcauhtli, or officer of the militia, that he may train him in the military art. The fifty-fourth shows the youths of the seminaries occupied by their superiors in sweeping the temple, and in bringing branches of trees and herbs for the adornment of the sanctuaries, wood for the braziers, rushes for the making of seats, and stone and lime for the repair of the temple. In this same painting, and in the fifty-fifth, are represented various punishments given to the delinquent youths of the seminaries by their superiors. One of them pricks a youth with maguei thorns for having neglected his duty; two priests throw burning brands on the head of another youth, for having caught him in familiar talk with a girl; another, for the same offense, they prick on the body with sharp pine sticks, and another they punish for disobedience by burning his hair. Finally in the fifty-sixth
 
-painting
+## painting
 
 [p. 104]
 
@@ -6870,7 +6870,7 @@ vanity, or to the curiosity of men: (u) innumerable species of animals, dead as 
 
 Their trade was carried on not only by way of barter, as several authors say, but also by way of true buying and selling. They had five kinds of true money, § 36. though none of it was coined, which served them as a price for buying what Money. they wished. The first was a certain species of cacao, different from that which they used in their daily drinks, which circulated incessantly through the hands of the dealers, as money does among us. They counted the cacao by xiquipilli (which was worth, as we have already said, eight thousand), and to spare themselves the labor of counting, when the merchandise was of great value, they counted by sacks, each sack being reckoned at three xiquipilli, that is, twenty-four thousand almonds. The second kind of money was
 
-certain
+## certain
 
 (u) Whoever reads the description of the market given by Cortés, by Bernal Díaz, and by the Anonymous Conqueror will see that there is no exaggeration in what I say of the variety of the merchandise.
 
@@ -8046,7 +8046,7 @@ that is, intended to form words, like our letters; but real, or immediately sig�
 
 To represent a person they painted a man, or else a human head, and above it a figure expressing the meaning of his name, as is seen in the figures of the Mexican kings. To express a city or village they painted in the same way a figure expressive of what its name signified. To form their histories, or annals, they painted along the edge of the canvas, or paper, the figures of the years in as many little squares, and beside each little square the event or events corresponding to that year; and if, because the years whose history they wished to express were many, they could not all stand on one canvas, they continued on another. As for the order of representing the years and the events, the historian was free to begin them from any corner of the canvas he pleased; but with this rule, constantly observed in all the paintings I have seen, that if the painter began from the upper right-hand corner, he continued toward the left hand. If he began, and this was the more usual, from the upper corner at the left hand, he went on perpendicularly downward. If he painted the first year in the lower corner at the left hand, he continued toward the right, and if he began in the lower
 
-right-hand
+## right-hand
 
 (H) With regard to the numeral characters, it is to be noted that they painted as many points as there were units up to twenty. This number has its own character. From there this character was repeated up to twenty times twenty, that is, four hundred. The character of 400 was similarly repeated up to twenty times four hundred, that is, eight thousand. Then the character of eight thousand began to be repeated. With these three characters, and the points, they expressed any quantity whatever, at least up to twenty times eight thousand, or a hundred and sixty thousand. It is to be believed, although we do not know it, that for this number they had another character.
 
@@ -8054,7 +8054,7 @@ right-hand
 
 Numeral characters and symbolic figures.
 
-that is, the year 1780
+## that is, the year 1780
 
 A the day. B the night. C midnight. D the year. E the century. F the sky. G the air. H the earth. I water.
 
@@ -9512,7 +9512,7 @@ his youth, was by now white-haired.
 
 [p. 229]
 
-ADDITIONS
+## ADDITIONS
 
 I N S U P P O RT O F T H E H I S T O RY.
 
@@ -9520,7 +9520,7 @@ T H E M E X I C A N C E N T U RY.
 
 Years          Years
 
-I TOCHTLI      I TECPATL
+## I TOCHTLI      I TECPATL
 
 II Acatl       II Calli
 
@@ -9546,7 +9546,7 @@ XII Calli      XII Acatl
 
 XIII Tochtli   XIII Tecpatl
 
-I ACATL        I CALLI
+## I ACATL        I CALLI
 
 II Tecpatl     II Tochtli
 
@@ -9576,7 +9576,7 @@ Mexican
 
 [p. 230]
 
-MEXICAN YEARS
+## MEXICAN YEARS
 
 F RO M T H E F O U N D I N G T O T H E C O N Q U E S T O F
 
@@ -9680,7 +9680,7 @@ Mar.               1     IV Cuetzpalin             with sacrifices of tender
 
 10     XIII Acatl
 
-11     I OCELOTL
+## 11     I OCELOTL
 
 12     II Quauhtli
 
@@ -9708,13 +9708,13 @@ Month 2.
 
 Our Days          Mexican Days                  Festivals Mar.         20   X Calli            of prisoners, and
 
-21   XI Cuetzpalin      military exercises.
+## 21   XI Cuetzpalin      military exercises.
 
-22   XII Coatl          Fast of twenty days
+## 22   XII Coatl          Fast of twenty days
 
-23   XIII Miquiztli     of the masters of those
+## 23   XIII Miquiztli     of the masters of those
 
-24   I MAZATL           prisoners.
+## 24   I MAZATL           prisoners.
 
 25   II Tochtli
 
@@ -9740,7 +9740,7 @@ Our Days          Mexican Days                  Festivals Mar.         20   X Ca
 
 6   I XOCHITL          with nocturnal sacrifices.
 
-TOZOZTONTLI
+## TOZOZTONTLI
 
 Month 3.
 
@@ -9766,11 +9766,11 @@ G2                        15
 
 Our Days           Mexican Days                 Festivals Apr.         15   X Atl
 
-16   XI Itzcuintli
+## 16   XI Itzcuintli
 
-17   XII Ozomatli
+## 17   XII Ozomatli
 
-18   XIII Malinalli
+## 18   XIII Malinalli
 
 19   I ACATL            Festival of the goddess Coatlicue
 
@@ -9788,7 +9788,7 @@ Our Days           Mexican Days                 Festivals Apr.         15   X At
 
 26   VIII Xochitl
 
-HUEITOZOZTLI
+## HUEITOZOZTLI
 
 Month 4.
 
@@ -9832,17 +9832,17 @@ May    1    XIII Coatl         of human victims, and of
 
 Our Days              Mexican Days      Festivals
 
-May          14       XIII Tecpatl
+## May          14       XIII Tecpatl
 
-15       I QUIAHUITL
+## 15       I QUIAHUITL
 
-16       II Xochitl
+## 16       II Xochitl
 
-T OXC AT L
+## T OXC AT L
 
 Month 5.
 
-17   III Cipactli          The great festival of
+## 17   III Cipactli          The great festival of
 
 18   IV Ehecatl            Tezcatlipoca with a solemn
 
@@ -9896,9 +9896,9 @@ Our Days            Mexican Days                  Festivals June          8    X
 
 9    XIII Cuetzpalin      of water, with sacrifices,
 
-10    I COATL              and dance.
+## 10    I COATL              and dance.
 
-11    II Miquiztli
+## 11    II Miquiztli
 
 12    III Mazatl
 
@@ -9922,13 +9922,13 @@ Our Days            Mexican Days                  Festivals June          8    X
 
 22    XIII Olin
 
-23    I TECPATL
+## 23    I TECPATL
 
 24    II Quiahuitl
 
 25    III Xochitl
 
-TECUILHUITONTLI
+## TECUILHUITONTLI
 
 Month 7.
 
@@ -9952,7 +9952,7 @@ July    1    IX Miquiztli      Festival of Huixtocihuatl with
 
 5    XIII Itzcuintli
 
-6    I OZOMATLI
+## 6    I OZOMATLI
 
 July
 
@@ -9960,11 +9960,11 @@ July
 
 Our Days           Mexican Days        Festivals
 
-July          7   II Malinalli
+## July          7   II Malinalli
 
-8   III Acatl
+## 8   III Acatl
 
-9   IV Ocelotl
+## 9   IV Ocelotl
 
 10   V Quauhtli
 
@@ -9978,7 +9978,7 @@ July          7   II Malinalli
 
 15   X Xochitl
 
-HUEITECUILHUITL
+## HUEITECUILHUITL
 
 Month 8.
 
@@ -10030,11 +10030,11 @@ Month 9.
 
 Our Days          Mexican Days                Festivals Aug.         5   V Cipactli          Festival of Macuilcipactli.
 
-6   VI Ehecatl
+## 6   VI Ehecatl
 
-7   VII Calli
+## 7   VII Calli
 
-8   VIII Cuetzpalin
+## 8   VIII Cuetzpalin
 
 9   IX Coatl
 
@@ -10090,9 +10090,9 @@ Aug.
 
 Our
 
-Mexican Days                  Festivals
+## Mexican Days                  Festivals
 
-Days
+## Days
 
 31      V Mazatl Sept.          1      VI Tochtli
 
@@ -10160,23 +10160,23 @@ History of Mexico, Vol. II.                     Hh                        27
 
 Our Days          Mexican Days                     Festivals Sept.       27   VI Ocelotl            The third festival of the goddess
 
-28   VII Quauhtli          Centeotl in the temple Xiuhcalco
+## 28   VII Quauhtli          Centeotl in the temple Xiuhcalco
 
 29   VIII Cozcaquauhtli    with procession,
 
-30   IX Olin               and sacrifices. Oct.         1   X Tecpatl
+## 30   IX Olin               and sacrifices. Oct.         1   X Tecpatl
 
-2   XI Quiahuitl
+## 2   XI Quiahuitl
 
 3   XII Xochitl
 
-TEOTLECO
+## TEOTLECO
 
 Month 12.
 
 4    XIII Cipactli
 
-5    I EHECATL
+## 5    I EHECATL
 
 6    II Calli
 
@@ -10202,7 +10202,7 @@ Month 12.
 
 17    XIII Ocelotl
 
-18    I QUAUHTLI
+## 18    I QUAUHTLI
 
 19    II Cozcaquauhtli
 
@@ -10214,21 +10214,21 @@ Month 12.
 
 23    VI Xochitl         sacrifices of prisoners.
 
-TEPEILHUITL
+## TEPEILHUITL
 
 [p. 243]
 
-TEPEILHUITL
+## TEPEILHUITL
 
 Month 13.
 
 Our Days                  Mexican Days                            Festivals Oct.              24     VII Cipactli              Festival of the gods of the mountains
 
-25     VIII Ehecatl              with sacrifices of four
+## 25     VIII Ehecatl              with sacrifices of four
 
-26     IX Calli                  slave women, and of one prisoner.
+## 26     IX Calli                  slave women, and of one prisoner.
 
-27     X Cuetzpalin              Festival of the god Tochinco
+## 27     X Cuetzpalin              Festival of the god Tochinco
 
 28     XI Coatl                  with the sacrifice of one
 
@@ -10260,7 +10260,7 @@ Our Days                  Mexican Days                            Festivals Oct.
 
 12     XIII Xochitl (*)
 
-QUECHOLLI
+## QUECHOLLI
 
 Month 14.
 
@@ -10280,9 +10280,9 @@ Our Days                Mexican Days                  Festivals Nov.            
 
 17     V Coatl             of hunting. General hunt,
 
-18     VI Miquiztli        procession, and
+## 18     VI Miquiztli        procession, and
 
-19     VII Mazatl          sacrifices of animals.
+## 19     VII Mazatl          sacrifices of animals.
 
 20     VIII Tochtli
 
@@ -10296,7 +10296,7 @@ Our Days                Mexican Days                  Festivals Nov.            
 
 25     XIII Acatl
 
-26     I OCELOTL
+## 26     I OCELOTL
 
 27     II Quauhtli
 
@@ -10342,11 +10342,11 @@ Month 15.
 
 Our Days           Mexican Days      Festivals
 
-Dec.         15    VII Acatl
+## Dec.         15    VII Acatl
 
-16    VIII Ocelotl
+## 16    VIII Ocelotl
 
-17    IX Quauhtli
+## 17    IX Quauhtli
 
 18    X Cozcaquauhtli
 
@@ -10356,7 +10356,7 @@ Dec.         15    VII Acatl
 
 21    XIII Quiahuitl
 
-22    I XOCHITL
+## 22    I XOCHITL
 
 AT E M O Z T L I
 
@@ -10384,7 +10384,7 @@ Month 16.
 
 3   XIII Malinalli
 
-4   I ACATL
+## 4   I ACATL
 
 5   II Ocelotl
 
@@ -10406,17 +10406,17 @@ and sacrifices.
 
 [p. 246]
 
-TITITL
+## TITITL
 
 Month 17.
 
 Our Days         Mexican Days                   Festivals Jan.       12   IX Cipactli
 
-13   X Ehecatl
+## 13   X Ehecatl
 
-14   XI Calli           Festival of the goddess Ilamatecuhtli
+## 14   XI Calli           Festival of the goddess Ilamatecuhtli
 
-15   XII Cuetzpalin     with dance, and sacrifice
+## 15   XII Cuetzpalin     with dance, and sacrifice
 
 16   XIII Coatl         of a slave woman.
 
@@ -10446,11 +10446,11 @@ Our Days         Mexican Days                   Festivals Jan.       12   IX Cip
 
 29   XIII Tecpatl
 
-30   I QUIAHUITL
+## 30   I QUIAHUITL
 
 31   II Xochitl
 
-IZCALLI
+## IZCALLI
 
 Month 18.
 
@@ -10472,17 +10472,17 @@ Feb.
 
 Our Days          Mexican Days                  Festivals
 
-Feb.         7    IX Mazatl
+## Feb.         7    IX Mazatl
 
-8    X Tochtli
+## 8    X Tochtli
 
 9    XI Atl
 
-10    XII Itzcuintli     General hunt for the sacrifices
+## 10    XII Itzcuintli     General hunt for the sacrifices
 
 11    XIII Ozomatli      of the following festival.
 
-12    I MALINALLI
+## 12    I MALINALLI
 
 13    II Acatl
 
@@ -10514,19 +10514,19 @@ or Useless Days.
 
 24    XIII Cuetzpalin
 
-25    I COATL
+## 25    I COATL
 
 The following year II Acatl begins with II Miquiztli, and continues in the
 
 same order.
 
-EXPLANATION
+## EXPLANATION
 
 [p. 248]
 
 E X P L A N AT I O N
 
-OF THE OBSCURE FIGURES.
+## OF THE OBSCURE FIGURES
 
 1. Of the Figures of the Mexican Century.
 
@@ -10594,7 +10594,7 @@ Ii2                       3.
 
 [p. 252]
 
-3. Of the Figures of the Month.
+## 3. Of the Figures of the Month.
 
 There is a great variety among the authors concerning the signification of Cipactli, the name of the first day. According to Boturini it signifies a serpent; according to Torquemada the swordfish; and according to Vetancurt the shark. In the only wheel of the Mexican month published up to now, which is that of Valadés, the figure representing the first day is almost wholly similar to that of the Lizard, which is seen on the fourth day. We, therefore, not knowing what it is, have put the head of a shark, following the interpretation of Vetancurt.
 
@@ -10720,7 +10720,7 @@ We lack the figures of the last two kings, Cuitláhuac and Cuauhtémoc; but we d
 
 [p. 257]
 
-6. Of the Figure of the Flood and of the Confusion of Tongues.
+## 6. Of the Figure of the Flood and of the Confusion of Tongues.
 
 Water signifies the Flood; that human head and that bird, which are seen in the water, signify the drowning of men and of animals. The boat with a man on it denotes that in which, according to their tradition, a man and a woman were saved, to preserve the human species on the earth. That figure which is seen in a corner is that of Mount Colhuacan, near which, as they said, the man and the woman who escaped from the Flood landed. In all those Mexican paintings in which mention is made of that mountain, it is seen represented in such a figure. The bird on the tree represents a dove, which, according to them, imparted speech to men, all of them having been born mute after the Flood. Those little strokes that issue from the dove’s beak toward the men are figures of languages. Whenever in the Mexican paintings it is necessary to make mention of tongues or of voices, such strokes are used. Their multitude in our painting denotes the multitude of the languages imparted. Those fifteen men who receive the languages from the dove represent as many families separated from the rest of men, from which, as they said, the nations of Anahuac descended.
 
@@ -10728,7 +10728,7 @@ History of Mexico, Vol. II.                  Kk                  LETTER
 
 [p. 258]
 
-LETTER
+## LETTER
 
 F RO M T H E A B B É D O N L O R E N Z O H E RV Á S
 
@@ -10828,7 +10828,7 @@ T H E AU T H O R’ S N O T I C E
 
 O N T H E WO R K E N T I T L E D :
 
-LETTERE AMERICANE.
+## LETTERE AMERICANE
 
 S   ome of the reflections of Abbé Hervás are made also by the learned au‐
 
@@ -10860,15 +10860,15 @@ and, among the others, of the one which he wrote on the peopling of America, say
 
 As for the other, more important articles discussed in the aforesaid letters, we shall treat of them at the proper place in our dissertations, in which we shall partly agree with that author, and partly oppose his views.
 
-INDEX
+## INDEX
 
 [p. 271]
 
-INDEX
+## INDEX
 
 O F VO L U M E I I .
 
-BOOK VI.
+## BOOK VI
 
 § 1 Doctrines of the Religion of the Mexicans.                     p. 4 2 The Gods of Providence and of Heaven.                               7 3 Apotheosis of the Sun and of the Moon.                              9 4 The God of the Air.                                               11 5 The Gods of the Mountains, of Water, of the Earth, of Fire, of
 
@@ -10880,7 +10880,7 @@ Night, and of Hell.                                               15 6 The Gods 
 
 § 34 Festivals of Months 10, 11, 12, and 13.                           76 35 Festivals of the Last Five Months.                                  79 36 The Secular Festival.                                               84 37 Rites at the Birth of Their Children.                               86 38 Nuptial Rites.                                                      89 39 Funeral Rites.                                                      93 40 Sepulchers.                                                         97
 
-BOOK VII.
+## BOOK VII
 
 § 1 Education of the Mexican Youth.                                 p. 101 2 Explanation of Seven Mexican Paintings on the Education of Youth.    102
 
@@ -10894,7 +10894,7 @@ King.                                                              113 8 Coronat
 
 § 31 Plants Most Cultivated by the Mexicans.                        158 32 The Rearing of Animals.                                          158 33 Hunting.                                                         160 34 Fishing.                                                         162 35 Trade.                                                           163 36 Money.                                                           165 37 Order in the Markets.                                            166 38 Customs of the Merchants on Their Journeys.                      167 39 Roads, Inns, Boats, and Bridges.                                 168 40 Porters.                                                         170 41 The Mexican Language.                                            170 42 Oratory and Poetry.                                              174 43 The Mexican Theater.                                             176 44 Music.                                                           178 45 Dances.                                                          179 46 Games.                                                           182 47 Different Kinds of Mexican Paintings.                            186 48 Canvas and Colors.                                               189 49 Character of Their Painting, and Manner of Representing Objects. 191 50 Sculpture.                                                       194 51 Cast-Metal Work.                                                 195 52 Mosaic Work.                                                     197 53 Domestic Architecture.                                           199 54 Aqueducts, and Causeways on the Lake.                            203 55 Remains of Ancient Buildings.                                    204 56 Stonecutters, Jewelers, and Potters.                             205 57 Carpenters, Weavers, etc.                                        207 58 List of the Rarities Sent by Cortés to Charles V.                208 59 Knowledge of Nature, and Use of Medicinal Simples.               211 60 Oils, Ointments, Infusions, etc.                                 213 61 Bloodletting and Baths.                                          214 62 The Temazcalli, or Mexican Hypocaust.                            214 63 Surgery.                                                         216 64 Foods of the Mexicans.                                           217 65 Wine.                                                            221 66 Clothing.                                                        222 67 Ornaments.                                                       225 68 Household Goods and Domestic Occupations.                        226 69 The Use of Tobacco.                                              227 70 Plants Used in Place of Soap.                                    227
 
-ERRATA
+## ERRATA
 
 [p. 274]
 
@@ -10908,9 +10908,9 @@ corrispondente    corrispondenti p. 224,   in the note gli appellano        le a
 
 [p. 275]
 
-LIST
+## LIST
 
-OF THE SUBSCRIBERS
+## OF THE SUBSCRIBERS
 
 T O T H E A N C I E N T H I S T O RY O F M E X I C O.
 
@@ -10998,7 +10998,7 @@ D. Emmanuelle Flores. Il Sig. D. Giovanni Zacatzin.
 
 D. Francesco Cabrera.
 
-FORLÌ.
+## FORLÌ
 
 D. Filippo Gilij. Il Nob. Uomo Sig. Marchese          D. Giacomo Torres.
 
@@ -11014,7 +11014,7 @@ D. Ilario Ugarte. Il Sig. Ab. D. Antonio Burriel.
 
 D. Lino Fabrega.
 
-IMOLA.
+## IMOLA
 
 D. Rodrigo Brito. I Signori Abati
 

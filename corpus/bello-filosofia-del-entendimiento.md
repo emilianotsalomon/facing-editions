@@ -22,7 +22,7 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 OF
 
-DON ANDRÉS BELLO
+## DON ANDRÉS BELLO
 
 [PDF 2]
 
@@ -50,21 +50,21 @@ Abdón Cifuentes.
 
 OF
 
-DON ANDRÉS BELLO
+## DON ANDRÉS BELLO
 
-EDITION PREPARED UNDER THE DIRECTION OF THE COUNCIL OF PUBLIC INSTRUCTION
+## EDITION PREPARED UNDER THE DIRECTION OF THE COUNCIL OF PUBLIC INSTRUCTION
 
-IN FULFILMENT
+## IN FULFILMENT
 
-OF THE LAW OF SEPTEMBER 5, 1872
+## OF THE LAW OF SEPTEMBER 5, 1872
 
-V olume I
+## V olume I
 
-PHILOSOPHY OF THE UNDERSTANDING
+## PHILOSOPHY OF THE UNDERSTANDING
 
-SANTIAGO DE CHILE
+## SANTIAGO DE CHILE
 
-PRINTED BY PEDRO G. RAMÍREZ
+## PRINTED BY PEDRO G. RAMÍREZ
 
 1881
 
@@ -204,19 +204,19 @@ Finally, it seems to us that the Philosophy of the Understanding ought to figure
 
 Would that the reading of this work might elevate so many young intelligences of our country subject to the cui bono, and stimulate them to the cultivation of the noblest of the human sciences.
 
-THE EDITOR.
+## THE EDITOR
 
 October 1881.
 
 [PDF 17]
 
-INTRODUCTION
+## INTRODUCTION
 
 I
 
 Notion and division of Philosophy.—Mental Psychology and Logic, or Philosophy of the Understanding.—Moral Psychology and Ethics, or Moral Philosophy.—II The human mind is the true object of Philosophy: its proper notion.—III Faculty and act: they are phenomena of consciousness.—Unity and identity of the soul in the variety of its acts.—General division of the mental faculties: those of the understanding and those of the will.
 
-PHILOSOPHY
+## PHILOSOPHY
 
 The object of Philosophy is the knowledge of the human mind and the right direction of its acts.
 
@@ -224,7 +224,7 @@ Our mind is known to us only through the affections it undergoes and the acts it
 
 These affections and acts are of two kinds. By the one sort it knows, investigates truth, and assures itself that it possesses it. By the other it wills, desires happiness, and strives to attain and retain it.
 
-PHILOS.   1
+## PHILOS.   1
 
 [p. 2]
 
@@ -240,7 +240,7 @@ being, or of the most general qualities of whatever exists), comprising Pneumato
 
 [p. 3]
 
-MENTAL PSYCHOLOGY
+## MENTAL PSYCHOLOGY
 
 II
 
@@ -408,7 +408,7 @@ In any case, and in every kind of sensitive perceptions, it is necessary that be
 
 We shall observe also that to feel, in the signification of experiencing sensations, is proper and peculiar to the soul. The senses have, then, their seat in the soul, they are the soul itself
 
-PHILOS.   2
+## PHILOS.   2
 
 [p. 18]
 
@@ -522,7 +522,7 @@ Thus consciousness is that which gives the primitive type of the relations of id
 
 [p. 27]
 
-III
+## III
 
 In earliest infancy we learn to employ with perfect propriety the word I, which belongs to all languages, and whose right use manifestly involves the idea of a being identical, continuous, one, perceived by consciousness; identity, continuity, unity, which the child, guided by an irresistible analogy, afterwards attributes to the thou, to every man, to every living creature.
 
@@ -746,7 +746,7 @@ The internal perceptions that belong to this second family are very numerous and
 
 We call effort the purely organic modification which takes place in some part of our body in consequence of the soul’s willing to execute a movement with it. The effort
 
-PHILOS.   4
+## PHILOS.   4
 
 [p. 50]
 
@@ -804,7 +804,7 @@ As the different degrees of heat or of cold form a continuous series, the corres
 
 [p. 55]
 
-III
+## III
 
 I believe that in order to explain the perceptions it is necessary for us to suppose particular instincts by virtue of which we refer the sensations to their organs. First, because touch and sight may have made known to us from very early the connection between many kinds of sensations and the respective organs. Was it not extremely easy, e.g., to observe the part which the eyes, the ears, the nose and the palate had respectively in the spiritual modifications produced by colors, sounds, odors and flavors? Could we fail to refer to the chest and throat the affections which, when we suffer intense affliction and anguish, disturb the breathing, produce palpitations and sighs, and choke the voice? Secondly, because having learned to know in a great number of cases, by the concurrence of internal perceptions with external, the situation of the organs, it was not difficult for us to acquire more or less exact knowledge of the same kind in many others, by means of proportions and analogies which became little by little habitual to us; in the same way that, by comparing the reports of the hands with the intimations of the eyes, we learned to form a judgment of the situation and distance of bodies by sight alone, and having acquired this faculty, we extended it by means of proportions and analogies to all distances and situations, even beyond those limits within which touch could serve as master to sight. In confirmation of which we shall observe that, just as by means of visual perceptions we form vague and frequently erroneous judgments concerning distances and situations that pass beyond the compass in which we are accustomed to confront them with the knowledge derived from touch, so nothing is more rough-and-ready, or more exposed to illusions and errors, than the reference of sensations to determinate regions of the body, when the organic modifications are not in some way within reach of the external senses.
 
@@ -822,9 +822,9 @@ But even if it had been necessary that particular instincts should intervene in 
 
 This schooling of the senses by touch presupposes in tactile perceptions an objective reference which cannot be resolved into any other, and which is the basis of all the others. In the first exercise of this sense it is evident that we could not represent external objects to ourselves as remote causes which, acting upon the organs, affected the soul, because in order that we should form such judgments it was necessary that we should know our structure beforehand, and this knowledge has been, as we have seen, a slow and progressive work of touch. Clearing away, then, from our tactile perceptions every idea of organic structure, we can only represent the objects perceived by this sense as causes distinct from and independent of the I. But here there presents itself to us anew that important and difficult question: how has this primitive judgment, origin and foundation of all objective references, arisen in us? Do we owe it to an instinct? Do we owe it to other means of perception than those we have hitherto considered? Do we owe it to reasoning?
 
-APPENDIX I
+## APPENDIX I
 
-RESULT OF THE PRECEDING ANALYSIS.
+## RESULT OF THE PRECEDING ANALYSIS
 
 The analysis of the perceptions which has furnished the subject of the preceding chapters will doubtless have seemed excessively prolix; but without it the results which I am about to enumerate would be vague and obscure, and would never have a right to be accepted with that confidence which in matters of pure observation can be inspired only by a minute examination of the facts.
 
@@ -850,11 +850,11 @@ Lastly, the analysis of perceptions has made us recognize in them the exercise o
 
 of different kinds; the faculty of intuiting, that is, the faculty which the I, the soul, has of contemplating itself; the faculty of feeling, that is, of experiencing sensations, and the faculty of judging. The first two are strictly elementary: I do not believe that they can be resolved into others. In judgment, on the contrary, there are two distinct acts, the mere conception of a relation, and the assent of the soul, which recognizes the reality of the relation; and it is in this second act that judgment most essentially consists. Therefore the faculty of judging is resolved into two distinct elementary faculties. But in the study of relations, or relative qualities, what is of most importance is the conception, which is what differentiates them and what characterizes their various kinds. To this, then, we shall chiefly attend, and shall regard the assent, when it accompanies them, only as their sanction and realization.
 
-APPENDIX II
+## APPENDIX II
 
-OBSERVATIONS ON THE VULGAR OR TROPICAL USE OF CERTAIN
+## OBSERVATIONS ON THE VULGAR OR TROPICAL USE OF CERTAIN
 
-WORDS.
+## WORDS
 
 There is an essential difference between feeling and perceiving. To feel is to experience sensations; a term which I believe ought to be limited to those affections of the soul that are the immediate consequence of organic impressions. Sensation is an element of perception, and not of every perception, but of sensitive perception alone. It may give, like any other state or mode of the soul, an object, but not an element, to the perceptions of consciousness.
 
@@ -932,7 +932,7 @@ By comparison is ordinarily understood a certain voluntary endeavor by which we 
 
 In the perception of a relation the soul is essentially active: it draws from the perceptions compared what does not exist separately in any of them, and for that reason I have said that the soul in this act conceives, engenders. But to conceive and to perceive are not always exactly the same thing, because perception supposes the internal affirmation of the relation which is conceived. There are purely imaginary relations and relations which we believe true and real.
 
-PHILOS.      5
+## PHILOS.      5
 
 [p. 66]
 
@@ -982,7 +982,7 @@ which the laws of nature formulate. What chiefly gives light and beauty to style
 
 A relation so important is an essential object of study. It is of the utmost necessity to understand it well, in order to penetrate into the theory of intellectual phenomena. I shall be permitted, then, to dwell upon it for some time.
 
-FIRST SECTION.
+## FIRST SECTION
 
 I
 
@@ -1076,7 +1076,7 @@ When we compare an object with a class of objects, we may find a certain resembl
 
 our being therefore bound to give it the name of the class, because for this there would be required the conformity of the object with some one of the variable types of the class, from the point of view of all the qualities which the objects comprised in it present. We then have recourse to the words which explicitly signify the relation of resemblance, combining them with the name of the class. We say, for example, that the eel is like a serpent. The resemblance then refers, implicitly, to a particular quality, form; but the resemblance of form does not by itself authorize us to give the eel the name of serpent, except in a metaphorical sense. And if the phrase is negative, if we say, e.g., that a certain fruit is not like a pear, we shall mean that it has not with pears (especially from the point of view of the particular quality to which we attend, form and color, for example) the minimum degree of resemblance which pears constantly have among themselves.
 
-SECOND SECTION.
+## SECOND SECTION
 
 IV
 
@@ -1100,7 +1100,7 @@ Let us pass to complex resemblances. Let us suppose two objects, each of which i
 
 Now, at the same time that we find great resemblance, or rather, a great number of resemblances, between two complex objects, it often happens that we perceive nothing that is rigorously common to the two. Two objects resemble each other in form and color, and nevertheless the form of the one is very far from being the exact repetition of the form of the other, and
 
-PHILOS.   6
+## PHILOS.   6
 
 [p. 82]
 
@@ -1110,7 +1110,7 @@ The resemblance of simple objects is simple, and consequently indefinable. The r
 
 Those who consider similar objects as composed of two portions, one common to all of them, and the other not, appear to me to suppose in the universe nothing but complete resemblances and differences, ignoring the successive gradations and the intermediate tints of which a simple quality is susceptible without ever ceasing to be such, and by means of which it goes on receding, so to speak, progressively from itself.
 
-THIRD SECTION.
+## THIRD SECTION
 
 V
 
@@ -1268,7 +1268,7 @@ Thus it is believed to happen with quantities of matter. If this expression sign
 
 This is so if by quantity of matter is understood the number of elementary molecules. And if we do not understand this expression so, what other sense can we give it? Either it is necessary to regard quantity of matter and quantity of weight as synonymous expressions (in which case to say that the first is measured by the second would not be to affirm a fact, but to make a definition), or it must be confessed that our valuation of the quantity of matter rests upon two suppositions, which have not been proved up to the present, nor can perhaps be proved: that of the corpuscular or atomistic theory, and that of the exact equality of weight of the elementary molecules among themselves.(a)
 
-PHILOS.                               7
+## PHILOS.                               7
 
 (a) It is not impossible that the material molecules are infinitely divisible, so that
 
@@ -1300,7 +1300,7 @@ We represent to ourselves the various modes of confused quantity as successive s
 
 At the beginning all quantities were for us confused. Perceiving obscurely their equalities and inequalities, we accustomed ourselves little by little to compare them with determinate units, which we learned to multiply and divide. Thus we arrived at the idea of the aggregation of homogeneous parts from which measurable quantities result. But all these were at first discrete for us. Time appeared to us simply a succession of days, distance a succession of steps. Continuous quantity was the last of which we were able to form an idea. The indeterminateness of the unit, and infinite divisibility, are the distinguishing marks of continuous quantity, the second of which could not be comprehended until late; and to the greater part of men this epoch of the understanding never comes.
 
-APPENDIX.
+## APPENDIX
 
 In the idea of every continuous quantity the idea of the infinite is involved; and although this is not the fitting place to examine this second idea, I think it necessary to anticipate here some observations upon it. To say that we have an intuition of the absolute and abstract infinite, that is, separated from the things which we represent to ourselves as infinite, is to hazard a proposition belied by our own consciousness; let each one consult his own, and say whether he finds in his understanding an idea which represents the infinite as finite things are represented, which have been subject to the reach of the senses or of consciousness.
 
@@ -1386,7 +1386,7 @@ The past is the only part of time of which we can have knowledge: the future is 
 
 has not coincided with the first of our vulgar era, as in fact it did not coincide, no inconvenience for computations follows from this, provided that the relation between the initial year of the era and the year of the birth of the Saviour be determined; for the essential thing is to assign for each era a fixed point of comparison known to all, whatever the historical name that may be given it. Others understand by era, epoch, and by epoch, era. The transition between these two ideas is so slippery that without noticing it we frequently slide from the one to the other.
 
-APPENDIX.
+## APPENDIX
 
 M. Cousin accuses Locke of confounding two distinct ideas, succession and duration. I distinguish these ideas, though in a manner which assuredly does not square with the doctrine of the illustrious French philosopher. According to my way of conceiving, the perception of the first is not a simple conception of the idea of the second, that is, a certain mode of the soul, upon which, according to the laws of the understanding, there follows in it the idea of the second, which is supposed to be wholly distinct. Duration is a series of successions. Succession is, so to speak, the integrant element of duration. A thing endures because it continually succeeds itself, without any interval.
 
@@ -1414,7 +1414,7 @@ all ideas of duration and of time, succession: in the theory of Cousin it is as 
 
 As to the infinity of time, is it not certain that we conceive it as a mere possibility of relations without end? Let us conceive the first instant of created things; the imagination represents to itself eras and eras prior to that first instant, in an unlimited progression: eras in which other things or the same might have endured, if the Creative Omnipotence had so willed.
 
-PHILOS.   8
+## PHILOS.   8
 
 [PDF 130]
 
@@ -1532,7 +1532,7 @@ IV
 
 It will not be superfluous to remark that we often represent to ourselves rational deduction under the image of succession: “the earth moves in elliptical orbits; therefore there is a force which makes it vary continually in direction.” We say that the second judgment follows from the first; that it is a consequence of it; that since the one is certain, the other cannot but be so; and it is well known that pues [since] (post), although applied now exclusively to posteriority of reason, signified in its origin posteriority of time. All languages have adopted this image to represent deduction or inference, that is, the intellectual operation which from one judgment draws necessarily another judgment. In demonstrative reasonings the connection between the premises and their legitimate consequence is of absolute necessity.
 
-APPENDIX I
+## APPENDIX I
 
 The idea of causality is an idea of relation. By this alone it is said that it is a product of the activity of the soul; a product in which the soul draws from intuitions and sensations
 
@@ -1568,7 +1568,7 @@ If the primitive agency of a first and sole cause is not admitted, an absolute n
 
 I have never been able to make out what this hypothesis of M. Cousin amounts to. If it exhibits to us an isolated case in which the volition has casually preceded the sonata, and not
 
-PHILOS.     9
+## PHILOS.     9
 
 [p. 130]
 
@@ -1728,9 +1728,9 @@ The liberty of the first cause is original and unlimited; the liberty of the hum
 
 [p. 145]
 
-APPENDIX II
+## APPENDIX II
 
-OF THE SUPREME BEING AND OF HIS ATTRIBUTES
+## OF THE SUPREME BEING AND OF HIS ATTRIBUTES
 
 There exists no nation, people, or race of men so barbarous as to have no idea of a Supreme Being, though for the most part it be enveloped in fables and gross errors. Nor is it permissible to regard as a fact of little importance this unanimous assent of the human race; above all if it be observed that the ideas which men have formed of the Supreme Being are the more elevated and pure, the further they have advanced in civilization. In vain has it been attempted to deny the fact by turning over accounts of travels, and drawing from them two or three examples of atheistic peoples: more recent accounts show that the earlier travelers had judged precipitately, after a short residence among savages whose language they did not know.
 
@@ -1754,7 +1754,7 @@ have to be invented.]
 
 So said Voltaire. And in effect, in order that a man may be truly virtuous, that in the most hidden place, and in complete solitude, he may be disposed, if it be necessary, to sacrifice life itself to duty, it is needful that he regard it as
 
-PHILOS.     10
+## PHILOS.     10
 
 [p. 146]
 
@@ -1932,7 +1932,7 @@ or with the whole body, in consequence of determinations of the will, involves, 
 
 If there was a first epoch of the intelligence in which the soul did not yet refer tactile sensations to a cause distinct from the I, it is evident that in this epoch the perceptions were all purely intuitive. In this epoch tactile sensations were for the soul mere modifications of itself; and when the touching was voluntary, the soul saw itself producing in itself the tactile sensations by means of sensations of effort, and the sensations of effort by means of volitions. Volitions produce, according to our present way of conceiving, muscular efforts, and muscular efforts sensations of effort. But, in the epoch of which we treat, it must have appeared to us that volitions would produce sensations of effort immediately. Likewise, in our present way of conceiving, tactile sensations are produced by actions of external bodies upon our organs, and of our organs upon the soul. But, in the epoch of which we are speaking, the tactile sensation was a spiritual modification, without reference to any external cause or one distinct from the I. Thus, the perception of
 
-PHILOS.     11
+## PHILOS.     11
 
 [p. 162]
 
@@ -1998,7 +1998,7 @@ But the series of efforts needed to carry the organ from body A to body B is not
 
 [p. 168]
 
-III
+## III
 
 The perception of place resolves itself into the perceptions of distance and of situation. In a system of objects, the place in which I represent each object to myself is the distance and situation in which it stands with respect to me, or with respect to another object whose situation and distance with respect to me are known to me. If the magnitude and form of the objects enter into the account, we give magnitude and form to places also, and we say that a thing occupies more or less place according as it has more or less volume.
 
@@ -2122,7 +2122,7 @@ Between these a priori conditions and the relations of succession which, as we h
 
 Space and time are, then, mere capacities for real existences; and although in themselves they be nothing, there will not for that reason be any contradiction in representing space to ourselves as a sphere of interminable dimensions, and time as a scale of interminable length, referring to the former all the extensions and to the latter all the durations that we can imagine. Far from these ideas being repugnant to the ontological nullity of time and space, they are on the contrary a necessary consequence of their absolute insubstantiality.
 
-PHILOS.     12
+## PHILOS.     12
 
 [PDF 194]
 
@@ -2292,7 +2292,7 @@ The adaptation of the refracting apparatus of the eye, and the inclination of th
 
 “If a man who had never before seen objects through a
 
-PHILOS.     13
+## PHILOS.     13
 
 [p. 194]
 
@@ -2416,9 +2416,9 @@ Do we conceive substance in bodies? Do we conceive that there is in them somethi
 
 But this power which causes the sensation necessarily exists in something real. Shall we figure this real identity to ourselves in what we call matter? Or shall we place it in the Great Spirit, Creator and Preserver? This has been a hotly contested question in the arena of Philosophy: a question which nevertheless (as I hope to prove later on), reduced to its true dimensions, hardly leaves an appreciable difference between the opinions of the two opposed parties. This is not the fitting place to discuss them.(a)
 
-APPENDIX I
+## APPENDIX I
 
-ON INTELLIGENCE IN BRUTES.
+## ON INTELLIGENCE IN BRUTES
 
 That brutes feel and compare their sensations is absolutely beyond doubt. They have consequently a soul; and that soul is in them, as in man, a simple substance,
 
@@ -2476,7 +2476,7 @@ The animal has instincts not only for seizing upon the objects it desires, but f
 
 There is often awakened in the animal a series of appetites and instincts directed to a final end, of which it cannot have an idea, at least by its own experience, or by the example of its fellows. The bird makes the nest without thinking of the brood; it sits in the same manner; hatches the brood, feeds it, encourages it to fly: a series of perceptions and emotions, aided to a certain point by experience in the more exalted species, produces this series of operations, which end in the complete education of the young. When that epoch has come,
 
-PHILOS.     14
+## PHILOS.     14
 
 [p. 210]
 
@@ -2622,7 +2622,7 @@ And if the child retains for the formation of the general idea those characters 
 
 Let us confine ourselves to color, and suppose it homogeneous in each peach. There is no sensation of color which is produced uniformly by all peaches: the peach passes through an infinity of shades from green to pale yellow, and even among the colors of ripe peaches differences are not wanting to be perceived. The understanding, moreover, lacks the faculty of dividing the homogeneous sensation of color, produced by each peach, into two sensations, of which one should be produced by all of them and the other not. Consequently, the child cannot represent to himself in the color of each peach two colors, one of which should be common to all of them and the other not; for since the idea of color is nothing else than a sensation referred to a certain external cause, the modes of this cause cannot be for us more or less than the modes of the sensation. Does the child, then, reject everything that he finds different in the colors of peaches? In that case peach in general will be for him an object destitute of all color. Will he retain the incomplete resemblances which he observes in the colors of peaches? Will he regard as common characters those which vary within certain limits? Such, in fact, is the sense in which I believe we ought to understand this expression of Destutt de Tracy, common characters. But in this sense the
 
-PHILOS.   15
+## PHILOS.   15
 
 [p. 226]
 
@@ -2770,7 +2770,7 @@ I cannot represent to myself abstractly what Rome has in common with other objec
 
 Whenever we think of individual objects that we have not observed, in the exercise of thought we do not confine ourselves to combinations of vocal signs; the mental representations of the objects are composed of imaginary particulars. We think in no other way of the personages, places and events of which history tells us, or which we find described in novels or in books of travel. However minute the description we read of them, it can never be individual; it is the reader who gives it this character. The historian, the poet, the traveler, may indeed narrow considerably the space in which our imagination is to range; but to reach individuality is denied them, because all the descriptive elements of which languages consist are of necessity general. He who describes
 
-PHILOS.   16
+## PHILOS.   16
 
 [p. 242]
 
@@ -2920,7 +2920,7 @@ The endogenous sign-ideas do not suppose the use of speech; vocal or nominal sig
 
 To the three preceding classes, of homonymous, metaphorical and endogenous, seem to me reducible all the ideas which help us to conceive or express other ideas, or to take the place of those we lack.
 
-PHILOS.   17
+## PHILOS.   17
 
 [PDF 274]
 
@@ -3084,7 +3084,7 @@ I ask now: when we opened our eyes for the first time and saw the first object, 
 
 In the judgment of the presence of the object there is involved that of the existence of causes distinct from the soul which produce the sensations. These two judgments, however, are perfectly
 
-PHILOS.     18
+## PHILOS.     18
 
 [p. 274]
 
@@ -3218,7 +3218,7 @@ A with the actual perception of B, will pronounce that B is not entirely A; that
 
 Let us now suppose a series of successive affections, A, B, C, D, etc., which leave the anamneses a, b, c, d, etc. The first affection A being ended, we perceive anteriority between a and B: anteriority purely objective, because subjectively, that is, referred to the soul which experiences it, a and b coexist. The affection B being ended, there succeed it the anamneses a and b, accompanied, by virtue of the laws of memory, by the idea of the relation of anteriority between a and b, and we perceive another relation of the same kind between b and C. The affection C being ended, there succeed it the anamneses a, b, c, accompanied, by virtue of the laws of memory, by the ideas of the relations of anteriority between a and b, b and c, and we perceive another similar relation between c and D; and so on successively. In this manner memory represents to us the succession of our spiritual modes, that of things past, and time. Just as between two affections we perceive something elemental, indefinable,
 
-PHILOS.    19
+## PHILOS.    19
 
 [p. 290]
 
@@ -3356,7 +3356,7 @@ The cyriologic characters represent certain objects by means of the resemblance 
 
 This means of representing spoken words having once been introduced into writing, it was easy to extend it from proper names to common and general ones, which consisted of significant parts whose symbols were already familiar. Of such words, divisible into other words, there are usually very many in some languages, and in the primitive idioms their number could not fail to be much more considerable. The convenience, then, of indicating an idea by indicating the name which represents it in ordinary language must undoubtedly have induced men to increase more and more the number of the phonetic characters, that is, those representative, not of thought, but of the voice (phone). But in any case the decomposition of
 
-PHILOS.   20
+## PHILOS.   20
 
 [p. 306]
 
@@ -3496,7 +3496,7 @@ The vividness of perceptions or of recollections consists in the vividness of th
 
 It may perhaps be doubted whether all the affections of the soul produce consciousness. As to those which we can remember, there is no doubt that they produce it, because we can remember only what we have actually perceived, and in every perception there is necessarily intuition. This, however, is not without difficulty. If all the affections of the soul produce consciousness, and the very acts of consciousness produce a further consciousness, and the acts of this a third, and so on infinitely; there is no moment of time, while we are awake, in which the soul does not experience an infinite number of affections, taking the word infinite in its literal sense; which is absurd. Might it not be said that the force or vividness of the intuition is always much less than that of the spiritual affection which immediately produces it, and that, therefore, the force of the successive intuitions decreasing in a rapid progression, it soon comes to vanish altogether? There is nothing in this hypothesis that is belied by the observation of intellectual phenomena. On the contrary, we know that the perceptions of corporeal objects, which require only first intuitions, engross all our attention in the earliest years, and that even in adult age the greater part of men rarely stop to think of any others. The general plan of nature is that the affections of the soul which have
 
-PHILOS.     21
+## PHILOS.     21
 
 [p. 322]
 
@@ -3630,7 +3630,7 @@ The comparison of what passes in my body with what passes in other animated bodi
 
 The cause, then, of sensation, matter, is something whose individual actions are circumscribed to certain localities determined by the order of the tactile affections, an order which consists in the series and kinds of the efforts necessary to pass from some affections to others. Of the inmost nature of this something we know nothing; we can only represent to ourselves its qualities and the relations it has with itself, that is to say, a material particle with other material particles, by the different sensations it produces, and by the relations which these have among themselves and with the sensations. Between the simple qualities and the homogeneous sensations there is no resemblance, nor can any be conceived; between the relations of the material causes and the relations we perceive in the sensations, we not only suppose a resemblance, but by an original principle of
 
-PHILOS.   22
+## PHILOS.   22
 
 [p. 338]
 
@@ -3748,7 +3748,7 @@ It seems at first sight that, the substantiality being taken away from matter, t
 
 between reality and the dream will be reduced to nothing. The dream, moreover, might be alleged as a proof that our sensations do not necessarily suppose the substantiality of bodies. But, after all this, we have no motive for considering the theory of Berkeley otherwise than as merely possible. Its necessity, inferred from the fact that there can be no resemblance whatever between our ideas and the qualities of matter, we have already seen to rest upon an unsubstantial foundation.
 
-APPENDIX
+## APPENDIX
 
 Those who deny the existence of matter as substance do not deny that our sensations have causes different from the substance that feels. They recognize causes; they do not dispute about their existence, but about their nature. According to them, the causes of the substances are certain general laws established by the Creator.
 
@@ -3766,7 +3766,7 @@ But although the theory of Berkeley might in strictness be admitted as a possibl
 
 [PDF 370]
 
-CHAPTER I
+## CHAPTER I
 
 On knowledge.
 
@@ -3884,7 +3884,7 @@ contradiction serves to establish each of the steps of the reasoning, and the pr
 
 “Even supposing that necessary principles could be legitimately deduced from contingent principles, this deduction itself could not be effected without the intervention of the principles of contradiction and of sufficient reason, that is, without supposing two irreducible principles, two principles which must be admitted without proof, because there is no possible proof without them.”
 
-APPENDIX
+## APPENDIX
 
 Dugald Stewart reduces to two classes the implicit judgments without which every judgment of reason is impossible.
 
@@ -3918,7 +3918,7 @@ for speaking of mathematical axioms exclusively. The same office is performed in
 
 I observe also that all these axioms are true reasonings reduced to the form of a simple proposition. To say that if A=B, and B=C, A=C, what is it but that from these two propositions: A=B, B=C, the third A=C is legitimately derived? And what is this but to establish as a general rule that all reasonings that conform to this model, A=B, B=C, therefore A=C, are good and legitimate? In the same way, to say that the whole is greater than any one of its parts, what is it but to say that if A=B+C, A>B; and that all reasonings that can be reduced to this type, A=B+C, therefore A>C, conform to a general law that cannot deceive us? And to say that if equal quantities are added to equal quantities the results are equal quantities, what is it but to establish as legitimate this form of reasoning, A=B, C=D; therefore A+C=B+D? Recognizing likewise that if A is after B, and B is after C, A is after C, we establish this formula of reasoning: A after B, B after C, therefore A after C. Finally, when we say that a thing cannot both be and not be at the same time, we say in other terms that if A is B is a proposition that cannot be doubted, and if from the supposition C is D it results that A is not B, the supposition C is D is necessarily false; and we establish as sure this form of reasoning: A is B: if C were D, A would not be B; therefore C is not D. In short, axioms are nothing but formulas of reasoning that carry with them an irresistible evidence. When it is said, therefore, that they are judgments that are necessarily involved in our reasonings, it is said in substance that our demonstrative reasonings, to be correct, must
 
-PHILOS.   24
+## PHILOS.   24
 
 [p. 370]
 
@@ -4090,7 +4090,7 @@ But not every judgment of absolutely necessary connection is evident, because it
 
 All evident judgments are perceptive; but not every perceptive judgment is evident. The judgments that accompany sensitive perceptions are subject to error. I hear a musket fired and shortly after I hear a cannon fired. If I judge that the cannon shot was posterior to the musket shot, I may err; because the order in which I experience the sensations may often be different from the order in which the movements have occurred that, setting the air in vibration, produce them in my ear. If I limited myself to judging that the sound of the cannon has affected my ear after the sound of the musket, my judgment would not be susceptible of error. When from this relation
 
-PHILOS.     25
+## PHILOS.     25
 
 [p. 386]
 
@@ -4252,7 +4252,7 @@ The deduction, however, extended to all possible combinations of two media, was 
 
 In effect, there are transparent solid bodies, such as rock crystal, which, interposed between the object and the eye, have the singular
 
-PHILOS.   26
+## PHILOS.   26
 
 [p. 402]
 
@@ -4466,7 +4466,7 @@ But, forgive me again, gentlemen Schoolmen: Baroco and Bocardo are most easily r
 
 Baroco: “P, M,” “S/r, —M,” “S/r, —P.” I convert the major by changing the signs, and I have the syllogism: “—M, —P,” “S/r, — M,” “S/r, —P.” Can anything be simpler? But to what direct mood shall we refer it? To none of those designated by the school. And yet its conformity with the type of the perfect syllogism is evident. To save the honor of the Peripatetics it might be said that considering not M, but —M, as the middle (a most just consideration, because it is not M but
 
-PHILOS.     27
+## PHILOS.     27
 
 [p. 418]
 
@@ -4676,7 +4676,7 @@ Let us conclude, then, that the type of each reasoning depends on the matter abo
 
 The fallacies which belong exclusively to the premises are of innumerable kinds, and as they are not peculiar to demonstrative reasoning, we reserve them for a later place.
 
-PHILOS.     28
+## PHILOS.     28
 
 [PDF 449]
 
@@ -4750,7 +4750,7 @@ From the moment we place the intellectual operations under the guarantee of sigh
 
 [p. 439]
 
-III
+## III
 
 It has been said that in mathematics the propositions are always identical, so that the subject and the predicate designate in them one and the same object, and all may be represented by the formula “a is a.”
 
@@ -4866,7 +4866,7 @@ Bodies whose specific gravity is less than that of water, when immersed in this 
 
 Analogy thus conducts to the knowledge of the laws of nature. The results, conjectural at first, acquire more and more probability as they are verified by observation, experiments and calculation; until at length they inspire full confidence and take their place among empirical truths. It was recognized, then, as one of these, that in a vacuum all sublunary bodies abandoned to themselves
 
-PHILOS.    29
+## PHILOS.    29
 
 [p. 450]
 
@@ -5042,15 +5042,15 @@ In this procedure of reasoning a fact has been decomposed: a link of the phenome
 
 Decomposition, nevertheless, is nothing more than the a posteriori proof of a previous conjectural generalization, or the road that leads to it a priori, by unfolding all the resemblances that intervene in the exhibition of phenomena. For in order to perceive the identity, or rather their essential resemblance, their uniform production by one and the same kind of causes, it is necessary to decompose them, to compare them with one another in all their details, and to ascertain in this way whether the apparent differences are not mere modifications produced by peculiar circumstances.
 
-PHILOS.    30
+## PHILOS.    30
 
 [p. 466]
 
 Whether we begin with the synthesis that generalizes or with the analysis that decomposes, the combination of these two kinds of analogical reasoning is indispensable for obtaining sure results in the study of intellectual, moral and material nature.
 
-APPENDIX I DIFFERENCE BETWEEN EXPERIENCE AND ANALOGY, ACCORDING
+## APPENDIX I DIFFERENCE BETWEEN EXPERIENCE AND ANALOGY, ACCORDING
 
-TO PREVOST AND STEWART
+## TO PREVOST AND STEWART
 
 I
 
@@ -5112,9 +5112,9 @@ There are no more methodical classifications, nor any resting on more numerous a
 
 [p. 472]
 
-APPENDIX II
+## APPENDIX II
 
-ERRONEOUS IDEAS OF REID AND CAMPBELL ON ANALOGY
+## ERRONEOUS IDEAS OF REID AND CAMPBELL ON ANALOGY
 
 Dr. Reid believes that analogy is of more use for answering objections than for serving as a foundation for judgments. Dr. Campbell, coinciding with this way of thinking, believes that analogy rarely refutes, but frequently repels refutation; like those arms which do not wound the enemy, but parry his blows. Dugald Stewart, without ignoring the happy use that may be made of analogy as a means of defense, believes that those two ingenious writers lowered the importance of this mode of reasoning as a means of proof and as a source of new knowledge. But not even Dugald Stewart himself seems to me to appreciate it sufficiently from this second point of view, when he says that, employed as a probative means, it produces no more than probable conjectures,     which        provoke          and    animate   to   new investigations.
 
@@ -5122,9 +5122,9 @@ The discoveries which are owed to analogy are innumerable; and the investigation
 
 I flatter myself that at bottom there is no real difference between the doctrine of Prevost and Stewart and my own way of thinking about analogy: my objections fall only upon phrases which do not seem to me to represent with sufficient clearness the experimental and analogical procedures.
 
-APPENDIX III
+## APPENDIX III
 
-ON HYPOTHESES
+## ON HYPOTHESES
 
 I
 
@@ -5158,9 +5158,9 @@ When it is a question of explaining a phenomenon, he would doubtless not proceed
 
 against the study of this kind of relations, because he also often deceives himself by establishing imaginary connections of phenomena and false physical laws, and we do not say for that reason that the natural sciences are vain speculations unworthy of man.
 
-APPENDIX IV
+## APPENDIX IV
 
-ON THE INDUCTION OF BACON
+## ON THE INDUCTION OF BACON
 
 “For the knowledge of facts,” says Dugald Stewart, “observations and experiments are necessary . . . But observations and experiments are commonly no more than a preliminary step to a further procedure, which consists in first reducing particular facts to other facts more simple and comprehensive, and then applying these general facts, or laws of nature, to the synthetical explanation of particular phenomena. These two operations constitute the whole of philosophical investigation, and the great object of logic is to show in what manner we ought to conduct them.
 
@@ -5192,9 +5192,9 @@ If the enumeration is complete, like that of the triangles and that of the zone 
 
 Bacon’s deductive procedure is rather a method than a special deductive procedure. The following chapters will treat of method in the investigations of the sciences of fact.
 
-APPENDIX V
+## APPENDIX V
 
-ON ANALYSIS AND SYNTHESIS
+## ON ANALYSIS AND SYNTHESIS
 
 In what I am about to say on these two reasoning methods I shall at the outset follow step by step the illustrious professor of Edinburgh, so often cited.
 
@@ -5232,7 +5232,7 @@ From these observations of Dugald Stewart it seems to me that two consequences f
 
 As to analysis and synthesis, which consist in a true resolution and composition, it seems to me also evident that neither of them ought to be excluded in the study of matter, nor in that of the social sciences. Would not, perchance, synthesis, which by combining various ingredients produces a substance of the same weight as all of them together, and of the same qualities as that body, be as satisfactory to the chemist who desires to know the constitutive principles of a body, as analysis, which decomposes it and shows separately its elements? Is it not certain that sensitive perception presents to consciousness a complex which cannot be well understood except by resolving it into its various elementary affections, and considering each of them separately; and that the idea of extension, for example, is better understood by combining the ideas which we owe to the sense of effort with the
 
-PHILOS.    31
+## PHILOS.    31
 
 [p. 482]
 
@@ -5426,7 +5426,7 @@ There are, then, two opposite habits equally fruitful in errors: that of the und
 
 “The mere mathematician is apt to apply measure and calculation to things which do not admit of it. Direct and inverse ratios have been applied by an ingenious author to measure human affections, and the moral worth of actions. An eminent mathematician attempted to ascertain by calculation the ratio in which the evidence of facts must decrease in the course of time, and fixed the period when the evidence of the facts on which Christianity is founded shall become
 
-PHILOS.    32
+## PHILOS.    32
 
 [p. 498]
 
@@ -5494,7 +5494,7 @@ The special causes of error called sophisms may be reduced to two orders: the on
 
 [p. 503]
 
-I. PETITIO PRINCIPII
+## I. PETITIO PRINCIPII
 
 To the first of these orders belongs the vice of reasoning which logicians call petitio principii.
 
@@ -5524,7 +5524,7 @@ There are, then, irrecusable principles, principles which the human understandin
 
 feels itself compelled to accept by a law of its nature, and whose denial, nevertheless, involves no contradiction whatever: in a word, there are synthetic a priori principles. The pretended demonstrations involve a begging of the question.
 
-II. VICIOUS CIRCLE
+## II. VICIOUS CIRCLE
 
 The vice of reasoning called vicious circle bears some resemblance to the preceding one.
 
@@ -5544,7 +5544,7 @@ we exaggerate its beauty; if, as sometimes happens, there is nothing in it to re
 
 Certain theories of the metrical laws of Greek tragedy seem to us to suffer from this vice. Certain metrical canons are proposed as founded on the universal usage of the writers; exceptions are found; and the texts are corrected to fit them to the doctrine. Proceeding on this evidently gratuitous principle, that what appears to happen rarely was never done, the universality of the canons is established by the corrections, and with the universality of the canons the corrections are justified.
 
-III. IGNORATIO ELENCHI
+## III. IGNORATIO ELENCHI
 
 In the ignorance of the argument one proposition or doctrine is substituted for another, and what is made to tell for or against the first is turned in favor of or against the second.
 
@@ -5566,9 +5566,9 @@ Mind.
 
 [p. 508]
 
-§ III
+## § III
 
-I. FALLACIA ACCIDENTIS
+## I. FALLACIA ACCIDENTIS
 
 We pass to the sophisms that consist in some vice of the deductive procedure.
 
@@ -5630,7 +5630,7 @@ Mental psychology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 
 Chap. V.—On relative perceptions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                62 Chap. VI.—On resemblance and difference . . . . . . . . . . . . . . . . . . . . . . . . .                       70 Chap. VII.—On the relation of equality and of more and less . . . . . . . . . . . . 86 Appendix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100 Chap. VIII.—On succession and coexistence . . . . . . . . . . . . . . . . . . . . . . . . 103 Appendix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110 Chap. IX.—On the relation of cause and effect . . . . . . . . . . . . . . . . . . . . . . . 114 Appendix I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 126 Appendix II.—On the Supreme Being and his attributes . . . . . . . . . . . . . . . . . 145 Chap. X.—On the relation of extraposition . . . . . . . . . . . . . . . . . . . . . . . . . 156 Chap. XI.—On sight as significative of touch . . . . . . . . . . . . . . . . . . . . . . . . 178 Chap. XII.—On the relation of identity.—Substantiality . . . . . . . . . . . . . . . . 201 Appendix I.—On intelligence in brutes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 205 Chap. XIII.—On the composition of ideas . . . . . . . . . . . . . . . . . . . . . . . . . . 211 Chap. XIV.—On general ideas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 217 Chap. XV.—On negative ideas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 236 Chap. XVI.—On sign-ideas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 240
 
-PHILOS.     33
+## PHILOS.     33
 
 [p. 514]
 
@@ -5644,7 +5644,7 @@ Chap. XIX.—Analysis of the acts of memory . . . . . . . . . . . . . . . . . . 
 
 perceptions                                                                                     . . . 318 Chap. XXII.—On matter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 335 Appendix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 351
 
-LOGIC
+## LOGIC
 
 Chapter I.—On knowledge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 355 Appendix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 366 Chap. II.—On judgment and its various kinds . . . . . . . . . . . . . . . . . . . . . . . 373 Chap. III.—On reasoning in general . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 397 Chap. IV.—On demonstrative reasonings . . . . . . . . . . . . . . . . . . . . . . . . . . . 408 Chap. V.—On the matters to which pure demonstrative reasoning
 

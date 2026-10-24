@@ -22,11 +22,11 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 ON
 
-SOCIOLOGY
+## SOCIOLOGY
 
 BY
 
-EUGENIO M. DE HOSTOS
+## EUGENIO M. DE HOSTOS
 
 Professor of Universal History at the “Miguel Luis Amunátegui” Lyceum;
 
@@ -40,9 +40,9 @@ Professor of Constitutional Law at the University of Chile;
 
 etc., etc.
 
-MADRID
+## MADRID
 
-PRINTING HOUSE OF BAILLY-BAILLIÈRE AND SONS
+## PRINTING HOUSE OF BAILLY-BAILLIÈRE AND SONS
 
 Calle de la Cava Alta, No. 5.
 
@@ -64,7 +64,7 @@ ence.—22. The effective method.—23. How a science ought
 
 to be studied.—24. How we shall study Sociology.—25. Plan
 
-BOOK I
+## BOOK I
 
 Theoretical Sociology. CHAPTER I.—Intuitive Sociology.—1-4. Life in society.              21 Social facts.—5-11. What social facts are like.—12-19. How they present themselves in History.—20. Intuitive concept or judgment CHAPTER II.—Inductive Sociology.—1. Object of this                 28 chapter.—2. Formula of the intuitive judgment on Society.—3 and 4. Examination of this judgment. 5-7. Functions of social life.—8 and 9. The social order.—10-22. Classification of the social functions. Justification of such a classification.—23. Inductive judgment on Society CHAPTER III.—Deductive Sociology.—1. Formula of the inductive judgment on Society.—2. Natural laws of Society.— 3. How many are the natural laws of Society.—4. Which are the natural laws of Society.—5 and 6. Classification of the natural laws of Society.
 
@@ -102,7 +102,7 @@ scientific organization of Sociology.—17. What would have to
 
 be done
 
-BOOK II
+## BOOK II
 
 Expository Sociology. CHAPTER I.—Object of this Book. Definition and Division             65
 
@@ -352,7 +352,7 @@ of societies Section 3.—Cure of social diseases. Social therapeutics.— 205
 
 ic diseases.—44. Moral diseases.—45. Intellectual diseases
 
-BOOK III
+## BOOK III
 
 Notions of Sociology.—Summary. Section 1.—Name of the Science.—Place which it occupies in 209
 
@@ -442,11 +442,11 @@ Resolution of the “Sociedad de Enseñanza” of Santo Domingo:
 
 [PDF 17]
 
-TO ESTABLISH THE METHOD AT ONCE SCIENTIFIC AND
+## TO ESTABLISH THE METHOD AT ONCE SCIENTIFIC AND
 
-HISTORICAL WHICH IS TO BE FOLLOWED IN THIS
+## HISTORICAL WHICH IS TO BE FOLLOWED IN THIS
 
-STUDY
+## STUDY
 
 1 and 2. Method and procedures.—3. What method is.—4-19. What those procedures are.—20. What the exposition of a science demands.—21. The natural method of a science.—22. The effective method.—23. How a science ought to be studied.—24. How we shall study Sociology.—25. Plan.
 
@@ -536,7 +536,7 @@ They are formed by starting from intuitions until they come to organize the trut
 
 25. Plan.—In fulfilment of this purpose, we shall follow this plan:
 
-INTUITIVE SOCIOLOGY
+## INTUITIVE SOCIOLOGY
 
 Enumeration of social facts.
 
@@ -556,7 +556,7 @@ Comparison of the facts, according to their resemblances and according to their 
 
 Formation of the intuitive concept or judgment upon reality, the extreme term of intuition.
 
-INDUCTIVE SOCIOLOGY
+## INDUCTIVE SOCIOLOGY
 
 From each fact, to the whole of the facts.
 
@@ -570,7 +570,7 @@ Classification of the social facts.
 
 Formation of the inductive judgment, basing it upon the capital relation that may have been discovered.
 
-DEDUCTIVE SOCIOLOGY
+## DEDUCTIVE SOCIOLOGY
 
 Natural laws of Society.
 
@@ -596,7 +596,7 @@ Law of Media: its statement.
 
 Classification of the natural laws of Society.
 
-SYSTEMATIC SOCIOLOGY
+## SYSTEMATIC SOCIOLOGY
 
 Fundamental truths of Sociology.
 
@@ -604,7 +604,7 @@ Association of ideas serving to relate the study of Social Science to that of An
 
 Association of ideas relating Sociology to Cosmology.
 
-EXPOSITION OF SOCIAL SCIENCE
+## EXPOSITION OF SOCIAL SCIENCE
 
 Etymological definition.
 
@@ -638,11 +638,11 @@ Determination of those factors: the Individual and Society.
 
 [PDF 29]
 
-BOOK I
+## BOOK I
 
-THEORETICAL SOCIOLOGY
+## THEORETICAL SOCIOLOGY
 
-CHAPTER I
+## CHAPTER I
 
 Intuitive Sociology
 
@@ -728,7 +728,7 @@ Among our peoples of the whole continent are found traces of the more or less an
 
 20. Concept or intuitive judgment concerning Society. —Thus it is also that we arrive, through the linking of all those intuitions, at the immediate conception and the spontaneous formation of the concept or intuitive judgment that Society is a living reality, a living being.
 
-CHAPTER II
+## CHAPTER II
 
 Inductive Sociology
 
@@ -850,7 +850,7 @@ The mode in which labour develops, in conformity with the mode in which needs de
 
 There are natural laws of Society, because there is a social order which is necessary.
 
-CHAPTER III
+## CHAPTER III
 
 Deductive Sociology
 
@@ -1010,13 +1010,13 @@ In consequence of the wretched development of all those societies, when independ
 
 — 54 —
 
-CHAPTER IV
+## CHAPTER IV
 
-SYSTEMATIC SOCIOLOGY
+## SYSTEMATIC SOCIOLOGY
 
-SECTION 1
+## SECTION 1
 
-MATERIALS OF SOCIOLOGY
+## MATERIALS OF SOCIOLOGY
 
 1. Themes to be linked in order to constitute Social Science. —2. Which they are.—3 and 4. Relation among the phenomena.—5 and 6. Relation between sociotic and cosmic facts.—7. Society.—8. Labour.—9 and 10. Government.—11 and 12. Progress.—13. The Ideal of the Good.—14. Social Conservation.—15. Sociability and Media.
 
@@ -1116,9 +1116,9 @@ And even though the arbitrary use of the word force may have given it a vulgar s
 
 — 62 — not so, the evidence which we all have that there is a modifying influence upon social facts, according to the circumstances in which they are realized, has brought to all understandings the vulgar notion of Media, exactly as the intuition of physical changes has brought to all understandings the idea of the influence of places, times, atmospheric states, zones, seasons; in sum, the influence of physical Media.
 
-SECTION 2
+## SECTION 2
 
-WORK OF SYSTEMATIZATION
+## WORK OF SYSTEMATIZATION
 
 16. The bases for the scientific organization of Sociology.— 17. What would have to be done.
 
@@ -1138,9 +1138,9 @@ The determination and the statement of the natural laws of Society is—lastly�
 
 E X P O S I T O RY S O C I O L O G Y
 
-CHAPTER I OBJECT OF THIS BOOK.—DEFINITION AND DIVISIONS
+## CHAPTER I OBJECT OF THIS BOOK.—DEFINITION AND DIVISIONS
 
-OF SOCIOLOGY
+## OF SOCIOLOGY
 
 1. Object of Expository Sociology.—2. Definition of Sociology.—3. Divisions.
 
@@ -1150,9 +1150,9 @@ OF SOCIOLOGY
 
 3. Division of Sociology.—Sociology is divided into: Sociology properly so called or Socionomy, Sociography, Sociorganology and Sociopathy. Socionomy, or Sociology properly speaking, is a general science: the other parts of the study are sciences of application.
 
-CHAPTER II
+## CHAPTER II
 
-SOCIONOMY
+## SOCIONOMY
 
 1. What is called Socionomy.—2. Character of human Society.
 
@@ -1164,9 +1164,9 @@ SOCIONOMY
 
 2. Character of Society.—Human Society is a natural whole, of universal character, subject to laws likewise universal.
 
-SECTION 1
+## SECTION 1
 
-UNIVERSAL LAWS OF SOCIETY
+## UNIVERSAL LAWS OF SOCIETY
 
 3. How many those laws are.—4. Which they are.—5. Classification of them.—6. Constitutive law.—7. Organic laws. —8. First organic law.—9. Second.—10. Third.—11. Fourth.— 12. Fifth.—13. Law of procedure.
 
@@ -1262,9 +1262,9 @@ In human societies the same influence of Media is exerted upon the social forces
 
 — 73 —
 
-SECTION 2
+## SECTION 2
 
-STATEMENT OF THE SOCIAL LAWS
+## STATEMENT OF THE SOCIAL LAWS
 
 14. Why the social laws should be stated.—15. Statement of the Law of Sociability.—16. Statement of the Law of Labour. —17. Statement of the Law of Liberty.—18. Statement of the Law of Progress.—19. Statement of the Law of the Ideal.—20. Statement of the Law of Conservation.—21. Statement of the Law of Media.
 
@@ -1388,9 +1388,9 @@ When it is a question of institutions, then one must appeal to the resource of a
 
 The Law of Media offers dangers, as much to those who forget it as to those who remember it too much. When forgotten, because it exposes to errors, injustices, violences, obstinacies and impositions. When respected, because it either weakens the impulsive action of natural progress or favours the worst social vices; among them, sloth, inertia, pessimism, fatalism.
 
-SECTION 3
+## SECTION 3
 
-SOCIAL ORDER
+## SOCIAL ORDER
 
 22. In what social order consists.—23. Function of labour, with reference to the Law of Labour.—24. Function of government, with reference to the Law of Liberty.—25. Function of public education, in so far as it is governed by the Law of Progress.—26. Function of religion and morals, with reference to the Law of the Ideal.—27. Conserving function, or function of the force of societies, with reference to the Law of Conservation.—28. The social media, with reference to the Law of Media.
 
@@ -1504,9 +1504,9 @@ If we withdraw from our social activity all the endeavours directed to that effo
 
 If, then, in a completely scientific study of the natural laws of Society, we learn to respect the Law of social Media, as we find ourselves forced to respect the law of physical or cosmic media, the immediate utility that will be derived from that knowledge and that study is beyond doubt.
 
-CHAPTER III
+## CHAPTER III
 
-SOCIOGRAPHY
+## SOCIOGRAPHY
 
 1. What Sociography is.—Sociography, or descriptive Sociology, is: that part of this science which has for its object the reproduction, by means of analysis, of all the characteristic circumstances of a social medium. Defining Sociography as Social Science would need this part of the Science to be, we might say that Sociography has for its object the photographic reproduction of social states, whether in the generality of human life or in the particularity of any mode of living of social man.
 
@@ -1516,9 +1516,9 @@ If Sociography is to be a general photograph, and may be a particular photograph
 
 — 95 — second, Particular Sociography, and it will describe the peculiar modes of being and acting which any social groups whatever possess.
 
-SECTION 1
+## SECTION 1
 
-GENERAL SOCIOGRAPHY
+## GENERAL SOCIOGRAPHY
 
 2.    Object      of    General       Sociography.—General Sociography studies social states in all the times of History and in all the places of the Earth.
 
@@ -1856,9 +1856,9 @@ We are still far from this, and this purpose is scarcely glim-
 
 — 129 — psed, in some school institutions of the New World and of the Old, institutions which have for their object to strengthen and discipline childhood. But from these essays, which until now bear relation only to physical education, a great distance must be travelled to arrive at military organizations which shall serve exclusively for nothing more than to attest the vital force of each Society.
 
-SECTION 2
+## SECTION 2
 
-DESCRIPTION OF SOCIETY AS PARTICULAR LIFE
+## DESCRIPTION OF SOCIETY AS PARTICULAR LIFE
 
 31. The parts of the social organism.—The description which we have just made of the functions of human Society and of the operations which constitute each one of those functions, presents Society to us as a living whole, whose activity extends to every place and to every time.
 
@@ -2008,9 +2008,9 @@ When from this urban enclosure there began to go forth families which could not 
 
 When, in spite of the division into regions, ethnic unity prevailed, and the national state was constituted unitarily, in such manner that the parts spontaneously obeyed the whole, and the extremities subordinated themselves of their own accord to a directing centre, the gens reached its highest degree of historical development, and the Nation was produced, which, in reality, only in these latter times has presented itself in History as a living and veritable entity.
 
-SECTION 3
+## SECTION 3
 
-DESCRIPTION OF SOCIETY AS A POTENTIAL FORCE
+## DESCRIPTION OF SOCIETY AS A POTENTIAL FORCE
 
 47. The two forces of Society. Capacities latent in every Society.—Human Society, in the course of its activity, shows two active forces: the one actual, that is to say, which acts, which belongs to every day and to every moment of Society; the other potential, as one might say, a latent force, intimate, organic, resulting from the very existence of the social being, which, therefore, is the real companion of the being itself, but which does not always manifest itself as it can, and which, at times, cannot present itself as it is.
 
@@ -2168,15 +2168,15 @@ When the organization of force obeys, as Nature wills that it obey, this purpose
 
 — 154 —
 
-CHAPTER IV
+## CHAPTER IV
 
-SOCIORGANOLOGY
+## SOCIORGANOLOGY
 
 Study of the organs of Society.
 
-SECTION 1
+## SECTION 1
 
-VITAL ORGANS
+## VITAL ORGANS
 
 § 1.
 
@@ -2280,9 +2280,9 @@ Thus, from occupation to occupation of territory, and from dispute to warlike di
 
 — 163 — and possession of territory the force of right sufficient to authorize a group of families and a union of tribes in the enjoyment of a territorial extension. History cannot affirm, with trustworthy data, how, or at what moments, a union of tribes constituted a gens, nor how, nor at what moment, that gens, possessed of a territory, began to function as a legal whole: positive History begins precisely with nations already formed.
 
-SECTION 2
+## SECTION 2
 
-INSTITUTIONAL ORGANS
+## INSTITUTIONAL ORGANS
 
 16. The action of Law in the social organism.—Many centuries and many evolutions have been necessary in order that the knowledge of the organic character of Law should come to make human nature inviolable, in each and every one of the beings that represent it, within a constituted nation.
 
@@ -2352,9 +2352,9 @@ These, which are the two poles of national government, as it has gradually prese
 
 — 169 —
 
-SECTION 3
+## SECTION 3
 
-APPLIED SOCIORGANOLOGY
+## APPLIED SOCIORGANOLOGY
 
 § 1.
 
@@ -2504,13 +2504,13 @@ Like those two, all the States of Latin or Iberian origin. Instead of showing th
 
 That notwithstanding, the twentieth century will be time enough for the organization of the American international State, which will probably be constituted before the European international State. All the more probably, inasmuch as here it is simply a question of putting to the proof the ductility of the most fruitful principle of federation: whether it be by fashioning the Antillean confederation and, after it, the South American federation, the result of which would be the federal union of the entire Continent; or whether it be by proceeding by diplomatic means to establish political-economic-social relations between the States of the one and the other continental family. It is patent, from this moment, that one of the tasks of this century must be the construction of that American international State.
 
-CHAPTER V
+## CHAPTER V
 
-SOCIOPATHY
+## SOCIOPATHY
 
-SECTION 1
+## SECTION 1
 
-SOCIAL DISEASES
+## SOCIAL DISEASES
 
 1. Why Society can suffer diseases.—Societies, like individuals, are subject to disease. This, on the one hand,
 
@@ -2718,11 +2718,11 @@ On the contrary, the social thought of the peoples of southern latitudes, or, mo
 
 — 201 —
 
-SECTION 2
+## SECTION 2
 
-MODE OF PREVENTING SOCIAL DISEASES.
+## MODE OF PREVENTING SOCIAL DISEASES
 
-SOCIAL HYGIENE
+## SOCIAL HYGIENE
 
 34. What Social Hygiene is.—Since Nature is nothing but a Logic made Reality, everyone sees that wherever there are functions, there may be perturbation of those functions. Normal functioning is health; the perturbation of any function whatever is a disease. Necessarily, if the mode in which a function is effected is known, the perturbations it may suffer are known also, and therefore, with a little thought, the means of avoiding those perturbations can be known. That knowledge is what constitutes Hygiene, and when that knowledge is applied to Society, it constitutes Social Hygiene.
 
@@ -2774,11 +2774,11 @@ It may be predicted from now that, on the day when people have become familiar w
 
 — 205 —
 
-SECTION 3
+## SECTION 3
 
-CURE OF SOCIAL DISEASES.
+## CURE OF SOCIAL DISEASES
 
-SOCIAL THERAPEUTICS
+## SOCIAL THERAPEUTICS
 
 42. How social diseases can be cured.—It is difficult to cure the diseases of a society if the hygienic resources charged with preventing them have not been applied to it. On the other hand, the very ignorance that there are, in effect, diseases of Society makes it still more difficult to apply to it the corresponding cure. Moreover, the very novelty of the purpose, which, until now, figures neither in books nor in any plan of government, makes the difficulties become almost invincible. Nevertheless, it being certain that human societies are subject to ailments, and that those ailments, like those of any other organism, proceed from functional perturbations in some one, or some, of the functions of social life, it is not impossible to establish at least the possibility of knowing those diseases and curing them.
 
@@ -2812,9 +2812,9 @@ Frequently, populations are sick with affections of an infectious character, whi
 
 [PDF 217]
 
-SUMMARY OF SOCIOLOGY
+## SUMMARY OF SOCIOLOGY
 
-SECTION 1
+## SECTION 1
 
 Name of the Science.—For a long time it was called Social Science; but, since Auguste Comte, the name that he gave it has been adopted—that of Sociology—which is as much as to say: Science of Society.
 
@@ -2850,7 +2850,7 @@ A natural law once discovered, it is at once explained that the whole which obey
 
 Now then: if Society is that congruent whole which results from incongruent parts, and if Society offers an order, and that order depends on a law, and that law is efficacious in all the manifestations of social Nature, it is evident that there can be a science of Society.
 
-SECTION 2
+## SECTION 2
 
 Twofold classification of knowledge.—In order to establish the classification to which a given order of knowledge belongs, two classifications must be made: the one methodological; the other ideological. The methodological must be made with the object of ascertaining whether the science that is to be classified embraces an order of phenomena so extensive that it corresponds to a complete aspect of Nature, or whether, on the contrary, it refers to the study of phenomena so concrete that they can be studied in the most analytical manner, with almost exclusive privation of every other in-
 
@@ -2868,13 +2868,13 @@ Sociology is an abstract science, because it embraces a whole order of Nature, a
 
 From the point of view of the ideological classification, Sociology is the whole third group of knowledge, since it is the knowledge of Society as an integral aspect of universal Nature.
 
-SECTION 3
+## SECTION 3
 
 Concrete sciences of the third group.—The concrete sciences of the third group are all those that are derived from the activity of social Nature. Thus, for example, Social or Political Economy, Jurisprudence, Ethics, Aesthetics, History, Technology; in sum, as many studies as have for their object the examination of particular phenomena of sociability, so many are the concrete, or secondary, sciences that are derived from Sociology, and that only by means of Sociology can come to be completely and exactly appreciated in their object.
 
 Which study ought to come first: that of the abstract sciences, or that of the concrete?—Given the intimate connection that exists between Sociology—the mother science— and the economic, historical, moral and political sciences— which are concrete, or secondary, sciences,—there is no need to bring out the necessity that the study of Sociology should precede that of the sciences founded upon it. Therefore the study of Sociology ought to precede that of all the concrete sciences of the third group.
 
-SECTION 4
+## SECTION 4
 
 Novelty and antiquity of Sociology.—Sociology is at once an old and a new science. It is old because, from very ancient times, the
 
@@ -2918,7 +2918,7 @@ When this had been done, that is to say, when the Philosophy of History showed a
 
 As it was now possible to see in History a social being, entire and living; a social nature, characteristic and proper to it; an order manifest even in the most patent disorders of Humanity, it was natural that men should think of the possibility of discovering the invariable laws on which that order is founded. As soon as this was attempted, there was a new science, and that science was Sociology. Thus it was that, out of the last evolution of History, there sprang up spontaneously the necessity of a new study, which was to constitute a new science, in order to present distinctly a new natural order, that is, the order of Society.
 
-SECTION 5
+## SECTION 5
 
 Method of Sociology.—Sociology is like every other science: it needs a procedure of its own, founded on the real conditions of the knowledge it is to furnish and on the effective functions of the reason that is to acquire that knowledge. In order to know, then, what the method of Sociology must be, we must bear in mind, in the first place, that it is an abstract science, or one of general knowledge, or one that has for its exclusive object the investigation of laws of Nature; and, in the second place, that the knowledge it is to furnish must present itself to reason in the form of a whole, a collection or a system, as much by reason of the character of the science itself as inasmuch as the phenomena studied present themselves in series.
 
@@ -2934,7 +2934,7 @@ Thus, then, the method proper to Social Science obliges us to systematize the in
 
 As the examination of the facts of History, in order to be faithful, must be constantly checked against the nature of the being that realizes them—which is equivalent to saying checked against Society,—the procedure of Sociology must be one of observation, analogy and experiment: of observation, as regards the facts themselves; of analogy, inasmuch as the facts refer to a being of a nature of its own; and of experiment, inasmuch as only upon the logical and congruent repetition of the facts can we found ourselves in order to declare that there is a given order in the nature of Humanity.
 
-SECTION 6
+## SECTION 6
 
 What is seen in History.—In order that Sociology might be organized, might find and give itself as its regime the method that we have just found, it was necessary that History should be able to present to us in an effective and
 
@@ -2964,7 +2964,7 @@ Second result: employment of the same means, whatever may have been, may be, or 
 
 Third result: one same experience, and the same capacity to found upon it a development, ever more rational and conscientious, of the human species in general, and of Society in particular.
 
-SECTION 7
+## SECTION 7
 
 Induced truths.—From the correspondence we have just noted between the data that History furnishes to Sociology and the results of those data, six absolute truths are inferred.
 
@@ -2998,7 +2998,7 @@ It is plain that the science thus founded upon the existence of the order which 
 
 Natural laws of Society.—The natural laws upon which Society is founded are: first, the Law of Sociability; second, the Law of Labour; third, the Law of Liberty; fourth, the Law of Progress; fifth, the Law of Conservation; and, sixth, the Law of Civilization or Law of the Ideal.
 
-SECTION 8
+## SECTION 8
 
 Definition of the natural laws of Society. Law of Sociability.—Sociability is: the property of being sociable, which man possesses.
 
@@ -3082,7 +3082,7 @@ That civilization is the destiny of the human being, the whole history of men ma
 
 — 230 — Logic, establish that civilization or the development of social rationality is a consequence or effect of the development of collective life, and that this development is the cause of that effect. This agency of that cause and that effect being continual and invariable, we may affirm that there is a natural law in this succession of causes and effects. This law is civilization, and civilization is the continual ideal of collective man.
 
-SECTION 9
+## SECTION 9
 
 What order is.—In reality, instead of ascertaining what the order is, or what kind of order it is that derives from the unwritten laws of Society, what it in fact falls to us to ascertain is whether there is an order that derives exactly from those laws; because, once this is ascertained, we shall know, in consequence, that this is the natural order of societies, or, in other terms, that there is a natural order of societies, which is completely independent of the artificial efforts that men may make to give stability and regularity to the societies they establish.
 
@@ -3140,7 +3140,7 @@ By this simple difference it will be seen that, if each one of the social laws h
 
 From this examination of the correspondence between all the natural laws of Society and the social order, it results that this order is in the very nature of societies; that it is connatural to them; that it develops in proportion to the continuity and influence with which the natural laws are applied, or that it can be promoted or favoured, in a fruitful and efficacious manner, by making use of those same natural laws and applying them with reflection, constancy and conscience to their natural object, which is: the production of the social order.
 
-SECTION 10
+## SECTION 10
 
 In what the natural order of Society consists.—We have just seen that there is a natural order of Society; that that order is immanent and pre-established, or established beforehand in natural laws; we have also seen what order that is and how it results from the exact application of the natural laws of Society; but we are going to make it still more perceptible, by trying to ascertain in what it consists.
 
@@ -3164,7 +3164,7 @@ To say that is to say, also, that in no manner is the mere equilibrium order to 
 
 Whether Society ought to submit itself to the social order. Clear and evident it is that Society ought to submit itself to that natural order, since it is the only one in which it would be granted to it to develop all its natural forces and to fulfil all the effective ends of social life. Without a doubt, no society would fail to submit itself to the natural order, if the knowledge of the cause of that order were so familiar that all Societies knew it. But, since they do not know it, they cannot impose it either upon their institutions, or upon their laws, or upon their parties and functions, or upon their publicists, or upon their statesmen. Hence it is that even organized Societies easily waver upon their foundations, each time that, through the continual infraction of the natural laws, an unforeseen catastrophe presents itself.
 
-SECTION 11
+## SECTION 11
 
 Division of Sociology.—The study of Sociology embraces, in reality, an abs-
 
@@ -3176,7 +3176,7 @@ Theoretical Sociology.—Let us occupy ourselves with the first. In short, Theor
 
 Practical Sociology.—Practical Sociology is no more than: the study of the means and manner of placing Society in those conditions, in order to adapt any social life whatever to the conditions of the natural order.
 
-SECTION 12
+## SECTION 12
 
 Notions of Theoretical Sociology.—The notions of Theoretical Sociology confine themselves to setting forth the characters and the nature of Society, and the body of natural conditions which by themselves alone suffice to produce the natural order of Society, if the free activity of the Individual and of the social groups did not continually hinder the fulfilment of the unwritten laws upon which Nature has founded the real order of human association.
 
@@ -3204,7 +3204,7 @@ The most important.—The most important of all the organs of the social organis
 
 So that, the principle and the means being equally important, and there being no Society without individuals, nor individuals without Society, none of the intermediate groups (Family, Municipality, etc.) would exist if the Individual did not exist; therefore, the most important organ of all those of the social organism is the Individual.
 
-SECTION 13
+## SECTION 13
 
 Part which the Individual plays as an integrant of Society.—The Individual, being, as he is, the element of every social group, in every so-
 
@@ -3244,7 +3244,7 @@ This last—be it said with all reserve—seems probably to be the most exact of
 
 This, above all, is its merit: it is founded upon an exact observation of the nature of Society, and upon a positive analysis of the end of each one of the integrants of Society itself.
 
-SECTION 14
+## SECTION 14
 
 Notions of Practical Sociology.—The order which derives from the natural laws of Society is: first, natural; second, universal. Natural, because it has its foundations in the very nature of Society, and can in no way be established outside its natural foundations. Universal, because it embraces all societies, and all the states of societies.
 
@@ -3260,7 +3260,7 @@ Sociology—whose object is the knowledge of that necessary, or fatal, order of 
 
 The Sociology which follows the first road is called theoretical, and is the abstract science. That which follows the other road is called practical, and is the concrete, or applied, science.
 
-SECTION 15
+## SECTION 15
 
 Application of Sociology to “Politics”. Although Sociology always draws its inspiration from History, as much to discover the nature of Society as to link together the data which it receives from it, it may nevertheless be said that Practical Sociology is the one which truly takes from History the facts and the reason of the facts, which it afterwards relates to determinate manifestations of social reality, thus giving them a practical and positive end, as well as a scientific one.
 
@@ -3300,7 +3300,7 @@ In the second case, as soon as we refer the facts which we do not understand to 
 
 What is said of the sciences and activities enumerated is said, also, of any others whatever; because Practical Sociology can be referred to all of them, and it illuminates all of them with a vivid light.
 
-THE END
+## THE END
 
 [PDF 259]
 
@@ -3318,7 +3318,7 @@ ence.—22. The effective method.—23. How a science ought
 
 to be studied.—24. How we shall study Sociology.—25. Plan
 
-BOOK I
+## BOOK I
 
 Theoretical Sociology. CHAPTER I.—Intuitive Sociology.—1-4. Life in society.              21 Social facts.—5-11. What social facts are like.—12-19. How they present themselves in History.—20. Intuitive concept or judgment CHAPTER II.—Inductive Sociology.—1. Object of this                 28 chapter.—2. Formula of the intuitive judgment on Society.—3 and 4. Examination of this judgment. 5-7. Functions of social life.—8 and 9. The social order.—10-22. Classification of the social functions. Justification of such a classification.—23. Inductive judgment on Society CHAPTER III.—Deductive Sociology.—1. Formula of the inductive judgment on Society.—2. Natural laws of Society.— 3. How many are the natural laws of Society.—4. Which are the natural laws of Society.—5 and 6. Classification of the natural laws of Society.
 
@@ -3356,7 +3356,7 @@ scientific organization of Sociology.—17. What would have to
 
 be done
 
-BOOK II
+## BOOK II
 
 Expository Sociology. CHAPTER I.—Object of this Book. Definition and Division             65
 
@@ -3606,7 +3606,7 @@ of societies Section 3.—Cure of social diseases. Social therapeutics.— 205
 
 ic diseases.—44. Moral diseases.—45. Intellectual diseases
 
-BOOK III
+## BOOK III
 
 Notions of Sociology.—Summary. Section 1.—Name of the Science.—Place which it occupies in 209
 
@@ -3790,7 +3790,7 @@ Unpublished.
 
 [PDF 271]
 
-NEWSPAPERS
+## NEWSPAPERS
 
 “Hostos leaves written and published a number of books of great substance and interest for the sociologist, the moralist and the jurisconsult. His Lecciones de Derecho Constitucional, his Moral Social, his Juicio crítico de Hamlet, his Reseña histórica de Puerto Rico, his Reforma de la enseñanza del Derecho, his Descentralización administrativa, his Proyecto de Ley general de Enseñanza pública, his Enseñanza científica de la mujer, his Cartas públicas acerca de Cuba, accredit him as a great thinker, a great philosopher and a great pedagogue.”
 
@@ -4028,6 +4028,6 @@ BOOK I P. 50. No. 17. Read: “..... and in negative relation to the lesser degr
 
 BOOK II P. 77. No. 18. Statement of the Law of Progress.—It is as follows: “Progress is in positive relation to Education, and in negative relation to the lesser degree of perfecting.” P. 78. No. 19. Statement of the Law of the Ideal.—It reads thus: “The Ideal of the Good is in direct ratio to the development of Morals, and in inverse ratio to the individual and collective incapacity to know religious or moral ends.”
 
-BOOK III
+## BOOK III
 
 Instead of Section, from the 1st to the 15th, as the book has it, the heading of each one of them should be Lesson.

@@ -26,9 +26,7 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 examined by Dr. F. *Exner*, Full Professor of Philosophy at the Imperial and Royal University of Prague.
 
-> Leipzig, Friedrich Fleischer. 1842.
-
-Leipzig, Friedrich Fleischer. 1842.
+#### Leipzig, Friedrich Fleischer. 1842.
 
 [scan 8]
 
@@ -494,9 +492,7 @@ Page 105, line 16 from top, read: *den* for: *der*.
 
 examined by Dr. F. *Exner*, Full Professor of Philosophy at the Imperial and Royal University of Prague.
 
-> Leipzig, Friedrich Fleischer. 1844.
-
-Leipzig, Friedrich Fleischer. 1844.
+#### Leipzig, Friedrich Fleischer. 1844.
 
 > [scan 130] Das Schriftchen: „Die Psychologie der Hegelschen Schule, Leipzig bei Fr. Fleischer 1842“ war nicht darauf berechnet, eine Fortsetzung zu erhalten; wenn es nun doch geschieht, so glaub’ ich damit eine Pflicht gegen die Wissenschaft, und eine andere gegen mich selbst zu erfüllen.
 

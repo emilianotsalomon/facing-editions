@@ -20,35 +20,35 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 [PDF 1]
 
-> Educ 1557.1.3 OBRAS ESCOGIDAS DE Cubana AUTORES CUBANOS , EN PROSA Y VERSO Biblioteca                               COLECCIONADASPOR Alfredo Zayas Alfonso TOMO          PRIMERO OBRAS COMPLETAS DE la           Luz Caballero 22222222                    de VOLUMEN          PRIMERO José Don HABANA LITERARIA - LA PROPAGANDA -                           - - IMPRENTA       ESTEREOTIPIA         GALVANOPLASTIA              LIBRERÍA - Zulueta    28      entre Virtudes 1890 y   Animas
+> ## Educ 1557.1.3 ## OBRAS ESCOGIDAS DE ## Cubana AUTORES CUBANOS , EN PROSA Y VERSO Biblioteca                               COLECCIONADASPOR ## Alfredo Zayas Alfonso ## TOMO          PRIMERO ## OBRAS COMPLETAS DE la           Luz Caballero 22222222                    de ## VOLUMEN          PRIMERO José Don ## HABANA ## LITERARIA - ## LA PROPAGANDA -                           - - ## IMPRENTA       ESTEREOTIPIA         GALVANOPLASTIA              LIBRERÍA - Zulueta    28      entre Virtudes 1890 y   Animas
 
-L   ibrary Cuban
+## L   ibrary Cuban
 
-SELECTED WORKS
-
-OF
-
-CUBAN AUTHORS, IN PROSE AND VERSE
-
-COLLECTED BY
-
-Alfredo Zayas Alfonso
-
-Volume the First
-
-COMPLETE WORKS
+## SELECTED WORKS
 
 OF
 
-DON JOSÉ DE LA LUZ CABALLERO
+## CUBAN AUTHORS, IN PROSE AND VERSE
+
+## COLLECTED BY
+
+## Alfredo Zayas Alfonso
+
+## Volume the First
+
+## COMPLETE WORKS
+
+OF
+
+## DON JOSÉ DE LA LUZ CABALLERO
 
 Volume One
 
-H AVA N A
+## H AVA N A
 
-LA PROPAGANDA LITERARIA
+## LA PROPAGANDA LITERARIA
 
-PRINTING — STEREOTYPING — ELECTROTYPING — BOOKSHOP
+## PRINTING — STEREOTYPING — ELECTROTYPING — BOOKSHOP
 
 Zulueta—28—between Virtudes and Animas
 
@@ -56,13 +56,13 @@ Zulueta—28—between Virtudes and Animas
 
 [PDF 2]
 
-SELECTED WORKS OF CUBAN
+## SELECTED WORKS OF CUBAN
 
-AUTHORS
+## AUTHORS
 
-IN PROSE AND VERSE
+## IN PROSE AND VERSE
 
-VOLUME THE FIRST
+## VOLUME THE FIRST
 
 [PDF 3]
 
@@ -70,29 +70,29 @@ D on J osé de la L uz C aballero .
 
 [PDF 4]
 
-> DE DON JOSE DE LA LUZ = CABALLERO coleccionadas y publicadas POR ALFREDO ZAYAS ALFONSO VOLUMEN              I HABANA LA PROPAGANDA LITERARIA , Imprenta   - ZULUETA -      -   - PremiadaenvariasExposiciones Estereotipia  Galvanoplastia NUM 28    ,           . . Librería   Papelería 1890
+> DE ## DON JOSE DE LA LUZ = ## CABALLERO ## coleccionadas y publicadas POR ## ALFREDO ZAYAS ALFONSO ## VOLUMEN              I ## HABANA LA PROPAGANDA LITERARIA , Imprenta   - ZULUETA -      -   - PremiadaenvariasExposiciones Estereotipia  Galvanoplastia ## NUM 28    ,            . Librería   Papelería 1890
 
 OF
 
-DON JOSÉ DE LA LUZ CABALLERO
+## DON JOSÉ DE LA LUZ CABALLERO
 
-collected and published
+## collected and published
 
 BY
 
-ALFREDO ZAYAS ALFONSO
+## ALFREDO ZAYAS ALFONSO
 
-Volume I
+## Volume I
 
-H AVA N A
+## H AVA N A
 
-LA PROPAGANDA LITERARIA.
+## LA PROPAGANDA LITERARIA
 
 Awarded prizes at various Exhibitions.
 
 Printing — Stereotyping — Electrotyping — Bookshop — Stationery
 
-ZULUETA, NO. 28
+## ZULUETA, NO. 28
 
 1890
 
@@ -100,13 +100,13 @@ Translator’s note. Each English page faces, and ends where, its page of the 18
 
 [p. 00]
 
-> Don José de la Luz Caballero NOTICIA BIOGRAFICA N             ACIÓ en la Habana el día 11 de Julio del año 1800 , siendo sus padres el Teniente Coronel de Milicias y Regidor perpetuo del Ayuntamiento habanero , D. Antonio de la Luz , y la piadosa y respetable señora D. Manuela Te-resa Caballero . Su educación fué dirigida por su tío materno , el por muchos títulos notable Presbítero D. José Agustín Caballero . En el convento de San Fran-cisco , en la Real y Pontificia Universidad y en el Seminario de San Carlos , hizo estudios de latini-dad , filosofía , derecho y teología . ( 1 ) * En 1817 disertó públicamente acerca de una cuestión jurídica . ( 2 ) En el propio año se (1 )   Los datos biográficos precedidos del signo (2 )   V. el apéndice núm . 1. * son inéditos .
+> ## Don José de la Luz Caballero ## NOTICIA BIOGRAFICA N             ACIÓ en la Habana el día 11 de Julio del año 1800 , siendo sus padres el Teniente Coronel de Milicias y Regidor perpetuo del Ayuntamiento habanero , D. Antonio de la Luz , y la piadosa y respetable señora D. Manuela Te-resa Caballero . Su educación fué dirigida por su tío materno , el por muchos títulos notable Presbítero D. José Agustín Caballero . En el convento de San Fran-cisco , en la Real y Pontificia Universidad y en el Seminario de San Carlos , hizo estudios de latini-dad , filosofía , derecho y teología . ( 1 ) * En 1817 disertó públicamente acerca de una cuestión jurídica . ( 2 ) En el propio año se (1 )   Los datos biográficos precedidos del signo (2 )   V. el apéndice núm . 1. * son inéditos .
 
 ❖      ❖     ❖     ❖     ❖      ❖     ❖     ❖     ❖      ❖     ❖     ❖      ❖    ❖
 
-Don José de la Luz Caballero
+## Don José de la Luz Caballero
 
-BIOGRAPHICAL NOTICE
+## BIOGRAPHICAL NOTICE
 
 He was born in Havana on the 11th of July of the year 1800, his parents being Lieutenant Colonel of Militia and perpetual Alderman of the Havana Town Council, Don Antonio de la Luz, and the pious and respectable lady Doña Manuela Teresa Caballero.
 
@@ -230,13 +230,13 @@ A. Z. Havana 1890.
 
 [PDF 11]
 
-> ACERCA DE Don José de la Luz Caballero El maestro de todas las ciencias . ( Calificación   popular . ) ¿Con cuál de los sabios de Europa tengo el honor de hablar ? (Frase de Walter Scott , al visitarle Luz , en 1829. ) Hombre de talento , muy instruido en las ciencias .... de -conversación á la par animada é instructiva . ( Humboldt .      1829 ) ( 1 ) Ilustre patricio .... honra y prez de nuestro suelo , y á quien tanto debe su patria por más de un título .. Infini- tas pruebas nos ha dado del generoso temple de su alma , (1 )   Cartas á Emilio Aragó y á Luz , que guardo originales .
+> ## ACERCA DE Don José de la Luz Caballero El maestro de todas las ciencias . ( Calificación   popular . ) ¿Con cuál de los sabios de Europa tengo el honor de hablar ? (Frase de Walter Scott , al visitarle Luz , en 1829. ) Hombre de talento , muy instruido en las ciencias .... de -conversación á la par animada é instructiva . ( Humboldt .      1829 ) ( 1 ) Ilustre patricio .... honra y prez de nuestro suelo , y á quien tanto debe su patria por más de un título .. Infini- tas pruebas nos ha dado del generoso temple de su alma , (1 )   Cartas á Emilio Aragó y á Luz , que guardo originales .
 
 ❖      ❖     ❖      ❖     ❖      ❖     ❖      ❖     ❖      ❖     ❖         ❖   ❖     ❖     ❖
 
-VARIOUS OPINIONS
+## VARIOUS OPINIONS
 
-concerning
+## concerning
 
 Don José de la Luz Caballero
 
@@ -258,11 +258,11 @@ Illustrious patrician.... honor and glory of our soil, and one to whom his count
 
 [p. 12]
 
-> como de su profunda y variada instrucción en los ramos del verdadero saber , utilizados eminentemente por su acen-drado amor á la patria . (Pbro . Francisco Ruiz . 1839 ) ( 1 ) D. José de la Luz Caballero es el literato de más presti-gio en la Habana ; pero creo yo que le conviene más el nom-bre de sabio que el de literato . Sus escritos suelen ser pro-fundos , pero demasiado escolásticos . Al través de sus vas-tos conocimientos , especialmente filosóficos , se trasluce un mal gusto de dicción ...... Algunos artículos de filosofia in-sertos en el " Diario de la Habana " revelan un profundo sa-ber , pero la controversia es de aula ...... Nos parece que el señor de la Luz es demasiado buen maestro para ser gran-de escritor . (J. Salas y Quiroga ) ( 2) Sólo depende quizás de circunstancias favorables el que los nombres de D. José Antonio Saco , D. José de la Luz y D. Domingo del Monte , se vean rodeados de un brillo eu-ropeo . D. José de la Luz es una inteligencia delicada , penetran-te , químico de primer orden , notable filólogo , escritor de talento . ( La Condesa de Merlín ) (3 ) En filosofia Luz alcanza el puesto más elevado . (R. R. Madden ) (4) No ha dejado Vd. nunca de ser mirado por mí, con los mayores sentimientos de afecto y los más sinceros de respeto y veneración , porque en mi largo trato con los hom- -- (1 ) Diario de la Habana . (2 ) Madrid 1840 . - - (3 ) La Havane Bruselas 1844. Tomo IV , pág . 13 . (4) The Island of Cuba its resources , etc. Londres , 1853 .
+> como de su profunda y variada instrucción en los ramos del verdadero saber , utilizados eminentemente por su acen-drado amor á la patria . ## (Pbro . Francisco Ruiz . 1839 ) ( 1 ) D. José de la Luz Caballero es el literato de más presti-gio en la Habana ; pero creo yo que le conviene más el nom-bre de sabio que el de literato . Sus escritos suelen ser pro-fundos , pero demasiado escolásticos . Al través de sus vas-tos conocimientos , especialmente filosóficos , se trasluce un mal gusto de dicción ...... Algunos artículos de filosofia in-sertos en el " Diario de la Habana " revelan un profundo sa-ber , pero la controversia es de aula ...... Nos parece que el señor de la Luz es demasiado buen maestro para ser gran-de escritor . (J. Salas y Quiroga ) ( 2) Sólo depende quizás de circunstancias favorables el que los nombres de D. José Antonio Saco , D. José de la Luz y D. Domingo del Monte , se vean rodeados de un brillo eu-ropeo . D. José de la Luz es una inteligencia delicada , penetran-te , químico de primer orden , notable filólogo , escritor de talento . ( La Condesa de Merlín ) (3 ) En filosofia Luz alcanza el puesto más elevado . (R. R. Madden ) (4) No ha dejado Vd. nunca de ser mirado por mí, con los mayores sentimientos de afecto y los más sinceros de respeto y veneración , porque en mi largo trato con los hom- -- (1 ) Diario de la Habana . (2 ) Madrid 1840 . - - (3 ) La Havane Bruselas 1844. Tomo IV , pág . 13 . (4) The Island of Cuba its resources , etc. Londres , 1853 .
 
 as of his profound and varied instruction in the branches of true knowledge, eminently turned to account by his unalloyed love of country.
 
-(Fr. Francisco Ruiz. 1839) (1)
+## (Fr. Francisco Ruiz. 1839) (1)
 
 Don José de la Luz Caballero is the man of letters of greatest prestige in Havana; but I believe the name of sage suits him better than that of man of letters. His writings are usually profound, but too scholastic. Through his vast knowledge, especially in philosophy, there shows a bad taste in diction...... Some articles on philosophy inserted in the “Diario de la Habana” reveal a profound learning, but the controversy is of the lecture hall...... It seems to us that Mr. de la Luz is too good a teacher to be a great writer.
 
@@ -338,7 +338,7 @@ His literary merits came down to the publication of a little teaching treatise u
 
 [p. 15]
 
-> .... La indeterminación de la escuela filosófica de Luz Caballero , y la confusión en sus doctrinas . (J. Zaragoza ) ( 1 ) D. José de la Luz amaba á su patria , la Isla de Cuba , con el amor purisimo de que sólo son capaces los espí-ritus tan bien templados como el suyo ; y soñando siem-pre con el engrandecimiento , la felicidad y el progreso de su país , en el sentido cristiano y filosófico de estas palabras , le pareció con fundamento que no había medio más seguro ni más legítimo para llegar á ese fin noble , que preparar las almas , formando el pueblo para quien tanto ausiaba aquellos beneficios . El fin , pues , del señor Luz , era eminentemente patriótico ; y como lo llevaba á efecto con verdadera consagración , con abnegación com-pleta , y al mismo tiempo con decidido empeño y con acierto reconocido , la influencia de su palabra y de su ejemplo llegó á hacerse poderosa , inmortalizándose su nombre en el país . .... Lo mismo era en Matemáticas que en Física ó en Historia    Natural , lo mismo         en las clases de ciencias , como en las de lenguas , así       clásicas como vivas , en don-de quiera su palabra          se oía , y se oía con gusto y con provecho .... .... Con decir que era un patriota en la mejor y más lata acepción del término , que amaba decididamente la hermosa tierra en que vió la luz , y que su patriotismo nunca tibio ni adormecido , sino enérgico y vigilante , se hallaba siempre en ejercicio aunque constantemente en armonía con los sentimientos más elevados y puros de religión y moralidad , se tendría ........ una espresión exac-ta de las ideas políticas del Sr. Luz . .... Si la reputación de que gozó D. José de la Luz en la Isla de Cuba como hombre público , como patriota , T.      Madrid , 1873 . (1)   Las insurrecciones   de Cuba   - II -
+> .... La indeterminación de la escuela filosófica de Luz Caballero , y la confusión en sus doctrinas . ## (J. Zaragoza ) ( 1 ) D. José de la Luz amaba á su patria , la Isla de Cuba , con el amor purisimo de que sólo son capaces los espí-ritus tan bien templados como el suyo ; y soñando siem-pre con el engrandecimiento , la felicidad y el progreso de su país , en el sentido cristiano y filosófico de estas palabras , le pareció con fundamento que no había medio más seguro ni más legítimo para llegar á ese fin noble , que preparar las almas , formando el pueblo para quien tanto ausiaba aquellos beneficios . El fin , pues , del señor Luz , era eminentemente patriótico ; y como lo llevaba á efecto con verdadera consagración , con abnegación com-pleta , y al mismo tiempo con decidido empeño y con acierto reconocido , la influencia de su palabra y de su ejemplo llegó á hacerse poderosa , inmortalizándose su nombre en el país . .... Lo mismo era en Matemáticas que en Física ó en Historia    Natural , lo mismo         en las clases de ciencias , como en las de lenguas , así       clásicas como vivas , en don-de quiera su palabra          se oía , y se oía con gusto y con provecho .... .... Con decir que era un patriota en la mejor y más lata acepción del término , que amaba decididamente la hermosa tierra en que vió la luz , y que su patriotismo nunca tibio ni adormecido , sino enérgico y vigilante , se hallaba siempre en ejercicio aunque constantemente en armonía con los sentimientos más elevados y puros de religión y moralidad , se tendría ........ una espresión exac-ta de las ideas políticas del Sr. Luz . .... Si la reputación de que gozó D. José de la Luz en la Isla de Cuba como hombre público , como patriota , T.      Madrid , 1873 . (1)   Las insurrecciones   de Cuba   - II -
 
 ....The indeterminacy of Luz Caballero’s philosophical school, and the confusion in his doctrines.
 
@@ -368,13 +368,13 @@ The scholar as well as the ignorant, the sage as well as the layman, respected i
 
 [p. 17]
 
-> vidad incansable , el caudal de sus conocimientos se aumen-taba constantemente y afirmaba su doctrina esencialmente armónica y comprensiva . ( José Ignacio Rodríguez .)       ( 1) -¿Cuáles fueron sus oficios más principales ? -Los de salvador y maestro . Ripalda . .... Ese hombre era la gloria de Cuba .... Ese hom-bre era más que un erudito , era un tesoro de manse-dumbre evangélica , un océano de amor infinito , en su corazón cabía la humanidad entera ; era una roca inque-brantable  en el cumplimiento del deber ; un defensor enérgico de los fueros de la justicia ; un obstáculo inven-cible para los corruptores del individuo y de la sociedad , era un sabio , un filósofo , un salvador , un maestro ; era uno de esos pocos bienhechores de los hombres que la historia recuerda de tiempo en tiempo , y hacia quienes la humanidad      vuelve confiada los ojos para fortalecerse en su amor , para     templarse en su palabra ; era un Con-fucio , un Sócrates , un Cristo ; era , en fin, D. José de la Luz Caballero , era D. Pepe . Maestro no sólo de todas las ciencias , sino lo que es más , de todas las virtudes      .... acabado modelo de pa-triotismo , de afabilidad , de benevolencia universal , hom-bre sin hiel , severo hasta el exceso para consigo mismo , indulgente hasta la debilidad para con todos los hombres ; predicador de la paz y del trabajo ; enemigo de la tiranía y de la perversidad ;     opuesto á toda medida violenta , es-clavo siempre de la ley . ¿Dónde están las obras de D. Pepe ? Ciegos son los que no las vean , muy ignorantes los que no las compren-dan .   ¿Dónde están las obras de Sócrates ?       En la historia de Grecia , en una fórmula : "conócete á         tí mismo . " ¿Dónde 2 (1)   Vida de D. José de la Luz Caballero .--Nueva York , 1874 .
+> vidad incansable , el caudal de sus conocimientos se aumen-taba constantemente y afirmaba su doctrina esencialmente armónica y comprensiva . ## ( José Ignacio Rodríguez .)       ( 1) -¿Cuáles fueron sus oficios más principales ? -Los de salvador y maestro . Ripalda . .... Ese hombre era la gloria de Cuba .... Ese hom-bre era más que un erudito , era un tesoro de manse-dumbre evangélica , un océano de amor infinito , en su corazón cabía la humanidad entera ; era una roca inque-brantable  en el cumplimiento del deber ; un defensor enérgico de los fueros de la justicia ; un obstáculo inven-cible para los corruptores del individuo y de la sociedad , era un sabio , un filósofo , un salvador , un maestro ; era uno de esos pocos bienhechores de los hombres que la historia recuerda de tiempo en tiempo , y hacia quienes la humanidad      vuelve confiada los ojos para fortalecerse en su amor , para     templarse en su palabra ; era un Con-fucio , un Sócrates , un Cristo ; era , en fin, D. José de la Luz Caballero , era D. Pepe . Maestro no sólo de todas las ciencias , sino lo que es más , de todas las virtudes      .... acabado modelo de pa-triotismo , de afabilidad , de benevolencia universal , hom-bre sin hiel , severo hasta el exceso para consigo mismo , indulgente hasta la debilidad para con todos los hombres ; predicador de la paz y del trabajo ; enemigo de la tiranía y de la perversidad ;     opuesto á toda medida violenta , es-clavo siempre de la ley . ¿Dónde están las obras de D. Pepe ? Ciegos son los que no las vean , muy ignorantes los que no las compren-dan .   ¿Dónde están las obras de Sócrates ?       En la historia de Grecia , en una fórmula : "conócete á         tí mismo . " ¿Dónde 2 (1)   Vida de D. José de la Luz Caballero .--Nueva York , 1874 .
 
 the store of his knowledge kept constantly increasing and confirmed his essentially harmonious and comprehensive doctrine.
 
-(José Ignacio Rodríguez.) (1)
+## (José Ignacio Rodríguez.) (1)
 
-—What were his chief offices?
+## —What were his chief offices?
 
 —Those of savior and master.
 
@@ -464,13 +464,13 @@ He left to his country the example of his life; a life without stain, the prodig
 
 [p. i]
 
-APHORISMS
+## APHORISMS
 
 [PDF 23]
 
-> ADVERTENCIAS                        (1) N. B. En la Habana empecé á recojer unos aforismos por este estilo , que llegaban á unos 50660. Era en Junio de 1842 , en el Cerro , al lado de mi ídolo , de mi Mariana y de mi Luisa : " Cuando Dios quería . " -¿Cuándo querrá ? (París , Enero 2 de 1844. ) N. B. Me abstengo de hablar todavía de aquello mismo en que me han dado más caudal el sentimiento y la obser-vación ; porque en el estado endeble de mi salud , causa ex-clusiva por la que me separé de los dos pedazos de mi cora-zón , me excitaría sobremanera : á saber : "amor , matrimonio , -amistad y enfermedad . " ¡ Y la mina del desengaño ? [ aunque para esa tengo dos inagotables bien creo ( á puño religión y filosofia ] cerrado ) en la virtud y amistad , más que -si nadie . (Enero 5 de 1844 ) N.   B.     Hay algunos aforismos que sólo son motivos pa-ra pensar . -agregarse después de " Junio de 1842" , un paréntesis que dice . " (y al reproducirlo ahora " mi viene il ribrezzo . " ( Α . Ζ .) (1) Las dos primeras notas que siguen constan en un pequeño cua-derno donde aparecen sólo 15 pensamientos ó proposiciones de fecha anterior á dichas notas . En otro cuaderno de nueve hojas de papel co-mún , en el que comenzó Luz á copiar sus aforismos , en 1847 , está la tercera nota , y se copian las dos que la anteceden , expresándose pue-den servir de prólogo ó advertencia á aquellos, y sin otra variante que
+> ## ADVERTENCIAS                        (1) N. B. En la Habana empecé á recojer unos aforismos por este estilo , que llegaban á unos 50660. Era en Junio de 1842 , en el Cerro , al lado de mi ídolo , de mi Mariana y de mi Luisa : " Cuando Dios quería . " -¿Cuándo querrá ? ## (París , Enero 2 de 1844. ) N. B. Me abstengo de hablar todavía de aquello mismo en que me han dado más caudal el sentimiento y la obser-vación ; porque en el estado endeble de mi salud , causa ex-clusiva por la que me separé de los dos pedazos de mi cora-zón , me excitaría sobremanera : á saber : "amor , matrimonio , -amistad y enfermedad . " ¡ Y la mina del desengaño ? [ aunque para esa tengo dos inagotables bien creo ( á puño religión y filosofia ] cerrado ) en la virtud y amistad , más que -si nadie . (Enero 5 de 1844 ) N.   B.     Hay algunos aforismos que sólo son motivos pa-ra pensar . -agregarse después de " Junio de 1842" , un paréntesis que dice . " (y al reproducirlo ahora " mi viene il ribrezzo . " ( Α . Ζ .) (1) Las dos primeras notas que siguen constan en un pequeño cua-derno donde aparecen sólo 15 pensamientos ó proposiciones de fecha anterior á dichas notas . En otro cuaderno de nueve hojas de papel co-mún , en el que comenzó Luz á copiar sus aforismos , en 1847 , está la tercera nota , y se copian las dos que la anteceden , expresándose pue-den servir de prólogo ó advertencia á aquellos, y sin otra variante que
 
-P reliminary N otes (1)
+## P reliminary N otes (1)
 
 N. B.—In Havana I began to collect some aphorisms in this style, which came to some 50 or 60. It was in June of 1842, at the Cerro, at the side of my idol, of my Mariana and of my Luisa: “When God so willed.”—When will He will it?
 
@@ -486,11 +486,11 @@ N. B.—There are some aphorisms that are only motives for thinking.
 
 [p. 308]
 
-> RELIGION (LOS AFORISMos      no precedIDOS POR UN          SON INÉDITOS ) . I ( Sin fecha )   .-¡Ah   !   El cristianismo ! el cristianismo ! el cristianismo ! "Tantum   religio potuit suadere bonorum ! " (en lugar de malorum como cantó Lucrecio ) . Esta creencia honra y deshonra á la humanidad .               Hón-rala , porque se funda en el amor y aprecio del bien grabado en nuestros corazones ; deshónrala , porque vende á la legua la flaqueza de su razón , ó el predominio de las pasiones . II (Idem )   . La religión es una potencia harmonizadora ; con- desgraciados   , y freno de los favorecidos por la suelo de los fortuna , " sperate  miseri  , cavete felices ." III (         .- Idem ) ¿Quién creyera que por medio de la încredulidad hemos vuelto à la cristiandad ? * Aunque son pocos los buenos buenos , no son tantos los malos como vulgarmente se cree .
+> ## RELIGION (LOS AFORISMos      no precedIDOS POR UN          SON INÉDITOS ) . I ( Sin fecha )   .-¡Ah   !   El cristianismo ! el cristianismo ! el cristianismo ! "Tantum   religio potuit suadere bonorum ! " (en lugar de malorum como cantó Lucrecio ) . Esta creencia honra y deshonra á la humanidad .               Hón-rala , porque se funda en el amor y aprecio del bien grabado en nuestros corazones ; deshónrala , porque vende á la legua la flaqueza de su razón , ó el predominio de las pasiones . II (Idem )   . La religión es una potencia harmonizadora ; con- desgraciados   , y freno de los favorecidos por la suelo de los fortuna , " sperate  miseri  , cavete felices ." III (         .- Idem ) ¿Quién creyera que por medio de la încredulidad hemos vuelto à la cristiandad ? * Aunque son pocos los buenos buenos , no son tantos los malos como vulgarmente se cree .
 
 ❖     ❖    ❖    ❖     ❖    ❖     ❖    ❖      ❖   ❖    ❖     ❖    ❖     ❖    ❖
 
-R eligion
+## R eligion
 
 (T he aphorisms not preceded by a * are previously unpublished .)
 
@@ -514,7 +514,7 @@ III
 
 [p. 28]
 
-> " Potens est Deus de lapidibus istis suscitare etc."     Po . dría decirse : " potens est Deus de fulminibus istis suscitare filios Abrahæ . ( Jesu ? ) " ¿Quién puede dudar que el filantropismo de la época es hijo legítimo del siglo XVIII ? Porque es menester ser im-parciales ; fuera de que así queda Dios más glorificado . IV (Junio 6 de 1842 )  .-El hombre no puede ser el término entre Dios y la creación . V (Junio 7) . La cruz , escala entre el cielo y la tierra . VI (París . Diciembre ma del alma . 28 de 1843 ) .   -   * La religión es el al- VII (Enero 15 de 1844   .- VIII (Enero 24 de 1845 ) . ma. (1 ) . -   * 1º La religión es el alma del al- 2.   Gran necesidad de la época : Religión ! 3.   El fenómeno más admirable de la historia : La Iglesia . 4.   Es menester una religión á todo trance . 5° La religión , verdadera piedra filosofal, que hasta la eścoria la convierte en oro , la desventura en alborozo . 6. Sin ella no hay amor , y sin amor es la tierra un yer-mo espantoso , no ya un valle de lágrimas , que es mil veces -en París en 1843." ( Α . Ζ .) á continuación :   " También lo tuve * ¡ Admirable providencia ! -No man-dar Dios grandes trabajos  á las almas pequeñas ! (1) El manuscrito de Luz dice
+> " Potens est Deus de lapidibus istis suscitare etc."     Po . dría decirse : " potens est Deus de fulminibus istis suscitare filios Abrahæ . ( Jesu ? ) " ¿Quién puede dudar que el filantropismo de la época es hijo legítimo del siglo XVIII ? Porque es menester ser im-parciales ; fuera de que así queda Dios más glorificado . IV (Junio 6 de 1842 )  .-El hombre no puede ser el término entre Dios y la creación . V (Junio 7) . La cruz , escala entre el cielo y la tierra . ## VI (París . Diciembre ma del alma . 28 de 1843 ) .   -   * La religión es el al- VII (Enero 15 de 1844   .- VIII (Enero 24 de 1845 ) . ma. (1 ) . -   * 1º La religión es el alma del al- 2.   Gran necesidad de la época : Religión ! 3.   El fenómeno más admirable de la historia : La Iglesia . 4.   Es menester una religión á todo trance . 5° La religión , verdadera piedra filosofal, que hasta la eścoria la convierte en oro , la desventura en alborozo . 6. Sin ella no hay amor , y sin amor es la tierra un yer-mo espantoso , no ya un valle de lágrimas , que es mil veces -en París en 1843." ( Α . Ζ .) á continuación :   " También lo tuve * ¡ Admirable providencia ! -No man-dar Dios grandes trabajos  á las almas pequeñas ! (1) El manuscrito de Luz dice
 
 “Potens est Deus de lapidibus istis suscitare etc.” [God is able of these stones to raise up etc.] One might say: “potens est Deus de fulminibus istis suscitare filios Abrahæ. (Jesu?)” [God is able of these thunderbolts to raise up children unto Abraham. (Jesus?)]
 
@@ -536,7 +536,7 @@ VII
 
 (January 15, 1844.—* Admirable providence!—That God does not send great trials to small souls!
 
-VIII
+## VIII
 
 (January 24, 1845).—* 1° Religion is the soul of the soul. (1).
 
@@ -580,7 +580,7 @@ Were it not for the two halves of my heart, I should even be glad not to recover
 
 [p. 30]
 
-> X (Mayo 15 ) .-¿Qué es la vida sin fe? No es vida : el infier-no en vida . Para vivir es menester creer sin ver . XI .- (Idem ) El ejercicio del pensamiento , el culto mas acep-table á la Divinidad . XII (Mayo 18 )   .- ¿ Cuál es el asilo universal contra la tirania , contra el mundo , contra la desventura , ó para todas esas causas ? La Religión . La mujer sin religión puede decirse que es más desgra-ciada , y el hombre sin religión menos feliz . XIII ( Mayo 21 ) .- Hállome pendiente como el zancarróu entre el imán del estoicismo y el del cristianismo . Para mí el estoicismo , para el prójimo el cristianismo : bien que todo lo bueno del estoicismo se transfundió en el cristianismo . XI V . (Diciembre 19) -¿Cuál es el espectáculo más bello del Universo ?-El  justo en la desgracia . Cuanto mayor es ésta , tanto nás se hace necesario al hombre refugiarse en una región más elevada . Lo ahoga la atmósfera terrenal si no vuela y se encumbra hasta la celestial . Pero como aquella tampoco es su elemento , vuelve á des-cender á cada paso , ó se queda suspenso entre las dos re-giones . Decreto de la Providencia , que así diviniza al hombre sin
+> X (Mayo 15 ) .-¿Qué es la vida sin fe? No es vida : el infier-no en vida . Para vivir es menester creer sin ver . XI .- (Idem ) El ejercicio del pensamiento , el culto mas acep-table á la Divinidad . XII (Mayo 18 )   .- ¿ Cuál es el asilo universal contra la tirania , contra el mundo , contra la desventura , ó para todas esas causas ? La Religión . La mujer sin religión puede decirse que es más desgra-ciada , y el hombre sin religión menos feliz . ## XIII ( Mayo 21 ) .- Hállome pendiente como el zancarróu entre el imán del estoicismo y el del cristianismo . Para mí el estoicismo , para el prójimo el cristianismo : bien que todo lo bueno del estoicismo se transfundió en el cristianismo . XI V . (Diciembre 19) -¿Cuál es el espectáculo más bello del Universo ?-El  justo en la desgracia . Cuanto mayor es ésta , tanto nás se hace necesario al hombre refugiarse en una región más elevada . Lo ahoga la atmósfera terrenal si no vuela y se encumbra hasta la celestial . Pero como aquella tampoco es su elemento , vuelve á des-cender á cada paso , ó se queda suspenso entre las dos re-giones . Decreto de la Providencia , que así diviniza al hombre sin
 
 X
 
@@ -598,7 +598,7 @@ XII
 
 Woman without religion may be said to be more unhappy, and man without religion less happy.
 
-XIII
+## XIII
 
 (May 21).—I find myself hanging, like Mahomet’s coffin, between the lodestone of stoicism and that of Christianity.
 
@@ -648,13 +648,13 @@ XVI
 
 [p. 32]
 
-> de religión de nuestra época hasta en la clase más ínfima , y en el género femenino , que es lo más lamentable ! A cada paso se tropieza      con la falta de amor entre los hombres : reunidos , no asociados ; hombres , no hermanos ! Hasta cuando , Señor ! " Adveniat regnum tuum ! " No hay pensador que no reconozca el poderío de la reli-gión     y su necesidad . XVII ( Mayo 8 )  .- Hasta del desamor de quien debemos esperar amor consuela la religión , ó la filosofía , para mí reunidas ó confundidas en una . Es necedad creer los hombres que han de encontrar otra panacea en este valle de lágrimas . Los positivistas ( y las positivistas más ) se rien de todos estos remedios espirituales ; y sin embargo indirectamente experimentan su benigno influjo , en el modo conque los tra-tan y curan los que en ellos creen amplectis ulnis . Así es el mundo : toca á algunos atesorar virtudes , para distribuir consuelos . Aquí está el galardón del justo , si es que necesita otro que el testimonio de su conciencia , de Dios . XVIII - - (Madruga . Junio 2 ) .-¡Qué lección y en boca del vene-rable octogenario ! " Cada vez me persuado más , decía , que las faltas se castigan á la larga en este mundo , y á veces con harta severidad    ....No vale amenudo ni previsión ni precaución         Así es menester    resignarse y conformarse con la voluntad    de Dios , " y perdonar , agrego yo . ¿ Y cuando el virtuoso es el blanco de los golpes de la for-tuna ? Este hecho , aunque no tan frecuente como se cree , del mundo moral , desespera y desmoraliza á las almas dé-biles ( que suelen tenerse por fortísimas ) cuando es para mí la prueba más irrefragable de la intervención de la Provi-dencia en este mundo .
+> de religión de nuestra época hasta en la clase más ínfima , y en el género femenino , que es lo más lamentable ! A cada paso se tropieza      con la falta de amor entre los hombres : reunidos , no asociados ; hombres , no hermanos ! Hasta cuando , Señor ! " Adveniat regnum tuum ! " No hay pensador que no reconozca el poderío de la reli-gión     y su necesidad . ## XVII ( Mayo 8 )  .- Hasta del desamor de quien debemos esperar amor consuela la religión , ó la filosofía , para mí reunidas ó confundidas en una . Es necedad creer los hombres que han de encontrar otra panacea en este valle de lágrimas . Los positivistas ( y las positivistas más ) se rien de todos estos remedios espirituales ; y sin embargo indirectamente experimentan su benigno influjo , en el modo conque los tra-tan y curan los que en ellos creen amplectis ulnis . Así es el mundo : toca á algunos atesorar virtudes , para distribuir consuelos . Aquí está el galardón del justo , si es que necesita otro que el testimonio de su conciencia , de Dios . ## XVIII - - (Madruga . Junio 2 ) .-¡Qué lección y en boca del vene-rable octogenario ! " Cada vez me persuado más , decía , que las faltas se castigan á la larga en este mundo , y á veces con harta severidad    ....No vale amenudo ni previsión ni precaución         Así es menester    resignarse y conformarse con la voluntad    de Dios , " y perdonar , agrego yo . ¿ Y cuando el virtuoso es el blanco de los golpes de la for-tuna ? Este hecho , aunque no tan frecuente como se cree , del mundo moral , desespera y desmoraliza á las almas dé-biles ( que suelen tenerse por fortísimas ) cuando es para mí la prueba más irrefragable de la intervención de la Provi-dencia en este mundo .
 
 of religion in our age, even in the lowest class, and in the female sex, which is the most lamentable thing of all! At every step one stumbles upon the lack of love among men: gathered together, not associated; men, not brothers! How long, O Lord! “Adveniat regnum tuum!” [Thy kingdom come!]
 
 There is no thinker who does not acknowledge the power of religion and its necessity.
 
-XVII
+## XVII
 
 (May 8).—Even for the unkindness of those from whom we ought to expect love, religion consoles—or philosophy, for me united or merged into one.
 
@@ -664,7 +664,7 @@ The positivists (and the positivist women more so) laugh at all these spiritual 
 
 Such is the world: it falls to some to hoard up virtues, in order to distribute consolations. Here is the reward of the just man, if indeed he needs any other than the testimony of his conscience, of God.
 
-XVIII
+## XVIII
 
 (Madruga.—June 2).—What a lesson, and from the mouth of the venerable octogenarian!—“Every day I am more persuaded,” he said, “that faults are punished in the long run in this world, and at times with great severity.... Often neither foresight nor precaution avails..... So one must resign oneself and conform to the will of God,” and forgive, I add.
 
@@ -672,11 +672,11 @@ And when the virtuous man is the target of the blows of fortune? This fact of th
 
 [p. 33]
 
-> Ya en otras ocasiones he dicho que ei justo en la desgra-cia es el espectáculo más bello del mundo . La desventura , única corona digna de la virtud. " Quia manus Domini te-ligit me ." ( Job ) . XIX .- (Agosto 30 ) Este empeño de la Providencia por darnos á conocer nuestros deberes , así por la luz de la inteligencia como por los avisos del corazón , dice mucho , ó dice todo , en favor de la excelencia de nuestro ser ; ó por lo menos en abono de la responsabilidad humana . Ante estos hechos calla todo lo demás . XX (Septiembre 5) .   -   Himnos sin fin al Todopoderoso por to-do lo bueno , y lo que parece malo . Siempre fuí profundamente aplaudidor de las obras de Dios , así en el mundo físico como en el moral , y amantísi-mo de la humanidad . ¿Puedo decir más enérgicamente que soy profundamente religioso ? Sí ; que lo que llaman desventura ha subido y purificado los quilates de la religiosidad . Digo lo que llaman , porque no puede haber desventura para el alma religiosa . Sin embargo , hay dolores y grandes dolores , porque son -golpes trascendentales á los que nos tocan más de cerca . Por lo demás , " si Deus est nobiscum ¿quis contra nos ? " ¡ Qué   verdad tan verdad ! XXI -                         - (Septiembre 6 ). Llega uno al punto de menospreciar y de odiar tanto al mayor enemigo del alma la carne que    -tiene que ponerse á buscar razones para justificar su influen-cia en las miras del grande Hacedor . 3
+> Ya en otras ocasiones he dicho que ei justo en la desgra-cia es el espectáculo más bello del mundo . La desventura , única corona digna de la virtud. " Quia manus Domini te-ligit me ." ( Job ) . ## XIX .- (Agosto 30 ) Este empeño de la Providencia por darnos á conocer nuestros deberes , así por la luz de la inteligencia como por los avisos del corazón , dice mucho , ó dice todo , en favor de la excelencia de nuestro ser ; ó por lo menos en abono de la responsabilidad humana . Ante estos hechos calla todo lo demás . XX (Septiembre 5) .   -   Himnos sin fin al Todopoderoso por to-do lo bueno , y lo que parece malo . Siempre fuí profundamente aplaudidor de las obras de Dios , así en el mundo físico como en el moral , y amantísi-mo de la humanidad . ¿Puedo decir más enérgicamente que soy profundamente religioso ? Sí ; que lo que llaman desventura ha subido y purificado los quilates de la religiosidad . Digo lo que llaman , porque no puede haber desventura para el alma religiosa . Sin embargo , hay dolores y grandes dolores , porque son -golpes trascendentales á los que nos tocan más de cerca . Por lo demás , " si Deus est nobiscum ¿quis contra nos ? " ¡ Qué   verdad tan verdad ! XXI -                         - (Septiembre 6 ). Llega uno al punto de menospreciar y de odiar tanto al mayor enemigo del alma la carne que    -tiene que ponerse á buscar razones para justificar su influen-cia en las miras del grande Hacedor . 3
 
 I have said on other occasions that the just man in misfortune is the most beautiful spectacle in the world. Misfortune, the only crown worthy of virtue. “Quia manus Domini tetigit me.” [For the hand of the Lord hath touched me.] (Job).
 
-XIX
+## XIX
 
 (August 30).—This determination of Providence to make our duties known to us, as much by the light of the intelligence as by the warnings of the heart, says much, or says everything, in favor of the excellence of our being; or at least in support of human responsibility.
 
@@ -702,9 +702,9 @@ XXI
 
 [p. 34]
 
-> XXII (Septiembre 16 ) .—¡Ah , mi Dios , mi Dios , cómo te encuen-tro hasta donde menos te esperaba ! Qué bien se ve que estás en todas partes ! Hasta en la obra del malo (y no es blasfemia ) te veo por reflejo , en contraste ; porque entonces siento más vivamen-te lo bueno . Lecciones en todo , para los que ausían instruirse con sed inextinguible , como el ciervo las fuentes de las aguas . XXIII - (Febrero 20 de 1847 ) . El dogma de la resurrección de la carne , profundo bajo tres aspectos . 1. Calculadísimo para satisfacer las esperanzas , las an-sias de la humanidad , como ella es , quiere decir , también corporal y con una semejauza de goces perdurables . 2. Como representación de las transformaciones en el mundo fisico - metempsicops . 3. Como reemplazo de unas razas por otras . XXIV (Marzo 4)   .-Ni el culto ni la religión pueden ser dema-siado sencillos , ó por mejor decir , deben ser bien compues-tos , formar un verdadero sistema ; á lo menos para ciertos pueblos y ciertos individuos (en verdad bien numerosos ) porque como la religión se dirije á todas las facultades , ¿ có-mo las ha de alimentar ? Hay pueblos , por el contrario , que tienen una tendencia marcada á la sencillez ó simplificación de dogmas y de cul-to , que les basta , por decirlo así , la concentración en sí mis-mos , que se pasan la vida , como en un perenne examen de conciencia , sin necesidad de estímulo exterior ( e . g . the friends ) . ( 1 ) Por eso estas cuestiones jamás pueden resol- (1)   Secta protestante : los Cuáqueros .   ( Α . Ζ .)
+> ## XXII (Septiembre 16 ) .—¡Ah , mi Dios , mi Dios , cómo te encuen-tro hasta donde menos te esperaba ! Qué bien se ve que estás en todas partes ! Hasta en la obra del malo (y no es blasfemia ) te veo por reflejo , en contraste ; porque entonces siento más vivamen-te lo bueno . Lecciones en todo , para los que ausían instruirse con sed inextinguible , como el ciervo las fuentes de las aguas . ## XXIII - (Febrero 20 de 1847 ) . El dogma de la resurrección de la carne , profundo bajo tres aspectos . 1. Calculadísimo para satisfacer las esperanzas , las an-sias de la humanidad , como ella es , quiere decir , también corporal y con una semejauza de goces perdurables . 2. Como representación de las transformaciones en el mundo fisico - metempsicops . 3. Como reemplazo de unas razas por otras . ## XXIV (Marzo 4)   .-Ni el culto ni la religión pueden ser dema-siado sencillos , ó por mejor decir , deben ser bien compues-tos , formar un verdadero sistema ; á lo menos para ciertos pueblos y ciertos individuos (en verdad bien numerosos ) porque como la religión se dirije á todas las facultades , ¿ có-mo las ha de alimentar ? Hay pueblos , por el contrario , que tienen una tendencia marcada á la sencillez ó simplificación de dogmas y de cul-to , que les basta , por decirlo así , la concentración en sí mis-mos , que se pasan la vida , como en un perenne examen de conciencia , sin necesidad de estímulo exterior ( e . g . the friends ) . ( 1 ) Por eso estas cuestiones jamás pueden resol- (1)   Secta protestante : los Cuáqueros .   ( Α . Ζ .)
 
-XXII
+## XXII
 
 (September 16).—Ah, my God, my God, how I find Thee even where I least expected Thee! How plainly one sees that Thou art everywhere!
 
@@ -712,7 +712,7 @@ Even in the work of the wicked (and it is no blasphemy) I see Thee by reflection
 
 Lessons in everything, for those who long to be instructed with an unquenchable thirst, as the hart longs for the water brooks.
 
-XXIII
+## XXIII
 
 (February 20, 1847).—The dogma of the resurrection of the flesh, profound under three aspects.
 
@@ -722,7 +722,7 @@ XXIII
 
 3° As the replacement of some races by others.
 
-XXIV
+## XXIV
 
 (March 4).—Neither worship nor religion can be too simple; or rather, they must be well composed, must form a true system; at least for certain peoples and certain individuals (truly very numerous); for since religion addresses itself to all the faculties, how else is it to nourish them?
 
@@ -732,7 +732,7 @@ There are peoples, on the contrary, that have a marked tendency to simplicity or
 
 [p. 35]
 
-> verse de un modo absoluto ; tiene unas mismas y diversas necesidades el alma humana , y modos diversos de satisfa-cer las mismas necesidades morales . Así en el progreso , y en último análisis , hemos de venir á parar  en la libertad , para que medre todo buen germen y se aplique  y ensanche hasta donde debe : " Unica tellus quæ fert omnia "-pero empezar ya es otro cantar . XXV (Idem).    Cómo estamos constituidos . Hay en nosotros el germen del ideal , del maravilloso      ( no es una misma cosa ) del misterio . Qué gérmenes conviene desarrollar . Si por medio de la filosofia solamente puede aspirarse á ello . Si no hay otros medios según las épocas . - Si el árbol se ha de conocer por sus frutos , los que ha producido el Cristianismo    y por qué-- Si á la circunstan-cia de darse como revelación los debe en gran parte . El cristianismo como catolicismo y protestantismo . ( 1) XXVI (Abril 2 ) . Cuando me siento frío y flojo , falto de inspira-ción , no hago más que leer un verso del Evangelio , para que corran á torrentes los sentimientos y pensamientos acalo-rando el corazón é iluminando la cabeza ; se me comunica el espíritu santo ( en toda la fuerza del término ) -el dón de lenguas . Ved ahí la divinidad del cristianismo . Divinidad huma-nizadora , y humanidad divinizada . “ Oh altitudo ! " XXVII (San Antonio .—Agosto 15 ) .  -1 ° El Evangelio último de la dominica de hoy . La parábola divina de Jesús ( qué nombre (1) Conviene no olvidar que algunos aforismos   son sólo motivos para pensar , como lo advierte Luz . (A. Z. )
+> verse de un modo absoluto ; tiene unas mismas y diversas necesidades el alma humana , y modos diversos de satisfa-cer las mismas necesidades morales . Así en el progreso , y en último análisis , hemos de venir á parar  en la libertad , para que medre todo buen germen y se aplique  y ensanche hasta donde debe : " Unica tellus quæ fert omnia "-pero empezar ya es otro cantar . XXV (Idem).    Cómo estamos constituidos . Hay en nosotros el germen del ideal , del maravilloso      ( no es una misma cosa ) del misterio . Qué gérmenes conviene desarrollar . Si por medio de la filosofia solamente puede aspirarse á ello . Si no hay otros medios según las épocas . - Si el árbol se ha de conocer por sus frutos , los que ha producido el Cristianismo    y por qué-- Si á la circunstan-cia de darse como revelación los debe en gran parte . El cristianismo como catolicismo y protestantismo . ( 1) ## XXVI (Abril 2 ) . Cuando me siento frío y flojo , falto de inspira-ción , no hago más que leer un verso del Evangelio , para que corran á torrentes los sentimientos y pensamientos acalo-rando el corazón é iluminando la cabeza ; se me comunica el espíritu santo ( en toda la fuerza del término ) -el dón de lenguas . Ved ahí la divinidad del cristianismo . Divinidad huma-nizadora , y humanidad divinizada . “ Oh altitudo ! " ## XXVII (San Antonio .—Agosto 15 ) .  -1 ° El Evangelio último de la dominica de hoy . La parábola divina de Jesús ( qué nombre (1) Conviene no olvidar que algunos aforismos   son sólo motivos para pensar , como lo advierte Luz . (A. Z. )
 
 in an absolute way; the human soul has needs that are the same and needs that are diverse, and diverse ways of satisfying the same moral needs.
 
@@ -748,13 +748,13 @@ Which germs it is fitting to develop. Whether this can be aspired to by means of
 
 If the tree is to be known by its fruits, those which Christianity has produced—and why.—Whether it owes them in great part to the circumstance of its being given out as revelation. Christianity as Catholicism and Protestantism. (1)
 
-XXVI
+## XXVI
 
 (April 2).—When I feel cold and slack, lacking inspiration, I have only to read a verse of the Gospel for feelings and thoughts to flow in torrents, warming the heart and illuminating the head; the holy spirit is communicated to me (in the full force of the term)—the gift of tongues.
 
 Behold there the divinity of Christianity. A humanizing divinity, and a divinized humanity.—“Oh altitudo!” [O the depth!]
 
-XXVII
+## XXVII
 
 (San Antonio.—August 15).—1° The last Gospel of today’s Sunday mass. The divine parable of Jesus (what a name
 
@@ -762,7 +762,7 @@ XXVII
 
 [p. 36]
 
-> tan dulce !) sobre la inteligencia del precepto de "amar al prójimo como á sí mismo ." El sacerdote y levita y el sama-ritano . ¡ Qué pequeños todos los libros al lado del Evangelio ! 2º Y qué escandalosa disonancia con ese precepto fué el cumplido que con aire festivo y adulón le hizo un San Antoniero á J. , sobre darle un bocabajo (mancha el estam-parlo!) al negro con quien iba cuando cayó del caballo ; fue-ra de que no hubo culpa en el negro . Y á la cuenta era hombre de aspecto dulce y amable , pero me hizo daño , y se necesita todo el amor cristiano para compadecer á estas alimañas que producen los suelos esclavos . 3º La única inoculación para nuestra lepra , para todos , para ministros y todo . XXVIII - (San Antonio de los Baños . Agosto 22 ) .-Está muerto entre nosotros el principio religioso , y hasta los pocos pe-timetres que lo proclaman no lo practican . Algunos ni lo sueñan , ni columbran siquiera su influencia .        -¿Y las muje--res? Ni   quisiera - tocar este registro . Si se les hiciera sen--tir lo que ganarían ¿ quién sabe? Ni aún así . Es deleté-rea nuestra atmósfera . Es forzoso el elemento reorganiza--dor, el soplo de vida . XXIX (Junio 26 de 1850 ) .-No hay respeto porque no hay reli--gión . Vé ahí la sociedad moderna . XXX (Octubre 11 ) .-¡ Cómo no he de volverme lenguas de gra--titud en loor de la Divinidad , que enviándome la mayor de las tribulaciones , ( 1) me la acompaña con el mayor de los con- (1)    Alude al fallecimiento de su única hija , ocurrido tres meses antes   .-(A. Ζ .)
+> tan dulce !) sobre la inteligencia del precepto de "amar al prójimo como á sí mismo ." El sacerdote y levita y el sama-ritano . ¡ Qué pequeños todos los libros al lado del Evangelio ! 2º Y qué escandalosa disonancia con ese precepto fué el cumplido que con aire festivo y adulón le hizo un San Antoniero á J. , sobre darle un bocabajo (mancha el estam-parlo!) al negro con quien iba cuando cayó del caballo ; fue-ra de que no hubo culpa en el negro . Y á la cuenta era hombre de aspecto dulce y amable , pero me hizo daño , y se necesita todo el amor cristiano para compadecer á estas alimañas que producen los suelos esclavos . 3º La única inoculación para nuestra lepra , para todos , para ministros y todo . ## XXVIII - (San Antonio de los Baños . Agosto 22 ) .-Está muerto entre nosotros el principio religioso , y hasta los pocos pe-timetres que lo proclaman no lo practican . Algunos ni lo sueñan , ni columbran siquiera su influencia .        -¿Y las muje--res? Ni   quisiera - tocar este registro . Si se les hiciera sen--tir lo que ganarían ¿ quién sabe? Ni aún así . Es deleté-rea nuestra atmósfera . Es forzoso el elemento reorganiza--dor, el soplo de vida . ## XXIX (Junio 26 de 1850 ) .-No hay respeto porque no hay reli--gión . Vé ahí la sociedad moderna . XXX (Octubre 11 ) .-¡ Cómo no he de volverme lenguas de gra--titud en loor de la Divinidad , que enviándome la mayor de las tribulaciones , ( 1) me la acompaña con el mayor de los con- (1)    Alude al fallecimiento de su única hija , ocurrido tres meses antes   .-(A. Ζ .)
 
 so sweet!) on the understanding of the precept “to love one’s neighbor as oneself.” The priest and the Levite and the Samaritan. How small all books are beside the Gospel!
 
@@ -770,11 +770,11 @@ so sweet!) on the understanding of the precept “to love one’s neighbor as on
 
 3° The only inoculation for our leprosy, for everyone, for ministers and all.
 
-XXVIII
+## XXVIII
 
 (San Antonio de los Baños.—August 22).—The religious principle is dead among us, and even the few fops who proclaim it do not practice it. Some neither dream of it, nor so much as glimpse its influence.—And the women? I would rather not even touch that string. If they were made to feel what they would gain—who knows? Not even so. Our atmosphere is deleterious. The reorganizing element, the breath of life, is indispensable.
 
-XXIX
+## XXIX
 
 (June 26, 1850).—There is no respect because there is no religion.
 
@@ -788,41 +788,41 @@ XXX
 
 [p. 37]
 
-> suelos ! La rehabilitación , al cabo de diez años , en el tra-bajo mental , único instrumento ( pues sería blasfemia lla-marle único refugio , que no se halla sino en el sancta - sanc-torum de la religión , mi alma , mi vida y mi todo ! ) que -cautivando inocentemente el espíritu lo adormece en el ín-terin para el pesar , " adversus perfugium de solatium pre-bent " -y yo más que nadie podria añadir " pernoctant nobis-cum , " por hacerlo todo en el alto silencio de la noche , cuan-do todo duerme . XXXI . (Febrero 24 de 1851 ) -No hay dogma religioso que no se funde en una filosofía más ó menos profunda . Hasta las ce-remonias . La liturgia católica , sobre todo en los ritos de la Semana Sauta , revela infinitas doctrinas de la más remota antigüe-dad . XXXII ( Mayo 20 )   .-Después que experimento el golpe bendigo -á Dios por el efecto que     en mi alma produce . Entonces saboreo la tribulación , ó su resultado purificante , si es que hay que purificar en un alma inocente ( que siempre hay ) y al cabo quedo como más consolado , y restaurame el hallar mi consuelo , aislándome de todo lo humano , sin tener don-de reposar sino en Dios , y exclamo : " Bonum mihi quia hu-miliasti me ut discam justificationes tuas "    - para no dor-mirme sobre mis laureles ó  ,    por mejor   decir , sobre mis espinas . - XXXIII (Enero 5 de 1852 ). El misticismo es el refugio de las al-mas puras contra esta podredumbre que llamamos mundo . XXXIV ( Junio 22 de 1853 ) . -¡Qué cosa tan grande este testimo-
+> suelos ! La rehabilitación , al cabo de diez años , en el tra-bajo mental , único instrumento ( pues sería blasfemia lla-marle único refugio , que no se halla sino en el sancta - sanc-torum de la religión , mi alma , mi vida y mi todo ! ) que -cautivando inocentemente el espíritu lo adormece en el ín-terin para el pesar , " adversus perfugium de solatium pre-bent " -y yo más que nadie podria añadir " pernoctant nobis-cum , " por hacerlo todo en el alto silencio de la noche , cuan-do todo duerme . ## XXXI . (Febrero 24 de 1851 ) -No hay dogma religioso que no se funde en una filosofía más ó menos profunda . Hasta las ce-remonias . La liturgia católica , sobre todo en los ritos de la Semana Sauta , revela infinitas doctrinas de la más remota antigüe-dad . ## XXXII ( Mayo 20 )   .-Después que experimento el golpe bendigo -á Dios por el efecto que     en mi alma produce . Entonces saboreo la tribulación , ó su resultado purificante , si es que hay que purificar en un alma inocente ( que siempre hay ) y al cabo quedo como más consolado , y restaurame el hallar mi consuelo , aislándome de todo lo humano , sin tener don-de reposar sino en Dios , y exclamo : " Bonum mihi quia hu-miliasti me ut discam justificationes tuas "    - para no dor-mirme sobre mis laureles ó  ,    por mejor   decir , sobre mis espinas . - XXXIII (Enero 5 de 1852 ). El misticismo es el refugio de las al-mas puras contra esta podredumbre que llamamos mundo . ## XXXIV ( Junio 22 de 1853 ) . -¡Qué cosa tan grande este testimo-
 
 The rehabilitation, after ten years, in mental labor, the only instrument (for it would be blasphemy to call it the only refuge, which is found nowhere but in the sancta-sanctorum of religion, my soul, my life and my all!) which, innocently captivating the spirit, lulls it meanwhile against sorrow,—“adversus perfugium de solatium prebent” [they afford a refuge and a solace in adversity]—and I more than anyone could add “pernoctant nobiscum,” [they spend the night with us] since I do it all in the deep silence of the night, when everything sleeps.
 
-XXXI
+## XXXI
 
 (February 24, 1851).—There is no religious dogma that is not founded on some philosophy more or less profound. Even the ceremonies.
 
 The Catholic liturgy, above all in the rites of Holy Week, reveals countless doctrines of the most remote antiquity.
 
-XXXII
+## XXXII
 
 (May 20).—After I feel the blow I bless God for the effect it produces in my soul. Then I savor the tribulation, or its purifying result, if indeed there is anything to purify in an innocent soul (and there always is), and in the end I am left as it were more consoled; and it restores me to find my consolation by isolating myself from everything human, with nowhere to rest but in God, and I exclaim: “Bonum mihi quia humiliasti me ut discam justificationes tuas” [It is good for me that thou hast humbled me, that I may learn thy justifications]—so as not to fall asleep on my laurels, or, to put it better, on my thorns.
 
-XXXIII
+## XXXIII
 
 (January 5, 1852).—Mysticism is the refuge of pure souls against this rottenness that we call the world.
 
-XXXIV
+## XXXIV
 
 (June 22, 1853).—What a great thing is this testimony
 
 [p. 38]
 
-> nio de la conciencia , que en medio de la tormenta alza la voz , diciendo : hiciste bién ! Ecce , ecce Deus . XXXV . (Mayo 28 de 1855 ) —Sentir , pensar , orar que nos llevan hasta el puerto de Dios . -   alas   y brújula XXXVI ( Idem )   .-¡ Oh Religión divina oh aspiración natural del ,                      ! ¡ alma , que como    su incienso se eleva del suelo hasta el cie-lo ! ¡ oh Filosofía , hija madura de la divinidad , que cual , otro raudal se junta al de la religión , y se confunde en el mismo torrente , y nos lleva hasta el seno de Dios : Religión y Filosofía , los dos ojos con que lo miramos , y los brazos con que lo estrechamos . Aun cuando la Religión no produjera más fruto que el consuelo del hombre en las adversidades , deberíamos salu-darla como el mayor de los bienes para la humanidad . Las almas verdaderamente bien templadas experimentan no ya sólo el consuelo , sino el goce de las tribulaciones . Almas hay , empero , a quienes los golpes del destino vuelven más reacias y rebeldes . ¿Pero qué , no existe una chispa de pое-sía y de amor en estos pechos ? ¿Cómoáfuerde humanos , pue-de faltar en ellos esta sangre del espíritu divino ? Bien sé que este idioma es ajeno é ininteligible para los que precian de positivos e ilustrados ; pero sepan también que no por eso deja de haber almas que lo entiendan y lo hablen , á ley de sentirlo y pensarlo . Es una realidad tan efectiva como la del sol que nos alumbra : es el mismo sol del alma humana .
+> nio de la conciencia , que en medio de la tormenta alza la voz , diciendo : hiciste bién ! Ecce , ecce Deus . ## XXXV . (Mayo 28 de 1855 ) —Sentir , pensar , orar que nos llevan hasta el puerto de Dios . -   alas   y brújula ## XXXVI ( Idem )   .-¡ Oh Religión divina oh aspiración natural del ,                      ! ¡ alma , que como    su incienso se eleva del suelo hasta el cie-lo ! ¡ oh Filosofía , hija madura de la divinidad , que cual , otro raudal se junta al de la religión , y se confunde en el mismo torrente , y nos lleva hasta el seno de Dios : Religión y Filosofía , los dos ojos con que lo miramos , y los brazos con que lo estrechamos . Aun cuando la Religión no produjera más fruto que el consuelo del hombre en las adversidades , deberíamos salu-darla como el mayor de los bienes para la humanidad . Las almas verdaderamente bien templadas experimentan no ya sólo el consuelo , sino el goce de las tribulaciones . Almas hay , empero , a quienes los golpes del destino vuelven más reacias y rebeldes . ¿Pero qué , no existe una chispa de pое-sía y de amor en estos pechos ? ¿Cómoáfuerde humanos , pue-de faltar en ellos esta sangre del espíritu divino ? Bien sé que este idioma es ajeno é ininteligible para los que precian de positivos e ilustrados ; pero sepan también que no por eso deja de haber almas que lo entiendan y lo hablen , á ley de sentirlo y pensarlo . Es una realidad tan efectiva como la del sol que nos alumbra : es el mismo sol del alma humana .
 
 of conscience, which in the midst of the storm raises its voice, saying: thou hast done well!
 
 Ecce, ecce Deus. [Behold, behold God.]
 
-XXXV
+## XXXV
 
 (May 28, 1855).—To feel, to think, to pray—wings and compass that bear us to the haven of God.
 
-XXXVI
+## XXXVI
 
 (Idem).—O divine Religion! O natural aspiration of the soul, which like its incense rises from the ground to heaven! O Philosophy, ripe daughter of the divinity, who like another stream joins that of religion, and mingles in the same torrent, and bears us to the bosom of God: Religion and Philosophy, the two eyes with which we gaze upon Him, and the arms with which we clasp Him.
 
@@ -830,21 +830,21 @@ Even if Religion produced no other fruit than the consolation of man in adversit
 
 [PDF 36]
 
-> XXXVII ( Sin   fecha) .    Terrible sería el yo sin el no - yo . XXXVIII ( Idem ) . La doctrina espiritualista no prueba sino supone la existencia de Dios . Veremos cual de los dos sistemas ( espiritualista      ó sensualista ) es más ateo . XXXIX (Idem ) .La escuela ecléctica ha ido á buscar la Filosofía y Alemania , dejándola en su propia casa . en Grecia , Escocia Bueno es saber cómo piensan otros , pero mejor es pen-sar uno mismo . Los filósofos han temide que su ciencia se redujese á un capítulo , aunque importante , de la fisiología , y por eso se han refugiado en el campo de la erudición . Incentivo para la juventud . XL .- (Idem ) Yo quiero también espiritualizar al hombre , mas para eso no se ha de engañarle , ni engañarnos .
+> ## XXXVII ( Sin   fecha) .    Terrible sería el yo sin el no - yo . ## XXXVIII ( Idem ) . La doctrina espiritualista no prueba sino supone la existencia de Dios . Veremos cual de los dos sistemas ( espiritualista      ó sensualista ) es más ateo . ## XXXIX (Idem ) .La escuela ecléctica ha ido á buscar la Filosofía y Alemania , dejándola en su propia casa . en Grecia , Escocia Bueno es saber cómo piensan otros , pero mejor es pen-sar uno mismo . Los filósofos han temide que su ciencia se redujese á un capítulo , aunque importante , de la fisiología , y por eso se han refugiado en el campo de la erudición . Incentivo para la juventud . XL .- (Idem ) Yo quiero también espiritualizar al hombre , mas para eso no se ha de engañarle , ni engañarnos .
 
 ❖     ❖    ❖    ❖    ❖    ❖    ❖     ❖       ❖   ❖   ❖   ❖   ❖    ❖     ❖
 
 P hilosophy .
 
-XXXVII
+## XXXVII
 
 (Undated).—Terrible would be the I without the not-I.
 
-XXXVIII
+## XXXVIII
 
 (Idem).—The spiritualist doctrine does not prove but supposes the existence of God. We shall see which of the two systems (spiritualist or sensationalist) is the more atheistic.
 
-XXXIX
+## XXXIX
 
 (Idem).—The eclectic school has gone to seek Philosophy in Greece, Scotland and Germany, leaving it in its own house.
 
@@ -860,7 +860,7 @@ XL
 
 [p. 40]
 
-> Se le convence , al hombre , de las grandes ventajas de es-piritualizarle . XLI (Idem ) .- La Filosofía en el corazón más que en los labios . XLII ( Idem ) . La conciencia es el campo en que se encuentra el yo con el no - yo : aquí la diferencia y la identificación . XLIII ( Idem ) .   Como abeja el filósofo que recoja , escoja y asi-mile , dulce miel y alumbradora cera . XLIV .- (Idem ) Llega el espíritu á ser hermafrodita en la pro-ducción de las ideas ; pues no ha menester más que pensar sobre lo que ya tiene concebido , para engendrar y dar á luz nuevos hijos . El mundo sólo le sirve de ocasión , de motivo ; pero no es ya fecundador ni empollador . XLV (Idem) .-* La idea antevive y sobrevive á la realidad . XLVI - (Mayo de 1842 ) . Más debe la filosofía á los intolerantes que á los conciliadores . XLVII .- (Idem ) * E ! filósofo es ( y debe ser) como la vela ; arde y se consume para alumbrar á los demás .
+> Se le convence , al hombre , de las grandes ventajas de es-piritualizarle . XLI (Idem ) .- La Filosofía en el corazón más que en los labios . ## XLII ( Idem ) . La conciencia es el campo en que se encuentra el yo con el no - yo : aquí la diferencia y la identificación . ## XLIII ( Idem ) .   Como abeja el filósofo que recoja , escoja y asi-mile , dulce miel y alumbradora cera . ## XLIV .- (Idem ) Llega el espíritu á ser hermafrodita en la pro-ducción de las ideas ; pues no ha menester más que pensar sobre lo que ya tiene concebido , para engendrar y dar á luz nuevos hijos . El mundo sólo le sirve de ocasión , de motivo ; pero no es ya fecundador ni empollador . ## XLV (Idem) .-* La idea antevive y sobrevive á la realidad . ## XLVI - (Mayo de 1842 ) . Más debe la filosofía á los intolerantes que á los conciliadores . ## XLVII .- (Idem ) * E ! filósofo es ( y debe ser) como la vela ; arde y se consume para alumbrar á los demás .
 
 Man is convinced of the great advantages of spiritualizing him.
 
@@ -868,15 +868,15 @@ XLI
 
 (Idem).—Philosophy in the heart more than on the lips.
 
-XLII
+## XLII
 
 (Idem).—Consciousness is the field in which the I meets the not-I: here the difference and the identification.
 
-XLIII
+## XLIII
 
 (Idem).—Like the bee, let the philosopher gather, choose and assimilate—sweet honey and light-giving wax.
 
-XLIV
+## XLIV
 
 (Idem).—The mind comes to be hermaphrodite in the production of ideas; for it needs only to think upon what it has already conceived in order to beget and bring forth new offspring.
 
@@ -886,23 +886,23 @@ XLV
 
 (Idem).—* The idea lives before and lives after the reality.
 
-XLVI
+## XLVI
 
 (May, 1842).—Philosophy owes more to the intolerant than to the conciliators.
 
-XLVII
+## XLVII
 
 (Idem).—* The philosopher is (and ought to be) like the candle; it burns and is consumed to give light to others.
 
 [p. 41]
 
-> XLVIII - ( Enero 2 de 1844 ). Sería siempre más exacto que el hom-bre dijera , " hay en mí, " que no tengo yo , tal ó cual facultad . XLIX .- (Idem ) * La criatura más vana , y la que menos debie-ra envanecerse en este mundo : el hombre . Siempre que hace algo grande se revela una fuerza extraor-dinaria que hay en él , y á las primeras de cambio el conven-cimiento ( ó por mejor decir , el experimento ) de su nada y su fragilidad . Y en medio de todo el torbellino de las pasiones , de la grandeza ó de la flaqueza , se levanta la voz de la razón á hacérselo sentir y conocer . L (Enero 5 ) .- * Se debe por ventura el hombre á sí mismo su pequeñez ó su grandeza ? ¿No es quizás una pieza del gran todo , destinada á desempeñar un movimiento especial ó parcial , pero sin embargo , ó por lo mismo , harmonizador ? No se trata empero de desvirtuar el mérito ó demérito de las humanas acciones . Nada lo asegura mejor que la existencia del conocimiento del mal , que se revela en el hom-bre á cada instante desde que raya la luz de la razón . LI (Enero 6)   .-* Conocimiento del bien y del mal : luego res-ponsabilidad . Lucha : luego responsabilidad . Experiencia del mal : luego aumento de responsabilidad . Eusauche de conocimientos : luego responsabilidad . Por eso dijo J. C. " á cada cual se le juzgará según lo que le fue-re dado " . Así masómenos mérito en la misma acción se-gún las circunstancias de la persona y de las cosas .
+> ## XLVIII - ( Enero 2 de 1844 ). Sería siempre más exacto que el hom-bre dijera , " hay en mí, " que no tengo yo , tal ó cual facultad . ## XLIX .- (Idem ) * La criatura más vana , y la que menos debie-ra envanecerse en este mundo : el hombre . Siempre que hace algo grande se revela una fuerza extraor-dinaria que hay en él , y á las primeras de cambio el conven-cimiento ( ó por mejor decir , el experimento ) de su nada y su fragilidad . Y en medio de todo el torbellino de las pasiones , de la grandeza ó de la flaqueza , se levanta la voz de la razón á hacérselo sentir y conocer . L (Enero 5 ) .- * Se debe por ventura el hombre á sí mismo su pequeñez ó su grandeza ? ¿No es quizás una pieza del gran todo , destinada á desempeñar un movimiento especial ó parcial , pero sin embargo , ó por lo mismo , harmonizador ? No se trata empero de desvirtuar el mérito ó demérito de las humanas acciones . Nada lo asegura mejor que la existencia del conocimiento del mal , que se revela en el hom-bre á cada instante desde que raya la luz de la razón . LI (Enero 6)   .-* Conocimiento del bien y del mal : luego res-ponsabilidad . Lucha : luego responsabilidad . Experiencia del mal : luego aumento de responsabilidad . Eusauche de conocimientos : luego responsabilidad . Por eso dijo J. C. " á cada cual se le juzgará según lo que le fue-re dado " . Así masómenos mérito en la misma acción se-gún las circunstancias de la persona y de las cosas .
 
-XLVIII
+## XLVIII
 
 (January 2, 1844).—It would always be more exact for man to say “there is in me,” rather than I have, such or such a faculty.
 
-XLIX
+## XLIX
 
 (Idem).—* The vainest creature, and the one that ought least to be vain in this world: man.
 
@@ -924,13 +924,13 @@ Widening of knowledge: therefore responsibility. That is why J. C. said “each 
 
 [p. 42]
 
-> LII - (Abril 17 de 1845 ] .   Ah naturaleza ! naturaleza ! ó por me-jor decir : oh Dios ! oh Dios ! que hasta en los matices de los olores nos ofreces el infinito , y la idea , el plan preconcebi-do por excelencia . Sublime Platón , tú fuiste uno de los primeros intérpretes de la Divinidad . LIII [ Idem ] .-- La realidad excede á la imaginación , pero cede á la idea , que se pierde en la mente del Altísimo , donde nos perdemos nosotros , pobres riachuelos del inmenso piélago . LIV (Mayo 9 )   .-La obscuridad que envuelve la cuestión del destino humano , germen de toda filosofía , y aun de muchí-sima religión . Otro tanto sucede con la profunda noche del origen del mundo . ¡ Bienaventurada obscuridad , que alumbra nuestro enten-dimiento y templa nuestro corazón ! Hay datos , empero , en ambas cuestiones , que establecen ciertas verdades de un modo tan incontrastable , que el hom-bre no puede esquivar su ascenso , ni huir á su responsabi-lidad . Estos datos son : el plan providencial del universo , y la ciencia y conciencia de la razón humana , como leyes universales grabadas en todos los entendimientos y en to-dos los corazones . LV (Mayo 10 ) . Todo está animado en la naturaleza . Siem-pre el espíritu en la materia , hasta en el último guijarro . ¿No está la atracción en todos los cuerpos ? ¿ Y las fuerzas hasta en los más inertes ? ¿Dónde deja de estar la vida       en la naturaleza ?   Y qué ¿
+> ## LII - (Abril 17 de 1845 ] .   Ah naturaleza ! naturaleza ! ó por me-jor decir : oh Dios ! oh Dios ! que hasta en los matices de los olores nos ofreces el infinito , y la idea , el plan preconcebi-do por excelencia . Sublime Platón , tú fuiste uno de los primeros intérpretes de la Divinidad . ## LIII [ Idem ] .-- La realidad excede á la imaginación , pero cede á la idea , que se pierde en la mente del Altísimo , donde nos perdemos nosotros , pobres riachuelos del inmenso piélago . LIV (Mayo 9 )   .-La obscuridad que envuelve la cuestión del destino humano , germen de toda filosofía , y aun de muchí-sima religión . Otro tanto sucede con la profunda noche del origen del mundo . ¡ Bienaventurada obscuridad , que alumbra nuestro enten-dimiento y templa nuestro corazón ! Hay datos , empero , en ambas cuestiones , que establecen ciertas verdades de un modo tan incontrastable , que el hom-bre no puede esquivar su ascenso , ni huir á su responsabi-lidad . Estos datos son : el plan providencial del universo , y la ciencia y conciencia de la razón humana , como leyes universales grabadas en todos los entendimientos y en to-dos los corazones . LV (Mayo 10 ) . Todo está animado en la naturaleza . Siem-pre el espíritu en la materia , hasta en el último guijarro . ¿No está la atracción en todos los cuerpos ? ¿ Y las fuerzas hasta en los más inertes ? ¿Dónde deja de estar la vida       en la naturaleza ?   Y qué ¿
 
-LII
+## LII
 
 (April 17, 1845].—Ah nature! nature! or, to put it better: O God! O God! who even in the shades of scents offer us the infinite, and the idea, the preconceived plan par excellence. Sublime Plato, thou wast one of the first interpreters of the Divinity.
 
-LIII
+## LIII
 
 [Idem].—Reality exceeds the imagination, but yields to the idea, which loses itself in the mind of the Most High, where we lose ourselves, poor rivulets of the immense ocean.
 
@@ -954,7 +954,7 @@ Where in nature does life cease to be? And what
 
 [p. 43]
 
-> es la vida sino el resultado del alma , ó del espíritu , ó fuerza ó causa que viene á parar en substancia ? Este modo de ver es algo Leibniciano . El historiador del espíritu humano no sólo debe referir todo cuanto hay en él , sino en el orden en que se encuentra . Así todo es cuestión de origen . Bien hacía el siglo xvIII en buscar , aunque no pudiera encontrar , el orígen de todas las cosas . No estuvo ahí la pífia del siglo XVIII , sino en la superfi-cialidad característica de todo principiante . Sin embargo , Montesquieu y J. J. Rousseau dieron el tono al siglo XVIII . LVI [Mayo 13 ] .-* ¿Por qué se queja el hombre de la vida ? Engaños , desengaños , dolores , consuelos , que son placeres más dulces que los de primera mano . ¿No es esta la ley de la naturaleza ? Rosas y espinas , cla-ro y obscuro . ¿ De qué se queja , pues ? Si se cierra una puer-ta suelen abrirse dos . Pero se quiere el placer , el placer y el placer siempre , y dó quiera , sin interrupción , y el placer fisico . ¿Para qué ? Para tocar la saciedad , y la enfermedad y la flojedad física ó moral . Sin ejercicio no hay fuerzas . LVII [ Diciembre 15 ] .-¿Será posible que el hombre pueda ga-nar por una parte sin perder por otra ? ¿Cuáles son las verdaderas pérdidas y cuáles las verdade-ras ganancias ? Para contestar debidamente es necesario que todos los dogmas comparezcan ante el tribunal de la razón , con au-diencia de la humanidad . ¿Deberá ésta ser exclusivamente representada por los        fi-lósofos ?
+> es la vida sino el resultado del alma , ó del espíritu , ó fuerza ó causa que viene á parar en substancia ? Este modo de ver es algo Leibniciano . El historiador del espíritu humano no sólo debe referir todo cuanto hay en él , sino en el orden en que se encuentra . Así todo es cuestión de origen . Bien hacía el siglo xvIII en buscar , aunque no pudiera encontrar , el orígen de todas las cosas . No estuvo ahí la pífia del siglo XVIII , sino en la superfi-cialidad característica de todo principiante . Sin embargo , Montesquieu y J. J. Rousseau dieron el tono al siglo XVIII . LVI [Mayo 13 ] .-* ¿Por qué se queja el hombre de la vida ? Engaños , desengaños , dolores , consuelos , que son placeres más dulces que los de primera mano . ¿No es esta la ley de la naturaleza ? Rosas y espinas , cla-ro y obscuro . ¿ De qué se queja , pues ? Si se cierra una puer-ta suelen abrirse dos . Pero se quiere el placer , el placer y el placer siempre , y dó quiera , sin interrupción , y el placer fisico . ¿Para qué ? Para tocar la saciedad , y la enfermedad y la flojedad física ó moral . Sin ejercicio no hay fuerzas . ## LVII [ Diciembre 15 ] .-¿Será posible que el hombre pueda ga-nar por una parte sin perder por otra ? ¿Cuáles son las verdaderas pérdidas y cuáles las verdade-ras ganancias ? Para contestar debidamente es necesario que todos los dogmas comparezcan ante el tribunal de la razón , con au-diencia de la humanidad . ¿Deberá ésta ser exclusivamente representada por los        fi-lósofos ?
 
 is life but the result of the soul, or of the spirit, or force, or cause that comes in the end to be substance?
 
@@ -974,7 +974,7 @@ Is not this the law of nature? Roses and thorns, light and shade. Of what does h
 
 But one wants pleasure, pleasure, and pleasure always, and everywhere, without interruption, and physical pleasure. To what end? To reach satiety, and sickness, and physical or moral slackness. Without exercise there is no strength.
 
-LVII
+## LVII
 
 [December 15].—Can it be possible that man may gain on one side without losing on another?
 
@@ -986,7 +986,7 @@ Ought humanity to be represented exclusively by the philosophers?
 
 [p. 44]
 
-> En masa , utique , mas no nacionalmente , que       es   indivi-dualmente respecto al linaje humano . ¿Corvendría á la humanidad , ó será necesario para su progreso , esto es , para su mejoramiento , el que se prediquen dos doctrinas , una para la masa , y otra para la nata ? Una , y sólo una , para todos , respondo después del más maduro examen . Pero una que comprenda las necesidades morales de toda la comunidad : en suma , una religión . Los moralistas cristianos son los que más han confiado en y desconfiado     de la humana naturaleza ; verdaderos con-ciliadores . LVIII [Diciembre 19 ]   - . Todos los sistemas filosóficos " desnudan á un santo para vestir á otro ." La gracia estaría en vestir á todos , sin desnudar á nadie . Quien más se acercó á este tipo, entre los antiguos , fué Aristóteles ; entre los modernos ninguno tal vez pudo hacer-lo mejor que Leibnitz . Pero en el ideal , esto es , las aspiraciones , se llevó la palma Platon . Funesto divorcio entre las ciencias .     Aquí donde      debe cifrarse la gran conciliación . LIX (Enero 31 de 1846 ) .-Chócanos la coincidencia de los gran-des pensadores atravesando los tiempos , y el espacio ; prue-ba de la identidad del espíritu humano . (Yesto en las ciencias físicas como en las morales ) . 2. Nótase , además , que si está apurado , y como de parto el espíritu humano , á veces un talento subalterno , ó no tân superior , suele parir un hijo que parece producción del ge-nio . 3. Esta coincidencia prueba para mí dos cosas más : 1. Nuevo argumento de plan en el Universo ; Dios por do quiera , por donde menos lo esperamos . 2ª Suprovidencia ,
+> En masa , utique , mas no nacionalmente , que       es   indivi-dualmente respecto al linaje humano . ¿Corvendría á la humanidad , ó será necesario para su progreso , esto es , para su mejoramiento , el que se prediquen dos doctrinas , una para la masa , y otra para la nata ? Una , y sólo una , para todos , respondo después del más maduro examen . Pero una que comprenda las necesidades morales de toda la comunidad : en suma , una religión . Los moralistas cristianos son los que más han confiado en y desconfiado     de la humana naturaleza ; verdaderos con-ciliadores . ## LVIII [Diciembre 19 ]   - . Todos los sistemas filosóficos " desnudan á un santo para vestir á otro ." La gracia estaría en vestir á todos , sin desnudar á nadie . Quien más se acercó á este tipo, entre los antiguos , fué Aristóteles ; entre los modernos ninguno tal vez pudo hacer-lo mejor que Leibnitz . Pero en el ideal , esto es , las aspiraciones , se llevó la palma Platon . Funesto divorcio entre las ciencias .     Aquí donde      debe cifrarse la gran conciliación . LIX (Enero 31 de 1846 ) .-Chócanos la coincidencia de los gran-des pensadores atravesando los tiempos , y el espacio ; prue-ba de la identidad del espíritu humano . (Yesto en las ciencias físicas como en las morales ) . 2. Nótase , además , que si está apurado , y como de parto el espíritu humano , á veces un talento subalterno , ó no tân superior , suele parir un hijo que parece producción del ge-nio . 3. Esta coincidencia prueba para mí dos cosas más : 1. Nuevo argumento de plan en el Universo ; Dios por do quiera , por donde menos lo esperamos . 2ª Suprovidencia ,
 
 In the mass, utique [certainly], but not nationally, which is individually with respect to the human race.
 
@@ -996,7 +996,7 @@ One, and only one, for all, I answer after the most mature examination. But one 
 
 The Christian moralists are those who have most trusted in and distrusted human nature; true conciliators.
 
-LVIII
+## LVIII
 
 [December 19].—All philosophical systems “strip one saint to clothe another.”
 
@@ -1018,7 +1018,7 @@ LIX
 
 [p. 45]
 
-> OBRAS DE DON JOSÉ DE LA LUZ .                  . 45 que acude oportunamente á las urgencias de la humanidad , aun valiéndose de ínfimos instrumentos , ó convirtiendo en instrumentos á los que se tienen , y son tenidos , por causas . Aquí es donde embona aquel : " Potens est Deus de lapi-dibus istis suscitare filios Abrahæ    .... " ( San Mateo ) . LX ( Febrero )   . Lo absoluto es el colmo de lo relativo . LXI (Febrero 26 ) .-El método de la experimentación es emi-nentemente racional , pues no hace más que ceder á las ins-tancias de la razón al practicar pruebas para conocerla . LXII ( Idem ) . Hay un modo de descubrir verdades que no es la intuición , ni la inducción , ni la deducción , y que yo lla-maría aparición por el efecto , y elaboración virtual é in-conscia por la causa y procedimiento . Sucede después de haber estado meditando largamente sobre una materia , cuando el entendimiento ha estado fuertemente excitado , ó como si dijéramos , en erección , que después de haber des-cansado las potencias , sin ocuparnos ya del asunto , se apa-rece como un relámpago un pensamiento grande , y que en realidad se deduce de los antecedentes ; pero no lo hemos deducido . Ignoramos nuestra propia virtualidad . ¿Cómo no se han aprovechado de este hecho los partida-rios de las ideas innatas , que es más fuerte que cuanto so-bre ellas se ha amontonado ? Sin embargo , bien examinado , no es en pró ni en contra , sino lo que  prueba es la virtualidad del entendimiento , su naturaleza de producir pensamientos . Más bien podría sacar partido la opinión contraria : por-que el fenómeno susodicho es siempre hijo de los antece
+> ## OBRAS DE DON JOSÉ DE LA LUZ .                   45 que acude oportunamente á las urgencias de la humanidad , aun valiéndose de ínfimos instrumentos , ó convirtiendo en instrumentos á los que se tienen , y son tenidos , por causas . Aquí es donde embona aquel : " Potens est Deus de lapi-dibus istis suscitare filios Abrahæ    .... " ( San Mateo ) . LX ( Febrero )   . Lo absoluto es el colmo de lo relativo . LXI (Febrero 26 ) .-El método de la experimentación es emi-nentemente racional , pues no hace más que ceder á las ins-tancias de la razón al practicar pruebas para conocerla . ## LXII ( Idem ) . Hay un modo de descubrir verdades que no es la intuición , ni la inducción , ni la deducción , y que yo lla-maría aparición por el efecto , y elaboración virtual é in-conscia por la causa y procedimiento . Sucede después de haber estado meditando largamente sobre una materia , cuando el entendimiento ha estado fuertemente excitado , ó como si dijéramos , en erección , que después de haber des-cansado las potencias , sin ocuparnos ya del asunto , se apa-rece como un relámpago un pensamiento grande , y que en realidad se deduce de los antecedentes ; pero no lo hemos deducido . Ignoramos nuestra propia virtualidad . ¿Cómo no se han aprovechado de este hecho los partida-rios de las ideas innatas , que es más fuerte que cuanto so-bre ellas se ha amontonado ? Sin embargo , bien examinado , no es en pró ni en contra , sino lo que  prueba es la virtualidad del entendimiento , su naturaleza de producir pensamientos . Más bien podría sacar partido la opinión contraria : por-que el fenómeno susodicho es siempre hijo de los antece
 
 which comes opportunely to the needs of humanity, even making use of the lowliest instruments, or converting into instruments those who hold themselves, and are held, to be causes.
 
@@ -1032,7 +1032,7 @@ LXI
 
 (February 26).—The method of experimentation is eminently rational, for it does nothing but yield to the promptings of reason in carrying out trials in order to know it.
 
-LXII
+## LXII
 
 (Idem).—There is a mode of discovering truths that is neither intuition, nor induction, nor deduction, and which I would call apparition by its effect, and virtual and unconscious elaboration by its cause and procedure. It happens after one has been meditating at length upon a subject, when the understanding has been strongly excited, or, as we might say, in erection, that after the powers have rested, without our being occupied any longer with the matter, a great thought appears like a flash of lightning, and one that is in reality deduced from the antecedents; but we have not deduced it. We are ignorant of our own virtuality.
 
@@ -1044,19 +1044,19 @@ The contrary opinion might rather make capital of it: because the phenomenon afo
 
 [p. 46]
 
-> dentes , como le   sucede hasta á la misma espontaneidad ó intuición . " Prolem cum patre et matre creatam ." LXIII (Idem ) . Rigurosamente hablando no existe espontanei-dad en el ejercicio de nuestras facultades intelectuales : siempre precede algún motivo que determine el pensamien-to . Lo cual no se opone á que haya nociones que el enten-dimiento alcanza desde luego , y otras que sólo obtiene por la reflexión . El yo no es más que un fenómeno de la inteligencia , у tiene lugar en las sensaciones lo mismo que en las volicio-nes : no es ni más ni menos de aquello por lo que general-mente se le tiene , la expresión de la personalidad ; sin que esto impida considerarle como sujeto y como causa . LXIV (Idem ) . La experimentación proporciona á los sentidos un auxilio con que antes no contaban ; aísla y detiene los hechos , por decirlo así , para dejarse observar . La naturaleza pronuncia á la vez juicios muy complica-dos , juicios de muchos sujetos y muchos predicados : he aquí porque no podemos determinar con fijeza cuál es el predi-cado y á qué sujeto pertenece . Forzoso es , pues , que le separemos los casos , que le pro-porcionemos mayormente ocasión de esplicarse en juicios de un sujeto y de un predicado . Al punto que así lo hace , la comprendemos desde luego ; entonces conoceremos la esencia de una fuerza determina-da , y la sabremos distinguir después , aun cuando desapa-rezca junto con otras . Se hace tanto más necesaria esta separación cuanto es este el medio de evitar el error á nuestra comprensión , y que sólo así podemos asentar juicios y observaciones .
+> dentes , como le   sucede hasta á la misma espontaneidad ó intuición . " Prolem cum patre et matre creatam ." ## LXIII (Idem ) . Rigurosamente hablando no existe espontanei-dad en el ejercicio de nuestras facultades intelectuales : siempre precede algún motivo que determine el pensamien-to . Lo cual no se opone á que haya nociones que el enten-dimiento alcanza desde luego , y otras que sólo obtiene por la reflexión . El yo no es más que un fenómeno de la inteligencia , у tiene lugar en las sensaciones lo mismo que en las volicio-nes : no es ni más ni menos de aquello por lo que general-mente se le tiene , la expresión de la personalidad ; sin que esto impida considerarle como sujeto y como causa . ## LXIV (Idem ) . La experimentación proporciona á los sentidos un auxilio con que antes no contaban ; aísla y detiene los hechos , por decirlo así , para dejarse observar . La naturaleza pronuncia á la vez juicios muy complica-dos , juicios de muchos sujetos y muchos predicados : he aquí porque no podemos determinar con fijeza cuál es el predi-cado y á qué sujeto pertenece . Forzoso es , pues , que le separemos los casos , que le pro-porcionemos mayormente ocasión de esplicarse en juicios de un sujeto y de un predicado . Al punto que así lo hace , la comprendemos desde luego ; entonces conoceremos la esencia de una fuerza determina-da , y la sabremos distinguir después , aun cuando desapa-rezca junto con otras . Se hace tanto más necesaria esta separación cuanto es este el medio de evitar el error á nuestra comprensión , y que sólo así podemos asentar juicios y observaciones .
 
 as is the case even with spontaneity or intuition itself.
 
 “Prolem cum patre et matre creatam.” [offspring created together with father and mother]
 
-LXIII
+## LXIII
 
 (Idem).—Strictly speaking, there is no spontaneity in the exercise of our intellectual faculties: some motive always precedes that determines the thought. Which is not inconsistent with there being notions that the understanding attains at once, and others that it obtains only through reflection.
 
 The I is nothing but a phenomenon of the intelligence, and it has place in sensations just as in volitions: it is neither more nor less than what it is generally held to be, the expression of personality; which does not prevent its being considered as subject and as cause.
 
-LXIV
+## LXIV
 
 (Idem).—Experimentation affords the senses an aid with which they did not count before; it isolates and arrests the facts, so to speak, so that they let themselves be observed.
 
@@ -1070,7 +1070,7 @@ This separation becomes all the more necessary as it is the means of keeping err
 
 [p. 47]
 
-> ! OBRAS DE DON JOSÉ DE LA LUZ .             47 Y he aquí esplicados los grandes resultados del método fundado en la experimentación . Los ensayos sirven meramente para alejar las dificulta-des , y presentar los fenómenos á la inteligencia en tan sen-cillo cotejo , que pueda ésta juzgar rectamente , con todo conocimiento y sin ilusiones . Haciendo los ensayos un oficio algo parecido al que pres-tan las matemáticas , también se les contraponen en cierto modo ....... ( 1) LXV ( Jesús del Monte , Marzo 26. )-Yo no hallo estraño que muchos       grandes pensadores hayan creído en las ideas in.. natas : 1º , por la fuerza productiva que en sí sentían ; 2º , por Ja facilidad ó espontaneidad con que concebían y daban á luz ; 3º , por el esplendor de las deducciones , como sucedía á Cartesio en las Matemáticas , que siendo las ciencias aprendidas por excelencia , como profundamente lo dice su nombre de bautismo , le parecían adivinadas . Todas estas causas les encubrían la causa en los efectos , la virtualidad en los fenómenos . Mi fórmula : Innatas las facultades , pero no las ideas . LXVI (Abril ) -Argumento sobre la inneidad sacado de la ad-miración , señal segura de la novedad . Virtualite , está todo en el entendimiento , es decir , están todas las nociones . ¡Cómo se ha procurado , obscurecer cosa tan clara ! LXVII (Mayo 8 )    .- La filosofía debe ser el reflejo exacto de Dios   ! (Se entiende , hasta donde pueda llegar el hombre ) . (1 )   Interrumpido el original ( A. Z. )
+> ! ## OBRAS DE DON JOSÉ DE LA LUZ .             47 Y he aquí esplicados los grandes resultados del método fundado en la experimentación . Los ensayos sirven meramente para alejar las dificulta-des , y presentar los fenómenos á la inteligencia en tan sen-cillo cotejo , que pueda ésta juzgar rectamente , con todo conocimiento y sin ilusiones . Haciendo los ensayos un oficio algo parecido al que pres-tan las matemáticas , también se les contraponen en cierto modo ....... ( 1) ## LXV ( Jesús del Monte , Marzo 26. )-Yo no hallo estraño que muchos       grandes pensadores hayan creído en las ideas in.. natas : 1º , por la fuerza productiva que en sí sentían ; 2º , por Ja facilidad ó espontaneidad con que concebían y daban á luz ; 3º , por el esplendor de las deducciones , como sucedía á Cartesio en las Matemáticas , que siendo las ciencias aprendidas por excelencia , como profundamente lo dice su nombre de bautismo , le parecían adivinadas . Todas estas causas les encubrían la causa en los efectos , la virtualidad en los fenómenos . Mi fórmula : Innatas las facultades , pero no las ideas . ## LXVI (Abril ) -Argumento sobre la inneidad sacado de la ad-miración , señal segura de la novedad . Virtualite , está todo en el entendimiento , es decir , están todas las nociones . ¡Cómo se ha procurado , obscurecer cosa tan clara ! ## LXVII (Mayo 8 )    .- La filosofía debe ser el reflejo exacto de Dios   ! (Se entiende , hasta donde pueda llegar el hombre ) . (1 )   Interrumpido el original ( A. Z. )
 
 And here are explained the great results of the method founded on experimentation.
 
@@ -1084,13 +1084,13 @@ LXV
 
 My formula: the faculties innate, but not the ideas.
 
-LXVI
+## LXVI
 
 (April).—An argument on innateness drawn from wonder, the sure sign of novelty.
 
 Virtualite [virtually], everything is in the understanding, that is to say, all the notions are there. How men have striven to obscure so clear a thing!
 
-LXVII
+## LXVII
 
 (May 8).—Philosophy must be the exact reflection of God! (That is understood, as far as man can reach).
 
@@ -1098,7 +1098,7 @@ LXVII
 
 [p. 48]
 
-> Desenvolver aquella       proposición es el legítimo prolegó-meno de la filosofía . Después sigue el medio . Por último el fin . Con que tres partes . El medio es la idea , el eje sobre que debe girar el sistema . Síntesis , por supuesto . -Y   acaso soy á propósito para bosquejar una , por haberme hallado en diversas épocas de mi vida y hasta simultáneamente , en circunstancias , las más opuestas y aun contradictorias que pueden imagi- -narse . Espíritu de examen después el comercio con Dios . Re-ligión desde los primeros años . La desgracia y la religión . Esta hace mirar á aquella hasta con entusiasmo , porque además de lo que en sí vale para mejorarnos , es el primero de los inspiradores . Se llega á sentir que no cruja el azote de la desdicha . LXVIII - (Mayo 9 ) * Los que profesando otras ciencias , ó ejer-ciendo la industria , niegan la influencia de la filosofía en ellas , son como los ateos , que viviendo , gozando y pensan-do , niegan la existencia de Dios . ¿Qué es la filosofía ? La última ( y la primera ) espresión de la razón humana . El por qué de lo pasado, el cómo de lo presente , y el cuando de lo futuro , porque sin adveniat regnum tuum no hay filosofía . Ideal , tipo , alma y blanco es menester en todo . ¿ De dón-de ? ¿ Quién ? ¿A dónde ? En el verbo está la espresión com-plexa del pensamiento , y por consiguiente , el embrión de la filosofía . LXIX - (Madruga , Mayo 27. ) La filosofía es una esponja que limpia , pero que también puede secar el corazón ; es me-nester mantener á éste la fertilidad con el rocío de la reli-gión .
+> Desenvolver aquella       proposición es el legítimo prolegó-meno de la filosofía . Después sigue el medio . Por último el fin . Con que tres partes . El medio es la idea , el eje sobre que debe girar el sistema . Síntesis , por supuesto . -Y   acaso soy á propósito para bosquejar una , por haberme hallado en diversas épocas de mi vida y hasta simultáneamente , en circunstancias , las más opuestas y aun contradictorias que pueden imagi- -narse . Espíritu de examen después el comercio con Dios . Re-ligión desde los primeros años . La desgracia y la religión . Esta hace mirar á aquella hasta con entusiasmo , porque además de lo que en sí vale para mejorarnos , es el primero de los inspiradores . Se llega á sentir que no cruja el azote de la desdicha . ## LXVIII - (Mayo 9 ) * Los que profesando otras ciencias , ó ejer-ciendo la industria , niegan la influencia de la filosofía en ellas , son como los ateos , que viviendo , gozando y pensan-do , niegan la existencia de Dios . ¿Qué es la filosofía ? La última ( y la primera ) espresión de la razón humana . El por qué de lo pasado, el cómo de lo presente , y el cuando de lo futuro , porque sin adveniat regnum tuum no hay filosofía . Ideal , tipo , alma y blanco es menester en todo . ¿ De dón-de ? ¿ Quién ? ¿A dónde ? En el verbo está la espresión com-plexa del pensamiento , y por consiguiente , el embrión de la filosofía . ## LXIX - (Madruga , Mayo 27. ) La filosofía es una esponja que limpia , pero que también puede secar el corazón ; es me-nester mantener á éste la fertilidad con el rocío de la reli-gión .
 
 To unfold that proposition is the legitimate prolegomenon of philosophy.
 
@@ -1112,7 +1112,7 @@ Synthesis, of course.—And perhaps I am suited to sketch one, having found myse
 
 Spirit of examination—then communion with God. Religion from my earliest years. Misfortune and religion. The latter makes one look upon the former even with enthusiasm, because, besides what it is worth in itself for bettering us, it is the first of inspirers. One comes to regret that the scourge of misfortune does not crack.
 
-LXVIII
+## LXVIII
 
 (May 9)—* Those who, professing other sciences, or engaging in industry, deny the influence of philosophy upon them, are like the atheists who, living, enjoying and thinking, deny the existence of God.
 
@@ -1120,13 +1120,13 @@ What is philosophy? The last (and the first) expression of human reason. The why
 
 An ideal, a type, a soul and a target are needed in everything. Whence? Who? Whither? In the verb lies the complex expression of thought, and consequently the embryo of philosophy.
 
-LXIX
+## LXIX
 
 (Madruga, May 27.)—Philosophy is a sponge that cleans, but that can also dry up the heart; one must keep the heart’s fertility with the dew of religion.
 
 [p. 49]
 
-> Cuidado que quien más adora la filosofía , para quien es una religión , no puede tratar de deprimirla : antes lo dicho es para atajar un inconveniente á que puede llevar, aunque lentamente . LXX - (Junio 22 .) El sistema de las compensaciones es emi-nentemente consolador ; pero más consolador es el cristia-nismo . En el orden político puede tener funestas consecuencias , inspirando una conformidad que no está bien con el pro-greso de los pueblos . Es menester confesar que fué filosofía que salió de la es-cuela de la desgracia , y á fuer de tal hija de buena madre . También puede inspirar los buenos sentimientos mos-trando los dolores con que están compensados los placeres , y las penas que acibaran la pasión ó el delito . LXXI - (Julio 7 .) Una prueba del alma humana es que más se sienten ( aun por los más abyectos y materiales ) las inju-rias de palabra que las de obra . LXXII (Agosto 22 )    .- Los prodigios que pasan en el mundo de ¡ la inteligencia ! ¡Los motivos ó series de ideas , por donde llegamos á las que parecen menos conexas ! No es este fenómeno el dela aparición de que hago mérito en otro aforismo . ( 1 ) Y  si tal pasa en un espíritu mediano , ¡ qué no será en las almas inspiradas por el genio , ó por la gracia ! LEn cada ge-nio , en cada santo . Sólo podemos por lo que nos pasa , barruntar , inducir lo que en los otros puede ser . ( 1)   El aforismo de referencia es el número LXII   ( A. Z. ) 4
+> Cuidado que quien más adora la filosofía , para quien es una religión , no puede tratar de deprimirla : antes lo dicho es para atajar un inconveniente á que puede llevar, aunque lentamente . ## LXX - (Junio 22 .) El sistema de las compensaciones es emi-nentemente consolador ; pero más consolador es el cristia-nismo . En el orden político puede tener funestas consecuencias , inspirando una conformidad que no está bien con el pro-greso de los pueblos . Es menester confesar que fué filosofía que salió de la es-cuela de la desgracia , y á fuer de tal hija de buena madre . También puede inspirar los buenos sentimientos mos-trando los dolores con que están compensados los placeres , y las penas que acibaran la pasión ó el delito . ## LXXI - (Julio 7 .) Una prueba del alma humana es que más se sienten ( aun por los más abyectos y materiales ) las inju-rias de palabra que las de obra . ## LXXII (Agosto 22 )    .- Los prodigios que pasan en el mundo de ¡ la inteligencia ! ¡Los motivos ó series de ideas , por donde llegamos á las que parecen menos conexas ! No es este fenómeno el dela aparición de que hago mérito en otro aforismo . ( 1 ) Y  si tal pasa en un espíritu mediano , ¡ qué no será en las almas inspiradas por el genio , ó por la gracia ! LEn cada ge-nio , en cada santo . Sólo podemos por lo que nos pasa , barruntar , inducir lo que en los otros puede ser . ( 1)   El aforismo de referencia es el número LXII   ( A. Z. ) 4
 
 Mind, he who most adores philosophy, for whom it is a religion, cannot seek to belittle it: rather, what has been said is meant to forestall a drawback to which it may lead, though slowly.
 
@@ -1140,11 +1140,11 @@ It must be confessed that it was a philosophy that came out of the school of mis
 
 It can also inspire good sentiments, by showing the sorrows with which pleasures are compensated, and the pains that embitter passion or crime.
 
-LXXI
+## LXXI
 
 (July 7.)—A proof of the human soul is that injuries by word are felt more (even by the most abject and material) than injuries by deed.
 
-LXXII
+## LXXII
 
 (August 22).—The prodigies that take place in the world of the intelligence!
 
@@ -1158,15 +1158,15 @@ Only by what happens in us can we conjecture, infer, what may be in others.
 
 [p. 50]
 
-> LXXIII - (1847 . ) Тіетpo es el espacio de las ideas . No hay duda que existe grande relación y correlación en-tre el tiempo y el espacio , pero no esa casi - identidad en la idea que le encuentran algunos filósofos . Digo casi porque idénticos nadie pretende , ni puede pretender , que lo sean . Así , concediendo á Kant que el tiempo , o la idea de el es " una forma , de la intuición , " no se lo concedo respecto del espacio , que materialmente existe fuera de nosotros , en los mismos cuerpos y también como abstracción . Porque téngase presente que el tiempo no es el movimiento , sino que el movimiento contribuye á la idea del tiempo . LXXIV (Enero 21 .)   -no hay filesofía . Venga vida , de donde viniere , que sin vida Esos diversos sistemas que se contradicen , ó no se con-tradicen tanto como parece , son conditio sine qua non para el desarrollo intelectual , y para la gran síntesis . Así es co-mo se logra que cada cual haga lo que puede y lo que debe . Paralelismo de la síntesis en filosofía con la tendencia harmonizadora de la civilización . LXXV ( Febrero 22 .) -- Según Platón , nada se desea sin previo conocimiento ; pero esto debe entenderse así : “ por lo menos sin conocimiento de otro , de la Causa inicial , del Creador del mundo " , porque realmente las necesidades primeras , instintivas , que tratamos de satisfacer sin conocer su obje-to , y cuya conformidad con este advertimos después , mues-tran á las claras lo profundo del plan . LXXVI (Marzo 4.)   -   El estar más ó ménos fecundos , más ó menos
+> ## LXXIII - (1847 . ) Тіетpo es el espacio de las ideas . No hay duda que existe grande relación y correlación en-tre el tiempo y el espacio , pero no esa casi - identidad en la idea que le encuentran algunos filósofos . Digo casi porque idénticos nadie pretende , ni puede pretender , que lo sean . Así , concediendo á Kant que el tiempo , o la idea de el es " una forma , de la intuición , " no se lo concedo respecto del espacio , que materialmente existe fuera de nosotros , en los mismos cuerpos y también como abstracción . Porque téngase presente que el tiempo no es el movimiento , sino que el movimiento contribuye á la idea del tiempo . ## LXXIV (Enero 21 .)   -no hay filesofía . Venga vida , de donde viniere , que sin vida Esos diversos sistemas que se contradicen , ó no se con-tradicen tanto como parece , son conditio sine qua non para el desarrollo intelectual , y para la gran síntesis . Así es co-mo se logra que cada cual haga lo que puede y lo que debe . Paralelismo de la síntesis en filosofía con la tendencia harmonizadora de la civilización . ## LXXV ( Febrero 22 .) -- Según Platón , nada se desea sin previo conocimiento ; pero esto debe entenderse así : “ por lo menos sin conocimiento de otro , de la Causa inicial , del Creador del mundo " , porque realmente las necesidades primeras , instintivas , que tratamos de satisfacer sin conocer su obje-to , y cuya conformidad con este advertimos después , mues-tran á las claras lo profundo del plan . ## LXXVI (Marzo 4.)   -   El estar más ó ménos fecundos , más ó menos
 
-LXXIII
+## LXXIII
 
 (1847.)—Time is the space of ideas.
 
 There is no doubt that there exists a great relation and correlation between time and space, but not that quasi-identity in the idea that some philosophers find in it. I say quasi because nobody claims, nor can claim, that they are identical. Thus, while granting Kant that time, or the idea of it, is “a form of intuition,” I do not grant it to him with respect to space, which materially exists outside us, in bodies themselves—and also as an abstraction.—For let it be borne in mind that time is not motion, but that motion contributes to the idea of time.
 
-LXXIV
+## LXXIV
 
 (January 21.)—Let life come, from wherever it may, for without life there is no philosophy.
 
@@ -1174,31 +1174,31 @@ Those diverse systems that contradict one another, or do not contradict one anot
 
 Parallelism of synthesis in philosophy with the harmonizing tendency of civilization.
 
-LXXV
+## LXXV
 
 (February 22.)—According to Plato, nothing is desired without previous knowledge; but this must be understood thus: “at least not without the knowledge of another, of the initial Cause, of the Creator of the world”; for in truth the first, instinctive needs, which we seek to satisfy without knowing their object, and whose conformity with it we notice afterwards, show plainly the depth of the plan.
 
-LXXVI
+## LXXVI
 
 (March 4.)—Being more or less fertile, more or less
 
 [p. 51]
 
-> inclinados al pensamiento , depende muy principalmente del estado de los órganos , por consiguiente de las causas físi-casó morales que los alteran . LXXVII - (Marzo 5 .) * Aristóteles fué la forma sustancial de la losofia .  Quién más creador ¿                     sobre todo organizador y                                          ? fi- ¿Quién dió más forma         materia           la es á ? A veces dar forma     crear así creó de dos maneras ;                                         . LXXVIII (Marzo tístico . Y 6. )    -* arte lanza el El   génio filosófico presupone destellos         á                   la el   gérmen ar- más honda filosofía          , á   veces sin conciencia de su obra                           . LXXIX Abril ( sófico  . individuales 1ª 5. ) El Cuatro educación ( siglo   .- -4 causas para esplicar un sistema filo 2ª La individualidad . ) La nación .  forma - .   3 .     Los antecedentes la ( . mental    . )Esta última suele preterirse                             . Sinó cómo , ¿           esplica  se diferente sesgo   eldos contem-                    de poráneos -Platón Aristóteles- casi contemporáneos ?                   y                           (                                )   . Así está            en   la   naturaleza del hombre      Unos poéticos  .                          , otros matemáticos                 ; estos analíticos aquellos sintéticos etc. , LXXX Mayo ( desesperarse 28    de   1848.- la )        El filósofo debe impacientarse                      ,    no ,   en         causa de     humanidad la                  . LXXXI (  Octubre    de 1850. -Sobre 15          orden providencial en )                   el los descubrimientos del mundo fisico     adquisiciones en             y ,                                el moral intelectual su harmonía é                     :paralelismo     Profunda   y                   . filosofia para penetrar   alcance de los hechosel                                     .
+> inclinados al pensamiento , depende muy principalmente del estado de los órganos , por consiguiente de las causas físi-casó morales que los alteran . ## LXXVII - (Marzo 5 .) * Aristóteles fué la forma sustancial de la losofia .  Quién más creador ¿                     sobre todo organizador y                                          ? fi- ¿Quién dió más forma         materia           la es á ? A veces dar forma     crear así creó de dos maneras ;                                         . ## LXXVIII (Marzo tístico . Y 6. )    -* ## arte lanza el El   génio filosófico presupone destellos         á                   la el   gérmen ar- más honda filosofía          , á   veces sin conciencia de su obra                           . ## LXXIX Abril ( sófico  . individuales 1ª 5. ) El Cuatro educación ( siglo   .- -4 causas para esplicar un sistema filo 2ª La individualidad . ) La nación .  forma - .   3 .     Los antecedentes la ( . mental    . )Esta última suele preterirse                             . Sinó cómo , ¿           esplica  se diferente sesgo   eldos contem-                    de poráneos -Platón Aristóteles- casi contemporáneos ?                   y                           (                                )   . Así está            en   la   naturaleza del hombre      Unos poéticos  .                          , otros matemáticos                 ; estos analíticos aquellos sintéticos etc. , ## LXXX Mayo ( desesperarse 28    de   1848.- la )        El filósofo debe impacientarse                      ,    no ,   en         causa de     humanidad la                  . ## LXXXI (  Octubre    de 1850. -Sobre 15          orden providencial en )                   el los descubrimientos del mundo fisico     adquisiciones en             y ,                                el moral intelectual su harmonía é                     :paralelismo     Profunda   y                   . filosofia para penetrar   alcance de los hechosel                                     .
 
 inclined to thought, depends very principally on the state of the organs, and consequently on the physical or moral causes that alter them.
 
-LXXVII
+## LXXVII
 
 (March 5.)—* Aristotle was the substantial form of philosophy. Who more of a creator, and above all an organizer? Who gave more form to matter?
 
 Sometimes to give form is to create; thus he created in two ways.
 
-LXXVIII
+## LXXVIII
 
 (March 6.)—* Philosophical genius presupposes the artistic germ. And art flashes forth the deepest philosophy, sometimes without consciousness of its work.
 
-LXXIX
+## LXXIX
 
 (April 5.)—Four causes to explain a philosophical system. 1° The century.—2°   The    nation.—3°      Individual        antecedents     (education).—4° Individuality (the mental form.) This last is commonly passed over.
 
@@ -1206,27 +1206,27 @@ Otherwise, how is one to explain the different bent of two contemporaries?—Pla
 
 So it is in the nature of man. Some poetical, others mathematical; these analytical, those synthetical, etc.
 
-LXXX
+## LXXX
 
 (May 28, 1848.)—The philosopher may grow impatient, but must not despair, in the cause of humanity.
 
-LXXXI
+## LXXXI
 
 (October 15, 1850.)—On the providential order in the discoveries of the physical world, and acquisitions in the moral and intellectual: their harmony and parallelism. Profound philosophy is needed to penetrate the bearing of the facts.
 
 [p. 52]
 
-> ¡Cómo se le escapó , á Tácito nada ménos , el Cristianismo , y nada ménos que el Cristianismo ! -¿No sucederá esto á Bálmes con la Reforma de Lutero ? ( 1) LXXXII - (Noviembre 4 . ) El cristianismo , (como toda síntesis po-derosa , heredó de todas las doctrinas que le precedieron ; pero han sido nuevos é inmensos muchos de los beneficios que á la humanidad ha prestado . Nueva , y tan nueva , la doctrina moral , que exitó la persecución más desaforada en unos y el entusiasmo más ardiente en otros . Es menester ser muy somero en la historia para descono-cer todo esto , y no hacerse cargo de lo que costó al linaje humano apropiarse la idea de la unidad de Dios . Pero aún se necesita ser más somero en el estudio del corazón huma-no para desconocer que aún en medio de los mayores disla-tes , cuando en una doctrina hay un gran principio vital , se vivifica y mejora , y hasta resucita la pobre humanidad . LXXXIII - ( Febrero 25 de 1851 . ) Las mismas doctrinas no produ-cen el mismo resultado en diversos pueblos . Este fenóme-no no se ha escapado á los buenos observadores . Ya Mad . Stael lo advierte respecto de Alemania , Tocqueville con re-ferencia á los Estados - Unidos , y últimamente Lamartine ( y también antes la de Stael ) contrayéndose á Inglaterra . Yo , sin tenerlos presentes , he tenido oportunidad de ha-cer igual observación con motivo del panteismo que se echa en cara á la filosofía moderna de Alemania . La raza septentrional nunca se despoja completamente de su carácter religioso , reverente , metafísico y esencial-mente grave y contemplativo . Bajo este punto de vista , y en medio del indiferentismo (1)   Véase la nota de la página 35   .- (A. Ζ. )
+> ¡Cómo se le escapó , á Tácito nada ménos , el Cristianismo , y nada ménos que el Cristianismo ! -¿No sucederá esto á Bálmes con la Reforma de Lutero ? ( 1) ## LXXXII - (Noviembre 4 . ) El cristianismo , (como toda síntesis po-derosa , heredó de todas las doctrinas que le precedieron ; pero han sido nuevos é inmensos muchos de los beneficios que á la humanidad ha prestado . Nueva , y tan nueva , la doctrina moral , que exitó la persecución más desaforada en unos y el entusiasmo más ardiente en otros . Es menester ser muy somero en la historia para descono-cer todo esto , y no hacerse cargo de lo que costó al linaje humano apropiarse la idea de la unidad de Dios . Pero aún se necesita ser más somero en el estudio del corazón huma-no para desconocer que aún en medio de los mayores disla-tes , cuando en una doctrina hay un gran principio vital , se vivifica y mejora , y hasta resucita la pobre humanidad . ## LXXXIII - ( Febrero 25 de 1851 . ) Las mismas doctrinas no produ-cen el mismo resultado en diversos pueblos . Este fenóme-no no se ha escapado á los buenos observadores . Ya Mad . Stael lo advierte respecto de Alemania , Tocqueville con re-ferencia á los Estados - Unidos , y últimamente Lamartine ( y también antes la de Stael ) contrayéndose á Inglaterra . Yo , sin tenerlos presentes , he tenido oportunidad de ha-cer igual observación con motivo del panteismo que se echa en cara á la filosofía moderna de Alemania . La raza septentrional nunca se despoja completamente de su carácter religioso , reverente , metafísico y esencial-mente grave y contemplativo . Bajo este punto de vista , y en medio del indiferentismo (1)   Véase la nota de la página 35   .- (A. Ζ. )
 
 How Christianity escaped Tacitus, no less—and Christianity, no less! —Will not the same thing happen to Balmes with Luther’s Reformation? (1)
 
-LXXXII
+## LXXXII
 
 (November 4.)—Christianity, (like every powerful synthesis, inherited from all the doctrines that preceded it; but many of the benefits it has rendered to humanity have been new and immense. New, and so new, was its moral doctrine, that it excited the most unbridled persecution in some and the most ardent enthusiasm in others.
 
 One must be very shallow in history to fail to recognize all this, and not to take account of what it cost the human race to make the idea of the unity of God its own. But one must be shallower still in the study of the human heart to fail to recognize that even in the midst of the greatest absurdities, when there is a great vital principle in a doctrine, poor humanity is quickened and bettered, and even raised from the dead.
 
-LXXXIII
+## LXXXIII
 
 (February 25, 1851.)—The same doctrines do not produce the same result in different peoples. This phenomenon has not escaped good observers. Madame de Staël already notes it with respect to Germany, Tocqueville with reference to the United States, and lately Lamartine (and earlier, too, Madame de Staël) with regard to England.
 
@@ -1240,19 +1240,19 @@ From this point of view, and in the midst of the indifferentism
 
 [p. 53]
 
-> moderno , de la muerte religiosa , por decirlo de una vez , que acabó moralmente con la sociedad heredera del siglo XVIII , la filosofía alemana aunque protestante en su esencia , y emancipadora     en sus tendencias , ha sido la redentora , la restauradora de las ideas religiosas , la que les ha vuelto su importancia , y rehabilitado de rechazo á la cristiandad . Es forzoso ser justos é imparciales . Sin esto no hay filo-sofia posible : no hay aquel juicio superior y tranquilo ánimo que se cierne , y mira , sobre el conjunto de las cosas ; no hay síntesis . LXXXIV - (Febrero 10 de 1853 ) . El espacio está para el sentido , el tiempo para la memoria . No los ponemos por el entendimiento , sino que están en la naturaleza para el entendimiento ; de lo contrario todo sería subjetivo . LXXXV (Agosto 18 de 1855 ) . orientarnos - La Filosofía , lucero y brújula para entre las obras de Dios y del hombre . La sociedad debe amoldarse á la Filosofia , y no la Filoso-fía á la sociedad . El racionalismo es un desarrollo ocioso pero necesario de la Filosofia . El ateismo de Feuerbach [ 1 ] no es el de los enciclopedis-tas del siglo XVIII . ( 1) Luis María Feuerbach , célebre filósofo aleman . Estudiaba teo-logía , cuando marchó á Berlin á asistir á la cátedra de Hegel , cuyas ideas aceptó con entusiasmo, dedicándose á su propaganda ardorosa-mente . En 1830 publicó sus " Ideas acerca de la muerte y la inmorta-lidad del alma ," donde arguye en contra de ésta . Sus otras obras más notables son Historia de la filosofía ( 1833 ) , La filosofía y el cristia-nismo ( 1839) , La esencia del cristianismo ( 1841) , La filosofía del por-venir ( 1843) . Lo esencial de la religión ( 1845) , y algunas más . En va-rias de sus obras se defiende Feuerbach de la acusación de ateo , que tanto á él como á su maestro Hegel se ha dirigido . ( A. Ζ .)
+> moderno , de la muerte religiosa , por decirlo de una vez , que acabó moralmente con la sociedad heredera del siglo XVIII , la filosofía alemana aunque protestante en su esencia , y emancipadora     en sus tendencias , ha sido la redentora , la restauradora de las ideas religiosas , la que les ha vuelto su importancia , y rehabilitado de rechazo á la cristiandad . Es forzoso ser justos é imparciales . Sin esto no hay filo-sofia posible : no hay aquel juicio superior y tranquilo ánimo que se cierne , y mira , sobre el conjunto de las cosas ; no hay síntesis . ## LXXXIV - (Febrero 10 de 1853 ) . El espacio está para el sentido , el tiempo para la memoria . No los ponemos por el entendimiento , sino que están en la naturaleza para el entendimiento ; de lo contrario todo sería subjetivo . ## LXXXV (Agosto 18 de 1855 ) . orientarnos - La Filosofía , lucero y brújula para entre las obras de Dios y del hombre . La sociedad debe amoldarse á la Filosofia , y no la Filoso-fía á la sociedad . El racionalismo es un desarrollo ocioso pero necesario de la Filosofia . El ateismo de Feuerbach [ 1 ] no es el de los enciclopedis-tas del siglo XVIII . ( 1) Luis María Feuerbach , célebre filósofo aleman . Estudiaba teo-logía , cuando marchó á Berlin á asistir á la cátedra de Hegel , cuyas ideas aceptó con entusiasmo, dedicándose á su propaganda ardorosa-mente . En 1830 publicó sus " Ideas acerca de la muerte y la inmorta-lidad del alma ," donde arguye en contra de ésta . Sus otras obras más notables son Historia de la filosofía ( 1833 ) , La filosofía y el cristia-nismo ( 1839) , La esencia del cristianismo ( 1841) , La filosofía del por-venir ( 1843) . Lo esencial de la religión ( 1845) , y algunas más . En va-rias de sus obras se defiende Feuerbach de la acusación de ateo , que tanto á él como á su maestro Hegel se ha dirigido . ( A. Ζ .)
 
 of modern times, of religious death, to say it once and for all, which morally finished off the society that was heir to the eighteenth century, German philosophy, though Protestant in its essence and emancipating in its tendencies, has been the redeemer, the restorer of religious ideas, the one that has given them back their importance, and has rehabilitated Christendom on the rebound.
 
 We must be just and impartial. Without this no philosophy is possible: there is not that superior judgment and tranquil mind which soars over, and surveys, the whole of things; there is no synthesis.
 
-LXXXIV
+## LXXXIV
 
 (February 10, 1853).—Space is for sense, time for memory.
 
 We do not posit them by the understanding; rather they are in nature for the understanding; otherwise everything would be subjective.
 
-LXXXV
+## LXXXV
 
 (August 18, 1855).—Philosophy, the morning star and compass by which to find our bearings among the works of God and of man.
 
@@ -1266,13 +1266,13 @@ The atheism of Feuerbach [1] is not that of the encyclopedists of the eighteenth
 
 [p. 54]
 
-> La ciencia nunca puede formarse con lo negativo . Usos de lo negativo como en la eliminación algebraíca y en la esclusión baconiana . LXXXVI -La (Marzo 31 de 1856 ) . almas fuertes . filosofía es el misticismo de las
+> La ciencia nunca puede formarse con lo negativo . Usos de lo negativo como en la eliminación algebraíca y en la esclusión baconiana . ## LXXXVI -La (Marzo 31 de 1856 ) . almas fuertes . filosofía es el misticismo de las
 
 Science can never be formed out of the negative.
 
 Uses of the negative, as in algebraic elimination and in Baconian exclusion.
 
-LXXXVI
+## LXXXVI
 
 (March 31, 1856).—Philosophy is the mysticism of strong souls.
 
@@ -1280,21 +1280,21 @@ LXXXVI
 
 [PDF 52]
 
-> ENSEÑANZA Y EDUCACION . LXXXVII el (Sin fecha .) * espíritu con que -            - No estemos en como se enseña , sino en se enseña. Buscad primero el reino de Dios , y todo lo demás se os dará por añadidura . LXXXVIII (Idem. ) -   Nos proponemos fundar una escuela filosófica en nuestro país , un plantel de ideas  y sentimientos , y de método . Escuela de virtudes , de pensamientos y acciones ; no de espectantes ni eruditos , sino de activos y pensadores . LXXXIX ( Idem . ) * -Educar no es dar carrera para vivir , sino tem-plár el alma para la vida . XC (Idem . ) * -¡Ay de la juventud si no siente el estudio co-mo una religión ! XCI . (Idem ) *    -El espíritu de nuestra enseñanza es hacer sentir la ignorancia .
+> ## ENSEÑANZA Y EDUCACION  ## LXXXVII el (Sin fecha .) * ## espíritu con que -            - ## No estemos en como se enseña , sino en se enseña. Buscad primero el reino de Dios , y todo lo demás se os dará por añadidura . ## LXXXVIII (Idem. ) -   Nos proponemos fundar una escuela filosófica en nuestro país , un plantel de ideas  y sentimientos , y de método . Escuela de virtudes , de pensamientos y acciones ; no de espectantes ni eruditos , sino de activos y pensadores . ## LXXXIX ( Idem . ) * -Educar no es dar carrera para vivir , sino tem-plár el alma para la vida . XC (Idem . ) * -¡Ay de la juventud si no siente el estudio co-mo una religión ! XCI . (Idem ) *    -El espíritu de nuestra enseñanza es hacer sentir la ignorancia .
 
 ❖      ❖    ❖    ❖    ❖    ❖    ❖     ❖   ❖    ❖    ❖    ❖    ❖       ❖
 
 T eaching and E ducation .
 
-LXXXVII
+## LXXXVII
 
 (Undated.) *—Let us not dwell on how one teaches, but on the spirit with which one teaches.—Seek ye first the kingdom of God, and all the rest shall be added unto you.
 
-LXXXVIII
+## LXXXVIII
 
 (Idem.)—We propose to found a philosophical school in our country, a nursery of ideas and sentiments, and of method. A school of virtues, of thoughts and actions; not of spectators or of erudite men, but of men of action and of thinkers.
 
-LXXXIX
+## LXXXIX
 
 (Idem.) *—To educate is not to give a career for making a living, but to temper the soul for life.
 
@@ -1308,17 +1308,17 @@ XCI
 
 [p. 56]
 
-> XCII ( Idem .) * -Instruir puede cualquiera , educar solo quien sea un evangelio vivo . XCIII (Idem .) * -Espinoso apostolado es la enseñanza : que no hay apóstel sin sentir la fuerza de la verdad , y el impulso de propagarla . XCIV - (Mayo 7 de 1845. ) La juventud es la edad de los viajes . Ni en la niñez , ni en la vejez , debe salirse de la patria : en una y otra época se necesita el calor de la madre . No debe el niño educarse fuera del país donde ha de vi-vir de hombre . ¡ Cuántas pérdidas   irreparables trae la educación en suelo estraño ! Piérdese el idioma nativo , entíbiase el amor filial , relájase todo vínculo de familia , y hasta el santo amor á la patria sufre gravísimo detrimento en el contínuo cotejo de los hábitos adquiridos con los que es forzoso adquirir . XCV (Mayo 16 .) la tumba . -   La educación empieza en la cuna y acaba en XCVI - (Mayo 21 .) Por donde quiera que profundicemos vamos á parar en la necesidad de una fuerte educación religiosa , para formar hombres que sean hombres . XCVII (Diciembre 15. )  -El   hombre es un niño a quien es me-nester enseñar sin que lo perciba ;  -al menos sin que per-ciba adonde se le lleva .
+> ## XCII ( Idem .) * -Instruir puede cualquiera , educar solo quien sea un evangelio vivo . ## XCIII (Idem .) * -Espinoso apostolado es la enseñanza : que no hay apóstel sin sentir la fuerza de la verdad , y el impulso de propagarla . ## XCIV - (Mayo 7 de 1845. ) La juventud es la edad de los viajes . Ni en la niñez , ni en la vejez , debe salirse de la patria : en una y otra época se necesita el calor de la madre . No debe el niño educarse fuera del país donde ha de vi-vir de hombre . ¡ Cuántas pérdidas   irreparables trae la educación en suelo estraño ! Piérdese el idioma nativo , entíbiase el amor filial , relájase todo vínculo de familia , y hasta el santo amor á la patria sufre gravísimo detrimento en el contínuo cotejo de los hábitos adquiridos con los que es forzoso adquirir . ## XCV (Mayo 16 .) la tumba . -   La educación empieza en la cuna y acaba en ## XCVI - (Mayo 21 .) Por donde quiera que profundicemos vamos á parar en la necesidad de una fuerte educación religiosa , para formar hombres que sean hombres . ## XCVII (Diciembre 15. )  -El   hombre es un niño a quien es me-nester enseñar sin que lo perciba ;  -al menos sin que per-ciba adonde se le lleva .
 
-XCII
+## XCII
 
 (Idem.) *—Anyone can instruct; only he who is a living gospel can educate.
 
-XCIII
+## XCIII
 
 (Idem.) *—Teaching is a thorny apostolate: for there is no apostle without feeling the force of truth, and the impulse to propagate it.
 
-XCIV
+## XCIV
 
 (May 7, 1845.)—Youth is the age for travel. Neither in childhood nor in old age should one leave one’s homeland: at both these periods the warmth of the mother is needed.
 
@@ -1330,25 +1330,25 @@ XCV
 
 (May 16.)—Education begins in the cradle and ends in the grave.
 
-XCVI
+## XCVI
 
 (May 21.)—Wherever we dig deep, we come in the end to the necessity of a strong religious education, in order to form men who are men.
 
-XCVII
+## XCVII
 
 (December 15.)—Man is a child who must be taught without his perceiving it;—at least without his perceiving where he is being led.
 
 [p. 57]
 
-> XCVIII (Setiembre den pasarlo - 27 de 1848. ) Casi todas las profesiones pue- sin entusiasmo ; la de maestro no puede abso-lutamente . Lo ha menester para inculcar la doctrina y para vencer los obstáculos . Ha de ser todo inspiración , sacerdocio , mansedumbre , carácter , templanza , flexibilidad . XCIX - (Junio 23 de 1852. ) Sagrado es este ministerio de la enseñanza , y tremendo por los deberes que impone todavía más al que enseña que al enseñado ; pero de cualquier modo nada puede el uno sin el otro , están estrechamente ligados ante Dios y los hombres . C (Agosto 22. ) -La enseñanza es un contrato con Dios , no con los hombres . Arte por excelencia , como que es todo de inspiración aunque descanse en la esperiencia .
+> ## XCVIII (Setiembre den pasarlo - ## 27 de 1848. ) Casi todas las profesiones pue- sin entusiasmo ; la de maestro no puede abso-lutamente . Lo ha menester para inculcar la doctrina y para vencer los obstáculos . Ha de ser todo inspiración , sacerdocio , mansedumbre , carácter , templanza , flexibilidad . ## XCIX - (Junio 23 de 1852. ) Sagrado es este ministerio de la enseñanza , y tremendo por los deberes que impone todavía más al que enseña que al enseñado ; pero de cualquier modo nada puede el uno sin el otro , están estrechamente ligados ante Dios y los hombres . C (Agosto 22. ) -La enseñanza es un contrato con Dios , no con los hombres . Arte por excelencia , como que es todo de inspiración aunque descanse en la esperiencia .
 
-XCVIII
+## XCVIII
 
 (September 27, 1848.)—Almost all the professions can get along without enthusiasm; that of the teacher absolutely cannot. He has need of it to inculcate doctrine and to overcome obstacles.
 
 He must be all inspiration, priesthood, meekness, character, temperance, flexibility.
 
-XCIX
+## XCIX
 
 (June 23, 1852.)—Sacred is this ministry of teaching, and tremendous for the duties it imposes, still more on him who teaches than on him who is taught; but in any case neither can do anything without the other; they are closely bound together before God and men.
 
@@ -1362,7 +1362,7 @@ An art par excellence, since it is all inspiration, even though it rests on expe
 
 [PDF 55]
 
-> CI (Madruga , Mayo 23 de 1846 )    .- El primer filósofo de la cristiandad , San Pablo . Los P. P. los primeros moralistas del orbe , .... y los últimos . CII ( Octubre 23 ) -No hay una línea de San Agustín que no respire penitencia y alabanza . Aun en las materias más agenas de ello al parecer , Alma grande , grandísima : aún más en su humillación que en su grandeza mundanal . Nada engrandece más que la humillación ante Dios . Co-mo que nos hace más fuertes contra el mundo exterior é interior ( las pasiones , el leo rugiens de San Pablo ) . Es necesario considerar á San Agustin, no ya como un escritor de primer orden , sino como uno de los hombres más grandes que han existido . Como escritor , le distingue la concisión y es sin igual en
+> CI ## (Madruga , Mayo 23 de 1846 )    .- El primer filósofo de la cristiandad , San Pablo . Los P. P. los primeros moralistas del orbe , .... y los últimos . CII ( Octubre 23 ) -No hay una línea de San Agustín que no respire penitencia y alabanza . Aun en las materias más agenas de ello al parecer , Alma grande , grandísima : aún más en su humillación que en su grandeza mundanal . Nada engrandece más que la humillación ante Dios . Co-mo que nos hace más fuertes contra el mundo exterior é interior ( las pasiones , el leo rugiens de San Pablo ) . Es necesario considerar á San Agustin, no ya como un escritor de primer orden , sino como uno de los hombres más grandes que han existido . Como escritor , le distingue la concisión y es sin igual en
 
 ❖      ❖    ❖    ❖    ❖    ❖    ❖    ❖     ❖    ❖    ❖    ❖    ❖    ❖    ❖
 
@@ -1394,13 +1394,13 @@ One of the greatest marvels of Christianity is the conversion of such athletes.
 
 [PDF 57]
 
-> CIII (Sin fecha ) .   El poeta y el filósofo se distinguen , en que este descubre cosas    y aquel espresión . CIV .- (Junio 8 de 1842 ) El que no siente los encantos de la poesía y de la música , podrá ser , si se quiere , espíritu puro ó animal puro , no aquel compuesto de alma , vida y corazón que llamamos hombre . CV (Abril 18 de 1845 ) men del génio . - .La desventura , alimento y aún gér- Todos los poetas inmortales , fueron tan célebres por sus -desdichas como por sus obras : gran testigo el rey de ellos , Dante ; y Camoens , Milton , Cervantes el más original des-de que hay hombres- , Tasso , Shakespeare , Byron , etc. CVI (Abril 20 )   .-La música es una lengua que va derechamen-te al corazón , sin pagar la aduana del cerebro , como le su-cede á la poesía .
+> ## CIII (Sin fecha ) .   El poeta y el filósofo se distinguen , en que este descubre cosas    y aquel espresión . ## CIV .- (Junio 8 de 1842 ) El que no siente los encantos de la poesía y de la música , podrá ser , si se quiere , espíritu puro ó animal puro , no aquel compuesto de alma , vida y corazón que llamamos hombre . CV (Abril 18 de 1845 ) men del génio . - ## .La desventura , alimento y aún gér- Todos los poetas inmortales , fueron tan célebres por sus -desdichas como por sus obras : gran testigo el rey de ellos , Dante ; y Camoens , Milton , Cervantes el más original des-de que hay hombres- , Tasso , Shakespeare , Byron , etc. CVI (Abril 20 )   .-La música es una lengua que va derechamen-te al corazón , sin pagar la aduana del cerebro , como le su-cede á la poesía .
 
 ❖    ❖    ❖    ❖    ❖    ❖    ❖     ❖    ❖   ❖   ❖    ❖    ❖    ❖
 
 M usic and P oetry .
 
-CIII
+## CIII
 
 (Undated).—The poet and the philosopher differ in this: that the latter discovers things, and the former expression.
 
@@ -1420,7 +1420,7 @@ CVI
 
 [p. 62]
 
-> La música dispone de nosotros á su arbitrio , como que se dirige esencialmente al sentimiento . Por eso constituye excepción el ser insensible á su in-fluencia . Ella forma parte de nosotros mismos ; entra en la harmonía , en el juego de nuestros órganos y sus funciones . Por lo mismo es menos intelectual , pero más religiosa que la poesía . Ambas , con todas las artes , deben hermanarse y harmo-nizarse para mejorar de consuno al hombre , único fin de la religión y de la filosofía . Yo no puedo ver la filosofia sino en el conjunto y la har monía , la gran síntesis del eterno da - capo del análisis . De ahí que para ser filósofo es tan necesario ser poeta como matemático , y religioso como analizador ; tan amante de la naturaleza como de los libros , y sobre todo , " amar á Dios sobre todas las cosas y á tu prójimo más que á tí mismo ." CVII ( Mayo 16 ) . Solo la música tiene el poder de que deseé-mos prolongar las sensaciones melancólicas . ¡ Cuán tiránicamente nos gobierna ! CVIII - (Marzo 8 de 1846 ) . A veces cantamos tan expontánea-mente , inconscios de lo que hacemos , que es como una ne-cesidad física . Otras veces lo es moral , como cuando somos impelidos por la alegría . CIX ( Junio 29 ) . La inspiración no se busca : nace dentro de nosotros mismos . Es un Dios que nos arrastra y nos in-flama , y del cual no nos podemos libertar sino marchando ó quemándonos , produciendo lo concebido .
+> La música dispone de nosotros á su arbitrio , como que se dirige esencialmente al sentimiento . Por eso constituye excepción el ser insensible á su in-fluencia . Ella forma parte de nosotros mismos ; entra en la harmonía , en el juego de nuestros órganos y sus funciones . Por lo mismo es menos intelectual , pero más religiosa que la poesía . Ambas , con todas las artes , deben hermanarse y harmo-nizarse para mejorar de consuno al hombre , único fin de la religión y de la filosofía . Yo no puedo ver la filosofia sino en el conjunto y la har monía , la gran síntesis del eterno da - capo del análisis . De ahí que para ser filósofo es tan necesario ser poeta como matemático , y religioso como analizador ; tan amante de la naturaleza como de los libros , y sobre todo , " amar á Dios sobre todas las cosas y á tu prójimo más que á tí mismo ." ## CVII ( Mayo 16 ) . Solo la música tiene el poder de que deseé-mos prolongar las sensaciones melancólicas . ¡ Cuán tiránicamente nos gobierna ! ## CVIII - (Marzo 8 de 1846 ) . A veces cantamos tan expontánea-mente , inconscios de lo que hacemos , que es como una ne-cesidad física . Otras veces lo es moral , como cuando somos impelidos por la alegría . CIX ( Junio 29 ) . La inspiración no se busca : nace dentro de nosotros mismos . Es un Dios que nos arrastra y nos in-flama , y del cual no nos podemos libertar sino marchando ó quemándonos , produciendo lo concebido .
 
 Music disposes of us at its pleasure, inasmuch as it addresses itself essentially to feeling.
 
@@ -1434,11 +1434,11 @@ I cannot see philosophy except in the whole and in harmony, the great synthesis,
 
 Hence, to be a philosopher it is as necessary to be a poet as a mathematician, and religious as an analyst; as much a lover of nature as of books, and above all, to “love God above all things and thy neighbor more than thyself.”
 
-CVII
+## CVII
 
 (May 16).—Music alone has the power to make us wish to prolong melancholy sensations. How tyrannically it rules us!
 
-CVIII
+## CVIII
 
 (March 8, 1846).—At times we sing so spontaneously, unconscious of what we are doing, that it is like a physical necessity.
 
@@ -1476,13 +1476,13 @@ Sleep is a true function, a state of activity for the organism, and not a negati
 
 [p. 64]
 
-> - Inclinome á creer que hasta tiene su órgano especial-mente asignado visto todo lo que Ni los psicólogos ni los fisiologistas han hay   en el sueño . No quiero decir con la proposición anterior que dejen de dormirse los órganos todos gradualmente , sino que puede haber uno especialmente destinado á determinar los fenó menos del sueño . CXII . (Febrero 11 de 1847 )- El sueño : funcionar la vida de re-laciones á guisa de vida orgánica . La dependencia de los sentidos y el espíritu es estrechí-sima , y no separada y tardía como la fingen los psicólogos-
+> - Inclinome á creer que hasta tiene su órgano especial-mente asignado visto todo lo que Ni los psicólogos ni los fisiologistas han hay   en el sueño . No quiero decir con la proposición anterior que dejen de dormirse los órganos todos gradualmente , sino que puede haber uno especialmente destinado á determinar los fenó menos del sueño . ## CXII . (Febrero 11 de 1847 )- El sueño : funcionar la vida de re-laciones á guisa de vida orgánica . La dependencia de los sentidos y el espíritu es estrechí-sima , y no separada y tardía como la fingen los psicólogos-
 
 I incline to believe that it even has its own organ specially assigned to it.—Neither the psychologists nor the physiologists have seen all that there is in sleep.
 
 I do not mean by the foregoing proposition that the organs do not all fall asleep gradually, but that there may be one specially destined to determine the phenomena of sleep.
 
-CXII
+## CXII
 
 (February 11, 1847).—Sleep: the life of relation functioning after the manner of organic life.
 
@@ -1492,17 +1492,17 @@ The dependence between the senses and the spirit is very close indeed, and not s
 
 [PDF 61]
 
-> CXIII (Sin fecha ) . En la cuestión de los negros    lo menos ne-gro es el negro . CXIV - ( Mayo de 1845 ) . Al ver la obcecación con que todavía se pretende persistir en la trata negrera , diríase que el desti-no quiere prohijar la causa de los africanos , para vengarlos con usura . El interés es la vida de la sociedad moderna , y el veneno que la corroe . Respecto de la trata , hasta el interés está en contra , es decir el interés bien entendido . Pero ¡ siempre habían de ser los hombres superficiales ! Tal es la suerte de los que llaman positivos : los visionarios por excelencia . CXV . (Idem ) La introducción de negros en Cuba, es nuestro verdadero pecado original , tanto más cuanto que pagarán justos por pecadores . Pero justo es también que los miembros        de la sociedad sean solidarios y mancomunados en esa deuda , cuando nin-guno de ellos está exento de complicidad . 5
+> ## CXIII (Sin fecha ) . En la cuestión de los negros    lo menos ne-gro es el negro . ## CXIV - ( Mayo de 1845 ) . Al ver la obcecación con que todavía se pretende persistir en la trata negrera , diríase que el desti-no quiere prohijar la causa de los africanos , para vengarlos con usura . El interés es la vida de la sociedad moderna , y el veneno que la corroe . Respecto de la trata , hasta el interés está en contra , es decir el interés bien entendido . Pero ¡ siempre habían de ser los hombres superficiales ! Tal es la suerte de los que llaman positivos : los visionarios por excelencia . CXV . (Idem ) La introducción de negros en Cuba, es nuestro verdadero pecado original , tanto más cuanto que pagarán justos por pecadores . Pero justo es también que los miembros        de la sociedad sean solidarios y mancomunados en esa deuda , cuando nin-guno de ellos está exento de complicidad . 5
 
 ❖      ❖    ❖    ❖    ❖     ❖    ❖    ❖      ❖   ❖    ❖    ❖    ❖    ❖     ❖
 
 S lavery .
 
-CXIII
+## CXIII
 
 (Undated).—In the question of the Blacks, the least black thing is the Black.
 
-CXIV
+## CXIV
 
 (May, 1845).—Seeing the blindness with which men still seek to persist in the slave trade, one would say that destiny wishes to adopt the cause of the Africans, in order to avenge them with usury.
 
@@ -1518,15 +1518,15 @@ But it is just, too, that the members of society should be jointly and severally
 
 [p. 66]
 
-> CXVI ( Idem .) -- Para conocer la impureza del aire es necesario mudar de atmósfera . El hábito nos encubre la magnitud y gravedad del mal . Compensación providencial ó narcótico destructor .... ¿cual de los dos ?-Nosotros   contestaríamos de un modo , ellos de otro . CXVII (Abril 5 de 1847 ) .—¡Como contamina la esclavitud á es-clavos y amos ! ¡En qué atmósfera vivimos sumergidos ! No comprenden ni mi energía ni mi dulzura . Tal es el imperio de la costumbre que prefieren el mal trato habitual al bueno peregrino .-No puede existir un hombre más en desharmonía con esta sociedad ( desde la cumbre al cimien-to ) y sin embargo , vivo amándolos á todos y aun por eso los amo más , porque no hay otro remedio en lo humano que el amor . Dios me lo aumente para ejercitarlo , que á ocasiones es harto difícil .
+> ## CXVI ( Idem .) -- Para conocer la impureza del aire es necesario mudar de atmósfera . El hábito nos encubre la magnitud y gravedad del mal . Compensación providencial ó narcótico destructor .... ¿cual de los dos ?-Nosotros   contestaríamos de un modo , ellos de otro . ## CXVII (Abril 5 de 1847 ) .—¡Como contamina la esclavitud á es-clavos y amos ! ¡En qué atmósfera vivimos sumergidos ! No comprenden ni mi energía ni mi dulzura . Tal es el imperio de la costumbre que prefieren el mal trato habitual al bueno peregrino .-No puede existir un hombre más en desharmonía con esta sociedad ( desde la cumbre al cimien-to ) y sin embargo , vivo amándolos á todos y aun por eso los amo más , porque no hay otro remedio en lo humano que el amor . Dios me lo aumente para ejercitarlo , que á ocasiones es harto difícil .
 
-CXVI
+## CXVI
 
 (Idem.)—To perceive the impurity of the air it is necessary to change one’s atmosphere.
 
 Habit hides from us the magnitude and gravity of the evil. A providential compensation or a destructive narcotic.... which of the two?— We would answer in one way, they in another.
 
-CXVII
+## CXVII
 
 (April 5, 1847).—How slavery contaminates slaves and masters alike! In what an atmosphere we live submerged!
 
@@ -1536,13 +1536,13 @@ They understand neither my energy nor my gentleness. Such is the empire of custo
 
 [PDF 63]
 
-> CXVIII - (Sin fecha .) La tiranía es una atmósfera que no deja respirar al corazón , y sofoca sus impulsos . No pueden negar la esclavitud los pueblos que para todo esperan la iniciativa del Gobierno . Traslado á la Europa . Acá en América todo se lo hallan hecho , porque todo lo hacen ; esto es en la América por excelencia (E. U. ) , que puntos hay peores que en Asia y Africa . El libre es alma del esclavo , y es la libertad el alma universal . CXIX - (Abril 24 de 1845. ) El cautivo es el que aprecia la bertad  . Sin sentimiento no hay motivo para pensamien- el li- to ni    para    acción la           . La humanidad tiene que pasar por ciertos escalones de  ( abrojos   espinas para llegar y            )       ciertas alturas -Esclavo á           . fué quien dijo   homo sum humani nihil :   "            ,        me alienum á puto" .
+> ## CXVIII - (Sin fecha .) La tiranía es una atmósfera que no deja respirar al corazón , y sofoca sus impulsos . No pueden negar la esclavitud los pueblos que para todo esperan la iniciativa del Gobierno . Traslado á la Europa . Acá en América todo se lo hallan hecho , porque todo lo hacen ; esto es en la América por excelencia (E. U. ) , que puntos hay peores que en Asia y Africa . El libre es alma del esclavo , y es la libertad el alma universal . ## CXIX - (Abril 24 de 1845. ) El cautivo es el que aprecia la bertad  . Sin sentimiento no hay motivo para pensamien- el li- to ni    para    acción la           . La humanidad tiene que pasar por ciertos escalones de  ( abrojos   espinas para llegar y            )       ciertas alturas -Esclavo á           . fué quien dijo   homo sum humani nihil :   "            ,        me alienum á puto" .
 
 ❖     ❖    ❖    ❖    ❖    ❖    ❖     ❖      ❖   ❖   ❖   ❖    ❖    ❖     ❖
 
-L iberty and T yranny .
+## L iberty and T yranny .
 
-CXVIII
+## CXVIII
 
 (Undated.)—Tyranny is an atmosphere that does not let the heart breathe, and stifles its impulses.
 
@@ -1550,7 +1550,7 @@ Peoples who wait for the initiative of the Government in everything cannot deny 
 
 Here in America they find everything done, because they do everything themselves; that is, in America par excellence (the U. S.), for there are spots worse than in Asia and Africa. The free man is the soul of the slave, and liberty is the universal soul.
 
-CXIX
+## CXIX
 
 (April 24, 1845.)—It is the captive who appreciates liberty. Without feeling there is no motive for thought or for action.
 
@@ -1558,9 +1558,9 @@ Humanity must pass over certain steps (of thistles and thorns) to arrive at cert
 
 [p. 68]
 
-> CXX (Mayo social . 21 de 1847 .)-   La libertad , el alma del cuerpo La libertad , el fiat del mundo moral . Unica panacea para restañar y cicatrizar las heridas que ella misma (su abuso , la licencia ) ú otras causas , infieren á la sociedad . Absoluta es menester que sea , y esta es la tendencia de la humanidad . No quiero más freno que la religión y la razón ; incluyendo en éste el de la autoridad .
+> ## CXX (Mayo social . 21 de 1847 .)-   La libertad , el alma del cuerpo La libertad , el fiat del mundo moral . Unica panacea para restañar y cicatrizar las heridas que ella misma (su abuso , la licencia ) ú otras causas , infieren á la sociedad . Absoluta es menester que sea , y esta es la tendencia de la humanidad . No quiero más freno que la religión y la razón ; incluyendo en éste el de la autoridad .
 
-CXX
+## CXX
 
 (May 21, 1847.)—Liberty, the soul of the social body.
 
@@ -1574,13 +1574,13 @@ Absolute it must be, and this is the tendency of humanity. I want no other curb 
 
 [PDF 65]
 
-> CXXI - (Sin fecha. ) Nada es comparable á la dignidad de la len-gua latina . Ella fué hablada por el pueblo - rey, que le im-primió aquel carácter de grandeza , único en la historia del lenguaje humano , y que ni aún las lenguas más perfectas han podido jamás alcanzar . Nacida para mandar , esta lengua todavía manda en los libros de los que la hablaron . Es la lengua de los conquis-tadores romanos , y de los misioneros ( conquistadores ) de Ja Iglesia romana . Trajano , último esfuerzo del poder de Roma , la llevó hasta el Eufrates : el Romano Pontífice , la ha hecho entender en las Indias , la China , el Japón . Lengua de la civilización , mezclada con la de los Bárba-ros , nuestros padres , supo suavizar , refinar y por decirlo así , espiritualizar sus idiomas groseros . Tiéndase la vista sobre un mapa - mundi , y tírese la línea donde ésta lengua universal calló : allí están los límites de la civilización y de la fraternidad ; allende no encontraréis más que el parentezco humano .
+> ## CXXI - (Sin fecha. ) Nada es comparable á la dignidad de la len-gua latina . Ella fué hablada por el pueblo - rey, que le im-primió aquel carácter de grandeza , único en la historia del lenguaje humano , y que ni aún las lenguas más perfectas han podido jamás alcanzar . Nacida para mandar , esta lengua todavía manda en los libros de los que la hablaron . Es la lengua de los conquis-tadores romanos , y de los misioneros ( conquistadores ) de Ja Iglesia romana . Trajano , último esfuerzo del poder de Roma , la llevó hasta el Eufrates : el Romano Pontífice , la ha hecho entender en las Indias , la China , el Japón . Lengua de la civilización , mezclada con la de los Bárba-ros , nuestros padres , supo suavizar , refinar y por decirlo así , espiritualizar sus idiomas groseros . Tiéndase la vista sobre un mapa - mundi , y tírese la línea donde ésta lengua universal calló : allí están los límites de la civilización y de la fraternidad ; allende no encontraréis más que el parentezco humano .
 
 ❖    ❖     ❖    ❖     ❖    ❖     ❖     ❖    ❖    ❖     ❖    ❖     ❖    ❖
 
-L anguages .
+## L anguages .
 
-CXXI
+## CXXI
 
 (Undated.)—Nothing is comparable to the dignity of the Latin tongue. It was spoken by the king-people, which stamped upon it that character of grandeur, unique in the history of human speech, which not even the most perfect languages have ever been able to attain.
 
@@ -1592,13 +1592,13 @@ Cast your eye over a map of the world, and draw the line where this universal to
 
 [p. 70]
 
-> CXXII (Junio 23 de 1842 . )— * Lucir lengua , ó dejarse gober-nar de la lengua , y no gobernarla á eila , es propio de los escritores adocenados . CXXIII (Abril 26 de 1845. ) completa . -   * Las lenguas   única historia fiel y La más clara fuente de donde mana la teoría del pensa-miento (las ideas .) ¡ - Cuántas huellas de vilipendio querrían borrar de ellas los pueblos , si se les hicieran notar ! Y cuenta que lo favora-ble y lo adverso se graban en ellas indeleblemente . CXXIV - (Marzo 8 de 1846. ) Hay palabras que han muerto físi-camente , y viven moral ó metafóricamente : v . g . esplicar , que significa desplegar , y solo se aplica al desarrollo de las ideas . En italiano , por el contrario , conserva su vida física , habiendo perdido la moral , y así spiegare equivale á nues-tro esplicar . CXXV - (Setiembre 17. ) Las consonantes son el esqueleto de las lenguas , y por eso la mejor base de su anatomía compara-da , de su clasificación . CXXVI ( Febrero 10 de 1851 . )         - Hay en las lenguas , como en los pueblos , algo de orgánico , y algo de adventicio , peculiar , según su índole diversa . CXXVII . ( Febrero   12 .)   -   El espíritu   humano   procede    según sus
+> ## CXXII (Junio 23 de 1842 . )— * Lucir lengua , ó dejarse gober-nar de la lengua , y no gobernarla á eila , es propio de los escritores adocenados . ## CXXIII (Abril 26 de 1845. ) completa . -   * Las lenguas   única historia fiel y La más clara fuente de donde mana la teoría del pensa-miento (las ideas .) ¡ - Cuántas huellas de vilipendio querrían borrar de ellas los pueblos , si se les hicieran notar ! Y cuenta que lo favora-ble y lo adverso se graban en ellas indeleblemente . ## CXXIV - (Marzo 8 de 1846. ) Hay palabras que han muerto físi-camente , y viven moral ó metafóricamente : v . g . esplicar , que significa desplegar , y solo se aplica al desarrollo de las ideas . En italiano , por el contrario , conserva su vida física , habiendo perdido la moral , y así spiegare equivale á nues-tro esplicar . ## CXXV - (Setiembre 17. ) Las consonantes son el esqueleto de las lenguas , y por eso la mejor base de su anatomía compara-da , de su clasificación . ## CXXVI ( Febrero 10 de 1851 . )         - Hay en las lenguas , como en los pueblos , algo de orgánico , y algo de adventicio , peculiar , según su índole diversa . ## CXXVII  ( Febrero   12 .)   -   El espíritu   humano   procede    según sus
 
-CXXII
+## CXXII
 
 (June 23, 1842.)—* To show off one’s language, or to let oneself be governed by language instead of governing it, is the mark of run-of-the-mill writers.
 
-CXXIII
+## CXXIII
 
 (April 26, 1845.)—* Languages—the only faithful and complete history.
 
@@ -1606,19 +1606,19 @@ The clearest spring from which flows the theory of thought (of ideas.)
 
 How many marks of ignominy would peoples wish to erase from them, if these were pointed out to them!—And mark that the favorable and the adverse are engraved upon them indelibly.
 
-CXXIV
+## CXXIV
 
 (March 8, 1846.)—There are words that have died physically and live on morally or metaphorically: e.g. esplicar [to explain], which signifies desplegar [to unfold], and is applied only to the unfolding of ideas. In Italian, on the contrary, it preserves its physical life, having lost the moral one, and so spiegare is the equivalent of our esplicar.
 
-CXXV
+## CXXV
 
 (September 17.)—Consonants are the skeleton of languages, and therefore the best basis for their comparative anatomy, for their classification.
 
-CXXVI
+## CXXVI
 
 (February 10, 1851.)—There is in languages, as in peoples, something organic and something adventitious, peculiar, according to their diverse character.
 
-CXXVII.
+## CXXVII
 
 (February 12.)—The human spirit proceeds according to its
 
@@ -1634,19 +1634,19 @@ In like manner, without being in contact, some peoples, of the same race or of a
 
 [PDF 68]
 
-> CXXVIII - (Sin fecha .) Aún cuando los hombres operen muy ame-nudo siguiendo la voz de su interés , bien ó mal entendido , este no es el único motivo de sus acciones , ni la norma de su moralidad . Los hombres jamás graduan el mérito ó demérito de las acciones por la utilidad que produzcan . Entonces habría una moral para cada caso , y los medios cualesquiera que fuesen quedarían justificados como se consiguiera el fin . Esta es la moral de la tiranía . CXXIX - (Abril 10 de 1845 .) El ideal , es el aire que respiran las almas . Tan forzosas son las necesidades morales como las cor-porales . El moralista legislador no se debe contentar con satisfa-cerlas , es menester crearlas . CXXX . - (Mayo 3. ) El mal es la atmósfera del mundo moral : por eso no escapan de su influjo ni aún las más robustas cons-tituciones .
+> ## CXXVIII - (Sin fecha .) Aún cuando los hombres operen muy ame-nudo siguiendo la voz de su interés , bien ó mal entendido , este no es el único motivo de sus acciones , ni la norma de su moralidad . Los hombres jamás graduan el mérito ó demérito de las acciones por la utilidad que produzcan . Entonces habría una moral para cada caso , y los medios cualesquiera que fuesen quedarían justificados como se consiguiera el fin . Esta es la moral de la tiranía . ## CXXIX - (Abril 10 de 1845 .) El ideal , es el aire que respiran las almas . Tan forzosas son las necesidades morales como las cor-porales . El moralista legislador no se debe contentar con satisfa-cerlas , es menester crearlas . ## CXXX  - (Mayo 3. ) El mal es la atmósfera del mundo moral : por eso no escapan de su influjo ni aún las más robustas cons-tituciones .
 
 ❖      ❖    ❖    ❖    ❖    ❖    ❖     ❖       ❖   ❖   ❖   ❖      ❖   ❖   ❖
 
 M orality .
 
-CXXVIII
+## CXXVIII
 
 (Undated.)—Even though men very often act following the voice of their interest, well or ill understood, this is not the only motive of their actions, nor the rule of their morality.
 
 Men never measure the merit or demerit of actions by the utility they produce. Were it so, there would be a morality for each case, and the means, whatever they might be, would stand justified provided the end were attained. This is the morality of tyranny.
 
-CXXIX
+## CXXIX
 
 (April 10, 1845.)—The ideal is the air that souls breathe.
 
@@ -1654,23 +1654,23 @@ Moral needs are as compelling as bodily ones.
 
 The moralist-lawgiver must not content himself with satisfying them; he must create them.
 
-CXXX.
+## CXXX
 
 (May 3.)—Evil is the atmosphere of the moral world: that is why not even the most robust constitutions escape its influence.
 
 [p. 74]
 
-> Los hombres todo lo repiten con facilidad , y sobre todo la calumnia : amenudo sin mala intención y sólo por vulga-ridad . CXXXI (Enero 31 de 1846 ) .-¿De que dependerá la repugnancia material , orgánica , que me causa , como si me aguijaran , el ver materializar la parte moral del hombre , aunque sea en la más leve espresión ? Soy tan escrupuloso con la moral , sobre todo para los niños y el bello sexo , que donde otros no temen ni ven pe-ligro , veo yo muerte ó enfermedad incurable . Es este un sentimiento , casi un instinto , pero creo que la esperiencia más dilatada y la ciencia más profunda justificarán y corro-borarán ese hondísimo instinto . CXXXII (Marzo 8 ) . Hay cosas que no deben hablarse , ni escri-birse , ni pensarse , ni aun con un buen fin . Se corre el riesgo de apagar la lámpara de la moralidad , si se sopla fuerte , ó de corromperla si se alimenta con ga-ses mefiticos . Ah ! si los hombres influyentes estuvieran perennemente con la imágen de la moralidad por delante y por dentro , que los persiguiera como á mí; cuanto ganaría la huma-nidad ! CXXXIII - (Güines Junio 4 de 1847 ) .— El pueblo propende á gene-ralizar moralizando , y si no le ocurre la máxima acude al tesoro universal de los refranes . Todo no ha de ser pan y plata \ .
+> Los hombres todo lo repiten con facilidad , y sobre todo la calumnia : amenudo sin mala intención y sólo por vulga-ridad . ## CXXXI (Enero 31 de 1846 ) .-¿De que dependerá la repugnancia material , orgánica , que me causa , como si me aguijaran , el ver materializar la parte moral del hombre , aunque sea en la más leve espresión ? Soy tan escrupuloso con la moral , sobre todo para los niños y el bello sexo , que donde otros no temen ni ven pe-ligro , veo yo muerte ó enfermedad incurable . Es este un sentimiento , casi un instinto , pero creo que la esperiencia más dilatada y la ciencia más profunda justificarán y corro-borarán ese hondísimo instinto . ## CXXXII (Marzo 8 ) . Hay cosas que no deben hablarse , ni escri-birse , ni pensarse , ni aun con un buen fin . Se corre el riesgo de apagar la lámpara de la moralidad , si se sopla fuerte , ó de corromperla si se alimenta con ga-ses mefiticos . Ah ! si los hombres influyentes estuvieran perennemente con la imágen de la moralidad por delante y por dentro , que los persiguiera como á mí; cuanto ganaría la huma-nidad ! ## CXXXIII - (Güines Junio 4 de 1847 ) .— El pueblo propende á gene-ralizar moralizando , y si no le ocurre la máxima acude al tesoro universal de los refranes . Todo no ha de ser pan y plata \ .
 
 Men repeat everything readily, and above all calumny: often without ill intention, and merely out of vulgarity.
 
-CXXXI
+## CXXXI
 
 (January 31, 1846).—On what can it depend, the material, organic repugnance that I feel, as though I were being goaded, on seeing the moral part of man materialized, be it in the slightest expression?
 
 I am so scrupulous in matters of morality, above all where children and the fair sex are concerned, that where others neither fear nor see danger, I see death or incurable disease. This is a feeling, almost an instinct; but I believe that the widest experience and the deepest science will justify and corroborate that most profound instinct.
 
-CXXXII
+## CXXXII
 
 (March 8).—There are things that ought not to be spoken, nor written, nor thought, not even with a good end in view.
 
@@ -1678,7 +1678,7 @@ One runs the risk of putting out the lamp of morality if one blows too hard, or 
 
 Ah! if influential men had perpetually before them and within them the image of morality, pursuing them as it pursues me, how much humanity would gain!
 
-CXXXIII
+## CXXXIII
 
 (Güines—June 4, 1847).—The people tend to generalize by moralizing, and if the maxim does not occur to them, they resort to the universal treasury of proverbs. Not everything can be bread and silver.
 
@@ -1686,19 +1686,19 @@ CXXXIII
 
 [PDF 70]
 
-> CXXXIV (Sin fecha) . El protestantismo ha sido la salvación del catolicismo , y aun le sigue suministrando un principio de vida . Tengo á la Reforma por un verdadero       retrempment para ei catolicismo , que estaba bien enfermo . CXXXV - (Febrero 4 de 1847. ) Es mucha parcialidad negar la in-fluencia de la Reforma en la civilización . Con este motivo quiero llamar á los pensadores al estu-dio sincero de las influencias de las varias causas que han contribuido al progreso de la Europa cristiana . En todos los grandes fenomenos , sean físicos ó morales , hay con-causas que modifican de tal manera la causa principal que en realidad la vuelven otra . Solo á la raza quiero poner por testigo . ¿Porqué la misma doctrina es más eficáz en
+> ## CXXXIV (Sin fecha) . El protestantismo ha sido la salvación del catolicismo , y aun le sigue suministrando un principio de vida . Tengo á la Reforma por un verdadero       retrempment para ei catolicismo , que estaba bien enfermo . ## CXXXV - (Febrero 4 de 1847. ) Es mucha parcialidad negar la in-fluencia de la Reforma en la civilización . Con este motivo quiero llamar á los pensadores al estu-dio sincero de las influencias de las varias causas que han contribuido al progreso de la Europa cristiana . En todos los grandes fenomenos , sean físicos ó morales , hay con-causas que modifican de tal manera la causa principal que en realidad la vuelven otra . Solo á la raza quiero poner por testigo . ¿Porqué la misma doctrina es más eficáz en
 
 ❖     ❖    ❖    ❖    ❖     ❖    ❖     ❖     ❖   ❖     ❖      ❖   ❖   ❖   ❖
 
 R eligious R eform .
 
-CXXXIV
+## CXXXIV
 
 (Undated).—Protestantism has been the salvation of Catholicism, and it still goes on supplying it with a principle of life.
 
 I hold the Reformation to have been a true retrempment [re-tempering] for Catholicism, which was very sick indeed.
 
-CXXXV
+## CXXXV
 
 (February 4, 1847.)—It is great partiality to deny the influence of the Reformation on civilization.
 
@@ -1706,15 +1706,15 @@ On this occasion I wish to call thinkers to a sincere study of the influences of
 
 [p. 76]
 
-> el europeo que en el judíof  " Quidquid recipitur ad modum recipiens   recipitur"-es forzoso decir , así en medicina como en moral . CXXXVI (Marzo 4.)-Ni                        ( se concibe el sesgo hablo del bueno ) que ha tomado el desarrollo                         : social sin la Reforma e. g. los Es-tados Unidos . -¡ CXXXVII ( Marzo 5 . )  Qué fuente de civilización , solo el haber vul- , garizado la Biblia , como lo hizo Lutero levantando asímis-mo un monumento á la honra de la lengua alemana !
+> el europeo que en el judíof  " Quidquid recipitur ad modum recipiens   recipitur"-es forzoso decir , así en medicina como en moral . ## CXXXVI ## (Marzo 4.)-Ni                        ( se concibe el sesgo hablo del bueno ) que ha tomado el desarrollo                         : social sin la Reforma e. g. los Es-tados Unidos . -¡ ## CXXXVII ( Marzo 5 . )  Qué fuente de civilización , solo el haber vul- , garizado la Biblia , como lo hizo Lutero levantando asímis-mo un monumento á la honra de la lengua alemana !
 
 the European than in the Jew?—“Quidquid recipitur ad modum recipientis recipitur” [whatever is received is received according to the mode of the receiver]—one is bound to say, in medicine as in morals.
 
-CXXXVI
+## CXXXVI
 
 (March 4.)—The turn (I speak of the good one) that social development has taken is not even conceivable without the Reformation: e.g. the United States.
 
-CXXXVII
+## CXXXVII
 
 (March 5.)—What a source of civilization, merely to have popularized the Bible, as Luther did, raising at the same time a monument to the honor of the German language!
 
@@ -1722,21 +1722,21 @@ CXXXVII
 
 [PDF 72]
 
-> Y EL MATRIMONIO . CXXXVIII (Sin fecha . )  -   Quien no teme no ama, Para el amor todo es superable y todo insuperable . CXXXIX - (Idem .) La mujer no busca fama sino consideración . Conoce , siente , á fuer de débil , que no puede estar sin un apoyo . El hombre desea querer y la mujer ser querida . En las relaciones de hombre á mujer suele olvidarse al-guna vez el sexo , en las de mujer á hombre jamás . CXL - ( Idem .)    Mujer , sé sol de tu casa y luna del mundo . CXLI - ( Idem . ) Rocío del cielo sobre el alma atribulada mujer discreta . -   una
+> ## Y EL MATRIMONIO  ## CXXXVIII (Sin fecha . )  -   Quien no teme no ama, Para el amor todo es superable y todo insuperable . ## CXXXIX - (Idem .) La mujer no busca fama sino consideración . Conoce , siente , á fuer de débil , que no puede estar sin un apoyo . El hombre desea querer y la mujer ser querida . En las relaciones de hombre á mujer suele olvidarse al-guna vez el sexo , en las de mujer á hombre jamás . CXL - ( Idem .)    Mujer , sé sol de tu casa y luna del mundo . ## CXLI - ( Idem . ) Rocío del cielo sobre el alma atribulada mujer discreta . -   una
 
 ❖     ❖    ❖    ❖    ❖    ❖   ❖     ❖     ❖   ❖   ❖   ❖    ❖    ❖    ❖
 
-L ove , W oman
+## L ove , W oman
 
 and M arriage .
 
-CXXXVIII
+## CXXXVIII
 
 (Undated.)—Who fears not, loves not.
 
 For love everything is surmountable and everything insurmountable.
 
-CXXXIX
+## CXXXIX
 
 (Idem.)—Woman seeks not fame but consideration.
 
@@ -1750,27 +1750,27 @@ CXL
 
 (Idem.)—Woman, be the sun of your house and the moon of the world.
 
-CXLI
+## CXLI
 
 (Idem.)—Dew from heaven upon the troubled soul—a discreet woman.
 
 [p. 78]
 
-> - Piedra filosofal que convierte en oro todas las escorias de la vida una mujer amante . CXLII - ( Idem. ) * ¡ Difícil problema el que debe empeñar á la mujer !-Siendo el alma de la vida doméstica no aparecer mas que su instrumento . CXLIII ( Idem .)   -   *   En el álbum de una señorita . Guarda en lo más profundo de tu pecho , como en precio-sa redoma , el talisman con que has de conjurar todas las tempestades de la vida : tu inocencia . CXLIV (Idem .)    -   * En otro álbum . El cielo quisiera yo por ambiente para nuestras  bellas ; mas ya que es tan deletéreo el aire que respiran , enseñé-moslas por lo ménos á sanearlo y purificarlo . El mundo es un libro que se lée á pedazos , pero es me-nester encuadernarlo , quemándole antes algunas hojas , y poniéndole otras en limpio . CXLV [ Junio 9 de 1842 ] .      - CXLVI ( Abril 25 de 1845. ) el análisis . - La mujer el sentimiento , el hombre La mujer la pasión , el hombre la acción . ¿Cuál es el superior ?  Ninguno : son diversos para llenar su fin . El sentimiento orígen de todo lo grande , y de todo lo pe-queño en la mujer . * El amor es un déspota esencialmen-te injusto ; y así debe ser .
+> - Piedra filosofal que convierte en oro todas las escorias de la vida una mujer amante . ## CXLII - ( Idem. ) * ¡ Difícil problema el que debe empeñar á la mujer !-Siendo el alma de la vida doméstica no aparecer mas que su instrumento . ## CXLIII ( Idem .)   -   *   En el álbum de una señorita . Guarda en lo más profundo de tu pecho , como en precio-sa redoma , el talisman con que has de conjurar todas las tempestades de la vida : tu inocencia . ## CXLIV (Idem .)    -   * En otro álbum . El cielo quisiera yo por ambiente para nuestras  bellas ; mas ya que es tan deletéreo el aire que respiran , enseñé-moslas por lo ménos á sanearlo y purificarlo . El mundo es un libro que se lée á pedazos , pero es me-nester encuadernarlo , quemándole antes algunas hojas , y poniéndole otras en limpio . ## CXLV [ Junio 9 de 1842 ] .      - ## CXLVI ( Abril 25 de 1845. ) el análisis . - La mujer el sentimiento , el hombre La mujer la pasión , el hombre la acción . ¿Cuál es el superior ?  Ninguno : son diversos para llenar su fin . El sentimiento orígen de todo lo grande , y de todo lo pe-queño en la mujer . * El amor es un déspota esencialmen-te injusto ; y así debe ser .
 
 A philosopher’s stone that turns all the dross of life into gold—a loving woman.
 
-CXLII
+## CXLII
 
 (Idem.)—* A difficult problem, the one that must engage woman!— Being the soul of domestic life, to appear no more than its instrument.
 
-CXLIII
+## CXLIII
 
 (Idem.)—* In a young lady’s album.
 
 Keep in the depths of your breast, as in a precious phial, the talisman with which you are to conjure all the tempests of life: your innocence.
 
-CXLIV
+## CXLIV
 
 (Idem.)—* In another album.
 
@@ -1778,11 +1778,11 @@ I would have heaven itself for the surrounding air of our fair ones; but since t
 
 The world is a book that is read in pieces, but it must be bound, first burning some of its leaves and making fair copies of others.
 
-CXLV
+## CXLV
 
 [June 9, 1842].—* Love is a despot essentially unjust; and so it ought to be.
 
-CXLVI
+## CXLVI
 
 (April 25, 1845.)—Woman, feeling; man, analysis.—Woman, passion; man, action.
 
@@ -1792,7 +1792,7 @@ Feeling is the origin of all that is great, and of all that is petty, in woman.
 
 [p. 79]
 
-> En un sentido es la mujer vas infirmius , vaso más frágil , porque requiere más contemplaciones para no quebrarse . La mujer necesita ser y parecer . A ella el ministerio de lo interior, pero con intervención (siempre provechosa y proficua ) en el de relaciones exte-riores , que de derecho pertenece al varón . ¿Es la sociedad harto rigurosa en exigir más de la mujer que del marido en punto á moralidad ? No tal , y así está en el órden de la naturaleza , y en el interés de la mujer , y en el espíritu del cristianismo a quien debe el rango que ocupa en la moderna civilización       . CXLVII (Abril 26 ) .- La mujer con todo el calor de su sentimien-to , es sin embargo más positiva que el hombre relativamen-te á los negocios , por eso le doy la intervención en los mismos . La mujer que es todo desprendimiento y falta de cálculo , si una vez llega á querer , es eminentemente calculadora en un solo negocio , que por desgracia suele salirle fallido , aún coronado por el éxito . Más susceptible     es el hombre         que la mujer de amar dos veces . El hombre    suele perder  los estribos en amor , hasta en edad bien avanzada .     La mujer al contrario , suele ser in-sensata á fuerza de cálculo . Todas consecuencias forzosas , fisiológicas , por decirlo así , de la fundamental diferencia de su constitución . CXLVIII (Abril 30 ).- * El verdadero amor desea más perfecciones para el objeto amado que para el amante . De aquí nace la parcialidad hácia cuanto en aquel ob serva .
+> En un sentido es la mujer vas infirmius , vaso más frágil , porque requiere más contemplaciones para no quebrarse . La mujer necesita ser y parecer . A ella el ministerio de lo interior, pero con intervención (siempre provechosa y proficua ) en el de relaciones exte-riores , que de derecho pertenece al varón . ¿Es la sociedad harto rigurosa en exigir más de la mujer que del marido en punto á moralidad ? No tal , y así está en el órden de la naturaleza , y en el interés de la mujer , y en el espíritu del cristianismo a quien debe el rango que ocupa en la moderna civilización       . ## CXLVII (Abril 26 ) .- La mujer con todo el calor de su sentimien-to , es sin embargo más positiva que el hombre relativamen-te á los negocios , por eso le doy la intervención en los mismos . La mujer que es todo desprendimiento y falta de cálculo , si una vez llega á querer , es eminentemente calculadora en un solo negocio , que por desgracia suele salirle fallido , aún coronado por el éxito . Más susceptible     es el hombre         que la mujer de amar dos veces . El hombre    suele perder  los estribos en amor , hasta en edad bien avanzada .     La mujer al contrario , suele ser in-sensata á fuerza de cálculo . Todas consecuencias forzosas , fisiológicas , por decirlo así , de la fundamental diferencia de su constitución . ## CXLVIII (Abril 30 ).- * El verdadero amor desea más perfecciones para el objeto amado que para el amante . De aquí nace la parcialidad hácia cuanto en aquel ob serva .
 
 In one sense woman is vas infirmius, the weaker vessel, because she requires more consideration so as not to be broken.
 
@@ -1802,7 +1802,7 @@ To her the ministry of the interior, but with a voice (always beneficial and pro
 
 Is society too rigorous in demanding more of the wife than of the husband in the matter of morality? Not at all; and so it is in the order of nature, and in the interest of woman, and in the spirit of Christianity, to which she owes the rank she holds in modern civilization.
 
-CXLVII
+## CXLVII
 
 (April 26).—Woman, with all the warmth of her feeling, is nevertheless more positive than man in regard to business; that is why I give her a voice in it.
 
@@ -1812,7 +1812,7 @@ Man is more capable than woman of loving twice.
 
 Man is apt to lose his head in love, even at a well-advanced age. Woman, on the contrary, is apt to be senseless by dint of calculation. All of them necessary consequences—physiological, so to speak—of the fundamental difference in their constitution.
 
-CXLVIII
+## CXLVIII
 
 (April 30).—* True love desires more perfections for the beloved object than for the lover.
 
@@ -1820,11 +1820,11 @@ Hence arises its partiality toward everything it observes in that object.
 
 [p. 80]
 
-> Que el amor legítimo (así como el espíritu de partido ) es esencialmente injusto . CXLIX (Mayo 2)     .-* Sin varios y varias no está bien constituida la familia . El matrimonio sin hijos , no solo árbol sin fruto, sino te-rreno donde no pueden nacer ciertas plantas , ni medrar cosa las que en él viven . Pero nunca hay yermos ní esterilidades para las almas religiosas , en las que el mal es gérmen de bienes inefables y sin cuento . CL (Mayo 15) . Para estimarse es menester separarse . El corazón como el espíritu ha menester el aislamiento para sentir y juzgar . Son dulces las lágrimas      que la amistad y el amor hacen verter en la soledad . CLI - (Mayo 23 .) El amor primera fianza de pureza , á fuer de último grado de la fé . CLII .- (Junio 16 de 1846 ) Una pasión fuerte se devora á sí misma ó se ahoga en otra . Acciones deberían llamarse las pasiones . Pero bien está el nombre , que es difícil enmendar la plana al espíritu hu-mano universal , y que alternativamente son efectos y cau-sas . Nosotros blanco ó juguete . Para combatir las propias , siempre irles de frente ; para las agenas á veces de frente , otras de soslayo y las más por rodeos . Con la juventud rara vez resulta eficaz el primer medio ;
+> Que el amor legítimo (así como el espíritu de partido ) es esencialmente injusto . ## CXLIX (Mayo 2)     .-* Sin varios y varias no está bien constituida la familia . El matrimonio sin hijos , no solo árbol sin fruto, sino te-rreno donde no pueden nacer ciertas plantas , ni medrar cosa las que en él viven . Pero nunca hay yermos ní esterilidades para las almas religiosas , en las que el mal es gérmen de bienes inefables y sin cuento . CL (Mayo 15) . Para estimarse es menester separarse . El corazón como el espíritu ha menester el aislamiento para sentir y juzgar . Son dulces las lágrimas      que la amistad y el amor hacen verter en la soledad . CLI - (Mayo 23 .) El amor primera fianza de pureza , á fuer de último grado de la fé . ## CLII .- (Junio 16 de 1846 ) Una pasión fuerte se devora á sí misma ó se ahoga en otra . Acciones deberían llamarse las pasiones . Pero bien está el nombre , que es difícil enmendar la plana al espíritu hu-mano universal , y que alternativamente son efectos y cau-sas . Nosotros blanco ó juguete . Para combatir las propias , siempre irles de frente ; para las agenas á veces de frente , otras de soslayo y las más por rodeos . Con la juventud rara vez resulta eficaz el primer medio ;
 
 So that legitimate love (like the spirit of party) is essentially unjust.
 
-CXLIX
+## CXLIX
 
 (May 2).—* Without several sons and several daughters the family is not well constituted.
 
@@ -1844,7 +1844,7 @@ CLI
 
 (May 23.)—Love, the first pledge of purity, being the last degree of faith.
 
-CLII
+## CLII
 
 (June 16, 1846).—A strong passion devours itself or is drowned in another.
 
@@ -1856,11 +1856,11 @@ With the young the first means rarely proves effective;
 
 [p. 81]
 
-> para el sexo femenino el mejor es el último , curándose con aquello en que es más maestro . CLIII - (Septiembre 6 ) . La mujer gana para sí con ser gober-nada . También el hombre ha menester ser gobernado , pero en otro sentido . Aquella por el amor , éste por la razón . La mujer si no siente no padece : si no siente no es nada , no es mujer , y si siente suele ser más que mujer . Pero ¡ ay de ella si no vá bien encaminado el sentimiento ! Sólo la religión , que es la razón bajo la forma del senti-miento , puede hacerla entrar en razón , porque su razón es el sentimiento . CLIV - ( Febrero 17 de 1847 ) . Es ente tan débil la mujer , que aún la más enérgica de temple no siempre manifiesta en derechura su intención , sino dando á entender que lleva otro motivo diverso al fin á que se encamina , sobre todo , si sirve de capa á su vanidad ( y hé aquí en la causa otra de-bilidad ) . Ni aún en el abandono proverbial del amor , se abandona en esta parte . Camina por curvas , ó como la luz por rectas que sufren reflexión , refracción , difracción , y hasta polarización . Hay hombres que proceden así , que son débiles ; pero es-tos son forzados á disimular por causas externas , en tanto que la mujer por su misma naturaleza . La mujer no prescinde jamás del parecer ; el hombre sue-le contentarse con el ser . CLV . (Junio 15 ) . *   - Los dos antipodas , el amor y el desamor (esto es la carencia completa de amor femenil ) móviles de , 6
+> para el sexo femenino el mejor es el último , curándose con aquello en que es más maestro . ## CLIII - (Septiembre 6 ) . La mujer gana para sí con ser gober-nada . También el hombre ha menester ser gobernado , pero en otro sentido . Aquella por el amor , éste por la razón . La mujer si no siente no padece : si no siente no es nada , no es mujer , y si siente suele ser más que mujer . Pero ¡ ay de ella si no vá bien encaminado el sentimiento ! Sólo la religión , que es la razón bajo la forma del senti-miento , puede hacerla entrar en razón , porque su razón es el sentimiento . ## CLIV - ( Febrero 17 de 1847 ) . Es ente tan débil la mujer , que aún la más enérgica de temple no siempre manifiesta en derechura su intención , sino dando á entender que lleva otro motivo diverso al fin á que se encamina , sobre todo , si sirve de capa á su vanidad ( y hé aquí en la causa otra de-bilidad ) . Ni aún en el abandono proverbial del amor , se abandona en esta parte . Camina por curvas , ó como la luz por rectas que sufren reflexión , refracción , difracción , y hasta polarización . Hay hombres que proceden así , que son débiles ; pero es-tos son forzados á disimular por causas externas , en tanto que la mujer por su misma naturaleza . La mujer no prescinde jamás del parecer ; el hombre sue-le contentarse con el ser . ## CLV  (Junio 15 ) . *   - Los dos antipodas , el amor y el desamor (esto es la carencia completa de amor femenil ) móviles de , 6
 
 for the female sex the best is the last, curing them with that in which they are most masterly.
 
-CLIII
+## CLIII
 
 (September 6).—Woman gains for herself by being governed.
 
@@ -1870,7 +1870,7 @@ Woman, if she does not feel, does not suffer: if she does not feel she is nothin
 
 But woe to her if her feeling is not well directed! Only religion—which is reason under the form of feeling—can bring her to reason, because her reason is feeling.
 
-CLIV
+## CLIV
 
 (February 17, 1847).—Woman is so weak a being that even the most energetic in temper does not always show her intention straightforwardly, but gives to understand that she has some motive other than the end she is making for, above all if it serves as a cloak for her vanity (and here, in the cause, is another weakness). Not even in the proverbial abandon of love does she abandon herself in this respect. She moves along curves, or, like light, along straight lines that undergo reflection, refraction, diffraction, and even polarization.
 
@@ -1878,13 +1878,13 @@ There are men who proceed thus, who are weak; but these are forced to dissemble 
 
 Woman never dispenses with seeming; man is apt to content himself with being.
 
-CLV.
+## CLV
 
 (June 15). *—The two antipodes, love and lovelessness (that is, the complete absence of womanly love), the motives of
 
 [p. 82]
 
-> las más enérgicas resoluciones ; aunque yo mas que enérgi-cas llamaría arrastradas á las primeras . Suele quedarse el hombre con el amor , como el loco de - Cervantes con cuantos perros topaba : " Este es podenco ." CLVI ( Diciembre 27) .-El desamor , la resignación , no pueden producir ; nada negativo puede sustituir á lo positivo . Pro-ducir   es   progresar . Cada virtud tiene    su aplicación . Yo soy adorador de la resignación ; pero el alma que no tiene algo más , murió pa-ra el prójimo y hasta para Dios . Es menester un móvil de acción . Es menester amar . Amar y resignarse , ved ahí la vida de los santos ; siempre querer , no siempre        resignarse , ved ahí la historia de los héroes . Pero el desamor no solo estorba el producir , sino que apaga gradualmente hasta lo que ya existía ; de modo que no es ni el statu quo , sino el vade - retro , es eminentemente retrógrado y desvirtuador . CLVII ( Mayo 30 de 1848 ) . *     - Nada cialidad que la indiferencia . más contrario á la impar- Por eso el amor y el odio hacen formar algunos juicios exactos . CLVIII (Diciembre 21 ) . *      - Coje lo que puede para hacer des-pués lo que quiere ; ahí está el matrimonio para muchas mujeres . La sociedad tiene la culpa en gran parte .
+> las más enérgicas resoluciones ; aunque yo mas que enérgi-cas llamaría arrastradas á las primeras . Suele quedarse el hombre con el amor , como el loco de - Cervantes con cuantos perros topaba : " Este es podenco ." ## CLVI ( Diciembre 27) .-El desamor , la resignación , no pueden producir ; nada negativo puede sustituir á lo positivo . Pro-ducir   es   progresar . Cada virtud tiene    su aplicación . Yo soy adorador de la resignación ; pero el alma que no tiene algo más , murió pa-ra el prójimo y hasta para Dios . Es menester un móvil de acción . Es menester amar . Amar y resignarse , ved ahí la vida de los santos ; siempre querer , no siempre        resignarse , ved ahí la historia de los héroes . Pero el desamor no solo estorba el producir , sino que apaga gradualmente hasta lo que ya existía ; de modo que no es ni el statu quo , sino el vade - retro , es eminentemente retrógrado y desvirtuador . ## CLVII ( Mayo 30 de 1848 ) . *     - Nada cialidad que la indiferencia . más contrario á la impar- Por eso el amor y el odio hacen formar algunos juicios exactos . ## CLVIII (Diciembre 21 ) . *      - Coje lo que puede para hacer des-pués lo que quiere ; ahí está el matrimonio para muchas mujeres . La sociedad tiene la culpa en gran parte .
 
 the most energetic resolutions; although I would call the former, rather than energetic, dragged along.
 
@@ -1892,7 +1892,7 @@ Man is apt to treat love as the madman of Cervantes treated every dog he came up
 
 —“This one is a hound.”
 
-CLVI
+## CLVI
 
 (December 27).—Lovelessness and resignation cannot produce; nothing negative can take the place of the positive. To produce is to progress.
 
@@ -1904,13 +1904,13 @@ To love and to be resigned, there you have the life of the saints; always to lov
 
 But lovelessness not only hinders producing, it gradually extinguishes even what already existed; so that it is not even the statu quo, but the vade retro [get thee behind]; it is eminently retrograde and enfeebling.
 
-CLVII
+## CLVII
 
 (May 30, 1848). *—Nothing is more contrary to impartiality than indifference.
 
 That is why love and hatred lead us to form some exact judgments.
 
-CLVIII
+## CLVIII
 
 (December 21). *—To take what she can, so as to do afterwards what she wants: there you have marriage for many women.
 
@@ -1918,9 +1918,9 @@ Society is largely to blame.
 
 [p. 83]
 
-> CLIX - ( Julio 13 de 1850 ) . La mujer , aún la más virtuosa y ra-cional , nunca está propiamente en la razón . No es ese el camino por donde buscársela para hacerle el bien . En el sentimiento están sus reales ; en él se apalanca para defen-derse y ofender . Si se la quiere atacar es forzoso penetrar en este campo . De donde se infiere que la mujer sin creencias no es ni mujer: es una entidad media entre hombre y mujer , porque de aquél no tiene la razón ( esencia hasta del más incrédu-lo ) y carece de la fé tan esencial en la mujer . CLX ( Septiembre 21 ) .   -La mujer es ciega en la confianza co-mo lo es en el amor . CLXI ( Julio 7 de 1856 ) . * -En un album . Es la mujer una barquilla que navega entre los escollos de la frivolidad y la exageración , siendo solo la verdadera idea de su sér , la estrella que puede llevarla á salvamento . CLXII (Febrero 15 de 1857 ) . *   -El amor es la elevación de to-das nuestras potencias á la última potencia . Donde no hay amor , todo es dolor . CLXIII (Enero 5 de 1860 ) -En el album de B. A. Mujer ! .... Eres la flor de la creación ; pero á ley de tal efímera : trata , pues , de merecer más que de exigir , y serás flor eternamente .
+> ## CLIX - ( Julio 13 de 1850 ) . La mujer , aún la más virtuosa y ra-cional , nunca está propiamente en la razón . No es ese el camino por donde buscársela para hacerle el bien . En el sentimiento están sus reales ; en él se apalanca para defen-derse y ofender . Si se la quiere atacar es forzoso penetrar en este campo . De donde se infiere que la mujer sin creencias no es ni mujer: es una entidad media entre hombre y mujer , porque de aquél no tiene la razón ( esencia hasta del más incrédu-lo ) y carece de la fé tan esencial en la mujer . ## CLX ( Septiembre 21 ) .   -La mujer es ciega en la confianza co-mo lo es en el amor . ## CLXI ( Julio 7 de 1856 ) . * -En un album . Es la mujer una barquilla que navega entre los escollos de la frivolidad y la exageración , siendo solo la verdadera idea de su sér , la estrella que puede llevarla á salvamento . ## CLXII (Febrero 15 de 1857 ) . *   -El amor es la elevación de to-das nuestras potencias á la última potencia . Donde no hay amor , todo es dolor . ## CLXIII (Enero 5 de 1860 ) -En el album de B. A. Mujer ! .... Eres la flor de la creación ; pero á ley de tal efímera : trata , pues , de merecer más que de exigir , y serás flor eternamente .
 
-CLIX
+## CLIX
 
 (July 13, 1850).—Woman, even the most virtuous and rational, is never properly within reason. That is not the road by which to seek her out in order to do her good. In feeling her camp is pitched; on it she levers herself to defend herself and to offend. If one would attack her, one must needs penetrate into that field.
 
@@ -1930,19 +1930,19 @@ CLX
 
 (September 21).—Woman is blind in her trust as she is in her love.
 
-CLXI
+## CLXI
 
 (July 7, 1856). *—In an album.
 
 Woman is a little bark sailing between the reefs of frivolity and exaggeration, and only the true idea of her being is the star that can bring her safe to harbor.
 
-CLXII
+## CLXII
 
 (February 15, 1857). *—Love is the raising of all our powers to the highest power.
 
 Where there is no love, all is pain.
 
-CLXIII
+## CLXIII
 
 (January 5, 1860)—In the album of B. A.
 
@@ -1950,17 +1950,17 @@ Woman!.... You are the flower of creation; but, as such, ephemeral: strive, then
 
 [PDF 79]
 
-> CLXIV . .- (Sin fecha) Grande , y muy grande , superior á sí mismo fué Napoleón , cediendo á las razones de Dessoles para adop-tar el plan de Moreau en la campaña del Rhin , postergando sus propias sublimes ideas , y mediando la rivalidad que en-tre ellos reinaba . ¡El genio , naturalmente tenaz en sus con-cepciones , renunciar á ellas ! CLXV ( Idem ) . -- Napoleón :   resultado , forma , instrumento    y causa . Cosechador de lo que tantos tan penosamente sembraron , pero no mero cosechador para sí , como juzgan muchos apa-sionados ó superficiales , sino muy particularmente para la sociedad . Sin embargo ,   es lamentable     su falta , su divorcio con la libertad .
+> ## CLXIV  .- (Sin fecha) Grande , y muy grande , superior á sí mismo fué Napoleón , cediendo á las razones de Dessoles para adop-tar el plan de Moreau en la campaña del Rhin , postergando sus propias sublimes ideas , y mediando la rivalidad que en-tre ellos reinaba . ¡El genio , naturalmente tenaz en sus con-cepciones , renunciar á ellas ! ## CLXV ( Idem ) . -- Napoleón :   resultado , forma , instrumento    y causa . Cosechador de lo que tantos tan penosamente sembraron , pero no mero cosechador para sí , como juzgan muchos apa-sionados ó superficiales , sino muy particularmente para la sociedad . Sin embargo ,   es lamentable     su falta , su divorcio con la libertad .
 
 ❖      ❖    ❖    ❖    ❖     ❖    ❖     ❖     ❖   ❖    ❖    ❖     ❖    ❖
 
 N apoleon and W ashington .
 
-CLXIV.
+## CLXIV
 
 (Undated).—Great, and very great, superior to himself was Napoleon when he yielded to the arguments of Dessoles and adopted Moreau’s plan in the campaign of the Rhine, setting aside his own sublime ideas, and this despite the rivalry that reigned between them. Genius, naturally tenacious of its conceptions, renouncing them!
 
-CLXV
+## CLXV
 
 (Idem).—Napoleon: result, form, instrument and cause.
 
@@ -1970,9 +1970,9 @@ Nevertheless, his failing, his divorce from liberty, is lamentable.
 
 [p. 86]
 
-> CLXVI - . Washington es uno de los pocos san- (Abril 15 de 1845 ) tos de mi calendario . ¿Quién fué más grande , Washington ó Napoleón ? Fueron diversos , y correspondieron relativa y admira--blemente á su fin , y pudiéramos añadir instrumentalmente .
+> ## CLXVI - . Washington es uno de los pocos san- (Abril 15 de 1845 ) tos de mi calendario . ¿Quién fué más grande , Washington ó Napoleón ? Fueron diversos , y correspondieron relativa y admira--blemente á su fin , y pudiéramos añadir instrumentalmente .
 
-CLXVI
+## CLXVI
 
 (April 15, 1845).—Washington is one of the few saints in my calendar.
 
@@ -1984,39 +1984,39 @@ They were different, and each answered relatively and admirably to his end, and,
 
 [PDF 81]
 
-> * POLITICA            . CLXVII ( Sin fecha ) .   A José Mª Zayas . En el mar estamos ; fé y adelante ! .... CLXVIII (Idem ) . En un país en guerra , aunque se quiera , no se puede permanecer neutral . CLXIX (Idem )   .- Es menester combatir destruir aún tratando ,       , de construir . CLXX .- (Idem ) Fraternidad ! -Sinónimo de amor , igualdad y justicia entre los hombres . ¡ Qué trinidad ! CLXXI [ Idem ] . * -Somos unos niños tan mimados que no satis
+> * ## POLITICA             ## CLXVII ( Sin fecha ) .   A José Mª Zayas . En el mar estamos ; fé y adelante ! .... ## CLXVIII (Idem ) . En un país en guerra , aunque se quiera , no se puede permanecer neutral . ## CLXIX (Idem )   .- Es menester combatir destruir aún tratando ,       , de construir . ## CLXX .- (Idem ) Fraternidad ! -Sinónimo de amor , igualdad y justicia entre los hombres . ¡ Qué trinidad ! ## CLXXI [ Idem ] . * -Somos unos niños tan mimados que no satis
 
 ❖     ❖    ❖    ❖    ❖    ❖    ❖    ❖    ❖    ❖    ❖    ❖   ❖      ❖
 
 P olitic s .
 
-CLXVII
+## CLXVII
 
 (Undated).—To José Mª Zayas.—We are at sea; faith, and onward!....
 
-CLXVIII
+## CLXVIII
 
 (Idem).—In a country at war one cannot, even if one would, remain neutral.
 
-CLXIX
+## CLXIX
 
 (Idem).—One must fight, destroy, even while trying to build.
 
-CLXX
+## CLXX
 
 (Idem).—Fraternity!—Synonym of love, equality and justice among men. What a trinity!
 
-CLXXI
+## CLXXI
 
 [Idem]. *—We are such spoiled children that, not
 
 [p. 88]
 
-> fechos con tener endulzados los bordes de la copa , quere-mos tropezar con el azucariilo en el fondo , olvidándonos de que los amargos son los únicos restauradores del estragado estómago tropical . CLXXII ( Idem ) . * -¿Será el progreso tan sólo un hecho univer- Una y otro ; porque el es-sal , ó acaso una legítima teoría ? píritu humano no tarda en elevar á esa esfera un hecho de tales dimensiones . ¿Será el progreso   de hoy retroceso de mañana ? El progreso es el sol en torno del cual gravita inevitable-mente la estirpe de Jafet , arrastrando á todas las demás en su órbita , y cumpliendo así con la ley de su polaridad . CLXXIII ( Junio 7 de 1842 ) .--Constantemente se olvida la diferen-cia de razas , en la explicación de los fenómenos políticos : por eso hemos penetrado tan poco los resortes de ia fisica humana . CLXXIV .- (Idem ) ¿ Por qué la política y la medicina son , ó pásan por las más atrasadas de las ciencias ? -Porque se quejan , y las otras no pueden hacerlo . ( Esto requiere desarrollo ) . CLXXV (Abril 22 de 1845 ) .– No vivimos asociados sino amonto- , nados . Hombres , ciudadanos si se quiere , pero no hermanos . Nuestro siglo no es el de oro , sino el del oro . Yo no vivo más que en lo pretérito y lo futuro : ¿podrá
+> fechos con tener endulzados los bordes de la copa , quere-mos tropezar con el azucariilo en el fondo , olvidándonos de que los amargos son los únicos restauradores del estragado estómago tropical . ## CLXXII ( Idem ) . * -¿Será el progreso ## tan sólo un hecho univer- Una y otro ; porque el es-sal , ó acaso una legítima teoría ? píritu humano no tarda en elevar á esa esfera un hecho de tales dimensiones . ¿Será el progreso   de hoy retroceso de mañana ? El progreso es el sol en torno del cual gravita inevitable-mente la estirpe de Jafet , arrastrando á todas las demás en su órbita , y cumpliendo así con la ley de su polaridad . ## CLXXIII ( Junio 7 de 1842 ) .--Constantemente se olvida la diferen-cia de razas , en la explicación de los fenómenos políticos : por eso hemos penetrado tan poco los resortes de ia fisica humana . ## CLXXIV .- (Idem ) ¿ Por qué la política y la medicina son , ó pásan por las más atrasadas de las ciencias ? -Porque se quejan , y las otras no pueden hacerlo . ( Esto requiere desarrollo ) . ## CLXXV (Abril 22 de 1845 ) .– No vivimos asociados sino amonto- , nados . Hombres , ciudadanos si se quiere , pero no hermanos . Nuestro siglo no es el de oro , sino el del oro . Yo no vivo más que en lo pretérito y lo futuro : ¿podrá
 
 satisfied with having the rim of the cup sweetened, we want to come upon the lump of sugar at the bottom, forgetting that bitters are the only restoratives of the ruined tropical stomach.
 
-CLXXII
+## CLXXII
 
 (Idem). *—Is progress only a universal fact, or is it perhaps a legitimate theory? Both one and the other; for the human spirit is not slow to raise to that sphere a fact of such dimensions.
 
@@ -2024,17 +2024,17 @@ Will the progress of today be the retrogression of tomorrow?
 
 Progress is the sun around which the stock of Japheth inevitably gravitates, drawing all the others along in its orbit, and thus fulfilling the law of its polarity.
 
-CLXXIII
+## CLXXIII
 
 (June 7, 1842).—The difference of races is constantly forgotten in the explanation of political phenomena: that is why we have penetrated so little into the springs of human physics.
 
-CLXXIV
+## CLXXIV
 
 (Idem).—Why are politics and medicine, or why do they pass for, the most backward of the sciences?
 
 —Because they complain, and the others cannot do so. (This needs developing).
 
-CLXXV
+## CLXXV
 
 (April 22, 1845).—We do not live associated, but heaped together.
 
@@ -2046,7 +2046,7 @@ I live only in the past and the future: could it be
 
 [p. 89]
 
-> decirse con más energia que "mi reino no es de este mun- " do ? ¿Y deberá por ende desesperarse de la humanidad ?    No que " magnus ab íntegro seclorum nascitur ordo ," y ya em-pieza á rayar esa aurora . Es menester impacientarse y no impacientarse : lo prime-ro , para madurar la fruta; lo segundo , porque ha de madu-rar . En la historia y como de la historia , es forzoso mirar cier-tas cuestiones . El padre arde por ver      ya hombre ó á lo menos mancebo á su recien nacido ; pero ¿ cuántos escalones han de subir uno y otro para llegar al blanco ! La naturaleza , decían los avisados viejos , nada hace por saltos . Hay momentos , empero , en que es conveniente acelerar la maduréz . CLXXVI (Abril 23) -Providencia divina ! que nos ofreces una es-pecie de compensación haciendo nacer en los paises más degradados plantas de una pureza y lozanía que rara vez se nota en los terrenos fertilizados por el rocio de la liber- --tad . Testigos : Italia y Cuba : Manzoni , Pellico , Guerrazzi , Varela , Saco , Escobedo . CLXXVII (Abril 28 ) .-Hombres más que instituciones suelen nece-sitar los pueblos para tener instituciones . Y cuando se necesitan los echa al mundo la Providen-cia . CLXXVIII (Idem) . * -Es menester proceder no solo por razones de conveniencia y por el espíritu del siglo , sino principalmen -
+> decirse con más energia que "mi reino no es de este mun- " do ? ¿Y deberá por ende desesperarse de la humanidad ?    No que " magnus ab íntegro seclorum nascitur ordo ," y ya em-pieza á rayar esa aurora . Es menester impacientarse y no impacientarse : lo prime-ro , para madurar la fruta; lo segundo , porque ha de madu-rar . En la historia y como de la historia , es forzoso mirar cier-tas cuestiones . El padre arde por ver      ya hombre ó á lo menos mancebo á su recien nacido ; pero ¿ cuántos escalones han de subir uno y otro para llegar al blanco ! La naturaleza , decían los avisados viejos , nada hace por saltos . Hay momentos , empero , en que es conveniente acelerar la maduréz . ## CLXXVI (Abril 23) -Providencia divina ! que nos ofreces una es-pecie de compensación haciendo nacer en los paises más degradados plantas de una pureza y lozanía que rara vez se nota en los terrenos fertilizados por el rocio de la liber- --tad . Testigos : Italia y Cuba : Manzoni , Pellico , Guerrazzi , Varela , Saco , Escobedo . ## CLXXVII (Abril 28 ) .-Hombres más que instituciones suelen nece-sitar los pueblos para tener instituciones . Y cuando se necesitan los echa al mundo la Providen-cia . ## CLXXVIII (Idem) . * -Es menester proceder no solo por razones de conveniencia y por el espíritu del siglo , sino principalmen -
 
 said with more force that “my kingdom is not of this world”?
 
@@ -2060,23 +2060,23 @@ The father burns to see his newborn child already a man, or at least a youth; bu
 
 There are moments, however, when it is fitting to hasten ripeness.
 
-CLXXVI
+## CLXXVI
 
 (April 23).—Divine Providence! who offer us a kind of compensation by causing to spring up in the most degraded countries plants of a purity and freshness rarely seen in soils fertilized by the dew of liberty. Witnesses: Italy and Cuba: Manzoni, Pellico, Guerrazzi,—Varela, Saco, Escobedo.
 
-CLXXVII
+## CLXXVII
 
 (April 28).—Peoples are wont to need men, more than institutions, in order to have institutions.
 
 And when they are needed, Providence sends them into the world.
 
-CLXXVIII
+## CLXXVIII
 
 (Idem). *—We must proceed not only on grounds of expediency and according to the spirit of the age, but principally
 
 [p. 90]
 
-> te por la razón y la conciencia , aún contra el espíritu del siglo y de la conveniencia . Interin las naciones y los gobiernos no procedan así , no habrán cojido el fruto de la verdadera civilización . En otros términos , quede para siempre desterrada la dis-tinción entre el principio moral y el político . CLXXIX .- (Abril 30 ) Al fundar una nueva familia . para animarla y fomentarla , es preciso concentrar en ella todo nuestro ca-lor vital . ¿Por qué las madres - patrias han sido una excepción á es-ta ley ? Decir que porque han sido madrastas      más que madres , es una petición de principios , como dirían los escolásticos . La razón verdadera es que las colonias no tuvieron su orígen en el amor , sino en el interés . Las metrópolis se-ñoras y no madres . CLXXX (Mayo 5) .-El hombre en sociedad tiende y debe tender á harmonizar; pero solo hasta cierto punto está obligado á hacerlo , pues con el deber , ley suprema de la humanidad , no hay transacción . En nuestro género de vida debemos esforzarnos por ser pueblo , aún nadando en las comodidades . De otra suerte labramos nuestra desgracia . Pueblo en restringir las nece-sidades ; pueblo en el trabajo físico y parquedad del moral ; pueblo en comer , andar , dormir    .... ; y pueblo , en tratar siempre de descollar . Cuando no podemos ó no debemos harmonizar con una sociedad es forzoso retirarnos de ella . Pero aunque no har-monicemos por completo hemos de promover la causa de la verdad por todos los medios , y si es preciso sacrificarnos .
+> te por la razón y la conciencia , aún contra el espíritu del siglo y de la conveniencia . Interin las naciones y los gobiernos no procedan así , no habrán cojido el fruto de la verdadera civilización . En otros términos , quede para siempre desterrada la dis-tinción entre el principio moral y el político . ## CLXXIX .- (Abril 30 ) Al fundar una nueva familia . para animarla y fomentarla , es preciso concentrar en ella todo nuestro ca-lor vital . ¿Por qué las madres - patrias han sido una excepción á es-ta ley ? Decir que porque han sido madrastas      más que madres , es una petición de principios , como dirían los escolásticos . La razón verdadera es que las colonias no tuvieron su orígen en el amor , sino en el interés . Las metrópolis se-ñoras y no madres . ## CLXXX (Mayo 5) .-El hombre en sociedad tiende y debe tender á harmonizar; pero solo hasta cierto punto está obligado á hacerlo , pues con el deber , ley suprema de la humanidad , no hay transacción . En nuestro género de vida debemos esforzarnos por ser pueblo , aún nadando en las comodidades . De otra suerte labramos nuestra desgracia . Pueblo en restringir las nece-sidades ; pueblo en el trabajo físico y parquedad del moral ; pueblo en comer , andar , dormir    .... ; y pueblo , en tratar siempre de descollar . Cuando no podemos ó no debemos harmonizar con una sociedad es forzoso retirarnos de ella . Pero aunque no har-monicemos por completo hemos de promover la causa de la verdad por todos los medios , y si es preciso sacrificarnos .
 
 according to reason and conscience, even against the spirit of the age and against expediency.
 
@@ -2084,7 +2084,7 @@ So long as nations and governments do not proceed thus, they will not have gathe
 
 In other words, let the distinction between the moral and the political principle be banished forever.
 
-CLXXIX
+## CLXXIX
 
 (April 30).—In founding a new family, to animate and foster it, we must concentrate upon it all our vital warmth.
 
@@ -2094,7 +2094,7 @@ To say that it is because they have been stepmothers rather than mothers is a be
 
 The true reason is that the colonies had their origin not in love but in interest. The metropolises, mistresses and not mothers.
 
-CLXXX
+## CLXXX
 
 (May 5).—Man in society tends, and ought to tend, to harmonize; but he is obliged to do so only up to a certain point, for with duty, the supreme law of humanity, there is no compromise.
 
@@ -2104,15 +2104,15 @@ When we cannot or ought not to harmonize with a society, we must withdraw from i
 
 [p. 91]
 
-> La doctrina del sacrificio    es la madre de lo poco que so-mos .   Dígalo el Gólgota . CLXXXI .- (1846 ) El hombre en calidad de tal , á la vez moral y corrompido , justo en su inteligencia y perverso en su vo-luntad , debe necesariamente ser gobernado ; de lo contra-rio sería á un tiempo sociable é insociable , y la sociedad necesaria é imposible . CLXXXII ( Idem )   .-" Sempre á gli uomini sani è buoni fú men grave udíre à mali della patria loro , che vederli ; è cosa piú glorio-sa reputano essere uno onorevole ribello , che uno schiavo --citadino ." Machiavelli . En esto hay su mas y su ménos ; sin duda que es mas desagradable ver que oir los males , aún cuando los abulte la distancia , y máxime si no pueden remediarse ; pero no es tan heróico como el verlos , y empeñarse en remediarlos , aunque luchando , y hasta donde alcancen las fuerzas . Así puede llegar el caso de ser más meritorio , y provechoso á la patria , la permanencia en ella . Aquí hablamos fuera de toda consideración personal , pues hay circunstancias en que es forzoso ( y debe hacerse desde luego ) el vivir fuera de la patria para serle mas útil , sin que jamás pueda contraponerse su ventaja á nuestro honor , que se cifra en ella . CLXXXIII .- [Mayo 27 ] ¿ Qué se necesita mas para el país ? ¿qué para la humanidad ? A veces se llenará mejor el interés de esta , empezando por satisfacer el de la patria , sin que en ello reine egoismo , antes amor universal .
+> La doctrina del sacrificio    es la madre de lo poco que so-mos .   Dígalo el Gólgota . ## CLXXXI .- (1846 ) El hombre en calidad de tal , á la vez moral y corrompido , justo en su inteligencia y perverso en su vo-luntad , debe necesariamente ser gobernado ; de lo contra-rio sería á un tiempo sociable é insociable , y la sociedad necesaria é imposible . ## CLXXXII ( Idem )   .-" Sempre á gli uomini sani è buoni fú men grave udíre à mali della patria loro , che vederli ; è cosa piú glorio-sa reputano essere uno onorevole ribello , che uno schiavo --citadino ." Machiavelli . En esto hay su mas y su ménos ; sin duda que es mas desagradable ver que oir los males , aún cuando los abulte la distancia , y máxime si no pueden remediarse ; pero no es tan heróico como el verlos , y empeñarse en remediarlos , aunque luchando , y hasta donde alcancen las fuerzas . Así puede llegar el caso de ser más meritorio , y provechoso á la patria , la permanencia en ella . Aquí hablamos fuera de toda consideración personal , pues hay circunstancias en que es forzoso ( y debe hacerse desde luego ) el vivir fuera de la patria para serle mas útil , sin que jamás pueda contraponerse su ventaja á nuestro honor , que se cifra en ella . ## CLXXXIII .- [Mayo 27 ] ¿ Qué se necesita mas para el país ? ¿qué para la humanidad ? A veces se llenará mejor el interés de esta , empezando por satisfacer el de la patria , sin que en ello reine egoismo , antes amor universal .
 
 The doctrine of sacrifice is the mother of the little that we are. Let Golgotha bear witness.
 
-CLXXXI
+## CLXXXI
 
 (1846).—Man as such, at once moral and corrupt, just in his intelligence and perverse in his will, must necessarily be governed; otherwise he would be at one and the same time sociable and unsociable, and society both necessary and impossible.
 
-CLXXXII
+## CLXXXII
 
 (Idem).—“Sempre á gli uomini sani è buoni fú men grave udíre ì mali della patria loro, che vederli; è cosa piú gloriosa reputano essere uno onorevole ribello, che uno schiavo citadino.” [To sound and good men it was always less grievous to hear of the ills of their country than to see them; and they deem it a more glorious thing to be an honorable rebel than an enslaved citizen.]—Machiavelli.
 
@@ -2120,7 +2120,7 @@ In this there is a more and a less; no doubt it is more unpleasant to see than t
 
 We speak here apart from all personal consideration, for there are circumstances in which it is necessary (and it ought to be done at once) to live outside one’s country in order to be more useful to it, without its advantage ever being set against our honor, which is bound up in it.
 
-CLXXXIII
+## CLXXXIII
 
 [May 27].—What is most needed for the country? what for humanity?
 
@@ -2128,25 +2128,25 @@ At times the interest of the latter will be better served by beginning with sati
 
 [p. 92]
 
-> CLXXXIV - (Septiembre 7) .    -   Preguntaba un carruajero ro : “ ¿ Cómo vá de isla de Pinos , la Siberia de la isla de á un calese- Cuba ?" Respuesta .       " A los que no matan aquí , acaban          de matar-los allá ."    (1) CLXXXV [ Febrero    7 de 1847 ]   -   "¡ Pace , pace , pace ! " . . . .fra noi . CLXXXVI - [Febrero 20 ] . Hay manifestaciones que deben hacerse por los gobernantes , aunque no se prometan resultado po-sitivo , en obsequio de la opinión pública . Estos hechos morales , para la política tienen tanta reali-dad como los físicos . CLXXXVII [ Noviembre 15 ] .-No todas las guerras que parecen por interés , só pretesto de religión , han dejado de ser esencial-mente religiosas y muy secundariamente interesadas . Nuestro siglo , interesado é incrédulo , no sabe graduar lå fuerza del resorte religioso . ( 1 ) Con las denominaciones de carruajero y calesero , quizas se alu-da á un forastero y á un natural del pais , respectivamente . Esde ad-vertirse que á la isla de Pinos se enviaban los " vagos y mal entreteni-dos ," prévio espediente gubernativo ó sin él , y que amenudo fué esa facultad de los Gobernantes servidora de pasiones particulares , y gene-ralmente un arma politica contra los sospechados de desafectos al ré-gimen colonial existente . Sé de un abogado , y de un conocido médico , encausados por vagos , pocos años antes de aquel en que escribía Luz Caballero . [A.Z. ]
+> ## CLXXXIV - (Septiembre 7) .    -   Preguntaba un carruajero ro : “ ¿ Cómo vá de isla de Pinos , la Siberia de la isla de ## á un calese- Cuba ?" Respuesta .       " A los que no matan aquí , acaban          de matar-los allá ."    (1) ## CLXXXV [ Febrero    7 de 1847 ]   -   "¡ Pace , pace , pace ! " . . . .fra noi . ## CLXXXVI - [Febrero 20 ] . Hay manifestaciones que deben hacerse por los gobernantes , aunque no se prometan resultado po-sitivo , en obsequio de la opinión pública . Estos hechos morales , para la política tienen tanta reali-dad como los físicos . ## CLXXXVII [ Noviembre 15 ] .-No todas las guerras que parecen por interés , só pretesto de religión , han dejado de ser esencial-mente religiosas y muy secundariamente interesadas . Nuestro siglo , interesado é incrédulo , no sabe graduar lå fuerza del resorte religioso . ( 1 ) Con las denominaciones de carruajero y calesero , quizas se alu-da á un forastero y á un natural del pais , respectivamente . Esde ad-vertirse que á la isla de Pinos se enviaban los " vagos y mal entreteni-dos ," prévio espediente gubernativo ó sin él , y que amenudo fué esa facultad de los Gobernantes servidora de pasiones particulares , y gene-ralmente un arma politica contra los sospechados de desafectos al ré-gimen colonial existente . Sé de un abogado , y de un conocido médico , encausados por vagos , pocos años antes de aquel en que escribía Luz Caballero . [A.Z. ]
 
-CLXXXIV
+## CLXXXIV
 
 (September 7).—A carriage-driver asked a calesa-driver:—“How goes it on the Isle of Pines, the Siberia of the island of Cuba?”
 
 Answer.—“Those they don’t kill here, they finish killing there.” (1)
 
-CLXXXV
+## CLXXXV
 
 [February 7, 1847]—“Pace, pace, pace!” [Peace, peace, peace!].... fra noi. [among ourselves]
 
-CLXXXVI
+## CLXXXVI
 
 [February 20].—There are declarations that ought to be made by those who govern, even though they promise themselves no positive result, out of deference to public opinion.
 
 These moral facts have, for politics, as much reality as physical ones.
 
-CLXXXVII
+## CLXXXVII
 
 [November 15].—Not all wars that seem to be waged for interest, under pretext of religion, have ceased to be essentially religious and only very secondarily interested.
 
@@ -2158,13 +2158,13 @@ I know of a lawyer, and of a well-known physician, who were prosecuted as vagran
 
 [PDF 87]
 
-> ΜΑΝΖΟΝΙ                . CLXXXVIII - ( Octubre 8 de 1850 ) . La oda de Manzoni , á la muerte de Napoleón , fué dictada por Dios . Así puede afirmarse sin blasfemar . Solo Dios y el Cristianismo pueden inspirar se-mejante composición , en que quedaron vencidas y supera-das todas las inspiraciones . Así lo siento al cabo de veinte y cinco años , y de haber repetido , no sin interrupción , asombro y deleite profundo , infinitas veces ese prodigio de composición . Esta es la señal segura del génio : lejos de inferirle el tiem-po detrimento , cada vez que   se recuerda la obra , produce nuevo placer , é inspira nuevas ideas , casi dirė nuevas im-presiones . CLXXXIX .- (Idem ) Fué Manzoni el alma mas pura de cuantas han respirado el aire de las letras en el siglo XIX , y una de las
+> ΜΑΝΖΟΝΙ                . ## CLXXXVIII - ( Octubre 8 de 1850 ) . La oda de Manzoni , á la muerte de Napoleón , fué dictada por Dios . Así puede afirmarse sin blasfemar . Solo Dios y el Cristianismo pueden inspirar se-mejante composición , en que quedaron vencidas y supera-das todas las inspiraciones . Así lo siento al cabo de veinte y cinco años , y de haber repetido , no sin interrupción , asombro y deleite profundo , infinitas veces ese prodigio de composición . Esta es la señal segura del génio : lejos de inferirle el tiem-po detrimento , cada vez que   se recuerda la obra , produce nuevo placer , é inspira nuevas ideas , casi dirė nuevas im-presiones . ## CLXXXIX .- (Idem ) Fué Manzoni el alma mas pura de cuantas han respirado el aire de las letras en el siglo XIX , y una de las
 
 ❖     ❖    ❖    ❖    ❖    ❖    ❖    ❖     ❖   ❖    ❖    ❖    ❖    ❖
 
 M anzoni .
 
-CLXXXVIII
+## CLXXXVIII
 
 (October 8, 1850).—Manzoni’s ode on the death of Napoleon was dictated by God. This may be affirmed without blasphemy. Only God and Christianity can inspire such a composition, in which all inspirations were vanquished and surpassed.
 
@@ -2172,7 +2172,7 @@ So I feel it after twenty-five years, and after having repeated, not without int
 
 This is the sure sign of genius: far from time doing it any detriment, each time the work is recalled it produces new pleasure, and inspires new ideas, I will almost say new impressions.
 
-CLXXXIX
+## CLXXXIX
 
 (Idem).—Manzoni was the purest soul of all that have breathed the air of letters in the XIXth century, and one of the
 
@@ -2198,13 +2198,13 @@ It is a singular thing that, being so gentle and affable, he should be distingui
 
 [PDF 89]
 
-> CXCI ( 1848 ) * -Mazzini : cabeza italiana , corazón vesubiano , figura europea , carácter historico ; mas republicano que Ca-tón , demócrata cristiano , se presenta en la escena como el tribuno digno de conducir su patria , y como apóstol de la sociedad actual . " Predicar , luchar , obrar "-vé ahí su bandera . Es el Lu-tero de la nueva época : éslo en su corazón , y en su lengua de fuego ; en su fé y esperanza , infinita como el porvenir . " Que la democracia , dice , sea como el Nilo , que se desbor-de sobre los mismos territorios que está destinada á fecun-dar. "       Pero no solo es el Lutero , porque es cabeza , corazón y brazo . La introducción de " Republique et Royauté en Italie , " es excelente , templada y sesuda . Sería muy propio Mazzini para escribir de historia : perspicacia , verdad , dignidad ,     fi-losofía  y , fórmulas felices que    representan la            . El prólogo       de           Jorge  Sand aunque bien es- lo la traductora              (         ) crito como todo     suyo    está demasiado quejumbroso ,                       ;   lo que no sienta bien     lado de   al voz varonil del gran ita- la liano.
+> ## CXCI ( 1848 ) * -Mazzini : cabeza italiana , corazón vesubiano , figura europea , carácter historico ; mas republicano que Ca-tón , demócrata cristiano , se presenta en la escena como el tribuno digno de conducir su patria , y como apóstol de la sociedad actual . " Predicar , luchar , obrar "-vé ahí su bandera . Es el Lu-tero de la nueva época : éslo en su corazón , y en su lengua de fuego ; en su fé y esperanza , infinita como el porvenir . " Que la democracia , dice , sea como el Nilo , que se desbor-de sobre los mismos territorios que está destinada á fecun-dar. "       Pero no solo es el Lutero , porque es cabeza , corazón y brazo . La introducción de " Republique et Royauté en Italie , " es excelente , templada y sesuda . Sería muy propio Mazzini para escribir de historia : perspicacia , verdad , dignidad ,     fi-losofía  y , fórmulas felices que    representan la            . El prólogo       de           Jorge  Sand aunque bien es- lo la traductora              (         ) crito como todo     suyo    está demasiado quejumbroso ,                       ;   lo que no sienta bien     lado de   al voz varonil del gran ita- la liano.
 
 ❖    ❖    ❖    ❖    ❖    ❖     ❖    ❖    ❖    ❖    ❖    ❖     ❖    ❖
 
 M azzini .
 
-CXCI
+## CXCI
 
 (1848) *—Mazzini: an Italian head, a Vesuvian heart, a European figure, a historic character; more republican than Cato, a Christian democrat, he comes upon the stage as the tribune worthy to lead his country, and as the apostle of present-day society.
 
@@ -2216,17 +2216,17 @@ The preface of the translator (George Sand), though well written like everything
 
 [PDF 90]
 
-> HISTORIA . CXCII      • - (Abril 10 de 1845 ) . La doctrina del probabilismo intro-ducida en la moral por los Jesuitas , ha causado grandes estragos en la historia general . CXCIII (Abril 22) . Hay muchas historias   bellas , pocas buenas . Fuera de la imparcialidad que es su base , requiérense en el historiador las más variadas y aún contrapuestas dotes . Ha de ser profundo estadista , mejor moralista , plenísimo sabio , severísimo lógico y perspicáz discriminador , cono cedor no ya del corazón sino de todos los corazones . Ne-cesita ciencia y conciencia en más de un sentido . Ser tan ardiente en el sentimiento como dramático en la exposición , pero templados sus ardores y contenidos sus arranques por el hielo y freno de la suprema emperatriz : la razón . Mas poeta ha de ser que el mismo poeta épico ; ha de refundir en su narración la filosofía , la crítica y la poesia , sin dege-nerar en abstracto , ni en pedante , ni en fantástico ; eleván-dose por último sobre toda la humanidad . Es la historia , la última y más trascendental espresión de la literatura de un pueblo . 7
+> ## HISTORIA  ## CXCII      • - (Abril 10 de 1845 ) . La doctrina del probabilismo intro-ducida en la moral por los Jesuitas , ha causado grandes estragos en la historia general . ## CXCIII (Abril 22) . Hay muchas historias   bellas , pocas buenas . Fuera de la imparcialidad que es su base , requiérense en el historiador las más variadas y aún contrapuestas dotes . Ha de ser profundo estadista , mejor moralista , plenísimo sabio , severísimo lógico y perspicáz discriminador , cono cedor no ya del corazón sino de todos los corazones . Ne-cesita ciencia y conciencia en más de un sentido . Ser tan ardiente en el sentimiento como dramático en la exposición , pero templados sus ardores y contenidos sus arranques por el hielo y freno de la suprema emperatriz : la razón . Mas poeta ha de ser que el mismo poeta épico ; ha de refundir en su narración la filosofía , la crítica y la poesia , sin dege-nerar en abstracto , ni en pedante , ni en fantástico ; eleván-dose por último sobre toda la humanidad . Es la historia , la última y más trascendental espresión de la literatura de un pueblo . 7
 
 ❖     ❖    ❖    ❖    ❖    ❖    ❖    ❖    ❖    ❖     ❖    ❖    ❖    ❖
 
 H istory .
 
-CXCII
+## CXCII
 
 (April 10, 1845).—The doctrine of probabilism, introduced into morality by the Jesuits, has wrought great havoc in history at large.
 
-CXCIII
+## CXCIII
 
 (April 22).—There are many beautiful histories, few good ones.
 
@@ -2236,13 +2236,13 @@ History is the last and most transcendent expression of the literature of a peop
 
 [PDF 91]
 
-> CXCIV (Sin fecha ) . Talento analítico de Balmes , como hay po . cos : y sin embargo lo desgraciado que suele ser al aplicar un ejemplo á un principio, ó vice -versa . Parece una con-tradicción que incurra cabalmente en esa falta un talento por esencia discriminador .   Tales son las peculiaridades del espíritu humano : y se escandaliza y hasta se escåndece el mismo Balmes al oir de los labios de Schelling que exis- , ten preocupaciones hijas naturales del entendimiento ; ver-dad que pasa á ser trivial por obvia , y que acaso ni le hubiera chocado en boca de otro . Balmes no obstante la superioridad de su cerebro no puede ser imparcial con la filosofía protestante : para ello se necesita del corazón , y el suyo siempre estuvo de proa para todo germano . Me duele en el alma ser justo , porque amo y venero á Jaime Balmes , pero él no podía ser inde-pendiente . Lo mismo y por idéntica razón acontece á Gio-berti ( 1) respecto á Descartes . Para ser consecuente debería Balmes atacar á éste tanto como á Lutero , pues (1) Vicente Gioberti , filósofo eminentemente católico . Nació en el Piamonte , pero obligado por los acontecimientos politicos dejó la Ita-lia y se estableció en Bruselas , donde desde 1833 dió publicidad á va-rias obras de filosofía : "Teoría de lo sobrenatural" , " Introducción al estudio de la filosofia " , "Crítica de las ideas de Cousin" , etc. ( A.Z. )
+> ## CXCIV (Sin fecha ) . Talento analítico de Balmes , como hay po . cos : y sin embargo lo desgraciado que suele ser al aplicar un ejemplo á un principio, ó vice -versa . Parece una con-tradicción que incurra cabalmente en esa falta un talento por esencia discriminador .   Tales son las peculiaridades del espíritu humano : y se escandaliza y hasta se escåndece el mismo Balmes al oir de los labios de Schelling que exis- , ten preocupaciones hijas naturales del entendimiento ; ver-dad que pasa á ser trivial por obvia , y que acaso ni le hubiera chocado en boca de otro . Balmes no obstante la superioridad de su cerebro no puede ser imparcial con la filosofía protestante : para ello se necesita del corazón , y el suyo siempre estuvo de proa para todo germano . Me duele en el alma ser justo , porque amo y venero á Jaime Balmes , pero él no podía ser inde-pendiente . Lo mismo y por idéntica razón acontece á Gio-berti ( 1) respecto á Descartes . Para ser consecuente debería Balmes atacar á éste tanto como á Lutero , pues (1) Vicente Gioberti , filósofo eminentemente católico . Nació en el Piamonte , pero obligado por los acontecimientos politicos dejó la Ita-lia y se estableció en Bruselas , donde desde 1833 dió publicidad á va-rias obras de filosofía : "Teoría de lo sobrenatural" , " Introducción al estudio de la filosofia " , "Crítica de las ideas de Cousin" , etc. ( A.Z. )
 
 ❖     ❖     ❖      ❖     ❖      ❖     ❖     ❖      ❖     ❖     ❖      ❖     ❖     ❖      ❖
 
 B almes .
 
-CXCIV
+## CXCIV
 
 (Undated).—An analytical talent, Balmes’s, such as there are few: and yet how unhappy he usually is in applying an example to a principle, or vice-versa. It seems a contradiction that a talent discriminating by its very essence should fall precisely into that fault. Such are the peculiarities of the human mind: and Balmes himself is scandalized, and even grows incandescent, on hearing from the lips of Schelling that there exist prejudices which are the natural offspring of the understanding; a truth that becomes trivial through being obvious, and that perhaps would not even have shocked him in the mouth of another.
 
@@ -2252,11 +2252,11 @@ Balmes, notwithstanding the superiority of his brain, cannot be impartial toward
 
 [p. 100]
 
-> Descartes es el Lutero de la Filosofía , y Lutero el Descartes de la Religión . ( 1) CXCV - (Abril 27 de 1846 ) . Quisiera más rigor científico en la exposición , para que no adolezca Balmes del mismo acha-que que atribuye á la pseudo - filosofía . Nótase cierto francecismo              en las generalizaciones , ora inexactas , ora sobradas . Locución á veces bellísima , á veces acatalanadamente defectuosa . Prodiga demasiado las máximas , y aunque no soy avaro de ellas , puesto que en materias filosóficas debe aspirarse a veces al estilo aforístico , sin embargo no se deben amon tonar sino sembrar . Ingénuo y de temple sí me parece Balmes .                   (2) CXCVI .- (Abril 30 ) El P. Balmes no es lo que me habían dicho , pero , al cabo, habla europeo , cosa rara en España . Se le conoce que es discípulo de los franceses . ¿Y quien no en España ?-Solo la redundancia es española , aunque á los franceses les sobra .         (3 ) CXCVII (Idem ) -Tampoco hay que rebajar tanto las figuras                       de la Reforma , como lo hace Balmes . Lutero en la Dieta de Worms no es pequeño , y menos en el discurso de su vida . ( 1)     Estas observaciones   se refieren   á               , " El Criterio " de Balmes . (Α . Ζ. ) (3 ) En 1847 , en el cuaderno á que me refiero en la nota de la pági-na 25 , copió Luz este aforismo , quitándole la última frase y agregándo--le : " Sin embargo ha mejorado mucho , como se advierte en su "Filoso-fía fundamental y elemental " . Yo he sentido en el alma su muerte , es muy superior á la gente francesa de hoy . " ( A. Z. ) (2) Con motivo de la obra "Bienes del Clero " . ( A. Z )
+> Descartes es el Lutero de la Filosofía , y Lutero el Descartes de la Religión . ( 1) ## CXCV - (Abril 27 de 1846 ) . Quisiera más rigor científico en la exposición , para que no adolezca Balmes del mismo acha-que que atribuye á la pseudo - filosofía . Nótase cierto francecismo              en las generalizaciones , ora inexactas , ora sobradas . Locución á veces bellísima , á veces acatalanadamente defectuosa . Prodiga demasiado las máximas , y aunque no soy avaro de ellas , puesto que en materias filosóficas debe aspirarse a veces al estilo aforístico , sin embargo no se deben amon tonar sino sembrar . Ingénuo y de temple sí me parece Balmes .                   (2) ## CXCVI .- (Abril 30 ) El P. Balmes no es lo que me habían dicho , pero , al cabo, habla europeo , cosa rara en España . Se le conoce que es discípulo de los franceses . ¿Y quien no en España ?-Solo la redundancia es española , aunque á los franceses les sobra .         (3 ) ## CXCVII (Idem ) -Tampoco hay que rebajar tanto las figuras                       de la Reforma , como lo hace Balmes . Lutero en la Dieta de Worms no es pequeño , y menos en el discurso de su vida . ( 1)     Estas observaciones   se refieren   á               , " El Criterio " de Balmes . (Α . Ζ. ) (3 ) En 1847 , en el cuaderno á que me refiero en la nota de la pági-na 25 , copió Luz este aforismo , quitándole la última frase y agregándo--le : " Sin embargo ha mejorado mucho , como se advierte en su "Filoso-fía fundamental y elemental " . Yo he sentido en el alma su muerte , es muy superior á la gente francesa de hoy . " ( A. Z. ) (2) Con motivo de la obra "Bienes del Clero " . ( A. Z )
 
 Descartes is the Luther of Philosophy, and Luther the Descartes of Religion. (1)
 
-CXCV
+## CXCV
 
 (April 27, 1846).—I should like more scientific rigor in the exposition, so that Balmes might not suffer from the same ailment that he attributes to the pseudo-philosophy.
 
@@ -2268,13 +2268,13 @@ He lavishes maxims too freely, and although I am no miser of them, since in phil
 
 Ingenuous and of good mettle Balmes does seem to me. (2)
 
-CXCVI
+## CXCVI
 
 (April 30).—Father Balmes is not what I had been told, but, after all, he speaks European, a rare thing in Spain.
 
 One can see that he is a disciple of the French. And who in Spain is not?—Only the redundancy is Spanish, although the French have more than enough of it. (3)
 
-CXCVII
+## CXCVII
 
 (Idem)—Nor should the figures of the Reformation be belittled as much as Balmes does. Luther at the Diet of Worms is not small, and still less in the course of his life.
 
@@ -2286,13 +2286,13 @@ CXCVII
 
 [p. 101]
 
-> La filosofía alemana ( protestante ) ha contribuido mucho á reproducir    la importancia de las cuestiones religiosas . No  digo  la Reforma , hasta la Revolución francesa , la más cruenta de las protestas , ha sido un gérmen de vida para la Religión . CXCVIII (Febrero 25 de 1851 ) .-Por la descripción que hace Bal-mes de la Filosofía Alemana , no es posible que la juventud forme una idea exacta , y ni aun remota de la misma , pu-diendo formarla contraria á la realidad . En habiendo protestantes por medio , no hay que contar con Balmes .
+> La filosofía alemana ( protestante ) ha contribuido mucho á reproducir    la importancia de las cuestiones religiosas . No  digo  la Reforma , hasta la Revolución francesa , la más cruenta de las protestas , ha sido un gérmen de vida para la Religión . ## CXCVIII (Febrero 25 de 1851 ) .-Por la descripción que hace Bal-mes de la Filosofía Alemana , no es posible que la juventud forme una idea exacta , y ni aun remota de la misma , pu-diendo formarla contraria á la realidad . En habiendo protestantes por medio , no hay que contar con Balmes .
 
 German (Protestant) philosophy has contributed much to reviving the importance of religious questions.
 
 I do not say the Reformation—even the French Revolution, the bloodiest of protests, has been a germ of life for Religion.
 
-CXCVIII
+## CXCVIII
 
 (February 25, 1851).—From the description that Balmes gives of German Philosophy, it is not possible for the young to form an exact idea of it, nor even a remote one, and they may form one contrary to reality.
 
@@ -2302,13 +2302,13 @@ Where there are Protestants in the case, there is no counting on Balmes.
 
 [PDF 94]
 
-> CXCIX (Sin fecha ) .   Para todo se necesita ciencia y conciencia . CC (Idem ). Quien no sea maestro          de sí mismo , no será maestro de nada . CCI ( Idem ) . La pasión siempre pasa la meta . Aún la razón suele quedarse mas acá ó más allá de la realidad . CCII ( Idem ) . La buena y mala fortuna , los dos escultores de la naturaleza para el pulimento de la materia humana . CCIIL (Idem ) .-Enfermedad natural humana , es buscar causa a todo . CCIV ( Idem ). Miserable siglo , aquel en que no se atreven á salir del pellejo los corazones .
+> ## CXCIX (Sin fecha ) .   Para todo se necesita ciencia y conciencia . CC (Idem ). Quien no sea maestro          de sí mismo , no será maestro de nada . ## CCI ( Idem ) . La pasión siempre pasa la meta . Aún la razón suele quedarse mas acá ó más allá de la realidad . ## CCII ( Idem ) . La buena y mala fortuna , los dos escultores de la naturaleza para el pulimento de la materia humana . ## CCIIL (Idem ) .-Enfermedad natural humana , es buscar causa a todo . ## CCIV ( Idem ). Miserable siglo , aquel en que no se atreven á salir del pellejo los corazones .
 
 ❖     ❖    ❖    ❖    ❖    ❖   ❖    ❖      ❖   ❖   ❖   ❖    ❖    ❖     ❖
 
 M iscellany .
 
-CXCIX
+## CXCIX
 
 (Undated).—For everything one needs science and conscience.
 
@@ -2320,23 +2320,23 @@ CCI
 
 (Idem).—Passion always overshoots the goal. Even reason usually stops short of reality or goes beyond it.
 
-CCII
+## CCII
 
 (Idem).—Good and bad fortune, the two sculptors of nature for the polishing of the human material.
 
-CCIII
+## CCIII
 
 (Idem).—A natural human malady, to seek a cause for everything.
 
-CCIV
+## CCIV
 
 (Idem).—Wretched the age in which hearts dare not come out of their skins.
 
 [p. 104]
 
-> CCV (Idem ) .Es negar y renegar la descendencia del siglo XVIII la del XVI , el atacar con virulencia el origen del y hecho mismo de estar atacando . Si no hubiéramos pasado por ciertos antecedentes , por ciertas etapas ( ordéals ) -¿dónde estaríamos aún ?      -En el siglo XV . Es menester ser consecuentes ; cosa dificilísima , por no decir imposible . Los hijos se olvidan de sus padres . Como que estamos gozando de los bienes que ellos conquistaron , sin saber co-mo se ganaron , y respirando esta atmósfera como nuestro aire natural , como se geza de la salud , sin sentirla , ni cono-cer lo que vale mientras no se pierde . CCVI . ( Idem .)   - La analogía es el alma de los descubrimientos . que no es capaz de hallar analogías , no El investigador es capaz de hacer inducciones . CCVII . - (Idem . ) Ver la regla en las escepciones , y las escep-ciones ( mejor dicho aplicaciones , modificaciones ) en la re-gla : ahi está la ciencia . Cuando se quiere pronosticar por las sociedades antiguas la suerte de las modernas , es forzoso acordarse de este prin-cipio . CCVIII . - (Idem . ) A veces no son suficientes el talento y la dis-creción para conducirse bien : necesítanse caridad y buen corazón , guiados por el buen juicio . CCIX . ( Idem. )   -   Los hombres   sin mérito deben elogiarse á sí mismos , ¿ quién sinó los elogiaría ?
+> ## CCV (Idem ) .Es negar y renegar la descendencia del siglo XVIII la del XVI , el atacar con virulencia el origen del y hecho mismo de estar atacando . Si no hubiéramos pasado por ciertos antecedentes , por ciertas etapas ( ordéals ) -¿dónde estaríamos aún ?      -En el siglo XV . Es menester ser consecuentes ; cosa dificilísima , por no decir imposible . Los hijos se olvidan de sus padres . Como que estamos gozando de los bienes que ellos conquistaron , sin saber co-mo se ganaron , y respirando esta atmósfera como nuestro aire natural , como se geza de la salud , sin sentirla , ni cono-cer lo que vale mientras no se pierde . ## CCVI  ## ( Idem .)   - La analogía es el alma de los descubrimientos . que no es capaz de hallar analogías , no El investigador es capaz de hacer inducciones . ## CCVII  - (Idem . ) Ver la regla en las escepciones , y las escep-ciones ( mejor dicho aplicaciones , modificaciones ) en la re-gla : ahi está la ciencia . Cuando se quiere pronosticar por las sociedades antiguas la suerte de las modernas , es forzoso acordarse de este prin-cipio . ## CCVIII  - (Idem . ) A veces no son suficientes el talento y la dis-creción para conducirse bien : necesítanse caridad y buen corazón , guiados por el buen juicio . ## CCIX  ( Idem. )   -   Los hombres   sin mérito deben elogiarse á sí mismos , ¿ quién sinó los elogiaría ?
 
-CCV
+## CCV
 
 (Idem).—It is to deny and disown the descent of the XVIII century and that of the XVI, to attack with virulence the origin of the very fact of attacking.
 
@@ -2344,37 +2344,37 @@ If we had not passed through certain antecedents, through certain stages (ordéa
 
 Children forget their parents. For we are enjoying the goods that they conquered, without knowing how they were won, and breathing this atmosphere as our natural air, as one enjoys health, without feeling it, or knowing what it is worth so long as it is not lost.
 
-CCVI.
+## CCVI
 
 (Idem.)—Analogy is the soul of discoveries.
 
 The investigator who is not capable of finding analogies is not capable of making inductions.
 
-CCVII.
+## CCVII
 
 (Idem.)—To see the rule in the exceptions, and the exceptions (better said, applications, modifications) in the rule: there lies science.
 
 When one would forecast the fate of modern societies from the ancient ones, one must needs remember this principle.
 
-CCVIII.
+## CCVIII
 
 (Idem.)—At times talent and discretion are not enough to conduct oneself well: charity and a good heart are needed, guided by sound judgment.
 
-CCIX.
+## CCIX
 
 (Idem.)—Men without merit must praise themselves; who else would praise them?
 
 [p. 105]
 
-> La fama no           se mendiga , sino se entra por la puerta , y suele salir ....       por la ventana . CCX . ( Idem )  -Yo me admiro de que los demás se admiren , sobre todo los ancianos . ¡ Dichosos los que se han queda-do jóvenes ! CCXI . - (Idem .) No hay cosa más parecida á los hombres , que los hombres ; máxime los de la especie yankee : allí sí puede decirse " ab uno disce omnes . " Ni hay , ni puede haber , república más perfecta , quiero decir , más igual . Hasta igualdad de inteligencias existe , y muy pocas que sobresalgan . ¿Es esto bueno ó malo ? -No trato ahora de juzgarlo , sino de sentar el hecho . CCXII . (Idem) *      -   Solo la verdad nos pondrá la toga viril . CCXIII . Idem . ) *   - ¡ Bienaventurados les de los tiempos , y las siguen ! los   que conocen las seña- CCXIV . (Idem .) *    -   La naturaleza aborrece el reposo : tan natu-ral es el movimiento á las almas como á los cuerpos . CCXV . - (Idem . ) * ¿ Hay idealidad ?-Luego tenemos horizonte , aproximación , perfectibilidad , transmutación de la forma en fondo y del fondo en forma , cielo infinito .... Bendigamos al creador de tantas maravillas !
+> La fama no           se mendiga , sino se entra por la puerta , y suele salir ....       por la ventana . ## CCX  ( Idem )  -Yo me admiro de que los demás se admiren , sobre todo los ancianos . ¡ Dichosos los que se han queda-do jóvenes ! ## CCXI  - (Idem .) No hay cosa más parecida á los hombres , que los hombres ; máxime los de la especie yankee : allí sí puede decirse " ab uno disce omnes . " Ni hay , ni puede haber , república más perfecta , quiero decir , más igual . Hasta igualdad de inteligencias existe , y muy pocas que sobresalgan . ¿Es esto bueno ó malo ? -No trato ahora de juzgarlo , sino de sentar el hecho . ## CCXII  (Idem) *      -   Solo la verdad nos pondrá la toga viril . ## CCXIII  Idem . ) *   - ¡ Bienaventurados les de los tiempos , y las siguen ! los   que conocen las seña- ## CCXIV  (Idem .) *    -   La naturaleza aborrece el reposo : tan natu-ral es el movimiento á las almas como á los cuerpos . ## CCXV  - (Idem . ) * ¿ Hay idealidad ?-Luego tenemos horizonte , aproximación , perfectibilidad , transmutación de la forma en fondo y del fondo en forma , cielo infinito .... Bendigamos al creador de tantas maravillas !
 
 Fame is not begged for, but enters by the door, and usually goes out.... by the window.
 
-CCX.
+## CCX
 
 (Idem)—I marvel that others should marvel, above all the old. Happy those who have remained young!
 
-CCXI.
+## CCXI
 
 (Idem.)—There is nothing more like men than men; especially those of the Yankee species: there indeed one may say “ab uno disce omnes.” [from one, learn all]
 
@@ -2384,43 +2384,43 @@ Even equality of intelligences exists, and very few that stand out.
 
 Is this good or bad?—I am not now trying to judge it, but to set down the fact.
 
-CCXII.
+## CCXII
 
 (Idem)*—Truth alone will invest us with the toga of manhood.
 
-CCXIII.
+## CCXIII
 
 (Idem.)*—Blessed are they who know the signs of the times, and follow them!
 
-CCXIV.
+## CCXIV
 
 (Idem.)*—Nature abhors rest: movement is as natural to souls as to bodies.
 
-CCXV.
+## CCXV
 
 (Idem.)*—Is there ideality?—Then we have horizon, approximation, perfectibility, transmutation of form into substance and of substance into form, infinite heaven.... Let us bless the creator of so many marvels!
 
 [p. 106]
 
-> CCXVI . - ( Idem .) * La actual sociedad , á guisa de fuego subte-rraneo , abriga en sus entrañas fuerzas latentes , cuya mani- -festación ha de dejar pasmado al siglo del vapor , de la elec-tricidad , y del sufragio universal . " Res vestra , aut ego fa-llor , res nostra agitur . " CCXVII . ( Idem . ) *   -   Quien no aspira no respira . ( 1 ) CCXVIII . - (Idem .) * La razón es el hombre , lo demás es el animal . - CCXIX . ( Idem .) *      - Una vez conseguido que la razón se convier-ta en sentimiento , y sentimiento predominante , como re-gla de conducta , en términos de gozarnos en las tribulacio-nes , para valerme de la espresión del Apostol , todavía y siempre , tiene la razón fria que juzgar á la razón caliente . Pero son tantos los papeles que desempeña la razón , no obstante su fragilidad , que ha de ser juez , testigo , fiscal y foro , todo en una pieza . CCXX . - (Idem . )* Con el mero hecho de aceptar una discusión , ya está reconocida la supremacía del tribunal de la razón . [ A . Ζ .) (1) El presente aforismo se ha publicado muchas veces en esta for-ma , y por cierto que en él han querido ver los suspicaces la divisa re-volucionaria de Luz Caballero . La circunstancia de ser muy conocido , me obliga á reproducirlo , pero debo advertir que no lo he encontrado en los manuscritos que poseo , y en cambio tengo á la vista uno que lle -va la fecha de 21 de Septiembre de 1851, y que bajo la palabra "Ideal ” á modo de título , dice : " Si la humanidad no aspira , no respira; " y en 1856 la " Floresta Cubana , " ( pág . 217) publicó entre otros pensamien-tos el siguiente : " La humanidad si no aspira no respira, y ved ahí la necesidad del Ideal ."     -
+> ## CCXVI  - ( Idem .) * La actual sociedad , á guisa de fuego subte-rraneo , abriga en sus entrañas fuerzas latentes , cuya mani- -festación ha de dejar pasmado al siglo del vapor , de la elec-tricidad , y del sufragio universal . " Res vestra , aut ego fa-llor , res nostra agitur . " ## CCXVII  ( Idem . ) *   -   Quien no aspira no respira . ( 1 ) ## CCXVIII  - (Idem .) * La razón es el hombre , lo demás es el animal . - ## CCXIX  ( Idem .) *      - Una vez conseguido que la razón se convier-ta en sentimiento , y sentimiento predominante , como re-gla de conducta , en términos de gozarnos en las tribulacio-nes , para valerme de la espresión del Apostol , todavía y siempre , tiene la razón fria que juzgar á la razón caliente . Pero son tantos los papeles que desempeña la razón , no obstante su fragilidad , que ha de ser juez , testigo , fiscal y foro , todo en una pieza . ## CCXX  - (Idem . )* Con el mero hecho de aceptar una discusión , ya está reconocida la supremacía del tribunal de la razón . [ A . Ζ .) (1) El presente aforismo se ha publicado muchas veces en esta for-ma , y por cierto que en él han querido ver los suspicaces la divisa re-volucionaria de Luz Caballero . La circunstancia de ser muy conocido , me obliga á reproducirlo , pero debo advertir que no lo he encontrado en los manuscritos que poseo , y en cambio tengo á la vista uno que lle -va la fecha de 21 de Septiembre de 1851, y que bajo la palabra "Ideal ” á modo de título , dice : " Si la humanidad no aspira , no respira; " y en 1856 la " Floresta Cubana , " ( pág . 217) publicó entre otros pensamien-tos el siguiente : " La humanidad si no aspira no respira, y ved ahí la necesidad del Ideal ."     -
 
-CCXVI.
+## CCXVI
 
 (Idem.)*—Present-day society, like a subterranean fire, harbors in its bowels latent forces whose manifestation is bound to leave astounded the century of steam, of electricity, and of universal suffrage.—“Res vestra, aut ego fallor, res nostra agitur.” [it is your cause, or I am mistaken, it is ours that is at stake]
 
-CCXVII.
+## CCXVII
 
 (Idem.)*—He who does not aspire does not respire. (1)
 
-CCXVIII.
+## CCXVIII
 
 (Idem.)*—Reason is the man, the rest is the animal.
 
-CCXIX.
+## CCXIX
 
 —(Idem.)*—Once reason has been made to turn into feeling, and predominant feeling, as a rule of conduct, to the point of our rejoicing in tribulations, to use the expression of the Apostle, still and always cold reason has to judge warm reason. But so many are the parts that reason plays, notwithstanding its frailty, that it must be judge, witness, prosecutor and court, all in one piece.
 
-CCXX.
+## CCXX
 
 (Idem.)*—By the mere fact of accepting a discussion, the supremacy of the tribunal of reason is already acknowledged.
 
@@ -2428,21 +2428,21 @@ CCXX.
 
 [p. 107]
 
-> CCXXI . - (Idem. ) Ni es lícito ni menester deprimir á uno para ensalzar á otro . CCXXII . - ( Idem .) El contraste es el alma de la naturaleza . CCXXIII . (1dem. ) - La historia de los sordos - mudos y la del jo-ven sin infancia , Gaspar   Hauser , ( 1 ) son libros cerrados para los espiritualistas y pseudo - eclécticos . CCXIV . - (Idem .) No puede decirse á la justicia non plus ultra . Ella es absoluta en su esencia é ilimitada en su aplicación . ( 1) La historia de Gaspar Hauser se publicó primeramente en ale-mán por Anselm Feuerbach , Presidente de una de las Audiencias de Baviera , y fué traducida á varios idiomas . En Boston se imprimió una versión al inglés en 1832 , de la cual se hizo en 1433 la segunda edición : de ésta poseo ur ejemplar precedido de un retrato . Gaspar Hauser hasta los 17 años , estuvo encerrado en un subterrá-neo ó calabozo , sin ver á otro ser viviente más que á la persona que hasta esa edad le tuvo á su cuidado . En una tarde de Mayo del año de 1828 , apareció en la villa de Nuremberg , y pronto fué objeto de la más viva curiosidad , dando lugar á procedimientos inquisitoriales de la po-licía, sin resultados satisfactorios . De las observaciones verificadas parece averiguado que el local donde vivió Gaspar Hauser tan largo tiempo , tenía el techo á poca altura , por lo que generalmente se halla-ba sentado con las piernas tendidas hacia delante , esplicándose así lo penoso que le era estarse de pié , v lo difícil que fué para él aprender á andar , haciéndolo á los principios por pequeños saltos . For la falta de uso tenía muy fina la piel de la planta de los piés , así como la de las manos de las que se valía con bastante torpeza . No decía más que al-gunas frases aprendidas de memoria y que repetía al ser interrogado , y la palabra " ross " que gozoso pronunciaba al ver un caballo , de lo cual y de otros indicios se dedujo que para su entretenimiento debió tener uno de madera ú otra materia en su prisión . Son curiosos é interesantes      los incidentes de la iniciación de este Adan ( tan ignorante como el del Diablo Mundo de Espronceda ) en la vida social , de la que, sin embargo , no tardó en adquirir los hábitos , habiendo estado á punto de morir asesinado cuando ya era bastante no-table su civilización . El ocuparnos más detalladamente del asunto , alargaría demasiado .-esta nota ( A. Z , )
+> ## CCXXI  - (Idem. ) Ni es lícito ni menester deprimir á uno para ensalzar á otro . ## CCXXII  - ( Idem .) El contraste es el alma de la naturaleza . ## CCXXIII  (1dem. ) - La historia de los sordos - mudos y la del jo-ven sin infancia , Gaspar   Hauser , ( 1 ) son libros cerrados para los espiritualistas y pseudo - eclécticos . ## CCXIV  - (Idem .) No puede decirse á la justicia non plus ultra . Ella es absoluta en su esencia é ilimitada en su aplicación . ( 1) La historia de Gaspar Hauser se publicó primeramente en ale-mán por Anselm Feuerbach , Presidente de una de las Audiencias de Baviera , y fué traducida á varios idiomas . En Boston se imprimió una versión al inglés en 1832 , de la cual se hizo en 1433 la segunda edición : de ésta poseo ur ejemplar precedido de un retrato . Gaspar Hauser hasta los 17 años , estuvo encerrado en un subterrá-neo ó calabozo , sin ver á otro ser viviente más que á la persona que hasta esa edad le tuvo á su cuidado . En una tarde de Mayo del año de 1828 , apareció en la villa de Nuremberg , y pronto fué objeto de la más viva curiosidad , dando lugar á procedimientos inquisitoriales de la po-licía, sin resultados satisfactorios . De las observaciones verificadas parece averiguado que el local donde vivió Gaspar Hauser tan largo tiempo , tenía el techo á poca altura , por lo que generalmente se halla-ba sentado con las piernas tendidas hacia delante , esplicándose así lo penoso que le era estarse de pié , v lo difícil que fué para él aprender á andar , haciéndolo á los principios por pequeños saltos . For la falta de uso tenía muy fina la piel de la planta de los piés , así como la de las manos de las que se valía con bastante torpeza . No decía más que al-gunas frases aprendidas de memoria y que repetía al ser interrogado , y la palabra " ross " que gozoso pronunciaba al ver un caballo , de lo cual y de otros indicios se dedujo que para su entretenimiento debió tener uno de madera ú otra materia en su prisión . Son curiosos é interesantes      los incidentes de la iniciación de este Adan ( tan ignorante como el del Diablo Mundo de Espronceda ) en la vida social , de la que, sin embargo , no tardó en adquirir los hábitos , habiendo estado á punto de morir asesinado cuando ya era bastante no-table su civilización . El ocuparnos más detalladamente del asunto , alargaría demasiado .-esta nota ( A. Z , )
 
-CCXXI.
+## CCXXI
 
 (Idem.)—It is neither lawful nor needful to run one man down in order to exalt another.
 
-CCXXII.
+## CCXXII
 
 (Idem.)—Contrast is the soul of nature.
 
-CCXXIII.
+## CCXXIII
 
 (Idem.)—The history of the deaf-mutes and that of the youth without childhood, Kaspar Hauser, (1) are closed books for the spiritualists and pseudo-eclectics.
 
-CCXIV.
+## CCXIV
 
 (Idem.)—One cannot say non plus ultra [no further] to justice. It is absolute in its essence and unlimited in its application.
 
@@ -2456,17 +2456,17 @@ To concern ourselves with the subject in more detail would lengthen this note to
 
 [p. 108]
 
-> CCXXV . - (Idem .) * Hay una fuerza motriz más poderosa que el vapor y la electricidad : la voluntad . CCXXVI (          - Idem .) * Esperar que las aguas del interés dejen de seguir su natural cauce , sue'e ser la ilusión de los buenos y los patriotas . Más para mejorar el mundo se necesitan esas ilusiones . CCXXVII . (Idem .)   - No hay duda que había filosofía en Voltaire ¡Cómo ha cambiado el mundo !           .... ..... Llega hoy á un es-fuerzo el ser imparcial para con Voltaire . Pero es preciso serlo hasta con el Diablo , so pena de condenarnos ; y aún cuando no se siguiera pena, por aquello de ( al estilo de San-ta Teresa .) "No me mueve verdad para quererte . El cielo que me tienes prometido , " por honradez , por purísimo placer de conciencia , por deber imprescindible de todo el que aspire á llamarse hombre . CCXXVIII - (Idem .) Los escritos son sepulcros nombre y memoria de cada uno . que conservan el CCXXIX (Mayo de 1842 .) dad . -   La frialdad , materia prima   de la mal- CCXXX . - (Idem. ) * La Lógica es la reina del mundo , y sin em-bargo , el mundo ni puede ni debe gobernarse por la lógica .
+> ## CCXXV  - (Idem .) * Hay una fuerza motriz más poderosa que el vapor y la electricidad : la voluntad . ## CCXXVI (          - Idem .) * Esperar que las aguas del interés dejen de seguir su natural cauce , sue'e ser la ilusión de los buenos y los patriotas . Más para mejorar el mundo se necesitan esas ilusiones . ## CCXXVII  ## (Idem .)   - No hay duda que había filosofía en Voltaire ¡Cómo ha cambiado el mundo !           .... ..... Llega hoy á un es-fuerzo el ser imparcial para con Voltaire . Pero es preciso serlo hasta con el Diablo , so pena de condenarnos ; y aún cuando no se siguiera pena, por aquello de ( al estilo de San-ta Teresa .) "No me mueve verdad para quererte . El cielo que me tienes prometido , " por honradez , por purísimo placer de conciencia , por deber imprescindible de todo el que aspire á llamarse hombre . ## CCXXVIII - (Idem .) Los escritos son sepulcros nombre y memoria de cada uno . que conservan el ## CCXXIX (Mayo de 1842 .) dad . -   La frialdad , materia prima   de la mal- ## CCXXX  - (Idem. ) * La Lógica es la reina del mundo , y sin em-bargo , el mundo ni puede ni debe gobernarse por la lógica .
 
-CCXXV.
+## CCXXV
 
 (Idem.)*—There is a motive force more powerful than steam and electricity: the will.
 
-CCXXVI
+## CCXXVI
 
 (Idem.)*—To expect the waters of interest to cease following their natural channel is usually the illusion of the good and of patriots. But to better the world those illusions are needed.
 
-CCXXVII.
+## CCXXVII
 
 (Idem.)—There is no doubt that there was philosophy in Voltaire.....
 
@@ -2474,73 +2474,73 @@ How the world has changed!.... It takes an effort today to be impartial towards 
 
 “I am not moved, truth, to love thee, By the heaven thou hast promised me,” out of honesty, out of the purest pleasure of conscience, out of the indispensable duty of everyone who aspires to call himself a man.
 
-CCXXVIII
+## CCXXVIII
 
 (Idem.)—Writings are sepulchres that preserve the name and memory of each one.
 
-CCXXIX
+## CCXXIX
 
 (May, 1842.)—Coldness, the raw material of wickedness.
 
-CCXXX.
+## CCXXX
 
 (Idem.)*—Logic is the queen of the world, and yet the world neither can nor should be governed by logic.
 
 [p. 109]
 
-> OBRAS DE DON JOSÉ DE LA LUZ .            109 . CCXXXI . ( Idem. ) *-La envidia no se pone en zancos ( eso queda para su pariente la vanidad ) para alcanzar ó exeder al ár-bol del mérito , sino que lo rebaja ó lo corta : todo es en ella negativo . CCXXXII . ( Idem .) honradez . -   Fruta rara el ingenio ; mucho    más   escasa   la CCXXXIII . - ( Cerro , Mayo 28. ) El ejercicio dal pensamiento , aun-que no verse sobre cosas útiles , el mejor contrapeso de las pasiones  .  Pruébase fisiológicamente . CCXXXIV . - ( Idem .) La meditación mata ; el alma se ensangrienta tropezando con los puñales de la realidad , los puntos de comparación . CCXXXV . (Junio 2 .) ancianos . -   Mas respeto   se debe á los niños que á los CCXXXVI . - (Junio 3 .) * Así como nacen especies contra especies , en el mundo físico , v. g . gatos contra ratones ; así nacen especies sociales contra especies sociales , v . g . verídicos contra hipócritas , y hasta individuos contra individuos . ¿Quién carece de su antagonista natural ? CCXXXVII . - (Junio 4. ) * Así como la naturaleza necesitó de tiem-po y cataclismos para desarrollarse y perfeccionarse , así la humanidad (¡ duro es apuntarlo !) ha de pasar por los mis-mos trámites para su elaboración y mejoramiento .
+> ## OBRAS DE DON JOSÉ DE LA LUZ .            109  ## CCXXXI  ( Idem. ) *-La envidia no se pone en zancos ( eso queda para su pariente la vanidad ) para alcanzar ó exeder al ár-bol del mérito , sino que lo rebaja ó lo corta : todo es en ella negativo . ## CCXXXII  ( Idem .) honradez . -   Fruta rara el ingenio ; mucho    más   escasa   la ## CCXXXIII  - ( Cerro , Mayo 28. ) El ejercicio dal pensamiento , aun-que no verse sobre cosas útiles , el mejor contrapeso de las pasiones  .  Pruébase fisiológicamente . ## CCXXXIV  - ( Idem .) La meditación mata ; el alma se ensangrienta tropezando con los puñales de la realidad , los puntos de comparación . ## CCXXXV  (Junio 2 .) ancianos . -   Mas respeto   se debe á los niños que á los ## CCXXXVI  - (Junio 3 .) * Así como nacen especies contra especies , en el mundo físico , v. g . gatos contra ratones ; así nacen especies sociales contra especies sociales , v . g . verídicos contra hipócritas , y hasta individuos contra individuos . ¿Quién carece de su antagonista natural ? ## CCXXXVII  - (Junio 4. ) * Así como la naturaleza necesitó de tiem-po y cataclismos para desarrollarse y perfeccionarse , así la humanidad (¡ duro es apuntarlo !) ha de pasar por los mis-mos trámites para su elaboración y mejoramiento .
 
-CCXXXI.
+## CCXXXI
 
 (Idem.)*—Envy does not get up on stilts (that it leaves to its kinswoman vanity) to reach or overtop the tree of merit; instead it lowers it or cuts it down: everything in it is negative.
 
-CCXXXII.
+## CCXXXII
 
 (Idem.)—A rare fruit, wit; much scarcer, honesty.
 
-CCXXXIII.
+## CCXXXIII
 
 (Cerro, May 28.)—The exercise of thought, even though it does not turn on useful things, the best counterweight to the passions.— This is proved physiologically.
 
-CCXXXIV.
+## CCXXXIV
 
 (Idem.)—Meditation kills; the soul bleeds, stumbling against the daggers of reality, the points of comparison.
 
-CCXXXV.
+## CCXXXV
 
 (June 2.)—More respect is owed to children than to the old.
 
-CCXXXVI.
+## CCXXXVI
 
 (June 3.)*—Just as species are born against species in the physical world, e. g. cats against mice; so social species are born against social species, e. g. the truthful against the hypocrites, and even individuals against individuals. Who lacks his natural antagonist?
 
-CCXXXVII.
+## CCXXXVII
 
 (June 4.)*—Just as nature needed time and cataclysms to develop and perfect itself, so humanity (hard it is to note it down!) must pass through the same stages for its elaboration and improvement.
 
 [p. 110]
 
-> CCXXXVIII . (Junio 5 . )* gar . ( 1 ) - La vida , bogar , bogar , y en la orilla aho- CCXXXIX . - (Idem . )* Primero                       se    entenderá un habitante tierra con un morador de las estrellas , que el hombre sano de la con el nervioso . ¡ Ah , profundo Virgilio , con tu: " non igna-ra mali , miseris succurrere disco ! " Ymenos se entenderá el religioso ó entusiasta , con el                                                 in-crédulo  calculista ó                   . CCXL - . ( Junio      Es un Proteo .7 )            humanidad que para pene- la                       , trarla    menester difícil estarla mirando es                  (             ! )vez por                              á   la                   to-das sus faces       . CCXLI - . (   Junio     9 .  )     No ya          torpeza sino la           maldad ,           la                 y       malicia de los hombres          ,    se   oponen   divino laconismo al                                   . CCXLII      . Idem -            La sociedad hoy .... suciedad ¿ ( .)   * -                         la . Quiéres penetrar   sociedad   Vetela                   ?         a            soledad      . La soledad      foco que permite mejor es   el                                                 la  visión     . CCXLIII        . Junio        Desde que 10 -         hacen comparaciones jamás " se (                .) : blanqueadas     Es nada menos que de Jesucristo ."                                                                      . Las de Alejandro  Manzoni son por    estilo                       el               . (1  ) Lo conocido que                es este aforismo nó                  ,y        su   mérito  ,    me mueve        á no escluirlo de esta colección como sin duda                        le    hubiese hecho             el   mis- .- , mo Luz   , á haber  publicado  sus obras ( .A      Ζ . ) *                                                                           , se   ha hecho una como ésta  Los hipócritas son sepulturas
+> ## CCXXXVIII  (Junio 5 . )* gar . ( 1 ) - La vida , bogar , bogar , y en la orilla aho- ## CCXXXIX  - (Idem . )* Primero                       se    entenderá un habitante tierra con un morador de las estrellas , que el hombre sano de la con el nervioso . ¡ Ah , profundo Virgilio , con tu: " non igna-ra mali , miseris succurrere disco ! " Ymenos se entenderá el religioso ó entusiasta , con el                                                 in-crédulo  calculista ó                   . ## CCXL - . ## ( Junio      Es un Proteo .7 )            humanidad que para pene- la                       , trarla    menester difícil estarla mirando es                  (             ! )vez por                              á   la                   to-das sus faces       . ## CCXLI - . (   Junio     9 .  )     No ya          torpeza sino la           maldad ,           la                 y       malicia de los hombres          ,    se   oponen   divino laconismo al                                   . ## CCXLII       Idem -            La sociedad hoy .... suciedad ¿ ( .)   * -                         la . Quiéres penetrar   sociedad   Vetela                   ?         a            soledad      . La soledad      foco que permite mejor es   el                                                 la  visión     . ## CCXLIII         Junio        Desde que 10 -         hacen comparaciones jamás " se (                .) : blanqueadas     Es nada menos que de Jesucristo ."                                                                      . Las de Alejandro  Manzoni son por    estilo                       el               . (1  ) Lo conocido que                es este aforismo nó                  ,y        su   mérito  ,    me mueve        á no escluirlo de esta colección como sin duda                        le    hubiese hecho             el   mis- .- , mo Luz   , á haber  publicado  sus obras ( .A      Ζ . ) *                                                                           , se   ha hecho una como ésta  Los hipócritas son sepulturas
 
-CCXXXVIII.
+## CCXXXVIII
 
 (June 5.)*—Life: to row, to row, and on the shore to drown. (1)
 
-CCXXXIX.
+## CCXXXIX
 
 (Idem.)*—An inhabitant of the earth will sooner understand a dweller in the stars than the healthy man the nervous one. Ah, profound Virgil, with your: “non ignara mali, miseris succurrere disco!” [no stranger to misfortune, I learn to succor the wretched]
 
 And still less will the religious or enthusiastic man understand the unbeliever or the calculator.
 
-CCXL.
+## CCXL
 
 (June 7.)—Humanity is a Proteus, so that to penetrate it one must (difficult!) be watching it at once on all its faces.
 
-CCXLI.
+## CCXLI
 
 (June 9.)—Not merely the dullness, but the wickedness and malice of men stand in the way of the divine laconism.
 
-CCXLII.
+## CCXLII
 
 (Idem.)*—Society today.... sootiety.
 
@@ -2548,7 +2548,7 @@ Would you penetrate society?—Go off into solitude.
 
 Solitude is the focus that best permits vision.
 
-CCXLIII.
+## CCXLIII
 
 (June 10.)*—Since comparisons began to be made, never has one been made like this: “The hypocrites are whited sepulchres.” It is nothing less than Jesus Christ’s.
 
@@ -2558,17 +2558,17 @@ Those of Alessandro Manzoni are in that style.
 
 [p. 111]
 
-> CCXLIV . (Junio 13 .) *   -   Escribir es escojer , y hablar es dejar correr . CCXLV . - (París , Diciembre 28 de 1843 .) El mundo no se go . bierna con lógica sino con inconsecuencia . Por eso llamo exagerados á todos los hombres consecuentes . CCXLVI . - ( Diciembre 30. ) El hombre es tanto más sabio , cuanto más motivos de inducción se le presenten . Por sabio entiendo más comprensivo y más práctico . Por práctico no entiendo lo que suele llamarse positivo , sino el que sabe aprovecharse , para bien conducirse , de su caudal de esperiencia . Porqué no hay nada más repugnante á mis ojos , que el esqueleto del egoismo . CCXLVII . Havre , Junio 30 de 1844. )-Mi equipaje es una imá-gen de mi enfermedad , sobra de lo superfluo y carencia de lo necesario . Pero, ¿cuándo no es lo mismo la vida del hombre? CCXLVIII . - (Idem . )"El que no sufre ¿qué sabe ?" Respuesta : Sólo el que sufre lo sabe . -   (Salomón .) CCXLIX (Abril 12 de 1845. )-¿Qué grande pensador dejó de es-cribir ? El genio , padre natural del pensamiento ; la escritura su educador . Madre también la escritura de los pensamientos interme-dios , ó eslabones que atan las grandes concepciones .
+> ## CCXLIV  (Junio 13 .) *   -   Escribir es escojer , y hablar es dejar correr . ## CCXLV  - (París , Diciembre 28 de 1843 .) El mundo no se go . bierna con lógica sino con inconsecuencia . Por eso llamo exagerados á todos los hombres consecuentes . ## CCXLVI  - ( Diciembre 30. ) El hombre es tanto más sabio , cuanto más motivos de inducción se le presenten . Por sabio entiendo más comprensivo y más práctico . Por práctico no entiendo lo que suele llamarse positivo , sino el que sabe aprovecharse , para bien conducirse , de su caudal de esperiencia . Porqué no hay nada más repugnante á mis ojos , que el esqueleto del egoismo . ## CCXLVII  Havre , Junio 30 de 1844. )-Mi equipaje es una imá-gen de mi enfermedad , sobra de lo superfluo y carencia de lo necesario . Pero, ¿cuándo no es lo mismo la vida del hombre? ## CCXLVIII  - (Idem . )"El que no sufre ¿qué sabe ?" Respuesta : Sólo el que sufre lo sabe . -   (Salomón .) ## CCXLIX (Abril 12 de 1845. )-¿Qué grande pensador dejó de es-cribir ? El genio , padre natural del pensamiento ; la escritura su educador . Madre también la escritura de los pensamientos interme-dios , ó eslabones que atan las grandes concepciones .
 
-CCXLIV.
+## CCXLIV
 
 (June 13.)*—To write is to choose, and to speak is to let flow.
 
-CCXLV.
+## CCXLV
 
 (Paris, December 28, 1843.)—The world is governed not by logic but by inconsistency. That is why I call all consistent men exaggerated.
 
-CCXLVI.
+## CCXLVI
 
 (December 30.)—Man is the wiser, the more grounds of induction are presented to him.
 
@@ -2578,17 +2578,17 @@ By practical I do not mean what is usually called positive, but one who knows ho
 
 Because there is nothing more repugnant to my eyes than the skeleton of egoism.
 
-CCXLVII.
+## CCXLVII
 
 (Havre, June 30, 1844.)—My baggage is an image of my illness: a surplus of the superfluous and a lack of the necessary. But when is the life of man not the same?
 
-CCXLVIII.
+## CCXLVIII
 
 (Idem.)—“He who does not suffer, what does he know?”—(Solomon.)
 
 Answer: Only he who suffers knows it.
 
-CCXLIX
+## CCXLIX
 
 (April 12, 1845.)—What great thinker ever failed to write?
 
@@ -2598,9 +2598,9 @@ Writing, too, is the mother of the intermediate thoughts, or links that bind tog
 
 [p. 112]
 
-> CCL . (Abril 13 )-¿Porqué la candidez suele ser compañera de la perspicacia , cuando al parecer deberían escluirse ? Porque la una es hija del corazón y la otra del entendi-miento . Para que haya también cierta compensación y más dis-tribución de dones ; para apagar asimismo con el velo de la candidez los humos ( la vanidad ) de la perspicacia . Por el contrario . ó por lo mismo , la malicia suele ser el talento de la medianía , de la nulidad , ó de la Haqueza . Es una especie de arma prohibida que llevan los que no tienen fuerza propia . La investigación de las causas , así en el orden físico como en el moral , y sobre todo en este último , nos hace toleran-tes y compasivos ; en otros términos , nos hace justos y equi-tativos . Es el primero de todos los calmantes . CCLI . - (Abril 14 .) * Libros . Llega una época en que más se apetece hacerlos que leerlos . Otra se anticipa en que se hacen sin querer hacerlos ; des-ahogo tan necesario al corazón como el suspiro al pecho . Cuando el pensamiento es muy activo aún no haciéndo-los , y sin querer hacerlos , no distraen los hechos , ni pro-pios ni agenes . CCLII . -                 - ( Abril 19 .) El hombre fuerza de tiempo , de soles y se madura .... de golpes . como la fruta , á -( CCLIII . Abril 22 )-Lo más difícil del mundo , es ser imparcial . -( CCLIV . - Abril 26 .)       Todos los fenómenos del universo , en lo
+> ## CCL  (Abril 13 )-¿Porqué la candidez suele ser compañera de la perspicacia , cuando al parecer deberían escluirse ? Porque la una es hija del corazón y la otra del entendi-miento . Para que haya también cierta compensación y más dis-tribución de dones ; para apagar asimismo con el velo de la candidez los humos ( la vanidad ) de la perspicacia . Por el contrario . ó por lo mismo , la malicia suele ser el talento de la medianía , de la nulidad , ó de la Haqueza . Es una especie de arma prohibida que llevan los que no tienen fuerza propia . La investigación de las causas , así en el orden físico como en el moral , y sobre todo en este último , nos hace toleran-tes y compasivos ; en otros términos , nos hace justos y equi-tativos . Es el primero de todos los calmantes . ## CCLI  - (Abril 14 .) * Libros . Llega una época en que más se apetece hacerlos que leerlos . Otra se anticipa en que se hacen sin querer hacerlos ; des-ahogo tan necesario al corazón como el suspiro al pecho . Cuando el pensamiento es muy activo aún no haciéndo-los , y sin querer hacerlos , no distraen los hechos , ni pro-pios ni agenes . ## CCLII  -                 - ( Abril 19 .) El hombre fuerza de tiempo , de soles y se madura .... de golpes . como la fruta , á -( ## CCLIII  Abril 22 )-Lo más difícil del mundo , es ser imparcial . -( ## CCLIV  - Abril 26 .)       Todos los fenómenos del universo , en lo
 
-CCL.
+## CCL
 
 (April 13)—Why is candor usually the companion of perspicacity, when it would seem that they ought to exclude each other? Because the one is the child of the heart and the other of the understanding.
 
@@ -2612,7 +2612,7 @@ It is a kind of forbidden weapon carried by those who have no strength of their 
 
 The investigation of causes, in the physical as in the moral order, and above all in the latter, makes us tolerant and compassionate; in other words, it makes us just and equitable. It is the first of all sedatives.
 
-CCLI.
+## CCLI
 
 (April 14.)*—Books. There comes a time when one has more appetite for making them than for reading them.
 
@@ -2620,25 +2620,25 @@ Another comes before it, in which they are made without wishing to make them; a 
 
 When thought is very active, even when one is not making them, and without wishing to make them, facts do not distract it, neither one’s own nor other people’s.
 
-CCLII.
+## CCLII
 
 —(April 19.)—Man ripens like fruit, by dint of time, of suns and.... of blows.
 
-CCLIII.
+## CCLIII
 
 —(April 22)—The most difficult thing in the world is to be impartial.
 
-CCLIV.
+## CCLIV
 
 —(April 26.)—All the phenomena of the universe, in the
 
 [p. 113]
 
-> físico y en lo moral , reproducen constantemente la imá-gen de la necesidad de la cooperación de principios distin-tos para su producción , todo es matrimonio y nada aisla-miento . CCLV . ( 1 ) - (Mayo 19 .) El genio padre , y las circunstancias de los acontecimientos . madre , Por eso ni aún los hombres más extraordinarios desple-gan ciertos talentos sino en determinadas circunstancias . De ahí también la necesidad de la oportunidad , y la im-posibilidad de hacer revoluciones , sino existen hechos fisi-cos ó morales que el génio no puede crear . Ni Napoleon revolucionaria la Isla de Cuba en circunstancias ordinarias , ni aún extraordinarias , pero que le ataquen sus propieda-des , y entonces la ovejita diventa leone . Los hombres ingeniosos , arrastrados por su deseo , ven como cosas existentes las opiniones de su partido , al paso que el genio comienza por observar lo que existe fuera de sí , y aún eso mismo suele inspirarle la acción y el modo de acción . O golpes de cuerda , ó ninguno , más que el " guta cavat lapidem . " En nada tanto como en política suelen tomarse los efec-tos por causas . CCLVI . (Mayo 3 .) las cosas . - Sin interés , suelen los hombres no examinar Con interés , suelen no saberlas examinar . CCLVII . ( Idem. )   -   La palabra es más poderosa que el cañon . ( 1) Por inadvertencia no figura este aforismo           los de Políti-ca.-(A. Z. )                                       entre 8
+> físico y en lo moral , reproducen constantemente la imá-gen de la necesidad de la cooperación de principios distin-tos para su producción , todo es matrimonio y nada aisla-miento . ## CCLV . ( 1 ) - (Mayo 19 .) El genio padre , y las circunstancias de los acontecimientos . madre , Por eso ni aún los hombres más extraordinarios desple-gan ciertos talentos sino en determinadas circunstancias . De ahí también la necesidad de la oportunidad , y la im-posibilidad de hacer revoluciones , sino existen hechos fisi-cos ó morales que el génio no puede crear . Ni Napoleon revolucionaria la Isla de Cuba en circunstancias ordinarias , ni aún extraordinarias , pero que le ataquen sus propieda-des , y entonces la ovejita diventa leone . Los hombres ingeniosos , arrastrados por su deseo , ven como cosas existentes las opiniones de su partido , al paso que el genio comienza por observar lo que existe fuera de sí , y aún eso mismo suele inspirarle la acción y el modo de acción . O golpes de cuerda , ó ninguno , más que el " guta cavat lapidem . " En nada tanto como en política suelen tomarse los efec-tos por causas . ## CCLVI  (Mayo 3 .) las cosas . - Sin interés , suelen los hombres no examinar Con interés , suelen no saberlas examinar . ## CCLVII  ( Idem. )   -   La palabra es más poderosa que el cañon . ( 1) Por inadvertencia no figura este aforismo           los de Políti-ca.-(A. Z. )                                       entre 8
 
 physical and in the moral order, constantly reproduce the image of the necessity of the cooperation of distinct principles for their production: all is marriage and nothing isolation.
 
-CCLV. (1)
+## CCLV. (1)
 
 (May 1st.)—Genius the father, and circumstances the mother, of events.
 
@@ -2652,11 +2652,11 @@ Either strokes of the rope, or none at all, other than the “gutta cavat lapide
 
 In nothing so much as in politics are effects usually taken for causes.
 
-CCLVI.
+## CCLVI
 
 (May 3.)—Without interest, men usually do not examine things. With interest, they usually do not know how to examine them.
 
-CCLVII.
+## CCLVII
 
 (Idem.)—The word is more powerful than the cannon.
 
@@ -2664,9 +2664,9 @@ CCLVII.
 
 [p. 114]
 
-> CCLVIII . - (Mayo 7.) Buenos , no envidiéis jamás á los malos que siempre les vá peor que á vosotros . Es inevitable el anatema : " en el pecado llevan la peni-tencia ." Siempre y por siempre existe la compensación . CCLIX . - (Mayo 11 .) ¡ Qué belleza hay en todo lo natural , no sólo en los objetos , sino hasta en los movimientos ! ... El vue-lo del águila , el salto del tigre , el nadar del ánade , el picar de los polluelos     .... ¡ qué gracia ! qué espresión ! La contemplación habitual de la naturaleza nos tiene en un himno contínuo al Creador . CCLX . ( Mayo 15 .) penas . -   Un alma sensible es fuente de goces y de Las unas están compensadas por los otros , por más que el hombre que no estudia el destino del hombre diga que nó . Que hay dulces placeres hasta en la melancolía , y muy apacibles en la memoria , y muy vivos en la imaginación . Por más positivos que queramos ser , vivimos en lo pasa-do y en lo futuro más que en lo presente ; sobre todo en cierta edad , y más que todo cuando tocan á la puerta cier-tos huespedes que se llaman desvalidéz y desventura . CCLXI . ( Mayo 1. la -¿ 16 . ) * produce Cuál es la mayor de las alegrías ? La -- la vista del objeto amado ; la 2ª el retorno de la salud ( hablo en el orden moral y fisico ) ; la 3ª el término de la obra ; la 4ª el regreso á la patria . El amor paternal ó maternal va incluso en la primera , el ganarse una acción por un general , lo va en la tercera .
+> ## CCLVIII  - (Mayo 7.) Buenos , no envidiéis jamás á los malos que siempre les vá peor que á vosotros . Es inevitable el anatema : " en el pecado llevan la peni-tencia ." Siempre y por siempre existe la compensación . ## CCLIX  - (Mayo 11 .) ¡ Qué belleza hay en todo lo natural , no sólo en los objetos , sino hasta en los movimientos ! ... El vue-lo del águila , el salto del tigre , el nadar del ánade , el picar de los polluelos     .... ¡ qué gracia ! qué espresión ! La contemplación habitual de la naturaleza nos tiene en un himno contínuo al Creador . ## CCLX  ( Mayo 15 .) penas . -   Un alma sensible es fuente de goces y de Las unas están compensadas por los otros , por más que el hombre que no estudia el destino del hombre diga que nó . Que hay dulces placeres hasta en la melancolía , y muy apacibles en la memoria , y muy vivos en la imaginación . Por más positivos que queramos ser , vivimos en lo pasa-do y en lo futuro más que en lo presente ; sobre todo en cierta edad , y más que todo cuando tocan á la puerta cier-tos huespedes que se llaman desvalidéz y desventura . ## CCLXI  ( Mayo 1. la -¿ 16 . ) * produce Cuál es la mayor de las alegrías ? La -- la vista del objeto amado ; la 2ª el retorno de la salud ( hablo en el orden moral y fisico ) ; la 3ª el término de la obra ; la 4ª el regreso á la patria . El amor paternal ó maternal va incluso en la primera , el ganarse una acción por un general , lo va en la tercera .
 
-CCLVIII.
+## CCLVIII
 
 (May 7.)—You who are good, never envy the wicked, for it always goes worse with them than with you.
 
@@ -2674,13 +2674,13 @@ The anathema is inevitable: “in the sin they carry the penance.”
 
 Always and forever compensation exists.
 
-CCLIX.
+## CCLIX
 
 (May 11.)—What beauty there is in everything natural, not only in objects, but even in movements! ... The flight of the eagle, the leap of the tiger, the swimming of the duck, the pecking of the chicks.... what grace! what expression!
 
 The habitual contemplation of nature keeps us in a continual hymn to the Creator.
 
-CCLX.
+## CCLX
 
 (May 15.)—A sensitive soul is a fount of joys and of sorrows.
 
@@ -2690,7 +2690,7 @@ For there are sweet pleasures even in melancholy, and very gentle ones in memory
 
 However positive we may wish to be, we live in the past and in the future more than in the present; above all at a certain age, and most of all when certain guests called helplessness and misfortune come knocking at the door.
 
-CCLXI.
+## CCLXI
 
 (May 16.)*—Which is the greatest of joys?—The 1st is produced by the sight of the beloved object; the 2nd by the return of health (I speak in the moral and the physical order); the 3rd by the completion of one’s work; the 4th by the return to one’s homeland.
 
@@ -2698,17 +2698,17 @@ Paternal or maternal love is included in the first; a general’s winning of a b
 
 [p. 115]
 
-> CCLXII . (Mayo 18. )      Combatir     preocupaciones   es casi   siempre como tirar coces contra el aguijón ; pero deben tirarse has-ta romper el aguijón . De otra suerte , ¿cómo anduviera el mundo? CCLXIII . ( Idem .)  -   Piensa para obrar , y para no obrar piensa . CCLXIV . - (Octubre 14. ) La oscuridad de lo futuro , el mayor pre-sente de la Providencia para el alma humana . Y  sin embargo la incertidumbre es el peor de los males . Siempre se tira al desenlace en este drama de la vida . ¡Bienaventurada oscuridad espuela de la inteligencia , y madre de la ciencia ! CCLXV . (Diciembre cumpla . 15. ) -  La ciencia debe prometer , aunque no CCLXVI .. - ( Idem .) La tierra de promisión : el ideal . Mientras se esfuerza el hombre por llegar , recoje conocimientos , y se ejercita; no puede perfeccionarse de otra suerte . CCLXVII (1846 .) imágen -¿ Cómo , de la muerte ?      - porqué , sorprende tanto al hombre la Porque aunque común nunca es vulgar . Arrebatados los hombres por el torbellino de la vida , ja-más piensan en la muerte ; tal es el imperio de los sentidos ! Nada infunde más corazón que el familiarizarse con la idea de la muerte .
+> ## CCLXII  (Mayo 18. )      Combatir     preocupaciones   es casi   siempre como tirar coces contra el aguijón ; pero deben tirarse has-ta romper el aguijón . De otra suerte , ¿cómo anduviera el mundo? ## CCLXIII  ( Idem .)  -   Piensa para obrar , y para no obrar piensa . ## CCLXIV  - (Octubre 14. ) La oscuridad de lo futuro , el mayor pre-sente de la Providencia para el alma humana . Y  sin embargo la incertidumbre es el peor de los males . Siempre se tira al desenlace en este drama de la vida . ¡Bienaventurada oscuridad espuela de la inteligencia , y madre de la ciencia ! ## CCLXV  (Diciembre cumpla . 15. ) -  La ciencia debe prometer , aunque no ## CCLXVI  - ( Idem .) La tierra de promisión : el ideal . Mientras se esfuerza el hombre por llegar , recoje conocimientos , y se ejercita; no puede perfeccionarse de otra suerte . ## CCLXVII (1846 .) imágen -¿ Cómo , de la muerte ?      - porqué , sorprende tanto al hombre la Porque aunque común nunca es vulgar . Arrebatados los hombres por el torbellino de la vida , ja-más piensan en la muerte ; tal es el imperio de los sentidos ! Nada infunde más corazón que el familiarizarse con la idea de la muerte .
 
-CCLXII.
+## CCLXII
 
 (May 18.)—To combat prejudices is almost always like kicking against the pricks; but one must keep kicking until the prick is broken.— Otherwise, how would the world move on?
 
-CCLXIII.
+## CCLXIII
 
 (Idem.)—Think in order to act, and in order not to act, think.
 
-CCLXIV.
+## CCLXIV
 
 (October 14.)—The obscurity of the future, the greatest present of Providence to the human soul.
 
@@ -2718,15 +2718,15 @@ One is always pressing on toward the denouement in this drama of life.
 
 Blessed obscurity, spur of the intelligence, and mother of science!
 
-CCLXV.
+## CCLXV
 
 (December 15.)—Science must promise, even if it does not fulfill.
 
-CCLXVI..
+## CCLXVI
 
 (Idem.)—The promised land: the ideal. While man strives to reach it, he gathers knowledge, and exercises himself; he cannot perfect himself in any other way.
 
-CCLXVII
+## CCLXVII
 
 (1846.)—How, why, does the image of death so surprise man?— Because, though common, it is never vulgar.
 
@@ -2736,11 +2736,11 @@ Nothing gives more heart than to familiarize oneself with the idea of death.
 
 [p. 116]
 
-> Acuérdome á este propósito de un lema de escudo de ar-mas que decía : " Osar morir dá la vida" . CCLXVIII (Idem )-No siempre lo que parece más natural es lo pri-mero que ocurre al entendimiento . En la historia de los descubrimientos se comprueba tambien la existencia del orden cronológico y el orden lógico . La sencilléz suele ser la señal del progreso ó de la per-fección ; generalmente es antes la complicación que la sen-cilléz . También he observado , más de veinte y cinco años há , que el espíritu humano marcha por la curva : de modo que no siempre es la recta el camino más corto . Necesita el entendimiento tropezar en algún fenómeno que cual un torrente de luz le alumbre las analogías , ( en que no había pensado ) con otros hechos que le eran fami-iares ; y así es como se descubren las leyes . CCLXIX ( Febrero 26 ) -¿No será indicio de la verdadera exelen-cia del saber y de la virtud , la necesidad de desvivirse por ellos para conseguirlos ? CCLXX ( Idem ) -Todo grande tiene (debe tener) su chispa de ar-tista . Lo grande para fecundarse , no para copiarse . "¡Imita-tores .... servum pecus" ! Donde no hay generación ; no hay arte ni ciencia . CCLXXI ( Jesus del Monte , Marzo 26 ) -Hay cierto valor adquirido tan animoso como el natural el de la esperiencia ; más te- , naz que el de la juventud , como más arraigado .
+> Acuérdome á este propósito de un lema de escudo de ar-mas que decía : " Osar morir dá la vida" . ## CCLXVIII (Idem )-No siempre lo que parece más natural es lo pri-mero que ocurre al entendimiento . En la historia de los descubrimientos se comprueba tambien la existencia del orden cronológico y el orden lógico . La sencilléz suele ser la señal del progreso ó de la per-fección ; generalmente es antes la complicación que la sen-cilléz . También he observado , más de veinte y cinco años há , que el espíritu humano marcha por la curva : de modo que no siempre es la recta el camino más corto . Necesita el entendimiento tropezar en algún fenómeno que cual un torrente de luz le alumbre las analogías , ( en que no había pensado ) con otros hechos que le eran fami-iares ; y así es como se descubren las leyes . ## CCLXIX ( Febrero 26 ) -¿No será indicio de la verdadera exelen-cia del saber y de la virtud , la necesidad de desvivirse por ellos para conseguirlos ? ## CCLXX ( Idem ) -Todo grande tiene (debe tener) su chispa de ar-tista . Lo grande para fecundarse , no para copiarse . "¡Imita-tores .... servum pecus" ! Donde no hay generación ; no hay arte ni ciencia . ## CCLXXI ( Jesus del Monte , Marzo 26 ) -Hay cierto valor adquirido tan animoso como el natural el de la esperiencia ; más te- , naz que el de la juventud , como más arraigado .
 
 I recall in this connection the motto of a coat of arms which said: “To dare to die gives life.”
 
-CCLXVIII
+## CCLXVIII
 
 (Idem)—What seems most natural is not always the first thing to occur to the understanding. In the history of discoveries, too, the existence of the chronological order and the logical order is borne out.
 
@@ -2750,11 +2750,11 @@ I have also observed, more than twenty-five years ago, that the human mind advan
 
 The understanding needs to stumble upon some phenomenon which, like a torrent of light, illuminates for it the analogies (of which it had not thought) with other facts that were familiar to it; and that is how laws are discovered.
 
-CCLXIX
+## CCLXIX
 
 (February 26)—May not the necessity of wearing ourselves out for knowledge and virtue in order to attain them be an indication of their true excellence?
 
-CCLXX
+## CCLXX
 
 (Idem)—Everything great has (must have) its spark of the artist.
 
@@ -2762,21 +2762,21 @@ The great is for fertilizing oneself, not for copying. “Imitatores.... servum 
 
 Where there is no generation, there is neither art nor science.
 
-CCLXXI
+## CCLXXI
 
 (Jesús del Monte, March 26)—There is a certain acquired courage as spirited as the natural kind: that of experience; more tenacious than that of youth, as being more deeply rooted.
 
 [p. 117]
 
-> CCLXXII (Idem )-Debemos siempre intentar y emprender          hasta donde nos permita la naturaleza . Estudiando y luchando conoceremos ese límite . CCLXXIII (1dem)-Si  hasta los filósofos se dejan llevar por las apa-riencias ¿cómo hemos de tachar á la muchedumbre por juz-gar según ellas ? El juzgar es tan rápido como el ver ; y se sigue tan nece-saria é inmediatamente al ver como este al abrir los ojos . Re-juzgar , reflejar , ahí está el busilis . CCLXXIV (Idem )-Feijóo escribió    un discurso sobre la falibilidad de algunos refranes . Yo escribiría un volúmen sobre la pro-funda infalibilidad del mayor número . Sin embargo , hizo bien Feijóo , sobre todo para aquel me-ridiano . " Más sabe el loco en su casa que el cuerdo en la agena ." Este vale extraordinariamente . CCLXXV ( Idem) -Por más que el hombre se proponga no dejarse exitar , como consta de tantos y tan varios elementos , al cabo suele mortificarle alguno que encuentra su contrario . CCLXXV1 (Idem ) -No solo es más fácil criticar que edificar , sino que edificarse . El empeño de rebajar siempre á los demás , es para que-dar nosotros arriba . Nadadores fuera del agua que siempre esultan rflotantes .
+> ## CCLXXII (Idem )-Debemos siempre intentar y emprender          hasta donde nos permita la naturaleza . Estudiando y luchando conoceremos ese límite . ## CCLXXIII (1dem)-Si  hasta los filósofos se dejan llevar por las apa-riencias ¿cómo hemos de tachar á la muchedumbre por juz-gar según ellas ? El juzgar es tan rápido como el ver ; y se sigue tan nece-saria é inmediatamente al ver como este al abrir los ojos . Re-juzgar , reflejar , ahí está el busilis . ## CCLXXIV (Idem )-Feijóo escribió    un discurso sobre la falibilidad de algunos refranes . Yo escribiría un volúmen sobre la pro-funda infalibilidad del mayor número . Sin embargo , hizo bien Feijóo , sobre todo para aquel me-ridiano . " Más sabe el loco en su casa que el cuerdo en la agena ." Este vale extraordinariamente . ## CCLXXV ( Idem) -Por más que el hombre se proponga no dejarse exitar , como consta de tantos y tan varios elementos , al cabo suele mortificarle alguno que encuentra su contrario . ## CCLXXV1 (Idem ) -No solo es más fácil criticar que edificar , sino que edificarse . El empeño de rebajar siempre á los demás , es para que-dar nosotros arriba . Nadadores fuera del agua que siempre esultan rflotantes .
 
-CCLXXII
+## CCLXXII
 
 (Idem)—We must always attempt and undertake as far as nature permits us.
 
 By studying and struggling we shall come to know that limit.
 
-CCLXXIII
+## CCLXXIII
 
 (Idem)—If even philosophers let themselves be carried away by appearances, how are we to reproach the multitude for judging by them?
 
@@ -2784,7 +2784,7 @@ Judging is as rapid as seeing; and it follows upon seeing as necessarily and imm
 
 To re-judge, to reflect: there lies the rub.
 
-CCLXXIV
+## CCLXXIV
 
 (Idem)—Feijóo wrote a discourse on the fallibility of some proverbs. I would write a volume on the profound infallibility of the greater number.
 
@@ -2792,11 +2792,11 @@ Nevertheless, Feijóo did well, above all for that meridian.
 
 “The fool knows more in his own house than the wise man in another’s.” This one is worth an extraordinary deal.
 
-CCLXXV
+## CCLXXV
 
 (Idem)—However much a man may resolve not to let himself be excited, being composed as he is of so many and such varied elements, in the end some one of them that meets its contrary usually galls him.
 
-CCLXXVI
+## CCLXXVI
 
 (Idem)—It is not only easier to criticize than to edify, but than to edify oneself.
 
@@ -2806,13 +2806,13 @@ Swimmers out of the water, who always turn out to be afloat.
 
 [p. 118]
 
-> CCLXXVII (Idem )-Más disfraces tiene el orgullo que la hipocresía. Volcan que hace más estragos en la calma que con la erup-ción . CCLXXVIII (Madruga , Mayo 23 ) toria la ,   juventud -  * La infancia gusta de oir la his- de hacerla , la vejez de contarla . He   aquí enlazadas las tres edades y armonizadas entre sí y con el mundo . Todo se corresponde ; ' lo físico con lo físico , lo fisico con lo moral , y lo moral con lo físico . Esta trinidad por do quiera se esparce como la unidad de Dios . CCLXXIX (Madruga , Mayo      28 ) -Callen personas      cuando    hablan pueblos . CCLXXX ( Idem )-Los que no estudian la máquina humana se ad-miran cuando no deben , y no admiran cuando deben cier-tos hechos en el orden higiénico , semejantes en esto al pue-blo contemplando á los jugadores de manos , que crée ser suerte estupenda la que en realidad es una pamplina , y vice - versa , la más trivial suele parecerle   la más portentosa . CCLXXXI (Mayo 29 )   --Antes proveer que prohibir . CCLXXXII (Agosto 14 ) -Hasta la imágen del dolor suele ser atrac-tiva; la del fastidio nunca . Pero el fastidio es acaso el primero de los dolores .
+> ## CCLXXVII (Idem )-Más disfraces tiene el orgullo que la hipocresía. Volcan que hace más estragos en la calma que con la erup-ción . ## CCLXXVIII (Madruga , Mayo 23 ) toria la ## ,   juventud -  * La infancia gusta de oir la his- de hacerla , la vejez de contarla . He   aquí enlazadas las tres edades y armonizadas entre sí y con el mundo . Todo se corresponde ; ' lo físico con lo físico , lo fisico con lo moral , y lo moral con lo físico . Esta trinidad por do quiera se esparce como la unidad de Dios . ## CCLXXIX (Madruga , Mayo      28 ) -Callen personas      cuando    hablan pueblos . ## CCLXXX ( Idem )-Los que no estudian la máquina humana se ad-miran cuando no deben , y no admiran cuando deben cier-tos hechos en el orden higiénico , semejantes en esto al pue-blo contemplando á los jugadores de manos , que crée ser suerte estupenda la que en realidad es una pamplina , y vice - versa , la más trivial suele parecerle   la más portentosa . ## CCLXXXI (Mayo 29 )   --Antes proveer que prohibir . ## CCLXXXII (Agosto 14 ) -Hasta la imágen del dolor suele ser atrac-tiva; la del fastidio nunca . Pero el fastidio es acaso el primero de los dolores .
 
-CCLXXVII
+## CCLXXVII
 
 (Idem)—Pride has more disguises than hypocrisy. A volcano that does more havoc in the calm than with the eruption.
 
-CCLXXVIII
+## CCLXXVIII
 
 (Madruga, May 23)— * Childhood likes to hear history, youth to make it, old age to tell it.
 
@@ -2820,19 +2820,19 @@ Here are the three ages linked together and harmonized with one another and with
 
 Everything corresponds: the physical with the physical, the physical with the moral, and the moral with the physical. This trinity spreads itself everywhere like the unity of God.
 
-CCLXXIX
+## CCLXXIX
 
 (Madruga, May 28)—Let persons be silent when peoples speak.
 
-CCLXXX
+## CCLXXX
 
 (Idem)—Those who do not study the human machine marvel when they should not, and do not marvel when they should, at certain facts in the hygienic order, resembling in this the populace watching the conjurers, which takes for a stupendous trick what is in reality a trifle, and vice-versa, the most trivial one usually seems to it the most portentous.
 
-CCLXXXI
+## CCLXXXI
 
 (May 29)—Better to provide than to prohibit.
 
-CCLXXXII
+## CCLXXXII
 
 (August 14)—Even the image of pain is usually attractive; that of tedium never.
 
@@ -2840,69 +2840,69 @@ But tedium is perhaps the first of pains.
 
 [p. 119]
 
-> Es sin embargo tan repulsivo que aun al más poseido de esa idea , lo aleja y espanta . Es un verdadero acto de virtud emprender el consuelo del fastidiado , sobre todo cuando no hay amor ni temor . CCLXXXIII ( Agosto 24 ) -Cuantomás ardor tenemos son ó nos pare-cen más frios los que nos rodean ? Hay un poco de cada cosa , porque yo tengo para mí que donde se desplega mucho una fuerza , necesariamente se desarrolla la contraria , y aun más en el mundo moral que en el material . CCLXXXIV (Septiembre 3 ) afectación . -   Ser completo sin prolijidad ; enérgico sin Nada peor     que la trivialidad , aunque sea clara y limpia como el cristal . CCLXXXV (Septiembre 4)    -   Cuando todo vá bien , todo sobra ; do mal , todo falta . En bonanza no hay para qué pilotos ; cuan . en tormenta se ha menester un hombre . CCLXXXVI (Idem ) -Hay almas que no tienen alma . CCLXXXVII ( Idem )-Confesar       la propia falta , la mayor de las gran-dezas . CCLXXXVIII - ( Septiembre 6 ) El sentimiento , principio muy voluble , veleta . La razón , única brújula : buena ó mala no hay otra .
+> Es sin embargo tan repulsivo que aun al más poseido de esa idea , lo aleja y espanta . Es un verdadero acto de virtud emprender el consuelo del fastidiado , sobre todo cuando no hay amor ni temor . ## CCLXXXIII ( Agosto 24 ) -Cuantomás ardor tenemos son ó nos pare-cen más frios los que nos rodean ? Hay un poco de cada cosa , porque yo tengo para mí que donde se desplega mucho una fuerza , necesariamente se desarrolla la contraria , y aun más en el mundo moral que en el material . ## CCLXXXIV (Septiembre 3 ) afectación . -   Ser completo sin prolijidad ; enérgico sin Nada peor     que la trivialidad , aunque sea clara y limpia como el cristal . ## CCLXXXV (Septiembre 4)    -   Cuando todo vá bien , todo sobra ; do mal , todo falta . En bonanza no hay para qué pilotos ; cuan . en tormenta se ha menester un hombre . ## CCLXXXVI (Idem ) -Hay almas que no tienen alma . ## CCLXXXVII ( Idem )-Confesar       la propia falta , la mayor de las gran-dezas . ## CCLXXXVIII - ( Septiembre 6 ) El sentimiento , principio muy voluble , veleta . La razón , única brújula : buena ó mala no hay otra .
 
 It is nevertheless so repellent that it drives off and frightens even the one most possessed by that idea.
 
 It is a true act of virtue to undertake the consolation of the bored, above all when there is neither love nor fear.
 
-CCLXXXIII
+## CCLXXXIII
 
 (August 24)—The more ardor we have, the colder are those around us, or do they seem to us?
 
 There is a little of each, for I hold that wherever one force is much displayed, the contrary force necessarily develops, and even more in the moral world than in the material.
 
-CCLXXXIV
+## CCLXXXIV
 
 (September 3)—To be complete without prolixity; energetic without affectation.
 
 Nothing worse than triviality, though it be clear and clean as crystal.
 
-CCLXXXV
+## CCLXXXV
 
 (September 4)—When all goes well, everything is superfluous; when badly, everything is lacking. In fair weather there is no need of pilots; in a storm a man is required.
 
-CCLXXXVI
+## CCLXXXVI
 
 (Idem)—There are souls that have no soul.
 
-CCLXXXVII
+## CCLXXXVII
 
 (Idem)—To confess one’s own fault, the greatest of greatnesses.
 
-CCLXXXVIII
+## CCLXXXVIII
 
 (September 6)—Feeling, a very fickle principle, a weathervane. Reason, the only compass: good or bad, there is no other.
 
 [p. 120]
 
-> CCLXXXIX (Idem )-Hay criaturas que están fuera de la humanidad , que aunque hayan sufrido no simpatizan con los demás su-fridores . El corazón humano es una mina que todos los dias des-cubre nuevas vetas .    ¡ Ojalá que el mineral   fuera siempre de buena ley ! CCXC (Octubre 15 )  -El mundo cada vez más me echa de sí . Para entrar en él es necesario ser actor , no espectador ; para conocerlo espectador después de haber sido actor . CCXCI (Idem ) -Es   mucho lo que se habla , que traducido fiel-mente significa : es mucho lo que se echa á perder en este mundo . Quisiera escribir , no un libro , ( que es mucho hablar ) un cuaderno , sobre la utilidad del silencio ; no para el uso de los diplomáticos , sino para el de las familias . CCXCII (Febrero 7 de 1847 ) más eficaz de lo   que -  El poder de las letras es y ha suele creerse . sido ¿Quién hizo , quién formuló la revolución francesa ?       Los filósofos del siglo XVIII . CCXCIII (Febrero 11 ) -La razón fria no es la fria razón . La razón fria no es razón , que el distintivo de esta es ver, y la frialdad acorta la vista y el horizonte . La fria razón es la necesaria tranquilidad en el espíritu para que sea apto para llenar su objeto . CCXCIV -Es el hombre tan a posteriori , que necesita ( Marzo 2 )
+> ## CCLXXXIX (Idem )-Hay criaturas que están fuera de la humanidad , que aunque hayan sufrido no simpatizan con los demás su-fridores . El corazón humano es una mina que todos los dias des-cubre nuevas vetas .    ¡ Ojalá que el mineral   fuera siempre de buena ley ! ## CCXC (Octubre 15 )  -El mundo cada vez más me echa de sí . Para entrar en él es necesario ser actor , no espectador ; para conocerlo espectador después de haber sido actor . ## CCXCI (Idem ) -Es   mucho lo que se habla , que traducido fiel-mente significa : es mucho lo que se echa á perder en este mundo . Quisiera escribir , no un libro , ( que es mucho hablar ) un cuaderno , sobre la utilidad del silencio ; no para el uso de los diplomáticos , sino para el de las familias . ## CCXCII (Febrero 7 de 1847 ) más eficaz de lo   que -  El poder de las letras es y ha suele creerse . sido ¿Quién hizo , quién formuló la revolución francesa ?       Los filósofos del siglo XVIII . ## CCXCIII (Febrero 11 ) -La razón fria no es la fria razón . La razón fria no es razón , que el distintivo de esta es ver, y la frialdad acorta la vista y el horizonte . La fria razón es la necesaria tranquilidad en el espíritu para que sea apto para llenar su objeto . ## CCXCIV -Es el hombre tan a posteriori , que necesita ( Marzo 2 )
 
-CCLXXXIX
+## CCLXXXIX
 
 (Idem)—There are creatures who stand outside humanity, who, though they have suffered, do not sympathize with their fellow sufferers.
 
 The human heart is a mine that every day uncovers new veins. Would that the ore were always of good alloy!
 
-CCXC
+## CCXC
 
 (October 15)—The world casts me out of itself more and more.
 
 To enter it one must be an actor, not a spectator; to know it, a spectator after having been an actor.
 
-CCXCI
+## CCXCI
 
 (Idem)—There is a great deal of talking, which, faithfully translated, means: there is a great deal being spoiled in this world.
 
 I should like to write, not a book (which is a great deal of talking), but a notebook, on the usefulness of silence; not for the use of diplomats, but for that of families.
 
-CCXCII
+## CCXCII
 
 (February 7, 1847)—The power of letters is, and has been, more effective than is commonly believed.
 
 Who made, who formulated the French revolution? The philosophers of the XVIII century.
 
-CCXCIII
+## CCXCIII
 
 (February 11)—Reason cold is not cool reason.
 
@@ -2910,17 +2910,17 @@ Reason cold is not reason, for the distinctive mark of reason is to see, and col
 
 Cool reason is the tranquillity needed in the mind for it to be fit to fulfill its purpose.
 
-CCXCIV
+## CCXCIV
 
 (March 2)—Man is so a posteriori that he needs
 
 [p. 121]
 
-> el trascurso   de mucho tiempo           para dar á los sucesos , á hombres y á cosas , el lugar que les corresponde . CCXCV (Marzo 6 )   -   *   El suicidio ( dije en 1835 y mucho antes en 1825 ) no prueba ni valentía      ni cobardía : es una enfermedad verdadera , como la fiebre . Como las enfermedades , como una misma enfermedad , proviene de mil causas . Las fuer-tes ideas religiosas ó filosóficas son lo que más puede opo-nerse á esta tendencia , que por lo dicho puede desaparecer en muchos casos removiendo las causas físicas . Unos pueblos son más propensos al suicidio que otros Los ingleses por tétricos ; los lucumies por valientes y aman . tes de su libertad . Por supuesto que la cuestión de derecho es ya absuelta ; ¿qué derecho ha de tener el hombre a quitarse lo que no le pertenece , y lo que puede servir muy luego á otros fines ? ¿Y de dónde se deriva el derecho ? CCXCVI (Abril 3 )-Todo es en mí fué , y en mi patria será . CCXCVII (Abril 4 )-Hay pensamientos que al surgir son como rai-ces maestras , que se quieren llevar todo el terreno . CCXCVIII (Junio )-Indiferentarse : arte que á unos falta y á otros sobra ; su adquisición cuesta mucho á los pechos hidalgos . CCXCIX (Idem )-Más nos desengaña el tiempo de nosotros mis-mos que de los demás . Llegamos á creer en la maduréz de nuestra razón al ver
+> el trascurso   de mucho tiempo           para dar á los sucesos , á hombres y á cosas , el lugar que les corresponde . ## CCXCV (Marzo 6 )   -   *   El suicidio ( dije en 1835 y mucho antes en 1825 ) no prueba ni valentía      ni cobardía : es una enfermedad verdadera , como la fiebre . Como las enfermedades , como una misma enfermedad , proviene de mil causas . Las fuer-tes ideas religiosas ó filosóficas son lo que más puede opo-nerse á esta tendencia , que por lo dicho puede desaparecer en muchos casos removiendo las causas físicas . Unos pueblos son más propensos al suicidio que otros Los ingleses por tétricos ; los lucumies por valientes y aman . tes de su libertad . Por supuesto que la cuestión de derecho es ya absuelta ; ¿qué derecho ha de tener el hombre a quitarse lo que no le pertenece , y lo que puede servir muy luego á otros fines ? ¿Y de dónde se deriva el derecho ? ## CCXCVI (Abril 3 )-Todo es en mí fué , y en mi patria será . ## CCXCVII (Abril 4 )-Hay pensamientos que al surgir son como rai-ces maestras , que se quieren llevar todo el terreno . ## CCXCVIII (Junio )-Indiferentarse : arte que á unos falta y á otros sobra ; su adquisición cuesta mucho á los pechos hidalgos . ## CCXCIX (Idem )-Más nos desengaña el tiempo de nosotros mis-mos que de los demás . Llegamos á creer en la maduréz de nuestra razón al ver
 
 the passing of a long time in order to give to events, to men and to things, the place that is their due.
 
-CCXCV
+## CCXCV
 
 (March 6)— * Suicide (I said in 1835, and long before, in 1825) proves neither courage nor cowardice: it is a true illness, like fever. Like illnesses, like one and the same illness, it proceeds from a thousand causes. Strong religious or philosophical ideas are what can best oppose this tendency, which, from what has been said, may in many cases disappear on removal of the physical causes.
 
@@ -2928,19 +2928,19 @@ Some peoples are more prone to suicide than others. The English, because they ar
 
 Of course the question of right is already settled: what right can man have to take from himself what does not belong to him, and what may very soon serve other ends? And whence is right derived?
 
-CCXCVI
+## CCXCVI
 
 (April 3)—Everything in me was, and in my country will be.
 
-CCXCVII
+## CCXCVII
 
 (April 4)—There are thoughts which, as they spring up, are like taproots that would carry off the whole soil with them.
 
-CCXCVIII
+## CCXCVIII
 
 (June)—To make oneself indifferent: an art that some lack and others have to excess; its acquisition costs noble breasts dear.
 
-CCXCIX
+## CCXCIX
 
 (Idem)—Time undeceives us more about ourselves than about others.
 
@@ -2948,7 +2948,7 @@ We come to believe in the maturity of our reason on seeing
 
 [p. 122]
 
-> como han desaparecido las anteriores opiniones , y se en-sancha la esfera de las nuevas . Forzosamente un siglo ha de hacer la crítica del otro , tal cual se la dicte (6 se la pida ? ) la razón . CCC (Junio 15)-Existen almas generosas que quieren las alas no tanto para volar ellas , como para cubrir á los demás . CCCI (Agosto 22 ) -¡Nuestros púlpitos siempre desiertos ; nues-tros teatros llenos ! ¿Cómo ha de haber vida sin palabra ? CCCII (Guanabacoa , Septiembre 8 )     -El que de todo lo injusto se sorprende   .... mejor para él . CCCIII -- ( Cerro , Noviembre 10 ) ¡ Cuán fácil es ganarse el aprecio de los hombres ! Apenas se pasa por la escena como un cometa por el cielo , y queda más memoria de lo que pu-diera creerse , á despecho de una larga desaparición . CCCIV ( Idem )-Cuando todo es esfuerzo no hay vida , pero sí virtud . No hay vida sin espontaneidad ; y sin espontanei-dad no hay empresa . CCCV . (Noviembre 17 )   .- El que hace cuanto quiere es esclavo , no dueño , de su voluntad . El que hace cuanto quiere , hace lo que no querrá .
+> como han desaparecido las anteriores opiniones , y se en-sancha la esfera de las nuevas . Forzosamente un siglo ha de hacer la crítica del otro , tal cual se la dicte (6 se la pida ? ) la razón . CCC (Junio 15)-Existen almas generosas que quieren las alas no tanto para volar ellas , como para cubrir á los demás . ## CCCI (Agosto 22 ) -¡Nuestros púlpitos siempre desiertos ; nues-tros teatros llenos ! ## ¿Cómo ha de haber vida sin palabra ? ## CCCII (Guanabacoa , Septiembre 8 )     -El que de todo lo injusto se sorprende   .... mejor para él . ## CCCIII -- ( Cerro , Noviembre 10 ) ¡ Cuán fácil es ganarse el aprecio de los hombres ! Apenas se pasa por la escena como un cometa por el cielo , y queda más memoria de lo que pu-diera creerse , á despecho de una larga desaparición . ## CCCIV ( Idem )-Cuando todo es esfuerzo no hay vida , pero sí virtud . No hay vida sin espontaneidad ; y sin espontanei-dad no hay empresa . ## CCCV  (Noviembre 17 )   .- El que hace cuanto quiere es esclavo , no dueño , de su voluntad . El que hace cuanto quiere , hace lo que no querrá .
 
 how our former opinions have vanished, and the sphere of the new ones grows wider.
 
@@ -2958,25 +2958,25 @@ CCC
 
 (June 15)—There exist generous souls who want wings not so much in order to fly themselves as in order to shelter others.
 
-CCCI
+## CCCI
 
 (August 22)—Our pulpits always deserted; our theaters full!
 
 How can there be life without the word?
 
-CCCII
+## CCCII
 
 (Guanabacoa, September 8)—He who is surprised at everything unjust.... so much the better for him.
 
-CCCIII
+## CCCIII
 
 (Cerro, November 10)—How easy it is to win the esteem of men! One barely passes across the stage like a comet across the sky, and more memory of one remains than might be believed, in spite of a long disappearance.
 
-CCCIV
+## CCCIV
 
 (Idem)—When all is effort there is no life, though there is virtue. There is no life without spontaneity; and without spontaneity there is no enterprise.
 
-CCCV.
+## CCCV
 
 (November 17).—He who does all that he wants is the slave, not the master, of his will.
 
@@ -2984,13 +2984,13 @@ He who does all that he wants does what he will not want.
 
 [p. 123]
 
-> CCCVI . (Diciembre 27) .-Bajo la estatua de Lufayette           pondría yo : " Sans génie ." CCCVII . . ( Mayo 27 de 1848 ) -Riete , pero examina . El burlon siempre tiene su fondo de incrédulo , cuanto más se sincere , ménos fiate de él . Empero todo firme creyente tiene también           su fondo de sátira . No hay que confundir la burla con la sátira ; la primera es propia de los frios , la segunda de los calientes . CCCVIII . (Mayo 28 ) . La naturaleza destruye para producir ...... Así dice el hombre , pero ella no cesa de producir . CCCIX . (Mayo 29 )   .- La imprenta es el Papa del siglo XIX     . CCCX . (Junio 8 ) . Si la libertad , si la esclavitud , si el sosiego , si la agitación , si el participio en los negocios públicos , si el retiro del hogar doméstico , si la miseria y la persecución , si la opulencia y la seguridad , si el patrocinio ó el abando- .... no ,     ¿Cual de estas causas contribuye más eficazmente al desarrollo de una literatura ? Todas ellas coadyuvan , sa-cando á luz todos los estados del alma humana . Pero lo más grande siempre fué fecundado por la desventura . CCCXI . . (Cerro , Agosto 15 ) -¿Donde hallaré mi hombre ?-Necio ! para que lo buscas , si lo llevas !
+> ## CCCVI  (Diciembre 27) .-Bajo la estatua de Lufayette           pondría yo : " Sans génie ." ## CCCVII  . ( Mayo 27 de 1848 ) -Riete , pero examina . El burlon siempre tiene su fondo de incrédulo , cuanto más se sincere , ménos fiate de él . Empero todo firme creyente tiene también           su fondo de sátira . No hay que confundir la burla con la sátira ; la primera es propia de los frios , la segunda de los calientes . ## CCCVIII  (Mayo 28 ) . La naturaleza destruye para producir ...... Así dice el hombre , pero ella no cesa de producir . ## CCCIX  (Mayo 29 )   .- La imprenta es el Papa del siglo XIX     . ## CCCX  (Junio 8 ) . Si la libertad , si la esclavitud , si el sosiego , si la agitación , si el participio en los negocios públicos , si el retiro del hogar doméstico , si la miseria y la persecución , si la opulencia y la seguridad , si el patrocinio ó el abando- .... no ,     ¿Cual de estas causas contribuye más eficazmente al desarrollo de una literatura ? Todas ellas coadyuvan , sa-cando á luz todos los estados del alma humana . Pero lo más grande siempre fué fecundado por la desventura . ## CCCXI  . (Cerro , Agosto 15 ) -¿Donde hallaré mi hombre ?-Necio ! para que lo buscas , si lo llevas !
 
-CCCVI.
+## CCCVI
 
 (December 27).—Beneath the statue of Lafayette I would put: “Sans génie.” [without genius]
 
-CCCVII.
+## CCCVII
 
 (May 27, 1848).—Laugh, but examine.
 
@@ -3000,49 +3000,49 @@ Yet every firm believer, too, has something of satire at bottom.
 
 Mockery must not be confused with satire; the first is proper to the cold, the second to the warm.
 
-CCCVIII.
+## CCCVIII
 
 (May 28).—Nature destroys in order to produce...... So says man, but she never ceases producing.
 
-CCCIX.
+## CCCIX
 
 (May 29).—The press is the Pope of the XIX century.
 
-CCCX.
+## CCCX
 
 (June 8).—Whether liberty, whether slavery, whether quiet, whether agitation, whether a share in public affairs, whether the retirement of the domestic hearth, whether poverty and persecution, whether opulence and security, whether patronage or neglect,.... Which of these causes contributes most effectively to the development of a literature? All of them help, bringing to light all the states of the human soul. But the greatest things have always been fertilized by misfortune.
 
-CCCXI.
+## CCCXI
 
 (Cerro, August 15).—Where shall I find my man?—Fool! why do you seek him, if you carry him with you!
 
 [p. 124]
 
-> CCCXII . (              .- Agosto 19 ) Ni somos tan iguales que nos confundamos , ni tan diversos que nos contrastemos . CCCXIII . (Idem) orden. .   Lo que más lo facilita todo , es lo inás difícil: el CCCXIV . (                  .-, Septiembre 6) De to da especie de conocimientos ha menester el filósofo como datos y como disciplina , para conocer el arcano y mejorar el instrumento del alma hu-mana . Antes de hablar es menester sentir , palpar , amar . .- CCCXV . ( Septiembre 27) Las ciencias son rios que nos llevan al mar insondable de la Divinidad . ( 1) CCCXVI . ( Octubre 25 ) .- Lo que se hizo por lujo , vanidad , ó idea religiosa , vino á ser el único medio de rastrear la estirpe de un pueblo antiguo : las momias egipcias . CCCXVII . - (Octubre 29 ) . Solo el talento conoce al talento . El motivo de esta reflexión es digno de risa , pues chisto-sísima es la idea que se forman las inteligencias vulgares de las superiores . Crisman de mentecato al que no les dá un grito ó un garrotazo . () - 1 En un manuscrito dice : " Las ciencias rios caudalosos , que con-ducen al Oceano de la Divinidad ." (A . Z. )
+> ## CCCXII  (              .- Agosto 19 ) Ni somos tan iguales que nos confundamos , ni tan diversos que nos contrastemos . ## CCCXIII  (Idem) orden. .   Lo que más lo facilita todo , es lo inás difícil: el ## CCCXIV  (                  .-, Septiembre 6) De to da especie de conocimientos ha menester el filósofo como datos y como disciplina , para conocer el arcano y mejorar el instrumento del alma hu-mana . Antes de hablar es menester sentir , palpar , amar . .- ## CCCXV  ( Septiembre 27) Las ciencias son rios que nos llevan al mar insondable de la Divinidad . ( 1) ## CCCXVI  ( Octubre 25 ) .- Lo que se hizo por lujo , vanidad , ó idea religiosa , vino á ser el único medio de rastrear la estirpe de un pueblo antiguo : las momias egipcias . ## CCCXVII  - (Octubre 29 ) . Solo el talento conoce al talento . El motivo de esta reflexión es digno de risa , pues chisto-sísima es la idea que se forman las inteligencias vulgares de las superiores . Crisman de mentecato al que no les dá un grito ó un garrotazo . () - 1 En un manuscrito dice : " Las ciencias rios caudalosos , que con-ducen al Oceano de la Divinidad ." (A . Z. )
 
-CCCXII.
+## CCCXII
 
 (August 19).—We are neither so alike that we are confounded with one another, nor so diverse that we clash.
 
-CCCXIII.
+## CCCXIII
 
 (Idem).—What most facilitates everything is the most difficult thing: order.
 
-CCCXIV.
+## CCCXIV
 
 (September 6).—The philosopher has need of every kind of knowledge, as data and as discipline, in order to know the secret and to improve the instrument of the human soul.
 
 Before speaking one must feel, touch, love.
 
-CCCXV.
+## CCCXV
 
 (September 27).—The sciences are rivers that carry us to the unfathomable sea of the Divinity. (1)
 
-CCCXVI.
+## CCCXVI
 
 (October 25).—What was done out of luxury, vanity, or religious idea came to be the only means of tracing the lineage of an ancient people: the Egyptian mummies.
 
-CCCXVII.
+## CCCXVII
 
 (October 29).—Only talent knows talent.
 
@@ -3052,21 +3052,21 @@ The occasion of this reflection is laughable, for most comical is the idea that 
 
 [p. 125]
 
-> CCCXVIII . - (Diciembre ) . * Mas se piensa en un día de soledad , que en ciento de sociedad . CCCXIX . - (Enero 23 de 1849 ) . Amarga , amarguísima es la calum-nia , pero más lo es la verdad , para algunos . CCCXX . -Es (Octubre 11 de 1850 ) .    menester ser aleman , hasta para concebir , y más para ejecutar cierta especie de obras ; y no me contraigo a las de pura especulación ni á las de inagotable erudición , que parecen los dos fuertes de ellos . Aludo á aquellos libros en que es necesario someter una inmensidad de materiales á una idea filosófica , ó llámese sistematizar , que yo diría cientificar , los conocimientos y ensancharlos , hacer pensar , que es el fortisimo de los ger-manos . Ejemplos de esta clase : la Geografía de Reiter , el Cosmos de Humboldt , motivo de esta observación , la His-toria del alma de Schubert , la Fisiología de Berdath , la His-toria romana de Niebuhr , y otras muchas . CCCXXI . (Febrero 10 de 1851 ) .-No hay quien no domine a quien se apasione demasiado . No hay quien esté ménos á gusto que quien siempre se ha salido con su gusto . Tan cierto es que para dominar y dominarse es preciso que gobierne la razón . CCCXXII . .- (Febrero 11 ) Sí ; se pierden formas primitivas , y se    ga-nan otras , y " multa renascentur quae jam cecidere . "
+> ## CCCXVIII  - (Diciembre ) . * Mas se piensa en un día de soledad , que en ciento de sociedad . ## CCCXIX  - (Enero 23 de 1849 ) . Amarga , amarguísima es la calum-nia , pero más lo es la verdad , para algunos . ## CCCXX  -Es (Octubre 11 de 1850 ) .    menester ser aleman , hasta para concebir , y más para ejecutar cierta especie de obras ; y no me contraigo a las de pura especulación ni á las de inagotable erudición , que parecen los dos fuertes de ellos . Aludo á aquellos libros en que es necesario someter una inmensidad de materiales á una idea filosófica , ó llámese sistematizar , que yo diría cientificar , los conocimientos y ensancharlos , hacer pensar , que es el fortisimo de los ger-manos . Ejemplos de esta clase : la Geografía de Reiter , el Cosmos de Humboldt , motivo de esta observación , la His-toria del alma de Schubert , la Fisiología de Berdath , la His-toria romana de Niebuhr , y otras muchas . ## CCCXXI  (Febrero 10 de 1851 ) .-No hay quien no domine a quien se apasione demasiado . No hay quien esté ménos á gusto que quien siempre se ha salido con su gusto . Tan cierto es que para dominar y dominarse es preciso que gobierne la razón . ## CCCXXII  .- (Febrero 11 ) Sí ; se pierden formas primitivas , y se    ga-nan otras , y " multa renascentur quae jam cecidere . "
 
-CCCXVIII.
+## CCCXVIII
 
 (December).*—More thinking is done in one day of solitude than in a hundred of society.
 
-CCCXIX.
+## CCCXIX
 
 (January 23, 1849).—Bitter, most bitter is calumny, but more bitter still is truth, for some.
 
-CCCXX.
+## CCCXX
 
 (October 11, 1850).—One must be a German even to conceive, and still more to execute, a certain kind of works; and I do not restrict myself to those of pure speculation, nor to those of inexhaustible erudition, which seem to be their two strong points. I allude to those books in which it is necessary to subject an immensity of materials to a philosophical idea—or call it systematizing, which I would call scientificating— knowledge, and to enlarge it, to make men think, which is the fortissimo of the Germans. Examples of this class: the Geography of Ritter, the Cosmos of Humboldt, the occasion of this observation, the History of the Soul of Schubert, the Physiology of Burdach, the Roman History of Niebuhr, and many others.
 
-CCCXXI.
+## CCCXXI
 
 (February 10, 1851).—There is no one who cannot master him who is too impassioned.
 
@@ -3074,57 +3074,57 @@ There is no one less at ease than he who has always had his own way.
 
 So true is it that, to master others and to master oneself, reason must govern.
 
-CCCXXII.
+## CCCXXII
 
 (February 11).—Yes; primitive forms are lost, and others are gained, and “multa renascentur quae jam cecidere.” [many things shall be born again that have now fallen]
 
 [p. 126]
 
-> - Qué ! quieren estos teólogos espetarnos una humana na-turaleza que no es humana ni naturaleza . Apage . - CCCXXIII . ( Febrero 13. ) torrentes ,   no es -  En la juventud corre el pensamiento á posible ser tan lacónicos , ó por lo menos no nos sentimos tan inclinados á condensar , como en la me-ditación . Así está en la naturaleza de las cosas : en la ju-ventud corre el río , y en ia madurez lo detenemos para ver lo que lleva . -( CCCXXIV . Septiembre 18. )—¡Esta fuerza centripeta tiene que lu- --char con tantas centrífugas ! Imágen de mi vida que pa-so tirando de los que se escapan por la tangente . CCCXXV -(                      - Julio 28 de 1852 .) La fé en Dios y en nosotros nos hace ganar , la fé en los demás nos pierde . Sin embargo no se puede vivir sin fé , pero es necesario saber " où la placer ." CCCXXVI . -( -Idem . ) ¡ Qué tengan que operar los hombres influencia del Código Penal .... ! bajo la CCCXXVII . -(   Octubre 19 de 1853. )  -   Duéleme en el alma reconve-nir , pero me llena de amargura que los que deben hacerlo no me ayuden á llenar mi deber , que es mi vida . -¡Que no daría ye porque retumbaran esas palabras en el corazón de los cubanos ! CCCXXVIII . -(Diciembre 14 de 1854. )-Más fuerza se requiere para engendrar que para concebir .
+> - Qué ! quieren estos teólogos espetarnos una humana na-turaleza que no es humana ni naturaleza . Apage . - ## CCCXXIII  ## ( Febrero 13. ) torrentes ,   no es ## -  En la juventud corre el pensamiento á posible ser tan lacónicos , ó por lo menos no nos sentimos tan inclinados á condensar , como en la me-ditación . Así está en la naturaleza de las cosas : en la ju-ventud corre el río , y en ia madurez lo detenemos para ver lo que lleva . -( ## CCCXXIV  Septiembre 18. )—¡Esta fuerza centripeta tiene que lu- --char con tantas centrífugas ! Imágen de mi vida que pa-so tirando de los que se escapan por la tangente . ## CCCXXV -(                      - Julio 28 de 1852 .) La fé en Dios y en nosotros nos hace ganar , la fé en los demás nos pierde . Sin embargo no se puede vivir sin fé , pero es necesario saber " où la placer ." ## CCCXXVI  -( -Idem . ) ¡ Qué tengan que operar los hombres influencia del Código Penal .... ! bajo la ## CCCXXVII  -(   Octubre 19 de 1853. )  -   Duéleme en el alma reconve-nir , pero me llena de amargura que los que deben hacerlo no me ayuden á llenar mi deber , que es mi vida . -¡Que no daría ye porque retumbaran esas palabras en el corazón de los cubanos ! ## CCCXXVIII  -(Diciembre 14 de 1854. )-Más fuerza se requiere para engendrar que para concebir .
 
 What! these theologians would thrust upon us a human nature that is neither human nor nature.—Apage. [begone]
 
-CCCXXIII.
+## CCCXXIII
 
 —(February 13.)—In youth thought runs in torrents; it is not possible to be so laconic, or at least we do not feel so inclined to condense, as in meditation. So it is in the nature of things: in youth the river runs, and in maturity we stop it to see what it carries.
 
-CCCXXIV.
+## CCCXXIV
 
 —(September 18.)—This centripetal force has to struggle with so many centrifugal ones!—An image of my life, which I spend pulling back those who escape along the tangent.
 
-CCCXXV
+## CCCXXV
 
 —(July 28, 1852.)—Faith in God and in ourselves makes us win; faith in others undoes us. Nevertheless one cannot live without faith, but one must know “où la placer.” [where to place it]
 
-CCCXXVI.
+## CCCXXVI
 
 —(Idem.)—That men should have to act under the influence of the Penal Code....!
 
-CCCXXVII.
+## CCCXXVII
 
 —(October 19, 1853.)—It grieves me to the soul to reprove, but it fills me with bitterness that those who ought to do it do not help me to fulfill my duty, which is my life.—What would I not give for these words to resound in the heart of the Cubans!
 
-CCCXXVIII.
+## CCCXXVIII
 
 —(December 14, 1854.)—More strength is required to beget than to conceive.
 
 [p. 127]
 
-> - CCCXXIX . (Abril 17 de 1855. )-Al oir la queja algo se cree en el agravio .    Es menester conocer más el amor propio . CCCXXX . -  ( Septiembre 18. )  -  El hombre es un compuesto de animalidad , otros tantos , ó más , de pasión , y apenas el res . de to de racionalidad ( una millonésima á veces . ) CCCXXXI . - - (1856 . ) El hombre no muere cuando cesa de existir , sino cuando deja de amar . CCCXXXII . - ( Diciembre de 1861 ) . * -Antes quisiera yo ver desplo-madas , no digo las instituciones de los hombres , sino las estrellas todas del firmamento , que ver caer del pecho hu-mano el sentimiento de la justicia , ese sol del mundo moral . Nota . La clasificación de los aforismos por materias , así como la colocación cronológica de los pertenecientes á cada grupo , es obra mía esclusivamente , pues los manuscritos de Luz Caballero consisten en su mayor parte en pequeños pedazos de papel ( sobres de cartas , márgenes de periódicos , etc. ) sin órden ni concierto . Para señalar los no inédí-tos he tenido presente los publicados por D. Enrique Piñeyro , D. José Ignacio Rodriguez y D. Luís Felipe Mantilla .-- [ A. Z. )
+> - ## CCCXXIX  (Abril 17 de 1855. )-Al oir la queja algo se cree en el agravio .    Es menester conocer más el amor propio . ## CCCXXX  -  ( Septiembre 18. )  -  El hombre es un compuesto de animalidad , otros tantos , ó más , de pasión , y apenas el res . de to de racionalidad ( una millonésima á veces . ) ## CCCXXXI  - - (1856 . ) El hombre no muere cuando cesa de existir , sino cuando deja de amar . ## CCCXXXII  - ( Diciembre de 1861 ) . * -Antes quisiera yo ver desplo-madas , no digo las instituciones de los hombres , sino las estrellas todas del firmamento , que ver caer del pecho hu-mano el sentimiento de la justicia , ese sol del mundo moral . Nota . La clasificación de los aforismos por materias , así como la colocación cronológica de los pertenecientes á cada grupo , es obra mía esclusivamente , pues los manuscritos de Luz Caballero consisten en su mayor parte en pequeños pedazos de papel ( sobres de cartas , márgenes de periódicos , etc. ) sin órden ni concierto . Para señalar los no inédí-tos he tenido presente los publicados por D. Enrique Piñeyro , D. José Ignacio Rodriguez y D. Luís Felipe Mantilla .-- [ A. Z. )
 
-CCCXXIX.
+## CCCXXIX
 
 —(April 17, 1855.)—On hearing the complaint one believes somewhat in the grievance. One must know self-love better.
 
-CCCXXX.
+## CCCXXX
 
 —(September 18.)—Man is a compound of ⅖ animality, as much again, or more, of passion, and barely the remainder of rationality (a millionth at times.)
 
-CCCXXXI.
+## CCCXXXI
 
 —(1856.)—Man does not die when he ceases to exist, but when he ceases to love.
 
-CCCXXXII.
+## CCCXXXII
 
 —(December, 1861).*—I would rather see collapse, I do not say the institutions of men, but all the stars of the firmament, than see the sentiment of justice, that sun of the moral world, fall from the human breast.
 
@@ -3142,11 +3142,11 @@ R eligion .
 
 [PDF 120]
 
-> DISCURSO ( 1) PRONUNCIADO EN EL SEMINARIO DE SAN CARLOS EN LA APERTURA DEL CURSO DE FILOSOFÍA . Felices nosotros , si logramos conciliar las profundas indagaciones con la claridad ,   y la verdad con la novedad . David Hume . Considerad , caros amigos , que sentimientos se habrán apoderado de mi espíritu , desde el momento en que me im-puse el deber de venir á ocupar el mismo puesto que llenó mi ilustre y siempre apreciable maestro y predecesor , hom-bre que sin duda alguna lo destinó la naturaleza para ser el órgano por donde había de comunicar á la juventud sus le-yes inmutables y sus profundos arcanos , dirigiéndola por I mo , correspondiente al año de 1855, puede verse ( pág . 361. ) D. José Ignacio Rodriguez lo supone pronunciado el día 4 de Septiembre de 1824 , habiendo sido el dia 14: quizás sea errata de imprenta La Cátedra de Filosofia que comenzó entonces á esplicar Luz Caba- Ilero , habiala ocupado Varela , hasta que en 1822 partió á desempeñar su cargo de Diputado á Cortes, quedando en su lugar como interino D. -José Antonio Saco .-   ( A . Ζ. ) (1) El presente discurso se imprimió por vez primera ( y creo que única hasta la fecha ) en la publicación quincenal que con el título de " Brisas de Cuba " redactaron en la Habana D. Nestor Ponce de León , D. Fernándo Valdés Aguirre y D. Santiago de la Huerta , en cuyo To-
+> ## DISCURSO ( 1) PRONUNCIADO EN EL SEMINARIO DE SAN CARLOS EN LA ## APERTURA DEL CURSO DE FILOSOFÍA  Felices nosotros , si logramos conciliar las profundas indagaciones con la claridad ,   y la verdad con la novedad . David Hume . Considerad , caros amigos , que sentimientos se habrán apoderado de mi espíritu , desde el momento en que me im-puse el deber de venir á ocupar el mismo puesto que llenó mi ilustre y siempre apreciable maestro y predecesor , hom-bre que sin duda alguna lo destinó la naturaleza para ser el órgano por donde había de comunicar á la juventud sus le-yes inmutables y sus profundos arcanos , dirigiéndola por I mo , correspondiente al año de 1855, puede verse ( pág . 361. ) D. José Ignacio Rodriguez lo supone pronunciado el día 4 de Septiembre de 1824 , habiendo sido el dia 14: quizás sea errata de imprenta La Cátedra de Filosofia que comenzó entonces á esplicar Luz Caba- Ilero , habiala ocupado Varela , hasta que en 1822 partió á desempeñar su cargo de Diputado á Cortes, quedando en su lugar como interino D. -José Antonio Saco .-   ( A . Ζ. ) (1) El presente discurso se imprimió por vez primera ( y creo que única hasta la fecha ) en la publicación quincenal que con el título de " Brisas de Cuba " redactaron en la Habana D. Nestor Ponce de León , D. Fernándo Valdés Aguirre y D. Santiago de la Huerta , en cuyo To-
 
 ❖     ❖      ❖     ❖      ❖      ❖     ❖      ❖     ❖      ❖     ❖      ❖     ❖      ❖      ❖
 
-D iscourse (1)
+## D iscourse (1)
 
 D elivered in the S an C arlos S eminary at the
 
@@ -3224,11 +3224,11 @@ September 14, 1824.
 
 [PDF 126]
 
-> POLEMICA ,            [ 1] SOSTENIDA     CON D. DOMINGO DEL MONTE Y D. FÉLIX TANCO . I Media palabra al autor del artículo "Moral religiosa ," inserto en la 3ª entrega del "Plantel " .    ( 2) "Che si la voce sua sará molesta Nel primo gusto , vital nutrimento Lascerá poi quando sará digesta. " Dante . Supone usted aniquilada la doctrina de la sensación en virtud de las impugnaciones que le han hecho Roger Co-llard , Cousin y Jouffroy , siguiendo las huellas de los esco- ( 1 ) En Febrero del año actual (1890 ) dí al público en el diario de esta capital " El País , " un trabajo titulado " Un episodio de la vida de tres hombres célebres ," que se reprodujo por la "Revista Cubana " en su númº de Abril siguiente , y en el cual refiero como tuvo lugar una ruptura de las amistosas relaciones de Luz Caballero y de Del Monte . á causa de un artículo de éste sobre " Moral Religiosa ," inserto en " El Plantel , " periódico de D. José Antonio Echeverría y D. Ramón de Pal-ma . Entonces ignoraba quien había sido el que con el pseudónimo de " El suscriptor al Plantel " contendió con Luz Caballero , pero el ilus-trado escritor , y conocido publicista , mi distinguido amigo Dr. D. Vi-dal Morales y Morales ha obtenido posteriormente noticia cierta de ser D. Félix Tanco y Bosmeniel , persona de erudición y literato de nota , que nacido en Bogotá vino muy niño à Cuba, y residió siempre en Matanzas . ( Δ . Ζ .) (2) Diario de la Habana de 25 de Novembre de 1838 .
+> ## POLEMICA ,            [ 1] ## SOSTENIDA     CON D. DOMINGO DEL MONTE Y D. FÉLIX TANCO  I ## Media palabra al autor del artículo "Moral religiosa ," inserto en la 3ª entrega del "Plantel " .    ( 2) "Che si la voce sua sará molesta Nel primo gusto , vital nutrimento Lascerá poi quando sará digesta. " Dante . Supone usted aniquilada la doctrina de la sensación en virtud de las impugnaciones que le han hecho Roger Co-llard , Cousin y Jouffroy , siguiendo las huellas de los esco- ( 1 ) En Febrero del año actual (1890 ) dí al público en el diario de esta capital " El País , " un trabajo titulado " Un episodio de la vida de tres hombres célebres ," que se reprodujo por la "Revista Cubana " en su númº de Abril siguiente , y en el cual refiero como tuvo lugar una ruptura de las amistosas relaciones de Luz Caballero y de Del Monte . á causa de un artículo de éste sobre " Moral Religiosa ," inserto en " El Plantel , " periódico de D. José Antonio Echeverría y D. Ramón de Pal-ma . Entonces ignoraba quien había sido el que con el pseudónimo de " El suscriptor al Plantel " contendió con Luz Caballero , pero el ilus-trado escritor , y conocido publicista , mi distinguido amigo Dr. D. Vi-dal Morales y Morales ha obtenido posteriormente noticia cierta de ser D. Félix Tanco y Bosmeniel , persona de erudición y literato de nota , que nacido en Bogotá vino muy niño à Cuba, y residió siempre en Matanzas . ( Δ . Ζ .) (2) Diario de la Habana de 25 de Novembre de 1838 .
 
 ❖     ❖      ❖     ❖     ❖      ❖     ❖     ❖        ❖         ❖        ❖        ❖         ❖        ❖        ❖
 
-P olemic , [1]
+## P olemic , [1]
 
 carried on with D on D omingo del M onte and D on F élix T anco .
 
@@ -3312,7 +3312,7 @@ to explain them; many explanations may be given, but only one will be the true o
 
 the translator: I always leave persons aside and go straight to things; let the truth be told, and let whoever will tell it:
 
-“Che si la voce sua sará molesta
+## “Che si la voce sua sará molesta
 
 Nel primo gusto, vital nutrimento
 
@@ -3326,7 +3326,7 @@ It would seem you have not read the last two articles published in the Noticioso
 
 [p. 143]
 
-> ) OBRAS DE DON JOSÉ DE LA LUZ .              143 tículo Moral religiosa . No conozco al Sr. Cauto , pero sus escritos me han inspirado el deseo de conocerle y felicitar-le, pues aunque no crea yo en las ideas innatas , me es inna-to el amor á la verdad , y más innata la propensión de tri-butar homenaje al mérito donde quiera que lo encuentre . Dice V. que no hay cuestión ni grave , ni media . ¡ Cómo! ¿Y si un padre de familia celoso por la educación de sus hijos le hiciera á V. este argumento ? En la Habana hay más de una Cátedra ( 1 ) donde se profesa esa doctrina ; es así que esta siembra en el corazón la semilla de la incre- dulidad , ó comunica al entendimiento el mal hábito de la inconsecuencia , que es muy frágil tabla para salvarle de otros naufragios , luego la cátedra donde tal se enseña es una cátedra de pestilencia . ¿ Qué contestaría V. , amigo mío ? ¿Es grave ó no la tal cuestión ? Y cuidado que sólo alzo un canto ( para volverlo á echar ) del velo que cubre el asunto ; y repare que no he dicho que tal sea la intención del autor , sino que esa es una consecuencia forzosa de sus principios . Por último , como juego tan limpio , y el autor del artícu-lo no hubiese hecho más que repetir lo que tanto caca-rean Cousin , d'Eckstein y toda la brillante pléyade redacto-ra de la " Revista francesa y extrangera ," le pedí entrara en esplicaciones , por ver si habiendo estudiado mejor que yo la materia , me convencía de la falsedad de mis principios . A lo que se agrega que mereciéndome el autor muchas con-sideraciones , no quería , como pude , atacarle de rondon , marcándole , como lo haré en su oportunidad , las contradic-ciones é inexactitudes que ofrece el párrafo 4º de su artícu-lo . Así que , por irme tan suavemente me he granjeado la contestación del articulista de Matánzas , á quien creo ha-ber satisfecho con lo dicho , quedando abierta la causa en lo principal (pues este es un incidente insignificante ) así (1) Hacía dos meses escasos que Luz Caballero esplicaba publica-mente filosofía en el convento de San Francisco.- ( A. Z )
+> ) ## OBRAS DE DON JOSÉ DE LA LUZ .              143 tículo Moral religiosa . No conozco al Sr. Cauto , pero sus escritos me han inspirado el deseo de conocerle y felicitar-le, pues aunque no crea yo en las ideas innatas , me es inna-to el amor á la verdad , y más innata la propensión de tri-butar homenaje al mérito donde quiera que lo encuentre . Dice V. que no hay cuestión ni grave , ni media . ¡ Cómo! ¿Y si un padre de familia celoso por la educación de sus hijos le hiciera á V. este argumento ? En la Habana hay más de una Cátedra ( 1 ) donde se profesa esa doctrina ; es así que esta siembra en el corazón la semilla de la incre- dulidad , ó comunica al entendimiento el mal hábito de la inconsecuencia , que es muy frágil tabla para salvarle de otros naufragios , luego la cátedra donde tal se enseña es una cátedra de pestilencia . ¿ Qué contestaría V. , amigo mío ? ¿Es grave ó no la tal cuestión ? Y cuidado que sólo alzo un canto ( para volverlo á echar ) del velo que cubre el asunto ; y repare que no he dicho que tal sea la intención del autor , sino que esa es una consecuencia forzosa de sus principios . Por último , como juego tan limpio , y el autor del artícu-lo no hubiese hecho más que repetir lo que tanto caca-rean Cousin , d'Eckstein y toda la brillante pléyade redacto-ra de la " Revista francesa y extrangera ," le pedí entrara en esplicaciones , por ver si habiendo estudiado mejor que yo la materia , me convencía de la falsedad de mis principios . A lo que se agrega que mereciéndome el autor muchas con-sideraciones , no quería , como pude , atacarle de rondon , marcándole , como lo haré en su oportunidad , las contradic-ciones é inexactitudes que ofrece el párrafo 4º de su artícu-lo . Así que , por irme tan suavemente me he granjeado la contestación del articulista de Matánzas , á quien creo ha-ber satisfecho con lo dicho , quedando abierta la causa en lo principal (pues este es un incidente insignificante ) así (1) Hacía dos meses escasos que Luz Caballero esplicaba publica-mente filosofía en el convento de San Francisco.- ( A. Z )
 
 ticle Religious Morality ought to have paid some attention. I do not know Mr. Cauto, but his writings have inspired in me the desire to know him and congratulate him, for though I do not believe in innate ideas, the love of truth is innate in me, and more innate still the propensity to pay homage to merit wherever I find it.
 
@@ -3374,7 +3374,7 @@ I do not understand, then, either how you fear that the publication of your idea
 
 [p. 146]
 
-> no es tibio )   con todas las conquistas   de mi aplicación , no diré grabar sino encarnar en los entendimientos de nues-tra cara juventud , para asegurar el triunfo de la verdade-ra filosofia entre nosotros , para no dejarla arrebatar de to-do viento y de todo color de doctrina , y que la autoridad de la escuela , verdadero Proteo , no ocupe el augusto sólio de la razón , ante cuyo tribunal debe todo comparecer , sin que pueda eximirse la razón misma . Yo quisiera que el entendimiento de nuestros jóvenes fuera como el cristal , -que dando solo paso á la luz de la verdad , fuese impermea-ble al sutil polvo del error . Yo quisiera vencido , arribar al puerto del desengaño . ...... vencedor ó En resolución , todo esto quiere decir que doy suma im-portancia á la cuestión ; pero no que yo le compulse y apre-mie á Vd . á entrar en su exámen publicamente , máxime cuando lo he de hacer á la larga en la traducción del Cou-sin . Me alegraría , sí, en lo mas íntimo del alma , la ventila-semos privadamente en su propia morada de Vd . á pre-sencia de dos ó mas amigos inteligentes , ó á solas , como Vd . guste , acompañándonos en todo caso un taquígrafo (que le tenemos muy experto y se halla á mi disposición ) para recoger las razones que en pró y en contra jueguen en el curso de la discusión , y ofrecerlas después á la ju-ventud estudiosa de nuestra patria como prenda y fruto de nuestro amor á la madre comun . Y ved aquí á Fair-play estrechando en un abrazo mismo , con toda la efusión de su ardiente pecho , abrazo purísimo y eminentemente cristiano , á la madre , á los hijos y al amigo , ó por mejor decir al her-mano . Fair -play . Habana Diciembre 6 de 1.838 .
+> no es tibio )   con todas las conquistas   de mi aplicación , no diré grabar sino encarnar en los entendimientos de nues-tra cara juventud , para asegurar el triunfo de la verdade-ra filosofia entre nosotros , para no dejarla arrebatar de to-do viento y de todo color de doctrina , y que la autoridad de la escuela , verdadero Proteo , no ocupe el augusto sólio de la razón , ante cuyo tribunal debe todo comparecer , sin que pueda eximirse la razón misma . Yo quisiera que el entendimiento de nuestros jóvenes fuera como el cristal , -que dando solo paso á la luz de la verdad , fuese impermea-ble al sutil polvo del error . Yo quisiera vencido , arribar al puerto del desengaño . ...... ## vencedor ó En resolución , todo esto quiere decir que doy suma im-portancia á la cuestión ; pero no que yo le compulse y apre-mie á Vd . á entrar en su exámen publicamente , máxime cuando lo he de hacer á la larga en la traducción del Cou-sin . Me alegraría , sí, en lo mas íntimo del alma , la ventila-semos privadamente en su propia morada de Vd . á pre-sencia de dos ó mas amigos inteligentes , ó á solas , como Vd . guste , acompañándonos en todo caso un taquígrafo (que le tenemos muy experto y se halla á mi disposición ) para recoger las razones que en pró y en contra jueguen en el curso de la discusión , y ofrecerlas después á la ju-ventud estudiosa de nuestra patria como prenda y fruto de nuestro amor á la madre comun . Y ved aquí á Fair-play estrechando en un abrazo mismo , con toda la efusión de su ardiente pecho , abrazo purísimo y eminentemente cristiano , á la madre , á los hijos y al amigo , ó por mejor decir al her-mano . Fair -play . Habana Diciembre 6 de 1.838 .
 
 is not lukewarm), with all the conquests of my application, I will not say to engrave but to incarnate in the understandings of our dear youth, in order to secure the triumph of true philosophy among us, so as not to let it be carried off by every wind and every color of doctrine, and so that the authority of the school, a veritable Proteus, may not occupy the august throne of reason, before whose tribunal everything must appear, without even reason itself being exempted. I would wish the understanding of our young men to be like crystal, which, giving passage only to the light of truth, should be impervious to the fine dust of error.—I would wish...... victor or vanquished, to reach the haven of disillusionment.
 
@@ -3526,7 +3526,7 @@ NOTE.—The circumstance that these Works are being published in parts allows me
 
 [PDF 151]
 
-> CUESTION DE MÉTODO               . Si el estudio do la física debe ó no preceder al de la lógica . POLÉMICA CON " RUMILIO " Y " EL DOMINE " DE PUERTO - PRÍNCIPE I. CONTESTACION . ( 1) " Itaque huc res redit , ut organum nostrum , etiam si fuerit absolutum , absque historia na- turali non multum ; historia naturalis absque organo , non parum instaurationem scientia- rum sit provectura . Quare omnino et ante om- nia in hoc incumbere satius et consultius vi- sum est." -- BACON . Es mi ánimo contestar el artículo inserto en la Gaceta de Puerto - Príncipe de veinte y tres de mayo próximo pasado , contra la opinión de que el estudio de la Física debe preceder al de la Lógica . Para realizarlo como es debido , convendrá exponer con alguna latitud los fundamentos en que descansa aquella precedencia , (no preferencia ) rebatiendo al paso al-gunas de las especies que más campean en el curso del men-cionado escrito . Se hace tanto más necesaria esta exposi-ción , cuanto que el haber publicado allí una Advertencia en que se alegaban , aunque sucintamente , los motivos que im- (1) Publicado en el n? 35 , Tomo VI de las Memorias de la Sociedad Patriótica de la Habana , 1838 , y reproducido en la Revista de Cuba.- (Α . Ζ .)
+> ## CUESTION DE MÉTODO                Si el estudio do la física debe ó no preceder al de la lógica . ## POLÉMICA CON " RUMILIO " Y " EL DOMINE " DE PUERTO - PRÍNCIPE I. ## CONTESTACION . ( 1) " Itaque huc res redit , ut organum nostrum , etiam si fuerit absolutum , absque historia na- turali non multum ; historia naturalis absque organo , non parum instaurationem scientia- rum sit provectura . Quare omnino et ante om- nia in hoc incumbere satius et consultius vi- sum est." -- BACON . Es mi ánimo contestar el artículo inserto en la Gaceta de Puerto - Príncipe de veinte y tres de mayo próximo pasado , contra la opinión de que el estudio de la Física debe preceder al de la Lógica . Para realizarlo como es debido , convendrá exponer con alguna latitud los fundamentos en que descansa aquella precedencia , (no preferencia ) rebatiendo al paso al-gunas de las especies que más campean en el curso del men-cionado escrito . Se hace tanto más necesaria esta exposi-ción , cuanto que el haber publicado allí una Advertencia en que se alegaban , aunque sucintamente , los motivos que im- (1) Publicado en el n? 35 , Tomo VI de las Memorias de la Sociedad Patriótica de la Habana , 1838 , y reproducido en la Revista de Cuba.- (Α . Ζ .)
 
 ❖     ❖     ❖     ❖      ❖     ❖     ❖     ❖        ❖        ❖        ❖       ❖        ❖        ❖      ❖
 
@@ -3896,9 +3896,9 @@ discourse, leaving almost the whole body of it untouched. Meanwhile, he will alr
 
 [p. 201]
 
-> III DUPLICA A LA RÉPLICA DEL “DOMINE , " inserta en la Gaceta de Puerto Príncipe de 17 de Noviembre del presente ( 1) . "Pro me labora ." (Continúa .) "Yo no sé comprender , sigue despues el Dómine , porque ha de ser mas difícil conocer las propiedades de nuestro sér que las de los demás séres de la naturaleza , cuando el tes-timonio íntimo nos persuade que nada conocemos con tanta exactitud como lo que pasa en nuestro interior ; cuya idea espresó felizmente Virgilio en boca de Dido : non ignara mali miseris succurrere disco : " Pues yo soy el que no puedo comprender , ni de seguro tampoco lo alcanzará el público sensato , como sea posible semejante duda en mi adversa-rio despues de haber leído mi papel , y señaladamente las - citas de Cousin sobre las dificultades y espinas que emba-razan la marcha de las ciencias intelectuales y cuanto acerca del mismo particular   se expone desde la página 340 hasta la 344 (2 ) exclusive , y sobre todo , las consideraciones que cie-rran el último párrafo , tanto más concluyentes cuanto que recaen sobre un cúmulo de pruebas , en mi concepto irresis-tibles , y que así en gracia de la cuestión como para mí propio descargo , no puedo ménos de reproducir con las mismas palabras . ( 3 ) Este pasaje así como otros muchos convencerán al Dómi-ne de Puerto Príncipe de que la Memoria sobre metodo sabe defenderse     á sí misma , sin     necesidad de nuevos arrimos , ni parapetos ; circunstancia que deberia eximir á su autor de ulteriores esplanaciones en la materia . Pero pues el Dó- ( 1) Diario de la Habana de 30 de Diciembre de 1838- ( A . Z ) . (2 ) Alude á las páginas de las Memorias de la Sociedad Patriótica , donde se publicó el primero de estos artículos- (A . Z. ) " todavía el Sr. Rumilio .... " y terminan con las de toda la naturale-za ." , en la página 178. ( A. Ζ . ) (3) Aquí transcribe el autor varios párrafos de su citado artículo , y   son los que comienzan en la página 177 con las palabras "¿ creeráY
+> ## III DUPLICA A LA RÉPLICA DEL “DOMINE , " inserta en la Gaceta de Puerto Príncipe de 17 de Noviembre del presente ( 1) . "Pro me labora ." (Continúa .) "Yo no sé comprender , sigue despues el Dómine , porque ha de ser mas difícil conocer las propiedades de nuestro sér que las de los demás séres de la naturaleza , cuando el tes-timonio íntimo nos persuade que nada conocemos con tanta exactitud como lo que pasa en nuestro interior ; cuya idea espresó felizmente Virgilio en boca de Dido : non ignara mali miseris succurrere disco : " Pues yo soy el que no puedo comprender , ni de seguro tampoco lo alcanzará el público sensato , como sea posible semejante duda en mi adversa-rio despues de haber leído mi papel , y señaladamente las - citas de Cousin sobre las dificultades y espinas que emba-razan la marcha de las ciencias intelectuales y cuanto acerca del mismo particular   se expone desde la página 340 hasta la 344 (2 ) exclusive , y sobre todo , las consideraciones que cie-rran el último párrafo , tanto más concluyentes cuanto que recaen sobre un cúmulo de pruebas , en mi concepto irresis-tibles , y que así en gracia de la cuestión como para mí propio descargo , no puedo ménos de reproducir con las mismas palabras . ( 3 ) Este pasaje así como otros muchos convencerán al Dómi-ne de Puerto Príncipe de que la Memoria sobre metodo sabe defenderse     á sí misma , sin     necesidad de nuevos arrimos , ni parapetos ; circunstancia que deberia eximir á su autor de ulteriores esplanaciones en la materia . Pero pues el Dó- ( 1) Diario de la Habana de 30 de Diciembre de 1838- ( A . Z ) . (2 ) Alude á las páginas de las Memorias de la Sociedad Patriótica , donde se publicó el primero de estos artículos- (A . Z. ) " todavía el Sr. Rumilio .... " y terminan con las de toda la naturale-za ." , en la página 178. ( A. Ζ . ) (3) Aquí transcribe el autor varios párrafos de su citado artículo , y   son los que comienzan en la página 177 con las palabras "¿ creeráY
 
-III
+## III
 
 Rejoinder to the Reply of the “Dómine,” inserted in the Gaceta de Puerto Príncipe of November 17 of the present year
 
@@ -4008,15 +4008,15 @@ pro certo habeant, non sectae nos alicujus, aut placiti, sed utilitatis et ampli
 
 [p. 214]
 
-> IV. DUPLICA A LA REPLICA         DEL "DOMINE ,” inserta en la Gaceta de Puerto Príncipe de 17 de Noviembre   último ( 1).. "Pro me laboras ." (Continúa ) He ocupado ya diez columnas de los Diarios anteriores , sin haber salido todavía de la primera de mi antagonista , cuyo artículo abraza mas de tres en la Gaceta de Puerto Príncipe ; y así por este motivo como por haberle repetida-mente indicado mi disposición á entrar en pormenores , y cuando guste , sobre todos aquellos puntos que por la brevedad con que estén tratados , requieran elucidación , me será lícito continuar el camino á paso mas acelerado . 8 °-También las lenguas necesita conocer el que desée penetrar á fondo los fenómenos del entendimiento . Y digo las lenguas , por que no basta el conocimiento de una sola para suministrar los datos que ha menester la gramática general . Las lenguas son el primer monumento para la historia del espíritu humano : así pues , contrayéndonos  al punto que nos ocupa , es de recomendarse su estudio , y ha de preceder al de la Lógica , no tanto á causa de la impor-tancia de la expresión de las ideas , ( que es en sí una gran carta de recomendación ) cuanto por ofrecerse en los idio-mas el fiel reflejo de las operaciones del entendimiento , y la historia mas exacta y completa de su desarrollo . Así , la lengua de un pueblo acusa lo que es , lo que ha sido y como ha sido este mismo pueblo . Las lenguas en fin nos presen-tan las mejores pruebas de careo ó confronta que imagi- -narse pueden para esperimentar y acrisolar las doctrinas mas importantes de la ciencia de las ideas . He ahí pues otro elemento que dificulta el problema , convenciéndonos (1 )   Diario de la Habana de 6 de Enero de 1839.   ( A. Ζ .)
+> IV. ## DUPLICA A LA REPLICA         DEL "DOMINE ,” inserta en la Gaceta de Puerto Príncipe de 17 de Noviembre   último ( 1).. ## "Pro me laboras ." (Continúa ) He ocupado ya diez columnas de los Diarios anteriores , sin haber salido todavía de la primera de mi antagonista , cuyo artículo abraza mas de tres en la Gaceta de Puerto Príncipe ; y así por este motivo como por haberle repetida-mente indicado mi disposición á entrar en pormenores , y cuando guste , sobre todos aquellos puntos que por la brevedad con que estén tratados , requieran elucidación , me será lícito continuar el camino á paso mas acelerado . 8 °-También las lenguas necesita conocer el que desée penetrar á fondo los fenómenos del entendimiento . Y digo las lenguas , por que no basta el conocimiento de una sola para suministrar los datos que ha menester la gramática general . Las lenguas son el primer monumento para la historia del espíritu humano : así pues , contrayéndonos  al punto que nos ocupa , es de recomendarse su estudio , y ha de preceder al de la Lógica , no tanto á causa de la impor-tancia de la expresión de las ideas , ( que es en sí una gran carta de recomendación ) cuanto por ofrecerse en los idio-mas el fiel reflejo de las operaciones del entendimiento , y la historia mas exacta y completa de su desarrollo . Así , la lengua de un pueblo acusa lo que es , lo que ha sido y como ha sido este mismo pueblo . Las lenguas en fin nos presen-tan las mejores pruebas de careo ó confronta que imagi- -narse pueden para esperimentar y acrisolar las doctrinas mas importantes de la ciencia de las ideas . He ahí pues otro elemento que dificulta el problema , convenciéndonos (1 )   Diario de la Habana de 6 de Enero de 1839.   ( A. Ζ .)
 
 IV.
 
-Rejoinder to the Reply of the “Dómine,”
+## Rejoinder to the Reply of the “Dómine,”
 
 printed in the Gaceta de Puerto Príncipe of November 17 last (1).
 
-“Pro me laboras.”
+## “Pro me laboras.”
 
 [You labor for me.]
 
@@ -4098,7 +4098,7 @@ I have purposely abstained, in what has been said so far, from including logic a
 
 [p. 224]
 
-> para capítulo separado en la refutación de unos de                                                             los párrafos subsecuentes de mi estimado corresponsal bien                                                ; que ya podría tenerse por escusado entrar en ulteriores alegaciones              sobre     cuando el       particular considera que ,                         se la   psicología madre de ,       verdadera  lógica  en la    sentido                         ,          el yo      palabra                            la                    lo en   cual entendemos      Dómine                                   y y el                                     el                                                    ,            es también de   moral  la legislación,  demás especulativas la                                                                  , que        se han contraido nuestras observaciones         Per                                      . biendo prometido reiteradamente ventilar      punto        4                          el paración puede contar ya ,             Dómine con otro       el dilatada para  hoja de servicios prestados la experimentales       lógica mejor dirá la                                         reade                             1 ." d'e á                  :                       , teriores espresiones de que Lógica sino hubiera sido la aún ev :   -- “            ni ", * ‫י‬ mismas ciencias naturales                       ."  E                                                     noci-miento por    dicho de cuán lo                               fu                                    no al tra-zar su cuadro de las ciencias en                                                            Lógica        en   el penúltimo lugar siempre consec ,                                                            gran principio que como epígrafe estampé  frente mi Memoria             al                                           ,   á    sa- ber que aún caso de ser "                   órgano esto        método  su                               es ,      su las ) :                                                                   ( absoluto no aprovecharía cosa para ,                     reforma de                                 la ciencias sin            la historia natural esto      sin los hechos fisi- (               es , cos  ,fisiológicos     psicológicos y      pues todos  ellos debe ,                                                     in- cluirlos una historia completa mientras que          misma his- );                                la toria por      sola aún sin       órgano contribuiría sobrada- el la sí ,                                      , mente         suspirada reforma por     cual parecía más conve-    lo y á : niente natural ocuparse enteramente     ante todo sobre                      y tan importante materia                      " . Así sorprenderá no poco   ver cómo las ciencias intelec- al tuales han sido fecundadas      por mejor decir creadas por ,   ó las naturales practicando ,      pié de     letra las profundas al                  la máximas de Bacon         verificándose todos sus vaticinios y que haya todavía                  en ,                        en   la                                          no , Francia         ilustrada Francia ,                                             ,   y uno sino muchos literatos que sostengan que con ,                                                                                                eméto-do      de     Verulamio      han creado solo las ciencias figs se                                                                           , pero          no  las intelectuales  como     pudiera ser bueno ;                  si                                                 u
+> para capítulo separado en la refutación de unos de                                                             los párrafos subsecuentes de mi estimado corresponsal bien                                                ; que ya podría tenerse por escusado entrar en ulteriores alegaciones              sobre     cuando el       particular considera que ,                         se la   psicología ## madre de ,       verdadera  lógica  en la    sentido                         ,          el yo      palabra                            la                    lo en   cual entendemos      Dómine                                   y y el                                     el                                                    ,            es también de   moral  la legislación,  demás especulativas la                                                                  , que        se han contraido nuestras observaciones         Per                                      . biendo prometido reiteradamente ventilar      punto        4                          el paración puede contar ya ,             Dómine con otro       el dilatada para  hoja de servicios prestados la experimentales       lógica mejor dirá la                                         reade                             1 ." d'e á                  :                       , teriores espresiones de que Lógica sino hubiera sido la aún ev :   -- “            ni ", * ‫י‬ mismas ciencias naturales                       ."  E                                                     noci-miento por    dicho de cuán lo                               fu                                    no al tra-zar su cuadro de las ciencias en                                                            Lógica        en   el penúltimo lugar siempre consec ,                                                            gran principio que como epígrafe estampé  frente mi Memoria             al                                           ,   á    sa- ber que aún caso de ser "                   órgano esto        método  su                               es ,      su las ) :                                                                   ( absoluto no aprovecharía cosa para ,                     reforma de                                 la ciencias sin            la historia natural esto      sin los hechos fisi- (               es , cos  ,fisiológicos     psicológicos y      pues todos  ellos debe ,                                                     in- cluirlos una historia completa mientras que          misma his- );                                la toria por      sola aún sin       órgano contribuiría sobrada- el la sí ,                                      , mente         suspirada reforma por     cual parecía más conve-    lo y á : niente natural ocuparse enteramente     ante todo sobre                      y tan importante materia                      " . Así sorprenderá no poco   ver cómo las ciencias intelec- al tuales han sido fecundadas      por mejor decir creadas por ,   ó las naturales practicando ,      pié de     letra las profundas al                  la máximas de Bacon         verificándose todos sus vaticinios y que haya todavía                  en ,                        en   la                                          no , Francia         ilustrada Francia ,                                             ,   y uno sino muchos literatos que sostengan que con ,                                                                                                eméto-do      de     Verulamio      han creado solo las ciencias figs se                                                                           , pero          no  las intelectuales  como     pudiera ser bueno ;                  si                                                 u
 
 for a separate chapter in the refutation of one of the subsequent paragraphs of my esteemed correspondent; although further allegations on the matter might already be held superfluous, when one considers that psychology, the mother of true logic in the sense in which the Dómine and I understand the word, is also the mother of morality, legislation and the other speculative sciences to which our observations have been confined. But, having repeatedly promised to air the point separately, the Dómine may now count on another long entry in the record of services rendered by the experimental sciences to logic: rather, he will say, recalling my earlier expressions:—“that not even the science of Logic would exist, had it not been for the natural sciences themselves.” He will already be aware, from what has been said, of how well founded Bacon was when, in drawing up his table of the sciences, he set Logic in the penultimate place, ever consistent with the great principle that I stamped as an epigraph at the head of my Memoir, namely: “that even supposing its organon (that is, its method) to be absolute, it would avail nothing for the reform of the sciences without natural history (that is, without the physical, physiological and psychological facts, for a complete history must include them all); whereas that same history by itself, even without the organon, would contribute amply to the longed-for reform: for which reason it seemed more fitting and natural to occupy oneself wholly and before all else with so important a matter.”
 
@@ -4112,7 +4112,7 @@ method capable of creating the one and not the others; as though it were possibl
 
 [p. 226]
 
-> toria de cuan profundamente había estudiado las faculta-des de esa misma alma , pues estaba bien penetrado de que tal era el camino más natural no solo de conquistar cono-cimientos y comodidades materiales , sino forzosamente y en virtud y con ocasión de ellos mismos llegar , como en mu-chos puntos hemos llegado , á la resolución de las cuestiones más importantes para el hombre intelectual y moral. Se nos dice por esos mismos filósofos , que Verulamio no ha hecho más que la materialidad ( ¡ válame Dios con la mate-ria ! ) de legar la industria á los pueblos .     qué tal os pa       -¿Y rece   el  legado , señores ? ¿ Se pueden   legar muchas   mate-rialidades de este jaez que más espiritualizen , encumbren ș hagan más morigeradas á las naciones ? El trabajo primer estímulo de moralidad , directa é indirectamente ! el                      ...         ... la segunda religión del pueblo permítaseme presión vías única eficaz garantía de justicia de -  la la de   probidad y atrevida es- perseverancia en las Por Dios señores la , . su la ,             ,   no descarguéis     golpe más fiero el          las costumbres con ese á malhadado divorcio que establecéis entre y y lo fisico    mo-                            lo pierde más , en ral  Pierde    ello                          causa de      la ciencia es la .                                                                   ,                            la causa de Dios que                            la primera causa para    hombre.-   el Por   lo demás       menester no haber saludado siquiera las ,    es voluminosas obras del insigne Verulamio      no conocerlas            ,    ó más que por los dos renglones de     famosa cuanto trillada la sentencia de   tela de araña para pretender que la          -     -          autor no                            su seha ocupado de las facultades del alma cuando no hay no              ,                        , diré una página pero      un aforismo de sus obras que al- no ,                   ni encierre     descripción ó   la        algún fenómeno mentalde                                       ,   ó gún documento precioso para      dirección del espíritu hu- la mano  .   todo ello no Y            por meras indicaciones sino tratado                  , muy       ex   professo tan latamente que en ellas ,   y                   recorre,                         se todo   inmenso el        campo  de las ciencias  de las letras   Ha-       y                        . blando pues en todo rigor    debería ántes bien apellidar se                                                á Verulamio      príncipe de los psicologistas que no el                                  primero                        el de los fisicos  aunque ,          desdeñaría este honrosísimo dic- ni él tado ,    hay contradicción en condecorarle con ambos lau ni
+> toria de cuan profundamente había estudiado las faculta-des de esa misma alma , pues estaba bien penetrado de que tal era el camino más natural no solo de conquistar cono-cimientos y comodidades materiales , sino forzosamente y en virtud y con ocasión de ellos mismos llegar , como en mu-chos puntos hemos llegado , á la resolución de las cuestiones más importantes para el hombre intelectual y moral. Se nos dice por esos mismos filósofos , que Verulamio no ha hecho más que la materialidad ( ¡ válame Dios con la mate-ria ! ) de legar la industria á los pueblos .     qué tal os pa       -¿Y rece   el  legado , señores ? ¿ Se pueden   legar muchas   mate-rialidades de este jaez que más espiritualizen , encumbren ș hagan más morigeradas á las naciones ? El trabajo primer estímulo de moralidad , directa é indirectamente ! el                      ...         ... la segunda religión del pueblo permítaseme presión vías ## única eficaz garantía de justicia de -  la la de   probidad y atrevida es- perseverancia en las Por Dios señores la , . su la ,             ,   no descarguéis     golpe más fiero el          las costumbres con ese á malhadado divorcio que establecéis entre y y lo fisico    mo-                            lo pierde más , en ral  Pierde    ello                          causa de      la ciencia es la .                                                                   ,                            la causa de Dios que                            la primera causa para    hombre.-   el Por   lo demás       menester no haber saludado siquiera las ,    es voluminosas obras del insigne Verulamio      no conocerlas            ,    ó más que por los dos renglones de     famosa cuanto trillada la sentencia de   tela de araña para pretender que la          -     -          autor no                            su seha ocupado de las facultades del alma cuando no hay no              ,                        , diré una página pero      un aforismo de sus obras que al- no ,                   ni encierre     descripción ó   la        algún fenómeno mentalde                                       ,   ó gún documento precioso para      dirección del espíritu hu- la mano  .   todo ello no Y            por meras indicaciones sino tratado                  , muy       ex   professo tan latamente que en ellas ,   y                   recorre,                         se todo   inmenso el        campo  de las ciencias  de las letras   Ha-       y                        . blando pues en todo rigor    debería ántes bien apellidar se                                                á Verulamio      príncipe de los psicologistas que no el                                  primero                        el de los fisicos  aunque ,          desdeñaría este honrosísimo dic- ni él tado ,    hay contradicción en condecorarle con ambos lau ni
 
 of how deeply he had studied the faculties of that same soul, for he was well persuaded that this was the most natural road not only for conquering knowledge and material comforts, but for arriving of necessity, by virtue and on occasion of these very things, as on many points we have arrived, at the resolution of the questions most important for man intellectual and moral. We are told by these same philosophers that Verulam did no more than the materiality (Lord help us with matter!) of bequeathing industry to the peoples.—And what do you think of the legacy, gentlemen? Can many materialities of this sort be bequeathed that would more spiritualize, elevate and civilize the manners of nations? Labor......! the first stimulus to morality, directly and indirectly... the second religion of the people, if I may be allowed the daring expression— the only effective guarantee of its perseverance in the ways of justice and probity. For God’s sake, gentlemen, do not deal morals the fiercest blow with that ill-starred divorce you establish between the physical and the moral. In it the cause of science loses, and the cause of God loses more, which is the first cause for man.—For the rest, one must never have so much as greeted the voluminous works of the illustrious Verulam, or know them only by the two lines of the famous and well-worn saying about the spider’s web, to claim that their author did not concern himself with the faculties of the soul, when there is not, I will not say a page, but not even an aphorism of his works that does not contain either the description of some mental phenomenon, or some precious document for the direction of the human mind. And all of it not by mere indications, but treated very much ex professo, and so amply that in them the whole immense field of the sciences and of letters is traversed. Speaking, then, with all strictness, Verulam ought rather to be styled the prince of the psychologists than the first of the physicists, although he would not disdain this most honorable title either, nor is there any contradiction in decorating him with both laurels
 
@@ -4152,11 +4152,11 @@ he lays down in his paper that does not conceal some far-reaching error: a farew
 
 [p. 231]
 
-> V. DUPLIOA A LA REPLICA DEL " DOMINE " inserta en la Gaceta de Puerto Príncipe de 17 de Noviembre último ( 1. ) "Pro me laboras ." (Continúa . ) Pareciendo á muchos peritos en la materia que la cuestión ha quedado sobradamente ilustrada en mis anteriores ar-tículos á términos de no admitir ya discusión , escusaré en lo restante de mi análisis alegar mas razones que las muy precisas para refutar las del contrario . Yo atribuí el atraso de las ciencias intelectuales á varias causas , y principalmente á estas tres : su dificultad en com- -paración á las naturales , el método seguido en ellas , y la falta de datos de que adolecían . La observación que hice en mi Memoria ponía en evidencia todas estas causas . "¿ Cuál será pues el motivo , ( pregunté ) de que las ciencias intelectua-les (las mas favoritas entre los griegos , máxime des-pués de Sócrates ) , al cabo de tantos siglos en que los génios mas esclarecidos han acometido su estudio con todo el vigor de su capacidad       .... se hallen como si dijéramos en mantillas ? .... " Luego bastaba solo ese hecho para inferir ó la dificultad , ó la falta de método , ó la de datos , ó las tres causas combinadas para influir en el atraso de semejantes ciencias . Después manifesté que el cuadro seductor que ofre-cían las naturales , el convencimiento de que era debido muy señaladamente también á su método , hizo desear con ahin-co á los psicologistas de todas las escuelas la aplicación de tan precioso instrumento al estudio de las intelectuales . Pero aún concediendo     " que la amenidad de las naturales puede haber contribuido eficazmente á sus pasmosos adelantos '                      ' (puuto que se ventilará muy luego ) todavía no es de soste-ner que la " aridez de las psicológicas debió retraer á todo gé- ( 1)   Diario de la Habana de 21 de enero de 1839    .- ( A. Z. )
+> V. ## DUPLIOA A LA REPLICA DEL " DOMINE " inserta en la Gaceta de Puerto Príncipe de 17 de Noviembre último ( 1. ) ## "Pro me laboras ." ## (Continúa . ) Pareciendo á muchos peritos en la materia que la cuestión ha quedado sobradamente ilustrada en mis anteriores ar-tículos á términos de no admitir ya discusión , escusaré en lo restante de mi análisis alegar mas razones que las muy precisas para refutar las del contrario . Yo atribuí el atraso de las ciencias intelectuales á varias causas , y principalmente á estas tres : su dificultad en com- -paración á las naturales , el método seguido en ellas , y la falta de datos de que adolecían . La observación que hice en mi Memoria ponía en evidencia todas estas causas . "¿ Cuál será pues el motivo , ( pregunté ) de que las ciencias intelectua-les (las mas favoritas entre los griegos , máxime des-pués de Sócrates ) , al cabo de tantos siglos en que los génios mas esclarecidos han acometido su estudio con todo el vigor de su capacidad       .... se hallen como si dijéramos en mantillas ? .... " Luego bastaba solo ese hecho para inferir ó la dificultad , ó la falta de método , ó la de datos , ó las tres causas combinadas para influir en el atraso de semejantes ciencias . Después manifesté que el cuadro seductor que ofre-cían las naturales , el convencimiento de que era debido muy señaladamente también á su método , hizo desear con ahin-co á los psicologistas de todas las escuelas la aplicación de tan precioso instrumento al estudio de las intelectuales . Pero aún concediendo     " que la amenidad de las naturales puede haber contribuido eficazmente á sus pasmosos adelantos '                      ' (puuto que se ventilará muy luego ) todavía no es de soste-ner que la " aridez de las psicológicas debió retraer á todo gé- ( 1)   Diario de la Habana de 21 de enero de 1839    .- ( A. Z. )
 
 V.
 
-Rejoinder to the Reply of the “Dómine”
+## Rejoinder to the Reply of the “Dómine”
 
 inserted in the Gaceta de Puerto Príncipe of November 17 last (1)
 
@@ -4220,7 +4220,7 @@ none other than the signs and the method of mathematics. In fact, as these scien
 
 [p. 239]
 
-> percibir el asalto de una ciudad : y para prueba de que se-mejante concentración se debe en gran parte á la natu-raleza de los medios empleados , y no precisamente al entusiasmo que esas ciencias inspiran , observaremos que no hay ciencia ni arte , ni proyecto humano que no sea vivificado y llevado adelante por el entusiasmo , único pa-dre de las grandes cosas , que nunca fué entusiasta la me . diocridad ; y sin hacer mérito de los arrojados navegantes y viajeros , entre ellos del prototipo del entusiasmo , del ilus-tre Cristóbal Colón , y sin salir de las ciencias naturales y de nuestros días , acordémosnos que sólo por determinar la di-versa respirabilidad de los fluidos aeriformes aspiró el quí-mico poeta H. Davy hasta los gases más mefíticos ; el infa-tigable barón de Humboldt se aplicó dos causticos en las espaldas , sólo por esperimentar más viva y acerbamente las excitaciones galvánicas ; y el impertérrito     Eusebio Valli después de haberse inoculado la peste por la Europa y el Asia , vino hasta la América en pos de la fiebre amarilla , á desafiarla en su propio teatro , cayendo víctima de su inex-tinguible amor á la humanidad , de ese entusiasmo que so-lo la muerte pudo apagar , y todavía no conquistar . Pudiera sensibilizar con mil ejemplos la influencia de los signos vulgares en las demás ciencias ; pero sobre ser este punto muy perceptible , no hay ya lugar para más por esta vez , viéndome forzado por la cuarta á despedirme hasta el otro correo . APENDICE . He aquí para la cuestión un nuevo hecho que reune todos los méritos , y no necesita comentarios por ser nada menos que de Puerto - Príncipe , y de la sabrosa pluma del tan pa-triota como ilustrado Lugareño , quien dando cuenta de los examenes del Colegio Calasancio ( 1) en la Gaceta de 2 del co- (1) Este colegio estaba precisamente bajo la dirección de D. Mi-guel Storch , que no era otro que " El Dómine ", que contendía con Luz Caballero . ( A. Z. )
+> percibir el asalto de una ciudad : y para prueba de que se-mejante concentración se debe en gran parte á la natu-raleza de los medios empleados , y no precisamente al entusiasmo que esas ciencias inspiran , observaremos que no hay ciencia ni arte , ni proyecto humano que no sea vivificado y llevado adelante por el entusiasmo , único pa-dre de las grandes cosas , que nunca fué entusiasta la me . diocridad ; y sin hacer mérito de los arrojados navegantes y viajeros , entre ellos del prototipo del entusiasmo , del ilus-tre Cristóbal Colón , y sin salir de las ciencias naturales y de nuestros días , acordémosnos que sólo por determinar la di-versa respirabilidad de los fluidos aeriformes aspiró el quí-mico poeta H. Davy hasta los gases más mefíticos ; el infa-tigable barón de Humboldt se aplicó dos causticos en las espaldas , sólo por esperimentar más viva y acerbamente las excitaciones galvánicas ; y el impertérrito     Eusebio Valli después de haberse inoculado la peste por la Europa y el Asia , vino hasta la América en pos de la fiebre amarilla , á desafiarla en su propio teatro , cayendo víctima de su inex-tinguible amor á la humanidad , de ese entusiasmo que so-lo la muerte pudo apagar , y todavía no conquistar . Pudiera sensibilizar con mil ejemplos la influencia de los signos vulgares en las demás ciencias ; pero sobre ser este punto muy perceptible , no hay ya lugar para más por esta vez , viéndome forzado por la cuarta á despedirme hasta el otro correo . ## APENDICE  He aquí para la cuestión un nuevo hecho que reune todos los méritos , y no necesita comentarios por ser nada menos que de Puerto - Príncipe , y de la sabrosa pluma del tan pa-triota como ilustrado Lugareño , quien dando cuenta de los examenes del Colegio Calasancio ( 1) en la Gaceta de 2 del co- (1) Este colegio estaba precisamente bajo la dirección de D. Mi-guel Storch , que no era otro que " El Dómine ", que contendía con Luz Caballero . ( A. Z. )
 
 perceiving the storming of a city: and in proof that such concentration is due in great part to the nature of the means employed, and not precisely to the enthusiasm those sciences inspire, we shall observe that there is no science nor art, nor human project, that is not vivified and carried forward by enthusiasm, the sole father of great things, for mediocrity was never enthusiastic; and without making mention of the daring navigators and travelers—among them the prototype of enthusiasm, the illustrious Christopher Columbus—and without leaving the natural sciences and our own day, let us remember that merely to determine the differing respirability of aeriform fluids the chemist-poet H. Davy inhaled even the most mephitic gases; the indefatigable Baron von Humboldt applied two caustics to his back, merely in order to experience the galvanic excitations more keenly and sharply; and the intrepid Eusebio Valli, after inoculating himself with the plague in Europe and in Asia, came all the way to America in pursuit of yellow fever, to defy it on its own stage, falling a victim to his inextinguishable love of humanity, to that enthusiasm which death alone could extinguish, and yet not conquer.
 
@@ -4244,11 +4244,11 @@ Here goes another parallel fact:—I have heard several students, among the olde
 
 [p. 241]
 
-> VI . DUPLICA A'LA REPLICA DEL        "DOMINE " inserta en la Gaceta de Puerto Príncipe de 17 de Noviembre   último )( 1) . "Pro me laboras ." (Continúa .) Llegamos ya al 8. párrafo del Dómine , en que se esplica en estos términos : " .... el objeto de la Física es el universo , el de la Lógica la inteligencia : la primera ofrece un espacio inmenso al observador , la segunda un punto matemático ... " Aun concedido que así sea (cosa que nadie admitirá ) le con-testaré que mas fatiga y arte se necesitan para llegar á la cúspide del Monte Blanco , que apenas cuenta tres misera-bles leguas de altura perpendicular , que para beberse las millas por las deleitosas planicies de la Lombardía : por aquí se dejan resbalar hasta los mas flojos viandantes , por allí sólo trepan los muy aguerridos viajeros . Las dificultades en las ciencias , que es toda la cuestión , se gradúan mas por el peso que por el número , más por la calidad que por la canti-dad . Nada hay mas dilatado que la história natural como que comprende la descripción de todas las obras de Dios que están al alcance del hombre , y sin embargo , nada más ade-cuado á la comprensión de las mas tiernas criaturas . Tam-poco se trata de que un niño , y ni aún un joven , dé princi-pio á sus estudios recorriendo todo el vasto campo de la naturaleza : lo que se hace primero , para el niño , es escoger algunos capítulos de la ciencia , y luego , para el jóven , algún ramo de ella , como lo es la Física ; escusándome el Dómine de que no me detenga á hacer el cotejo de las dificultades de un capítulo de la Física con otro de la Lógica , pudiendo te-ner entendido que mientras se penetra un alumno de uno solo de esta , puede adquirir cuatro de aquella , y apelo á cuantos enseñan y aprenden dichas ciencias que no me deja-rán mentir . 16 (1)   Diario de la Habana de 10 de Febrero de 1839. (Α . Ζ.)
+> VI . ## DUPLICA A'LA REPLICA DEL        "DOMINE " inserta en la Gaceta de Puerto Príncipe de 17 de Noviembre   último )( 1) . "Pro me laboras ." (Continúa .) Llegamos ya al 8. párrafo del Dómine , en que se esplica en estos términos : " .... el objeto de la Física es el universo , el de la Lógica la inteligencia : la primera ofrece un espacio inmenso al observador , la segunda un punto matemático ... " Aun concedido que así sea (cosa que nadie admitirá ) le con-testaré que mas fatiga y arte se necesitan para llegar á la cúspide del Monte Blanco , que apenas cuenta tres misera-bles leguas de altura perpendicular , que para beberse las millas por las deleitosas planicies de la Lombardía : por aquí se dejan resbalar hasta los mas flojos viandantes , por allí sólo trepan los muy aguerridos viajeros . Las dificultades en las ciencias , que es toda la cuestión , se gradúan mas por el peso que por el número , más por la calidad que por la canti-dad . Nada hay mas dilatado que la história natural como que comprende la descripción de todas las obras de Dios que están al alcance del hombre , y sin embargo , nada más ade-cuado á la comprensión de las mas tiernas criaturas . Tam-poco se trata de que un niño , y ni aún un joven , dé princi-pio á sus estudios recorriendo todo el vasto campo de la naturaleza : lo que se hace primero , para el niño , es escoger algunos capítulos de la ciencia , y luego , para el jóven , algún ramo de ella , como lo es la Física ; escusándome el Dómine de que no me detenga á hacer el cotejo de las dificultades de un capítulo de la Física con otro de la Lógica , pudiendo te-ner entendido que mientras se penetra un alumno de uno solo de esta , puede adquirir cuatro de aquella , y apelo á cuantos enseñan y aprenden dichas ciencias que no me deja-rán mentir . 16 (1)   Diario de la Habana de 10 de Febrero de 1839. (Α . Ζ.)
 
 VI.
 
-Rejoinder to the Reply of the “Dómine”
+## Rejoinder to the Reply of the “Dómine”
 
 inserted in the Gaceta de Puerto Príncipe of November 17 last (1).
 
@@ -4344,15 +4344,15 @@ To the respected Lic. Don José Tomás de la Victoria, resident in Puerto Prínc
 
 [PDF 238]
 
-> ...... FILOSOFIA . CUESTION DE METODO                                       . ( POLEMICA   CON " ADICTO " .)    ( 1) I. (2) "Et pulsanti aperietur .' Heme aquí más que justificado en mi tema de contestar tan latamente al Domine de Puerto Príncipe , en la cuestión del método , aún contra el parecer de muchos y abonados peritos que la juzgaban más que medianamente ilustrada , y hasta fuera de discusión , después de mis tres primeros artículos de réplica . Preséntase ahora un nuevo adalid , pero con el modesto escudo de dudador , ofreciendo nuevos reparos , (3 ) contraidos á las doctrinas expuestas por mí en la Memoria que corre estampada en las de la Sociedad Patriótica del mes de Septiembre           próximo        pasado .    Algo singular     es .- (1) Durante el curso de la anterior polémica , surgió la presente que es en realidad mera continuación de aquella , y fué provocada por un artículo inserto en el Diario de la Habana de 12 de Febrero de 1839 , suscrito por Adicto , á cuyo artículo siguieron otros en los Diarios de los días 14 , 15 y 18 del própio mes . ( A. Ζ. ) . (2) Diario de la Habana de 16 de Febrero de 1839 ( Α . Ζ .) . (3) Veremos si todos lo son , ó si acaso resultan los mismos vesti-dos con otros ropajes .
+> ...... ## FILOSOFIA  ## CUESTION DE METODO                                        ## ( POLEMICA   CON " ADICTO " .)    ( 1) I. (2) "Et pulsanti aperietur .' Heme aquí más que justificado en mi tema de contestar tan latamente al Domine de Puerto Príncipe , en la cuestión del método , aún contra el parecer de muchos y abonados peritos que la juzgaban más que medianamente ilustrada , y hasta fuera de discusión , después de mis tres primeros artículos de réplica . Preséntase ahora un nuevo adalid , pero con el modesto escudo de dudador , ofreciendo nuevos reparos , (3 ) contraidos á las doctrinas expuestas por mí en la Memoria que corre estampada en las de la Sociedad Patriótica del mes de Septiembre           próximo        pasado .    Algo singular     es .- (1) Durante el curso de la anterior polémica , surgió la presente que es en realidad mera continuación de aquella , y fué provocada por un artículo inserto en el Diario de la Habana de 12 de Febrero de 1839 , suscrito por Adicto , á cuyo artículo siguieron otros en los Diarios de los días 14 , 15 y 18 del própio mes . ( A. Ζ. ) . (2) Diario de la Habana de 16 de Febrero de 1839 ( Α . Ζ .) . (3) Veremos si todos lo son , ó si acaso resultan los mismos vesti-dos con otros ropajes .
 
 ❖     ❖     ❖      ❖     ❖     ❖     ❖      ❖       ❖       ❖       ❖       ❖        ❖       ❖   ❖
 
 P hilosophy .
 
-QUESTION OF METHOD.
+## QUESTION OF METHOD
 
-( polemic with “ adicto .”) (1)
+## ( polemic with “ adicto .”) (1)
 
 I. (2)
 
@@ -4682,11 +4682,11 @@ Before going further, it is necessary to make a distinction with regard to Chris
 
 [p. 290]
 
-> seguida destruído este sistema por el teismo , cuyo primer representante universal se nos ofreció en el puebio judaico , viniendo á quedar este último absorbido , amplificado y mas espiritualizado en la sublime religión del hijo de María . Y ved ahí la marcha de la humanidad en todos los ramos . Así la pintura fué primero que los geroglíticos , y estos pri-mero que las letras , como las parábolas fueron primero que los argumentos . III. (1) Está pues mas que manifiesto cuan inexacta es la noción del Sr. Adicto , pues pretende nada menos que poner un coto intransitable á ia humana naturaleza que és tan emi-nentemente perfectible . Lejos de considerar á la Moral cristiana como el término , debe mas bien mirarse como el gérmen fecundo de frutos sin término para la mejora de la humanidad .   ¿A qué otras causas que al espíritu del cris-tianismo y á las concomitantes investigaciones en las cien-cias físico -matemáticas , que él permite y aún fomenta , se debe la actual superioridad del mundo Occidental sobre el Oriental ? Esas indagaciones y conquistas de la moderna civilización ofrecen al entendimiento del hombre nuevos hechos así en el munde fisico como en el moral , que coad . yuvan eficazmente al adelantamiento de la ciencia de los deberes . Sin salir del cristianismo , ¿ no se creía antes que era una acción aceptable á los ojos de la divinidad usar de medios compulsorios para inculcar nuestra creencia á los re-nuentes ? Y hoy mejor entendido por la generalidad el espí-ritu del cristianismo , no se tiene por una virtud evangélica la lenidad y tolerancia con toda especie de disentistas ? Y sin embargo , ¿ no había la religión dulce del Cordero predicado el perdón hasta á los enemigos ? Fué necesario pues que el tiempo , la experiencia , la mayor ilustración fueran ejercien-do su influencia en las masas , para que en la práctica se ge- (1) Diario de la Habana de 3 de Marzo de 1839 .- ( A. Z. )
+> seguida destruído este sistema por el teismo , cuyo primer representante universal se nos ofreció en el puebio judaico , viniendo á quedar este último absorbido , amplificado y mas espiritualizado en la sublime religión del hijo de María . Y ved ahí la marcha de la humanidad en todos los ramos . Así la pintura fué primero que los geroglíticos , y estos pri-mero que las letras , como las parábolas fueron primero que los argumentos . ## III. (1) Está pues mas que manifiesto cuan inexacta es la noción del Sr. Adicto , pues pretende nada menos que poner un coto intransitable á ia humana naturaleza que és tan emi-nentemente perfectible . Lejos de considerar á la Moral cristiana como el término , debe mas bien mirarse como el gérmen fecundo de frutos sin término para la mejora de la humanidad .   ¿A qué otras causas que al espíritu del cris-tianismo y á las concomitantes investigaciones en las cien-cias físico -matemáticas , que él permite y aún fomenta , se debe la actual superioridad del mundo Occidental sobre el Oriental ? Esas indagaciones y conquistas de la moderna civilización ofrecen al entendimiento del hombre nuevos hechos así en el munde fisico como en el moral , que coad . yuvan eficazmente al adelantamiento de la ciencia de los deberes . Sin salir del cristianismo , ¿ no se creía antes que era una acción aceptable á los ojos de la divinidad usar de medios compulsorios para inculcar nuestra creencia á los re-nuentes ? Y hoy mejor entendido por la generalidad el espí-ritu del cristianismo , no se tiene por una virtud evangélica la lenidad y tolerancia con toda especie de disentistas ? Y sin embargo , ¿ no había la religión dulce del Cordero predicado el perdón hasta á los enemigos ? Fué necesario pues que el tiempo , la experiencia , la mayor ilustración fueran ejercien-do su influencia en las masas , para que en la práctica se ge- (1) Diario de la Habana de 3 de Marzo de 1839 .- ( A. Z. )
 
 this system destroyed by theism, whose first universal representative was offered us in the Jewish people, this last coming to be absorbed, amplified and further spiritualized in the sublime religion of the son of Mary. And see there the march of humanity in every branch. Thus painting came before hieroglyphics, and these before letters, as parables came before arguments.
 
-III. (1)
+## III. (1)
 
 It is then more than manifest how inexact is Mr. Adicto’s notion, for he claims nothing less than to set an impassable bound to human nature, which is so eminently perfectible. Far from considering Christian Morality as the end, it ought rather to be regarded as the fertile germ of endless fruits for the improvement of humanity. To what causes other than the spirit of Christianity, and the concomitant investigations in the physico-mathematical sciences, which it permits and even encourages, is the present superiority of the Western world over the Eastern due? Those inquiries and conquests of modern civilization offer the understanding of man new facts, in the physical world as well as in the moral, which effectively assist the advancement of the science of duties. Without leaving Christianity, was it not formerly believed to be an action acceptable in the eyes of the divinity to use compulsory means to inculcate our belief in the recalcitrant? And today, the spirit of Christianity being better understood by the generality, are not leniency and tolerance toward every kind of dissenter held to be an evangelical virtue? And yet had not the gentle religion of the Lamb preached forgiveness even to enemies? It was necessary, then, that time, experience and greater enlightenment should go on exerting their influence on the masses, before the divine maxims of the Crucified should in practice become gen-
 
@@ -4734,7 +4734,7 @@ I said elsewhere that he had confused, very especially in the present case (for 
 
 [p. 297]
 
-> acciones , pero no el por qué de ellas ; en una palabra se les enseña   el arte , cual lo tenemos averiguado , no propia ni impropiamente la ciencia de operar : se les instruye de un modo empírico ; se les dice : esto debes hacer y esto evitar , porque Dios lo manda y te conviene , sin entrar en los mó- viles de la acción , ni en el origen de nuestras inclinaciones , ni en las causas que en ellas influyen , ni en la clasificación de unas y otras , así como de nuestros deberes y derechos ; por la sencillísima razón de no estar todavía en aptitud na- tural ni con los prévios conocimientos que demandan tan delicadas materias . Así sería hasta burlarse de un profesor si se le encargára que fuese á dar un Curso de Moral á la primera infancia ; y sin embargo dicta la razón , y convence la experiencia , la eficacia con que se inculca la moral en los primeros años . Empero , y sin salir de este mismo ejem-plo de la educación de la infancia escogido por el Sr. Adicto , quiero hacerle ver cuanto valen el método y las doctrinas que recomendamos para fecundar la razón humana desde sus primeros pasos , haciendo lo ménos empírico , ó sea lo -más científico posible el procedimiento bajo el cual se ense-ña la misma moral á las tiernas criaturas . La experiencia nos ha convencido del infiujo del hábito así en lo material como en lo moral ; por lo cual no titubeamos en amoldar desde temprano á nuestros hijos , así por las palabras como por el ejemplo á aquellas acciones que tenemos por buenas , aún cuando ellos no puedan alcanzar todavía los motivos . - Así operan todos los padres é institutores al principio , y así es como deben operar . Más raya luego la luz de la ra . zón ; y aquí empiezan á dividirse los métodos , según las ideas de los directores , continuando unos , poco más ó ménos ba-jo el mismo orden de consejo y ejemplo , ( medios siempre eficaces , eficacísimos ) esclusivamente , y otros añadiendo no una clasificación científica extemporánea , sino razones ó motivos de acción al alcance de los educados ;        medio que fortificando su naciente inteligencia , contribuye á acrecen-tar la eficacia de los anteriores , y por consiguiente á la con
+> acciones , pero no el por qué de ellas ; en una palabra ## se les enseña   el arte , cual lo tenemos averiguado , no propia ni impropiamente la ciencia de operar : se les instruye de un modo empírico ; se les dice : esto debes hacer y esto evitar , porque Dios lo manda y te conviene , sin entrar en los mó- viles de la acción , ni en el origen de nuestras inclinaciones , ni en las causas que en ellas influyen , ni en la clasificación de unas y otras , así como de nuestros deberes y derechos ; por la sencillísima razón de no estar todavía en aptitud na- tural ni con los prévios conocimientos que demandan tan delicadas materias . Así sería hasta burlarse de un profesor si se le encargára que fuese á dar un Curso de Moral á la primera infancia ; y sin embargo dicta la razón , y convence la experiencia , la eficacia con que se inculca la moral en los primeros años . Empero , y sin salir de este mismo ejem-plo de la educación de la infancia escogido por el Sr. Adicto , quiero hacerle ver cuanto valen el método y las doctrinas que recomendamos para fecundar la razón humana desde sus primeros pasos , haciendo lo ménos empírico , ó sea lo -más científico posible el procedimiento bajo el cual se ense-ña la misma moral á las tiernas criaturas . La experiencia nos ha convencido del infiujo del hábito así en lo material como en lo moral ; por lo cual no titubeamos en amoldar desde temprano á nuestros hijos , así por las palabras como por el ejemplo á aquellas acciones que tenemos por buenas , aún cuando ellos no puedan alcanzar todavía los motivos . - Así operan todos los padres é institutores al principio , y así es como deben operar . Más raya luego la luz de la ra . zón ; y aquí empiezan á dividirse los métodos , según las ideas de los directores , continuando unos , poco más ó ménos ba-jo el mismo orden de consejo y ejemplo , ( medios siempre eficaces , eficacísimos ) esclusivamente , y otros añadiendo no una clasificación científica extemporánea , sino razones ó motivos de acción al alcance de los educados ;        medio que fortificando su naciente inteligencia , contribuye á acrecen-tar la eficacia de los anteriores , y por consiguiente á la con
 
 actions, but not the why of them; in a word, they are taught the art, as we have already established, not properly or even improperly the science of acting: they are instructed in an empirical manner; they are told: this you must do and this avoid, because God commands it and it is good for you, without entering into the motives of action, nor into the origin of our inclinations, nor into the causes that influence them, nor into the classification of the one and the other, or of our duties and rights; for the very simple reason that they are not yet fit by nature, nor furnished with the previous knowledge, that such delicate matters demand. Thus it would be downright to make a mockery of a professor to charge him with going to give a Course of Ethics to early infancy; and yet reason dictates, and experience convinces us of, the efficacy with which morality is inculcated in the first years. However, and without departing from this very example of the education of infancy chosen by Mr. Adicto, I wish to make him see how much the method and the doctrines we recommend are worth for fertilizing human reason from its first steps, by making the procedure under which morality itself is taught to tender little creatures as little empirical, that is, as scientific, as possible.—Experience has convinced us of the influence of habit in material things as in moral ones; for which reason we do not hesitate to mold our children early, by words as well as by example, to those actions which we hold to be good, even when they cannot yet grasp the motives. So do all parents and teachers act at the beginning, and so ought they to act.—But then the light of reason dawns; and here methods begin to divide, according to the ideas of those in charge, some continuing, more or less, exclusively under the same order of counsel and example (means always effective, most effective), and others adding, not an untimely scientific classification, but reasons or motives of action within the reach of those being educated; a means which, by strengthening their nascent intelligence, contributes to increasing the efficacy of the former ones, and consequently to the
 
@@ -5116,13 +5116,13 @@ Returning now to the passages of Scripture to which I offered to confine myself,
 
 [p. 337]
 
-> cante el que exhala de todas sus páginas , llenas á un tiempo de hechizo y dignidad . Repitamos pues , en conclusión , con el ilustre Galileo , y en el sentido de Carlos Comte , “ épur sí muove ; " no para atro-nar á nuestro Adicto , como en espresión suya lo fueron los prosélitos del fanatismo , sí para recordarle la lección que resulta de todas estas discusiones ; é pur sí muove , quiere decir , que es menester estar al cabo de los progresos de la ciencia para no ser absorvido por el torrente del tiempo , del tiempo que " borrando las mentiras de las opiniones , confirma los juicios de la naturaleza : " ( 1) épur si muove , que tan alma y condición es el movimiento para los fenó-menos del mundo moral , como para los efectos del mundo físico . VII . (2) 11.   -   Pasa ahora el articulista    á demostrar lo que nadie le ha negado , y está en la naturaleza de las cosas ; el atra-so de los antiguos respecto de los modernos en ciencias naturales y señaladamente en Astronomía ; y aunque me sería facil demostrar que no ha estado de lo más feliz en la elección de ejemplo , no quiero detenerme sobre el particu-lar, así por ser innecesario á la cuestión principal , como por haberle yo manifestado que la antigüedad estaba más avan-zada en conocimientos físico - matemáticos de lo que vul-garmente se crée . Cabalmente muchas páginas de la his-toria de la Astronomía ( v . g .: los trabajos del grande Hi-parco ) , bastarían á desmentir muchas de las proposiciones que asienta Adicto en su relato . Así , aún los puntos en que anda más fundado este señor están sujetos á sus más y sus menos , no pudiendo admitirse sin distinciones y altera-ciones .      Alguna observación sin embargo he de hacer á nuestro articulista     en esta parte . Dígole pues , que en ( 1)     Ciceron . (2 )     Inédito .- (A . Z. ) 22
+> cante el que exhala de todas sus páginas , llenas á un tiempo de hechizo y dignidad . Repitamos pues , en conclusión , con el ilustre Galileo , y en el sentido de Carlos Comte , “ épur sí muove ; " no para atro-nar á nuestro Adicto , como en espresión suya lo fueron los prosélitos del fanatismo , sí para recordarle la lección que resulta de todas estas discusiones ; é pur sí muove , quiere decir , que es menester estar al cabo de los progresos de la ciencia para no ser absorvido por el torrente del tiempo , del tiempo que " borrando las mentiras de las opiniones , confirma los juicios de la naturaleza : " ( 1) épur si muove , que tan alma y condición es el movimiento para los fenó-menos del mundo moral , como para los efectos del mundo físico . ## VII . (2) 11.   -   Pasa ahora el articulista    á demostrar lo que nadie le ha negado , y está en la naturaleza de las cosas ; el atra-so de los antiguos respecto de los modernos en ciencias naturales y señaladamente en Astronomía ; y aunque me sería facil demostrar que no ha estado de lo más feliz en la elección de ejemplo , no quiero detenerme sobre el particu-lar, así por ser innecesario á la cuestión principal , como por haberle yo manifestado que la antigüedad estaba más avan-zada en conocimientos físico - matemáticos de lo que vul-garmente se crée . Cabalmente muchas páginas de la his-toria de la Astronomía ( v . g .: los trabajos del grande Hi-parco ) , bastarían á desmentir muchas de las proposiciones que asienta Adicto en su relato . Así , aún los puntos en que anda más fundado este señor están sujetos á sus más y sus menos , no pudiendo admitirse sin distinciones y altera-ciones .      Alguna observación sin embargo he de hacer á nuestro articulista     en esta parte . Dígole pues , que en ( 1)     Ciceron . (2 )     Inédito .- (A . Z. ) 22
 
 fragrance that breathes from all his pages, full at once of enchantment and dignity.
 
 Let us repeat, then, in conclusion, with the illustrious Galileo, and in the sense of Charles Comte, “épur sí muove;” [and yet it moves] not to thunder at our Adicto, as in his own expression the proselytes of fanaticism did, but to remind him of the lesson that results from all these discussions; é pur sí muove means that it is necessary to keep abreast of the progress of science so as not to be swallowed up by the torrent of time, of the time which, “erasing the lies of opinions, confirms the judgments of nature:” (1) é pur sí muove, for movement is as much the soul and condition of the phenomena of the moral world as of the effects of the physical world.
 
-VII. (2)
+## VII. (2)
 
 11º—The author now goes on to demonstrate what no one has denied him, and what is in the nature of things: the backwardness of the ancients with respect to the moderns in the natural sciences, and notably in Astronomy; and although it would be easy for me to show that he has not been of the happiest in his choice of example, I do not wish to dwell on the particular, both because it is unnecessary to the principal question and because I have already shown him that antiquity was more advanced in physico-mathematical knowledge than is commonly believed. In fact, many pages of the history of Astronomy (for example, the labors of the great Hipparchus) would suffice to belie many of the propositions that Adicto lays down in his account. Thus even the points on which this gentleman is best grounded are subject to their ifs and buts, and cannot be admitted without distinctions and alterations. Some observation, however, I must make to our author on this score. I tell him, then, that in
 
@@ -5178,11 +5178,11 @@ You give us to understand, with the case of the brave soldier flying into a fury
 
 [PDF 330]
 
-> FILOSOFIA                  . (1 ) RECTIFICACION . Al Ciudadano del mundo , residente en Trinidad , salud ! Grande es el honor que Vd . nos dispensa al Sr. Varela y á mi , al indicar que no obstante nuestra íntima amistad , diferimos en opiniones filosóficas . Pero esta proposición así aisladamente presentada , y sobre todo concebida en los -términos en que Vd . lo ha hecho , merece mas de una rec-tificación . Hé aquí las palabras del “ Ciudadano del mun-do : " "Hasta Don José de la Luz y Caballero , que según tengo noticias es quizás más amigo que V. ( el Lugareño ) del Señor Varela , no sigue su filosofía . " " Prueba evidente -en la " Gaceta de Puerto Príncipe " , de Mayo 2 de 1840, precedido de los siguientes renglones de D. Anastasio de Orozco  .  " Sr. Redactor de la " Gaceta de Puerto del Príncipe ." Muy señor mío : Acompaño á Ud . un artículo que me ha remitido desde la Habana mi muy querido amigo y deudo Don José de la Luz y Caballero , quien pospone el placer de publicarlo en aquella ciudad al sentimiento amistoso de defender al amigo Lugareño en su propio terreno , el Camagüey, donde se ha sus-citado la cuestión con el Ciudadano del mundo . " ( a ) - El Sr. D. José Ignacio Rodríguez reprodujo este escrito de Luz en el - Apéndice E de su " Vida del Presbítero D. Félix Varela . Nueva - -1878 ." ( Α . Ζ. ) York .- (A. Ζ.) (a) Véase el Apéndice núm . 17 (1) Inserto este artículo inmediatamente    después de las polémicas sobre Cuestión de Método , por su referencia á las mismas . Se publicó
+> ## FILOSOFIA                  . (1 ) ## RECTIFICACION  Al Ciudadano del mundo , residente en Trinidad , salud ! Grande es el honor que Vd . nos dispensa al Sr. Varela y á mi , al indicar que no obstante nuestra íntima amistad , diferimos en opiniones filosóficas . Pero esta proposición así aisladamente presentada , y sobre todo concebida en los -términos en que Vd . lo ha hecho , merece mas de una rec-tificación . Hé aquí las palabras del “ Ciudadano del mun-do : " "Hasta Don José de la Luz y Caballero , que según tengo noticias es quizás más amigo que V. ( el Lugareño ) del Señor Varela , no sigue su filosofía . " " Prueba evidente -en la " Gaceta de Puerto Príncipe " , de Mayo 2 de 1840, precedido de los siguientes renglones de D. Anastasio de Orozco  .  " Sr. Redactor de la " Gaceta de Puerto del Príncipe ." Muy señor mío : Acompaño á Ud . un artículo que me ha remitido desde la Habana mi muy querido amigo y deudo Don José de la Luz y Caballero , quien pospone el placer de publicarlo en aquella ciudad al sentimiento amistoso de defender al amigo Lugareño en su propio terreno , el Camagüey, donde se ha sus-citado la cuestión con el Ciudadano del mundo . " ( a ) - El Sr. D. José Ignacio Rodríguez reprodujo este escrito de Luz en el - Apéndice E de su " Vida del Presbítero D. Félix Varela . Nueva - -1878 ." ( Α . Ζ. ) York .- (A. Ζ.) (a) Véase el Apéndice núm . 17 (1) Inserto este artículo inmediatamente    después de las polémicas sobre Cuestión de Método , por su referencia á las mismas . Se publicó
 
 ❖      ❖     ❖     ❖     ❖      ❖     ❖      ❖     ❖      ❖     ❖     ❖      ❖     ❖      ❖
 
-P hilosophy . (1)
+## P hilosophy . (1)
 
 Correction.
 
@@ -5266,11 +5266,11 @@ Havana, April 20, 1840.
 
 [PDF 337]
 
-> FILOSOFIA , (1) Al leer la discusión que se ha establecido con motivo de un artículo escrito por M. Costales sobre la necesidad del estudio de la Ideología para el de la Literatura , y criticado con demasiada ligereza é injusticia por un Ecléctico , que repentinamente y sin anteriores recomendaciones ha apa-recido por primera vez ante el público con el título vano y pomposo de Salvador de la Filosofía , hemos tomado la pluma para hacer várias observaciones las cuales no llevan otro objeto que el de probar la falsedad de algunas doctrinas que ciegamente adopta y sigue el Sr. Ecléctico , y los grandes errores que ha cometido por haber desaten-dido las reglas idiológicas al establecer una discusión pu-ramente literaria . Nada diremos del espíritu de oposición que se observa en sus escritos , porque tomándonos este trabajo , faltaríamos á nuestro carácter y aparecería clara- .- Septiembre 27 (Α . Ζ. ) (1) Este artículo se insertó en el Diario de la Habana de 21 de Septiembre de 1838 , firmado por " Un amante de la verdad", y lo moti-vó una polémica que en dicho periódico sostenían los Sres . D. Manuel Costales y " El Ecléctico " . El primero había dado publicidad en La Siempreviva á un artículo titulado " Ideología " , y el seguudo impugnó sus doctrinas en el Diario de 11 de Agosto del citado año . Establecida la discusion , Costales mantuvo sus opiniones en los Diarios de Agosto 16 y Septiembre 13 , y " El Ecléctico " las suyas en los de Agosto 24'y
+> ## FILOSOFIA , (1) Al leer la discusión que se ha establecido con motivo de un artículo escrito por M. Costales sobre la necesidad del estudio de la Ideología para el de la Literatura , y criticado con demasiada ligereza é injusticia por un Ecléctico , que repentinamente y sin anteriores recomendaciones ha apa-recido por primera vez ante el público con el título vano y pomposo de Salvador de la Filosofía , hemos tomado la pluma para hacer várias observaciones las cuales no llevan otro objeto que el de probar la falsedad de algunas doctrinas que ciegamente adopta y sigue el Sr. Ecléctico , y los grandes errores que ha cometido por haber desaten-dido las reglas idiológicas al establecer una discusión pu-ramente literaria . Nada diremos del espíritu de oposición que se observa en sus escritos , porque tomándonos este trabajo , faltaríamos á nuestro carácter y aparecería clara- .- Septiembre 27 (Α . Ζ. ) (1) Este artículo se insertó en el Diario de la Habana de 21 de Septiembre de 1838 , firmado por " Un amante de la verdad", y lo moti-vó una polémica que en dicho periódico sostenían los Sres . D. Manuel Costales y " El Ecléctico " . El primero había dado publicidad en La Siempreviva á un artículo titulado " Ideología " , y el seguudo impugnó sus doctrinas en el Diario de 11 de Agosto del citado año . Establecida la discusion , Costales mantuvo sus opiniones en los Diarios de Agosto 16 y Septiembre 13 , y " El Ecléctico " las suyas en los de Agosto 24'y
 
 ❖     ❖      ❖     ❖      ❖      ❖     ❖      ❖     ❖      ❖     ❖      ❖     ❖      ❖      ❖
 
-P hilosophy . (1)
+## P hilosophy . (1)
 
 On reading the discussion that has arisen over an article written by M. Costales on the necessity of the study of Ideology for that of Literature, and criticized with excessive levity and injustice by an Eclectic, who suddenly and without previous recommendations has appeared for the first time before the public with the vain and pompous title of Savior of Philosophy, we have taken up the pen to make various observations, which have no other object than to prove the falsity of some doctrines which Mr. Eclectic blindly adopts and follows, and the great errors he has committed through having disregarded the rules of ideology in setting up a purely literary discussion. We shall say nothing of the spirit of opposition observable in his writings, because in taking that trouble we should be false to our character, and it would appear clearly
 
@@ -5364,7 +5364,7 @@ The Friend of Youth.
 
 [PDF 344]
 
-> I. D. O. M. QUI STUDIIS JUVENTUTIS         PROPITIUS ADEST OMNEM REM DE TOLLENDIS OBLIGATIONIBUS , TAN JURE ROMANO QUAM HISPANO , DEVOVET CONSECRATQUE , D.   JOSEPHUS DE LA LUZ ET CABALLERO . HUJUS COLLEGII SEMINARIJ SCHOLARIS STUDIOSUS . Locus propugnationis     erit Aula magna ejusdem Collegii die 15 Julij Anni 1817 hora solita , præside adstante Pbro . Lto . D. Justo Velez , juris Patrii Moderatore . SUPERIORUM PERMISSU. HABANE : TYPIS DOMINI PETRI NOLASCI PALMER .
+> I. D. O. M. ## QUI STUDIIS JUVENTUTIS         PROPITIUS ADEST ## OMNEM REM DE TOLLENDIS ## OBLIGATIONIBUS , TAN JURE ROMANO QUAM HISPANO , DEVOVET CONSECRATQUE , ## D.   JOSEPHUS DE LA LUZ ET CABALLERO  ## HUJUS COLLEGII SEMINARIJ SCHOLARIS STUDIOSUS  Locus propugnationis     erit Aula magna ejusdem Collegii die 15 Julij Anni 1817 hora solita , præside adstante Pbro . Lto . D. Justo Velez , juris Patrii Moderatore . ## SUPERIORUM PERMISSU ## HABANE : TYPIS DOMINI PETRI NOLASCI PALMER 
 
 A ppendices .
 
@@ -5374,29 +5374,29 @@ D. O. M.
 
 [Deo Optimo Maximo: to God, Best and Greatest]
 
-WHO GRACIOUSLY ATTENDS THE STUDIES OF YOUTH
+## WHO GRACIOUSLY ATTENDS THE STUDIES OF YOUTH
 
-THE WHOLE MATTER OF EXTINGUISHING
+## THE WHOLE MATTER OF EXTINGUISHING
 
-OBLIGATIONS, IN ROMAN
+## OBLIGATIONS, IN ROMAN
 
 AS WELL AS IN SPANISH LAW,
 
-IS DEVOTED AND CONSECRATED BY
+## IS DEVOTED AND CONSECRATED BY
 
 D. JOSÉ DE LA LUZ Y CABALLERO,
 
-STUDENT SCHOLAR OF THIS SEMINARY COLLEGE.
+## STUDENT SCHOLAR OF THIS SEMINARY COLLEGE
 
 The place of the disputation shall be the Great Hall of the same College, on the 15th day of July of the year 1817, at the customary hour, there presiding Fr. Lic. D. Justo Vélez, Moderator of National Law.
 
-BY PERMISSION OF THE SUPERIORS.
+## BY PERMISSION OF THE SUPERIORS
 
-HAVANA: PRINTED BY DON PEDRO NOLASCO PALMER.
+## HAVANA: PRINTED BY DON PEDRO NOLASCO PALMER
 
 [p. 360]
 
-> II CERTIFICO , que por decreto de esta fecha proveido por el Sr. Provisor y Vicario General Gobernador de este Obis- pado , por nombramiento del Exmo . Sr. Obispo diocesano , está nombrado D. José de la Luz y Caballero , Catedráti- co provisional de Filosofía en el Real y Conciliar Colegio Seminario de esta ciudad , con asignación de la renta y - emolumentos de la cátedra . Habana nueve de setiembre - de mil ochocientos veinte y quatro . FRANCISCO M. CAS- TAÑEDA . Vice - Secretario . III . El día treinta y uno de Octubre de mil ochocientos treinta y tres años : habiendo dispensado las tres canónicas amo- nestaciones el Exmo . Sr. Dr. D. Juan Bernardo O - Gavan , Vicario Capitular etc.    Yo D. Agustín Díaz Ramirez , Te- niente de cura de esta Iglesia Auxiliar del Santo Cristo del Buenviaje de la Habana , con licencia del Exmo . é Illtmo . Sr. Arzobispo Administrador firmada el día antes de ayer ante el secretario D. Ignacio María Olea , desposé en la casa habitación de la novia , á D. José de la Luz con Da Mariana Romay , solteros , naturales y vecinos de esta ciudad , el primero en la feligresía del Espiritu Santo , hijo legítimo del Teniente coronel D. Antonio de la Luz y de Da Manuela Teresa Caballero , y la segunda de esta feli- gresía , hija legítima del Dr. D. Tomás Romay y de doña Mariana González ; á quienes habiéndoles preguntado tu- ve por respuesta su mútuo consentimiento , de que fueron testigos D. Manuel Iturrondo , ordenante , y D. Agustín de Palma ; les previne se velasen en primera oportunidad ; - fueron padrinos D. Francisco de la Luz y Da Rita de Za- yas Bazan : y lo firmé . Agustín Díaz . IV . , Real SociedadEconómica Tengo la satisfacción   de comunicar   á V. S. el nombramiento que en su primer junta general se sirvió hacer la Real Socie dad Económica en la digna persona de V. S. , para desempeñar la Vice - Dirección
+> ## II CERTIFICO , que por decreto de esta fecha proveido por el Sr. Provisor y Vicario General Gobernador de este Obis- pado , por nombramiento del Exmo . Sr. Obispo diocesano , está nombrado D. José de la Luz y Caballero , Catedráti- co provisional de Filosofía en el Real y Conciliar Colegio Seminario de esta ciudad , con asignación de la renta y - emolumentos de la cátedra . Habana nueve de setiembre - de mil ochocientos veinte y quatro . FRANCISCO M. CAS- TAÑEDA . Vice - Secretario . III . El día treinta y uno de Octubre de mil ochocientos treinta y tres años : habiendo dispensado las tres canónicas amo- nestaciones el Exmo . Sr. Dr. D. Juan Bernardo O - Gavan , Vicario Capitular etc.    Yo D. Agustín Díaz Ramirez , Te- niente de cura de esta Iglesia Auxiliar del Santo Cristo del Buenviaje de la Habana , con licencia del Exmo . é Illtmo . Sr. Arzobispo Administrador firmada el día antes de ayer ante el secretario D. Ignacio María Olea , desposé en la casa habitación de la novia , á D. José de la Luz con Da Mariana Romay , solteros , naturales y vecinos de esta ciudad , el primero en la feligresía del Espiritu Santo , hijo legítimo del Teniente coronel D. Antonio de la Luz y de Da Manuela Teresa Caballero , y la segunda de esta feli- gresía , hija legítima del Dr. D. Tomás Romay y de doña Mariana González ; á quienes habiéndoles preguntado tu- ve por respuesta su mútuo consentimiento , de que fueron testigos D. Manuel Iturrondo , ordenante , y D. Agustín de Palma ; les previne se velasen en primera oportunidad ; - fueron padrinos D. Francisco de la Luz y Da Rita de Za- yas Bazan : y lo firmé . Agustín Díaz . IV . , Real SociedadEconómica Tengo la satisfacción   de comunicar   á V. S. el nombramiento que en su primer junta general se sirvió hacer la Real Socie dad Económica en la digna persona de V. S. , para desempeñar la Vice - Dirección
 
 II I certify that by decree of this date, issued by the Provisor and Vicar General Governor of this Bishopric, by appointment of His Excellency the diocesan Bishop, Don José de la Luz y Caballero is appointed provisional Professor of Philosophy in the Royal and Conciliar Seminary College of this city, with assignment of the income and emoluments of the chair. Havana, the ninth of September of one thousand eight hundred and twenty-four.—Francisco Mª Castañeda .—Vice-Secretary.
 
@@ -5408,7 +5408,7 @@ I have the satisfaction of communicating to Your Lordship the appointment which 
 
 [p. 361]
 
-> en el bienio próximo entrante , pudiendo - concurrir V.S. á la última junta á tomar po . . sesión de su destino Dios g . áv . s . ms . añs . Habana y Diciembre 17 de 1834.- Antonio Zambrana . V. GobiernoPolítico y Militar DE LA HABANA . Con esta fecha digo al R. P. Rector de la Real y Pontificia Universidad de esta Ciu- dad lo que sigue :-Pasado al señor Te- niente Asesor general 1º el expediente ins- truído á conseqüencia de lo representado por D. José de la Luz para que se le con- ceda permiso para regentear una clase de Filosofia en esta ciudad , me ha consultado con fecha de 4 del actual lo siguiente.- Exmo . Sr.- En vista del informe favora- ble del Rmo . Sr. Rector y las circunstancias que concurren en D. José de la Luz profesor acreditado de Filosofía , puede servirse V. E. concederle su Superior permiso para esta- blecer en esta Ciudad una Clase de dicha ciencia con la precisa dependencia de la Universidad que indica dicho Sr. Rector y - la obligación de presentar dentro de un año la aprobación de S. M. salvo etc. Y ha- biendome conformado con este dictamen - lo traslado á V. S. R. para conocimiento y demás que corresponda      . Lo que transcri- bo á V. con el fin á que por su parte se -Sr -         - contrae . Dios g . á V. ms . as . Habana 7 de Setiembre de 1838. Joaquín de Ezpeleta . . D. José de la Luz . VI . Ministerio de Marina. DE COMERCIO Y GOBERNACION DE ULTRAMAR . deComercioy Seccion       Ultramar . Excmo . Sr.-S. M. la Reina Gobernadora se ha enterado de la instancia documenta- da del abogado D. José de la Luz que V. E.
+> ## en el bienio próximo entrante , pudiendo - concurrir V.S. á la última junta á tomar po . . sesión de su destino Dios g . áv . s . ms . ## añs . Habana y Diciembre 17 de 1834.- Antonio Zambrana . V. GobiernoPolítico y Militar ## DE LA HABANA  Con esta fecha digo al R. P. Rector de la Real y Pontificia Universidad de esta Ciu- dad lo que sigue :-Pasado al señor Te- niente Asesor general 1º el expediente ins- truído á conseqüencia de lo representado por D. José de la Luz para que se le con- ceda permiso para regentear una clase de Filosofia en esta ciudad , me ha consultado con fecha de 4 del actual lo siguiente.- Exmo . Sr.- En vista del informe favora- ble del Rmo . Sr. Rector y las circunstancias que concurren en D. José de la Luz profesor acreditado de Filosofía , puede servirse V. E. concederle su Superior permiso para esta- blecer en esta Ciudad una Clase de dicha ciencia con la precisa dependencia de la Universidad que indica dicho Sr. Rector y - la obligación de presentar dentro de un año la aprobación de S. M. salvo etc. Y ha- biendome conformado con este dictamen - lo traslado á V. S. R. para conocimiento y demás que corresponda      . Lo que transcri- bo á V. con el fin á que por su parte se -Sr -         - contrae . Dios g . á V. ms . as . Habana 7 de Setiembre de 1838. Joaquín de Ezpeleta . . D. José de la Luz . VI . Ministerio de Marina. DE COMERCIO Y GOBERNACION ## DE ULTRAMAR  deComercioy Seccion       Ultramar . Excmo . Sr.-S. M. la Reina Gobernadora se ha enterado de la instancia documenta- da del abogado D. José de la Luz que V. E.
 
 for the coming biennium, Your Lordship being able to attend the last meeting to take possession of your post.—God keep Your Lordship many years. Havana, December 17, 1834.—Antonio Zambrana.
 
@@ -5428,7 +5428,7 @@ Most Excellent Sir.—Her Majesty the Queen Governor has been informed of the do
 
 [p. 362]
 
-> remitió en carta de 31 de Octubre último , en solicitud de que se apruebe la gracia de permiso que V. E. le ha concedido para establecer en esa ciudad una cátedra par- ticular de Filosofia , dependiente de la Uni- versidad , pretendiendo al mismo tiempo se le amplíe para poder fundar un Colegio general de Estudios que comprendiendo en su instituto una escuela normal bajo las bases y principios que demanda su natu- raleza , quede sugeto á las reglas y forma- lidades prescritas para la Península en Real Orden de 12 de Agosto del año próximo pasado ; y S. M. al servirse aprobar el per- miso que concedió V. E. á dicho interesado para establecer su Cátedra particular de Filosofía , con dependencia de esa Univer- sidad , ha tenido á bien mandar que V. E. informe acerca de la nueva gracia que pre- - tende relativa á la fundación de un Colegio general de estudios . De Real Orden lo co- munico á V. E. para su inteligencia y efec- tos correspondientes .--Dios guarde á V. E. - muchos años . Madrid 31 de Enero de 1839 . -Chacón . Sr. Gobernador Capitán Gene- ral de la Isla de Cuba ." - Excmo , Sr. He dado cuenta á S. M. la Reina Gobernadora de la carta de V. E. de 31 de Julio último , número 235 en que cumpliendo con la última parte de la Real Orden de 31 de Enero del corriente año , informa V. E. sobre la pretensión de don José de la Luz relativa á que se le amplíe el permiso que le había sido concedido para establecer en esa ciudad una Cátedra de Filosofía , á poder fundar un Colegio , general de Estudios ; y enterada S. M. , al mismo tiempo que ha venido en conceder á Luz la gracia de que pueda poner el ex- ** Ministerio de Marina &.
+> remitió en carta de 31 de Octubre último , en solicitud de que se apruebe la gracia de ## permiso que V. E. le ha concedido para establecer en esa ciudad una cátedra par- ticular de Filosofia , dependiente de la Uni- versidad , pretendiendo al mismo tiempo se le amplíe para poder fundar un Colegio general de Estudios que comprendiendo en su instituto una escuela normal bajo las bases y principios que demanda su natu- raleza , quede sugeto á las reglas y forma- lidades prescritas para la Península en Real Orden de 12 de Agosto del año próximo pasado ; y S. M. al servirse aprobar el per- miso que concedió V. E. á dicho interesado para establecer su Cátedra particular de Filosofía , con dependencia de esa Univer- sidad , ha tenido á bien mandar que V. E. informe acerca de la nueva gracia que pre- - tende relativa á la fundación de un Colegio general de estudios . De Real Orden lo co- munico á V. E. para su inteligencia y efec- tos correspondientes .--Dios guarde á V. E. - muchos años . Madrid 31 de Enero de 1839 . -Chacón . Sr. Gobernador Capitán Gene- ral de la Isla de Cuba ." - Excmo , Sr. He dado cuenta á S. M. la Reina Gobernadora de la carta de V. E. de 31 de Julio último , número 235 en que cumpliendo con la última parte de la Real Orden de 31 de Enero del corriente año , informa V. E. sobre la pretensión de don José de la Luz relativa á que se le amplíe el permiso que le había sido concedido para establecer en esa ciudad una Cátedra de Filosofía , á poder fundar un Colegio , general de Estudios ; y enterada S. M. , al mismo tiempo que ha venido en conceder á Luz la gracia de que pueda poner el ex- ** Ministerio de Marina &.
 
 forwarded in a letter of the 31st of October last, requesting that approval be given to the grant of permission which Your Excellency has made him to establish in that city a private chair of Philosophy, dependent on the University, asking at the same time that it be extended so that he may found a general College of Studies which, comprising within its institution a normal school on the bases and principles its nature demands, shall be subject to the rules and formalities prescribed for the Peninsula in the Royal Order of the 12th of August of last year; and Her Majesty, in being pleased to approve the permission which Your Excellency granted the said party to establish his private Chair of Philosophy, dependent on that University, has seen fit to order that Your Excellency report on the new grant he seeks relating to the foundation of a general College of studies.— By Royal Order I communicate it to Your Excellency for your information and the corresponding effects.—God keep Your Excellency many years. Madrid, 31 January 1839.—Chacón.—The Governor Captain General of the Island of Cuba.”
 
@@ -5442,11 +5442,11 @@ Most Excellent Sir.—I have reported to Her Majesty the Queen Governor the lett
 
 [p. 363]
 
-> presado Colegio con la condición de no en- señar en él facultades mayores , y la de quedar sujeto á lo que sobre instrucción pública se acuerde en las leyes especiales que han de regir en la Isla , se ha servido resolver , conforme con el dictámen de V. E. que dicho Colegio esté bajo la inspección inmediata de ese Gobierno , pudiendo V. E. , cuando lo tenga por conveniente , nombrar visitadores para que se enteren de su es- tado y de la enseñanza que en él se propor- cione , quienes darán cuenta á V. E. de cuanto observasen para su conocimiento y gobierno ; en el concepto de que si por el resultado de las noticias que V. E. adquie- ra creyese conveniente no deber continuar dicho establecimiento , en uso de las facul- tades que las leyes le conceden , lo mande cerrar desde luego , sin necesidad de ul- teriores gestiones , trámites ó consultas . De : - Real Order lo comunico á V. E. para su - inteligencia y demás efectos . Dios guarde á V. E. muchos años . Madrid 26 de Sep- tiembre de 1839.-Sr. Gobernador Capitán General de la Isia de Cuba . VII . GobiernoPolítico y Militar DE LA HABANA . Para una de las plazas vacantes de vo- cales suplentes de la Junta de población , he tenido á bien nombrar á V. , esperando aceptará un encargo que el gobierno con- fiere á personas que merecen su confian- - - za , y son capaces de desempeñar las atri- buciones de la Corporación . Dios guarde - - á V. muchos años . Habana 4 de Marzo de 1841. El Príncipe de Anglona , Marqués de Javalquinto . Sr . D. José de la Luz Ca- ballero .
+> presado Colegio con la condición de no en- ## señar en él facultades mayores , y la de ## quedar sujeto á lo que sobre instrucción pública se acuerde en las leyes especiales que han de regir en la Isla , se ha servido resolver , conforme con el dictámen de V. E. que dicho Colegio esté bajo la inspección inmediata de ese Gobierno , pudiendo V. E. , cuando lo tenga por conveniente , nombrar visitadores para que se enteren de su es- tado y de la enseñanza que en él se propor- cione , quienes darán cuenta á V. E. de cuanto observasen para su conocimiento y gobierno ; en el concepto de que si por el resultado de las noticias que V. E. adquie- ra creyese conveniente no deber continuar dicho establecimiento , en uso de las facul- tades que las leyes le conceden , lo mande cerrar desde luego , sin necesidad de ul- teriores gestiones , trámites ó consultas . De : - Real Order lo comunico á V. E. para su - inteligencia y demás efectos . Dios guarde á V. E. muchos años . Madrid 26 de Sep- tiembre de 1839.-Sr. Gobernador Capitán General de la Isia de Cuba . VII . GobiernoPolítico y Militar ## DE LA HABANA  Para una de las plazas vacantes de vo- cales suplentes de la Junta de población , he tenido á bien nombrar á V. , esperando aceptará un encargo que el gobierno con- fiere á personas que merecen su confian- - - za , y son capaces de desempeñar las atri- buciones de la Corporación . Dios guarde - - á V. muchos años . Habana 4 de Marzo de 1841. El Príncipe de Anglona , Marqués de Javalquinto . Sr . D. José de la Luz Ca- ballero .
 
 College, on condition of not teaching the higher faculties in it, and of remaining subject to whatever may be enacted on public instruction in the special laws that are to govern in the Island, has been pleased to resolve, in conformity with the opinion of Your Excellency, that the said College be under the immediate inspection of that Government, Your Excellency being able, whenever you think fit, to name visitors to inform themselves of its state and of the teaching given in it, who shall give account to Your Excellency of all they observe, for your information and guidance; on the understanding that if, as a result of the information Your Excellency acquires, you should think it advisable that the said establishment should not continue, you may, in use of the powers which the laws grant you, order it closed at once, without need of further proceedings, formalities or consultations. By Royal Order I communicate it to Your Excellency for your information and other effects.—God keep Your Excellency many years.—Madrid, 26 September 1839.— The Governor Captain General of the Island of Cuba.
 
-VII.
+## VII
 
 Political and Military Government OF HAVANA.
 
@@ -5454,11 +5454,11 @@ For one of the vacant places of substitute members of the Board of Population, I
 
 [p. 364]
 
-> VIII . REAL ACADEMIA DE BUENAS LETRAS DE BARCELONA . Et Rege et Lege . CERTIFICO yo el infrascrito , Secretario de la REAL ACADE- MIA DE BUENAS LETRAS DE BARCELONA , que en la Jun- ta celebrada el día veinte y nueve de Enero de este año , fué admitido Socio Correspondiente D. José de la Luz Caballero , y para que conste , y le sirva de Título doy la presente que firmo en Barcelona á diez de -                 .- Marzo de mil ochocientos cuarenta y uno.-V. . Joaquín Rey Presidente Secretario , - B.- Ramón Muns . Socio IX . -Mr . Turabull ejercía en la Habana los cargos de Con-sul de S. M. B. y Superintendente de africanos libertos , este último creado á virtud de los tratados que celebraron los gobiernos de España é Inglaterra en los años de 1817 у 1835 , con la mira de abolir efectiva y realmente el tráfico de esclavos africanos . El agente inglés cumplía su encar-go con teson , estaba siempre alerta y asediaba con sus recla-maciones al Capitán General , que lo era entónces D.     Jeró-nimo Valdés . El Cónsul inglés era un estorbo demasiado grande para tautos hombres interesados en que continuase el tráfico de esclavos y fuesen letra muerta los tratados con Inglaterra ; por eso se comprende que terminara el general Valdés el despacho en que participaba al gobierno de la Metrópoli la insubordinación  ......  de unos cuantos negros trabajado-res ......, y por  más  que estaba persuadido " de que este hecho era enteramente aislado , " espresando la " urgente necesidad " de lanzar de la isla al Cónsul británico . Turn-bull era pues , objeto del odio en aquella infeliz sociedad , y
+> ## VIII  ## REAL ACADEMIA DE BUENAS LETRAS DE BARCELONA  Et Rege et Lege . CERTIFICO yo el infrascrito , Secretario de la REAL ACADE- MIA DE BUENAS LETRAS DE BARCELONA , que en la Jun- ta celebrada el día veinte y nueve de Enero de este año , fué admitido Socio Correspondiente D. José de la Luz Caballero , y para que conste , y le sirva de Título doy la presente que firmo en Barcelona á diez de -                 .- Marzo de mil ochocientos cuarenta y uno.-V. . Joaquín Rey Presidente Secretario , - B.- Ramón Muns . Socio IX . -Mr . Turabull ejercía en la Habana los cargos de Con-sul de S. M. B. y Superintendente de africanos libertos , este último creado á virtud de los tratados que celebraron los gobiernos de España é Inglaterra en los años de 1817 у 1835 , con la mira de abolir efectiva y realmente el tráfico de esclavos africanos . El agente inglés cumplía su encar-go con teson , estaba siempre alerta y asediaba con sus recla-maciones al Capitán General , que lo era entónces D.     Jeró-nimo Valdés . El Cónsul inglés era un estorbo demasiado grande para tautos hombres interesados en que continuase el tráfico de esclavos y fuesen letra muerta los tratados con Inglaterra ; por eso se comprende que terminara el general Valdés el despacho en que participaba al gobierno de la Metrópoli la insubordinación  ......  de unos cuantos negros trabajado-res ......, y por  más  que estaba persuadido " de que este hecho era enteramente aislado , " espresando la " urgente necesidad " de lanzar de la isla al Cónsul británico . Turn-bull era pues , objeto del odio en aquella infeliz sociedad , y
 
-VIII.
+## VIII
 
-ROYAL ACADEMY OF BELLES-LETTRES OF BARCELONA.
+## ROYAL ACADEMY OF BELLES-LETTRES OF BARCELONA
 
 Et Rege et Lege. [By King and by Law]
 
@@ -5512,7 +5512,7 @@ P., whether he does not remember having gone again to Mr. Turnbull’s house in 
 
 [p. 367]
 
-> OBRAS DE DON JOSÉ DE LA LUZ .             367. -. verificó acompañado de un joven inglés , expresando así mismo el objeto . C , que nunca , ni solo ni acompañado , durante el tiempo a que se contrae la pregunta . - P. , si tampoco tiene presente haber hecho alguna entre-ga de dinero á Mr. Turnbull , y con qué objeto . C. , que ja-más en su vida ni á Mr. Turnbull ni a nadie de este mundo , ha entregado cantidades de dinero . P. , si tiene presente haber conferenciado con alguna per-sona acerca de la posición ventajosa en que se halla el cas-tillo Número 4.-C. , que jamás ha hablado de castillos . P. , si ha conocido en esta capital al pardo extranjero lla-mado Luis Gigaut . -C     , que en estos días , á su regreso de Francia , es la primera vez que lo ha oido nombrar . P. , si durante el gobierno del Excmo . Sr. D. Gerónimo Val-dés ha llevado relaciones íntimas de amistad con el Dr. don Santiago Bombalier , Ldo . D. Manuel Martinez Serrano , don Domingo del Monte , D. Juan de Dios Corona y demás indi-víduos que se nombran en esta actuación , que para la debi-da inteligencia del declarante se le indican por el Fiscal.- C. , que conoce al Dr. Bombalier ; que por muchos años ha llevado relaciones de amistad con los Ldos . Manuel Marti-nez Serrano y D. Domingo del Monte , y que respecto á las demás personas iudicadas , unas conoce y otras no , sin con-traerse á épocas determinadas ; pero de seguro no ha esta-do en contacto con ellas durante el gobierno del Sr. Valdés . P. , si con anterioridad habló el declarante con el Ldo . don Domingo del Monte y demás indivíduos que se le han indi-cado , sobre particulares relativos al proyecto de emancipa-ción absoluta de la esclavitud en esta Isla.-C. , que nunca . P. , si ha llegado á su conocimiento que algunas personas notables del país hayan influído de acuerdo con Mr. David - Turnbull , para que se llevase á efecto el referido plan de emancipación y en qué términos . C. , que jamás . P. , si ha llegado á su noticia que ciertas personas mez- -cladas en el indicado proyecto hayan influído fuera del país para su realización . C. que jamás . P. , si tampoco haya podido comprender el objeto y fin que hayan tenido ciertos movimientos que se advirtieron en las fincas del campo á fines del año próximo anterior y -C principio del actual .      , que hallándose en Europa ála sa-zón no puede determinar el objeto y fin de tales movimien-tos : allí llegaron las primeras noticias como alzamientos parciales de algunas fincas , y por consiguiente de todos
+> ## OBRAS DE DON JOSÉ DE LA LUZ .             367 -. verificó acompañado de un joven inglés , expresando así mismo el objeto . C , que nunca , ni solo ni acompañado , durante el tiempo a que se contrae la pregunta . - P. , si tampoco tiene presente haber hecho alguna entre-ga de dinero á Mr. Turnbull , y con qué objeto . C. , que ja-más en su vida ni á Mr. Turnbull ni a nadie de este mundo , ha entregado cantidades de dinero . P. , si tiene presente haber conferenciado con alguna per-sona acerca de la posición ventajosa en que se halla el cas-tillo Número 4.-C. , que jamás ha hablado de castillos . P. , si ha conocido en esta capital al pardo extranjero lla-mado Luis Gigaut . -C     , que en estos días , á su regreso de Francia , es la primera vez que lo ha oido nombrar . P. , si durante el gobierno del Excmo . Sr. D. Gerónimo Val-dés ha llevado relaciones íntimas de amistad con el Dr. don Santiago Bombalier , Ldo . D. Manuel Martinez Serrano , don Domingo del Monte , D. Juan de Dios Corona y demás indi-víduos que se nombran en esta actuación , que para la debi-da inteligencia del declarante se le indican por el Fiscal.- C. , que conoce al Dr. Bombalier ; que por muchos años ha llevado relaciones de amistad con los Ldos . Manuel Marti-nez Serrano y D. Domingo del Monte , y que respecto á las demás personas iudicadas , unas conoce y otras no , sin con-traerse á épocas determinadas ; pero de seguro no ha esta-do en contacto con ellas durante el gobierno del Sr. Valdés . P. , si con anterioridad habló el declarante con el Ldo . don Domingo del Monte y demás indivíduos que se le han indi-cado , sobre particulares relativos al proyecto de emancipa-ción absoluta de la esclavitud en esta Isla.-C. , que nunca . P. , si ha llegado á su conocimiento que algunas personas notables del país hayan influído de acuerdo con Mr. David - Turnbull , para que se llevase á efecto el referido plan de emancipación y en qué términos . C. , que jamás . P. , si ha llegado á su noticia que ciertas personas mez- -cladas en el indicado proyecto hayan influído fuera del país para su realización . C. que jamás . P. , si tampoco haya podido comprender el objeto y fin que hayan tenido ciertos movimientos que se advirtieron en las fincas del campo á fines del año próximo anterior y -C principio del actual .      , que hallándose en Europa ála sa-zón no puede determinar el objeto y fin de tales movimien-tos : allí llegaron las primeras noticias como alzamientos parciales de algunas fincas , y por consiguiente de todos
 
 made it accompanied by a young Englishman, stating likewise the object. —C., that never, neither alone nor accompanied, during the time to which the question is confined.
 
@@ -5634,7 +5634,7 @@ At this point the Prosecutor ordered the proceeding suspended, to be continued w
 
 [p. 373]
 
-> CONFESIÓN   DE D. JOSÉ DE LA LUZ CABALLERO : JUNIO   10 DE 1845 . P. , habiéndole leído la declaración instructiva que tiene ministrada en esta causa y obra á fojas 1320 , si es la mis-ma que prestó ; si se afirma ó ratifica en su contenido , si tiene algo que añadir ó quitar , si la firma y rúbrica con que está autorizada es de su puño y letra , y quiere se le tenga en parte de esta su confesión .--Dijo , que cuanto se le ha leído es lo mismo que tiene declarado , que se afirma y ratifica nuevamente en su contenido , sin tener que añadir , ni quitar , reconociendo por suya la firma que la valoriza , y por lo tanto quiere se le tenga por parte de esta su con-fesión . Se le hace cargo de la complicidad que aparece de autos contra el confesante en el proyecto fraguado por Mr. David Turnbull , ex- Cónsul de S. M. B. en esta Isla por el que tra-tó de llevar á cabo la emancipación de la esclavitud .--Dijo , que á toda esa barahunda de sugestiones , imposturas y contradicciones que se advierte en la declaración del more-no Miguel Flores ( que acaba de leérsele al confesante ) dá por único descargo , se le responda : cuando ? - P. , si con el descargo que ha dado se considera negar el que se le ha hecho . Dijo . que sí . Reconvenido , como niega el cargo que se le hace , cuando ha visto sus acusaciones , por la lectura que se le ha dado de ellas , de la declaración de Miguel Flores , á fojas 278 , у lo expuesto por el pardo Gabriel de la Concepción Valdés , á fojas 814 ; hechos que mirados con su instructiva á la vis-ta, tienen alguna concordancia , pues tiene dicho visitaba en París á D. Domingo del Monte , cuyas opiniones están pa-tentes , pues por ellas fué expatriado ó expulsado de la Isla; y   en esta Capital á Mr. Turnbull , y aunque esto no sea su-ficiente , dá la casualidad que este Sr. , tanto en la época de su Consulado , cuanto antes y después , ha demostrado cla-ramente y á la faz de todos sus ideas de emancipación , lla-mando la atención en estas circunstancias el oficio que certificado obra á fojas 667 , el cual es producción del con-fesante , reprochando ó rebatiendo la idea de algunos socios , en la de Amigos del País , que viendo y considerando no era compatible estuviere Turnbull asociado con ellos cuando maquinaba contra él , pidierou su expulsión : en cuya vir-tud se le amonesta sea franco y explícito manifestando
+> CONFESIÓN   DE D. JOSÉ DE LA LUZ CABALLERO : ## JUNIO   10 DE 1845  P. , habiéndole leído la declaración instructiva que tiene ministrada en esta causa y obra á fojas 1320 , si es la mis-ma que prestó ; si se afirma ó ratifica en su contenido , si tiene algo que añadir ó quitar , si la firma y rúbrica con que está autorizada es de su puño y letra , y quiere se le tenga en parte de esta su confesión .--Dijo , que cuanto se le ha leído es lo mismo que tiene declarado , que se afirma y ratifica nuevamente en su contenido , sin tener que añadir , ni quitar , reconociendo por suya la firma que la valoriza , y por lo tanto quiere se le tenga por parte de esta su con-fesión . Se le hace cargo de la complicidad que aparece de autos contra el confesante en el proyecto fraguado por Mr. David Turnbull , ex- Cónsul de S. M. B. en esta Isla por el que tra-tó de llevar á cabo la emancipación de la esclavitud .--Dijo , que á toda esa barahunda de sugestiones , imposturas y contradicciones que se advierte en la declaración del more-no Miguel Flores ( que acaba de leérsele al confesante ) dá por único descargo , se le responda : cuando ? - P. , si con el descargo que ha dado se considera negar el que se le ha hecho . Dijo . que sí . Reconvenido , como niega el cargo que se le hace , cuando ha visto sus acusaciones , por la lectura que se le ha dado de ellas , de la declaración de Miguel Flores , á fojas 278 , у lo expuesto por el pardo Gabriel de la Concepción Valdés , á fojas 814 ; hechos que mirados con su instructiva á la vis-ta, tienen alguna concordancia , pues tiene dicho visitaba en París á D. Domingo del Monte , cuyas opiniones están pa-tentes , pues por ellas fué expatriado ó expulsado de la Isla; y   en esta Capital á Mr. Turnbull , y aunque esto no sea su-ficiente , dá la casualidad que este Sr. , tanto en la época de su Consulado , cuanto antes y después , ha demostrado cla-ramente y á la faz de todos sus ideas de emancipación , lla-mando la atención en estas circunstancias el oficio que certificado obra á fojas 667 , el cual es producción del con-fesante , reprochando ó rebatiendo la idea de algunos socios , en la de Amigos del País , que viendo y considerando no era compatible estuviere Turnbull asociado con ellos cuando maquinaba contra él , pidierou su expulsión : en cuya vir-tud se le amonesta sea franco y explícito manifestando
 
 C onfession of D on J osé de la L uz C aballero :
 
@@ -5650,7 +5650,7 @@ Pressed as to how he denies the charge made against him, when he has seen the ac
 
 [p. 374]
 
-> cuanto sepa sobre el particular . Dijo , que en el mismo cargo vá casi envuelto su descargo ; y contrayéndose á los particulares que abraza ; responde : 1º que una cosa es visi-tar á un amigo y compatriota , y otra conspirar contra el país : 2º que en lo que han estado patentes para el confe-sante las opiniones de D. Domingo del Monte , es en su opo-sición á la trata de negros, más nunca á la emancipación de la esclavitud : 3º respecto á las visitas del confesante á Mr. Turnbull , se refiere á lo que tiene declarado : 4º en el oficio se trataba de hacer cumplir el reglamento de la So-ciedad y en todo caso la admisión ó expulsión de Mr. Turn-bull , era materia opinable , y por ningún motivo decidida en pró ó en contra puede constituir un cargo ; 5º y último , respecto á la mención (por cierto honorifica ) que del con-fesante hace Plácido en la exposición que se le ha leído , nada tiene que decir sino que jamás ha estado en semejan-te finca ; no contestando á la calificación que se hace de sus pobres conocimientos , porque ni le pertenece , ni es cargo . P   , si está convencido que conspirar    es delito , y que la ley castiga á esta clase de delincuentes con todo rigor         ..- Dijo , que lo está         ........ Antonio Lara .--Antonio Llorens . -José de la Luz .-- José Fernández Cotá . * ** DEFENSA DE LUZ CABALLERO . SEÑORES       PRESIDENTE Y VOCALES : D. Andrés María de Foxá , Teniente de la 2ª compañía de Voluntarios de Mérito , y defensor nombrado por el Ldo . don José de la Luz Caballero , cumpliendo su encargo , tiene el honor de exponer á V. S. S. que : - D. José de la Luz Caballero libra su defensa en el mérito -de los autos y en la justificación del Tribunal . Habana 15 de Octubre de 1845. Andrés María de Foxá . XI . ISLA DE CUBA GobiernoSuperior Civil. Conformándome con el parecer de la Inspección de Estudios y oidos los infor- mes que además he creído oportuno , acer- ca de los particulares á que se contrae
+> cuanto sepa sobre el particular . Dijo , que en el mismo cargo vá casi envuelto su descargo ; y contrayéndose á los particulares que abraza ; responde : 1º que una cosa es visi-tar á un amigo y compatriota , y otra conspirar contra el país : 2º que en lo que han estado patentes para el confe-sante las opiniones de D. Domingo del Monte , es en su opo-sición á la trata de negros, más nunca á la emancipación de la esclavitud : 3º respecto á las visitas del confesante á Mr. Turnbull , se refiere á lo que tiene declarado : 4º en el oficio se trataba de hacer cumplir el reglamento de la So-ciedad y en todo caso la admisión ó expulsión de Mr. Turn-bull , era materia opinable , y por ningún motivo decidida en pró ó en contra puede constituir un cargo ; 5º y último , respecto á la mención (por cierto honorifica ) que del con-fesante hace Plácido en la exposición que se le ha leído , nada tiene que decir sino que jamás ha estado en semejan-te finca ; no contestando á la calificación que se hace de sus pobres conocimientos , porque ni le pertenece , ni es cargo . P   , si está convencido que conspirar    es delito , y que la ley castiga á esta clase de delincuentes con todo rigor         ..- Dijo , que lo está         ........ Antonio Lara .--Antonio Llorens . -José de la Luz .-- José Fernández Cotá . * ** ## DEFENSA DE LUZ CABALLERO  SEÑORES       PRESIDENTE Y VOCALES : D. Andrés María de Foxá , Teniente de la 2ª compañía de Voluntarios de Mérito , y defensor nombrado por el Ldo . don José de la Luz Caballero , cumpliendo su encargo , tiene el honor de exponer á V. S. S. que : - D. José de la Luz Caballero libra su defensa en el mérito -de los autos y en la justificación del Tribunal . Habana 15 de Octubre de 1845. Andrés María de Foxá . XI . ISLA DE CUBA GobiernoSuperior Civil. Conformándome con el parecer de la Inspección de Estudios y oidos los infor- mes que además he creído oportuno , acer- ca de los particulares á que se contrae
 
 all he knows on the matter.—He said that his discharge comes almost wrapped up in the charge itself; and confining himself to the particulars it embraces, he answers: 1st, that it is one thing to visit a friend and fellow countryman, and another to conspire against the country: 2nd, that where the opinions of Don Domingo del Monte have been manifest to the confessant is in his opposition to the slave trade, but never to the emancipation of the slaves: 3rd, as regards the confessant’s visits to Mr. Turnbull, he refers to what he has declared: 4th, the official letter dealt with having the regulations of the Society observed, and in any case the admission or expulsion of Mr. Turnbull was a matter of opinion, and, decided for or against, can by no means constitute a charge; 5th and last, as regards the mention (an honorable one, to be sure) that Plácido makes of the confessant in the statement which has been read to him, he has nothing to say except that he has never been on any such estate; not answering the description given of his poor learning, since that is neither his business nor a charge.
 
@@ -5660,7 +5660,7 @@ P., whether he is convinced that to conspire is a crime, and that the law punish
 
 **
 
-DEFENSE OF LUZ CABALLERO.
+## DEFENSE OF LUZ CABALLERO
 
 M r . P resident and M embers of the C ourt :
 
@@ -5674,7 +5674,7 @@ In conformity with the opinion of the Inspectorate of Studies, and having heard 
 
 [p. 375]
 
-> V. en su instancia de diez del actual , he venido en otorgarle el permiso que solici- ta para establecer bajo su dirección un Colegio de instrucción primaria y secun- daria ; dependiente en los respectivos ra- mos de enseñanza de la Comisión provin- cial de instrucción pública y de la Univer- sidad , conforme al espíritu y letra de las Reates Ordenes de 31 de Enero y 26 de - Septiembre de 1839 , y del Plan General de Estudios que rige en la Isla. Lo que digo á V. para su inteligencia y efectos consiguientes .-Dios guarde á V. muchos años .-- Habana 15 de Febrero de 1848.- Sr. D. José de la Luz Caballero . Institutode 2ª Enseñanza y de estudios de aplicación DE LA HABANA . Transcurrido con exceso el plazo de quince días que otorgó á V. el Excmo . é Ilus- trísimo Sr. Director de Administración en 8 de Abril último , y que le comuniqué el 12 , para la remisión del cuadro de profeso- res de ese Colegio , no figurando más que los autorizados por el Gobierno para pro- fesar el Magisterio de la 2ª enseñanza , vencida también la prórroga que le conce- dí en 28 del mismo mes , y en uso de las atribuciones de que me hallo revestido , he resuelto que desde hoy queden suspendidas las clases de 2ª enseñanza en ese Colegio , medida que me es por demás sensible pero á la que se ha hecho V. acreedor . De esta comunicación se servirá V. acu- sarme recibo dentro del término de terce- ro día , con espresión de haber notificado la providencia á los padres , tutores ó en- cargados de los alumnos , para que puedan trasladar las matrículas de los interesados ,
+> ## V. en su instancia de diez del actual , he venido en otorgarle el permiso que solici- ta para establecer bajo su dirección un Colegio de instrucción primaria y secun- daria ; dependiente en los respectivos ra- mos de enseñanza de la Comisión provin- cial de instrucción pública y de la Univer- sidad , conforme al espíritu y letra de las Reates Ordenes de 31 de Enero y 26 de - Septiembre de 1839 , y del Plan General de Estudios que rige en la Isla. Lo que digo á V. para su inteligencia y efectos consiguientes .-Dios guarde á V. muchos años .-- Habana 15 de Febrero de 1848.- Sr. D. José de la Luz Caballero . Institutode 2ª Enseñanza y de estudios de aplicación ## DE LA HABANA  Transcurrido con exceso el plazo de quince días que otorgó á V. el Excmo . é Ilus- trísimo Sr. Director de Administración en 8 de Abril último , y que le comuniqué el 12 , para la remisión del cuadro de profeso- res de ese Colegio , no figurando más que los autorizados por el Gobierno para pro- fesar el Magisterio de la 2ª enseñanza , vencida también la prórroga que le conce- dí en 28 del mismo mes , y en uso de las atribuciones de que me hallo revestido , he resuelto que desde hoy queden suspendidas las clases de 2ª enseñanza en ese Colegio , medida que me es por demás sensible pero á la que se ha hecho V. acreedor . De esta comunicación se servirá V. acu- sarme recibo dentro del término de terce- ro día , con espresión de haber notificado la providencia á los padres , tutores ó en- cargados de los alumnos , para que puedan trasladar las matrículas de los interesados ,
 
 you refer in your petition of the tenth instant, I have resolved to grant you the permission you request to establish under your direction a College of primary and secondary instruction; dependent, in the respective branches of teaching, on the provincial Commission of public instruction and on the University, in accordance with the spirit and letter of the Royal Orders of 31 January and 26 September 1839, and of the General Plan of Studies in force in the Island.—Which I say to you for your information and the consequent effects.—God keep you many years.—Havana, 15 February 1848. —Don José de la Luz Caballero.
 
@@ -5690,11 +5690,11 @@ You will be pleased to acknowledge receipt of this communication to me within th
 
 [p. 376]
 
-> - y apercibido en caso contrario   de lo que lugar Dios guarde á V. muchos -- - haya años . Habana 5 de Mayo de 1869.      José D. Mantilla . Sr. D. José M. Zayas . Di- rector del Colegio El Salvador . XII . Secretaríade Gobierno . Seccionde Gobierno.        Teniendo en consideración las circuns- tancias de V. S. , y muy en particular la asiduidad y el buen resultado con que se dedicó siempre á la instrucción de la ju- ventud , he tenido por conveniente nom- brarle vocal de la Excma . Inspección de Estudios en calidad de interino , y mientras S. M. á quien se eleva la correspondiente - consulta resuelva lo que estime oportuno - - acerca del nombramiento definitivo . Dios guarde á V. S. muchos años    .  Habana 30 de Diciembre de 1858. José de la Concha . -Sr    . D. José de la Luz Caballero . Excmo . Sr  ..-Honrado tan expontánea- mente por V. E. con el nombramiento de vocal interino de la Excma . Inspección de Estudios , me es harto doloroso ( porque amo la patria y el trabajo ) no poder co- rresponder á tal confianza como ella me- rece y yo quisiera ; privándome mis noto- rios padecimientos de la posibilidad de la asistencia , y con ello de ser un miembro activo y digno de esa respetable corpora- ción . Esta circunstancia en manera algu- na disminuye la disposición á contribuir con la humilde cuota de mi experiencia y de mi celo ; ni mengua en lo más leve el al- - to aprecio con que miro la distinción que se me ha dispensado . Dios guarde á - V. E. muchos años .-- Habana 2 de Enero de 1859.     Excmo . Sr.--José de la Luz.- Excmo . Sr. Gobernador Superior Civil .
+> - y apercibido en caso contrario   de lo que lugar Dios guarde á V. muchos -- - ## haya años . Habana 5 de Mayo de 1869.      José ## D. Mantilla . Sr. D. José M. Zayas . Di- rector del Colegio El Salvador . XII . Secretaríade Gobierno . Seccionde Gobierno.        Teniendo en consideración las circuns- tancias de V. S. , y muy en particular la asiduidad y el buen resultado con que se dedicó siempre á la instrucción de la ju- ventud , he tenido por conveniente nom- brarle vocal de la Excma . Inspección de Estudios en calidad de interino , y mientras S. M. á quien se eleva la correspondiente - consulta resuelva lo que estime oportuno - - acerca del nombramiento definitivo . Dios guarde á V. S. muchos años    .  Habana 30 de Diciembre de 1858. José de la Concha . -Sr    . D. José de la Luz Caballero . Excmo . Sr  ..-Honrado tan expontánea- mente por V. E. con el nombramiento de vocal interino de la Excma . Inspección de Estudios , me es harto doloroso ( porque amo la patria y el trabajo ) no poder co- rresponder á tal confianza como ella me- rece y yo quisiera ; privándome mis noto- rios padecimientos de la posibilidad de la asistencia , y con ello de ser un miembro activo y digno de esa respetable corpora- ción . Esta circunstancia en manera algu- na disminuye la disposición á contribuir con la humilde cuota de mi experiencia y de mi celo ; ni mengua en lo más leve el al- - to aprecio con que miro la distinción que se me ha dispensado . Dios guarde á - V. E. muchos años .-- Habana 2 de Enero de 1859.     Excmo . Sr.--José de la Luz.- Excmo . Sr. Gobernador Superior Civil .
 
 and being warned, should you fail to do so, of whatever may be proper.— God keep you many years.—Havana, 5 May 1869.—José Dº Mantilla.— Don José Mª Zayas.—Director of the College El Salvador.
 
-XII.
+## XII
 
 Secretariat of Government.
 
@@ -5710,9 +5710,9 @@ Most Excellent Sir.—Honored so spontaneously by Your Excellency with the appoi
 
 [p. 377]
 
-> XIII . PRESIDENCIA del   Excmo Ayuntamiento ,           . El Excmo Sr. Gobernador Capitán Ge- .                               y neral en vista del acta de elecciones de , del actual 1º                         se ha servido nombrar los , veinte    tres primeros de y               lista de los       la elegidos que obtuvieron más votos                                    ;   y siendo        uno de los comprendidos en V.   S. dicho número tengo      gusto de participár- - el selo para su conocimiento    satisfacción.-       y Dios guarde á muchos años V.         S. Haba-                 . na Enero 26 de 1860.- Antonio       de Leto-              L. na   .Sr. D. José de la Luz Caballero                            . Sobre manera obligado por          voto de               el mis conciudadanos no ménos que por  , y la aprobación del Excmo Sr. Gobernador          . Capitán General para        oficio de Capitu- ,             el lar tengo     pena de manifestar                                    E. la                                     á            la ,                                                      V. absoluta inposibilidad de toda asistencia                                , en que me ponen mis especiales cuanto notorias dolencias Este mismo inconve- . niente     expuse en Enero próximo pasado lo al antecesor de     E.      comunicarme S.        al                          el nombramiento de vocal para esta Inspec- ción de Estudios sintiendo entonces co- ; mo ahora no poder contribuir bajo este nuevo aspecto tan adorada               - servicio de una patria Dios guarde al muchos á         S. - - .                            V. años    Cerro 27 de Enero de 1860. José de      la . Luz    Excmo Sr. Gobernador Supe- .                  . rior Civil      . ** PRESIDENCIA del   Excmo Ayuntamiento .           . Enterado      Excmo Sr. Gobernador el                 .                           y Capitán General de     renuncia que ha he- la cho       del cargo de Regidor para que V.   S. fué nombrado en     de Enero       19 ha servido        ,    se
+> ## XIII  ## PRESIDENCIA del   Excmo Ayuntamiento ,           . ## El Excmo Sr. Gobernador Capitán Ge- .                               y neral en vista del acta de elecciones de , del actual 1º                         se ha servido nombrar los , veinte    tres primeros de y               lista de los       la elegidos que obtuvieron más votos                                    ;   y siendo        uno de los comprendidos en V.   S. dicho número tengo      gusto de participár- - el selo para su conocimiento    satisfacción.-       y Dios guarde á muchos años V.         S. Haba-                 . na Enero 26 de 1860.- Antonio       de Leto-              L. na   .Sr. D. José de la Luz Caballero                            . Sobre manera obligado por          voto de               el mis conciudadanos no ménos que por  , y la aprobación del Excmo Sr. Gobernador          . Capitán General para        oficio de Capitu- ,             el lar tengo     pena de manifestar                                    E. la                                     á            la ,                                                      V. absoluta inposibilidad de toda asistencia                                , en que me ponen mis especiales cuanto notorias dolencias Este mismo inconve- . niente     expuse en Enero próximo pasado lo al antecesor de     E.      comunicarme S.        al                          el nombramiento de vocal para esta Inspec- ción de Estudios sintiendo entonces co- ; mo ahora no poder contribuir bajo este nuevo aspecto tan adorada               - servicio de una patria Dios guarde al muchos á         S. - - .                            V. años    Cerro 27 de Enero de 1860. José de      la . Luz    Excmo Sr. Gobernador Supe- .                  . rior Civil      . ** PRESIDENCIA del   Excmo Ayuntamiento .           . Enterado      Excmo Sr. Gobernador el                 .                           y Capitán General de     renuncia que ha he- la cho       del cargo de Regidor para que V.   S. fué nombrado en     de Enero       19 ha servido        ,    se
 
-XIII. PRESIDENCY of the Most Excellent City Council.
+## XIII. PRESIDENCY of the Most Excellent City Council.
 
 His Excellency the Governor and Captain General, in view of the record of the elections of the 1st instant, has been pleased to appoint the first twenty-three on the list of those elected who obtained the most votes; and Your Lordship being one of those included in that number, I have the pleasure of informing you of it for your information and satisfaction.—God keep Your Lordship many years.—Havana, January 26, 1860.—Antonio L. de Letona.—Don José de la Luz Caballero.
 
@@ -5732,7 +5732,7 @@ His Excellency the Governor and Captain General, having been informed of the res
 
 [p. 378]
 
-> declararla sin lugar , en virtud de lo termi- nante del artículo 6º de la Ley de 27 de Ju- lio último : lo que participo á V. S. para su inteligencia y fines consiguientes    .  Dios guarde á V. S. muchos años. Habana y Febrero 16 de 1860.- Antonio L. de Le- tona . Sr. D. José de la Luz Caballero . Es la naturaleza , no la voluntad , quien me impide la entrada en el Ayuntamiento de la Habana .      Por eso juzgué ocioso aplicarme el artículo 8º de la Ley , é inapli- cable el 6º en que estriba la repulsa del Excmo Sr. Gobernador Capitán General . El caso es pues de mera observación , que podrá verificar el Gobierno como y cuando guste , en el concepto de que nunca fuí hombre para embozarme con vanos pre- - testos , ni cubrirme con otro manto que el - de la verdad . Dios guarde á V. S. muchos - años . Cerro y Febrero 19 de 1860. de la Luz . Excmo . Sr. Gobernador Su- perior Civil . José XIV Conservo una hoja de papel en la cual mi padre D. José María Zayas desde la habitación en que espiraba D. José de -                  -L–J la Luz , participaba á mi madre la aproximación del fatal desenlace con estas palabras : " Junio 22 1862 ser que cuando recibas esta , ya D. Pepe no exista . . puede . М.— y después , como si ya en marcha el mensajero se le hu-biese llamado para agregarlo , se lée un renglón escrito con pluma borrosa y pulso agitado que dice : " a las 74 ha falle-cido."   ( A. Z. ) XV . Queriendo dar un solemne testimonio de la consideración que merecieron siempre al Gobierno Superior de esta Isla , los méritos literarios y las virtudes públicas y privadas que distinguieron durante su vida al Sr. D José de la Luz y Ca-ballero , Vocal que fué de la Inspección de Estudios y Direc-tor del Colegio del Salvador del Cerro , he tenido por conve-niente disponer lo que sigue :
+> declararla sin lugar , en virtud de lo termi- nante del artículo 6º de la Ley de 27 de Ju- lio último : lo que participo á V. S. para su inteligencia y fines consiguientes    .  Dios ## guarde á V. S. muchos años. Habana y ## Febrero 16 de 1860.- Antonio L. de Le- tona . Sr. D. José de la Luz Caballero . Es la naturaleza , no la voluntad , quien me impide la entrada en el Ayuntamiento de la Habana .      Por eso juzgué ocioso aplicarme el artículo 8º de la Ley , é inapli- cable el 6º en que estriba la repulsa del Excmo Sr. Gobernador Capitán General . El caso es pues de mera observación , que podrá verificar el Gobierno como y cuando guste , en el concepto de que nunca fuí hombre para embozarme con vanos pre- - testos , ni cubrirme con otro manto que el - de la verdad . Dios guarde á V. S. muchos - años . Cerro y Febrero 19 de 1860. de la Luz . Excmo . Sr. Gobernador Su- perior Civil . José XIV Conservo una hoja de papel en la cual mi padre D. José María Zayas desde la habitación en que espiraba D. José de -                  -L–J la Luz , participaba á mi madre la aproximación del fatal desenlace con estas palabras : " Junio 22 1862 ser que cuando recibas esta , ya D. Pepe no exista . . puede . М.— y después , como si ya en marcha el mensajero se le hu-biese llamado para agregarlo , se lée un renglón escrito con pluma borrosa y pulso agitado que dice : " a las 74 ha falle-cido."   ( A. Z. ) XV . Queriendo dar un solemne testimonio de la consideración que merecieron siempre al Gobierno Superior de esta Isla , los méritos literarios y las virtudes públicas y privadas que distinguieron durante su vida al Sr. D José de la Luz y Ca-ballero , Vocal que fué de la Inspección de Estudios y Direc-tor del Colegio del Salvador del Cerro , he tenido por conve-niente disponer lo que sigue :
 
 to declare it inadmissible, by virtue of the express terms of article 6 of the Law of the 27th of July last: which I communicate to Your Lordship for your information and the consequent purposes.—God keep Your Lordship many years.—Havana, February 16, 1860.—Antonio L. de Letona.—Don José de la Luz Caballero.
 
@@ -5752,7 +5752,7 @@ Wishing to give a solemn testimony of the regard in which the Superior Governmen
 
 [p. 379]
 
-> 1. A la conducción de su cadáver hasta el Cementerio general , que debe verificarse , según disposición de los tes-tamentarios , en el día de hoy a las cinco de la tarde , con-currirá uno de mis ayudantes en el coche de gala de este Gobierno Capitanía General . 2. Se invitará para que asistan en cuerpo á la Real Universidad Literaria , la Real Academia de Ciencias Médi-cas , el Cuerpo de profesores de la Escuela General Prepara-toria , y la Real Sociedad Económica : todas estas Corpora-ciones asistirán con sus insignias , si estuvieren facultadas para usarlas , ó en riguroso trage de luto . 3. Se prevendrá á los Jefes ó Directores de los estable-cimientos de Instrucción pública dependientes del Gobierno que suspendan por tres días las enseñanzas , en señal de luto . - 4. Estas disposiciones se insertarán en la Gaceta oficial de esta Capital . Habana 23 de Junio de 1862. Francisco Serrano .' XVI . Cuando falleció D. José de la Luz era Cura de la parro-quia del Cerro el Presbítero D. Cristobal Suarez Caballero , su amigo y frecuente visitante . Tan luego como espiró Luz dispuso el Padre Suarez que las campanas de la parroquia doblaran cada media hora , y he oido muchas veces relatar , aunque siempre como rumor que no he comprobado , que por alguien se le indicó ser improcedente aquella demostra-ción tratándose de un mason , y aún se añadía que el cura , hombre de violento carácter , contestó al que le hizo la adver-tencia , que él mandaba en su parroquia , ó cosa por el estilo . Fuera ó no cierto el espresado rumor , lo que sí he escu-chado de los labios de mi padre , D. José María Zayas , mu-chas ocasiones , es que el Padre Suarez , temeroso de algun desman de la intransigencia en el momento del sepélio , ex-pidió la certificación parroquial requerida para efectuar la inhumación del cadáver , espresando que Luz había recibido " el Santo Sacramento de la Penitencia ," y así lo hizo cons-tar en el asiento del Libro de entierros correspondiente.- Agregaba mi padre que esto no debía hacerse público , por el daño que pudiera ocasionar al Presbítero Suarez . Según mis noticias este sacerdote ha fallecido hace poco en las Islas Canarias , de donde era oriundo , y esta circuns-tancia me mueve á referir lo que dejo dicho . Por lo demás nunca he creido que el punto tenga otro interés que el de restablecer la verdad de un suceso .    ( A. Z. )
+> 1. A la conducción de su cadáver hasta el Cementerio general , que debe verificarse , según disposición de los tes-tamentarios , en el día de hoy a las cinco de la tarde , con-currirá uno de mis ayudantes en el coche de gala de este Gobierno Capitanía General . 2. Se invitará para que asistan en cuerpo á la Real Universidad Literaria , la Real Academia de Ciencias Médi-cas , el Cuerpo de profesores de la Escuela General Prepara-toria , y la Real Sociedad Económica : todas estas Corpora-ciones asistirán con sus insignias , si estuvieren facultadas para usarlas , ó en riguroso trage de luto . 3. Se prevendrá á los Jefes ó Directores de los estable-cimientos de Instrucción pública dependientes del Gobierno que suspendan por tres días las enseñanzas , en señal de luto . - 4. Estas disposiciones se insertarán en la Gaceta oficial de esta Capital . Habana 23 de Junio de 1862. Francisco Serrano .' ## XVI  Cuando falleció D. José de la Luz era Cura de la parro-quia del Cerro el Presbítero D. Cristobal Suarez Caballero , su amigo y frecuente visitante . Tan luego como espiró Luz dispuso el Padre Suarez que las campanas de la parroquia doblaran cada media hora , y he oido muchas veces relatar , aunque siempre como rumor que no he comprobado , que por alguien se le indicó ser improcedente aquella demostra-ción tratándose de un mason , y aún se añadía que el cura , hombre de violento carácter , contestó al que le hizo la adver-tencia , que él mandaba en su parroquia , ó cosa por el estilo . Fuera ó no cierto el espresado rumor , lo que sí he escu-chado de los labios de mi padre , D. José María Zayas , mu-chas ocasiones , es que el Padre Suarez , temeroso de algun desman de la intransigencia en el momento del sepélio , ex-pidió la certificación parroquial requerida para efectuar la inhumación del cadáver , espresando que Luz había recibido " el Santo Sacramento de la Penitencia ," y así lo hizo cons-tar en el asiento del Libro de entierros correspondiente.- Agregaba mi padre que esto no debía hacerse público , por el daño que pudiera ocasionar al Presbítero Suarez . Según mis noticias este sacerdote ha fallecido hace poco en las Islas Canarias , de donde era oriundo , y esta circuns-tancia me mueve á referir lo que dejo dicho . Por lo demás nunca he creido que el punto tenga otro interés que el de restablecer la verdad de un suceso .    ( A. Z. )
 
 1st. At the conveying of his body to the General Cemetery, which is to take place, according to the arrangement of the executors, today at five in the afternoon, one of my aides-de-camp shall attend in the state carriage of this Government and Captaincy General.
 
@@ -5762,7 +5762,7 @@ Wishing to give a solemn testimony of the regard in which the Superior Governmen
 
 4th. These orders shall be inserted in the official Gazette of this Capital. —Havana, 23 June 1862.—Francisco Serrano.’
 
-XVI.
+## XVI
 
 When Don José de la Luz died, the Curate of the parish of the Cerro was the Presbyter Don Cristóbal Suárez Caballero, his friend and frequent visitor. As soon as Luz expired, Father Suárez ordered the bells of the parish to toll every half hour, and I have many times heard it related, though always as a rumor that I have not verified, that someone pointed out to him that such a demonstration was improper in the case of a Mason, and it was even added that the curate, a man of violent character, answered whoever gave him the warning that he was master in his own parish, or something to that effect.
 
@@ -5772,9 +5772,9 @@ According to my information this priest died a short while ago in the Canary Isl
 
 [p. 380]
 
-> XVII . - ( Carta de D. Gaspar Betancourt ( El Lugareño ) á D. José de la Luz . Febrero 29 de 1840 ) Allá va un paquete en lengua camagüeyana . En la sema-na entrante irá el segundo artículo del viaje " Trinidad ," en que le doy sus mordidas á los paisanitos , pero muy suaves . Solo le tiro una tenazada de caiman , de paso , á un Fraile que me encontré á bordo , franciscano , español , que me dijo que iba á abrir una clase de filosofía en Trinidad . Entra-mos en materia , y el hombre es un pobre fraile , y nada más ; figurese Vd. , cuando me dijo que no estaba acorde con algunas doctrinas filosóficas de Varela , y que conside-raba el latín como indispensable para estudiar filosofía .... * - ** (Carta del mismo al mismo . Marzo 29 de 1840. ) Pues volviendo al franciscano , verá Vd . , Pepe , que fraile tan descortés y desvergonzado . Yo no le dije en mi ar-tículo " Trinidad ," cosa que pueda ofender á criatura vi-viente : él ha cojido el rábano por las hojas ó la mona por la cola . En fin lea Vd . su ataque y mi contestación , y suelte Vd . la sentencia . Yo podría contestarle en otro estilo pero no quiero pendencias con frailes       ...... - Por su artículo se puede juzgar la leche que dará esa vaca frailesca algo , hombre ! .... . Digale XVIII . ( Carta de D. Félix Varela   á D. Manuel        González del Valle . -Octubre 22 de 1840. ) En muchas partes se enseña simultáneamente , ( la Física y la Lógica ) y si no estoy equivocado , aún nuestro D. José de la Luz lo practicó así , y acaso lo practica . Acuérdome que cuando me escribió que enseñaba la Física antes que la Lógica , le contesté que encontraba en ello una ventaja , y es que los estudiantes prefieren el estudio de la Física por ser más agradable , y así se les forma el gusto , enseñán-doles al mismo tiempo la Lógica sin que lo perciban . FIN DEL VOLUMEN PRIMERO .
+> ## XVII  - ( Carta de D. Gaspar Betancourt ( El Lugareño ) á D. José de ## la Luz . Febrero 29 de 1840 ) Allá va un paquete en lengua camagüeyana . En la sema-na entrante irá el segundo artículo del viaje " Trinidad ," en que le doy sus mordidas á los paisanitos , pero muy suaves . Solo le tiro una tenazada de caiman , de paso , á un Fraile que me encontré á bordo , franciscano , español , que me dijo que iba á abrir una clase de filosofía en Trinidad . Entra-mos en materia , y el hombre es un pobre fraile , y nada más ; figurese Vd. , cuando me dijo que no estaba acorde con algunas doctrinas filosóficas de Varela , y que conside-raba el latín como indispensable para estudiar filosofía .... * - ** (Carta del mismo al mismo . Marzo 29 de 1840. ) Pues volviendo al franciscano , verá Vd . , Pepe , que fraile tan descortés y desvergonzado . Yo no le dije en mi ar-tículo " Trinidad ," cosa que pueda ofender á criatura vi-viente : él ha cojido el rábano por las hojas ó la mona por la cola . En fin lea Vd . su ataque y mi contestación , y suelte Vd . la sentencia . Yo podría contestarle en otro estilo pero no quiero pendencias con frailes       ...... - Por su artículo se puede juzgar la leche que dará esa vaca frailesca algo , hombre ! .... . Digale ## XVIII  ( Carta de D. Félix Varela   á D. Manuel        González del Valle . -Octubre 22 de 1840. ) En muchas partes se enseña simultáneamente , ( la Física y la Lógica ) y si no estoy equivocado , aún nuestro D. José de la Luz lo practicó así , y acaso lo practica . Acuérdome que cuando me escribió que enseñaba la Física antes que la Lógica , le contesté que encontraba en ello una ventaja , y es que los estudiantes prefieren el estudio de la Física por ser más agradable , y así se les forma el gusto , enseñán-doles al mismo tiempo la Lógica sin que lo perciban . ## FIN DEL VOLUMEN PRIMERO 
 
-XVII.
+## XVII
 
 (Letter of Don Gaspar Betancourt (El Lugareño) to Don José de la Luz.— February 29, 1840.)
 
@@ -5788,7 +5788,7 @@ XVIII. (Letter of Don Félix Varela to Don Manuel González del Valle.—October
 
 In many places they are taught simultaneously (Physics and Logic), and if I am not mistaken, even our Don José de la Luz did so, and perhaps does so still. I remember that when he wrote to me that he was teaching Physics before Logic, I answered him that I found one advantage in it, namely that the students prefer the study of Physics as being more agreeable, and in this way their taste is formed, while they are taught Logic at the same time without perceiving it.
 
-END OF THE FIRST VOLUME.
+## END OF THE FIRST VOLUME
 
 ** (Letter of the same to the same.—March 29, 1840.)
 
@@ -5814,7 +5814,7 @@ Morality,” published in the 3rd issue of the “Plantel”   . . . 137
 
 [p. 382]
 
-> II . Contestación al artículo del suscrip- tor al "Plantel" inserto en la " Aurora de - Matanzas " , de 30 de Noviembre último . 138 III . Fair - play al autor del artículo " Mo- ral Religiosa " , inserto en la 3ª entrega - del " Plantel " IV . Aguinaldo de Fair - play para el Sr. 144 -                              - suscriptor al " Plantel " ( en Matanzas ) .. 147 -Filosofia . Cuestión de método             .Polémica con "Rumilio " y " El Dómine " de Puerto - Principe . - I. Contestación II . Dúplica á la Réplica del " Dómine " inserta en la Gaceta de Puerto Prínci- - 163 pe de 17 de Noviembre .                          190 III . Idem de idem .                                201 IV . Idem de idem .                                 214 V. Idem de idem .                                   231 -Filosofia . - VI . Idem de idem . "Adicto " . Cuestión de Método      -   Polémica   con 241 I.           ...                                     251 II                                                  271 III .                                               290 IV                                                  301 V.                                                  311 VI                                                   323 -Filosofia . -Filosofía . - VII .. Rectificación . 337 343 351 -Apéndices     .                                                 359
+> ## II . Contestación al artículo del suscrip- tor al "Plantel" inserto en la " Aurora de - Matanzas " , de 30 de Noviembre último . 138 ## III . Fair - play al autor del artículo " Mo- ral Religiosa " , inserto en la 3ª entrega - del " Plantel " ## IV . Aguinaldo de Fair - play para el Sr. 144 -                              - suscriptor al " Plantel " ( en Matanzas ) .. 147 -Filosofia . Cuestión de método             .Polémica con "Rumilio " y " El Dómine " de Puerto - Principe . - I. Contestación II . Dúplica á la Réplica del " Dómine " inserta en la Gaceta de Puerto Prínci- - 163 pe de 17 de Noviembre .                          190 III . Idem de idem .                                201 IV . Idem de idem .                                 214 V. Idem de idem .                                   231 -Filosofia . - VI . Idem de idem . "Adicto " . Cuestión de Método      -   Polémica   con 241 I.           ...                                     251 II                                                  271 ## III .                                               290 IV                                                  301 V.                                                  311 VI                                                   323 -Filosofia . -Filosofía . - ## VII  Rectificación . 337 343 351 -Apéndices     .                                                 359
 
 II.—Answer to the article of the subscriber to the “Plantel” in‐
 

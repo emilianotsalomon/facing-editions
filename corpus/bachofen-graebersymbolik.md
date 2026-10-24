@@ -24,19 +24,19 @@ Ancient Mortuary Symbolism
 
 [PDF 2]
 
-An Essay on
+## An Essay on
 
 Ancient Mortuary Symbolism
 
 by
 
-J. J. Bachofen
+## J. J. Bachofen
 
-Second, unaltered edition
+## Second, unaltered edition
 
-With a foreword by C. A. Bernoulli
+## With a foreword by C. A. Bernoulli
 
-and an appreciation by Ludwig Klages
+## and an appreciation by Ludwig Klages
 
 Basel, 1925
 
@@ -50,7 +50,7 @@ Helbing & Lichtenhahn
 
 [PDF 4]
 
-Contents
+## Contents
 
 Page Foreword to the second edition, by C. A. Bernoulli    VI On Bachofen: an appreciation, by Ludwig Klages        IX Foreword to the first edition, by J. J. Bachofen     XIV The Three Mystery Eggs                                 1 Ocnus the Rope Plaiter                               301 Descriptions of the Plates                           422 Summary of the Contents of the Treatises             423 Index of Subjects and Words                          427
 
@@ -58,7 +58,7 @@ Plates I–IV
 
 [PDF 5]
 
-Preface to the Second Edition.
+## Preface to the Second Edition.
 
 It is sixty-five years since a most highly esteemed citizen, intellectually as well as socially probably the most unconditionally independent in the Basel of that day, brought out with the bookseller Detloff on the Freienstrasse his Essay on Ancient Mortuary Symbolism. Already for fourteen years retired from his post as full professor in the faculty of law, but as a member of the court of appeal still in full touch with the public life of the city, with the “commonweal,” as people liked to say then, Johann Jakob Bachofen in his forty-fourth year had set foot on an entirely new path of research, on which only today he is stepping out of the darkness of general incomprehension, to be recognized and appreciated by the friends of antiquity as a profound interpreter of the ancient soul.
 
@@ -1172,7 +1172,7 @@ Junxerunt elementa patres, aptumque putarunt
 
 one force, which precisely in this possesses its generative power. The same significance attaches to the union of aqua et ignis in the basin of warm water that must not be lacking among the wedding festivities, and that is also represented, in a very ingenious manner, on the Aldobrandini painting. Fire and water, Festus remarks,1) are the co-operating forces of every generation. In every sexual mingling fire and water mate, as the egg of the Dea Syria, rolled by fishes from the Euphrates onto the shore, is hatched by doves. The same two unite in the interior of the earth. Where the sun dips into the sea in the land of the Ethiopians, the same union is brought forth. Thither Prometheus in Aeschylus directs the inquiring Io. The same union recurs in the divine nature of Achilles. He, who already in his name expresses the nature of water, a nature that is confirmed in many traits, but especially in the river beds designated as Ἀχίλεως δρόμοι. He, the Thetis-born, a Peleiad like the frog, child of the swamp, as men and animals generally are, whom, like Dionysus, the sound of the trumpet calls forth from his hiding place, bore nevertheless also the name Prometheus, like Bellerophon, and was thus conceived as bringer of fire, was snatched away amid lightning and sheet lightning, was united with Helen-Luna, as the circling Lunus, on the lunar island of Leuce, was venerated on Crete as Pemptus in the nature of an Idaean Dactyl, and, in an ever advancing development of his luminous nature, was raised to Apollonian solar power.2) In bronze work the fluid and the warm state of matter appear again in intimate union. It too shows the union of the force of water and the force of fire. Therein rests the sanctity of bronze, for which Macrob. Sat. 5, 19 adduces so rich a collection of examples that it seems almost superfluous to increase it further.3) Therein rests also its connection with the deities of the generative force of the earth
 
-Ignibus et sparsa tangere corpus aqua?
+## Ignibus et sparsa tangere corpus aqua?
 
 An quod in his vitæ causa est, hæc perdidit exsul,
 
@@ -5308,7 +5308,7 @@ Ciampi’s illustration. Herodot. 2, 79.
 
 matter of the earth. By them, consequently, the degree of tellurism of such beings is recognized. Through his serpent feet Erichthonius proclaims his origination from the moist depths to which the dragon belongs. The same significance attaches to the incomplete figure that is stressed in the lower parts of the body of Harpocrates. Like those animals which emerge incompletely from the Nile mud and, according to Ovid’s description,1) show a union of animate and crude earthy parts, the moist deep has produced in Harpocrates a being that has reached full development only in its upper half, and in its lower half retains the nature of the ὕλη2) and material connection with it. If this accords with the origination of the god from the self-embrace of the moist dark matter of the earth, it finds in the nature of the swamp plants, in the lotus especially, so exact a correspondence that the religious representation appears to have followed the natural model as that swamp growth presents it. But in the weakness and incomplete formation of the lower limbs yet another property of tellurian natural powers is to be recognized. They share with the matter to which they belong the repose and immobility that has been recognized in the ἀκίνητον of the Camarinian swamp lake as in the lion of the subterranean waters, unsuited to swift pursuit, and that constitutes the content of the Sanctum or ὅσιον in its real, original meaning. For Harpocrates this thought finds its full confirmation in the closely joined legs with which he is represented in some works of art,3) as well as in the seated posture that others give him. The δύο πόδες συνημμένοι (Horap. 2, 3) are an expression of tellurism precisely by stressing the incapacity for self-movement. Their release, as it is stressed in individual myths and in the history of sculpture,4)
 
-quaedam imperfecta, suisque
+## quaedam imperfecta, suisque
 
 Trunca vident numeris: et eodem in corpore sæpe
 
@@ -6498,7 +6498,7 @@ That is what lends the ancient world of the tombs so high a significance and mak
 
 [PDF 425]
 
-Appendix.
+## Appendix.
 
 The recently published catalogue of the Museo Campana furnishes some important contributions to the points discussed especially in our first treatise. A belated mention of them forms the main content of this Appendix. The color combination of white and black, like that of white and purple-red, whose meaning and relation to the Bacchic divine nature we have explained, appears on a larger number of funerary vases of decidedly Dionysian relation. I call attention to a few. Classe I, serie quarta, vassellame dipinto, n. 335 shows as its main scene Bacchus and a satyr. Tutto il fondo è coronato di tralci di vite con grappoli. Nel collo è un frigio di edera con corimbi e nell’ orlo sono alternati i colori nero e giallo. — No. 391: Il collo ha un frigio di edera e la parte superiore di esso è ornata di dadi alternati gialli e neri. Cf. further 396, 400. — Classe I, serie 9, 10. Sala G. 55. — No. 302 of the same section shows, beside the Bacchic eyes, a wreath of alternating white and black color. Cf. besides Noël des Vergers on the recently discovered tomb paintings of Vulci, Bulletino 1857, p. 117. — White and purple-red are shown by the following monuments: No. 407: Piccoli globi di color purpureo e bianco. — Cl. I, ser. 9, Sala H, 273: corona formata di una larga tenia a color bianco e purpureo. Particular attention is deserved by the terracottas described in Classe VI pitture etrusche grecche e romane, which adorned the walls of a Caeretan tomb and in many details recall Asiatic customs, usages, and practices. Many will be grateful to me if I communicate here, in its whole extent, the description of at least one of the numerous pictures. La prima d’esse dipinture, secondo l’ordine in che trovansi collocate, rappresenta un uomo barbato coi capelli sparsi e coperto di corta tunica, assiso sopra una sedia plicatile, tenendo nella sinistra mano uno scettro. Innanzi a lui vedesi elevato un alto imbasamento formato di grandi massi e diviso in due piani, in cima a cui sta una Dea colle braccia aperte, con bianca sottoveste e manto purpureo, l’una e l’altro molto aderenti alla persona per via d’una cintura che la cinge ai fianchi. Il capo è coperto da tiara
 

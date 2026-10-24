@@ -32,7 +32,7 @@ painted it, 1769. C. Faucci engraved it, Florence.
 
 [PDF 7]
 
-OF THE NEWER PHILOSOPHY
+## OF THE NEWER PHILOSOPHY
 
 FIRST VOLUME C O N T A I N I N G T H E H I S T O R Y O F P H I L O S O P H Y,
 
@@ -42,7 +42,7 @@ and Geometry.
 
 From the Modern Philosophers of better note
 
-excerpted, compiled, and arranged
+## excerpted, compiled, and arranged
 
 For the use of the Youth of the Schools
 
@@ -122,7 +122,7 @@ Don
 
 Don José Ignacio Bartolache y Díaz de Posadas, Doctor of Medicine, for a four-year term holder of the Prime Chair of the same Faculty in the Illustrious University of Mexico, and Literary Member of the Royal Cantabrian Society of the Friends of the Country, wrote this.
 
-MOST HONORABLE LORD
+## MOST HONORABLE LORD
 
 JUDGE. T    hat old answer of some Sage, I know not whose
 
@@ -242,7 +242,7 @@ Fr. Pedro Casela. Aloyo. Doctor of           Doctor of Sacred Theology, of the R
 
 Don José María Gómez Villaseñor.                 Fr. José Rafael Olmedo. Doctor of Sacred Theology, Rector of             Doctor of Sacred Theology, and the Distinguished, Ancient and Major             Proprietary Holder of the Chair [College] of St. Mary of All Saints.             of the Subtle Doctor Scotus.
 
-Father Don Pedro José Rodríguez de
+## Father Don Pedro José Rodríguez de
 
 Father Don José Pereda. Arizpe. Doctor of Sacred Canons,                Doctor of Sacred Canons, Proprietary Secular Priest of the                   Holder of the Chair of Decretum, Secular Congregation of the Oratory of          Priest of the Congregation of the Oratory St. Philip Neri of Mexico.              of St. Philip Neri of Mexico.
 
@@ -380,7 +380,7 @@ be
 
 be willing to draw back his foot, nor let himself be imposed upon by the ignorant, who dread the right way of teaching and learning worse than a dog or a snake, shun it, turn away from it, not daring to depart a nail’s breadth from the ancient custom of the School: as though it were a point of religion with them to prefer erring, by prejudgment, with the ancients to thinking the truth with others [*], or, in short, to acquiesce in the most probable
 
-¶¶*¶2                             where
+## ¶¶*¶2                             where
 
 (*) A most distinguished Doctor, a countryman of ours, three years ago brought to light a Book to which he had given the title La Lógica de D. Andrés Piquer, in which he is so prolix in censuring (harshly enough, not to say jejunely and ineptly) whatever Moderns he has ever read, that you would almost say he raves rather than reasons. Bacon, Arnauld, Descartes, Gassendi, Malebranche, Locke, Heineccius, Wolff, Genovesi, Verney he holds of no account, as if they had not advanced Logic themselves but only treated it perfunctorily. Aristotle alone is esteemed great and famous, after whom Piquer alone handed down the precepts of Logic; the rest have all too often inculcated mere trifles, and things not at all to the point. So great indeed was the most distinguished man’s philautia (let him tell us himself, in his usual way, what the force of that word is in Latin, Greek and Spanish), and his preconceived opinion in favor of antiquity, that he has roused that venerable Old Man, the ornament of our now aging century and of our Spain, lately gone to his fate, Fr. Benito Jerónimo Feijóo, whom he holds up to ridicule on the ground that he had praised some of the Moderns named above without discrimination.
 
@@ -412,17 +412,17 @@ ciↄ iↄ cclxxiv.
 
 [PDF 39]
 
-OF PHILOSOPHY
+## OF PHILOSOPHY
 
-IN EPITOME.
+## IN EPITOME
 
 [p. 1]
 
-HISTORY
+## HISTORY
 
-OF PHILOSOPHY
+## OF PHILOSOPHY
 
-IN EPITOME.
+## IN EPITOME
 
 §. I.
 
@@ -632,7 +632,7 @@ Clitomachus, Philo and Antiochus, by whom M. T. Cicero was taught, who himself
 
 also was an Academic and a vigorous champion of the Platonic method.
 
-§. III.
+## §. III
 
 On the Eclectic Philosophy, and on Philosophy after the Birth of
 
@@ -1090,7 +1090,7 @@ Sturm, Wolff, and very many others, whose memory will very often recur in the
 
 Physics.
 
-§. VII.
+## §. VII
 
 The Academies of Sciences, Usefully Established.
 
@@ -1116,7 +1116,7 @@ is it our intention, however, while we present these, to list all the Gymnasia a
 
 [p. 18]
 
-61 For this reason the Emperor Leopold the Great in 1670 added spurs to the
+## 61 For this reason the Emperor Leopold the Great in 1670 added spurs to the
 
 Academicians, holding out to them the hope of his patronage, so that they might de‐
 
@@ -1148,7 +1148,7 @@ expected hereafter, is easily seen. The former the books of the Physicists decla
 
 latter the industry, sagacity and ardor of the Academicians promise.
 
-§. VIII.
+## §. VIII
 
 The Institution of Literary Journals.
 
@@ -1224,13 +1224,13 @@ Christ                                                                          
 
 [PDF 61]
 
-OF THE NEWER PHILOSOPHY
+## OF THE NEWER PHILOSOPHY
 
-PA RT I . ELEMENTS OF LOGIC.
+## PA RT I . ELEMENTS OF LOGIC
 
 [p. 1]
 
-ELEMENTS
+## ELEMENTS
 
 O F T H E N E W E R P H I L O S O P H Y.
 
@@ -1320,15 +1320,15 @@ A2                               Elements
 
 [p. 4]
 
-OF THE ELEMENTS
+## OF THE ELEMENTS
 
-OF THE NEWER PHILOSOPHY
+## OF THE NEWER PHILOSOPHY
 
 PA RT I . B O O K I .
 
-ELEMENTS OF LOGIC
+## ELEMENTS OF LOGIC
 
-CHAPTER I.
+## CHAPTER I
 
 On the nature and constitution of Logic. 1
 
@@ -1380,7 +1380,7 @@ so
 
 so that we may set forth all the best precepts that we have received as handed down by the Moderns, in the order that seems to us most suited to the nature of this discipline; and it seems most convenient to consider first the nature of the human intellect, then the nature of truth, and finally to inquire how truth is to be found and set forth.
 
-CHAPTER II. On the Nature of the human intellect, and on the operations of
+## CHAPTER II. On the Nature of the human intellect, and on the operations of
 
 the mind.
 
@@ -1480,7 +1480,7 @@ in devising and composing anything whatever, whereas judgment is occupied in
 
 separating the right from the not right, which differ widely from each other.
 
-CHAPTER III.
+## CHAPTER III
 
 How are the senses related to the acquiring of ideas?
 
@@ -1548,7 +1548,7 @@ B2                                        Chapter
 
 C H A P T E R I V.
 
-The Division of Ideas. 24
+## The Division of Ideas. 24
 
 A     n idea, as we have already said, is the genuine image of any object whatev‐
 
@@ -1740,7 +1740,7 @@ be present or absent without the corruption of the subject; such in Peter is whi
 
 will be enough to have indicated these things for the present.
 
-CHAPTER VI.
+## CHAPTER VI
 
 On the Antepredicaments and the Categories of the
 
@@ -1768,7 +1768,7 @@ And
 
 [PDF 80]
 
-Key to the plate
+## Key to the plate
 
 Top left: Elem. of Logic. Top right: p. 17. Top row: Spirit — (spiritual) — Being, Thing, or Substance — (corporeal) — Body. From Spirit: (most perfect) → God; (imperfect) → (destined for a body) → Human Mind;
 
@@ -1798,7 +1798,7 @@ C                                  Chapter
 
 [p. 18]
 
-CHAPTER VII.
+## CHAPTER VII
 
 On Definitions and Divisions.
 
@@ -1892,7 +1892,7 @@ the more a great rock is ground into dust, the less do we grasp its size with th
 
 mind.
 
-CHAPTER VIII.
+## CHAPTER VIII
 
 On Judgments and Propositions, and on the matter, form,
 
@@ -1970,7 +1970,7 @@ A: Every man is white. — E: No man is white. — I: Some man is white. — O: 
 
 [p. 23]
 
-58 Take, finally, these most certain rules for recognizing opposition: those
+## 58 Take, finally, these most certain rules for recognizing opposition: those
 
 which can be neither true together nor false together are contradictories; those
 
@@ -2014,7 +2014,7 @@ the Ancients should perhaps suspect that something useful or fruitful had been
 
 snatched away from the youth.
 
-CHAPTER IX.
+## CHAPTER IX
 
 On Reasoning, or the Syllogism, and the various kinds of
 
@@ -2090,7 +2090,7 @@ The former is acquired through demonstration a priori, the latter through
 
 demonstration a posteriori.
 
-CHAPTER X.
+## CHAPTER X
 
 On the Form and Figure of the Syllogism.
 
@@ -2166,7 +2166,7 @@ a conclusion is not right than he grasps its precepts; a slow man does not see i
 
 less what is prescribed concerning it.
 
-CHAPTER XI.
+## CHAPTER XI
 
 A universal principle is handed down for recognizing
 
@@ -2216,7 +2216,7 @@ ever can easily be detected, so that the other laws can accordingly be deemed
 
 either more obscure, or less universal, or even useless; nay rather, they must be.
 
-CHAPTER XII.
+## CHAPTER XII
 
 On the Fallacies of the Syllogism.
 
@@ -2306,7 +2306,7 @@ ing and oaths, because they are guilty of the same sophism. Let what has been
 
 said suffice.
 
-BOOK II.
+## BOOK II
 
 On Truth.
 
@@ -2348,7 +2348,7 @@ Chapter
 
 [p. 31]
 
-CHAPTER I.
+## CHAPTER I
 
 On the Criterion of the True and the False.
 
@@ -2426,7 +2426,7 @@ Chapter
 
 [p. 33]
 
-CHAPTER II.
+## CHAPTER II
 
 On the Probable True, where also on Hermeneutic, Moral and
 
@@ -2500,7 +2500,7 @@ Chapter
 
 [p. 35]
 
-CHAPTER III.
+## CHAPTER III
 
 Rules directing the human mind in believing doctrines that rest on
 
@@ -2814,7 +2814,7 @@ Chapter
 
 [p. 46]
 
-CHAPTER VI.
+## CHAPTER VI
 
 On the fallacies of the Mind, which prevent us from finding
 
@@ -2956,7 +2956,7 @@ G2                                         Book
 
 [p. 52]
 
-BOOK III.
+## BOOK III
 
 On the means of finding the truth, and of communicating it to
 
@@ -2980,7 +2980,7 @@ to be explained to others; to which we shall then append a few things on the
 
 method of Studying and of Disputing, and some on routing philosophical Pedantry.
 
-CHAPTER I.
+## CHAPTER I
 
 On the Logico-analytic Method, or method of invention.
 
@@ -3038,7 +3038,7 @@ Chapter
 
 [p. 55]
 
-CHAPTER II.
+## CHAPTER II
 
 On the Logico-Synthetic Method, or the Method of Imparting
 
@@ -3078,7 +3078,7 @@ laws are not only necessary for constructing a demonstration, but they alone
 
 suffice, as the celebrated Soria excellently proves. (y)
 
-CHAPTER III.
+## CHAPTER III
 
 On the Method of Studying.
 
@@ -3230,9 +3230,9 @@ Scholastic
 
 [p. 62]
 
-SCHOLASTIC EXERCISES
+## SCHOLASTIC EXERCISES
 
-ON LOGIC.
+## ON LOGIC
 
 E X E RC I S E I .
 
@@ -3300,7 +3300,7 @@ Dist.
 
 [p. 64]
 
-196 Dist. the minor: a cognition which attributes something to some subject, or
+## 196 Dist. the minor: a cognition which attributes something to some subject, or
 
 takes something away from it, by affirmation or negation, is a true judgment, I grant;
 
@@ -3394,7 +3394,7 @@ usually set out clearly enough, as the celebrated Jacquier excellently observes.
 
 205 The conclusion is confirmed: those ideas are purely intellectual whose objects are neither colored, nor savory, nor sonorous, nor affected by any sensible quality, as St. Augustine says (c): but there are many ideas whose objects are neither colored, etc., such as are the idea of being in general, the idea of God, etc.: therefore purely intellectual ideas are given.
 
-REPLIES TO THE OB JECTIONS.
+## REPLIES TO THE OB JECTIONS
 
 206 Obj. 1: if there is any purely intellectual idea which does not have its origin from the senses, it is above all the idea of being in general, the idea of God,
 
@@ -3646,7 +3646,7 @@ K2                                        Of
 
 [PDF 139]
 
-OF THE NEWER PHILOSOPHY
+## OF THE NEWER PHILOSOPHY
 
 S E C O N D P A R T.
 
@@ -3654,15 +3654,15 @@ E L E M E N T S O F M E TA P H Y S I C S.
 
 [p. 1]
 
-OF THE ELEMENTS
+## OF THE ELEMENTS
 
-OF THE NEWER PHILOSOPHY
+## OF THE NEWER PHILOSOPHY
 
 S E C O N D P A R T.
 
 E L E M E N T S O F M E TA P H Y S I C S.
 
-P R E FAC E .
+## P R E FAC E 
 
 fter Logic, not Physics, as the Peripatetics do, but Metaphysics 1
 
@@ -3702,13 +3702,13 @@ Metaphysics
 
 [p. 3]
 
-METAPHYSICS
+## METAPHYSICS
 
 PA RT I .
 
-ONTOLOGY.
+## ONTOLOGY
 
-S I N G L E D I S S E RTAT I O N .
+## S I N G L E D I S S E RTAT I O N 
 
 On Being, its species, and its properties.
 
@@ -3730,7 +3730,7 @@ figured it, we shall omit those questions as useless, and shall contemplate bein
 
 itself, its species, and all its properties.
 
-CHAPTER I.
+## CHAPTER I
 
 On Being in common, and its division. 5
 
@@ -3808,7 +3808,7 @@ indivisible, and therefore univocal as well. What has been said must also be und
 
 stood of substance with respect to accident.
 
-CHAPTER II.
+## CHAPTER II
 
 On essence, existence, and subsistence.
 
@@ -3888,7 +3888,7 @@ defined; but only one hypostasis, or divine subsistence, and therefore only one 
 
 vine person, was found in him.
 
-25 And since it is not the nature but the person that is said to operate or to
+## 25 And since it is not the nature but the person that is said to operate or to
 
 suffer something, according to that common principle, operations belong to supposi‐
 
@@ -3902,7 +3902,7 @@ Suppositum. But these things we leave to the Theologians, to be explained ac‐
 
 cording to the dignity of the matter, lest we put our sickle into another’s harvest.
 
-CHAPTER III.
+## CHAPTER III
 
 On the other properties or attributes of Being, or on Unity,
 
@@ -3982,7 +3982,7 @@ M2                                 Metaphysics
 
 [p. 12]
 
-METAPHYSICS
+## METAPHYSICS
 
 S E C O N D P A R T.
 
@@ -4008,11 +4008,11 @@ The first will be on the origin, spirituality and immortality of the human mind;
 
 second on the admirable commerce that exists between the mind itself and the body.
 
-D I S S E RTAT I O N I .
+## D I S S E RTAT I O N I 
 
 On the Origin, spirituality, and immortality of the human mind.
 
-CHAPTER I.
+## CHAPTER I
 
 On the origin of the Soul, and at what time it is infused into the
 
@@ -4166,7 +4166,7 @@ from a material and pre-existing cause, I grant; that is, it cannot be brought a
 
 [p. 17]
 
-50 Obj. 3. with the same: If the rational soul were created, it would not con‐
+## 50 Obj. 3. with the same: If the rational soul were created, it would not con‐
 
 tract original sin from the seed of Adam; but it does contract it: therefore. I deny
 
@@ -4298,7 +4298,7 @@ conception incurs the penalty of irregularity established by Gregory XIV against
 
 those who procure the abortion of an animated fetus, as may be seen in his work (x).
 
-CHAPTER II.
+## CHAPTER II
 
 It is examined whether the human mind is a spiritual substance,
 
@@ -4578,7 +4578,7 @@ implies a distinction between matter and thought, that is, not merely between
 
 objects, but between one substance and another. So the distinguished Berti.
 
-CHAPTER III.
+## CHAPTER III
 
 Whether our soul is immortal, or rather perishes together with
 
@@ -4920,13 +4920,13 @@ Dissertation
 
 [p. 40]
 
-D I S S E RTAT I O N I I .
+## D I S S E RTAT I O N I I 
 
-On the Commerce between Mind
+## On the Commerce between Mind
 
 and Body.
 
-CHAPTER I.
+## CHAPTER I
 
 The more celebrated opinions of the Philosophers are set forth.
 
@@ -5026,7 +5026,7 @@ of the latter correspond with the perceptions and determinations of the for‐
 
 mer, and you will have the whole System of pre-established harmony.
 
-CHAPTER II.
+## CHAPTER II
 
 The System of occasional causes, and that of pre-established
 
@@ -5120,7 +5120,7 @@ and also into another, more absurd one, which they call Egoism, raving, namely,
 
 that only one’s own existence is known with certainty.
 
-CHAPTER III.
+## CHAPTER III
 
 The opinion of the Peripatetics is embraced as the more proba‐
 
@@ -5308,7 +5308,7 @@ by the infinite power and wisdom of God, cannot be comprehended altogether
 
 clearly by our intellect.
 
-APPENDIX.
+## APPENDIX
 
 On the Seat of the Mind.
 
@@ -5396,13 +5396,13 @@ R2                              Metaphysics
 
 [p. 52]
 
-METAPHYSICS
+## METAPHYSICS
 
 F I N A L P A R T.
 
 N A T U R A L T H E O L O G Y.
 
-S I N G L E D I S S E RTAT I O N .
+## S I N G L E D I S S E RTAT I O N 
 
 By every kind of argument
 
@@ -5668,13 +5668,13 @@ Index
 
 O F T H E M E TA P H Y S I C S.
 
-OF THE ELEMENTS
+## OF THE ELEMENTS
 
-OF THE NEWER PHILOSOPHY
+## OF THE NEWER PHILOSOPHY
 
 S E C O N D P A R T.
 
-ELEMENTS OF METAPHYSICS.
+## ELEMENTS OF METAPHYSICS
 
 Preface                                                                           p. 1.
 
@@ -5720,11 +5720,11 @@ Of
 
 [PDF 205]
 
-OF THE NEWER PHILOSOPHY
+## OF THE NEWER PHILOSOPHY
 
 PA RT I I I .
 
-ELEMENTS OF ETHICS.
+## ELEMENTS OF ETHICS
 
 [PDF 206]
 
@@ -5734,9 +5734,9 @@ Cicero, Tusc., bk. III, ch. IV.
 
 [p. 1]
 
-OF THE ELEMENTS
+## OF THE ELEMENTS
 
-OF THE NEWER PHILOSOPHY
+## OF THE NEWER PHILOSOPHY
 
 PA RT I I I .
 
@@ -5744,11 +5744,11 @@ OF ETHICS,
 
 OR
 
-OF MORAL PHILOSOPHY
+## OF MORAL PHILOSOPHY
 
-THE ELEMENTS.
+## THE ELEMENTS
 
-P R E FAC E .
+## P R E FAC E 
 
 thics, or Moral Philosophy, has been instituted for directing
 
@@ -5782,7 +5782,7 @@ and its causes and signs. For the prescribed limits of the Elements do not allow
 
 draw out the discussion any further. Let there be, then,
 
-CHAPTER I.
+## CHAPTER I
 
 On the various duties of men toward God, toward themselves, to‐
 
@@ -5994,7 +5994,7 @@ These and other such principles do not savor of laxism, nor are they drawn from 
 
 putrid springs of Laxism.
 
-CHAPTER II.
+## CHAPTER II
 
 On Virtue in general, and its causes and signs.
 
@@ -6150,15 +6150,15 @@ Short
 
 [PDF 226]
 
-OF THE ETHICS.
+## OF THE ETHICS
 
-OF THE ELEMENTS
+## OF THE ELEMENTS
 
-OF THE NEWER PHILOSOPHY
+## OF THE NEWER PHILOSOPHY
 
 PA RT I I I .
 
-E T H I C S , OR ELEMENTS
+## E T H I C S , OR ELEMENTS
 
 O F M O R A L P H I L O S O P H Y.
 
@@ -6172,11 +6172,11 @@ Of
 
 [PDF 227]
 
-OF GEOMETRY WHICH BEAR MOST
+## OF GEOMETRY WHICH BEAR MOST
 
 ON PHYSICS,
 
-AN EPITOME.
+## AN EPITOME
 
 [PDF 228]
 
@@ -6188,11 +6188,11 @@ Plato, in Theon of Smyrna, ch. 1.
 
 p. 1.
 
-OF THE ELEMENTS
+## OF THE ELEMENTS
 
-OF GEOMETRY
+## OF GEOMETRY
 
-WHICH BEAR MOST
+## WHICH BEAR MOST
 
 ON PHYSICS,
 
@@ -6202,7 +6202,7 @@ clxviii: reprinted now for those who will apply themselves to our Physics.
 
 Mexico mdcclxxiv.
 
-P R E FAC E .
+## P R E FAC E 
 
 ince it is acknowledged among the true cultivators of the best
 
@@ -6216,11 +6216,11 @@ Y                                       I
 
 I had long since resolved, and had promised you, excellent Young Men, that I would not speak on physical matters before I had handed down to you Geometrical Institutions, very brief indeed, such as the narrowness of the time required. By good fortune I had brought away with me from Italy a little Book, small indeed in bulk, but one which I should believe would be sufficient for our purpose, and of benefit to you above all for cultivating and advancing physical matters rightly and in order. For whoever will wish to treat seriously of corporeal nature, let him, in short, learn Geometry thoroughly above all things, as diligently as he can: otherwise he will be pursuing not Physics, nor Philosophy, but the smoke and shadow of Philosophy. But those who think themselves Physicists, worthy of so great a name, because all day long they exhaust their brains on long hundreds of syllogisms in a row, as though they wished to entangle the Nature of things, and the Supreme Maker of Nature, in their own fabrications and foolish questions, to their utmost disgrace and sloth: let them see whether it would not have been better for them to have kept away from things abstruse and clouded over with much darkness. For it is shameful, and wholly unworthy of a Philosopher, to wish to discourse about what you do not know; more shameful to prefer to obey custom rather than to embrace the truth that lies in the open sun; and most shameful of all to envy bitterly others, whose minds are not so perverse, and who preside over the apprenticeship of Young Men and over their right instruction. But be that as it may, here is the Author’s Preface, to be placed at once before your eyes. For thus he writes.
 
-Elements
+## Elements
 
 [p. 3]
 
-ELEMENTS
+## ELEMENTS
 
 O F G E O M E T RY
 
@@ -6234,7 +6234,7 @@ Y2                                         Book
 
 [p. 4]
 
-BOOK I.
+## BOOK I
 
 On Rectilinear Figures.
 
@@ -6242,7 +6242,7 @@ I   n the Elements of Geometry, some things are Principles, which consist solely
 
 the explanation of names; others, deduced from them and pertaining to practice, are called Problems; others, ordered to the knowledge of Truth, are named Theorems. First, then, this Book will give the Principles; second, Problems concerning Rectilinear figures; third, the more select Theorems.
 
-CHAPTER I.
+## CHAPTER I
 
 Principles.
 
@@ -6344,7 +6344,7 @@ but
 
 but only the two opposite sides equal: Fig. VIII, Plate I.
 
-XXVIII. A Rhomboid, of which only the two opposite sides are equal, and the
+## XXVIII. A Rhomboid, of which only the two opposite sides are equal, and the
 
 Angles not right; Fig. IX, Plate I.
 
@@ -6352,11 +6352,11 @@ XXIX. And these four Quadrilateral Figures are called by a common name
 
 Parallelograms, because they have the two opposite sides parallel.
 
-XXX. But the other, irregular, quadrilateral Figures, which have neither the two
+## XXX. But the other, irregular, quadrilateral Figures, which have neither the two
 
 opposite sides nor the opposite Angles equal, are called Trapezia; as in Fig. XII, Plate I,
 
-LHMI.
+## LHMI
 
 §. II.
 
@@ -6376,7 +6376,7 @@ V. To any Straight line another can be placed, Equal or Unequal, Perpendicular o
 
 Parallel.
 
-§. III.
+## §. III
 
 Axioms.
 
@@ -6414,7 +6414,7 @@ And it is equal to all its parts taken together. And the Part which is equal to 
 
 other parts taken together is the Half of the whole.
 
-VII.
+## VII
 
 [p. 8]
 
@@ -6426,7 +6426,7 @@ VIII. Two straight Lines do not have a common segment, or Part.
 
 That is, two straight lines which make an angle cannot be continued into one straight line unless they are bent.
 
-CHAPTER II.
+## CHAPTER II
 
 Problems.
 
@@ -6452,7 +6452,7 @@ Problem
 
 [p. 9]
 
-Problem II. (Fig. 2.)
+## Problem II. (Fig. 2.)
 
 To bisect a line.
 
@@ -6460,7 +6460,7 @@ F    rom the ends A and B of the given line let two arcs be made with the same o
 
 ing of the compass, cutting each other at C; and two others below the same line, cutting each other at D. The line CD will bisect the line AB. It is demonstrated from Theor. IV of this book, pt. 1, if from C and D lines are drawn to the ends A and B.
 
-Problem III. (Fig. 3.)
+## Problem III. (Fig. 3.)
 
 To bisect an angle.
 
@@ -6524,7 +6524,7 @@ Problem
 
 [p. 11]
 
-Problem IX. (Fig. 9.)
+## Problem IX. (Fig. 9.)
 
 To make a Rhomboid.
 
@@ -6532,7 +6532,7 @@ A   t the end of the line AB let an unequal line CA be drawn, at an angle that i
 
 not right: then from the end C, with the interval of the line AB, let an arc be made; and from the end B, with the interval of the line CA, let another be made, intersecting the former at D. Finally from the point D let lines be drawn to B and C, and the Rhomboid will be had. From the same Theor.
 
-Problem X. (Fig. 10.)
+## Problem X. (Fig. 10.)
 
 To make a Triangle equal to another.
 
@@ -6564,7 +6564,7 @@ Z2                                       Hence
 
 Hence it is evident how a Parallelogram may be made equal to any Trapezium whatever. For let the Trapezium be divided into two Triangles by drawing a line to the opposite Angles HI, to which let Parallels be drawn through the vertices L and M: then, HI having been bisected at N, between the same Parallels, upon a base BG equal to the half HN, let the Parallelogram FBDG be made: which will be equal to the Trapezium LM, inasmuch as it is equal to the two Triangles HLI and HMI, which compose the Trapezium. From the same Theor.
 
-CHAPTER III.
+## CHAPTER III
 
 Theorems.
 
@@ -6734,7 +6734,7 @@ Aa                                            III.
 
 III. Hence if Parallelograms on the same or an equal Base are equal, it is manifest that they also have the same perpendicular altitude, or are between the same Parallels.
 
-Theorem VIII. (Fig. 8.)
+## Theorem VIII. (Fig. 8.)
 
 A Triangle constituted on the same Base and between the same Parallels is half of the
 
@@ -6826,7 +6826,7 @@ Cor. Hence it becomes manifest that in Triangles, if the Squares of the sides ar
 
 The four Theorems just demonstrated are very well explained by numbers, which you have in Clavius and others. Of these, however, the last two, although very useful for practical Geometry, are nevertheless not necessary for the following Propositions, after which they can be gone over again, if they seem rather difficult to anyone. In the Demonstrations that follow, moreover, when the Book is not indicated, the one under discussion is understood.
 
-BOOK II.
+## BOOK II
 
 On Curvilinear Figures.
 
@@ -6844,7 +6844,7 @@ Chapter
 
 [p. 22]
 
-CHAPTER I.
+## CHAPTER I
 
 Principles.
 
@@ -6882,7 +6882,7 @@ Chapter
 
 [p. 23]
 
-CHAPTER II.
+## CHAPTER II
 
 Problems.
 
@@ -6920,11 +6920,11 @@ the
 
 the Circumference, BCA will be Right-angled: if the vertex D falls outside the Circumference, BDA will be Acute-angled: if it falls inside the Circle, as at E, BEA will be an Obtuse-angled Triangle. From Theor. I of this book, & Cor. of Theor. IV, Bk. I.
 
-Problem IV. (Fig. 4.)
+## Problem IV. (Fig. 4.)
 
 To inscribe in a circle a Triangle Equiangular to another given one.
 
-L   et there be given any Triangle PHO, to which an Equiangular one is to be in‐
+## L   et there be given any Triangle PHO, to which an Equiangular one is to be in‐
 
 scribed in the circle DBE. Let any tangent AC be drawn: then let the Angle ABD be made equal to the angle O, and the angle CBE equal to the angle P: then let DE be drawn. The angle D will be equal to the angle P, and the angle E equal to the angle O, from Theor. VI of this book; and the Triangle BDE equiangular to the Triangle PHO.
 
@@ -6950,7 +6950,7 @@ Problem
 
 [p. 25]
 
-Problem VI. (Fig. 6.)
+## Problem VI. (Fig. 6.)
 
 To inscribe a Pentagon in a Circle.
 
@@ -6976,7 +6976,7 @@ Bb                                    Figures
 
 Figures.       Angle at the center.           Angle at the circumference.
 
-III.                   120                                 60
+## III.                   120                                 60
 
 IV.                     90                                 90
 
@@ -6984,9 +6984,9 @@ V.                      72                                108
 
 VI.                     60                                120
 
-VII.                  513/7                              1284/7
+## VII.                  513/7                              1284/7
 
-VIII.                   45                                135
+## VIII.                   45                                135
 
 IX.                     40                                140
 
@@ -6994,9 +6994,9 @@ X.                      36                                144
 
 XI.                   328/11                            1483/11
 
-XII.                    30                                150
+## XII.                    30                                150
 
-CHAPTER III.
+## CHAPTER III
 
 Theorems.
 
@@ -7124,11 +7124,11 @@ Book
 
 [p. 30]
 
-BOOK III.
+## BOOK III
 
 On Proportional Figures.
 
-CHAPTER I.
+## CHAPTER I
 
 Principles.
 
@@ -7264,7 +7264,7 @@ As, if to the two numbers 4 and 4, in double proportion to 2, there is added to 
 
 Hence, since multiplication is multiple addition, if equal proportions are multiplied by equals, the wholes will be equal: as, if two double proportions are each multiplied by a triple proportion, both will be sextuple.
 
-§. III.
+## §. III
 
 Arguments about Proportions.
 
@@ -7360,7 +7360,7 @@ The ratio which arises from the multiplication of several ratios with one anothe
 
 If there are several quantities, of which the first has the same ratio to the second as the second to the third, and the third to the fourth, then the first is said to have to the third the duplicate ratio of that which it has to the second. Likewise it is said to have to the fourth the triplicate ratio of that which it has to the second. Thus if, e.g., there are four lines, of which the first is of 16 feet, the second of 8 feet, the third of 4 ft. and the fourth of 2 ft., and you ask the ratio of the first to the second, I shall say that it is double, or as 2 to 1. But if you ask the ratio of the first, of 16 ft., to the third, of 4 ft., I shall say that it is twice double, because it is compounded of the ratio of the first line, of 16 ft., to the second, 8, which is double, and of the ratio of the second, namely 8, to the third, 4, which again is double; whence the ratio of the first to the third is the duplicate of the ratio of the first to the second, or is twice double, or in a word quadruple. And the ratio of the first to the fourth, or 16 to 2, is the triplicate of the ratio of the first to the second. And so it must be compounded of the double ratio, which is that of the first to the second, and of the quadruple ratio, which is that of the same first to the third; and thus it is twice quadruple, or, in a word, octuple.”
 
-CHAPTER II.
+## CHAPTER II
 
 Problems. H    ere, besides the Problems selected from Book VI of Euclid, we add those
 
@@ -7414,7 +7414,7 @@ BC,
 
 BC, be set out in one straight line, and let the third, AD, make any angle whatever with the first, AB; then let DB be drawn, and through C let CE be placed parallel to it, meeting the straight line AD, produced, at E. DE will be the fourth proportional. From Theor. II of this book.
 
-Problem V. (Fig. 5.)
+## Problem V. (Fig. 5.)
 
 To divide a line in extreme and mean ratio.
 
@@ -7422,7 +7422,7 @@ L   et the line AB be cut in extreme and mean ratio, that is, by finding in the 
 
 line the mean and the extreme proportionals. At A let a perpendicular AC be placed, equal to half of the whole AB; then let CB be drawn, and from it let CD be cut off, equal to the line CA; and let the remainder DB be transferred from A to E; and the line AB will be cut proportionally at E, so that the greater part AE is a mean proportional between the whole AB and its smaller part EB. Moreover, the square on the line AE will be equal to the rectangle of the whole AB and its smaller part EB. Because of its outstanding uses this was called by the ancients the Divine proportion. From Theor. VIII of this book, cor. I.
 
-Problem VI. (Fig. 6.)
+## Problem VI. (Fig. 6.)
 
 To make a Rectilinear figure similar and proportional to another.
 
@@ -7442,7 +7442,7 @@ Problem
 
 [p. 40]
 
-Problem VIII. (Fig. 8.)
+## Problem VIII. (Fig. 8.)
 
 To subtract a similar figure from another, or to diminish it, or to enlarge it in any proportion
 
@@ -7478,15 +7478,15 @@ we
 
 we teach here more conveniently. Let there be, then, any rectilinear figure BAC whatever, to which an equal rectangle is to be constructed. First, by drawing lines to the vertices of the angles, resolve the whole rectilinear figure into Triangles, which will always be two fewer than the sides of the figure. Then upon any given straight line make a rectangle DG equal to the triangle B; and, DN being produced indefinitely, upon the straight line FG let a rectangle FI be made equal to the triangle A; and upon the straight line HI a rectangle HM equal to the triangle C. The whole rectangle DM will be equal to the rectilinear figure BAC: From Theor. VIII, bk. I.
 
-Problem XI. (Fig. 11.)
+## Problem XI. (Fig. 11.)
 
 To know the Proportion of dissimilar figures.
 
-L  et there be two dissimilar figures A and B, whose mutual proportion is to be
+## L  et there be two dissimilar figures A and B, whose mutual proportion is to be
 
 known. Let them be reduced, according to the preceding Problem, to two Rectangles equal to them, C and D, of the same height. Then the proportion of the base GF to the base FH will be the same as that of the figure A to the figure B. From Theor. I of this book.
 
-Problem XII. (Fig. 12.)
+## Problem XII. (Fig. 12.)
 
 To make a figure equal to one and similar to another.
 
@@ -7494,7 +7494,7 @@ L   et a figure be made equal to the Polygon A which shall nevertheless be simil
 
 the Polygon B. Upon DC of the Polygon B, to which a similar figure is to be constructed, let a rectangle CE be made equal to the same Polygon B; again, upon DE let a rectangle DG be made equal to the Polygon A, to which an equal figure is to be constructed. Then between CD and DF let a Mean Proportional, such as IL, be found according to Prob. II, upon which let a figure H be made similar to the figure B; it will be equal to the figure A. From Theor. VI, cor. 4.
 
-CHAPTER III.
+## CHAPTER III
 
 Theorems.
 
@@ -7544,7 +7544,7 @@ VI.
 
 VI. And if the base BA is double the base AF, and the base GA triple the base AD, the rectangle O will have to the rectangle Z the ratio produced, or compounded, of the triple and the double of the same sides: that is, the rectangle O will be sextuple the rectangle Z, because it is triple the rectangle X or Y, which is double the rectangle Z. These things are demonstrated in like manner of all similar Parallelograms. (a)
 
-Theorem II. (Fig. 2.)
+## Theorem II. (Fig. 2.)
 
 If a Parallel is placed to a side of any Triangle, it will cut the two remaining sides proportionally.
 
@@ -7608,7 +7608,7 @@ Cor.
 
 Cor. III. Therefore AD is a mean proportional between the two segments of the base, BD and DC. For as BD to DA, so in the other triangle is AD to DC.
 
-Theorem V. (Fig. 5.)
+## Theorem V. (Fig. 5.)
 
 Any similar Triangles whatever have the duplicate proportion of their homologous sides. (a)
 
@@ -7618,7 +7618,7 @@ Dem. Since the angle B is equal to the angle E, by supposition, and the angles a
 
 The same is demonstrated, similarly, of the triangles ACG and DFH: therefore the whole triangle ABC is to the similar triangle DEF in the duplicate ratio of the sides.
 
-Theorem VI. (Fig. 6.)
+## Theorem VI. (Fig. 6.)
 
 Similar Polygons are divided into as many similar and proportional Triangles. (b)
 
@@ -7756,7 +7756,7 @@ IV. Circles also have the duplicate proportion of the radii; for the Triangles B
 
 Moreover, just as Surfaces, which consist of a twofold dimension, namely breadth and length, have, if they are similar, the duplicate proportion of the Diameters, or of the homologous sides, so similar bodies, such as two whole spheres, have the triplicate proportion of the same, since they are made of a threefold dimension, namely breadth, length and depth. For example, if the Diameter of the earth is quadruple the Diameter of the Moon, the surface of the Earth will be four times quadruple, that is, sixteen times the surface of the Moon; and the whole terraqueous body will be four times sixteen, that is, sixty-four times, greater than the body of the Moon. Likewise, since the diameter of Venus appears as the tenth part of the diameter of the Sun, its apparent circle will be the hundredth part of the whole circle of the Sun; and so, when Venus comes between us and the Sun, it will appear like a spot on the Sun. And whoever knows these things has the most open access to all the natural disciplines.
 
-E X P L A NAT I O N O F T H E A L G E B R A I C
+## E X P L A NAT I O N O F T H E A L G E B R A I C
 
 Signs which we use in Physics.
 
@@ -7776,15 +7776,15 @@ A<B      . . . . . . . . . . . . . . . that A is less than B.
 
 [PDF 283]
 
-PHILOSOPHY
+## PHILOSOPHY
 
-SECOND VOLUME
+## SECOND VOLUME
 
 containing Physics, both General
 
 and Particular, together.
 
-From the Moderns of better note
+## From the Moderns of better note
 
 excerpted, compiled,
 
@@ -7822,15 +7822,15 @@ Melch. Cano, bk. VIII On the Loci, ch. V.
 
 [p. 1]
 
-ELEMENTS
+## ELEMENTS
 
 O F T H E N E W E R P H I L O S O P H Y.
 
 P A R T I V.
 
-ELEMENTS OF PHYSICS.
+## ELEMENTS OF PHYSICS
 
-PROLEGOMENA.
+## PROLEGOMENA
 
 §. I.
 
@@ -7964,7 +7964,7 @@ and innumerable other things, which must be credited to Physics, afford to human
 
 life.
 
-§. III.
+## §. III
 
 On the Physics of the Peripatetics. 10
 
@@ -8156,7 +8156,7 @@ when the distance is increased, as can be found by experiment in iron attracted 
 
 magnet. These are the rules of philosophizing which we shall use from here on.
 
-§. VII.
+## §. VII
 
 Division of Physics. 24
 
@@ -8180,17 +8180,17 @@ Physics,
 
 [p. 9]
 
-PHYSICS, PART I.
+## PHYSICS, PART I
 
 O N T H E N AT U R E
 
-AND PRINCIPLES OF BODIES.
+## AND PRINCIPLES OF BODIES
 
-D I S S E RTAT I O N I .
+## D I S S E RTAT I O N I 
 
 On physical Body taken generally.
 
-CHAPTER I.
+## CHAPTER I
 
 On the Nature of Body. The opinions of the Philosophers are
 
@@ -8368,7 +8368,7 @@ fire is placed in actual heat, for the Babylonian fire, when applied, was withou
 
 burning.
 
-CHAPTER II.
+## CHAPTER II
 
 Our opinion is set out and proved.
 
@@ -8472,11 +8472,11 @@ distinct from it, since that cannot even be called into doubt; and this notion, 
 
 obvious to anyone, so need not be discussed at length by a Philosopher.
 
-D I S S E RTAT I O N I I .
+## D I S S E RTAT I O N I I 
 
 On the Principles of natural body.
 
-CHAPTER I.
+## CHAPTER I
 
 General notions of principles. 22
 
@@ -8518,7 +8518,7 @@ say that neither matter nor form is admitted by the Moderns. These things, then,
 
 ing established, let us look at the metaphysical system of the Peripatetics.
 
-CHAPTER II.
+## CHAPTER II
 
 The Metaphysical system of the Peripatetics is set out.
 
@@ -8644,7 +8644,7 @@ cause, if a proportionate one is present, or by God alone, as author of nature. 
 
 the system of the Peripatetics.
 
-CHAPTER III.
+## CHAPTER III
 
 The System of Leibniz is very briefly set out and refuted. 30
 
@@ -8730,7 +8730,7 @@ things be explained, as many of them as possible, and as well as possible.
 
 [p. 20]
 
-33 On the reason given for this axiom is founded Axiom IV. That system is to be
+## 33 On the reason given for this axiom is founded Axiom IV. That system is to be
 
 preferred to the rest which not only uses general notions to explain the phenomena of things,
 
@@ -8848,7 +8848,7 @@ that Aristotle’s mind was far different is shown at length by Gassendi (z), St
 
 Stephanus Pace (b), and others.
 
-CHAPTER VI.
+## CHAPTER VI
 
 Artificial Systems. The system of the Atomists is set forth and
 
@@ -8918,7 +8918,7 @@ puscles of this kind which are extended and at the same time indivisible; and th
 
 fore it is contrary to Axiom V.
 
-CHAPTER VII.
+## CHAPTER VII
 
 The system of Descartes is set forth and refuted.
 
@@ -9022,7 +9022,7 @@ machine of the world must have collapsed after more than six thousand years by n
 
 What do the Cartesians say to this?
 
-APPENDIX.
+## APPENDIX
 
 The Newtonian system is touched upon lightly. 47
 
@@ -9096,7 +9096,7 @@ and most weighty philosophers, whom you ought to consult if you are lovers of go
 
 Philosophy.
 
-CHAPTER VIII.
+## CHAPTER VIII
 
 The elementary, or sensible, physical systems,
 
@@ -9160,7 +9160,7 @@ useful for life have flowed. What is to be determined about the system of the
 
 Elementarians and of the chemists we shall see later.
 
-CHAPTER IX.
+## CHAPTER IX
 
 Our doctrine on the internal principles
 
@@ -9264,7 +9264,7 @@ is not properly a being, but a mode of a being, since to subsist by itself belon
 
 a substance, or thing, or being, than to inhere belongs to an accident, or mode of a being.
 
-CHAPTER X.
+## CHAPTER X
 
 By inescapable arguments drawn from Tosca (x), substantial
 
@@ -9364,7 +9364,7 @@ fering mere words, and Philosophy will not be advanced a nail’s breadth by the
 
 cumlocutions and logomachies.
 
-T H E A R G U M E N T S O F T H E P E R I PAT E T I C S A R E A N S W E R E D.
+## T H E A R G U M E N T S O F T H E P E R I PAT E T I C S A R E A N S W E R E D
 
 74
 
@@ -9660,7 +9660,7 @@ that what has been proved essentially of the one need not belong to the other. L
 
 these things that have been said suffice.
 
-CHAPTER XI.
+## CHAPTER XI
 
 On the Secondary, or Sensible, Principles.
 
@@ -9880,7 +9880,7 @@ arises from it; and however the first qualities are mixed, never will a color, o
 
 any other quality differing in species, come from them.
 
-D I S S E RTAT I O N I I I .
+## D I S S E RTAT I O N I I I 
 
 On the properties of bodies.
 
@@ -9902,7 +9902,7 @@ for motion and rest. Moreover, it must be in place and time, of which
 
 Physicists are also wont to treat. We shall give the more useful things.
 
-CHAPTER I.
+## CHAPTER I
 
 O N T H E M A G N I T U D E O F B O D Y.
 
@@ -9920,7 +9920,7 @@ of
 
 of which one thing is called similar or dissimilar to another. This established:
 
-130 I say, first, against many Scholastics: the magnitude of body does not
+## 130 I say, first, against many Scholastics: the magnitude of body does not
 
 consist formally in its impenetrability. Proof: it is plainly established that any two
 
@@ -9980,7 +9980,7 @@ magnitude in any way, since two bodies can be unequal and at the same time
 
 equally impenetrable.
 
-CHAPTER II.
+## CHAPTER II
 
 On the Figure and Situation of bodies.
 
@@ -10068,7 +10068,7 @@ Chapter
 
 [p. 57]
 
-CHAPTER III.
+## CHAPTER III
 
 On the divisibility of bodies.
 
@@ -10200,7 +10200,7 @@ and adorned with a gilded rim, so much space being still left over that four hun
 
 others like them could have been put in.
 
-166 And these few things, out of the many that could be added, which we have
+## 166 And these few things, out of the many that could be added, which we have
 
 put forward to show the extreme divisibility of the continuum and the minuteness of
 
@@ -10604,7 +10604,7 @@ bodies, and shall give an account of their own deeds; and they that have done go
 
 shall go into life everlasting, and they that have done evil into everlasting fire (m).
 
-CHAPTER VI.
+## CHAPTER VI
 
 On the Rarefaction and Condensation of bodies.
 
@@ -10672,7 +10672,7 @@ K                                       203
 
 [p. 72]
 
-203 For while the air is dilated and does not burst out, the whole bulk of the
+## 203 For while the air is dilated and does not burst out, the whole bulk of the
 
 water in which it is contained must necessarily be increased; and consequently, be‐
 
@@ -10766,7 +10766,7 @@ K2                     Dissertation
 
 [p. 74]
 
-D I S S E RTAT I O N I V.
+## D I S S E RTAT I O N I V
 
 O T H E R P R O P E RT I E S O F B O D I E S A R E B R I E F LY
 
@@ -10774,9 +10774,9 @@ S E T F O RT H , A N D T H E P R I N C I PA L
 
 P H E N O M E N A A R E E X P L A I N E D A S C L E A R LY
 
-AS POSSIBLE.
+## AS POSSIBLE
 
-CHAPTER I.
+## CHAPTER I
 
 On the Fermentation of bodies.
 
@@ -10936,7 +10936,7 @@ ural vegetation of plants. These things are rather curious. You will find many o
 
 in the celebrated Authors often praised by me.
 
-CHAPTER II.
+## CHAPTER II
 
 On Time.
 
@@ -10996,7 +10996,7 @@ created, permanent being, dependent on God, and by its own nature incorruptible.
 
 duration of an Angel and of the rational soul.
 
-CHAPTER III.
+## CHAPTER III
 
 It is shown what the place of bodies is.
 
@@ -11384,13 +11384,13 @@ PHYSICS,
 
 PA RT T WO.
 
-ON MOTION.
+## ON MOTION
 
-D I S S E RTAT I O N I .
+## D I S S E RTAT I O N I 
 
 On the local Motion of bodies.
 
-CHAPTER I.
+## CHAPTER I
 
 On the nature of Motion, and incidentally on Rest.
 
@@ -11452,7 +11452,7 @@ Chapter
 
 [p. 93]
 
-CHAPTER II.
+## CHAPTER II
 
 On the properties of motion, and on its divisions.
 
@@ -11664,7 +11664,7 @@ strike any rock, if you apply your mind attentively and with serious meditation
 
 to contemplating the truths.
 
-CHAPTER III.
+## CHAPTER III
 
 On the Newtonian laws of Nature. 289
 
@@ -11682,7 +11682,7 @@ been said before on this argument to three principal heads, which today are
 
 commonly called by Philosophers the Newtonian Laws of Nature.
 
-LEMMA.
+## LEMMA
 
 290
 
@@ -11912,7 +11912,7 @@ will communicate to it half of its velocity; if the other is half as large, two 
 
 double, it bestows on it one third part of its celerity.
 
-FOR THE SECOND CASE. 314
+## FOR THE SECOND CASE. 314
 
 I   f two bodies are carried toward the same part with unequal celerity, whether their masses
 
@@ -11944,7 +11944,7 @@ into this one as entirely at rest. Wherefore the same must follow as in the form
 
 case.
 
-FOR THE THIRD CASE.
+## FOR THE THIRD CASE
 
 316
 
@@ -12002,7 +12002,7 @@ Laws
 
 L AW S O F M O T I O N I N T H E C O L L I S I O N O F E L A S T I C
 
-BODIES.
+## BODIES
 
 F O R T H E F I RS T C AS E .
 
@@ -12090,7 +12090,7 @@ tion and yield in the opposite direction, for that reason the body A goes back a
 
 the impact with a celerity of only = 2.
 
-FOR THE SECOND CASE.
+## FOR THE SECOND CASE
 
 324
 
@@ -12176,7 +12176,7 @@ elastic motion tending in the contrary direction (which equals the percussion, a
 
 the percussion is = 10), and after the impact goes back with a velocity = 1.
 
-FOR THE THIRD CASE.
+## FOR THE THIRD CASE
 
 330
 
@@ -12362,7 +12362,7 @@ tion takes place in clean and polished bodies, it can be taken as a principle, s
 
 to speak, that the angle of incidence is equal to the angle of reflection.
 
-CHAPTER VI.
+## CHAPTER VI
 
 On Refracted Motion and its laws.
 
@@ -12406,7 +12406,7 @@ Dissertation
 
 [p. 113]
 
-DISSERTATION II.
+## DISSERTATION II
 
 S TAT I C S ,
 
@@ -12416,7 +12416,7 @@ On certain particular motions
 
 of solid bodies.
 
-CHAPTER I.
+## CHAPTER I
 
 Preliminary notions are proposed.
 
@@ -12584,7 +12584,7 @@ Chapter
 
 [p. 117]
 
-CHAPTER II.
+## CHAPTER II
 
 On the Principles, or fundamental Laws, and the Instruments
 
@@ -12612,7 +12612,7 @@ derstanding of Beginners and in keeping with the plan and brevity of our
 
 Elements. Let them follow, then, in order.
 
-P R I N C I P L E O F S TAT I C S I .
+## P R I N C I P L E O F S TAT I C S I 
 
 358
 
@@ -12638,7 +12638,7 @@ body A is to the velocity of body B as AE to BE, that is, as their distances fro
 
 the center of motion E.
 
-P R I N C I P L E O F S TAT I C S I I .
+## P R I N C I P L E O F S TAT I C S I I 
 
 360
 
@@ -12694,7 +12694,7 @@ other: they will therefore not persist balanced, but the one that is removed fur
 
 ther will also preponderate more.
 
-P R I N C I P L E O F S TAT I C S I I I .
+## P R I N C I P L E O F S TAT I C S I I I 
 
 362
 
@@ -12748,7 +12748,7 @@ rationale of weighing instruments, or Statical ones: the chief of them are held 
 
 the Balance and the Steelyard.
 
-ON THE BALANCE.
+## ON THE BALANCE
 
 364
 
@@ -12834,7 +12834,7 @@ it happens that by this exchange of the pans the same bodies appear now equal, n
 
 equal, it is manifest that the balance is deceitful and unjust. (o)
 
-O N T H E S T E E LYA R D.
+## O N T H E S T E E LYA R D
 
 367
 
@@ -12936,7 +12936,7 @@ detect the deceit, the distinguished Wolff says (p) it is better that it be bani
 
 common life.
 
-DISSERTATION III.
+## DISSERTATION III
 
 MECHANICS,
 
@@ -12972,7 +12972,7 @@ Q2                                   Principle
 
 [p. 122]
 
-PRINCIPLE OF MECHANICS.
+## PRINCIPLE OF MECHANICS
 
 373
 
@@ -13016,7 +13016,7 @@ be counted among the gains. This being established, let us weigh the machines
 
 for a while, so far as is necessary for the purpose of Physics.
 
-ON THE LEVER.
+## ON THE LEVER
 
 375
 
@@ -13056,7 +13056,7 @@ In
 
 [p. 123]
 
-377 In the first kind of lever, by as much as the distance CB exceeds the dis‐
+## 377 In the first kind of lever, by as much as the distance CB exceeds the dis‐
 
 tance AC, by so much does the power B exceed the resistance of the body A: and
 
@@ -13080,7 +13080,7 @@ that the moving power can move a lighter weight with a greater velocity: which i
 
 not without its utility when a saving of time is sought.
 
-ON THE WHEEL AND AXLE.
+## ON THE WHEEL AND AXLE
 
 378
 
@@ -13340,7 +13340,7 @@ it were made wholly of gold, could be raised on high from its place by a power w
 
 ing 125 pounds (s).
 
-ON THE INCLINED PLANE.
+## ON THE INCLINED PLANE
 
 388
 
@@ -13520,7 +13520,7 @@ chine itself, through the spirals as through so many inclined planes, and is at 
 
 poured out at A.
 
-ON THE WEDGE. 395
+## ON THE WEDGE. 395
 
 T    he wedge is a quadrangular pyramid ending in an edge. (Fig. XLVII.) The plane A
 
@@ -13672,7 +13672,7 @@ VI.
 
 [p. 133]
 
-409 VI. The screw, which is usually fitted up in many ways, is employed for a
+## 409 VI. The screw, which is usually fitted up in many ways, is employed for a
 
 great many uses. Forces are increased very much by its means, and indeed with such
 
@@ -13706,7 +13706,7 @@ acrid and corrosive poisons, such as sublimate of mercury, arsenic, aqua fortis,
 
 which act like wedges.
 
-NOTE.
+## NOTE
 
 411
 
@@ -13754,9 +13754,9 @@ Dissertation
 
 [p. 134]
 
-DISSERTATION IV.
+## DISSERTATION IV
 
-H Y D RO S TAT I C S .
+## H Y D RO S TAT I C S 
 
 Principles of Hydrostatics.
 
@@ -14192,7 +14192,7 @@ we have excerpted this whole Dissertation.
 
 [p. 143]
 
-CHAPTER I.
+## CHAPTER I
 
 On the notions preliminary to the question of electric virtue.
 
@@ -14256,7 +14256,7 @@ T                                  Chapter
 
 [p. 144]
 
-CHAPTER II.
+## CHAPTER II
 
 On the principal electric experiments. 450
 
@@ -14384,7 +14384,7 @@ reported by the most distinguished men Nollet, Franklin, Beccaria, Paulian, and 
 
 ers, of which we shall try to give the explanation in the following chapter.
 
-CHAPTER III.
+## CHAPTER III
 
 On the Causes of Electric Virtue. 464
 
@@ -14628,7 +14628,7 @@ matter: therefore the opinion of Mr. Du Fay about the electric matter is to be r
 
 jected as false.
 
-THE OPINION OF MR. DE MOLIÈRES.
+## THE OPINION OF MR. DE MOLIÈRES
 
 475
 
@@ -14736,7 +14736,7 @@ tain that the electric matter is denser in rare bodies than in dense ones; there
 
 this head it is to be rejected.
 
-THE OPINION OF MR. FRANKLIN.
+## THE OPINION OF MR. FRANKLIN
 
 479
 
@@ -14832,7 +14832,7 @@ ger and the matter flowing out of the tube, which is likewise electric: therefor
 
 not absolutely all electric phenomena are explained in the Nolletian opinion.
 
-THE OPINION OF THE MOST DISTINGUISHED
+## THE OPINION OF THE MOST DISTINGUISHED
 
 PA U L I A N , W H I C H I S A L S O O U R S .
 
@@ -15202,7 +15202,7 @@ on compact bodies alone. Of exhalations of this species were formed the thunder�
 
 bolts which melted the sword, leaving the scabbard untouched.
 
-525 You will ask, finally: Whence does the stupendous force of the kindled ex‐
+## 525 You will ask, finally: Whence does the stupendous force of the kindled ex‐
 
 halation arise? I reply: it arises first from the very velocity of fire, which all know
 
@@ -15238,7 +15238,7 @@ that we say a few things about earthquakes, with which thunder is rightly seen t
 
 have a great analogy.
 
-CHAPTER VI.
+## CHAPTER VI
 
 On Earthquakes, as Depending on Electricity.
 
@@ -15392,7 +15392,7 @@ earth, which infect the air: therefore pestilence must have proceeded from cer�
 
 tain earthquakes.
 
-CHAPTER VII.
+## CHAPTER VII
 
 On the Fluidity of Bodies, as Connected with Electricity.
 
@@ -15564,17 +15564,17 @@ mometer to which a livelier electricity has been communicated than in a similar
 
 thermometer which has acquired no electricity. And so much for Electricity.
 
-PHYSICS
+## PHYSICS
 
 P A R T I V.
 
 O N T H E Q UA L I T I E S O F B O D I E S.
 
-D I S S E RTAT I O N I .
+## D I S S E RTAT I O N I 
 
 On the Physical Nature of Sensible Quality.
 
-CHAPTER I.
+## CHAPTER I
 
 The Necessary Notions Are Set Forth First.
 
@@ -15792,7 +15792,7 @@ amputated part of the body the same motions sometimes arise from extrinsic cause
 
 which external objects would excite if no part had been cut off.
 
-CHAPTER II.
+## CHAPTER II
 
 The Physical Nature of Sensible Quality Is Established.
 
@@ -15852,11 +15852,11 @@ itual qualities of the soul and strive to demonstrate that these are of this nat
 
 the most celebrated Fortunato da Brescia excellently observes.
 
-D I S S E RTAT I O N I I .
+## D I S S E RTAT I O N I I 
 
 On Tactile Qualities.
 
-CHAPTER I.
+## CHAPTER I
 
 On Heat.
 
@@ -16030,7 +16030,7 @@ is increased: a very strong argument indeed that its consistency comes from
 
 heat not directly and of itself, but by accident.
 
-CHAPTER II.
+## CHAPTER II
 
 On Cold.
 
@@ -16154,7 +16154,7 @@ or wholly suppressed transpiration there ensue innumerable kinds of diseases, an
 
 even death itself.
 
-597 From the abuse of cold drink its use too is understood. Namely, if there is
+## 597 From the abuse of cold drink its use too is understood. Namely, if there is
 
 excessive extension and relaxation in the fibers, and atony of the nerves, in these
 
@@ -16166,7 +16166,7 @@ which one is entitled On Cold Drink, Most Hostile to the Life and Health of Men;
 
 other, however, On the Wholesome Drinking of Cold Water.
 
-CHAPTER III.
+## CHAPTER III
 
 O N T H E C R I T E R I O N O F H E AT A N D C O L D.
 
@@ -16240,13 +16240,13 @@ at the height a B, today’s gravity of the atmosphere will be to yesterday’s 
 
 height a e is to the height a B. But enough of these things.
 
-DISSERTATION III.
+## DISSERTATION III
 
 On the Qualities perceived by Smell, Taste,
 
 and Hearing.
 
-CHAPTER I.
+## CHAPTER I
 
 In what does the smell of bodies consist?
 
@@ -16352,7 +16352,7 @@ puscles from which all sensible bodies first arise. Very many things on this mat
 
 have been said by us in §§. 158 ff. and §. 185.
 
-CHAPTER II.
+## CHAPTER II
 
 In what does the taste of bodies consist?
 
@@ -16432,7 +16432,7 @@ fore pleases no longer. Whence the Spanish proverb has gained currency: sobre gu
 
 no hai disputas [there is no disputing about tastes].
 
-CHAPTER III.
+## CHAPTER III
 
 On Sound, and its principal affections.
 
@@ -16620,7 +16620,7 @@ which the drum is either drawn tight or slackened: you have an analogy in the mi
 
 tary drum, whose membrane is stretched more or less by means of cords.
 
-634 Moreover, just as the crystalline lens is determined to a greater or smaller
+## 634 Moreover, just as the crystalline lens is determined to a greater or smaller
 
 contraction by the first projection of the rays, to receiving which and to projecting
 
@@ -16632,13 +16632,13 @@ about that it very easily accommodates itself to swifter or longer-lasting ones,
 
 perceives the differences of sounds also as to low and high.
 
-DISSERTATION IV.
+## DISSERTATION IV
 
 On visible Qualities, or
 
 on Light and its properties.
 
-CHAPTER I.
+## CHAPTER I
 
 The nature of light, both primitive and derivative, is inquired
 
@@ -16864,7 +16864,7 @@ Chapter
 
 [p. 209]
 
-CHAPTER II.
+## CHAPTER II
 
 On the reflection and refraction of light.
 
@@ -16950,7 +16950,7 @@ Chapter
 
 [p. 211]
 
-CHAPTER III.
+## CHAPTER III
 
 Some things pertaining to Optics, Catoptrics and Dioptrics are
 
@@ -17060,11 +17060,11 @@ Dissertation
 
 [p. 214]
 
-DISSERTATION V.
+## DISSERTATION V
 
 On insensible Qualities.
 
-CHAPTER I.
+## CHAPTER I
 
 On Sympathy, Antipathy, Idiosyncrasy and Antiperistasis.
 
@@ -17162,7 +17162,7 @@ of sense now hot, now cold, according to the different constitution of the senso
 
 as was explained by us in the Logic.
 
-692 Hence, when in winter we pass from the colder air, the sensorium being al‐
+## 692 Hence, when in winter we pass from the colder air, the sensorium being al‐
 
 ready taken over by the force of cold, into a less cold one, such as there is in subter‐
 
@@ -17182,7 +17182,7 @@ Kircher (x), Fr. de Lana (y), Schott (z) and other Moderns, whom you may consult
 
 Let us say a few things about the Powers of medicines.
 
-CHAPTER II.
+## CHAPTER II
 
 On the Powers of medicines, poisons, and Alexipharmics.
 
@@ -17248,7 +17248,7 @@ of two months is tempered, for more than half of that space of time, by the sple
 
 of the Moon.
 
-CHAPTER III.
+## CHAPTER III
 
 The systems of the world are briefly set out.
 
@@ -17412,7 +17412,7 @@ Physics
 
 [p. 222]
 
-PHYSICS
+## PHYSICS
 
 P A R T V, A N D L A S T.
 
@@ -17422,13 +17422,13 @@ O N T H E E L E M E N T A RY W O R L D,
 
 AND TERRESTRIAL BODIES,
 
-ON METEORS, AND PLANTS.
+## ON METEORS, AND PLANTS
 
-D I S S E RTAT I O N I .
+## D I S S E RTAT I O N I 
 
 On the Composition of the World.
 
-CHAPTER I.
+## CHAPTER I
 
 A summary doctrine of the structure of the visible world-sphere is
 
@@ -17540,7 +17540,7 @@ their interposition the temperate Zones are distinguished from the frigid. All t
 
 things will be understood more clearly by inspecting some armillary sphere.
 
-CHAPTER II.
+## CHAPTER II
 
 On the threefold position of the Sphere.
 
@@ -17626,7 +17626,7 @@ of two months is tempered, for more than half of that space of time, by the sple
 
 of the Moon.
 
-CHAPTER III.
+## CHAPTER III
 
 The systems of the world are briefly set out.
 
@@ -17850,7 +17850,7 @@ Copernicus and Galileo as ratified and fixed, since we said from the very beginn
 
 that we adopt it only as a mere hypothesis for explaining the phenomena.
 
-APPENDIX.
+## APPENDIX
 
 What is to be thought of the influence of the Stars?
 
@@ -18086,11 +18086,11 @@ atmosphere present at the time, filled, namely, either with excessive moisture o
 
 other noxious effluvia.
 
-DISSERTATION II.
+## DISSERTATION II
 
 O N T H E E L E M E N TA L E A RT H .
 
-CHAPTER I.
+## CHAPTER I
 
 On the Nature of the Earth.
 
@@ -18136,7 +18136,7 @@ cles be not only coarser and more entangled with one another, but also less apt
 
 for motion.
 
-REMARK.
+## REMARK
 
 762
 
@@ -18164,7 +18164,7 @@ constitute a dry, inert, and fixed body. On this, however, we determine nothing
 
 certain.
 
-CHAPTER II.
+## CHAPTER II
 
 On the Figure, Situation, and Magnitude of the Terraqueous
 
@@ -18232,7 +18232,7 @@ One celestial degree contains 25 common leagues of France: and a common
 
 league contains 2400 geometric paces.
 
-CHAPTER III.
+## CHAPTER III
 
 On Certain Terrestrial Bodies, and First on Petrifications.
 
@@ -18504,7 +18504,7 @@ certainly confirm, not in vain, the efflux and the influx, and the circulation, 
 
 effluvia around the surface of the Earth.
 
-SCHOLIUM I. 786
+## SCHOLIUM I. 786
 
 T     he   phenomenon    of  magnetic    declination is fittingly expounded in our
 
@@ -18552,7 +18552,7 @@ Scholium
 
 [p. 246]
 
-SCHOLIUM II.
+## SCHOLIUM II
 
 788
 
@@ -18572,7 +18572,7 @@ the Equator, where, namely, neither effluvia prevail and the place stands off fr
 
 the poles by an equal interval, keeps a perfect equilibrium, free of all inclination.
 
-SCHOLIUM III.
+## SCHOLIUM III
 
 789
 
@@ -18656,7 +18656,7 @@ nothing resists, it follows that by its pressure the iron is urged toward the ma
 
 [p. 249]
 
-798 That this can come about by the help of effluvia is fittingly shown; first
+## 798 That this can come about by the help of effluvia is fittingly shown; first
 
 of all from the fact that the little fibers of iron are softer and more flexible than
 
@@ -18674,7 +18674,7 @@ is separated from it by fire, so the magnetic force is said to be removed from
 
 magnetic iron by fire?
 
-REMARK.
+## REMARK
 
 799
 
@@ -18724,11 +18724,11 @@ Ii 2                            Dissertation
 
 [p. 250]
 
-DISSERTATION III.
+## DISSERTATION III
 
 O N WA T E R A S A N E L E M E N T.
 
-CHAPTER I.
+## CHAPTER I
 
 On the Nature of Water.
 
@@ -18800,7 +18800,7 @@ Scholium.
 
 [p. 251]
 
-SCHOLIUM.
+## SCHOLIUM
 
 805
 
@@ -18830,7 +18830,7 @@ Finally, water must be insipid and odorless, because the extremities of its part
 
 are blunter.” Thus he.
 
-CHAPTER II.
+## CHAPTER II
 
 On Springs, Rivers, and the Other Waters. 806
 
@@ -18898,15 +18898,15 @@ Dissertation
 
 [p. 254]
 
-D I S S E RTAT I O N I V.
+## D I S S E RTAT I O N I V
 
 ON THE ELEMENTS OF AIR AND FIRE,
 
-AND ON THE SUBLIME BODIES, OR
+## AND ON THE SUBLIME BODIES, OR
 
-METEORS, AND ALSO ON PLANTS.
+## METEORS, AND ALSO ON PLANTS
 
-CHAPTER I.
+## CHAPTER I
 
 On the Nature of Air.
 
@@ -19056,7 +19056,7 @@ Chapter
 
 [p. 257]
 
-CHAPTER II.
+## CHAPTER II
 
 On the Nature of Fire.
 
@@ -19086,7 +19086,7 @@ the motions of rarefaction, dissolution, combustion, etc., the quantity of mo‐
 
 tion in fire be very great.
 
-SCHOLIUM.
+## SCHOLIUM
 
 828
 
@@ -19156,7 +19156,7 @@ seen) has treated of fire better than Boerhaave, so often and never sufficiently
 
 praised, in the Elementa Chemiae. Consult him, if you want more.
 
-CHAPTER III.
+## CHAPTER III
 
 On Meteors in General.
 
@@ -19424,13 +19424,13 @@ Ll 2                                    Index
 
 [PDF 550]
 
-OF THE ELEMENTS OF THE NEWER
+## OF THE ELEMENTS OF THE NEWER
 
-PHILOSOPHY
+## PHILOSOPHY
 
-PART IV.
+## PART IV
 
-ELEMENTS OF PHYSICS.
+## ELEMENTS OF PHYSICS
 
 PROLEGOMENA. §. I. On Physics and its scope.                                          p. 1.
 

@@ -18,25 +18,19 @@ generated: 2026-10-24 by corpus.py
 
 Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong.
 
-> [scan 16] EXTRAIT DE LA *REVUE BLEUE* / du 15 mars 1902
+[scan 16]
 
-[scan 16] OFFPRINT FROM THE *REVUE BLEUE* / of March 15, 1902
+#### EXTRAIT DE LA *REVUE BLEUE* / du 15 mars 1902 — OFFPRINT FROM THE *REVUE BLEUE* / of March 15, 1902
 
-> [scan 17] ÉMILE BOUTROUX / MEMBRE DE L'INSTITUT / PROFESSEUR À L'UNIVERSITÉ DE PARIS
+[scan 17]
 
-[scan 17] ÉMILE BOUTROUX / MEMBER OF THE INSTITUT / PROFESSOR AT THE UNIVERSITY OF PARIS
+#### ÉMILE BOUTROUX / MEMBRE DE L'INSTITUT / PROFESSEUR À L'UNIVERSITÉ DE PARIS — ÉMILE BOUTROUX / MEMBER OF THE INSTITUT / PROFESSOR AT THE UNIVERSITY OF PARIS
 
-> La Psychologie / du Mysticisme
+#### La Psychologie / du Mysticisme — The Psychology / of Mysticism
 
-The Psychology / of Mysticism
+#### CONFÉRENCE / FAITE / A L'INSTITUT PSYCHOLOGIQUE INTERNATIONAL / LE 7 FÉVRIER 1902 — LECTURE / DELIVERED / AT THE INSTITUT PSYCHOLOGIQUE INTERNATIONAL / ON FEBRUARY 7, 1902
 
-> CONFÉRENCE / FAITE / A L'INSTITUT PSYCHOLOGIQUE INTERNATIONAL / LE 7 FÉVRIER 1902
-
-LECTURE / DELIVERED / AT THE INSTITUT PSYCHOLOGIQUE INTERNATIONAL / ON FEBRUARY 7, 1902
-
-> ÉDITIONS / DE LA REVUE BLEUE / 41 bis, rue de Châteaudun, PARIS.
-
-PUBLISHED BY / THE REVUE BLEUE / 41 bis, rue de Châteaudun, PARIS.
+#### ÉDITIONS / DE LA REVUE BLEUE / 41 bis, rue de Châteaudun, PARIS. — PUBLISHED BY / THE REVUE BLEUE / 41 bis, rue de Châteaudun, PARIS.
 
 [scan 19]
 
@@ -264,6 +258,4 @@ Mysticism, however, suggests the idea of a [p. 22] different method. If even now
 
 If these reflections have some foundation, it seems that a broad and complete study of mysticism offers not merely an interest of curiosity, even scientific curiosity, but also concerns, very directly, the life and destiny of individuals and of humanity.
 
-> Imp. Ch. Renaudie, 56, r. de Seine, Paris.
-
-Printed by Ch. Renaudie, 56, rue de Seine, Paris.
+#### Imp. Ch. Renaudie, 56, r. de Seine, Paris. — Printed by Ch. Renaudie, 56, rue de Seine, Paris.

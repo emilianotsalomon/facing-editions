@@ -24,7 +24,7 @@ OF MEXICO D R AW N F R O M T H E B E S T S P A N I S H H I S T O R I A N S , A N
 
 DIVIDED INTO TEN BOOKS,
 
-AND FURNISHED WITH MAPS
+## AND FURNISHED WITH MAPS
 
 A N D VA R I O U S F I G U R E S :
 
@@ -32,15 +32,15 @@ AND
 
 D I S S E RTAT I O N S O N T H E L A N D, T H E A N I M A L S , A N D T H E I N H A B I TA N T S O F M E X I C O.
 
-A WORK
+## A WORK
 
-BY THE ABBÉ
+## BY THE ABBÉ
 
 D O N F R A N C E S C O S AV E R I O
 
 C L AV I G E R O
 
-VOLUME III.
+## VOLUME III
 
 CESENA, MDCCLXXX. P R I N T E D B Y G R E G O R I O B I A S I N I AT T H E S I G N O F PA L L A S .
 
@@ -1730,7 +1730,7 @@ assault
 
 assault the camp of the Spaniards. This assault was so violent that, Bk. VIII. forcing the entrenchments, they entered the camp and fought hand to hand with the Spaniards. The Tlaxcalans might have been victors this time, not so much because of the far superior number of their troops as because of their bravery and the quality of their arms, which were pikes, lances, swords, and darts with two and three points, had not the discord that arose among them made victory easier for their enemies. The son of Chichimecatecuhtli, who was commander of the body of troops of his father (*), having been insulted with words by the arrogant Xicotencatl, conceived such great indignation that he challenged him to a duel, which should decide the question of their courage and of their fortune; and not being able to obtain this satisfaction from him, in order to take some vengeance he withdrew from the field the troops who were under his orders, and induced the same course in those of Tlehuexolotzin. Despite so great a diminution of the army, the battle was very obstinate and bloody. The Spaniards, after having courageously repulsed the troops that had assaulted their camp, marched in battle order against the main body of the Tlaxcalan army. The slaughter which the artillery made in the crowded multitude was not enough to make the Tlaxcalans turn their backs, nor to prevent them from promptly filling those gaps which the dead left; indeed with their firmness and intrepidity they had thrown the Spaniards into confusion, in spite of the clamors and reproaches of Cortés and his captains. At last, after four hours of fighting, the Spaniards returned victorious to their camp, although the Tlaxcalans did not cease to assault them often on that same day. Of the Spaniards only one man was lost, and sixty were wounded, and all the horses. Of the Tlaxcalans very many were killed; but not even one corpse
 
-was
+## was
 
 (*) Solís says that Chichimecatecuhtli was an ally of the Tlaxcalans, but this is a manifest error, since we know from all the historians that he was a Tlaxcalan, and one of the most distinguished lords of that republic.
 
@@ -2020,7 +2020,7 @@ were given to the captains Cristóbal de Olid, Gonzalo de Sandoval, and Alonso d
 
 Encouraged by so happy a beginning, Cortés wished to persuade the chiefs of the republic and the nobility to detest their superstition and to acknowledge the one true Deity; but they, though convinced by his reasons, and confessing the goodness and the power of the God whom the Spaniards worshiped, were nevertheless not induced to renounce their so-called gods, because they considered them necessary for human happiness. “Our god Camaxtle,” they said, “grants us victory over our enemies; our goddess Matlalcueye sends the rain necessary to our fields, and defends us from the inundations of the Zahuapan. (*) To each of our gods we are indebted for a part of the happiness of our life, and their wrath, provoked by our ingratitude, could bring down the most terrible punishments upon the state.” Cortés, animated by a zeal too ardent and violent, wished to do to the idols of Tlaxcala what he had done with good success to those of Cempoala; but Father Olmedo and other persons of standing dissuaded him from so rash an attempt, representing to him that such violence, besides being unsuited to the peaceful promulgation of the Gospel, could cause the total ruin of the Spaniards in a city so populous and so attached to superstition. Nevertheless, during the twenty days that he stayed there he never ceased to reproach them with the abominable cruelty of their sacrifices, and to inculcate the purity and the holiness of the Christian religion, the falsity of the gods they worshiped, and the existence of a Supreme Being, who rules all natural causes and watches with admirable providence over the preservation of his creatures. These exhortations, made by a man of such authority, of whom the Tlaxcalans had formed too exalted an idea, though they did not produce all the fruit that was desired, were nevertheless quite useful, since the senate
 
-was
+## was
 
 (*) A river of Tlaxcala.
 
@@ -2978,7 +2978,7 @@ Book
 
 [p. 80]
 
-BOOK IX.
+## BOOK IX
 
 Conferences of King Moctezuma with the Spanish general. Imprisonment of
 
@@ -4262,7 +4262,7 @@ I
 
 [p. 112]
 
-I would keep you still without any change, every day furnishing you Bk. IX.
+## I would keep you still without any change, every day furnishing you Bk. IX.
 
 ever greater proofs of my benevolence; but it cannot be; for neither
 
@@ -6398,7 +6398,7 @@ Ancient History of Mexico, Vol. III.               X                       Book
 
 [p. 162]
 
-BOOK X.
+## BOOK X
 
 March of the Spaniards to Texcoco: their negotiations with the Mexicans, their
 
@@ -6460,7 +6460,7 @@ to the posterity of Montagno.
 
 be employed in the siege of Mexico; and when it seemed to him that it was time to march, he reviewed his troops, which consisted of forty Bk. X. horse and five hundred and fifty foot. He divided that small cavalry into four parts, and the infantry into nine companies, armed some with muskets, others with crossbows, others with sword and buckler, and others with pikes. From his horse, on which he was drawing up his troops, he made them this address: “Friends and comrades of mine, any discourse that I might wish to make to animate your bravery is altogether superfluous, since we all acknowledge ourselves obliged to repair the honor of our arms and to avenge the death of our Spaniards and allies. Let us go to the conquest of Mexico, the most glorious enterprise of any that can ever be offered to us in all our life. Let us go to punish at one stroke the perfidy, the pride, and the cruelty of our enemies, to enlarge the dominions of our sovereign by adding to them a kingdom so great and so rich, to smooth the road for the Gospel, to open the gate of Heaven to so many millions of souls, to secure by the toil of a few days the comfort of our families, and to make our name immortal: incentives capable of encouraging even the most cowardly minds, let alone hearts so noble and generous as yours. I see no difficulty that your bravery cannot overcome. It is true that our enemies are many; but we are superior to them in courage, in discipline, and in arms. Besides, we have under our orders so great a number of auxiliary troops that, helped by them, we could conquer not only one but many cities equal to that of Mexico. Let it be as strong as you please; but it is not so strong that it can resist the attacks which we must give it by land and by water. Finally, God, for whose glory we fight, has declared that he will second our designs. His providence has preserved us in the midst of so many perils and disasters, has sent us new companions in place of those whom we have lost,
 
-X2                     and
+## X2                     and
 
 [p. 164]
 
@@ -7138,7 +7138,7 @@ approached
 
 approached those memorable ditches in which nine months before they had been defeated. There they met a terrible resistance, and all Bk. X. at once were on the point of perishing; for, engaged in pursuing certain Mexican troops that had come on purpose to insult them in order to draw them into danger, they found themselves suddenly assailed on both sides of the causeway by so great a number of enemies that they retreated with difficulty, fighting furiously as far as the mainland. In this conflict five Spaniards were killed, and many wounded. Many of the Mexicans were left dead in this and in the other fights. Cortés, displeased at the ill success of his expedition, returned with his army by the same road to Texcoco, receiving on his march fresh insults from the enemy, who ascribed his retreat to fear and cowardice. (g) The Tlaxcalans who accompanied the Spaniards on that expedition, having amassed a great sum of spoils, asked Cortés for permission to carry it to their homeland, and Cortés granted it willingly. (h)
 
-Z2                    Sandoval
+## Z2                    Sandoval
 
 (g) Solís, wishing to give the lie to Bernal Díaz, says thus: “Whatever our historian may say to discredit this expedition (to Tlacopan), it was so important to the principal end that scarcely had Cortés returned to Texcoco when the caciques of Tucapan, of Mascalzingo, and of Auhtlan (so he calls Tuzapan, Mexicaltzinco, and Nauhtlan), and other peoples of the northern shore, came to him as suppliants to give obedience: which shows that the Spaniards returned with reputation, etc.” But setting aside the ambiguous expression northern shore, which readers unacquainted with the geography of that kingdom will perhaps understand of the shore of the lake, though it must be understood of that of the sea, and the error in saying that the lords of those places came to Texcoco, whereas we know from the testimony of Cortés that they sent their ambassadors there, it is certain that those lords could not have been induced to send such an embassy by the news of what had happened at Tlacopan, because their ambassadors arrived at Texcoco four days after that expedition, as Bernal Díaz, an eyewitness, affirms, and their cities were distant from that court more than 200 miles.
 
@@ -8600,7 +8600,7 @@ of
 
 of hunger; that they could still avoid the disasters that threatened them; that if they consented to the proposals of peace, he would at Bk. X. once cause all hostilities to cease, the king would remain in peaceful possession of the crown, with all the greatness, all the power, and all the authority which he had hitherto enjoyed, and his subjects would remain free and masters of all their goods, without his requiring anything more from His Majesty or from his subjects than the homage due to the King of Spain, as supreme lord of that empire, whose rights had already been recognized by the Mexicans themselves, as resting on the ancient tradition of their ancestors; that if on the contrary he persisted in the war, he would be deprived of the crown, the greater part of his vassals would lose their lives, and that fine and great city would be utterly ruined. The king consulted his councilors, the generals of the army, and the heads of religion; he laid before them the subject of the embassy, the state of that court, the scarcity of provisions, the affliction of the people, and the still greater evils that threatened them, and commanded them to say freely what they thought. Some, foreseeing the outcome of the war, inclined toward peace; others, spurred by hatred of the Spaniards or by the incentive of honor, advised war. The priests, whose authority in this matter as in others was held in the highest respect, strongly opposed peace, alleging several pretended oracles of their gods, whose anger was to be feared if they yielded to the demands of those cruel enemies of their worship, and whose protection had to be sought with prayers and sacrifices. This opinion prevailed in the end, through the superstitious fear that had taken possession of their minds, and in accordance with it the Spanish general was answered that he should continue the war, since they had resolved to defend themselves to their last breath. Had they been brought to such a resolution not by superstition but by honor, by love of their country and of their own liberty, they would not have been so blameworthy, because although they foresaw their ruin as inevitable by continuing the war,
 
-they
+## they
 
 [p. 216]
 
@@ -9230,7 +9230,7 @@ friend and protector to avoid losing his crown, his liberty, and his life? He de
 
 The news of the capture of the capital having spread at once throughout the land, the provinces of the empire gave obedience to Cortés, although there were some which even two years afterward troubled the Spaniards with war. The
 
-allies
+## allies
 
 (*) Bernal Díaz del Castillo.
 
@@ -9340,7 +9340,7 @@ doms of the earth.
 
 End of the Third Volume.
 
-DESCENDANTS
+## DESCENDANTS
 
 leaves of trifles; and what is worse, Torquemada, who labored twenty years on the
 
@@ -9356,7 +9356,7 @@ the conversion of those kings.
 
 D E S C E N DA N T S
 
-OF KING MOCTEZUMA
+## OF KING MOCTEZUMA
 
 Moctezuma, ninth king of Mexico, married to Miahuaxochitl his niece.
 
@@ -9396,7 +9396,7 @@ II.
 
 3. Doña Juana Cortés Ramírez de Arellano, 5th Marchioness del Valle, married to Don Pedro Carrillo de Mendoza, 9th Count of Priego, Asistente and Captain General of Seville, and chief steward of Queen Doña Margarita of Austria. Their daughter was ═══
 
-III.
+## III
 
 Doña Estefanía Carrillo de Mendoza y Cortés, 6th Marchioness del Valle, wife of Don Diego de Aragón, 4th Duke of Terranova, Prince of Castelvetrano and of the Holy Roman Empire, Marquis of Avola and of Favara, High Constable and Admiral of Sicily, Commander of Villafranca, Viceroy of Sardinia, Knight of the illustrious Order of the Golden Fleece. Their only daughter was ═══
 
@@ -9418,11 +9418,11 @@ VI.
 
 Donna Giovanna Pignatelli d'Aragon, Pimentel, Carrillo de Mendoza y Cortés, 7th Duchess of Monteleone, 7th Duchess of Terranova, 9th Marchioness del Valle, Grandee of Spain, etc., wife of Don Niccolò Pignatelli, of the Princes of Noia and of Cerchiara, Prince of the Holy Roman Empire, Viceroy of Sardinia and of Sicily, Knight of the Golden Fleece, etc. Their son was ═══
 
-VII.
+## VII
 
 Don Diego Pignatelli d'Aragon, etc., 8th Duke of Monteleone, 8th Duke of Terranova, 10th Marquis del Valle, Grand Admiral and High Constable of the kingdom of Sicily, Grandee of Spain, Prince of the Holy Roman Empire, Knight of the Golden Fleece, etc., married to Donna Margherita Pignatelli, of the Dukes of Bellosguardo. Their son was ═══
 
-VIII.
+## VIII
 
 Don Fabrizio Pignatelli d'Aragon, etc., 9th Duke of Monteleone, 9th Duke of Terranova, 11th Marquis del Valle, Grandee of Spain, Prince of the Holy Roman Empire, etc., married to Donna Costanza Medici, of the Princes of Ottaviano. Their son was ═══
 
@@ -9432,15 +9432,15 @@ Don Ettore Pignatelli d'Aragon, etc., 10th Duke of Monteleone, 10th Duke of Terr
 
 From that most noble couple, whom we have placed under number VI, were born four sons, Diego, Ferdinando, Antonio, and Fabrizio, and as many daughters, Rosa, Maria Teresa, Stefania, and Caterina. 1. Don Diego was the heir of the marquisate of the Valle, or of the Vaglio, as they say in Naples, and of the duchies of Monteleone and of Terranova. 2. Don Ferdinando married Donna Lucrezia Pignatelli, Princess of Strongoli, whose son Don Salvatore took Donna Giulia Mastrilli, of the Dukes of Marigliano. 3. Don Antonio married in Spain the only daughter of the Count of Fuentes. From that marriage was born Don Gioacchino Pignatelli d'Aragon, Moncayo, etc., Count of Fuentes, Marquis of Coscojuela, Grandee of Spain, Prince of the Holy Roman Empire, Knight of the Golden Fleece and of Santiago, etc., Ambassador of the King of Spain at the courts of England and of France, and President of the Royal Council of the Military Orders, whose son Don Luigi, now living, has married the only daughter and heiress of Casimiro Pignatelli, Count of Egmont, Duke of Bisaccia, etc., Knight of the Fleece, and Lieutenant General of the Armies of the Most Christian King. 4. Don Fabrizio took to wife Virginia Pignatelli, sister of the Princess of Strongoli, whose son Don Michele is Marquis of Salice and Guagnano. 5. Rosa was given in marriage to the Prince of Scalea. 6. Maria Teresa to the Marquis of Westerloo, a Bohemian lord. 7. Stefania to the Prince of Bisignano. 8. Caterina to the Count of Acerra.
 
-INDEX
+## INDEX
 
 [p. 238]
 
-INDEX
+## INDEX
 
 O F VO L U M E I I I .
 
-BOOK VIII.
+## BOOK VIII
 
 § 1 First Voyages of the Spaniards to the Coasts of Anahuac.            p. 3 2 Character of the Principal Conquerors of Mexico.                         6 3 Cortés’s Fleet and Voyage.                                             10 4 Victory of the Spaniards in Tabasco                                    10 5 Account of the Famous Indian Woman Doña Marina.                        12 6 Arrival of the Fleet at the Port of Chalchiuhcuecan.                   15 7 Moctezuma’s Disquiet: The First Embassy and Gift Sent by Him to
 
@@ -9488,7 +9488,7 @@ Matlatzincas.                                                           216 28 A
 
 [p. 241]
 
-GENERAL INDEX
+## GENERAL INDEX
 
 O F T H E N O TA B L E T H I N G S
 

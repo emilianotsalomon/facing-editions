@@ -5,9 +5,9 @@ One Markdown file per edition: original in quoted blocks, English in plain parag
 | author | work | languages | pages | layout | original text | file |
 |---|---|---|---|---|---|---|
 | J. J. Bachofen | *Versuch über die Gräbersymbolik der Alten* (1859 (2nd ed. 1925)) | de→en | 450 | photocopy | not in this file | [bachofen-graebersymbolik.md](bachofen-graebersymbolik.md) |
-| C. G. Bardili | *Grundriß der Ersten Logik* (1800) | de→en | 374 | photocopy | OCR of the scan, uncorrected | [bardili-grundriss-der-ersten-logik.md](bardili-grundriss-der-ersten-logik.md) |
+| C. G. Bardili | *Grundriß der Ersten Logik* (1800) | de→en | 374 | photocopy | OCR of the scan, uncorrected, cut at the English paragraph starts | [bardili-grundriss-der-ersten-logik.md](bardili-grundriss-der-ersten-logik.md) |
 | Andrés Bello | *Filosofía del entendimiento* (1881) | es→en | 528 | photocopy | not in this file | [bello-filosofia-del-entendimiento.md](bello-filosofia-del-entendimiento.md) |
-| Bernard Bolzano | *Wissenschaftslehre und Religionswissenschaft in einer beurtheilenden Uebersicht* (1841) | de→en | 228 | photocopy | OCR of the scan, uncorrected | [bolzano-wissenschaftslehre-uebersicht.md](bolzano-wissenschaftslehre-uebersicht.md) |
+| Bernard Bolzano | *Wissenschaftslehre und Religionswissenschaft in einer beurtheilenden Uebersicht* (1841) | de→en | 228 | photocopy | OCR of the scan, uncorrected, cut at the English paragraph starts | [bolzano-wissenschaftslehre-uebersicht.md](bolzano-wissenschaftslehre-uebersicht.md) |
 | Émile Boutroux | *La Psychologie du mysticisme* (1902) | fr→en | 20 | clean text | corrected transcription of the print | [boutroux-psychologie-du-mysticisme.md](boutroux-psychologie-du-mysticisme.md) |
 | Franz Brentano | *Die Psychologie des Aristoteles* (1867) | de→en | 258 | clean text | corrected transcription of the print | [brentano-psychologie-des-aristoteles.md](brentano-psychologie-des-aristoteles.md) |
 | Francesco Saverio Clavigero | *Storia antica del Messico, tomo I* (1780) | it→en | 317 | photocopy | not in this file | [clavigero-storia-antica-del-messico-1.md](clavigero-storia-antica-del-messico-1.md) |
@@ -15,13 +15,13 @@ One Markdown file per edition: original in quoted blocks, English in plain parag
 | Francesco Saverio Clavigero | *Storia antica del Messico, tomo III* (1780) | it→en | 260 | photocopy | not in this file | [clavigero-storia-antica-del-messico-3.md](clavigero-storia-antica-del-messico-3.md) |
 | Francesco Saverio Clavigero | *Storia antica del Messico, tomo IV: Dissertazioni* (1781) | it→en | 331 | photocopy | not in this file | [clavigero-storia-antica-del-messico-4.md](clavigero-storia-antica-del-messico-4.md) |
 | Edgar Dacqué | *Urwelt, Sage und Menschheit* (1924) | de (original only) | 383 | original text only | text layer of the PDF — uncorrected where it is OCR | [dacque-urwelt-sage-und-menschheit.md](dacque-urwelt-sage-und-menschheit.md) |
-| Wilhelm Dilthey | *Die Jugendgeschichte Hegels* (1905) | de→en | 211 | photocopy | OCR of the scan, uncorrected | [dilthey-jugendgeschichte-hegels.md](dilthey-jugendgeschichte-hegels.md) |
+| Wilhelm Dilthey | *Die Jugendgeschichte Hegels* (1905) | de→en | 211 | photocopy | OCR of the scan, uncorrected, cut at the English paragraph starts | [dilthey-jugendgeschichte-hegels.md](dilthey-jugendgeschichte-hegels.md) |
 | Franz Exner | *Die Psychologie der Hegelschen Schule* (1842–1844) | de→en | 250 | clean text | corrected transcription of the print | [exner-psychologie-hegelsche-schule.md](exner-psychologie-hegelsche-schule.md) |
-| Jakob Friedrich Fries | *Neue Kritik der Vernunft I–II* (1807) | de→en | 718 | photocopy | OCR of the scan, uncorrected | [fries-neue-kritik-der-vernunft.md](fries-neue-kritik-der-vernunft.md) |
+| Jakob Friedrich Fries | *Neue Kritik der Vernunft I–II* (1807) | de→en | 718 | photocopy | OCR of the scan, uncorrected, cut at the English paragraph starts | [fries-neue-kritik-der-vernunft.md](fries-neue-kritik-der-vernunft.md) |
 | Juan Benito Díaz de Gamarra | *Elementa recentioris philosophiae, vol. I* (1774) | la→en | 544 | photocopy | not in this file | [gamarra-elementa-recentioris-philosophiae.md](gamarra-elementa-recentioris-philosophiae.md) |
 | Juan Benito Díaz de Gamarra | *Juventuti Americanae (preface to the Elementa)* (1774) | la→en | 15 | photocopy | not in this file | [gamarra-juventuti-americanae.md](gamarra-juventuti-americanae.md) |
-| Carl Friedrich Göschel | *Aphorismen über Nichtwissen und absolutes Wissen* (1829) | de→en | 207 | photocopy | OCR of the scan, uncorrected | [goeschel-aphorismen-nichtwissen.md](goeschel-aphorismen-nichtwissen.md) |
-| G. W. F. Hegel | *Encyklopädie der philosophischen Wissenschaften im Grundrisse* (1817) | de→en | 302 | photocopy | OCR of the scan, uncorrected | [hegel-enzyklopaedie-1817.md](hegel-enzyklopaedie-1817.md) |
+| Carl Friedrich Göschel | *Aphorismen über Nichtwissen und absolutes Wissen* (1829) | de→en | 207 | photocopy | OCR of the scan, uncorrected, cut at the English paragraph starts | [goeschel-aphorismen-nichtwissen.md](goeschel-aphorismen-nichtwissen.md) |
+| G. W. F. Hegel | *Encyklopädie der philosophischen Wissenschaften im Grundrisse* (1817) | de→en | 302 | photocopy | OCR of the scan, uncorrected, cut at the English paragraph starts | [hegel-enzyklopaedie-1817.md](hegel-enzyklopaedie-1817.md) |
 | Pedro Henríquez Ureña | *Seis ensayos en busca de nuestra expresión* (1928) | es→en | 138 | photocopy | the source PDF's own text | [henriquez-urena-seis-ensayos.md](henriquez-urena-seis-ensayos.md) |
 | Eugenio María de Hostos | *Tratado de sociología* (1904) | es→en | 273 | photocopy | not in this file | [hostos-tratado-de-sociologia.md](hostos-tratado-de-sociologia.md) |
 | Ludwig Klages | *Die psychologischen Errungenschaften Nietzsches* (1926) | de→en | 227 | photocopy | not in this file | [klages-errungenschaften-nietzsches.md](klages-errungenschaften-nietzsches.md) |
@@ -30,14 +30,14 @@ One Markdown file per edition: original in quoted blocks, English in plain parag
 | Jakob Hermann Obereit | *Obereits Widerruf für Kant* (1791) | de (original only) | 38 | original text only | text layer of the PDF — uncorrected where it is OCR | [obereit-widerruf-fuer-kant.md](obereit-widerruf-fuer-kant.md) |
 | Menyhért Palágyi | *Az ismerettan alapvetése* (1904) | hu→en | 256 | photocopy | not in this file | [palagyi-ismerettan-alapvetese.md](palagyi-ismerettan-alapvetese.md) |
 | Melchior Palágyi | *Die Logik auf dem Scheidewege* (1903) | de→en | 343 | photocopy | not in this file | [palagyi-logik-auf-dem-scheidewege.md](palagyi-logik-auf-dem-scheidewege.md) |
-| Karl Rosenkranz | *G. W. F. Hegel's Leben* (1844) | de→en | 596 | photocopy | OCR of the scan, uncorrected | [rosenkranz-hegels-leben.md](rosenkranz-hegels-leben.md) |
+| Karl Rosenkranz | *G. W. F. Hegel's Leben* (1844) | de→en | 596 | photocopy | OCR of the scan, uncorrected, cut at the English paragraph starts | [rosenkranz-hegels-leben.md](rosenkranz-hegels-leben.md) |
 | Antonio Rubio | *Logica mexicana* (1615) | la→en | 771 | photocopy | OCR text layer of the scan, uncorrected | [rubio-logica-mexicana.md](rubio-logica-mexicana.md) |
 | Guillaume Tiberghien | *Logique, tome I* (1865) | fr→en | 487 | photocopy | not in this file | [tiberghien-logique-1.md](tiberghien-logique-1.md) |
 | F. A. Trendelenburg | *Logische Untersuchungen (translated chapters)* (1870) | de→en | 538 | clean text | OCR of the print, corrected by the translators where evident | [trendelenburg-logische-untersuchungen.md](trendelenburg-logische-untersuchungen.md) |
 | F. A. Trendelenburg | *Logische Untersuchungen, Bd. I (3. Aufl.)* (1870) | de (original only) | 398 | original text only | OCR text as supplied | [trendelenburg-lu-1-original.md](trendelenburg-lu-1-original.md) |
 | F. A. Trendelenburg | *Logische Untersuchungen, Bd. II (3. Aufl.)* (1870) | de (original only) | 538 | original text only | OCR text as supplied | [trendelenburg-lu-2-original.md](trendelenburg-lu-2-original.md) |
-| Enrique José Varona | *Escritos* (1917) | es→en | 85 | photocopy | OCR of the scan, uncorrected | [varona-escritos.md](varona-escritos.md) |
-| Enrique José Varona | *Seis conferencias* (1887) | es→en | 183 | photocopy | OCR of the scan, uncorrected | [varona-seis-conferencias.md](varona-seis-conferencias.md) |
+| Enrique José Varona | *Escritos* (1917) | es→en | 85 | photocopy | OCR of the scan, uncorrected, cut at the English paragraph starts | [varona-escritos.md](varona-escritos.md) |
+| Enrique José Varona | *Seis conferencias* (1887) | es→en | 183 | photocopy | OCR of the scan, uncorrected, cut at the English paragraph starts | [varona-seis-conferencias.md](varona-seis-conferencias.md) |
 | Carlos Vaz Ferreira | *Lógica viva* (1910) | es→en | 225 | photocopy | OCR text layer of the scan, uncorrected | [vaz-ferreira-logica-viva.md](vaz-ferreira-logica-viva.md) |
 | Christian Wolff | *Vernünfftige Gedancken von Gott, der Welt und der Seele des Menschen* (1720) | de→en | 653 | photocopy | not in this file | [wolff-vernuenfftige-gedancken-1720.md](wolff-vernuenfftige-gedancken-1720.md) |
 | José Vasconcelos | *Don Gabino Barreda y las ideas contemporáneas* (1910) · Obras (vasconcelos-obras-v2) | es (original only) | 23 | original text only | transcription as in the HTML reader | [vasconcelos/vasconcelos-1910-don-gabino-barreda-y-las-ideas-contemporane.md](vasconcelos/vasconcelos-1910-don-gabino-barreda-y-las-ideas-contemporane.md) |
