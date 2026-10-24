@@ -1,4 +1,4 @@
-# Facing editions — corpus and reader
+# Idealisms Working Group — shared repository (corpus and reader)
 
 The research group's bilingual editions of philosophical texts (German, Spanish, Latin, French, Italian, Hungarian → English), as a text corpus for a knowledge base and as a web reader.
 
