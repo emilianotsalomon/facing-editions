@@ -7,8 +7,8 @@ S=$(ls -d "$HOME/Library/Application Support/Claude/local-agent-mode-sessions/sk
 [ -d "$S" ] || { echo "skill scripts not found"; exit 1; }
 F="$HOME/Desktop/claude-folder/_facing-pipeline"; P="$HOME/Desktop/claude-folder"
 C="$(cd "$(dirname "$0")" && pwd)/corpus"; mkdir -p "$C/glossaries"
-book() { [ "$ONLY" = "pdf" ] && return;  d=$1; slug=$2; shift 2; "$S/py" "$S/corpus.py" book "$F/$d" -o "$C" --slug "$slug" "$@" 2>&1 | grep -v "block structure" ; [ -f "$F/$d/work/GLOSSARY.md" ] && cp "$F/$d/work/GLOSSARY.md" "$C/glossaries/$slug.md"; }
-pdf()  { [ "$ONLY" = "book" ] && return;  f=$1; slug=$2; shift 2; "$S/py" "$S/corpus.py" pdf "$P/$f" -o "$C" --slug "$slug" "$@"; }
+book() { [ -z "$ONLY" ] || [ "$ONLY" = "book" ] || return;  d=$1; slug=$2; shift 2; "$S/py" "$S/corpus.py" book "$F/$d" -o "$C" --slug "$slug" "$@" 2>&1 | grep -v "block structure" ; [ -f "$F/$d/work/GLOSSARY.md" ] && cp "$F/$d/work/GLOSSARY.md" "$C/glossaries/$slug.md"; }
+pdf()  { [ -z "$ONLY" ] || [ "$ONLY" = "pdf" ] || return;  f=$1; slug=$2; shift 2; "$S/py" "$S/corpus.py" pdf "$P/$f" -o "$C" --slug "$slug" "$@"; }
 
 # --- editions with page files (source of truth: the page files) ---
 book bardili    bardili-grundriss-der-ersten-logik      --title "Grundriß der Ersten Logik" --title-en "Outline of First Logic" --author "C. G. Bardili" --year 1800 --lang de
@@ -45,3 +45,17 @@ pdf "Vaz Ferreira - Lógica viva - Living Logic (ES-EN facing).pdf" vaz-ferreira
 pdf "Klages - Die psychologischen Errungenschaften Nietzsches (DE-EN).pdf" klages-errungenschaften-nietzsches --title "Die psychologischen Errungenschaften Nietzsches" --title-en "The Psychological Achievements of Nietzsche" --author "Ludwig Klages" --year 1926 --lang de
 
 "$S/py" "$S/corpus.py" index "$C"
+
+# --- originals without a translation, and translations kept as chunk files (sources in originals/) ---
+O="$(cd "$(dirname "$0")" && pwd)/originals"
+text() { f=$1; slug=$2; shift 2; [ -z "$ONLY" ] || [ "$ONLY" = "text" ] || return; "$S/py" "$S/corpus.py" text "$f" -o "$C" --slug "$slug" "$@"; }
+text "$O/trendelenburg-lu-1.de.md" trendelenburg-lu-1-original --title "Logische Untersuchungen, Bd. I (3. Aufl.)" --title-en "Logical Investigations, vol. I — German text" --author "F. A. Trendelenburg" --year 1870 --lang de
+text "$O/trendelenburg-lu-2.de.md" trendelenburg-lu-2-original --title "Logische Untersuchungen, Bd. II (3. Aufl.)" --title-en "Logical Investigations, vol. II — German text" --author "F. A. Trendelenburg" --year 1870 --lang de
+[ -z "$ONLY" ] || [ "$ONLY" = "text" ] && "$S/py" "$S/corpus.py" chunks "$O/trendelenburg-chunks" -o "$C" --slug trendelenburg-logische-untersuchungen --title "Logische Untersuchungen (translated chapters)" --title-en "Logical Investigations" --author "F. A. Trendelenburg" --year 1870 --lang de
+text "$O/klages-persoenlichkeit.md" klages-persoenlichkeit --title "Persönlichkeit. Einführung in die Charakterkunde" --title-en "Personality. Introduction to Characterology — German text" --author "Ludwig Klages" --year 1928 --lang de
+text "$HOME/Downloads/obereits-wiederruf.pdf" obereit-widerruf-fuer-kant --title "Obereits Widerruf für Kant" --title-en "Obereit's Recantation for Kant — German text" --author "Jakob Hermann Obereit" --year 1791 --lang de
+text "$HOME/Downloads/Edgar_Dacqué_Urwelt_Sage_und_Menschheit.pdf" dacque-urwelt-sage-und-menschheit --title "Urwelt, Sage und Menschheit" --title-en "Primeval World, Saga and Humanity — German text" --author "Edgar Dacqué" --year 1924 --lang de
+"$S/py" "$S/corpus.py" index "$C"
+
+# --- Vasconcelos, Obras: the Tufte HTML readers in originals/vasconcelos-obras-v2 -> corpus/vasconcelos/ ---
+[ "$ONLY" = "" ] || [ "$ONLY" = "html" ] && "$S/py" "$S/corpus.py" html "$O/vasconcelos-obras-v2" -o "$C/vasconcelos" --author "José Vasconcelos" --collection "Obras (vasconcelos-obras-v2)" --prefix vasconcelos && "$S/py" "$S/corpus.py" index "$C"
