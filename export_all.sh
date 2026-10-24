@@ -45,6 +45,9 @@ pdf "Vaz Ferreira - Lógica viva - Living Logic (ES-EN facing).pdf" vaz-ferreira
 pdf "Klages - Die psychologischen Errungenschaften Nietzsches (DE-EN).pdf" klages-errungenschaften-nietzsches --title "Die psychologischen Errungenschaften Nietzsches" --title-en "The Psychological Achievements of Nietzsche" --author "Ludwig Klages" --year 1926 --lang de --genre "Lebensphilosophie"
 
 "$S/py" "$S/corpus.py" index "$C"
+# Klages, Der Geist als Widersacher der Seele (corpus/klages-geist-als-widersacher-der-seele.md) is NOT regenerated here:
+# it was recovered once (Oct 2026) from the 1960-page parallel PDF, with the endnotes set under their cue paragraphs,
+# and the corpus file itself is the source. Correct it in place.
 
 # --- originals without a translation, and translations kept as chunk files (sources in originals/) ---
 O="$(cd "$(dirname "$0")" && pwd)/originals"

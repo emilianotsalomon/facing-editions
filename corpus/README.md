@@ -25,6 +25,7 @@ One Markdown file per edition: original in quoted blocks, English in plain parag
 | Pedro Henríquez Ureña | *Seis ensayos en busca de nuestra expresión* (1928) | es→en | 138 | photocopy | the source PDF's own text | [henriquez-urena-seis-ensayos.md](henriquez-urena-seis-ensayos.md) |
 | Eugenio María de Hostos | *Tratado de sociología* (1904) | es→en | 273 | photocopy | not in this file | [hostos-tratado-de-sociologia.md](hostos-tratado-de-sociologia.md) |
 | Ludwig Klages | *Die psychologischen Errungenschaften Nietzsches* (1926) | de→en | 227 | photocopy | not in this file | [klages-errungenschaften-nietzsches.md](klages-errungenschaften-nietzsches.md) |
+| Ludwig Klages | *Der Geist als Widersacher der Seele* (1929–1932) | de→en | 1369 | clean text | OCR of scans of the first edition | [klages-geist-als-widersacher-der-seele.md](klages-geist-als-widersacher-der-seele.md) |
 | Ludwig Klages | *Persönlichkeit. Einführung in die Charakterkunde* (1928) | de (original only) | 35 | original text only | OCR text as supplied | [klages-persoenlichkeit.md](klages-persoenlichkeit.md) |
 | José de la Luz y Caballero | *Obras, tomo I* () | es→en | 368 | photocopy | OCR text layer of the scan, uncorrected | [luz-y-caballero-obras-1.md](luz-y-caballero-obras-1.md) |
 | Jakob Hermann Obereit | *Obereits Widerruf für Kant* (1791) | de (original only) | 38 | original text only | text layer of the PDF — uncorrected where it is OCR | [obereit-widerruf-fuer-kant.md](obereit-widerruf-fuer-kant.md) |

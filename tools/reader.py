@@ -76,6 +76,7 @@ body.noside .page{gap:0 0}body.noside main{padding-left:.2rem}
 .card .o p:last-child,.card .e p:last-child{margin-bottom:0}.card .o,.card .e{min-width:0}
 .card .fn{margin-top:auto;padding-top:.5rem;border-top:1px solid var(--line);font-size:.84em;line-height:1.45;color:var(--muted)}
 .card .fn p{margin:0 0 .3em;text-align:justify;text-align-last:left;hyphens:auto}.card .fn p:last-child{margin-bottom:0}.card .o .fn{border-top-color:color-mix(in srgb,var(--line) 60%,var(--orig))}
+.card .fnrow .o,.card .fnrow .e{font-size:.84em}.card .fnrow .o p,.card .fnrow .e p{line-height:1.45}
 .card .fn{margin-top:.8rem}
 .card.mono .e{max-width:66ch}.gnotes p,.notes p{text-align:justify;text-align-last:left;hyphens:auto}
 .card p.sep{text-align:center;color:var(--muted);letter-spacing:.4em}
