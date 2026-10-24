@@ -1100,7 +1100,7 @@ If the Mexican landscape, with its gray tonality, has entered into poetry, how c
 
 [scan 62]
 
-> PEDRO HENRÍQUEZ UREÑA ggg Así, en medio de la opulencia del teatro español en los Siglos de Oro; en medio de la abundancia y el despilfarro de Lope, de Calderón y de Tirso, el mexicano D. Juan Ruiz de Alarcón y Mendoza da una nota de discreción y sobriedad. No es espejismo de la distancia. Acudamos a su contemporáneo D. Juan Pérez de Montalván, y veremos qué nos dice en la Memoria de los que escriben comedias en Castilla, al final de su miscelánea Para todos (1632): «Don Juan Ruiz de Alarcón las dispone con tal novedad, ingenio y extrañeza, que no hay comedia suya que no tenga mucho que admirar, y nada que reprehender, que después de haberse escrito tanto, es gran muestra de su caudal
+> ggg Así, en medio de la opulencia del teatro español en los Siglos de Oro; en medio de la abundancia y el despilfarro de Lope, de Calderón y de Tirso, el mexicano D. Juan Ruiz de Alarcón y Mendoza da una nota de discreción y sobriedad. No es espejismo de la distancia. Acudamos a su contemporáneo D. Juan Pérez de Montalván, y veremos qué nos dice en la Memoria de los que escriben comedias en Castilla, al final de su miscelánea Para todos (1632): «Don Juan Ruiz de Alarcón las dispone con tal novedad, ingenio y extrañeza, que no hay comedia suya que no tenga mucho que admirar, y nada que reprehender, que después de haberse escrito tanto, es gran muestra de su caudal
 
 Thus, amid the opulence of the Spanish theater in the Golden Age, amid the abundance and prodigality of Lope, of Calderón and of Tirso, the Mexican Don Juan Ruiz de Alarcón y Mendoza strikes a note of discretion and sobriety. It is no mirage of distance. Let us turn to his contemporary Don Juan Pérez de Montalbán, and we shall see what he tells us in the *Memoria de los que escriben comedias en Castilla*, at the end of his miscellany *Para todos* (1632): “Don Juan Ruiz de Alarcón arranges them with such novelty, wit, and strangeness that there is no play of his that does not have much to admire and nothing to reprove, which, after so much has been written, is a great proof of his most fertile store.”<sup>1</sup>
 
@@ -1868,7 +1868,7 @@ Afterward life gives him back part of the stolen gifts and fulfills promised tri
 
 [scan 92]
 
-> PEDRO HENRÍQUEZ UREÑA ggg Con los años, todo poeta lírico, cargado de vida contradictoria, de emociones complejas, tiende a poeta dramático. En Alfonso Reyes, el drama ha llegado: su obra central, donde ha concentrado la esencia de su vida y de su arte, es su poema
+> ggg Con los años, todo poeta lírico, cargado de vida contradictoria, de emociones complejas, tiende a poeta dramático. En Alfonso Reyes, el drama ha llegado: su obra central, donde ha concentrado la esencia de su vida y de su arte, es su poema
 
 With the years, every lyric poet, laden with contradictory life, with complex emotions, tends to become a dramatic poet. In Alfonso Reyes the drama has come: his central work, in which he has concentrated the essence of his life and of his art, is his tragic poem *Ifigenia cruel*.
 
@@ -2066,7 +2066,7 @@ Included in *Six Essays in Search of Our*
 
 [scan 103]
 
-> E L AM I G O AR GE N T I N O 1 I
+> I
 
 ## The Argentine Friend<sup>1</sup>
 

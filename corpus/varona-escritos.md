@@ -20,11 +20,11 @@ Conventions: `[p. N]` marks where a printed page begins (its folio as printed); 
 
 [scan 4]
 
-> CVLTVRA JOSE VARONA Y
+> CVLTVRA
 
 CVLTVRA
 
-> Pera ENRIQUE
+> Pera ENRIQUE JOSE VARONA Y
 
 ENRIQUE JOSÉ VARONA
 
@@ -32,7 +32,7 @@ ENRIQUE JOSÉ VARONA
 
 WRITINGS
 
-> PROLOGO DE ΑΝΤΟΝΙO CASO
+> PROLOGO  DE  ΑΝΤΟΝΙO CASO
 
 PROLOGUE / BY / ANTONIO CASO
 
@@ -42,27 +42,27 @@ VOL. IIMEXICO NO. 5
 
 [scan 6]
 
-> CVLTVRA SELECCION DE BUENOS MY
+> CVLTVRA
 
 CVLTVRA
 
-> ANTIGVOS AVTORES & MODERNOS DIRECTORES
+> SELECCION ANTIGVOS DE BUENOS MY AVTORES & MODERNOS
 
 A SELECTION / OF GOOD / AUTHORS ❧ ANCIENT / AND / MODERN
 
-> AGVSTIN LOERA Y CHAVEZ JVLIO TORRI
+> DIRECTORES AGVSTIN LOERA Y CHAVEZ JVLIO TORRI
 
 DIRECTORS / AGUSTÍN LOERA Y CHÁVEZ / JULIO TORRI
 
-> ' ENRIQUE JOSE VARONA ESCRITOS
+> ' ENRIQUE JOSE VARONA
 
 ENRIQUE JOSÉ VARONA
 
-> PRÓLOGO DE
+> ESCRITOS
 
 WRITINGS
 
-> ΑΝΤΟΝΙO CASO
+> PRÓLOGO DE ΑΝΤΟΝΙO CASO
 
 PROLOGUE BY / ANTONIO CASO
 
@@ -76,55 +76,55 @@ VOL. IIMEXICO NO. 5
 
 January 15, 1917.
 
-> <IMPRENTA VICTORIA ».4ª VICTORIA 92.
+> < IMPRENTA VICTORIA ».4ª VICTORIA 92.
 
 “IMPRENTA VICTORIA,” 4ª VICTORIA 92.
 
 [scan 8]
 
-> AUG 191931 X40Z V43 WX
+> PRELIMINAR.
 
 ## PRELIMINARY.
 
-> C27 PRELIMINAR. " En otros tiempos lo difícil era dar con un libro; hoy lo difícil es verse uno libre de los libros. Quiero decir de los libros mediocres, de los libros insustanciales. Ha sido necesario alzar postes indicadores y regimentar brigadas de salvamento. Los postes, como en las playas de baños, dicen con letras gruesas: peligro. Entiéndase: peligro de himnotizarse o de idiotizarse. Las brigadas están compuestas de la utilísima clase de los crítia paladear los alicos literarios, destinada mentos mentales para declarar si son alibles, y a veces hasta peptonizarlos, para facilitar
+> " En otros tiempos lo difícil era dar con un libro; hoy lo difícil es verse uno libre de los libros. Quiero decir de los libros mediocres, de los libros insustanciales. Ha sido necesario alzar postes indicadores y regimentar brigadas de salvamento. Los postes, como en las playas de baños, dicen con letras gruesas: peligro. Entiéndase: peligro de himnotizarse o de idiotizarse. Las brigadas están compuestas de la utilísima clase de los críticos literarios, destinada a paladear los alimentos mentales para declarar si son alibles, y a veces hasta peptonizarlos, para facilitar la digestión. "
 
 “In other times the difficulty was to come upon a book; today the difficulty is to keep oneself free of books. I mean mediocre books, insubstantial books. It has become necessary to set up signposts and to regiment lifesaving brigades. The signposts, as on bathing beaches, say in large letters: danger. That is to say: danger of hypnotizing or idiotizing oneself. The brigades are made up of that most useful class, the literary critics, whose business is to savor mental foods in order to declare whether they are nourishing, and at times even to peptonize them, to facilitate digestion.”
 
-> la digestión. " Las palabras anteriores son de don Enrique José Varona, el autor de los artículos de esta selección, un pensador literario, ensayis-
+> Las palabras anteriores son de don Enrique José Varona, el autor de los artículos de esta selección, un pensador literario, ensayis-
 
 The foregoing words are by Don Enrique José Varona, the author of the articles in this selection, a literary thinker, an ingenious essayist,
 
 [p. 4]
 
-> 4 CULTURA ta ingenioso, político también y gobernante, que lleva al desempeño de su cometido social el criterio de ponderación y claridad del hombre que medita. Don Enrique José Varona es, sobre todo, un moralista dispuesto a discutir siempre sus contactos con la injusticia.
+> ta ingenioso, político también y gobernante, que lleva al desempeño de su cometido social el criterio de ponderación y claridad del hombre que medita. Don Enrique José Varona es, sobre todo, un moralista dispuesto a discutir siempre sus contactos con la injusticia.
 
 a politician too, and a statesman, who brings to the discharge of his social office the balanced and lucid judgment of the man who meditates. Don Enrique José Varona is, above all, a moralist always disposed to discuss his contacts with injustice.
 
-> Los prólogos y preliminares significan actos de cortesía, presentaciones por escrito, al Mi buena fortuna me ha frente de los libros. puesto en el caso de decir a los lectores mexicanos quién es el amable psicólogo cubano. Desearía yo poseer la exquisita y tradicional urbanidad de los escritores franceses para redactar unas líneas brevés y perfectas en las que, como en los prólogos de libros escritos por individuos de esa nación, cupieran el mejor elogio de la labor de Varona y el incentivo discreto que artísticamente insinúa la lectura de lo que después de los prólogos consta. Pero no soy francés, sino hispanoamericano, y quizás esto valga más para apreciar, si no con discreción absoluta, al menos con predilección, el esfuerzo intelectual del escritor an-
+> Los prólogos y preliminares significan actos de cortesía, presentaciones por escrito, al frente de los libros. Mi buena fortuna me ha puesto en el caso de decir a los lectores mexicanos quién es el amable psicólogo cubano. Desearía yo poseer la exquisita y tradicional urbanidad de los escritores franceses para redactar unas líneas brevés y perfectas en las que, como en los prólogos de libros escritos por individuos de esa nación, cupieran el mejor elogio de la labor de Varona y el incentivo discreto que artísticamente insinúa la lectura de lo que después de los prólogos consta. Pero no soy francés, sino hispanoamericano, y quizás esto valga más para apreciar, si no con discreción absoluta, al menos con predilección, el esfuerzo intelectual del escritor antillano.
 
 Prologues and preliminaries are acts of courtesy, introductions in writing at the front of books. My good fortune has placed me in the position of telling Mexican readers who the amiable Cuban psychologist is. I should like to possess the exquisite and traditional urbanity of French writers, so as to compose a few brief and perfect lines in which, as in the prologues to books written by members of that nation, there might be contained the best praise of Varona’s labor and the discreet incentive that artfully insinuates the reading of what comes after the prologues. But I am not French; I am Spanish American, and perhaps this may count for more in appreciating—if not with absolute discretion, at least with predilection—the intellectual effort of the Antillean writer.
 
-> tillano. No os haré su biografía, que ignoro, ni
+> No os haré su biografía, que ignoro, ni
 
 I shall not give you his biography, which I do not know, nor
 
 [p. 5]
 
-> ENRIQUE JOSÉ VARONA 5 clasificaré su pensamiento psicológico en alguna de las divisiones o subdivisiones del cua. dro abstracto de los sistemas contemporáneos, ni dispondré sus ideas metódicamente y en compendio de económica percepción sintética. No. Quede para diversa oportunidad tal labor. " En otros tiempos lo difícil era dar con un libro......; " sí, y en éstos lo mismo; mas, he aquí uno gallardo y sutil; libro de meditación sobre la vida, de acentuación perspicaz de la vida.
+> clasificaré su pensamiento psicológico en alguna de las divisiones o subdivisiones del cua. dro abstracto de los sistemas contemporáneos, ni dispondré sus ideas metódicamente y en compendio de económica percepción sintética. No. Quede para diversa oportunidad tal labor. " En otros tiempos lo difícil era dar con un libro......; " sí, y en éstos lo mismo; mas, he aquí uno gallardo y sutil; libro de meditación sobre la vida, de acentuación perspicaz de la vida.
 
 will I classify his psychological thought in some one of the divisions or subdivisions of the abstract table of contemporary systems, nor arrange his ideas methodically and in a compendium of economical synthetic perception. No. Let such a labor be left for another occasion. “In other times the difficulty was to come upon a book......;” yes, and in these times the same; but here is one, gallant and subtle; a book of meditation on life, of perspicacious accentuation of life.
 
-> El moralista es puntualmente,, un observador imparcial de la existencia, no un impertinente consejero. Lo difícil es fundar la moral, decía Schopenhauer, predicarla es sencillo. Verdad; pero vivirla es todavía más difícil que fundarla; y los moralistas como Varona ayudan a vivirla, porque descubren y esto me parece ser el mayor elogio que puedetributárseles,-que el mal no sólo es malo, sino
+> El moralista es, puntualmente, un observador imparcial de la existencia, no un impertinente consejero. Lo difícil es fundar la moral, decía Schopenhauer, predicarla es sencillo. Verdad; pero vivirla es todavía más difícil que fundarla; y los moralistas como Varona ayudan a vivirla, porque descubreny esto me parece ser el mayor elogio que puede tributárseles, -que el mal no sólo es malo, sino estúpido y feo, y nos apartan instintivamente de su comercio.
 
 The moralist is, precisely, an impartial observer of existence, not an impertinent counselor. The difficult thing is to found morality, said Schopenhauer; to preach it is easy. True; but to live it is still more difficult than to found it; and moralists like Varona help one to live it, because they discover—and this seems to me the highest praise that can be paid them—that evil is not only evil but stupid and ugly, and they turn us instinctively away from commerce with it.
 
-> estúpido y feo, y nos apartan instintivamente de su comercio. La vida moral del hombre es la suprema obra de arte. Varona lo sabe y nos impele a su realización empleando en contra de los ma-
+> La vida moral del hombre es la suprema obra de arte. Varona lo sabe y nos impele a su realización empleando en contra de los ma-
 
 The moral life of man is the supreme work of art. Varona knows it and urges us to its realization, employing against evils
 
 [p. 6]
 
-> 6 CULTURA los aquel instante de fina y fácil ironía que tuvo Sócrates para oponerlo a los disputadores que corrompían a Atenas.
+> los aquel instante de fina y fácil ironía que tuvo Sócrates para oponerlo a los disputadores que corrompían a Atenas.
 
 that instant of fine and easy irony that Socrates had to oppose to the disputants who were corrupting Athens.
 
@@ -138,11 +138,11 @@ Moreover, he is a gentleman; his assiduous reading of English books, his culture
 
 [p. 7]
 
-> ENRIQUE JOSÉ VARONA 7 da, diversa, ondulante, lo lleva a darnos sin amargura, trágica, pero con sincera emoción, su repugnancia hacia el mal y la estulticia, pero nos la ofrece sin gesticular demasiado, sin aspavientos ni contorsiones inaceptables, como un gentleman.
+> da, diversa, ondulante, lo lleva a darnos sin amargura, trágica, pero con sincera emoción, su repugnancia hacia el mal y la estulticia, pero nos la ofrece sin gesticular demasiado, sin aspavientos ni contorsiones inaceptables, como un gentleman.
 
 diverse, undulating, leads him to give us, without tragic bitterness but with sincere emotion, his repugnance toward evil and folly, but he offers it to us without gesticulating too much, without fuss or unacceptable contortions, as a gentleman.
 
-> Leed sus breves notas efímeras. El autor jamás declama. Su estilo debería “prescribirse " a los nerviosos escritores latino americanos, que no han logrado, sino por excepción, el secreto de la prosa genuina, de la prosa europea; su sonrisa, como la de Voltaire, llega a veces hasta la risa, pero como dijo Hugo de la del autor de Cándido, la tristeza filosófica logra templarla. Me parece un pensamiento exacto el de incluír a Varona en el número de escritores americanos que populariza "Cultura ".
+> Leed sus breves notas efímeras. El autor jamás declama. Su estilo debería “ prescribirse " a los nerviosos escritores latino americanos, que no han logrado, sino por excepción, el secreto de la prosa genuina, de la prosa europea; su sonrisa, como la de Voltaire, llega a veces hasta la risa, pero como dijo Hugo de la del autor de Cándido, la tristeza filosófica logra templarla. Me parece un pensamiento exacto el de incluír a Varona en el número de escritores americanos que populariza "Cultura ".
 
 Read his brief ephemeral notes. The author never declaims. His style ought to be “prescribed” for the nervous Latin American writers, who have not achieved, save by exception, the secret of genuine prose, of European prose; his smile, like Voltaire’s, at times reaches laughter, but as Hugo said of that of the author of Candide, philosophical sadness succeeds in tempering it. It seems to me an exact thought, that of including Varona in the number of writers of the Americas whom “Cultura” popularizes.
 
@@ -152,8 +152,6 @@ Read his brief ephemeral notes. The author never declaims. His style ought to be
 
 [scan 14]
 
-> ENRIQUE JOSE VARONA.
-
 #### ENRIQUE JOSÉ VARONA.
 
 [scan 16]
@@ -162,21 +160,21 @@ Read his brief ephemeral notes. The author never declaims. His style ought to be
 
 ## THE ART OF PUFFERY <sup>1</sup>
 
-> E N otros tiempos lo difícil era dar con un libro; hoy lo difícil es verse uno libre de los libros. Quiero decir, de los libros mediocres, de los libros insustanciales. Ha sido necesario alzar postes indicadores y regimentar brigadas de salvamento. Los postes, como en las playas de baños, dicen con letras gruesas: peligro. Entiéndase: peligro de hipnotizarse o de idiotizarse. Las brigadas están compuestas de la utilísima clase de los críticos literarios, destinada a paladear los alimentos mentales, para declarar si son alibles, y a veces hasta a peptonizarlos, para facilitar su
+> N otros tiempos lo difícil era dar con un libro; E hoy lo difícil es verse uno libre de los libros. Quiero decir, de los libros mediocres, de los libros insustanciales. Ha sido necesario alzar postes indicadores y regimentar brigadas de salvamento. Los postes, como en las playas de baños, dicen con letras gruesas: peligro. Entiéndase: peligro de hipnotizarse o de idiotizarse. Las brigadas están compuestas de la utilísima clase de los críticos literarios, destinada a paladear los alimentos mentales, para declarar si son alibles, y a veces hasta a peptonizarlos, para facilitar su digestión.
 
 I n other times the difficulty was to come upon a book; today the difficulty is to keep oneself free of books. I mean mediocre books, insubstantial books. It has become necessary to set up signposts and to regiment lifesaving brigades. The signposts, as on bathing beaches, say in large letters: danger. That is to say: danger of hypnotizing or idiotizing oneself. The brigades are made up of that most useful class, the literary critics, whose business is to savor mental foods in order to declare whether they are nourishing, and at times even to peptonize them, to facilitate digestion.
 
-> digestión. Por desgracia, los editores necesitan dar salida a su mercancía, y han contraminado esas obras de defensa. También levantan sus postes
+> Por desgracia, los editores necesitan dar salida a su mercancía, y han contraminado esas obras de defensa. También levantan sus postes con letreros mentirosos, y alistan sus regimien-
 
 Unfortunately, publishers need to find an outlet for their merchandise, and they have countermined these works of defense. They too set up their signposts with lying placards, and they enlist their regiments
 
-> con letreros mentirosos, y alistan sus regimien- 1 La presente selección fue hecha galantemente por el mismo autor. N. de los Directores.
+> 1 La presente selección fue hecha galantemente por el mismo autor. N. de los Directores.
 
 1</sup> The present selection was graciously made by the author himself. Editors’ note.
 
 [p. 12]
 
-> 12 CULTURA tos de críticos de manga ancha, que expiden certificados de excelencia y hasta de sublimidad a cualquier chapucería. Porque lo que ellos dicen, encarándose para sus adentros con el lector: ¿ Quién te manda ser tonto, y no catar y calar por tí mismo lo que vas a consumir? La más ingeniosa forma que revisten esos artificios de los editores es el reclamo de librería. Dije forma, cuando debiera haber dicho formas, envolviendo en ese plural el máximum de pluralidad. Las formas del reclamo se van haciendo infinitas. Anuncios, circulares, artículos, polémicas, noticias de prohibiciones y persecuciones, pasquines, caricaturas....
+> tos de críticos de manga ancha, que expiden certificados de excelencia y hasta de sublimidad a cualquier chapucería. Porque lo que ellos dicen, encarándose para sus adentros con el lector: ¿ Quién te manda ser tonto, y no catar y calar por tí mismo lo que vas a consumir? La más ingeniosa forma que revisten esos artificios de los editores es el reclamo de librería. Dije forma, cuando debiera haber dicho formas, envolviendo en ese plural el máximum de pluralidad. Las formas del reclamo se van haciendo infinitas. Anuncios, circulares, artículos, polémicas, noticias de prohibiciones y persecuciones, pasquines, caricaturas....
 
 of easygoing critics, who issue certificates of excellence, and even of sublimity, to any botch. For what they say, inwardly addressing the reader, is: Who told you to be a fool, and not to sample and test for yourself what you are going to consume? The most ingenious form that these artifices of the publishers assume is the bookshop puff. I said form, when I should have said forms, enveloping in that plural the maximum of plurality. The forms of puffery are becoming infinite. Advertisements, circulars, articles, polemics, reports of prohibitions and persecutions, lampoons, caricatures . . . .
 
@@ -194,7 +192,7 @@ It announces a recent novel, and after transcribing several paragraphs of critic
 
 [p. 13]
 
-> ENRIQUE JOSÉ Varona 13 para los escogidos (élite); y, por consiguiente, tiene carta de ciudadanía (droit de cité) en su biblioteca de usted. Si es verdad que en el siglo pasado " dos o tres personas en todo el reino decidían de la suerte de las obras literarias, " " la situación no ha cambiado mucho desde entonces. "
+> para los escogidos ( élite); y, por consiguiente, tiene carta de ciudadanía ( droit de cité) en su biblioteca de usted. Si es verdad que en el siglo pasado " dos o tres personas en todo el reino decidían de la suerte de las obras literarias, " " la situación no ha cambiado mucho desde entonces. "
 
 for the chosen (élite); and, *consequently*, it has its charter of citizenship (*droit de cité*) in your library. If it is true that in the last century ‘two or three persons in the whole kingdom decided the fate of literary works,’ ‘the situation has not changed much since then.’”
 
@@ -212,11 +210,11 @@ Indeed, at his right, gathering the fish that flutters among the meshes, there a
 
 [p. 14]
 
-> 14 CULTURA ki, el aplaudido jefe de la nueva escuela de nove ladores rusos.
+> ki, el aplaudido jefe de la nueva escuela de nove ladores rusos.
 
 the acclaimed leader of the new school of Russian novelists.
 
-> Como vivimos en tiempos de simbolismo, esta pintura me ha dado en qué pensar. Veo a Tolstoi, chapoteando en el agua, desnudas las piernas y con las mangas de la blusa remangadas sobre el codo, tirando con la diestra de la red y con la iz quierda vacía. Y junto a él veo a Gorki, bien abrigado, apuesto, con la presa en la mano. ¿Ha querido el artista darnos meramente los retratos de dos autores célebres, continuador el uno y en más de un concepto opositor del otro; ha tratado de simbolizar un profundo contraste entre la tendencia y la manera de ambos; o ha procurado contribuir a la gloria del epígono con un hábil reclamo?
+> Como vivimos en tiempos de simbolismo, esta pintura me ha dado en qué pensar. Veo a Tolstoi, chapoteando en el agua, desnudas las piernas y con las mangas de la blusa remangadas sobre el codo, tirando con la diestra de la red y con la iz quierda vacía. Y junto a él veo a Gorki, bien abrigado, apuesto, con la presa en la mano. ¿ Ha querido el artista darnos meramente los retratos de dos autores célebres, continuador el uno y en más de un concepto opositor del otro; ha tratado de simbolizar un profundo contraste entre la tendencia y la manera de ambos; o ha procurado contribuir a la gloria del epígono con un hábil reclamo?
 
 Since we live in times of symbolism, this painting has given me food for thought. I see Tolstoy splashing in the water, his legs bare and the sleeves of his blouse rolled up above the elbow, pulling at the net with his right hand and with his left empty. And beside him I see Gorky, warmly dressed, dashing, with the catch in his hand. Has the artist wished merely to give us the portraits of two famous authors, the one the continuator and in more than one respect the opponent of the other; has he tried to symbolize a profound contrast between the tendency and the manner of the two; or has he sought to contribute to the glory of the epigone with a clever puff?
 
@@ -230,7 +228,7 @@ As for me, the sight of the two famous writers, so near each other, has suggeste
 
 [p. 15]
 
-> ENRIQUE JOSÉ VARONA 15 la misma Rusia se la ha llamado imitación de és. ta. Es mirar muy por encima.
+> la misma Rusia se la ha llamado imitación de és. ta. Es mirar muy por encima.
 
 Russia itself it has been called an imitation of the latter. That is to look at it very superficially.
 
@@ -252,25 +250,25 @@ I shall be sorry if it seems too frail a thread.
 
 ## LATE LOVE.
 
-> D os autores cubanos, dos jóvenes autores, han escrito hace poco una obra dramática sobre muy viejo, en la vida y en la ficción.
+> os autores cubanos, dos jóvenes autores, han D escrito hace poco una obra dramática sobre un tema muy viejo, en la vida y en la ficción.
 
 T wo Cuban authors, two young authors, have recently written a dramatic work on a very old theme, in life and in fiction.
 
-> un tema Han estudiado y presentado un caso de lo que ellos llaman, con mucho tino, el amor tardío. Este me parece una de las dos variantes que puede ofrecer la pasión erótica, cuando se extiende más allá de sus naturales límites. Porque puede ser un primer fruto retrasado o la continuación ex
+> Han estudiado y presentado un caso de lo que ellos llaman, con mucho tino, el amor tardío. Este me parece una de las dos variantes que puede ofrecer la pasión erótica, cuando se extiende más allá de sus naturales límites. Porque puede ser un primer fruto retrasado o la continuación ex cesiva de una fructificación prolongada.
 
 They have studied and presented a case of what they call, very aptly, late love. This seems to me one of the two variants that erotic passion can offer when it extends beyond its natural limits. For it may be a belated first fruit or the excessive continuation of a prolonged fructification.
 
-> cesiva de una fructificación prolongada. Desde luego esta segunda forma es la más corriente, sin que por eso deje de ser eminente-
+> Desde luego esta segunda forma es la más corriente, sin que por eso deje de ser eminentemente dramática.
 
 Of course this second form is the more common, without thereby ceasing to be eminently dramatic.
 
-> mente dramática. En la estupenda producción novelesca del pasado siglo, y precisamente en su primer gran período, dos de sus más insignes representantes, Thackeray y Balzac, han dibujado con mano singularmente firme dos figuras características de ese estado afectivo. Lord Steyne, en Vanity Fair, y el barón Hulot, en La Coussine Bette, cada uno
+> En la estupenda producción novelesca del pasado siglo, y precisamente en su primer gran período, dos de sus más insignes representantes, Thackeray y Balzac, han dibujado con mano singularmente firme dos figuras características de ese estado afectivo. Lord Steyne, en Vanity Fair, y el barón Hulot, en La Coussine Bette, cada uno
 
 In the stupendous output of fiction of the last century, and precisely in its first great period, two of its most distinguished representatives, Thackeray and Balzac, have drawn with a singularly firm hand two characteristic figures of that affective state. Lord Steyne in *Vanity Fair*, and Baron Hulot in *La Cousine Bette*, each
 
 [p. 17]
 
-> ENRIQUE JOSÉ VARONA 17 en su cuadro propio, tal como lo ofrecían entonces dos sociedades tan diversas, y como podían reproducirlos dos visiones tan distintas de la vida circunstante, son croquis reveladores de una terrible dolencia humana.
+> en su cuadro propio, tal como lo ofrecían entonces dos sociedades tan diversas, y como podían reproducirlos dos visiones tan distintas de la vida circunstante, son croquis reveladores de una terrible dolencia humana.
 
 in his own setting, just as two societies so different then offered it, and as two such different visions of the life around them could reproduce them, are revealing sketches of a terrible human malady.
 
@@ -288,7 +286,7 @@ In the old civilizations it does not appear as
 
 [p. 18]
 
-> 18 CULTURA cosa insólita la unión de un viejo y una joven. Victor Hugo, a quien parecen salir al encuentro todos los problemas, presenta un ejemplo típico en uno de los primeros cuadros de « La légende des siècles », Booz endormi. Más todavía, aunque ya se aproxima, éste no es el caso del amor tardío; puede considerarse lo que llaman los natulistas un tipo de transición.
+> cosa insólita la unión de un viejo y una joven. Victor Hugo, a quien parecen salir al encuentro todos los problemas, presenta un ejemplo típico en uno de los primeros cuadros de « La légende des siècles », Booz endormi. Más todavía, aunque ya se aproxima, éste no es el caso del amor tardío; puede considerarse lo que llaman los natulistas un tipo de transición.
 
 an unusual thing, the union of an old man and a young woman. Victor Hugo, whom all problems seem to come out to meet, presents a typical example in one of the first pictures of *La Légende des siècles*, *Booz endormi*. What is more, although it comes close, this is not the case of late love; it may be considered what the naturalists call a transitional type.
 
@@ -298,7 +296,7 @@ Where it is shown to us fully is in the work that closes the famous Rougon-Macqu
 
 [p. 19]
 
-> ENRIQUE JOSÉ VARONA 19 cia que la arroja en brazos del doctor, desoyendo las solicitaciones de su joven colega.
+> cia que la arroja en brazos del doctor, desoyendo las solicitaciones de su joven colega.
 
 that flings her into the doctor’s arms, turning a deaf ear to the entreaties of his young colleague.
 
@@ -320,7 +318,7 @@ This does not mean—how could it mean
 
 [p. 20]
 
-> 20 CULTURA decir? que no se puedan poner reparos a la obra. El principal se presenta en la última página. Ese modo de terminar esa obra resulta en absoluto incongruente. Pedro, el discípulo, cómplice del suicidio, que declara creyente al suicida, que se acuerda, así lo dice, de que sabe rezar, y empieza el padre nuestro, no nos presenta en absoluto aquella relación íntima con la conducta anterior que explica los actos. Y en el teatro no hay que acudir al subsuelo de las almas; hay que ser claros, para que el espectador vea con claridad y con rapidez; condiciones indispensables para producir efecto. ¿ No es el drama la primera de las artes efectistas?
+> decir? que no se puedan poner reparos a la obra. El principal se presenta en la última página. Ese modo de terminar esa obra resulta en absoluto incongruente. Pedro, el discípulo, cómplice del suicidio, que declara creyente al suicida, que se acuerda, así lo dice, de que sabe rezar, y empieza el padre nuestro, no nos presenta en absoluto aquella relación íntima con la conducta anterior que explica los actos. Y en el teatro no hay que acudir al subsuelo de las almas; hay que ser claros, para que el espectador vea con claridad y con rapidez; condiciones indispensables para producir efecto. ¿ No es el drama la primera de las artes efectistas?
 
 such a thing?—that no objections can be made to the work. The chief one appears on the last page. That way of ending *that* work turns out to be altogether incongruous. Pedro, the disciple, accomplice in the suicide, who declares the suicide to have been a believer, who remembers, so he says, that he knows how to pray, and begins the Our Father, does not present us at all with that intimate relation to previous conduct that explains acts. And in the theater one must not resort to the subsoil of souls; one must be clear, so that the spectator may see with clarity and speed; indispensable conditions for producing effect. Is not the drama the first of the effect-seeking arts?
 
@@ -340,25 +338,25 @@ Rostand himself takes care to tell us that with this address he makes his debut 
 
 [p. 22]
 
-> 22 CULTURA til, suavizada por cortesanía la mismo irónico; el dejo de superioridad moral que se hace un, a la do por respeto las conveniencias sociales la, a; misma idealidad que eleva sin esfuerzo aparente, asunto los personajes las cimas de y vida la el el a; mismo concepto de poesía como resorte exla quisitamente templado del alma humana todo; lo que anima en fin da lustre los ricos sonoros y a y versos del poeta espadachín que murió del amor
+> til, suavizada por la cortesanía; el mismo irónico dejo de superioridad moral, que se hace a un la do, por respeto a las conveniencias sociales; la misma idealidad, que eleva sin esfuerzo aparente el asunto y los personajes a las cimas de la vida; el mismo concepto de la poesía como resorte exquisitamente templado del alma humana; todo lo que anima en fin y da lustre a los ricos y sonoros versos del poeta espadachín, que murió del amor de una bella quimera.
 
 softened by courtesy; the same ironic trace of moral superiority that steps aside, out of respect for social conventions; the same ideality that raises, without apparent effort, the subject and the characters to the heights of life; the same conception of poetry as an exquisitely tempered spring of the human soul; all, in short, that animates and lends luster to the rich and sonorous verses of the swashbuckling poet who died of love for a beautiful chimera.
 
-> , de una bella quimera. Hemos oído Cyrano saliendo de Pastelería a, la
+> Hemos oído a Cyrano, saliendo de la Pastelería de los poetas para entrar en la Academia.
 
 We have heard Cyrano, as he leaves *La Rôtisserie des poètes* [The Poets’ Cookshop] to enter the Academy.
 
-> de los poetas para entrar en Academia la. No ha desmejorado en cambio Cyrano Rosel tand;ha salido perdidoso ni poeta de Bornier el, porque en lugar de una balada en su elogio ha-, yan resonado bajo cúpula los ágiles párrafos la en que nuevo maestro de el lengua ha hecho la revivir su pálida imágen reverdecer y laurel el que entusiasmo nacional entretejió por una el, sola vez en torno de su frente La prosa de Ros-,. tand también tiene alas un taumaturgo que.Y es no puede verter agua sin que resulte que escan-,
+> No ha desmejorado en el cambio Cyrano Rostand; ni ha salido perdidoso el poeta de Bornier, porque en lugar de una balada en su elogio, hayan resonado bajo la cúpula los ágiles párrafos en que el nuevo maestro de la lengua ha hecho revivir su pálida imágen y reverdecer el laurel que el entusiasmo nacional entretejió, por una sola vez, en torno de su frente. La prosa de Rostand también tiene alas. Y es un taumaturgo que no puede verter agua, sin que resulte que escancia vino generoso.
 
 Cyrano Rostand has lost nothing in the exchange; nor has the poet Bornier come off the loser, because instead of a ballad in his praise there have resounded beneath the dome the agile paragraphs in which the new master of the language has revived his pale image and made green again the laurel that national enthusiasm wove, just once, about his brow. Rostand’s prose too has wings. And he is a wonder-worker who cannot pour water without its turning out that he is serving a generous wine.
 
-> cia vino generoso. M. de Vogüé ha pretendido encontrar analo gías entre los dos poetas que se han sentado su cesivamente en el mismo sillón académico El te. rritorio de analogía la muy dilatado sus frones, teras muy inciertas los inmortales desde los:y, tiempos en que celebraban sus sesiones en las cumbres del Olimpo suelen gastar ironías que,
+> M. de Vogüé ha pretendido encontrar analo gías entre los dos poetas que se han sentado su cesivamente en el mismo sillón académico. El te rritorio de la analogía es muy dilatado, sus fronteras muy inciertas: y los inmortales, desde los tiempos en que celebraban sus sesiones en las cumbres del Olimpo, suelen gastar ironías que
 
 M. de Vogüé has sought to find analogies between the two poets who have sat successively in the same academic seat. The territory of analogy is very extensive, its frontiers very uncertain; and the immortals, ever since the times when they held their sessions on the peaks of Olympus, are wont to indulge in ironies that
 
 [p. 23]
 
-> ENRIQUE JOSÉ VARONA 23 se pierden de vista de puro sutiles. El vizconde Henri de Bernier fué un poeta estimable, que lo gró en una ocasión libertar el alma de su patria del sortilegio de la catástrofe, haciendo resonar con voz vibrante un canto de resurrección, coreado de seguida por el pueblo entero. Su mano tro pezó por una vez con la cuerda de bronce que estaba vibrando sordamente en el corazón de Francia, y le arrancó notas de dolor, de esperanza y gloria. Pero fué una vez; y luego, si la buscó, la buscó en vano. El autor de La Fille de Roland, consagrado por el triunfo de esta pieza dramática, poeta nacional, no añadió ninguno más al solitario florón de su corona; y en ésa su obra única no es difícil señalar la parte de colaboración del tiempo y las circunstancias.
+> se pierden de vista de puro sutiles. El vizconde Henri de Bernier fué un poeta estimable, que lo gró en una ocasión libertar el alma de su patria del sortilegio de la catástrofe, haciendo resonar con voz vibrante un canto de resurrección, coreado de seguida por el pueblo entero. Su mano tro pezó por una vez con la cuerda de bronce que estaba vibrando sordamente en el corazón de Francia, y le arrancó notas de dolor, de esperanza y gloria. Pero fué una vez; y luego, si la buscó, la buscó en vano. El autor de La Fille de Roland, consagrado por el triunfo de esta pieza dramática, poeta nacional, no añadió ninguno más al solitario florón de su corona; y en ésa su obra única no es difícil señalar la parte de colaboración del tiempo y las circunstancias.
 
 are lost from view through sheer subtlety. The Vicomte Henri de Bornier was an estimable poet, who succeeded on one occasion in freeing the soul of his country from the spell of catastrophe, by making ring out in a vibrant voice a song of resurrection, taken up at once in chorus by the entire people. His hand stumbled once upon the bronze string that was vibrating dully in the heart of France, and drew from it notes of sorrow, of hope and of glory. But it was once; and afterward, if he sought it, he sought it in vain. The author of *La Fille de Roland*, consecrated by the triumph of that dramatic piece, a national poet, added no other to the solitary jewel of his crown; and in that sole work of his it is not difficult to point out the share of collaboration due to time and circumstances.
 
@@ -372,11 +370,11 @@ Rostand, although his friend and colleague M. de Vogüé seems to hint it, is no
 
 [p. 24]
 
-> 24 CULTURA to, pudieran pasar por soles. Porque ha escrito a Cyrano de Bergerac, Rostand es un gran poeta; pero si no lo hubiera escrito, aún sería un poeta insigne, verdadero maestro de gay saber, de rica fantasía dramática, prestigiador maravilloso de versos y rimas, feliz inventor de agudezas, pintor sagaz de emociones exquisitas.
+> to, pudieran pasar por soles. Porque ha escrito a Cyrano de Bergerac, Rostand es un gran poeta; pero si no lo hubiera escrito, aún sería un poeta insigne, verdadero maestro de gay saber, de rica fantasía dramática, prestigiador maravilloso de versos y rimas, feliz inventor de agudezas, pintor sagaz de emociones exquisitas.
 
 might pass for suns. Because he wrote *Cyrano de Bergerac*, Rostand is a great poet; but had he not written it, he would still be a distinguished poet, a true master of the *gay saber* [gay science], of rich dramatic fantasy, a marvelous conjurer of verses and rhymes, a happy inventor of witticisms, a shrewd painter of exquisite emotions.
 
-> Es verdad que después de llegar a ciertas cimas, el alpinista más osado tiene que reposar, y al cabo ha de descender. Con respecto a Cyrano, L'Aiglon es un descenso. ¡Pero cuántos poetas pasan por notables, y lo son, sin haberse elevado jamás a mayor altura! L'Aiglon debió preceder y no seguir a su glorioso hermano. Todavía en esta obra se deja oir demasiado el virtuoso, que deja menor lugar al artista, y esconde sin querer al poeta. En Cyrano el poeta apenas abandona el proscenio.
+> Es verdad que después de llegar a ciertas cimas, el alpinista más osado tiene que reposar, y al cabo ha de descender. Con respecto a Cyrano, L'Aiglon es un descenso. ¡ Pero cuántos poetas pasan por notables, y lo son, sin haberse elevado jamás a mayor altura! L'Aiglon debió preceder y no seguir a su glorioso hermano. Todavía en esta obra se deja oir demasiado el virtuoso, que deja menor lugar al artista, y esconde sin querer al poeta. En Cyrano el poeta apenas abandona el proscenio.
 
 It is true that after reaching certain peaks the boldest alpinist must rest, and in the end descend. With respect to *Cyrano*, *L’Aiglon* is a descent. But how many poets pass for notable, and are, without ever having risen to a greater height! *L’Aiglon* ought to have preceded and not followed its glorious brother. In this work, moreover, the *virtuoso* is heard too much, leaving less room for the artist, and unwittingly hiding the poet. In *Cyrano* the poet scarcely leaves the front of the stage.
 
@@ -384,13 +382,13 @@ It is true that after reaching certain peaks the boldest alpinist must rest, and
 
 M. de Vogüé points out the capital reason for the poetic inferiority of *L’Aiglon*. Its characters are too near and too well known. It is not easy to set them far enough apart to place them at the distance that the perspective of heroic theater demands. I must confess that certain characters of that beautiful drama make on me the effect of caricatures, and certain scenes, in spite of myself, place me for a few moments in the midst of *vaudeville*.
 
-> ville. ¿Me habré contagiado con M. de Vogüé? Lo que sé es que me he dejado ir tras mis recuerdos
+> ¿ Me habré contagiado con M. de Vogüé? Lo que sé es que me he dejado ir tras mis recuerdos
 
 Have I caught the contagion from M. de Vogüé? What I know is that I have let myself go after my memories
 
 [p. 25]
 
-> ENRIQUE JOSÉ VARONA 25 e impresiones. Y por mi parte no estoy encargado de recibir al poeta en ningún cenáculo de eminencias literarias. Puedo vagar y divagar a mis anchas.
+> e impresiones. Y por mi parte no estoy encargado de recibir al poeta en ningún cenáculo de eminencias literarias. Puedo vagar y divagar a mis anchas.
 
 and impressions. And for my part I am not charged with receiving the poet in any conclave of literary eminences. I may wander and digress at my ease.
 
@@ -408,7 +406,7 @@ The last reflection that occurs to me is this: Rostand is now in the Academy; bu
 
 [scan 31]
 
-> MI PRIMER CONTACTO CON LA INJUSTICIA. [ 1]
+> MI PRIMER CONTACTO CON LA INJUSTICIA. [ 1 ]
 
 ## MY FIRST CONTACT WITH / INJUSTICE. <sup>1</sup>
 
@@ -430,7 +428,7 @@ The result had to be a timid and wary little boy in a town of sturdy urchins, ca
 
 [p. 27]
 
-> ENRIQUE JOSÉ VARONA 27 A consecuencia de todo esto, cambié mucho de escuela y después de colegio. Bastaba que no me encontrara del todo a mis anchas, para que yo mismo, con bien pobre excusa, o sin ninguna, me diera de baja.
+> A consecuencia de todo esto, cambié mucho de escuela y después de colegio. Bastaba que no me encontrara del todo a mis anchas, para que yo mismo, con bien pobre excusa, o sin ninguna, me diera de baja.
 
 As a consequence of all this, I changed schools a great deal, and afterward colleges. It was enough that I did not feel altogether at my ease for me myself, with a very poor excuse, or none, to withdraw.
 
@@ -442,21 +440,21 @@ At last, by reason of proximity, which was paramount for my mother’s timorousn
 
 I say bad luck, because from it derived my first hard stumble against injustice, of which I retain a memory.
 
-> Era el director más bien de pequeña estaturecio, enjuto, que rara vez sonreía, y cura, pero ya mirada severa, a través de los cristales cuadrados de sus espejuelos de oro, me parecía que trataba de insinuarse por las entretelas de mi pobre cabecilla, dispuesta a dejarse penetrar. Tenía don G.... un concepto, que llamaré singular, de lo vidrioso de sus funciones, a causa de esa mezcla de discípulos que pagaban y que no pagaban; y, por no parecer parcial a favor de los primeros, solía pasarse de imparcial, es decir, solía saltar a pies juntillas la raya de la ecuanimi-
+> Era el director más bien de pequeña estatura, pero recio, enjuto, que rara vez sonreía, y cuya mirada severa, a través de los cristales cuadrados de sus espejuelos de oro, me parecía que trataba de insinuarse por las entretelas de mi pobre cabecilla, dispuesta a dejarse penetrar. Tenía don G.... un concepto, que llamaré singular, de lo vidrioso de sus funciones, a causa de esa mezcla de discípulos que pagaban y que no pagaban; y, por no parecer parcial a favor de los primeros, solía pasarse de imparcial, es decir, solía saltar a pies juntillas la raya de la ecuanimidad y caía de cabeza en plena parcialidad.
 
 The headmaster was rather short of stature, but sturdy, lean, seldom smiling, and his severe gaze, through the square lenses of his gold spectacles, seemed to me to be trying to insinuate itself into the innermost recesses of my poor little head, which was ready to let itself be penetrated. Don G.... had a conception, which I shall call singular, of the delicacy of his functions, owing to that mixture of pupils who paid and who did not pay; and, in order not to appear partial toward the former, he was in the habit of overdoing impartiality, that is, he would leap with both feet over the line of fairness and fall headlong into full partiality.
 
-> dad y caía de cabeza en plena parcialidad.
+> A mí me tocó experimentarlo.
 
 It fell to me to experience it.
 
-> A mí me tocó experimentarlo. Entre mis condiscípulos, uno de los más aven
+> Entre mis condiscípulos, uno de los más aven
 
 Among my schoolmates, one of the most outstanding,
 
 [p. 28]
 
-> 28 CULTURA tajados, de buena familia, pero pobre y que, como tal, estaba en el colegio, gozaba de gran predicamento con el director; y a lo que recuerdo, lo merecía. Era bastante mayor que yo y debía mirarme con desdén, por mi carácter un tanto año. ñado. Cierto día, sea por bromear o por amedrentarme, hubo de decirme: « Tengo un cartucho de picapica y voy a soplártelo por entre el cuello de la camisa. »
+> tajados, de buena familia, pero pobre y que, como tal, estaba en el colegio, gozaba de gran predicamento con el director; y a lo que recuerdo, lo merecía. Era bastante mayor que yo y debía mirarme con desdén, por mi carácter un tanto año. ñado. Cierto día, sea por bromear o por amedrentarme, hubo de decirme: « Tengo un cartucho de picapica y voy a soplártelo por entre el cuello de la camisa. »
 
 of good family but poor, and who, as a poor boy, was at the school, enjoyed great standing with the headmaster; and, as I recall, deserved it. He was considerably older than I and must have looked at me with disdain, because of my somewhat mollycoddled disposition. One day, whether to joke or to frighten me, he said to me: “I have a paper cone of itching powder and I am going to blow it down between your collar and your shirt.”
 
@@ -474,7 +472,7 @@ Wholly unexpected and, to me, unprecedented was the case that presented itself. 
 
 [p. 29]
 
-> ENRIQUE JOSÉ Varona 29 profanación!, recalcando mis pueriles y torpes frases; y así que hubo terminado su lectura y mi suplicio, me miró por encima de sus cristales cuadrados, y me dijo campanudamente:
+> profanación!, recalcando mis pueriles y torpes frases; y así que hubo terminado su lectura y mi suplicio, me miró por encima de sus cristales cuadrados, y me dijo campanudamente:
 
 profanation!—dwelling on my childish and clumsy phrases; and when he had finished his reading and my torment, he looked at me over his square spectacles and said to me in a booming voice:
 
@@ -492,7 +490,7 @@ I felt no itching, but I did feel upon my head the blow of a great slab, which s
 
 ## A LESSON OF THE WAR
 
-> H ACE casi un año que consumo buena parte de mi tiempo, leyendo las noticias de la guerra, pesando lo que exponen periódicos de los beligerantes y revistas de los neutrales, amén de folletos y libros de unos y otros.
+> ACE casi un año que consumo buena parte de H mi tiempo, leyendo las noticias de la guerra, pesando lo que exponen periódicos de los beligerantes y revistas de los neutrales, amén de folletos y libros de unos y otros.
 
 F or nearly a year now I have spent a good part of my time reading the news of the war, weighing what the newspapers of the belligerents and the reviews of the neutrals set forth, to say nothing of the pamphlets and books of both sides.
 
@@ -506,7 +504,7 @@ A professor of the University of Birmingham, Mr. de Sélincourt, in the second o
 
 [p. 31]
 
-> ENRIQUE JOSÉ Varona 31 que la fuerza, y el libre y no estorbado desarrollo nacional. Es verdad que para Alemania la guerra se presenta en cierto modo a la misma luz ( in something of the same light) ».
+> que la fuerza, y el libre y no estorbado desarrollo nacional. Es verdad que para Alemania la guerra se presenta en cierto modo a la misma luz ( in something of the same light) ».
 
 but force, and of free and unimpeded national development. It is true that to Germany the war appears *in something of the same light*.”
 
@@ -524,7 +522,7 @@ These movements are far more extensive on the eastern front, where districts and
 
 [p. 32]
 
-> 32 CULTURA Para mí, que no soy militar, ni diplomático, ni siquiera perito aficionado, el carácter distintivo de esta guerra colosal, y de la madeja de combinaciones que sobre ella y en torno de ella mue ven los gabinetes, es el estancamiento. Lo cual no significa que de esos siniestros campos de acción y de inacción no estén manando ríos de sangre y despeñándose cataratas vertiginosas de dinero. Ni que muchos de los gobiernos neutrales dejen de mantenerse en un vaivén, que sería cómico si los momentos actuales no fueran eminentemente siniestros.
+> Para mí, que no soy militar, ni diplomático, ni siquiera perito aficionado, el carácter distintivo de esta guerra colosal, y de la madeja de combinaciones que sobre ella y en torno de ella mue ven los gabinetes, es el estancamiento. Lo cual no significa que de esos siniestros campos de acción y de inacción no estén manando ríos de sangre y despeñándose cataratas vertiginosas de dinero. Ni que muchos de los gobiernos neutrales dejen de mantenerse en un vaivén, que sería cómico si los momentos actuales no fueran eminentemente siniestros.
 
 To me, who am neither a soldier nor a diplomat, nor even an amateur expert, the distinctive character of this colossal war, and of the tangle of combinations which the cabinets are spinning upon it and around it, is stagnation. Which does not mean that rivers of blood are not flowing from those sinister fields of action and inaction, and dizzying cataracts of money plunging headlong down them. Nor that many of the neutral governments are not keeping themselves in a vacillation that would be comic were the present moments not eminently sinister.
 
@@ -532,17 +530,17 @@ To me, who am neither a soldier nor a diplomat, nor even an amateur expert, the 
 
 And now let us come to the lesson that I find, ever more clearly, in this monstrous contest.
 
-> Si nos es tan difícil darnos entera cuenta de lo que ocurre en torno nuestro, de aquello de que somos por decirlo así, testigos, ¿ qué será cuan-, do se trata de lo que se aleja de nosotros y, por consiguiente, cuanto más se aleja? Para lo presente, estamos en la penumbra; más allá se van espesando por grados las tinieblas. No muy le
+> Si nos es tan difícil darnos entera cuenta de lo que ocurre en torno nuestro, de aquello de que somos, por decirlo así, testigos, ¿ qué será cuando se trata de lo que se aleja de nosotros y, por consiguiente, cuanto más se aleja? Para lo presente, estamos en la penumbra; más allá se van espesando por grados las tinieblas. No muy le jos, la noche es completa.
 
 If it is so hard for us to give ourselves a full account of what occurs around us, of that of which we are, so to speak, witnesses, what will it be when it concerns what recedes from us and, consequently, the more it recedes? For the present, we are in the penumbra; farther off the darkness thickens by degrees. Not very far off, the night is complete.
 
-> jos, la noche es completa. Tenemos los hombres del día elementos de información que no conocieron o sólo conocieron a medias nuestros antepasados. Pero lo que nos enseña a voces la guerra actual, entre otras muchas cosas que nos enseña, es que las noticias se falsean en estos tiempos de publicidad, tanto como en las más obscuras épocas del oscurantismo. Son tantos los proyectores de luz que bombar
+> Tenemos los hombres del día elementos de información que no conocieron o sólo conocieron a medias nuestros antepasados. Pero lo que nos enseña a voces la guerra actual, entre otras muchas cosas que nos enseña, es que las noticias se falsean en estos tiempos de publicidad, tanto como en las más obscuras épocas del oscurantismo. Son tantos los proyectores de luz que bombar
 
 We men of today have means of information which our forefathers did not have, or had only by halves. But what the present war teaches us loudly, among many other things that it teaches us, is that news is falsified in these times of publicity quite as much as in the darkest epochs of obscurantism. There are so many searchlights that bombard
 
 [p. 33]
 
-> ENRIQUE JOSÉ VARONA 33 dean contra nosotros, que nos atontan y ofuscan; es decir, que no nos dejan ver nada.
+> dean contra nosotros, que nos atontan y ofuscan; es decir, que no nos dejan ver nada.
 
 us, that they daze and bewilder us; that is, they let us see nothing at all.
 
@@ -560,15 +558,15 @@ I already hear the voices of protest. I am not impassioned, says each one; I am 
 
 [p. 34]
 
-> 34 CULTURA Lo que veo a través de mis cristales ahuma-
+> Lo que veo a través de mis cristales ahuma-
 
 What I see through my smoked glasses.
 
-> dos. No hay quimera igual a la de creer que nues tros juicios puedan nacer puros de toda mezcla de afecto. Ese es su pecado original; y para éste no hay aguas purificadoras. Un solitario en Kö nigsberg, o en cualquiera otra parte, escribe vo lúmenes sobre la razón pura. Bueno. Ese río de palabras, cuando llega el momento de juzgar sobre hechos, no se lleva, no arrastra uno solo de los granos de pasión de que se forman nuestros
+> No. hay quimera igual a la de creer que nues tros juicios puedan nacer puros de toda mezcla de afecto. Ese es su pecado original; y para éste no hay aguas purificadoras. Un solitario en Kö nigsberg, o en cualquiera otra parte, escribe vo lúmenes sobre la razón pura. Bueno. Ese río de palabras, cuando llega el momento de juzgar sobre hechos, no se lleva, no arrastra uno solo de los granos de pasión de que se forman nuestros prejuicios.
 
 There is no chimera like that of believing that our judgments can be born pure of any admixture of affection. That is their original sin; and for this there are no purifying waters. A solitary in Königsberg, or anywhere else, writes volumes on pure reason. Very well. That river of words, when the moment comes to judge of facts, carries off, sweeps away not a single one of the grains of passion of which our prejudices are formed.
 
-> prejuicios. Si fuera posible hablar de humanidad y de simpatías humanas, en medio de estas sacudidas espantosas de la conciencia moral, diría, para terminar, que el sentimiento que cabe, ante este desbordamiento de odios y temores, es el deseo de que se abran al cabo camino aquellas nobles pasiones, a ver si es posible que el orgullo de los pueblos se venza a sí mismo, y deje que se siente melancólicamente el mundo a restañar la sangre que le mana de tantas y tan crueles heridas.
+> Si fuera posible hablar de humanidad y de simpatías humanas, en medio de estas sacudidas espantosas de la conciencia moral, diría, para terminar, que el sentimiento que cabe, ante este desbordamiento de odios y temores, es el deseo de que se abran al cabo camino aquellas nobles pasiones, a ver si es posible que el orgullo de los pueblos se venza a sí mismo, y deje que se siente melancólicamente el mundo a restañar la sangre que le mana de tantas y tan crueles heridas.
 
 If it were possible to speak of humanity and of human sympathies, amid these dreadful shocks to the moral conscience, I should say, in closing, that the sentiment that befits us, before this overflowing of hatreds and fears, is the wish that those noble passions may at last find a way open, to see whether it be possible for the pride of peoples to conquer itself, and let the world sit down, melancholy, to staunch the blood that flows from so many and such cruel wounds.
 
@@ -588,7 +586,7 @@ My thought carried me far back in time; and as I recalled the wretched condition
 
 [p. 36]
 
-> 36 CULTURA Burgos, de Valencia o de Córdoba. Al conjuro mágico de la declaración de los derechos del hombre, el espíritu humano se había limpiado de su costra secular de odio e iniquidad; y en las manos del hombre no había de coagularse más la sangre de Abel.
+> Burgos, de Valencia o de Córdoba. Al conjuro mágico de la declaración de los derechos del hombre, el espíritu humano se había limpiado de su costra secular de odio e iniquidad; y en las manos del hombre no había de coagularse más la sangre de Abel.
 
 Burgos, of Valencia or of Córdoba. At the magic spell of the declaration of the rights of man, the human spirit had cleansed itself of its age-old crust of hatred and iniquity; and in the hands of man the blood of Abel was never again to coagulate.
 
@@ -596,35 +594,35 @@ Burgos, of Valencia or of Córdoba. At the magic spell of the declaration of the
 
 Not many years had passed since the afternoon of those consoling reflections when the anti-Semitic agitation began in Europe, fomented by men perfectly varnished with culture, journalists, orators, poets, and even theologians. The Jew was once more the scapegoat, laden with the sins of our civilization. He was clad in the golden fleece, and was to be shorn before being immolated. From preaching they passed to persecutions, to plunder, to banishment, and now once again they have come to throat-cutting and sacking. The twentieth century has clasped hands with the fourteenth: and to the cries of terror of the Jewish communities of Toledo there respond, in infernal chorus, the lamentations of the Jewish communities of Kishinev. Mephistopheles, in the mask of Robespierre, wields the baton on high.
 
-> ¿ Cómo no? ¿Acaso la predicación de un día y otro día gotea en vano sobre el alma del pueblo, amasada de miseria, de codicia y concupiscencia? ¿No es el judío la sanguijuela hidrópica de oro? ¿ No es el aliado natural del enemigo de más allá de la frontera? ¿ No corrompe a la virgen cristiana? ¿No crucifica al niño bautizado? Toda la per
+> ¿ Cómo no? ¿Acaso la predicación de un día y otro día gotea en vano sobre el alma del pueblo, amasada de miseria, de codicia y concupiscencia? ¿ No es el judío la sanguijuela hidrópica de oro? ¿ No es el aliado natural del enemigo de más allá de la frontera? ¿ No corrompe a la virgen cristiana? ¿ No crucifica al niño bautizado? Toda la per
 
 And why not? Does the preaching of day after day perhaps drip in vain upon the soul of the people, kneaded of misery, greed and concupiscence? Is not the Jew the dropsical leech of gold? Is he not the natural ally of the enemy beyond the frontier? Does he not corrupt the Christian virgin? Does he not crucify the baptized child? All the perverse
 
 [p. 37]
 
-> ENRIQUE JOSÉ VARONA 37 versa retórica de los demagogos antisemitas se ha empleado en glosar los versos del canciller de Castilla: « Allí vienen judíos, que están aparejados para beber la sangre de los pueblos cuitados. >>> Y los pueblos cuitados están siempre dis-
+> versa retórica de los demagogos antisemitas se ha empleado en glosar los versos del canciller de Castilla:
 
 rhetoric of the anti-Semitic demagogues has been employed in glossing the verses of the Chancellor of Castile:
 
-> puestos creer con mayor a fe más abominable
+> « Allí vienen judíos, que están aparejados para beber la sangre de los pueblos cuitados. >>>
 
 #### “There come the Jews, who stand prepared / to drink the blood of the wretched peoples.”
 
-> lo loque ennegrezca más la naturaleza humana, y, endurezca más unos contra otros los corazones de los hombres los lance unos contra otros, y o unos sobre otros para responder, canibalismo al ideado con canibalismo efectivo Después se el. canta un tedéum se pide con lágrimas de en-,y, ternecimiento paz en, tierra los hombres de la a buena voluntad. Un nuevo y doloroso éxodo ha comenzado para los dėscendientes de Israel que desde las pla
+> Y los pueblos cuitados están siempre dispuestos a creer con mayor fe lo más abominable, lo que ennegrezca más la naturaleza humana, y endurezca más unos contra otros los corazones de los hombres, y los lance unos contra otros o unos sobre otros, para responder al canibalismo ideado con el canibalismo efectivo. Después se canta un tedéum, y se pide, con lágrimas de enternecimiento, paz en la tierra a los hombres de buena voluntad.
 
 And the wretched peoples are always disposed to believe with the greater faith whatever is most abominable, whatever blackens human nature the more, hardens the hearts of men the more against one another, and hurls them against one another or upon one another, to answer imagined cannibalism with effective cannibalism. Afterwards a Te Deum is sung, and with tears of tenderness peace on earth to men of good will is begged.
 
-> , yas inhospitables de Europa se desbordan como, río de revueltas aguas sobre las costas de Nor-, te América - Por decenas de millares se cuentan. los judíos que han huído de Austria Hungría de, Alemania de Rusia y se encuentran hacinados,y en las húmedas sombrías casas de vecindad del y Ghetto de Nueva York. Una visita esas zahurdas miserables deja a frío en alma por mucho tiempo
+> Un nuevo y doloroso éxodo ha comenzado para los dėscendientes de Israel, que desde las pla yas inhospitables de Europa se desbordan, como río de revueltas aguas, sobre las costas de Norte - América. Por decenas de millares se cuentan los judíos que han huído de Austria Hungría, de Alemania y de Rusia, y se encuentran hacinados en las húmedas y sombrías casas de vecindad del Ghetto de Nueva York.
 
 A new and sorrowful exodus has begun for the descendants of Israel, who from the inhospitable shores of Europe overflow, like a river of turbid waters, upon the coasts of North America. Tens of thousands are counted of the Jews who have fled from Austria-Hungary, from Germany and from Russia, and who find themselves heaped together in the damp, gloomy tenement houses of the Ghetto of New York.
 
-> el eco en los y el oídos de más extraña jerga en que puedan exel la, presarse dolor desesperación humanos y la. Los judíos recién llegados ciudad imperial a la
+> Una visita a esas zahurdas miserables deja frío en el alma por mucho tiempo y el eco en los oídos de la más extraña jerga, en que puedan expresarse el dolor y la desesperación humanos. Los judíos recién llegados a la ciudad imperial
 
 A visit to those wretched hovels leaves one cold in soul for a long time, and with the echo in one’s ears of the strangest jargon in which human grief and despair can be expressed. The Jews newly arrived in the imperial city
 
 [p. 38]
 
-> 38 CULTURA hablan una especie de germanía en que se mezclan y amalgaman vocablos alemanes y hebreos o rusos y hebreos, según los casos, y a que se da el nombre de yiddish. Esta jerga, importada de sus tierras nativas, predomina en el Ghetto, y se mantiene por lo menos en la segunda generación de inmigrantes.
+> hablan una especie de germanía en que se mezclan y amalgaman vocablos alemanes y hebreos o rusos y hebreos, según los casos, y a que se da el nombre de yiddish. Esta jerga, importada de sus tierras nativas, predomina en el Ghetto, y se mantiene por lo menos en la segunda generación de inmigrantes.
 
 speak a kind of cant in which German and Hebrew words, or Russian and Hebrew, as the case may be, are mingled and amalgamated, and to which the name of *yiddish* is given. This jargon, imported from their native lands, predominates in the Ghetto, and is maintained at least into the second generation of immigrants.
 
@@ -638,7 +636,7 @@ Among the writers in the Yiddish dialect of the Ghetto of New York alone there a
 
 [p. 39]
 
-> ENRIQUE JOSÉ VARONA 39 fibras de la conmiseración, como si las inflexibles agujas se hubiesen tornado dedos de hierro en la mano del poeta.
+> fibras de la conmiseración, como si las inflexibles agujas se hubiesen tornado dedos de hierro en la mano del poeta.
 
 fibers of compassion, as if the inflexible needles had become fingers of iron in the poet’s hand.
 
@@ -672,31 +670,31 @@ July 13.
 
 ## FATHER JUANÍN
 
-> soy yo mismo lo que más cerca tengo de C MOMO mí y lo que puedo observar más a mi sabor, he procurado más de una vez trazar la espiral de mis transformaciones mentales. He procurado, lo que no quiere decir ni remotamente que lo haya conseguido. Pero he buscado todos los jalones que he podido señalar, para fijarlos en mi memoria; y por eso he inquirido los diversos elemen-
+> MOMO soy yo mismo lo que más cerca tengo de C mí y lo que puedo observar más a mi sabor, he procurado más de una vez trazar la espiral de mis transformaciones mentales. He procurado, lo que no quiere decir ni remotamente que lo haya conseguido. Pero he buscado todos los jalones que he podido señalar, para fijarlos en mi memoria; y por eso he inquirido los diversos elementos que han tenido o han podido tener alguna influencia en el desarrollo de mi carácter.
 
 A s I myself am what lies nearest to me and what I can observe most to my taste, I have tried more than once to trace the spiral of my mental transformations. I have tried, which does not mean, even remotely, that I have succeeded. But I have sought out all the landmarks I have been able to mark, in order to fix them in my memory; and for that reason I have inquired into the various elements that have had, or may have had, some influence on the development of my character.
 
-> tos que han tenido o han podido tener alguna influencia en el desarrollo de mi carácter. Entre éstos cuento al padre Juanín. Fué éste mi último profesor de matemáticas. Pero no in. fluyó en la formación de mi espíritu por su ense. ñanza. Cuando pasé entre su varilla y su encerado, era yo muy fuerte en aritmética, pero sabía poquísima álgebra, menos geometría y muchísimo menos trigonometría. Si digo nada, de esta última disciplina, no me aparto de una tilde de la verdad. Cuando salí de su clase, y no por su cul. pa, estaba poco más o menos lo mismo.
+> Entre éstos cuento al padre Juanín. Fué éste mi último profesor de matemáticas. Pero no in. fluyó en la formación de mi espíritu por su ense. ñanza. Cuando pasé entre su varilla y su encerado, era yo muy fuerte en aritmética, pero sabía poquísima álgebra, menos geometría y muchísimo menos trigonometría. Si digo nada, de esta última disciplina, no me aparto de una tilde de la verdad. Cuando salí de su clase, y no por su cul. pa, estaba poco más o menos lo mismo.
 
 Among these I count Father Juanín. He was my last teacher of mathematics. But he did not influence the formation of my mind by his teaching. When I passed between his pointer and his blackboard, I was very strong in arithmetic, but knew very little algebra, less geometry and very much less trigonometry. If I say none at all of this last discipline, I do not depart by a tittle from the truth. When I left his class, and not through his fault, I stood more or less where I had been.
 
 [p. 41]
 
-> ENRIQUE JOSÉ VARONA 41 Con todo eso, el padre Juanín dejó huellas bien apreciables en mi ánimo. Era el buen hombre tan enjuto de cuerpo, como de espíritu. Entre las figuras geométricas, hubiera podido realizar el ideal de la columna. Arquitectónicamente considerado, lo era; delgada, pero maciza y de piedra berroqueña. No conoció la flexibilidad. Al sentarse, al ponerse de pie, al arrodillarse, parecía no tener coyunturas. En cuanto a su cerebro debió ser fundido de una pieza. Un antropoide debe tener más circunvoluciones cerebrales. El padre Juanín vivía a sus anchas en la edad de piedra. Pocas ideas, pero con tales raíces en su masa encefálica, que ningún forceps humano hubiera logrado arrancarles una brizna. Cierta vez mi maestro de retórica y poética me dió por tema un soneto a la Resurrección. Lo compuse, y fué tan de su agrado que lo enseñó a sus compañeros. El padre Juanín lo leyó de sos- -
+> Con todo eso, el padre Juanín dejó huellas bien apreciables en mi ánimo. Era el buen hombre tan enjuto de cuerpo, como de espíritu. Entre las figuras geométricas, hubiera podido realizar el ideal de la columna. Arquitectónicamente considerado, lo era; delgada, pero maciza y de piedra berroqueña. No conoció la flexibilidad. Al sentarse, al ponerse de pie, al arrodillarse, parecía no tener coyunturas. En cuanto a su cerebro debió ser fundido de una pieza. Un antropoide debe tener más circunvoluciones cerebrales. El padre Juanín vivía a sus anchas en la edad de piedra. Pocas ideas, pero con tales raíces en su masa encefálica, que ningún forceps humano hubiera logrado arrancarles una brizna.
 
 For all that, Father Juanín left very appreciable traces in my mind. The good man was as spare in body as in spirit. Among geometrical figures he could have realized the ideal of the column. Architecturally considered, that he was; slender, but solid and of granite. He never knew flexibility. On sitting down, on standing up, on kneeling, he seemed to have no joints. As to his brain, it must have been cast in a single piece. An anthropoid must have more cerebral convolutions. Father Juanín lived at his ease in the Stone Age. Few ideas, but with such roots in his encephalic mass that no human forceps could have torn a shred of them out.
 
-> layo, hizo casi una mueca, tic que le era habitual, - y me llamó: ¿ De dónde has copiado esto? -De ninguna parte, Padre. Mientes: de algún libro viejo. Y el soneto quedó in aeternum clasificado para él entre las producciones del poeta ramplón X, que debió florecer o marchitarse en el siglo XVII. A pesar de esta herida a mi vanidad estudian. til, que como se ve sangra todavía de otras y, y y,
+> Cierta vez mi maestro de retórica y poética me dió por tema un soneto a la Resurrección. Lo compuse, y fué tan de su agrado que lo enseñó a sus compañeros. El padre Juanín lo leyó de soslayo, hizo casi una mueca, tic que le era habitual, y me llamó: - ¿ De dónde has copiado esto? -De ninguna parte, Padre. - Mientes: de algún libro viejo. Y el soneto quedó in aeternum clasificado para él entre las producciones del poeta ramplón X XVII, que debió florecer o marchitarse en el siglo
 
 Once my teacher of rhetoric and poetics gave me as a theme a sonnet on the Resurrection. I composed it, and it so pleased him that he showed it to his colleagues. Father Juanín read it out of the corner of his eye, made almost a grimace, a tic that was habitual with him, and called me: —Where did you copy this from? —From nowhere, Father. —You lie: from some old book. And the sonnet remained *in aeternum* [forever] classified for him among the productions of the hack poet X, who must have flourished or withered in the seventeenth century.
 
-> , otras quizás por ellas mi profesor de matemá-, ticas que no aprendí ha tenido indudablemente,,
+> A pesar de esta herida a mi vanidad estudian. til, que, como se ve, sangra todavía, y de otras y otras y quizás por ellas, mi profesor de matemáticas, que no aprendí, ha tenido indudablemente
 
 In spite of this wound to my student vanity, which, as one sees, still bleeds, and of others and others, and perhaps because of them, my teacher of mathematics, which I did not learn, has undoubtedly had
 
 [p. 42]
 
-> 42 • CULTURA parte en mi evolución interna. ¿ Cómo? Por repulsión y contraste.
+> parte en mi evolución interna. ¿ Cómo? Por repulsión y contraste.
 
 a part in my inner evolution. How? By repulsion and contrast.
 
@@ -714,43 +712,43 @@ He who thinks that I set down this assertion with so much as a grain of irony wi
 
 ## GLASS WALLS
 
-> ocos meses atrás, un caballero, que está re- Docos Pocogiendo datos sobre el desarrollo material y moral de Cuba, me pidió algún breve escrito mío, sobre cualquier tema; sin duda para que pudiera tenerse idea de mi modo de discurrir y de expresarme. Con ese motivo escribí los siguien-
+> Docos ocos meses atrás, un caballero, que está re- Po cogiendo datos sobre el desarrollo material y moral de Cuba, me pidió algún breve escrito mío, sobre cualquier tema; sin duda para que pudiera tenerse idea de mi modo de discurrir y de expresarme. Con ese motivo escribí los siguientes párrafos:
 
 A few months ago, a gentleman who is gathering data on the material and moral development of Cuba asked me for some brief writing of mine, on any subject; no doubt so that an idea might be had of my way of reasoning and expressing myself. On that occasion I wrote the following paragraphs:
 
-> tes párrafos: <Acabo de reeler esta frase, que leí hace muchos años: « Las democracias han de vivir en casa de cristal ». Entonces me entusiasmó; y ahora me
+> < Acabo de reeler esta frase, que leí hace muchos años: « Las democracias han de vivir en casa de cristal ». Entonces me entusiasmó; y ahora me ha entristecido.
 
 “I have just reread this phrase, which I read many years ago: ‘Democracies must live in a house of glass.’ Then it enthused me; and now it has saddened me.
 
-> ha entristecido. < ¿ Es que la edad me ha ido petrificando el cerebro y me ha convertido en reaccionario? ¿ Hace daño la luz excesiva a mis ojos envejecidos? No por cierto. Todavía me regocija la espléndida claridad meridiana. y me hace encoger de hombros la idea de que los pueblos puedan subir de nuevo y a reculones la cuesta que bajaron. Ni el hombre, ni los hombres viven dos veces.
+> < ¿ Es que la edad me ha ido petrificando el cerebro y me ha convertido en reaccionario? ¿ Hace daño la luz excesiva a mis ojos envejecidos? No por cierto. Todavía me regocija la espléndida claridad meridiana. y me hace encoger de hombros la idea de que los pueblos puedan subir de nuevo y a reculones la cuesta que bajaron. Ni el hombre, ni los hombres viven dos veces.
 
 “Is it that age has been petrifying my brain and has turned me into a reactionary? Does excessive light hurt my aged eyes? Certainly not. I still rejoice in splendid noonday clarity, and I shrug my shoulders at the idea that peoples could climb back up, backwards, the slope they came down. Neither man nor men live twice.
 
 [p. 44]
 
-> 44 CULTURA <Me ha entristecido, porque ha hecho surgir ante mí el terrorífico escenario de Europa, cuna de la libertad, y campo hoy del más tremendo cataclismo que han podido producir la demencia y la ceguedad de los hombres.
+> < Me ha entristecido, porque ha hecho surgir ante mí el terrorífico escenario de Europa, cuna de la libertad, y campo hoy del más tremendo cataclismo que han podido producir la demencia y la ceguedad de los hombres.
 
 “It has saddened me because it has made rise before me the terrifying scene of Europe, cradle of liberty, and today the field of the most tremendous cataclysm that the madness and blindness of men could have produced.
 
-> <Grandes democracias son Francia y la Gran Bretaña, sobre el sufragio universal cree levantar la fábrica de su gobierno la Confederación Alemana. Y a pesar de las paredes transparentes de sus casas ¿ quiénes vieron los tremendos combustibles que se hacinaban y la mano o las manos que lanzaron la chispa que hizo saltar un mundo?
+> < Grandes democracias son Francia y la Gran Bretaña, sobre el sufragio universal cree levantar la fábrica de su gobierno la Confederación Alemana. Y a pesar de las paredes transparentes de sus casas ¿ quiénes vieron los tremendos combustibles que se hacinaban y la mano o las manos que lanzaron la chispa que hizo saltar un mundo?
 
 “Great democracies are France and Great Britain; upon universal suffrage the German Confederation believes it is raising the fabric of its government. And despite the transparent walls of their houses, who saw the tremendous combustibles that were piling up, and the hand or hands that threw the spark that blew a world apart?
 
-> <A los primeros resplandores del incendio, vimos correr despavoridos, desde sus plácidos retiros veraniegos, a jefes de naciones, que las sintieron amagadas en el corazón; locos de sorpresa y espanto se precipitaban los directores de grandes partidos opuestos por principio a la guerra; y el común de los ciudadanos se desbanda en todas direcciones, sin saber dónde encontrar puerto de refugio.
+> < A los primeros resplandores del incendio, vimos correr despavoridos, desde sus plácidos retiros veraniegos, a jefes de naciones, que las sintieron amagadas en el corazón; locos de sorpresa y espanto se precipitaban los directores de grandes partidos opuestos por principio a la guerra; y el común de los ciudadanos se desbanda en todas direcciones, sin saber dónde encontrar puerto de refugio.
 
 “At the first gleams of the conflagration, we saw rushing in panic from their placid summer retreats the heads of nations who felt them threatened at the heart; mad with surprise and fright the leaders of great parties opposed on principle to war hurled themselves forward; and the common run of citizens scattered in all directions, not knowing where to find a harbor of refuge.
 
-> Me ha entristecido, porque << en esa misma democracia, gobernada hoy por un letrado de la misma escuela del autor del nítido aforismo, ¿ logra nadie, por perspicaz que se crea, penetrar en los meandros del cerebro del estadista o los estadistas que envían notas conminatorias a los poderes europeos beligerantes, y aceptan o pa
+> << Me ha entristecido, porque en esa misma democracia, gobernada hoy por un letrado de la misma escuela del autor del nítido aforismo, ¿ logra nadie, por perspicaz que se crea, penetrar en los meandros del cerebro del estadista o los estadistas que envían notas conminatorias a los poderes europeos beligerantes, y aceptan o pa
 
 “It has saddened me because in that same democracy, governed today by a lawyer of the same school as the author of the limpid aphorism, does anyone succeed, however perspicacious he believes himself, in penetrating the meanders of the brain of the statesman or statesmen who send menacing notes to the belligerent European powers, and accept or seem
 
 [p. 45]
 
-> ENRIQUE JOSÉ VARONA 45 recen aceptar sus intrincadas y untuosas respuestas?
+> recen aceptar sus intrincadas y untuosas respuestas?
 
 to accept their intricate and unctuous replies?
 
-> <Cuando era yo niño tuvo fama el palacio de cristal en que celebró Ingleterra su primera exposición. Cierto. A través de su transparente armazón se veían las poderosas máquinas con que la industria había revolucionado el mundo fabril. Lo que no se veía, ni podía verse, era el engranaje interno de ruedas y palancas, ni la voluntad directora que, por su medio, les comunicaba vida y las ponía en movimiento ».
+> < Cuando era yo niño tuvo fama el palacio de cristal en que celebró Ingleterra su primera exposición. Cierto. A través de su transparente armazón se veían las poderosas máquinas con que la industria había revolucionado el mundo fabril. Lo que no se veía, ni podía verse, era el engranaje interno de ruedas y palancas, ni la voluntad directora que, por su medio, les comunicaba vida y las ponía en movimiento ».
 
 “When I was a boy the glass palace in which England held her first exhibition was famous. True. Through its transparent framework one saw the powerful machines with which industry had revolutionized the manufacturing world. What was not seen, nor could be seen, was the inner gearing of wheels and levers, nor the directing will that, by their means, gave them life and set them in motion.”
 
@@ -768,7 +766,7 @@ Almost a century later, the German statesmen made a singular discovery. No: the 
 
 [p. 46]
 
-> 46 CULTURA mucho más alto, para cobijarnos a todos. No se encarna en la masa amorfa, ni en la masa organizada, ni en los hombres, ni en el hombre. La so beranía pertenece al Estado. Se necesita leer a los tratadistas penetrados de ese gran principio, en Alemania y fuera de ella, para formarse idea de la devoción, de la veneración con que se inclinaban reverentes, casi se prosternaban, ante esa deidad recóndita, omnicomprehensiva, permanente, exclusiva, ilimitada: el Estado. El triste soberano desposeído, el atomo humano, mi vecino, yo, con mi cédula o mi planilla o mi infolio electoral, reducidos a cero, a menos que cero, a cantidad negativa. La defenestración de Praga, la de Belgrado. /
+> mucho más alto, para cobijarnos a todos. No se encarna en la masa amorfa, ni en la masa organizada, ni en los hombres, ni en el hombre. La so beranía pertenece al Estado. Se necesita leer a los tratadistas penetrados de ese gran principio, en Alemania y fuera de ella, para formarse idea de la devoción, de la veneración con que se inclinaban reverentes, casi se prosternaban, ante esa deidad recóndita, omnicomprehensiva, permanente, exclusiva, ilimitada: el Estado. El triste soberano desposeído, el atomo humano, mi vecino, yo, con mi cédula o mi planilla o mi infolio electoral, reducidos a cero, a menos que cero, a cantidad negativa. La defenestración de Praga, la de Belgrado. /
 
 far higher, to shelter us all. It is not incarnated in the amorphous mass, nor in the organized mass, nor in men, nor in man. Sovereignty belongs to the State. One must read the treatise writers imbued with that great principle, in Germany and outside it, to form an idea of the devotion, of the veneration with which they bowed reverently, almost prostrated themselves, before that recondite, all-comprehending, permanent, exclusive, unlimited deity: the State. The wretched dispossessed sovereign, the human atom, my neighbor, I, with my registration card or my form or my electoral folio, reduced to zero, to less than zero, to a negative quantity. The defenestration of Prague, that of Belgrade.
 
@@ -782,7 +780,7 @@ Our treatise writers will be astonished and even indignant at this foolish asser
 
 [p. 47]
 
-> ENRIQUE JOSÉ VARONA 47 atiende a la distinción profunda, a la separación completa, que establecen entre el Estado y el gobierno. Lo reconozco: una cosa, lo superior, lo ideal, es el Estado, y otra subordinada, inferior, inferiorísima, el gobierno. Solo que el gobierno es real, lo ejercen hombres, que tienen en sus manos todos los medios reales y hasta ideales para actuar sobre otros hombres. Una bicoca.
+> atiende a la distinción profunda, a la separación completa, que establecen entre el Estado y el gobierno. Lo reconozco: una cosa, lo superior, lo ideal, es el Estado, y otra subordinada, inferior, inferiorísima, el gobierno. Solo que el gobierno es real, lo ejercen hombres, que tienen en sus manos todos los medios reales y hasta ideales para actuar sobre otros hombres. Una bicoca.
 
 heed the profound distinction, the complete separation, which they establish between the State and the government. I admit it: one thing, the superior, the ideal, is the State, and another, subordinate, inferior, most inferior, the government. Only that the government is real, it is exercised by men, who hold in their hands all the real and even ideal means for acting upon other men. A mere trifle.
 
@@ -796,15 +794,15 @@ Well then, let us suppose, and it is no small supposition, that, armed with my b
 
 [p. 48]
 
-> 48 CULTURA do honradamente, sin violencias ni artimañas públicas ni secretas, con el desconsuelo, pero con el respeto de sus adversarios.
+> do honradamente, sin violencias ni artimañas públicas ni secretas, con el desconsuelo, pero con el respeto de sus adversarios.
 
 honestly, without violence or trickery, public or secret, to the dismay, but with the respect, of its adversaries.
 
-> En esta situación naturalísima, pero casi fantástica, al menos por estas tierras de Hispano- América, ¿ qué voy a ver yo, el elector de marras, a través de las transparentes paredes cristalinas de las mansiones oficiales de mis gobernantes? ¿Qué voy a saber de los antecedentes genuinos de las resoluciones que más me importan y conmigo a todos mis conciudadanos? ¿ Quién me da cuenta de los verdaderos móviles de actos que pueden ser decisivos para el porvenir de mi pueblo, y que nunca son indiferentes?
+> En esta situación naturalísima, pero casi fantástica, al menos por estas tierras de Hispano- América, ¿ qué voy a ver yo, el elector de marras, a través de las transparentes paredes cristalinas de las mansiones oficiales de mis gobernantes? ¿ Qué voy a saber de los antecedentes genuinos de las resoluciones que más me importan y conmigo a todos mis conciudadanos? ¿ Quién me da cuenta de los verdaderos móviles de actos que pueden ser decisivos para el porvenir de mi pueblo, y que nunca son indiferentes?
 
 In this most natural but almost fantastic situation, at least in these lands of Spanish America, what am I to see, I, the elector in question, through the transparent crystal walls of the official mansions of my governors? What am I to know of the genuine antecedents of the resolutions that matter most to me and, along with me, to all my fellow citizens? Who gives me an account of the true motives of acts that may be decisive for the future of my people, and that are never matters of indifference?
 
-> Comprendo que mi grave miopía exasperará a algunos, que me pondrán casi con lástima, la mano en la boca, y me dirán, enarcando los ojos: ¿Y la razón de estado?
+> Comprendo que mi grave miopía exasperará a algunos, que me pondrán casi con lástima, la mano en la boca, y me dirán, enarcando los ojos: ¿ Y la razón de estado?
 
 I understand that my grave shortsightedness will exasperate some, who will, almost with pity, put a hand over my mouth and say to me, arching their brows: And what of reason of state?
 
@@ -818,7 +816,7 @@ If we are embroiled in subtle and momentous negotiations with one or more foreig
 
 [p. 49]
 
-> ENRIQUE JOSÉ VARONA 49 tas, si no por locos de atar los estadistas que manejan el otro cotarro, y rompan sin más sus tratos con nosotros?
+> tas, si no por locos de atar los estadistas que manejan el otro cotarro, y rompan sin más sus tratos con nosotros?
 
 if not for raving lunatics, by the statesmen who run the other shop, and they break off their dealings with us without more ado?
 
@@ -836,7 +834,7 @@ We should all wish that governing were something else. But it is not a question 
 
 [p. 50]
 
-> 50 CULTURA remoto con la verdad vestida, que es la que tratamos. La ardua función del gobierno impone en casi todos los casos la reserva, en no pocos el secreto. Hay fiestas de aparato para los ojos; hay negocios delicados que conviene, que importa no divulgar a destiempo. Contentémonos con que la reserva sea la necesaria, la legítima, y que de ella resulte el éxito apetecido, de donde debe salir siempre un beneficio para la nación.
+> remoto con la verdad vestida, que es la que tratamos. La ardua función del gobierno impone en casi todos los casos la reserva, en no pocos el secreto. Hay fiestas de aparato para los ojos; hay negocios delicados que conviene, que importa no divulgar a destiempo. Contentémonos con que la reserva sea la necesaria, la legítima, y que de ella resulte el éxito apetecido, de donde debe salir siempre un beneficio para la nación.
 
 distantly related to clothed truth, which is the one we deal with. The arduous function of government imposes in almost every case reserve, in not a few secrecy. There are ceremonies of pomp for the eyes; there are delicate affairs that it is fitting, that it is important, not to divulge untimely. Let us be content that the reserve be the necessary, the legitimate, and that from it result the desired success, from which there must always come a benefit for the nation.
 
@@ -860,7 +858,7 @@ But there is one aspect of the enormous losses that humanity is suffering which 
 
 [p. 52]
 
-> 52 CULTURA dos y educados. Los ríos de sangre humana se secarán al cabo, y nuevos hombres vendrán a ocupar los huecos que esos otros innumerables han dejado. Pero ¿ quién o qué devolverá al mundo los altos ingenios que prematuramente ha perdido?
+> dos y educados. Los ríos de sangre humana se secarán al cabo, y nuevos hombres vendrán a ocupar los huecos que esos otros innumerables han dejado. Pero ¿ quién o qué devolverá al mundo los altos ingenios que prematuramente ha perdido?
 
 and educated. The rivers of human blood will dry up at last, and new men will come to fill the gaps that those other innumerable ones have left. But who, or what, will give back to the world the lofty geniuses it has prematurely lost?
 
@@ -878,7 +876,7 @@ But there are elements so especially tragic in the fate that has befallen the il
 
 [p. 53]
 
-> ENRIQUE JOSÉ VARONA 53 inglés, desaparecido sin gloria para sus armas en el Egeo, que me mueven a señalarlo, entre los devorados por esta guerra insensata.
+> inglés, desaparecido sin gloria para sus armas en el Egeo, que me mueven a señalarlo, entre los devorados por esta guerra insensata.
 
 poet, vanished without glory for his country’s arms in the Aegean, that they move me to single him out among those devoured by this senseless war.
 
@@ -892,7 +890,7 @@ That Brooke’s sonnets are personal, by the feelings they convey and by the for
 
 [p. 54]
 
-> 54 CULTURA lada su alma en ese instante supremo por la voz del poeta. El vate sintió por todos, como todos, y habló para todos. Vaticinó.
+> lada su alma en ese instante supremo por la voz del poeta. El vate sintió por todos, como todos, y habló para todos. Vaticinó.
 
 in that supreme instant by the voice of the poet. The bard felt for all, as all, and spoke for all. He prophesied.
 
@@ -914,7 +912,7 @@ The exoticism that has been so much celebrated in his great contemporary Rudyard
 
 [p. 55]
 
-> ENRIQUE JOSÉ VARONA 55 asedian nuestros sentidos terrenales se reducen a la perfecta unidad....
+> asedian nuestros sentidos terrenales se reducen a la perfecta unidad....
 
 beset our earthly senses is reduced to perfect unity....
 
@@ -932,7 +930,7 @@ And yet, in this spirit, which seems so disposed to flutter lightly over the aff
 
 [p. 56]
 
-> 56 CULTURA la fragilidad etérea de nuestras más arraigadas pasiones, que el cambio incesante de panoramas y el anudar y romper reiterados de nuestras relaciones, que nos condenan al papel de huéspe. des perennes. El mundo ha vuelto a ser para nosotros posada de trajinantes, pero sin mansión definitiva a donde arribar mañana. Desde que el hombre midió la tierra y, con el auxilio de su invensión y su industria, la ha encontrado tan pe queña que en pocos días la circunvala, con el cambio de lugar todo va cambiando en sus sentimien tos. Las instituciones que sirvieron de descanso y abrigo al hombre sedentario no están ya aparejadas al judío errante moderno. Y sentimos co mo pensamos, y pensamos como sentimos.
+> la fragilidad etérea de nuestras más arraigadas pasiones, que el cambio incesante de panoramas y el anudar y romper reiterados de nuestras relaciones, que nos condenan al papel de huéspe. des perennes. El mundo ha vuelto a ser para nosotros posada de trajinantes, pero sin mansión definitiva a donde arribar mañana. Desde que el hombre midió la tierra y, con el auxilio de su invensión y su industria, la ha encontrado tan pe queña que en pocos días la circunvala, con el cambio de lugar todo va cambiando en sus sentimien tos. Las instituciones que sirvieron de descanso y abrigo al hombre sedentario no están ya aparejadas al judío errante moderno. Y sentimos co mo pensamos, y pensamos como sentimos.
 
 the ethereal fragility of our most deeply rooted passions than the incessant change of panoramas and the repeated forming and breaking of our relations, which condemn us to the role of perennial guests. The world has once more become for us an inn for wayfarers, but without a definitive abode at which to arrive tomorrow. Since man measured the earth and, with the aid of his invention and his industry, has found it so small that in a few days he circles it, with the change of place everything goes on changing in his feelings. The institutions that served as rest and shelter to sedentary man are no longer fitted to the modern wandering Jew. And we feel as we think, and we think as we feel.
 
@@ -946,7 +944,7 @@ The poet, who has known how to find fair expression and transparent symbols for 
 
 ## ANOTHER, ANOTHER UNFORTUNATE WOMAN.
 
-> " I'see, a man's life is a tedious one."
+> " I'see, a man's life is a tedious one. "
 
 #### “I see a man’s life is a tedious one.”
 
@@ -956,21 +954,21 @@ T he most horrible sensation of isolation, the most suffocating anguish of solit
 
 [p. 58]
 
-> 58 CULTURA mismo, simple unidad entre centenas de millares! ¡ qué pobre e insignificante la emoción que nos sacude el anhelo, que nos impulsa, ante esa indiferencia suprema que nos envuelve en su atmós fera glacial! La indiferencia de los que nos conocen, ni nos han de conocer jamás. La de tantos corazones que jamás vibrarán con el nuestro. La de tantas almas que jamás inquirirán por qué se dibuja una sonrisa en nuestros labios o empaña una lágrima nuestros ojos. El hombre que pasa. Es algo infinitamente más triste que la ola, que la nube, que el pájaro, que todo lo que se va sin
+> mismo, simple unidad entre centenas de millares! ¡ qué pobre e insignificante la emoción que nos sacude, el anhelo que nos impulsa, ante esa indiferencia suprema que nos envuelve en su atmós fera glacial! La indiferencia de los que nos conocen, ni nos han de conocer jamás. La de tantos corazones que jamás vibrarán con el nuestro. La de tantas almas que jamás inquirirán por qué se dibuja una sonrisa en nuestros labios o empaña una lágrima nuestros ojos. El hombre que pasa. Es algo infinitamente más triste que la ola, que la nube, que el pájaro, que todo lo que se va sin dejar huella, en el perenne fluir de la naturaleza.
 
 oneself, a mere unit among hundreds of thousands! How poor and insignificant the emotion that shakes us, the longing that impels us, before that supreme indifference that wraps us in its glacial atmosphere! The indifference of those who do not know us, nor ever will know us. That of so many hearts that will never vibrate with ours. That of so many souls that will never inquire why a smile is drawn upon our lips or a tear dims our eyes. The man who passes. It is something infinitely sadder than the wave, than the cloud, than the bird, than all that goes without leaving a trace, in the perennial flow of nature.
 
-> dejar huella, en el perenne fluir de la naturaleza. Cuántos dramas punzantes, cuántos lúgubres desgarramientos de alma, de esos que refieren sin emoción las noticias generales de los periódi. cos, se explican por ese vertiginoso sentimiento de abandono de que puede sentirse poseido un ser aislado, entre el tumulto de tantos millones de vidas extrañas, sin ningún suave contacto con la suya. Así discurría yo, leyendo algunas líneas de un papel americano, al mismo tiempo que lle. gaban a mi oído los últimos rumores de la gran metrópoli neoyorkina, cuya respiración se iba apagando, al entregarse al breve reposo de las
+> Cuántos dramas punzantes, cuántos lúgubres desgarramientos de alma, de esos que refieren sin emoción las noticias generales de los periódi. cos, se explican por ese vertiginoso sentimiento de abandono de que puede sentirse poseido un ser aislado, entre el tumulto de tantos millones de vidas extrañas, sin ningún suave contacto con la suya. Así discurría yo, leyendo algunas líneas de un papel americano, al mismo tiempo que lle. gaban a mi oído los últimos rumores de la gran metrópoli neoyorkina, cuya respiración se iba apagando, al entregarse al breve reposo de las altas horas de la noche.
 
 How many poignant dramas, how many lugubrious rendings of the soul, of those that the *general news* of the newspapers relate without emotion, are explained by that vertiginous feeling of abandonment that an isolated being may feel possessed by, amid the tumult of so many millions of alien lives, without any gentle contact with his own. So I mused, reading a few lines from an American paper, while there reached my ear the last murmurs of the great New York metropolis, whose breathing was dying away as it gave itself to the brief repose of the small hours of the night.
 
-> altas horas de la noche. Esas líneas referían con laconismo frío la patética historia de una joven extranjera, que ha bía sido conducida aquel día al hospital de Bellevue, envenenada por su propia mano. Era muy
+> Esas líneas referían con laconismo frío la patética historia de una joven extranjera, que ha bía sido conducida aquel día al hospital de Bellevue, envenenada por su propia mano. Era muy
 
 Those lines related with cold laconism the pathetic story of a young foreign woman, who had been taken that day to Bellevue Hospital, poisoned by her own hand. She was very
 
 [p. 59]
 
-> ENRIQUE JOSÉ VARONA 59 joven, era muy bella, artista y enamorada, no de un hombre, sino del ideal. Había nacido muy le jos, en la pequeña ciudad rusa de Voone, de raza hebraica; pero su educación había sido completamente occidental, como que la había recibido en Dusseldorf, en Alemania. Vaivenes de fortuna la arrojaron con su madre, viuda, a las playas americanas. Allí había paladeado todas las amarguras de la pobreza en tierra extraña y del aislamiento entre el hormigueo ansiaso de la multitud innumerable. Su espíritu, que no encontraba otros afines donde espaciarse, se replegaba en sí mismo; y sólo se comunicaba con el mundo, que se le representaba duro y hostil, por la lectura asídua de los grandes poetas. Los amigos de la niña extranjera, que recorría indiferente las magníficas avenidas de la ciudad imperial, eran Shakespeare, Shelley, Byron, Goethe, Schiller, Heine.
+> joven, era muy bella, artista y enamorada, no de un hombre, sino del ideal. Había nacido muy le jos, en la pequeña ciudad rusa de Voone, de raza hebraica; pero su educación había sido completamente occidental, como que la había recibido en Dusseldorf, en Alemania. Vaivenes de fortuna la arrojaron con su madre, viuda, a las playas americanas. Allí había paladeado todas las amarguras de la pobreza en tierra extraña y del aislamiento entre el hormigueo ansiaso de la multitud innumerable. Su espíritu, que no encontraba otros afines donde espaciarse, se replegaba en sí mismo; y sólo se comunicaba con el mundo, que se le representaba duro y hostil, por la lectura asídua de los grandes poetas. Los amigos de la niña extranjera, que recorría indiferente las magníficas avenidas de la ciudad imperial, eran Shakespeare, Shelley, Byron, Goethe, Schiller, Heine.
 
 young, very beautiful, an artist and in love, not with a man, but with the ideal. She had been born very far away, in the small Russian city of Voone, of Hebrew race; but her education had been wholly Western, as she had received it in Düsseldorf, in Germany. Vicissitudes of fortune threw her with her mother, a widow, upon American shores. There she had tasted all the bitterness of poverty in a foreign land and of isolation amid the anxious swarming of the innumerable multitude. Her spirit, which found no kindred ones in which to range, folded back upon itself; and communicated with the world, which appeared to her hard and hostile, only through the assiduous reading of the great poets. The friends of the foreign girl, who walked indifferently the magnificent avenues of the imperial city, were Shakespeare, Shelley, Byron, Goethe, Schiller, Heine.
 
@@ -980,7 +978,7 @@ From her little contact with reality and her perfect immersion in the loftiest p
 
 [p. 60]
 
-> 60 CULTURA Sobre este nueva y decisiva experiencia de la vida, la joven ha sido muy reservada. Pero muy pronto se la vió desviarse de su esposo, entregarse a su ocupación favorita, leer y componer versos, y manifestar agravada su anterior melancolía. Estaba condenada a la soledad. Quería un compañero para su alma, peregrina entre tantos cuerpos como suben y bajan por las calles interminables de la ciudad inmensa. No lo había encontrado. Entonces resolvió morir.
+> Sobre este nueva y decisiva experiencia de la vida, la joven ha sido muy reservada. Pero muy pronto se la vió desviarse de su esposo, entregarse a su ocupación favorita, leer y componer versos, y manifestar agravada su anterior melancolía. Estaba condenada a la soledad. Quería un compañero para su alma, peregrina entre tantos cuerpos como suben y bajan por las calles interminables de la ciudad inmensa. No lo había encontrado. Entonces resolvió morir.
 
 Upon this new and decisive experience of life the young woman was very reserved. But very soon she was seen to turn away from her husband, to give herself to her favorite occupation, reading and composing verses, and to show her earlier melancholy aggravated. She was condemned to solitude. She wanted a companion for her soul, a pilgrim soul among so many bodies as go up and down the interminable streets of the immense city. She had not found one. Then she resolved to die.
 
@@ -988,7 +986,7 @@ Upon this new and decisive experience of life the young woman was very reserved.
 
 Her farewell was some verses written in Hebrew, which were found between the leaves of one of her books, a German version of Homer. They are a ray of white light that descends to the darkest depths of a soul.
 
-> "Está helando. ¡ Qué deliciosa es la sensación del aire frío! Quisiera poder envolverme y perderme en el torbellino de esta blanca tempestad.
+> " Está helando. ¡ Qué deliciosa es la sensación del aire frío! Quisiera poder envolverme y perderme en el torbellino de esta blanca tempestad.
 
 “It is freezing. How delicious is the sensation of the cold air! I should like to be able to wrap myself and lose myself in the whirlwind of this white tempest.
 
@@ -996,7 +994,7 @@ Her farewell was some verses written in Hebrew, which were found between the lea
 
 “When the supreme moment comes, then I shall awake, but to what? This thought frightens me. What is the end?
 
-> "¡Oh! ¿ por qué habré nacido para sufrir esta mofa de la vida? Sólo cuando duermo, vivo realmente. ¡ Qué no pudiera sostenerme con una fuerte cadena! ¡ quisiera rodearme de los bienes más selectos de la tierra! ¡ quisiera poder escalar las más altas cimas de la virtud, lejos, muy lejos de toda tentación."
+> "¡ Oh! ¿ por qué habré nacido para sufrir esta mofa de la vida? Sólo cuando duermo, vivo realmente. ¡ Qué no pudiera sostenerme con una fuerte cadena! ¡ quisiera rodearme de los bienes más selectos de la tierra! ¡ quisiera poder escalar las más altas cimas de la virtud, lejos, muy lejos de toda tentación. "
 
 “Oh! why was I born to suffer this mockery of life? Only when I sleep do I really live. If only I could bind myself fast with a strong chain! I should like to surround myself with the choicest goods of the earth! I should like to be able to climb the highest summits of virtue, far, far from all temptation.”
 
@@ -1006,7 +1004,7 @@ Poor Ida Markhoff went to take shelter from all temptation in the cold bosom of 
 
 [p. 61]
 
-> ENRIQUE JOSÉ VARONA 61 Su frialdad no la espantaba; porque más fríos habían sido para ella tantos corazones helados, tantos rostros glaciales. No tenía aún veinte años, y ya había visto, como la Imógenes del poeta, que no hay peso más abrumador que el de la tediosa vida humana. " I see, a man's life is a tedious one. "
+> Su frialdad no la espantaba; porque más fríos habían sido para ella tantos corazones helados, tantos rostros glaciales. No tenía aún veinte años, y ya había visto, como la Imógenes del poeta, que no hay peso más abrumador que el de la tediosa vida humana. " I see, a man's life is a tedious one. "
 
 Its coldness did not frighten her; for colder to her had been so many frozen hearts, so many glacial faces. She was not yet twenty, and had already seen, like the poet’s Imogen, that there is no weight more crushing than that of tedious human life. “I see a man’s life is a tedious one.”
 
@@ -1026,11 +1024,11 @@ I confess that this incurable mania for fancying grandeurs, in a people that tou
 
 [p. 63]
 
-> ENRIQUE JOSÉ VARONA 63 falsificación sistemática de su historia ha deformado de tal suerte el cerebro de la generalidad de los españoles, que ha arraigado en ellos el defecto cardinal de la raza: el no saber proporcionar los medios a los fines. En virtud de esa lógica especial de la alucinación en que viven, han acometido los españoles las empresas más descabelladas, y cuando se han encontrado deshechos y molidos en el duro suelo de la derrota, se han contentado con repetir arrogantemente con el personaje de una de sus comedias famosas:
+> falsificación sistemática de su historia ha deformado de tal suerte el cerebro de la generalidad de los españoles, que ha arraigado en ellos el defecto cardinal de la raza: el no saber proporcionar los medios a los fines. En virtud de esa lógica especial de la alucinación en que viven, han acometido los españoles las empresas más descabelladas, y cuando se han encontrado deshechos y molidos en el duro suelo de la derrota, se han contentado con repetir arrogantemente con el personaje de una de sus comedias famosas:
 
 systematic falsification of their history has so deformed the brain of the generality of Spaniards that it has rooted in them the cardinal defect of the race: not knowing how to proportion means to ends. By virtue of that special logic of the hallucination in which they live, the Spaniards have undertaken the most preposterous enterprises, and when they have found themselves undone and ground down upon the hard soil of defeat, they have contented themselves with repeating arrogantly, with the character in one of their famous comedies:
 
-> «La dicha podrá ser, mas no el merecerla yo ».
+> « La dicha podrá ser, mas no el merecerla yo ».
 
 #### “Good fortune may befall, / but not that I deserve it.”
 
@@ -1048,31 +1046,31 @@ The Spaniard lacks not merely the juridical sense,
 
 [p. 64]
 
-> 64 CULTURA como ha dicho su compatriota don Francisco Silvela, sino de sentido crítico, y quizás carece del primero, porque le falta el segundo. Pero cuanda una actividad del espíritu se atrofia de modo tan general, la causa debe serlo también. Este vicio, ya en cierta manera constitutivo, debe nacer de la conformación misma del pueblo; y así me lo parece en efecto. El sentido crítico supone un sentimiento vigoroso de la personalidad, que se distingue perfectamente de cuanto la rodea, y que se reconoce capaz de escrutarlo, de medirlo y compararlo. La organización social de España ha conspirado precisamente para ahogar la personalidad. El Estado monárquico y la religión católicoromana han gravitado con todo su peso sobre el individuo hasta confundirlo en la masa. Todo en el orden exterior provenía del Rey, úni ca fuente de las leyes; todo en el orden interno provenía del Papa, único definidor del dogma. Ni el honor escapaba a la jurisdicción del monarca, que estaba por encima de todos los vínculos civiles; el menor escrúpulo de conciencia sometía a la jurisdicción espiritual. ¿ Qué retoño de inde. pendencia podía germinar en el pecho de hom. bres que temblaban ante el poder omnipresente del Estado, y que si iban a buscar un refugio en sus conciencias, se encantraban allí con el terror de la Iglesia? La crítica tenía que ser planta mal-
+> como ha dicho su compatriota don Francisco Silvela, sino de sentido crítico, y quizás carece del primero, porque le falta el segundo. Pero cuanda una actividad del espíritu se atrofia de modo tan general, la causa debe serlo también. Este vicio, ya en cierta manera constitutivo, debe nacer de la conformación misma del pueblo; y así me lo parece en efecto. El sentido crítico supone un sentimiento vigoroso de la personalidad, que se distingue perfectamente de cuanto la rodea, y que se reconoce capaz de escrutarlo, de medirlo y compararlo. La organización social de España ha conspirado precisamente para ahogar la personalidad. El Estado monárquico y la religión católicoromana han gravitado con todo su peso sobre el individuo hasta confundirlo en la masa. Todo en el orden exterior provenía del Rey, úni ca fuente de las leyes; todo en el orden interno provenía del Papa, único definidor del dogma. Ni el honor escapaba a la jurisdicción del monarca, que estaba por encima de todos los vínculos civiles; el menor escrúpulo de conciencia sometía a la jurisdicción espiritual. ¿ Qué retoño de inde. pendencia podía germinar en el pecho de hom. bres que temblaban ante el poder omnipresente del Estado, y que si iban a buscar un refugio en sus conciencias, se encantraban allí con el terror de la Iglesia? La crítica tenía que ser planta maldita en el país de la Inquisición.
 
 as his compatriot Don Francisco Silvela has said, but the critical sense, and perhaps he lacks the first because he lacks the second. But when an activity of the mind atrophies in so general a fashion, the cause must be general too. This vice, in a certain way already constitutive, must spring from the very conformation of the people; and so it seems to me in fact. The critical sense presupposes a vigorous feeling of personality, which distinguishes itself perfectly from all that surrounds it, and which recognizes itself capable of scrutinizing it, of measuring and comparing it. The social organization of Spain has conspired precisely to stifle personality. The monarchical State and the Roman Catholic religion have gravitated with all their weight upon the individual until they merged him into the mass. Everything in the external order came from the King, sole source of the laws; everything in the internal order came from the Pope, sole definer of dogma. Not even honor escaped the jurisdiction of the monarch, who stood above all civil bonds; the slightest scruple of conscience subjected one to the spiritual jurisdiction. What shoot of independence could germinate in the breasts of men who trembled before the omnipresent power of the State, and who, if they went in search of a refuge in their consciences, found there the terror of the Church? Criticism had to be an accursed plant in the country of the Inquisition.
 
-> dita en el país de la Inquisición. El molde en que creció el español no podía pro
+> El molde en que creció el español no podía pro
 
 The mold in which the Spaniard grew could not produce
 
 [p. 65]
 
-> ENRIQUE JOSÉ VARONA 65 ducir sino fanáticos. Fanáticos quiere decir cie gos; ciegos para creer, ciegos para dejarse arras trar. Y ¿ qué otra cosa han sido y qué otra cosa han hecho los españoles? Han creído en sus dogmas con tal ahinco y pasión, que han sacrificado por ello hasta los instintos y movimientos afecti vos más naturales; y han creído en las fábulas de su historia con tal sinceridad, que jamás han po dido comprender cómo ha venido a resultar tanta flaqueza y decaimiento de tan soñada grande za. La inteligencia española fué amamantada a los pechos del catolicismo. No ha habido en el mundo adulteradores de la verdad histórica comparables a los polemistas ortodoxos. Para ellos el fin ha justificado siempre los medios. Los fraudes
+> ducir sino fanáticos. Fanáticos quiere decir cie gos; ciegos para creer, ciegos para dejarse arras trar. Y ¿ qué otra cosa han sido y qué otra cosa han hecho los españoles? Han creído en sus dogmas con tal ahinco y pasión, que han sacrificado por ello hasta los instintos y movimientos afecti vos más naturales; y han creído en las fábulas de su historia con tal sinceridad, que jamás han po dido comprender cómo ha venido a resultar tanza ta flaqueza y decaimiento de tan soñada grande
 
 anything but fanatics. Fanatic means blind; blind to believe, blind to let oneself be dragged along. And what else have the Spaniards been, and what else have they done? They have believed in their dogmas with such eagerness and passion that they have sacrificed for them even the most natural instincts and affective impulses; and they have believed in the fables of their history with such sincerity that they have never been able to understand how so much weakness and decay could result from so dreamed-of a grandeur.
 
-> piadosos han corrompido y enturbiado toda la literatura de Edad Media la aun de buena parte y de moderna la tal extremo llegó. A falsifica la ción que, honrado Herder ha podido decir que el cristiana merecía correr parejas con veracidad la la fe púnica. En España dado los cauces por donde corría, la vida nacional espíritu de mentira tomó pro-
+> La inteligencia española fué amamantada a los pechos del catolicismo. No ha habido en el mundo adulteradores de la verdad histórica comparables a los polemistas ortodoxos. Para ellos el fin ha justificado siempre los medios. Los fraudes piadosos han corrompido y enturbiado toda la literatura de la Edad Media y aun de buena parte de la moderna. A tal extremo llegó la falsifica ción, que el honrado Herder ha podido decir que la veracidad cristiana merecía correr parejas con la fe púnica.
 
 Spanish intelligence was suckled at the breasts of Catholicism. There have been in the world no falsifiers of historical truth comparable to the orthodox polemicists. For them the end has always justified the means. Pious frauds have corrupted and clouded the whole literature of the Middle Ages and even a good part of the modern. To such a point did falsification go that the honest Herder was able to say that Christian veracity deserved to run neck and neck with Punic faith.
 
-> , el porciones colosales La credulidad pública. lo aceptaba todo como halagase de algún modo las, pasiones populares Hubo hasta epidemias de. profetas Cierto arcediano de Segovia del siglo. XVI creyó en necesidad de escribir un tratala do para distinguir falsa laverdadera profe y la.
+> En España, dado los cauces por donde corría la vida nacional, el espíritu de mentira tomó proporciones colosales. La credulidad pública lo aceptaba todo, como halagase de algún modo las pasiones populares. Hubo hasta epidemias de profetas. Cierto arcediano de Segovia del siglo XVI creyó en la necesidad de escribir un tratado para distinguir la falsa y la verdadera profe.
 
 In Spain, given the channels along which national life ran, the spirit of lying took on colossal proportions. Public credulity accepted everything, provided it flattered in some way the popular passions. There were even epidemics of prophets. A certain archdeacon of Segovia of the sixteenth century believed it necessary to write a treatise to distinguish the false from the true prophecy.
 
 [p. 66]
 
-> 66 CULTURA cía. Los intereses terrenales se mezclaban a cada paso, para echar de su lado los provechos de esas falsificaciones. Fábula hubo, como la de la batalla de Clavijo, que costó pagar pechos por algunas centurias. Pero, en realidad, las más aparatosas fábricas se levantaron siempre sobre la ignorancia general, que se sentía desvanecida contemplando detrás las grandezas que no tenía delante. La imaginación española llegó, como Ulises, a creer en las ficciones que ella misma tegía. Y con este alimento se ha ido manteniendo hasta los tristes días actualos.
+> cía. Los intereses terrenales se mezclaban a cada paso, para echar de su lado los provechos de esas falsificaciones. Fábula hubo, como la de la batalla de Clavijo, que costó pagar pechos por algunas centurias. Pero, en realidad, las más aparatosas fábricas se levantaron siempre sobre la ignorancia general, que se sentía desvanecida contemplando detrás las grandezas que no tenía delante. La imaginación española llegó, como Ulises, a creer en las ficciones que ella misma tegía. Y con este alimento se ha ido manteniendo hasta los tristes días actualos.
 
 Earthly interests were mingled in at every step, to draw to their side the profits of those falsifications. There was a fable, like that of the battle of Clavijo, that cost the paying of tribute for some centuries. But, in truth, the most showy fabrications were always raised upon the general ignorance, which felt itself dazzled by contemplating behind it the grandeurs it did not have before it. The Spanish imagination came, like Ulysses, to believe in the fictions that it itself wove. And on this nourishment it has gone on sustaining itself down to the sad present days.
 
@@ -1104,7 +1102,7 @@ I should gladly believe that it is the work of the years, of my age, which has m
 
 [p. 68]
 
-> 68 CULTURA Nunca, ciertamente, había caído sobre los hom bres calamidad más completa. Las naciones más cultas, ricas y poderosas de Europa y sus inmensos imperios coloniales en ambos hemisferios, el Japón, todavía para nosotros tierra casi incógni. ta y nuestro más próximo vecino México, se despedazan y hacen crugir hasta los cimientos la enorme estructura gigantesca de la civilización coetánea. Cuanto amamos, cuanto nos inspiraba confianza en el saber.y la industria humanos, cuanto alentaba nuestras esperanzas de ir cada vez más adelante y con rapidez centuplicada en la conquista de la naturaleza, y, sobre todo y ante todo, el sentimiento de la confraternidad de los espíritus superiores, destinado a caer en lluvia benéfica sobre los demás hombres, todo se estre mece y bambolea al estruendo de los morteros ciclópeos, a la luz fatídica de los incendios, a la visión apocalíptica de las máquinas de muerte que surcan los aires, que van por los mares o que se escurren sigilosamente bajo su traidora superficie, para sacudir a su paso ruinas y cadá veres.
+> Nunca, ciertamente, había caído sobre los hom bres calamidad más completa. Las naciones más cultas, ricas y poderosas de Europa y sus inmensos imperios coloniales en ambos hemisferios, el Japón, todavía para nosotros tierra casi incógni. ta y nuestro más próximo vecino México, se despedazan y hacen crugir hasta los cimientos la enorme estructura gigantesca de la civilización coetánea. Cuanto amamos, cuanto nos inspiraba confianza en el saber.y la industria humanos, cuanto alentaba nuestras esperanzas de ir cada vez más adelante y con rapidez centuplicada en la conquista de la naturaleza, y, sobre todo y ante todo, el sentimiento de la confraternidad de los espíritus superiores, destinado a caer en lluvia benéfica sobre los demás hombres, todo se estre mece y bambolea al estruendo de los morteros ciclópeos, a la luz fatídica de los incendios, a la visión apocalíptica de las máquinas de muerte que surcan los aires, que van por los mares o que se escurren sigilosamente bajo su traidora superficie, para sacudir a su paso ruinas y cadá veres.
 
 Never, assuredly, had a more complete calamity fallen upon men. The most cultivated, rich, and powerful nations of Europe and their immense colonial empires in both hemispheres, Japan, still for us an almost unknown land, and our nearest neighbor, Mexico, are tearing themselves to pieces and making the enormous, gigantic structure of contemporary civilization creak to its very foundations. All that we love, all that inspired us with confidence in human knowledge and industry, all that fed our hopes of advancing ever further and with centupled speed in the conquest of nature, and, above all and before all, the feeling of fellowship among the higher minds, destined to fall like a beneficent rain upon other men—everything trembles and reels at the roar of the cyclopean mortars, in the baleful light of the conflagrations, at the apocalyptic vision of the machines of death that cleave the air, that go upon the seas, or that glide stealthily beneath their treacherous surface, to cast down ruins and corpses as they pass.
 
@@ -1114,7 +1112,7 @@ A hard trial for reflective minds, matured by the experience of life, is this un
 
 [p. 69]
 
-> ENRIQUE JOSÉ VARONA 69 tos que podríamos creer enterrados para siempre con las edades en que eran predominantes. Cuando los sabios se han visto obligados a cohonestarla, nos dan por única disculpa el antagonis mo de razas, germanos contra eslavos. Lo que quiere decir que se evoca un mito, el de la raza, para disculpar el odio, o el miedo que es en el fondo lo mismo, de pueblo a pueblo. Porque no es difícil observar que hay provincies eslavas en el imperio alemán, y que millones de eslavos, muchos de ellos fieles súbditos y conscientes y voluntarios partícipes del estado, forman la mayoría del imperio austro -húngaro.
+> tos que podríamos creer enterrados para siempre con las edades en que eran predominantes. Cuando los sabios se han visto obligados a cohonestarla, nos dan por única disculpa el antagonis mo de razas, germanos contra eslavos. Lo que quiere decir que se evoca un mito, el de la raza, para disculpar el odio, o el miedo que es en el fondo lo mismo, de pueblo a pueblo. Porque no es difícil observar que hay provincies eslavas en el imperio alemán, y que millones de eslavos, muchos de ellos fieles súbditos y conscientes y voluntarios partícipes del estado, forman la mayoría del imperio austrohúngaro.
 
 that we might have believed buried forever with the ages in which they were predominant. When the learned have found themselves obliged to put a decent face upon it, they give us as their sole excuse the antagonism of races, Germans against Slavs. Which means that a myth is being evoked, the myth of race, to excuse the hatred, or the fear, which at bottom is the same thing, of people for people. For it is not hard to observe that there are Slavic provinces in the German empire, and that millions of Slavs, many of them faithful subjects and conscious and willing participants in the state, form the majority of the Austro-Hungarian empire.
 
@@ -1128,7 +1126,7 @@ In the face of the demands of strategy, through the necessities of attack or def
 
 [p. 70]
 
-> 70 CULTURA ahuyentan sobrecogidos los que los manejan, o se les retiene aprisionados. Pueblos enteros son raídos de la superficie de la tierra, y millones de seres humanos, laboriosos, activos, infatigables en su lucha de progreso y civilización quedan convertidos en piaras humanas sin abrigo, desnudas y hambrientas. La humana piedad de gente remota tiene que acudir, sin saber si ha de conseguirlo, a ampararlos, a disputárselos a la más espantosa de las muertes.
+> ahuyentan sobrecogidos los que los manejan, o se les retiene aprisionados. Pueblos enteros son raídos de la superficie de la tierra, y millones de seres humanos, laboriosos, activos, infatigables en su lucha de progreso y civilización quedan convertidos en piaras humanas sin abrigo, desnudas y hambrientas. La humana piedad de gente remota tiene que acudir, sin saber si ha de conseguirlo, a ampararlos, a disputárselos a la más espantosa de las muertes.
 
 those who handle them flee in dismay, or are held captive. Entire peoples are razed from the face of the earth, and millions of human beings, industrious, active, tireless in their struggle for progress and civilization, are turned into human droves, shelterless, naked, and hungry. The human pity of far-off peoples must hasten, without knowing whether it will succeed, to shelter them, to wrest them from the most appalling of deaths.
 
@@ -1142,7 +1140,7 @@ At the same time, if we turn our eyes to the field of letters, to the realm of t
 
 [p. 71]
 
-> ENRIQUE JOSÉ VARONA 71 doras y alentadoras del ánimo sobrecogido, pe renne estímulo para la voluntad enflaquecida o vacilante, nos sorprende el silencio mortal en que yacen, o nos lastiman el lamento desgarrador o la tremenda imprecación de que se hacen eco. Cuan do no viene a sumirnos en amarga estupefacción la sangrienta saturnal a que se entrega en algu nas de sus manifestaciones más populares, co mo en la caricatura. Ninguno de los sentimientos alentadores, ninguna de las emociones que dan temple al ánimo y lo ennoblecen se abren paso y adquieren la expresión correspondiente a la sublimidad de esta tragedia colosal. No se descubren los videntes, ni surgen los vates que profieran las voces necesarias, las que confortan, cuando todo vacila y parece desplomarse la razón de la existencia.
+> doras y alentadoras del ánimo sobrecogido, pe renne estímulo para la voluntad enflaquecida o vacilante, nos sorprende el silencio mortal en que yacen, o nos lastiman el lamento desgarrador o la tremenda imprecación de que se hacen eco. Cuan do no viene a sumirnos en amarga estupefacción la sangrienta saturnal a que se entrega en algu nas de sus manifestaciones más populares, co mo en la caricatura. Ninguno de los sentimientos alentadores, ninguna de las emociones que dan temple al ánimo y lo ennoblecen se abren paso y adquieren la expresión correspondiente a la sublimidad de esta tragedia colosal. No se descubren los videntes, ni surgen los vates que profieran las voces necesarias, las que confortan, cuando todo vacila y parece desplomarse la razón de la existencia.
 
 and encouragers of the overwhelmed spirit, perennial stimulus to the enfeebled or wavering will, we are startled by the deathly silence in which they lie, or we are wounded by the heartrending lament or the tremendous imprecation of which they become the echo. When it is not the bloody saturnalia to which it abandons itself in some of its more popular manifestations, as in caricature, that comes to plunge us into bitter stupefaction. None of the heartening feelings, none of the emotions that give temper to the mind and ennoble it, makes its way and finds the expression answering to the sublimity of this colossal tragedy. No seers reveal themselves, no bards arise to utter the necessary words, those that comfort, when everything wavers and the very reason for existence seems to collapse.
 
@@ -1156,7 +1154,7 @@ And all the more does it fall to us, since in our own field, in our own country,
 
 [p. 72]
 
-> 72 CULTURA temor más que justificado. Un sentimiento, ahora de congoja, es el que me domina, al fijar los ojos en los amenazadores síntomas de la descomposición política de Cuba.
+> temor más que justificado. Un sentimiento, ahora de congoja, es el que me domina, al fijar los ojos en los amenazadores síntomas de la descomposición política de Cuba.
 
 fear more than justified. A feeling, now of anguish, is what masters me as I fix my eyes on the menacing symptoms of the political decomposition of Cuba.
 
@@ -1174,7 +1172,7 @@ In these very days there has not yet wholly ceased the most important period, by
 
 [p. 73]
 
-> ENRIQUE JOSÉ VARONA 73 nificación y consecuencias, de los que imponen sucesivamente a la actividad del ciudadano los deberes de su función pública. Acabamos, es decir, se acaban de celebrar elecciones, Aún se realizan sus últimas operaciones. El pueblo de Cuba, el de los tremendos sacrificios de medio siglo por la independencia de la patria, ha sido llamado a designar los hombres en quienes deposita su confianza para darle leyes, esto es, para señalarle los rumbos que debe seguir. Apenas han transcurrido quince años desde que puede realizarlo. ¿ Qué espectáculo hemos presenciado? Sonroja el recordarlo. El pueblo holgaba lejos de los colegios electorales o los designaba con sonrisa burlona e indiferente. Buscaba con mirada entristecida la valla de gallos clausurada o la taberna difícilmente entreabierta. En los círculos privilegiados se jugaba no muy a escondidas. En los lugares de votación se jugaba sin rebozo con la honra, con la seguridad, con el porvenir de la patria. Corrían el oro, los billetes, los cheques, hasta nombramientos en blanco para ir a formar parte de los conmilitones de nuestra renta por excelencia, de la renta, de nuestros establos de Augías. El sufragio universal cubano nada tenía ya que echar en cara al sufragio más que restringido de aquella Gran Bretaña de las « circunscripciones podridas ». Los tigres de Tammany Hall huían avergonzados en plena derrota.
+> nificación y consecuencias, de los que imponen sucesivamente a la actividad del ciudadano los deberes de su función pública. Acabamos, es decir, se acaban de celebrar elecciones, Aún se realizan sus últimas operaciones. El pueblo de Cuba, el de los tremendos sacrificios de medio siglo por la independencia de la patria, ha sido llamado a designar los hombres en quienes deposita su confianza para darle leyes, esto es, para señalarle los rumbos que debe seguir. Apenas han transcurrido quince años desde que puede realizarlo. ¿ Qué espectáculo hemos presenciado? Sonroja el recordarlo. El pueblo holgaba lejos de los colegios electorales o los designaba con sonrisa burlona e indiferente. Buscaba con mirada entristecida la valla de gallos clausurada o la taberna difícilmente entreabierta. En los círculos privilegiados se jugaba no muy a escondidas. En los lugares de votación se jugaba sin rebozo con la honra, con la seguridad, con el porvenir de la patria. Corrían el oro, los billetes, los cheques, hasta nombramientos en blanco para ir a formar parte de los conmilitones de nuestra renta por excelencia, de la renta, de nuestros establos de Augías. El sufragio universal cubano nada tenía ya que echar en cara al sufragio más que restringido de aquella Gran Bretaña de las « circunscripciones podridas ». Los tigres de Tammany Hall huían avergonzados en plena derrota.
 
 and consequences, of those that impose in succession upon the activity of the citizen the duties of his public function. We have just finished—that is to say, elections have just been held; their last operations are still going forward. The people of Cuba, the people of the tremendous sacrifices of half a century for the independence of the homeland, has been called upon to designate the men in whom it places its confidence to give it laws, that is, to point out to it the courses it ought to follow. Scarcely fifteen years have passed since it has been able to do so. What spectacle have we witnessed? It makes one blush to recall it. The people idled far from the polling places, or designated them with a mocking and indifferent smile. With saddened gaze it sought the closed cockpit or the tavern hardly half-open. In privileged circles gambling went on not very secretly. At the voting places there was gambling, without disguise, with the honor, the security, the future of the homeland. Gold ran, and banknotes, and checks, even blank appointments to go and take a place among the fellow-soldiers of our revenue par excellence, of the revenue, of our Augean stables. Cuban universal suffrage had nothing left to cast in the teeth of the more than restricted suffrage of that Great Britain of the “rotten boroughs.” The tigers of Tammany Hall fled in shame, in utter rout.
 
@@ -1184,21 +1182,21 @@ If the present-day enemies of parliamentarism
 
 [p. 74]
 
-> 74 CULTURA mo quieren argumentos, aquí pueden venir a buscarlos copiosos y decisivos. Esto es lo que he. mos hecho en poco más de una década de la institución porque han luchado y sangrado un siglo las naciones de Europa y América.
+> mo quieren argumentos, aquí pueden venir a buscarlos copiosos y decisivos. Esto es lo que he. mos hecho en poco más de una década de la institución porque han luchado y sangrado un siglo las naciones de Europa y América.
 
 want arguments, here they may come to find them, copious and decisive. This is what we have done, in little more than a decade, with the institution for which the nations of Europe and America have struggled and bled for a century.
 
-> Necesario de toda necesidad es que nos demos cuenta de que un mal, que sale así a la superficie, con tan señalados y amenazadores caracteres, está denunciando dolencia muy honda y arraigada. La turbia corriente viene de lo profundo ya revuelta con toda suerte de impuras escorias. Nuestro triste pasado se ha erguido de súbito, para lanzarnos al rostro que en vano hemos pugnado, nos hemos esforzado y hemos sangrado tanto. La generación de cubanos que nos precedieron y que tan grandes fueron en la hora del sacrificio, podrá mirarnos con asombro y lástima, y preguntarse estupefacta si éste es el resultado de su obra, de la obra en que puso su corazón y su vida. El monstruo que pensaba haber domeñado resucita. La sierpe de la fábula vuelve a reunir los fragmentos monstruosos que los tajos del héroe habían separado. Cuba repu blicana parece hermana gemela de Cuba Colo
+> Necesario de toda necesidad es que nos demos cuenta de que un mal, que sale así a la superficie, con tan señalados y amenazadores caracteres, está denunciando dolencia muy honda y arraigada. La turbia corriente viene de lo profundo ya revuelta con toda suerte de impuras escorias. Nuestro triste pasado se ha erguido de súbito, para lanzarnos al rostro que en vano hemos pugnado, nos hemos esforzado y hemos sangrado tanto. La generación de cubanos que nos precedieron y que tan grandes fueron en la hora del sacrificio, podrá mirarnos con asombro y lástima, y preguntarse estupefacta si éste es el resultado de su obra, de la obra en que puso su corazón y su vida. El monstruo que pensaba haber domeñado resucita. La sierpe de la fábula vuelve a reunir los fragmentos monstruosos que los tajos del héroe habían separado. Cuba repu nial blicana parece hermana gemela de Cuba Colo
 
 It is necessary, of all necessity, that we realize that an evil which thus rises to the surface, with such marked and menacing characteristics, is denouncing a very deep and deep-rooted ailment. The turbid current comes from the depths, already stirred up with every sort of impure dross. Our sad past has suddenly risen up to fling in our face that in vain have we struggled, have we striven, and have we bled so much. The generation of Cubans who preceded us and who were so great in the hour of sacrifice may look upon us with amazement and pity, and ask itself, stupefied, whether this is the result of its work, of the work in which it put its heart and its life. The monster it thought it had subdued rises again. The serpent of the fable gathers together again the monstrous fragments that the hero’s blows had severed. Republican Cuba seems the twin sister of Colonial Cuba.
 
-> nial. ¿Cuál de los males públicos que denunciábamos con indignación no se ha reproducido? Han vuelto al asalto de la administración pública la incompetencia, el favor, el nepotismo y la corrupción. Hay quienes resisten, pero hay quienes fla
+> ¿. Cuál de los males públicos que denunciábamos con indignación no se ha reproducido? Han vuelto al asalto de la administración pública la incompetencia, el favor, el nepotismo y la corrupción. Hay quienes resisten, pero hay quienes fla
 
 Which of the public evils that we denounced with indignation has not reappeared? Incompetence, favoritism, nepotism, and corruption have returned to the assault on the public administration. There are those who resist, but there are those who falter
 
 [p. 75]
 
-> ENRIQUE JOSÉ VARONA 75 quean y quienes se rinden. Hemos envenenado la fuente misma en que debíamos beber la salud. Se pone la pequeña administración de la justicia, que está más en contacto cotidiano con el pueblo, en manos que entorpece la ignorancia, cuando no las tuerce el interés. Se proclama la intangibilidad de lo mal adquirido. Y así se emponzoña la conciencia pública, porque se nos hace desconfiar del esfuerzo, del trabajo; y pone sobre el pa vés al afortunado, cualquiera que haya sido el origen de su fortuna, la vara de Midas que ha hecho brotar su corriente de oro. Ya no hay necesidad de aguardar la nave que nos llevará a tierra distante con nuestras arcas repletas. En los lugares más pintorescos de los alrededores o en el corazón mismo de la ciudad bulliciosa se levantan los palacios de aquellos a quienes la suerte pródiga ha mirado con ojos risueños y ha descubierto el secreto de la fortuna improvisada. El mísero sin pan los saluda con secreta envidia, y va a comprar la fracción de billete que le promete falazmente, por otro camino, la misma suerte deslumbrante. ¿ Cómo podrá quejarse si le he mos devuelto la lotería?
+> quean y quienes se rinden. Hemos envenenado la fuente misma en que debíamos beber la salud. Se pone la pequeña administración de la justicia, que está más en contacto cotidiano con el pueblo, en manos que entorpece la ignorancia, cuando no las tuerce el interés. Se proclama la intangibilidad de lo mal adquirido. Y así se emponzoña la conciencia pública, porque se nos hace desconfiar del esfuerzo, del trabajo; y pone sobre el pa vés al afortunado, cualquiera que haya sido el origen de su fortuna, la vara de Midas que ha hecho brotar su corriente de oro. Ya no hay necesidad de aguardar la nave que nos llevará a tierra distante con nuestras arcas repletas. En los lugares más pintorescos de los alrededores o en el corazón mismo de la ciudad bulliciosa se levantan los palacios de aquellos a quienes la suerte pródiga ha mirado con ojos risueños y ha descubierto el secreto de la fortuna improvisada. El mísero sin pan los saluda con secreta envidia, y va a comprar la fracción de billete que le promete falazmente, por otro camino, la misma suerte deslumbrante. ¿ Cómo podrá quejarse si le he mos devuelto la lotería?
 
 and those who surrender. We have poisoned the very fountain from which we ought to drink health. The petty administration of justice, which is in more daily contact with the people, is placed in hands that ignorance makes clumsy, if self-interest does not warp them. The inviolability of what has been ill acquired is proclaimed. And thus the public conscience is poisoned, because we are made to distrust effort, labor; and the rod of Midas that has made his stream of gold gush forth raises the fortunate man upon the shield, whatever the origin of his fortune. There is no longer any need to wait for the ship that will carry us to a distant land with our coffers full. In the most picturesque spots of the outskirts, or in the very heart of the bustling city, there rise the palaces of those upon whom lavish fortune has looked with smiling eyes and to whom it has disclosed the secret of the improvised fortune. The wretch without bread greets them with secret envy, and goes to buy the fraction of a ticket that promises him deceitfully, by another road, the same dazzling fortune. How can he complain, if we have given him back the lottery?
 
@@ -1208,7 +1206,7 @@ We go on administering the public treasury by the same methods that we learned i
 
 [p. 76]
 
-> 76 CULTURA pregonada como excelsa panacea. Sólo en esto hemos progresado. No son parásitos forasteros, son parásitos indígenas los que amamantamos al seno ubérrimo del tesoro nacional, y estos parásitos se llaman legión.
+> pregonada como excelsa panacea. Sólo en esto hemos progresado. No son parásitos forasteros, son parásitos indígenas los que amamantamos al seno ubérrimo del tesoro nacional, y estos parásitos se llaman legión.
 
 proclaimed as a sublime panacea. In this alone have we progressed. They are not foreign parasites, they are native parasites that we nurse at the abundant breast of the national treasury, and these parasites are called legion.
 
@@ -1216,23 +1214,23 @@ proclaimed as a sublime panacea. In this alone have we progressed. They are not 
 
 As if driven by suicidal madness, we have been undermining, day after day, with the tenacity of one engaged in a vital work, the foundations on which the dispensation of justice rests. We have, in spite of upright and well-intentioned judges, destroyed the efficacy of their sentences and turned the Penal Code into a mere scarecrow for the poor in spirit. Sometimes to serve interested go-betweens, sometimes to repay ill-named political services, sometimes through misdirected compassion, the doors of the prisons are opened, the duration of sentences is shortened, and there is no council of the Secretaries of the Cabinet but that on the following day the interminable list of pardons is published. Pity is a noble virtue, it is worthy of a just government to recognize the fallibility of human judgments, it is necessary to avoid and repair the wrongs that may have been unjustly caused in watching over the public safety; but in this respect we are not following the best road, nor even a good one. We are hurling ourselves headlong down the most dangerous of precipices.
 
-> ros. Como no hay forma de gobierno que no presente lamentables deficiencias, como es mucho
+> Como no hay forma de gobierno que no presente lamentables deficiencias, como es mucho
 
 Since there is no form of government that does not present lamentable deficiencies, since it is much
 
 [p. 77]
 
-> ENRIQUE JOSÉ Varona 77 más fácil teorizar sobre la manera de regirse los hombres, que realizar siquiera un mediano con. cierto en la vida colectiva, claro está que no pre tendo que nuestras instituciones hayan escapado a esa dura realidad, al pasar de la mente de sus fundadores a los vaivenes y sacudidas de la prác tica cotidiana. Pero sí debemos señalar las desviaciones en que influyen las tendencias hereditarias, el influjo aun inconsciente, de la imitación, las solicitaciones de las flaquezas del carácter. Gobernar es vigilar para que se cumplan las le yes, y es suministrar los medios de que se cumplan. Prever lo posible para llegar a lo mejor, y procurar la manera de que se llegue sin sacudi. das ni tropiezos. Nuestra constitución implica que el gobernante deba su elección a un partido, pero el partido no debe ignorar que lo ha colocado no a su frente, si no al frente de la nación. Al frente para que dé testimonio de ella ante los extraños, para que la represente y sea como su encarnación tangible, en sus discursos y en susac-
+> más fácil teorizar sobre la manera de regirse los hombres, que realizar siquiera un mediano con. cierto en la vida colectiva, claro está que no pre tendo que nuestras instituciones hayan escapado a esa dura realidad, al pasar de la mente de sus fundadores a los vaivenes y sacudidas de la prác tica cotidiana. Pero sí debemos señalar las desviaciones en que influyen las tendencias hereditarias, el influjo aun inconsciente, de la imitación, las solicitaciones de las flaquezas del carácter. Gobernar es vigilar para que se cumplan las le yes, y es suministrar los medios de que se cumplan. Prever lo posible para llegar a lo mejor, y procurar la manera de que se llegue sin sacudi. das ni tropiezos. Nuestra constitución implica que el gobernante deba su elección a un partido, pero el partido no debe ignorar que lo ha colocado no a su frente, si no al frente de la nación. Al frente para que dé testimonio de ella ante los extraños, para que la represente y sea como su encarnación tangible, en sus discursos y en susac-
 
 easier to theorize about the way in which men should govern themselves than to bring about even a moderate harmony in collective life, it is clear that I do not pretend that our institutions have escaped that hard reality, in passing from the minds of their founders to the ups and downs and shocks of daily practice. But we must indeed point out the deviations to which hereditary tendencies contribute, the influence, even if unconscious, of imitation, the solicitations of the weaknesses of character. To govern is to watch that the laws be carried out, and to furnish the means by which they may be carried out. To foresee the possible in order to arrive at the better, and to seek the way of arriving without shocks or stumbling. Our constitution implies that the governor owes his election to a party, but the party must not forget that it has placed him not at its own head, but at the head of the nation. At its head so that he may bear witness of it before outsiders, so that he may represent it and be as its tangible embodiment, in his speeches and in his acts.
 
-> tos. Tampoco debe el que gobierna olvidar ni por sí, ni por lo que son sus inmediatos instrumentos, que ha de dejar a otros órganos de la vida política el cuidado de la manera como la realizan. Una Secretaría no debe jamás, por buenas y rectas que sean las intenciones del que la ocupa, convertirse en comité. Si así lo hace, aún sin quererlo, corrompe las aguas que en torno suyo fluyen.
+> Tampoco. debe el que gobierna olvidar ni por sí, ni por lo que son sus inmediatos instrumentos, que ha de dejar a otros órganos de la vida política el cuidado de la manera como la realizan. Una Secretaría no debe jamás, por buenas y rectas que sean las intenciones del que la ocupa, convertirse en comité. Si así lo hace, aún sin quererlo, corrompe las aguas que en torno suyo fluyen.
 
 Nor must he who governs forget, either on his own account or on account of those who are his immediate instruments, that he is to leave to other organs of political life the care of how it is carried on. A cabinet department must never, however good and upright the intentions of its occupant, become a committee. If it does so, even without wishing it, it corrupts the waters that flow around it.
 
 [p. 78]
 
-> 78 CULTURA Como en el viejo mito, éstas en vez de templar petrifican lo que tocan.
+> Como en el viejo mito, éstas en vez de templar petrifican lo que tocan.
 
 As in the old myth, these, instead of tempering, petrify whatever they touch.
 
@@ -1250,7 +1248,7 @@ But one must not cry out for light, like the
 
 [p. 79]
 
-> ENRIQUE JOSÉ VARONA 79 glorioso poeta alemán, a la hora de la muerte. En mitad de la vida, y cuando llegan los sombríos momentos de prueba, como los que he bosquejado, corresponde a los que conocen el camino para hablar a las almas presentarse ante todos con sus evocaciones poderosas.
+> glorioso poeta alemán, a la hora de la muerte. En mitad de la vida, y cuando llegan los sombríos momentos de prueba, como los que he bosquejado, corresponde a los que conocen el camino para hablar a las almas presentarse ante todos con sus evocaciones poderosas.
 
 glorious German poet, at the hour of death. In the midst of life, and when the somber moments of trial arrive, such as those I have sketched, it behooves those who know the way to speak to souls to present themselves before all with their powerful evocations.
 
@@ -1264,7 +1262,7 @@ Art must not shut itself up in closed and narrow circles, must not wall itself i
 
 [p. 80]
 
-> 80 CULTURA los helenos era también un hipódromo, y sus hipódromos requerían el concurso de muchasartes.
+> los helenos era también un hipódromo, y sus hipódromos requerían el concurso de muchasartes.
 
 the Hellenes was also a hippodrome, and their hippodromes required the concourse of many arts.
 
@@ -1278,39 +1276,39 @@ Thus the exacting and imperious law of necessity is obeyed. And it is better, mu
 
 [p. 81]
 
-> ENRIQUE JOSÉ VARONA 81 roba la tranquilidad en esta fiesta de soñado esparcimiento del espíritu. Hay más aún. Creemos buscar un refugio a la obsesión de lo actual en las creaciones sorpren-
+> roba la tranquilidad en esta fiesta de soñado esparcimiento del espíritu.
 
 of tranquility in this festival of dreamed-of recreation of the spirit.
 
-> dentes de lo pasado, en los productos del arte de los que nos precedieron. Vamos a alentar con ellos, a gozar o padecer con ellos. Vamos a ser helenos con las epopeyas homéricas, a ser romanos con las sátiras de Juvenal, o italianos con las visiones dantescas, o ingleses del renacimiento 5con el proteico Shakespeare, o españoles del tiempo de los Felipe con la ironía serena de Cervantes, o alemanes del Aufklaerung con la anchurosa y profunda vena de Goethe, o franceses del siglo de las luces a los soplos fecundantes de cuatro vientos del espíritu del padre Hugo los. no Beatífica ilusión Eruditos. leemoso ciclo, el homérico con los ojos mentalidad de hombres y la del siglo veinte, y traducimos no podemos y dejar de traducirlo lo lenguaje de nuestras emoal A ciones Y exactamente nos ocurre mismo con lo todas y. cada una de las obras maestras que nos han legado los antecesores Por eso se llaman le-. gión los que los han comentado pudieran ilay Yy, marse legiones según, ardor el veces encoa el no con que se han combatido por eso podemos la., confesar aunque bajemos, voz que no todos, ¡ oh no todos encontramos en cada una de ellas,! la honda fuente de interés de simpatía que nos y habíamos prometido Die Zeiten der Vergan-. «
+> Hay más aún. Creemos buscar un refugio a la obsesión de lo actual en las creaciones sorprendentes de lo pasado, en los productos del arte de los que nos precedieron. Vamos a alentar con ellos, a gozar o padecer con ellos. Vamos a ser helenos con las epopeyas homéricas, a ser romanos con las sátiras de Juvenal, o italianos con las visiones 5dantescas, o ingleses del renacimiento con el proteico Shakespeare, o españoles del tiempo de los Felipe con la ironía serena de Cervantes, o alemanes del Aufklaerung con la anchurosa y profunda vena de Goethe, o franceses del siglo de las luces a los soplos fecundantes de los cuatro vientos del espíritu del padre Hugo. Beatífica ilusión. Eruditos o no, leemos el ciclo homérico con los ojos y la mentalidad de hombres del siglo veinte, y lo traducimos y no podemos dejar de traducirlo al lenguaje de nuestras emo- A ciones. Y exactamente nos ocurre lo mismo con todas y cada una de las obras maestras que nos han legado los antecesores. Por eso se llaman legión los que los han comentado, y pudieran ilamarse legiones, según el ardor y a veces el encono con que se han combatido. Y por eso podemos confesar, aunque bajemos la voz, que no todos, ¡ oh, no todos! encontramos en cada una de ellas la honda fuente de interés y de simpatía que nos habíamos prometido. « Die Zeiten der Vergan-
 
 There is more still. We think to seek a refuge from the obsession with the present in the astonishing creations of the past, in the products of the art of those who preceded us. We are going to take heart with them, to enjoy or suffer with them. We are going to be Hellenes with the Homeric epics, Romans with the satires of Juvenal, or Italians with the Dantesque visions, or Englishmen of the Renaissance with the protean Shakespeare, or Spaniards of the days of the Philips with the serene irony of Cervantes, or Germans of the *Aufklaerung* [Enlightenment] with the broad and deep vein of Goethe, or Frenchmen of the century of lights at the fecundating breaths of the four winds of the spirit of Father Hugo. A beatific illusion. Learned or not, we read the Homeric cycle with the eyes and the mentality of men of the twentieth century, and we translate it, and cannot help translating it, into the language of our emotions. And exactly the same happens to us with each and every one of the masterpieces that our predecessors have bequeathed to us. For this reason those who have commented on them are called legion, and might be called legions, according to the ardor and at times the rancor with which they have fought one another. And for this reason we may confess, though we lower our voice, that not all of us—oh, not all!—find in each of them the deep source of interest and of sympathy that we had promised ourselves. “Die Zeiten der Vergangenheit—
 
 [p. 82]
 
-> 82 CULTURAgenheit Sind uns ein Buch mit sieben Siegeln ». Los tiempos pasados son para nosotros un libro con siete sellos, decía al pobre pedantesco Wag-
+> genheit - Sind uns ein Buch mit sieben Siegeln ». Los tiempos pasados son para nosotros un libro con siete sellos, decía al pobre pedantesco Wagner la desengañada ciencia de Fausto.
 
 Sind uns ein Buch mit sieben Siegeln.” Past times are for us a book with seven seals, said the disillusioned learning of Faust to poor, pedantic Wagner.
 
-> ner la desengañada ciencia de Fausto. ¡El libro de los siete sellos! Dejemos, dejemos ese intrincado apocalipsis de lo que fué. Nos llama otro mar no menos encrespado, pero cuyas tempestades conocemos y cuyas corrientes podemos predecir a donde nos llevan. Procuremos sondearlo y saber con certeza la dirección de los vientos que lo agitan, para que las cartas que de él tracemos aprovechen a todos los que a la par
+> ¡ El libro de los siete sellos! Dejemos, dejemos ese intrincado apocalipsis de lo que fué. Nos llama otro mar no menos encrespado, pero cuyas tempestades conocemos y cuyas corrientes podemos predecir a donde nos llevan. Procuremos sondearlo y saber con certeza la dirección de los vientos que lo agitan, para que las cartas que de él tracemos aprovechen a todos los que a la par de nosotros y por fuerza lo navegan.
 
 The book of the seven seals! Let us leave, let us leave that intricate apocalypse of what has been. Another sea calls us, no less tossed, but whose tempests we know and whose currents we can predict, as to where they carry us. Let us try to sound it and to know with certainty the direction of the winds that stir it, so that the charts we draw of it may profit all those who, side by side with us, and perforce, sail it.
 
-> de nosotros y por fuerza lo navegan. Se ha dicho y repetido que estamos en un período de transición, aunque lo cierto es que la humanidad realmente se halla en transición perpetua. Lo que esto en verdad significa es que nuestra época, como cada una de las pasadas, pero más premiosamente, porque hemos duplicado la velocidad adquirida, tiene sus exigencias, en la forma de modificaciones sociales que hay que introducir y de conflictos que les están apareja-
+> Se ha dicho y repetido que estamos en un período de transición, aunque lo cierto es que la humanidad realmente se halla en transición perpetua. Lo que esto en verdad significa es que nuestra época, como cada una de las pasadas, pero más premiosamente, porque hemos duplicado la velocidad adquirida, tiene sus exigencias, en la forma de modificaciones sociales que hay que introducir y de conflictos que les están aparejados y que hay que resolver.
 
 It has been said and repeated that we are in a period of transition, though the truth is that humanity is really in perpetual transition. What this in truth signifies is that our epoch, like each of the past ones, but more pressingly, because we have doubled the speed acquired, has its demands, in the form of social modifications that must be introduced and of conflicts that go with them and that must be resolved.
 
-> dos y que hay que resolver.
+> nos Permitidme, para despedirnos, señalar algu-
 
 Permit me, as we part, to point out some of them.
 
-> Permitidme, para despedirnos, señalar algunos. Transformadas, al conjuro de la ciencia, las condiciones de la vida material, cada día son ma yores, y tienen que serlo, las aspiraciones morales de más grande número de hombres. Son muchos, son innumerables, los que aspiran a más,
+> Transformadas., al conjuro de la ciencia, las condiciones de la vida material, cada día son ma yores, y tienen que serlo, las aspiraciones morales de más grande número de hombres. Son muchos, son innumerables, los que aspiran a más,
 
 The conditions of material life having been transformed, at the spell of science, the moral aspirations of a greater number of men grow greater every day, and must do so. Many, innumerable, are those who aspire to more,
 
 [p. 83]
 
-> ENRIQUE JOSÉ VARONA 83 porque ya saben que respiran y cómo respiran, diré, alterando un tantoel aforismo célebre de un sabio cubano. Cualesquiera que sean nuestras opiniones personales acerca de la solución mejor para las reivindicaciones socialistas, hay que bus carla, desechando mucho rezago inservible de las organizaciones pasadas, mejorando los ensayos plausibles que se han aplicado, legislando, sobre todo, como quien trabaja para preparar la necesaria labor de mañana, y no para sostener la ya hoy inútil labor de lo que dejamos a la espalda. Lo que fué debe servir de lección y ejemplo, para sustituirlo convenientemente; de boya que avisa el escollo donde pudimos haber zozobrado. Hay por lo menos que levantar el faro, sólido y alteroso, que nos alumbre el camino incierto y que sea el ojo que se enciende para sondear las tinieblas del porvenir.
+> porque ya saben que respiran y cómo respiran, diré, alterando un tantoel aforismo célebre de un sabio cubano. Cualesquiera que sean nuestras opiniones personales acerca de la solución mejor para las reivindicaciones socialistas, hay que bus carla, desechando mucho rezago inservible de las organizaciones pasadas, mejorando los ensayos plausibles que se han aplicado, legislando, sobre todo, como quien trabaja para preparar la necesaria labor de mañana, y no para sostener la ya hoy inútil labor de lo que dejamos a la espalda. Lo que fué debe servir de lección y ejemplo, para sustituirlo convenientemente; de boya que avisa el escollo donde pudimos haber zozobrado. Hay por lo menos que levantar el faro, sólido y alteroso, que nos alumbre el camino incierto y que sea el ojo que se enciende para sondear las tinieblas del porvenir.
 
 because they now know that they breathe and how they breathe, I shall say, altering somewhat the celebrated aphorism of a Cuban sage. Whatever our personal opinions about the best solution for the socialist claims, it must be sought, discarding much useless residue of past organizations, improving the plausible experiments that have been tried, legislating, above all, as one who works to prepare the necessary labor of tomorrow, and not to sustain the already useless labor of what we leave behind us. What was ought to serve as lesson and example, in order to be suitably replaced; as a buoy that warns of the reef on which we might have foundered. There is at least need to raise the lighthouse, solid and lofty, to light our uncertain way and to be the eye that kindles to sound the darkness of the future.
 
@@ -1320,7 +1318,7 @@ The mind, at times paradoxical but singularly lucid and profound, of Nietzsche h
 
 [p. 84]
 
-> 84 CULTURA desde las provocadas por la perversidad infantil de las feministas del tipo inglés, hasta las mucho más serias y más hondas de las organizaciones de las mujeres norteamericanas. Pero sobre todas se impone esta convicción, que el círculo de hierro y de fuego en que había pretendido el hombre encerrar a la que llamaba con inconsciente hipocresía su compañera, se ha roto para siempre. La más quimérica de las empresas sería tratar de soldarlo, en cualquier forma. Hay algo ya definitivo y de incalculables consecuencias: la emancipación del espíritu de la mujer. Despidámonos, no sin cierta melancolía, de la Eva bíblica, y demos otra significación mucho más honda al eterno femenino del poeta.
+> desde las provocadas por la perversidad infantil de las feministas del tipo inglés, hasta las mucho más serias y más hondas de las organizaciones de las mujeres norteamericanas. Pero sobre todas se impone esta convicción, que el círculo de hierro y de fuego en que había pretendido el hombre encerrar a la que llamaba con inconsciente hipocresía su compañera, se ha roto para siempre. La más quimérica de las empresas sería tratar de soldarlo, en cualquier forma. Hay algo ya definitivo y de incalculables consecuencias: la emancipación del espíritu de la mujer. Despidámonos, no sin cierta melancolía, de la Eva bíblica, y demos otra significación mucho más honda al eterno femenino del poeta.
 
 from those provoked by the childish perversity of the feminists of the English type to the far more serious and deeper ones of the organizations of American women. But above all there imposes itself this conviction, that the circle of iron and fire within which man had sought to enclose her whom he called, with unconscious hypocrisy, his companion, has been broken forever. The most chimerical of undertakings would be to try to weld it together again, in any form. There is now something definitive and of incalculable consequences: the emancipation of woman’s spirit. Let us take leave, not without a certain melancholy, of the biblical Eve, and give another, much deeper meaning to the poet’s eternal feminine.
 
@@ -1330,7 +1328,7 @@ No less grave is the crisis in which another of our dearest ideas finds itself, 
 
 [p. 85]
 
-> ENRIQUE JOSÉ VARONA 85 hoy se aniquilan. Moloch tal vez se disfrace, pero esconderá bajo los anchos pliegues de su nue va toga la bomba de melinita.
+> hoy se aniquilan. Moloch tal vez se disfrace, pero esconderá bajo los anchos pliegues de su nue va toga la bomba de melinita.
 
 today they annihilate one another. Moloch may perhaps disguise himself, but he will hide beneath the broad folds of his new toga the melinite bomb.
 
@@ -1372,7 +1370,7 @@ Late Love 16
 
 Rostand at the Academy 21
 
-> Mi primer contacto con la injusticia. ‫م‬ 26
+> Mi primer contacto con la injusticia. م 26
 
 My First Contact with Injustice 26
 
