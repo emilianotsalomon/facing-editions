@@ -1,15 +1,15 @@
 title: Obereits Widerruf für Kant
-title_en: Obereit's Recantation for Kant — German text
+title_en: Obereit's Recantation for Kant
 author: Jakob Hermann Obereit
 year: 1791
 original_language: de
-translation_language: none
-edition_layout: original text only (no translation)
-source: ‘obereits-wiederruf.pdf’ — THIS FILE IS THE SOURCE, corrections go here
-original_text: text layer of the PDF — uncorrected where it is OCR
-translation: none
+translation_language: en
+edition_layout: clean text (both columns typeset)
+source: ‘Obereit-1791-Widerruf-fuer-Kant-parallel.pdf’ (parallel-edition PDF, 29 pages) — THIS FILE IS THE SOURCE, corrections go here
+original_text: German text transcribed from the scan of the journal printing (pp. 106–143; copy of the Universitätsbibliothek Bielefeld), long s normalised, 1791 spelling otherwise kept, spaced or bold emphasis set in italics; uncorrected (the scan is the authority)
+translation: "machine-made (Claude), unrevised: not reviewed against the original"
 pages: 38
 genre: Kant and post-Kantian philosophy
-generated: 2026-10-24 by corpus.py
-heading: "# Jakob Hermann Obereit, *Obereits Widerruf für Kant* (1791) — *Obereit's Recantation for Kant — German text*"
-conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."
+generated: 2026-10-24 from the parallel-edition PDF
+heading: "# Jakob Hermann Obereit, *Obereits Widerruf für Kant* (1791) — *Obereit's Recantation for Kant*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed, pp. 106–143 of the journal printing); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed (spaced or bold type in the original); `<sup>…</sup>` a footnote cue, the note following its paragraph. The notes, signed S. M., are the editor's (Salomon Maimon); the original marks them with asterisks, here they are numbered afresh on each page, and a note that runs on to the next page stays whole. The subtitle “Ein psychologischer Kreislauf” (with the editor's note on the essay) stands as the first pair after the title. The mottoes and verse inserts are kept as pairs with their lines joined by “/”."

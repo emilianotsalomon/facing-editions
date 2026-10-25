@@ -1,15 +1,15 @@
 title: Persönlichkeit. Einführung in die Charakterkunde
-title_en: Personality. Introduction to Characterology — German text
+title_en: Personality. Introduction to Characterology
 author: Ludwig Klages
 year: 1928
 original_language: de
-translation_language: none
-edition_layout: original text only (no translation)
-source: ‘klages-persoenlichkeit.md’ — THIS FILE IS THE SOURCE, corrections go here
-original_text: OCR text as supplied (Markdown/plain), uncorrected unless the file says otherwise
-translation: none
-pages: 35
+translation_language: en
+edition_layout: clean text (both columns typeset)
+source: ‘Klages-Persoenlichkeit-parallel.pdf’ (parallel-edition PDF, 79 pages) — THIS FILE IS THE SOURCE, corrections go here
+original_text: "German text from an OCR of the first edition (Potsdam: Müller & Kiepenheuer; Zürich: Orell Füssli, [1927/28]), University of Michigan copy digitized by Google (HathiTrust); scan watermarks and running folios removed and obvious OCR slips corrected in the PDF edition; otherwise uncorrected (the scan is the authority)"
+translation: "machine-made (Claude), unrevised: not reviewed against the original"
+pages: 136
 genre: Lebensphilosophie
-generated: 2026-10-24 by corpus.py
-heading: "# Ludwig Klages, *Persönlichkeit. Einführung in die Charakterkunde* (1928) — *Personality. Introduction to Characterology — German text*"
-conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."
+generated: 2026-10-24 from the parallel-edition PDF
+heading: "# Ludwig Klages, *Persönlichkeit. Einführung in die Charakterkunde* (1927/1928) — *Personality. Introduction to Characterology*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed in the first edition, pp. 8–143 of the text; the margin folios of the parallel edition level with the line where each page begins); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Klages printed his 24 notes as endnotes (Anmerkungen, pp. 145–163, each headed “Zu Seite …”); here each stands below the paragraph that carries its cue, and the endnote pages carry no markers. The OCR rendered the superscript cues as stray symbols (e.g. “®)”, “?)”, “!!)”); each was restored as a cue from its order and the page named in its note. Note 3 is printed “9)” in both columns and note 7 “?T)” in the German; both are numbered by sequence. Notes 2–7, 9, 14 and 19 are partly lost or run together in the OCR and are kept as the scan gives them (note 2 breaks off at “Geist und”). A stray “7)” in the German text on p. 115 is left as plain text. The title page is kept as the first pairs; the contents list (a list of page numbers) is dropped. The two diagrams (Fig. 1, Fig. 2) are not reproduced. The run-in headings of chapter II (Stoff, Artung, Aufbau, …) stay in the paragraphs as printed."

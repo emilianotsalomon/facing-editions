@@ -1,0 +1,15 @@
+title: Sämmtliche Werke, Erste Abtheilung, Band VII (1805–1810)
+title_en: Collected Works, First Division, Volume VII (1805–1810)
+author: F. W. J. von Schelling
+year: 1860
+original_language: de
+translation_language: en
+edition_layout: clean text (both columns typeset)
+source: "‘Schelling-SW-I-7-parallel.pdf’ (633-page landscape parallel edition built by headless Chrome, German left / English right; text: F. W. J. von Schelling, Sämmtliche Werke, ed. K. F. A. Schelling, I/7, Stuttgart and Augsburg: Cotta, 1860); extracted with a PyMuPDF row script; the PDF’s own contents pages and edition note are not reproduced"
+original_text: "German text transcribed from the Internet Archive scan (smtlichewerke07p1sche), rebuilt by script and then corrected by agents (the ‘correction method’: an API filter blocked verbatim German transcription, so the text was reconstructed and corrected rather than copied); 1860 orthography kept; letter-spaced emphasis set in italics; no human proofreading. Page markers are the margin pagination of SW I/7 (roman for the editor’s preface); square brackets such as [IV, S. 146] are the 1860 editor’s own cross-references; notes signed D. H. are the editor’s"
+translation: "machine-made (Claude), new for this edition, following established conventions of English Schelling scholarship (Grund: ground; Wesen: essence; Gemüth: heart, etc.); not revised by a professional translator or reviewed against the original; Schelling’s footnotes (numbered per page in the original) are numbered 1–121 in running order here"
+pages: 570
+genre: Philosophy of nature
+generated: 2026-10-24 from the parallel-edition PDF
+heading: "# F. W. J. von Schelling, *Sämmtliche Werke*, I/7 (1860) — *Collected Works*, I/7 (1805–1810)"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."

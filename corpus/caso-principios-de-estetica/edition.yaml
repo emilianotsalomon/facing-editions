@@ -1,0 +1,15 @@
+title: Principios de estética
+title_en: Principles of Aesthetics
+author: Antonio Caso
+year: 1925
+original_language: es
+translation_language: en
+edition_layout: clean text (both columns typeset)
+source: "'orig.md' + 'trans.md' (.caso1925-work, tag-aligned Markdown) — THIS FILE IS THE SOURCE, corrections go here"
+original_text: text of a Google Books OCR EPUB, cleaned chapter by chapter (OCR debris, split words and spliced notes repaired; see ch/INSTRUCTIONS.md), otherwise uncorrected
+translation: "machine-made (Claude), unrevised: not reviewed against the original"
+pages: 192
+genre: Aesthetics
+generated: 2026-10-24 from the side-by-side Markdown
+heading: "# Antonio Caso, *Principios de estética* (1925) — *Principles of Aesthetics*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."
