@@ -10,6 +10,10 @@
 `[scan N]`, `[PDF N]`), headings and the separator `⁂`. Between two of them the merge pairs the i-th original paragraph
 with the i-th English paragraph (original first, each followed by its footnotes), leftovers at the end. An interleaving
 that does not follow this pairing is not recoverable from the two files; the HTML does not depend on it.
+An edition whose edition.yaml says `paragraphs: printed` (the paragraph standard of tools/realign.py: original.md holds the printed
+paragraphs, en.md one unit per unit) is merged unit n with unit n across the whole text instead (`merge_units`); a heading pair whose
+two texts differ shows as `<original> — <English>`. When such an edition does not pair (unit counts, marks or headings differ) the
+merge raises ValueError rather than fall back. Every other edition keeps the per-page merge.
 Standard library only."""
 import os, re, json, difflib
 
@@ -111,12 +115,47 @@ def quote(p):
     return '\n'.join('> ' + l for l in p.split('\n'))
 
 
-def merge_streams(O, E, mono):
+def merge_units(O, E):
+    """unit n of the original with unit n of the English over the whole text, or None when the two files do not fit that"""
+    UO = [t for t in O if t[0] in ('C', 'H')]
+    UE = [t for t in E if t[0] in ('C', 'H')]
+    if not UO or len(UO) != len(UE) or any((a[0] == 'H') != (b[0] == 'H') for a, b in zip(UO, UE)):
+        return None
+
+    def syncs(S):                                                # (number of units before it, the mark or separator)
+        n, out = 0, []
+        for t in S:
+            if t[0] in ('M', 'S'):
+                out.append((n, t[1]))
+            else:
+                n += 1
+        return out
+    if syncs(O) != syncs(E):
+        return None
+    out, ue = [], iter(UE)
+    for t in O:
+        if t[0] in ('M', 'S'):
+            out.append(t[1]); continue
+        e = next(ue)
+        if t[0] == 'H':
+            ot, et = re.sub(r'^#+\s*', '', t[1]).strip(), re.sub(r'^#+\s*', '', e[1]).strip()
+            out.append(t[1] if ot == et else f'{t[1]} — {et}')
+        else:
+            out += [quote(t[1]), e[1]]
+    return out
+
+
+def merge_streams(O, E, mono, printed=False):
     """O, E: token streams -> paragraphs of the interleaved body"""
     if mono:
         return [t[1] for t in O]
     if not O or not E:                                           # one language only: that file is the body
         return [t[1] if t[0] != 'C' else (quote(t[1]) if O else t[1]) for t in (O or E)]
+    if printed:
+        paired = merge_units(O, E)
+        if paired is None:
+            raise ValueError('edition.yaml says paragraphs: printed, but original.md and en.md do not pair unit by unit')
+        return paired
     O, E = list(O), list(E)
     osync = [i for i, t in enumerate(O) if t[0] != 'C']
     esync = [j for j, t in enumerate(E) if t[0] != 'C']
@@ -167,7 +206,7 @@ def parse_yaml(y):
 def merge_parts(yaml_text, orig, en):
     fm, heading, conv = parse_yaml(yaml_text)
     mono = is_mono(fm)
-    body = merge_streams(read_stream(orig, not mono), read_stream(en, False), mono)
+    body = merge_streams(read_stream(orig, not mono), read_stream(en, False), mono, front_matter(fm).get('paragraphs') == 'printed')
     return f'---\n{fm}\n---\n\n{heading}\n\n{conv}\n\n' + '\n\n'.join(body) + '\n'
 
 

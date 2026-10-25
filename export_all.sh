@@ -1,12 +1,14 @@
 #!/bin/sh
-# Regenerates corpus/ from the page files (and, for editions whose page files were not kept, from their PDFs).
+# Regenerates the editions from the page files (and, for editions whose page files were not kept, from their PDFs) into staging/ (git-ignored),
+# then tools/split.py moves only the editions that have no folder in corpus/ yet; an existing corpus/<slug>/ is the source and is skipped.
 # Run after any edition changes:  sh export_all.sh        (needs the side-by-side-translation skill on this machine)
 S=$(ls -d "$HOME/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin"/*/*/skills/side-by-side-translation/scripts/facing 2>/dev/null | head -1)
 [ -d "$S" ] || S="$HOME/.claude/skills/side-by-side-translation/scripts/facing"
 [ -d "$S" ] || S=$(ls -d "$HOME/.claude/plugins"/*/*/skills/side-by-side-translation/scripts/facing 2>/dev/null | head -1)
 [ -d "$S" ] || { echo "skill scripts not found"; exit 1; }
 F="$HOME/Desktop/claude-folder/_facing-pipeline"; P="$HOME/Desktop/claude-folder"
-C="$(cd "$(dirname "$0")" && pwd)/corpus"; mkdir -p "$C/glossaries"
+H="$(cd "$(dirname "$0")" && pwd)"; [ -d "$H" ] || exit 1
+C="$H/staging"; rm -rf "$C"; mkdir -p "$C/glossaries"
 book() { [ -z "$ONLY" ] || [ "$ONLY" = "book" ] || return;  d=$1; slug=$2; shift 2; "$S/py" "$S/corpus.py" book "$F/$d" -o "$C" --slug "$slug" "$@" 2>&1 | grep -v "block structure" ; [ -f "$F/$d/work/GLOSSARY.md" ] && cp "$F/$d/work/GLOSSARY.md" "$C/glossaries/$slug.md"; }
 pdf()  { [ -z "$ONLY" ] || [ "$ONLY" = "pdf" ] || return;  f=$1; slug=$2; shift 2; "$S/py" "$S/corpus.py" pdf "$P/$f" -o "$C" --slug "$slug" "$@"; }
 
@@ -62,3 +64,8 @@ text "$HOME/Downloads/Edgar_Dacqué_Urwelt_Sage_und_Menschheit.pdf" dacque-urwel
 
 # --- Vasconcelos, Obras: the Tufte HTML readers in originals/vasconcelos-obras-v2 -> corpus/vasconcelos/ ---
 [ "$ONLY" = "" ] || [ "$ONLY" = "html" ] && "$S/py" "$S/corpus.py" html "$O/vasconcelos-obras-v2" -o "$C/vasconcelos" --author "José Vasconcelos" --collection "Obras (vasconcelos-obras-v2)" --prefix vasconcelos --genre "Latin American philosophy" && "$S/py" "$S/corpus.py" index "$C"
+
+# --- corpus/<slug>/ is the source now: staged files only add editions that have no folder there yet ---
+NEW=$(python3 "$H/tools/split.py" --into "$H/corpus" "$C"/*.md "$C"/vasconcelos/*.md | tee /dev/stderr | sed -n 's/^\([^: ]*\): round trip.*/\1/p')
+# --- a new edition enters in the paragraph standard: rejoin.py joins the paragraphs the page-by-page translation cut at page turns ---
+for r in $NEW; do python3 "$H/tools/rejoin.py" --write "$H/corpus/$r"; done

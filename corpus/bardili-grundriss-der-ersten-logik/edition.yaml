@@ -5,8 +5,9 @@ year: 1800
 original_language: de
 translation_language: en
 edition_layout: photocopy (scan beside the English)
-source: page files of _facing-pipeline/bardili (generated — edit the page files, not this file)
-original_text: OCR of the scan, uncorrected, cut at the English paragraph starts (the scan in the PDF edition is the authority)
+paragraphs: printed
+source: original.md shared from a member's library; en.md realigned to the printed paragraphs by tools/realign.py from the page-file translation (this folder is now the source)
+original_text: transcription of the print (Sonnet, from page images of a Google Books copy of the 1800 edition), printed paragraphs; page labels matched to this edition's scan
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 374
 genre: Logic
