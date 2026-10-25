@@ -65,6 +65,20 @@ body.noside .page{gap:0 0}body.noside main{padding-left:.2rem}
 .side .meta{color:var(--toc);line-height:1.4;margin:0 0 1rem;font-size:.8rem}
 .card{position:relative;background:var(--card);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);padding:1.1rem 1.3rem 1rem;margin:0 0 1.1rem;display:grid;grid-template-columns:1fr 1fr;gap:1.4rem}
 .card.mono{grid-template-columns:1fr;max-width:48rem}
+.card.doc{display:block;max-width:56rem;padding:1.4rem 1.8rem 1.2rem}
+.card.doc h1,.card.doc h2,.card.doc h3,.card.doc h4,.card.doc h5{text-align:left;font-weight:normal;line-height:1.3;margin:1.4rem 0 .6rem}.card.doc>:first-child{margin-top:0}
+.doc h1{font-size:1.5rem}.doc h2{font-size:1.3rem;padding-bottom:.35rem;border-bottom:1px solid var(--line)}.doc h3{font-size:1.1rem}.doc h4{font-size:1rem;font-style:italic}
+.doc p,.doc li{line-height:1.6;max-width:68ch}.doc p{margin:0 0 .8em}.doc ul,.doc ol{margin:0 0 .9em;padding-left:1.5rem}.doc li{margin:0 0 .35em}.doc li>ul,.doc li>ol{margin:.35em 0 0}
+.doc code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.84em;background:var(--orig);border-radius:4px;padding:.05em .3em;overflow-wrap:anywhere}
+.doc pre{background:var(--orig);border-radius:7px;padding:.8rem 1rem;overflow:auto;font-size:.84em;line-height:1.45}.doc pre code{background:none;padding:0}
+.doc blockquote{margin:0 0 .9em;padding:.2rem 0 .2rem 1rem;border-left:3px solid var(--line);color:var(--muted)}
+.doc hr{border:0;border-top:1px solid var(--line);margin:1.4rem 0}
+.doc .tw{overflow-x:auto;margin:0 0 1.1em;border:1px solid var(--line);border-radius:8px}
+.doc table{border-collapse:collapse;width:100%;font-size:.92em;line-height:1.45}
+.doc th{text-align:left;font-weight:normal;font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);background:var(--orig);padding:.5rem .75rem;border-bottom:1px solid var(--line)}
+.doc td{padding:.5rem .75rem;border-top:1px solid var(--line);vertical-align:top}.doc tr:first-child td{border-top:0}.doc tbody tr:nth-child(even){background:color-mix(in srgb,var(--orig) 35%,transparent)}
+.doc td:first-child{white-space:nowrap}.doc td:first-child,.doc td:nth-child(2){min-width:8rem}
+.doc .lead{color:var(--muted);font-size:.9rem;margin:0 0 1rem}
 .card.pairs{display:block;padding:1.1rem 1.3rem 1rem 0;background:linear-gradient(to right,var(--orig) 0,var(--orig) calc(50% - .35rem),var(--card) calc(50% - .35rem))}
 .card.pairs h2,.card.pairs h3,.card.pairs h4{display:block;margin-left:1.3rem}
 .row{display:grid;grid-template-columns:1fr 1fr;gap:1.4rem;margin:0 0 .75em}.row.single{grid-template-columns:1fr}.row.single .e{max-width:66ch;margin-left:1.3rem}.row:last-child{margin-bottom:0}
@@ -115,7 +129,7 @@ mark.an.cm{background:rgba(214,188,96,.18);box-shadow:0 1.5px 0 rgba(122,42,34,.
 .an-box{background:var(--card);color:var(--ink);max-width:34rem;padding:1.4rem 1.6rem;border-radius:10px;font-size:.92rem;line-height:1.45}.an-box h3{margin:0 0 .6rem;font-weight:normal}
 .an-box label{display:block;margin:.6rem 0;font-size:.85rem;color:var(--muted)}.an-box input{display:block;width:100%;font:inherit;padding:.4rem .6rem;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:var(--ink);margin-top:.2rem}
 .an-row{display:flex;gap:.6rem;margin-top:.8rem}
-@media(max-width:900px){.page{grid-template-columns:1fr}body.an-with-comments .page{grid-template-columns:1fr}.hdl{display:none!important}.an-gutter{position:static}.an-cm{position:static;width:auto;margin:.4rem 0}.side{position:static;max-height:none}.card,.row{grid-template-columns:1fr}.row{grid-template-columns:1fr}.row .m{text-align:left}}
+@media(max-width:900px){.page{grid-template-columns:minmax(0,1fr)}body.an-with-comments .page{grid-template-columns:1fr}.hdl{display:none!important}.an-gutter{position:static}.an-cm{position:static;width:auto;margin:.4rem 0}.side{position:static;max-height:none}.card,.row{grid-template-columns:1fr}.card.doc{padding:1rem 1rem .9rem}.doc td:first-child{white-space:normal}.row{grid-template-columns:1fr}.row .m{text-align:left}}
 """
 JS_INDEX = """
 const q=document.getElementById('q'),n=document.getElementById('n'),list=document.getElementById('list'),pool=document.getElementById('pool'),seg=document.getElementById('by');
@@ -421,6 +435,139 @@ def render(path, s):
     return rel, h, len(cards)
 
 
+def doc_inline(t):
+    """md_inline plus `code` spans and [links](url)"""
+    codes = []
+    def keep(m):
+        codes.append(html.escape(m.group(1), quote=False)); return f'\x00{len(codes) - 1}\x00'
+    t = md_inline(re.sub(r'`([^`]+)`', keep, t))
+    t = re.sub(r'\[([^\]]+)\]\(([^)\s]+)\)', lambda m: f'<a href="{m.group(2)}">{m.group(1)}</a>', t)
+    return re.sub(r'\x00(\d+)\x00', lambda m: f'<code>{codes[int(m.group(1))]}</code>', t)
+
+
+LIST = re.compile(r'^(\s*)([-*+]|\d+[.)])\s+(.*)$')
+TROW = re.compile(r'^\s*\|.*\|\s*$')
+TSEP = re.compile(r'^\s*\|?\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)*\|?\s*$')
+
+
+def md_blocks(lines):
+    """Markdown lines -> [(kind, level, html)]: headings, paragraphs, lists (nested by indent, wrapped lines
+    continuing the item), tables, block quotes, fenced code, rules. Kind 'h' carries its level."""
+    out, i, n = [], 0, len(lines)
+    starts = lambda l: (re.match(r'^(#{1,6}) ', l) or l.startswith(('```', '>')) or LIST.match(l)
+                        or re.fullmatch(r'\s*(-{3,}|\*{3,})\s*', l) or TROW.match(l))
+    while i < n:
+        l = lines[i]
+        if not l.strip():
+            i += 1; continue
+        if l.startswith('```'):
+            j = i + 1
+            while j < n and not lines[j].startswith('```'):
+                j += 1
+            out.append(('b', 0, '<pre><code>' + html.escape('\n'.join(lines[i + 1:j]), quote=False) + '</code></pre>')); i = j + 1; continue
+        hm = re.match(r'^(#{1,6}) (.*)$', l)
+        if hm:
+            out.append(('h', len(hm.group(1)), doc_inline(hm.group(2).strip()))); i += 1; continue
+        if re.fullmatch(r'\s*(-{3,}|\*{3,})\s*', l):
+            out.append(('b', 0, '<hr>')); i += 1; continue
+        if TROW.match(l) and i + 1 < n and TSEP.match(lines[i + 1]):
+            cells = lambda r: [c.strip() for c in re.split(r'(?<!\\)\|', r.strip().strip('|'))]
+            head, j, body = cells(l), i + 2, []
+            while j < n and TROW.match(lines[j]):
+                body.append(cells(lines[j])); j += 1
+            th = ''.join(f'<th>{doc_inline(c)}</th>' for c in head)
+            tb = ''.join('<tr>' + ''.join(f'<td>{doc_inline(c)}</td>' for c in (r + [''] * (len(head) - len(r)))[:max(len(head), len(r))]) + '</tr>' for r in body)
+            out.append(('b', 0, f'<div class="tw"><table><thead><tr>{th}</tr></thead><tbody>{tb}</tbody></table></div>')); i = j; continue
+        if l.startswith('>'):
+            j = i
+            while j < n and lines[j].startswith('>'):
+                j += 1
+            inner = md_blocks([x[2:] if x.startswith('> ') else x[1:] for x in lines[i:j]])
+            out.append(('b', 0, '<blockquote>' + ''.join(render_blocks(inner)) + '</blockquote>')); i = j; continue
+        if LIST.match(l):
+            items, j = [], i                      # (indent, ordered, text)
+            while j < n:
+                m = LIST.match(lines[j])
+                if m:
+                    items.append([len(m.group(1).expandtabs(4)), m.group(2)[0].isdigit(), m.group(3)])
+                elif lines[j].strip() and not starts(lines[j]) and items:
+                    items[-1][2] += ' ' + lines[j].strip()
+                elif not lines[j].strip() and j + 1 < n and LIST.match(lines[j + 1]):
+                    pass
+                else:
+                    break
+                j += 1
+            out.append(('b', 0, render_list(items))); i = j; continue
+        j = i
+        while j < n and lines[j].strip() and not (j > i and starts(lines[j])):
+            j += 1
+        out.append(('b', 0, '<p>' + doc_inline(' '.join(x.strip() for x in lines[i:j])) + '</p>')); i = j
+    return out
+
+
+def render_list(items):
+    html_, stack = [], []                          # stack of (indent, tag)
+    for ind, ordered, text in items:
+        tag = 'ol' if ordered else 'ul'
+        while stack and ind < stack[-1][0]:
+            html_.append(f'</li></{stack.pop()[1]}>')
+        if not stack or ind > stack[-1][0]:
+            stack.append((ind, tag)); html_.append(f'<{tag}><li>')
+        else:
+            html_.append('</li><li>')
+        html_.append(doc_inline(text))
+    while stack:
+        html_.append(f'</li></{stack.pop()[1]}>')
+    return ''.join(html_)
+
+
+def render_blocks(blocks):
+    return [f'<h{lv}>{t}</h{lv}>' if k == 'h' else t for k, lv, t in blocks]
+
+
+def render_doc(path, s):
+    """A resource (study guide, glossary, concordance): ordinary Markdown on one column, a box per section"""
+    rel = os.path.relpath(path, C)[:-3]
+    h, body = header(path, s)
+    g = lambda k: h.get(k, '')
+    blocks = md_blocks(body.split('\n'))
+    if blocks and blocks[0][0] == 'h' and blocks[0][1] == 1:
+        blocks = blocks[1:]                        # the title is in the top bar
+    cut = 2                                        # a box per ## section; ### headings are listed in the contents too
+    cards, toc = [[]], []
+    for k, lv, t in blocks:
+        if k == 'h' and lv <= cut and cards[-1]:
+            cards.append([])
+        if k == 'h' and lv <= cut + 1:
+            toc.append((lv, html.unescape(re.sub('<[^>]+>', '', t)), f'c{len(cards)}'))
+        cards[-1].append((k, lv, t))
+    depth = '../' * rel.count('/')
+    sub = ', '.join(x for x in (g('about'), g('author')) if x)
+    chips = f'<span class="chip">{html.escape(g("kind"))}</span>' if g('kind') else ''
+    out = [f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
+           f'<title>{html.escape(g("title"))}</title><style>{CSS}</style></head><body>'
+           f'<div class="top"><div class="in"><a class="back" href="{depth}index.html#resources">← Resources</a><h1>{html.escape(g("title"))}</h1>{chips}'
+           f'{("<span class=sub>" + html.escape(sub) + "</span>") if sub else ""}</div></div>'
+           f'<div class="wrap"><div class="page"><aside class="side">'
+           '<div class="toolbar"><input id="q" type="search" placeholder="search this page (/)" aria-label="search this page">'
+           '<button id="qprev" class="qb" title="previous match (shift+enter)" aria-label="previous match">↑</button>'
+           '<button id="qnext" class="qb" title="next match (enter)" aria-label="next match">↓</button></div>'
+           '<p id="qn" class="qn" aria-live="polite"></p><div id="qres" class="qres"></div>']
+    if toc:
+        out.append('<h3>Contents</h3>' + ''.join(f'<a class="l{l}" href="#{cid}">{html.escape(t)}</a>' for l, t, cid in toc))
+    out.append('</aside><div class="hdl l" data-for="side"></div><main>')
+    out.append('<button class="tog" id="tog" title="hide the contents (press c)" aria-label="hide or show the contents"><span>‹</span><small>contents</small></button>')
+    for k, c in enumerate(cards, 1):
+        if c:
+            out.append(f'<section class="card doc" id="c{k}">{"".join(render_blocks(c))}</section>')
+    out.append(f'</main><div class="hdl r" data-for="cm"></div><aside class="an-gutter"></aside></div></div><script>{JS_PAGE}</script>'
+               + (f'<script>window.ANNOT={json.dumps({"repo": REPO, "branch": SITE.get("branch", "main"), "rel": rel, "base": depth})}</script><script src="{depth}annot.js"></script>' if REPO else '')
+               + '</body></html>')
+    os.makedirs(os.path.dirname(f'{O}/{rel}.html'), exist_ok=True)
+    open(f'{O}/{rel}.html', 'w').write('\n'.join(out))
+    return rel, h, len(cards)
+
+
 def order_key(item):
     x, folder = item
     m = re.search(r'^order: (.*)$', open(f'{folder}/edition.yaml' if folder else x).read(), re.M)
@@ -445,7 +592,7 @@ for f, folder in sources():
     if os.path.basename(f) in ('README.md', 'PROJECT-INSTRUCTIONS.md') or '/glossaries/' in f or '/notes/' in f:
         continue
     text = facing.merge_dir(folder) if folder else open(f).read()
-    rel, h, n = render(f, text)
+    rel, h, n = (render_doc if '/resources/' in f else render)(f, text)
     if '/resources/' not in f:                    # every merged edition, for uploading to a Claude Project
         os.makedirs(os.path.dirname(f'{O}/facing/{rel}.md'), exist_ok=True)
         open(f'{O}/facing/{rel}.md', 'w', encoding='utf-8').write(text)
