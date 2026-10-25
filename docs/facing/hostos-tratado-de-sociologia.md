@@ -48,259 +48,151 @@ Calle de la Cava Alta, No. 5.
 
 [PDF 5]
 
-Pages To the Reader                                                       5 Methodological Introduction to establish the method at              9
-
-once scientific and historical which is to be followed in this study.—1-2. Method and procedures.—3. What method is.—4-19. What those procedures are.—20. What the exposition of a science demands.—21. The natural method of a science.—22. The effective method.—23. How a science ought to be studied.—24. How we shall study Sociology.—25. Plan
-
-## BOOK I
-
-Theoretical Sociology. CHAPTER I.—Intuitive Sociology.—1-4. Life in society.              21 Social facts.—5-11. What social facts are like.—12-19. How they present themselves in History.—20. Intuitive concept or judgment CHAPTER II.—Inductive Sociology.—1. Object of this                 28 chapter.—2. Formula of the intuitive judgment on Society.—3 and 4. Examination of this judgment. 5-7. Functions of social life.—8 and 9. The social order.—10-22. Classification of the social functions. Justification of such a classification.—23. Inductive judgment on Society CHAPTER III.—Deductive Sociology.—1. Formula of the inductive judgment on Society.—2. Natural laws of Society.— 3. How many are the natural laws of Society.—4. Which are the natural laws of Society.—5 and 6. Classification of the natural laws of Society.
-
-[p. 252]
-
-Pages 7-12. Study of the Law of Sociability.—13 and 14. Statement of      40
-
-the universal Law of Sociability.—15. Study and statement of the universal Law of Labour.—16. Universal Law of Liberty.
-
-Study and statement.—17. Study and statement of the universal Law of Progress.—18. Study and statement of the Law of the Ideal.—19. Law of Conservation. Its study and statement.
-
-—20. Law of Media. Examination and statement of it CHAPTER IV.—Systematic Sociology                                    54 Section 1.—Materials of Sociology.—1. Themes to be linked           54
-
-together in order to constitute Social Science. 2. What those themes are.—3 and 4. Relation of social phenomena among themselves.—5 and 6. Relation between sociotic facts and cosmic facts.—7. Society.—8. Labour.—9 and 10. Government.—
-
-11 and 12. Progress.—13. The Ideal of the Good.—14. Social
-
-Conservation.—15. Sociability and the Media Section 2.—Work of systematization.—16. The bases for the           62
-
-scientific organization of Sociology.—17. What would have to be done
-
-## BOOK II
-
-Expository Sociology. CHAPTER I.—Object of this Book. Definition and Division             65
-
-of Sociology.—1. Object of Expository Sociology.—2.
-
-Definition of Sociology. 3. Divisions of Sociology CHAPTER II.—Socionomy.—1. What is called Socionomy.—2.              65
-
-Character of human Society Section 1.—Universal Laws of Society.—3. How many those             66
-
-laws are.—4. Which they are.—5. Classification of them.—6.
-
-Constitutive law.—7. Organic laws.—8. First organic law.—9.
-
-Second organic law.—10. Third organic law.—11. Fourth organic law.—12. Fifth organic law.—13. Law of procedure Section 2.—Statement of the Social Laws.—14. Why the so‐
-
-cial laws ought to be stated.—15. Statement of the Law of
-
-Sociability.—16. Statement of the Law of Labour.—17.
-
-Statement
-
-[p. 253]
-
-Pages of the Law of Liberty.—18. Statement of the Law of Progress.— 73
-
-19. Statement of the Law of the Ideal.—20. Statement of the
-
-Law of Conservation.—21. Statement of the Law of Media Section 3.—Social Order.—22. In what that order consists.— 83
-
-23. Function of labour, with reference to the Law of Labour.—
-
-24. Function of government, with reference to the Law of
-
-Liberty.—25. Function of public education, in so far as governed by the Law of Progress.—26. Function of religion and morals, with reference to the Law of the Ideal.—27.
-
-Conserving function, or function of the force of societies, with reference to the Law of Conservation. 28. The social media,
-
-with reference to the Law of Media CHAPTER III.—Sociography.—1. What Sociography is                      94 Section 1.—General Sociography.—2. Object of General                  95
-
-Sociography § 1.—Social states.—3 and 4. First social state.—5 and 6. Second      96
-
-social state.—7 and 8. Semi-barbarism.—9-11. State of semi-civilization.—12-16. Labour, Government, Education, Religion and Morals, and Public Force in semi-civilization.—17.
-
-Civilization.—18. The signs of Civilization.—19. The civilization of the Aryan family: that of the ancient Greeks.—20.
-
-That of the Italic branch.—21. Germanic civilization § 2.—Description of Labour.—22. What Labour is. Historical study. 115
-
-—22 bis. The basis of Labour. Application and adaptation of scientific, artistic and literary knowledge.—22 ter. Organic force of Labour § 3.—Description of Government.—23. What Government is. How it 118
-
-presents itself in the various social states.—24. The regime of law. Incomplete organization of its four elements § 4.—Description of Education.—25. Process of Education.—26 and 124
-
-27. Characteristics of Education. The organization of
-
-Instruction is one of the characteristics of our epoch § 5.—Description of Religion and Morals.—28. Religious beliefs.—29. 126
-
-Religious and moral ideas evolve with Society § 6.—Description of the Social Force.—30. What is [PDF 8] — 254 —
-
-Pages the Social Force. How it presents itself to us. What the purpose of 127
-
-its organization ought to be Section 2.—Description of Society as particular life.—31. 129
-
-The parts of the social organism § 1.—The Individual.—32. What the Individual is.—32 bis.             129
-
-Tendency of the Individual to complete himself with another being. The Vedas and Genesis. The social cell: man-woman-
-
-child.—32 ter. Evolution of the Individual in the Tribe § 2.—Description of the Family.—33. What the Family is.—34.          131
-
-When the Family appears among the Aryans and the Indo-
-
-Europeans.—35. The Family among the Mongols, Semites and
-
-Cainites.—36. First evolution.—37. Historical characteristics of some human families.—38. The Family is at the beginning of its evolution.—39 and 40. Part which the Family plays in the
-
-social organism. Ideal description of the group § 3.—Description of the Tribe.—41. The Tribe, considered physio‐     138
-
-logically.—42. The Tribe in History.—43. The case of Athens, of Rome and of the Italian Republics of the Middle Ages § 4.—Life of the Family, of the Tribe and of the Gens.—44. What “the 140
-
-Gens” is.—45. Historical evolution.—46. Attica, Argolis,
-
-Peloponnesus, Messenia and Macedonia Section 3.—Description of Society as potential force.—47. 141
-
-The two forces of Society. Capacities latent in every Society.—
-
-48. What Society can accomplish § 1.—Economic potency.—49. The economic order.—50 and 51. In 142
-
-what the economic potency of Society consists § 2.—Juridical potency.—52. The public order.—53. What the po‐ 144
-
-tency of law is § 3.—Pedagogical potency.—54. Society and common Education.— 146
-
-55. Human progress § 4.—Religious or moral potency.—56. Relative good.—57. Religions. 148
-
-—58. Evolution of religious ideas.—59. End of Religion.—
-
-Potency of religious beliefs and of moral ideas § 5.—Conserving potency.—60. In what this social force consists.     152
-
-How and towards what it is to be directed.
-
-[p. 255]
-
-Pages CHAPTER IV.—Sociorganology.—Study of the organs of Society 154 Section 1.—Vital organs                                                 154 § 1.—The Individual.—1. Part of the Individual in the social body.—2 154
-
-and 3. What the Individual would be in a scientific organization of
-
-Society § 2.—The Family.—4 and 5. What it is. The Family in History.—6. Its 156
-
-true flowering. § 3.—The Municipality.—7. It is the second social organ. Historical     158
-
-facts § 4.—The Region.—8. How it is constituted.—9. The Region in mod‐ 159
-
-ern nations § 5.—The Nation.—10. How nations are formed.—11. Occupation             161
-
-and possession.—12. The American nations.—13. Fundamental reason of a nation, according to the type of the American ones.—
-
-14. Occupation and possession in the Old World. 15. History and the constitution of nations. Section 2.—Institutional organs.—16. The action of Law in the 163
-
-social organism § 1.—Domestic Council.—17. What the Family Council is                   164 § 2.—Municipal Council and government of the Municipality.—18. What the 164
-
-Municipal Corporation is, and what it ought to be § 3.—Regional Council and regional Government.—19. The Region ought 165
-
-to have its own government.—20. The Region in the social
-
-economy § 4.—National Council and national Government.—21. The State.—22.       166
-
-The national Government in its beginnings.—23. Evolution of the
-
-national Government.—24. Forms of the national Government Section 3.—Applied Sociorganology                                       169 § 1.—The domestic State.—25. How it ought to be organized.—26.          169
-
-Consultative organ of the Family.—27. Domestic justice § 2.—The municipal State.—28. How it ought to be organized              170 § 3.—Regional or provincial State.—29. Want of reason in the disregard 171
-
-of this institution.—30. Sociorganology and the government of the
-
-Province § 4.—National State.—31. What it ought to be.—32. How “the State” 172
-
-ought to be organized.—33. The representative democratic State [PDF 10] — 256 —
-
-Pages § 5.—The international State.—34. It has not existed, nor does it   175
-
-yet exist.—35. “Christendom.”—36. The international State in the 19th century.—37. Two conceptions of the international State.—38. What it will have to be and how it ought to be organized.—39. How it may be attained.—40.
-
-Aspect of the problem CHAPTER V.—Sociopathy                                               182 Section 1.—Social diseases.—1. Why Society can suffer dis‐ 182
-
-eases.—2. Classification of social diseases.—3. Whence social
-
-diseases come.—4. What those diseases are § 1.—Diseases of an economic character.—5. Which they are.—6.       184
-
-Physiological misery.—7. The intertropical countries.—8.
-
-Cause of their state.—9. Social anaemia.—10. The case of some intertropical countries of Spanish origin.—11. Excess of population in some countries and cities. Pauperism § 2.—Diseases of a juridical character.—12-14. What the diseases of 188
-
-Law are.—15. The Latin-American Republics.—16. Which
-
-are the three political diseases.—16 bis-18. Petty politics § 3.—Diseases of an intellectual character.—19. Which they are.—    194
-
-20. Physical influences.—21. Climate. 22. Topography.—23.
-
-The scenic perspective.—24. Gymnosophist contemplation.
-
-—25. Satyriac sensualism § 4.—Diseases of a moral character.—26. What determines them.— 196
-
-27. Exacerbations of religious sentiment.—28. Nervous overexcitements of political passions.—29. Anarchism.—30.
-
-Social neurosis § 5.—Diseases of a mesological character.—31. Origins.—32.          198
-
-Withdrawal of the United States of North America within the American continent.—33. Influence which Sociology ought to exert upon the conservative tendencies of the
-
-American peoples Section 2.—Manner of preventing social diseases. Social hygiene.—34. What it is.—35. How it ought to act. Precepts.
-
-Prevention of economic diseases.—36. Preventive precept for
-
-[p. 257]
-
-Pages economic diseases.—37. The same for juridical ones.—38.       201
-
-Disturbances of progress.—39. Religious and moral disturbances.—40. Disturbances in the social force.—41. Influence which social Hygiene will have to have upon the development of societies Section 3.—Cure of social diseases. Social therapeutics.— 205
-
-42. How social diseases may be cured.—43. Cure of economic diseases.—44. Moral diseases.—45. Intellectual diseases
-
-## BOOK III
-
-Notions of Sociology.—Summary. Section 1.—Name of the Science.—Place which it occupies in 209
-
-the classification of the sciences.—What science it is and why Section 2.—Twofold classification of knowledge.—To which           211
-
-group Sociology belongs in each of these classifications Section 3.—Concrete sciences of the third group.—Which             213
-
-study ought to come first: that of the abstract sciences or that of the concrete? Section 4.—Newness and antiquity of Sociology.—Why, being 213
-
-an ancient science, it has not been organized until these days.
-
-—Relations of Polity with Sociology.—Relations between
-
-Sociology and History.—Evolutions of History. In which of
-
-them Sociology appears Section 5.—Method of Sociology                                     217 Section 6.—What is seen in philosophical History.—Whom one 218
-
-sees.—Data furnished to us by the life of the being that
-
-presents itself in History. Result of those data Section 7.—Induced truths.—Natural laws of Society                 220 Section 8.—Definition of the natural laws of Society.—Law of 222
-
-Sociability.—Law of Labour. Law of Liberty.—Law of
-
-Progress.—Law of Conservation.—Law of Civilization or of
-
-the Ideal Section 9.—What order is.—Order derived from the natural           230
-
-laws of Society.—Correspondence between laws and order
-
-[p. 258]
-
-Pages Section 10.—In what the natural order of Society con‐         236
-
-sists.—Whether Society ought to submit to it Section 11.—Division of Sociology into Theoretical and        238
-
-Practical Section 12.—Notions of theoretical Sociology.—The so‐         239
-
-cial being.—Organs that constitute it.—The most im‐
-
-portant of those organs Section 13.—Part which the Individual plays as a con‐         241
-
-stituent of Society.—Share which the particular end of every individual has in the general end of Society.—
-
-Individualist theory.—Socialist theory.—Sociocratic theory.—Organic theory.—What is to be thought of such
-
-theories Section 14.—Notions of practical Sociology                    245 Section 15.—Application of Sociology to Politics, to Art,     246
-
-to Science, to Religion and to Economy Contents                                                      251 Works by the same author. Some opinions of important newspapers. Opinions of some notable persons.
+## Contents
+
+- To the Reader · 5
+- Methodological Introduction · 9
+  To establish the method at once scientific and historical which is to be followed in this study. — 1–2. Method and procedures. — 3. What method is. — 4–19. What those procedures are. — 20. What the exposition of a science demands. — 21. The natural method of a science. — 22. The effective method. — 23. How a science ought to be studied. — 24. How we shall study Sociology. — 25. Plan.
+- Book I. Theoretical Sociology
+  - Chapter I. Intuitive Sociology · 21
+    1–4. Life in society. Social facts. — 5–11. What social facts are like. — 12–19. How they present themselves in History. — 20. Intuitive concept or judgment.
+  - Chapter II. Inductive Sociology · 28
+    1. Object of this chapter. — 2. Formula of the intuitive judgment on Society. — 3 and 4. Examination of this judgment. — 5–7. Functions of social life. — 8 and 9. The social order. — 10–22. Classification of the social functions. Justification of such a classification. — 23. Inductive judgment on Society.
+  - Chapter III. Deductive Sociology · 40
+    1. Formula of the inductive judgment on Society. — 2. Natural laws of Society. — 3. How many are the natural laws of Society. — 4. Which are the natural laws of Society. — 5 and 6. Classification of the natural laws of Society. — 7–12. Study of the Law of Sociability. — 13 and 14. Statement of the universal Law of Sociability. — 15. Study and statement of the universal Law of Labour. — 16. Universal Law of Liberty. Study and statement. — 17. Study and statement of the universal Law of Progress. — 18. Study and statement of the Law of the Ideal. — 19. Law of Conservation. Its study and statement. — 20. Law of Media. Examination and statement of it.
+  - Chapter IV. Systematic Sociology · 54
+    - Section 1. Materials of Sociology · 54
+      1. Themes to be linked together in order to constitute Social Science. — 2. What those themes are. — 3 and 4. Relation of social phenomena among themselves. — 5 and 6. Relation between sociotic facts and cosmic facts. — 7. Society. — 8. Labour. — 9 and 10. Government. — 11 and 12. Progress. — 13. The Ideal of the Good. — 14. Social Conservation. — 15. Sociability and the Media.
+    - Section 2. Work of systematization · 62
+      16. The bases for the scientific organization of Sociology. — 17. What would have to be done.
+- Book II. Expository Sociology
+  - Chapter I. Object of this Book. Definition and Division of Sociology · 65
+    1. Object of Expository Sociology. — 2. Definition of Sociology. — 3. Divisions of Sociology.
+  - Chapter II. Socionomy · 65
+    1. What is called Socionomy. — 2. Character of human Society.
+    - Section 1. Universal Laws of Society · 66
+      3. How many those laws are. — 4. Which they are. — 5. Classification of them. — 6. Constitutive law. — 7. Organic laws. — 8. First organic law. — 9. Second organic law. — 10. Third organic law. — 11. Fourth organic law. — 12. Fifth organic law. — 13. Law of procedure.
+    - Section 2. Statement of the Social Laws · 73
+      14. Why the social laws ought to be stated. — 15. Statement of the Law of Sociability. — 16. Statement of the Law of Labour. — 17. Statement of the Law of Liberty. — 18. Statement of the Law of Progress. — 19. Statement of the Law of the Ideal. — 20. Statement of the Law of Conservation. — 21. Statement of the Law of Media.
+    - Section 3. Social Order · 83
+      22. In what that order consists. — 23. Function of labour, with reference to the Law of Labour. — 24. Function of government, with reference to the Law of Liberty. — 25. Function of public education, in so far as governed by the Law of Progress. — 26. Function of religion and morals, with reference to the Law of the Ideal. — 27. Conserving function, or function of the force of societies, with reference to the Law of Conservation. — 28. The social media, with reference to the Law of Media.
+  - Chapter III. Sociography · 94
+    1. What Sociography is.
+    - Section 1. General Sociography · 95
+      2. Object of General Sociography.
+      - § 1. Social states · 96
+        3 and 4. First social state. — 5 and 6. Second social state. — 7 and 8. Semi-barbarism. — 9–11. State of semi-civilization. — 12–16. Labour, Government, Education, Religion and Morals, and Public Force in semi-civilization. — 17. Civilization. — 18. The signs of Civilization. — 19. The civilization of the Aryan family: that of the ancient Greeks. — 20. That of the Italic branch. — 21. Germanic civilization.
+      - § 2. Description of Labour · 115
+        22. What Labour is. Historical study. — 22 bis. The basis of Labour. Application and adaptation of scientific, artistic and literary knowledge. — 22 ter. Organic force of Labour.
+      - § 3. Description of Government · 118
+        23. What Government is. How it presents itself in the various social states. — 24. The regime of law. Incomplete organization of its four elements.
+      - § 4. Description of Education · 124
+        25. Process of Education. — 26 and 27. Characteristics of Education. The organization of Instruction is one of the characteristics of our epoch.
+      - § 5. Description of Religion and Morals · 126
+        28. Religious beliefs. — 29. Religious and moral ideas evolve with Society.
+      - § 6. Description of the Social Force · 127
+        30. What is the Social Force. How it presents itself to us. What the purpose of its organization ought to be.
+    - Section 2. Description of Society as particular life · 129
+      31. The parts of the social organism.
+      - § 1. The Individual · 129
+        32. What the Individual is. — 32 bis. Tendency of the Individual to complete himself with another being. The Vedas and Genesis. The social cell: man-woman-child. — 32 ter. Evolution of the Individual in the Tribe.
+      - § 2. Description of the Family · 131
+        33. What the Family is. — 34. When the Family appears among the Aryans and the Indo-Europeans. — 35. The Family among the Mongols, Semites and Cainites. — 36. First evolution. — 37. Historical characteristics of some human families. — 38. The Family is at the beginning of its evolution. — 39 and 40. Part which the Family plays in the social organism. Ideal description of the group.
+      - § 3. Description of the Tribe · 138
+        41. The Tribe, considered physiologically. — 42. The Tribe in History. — 43. The case of Athens, of Rome and of the Italian Republics of the Middle Ages.
+      - § 4. Life of the Family, of the Tribe and of the Gens · 140
+        44. What “the Gens” is. — 45. Historical evolution. — 46. Attica, Argolis, Peloponnesus, Messenia and Macedonia.
+    - Section 3. Description of Society as potential force · 141
+      47. The two forces of Society. Capacities latent in every Society. — 48. What Society can accomplish.
+      - § 1. Economic potency · 142
+        49. The economic order. — 50 and 51. In what the economic potency of Society consists.
+      - § 2. Juridical potency · 144
+        52. The public order. — 53. What the potency of law is.
+      - § 3. Pedagogical potency · 146
+        54. Society and common Education. — 55. Human progress.
+      - § 4. Religious or moral potency · 148
+        56. Relative good. — 57. Religions. — 58. Evolution of religious ideas. — 59. End of Religion. Potency of religious beliefs and of moral ideas.
+      - § 5. Conserving potency · 152
+        60. In what this social force consists. How and towards what it is to be directed.
+  - Chapter IV. Sociorganology. Study of the organs of Society · 154
+    - Section 1. Vital organs · 154
+      - § 1. The Individual · 154
+        1. Part of the Individual in the social body. — 2 and 3. What the Individual would be in a scientific organization of Society.
+      - § 2. The Family · 156
+        4 and 5. What it is. The Family in History. — 6. Its true flowering.
+      - § 3. The Municipality · 158
+        7. It is the second social organ. Historical facts.
+      - § 4. The Region · 159
+        8. How it is constituted. — 9. The Region in modern nations.
+      - § 5. The Nation · 161
+        10. How nations are formed. — 11. Occupation and possession. — 12. The American nations. — 13. Fundamental reason of a nation, according to the type of the American ones. — 14. Occupation and possession in the Old World. — 15. History and the constitution of nations.
+    - Section 2. Institutional organs · 163
+      16. The action of Law in the social organism.
+      - § 1. Domestic Council · 164
+        17. What the Family Council is.
+      - § 2. Municipal Council and government of the Municipality · 164
+        18. What the Municipal Corporation is, and what it ought to be.
+      - § 3. Regional Council and regional Government · 165
+        19. The Region ought to have its own government. — 20. The Region in the social economy.
+      - § 4. National Council and national Government · 166
+        21. The State. — 22. The national Government in its beginnings. — 23. Evolution of the national Government. — 24. Forms of the national Government.
+    - Section 3. Applied Sociorganology · 169
+      - § 1. The domestic State · 169
+        25. How it ought to be organized. — 26. Consultative organ of the Family. — 27. Domestic justice.
+      - § 2. The municipal State · 170
+        28. How it ought to be organized.
+      - § 3. Regional or provincial State · 171
+        29. Want of reason in the disregard of this institution. — 30. Sociorganology and the government of the Province.
+      - § 4. National State · 172
+        31. What it ought to be. — 32. How “the State” ought to be organized. — 33. The representative democratic State.
+      - § 5. The international State · 175
+        34. It has not existed, nor does it yet exist. — 35. “Christendom.” — 36. The international State in the 19th century. — 37. Two conceptions of the international State. — 38. What it will have to be and how it ought to be organized. — 39. How it may be attained. — 40. Aspect of the problem.
+  - Chapter V. Sociopathy · 182
+    - Section 1. Social diseases · 182
+      1. Why Society can suffer diseases. — 2. Classification of social diseases. — 3. Whence social diseases come. — 4. What those diseases are.
+      - § 1. Diseases of an economic character · 184
+        5. Which they are. — 6. Physiological misery. — 7. The intertropical countries. — 8. Cause of their state. — 9. Social anaemia. — 10. The case of some intertropical countries of Spanish origin. — 11. Excess of population in some countries and cities. Pauperism.
+      - § 2. Diseases of a juridical character · 188
+        12–14. What the diseases of Law are. — 15. The Latin-American Republics. — 16. Which are the three political diseases. — 16 bis–18. Petty politics.
+      - § 3. Diseases of an intellectual character · 194
+        19. Which they are. — 20. Physical influences. — 21. Climate. — 22. Topography. — 23. The scenic perspective. — 24. Gymnosophist contemplation. — 25. Satyriac sensualism.
+      - § 4. Diseases of a moral character · 196
+        26. What determines them. — 27. Exacerbations of religious sentiment. — 28. Nervous overexcitements of political passions. — 29. Anarchism. — 30. Social neurosis.
+      - § 5. Diseases of a mesological character · 198
+        31. Origins. — 32. Withdrawal of the United States of North America within the American continent. — 33. Influence which Sociology ought to exert upon the conservative tendencies of the American peoples.
+    - Section 2. Manner of preventing social diseases. Social hygiene · 201
+      34. What it is. — 35. How it ought to act. Precepts. Prevention of economic diseases. — 36. Preventive precept for economic diseases. — 37. The same for juridical ones. — 38. Disturbances of progress. — 39. Religious and moral disturbances. — 40. Disturbances in the social force. — 41. Influence which social Hygiene will have to have upon the development of societies.
+    - Section 3. Cure of social diseases. Social therapeutics · 205
+      42. How social diseases may be cured. — 43. Cure of economic diseases. — 44. Moral diseases. — 45. Intellectual diseases.
+- Book III. Notions of Sociology (Summary)
+  - Section 1. Name of the Science · 209
+    Place which it occupies in the classification of the sciences. — What science it is and why.
+  - Section 2. Twofold classification of knowledge · 211
+    To which group Sociology belongs in each of these classifications.
+  - Section 3. Concrete sciences of the third group · 213
+    Which study ought to come first: that of the abstract sciences or that of the concrete?
+  - Section 4. Newness and antiquity of Sociology · 213
+    Why, being an ancient science, it has not been organized until these days. — Relations of Polity with Sociology. — Relations between Sociology and History. — Evolutions of History. In which of them Sociology appears.
+  - Section 5. Method of Sociology · 217
+  - Section 6. What is seen in philosophical History · 218
+    Whom one sees. — Data furnished to us by the life of the being that presents itself in History. Result of those data.
+  - Section 7. Induced truths. Natural laws of Society · 220
+  - Section 8. Definition of the natural laws of Society · 222
+    Law of Sociability. — Law of Labour. — Law of Liberty. — Law of Progress. — Law of Conservation. — Law of Civilization or of the Ideal.
+  - Section 9. What order is · 230
+    Order derived from the natural laws of Society. — Correspondence between laws and order.
+  - Section 10. In what the natural order of Society consists · 236
+    Whether Society ought to submit to it.
+  - Section 11. Division of Sociology into Theoretical and Practical · 238
+  - Section 12. Notions of theoretical Sociology · 239
+    The social being. — Organs that constitute it. — The most important of those organs.
+  - Section 13. Part which the Individual plays as a constituent of Society · 241
+    Share which the particular end of every individual has in the general end of Society. — Individualist theory. — Socialist theory. — Sociocratic theory. — Organic theory. — What is to be thought of such theories.
+  - Section 14. Notions of practical Sociology · 245
+  - Section 15. Application of Sociology to Politics, to Art, to Science, to Religion and to Economy · 246
+- Contents · 251
+- Works by the same author
+  Some opinions of important newspapers. Opinions of some notable persons.
 
 [PDF 13]
 
@@ -2400,261 +2292,9 @@ What is said of the sciences and activities enumerated is said, also, of any oth
 
 ## THE END
 
-[PDF 259]
+[p. 251]
 
-Pages To the Reader                                                       5 Methodological Introduction to establish the method at              9
-
-once scientific and historical which is to be followed in this study.—1-2. Method and procedures.—3. What method is.—4-19. What those procedures are.—20. What the exposition of a science demands.—21. The natural method of a science.—22. The effective method.—23. How a science ought to be studied.—24. How we shall study Sociology.—25. Plan
-
-## BOOK I
-
-Theoretical Sociology. CHAPTER I.—Intuitive Sociology.—1-4. Life in society.              21 Social facts.—5-11. What social facts are like.—12-19. How they present themselves in History.—20. Intuitive concept or judgment CHAPTER II.—Inductive Sociology.—1. Object of this                 28 chapter.—2. Formula of the intuitive judgment on Society.—3 and 4. Examination of this judgment. 5-7. Functions of social life.—8 and 9. The social order.—10-22. Classification of the social functions. Justification of such a classification.—23. Inductive judgment on Society CHAPTER III.—Deductive Sociology.—1. Formula of the inductive judgment on Society.—2. Natural laws of Society.— 3. How many are the natural laws of Society.—4. Which are the natural laws of Society.—5 and 6. Classification of the natural laws of Society.
-
-[p. 252]
-
-Pages 7-12. Study of the Law of Sociability.—13 and 14. Statement of      40
-
-the universal Law of Sociability.—15. Study and statement of the universal Law of Labour.—16. Universal Law of Liberty.
-
-Study and statement.—17. Study and statement of the universal Law of Progress.—18. Study and statement of the Law of the Ideal.—19. Law of Conservation. Its study and statement.
-
-—20. Law of Media. Examination and statement of it CHAPTER IV.—Systematic Sociology                                    54 Section 1.—Materials of Sociology.—1. Themes to be linked           54
-
-together in order to constitute Social Science. 2. What those themes are.—3 and 4. Relation of social phenomena among themselves.—5 and 6. Relation between sociotic facts and cosmic facts.—7. Society.—8. Labour.—9 and 10. Government.—
-
-11 and 12. Progress.—13. The Ideal of the Good.—14. Social
-
-Conservation.—15. Sociability and the Media Section 2.—Work of systematization.—16. The bases for the           62
-
-scientific organization of Sociology.—17. What would have to be done
-
-## BOOK II
-
-Expository Sociology. CHAPTER I.—Object of this Book. Definition and Division             65
-
-of Sociology.—1. Object of Expository Sociology.—2.
-
-Definition of Sociology. 3. Divisions of Sociology CHAPTER II.—Socionomy.—1. What is called Socionomy.—2.              65
-
-Character of human Society Section 1.—Universal Laws of Society.—3. How many those             66
-
-laws are.—4. Which they are.—5. Classification of them.—6.
-
-Constitutive law.—7. Organic laws.—8. First organic law.—9.
-
-Second organic law.—10. Third organic law.—11. Fourth organic law.—12. Fifth organic law.—13. Law of procedure Section 2.—Statement of the Social Laws.—14. Why the so‐
-
-cial laws ought to be stated.—15. Statement of the Law of
-
-Sociability.—16. Statement of the Law of Labour.—17.
-
-Statement
-
-[p. 253]
-
-Pages of the Law of Liberty.—18. Statement of the Law of Progress.— 73
-
-19. Statement of the Law of the Ideal.—20. Statement of the
-
-Law of Conservation.—21. Statement of the Law of Media Section 3.—Social Order.—22. In what that order consists.— 83
-
-23. Function of labour, with reference to the Law of Labour.—
-
-24. Function of government, with reference to the Law of
-
-Liberty.—25. Function of public education, in so far as governed by the Law of Progress.—26. Function of religion and morals, with reference to the Law of the Ideal.—27.
-
-Conserving function, or function of the force of societies, with reference to the Law of Conservation. 28. The social media,
-
-with reference to the Law of Media CHAPTER III.—Sociography.—1. What Sociography is                      94 Section 1.—General Sociography.—2. Object of General                  95
-
-Sociography § 1.—Social states.—3 and 4. First social state.—5 and 6. Second      96
-
-social state.—7 and 8. Semi-barbarism.—9-11. State of semi-civilization.—12-16. Labour, Government, Education, Religion and Morals, and Public Force in semi-civilization.—17.
-
-Civilization.—18. The signs of Civilization.—19. The civilization of the Aryan family: that of the ancient Greeks.—20.
-
-That of the Italic branch.—21. Germanic civilization § 2.—Description of Labour.—22. What Labour is. Historical study. 115
-
-—22 bis. The basis of Labour. Application and adaptation of scientific, artistic and literary knowledge.—22 ter. Organic force of Labour § 3.—Description of Government.—23. What Government is. How it 118
-
-presents itself in the various social states.—24. The regime of law. Incomplete organization of its four elements § 4.—Description of Education.—25. Process of Education.—26 and 124
-
-27. Characteristics of Education. The organization of
-
-Instruction is one of the characteristics of our epoch § 5.—Description of Religion and Morals.—28. Religious beliefs.—29. 126
-
-Religious and moral ideas evolve with Society § 6.—Description of the Social Force.—30. What is [PDF 262] — 254 —
-
-Pages the Social Force. How it presents itself to us. What the purpose of 127
-
-its organization ought to be Section 2.—Description of Society as particular life.—31. 129
-
-The parts of the social organism § 1.—The Individual.—32. What the Individual is.—32 bis.             129
-
-Tendency of the Individual to complete himself with another being. The Vedas and Genesis. The social cell: man-woman-
-
-child.—32 ter. Evolution of the Individual in the Tribe § 2.—Description of the Family.—33. What the Family is.—34.          131
-
-When the Family appears among the Aryans and the Indo-
-
-Europeans.—35. The Family among the Mongols, Semites and
-
-Cainites.—36. First evolution.—37. Historical characteristics of some human families.—38. The Family is at the beginning of its evolution.—39 and 40. Part which the Family plays in the
-
-social organism. Ideal description of the group § 3.—Description of the Tribe.—41. The Tribe, considered physio‐     138
-
-logically.—42. The Tribe in History.—43. The case of Athens, of Rome and of the Italian Republics of the Middle Ages § 4.—Life of the Family, of the Tribe and of the Gens.—44. What “the 140
-
-Gens” is.—45. Historical evolution.—46. Attica, Argolis,
-
-Peloponnesus, Messenia and Macedonia Section 3.—Description of Society as potential force.—47. 141
-
-The two forces of Society. Capacities latent in every Society.—
-
-48. What Society can accomplish § 1.—Economic potency.—49. The economic order.—50 and 51. In 142
-
-what the economic potency of Society consists § 2.—Juridical potency.—52. The public order.—53. What the po‐ 144
-
-tency of law is § 3.—Pedagogical potency.—54. Society and common Education.— 146
-
-55. Human progress § 4.—Religious or moral potency.—56. Relative good.—57. Religions. 148
-
-—58. Evolution of religious ideas.—59. End of Religion.—
-
-Potency of religious beliefs and of moral ideas § 5.—Conserving potency.—60. In what this social force consists.     152
-
-How and towards what it is to be directed.
-
-[p. 255]
-
-Pages CHAPTER IV.—Sociorganology.—Study of the organs of Society 154 Section 1.—Vital organs                                                 154 § 1.—The Individual.—1. Part of the Individual in the social body.—2 154
-
-and 3. What the Individual would be in a scientific organization of
-
-Society § 2.—The Family.—4 and 5. What it is. The Family in History.—6. Its 156
-
-true flowering. § 3.—The Municipality.—7. It is the second social organ. Historical     158
-
-facts § 4.—The Region.—8. How it is constituted.—9. The Region in mod‐ 159
-
-ern nations § 5.—The Nation.—10. How nations are formed.—11. Occupation             161
-
-and possession.—12. The American nations.—13. Fundamental reason of a nation, according to the type of the American ones.—
-
-14. Occupation and possession in the Old World. 15. History and the constitution of nations. Section 2.—Institutional organs.—16. The action of Law in the 163
-
-social organism § 1.—Domestic Council.—17. What the Family Council is                   164 § 2.—Municipal Council and government of the Municipality.—18. What the 164
-
-Municipal Corporation is, and what it ought to be § 3.—Regional Council and regional Government.—19. The Region ought 165
-
-to have its own government.—20. The Region in the social
-
-economy § 4.—National Council and national Government.—21. The State.—22.       166
-
-The national Government in its beginnings.—23. Evolution of the
-
-national Government.—24. Forms of the national Government Section 3.—Applied Sociorganology                                       169 § 1.—The domestic State.—25. How it ought to be organized.—26.          169
-
-Consultative organ of the Family.—27. Domestic justice § 2.—The municipal State.—28. How it ought to be organized              170 § 3.—Regional or provincial State.—29. Want of reason in the disregard 171
-
-of this institution.—30. Sociorganology and the government of the
-
-Province § 4.—National State.—31. What it ought to be.—32. How “the State” 172
-
-ought to be organized.—33. The representative democratic State [PDF 264] — 256 —
-
-Pages § 5.—The international State.—34. It has not existed, nor does it   175
-
-yet exist.—35. “Christendom.”—36. The international State in the 19th century.—37. Two conceptions of the international State.—38. What it will have to be and how it ought to be organized.—39. How it may be attained.—40.
-
-Aspect of the problem CHAPTER V.—Sociopathy                                               182 Section 1.—Social diseases.—1. Why Society can suffer dis‐ 182
-
-eases.—2. Classification of social diseases.—3. Whence social
-
-diseases come.—4. What those diseases are § 1.—Diseases of an economic character.—5. Which they are.—6.       184
-
-Physiological misery.—7. The intertropical countries.—8.
-
-Cause of their state.—9. Social anaemia.—10. The case of some intertropical countries of Spanish origin.—11. Excess of population in some countries and cities. Pauperism § 2.—Diseases of a juridical character.—12-14. What the diseases of 188
-
-Law are.—15. The Latin-American Republics.—16. Which
-
-are the three political diseases.—16 bis-18. Petty politics § 3.—Diseases of an intellectual character.—19. Which they are.—    194
-
-20. Physical influences.—21. Climate. 22. Topography.—23.
-
-The scenic perspective.—24. Gymnosophist contemplation.
-
-—25. Satyriac sensualism § 4.—Diseases of a moral character.—26. What determines them.— 196
-
-27. Exacerbations of religious sentiment.—28. Nervous overexcitements of political passions.—29. Anarchism.—30.
-
-Social neurosis § 5.—Diseases of a mesological character.—31. Origins.—32.          198
-
-Withdrawal of the United States of North America within the American continent.—33. Influence which Sociology ought to exert upon the conservative tendencies of the
-
-American peoples Section 2.—Manner of preventing social diseases. Social hygiene.—34. What it is.—35. How it ought to act. Precepts.
-
-Prevention of economic diseases.—36. Preventive precept for
-
-[p. 257]
-
-Pages economic diseases.—37. The same for juridical ones.—38.       201
-
-Disturbances of progress.—39. Religious and moral disturbances.—40. Disturbances in the social force.—41. Influence which social Hygiene will have to have upon the development of societies Section 3.—Cure of social diseases. Social therapeutics.— 205
-
-42. How social diseases may be cured.—43. Cure of economic diseases.—44. Moral diseases.—45. Intellectual diseases
-
-## BOOK III
-
-Notions of Sociology.—Summary. Section 1.—Name of the Science.—Place which it occupies in 209
-
-the classification of the sciences.—What science it is and why Section 2.—Twofold classification of knowledge.—To which           211
-
-group Sociology belongs in each of these classifications Section 3.—Concrete sciences of the third group.—Which             213
-
-study ought to come first: that of the abstract sciences or that of the concrete? Section 4.—Newness and antiquity of Sociology.—Why, being 213
-
-an ancient science, it has not been organized until these days.
-
-—Relations of Polity with Sociology.—Relations between
-
-Sociology and History.—Evolutions of History. In which of
-
-them Sociology appears Section 5.—Method of Sociology                                     217 Section 6.—What is seen in philosophical History.—Whom one 218
-
-sees.—Data furnished to us by the life of the being that
-
-presents itself in History. Result of those data Section 7.—Induced truths.—Natural laws of Society                 220 Section 8.—Definition of the natural laws of Society.—Law of 222
-
-Sociability.—Law of Labour. Law of Liberty.—Law of
-
-Progress.—Law of Conservation.—Law of Civilization or of
-
-the Ideal Section 9.—What order is.—Order derived from the natural           230
-
-laws of Society.—Correspondence between laws and order
-
-[p. 258]
-
-Pages Section 10.—In what the natural order of Society con‐         236
-
-sists.—Whether Society ought to submit to it Section 11.—Division of Sociology into Theoretical and        238
-
-Practical Section 12.—Notions of theoretical Sociology.—The so‐         239
-
-cial being.—Organs that constitute it.—The most im‐
-
-portant of those organs Section 13.—Part which the Individual plays as a con‐         241
-
-stituent of Society.—Share which the particular end of every individual has in the general end of Society.—
-
-Individualist theory.—Socialist theory.—Sociocratic theory.—Organic theory.—What is to be thought of such
-
-theories Section 14.—Notions of practical Sociology                    245 Section 15.—Application of Sociology to Politics, to Art,     246
-
-to Science, to Religion and to Economy Contents                                                      251 Works by the same author. Some opinions of important newspapers. Opinions of some notable persons.
+*The contents (pp. 251–258) are given at the beginning of this edition.*
 
 [PDF 267]
 

@@ -49,6 +49,11 @@ input[type=search]{flex:1;min-width:14rem}.controls .n{color:var(--muted);font-s
 .row .m{color:var(--muted);font-size:.82rem;white-space:nowrap;text-align:right}.row .m .chip{margin-left:.35rem}
 .hidden{display:none!important}
 /* text page */
+.card{scroll-margin-top:4.5rem}.cl{list-style:none;margin:.6rem 0 1.2rem;padding:0;max-width:46rem}.cl li{margin:.3rem 0;padding-left:calc(var(--d,0)*1.3rem)}
+.cl .it{display:flex;align-items:baseline;gap:.45rem;color:var(--ink)}.cl a.it:hover{text-decoration:none}.cl a.it:hover .t{color:var(--accent)}
+.cl .dots{flex:1;min-width:1.2rem;border-bottom:1px dotted var(--muted);opacity:.55;transform:translateY(-.3em)}.cl .n{min-width:2em;text-align:right;color:var(--muted);font-variant-numeric:oldstyle-nums}
+.cl a.it .n{color:var(--accent)}.cl li.grp{margin-top:1rem}.cl li.grp .t{font-variant:small-caps;letter-spacing:.04em;font-size:1.05em}
+.cl .sum{margin:.05rem 2.6rem .25rem 0;font-size:.86em;line-height:1.45;color:var(--muted)}
 .page{display:grid;grid-template-columns:var(--side-w,250px) 10px minmax(0,1fr);gap:0 1rem;--side-w:250px;--cm-w:300px}
 .hdl{cursor:col-resize;border-radius:4px;background:transparent;position:relative}.hdl::after{content:"";position:absolute;top:0;bottom:0;left:4px;width:2px;background:var(--line);border-radius:2px}.hdl:hover::after,.hdl.on::after{background:var(--accent)}
 .hdl.r{display:none}body.an-with-comments .hdl.r{display:block}body.resizing{user-select:none;cursor:col-resize}
@@ -281,6 +286,59 @@ def cut_pair(o, e):
     return list(zip(pieces(o, [c[0] for c in cuts]), pieces(e, [c[1] for c in cuts])))
 
 
+def contents_list(p):
+    """a Markdown list ('- title · page', two spaces of indent per level, an indented plain line under an item is its summary)
+    -> a table of contents with dot leaders; page numbers become links once resolve_pages knows the cards"""
+    items = []
+    for l in p.split('\n'):
+        m = re.match(r'(\s*)- (.*)$', l)
+        if m:
+            t = m.group(2).strip(); pm = re.match(r'(.*?)\s+·\s+(\d+|[IVXLCDMivxlcdm]+|ibid\.?)$', t)
+            items.append({'d': len(m.group(1).expandtabs(2)) // 2, 't': pm.group(1) if pm else t, 'n': pm.group(2) if pm else '', 's': []})
+        elif items:
+            items[-1]['s'].append(l.strip())
+    out, last = [], ''
+    for it in items:
+        n = last if it['n'].startswith('ibid') else it['n']
+        last = n or last
+        t = f'<span class="t">{md_inline(it["t"])}</span>'
+        row = (f'<a class="it" href="#@{html.escape(n)}">{t}<span class="dots"></span><span class="n">{html.escape(it["n"])}</span></a>' if n
+               else f'<span class="it">{t}</span>')
+        s = f'<div class="sum">{md_inline(" ".join(it["s"]))}</div>' if it['s'] else ''
+        out.append(f'<li class="{"grp" if not n else ""}" style="--d:{it["d"]}">{row}{s}</li>')
+    return f'<ul class="cl">{"".join(out)}</ul>'
+
+
+def resolve_pages(cards):
+    """point '#@N' links at the card where printed page N begins: '[p. N]' labels first, then '[PDF M]' labels through
+    the file's usual PDF-to-printed offset (read off the places where a '[PDF M]' card is followed by a '[p. N]' one)"""
+    if not any(c.get('toc') for c in cards):
+        return
+    where, offs = {}, {}
+    for a, b in zip(cards, cards[1:]):
+        ma, mb = re.fullmatch(r'PDF (\d+)', a['label']), re.fullmatch(r'p\. (\d+)', b['label'])
+        if ma and mb:
+            o = int(ma.group(1)) + 1 - int(mb.group(1)); offs[o] = offs.get(o, 0) + 1
+    off = max(offs, key=offs.get) if offs else None
+    if off is not None and (offs[off] < 3 or offs[off] < .6 * sum(offs.values())):
+        off = None
+    for c in cards:
+        m = re.fullmatch(r'p\. (\S+)', c['label'])
+        if m and not c.get('toc'):
+            where.setdefault(m.group(1), c['id'])
+    if off is not None:
+        for c in cards:
+            m = re.fullmatch(r'PDF (\d+)', c['label'])
+            if m and not c.get('toc') and int(m.group(1)) > off:
+                where.setdefault(str(int(m.group(1)) - off), c['id'])
+    def fix(m):
+        cid = where.get(html.unescape(m.group(1)))
+        return f'<a class="it" href="#{cid}">' if cid else '<a class="it">'
+    for c in cards:
+        if c.get('toc'):
+            c['e'] = [re.sub(r'<a class="it" href="#@([^"]*)">', fix, x) for x in c['e']]
+
+
 def render(path, s):
     """path: where the text lives (or would, for an edition kept as a folder); s: its interleaved Markdown"""
     rel = os.path.relpath(path, C)[:-3]
@@ -401,6 +459,9 @@ def render(path, s):
             if txt:
                 cur['on' if note else 'o'].append(f'<p>{md_inline(txt)}</p>')
             continue
+        if (re.match(r'- ', p) and all(re.match(r'\s*- |\s+\S', l) for l in p.split('\n')[1:])
+                and re.search(r'^\s*- .*\s·\s+(\d+|[IVXLCDMivxlcdm]+)$', p, re.M)):      # a contents list: items end in '· page'
+            cur['e'].append(contents_list(p)); cur['toc'] = 1; continue
         im = ANYMARK.search(p)
         if printed_orig:
             if im and im.start() == 0 and not NOTE.match(p):      # a piece cut at a mark opens that page's card
@@ -424,6 +485,7 @@ def render(path, s):
         if not c['label']:
             m2 = ANYMARK.search(' '.join(c['o'] + c['e']))
             c['label'] = m2.group(0)[1:-1] if m2 else ''
+    resolve_pages(cards)
     general, by_page = load_notes(rel)
     ol = g('original_language') or 'de'
     seen = set()
