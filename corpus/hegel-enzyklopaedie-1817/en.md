@@ -44,203 +44,93 @@ Heidelberg, May 1817.
 
 ### Contents.
 
-Page.
-
-Introduction 3
-
-A.
-
-#### The Science of Logic.
-
-3–126
-
-Preliminary Concept 15
-
-Part One. The Doctrine of Being 33–49
-
-A. Quality 33–43
-
-a. Being 33
-
-b. Determinate Being 39
-
-c. Being-for-itself 42
-
-[p. XII]
-
-Page.
-
-B. Quantity 44–47
-
-a. Pure Quantity 44–47
-
-b. Quantum 45
-
-c. Degree 46
-
-C. Measure 48–49
-
-Part Two. The Doctrine of Essence 50–77
-
-A. The Pure Determinations of Reflection 51–58
-
-a. Identity 51
-
-b. Difference 53
-
-c. Ground 57
-
-B. Appearance 59–67
-
-a. Existence 59
-
-b. Appearance 61
-
-c. Relationship 62
-
-C. Actuality 67–77
-
-a. Substantiality 70
-
-b. Causality 71
-
-c. Reciprocal Action 73
-
-[p. XIII]
-
-Page.
-
-Part Three. The Doctrine of the Concept 78–126
-
-A. The Subjective Concept 78–100
-
-a. Concept 80
-
-b. Judgment 83
-
-c. Syllogism 91
-
-B. The Object 100–110
-
-a. Mechanism 101
-
-b. Chemism 103
-
-c. Teleology 105
-
-C. The Idea 110–126
-
-a. Life 115
-
-b. Cognition 117
-
-c. Absolute Idea 123
-
-B.
-
-#### The Philosophy of Nature.
-
-127–294
-
-Part One. Mathematics 130–141
-
-Part Two. The Physics of the Inorganic 142–180
-
-A. Mechanics 143–152
-
-[p. XIV]
-
-Page.
-
-B. Elemental Physics 152–163
-
-a. Elemental Bodies 153
-
-b. Elements 159
-
-c. Elemental Process 161
-
-C. Individual Physics 164–180
-
-a. Shape 164
-
-b. Particularization of Bodies 170
-
-c. Process of Individuation 174
-
-Part Three. The Physics of the Organic
-
-180–204
-
-A. Geological Nature 181–182
-
-B. Vegetable Nature 183–185
-
-C. The Animal Organism 185–204
-
-C.
-
-#### The Philosophy of Spirit
-
-205 to the end.
-
-Part One. Subjective Spirit 209–256
-
-A. The Soul 209
-
-a. Natural Determinacy of the Soul 212
-
-b. Opposition of the Soul to Its Substantiality 215
-
-c. Actuality of the Soul 221
-
-[p. XV]
-
-Page.
-
-B. Consciousness 223
-
-a. Consciousness as Such 223
-
-b. Self-Consciousness 229
-
-c. Reason 234
-
-C. Spirit 235
-
-a. Theoretical Spirit 238
-
-1) Feeling. 2) Representation … Thinking 241, 243–249
-
-b. Practical Spirit 251
-
-1) Practical Feeling. 2) Drive … and Inclination. 3) Happiness 251, 254–256.
-
-Part Two. Objective Spirit 259
-
-A. Right 260
-
-B. Morality 265
-
-C. Ethical Life 270
-
-1. The Individual Nation 275
-
-2. External Public Law ibid.
-
-3. Universal World History 276
+- Introduction · 3 @scan 24
+- A. The Science of Logic · 3–126 @p. 15
+  - Preliminary Concept · 15
+  - Part One. The Doctrine of Being · 33–49
+    - A. Quality · 33–43
+      - a. Being · 33
+      - b. Determinate Being · 39
+      - c. Being-for-itself · 42
+    - B. Quantity · 44–47
+      - a. Pure Quantity · 44–47
+      - b. Quantum · 45
+      - c. Degree · 46
+    - C. Measure · 48–49
+  - Part Two. The Doctrine of Essence · 50–77
+    - A. The Pure Determinations of Reflection · 51–58
+      - a. Identity · 51
+      - b. Difference · 53
+      - c. Ground · 57
+    - B. Appearance · 59–67
+      - a. Existence · 59
+      - b. Appearance · 61
+      - c. Relationship · 62
+    - C. Actuality · 67–77
+      - a. Substantiality · 70
+      - b. Causality · 71
+      - c. Reciprocal Action · 73
+  - Part Three. The Doctrine of the Concept · 78–126
+    - A. The Subjective Concept · 78–100
+      - a. Concept · 80
+      - b. Judgment · 83
+      - c. Syllogism · 91
+    - B. The Object · 100–110
+      - a. Mechanism · 101
+      - b. Chemism · 103
+      - c. Teleology · 105
+    - C. The Idea · 110–126
+      - a. Life · 115
+      - b. Cognition · 117
+      - c. Absolute Idea · 123
+- B. The Philosophy of Nature · 127–294
+  - Part One. Mathematics · 130–141
+  - Part Two. The Physics of the Inorganic · 142–180
+    - A. Mechanics · 143–152
+    - B. Elemental Physics · 152–163
+      - a. Elemental Bodies · 153
+      - b. Elements · 159
+      - c. Elemental Process · 161
+    - C. Individual Physics · 164–180
+      - a. Shape · 164
+      - b. Particularization of Bodies · 170
+      - c. Process of Individuation · 174
+  - Part Three. The Physics of the Organic · 180–204
+    - A. Geological Nature · 181–182
+    - B. Vegetable Nature · 183–185
+    - C. The Animal Organism · 185–204
+- C. The Philosophy of Spirit (to the end) · 205
+  - Part One. Subjective Spirit · 209–256
+    - A. The Soul · 209
+      - a. Natural Determinacy of the Soul · 212
+      - b. Opposition of the Soul to Its Substantiality · 215
+      - c. Actuality of the Soul · 221
+    - B. Consciousness · 223
+      - a. Consciousness as Such · 223
+      - b. Self-Consciousness · 229
+      - c. Reason · 234
+    - C. Spirit · 235
+      - a. Theoretical Spirit · 238
+        - 1) Feeling · 241
+        - 2) Representation · 243
+        - 3) Thinking · 249
+      - b. Practical Spirit · 251
+        - 1) Practical Feeling · 251
+        - 2) Drive and Inclination · 254
+        - 3) Happiness · 256
+  - Part Two. Objective Spirit · 259
+    - A. Right · 260
+    - B. Morality · 265
+    - C. Ethical Life · 270
+      - 1. The Individual Nation · 275
+      - 2. External Public Law · ibid.
+      - 3. Universal World History · 276
+  - Part Three. Absolute Spirit · 279
+    - a. Religion of Art · 280
+    - b. Revealed Religion · 283
+    - c. Philosophy · 286
 
 [p. XVI]
-
-Page.
-
-Part Three. Absolute Spirit 279
-
-a. Religion of Art 280
-
-b. Revealed Religion 283
-
-c. Philosophy 286
 
 Note. Owing to the distance of the place of printing, it has come about that the *second* and *third* divisions of the whole, B *the Philosophy of Nature* p. 127 and C *the Philosophy of Spirit* p. 205, are not marked by separate title pages.
 

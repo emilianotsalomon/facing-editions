@@ -46,33 +46,14 @@ Halle, the 23rd of December 1719.
 
 [scan 15]
 
-## Contents
+## Contents of the Whole Book
 
-#### of the Whole Book.
-
-#### Chapter 1.
-
-#### How we know that we are, and what use this cognition is to us.
-
-#### Chapter 2.
-
-#### On the first principles of our cognition and of all things in general.
-
-#### Chapter 3.
-
-#### On the soul in general, namely what we perceive of it.
-
-#### Chapter 4.
-
-#### On the world.
-
-#### Chapter 5.
-
-#### On the essence of the soul and of a spirit in general.
-
-#### Chapter 6.
-
-#### On God.
+- Chapter 1. How we know that we are, and what use this cognition is to us.
+- Chapter 2. On the first principles of our cognition and of all things in general.
+- Chapter 3. On the soul in general, namely what we perceive of it.
+- Chapter 4. On the world.
+- Chapter 5. On the essence of the soul and of a spirit in general.
+- Chapter 6. On God.
 
 [scan 16]
 

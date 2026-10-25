@@ -116,17 +116,12 @@ Inhaltsanzeige.
 
 ### Contents.
 
-Vorerinnerung.
-
-Einleitung. 4 5.1-12
-
-I. Das Nichtwiſſen. 13 -47
-
-II. Das absolute Wissen. -48-115
-
-III. Glauben und Wissen. 116-189
-
-Nachwort -190 -195
+- Vorerinnerung.
+- Einleitung · 1–12 @scan 15
+- I. Das Nichtwissen · 13–47 @scan 27
+- II. Das absolute Wissen · 48–115
+- III. Glauben und Wissen · 116–189
+- Nachwort · 190–195
 
 ,,Niemand betrüge Ach selbst. Melcher Ach unter euch 1 dünket weife,, » Denn zu seyn dieser, der Welt werde Weisheit ein Karr in it dieser Thorheit Welt bey, das Gott. er möge " weise seyn.
 

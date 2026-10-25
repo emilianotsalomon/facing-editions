@@ -98,17 +98,12 @@ Blessed is the pilgrim for whom in the wilderness a fresh spring flows at all ti
 
 ### Contents.
 
-Preliminary Remarks.
-
-Introduction p. 1–12
-
-I. Non-Knowing — 13–47
-
-II. Absolute Knowing — 48–115
-
-III. Faith and Knowing — 116–189
-
-Afterword — 190–195
+- Preliminary Remarks.
+- Introduction · 1–12 @scan 15
+- I. Non-Knowing · 13–47 @scan 27
+- II. Absolute Knowing · 48–115
+- III. Faith and Knowing · 116–189
+- Afterword · 190–195
 
 ∗
 

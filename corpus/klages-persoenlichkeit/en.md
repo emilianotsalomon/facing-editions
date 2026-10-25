@@ -12,6 +12,16 @@ August 1927. The Author
 
 [p. 9]
 
+- I. What Does “Characterizing” Mean? · 11 @p. 10
+- II. Fundamental Concepts of Characterology · 27 @p. 25
+- III. On Moods and Surges of Emotion · 39 @p. 37
+- IV. Drives and Interests · 51 @p. 49
+- V. On the Metaphysics of the Will · 65 @p. 63
+- VI. On the Theory of the Feelings · 89 @p. 87
+- VII. On the Genera and Species of Characters · 107 @p. 105
+- Sources · 127
+- Notes · 145
+
 [p. 10]
 
 ## I. Was Bedeutet „Charakterisieren“? — I. What Does "Characterizing" Mean?

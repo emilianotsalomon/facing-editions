@@ -154,319 +154,435 @@ Louis Michaëlis.
 
 [PDF 13]
 
-> DVBIORVM,ET QUESTIONVM, QVAE       IN VTRAQVE             PARTE Logicæ continentur. THEQUE DE PRIMA         PARS .              29LY .19ON 96 QUÆSTIONES PROOEMIALES, Væſtio 1.Vtrùm Logica fit neceffaria. pag.1. Quæſt 2. Vtrum Logica ſitſcientia.        4 Quæſt.3. Vtrum Logicavt ens fit ſcientia.       6 Quæſt. 4. Vtrùm Logica ſit ynus ſimplexhabi- tus.                                        11 Quæft.s.Vtrum Logica ſitſcientia practica,&fpeculatiua.'18 Quæftio6. Vtrum obiectum ſcientiæ ſitmodusſciendi realis, vel ens rationis.                                       25 CAP. I. Porphyrij,cum expofitionetextus QuestVniuersales. 33 Quæftio 1. Vtrum vniuerfalia fintin rebus.               34 Quæftio 2.Quænam fit eſſentia,&natura vniuerfalium. 36 Quæſt.3.Andeturin rebus ante operationem intellectus vni- tas formalis minor numerali.                            39 Quæſtio 4.An vniuerfaleſit in rebus ante operationemintel- lectus.                                                 46 Quest.s.Perquamoperationemintellectusfiatvniuerfale.49 Queſt.6.Vtrum vniuerfaleLogicum fiatper ſimplicemcom- parationemnaturæ cum indiuiduis .                       57 Queſt.7.Anvniuerfale ſitvniuocum reſpectu predicabilium, &verumgenus corum.                                      6 Queſt. 8.Anvniuerfale fitadæquatumobiectum libri prędi- cabilium , vel potiùs prædicabile,                  63 Queſt. An predicabilia fintquinque velplura, autpauciora. 65. Tractatus deNatura entis rationis.                        71 Dubium 1. An ens rationis fit.                          ibid. Dubium 2. Quid fit ens rationis.                          72 Dubium 3. Quotuplex fit ensrationis.                      74 Dubium 4 Per quampotentiam fiat ensrationis.              79 Dubium s.Anentia rationis fiantab intellectu diuino   o 2, vel 81 angelico,
+## Index of the Chapters, Doubts and Questions
 
-## DOUBTS, AND QUESTIONS
+> - Prima Pars
+>   - Quæstiones Prooemiales
+>     - Quæstio 1. Vtrum Logica sit necessaria · 1 @PDF 21
+>     - Quæst. 2. Vtrum Logica sit scientia · 4
+>     - Quæst. 3. Vtrum Logica vtens sit scientia · 6
+>     - Quæst. 4. Vtrum Logica sit vnus simplex habitus · 11
+>     - Quæst. 5. Vtrum Logica sit scientia practica, & speculatiua · 18
+>     - Quæstio 6. Vtrum obiectum scientiæ sit modus sciendi realis, vel ens rationis · 25
+>   - CAP. I. Porphyrij, cum expositione textus. Quæst. Vniuersales · 33
+>     - Quæstio 1. Vtrum vniuersalia sint in rebus · 34
+>     - Quæstio 2. Quænam sit essentia, & natura vniuersalium · 36
+>     - Quæst. 3. An detur in rebus ante operationem intellectus vnitas formalis minor numerali · 39
+>     - Quæstio 4. An vniuersale sit in rebus ante operationem intellectus · 46
+>     - Quæst. 5. Per quam operationem intellectus fiat vniuersale · 49
+>     - Quæst. 6. Vtrum vniuersale Logicum fiat per simplicem comparationem naturæ cum indiuiduis · 57
+>     - Quæst. 7. An vniuersale sit vniuocum respectu prædicabilium, & verum genus eorum · 61
+>     - Quæst. 8. An vniuersale sit adæquatum obiectum libri prædicabilium, vel potiùs prædicabile · 63
+>     - Quæst. An prædicabilia sint quinque, vel plura, aut pauciora · 65
+>   - Tractatus de Natura entis rationis · 71
+>     - Dubium 1. An ens rationis sit · ibid.
+>     - Dubium 2. Quid sit ens rationis · 72
+>     - Dubium 3. Quotuplex sit ens rationis · 74
+>     - Dubium 4. Per quam potentiam fiat ens rationis · 79
+>     - Dubium 5. An entia rationis fiant ab intellectu diuino, vel angelico · 81
+>     - Dubium 6. Ad quam scientiam pertineat agere de ente rationis · 84
+>     - Dubium 7. Quonam modo ens rationis reducatur ad ordinem prædicamentalem · ibid.
+>   - Tract. De modo, quo fiunt prædicationes in concretis, & abstractis primarum, & secundarum intentionum · 86
+>     - Dubium. An abstractum superius prædicetur de abstracto inferiori · 87
+>   - CAP. II. De genere, cum expositione textus · 95
+>     - Quæst. 1. Quodnam sit definitum definitionis generis · 96
+>     - Quæst. 2. An definitum proprium eiusdem definitionis sit natura realis, quæ denominatur genus, vel secunda intentio, à qua denominatur · 98
+>     - Quæst. 3. An definitio generis sit quidditatiua, vel descriptiua · 102
+>     - Quæstio 4. Vtrum genus includat differentias & species actu, vel solùm potentia · 106
+>     - Quæstio 5. Vtrum genus prædicetur de specie tanquam totum, vel etiam vt pars illius · 109
+>     - Quæstio 6. An modus prædicandi in quid, separet genus à differentia · 113
+>   - CAP. III. De specie, cum expositione textus · 115 @p. 114
+>     - Quæstio 1. Vtrum species fuerit definita à Porphyrio duabus, vel tribus definitionibus · 117
+>     - Quæstio 2. Vtrum species subiicibilis, vt subiicibilis, sit vniuersalis · 120
+>     - Quæstio 3. An species possit conseruari in vnico indiuiduo, & genus in vnica specie · 123
+>     - Quæst. 4. Vtrum definitio postrema speciei illis speciebus conueniat, quæ vnum tantum indiuiduum habere possunt · 127
+>     - Quæstio 5. An species distinguatur à genere per illas particulas suæ definitionis (prædicari de pluribus differentibus numero) · 132
+>     - Quæstio 6. An detur vna ratio communis atque realis indiuiduorum, quæ definiatur per secundam definitionem indiuidui · 135
+>     - Quæstio 7. An secunda intentio indiuidui per primam definitionem indiuidui definita sit vna · 140
+>   - CAP. IIII. De differentia, cum expositione textus · 143
+>     - Quæst. 1. Vtrum prima diuisio differentiæ in communem, propriam, & propriissimam sit sufficiens · 145
+>     - Quæst. 2. An diuisio differentiæ in communem, propriam, & propriissimam sit generis in species, vel analogi in analogata · 148
+>     - Quæstio 3. An verum sit, genus sumi à materia, & differentiam à forma, & quomodo intelligendum · 152
+>     - Qu. 4. An compositio speciei, ex genere, & differentia sit realis, vel tantum rationis · 157
+>     - Quæst. 5. Vtrum differentia superior includatur in inferiori, & de illa prædicetur · 164
+>     - Quæst. 6. An differentia semper & necessario sit perfectior genere, quod contrahit · 170
+>     - Quæstio 7. An secunda definitio differentiæ possit conuenire vltimis differentiis · 173
+>   - CAP. V. De proprio, cum expositione textus · 176
+>     - Qu. 1. An proprium solum quarto modo acceptum constituat quartum prædicabile, vel etiam secundum alios modos · 177
+>     - Quæst. 2. An proprium sit vniuersale, aut quartum prædicabile respectu speciei, vel indiuiduorum · 180
+>   - CAP. VI. De Accidenti, cum expositione textus · 184
+>     - Quæstio 1. An accidens sit vniuersale, & respectu quorum id habeat · 185
+>     - Quæstio 2. An diuisio accidentis in accidens separabile, & inseparabile, sit bona · 187
+>     - Qu. 3. An definitiones accidentis intelligantur à Porphyrio de inhærentia reali accidentis in subiecto, vel secundæ intentionaliter de affirmatione, & negatione · 189
+>     - Quæst. 4. An prima definitio accidentis sit bona · 190
+>     - Quæstio 5. An inhærentia aptitudinalis sit de essentia accidentis · 193
+>   - Proœmium in prædicamenta Arist. · 196
+>     - De inscriptione huius libri · ibid.
+>     - De inuentore artis prædicamentalis · ibid.
+>     - De fine huius operis · ibid.
+>     - An de vocibus, vel de rebus agatur in prædicamentis · 197
+>     - De obiecto huius operis · ibid.
+>     - De modo procedendi, & ordinatione huius operis, cum cæteris partibus Dialecticæ · ibid.
+>     - Ad quam scientiam pertineat de prædicamentis agere · ibid.
+>   - CAP. I. De æquiuocis, & vniuocis, & denominatiuis, cum exposit. text. · 198
+>     - Quæst. vnica. Vtrum definitio vniuocorum conueniat denominatiuis · 199
+>   - TRACT. De nominum Analogia · 201
+>     - Quid sit Analogia · 202
+>     - Quotuplex sit analogia · 203
+>     - An necesse sit rem, vel conceptum, significatum nomine analogi, intrinsecè solùm reperiri in principali analogato, in cæteris verò, solùm per extrinsecam denominationem · 210
+>     - An conceptus formalis analogorum sit vnus, & abstractus ab analogatis, vel multiplex, & ab eis an abstrahi possit · 212
+>     - Secunda pars quæstionis, de vnitate conceptus obiectiui analogorum · 214
+>     - Quonam modo conceptus analogi contineat analogata · 221
+>     - An ens sit vniuocum respectu substantiæ, & accidentis, aut analogum, & qua analogia · 227
+>     - An saltem ens completum sit vniuocum respectu substantiæ, & accidentis completi · 231
+>     - An ens sit vniuocum respectu aliquarum rerum eiusdem prædicamenti, vel diuersorum prædicamentorum · 233
+>     - An ens sit analogum comparatum ad ens creatum & increatum, vel ad Deum, & creaturas · 235
+>     - Qua analogia dicatur ens respectu substantiæ, & accidentis, atque etiam respectu Dei, & creaturarum · 237
+>     - Vtrum accidens sit vniuocum ad nouem prædicamenta accidentium, vel analogum · 240
+>     - An necesse sit accidens esse genus, si sit vniuocum · 246
+>     - An saltem respectu aliquorum accidentium, aut prædicamentorum, possit esse accidens vniuocum · 247
+>   - CAP. II. De diuisione eorum quæ dicuntur, & sunt, cum exposit. tex.
+>   - CAP. III. De regulis prædicamentorum essentialium, cum exposit. tex.
+>     - Quæst. vnica. An genera non subalternatim posita, possint habere aliquam differentiam communem · ibid. @p. 250
+>   - CAP. IIII. Continens diuisionem incomplexorum in decem prædicamenta, cum expositione text.
+>     - Quæstio 1. Ex quibusnam rebus per se componatur prædicamentum · ibid. @p. 256
+>       - An, & quomodo indiuidua ponantur in prædicamento · 264
+>       - Quonam modo res infinitæ ponantur, aut excludantur à prædicamento · 265
+>     - Quæst. 2. An res sint ponendæ in prædicamentis sub nominibus abstractis, vel concretis · 265
+>     - Quæstio 3. An necesse sit prædicamenta distingui realiter, aut ex natura rei; vel sufficiat distingui ratione · 271
+>     - Quæstio 4. Vtrùm prædicamenta sint decem, ita vt nec plura esse possint, nec pauciora · 275
+>   - CAP. V. Continens prædicamentum substantiæ, cum expositione tex. · 278
+>     - Quæstio 1. Quodnam sit supremum genus prædicamenti substantiæ · 282
+>     - Quæstio 2. Vtrùm Deus ponatur in prædicamento substantiæ · 284
+>     - Quæstio 3. Vtrum Angeli, & corpora cælestia sint in prædicamento substantiæ · 287
+>     - Quæst. 4. Qualisnam sit diuisio substantiæ in primam, & secundam: vniuoca, vel analoga · 292
+>     - Quæstio 5. Quod sit formale definitum definitionis primæ substantiæ · 297
+>     - Dubium 1. Circa comparationes primarum, & secundarum substantiarum · 300
+>     - Dubium 2. Circa tertiam proprietatem substantiæ · 302
+>     - Dub. 3. Circa quartam proprietatem substantiæ · 305
+>     - Dubium 4. Circa vltimam proprietatem substantiæ · 307
+>   - CAP. VI. Continens prædicamentum quantitatis, cum exposit. tex. · 312
+>     - Quæstio 1. In quonam sit ponenda essentialis ratio quantitatis · 315
+>     - Quæst. 2. Vtrùm Linea, Superficies & Corpus, sint tres species distinctæ quantitatis continuæ · 320
+>     - Quæstio 3. Vtrum tempus sit vera species quantitatis continuæ · 325
+>     - Quæstio 4. An locus sit species quantitatis continuæ, distincta à superficie · 332
+>     - Quæst. 5. An motus sit species quantitatis continuæ · 336
+>     - Quæstio 6. An numerus sit species quantitatis discretæ · 338
+>     - Quæstio 7. An forma numeri sumenda sit ab vltima vnitate, vel ab omnibus · 346
+>     - Quæstio 8. An numerus prædicamentalis non solum reperiatur in corporibus, sed etiam in rebus spiritualibus · 351
+>     - Quæst. 9. An oratio sit vera species quantitatis · 352
+>       - In quonam sit ponenda quantitas orationis · 354
+>     - Quæstio 10. An si daretur linea, superficies, aut corpus, vel alia quantitas, actu infinita, collocaretur in prædicamento · 357
+>       - An numerus infinitus esset in prædicamento · 360
+>     - Quæst. 11. An quantitas sit res distincta à substantia corporea, & cæteris accidentibus absolutis · 361
+>   - CAP. VII. Continens prædicamentum ad aliquid, cum exposit. text. · 364
+>     - Quæstio 1. An ad aliquid, vel relatiuum constituat speciale prædicamentum · 367
+>     - Quæstio 2. An ad aliquid sit speciale genus entis realis · 369
+>     - Quæst. 3. Quodnam sit supremum genus prædicamenti ad aliquid · 373
+>     - Quæ. 4. An definitio relatiuorum, tradita ab Arist. ex propria sententia sit bona · 376
+>     - Quæ. 5. Vtrùm omnes relationes pertineant ad prædicamentum ad aliquid · 381
+>     - Quæstio 6. An species relationis prædicamentalis à termino sit accipienda · 386
+>       - An filio correspondeat duplex relatio, vna in patre, & alia in matre, vel eadem in vtroque parente · 389
+>     - Quæstio 7. An terminus relationis sit formaliter absolutus, vel formaliter relatiuus · 391
+>       - An vnum relatiuum possit, & debeat definiri per alterum · 399
+>     - Quæ. 8. An vnum relatiuum ordinetur ad duos terminos eiusdem speciei, per eandem, vel diuersas rationes · 401
+>     - Quæstio 9. An entis realis ad non ens, aut ad ens rationis, detur relatio realis · 406
+>     - Qu. 10. An aliqua relatio prædicamentalis fundetur proximè in substantia · 411
+>     - Quæst. 11. An vna relatio realis possit esse fundamentum alterius · 415
+>     - Quæstio 12. Vtrum relationes secundi generis fundentur in potentia, vel in actione · 420
+>     - Quæst. 13. An relationes tertij generis sint reales, & prædicamentales · 425
+>     - Quæstio 14. An relatio distinguatur realiter à fundamento, vel solùm ratione · 429
+>     - Dubium de separatione relationis à fundamento · 433
+>     - Dubium 1. An relationi conueniat habere contrarium · 435
+>     - Dubium 2. An relatiua suscipiant magis, & minus · 436
+>   - CAP. VIII. Continens prædicamentum qualitatis, cum exposit. text. · 439
+>     - Quæst. 1. An qualitas sit supremum genus huius prædicamenti: & diuersæ qualitates, enumeratæ ab Arist., diuersæ species eius · 441
+>     - Quæ. 2. An habitus, & dispositio distinguantur specie · 445
+>     - Quæstio 3. Vtrum naturalis potentia, & impotentia, sint species qualitatis distinctæ · 449
+>     - Quæstio 4. De his, quæ pertinent ad passionem, & passibilem qualitatem · 455
+>       - Dubium 1. An passio, & passibilis qualitas, sint veræ species qualitatis · ibid.
+>       - Dubium 2. An passio, & passibilis qualitas, sint diuersæ species, vel vna tantum · 456
+>       - Dubium 3. An passiones animæ pertineant ad hanc speciem qualitatis · 458
+>       - Dubium 4. An obiecta omnium sensuum externorum, vt obiecta eorum sunt, pertineant ad hanc speciem qualitatis · 462
+>     - Quæstio 5. Quid per Formam, & Figuram intelligat Arist. & an sint diuersæ species qualitatis, vel eadem · 464
+>   - CAP. IX. De prædicamento Actionis & passionis · 466
+>     - Quid Actio, & Passio sit · 467
+>     - Quot, & quæ genera, & species habeant actio, & passio · 468
+>     - Quot, & quæ sint proprietates actionis, & passionis · ibid.
+>   - CAP. X. De cæteris prædicamentis
+>     - Prædicamentum Quando · 469
+>       - Quot, & quæ habeat genera, & species hoc prædicamentum · 472
+>       - Quot, & quas proprietates habeat hoc prædicamentum · ibid.
+>     - Prædicamentum Vbi · 473
+>       - Quid sit Vbi, aut in quo consistit ratio formalis eius · ibid.
+>       - Quot, & quæ habeat genera, & species, Vbi · 474
+>       - Quot, & quas proprietates habeat Vbi · 475
+>     - Prædicamentum Situs · ibid.
+>       - In quo consistat formalis ratio huius præd. · 476
+>       - Quot, & quæ sint genera, & species Situs · 478
+>       - Quot, & quæ sint proprietates huius præd. · ibid.
+>     - Prædicamentum Habere · ibid.
+>       - Quot, & quæ sunt genera, & species habere · 479
+>       - Quot, & quæ sint proprietates huius præd. · 480
+>       - Quæst. An habere sit aliquid intrinsecum, & inhærens: vel in sola denominatione extrinseca consistat · ibid.
+>     - Quæstio generalis pro omnibus sex vltimis prædicamentis
+>       - An ratio formalis eorum consistat in aliquo intrinseco, & formaliter inhærenti, vel in sola denominatione extrinseca · 484
+>   - CAP. XI. De oppositis, cum expositione text. · 489
+>   - CAP. XII. De modis prioris, cum expositione textus · 490
+>   - CAP. XIII. De modis simul, cum expositione textus · 491
+>   - CAP. XIV. De speciebus motus, cum expositione text. · 492
+>   - CAP. XV. De modis habere, cum expositione text. · 494
+> - Secunda Pars. Quæstiones & dubia de interpretatione
+>   - Proœmium totius operis · 495
+>     - Quodnam sit obiectum huius operis · ibid.
+>     - De loco quem hoc opus obtineat inter cæteras partes dialecticæ, & diuisione eius · 497
+>   - CAP. I. Cum expositione textus · ibid.
+>     - Quæst. 1. An voces significent conceptus & res, atque scripturæ voces ad placitum, conceptus verò naturaliter res · 499
+>   - CAP. II. De nomine, cum exposit. text. · 503
+>     - Quæst. 1. An bene definiatur nomen per vocem · 504
+>     - Quæstio 2. An nomen definiatur per vocem tanquam per verum genus · 506
+>     - Quæstio 3. An verum sit nomen significare ad placitum: vt in definitione dicitur · 507
+>     - Quæstio 4. An verum sit, partes nominis separatas, non esse significatiuas · 510
+>     - Quæstio 5. An nomen infinitum omnino sit excludendum à definitione · 512
+>       - De modo significandi nominis infiniti · 513
+>       - De quibusnam dicatur nomen infinitum in propositione · 514
+>       - An transcendentia nomina possint infinitari · 517
+>       - An nomina infinita sint enumeranda inter absoluta, vel inter connotatiua · 518
+>       - An nomen infinitum dicatur vniuocè de entibus & non entibus, vel analogicè · ibid.
+>   - CAP. III. De verbo, cum expositione text. · 519
+>     - Quæstio 1. An verum sit verbum consignificare tempus · 520
+>     - Quæstio 2. An verbum sit vera pars propositionis · 525
+>     - Quæstio 3. An verbum infinitum possit collocari in propositione · 528
+>   - CAP. IV. De enunciatione, cum expositione text. · 531
+>     - Quæstio 1. An in definitione orationis definiatur ratio in vniuersali, vt perfectam, & imperfectam, simplicem & compositam comprehendit · 532
+>     - Quæstio 2. An enunciatio sit ens reale, vel rationis · 534
+>     - Quæstio 3. An enunciatio quidditatiuè sit definita ab Aristotele per veritatem, & falsitatem · 535
+>     - Quæst. 4. An enunciatio mentalis sit vna simplex qualitas · 537
+>     - Quæstio 5. An diuisio enunciationis in affirmatiuam, & negatiuam, sit generis in species, vel analogi in analogata · 540
+>     - Quæstio 6. An diuisio enunciationis in simplicem, & compositam, sit generis in species, vel analogi in analogata · 542
+>   - CAP. V. De modis oppositionum · 544
+>   - CAP. VI. De oppositione, & veritate enunciationum de futuro contingenti, cum expositione textus · 545
 
-C O N TA I N E D I N B O T H PA RT S of Logic.
-
-## FIRST PART
-
-## PROEMIAL QUESTIONS
-
-uestion 1. Whether Logic is necessary.                  p. 1.
-
-Q           Quest. 2. Whether Logic is a science.
-
-Quest. 3. Whether logica utens is a science.
-
-Quest. 4. Whether Logic is one simple habit.
-
-4
-
-6
-
-11 Quest. 5. Whether Logic is a practical or a speculative science.       18 Question 6. Whether the object of the science is a real mode of
-
-knowing, or a being of reason.                                     25 CHAP. I. Of Porphyry, with an exposition of the text. Questions on
-
-Universals.                                                        33 Question 1. Whether universals exist in things.                       34 Question 2. What the essence and nature of universals is.             36 Quest. 3. Whether there is in things, before the operation of the
-
-intellect, a formal unity less than numerical.                     39 Question 4. Whether the universal exists in things before the op‐
-
-eration of the intellect.                                          46 Quest. 5. Through which operation of the intellect the universal
-
-comes to be.                                                       49 Quest. 6. Whether the logical universal comes to be through a
-
-simple comparison of the nature with the individuals.              57 Quest. 7. Whether the universal is univocal with respect to the
-
-predicables, and truly their genus.                                61 Quest. 8. Whether the universal is the adequate object of the
-
-book of the predicables, or rather the predicable is.               63 Quest. Whether the predicables are five, or more, or fewer.           65. Treatise on the Nature of Being of Reason.                             71 Doubt 1. Whether there is a being of reason.                         ibid. Doubt 2. What a being of reason is.                                    72 Doubt 3. How many kinds of being of reason there are.                  74 Doubt 4. By what power a being of reason comes to be.                  79 Doubt 5. Whether beings of reason come to be through the divine
-
-or the angelic intellect.                                          81
+- First Part
+  - Proemial Questions
+    - Question 1. Whether Logic is necessary · 1 @PDF 21
+    - Quest. 2. Whether Logic is a science · 4
+    - Quest. 3. Whether *logica utens* is a science · 6
+    - Quest. 4. Whether Logic is one simple habit · 11
+    - Quest. 5. Whether Logic is a practical or a speculative science · 18
+    - Question 6. Whether the object of the science is a real mode of knowing, or a being of reason · 25
+  - CHAP. I. Of Porphyry, with an exposition of the text. Questions on Universals · 33
+    - Question 1. Whether universals exist in things · 34
+    - Question 2. What the essence and nature of universals is · 36
+    - Quest. 3. Whether there is in things, before the operation of the intellect, a formal unity less than numerical · 39
+    - Question 4. Whether the universal exists in things before the operation of the intellect · 46
+    - Quest. 5. Through which operation of the intellect the universal comes to be · 49
+    - Quest. 6. Whether the logical universal comes to be through a simple comparison of the nature with the individuals · 57
+    - Quest. 7. Whether the universal is univocal with respect to the predicables, and truly their genus · 61
+    - Quest. 8. Whether the universal is the adequate object of the book of the predicables, or rather the predicable is · 63
+    - Quest. Whether the predicables are five, or more, or fewer · 65
+  - Treatise on the Nature of Being of Reason · 71
+    - Doubt 1. Whether there is a being of reason · ibid.
+    - Doubt 2. What a being of reason is · 72
+    - Doubt 3. How many kinds of being of reason there are · 74
+    - Doubt 4. By what power a being of reason comes to be · 79
+    - Doubt 5. Whether beings of reason come to be through the divine or the angelic intellect · 81
+    - Doubt 6. To which science it pertains to treat of being of reason · 84
+    - Doubt 7. In what way being of reason is reduced to the categorial order · ibid.
+  - Treat. On the way in which predications are made in concretes and abstracts of first and second intentions · 86
+    - Doubt. Whether a superior abstract is predicated of an inferior abstract · 87
+  - CHAP. II. On Genus, with an exposition of the text · 95
+    - Quest. 1. What the defined of the definition of genus is · 96
+    - Quest. 2. Whether the proper defined of the same definition is the real nature which is denominated genus, or the second intention by which it is denominated · 98
+    - Quest. 3. Whether the definition of genus is quidditative or descriptive · 102
+    - Question 4. Whether genus includes the differences and species in act, or only in potency · 106
+    - Question 5. Whether genus is predicated of species as a whole, or also as a part of it · 109
+    - Question 6. Whether the mode of predicating *in quid* separates genus from difference · 113
+  - CHAP. III. On Species, with an exposition of the text · 115 @p. 114
+    - Question 1. Whether species was defined by Porphyry with two definitions or three · 117
+    - Question 2. Whether subjicible species, as subjicible, is universal · 120
+    - Question 3. Whether a species can be preserved in a single individual, and a genus in a single species · 123
+    - Quest. 4. Whether the last definition of species belongs to those species which can have only one individual · 127
+    - Question 5. Whether species is distinguished from genus by those particles of its definition (to be predicated of several things differing in number) · 132
+    - Question 6. Whether there is one common and real ratio of individuals which is defined by the second definition of the individual · 135
+    - Question 7. Whether the second intention of the individual, defined by the first definition of the individual, is one · 140
+  - CHAP. IIII. On Difference, with an exposition of the text · 143
+    - Quest. 1. Whether the first division of difference into common, proper, and most proper is sufficient · 145
+    - Quest. 2. Whether the division of difference into common, proper, and most proper is of a genus into species, or of an analogous term into analogates · 148
+    - Question 3. Whether it is true that genus is taken from matter and difference from form, and how it is to be understood · 152
+    - Qu. 4. Whether the composition of the species from genus and difference is real, or only of reason · 157
+    - Quest. 5. Whether a superior difference is included in an inferior one, and is predicated of it · 164
+    - Quest. 6. Whether difference is always and necessarily more perfect than the genus which it contracts · 170
+    - Question 7. Whether the second definition of difference can belong to the last differences · 173
+  - CHAP. V. On Property, with an exposition of the text · 176
+    - Qu. 1. Whether property taken only in the fourth mode constitutes the fourth predicable, or also according to the other modes · 177
+    - Quest. 2. Whether property is a universal, or the fourth predicable, with respect to the species or to the individuals · 180
+  - CHAP. VI. On Accident, with an exposition of the text · 184
+    - Question 1. Whether accident is a universal, and with respect to which things it has this · 185
+    - Question 2. Whether the division of accident into separable and inseparable accident is good · 187
+    - Qu. 3. Whether the definitions of accident are understood by Porphyry of the real inherence of the accident in the subject, or in terms of second intention, of affirmation and negation · 189
+    - Quest. 4. Whether the first definition of accident is good · 190
+    - Question 5. Whether aptitudinal inherence is of the essence of accident · 193
+  - Proem to the Categories of Aristotle · 196
+    - On the title of this book · ibid.
+    - On the inventor of the categorial art · ibid.
+    - On the end of this work · ibid.
+    - Whether the categories treat of words or of things · 197
+    - On the object of this work · ibid.
+    - On the mode of proceeding, and on the ordering of this work with the other parts of Dialectic · ibid.
+    - To which science it pertains to treat of the categories · ibid.
+  - CHAP. I. On Equivocals, Univocals, and Denominatives, with an exposition of the text · 198
+    - Single Quest. Whether the definition of univocals belongs to denominatives · 199
+  - TREAT. On the Analogy of Names · 201
+    - What analogy is · 202
+    - How manifold analogy is · 203
+    - Whether it is necessary that the thing or concept signified by the name of the analogous term be found intrinsically only in the principal analogate, and in the others only through extrinsic denomination · 210
+    - Whether the formal concept of analogous terms is one and abstracted from the analogates, or manifold; and whether it can be abstracted from them · 212
+    - Second part of the question, on the unity of the objective concept of analogous terms · 214
+    - In what way the concept of the analogous term contains the analogates · 221
+    - Whether being is univocal with respect to substance and accident, or analogous, and by what analogy · 227
+    - Whether at least complete being is univocal with respect to complete substance and accident · 231
+    - Whether being is univocal with respect to some things of the same category, or of different categories · 233
+    - Whether being is analogous when compared to created and uncreated being, or to God and creatures · 235
+    - By what analogy being is said with respect to substance and accident, and also with respect to God and creatures · 237
+    - Whether accident is univocal to the nine categories of accidents, or analogous · 240
+    - Whether accident must be a genus, if it is univocal · 246
+    - Whether at least with respect to some accidents, or categories, accident can be univocal · 247
+  - CHAP. II. On the division of the things that are said and that are, with an exposition of the text
+  - CHAP. III. On the rules of essential predicates, with an exposition of the text
+    - Single Quest. Whether genera not placed subalternately can have some common difference · ibid. @p. 250
+  - CHAP. IIII. Containing the division of incomplexes into ten categories, with an exposition of the text
+    - Question 1. Of which things the category is composed per se · ibid. @p. 256
+      - Whether and how individuals are placed in the category · 264
+      - In what way infinite things are placed in, or excluded from, the category · 265
+    - Quest. 2. Whether things are to be placed in the categories under abstract names or concrete ones · 265
+    - Question 3. Whether it is necessary that the categories be distinguished really, or from the nature of the thing; or whether it suffices that they be distinguished by reason · 271
+    - Question 4. Whether the categories are ten, so that there can be neither more nor fewer · 275
+  - CHAP. V. Containing the category of substance, with an exposition of the text · 278
+    - Question 1. Which is the supreme genus of the category of substance · 282
+    - Question 2. Whether God is placed in the category of substance · 284
+    - Question 3. Whether angels and the heavenly bodies are in the category of substance · 287
+    - Quest. 4. Of what kind the division of substance into first and second is: univocal or analogous · 292
+    - Question 5. What the formal definitum of the definition of first substance is · 297
+    - Doubt 1. Concerning the comparisons of first and second substances · 300
+    - Doubt 2. Concerning the third property of substance · 302
+    - Doubt 3. Concerning the fourth property of substance · 305
+    - Doubt 4. Concerning the last property of substance · 307
+  - CHAP. VI. Containing the category of quantity, with an exposition of the text · 312
+    - Question 1. In what the essential ratio of quantity is to be placed · 315
+    - Quest. 2. Whether line, surface, and body are three distinct species of continuous quantity · 320
+    - Question 3. Whether time is a true species of continuous quantity · 325
+    - Question 4. Whether place is a species of continuous quantity distinct from surface · 332
+    - Quest. 5. Whether motion is a species of continuous quantity · 336
+    - Question 6. Whether number is a species of discrete quantity · 338
+    - Question 7. Whether the form of number is to be taken from the last unity, or from all · 346
+    - Question 8. Whether categorial number is found not only in bodies, but also in spiritual things · 351
+    - Quest. 9. Whether speech is a true species of quantity · 352
+      - In what the quantity of speech is to be placed · 354
+    - Question 10. Whether, if a line, surface, or body, or another quantity infinite in act were given, it would be placed in the category · 357
+      - Whether infinite number would be in the category · 360
+    - Quest. 11. Whether quantity is a thing distinct from corporeal substance and from the other absolute accidents · 361
+  - CHAP. VII. Containing the category of relation, with an exposition of the text · 364
+    - Question 1. Whether relation, or the relative, constitutes a special category · 367
+    - Question 2. Whether relation is a special genus of real being · 369
+    - Quest. 3. What is the supreme genus of the category of relation · 373
+    - Qu. 4. Whether the definition of relatives handed down by Aristotle in his own view is good · 376
+    - Qu. 5. Whether all relations belong to the category of relation · 381
+    - Question 6. Whether the species of categorial relation is to be taken from the term · 386
+      - Whether to the son there corresponds a twofold relation, one in the father and another in the mother, or the same in both parents · 389
+    - Question 7. Whether the term of a relation is formally absolute or formally relative · 391
+      - Whether one relative can and must be defined through the other · 399
+    - Qu. 8. Whether one relative is ordered to two terms of the same species through the same ratio or through different ones · 401
+    - Question 9. Whether there is a real relation of a real being to non-being, or to a being of reason · 406
+    - Qu. 10. Whether any categorial relation is founded proximately in substance · 411
+    - Quest. 11. Whether one real relation can be the foundation of another · 415
+    - Question 12. Whether relations of the second genus are founded in potency or in action · 420
+    - Quest. 13. Whether relations of the third genus are real and categorial · 425
+    - Question 14. Whether a relation is distinguished from its foundation really, or only by reason · 429
+    - Doubt on the separation of a relation from its foundation · 433
+    - Doubt 1. Whether it belongs to relation to have a contrary · 435
+    - Doubt 2. Whether relatives admit of more and less · 436
+  - CHAP. VIII. Containing the category of quality, with an exposition of the text · 439
+    - Quest. 1. Whether quality is the supreme genus of this category, and the diverse qualities enumerated by Aristotle are diverse species of it · 441
+    - Qu. 2. Whether habit and disposition are distinguished in species · 445
+    - Question 3. Whether natural potency and impotency are distinct species of quality · 449
+    - Question 4. On the things that pertain to passion and passible quality · 455
+      - Doubt 1. Whether passion and passible quality are true species of quality · ibid.
+      - Doubt 2. Whether passion and passible quality are different species, or only one · 456
+      - Doubt 3. Whether the passions of the soul pertain to this species of quality · 458
+      - Doubt 4. Whether the objects of all the external senses, as they are their objects, pertain to this species of quality · 462
+    - Question 5. What Aristotle understands by form and figure, and whether they are diverse species of quality, or the same · 464
+  - CHAP. IX. On the Category of Action and Passion · 466
+    - What action and passion are · 467
+    - How many and which genera and species action and passion have · 468
+    - How many and which are the properties of action and passion · ibid.
+  - CHAP. X. On the Remaining Categories
+    - The Category When · 469
+      - How many and which genera and species this category has · 472
+      - How many and which properties this category has · ibid.
+    - The Category Where · 473
+      - What Where is, or in what its formal ratio consists · ibid.
+      - How many and which genera and species Where has · 474
+      - How many and which properties Where has · 475
+    - The Category Position · ibid.
+      - In what the formal ratio of this category consists · 476
+      - How many and which are the genera and species of Position · 478
+      - How many and which are the properties of this category · ibid.
+    - The Category Having · ibid.
+      - How many and which are the genera and species of Having · 479
+      - How many and which are the properties of this category · 480
+      - Quest. Whether having is something intrinsic and inhering, or consists in an extrinsic denomination alone · ibid.
+    - General Question for all the last six categories
+      - Whether their formal ratio consists in something intrinsic and formally inhering, or in an extrinsic denomination alone · 484
+  - CHAP. XI. On Opposites, with an exposition of the text · 489
+  - CHAP. XII. On the Modes of Prior, with an exposition of the text · 490
+  - CHAP. XIII. On the Modes of Simultaneous, with an exposition of the text · 491
+  - CHAP. XIV. On the Species of Motion, with an exposition of the text · 492
+  - CHAP. XV. On the Modes of Having, with an exposition of the text · 494
+- Second Part. Questions and Doubts on Interpretation
+  - Proem of the Whole Work · 495
+    - What the object of this work is · ibid.
+    - On the place which this work holds among the other parts of Dialectic, and on its division · 497
+  - CHAP. I. With an exposition of the text · ibid.
+    - Quest. 1. Whether words signify concepts and things; and whether writings signify words by convention, but concepts signify things naturally · 499
+  - CHAP. II. On the Noun, with an exposition of the text · 503
+    - Quest. 1. Whether the noun is rightly defined through word · 504
+    - Question 2. Whether the noun is defined through word as through a true genus · 506
+    - Question 3. Whether it is true that the noun signifies by convention, as is said in the definition · 507
+    - Question 4. Whether it is true that the parts of a noun, when separated, are not significative · 510
+    - Question 5. Whether the infinite noun is to be altogether excluded from the definition · 512
+      - On the mode of signifying of the infinite noun · 513
+      - Of what things the infinite noun is said in a proposition · 514
+      - Whether transcendental nouns can be made infinite · 517
+      - Whether infinite nouns are to be counted among absolute or among connotative terms · 518
+      - Whether the infinite noun is said univocally of beings and non-beings, or analogically · ibid.
+  - CHAP. III. On the Verb, with an exposition of the text · 519
+    - Question 1. Whether it is true that the verb consignifies time · 520
+    - Question 2. Whether the verb is a true part of the proposition · 525
+    - Question 3. Whether the infinite verb can be placed in a proposition · 528
+  - CHAP. IV. On the Enunciation, with an exposition of the text · 531
+    - Question 1. Whether in the definition of speech, speech is defined in general, so as to include perfect and imperfect, simple and composite · 532
+    - Question 2. Whether the enunciation is a real being or a being of reason · 534
+    - Question 3. Whether the enunciation was defined quidditatively by Aristotle through truth and falsity · 535
+    - Quest. 4. Whether the mental enunciation is one simple quality · 537
+    - Question 5. Whether the division of the enunciation into affirmative and negative is of a genus into species, or of an analogous term into analogates · 540
+    - Question 6. Whether the division of the enunciation into simple and composite is of a genus into species, or of an analogous term into analogates · 542
+  - CHAP. V. On the Modes of Oppositions · 544
+  - CHAP. VI. On the Opposition and Truth of Enunciations about the Contingent Future, with an exposition of the text · 545
 
 [PDF 14]
 
-> Dubium 6. Adquam ſcientiampertineatagerede ente ratio- nis.                                                  84 Dubium 7.Quonammodo ens rationis reducatur ad ordi- nem prædicamentalem.                                 ibid. Tract. Demodo,quo circa pred cationesfunt concretis, &abſtra- 86 dis primarum, &fecundarum intentionum, Dubium, Anabſtractum fuperius prædicatur de abſtracto in- feriori .                                             87 CAP. II . De genere,cum expofitionetextus .             95 Quæſt.1. Quodnam fitdefinitum    definitionis generis,  96 Quæſt. 2. An definitumproprium eiufdem definitionis fitna- turarealis,quædenominaturgenus, vel ſecundaintentio,à quadenominatur.                                       98 Quæſt.3. Andefinitiogeneris ſit quidditatiua,vel deſcriptiua. ΙΟΣ. Quæftio 4.Vtrum genus includatdifferentias& ſpeciesactu 106 velfolùmpotentia. Quæftio s. Vtrum genus prædicetur de ſpecie tanquam to- zumvel etiam vtpars illius.                            109 Quæstio 6. Anmodus prædicandi in quid, ſeparet genus à differentia.                                           113 CAP. III. Deſpecie, cum expofitionetextus.               115 Quæftio 1. Verumſpecies fueritdefinita à Porphyrio duabus vel tribus definitionibus,                             117 Quæftio 2. Vtrum ſpeciesſubiicibilis ,vtfubiicibilis fit vni-uerfalis.                                              ) 20 Quæſtio 3, Anſpeciespoſſit conferuari invnico indiuiduo, &genusinvnica ſpecie.                                 123 Quæſt.4.Vtrumdefinitiopoſtrema ſpeciei illis ſpeciebus con- ueniat , quævnumtantum indiuiduum habere poffunt. 127. Quæſtio 5. An ſpecies diſtinguatur àgenereper.illasparticu Tas fuædefinition's (prædicari depluribus differentibus numero .                                               132 Quæftio 6. An deturvna ratio communis atque realisindiui duorum, quæ definiaturper ſecundamdefinitionem indi . uidui.                                                  135 Quzſtio7. An fecundaintentio indiuidui per primam defi- nitionem indiuidui definita fit vna.                  140 CAP. IIII. De differentia,cum expofitione textus. 143 Quæſt. 1. Vtrumprima diuifiodifferentiæ in communem, propriam &propriiffimam fit ſufficiens.         145 Quæſt.2. Andiuifio differentiæ in communem, propriam , &
-
-Index. Doubt 6. To which science it pertains to treat of being of reason.        84 Doubt 7. In what way being of reason is reduced to the categorial
-
-order.                                                               ibid. Treat. On the way in which predications are made in concretes and ab‐
-
-stracts of first and second intentions.                                86 Doubt. Whether a superior abstract is predicated of an inferior
-
-abstract.                                                              87 CHAP. II. On Genus, with an exposition of the text.                       95 Quest. 1. What the defined of the definition of genus is.                 96 Quest. 2. Whether the proper defined of the same definition is
-
-the real nature which is denominated genus, or the second in‐
-
-tention by which it is denominated.                                    98 Quest. 3. Whether the definition of genus is quidditative or
-
-descriptive.                                                         102. Question 4. Whether genus includes the differences and species
-
-in act, or only in potency.                                           106 Question 5. Whether genus is predicated of species as a whole, or
-
-also as a part of it.                                                 109 Question 6. Whether the mode of predicating in quid separates
-
-genus from difference.                                                113 CHAP. III. On Species, with an exposition of the text.                   115 Question 1. Whether species was defined by Porphyry with two
-
-definitions or three.                                                 117 Question 2. Whether subjicible species, as subjicible, is universal.     120 Question 3. Whether a species can be preserved in a single indi‐
-
-vidual, and a genus in a single species.                              123 Quest. 4. Whether the last definition of species belongs to those
-
-species which can have only one individual.                          127. Question 5. Whether species is distinguished from genus by those
-
-particles of its definition (to be predicated of several things dif‐
-
-fering in number).                                                    132 Question 6. Whether there is one common and real ratio of indi‐
-
-viduals which is defined by the second definition of the
-
-individual.                                                           135 Question 7. Whether the second intention of the individual, de‐
-
-fined by the first definition of the individual, is one.              140 CHAP. IIII. On Difference, with an exposition of the text.               143 Quest. 1. Whether the first division of difference into common,
-
-proper, and most proper is sufficient.                                145 Quest. 2. Whether the division of difference into common, proper, and
-
 [PDF 15]
-
-> propriſſimam fitgenerisin fpecies,velanalogi in analogata. 148 Quæftio3.Anverum fit,genus ſumi àmateria,&differentiam àforma,&quomodointelligendum.                         152 &differentia fit realis. Qu.4. An compoſitioſpeciei,ex genere,& veltantum rationis.                                  157 Quæft.5.Vtrum differentiaſuperior includaturininferiori, & deillaprædicetur.                                    164 Quæſt.6.Andifferentiaſemper &neceſſario fit perfectior ge. nere,quod contrahit.                                 170 Quæftio7. An fecundadefinitiodifferentizpoſſit conuenire vltimisdifferentiis.                                  173 CAP.V. Depropriocum expofitionetextus                   176 Q1. 1. An proprium ſolumquarto modoacceptum conftituat quartumprædicabile,vel etiam ſecundum alios modos 177 Quæſt.2. an proprium fit vniuerfale,autquartumprædicabile 180 reſpectuſpeciei,velindiuiduorum. CAP. VI. DeAccidenti,cum expofitionetextus.            174 Quæftio1.Anaccidens fit vniuerfale, & reſpectu quorum id habeat.                                               185 Quæſtio 2.An diuifio accidentis inaccidensſeparabile,& in- Leparabile, ſit bona.                               187 Qu.3.Andefinitionesaccidentis,intelliganturàPorphyrio,de inhærentia realiaccidentisin ſubiecto, vel fecundæ inten- tionaliter de affirmatione,&negatione.                189 Quæſt. 4. Anprimadefinitioaccidentis ſitbona.           190 Quæftio5. An inherentia aptitudinalis, fit de eſſentiaacci- dentis.                                               193 Proæmiumin pralicamenta.Arift.                          196 Deinſcriptionehuius libri.                             ibid. Deinuentoreartisprædicamentalis.                       ibid. Definehuius operis.                                    ibid. An devocibus,vel derebusagaturinprædicamentis.          197 De obiectohuius operis.                                ibid. Demodoprocedendi,& ordinatione huius operis,cum cæte- ris partibus Dialectica.                          ibid. Adquam ſcientiam pertineat deprædicamentisagere, ibid. CAP. I. Deaquiuocis , & vniuocis,& denominatsuis cumеxро- fit.text.                                             198 Quæft.vnica,Vtrum definitiovniuocorum,conueniatdeno- minatiuis.                                            199 TRACT. Denominum Analogia.                              201 Quid fit Analogia.                                      202
-
-## Index. most proper is of a genus into species, or of an analogous term
-
-into analogates.                                                     148 Question 3. Whether it is true that genus is taken from matter
-
-and difference from form, and how it is to be understood.            152 Qu. 4. Whether the composition of the species from genus and
-
-difference is real, or only of reason.                               157 Quest. 5. Whether a superior difference is included in an inferior
-
-one, and is predicated of it.                                        164 Quest. 6. Whether difference is always and necessarily more per‐
-
-fect than the genus which it contracts.                              170 Question 7. Whether the second definition of difference can be‐
-
-long to the last differences.                                        173 CHAP. V. On Property, with an exposition of the text.                   176 Qu. 1. Whether property taken only in the fourth mode consti‐
-
-tutes the fourth predicable, or also according to the other
-
-modes.                                                               177 Quest. 2. Whether property is a universal, or the fourth predica‐
-
-ble, with respect to the species or to the individuals.              180 CHAP. VI. On Accident, with an exposition of the text.                  174 Question 1. Whether accident is a universal, and with respect to
-
-which things it has this.                                            185 Question 2. Whether the division of accident into separable and
-
-inseparable accident is good.                                        187 Qu. 3. Whether the definitions of accident are understood by
-
-Porphyry of the real inherence of the accident in the subject,
-
-or in terms of second intention, of affirmation and negation.        189 Quest. 4. Whether the first definition of accident is good.             190 Question 5. Whether aptitudinal inherence is of the essence of
-
-accident.                                                             193 Proem to the Categories of Aristotle.                                    196 On the title of this book.                                              ibid. On the inventor of the categorial art.                                  ibid. On the end of this work.                                                ibid. Whether the categories treat of words or of things.                      197 On the object of this work.                                             ibid. On the mode of proceeding, and on the ordering of this work
-
-with the other parts of Dialectic.                                   ibid. To which science it pertains to treat of the categories.                ibid. CHAP. I. On Equivocals, Univocals, and Denominatives, with an exposi‐
-
-tion of the text.                                                    198 Single Quest. Whether the definition of univocals belongs to
-
-denominatives.                                                       199 TREAT. On the Analogy of Names.                                         201 What analogy is.                                                        202
 
 [PDF 16]
 
-> Quotuplex fit analogia.                                 203 Anneceffe fit rem, vel conceptum, ſignificatumnomineana- logi, intrinfecè ſolùmreperiri in principali analogato, in cæterisverò,folùmper extrinfecam denominationem. 218 Anconceptusformalisanalogorum,ſit vnus , &abſtractus ab analogatis ,velmultiplex,& ab eis anabſtrahipoffit. 12 Secundapars quæftionis,de vnitateconceptusobiectiui ana- logorum.                                              214 Quonam modo conceptus analogi contineatanalogata, 221 Anensfit vniuocum reſpectu ſubſtantiæ , & accidentis, aut analogum , & qua analogia.                        227 Anſaltem ens completum fit vniuocum reſpectu ſubſtantiæ, &accidentis completi.                                231 Anensſityniuocum reſpectu aliquarum rerum eiufdem præ- dicamenti,vel diuerforum prædicamentorum.         233 An ens fit analogum comparatum ad enscreatum& increa- tum,velad Deum,& creaturas.                    255 Qua analogiadicatur ensreſpectu ſubſtantiæ, & accidentis, atque etiam reſpectuDei,& creaturarum.           237 Vtrum accidens ſit vniuocum ad nouem prædicamenta acci- dentium,vel analogum.                           240 Anneceſſefitaccidens eſſegenus ſi ſit vniuocum.    246 Anfaltem reſpectualiquorum accidentium aut prædicamen- torum,poffit efle accidensvniuocum.             247 CAP. II. Dedimifionecorumquedicuntur,&funt, cum expofit. tex. CAP. III. De regulis predicamentorum effentialium,cum ex- pofit. tex. Quæſt.vnica,angeneranon ſubalternatimpoſita, poffint has bere aliquam differentiam communem.                ibid. CAP. IIII . Continensdiuifionem incomplexorumin decempra-dicamenta,cum expofitionetext. Quæftio 1. Ex quibuſnam rebusperſecomponatur prædica- mentum.                                       ibid. An,& quomodo indiuidua ponanturinprædicamento. 264 Quonammodores infinitæ ponantur, autexcludantur àpræ- dicamento.                                            265 Queſt. 2. An res fint ponendæ in prædicamentis fub nomin- bus abſtractis, vel concretis.                        265 Quæstio 3. Anneceſſeſit prædicamenta diſtingui realiter,aut exnaturarei ; velſufficiatdiſtingui ratione.         271 Quæftio 4. Vtrumprædicamenta fintdecem,itavtnecplura eile poffint,necpauciora.                             27 $
-
-Index. How manifold analogy is.                                                          203 Whether it is necessary that the thing or concept signified by the
-
-name of the analogous term be found intrinsically only in the principal analogate, and in the others only through extrinsic
-
-denomination.                                                                  218 Whether the formal concept of analogous terms is one and abstract‐
-
-ed from the analogates, or manifold; and whether it can be ab‐
-
-stracted from them.                                                            212 Second part of the question, on the unity of the objective concept
-
-of analogous terms.                                                            214 In what way the concept of the analogous term contains the
-
-analogates.                                                                    221 Whether being is univocal with respect to substance and accident,
-
-or analogous, and by what analogy.                                             227 Whether at least complete being is univocal with respect to com‐
-
-plete substance and accident.                                                  231 Whether being is univocal with respect to some things of the same
-
-category, or of different categories.                                          233 Whether being is analogous when compared to created and uncreat‐
-
-ed being, or to God and creatures.                                             255 By what analogy being is said with respect to substance and acci‐
-
-dent, and also with respect to God and creatures.                              237 Whether accident is univocal to the nine categories of accidents, or
-
-analogous.                                                                     240 Whether accident must be a genus, if it is univocal.                              246 Whether at least with respect to some accidents, or categories, acci‐
-
-dent can be univocal.                                                          247 CHAP. II. On the division of the things that are said and that are, with an expo‐
-
-sition of the text. CHAP. III. On the rules of essential predicates, with an exposition of the text. Single Quest. Whether genera not placed subalternately can have
-
-some common difference.                                                       ibid. CHAP. IIII. Containing the division of incomplexes into ten categories, with an
-
-exposition of the text. Question 1. Of which things the category is composed per se.                     ibid. Whether and how individuals are placed in the category.                           264 In what way infinite things are placed in, or excluded from, the
-
-category.                                                                      265 Quest. 2. Whether things are to be placed in the categories under
-
-abstract names or concrete ones.                                               265 Question 3. Whether it is necessary that the categories be distin‐
-
-guished really, or from the nature of the thing; or whether it suf‐
-
-fices that they be distinguished by reason.                                    271 Question 4. Whether the categories are ten, so that there can be
-
-neither more nor fewer.                                                        275
-
 [PDF 17]
-
-> CAP. V. Continenspredicamentumſubſtantie, cum expofitione tex .                                                  278 Quæstio r. Quodnam fit fupremumgenusprædicamenti ſub- ftantiæ .                                              282 Quæftio z. VtrùmDeus ponatur in prædicamento ſubſtan-- tiæ.                                                  284      Y Quæftio 3. Vtrum Angeli, &corpora cæleftia fintinprædica- meuto ſubſtantiæ.                                     187 Quæft. 4. Qualiſnam fit diuifio ſubſtantiæ inprimam,& fe- cundam:vniuoca,vel analoga.                        292 Quæftio s. Quodfit formale definitum definitionis primæ fubftantiæ.                                           297 Dubium 1. Circa comparationesprimarum, & fecundarum ſubſtantiarum-                                        300 Dubiumz. Circatertiamproprietatem ſubſtantiæ.        302 Dub. 3. Circa quartam proprietatem ſubſtantiæ.       305 Dubium   4. Circavltimamprop rietatem ſubſtantiæ.    307 CAP. VI. Continenspredicamentum quantitatis, cumexpofit. tex.                                                   312 Quæftio K. Inquonam fitponendaeffentialis ratioquantita- tis.                                                   315 Quæſt. 2. VerùmLinea, Superficies&Corpus, ſinttres ſpecies diſtinctæ quantitatis continua.                    320 Quæſtio3. Vtrum tempus fit vera ſpecies quantitatis con- tinuæ.                                                 325 Queſtio4. An locus fit ſpecies quantitatis continue,diſtincta àfuperficie.                                           332 Queſt. 5. Anmotus fit ſpecies quantitatis continue. 336 Queſtio6. An numerusfit ſpeciesquantitatisdiſcrete. 333 Quçitio 7. An formanumeri fumenda ſit ab vltima vnitate, velab omnibus .                                        346 Queſtio 8.Annumerus predicamentalis non folum reperiatur incorporibus,fed etiaminrebus ſpiritualibus.      35E Queſt. 9.Anoratio fit veraſpeciesquantitatis.            352 Inquonam fitponenda quantitas orationis.               354 Quæftioro. Anfidareturlinea,ſuperficies,aut corpus, velalia quantitas,actu infinita,collocaretur in predicamento. 357 Annumerusinfinitus effetin prædicamento.                  36,0 Quæſt.11. An quantitas fit res diſtincta àſubſtantia corporca, &cæteris accidentibus abſolutis,                       361 CAP. VII, Continenspredicamentumadaliquid, cum expofit text.                                                 364 Queſtio r. Anad aliquid, vel relatiuum conſtisuat ſpeciale
-
-## Index. CHAP. V. Containing the category of substance, with an exposition of the
-
-text.                                                                   278 Question 1. Which is the supreme genus of the category of
-
-substance.                                                              282 Question 2. Whether God is placed in the category of substance.            284 Question 3. Whether angels and the heavenly bodies are in the
-
-category of substance.                                                  287 Quest. 4. Of what kind the division of substance into first and
-
-second is: univocal or analogous.                                       292 Question 5. What the formal definitum of the definition of first
-
-substance is.                                                           297 Doubt 1. Concerning the comparisons of first and second
-
-substances.                                                             300 Doubt 2. Concerning the third property of substance.                       302 Doubt 3. Concerning the fourth property of substance.                      305 Doubt 4. Concerning the last property of substance.                        307 CHAP. VI. Containing the category of quantity, with an exposition of the
-
-text.                                                                   312 Question 1. In what the essential ratio of quantity is to be placed.       315 Quest. 2. Whether line, surface, and body are three distinct
-
-species of continuous quantity.                                         320 Question 3. Whether time is a true species of continuous quantity.         325 Question 4. Whether place is a species of continuous quantity dis‐
-
-tinct from surface.                                                     332 Quest. 5. Whether motion is a species of continuous quantity.              336 Question 6. Whether number is a species of discrete quantity.              338 Question 7. Whether the form of number is to be taken from the
-
-last unity, or from all.                                                346 Question 8. Whether categorial number is found not only in bod‐
-
-ies, but also in spiritual things.                                      351 Quest. 9. Whether speech is a true species of quantity.                    352 In what the quantity of speech is to be placed.                            354 Question 10. Whether, if a line, surface, or body, or another quan‐
-
-tity infinite in act were given, it would be placed in the
-
-category.                                                               357 Whether infinite number would be in the category.                          360 Quest. 11. Whether quantity is a thing distinct from corporeal
-
-substance and from the other absolute accidents.                        361 CHAP. VII. Containing the category of relation, with an exposition of
-
-the text.                                                               364 Question 1. Whether relation, or the relative, constitutes a special
 
 [PDF 18]
 
-> prædicamentum.                                        367 Quæftio2.An adaliquid fit ſpecialegenus entis realis,     369 Quæst.3.Quodnam fit fupremumgenus prædicamenti adali- quid.                                                  373 Qux.4. An definitio relatiuorum,traditaabAriſt, expropria Tententia fitbona .                                    376 Quz.s. Vtrùm omnes relationes,pertineantadprædicamen- tum ad aliquid.                                        381 Quæftio6.An ſpeciesrelationisprædicamentalis à termino ſit accipienda.                                        38.6 Anfilio correſpondeat duplexrelatio,vna inpatre , &alia in matre,vel eadem in vtroqueparente.                  389 Quæſtio 7.Anterminusrelationis,ſitformaliter abſolutus,vel Formaliter relatiuus.                                   391 Anvnumrelatiuum poſſit,&debeatdefiniri peralterum. 399 Quæ.8.An vnumrelatiuum,ordineturadduos terminos eiuf-dem ſpeciei,pereandem, vel dinerſas rationes.  401 Quæftio 9.An entisrealisadnonens,autadens rationis,detur relatio realis,                                      406 Qu. 10. Analiquarelatioprædicamentalis,fundeturproxime inſubſtantia.                                          411 Quæſt. 11. An vna relatio realis,poffiteſſe fundamentumal- terius.                                                415 Quæftio 12. Vtrum relationes ſecundi generis fundenturin potentia,velin actione.                               420 Quæſt. 13. An relationes tertijgeneris fint reales , &prædica- mentales,                                              425 Quæftio 14.An relatio diſtinguaturrealiter àfundamento,vel folùm ratione.                                        429 Dubiumde ſeparationerelationisfundamento.                433 Dubium 1. An relationi conueniat habere contrarium .     435 Dubium 2.An relatiua ſuſcipiant magis,& minus.           436 CAP, VIII . Continenspredicamentumqualitatiscum expofit. text.                                                  439 Quæſt . 1. An qualitas fitfupremumgenushuius prædicamen- ti:&diuerfæ qualitates,enumeratæ ab Ariſt, diuerfæ ſpecies eius,                                                 441 Quæ.2.An habitus,&diſpoſitiodiftinguanturſpecie, 445 Quæftio 3.Verumnaturalispotentia,&impotentia,fintſpecies qualitatisdiſtinctæ,                                 449 Quzſtio4. Dehis,quæ pertinentadpaſſionem, &paffibilem qualitatem.                                            455 Dubium 1, Anpaſſio , &paſſibilis qualitas, Gatverzſpecies
-
-Index. category.                                                               367 Question 2. Whether relation is a special genus of real being.          369 Quest. 3. What is the supreme genus of the category of relation.        373 Qu. 4. Whether the definition of relatives handed down by
-
-Aristotle in his own view is good.                                   376 Qu. 5. Whether all relations belong to the category of relation.        381 Question 6. Whether the species of categorial relation is to be
-
-taken from the term.                                                 386 Whether to the son there corresponds a twofold relation, one in
-
-the father and another in the mother, or the same in both
-
-parents.                                                             389 Question 7. Whether the term of a relation is formally absolute or
-
-formally relative.                                                   391 Whether one relative can and must be defined through the other.         399 Qu. 8. Whether one relative is ordered to two terms of the same
-
-species through the same ratio or through different ones.            401 Question 9. Whether there is a real relation of a real being to non-
-
-being, or to a being of reason.                                      406 Qu. 10. Whether any categorial relation is founded proximately in
-
-substance.                                                           411 Quest. 11. Whether one real relation can be the foundation of
-
-another.                                                             415 Question 12. Whether relations of the second genus are founded
-
-in potency or in action.                                             420 Quest. 13. Whether relations of the third genus are real and
-
-categorial.                                                          425 Question 14. Whether a relation is distinguished from its founda‐
-
-tion really, or only by reason.                                      429 Doubt on the separation of a relation from its foundation.              433 Doubt 1. Whether it belongs to relation to have a contrary.             435 Doubt 2. Whether relatives admit of more and less.                      436 CHAP. VIII. Containing the category of quality, with an exposition of
-
-the text.                                                            439 Quest. 1. Whether quality is the supreme genus of this category,
-
-and the diverse qualities enumerated by Aristotle are diverse
-
-species of it.                                                       441 Qu. 2. Whether habit and disposition are distinguished in species.      445 Question 3. Whether natural potency and impotency are distinct
-
-species of quality.                                                  449 Question 4. On the things that pertain to passion and passible
-
-quality.                                                             455 Doubt 1. Whether passion and passible quality are true species
-
 [PDF 19]
 
-> JNDEX.                          ibid. qualitatis. Dubium 2.An paſſio,& paſſibilis qualitas,funtdiuerfæ ſpe- cies,vel vnatantum.                                 456 Dubium3. Anpaſſiones animæ pertineant ad hanc ſpeciem qualitatis.                                        458 Dubium 4.An obiecta omnium ſenſuum externorum,vtob icctacorum funt,pertineant ad hanc ſpeciem qualitatis.462 Quæftios. QuidperFormam,&Figuram intelligatArift. & an fintdiuerfæ ſpecies qualitatis,veleadem.         464 CAP. IX. De predicamentoAgionis Etpaffionis:          466 Quid Actio, & Paſſio fit,                             467 Quot,& quægenera,& ſpecies habeantactio,&paffio. 468 Quet,&quæfintproprietates actionis,&paſſionis. ibid. CAP.X. Deceterispradicamentis, PredicamentumQuando.                                  469 Quot,& quæ habeatgenera,& ſpecies hoc prædicamentum. 472 Quot,& quas proprietates habeathocprædicamentum.ibid. PredicamentumVbi..                                    473 Quid fit Vbi,autin quoconſiſtitratio formalis cius.   ibid. Quot,& quæ habeat genera, & ſpecies,Vbi.              474 Quot,&quas proprietates habeat vbi.                   475 Predicamentum Siam.                                   ibid, Inquo conſiſtatformalisratiohuius præd.               476 Quot,& quæ fintgenera,& ſpecies Situs.                478 Quot,& quæ fintproprietates huiuspræd.                ibid. PredicamentumHabere.                                  ibid. Quot,& quæ funtgenera,&ſpecieshabere.             479 Quot,& quæ fint proprietateshuiuspræd.            480 Quæſt.Anhabere ſitaliquid intrinfecum,& inhærens:vel in fola denominatione extrinfecaconfiftat.            ibid. Questiogeneralisproomnibasſexultimis pradicamentic. Anratioformalis corum confiftatinaliquo intrinfeco,& for- maliter inhærenti,vel in ſola denominatione extrinfeca, 484 CAP. XI. Deoppofitis,cum expofitionetext.             489 CAP.XII, Demodis prioris,cum expofitione textus.      490 CAP.XIII . De modis fimul, cum expofitione textus.    49 CAP. XIV. De ſpeciebus motus cum expofitionetext.     492 CAP. XV, Demodis habere,cum expofitionetext.          494 SECVNDA           PARS. Queftiones&dubiade interpretazione. Proæmium totius operis.                               495
-
-Index. of quality.                                                            ibid. Doubt 2. Whether passion and passible quality are different
-
-species, or only one.                                               456 Doubt 3. Whether the passions of the soul pertain to this species
-
-of quality.                                                         458 Doubt 4. Whether the objects of all the external senses, as they
-
-are their objects, pertain to this species of quality.              462 Question 5. What Aristotle understands by form and figure, and
-
-whether they are diverse species of quality, or the same.            464 CHAP. IX. On the Category of Action and Passion.                        466 What action and passion are.                                            467 How many and which genera and species action and passion have.          468 How many and which are the properties of action and passion.           ibid. CHAP. X. On the Remaining Categories. The Category When.                                                      469 How many and which genera and species this category has.                471 How many and which properties this category has.                       ibid. The Category Where.                                                     473 What Where is, or in what its formal ratio consists.                   ibid. How many and which genera and species Where has.                        474 How many and which properties Where has.                                475 The Category Position.                                                 ibid. In what the formal ratio of this categ. consists.                       476 How many and which are the genera and species of Position.              478 How many and which are the properties of this categ.                   ibid. The Category Having.                                                   ibid. How many and which are the genera and species of Having.                479 How many and which are the properties of this categ.                    480 Quest. Whether having is something intrinsic and inhering, or
-
-consists in an extrinsic denomination alone.                        ibid. General Question for all the last six categories. Whether their formal ratio consists in something intrinsic and
-
-formally inhering, or in an extrinsic denomination alone.           484 CHAP. XI. On Opposites, with an exposition of the text.                489 CHAP. XII. On the Modes of Prior, with an exposition of the text.      490 CHAP. XIII. On the Modes of Simultaneous, with an exposition of the
-
-text.                                                               491 CHAP. XIV. On the Species of Motion, with an exposition of the text.   492 CHAP. XV. On the Modes of Having, with an exposition of the text.      494
-
-SECOND PART. Questions and Doubts on Interpretation. Proem of the Whole Work.                                               495
-
 [PDF 20]
-
-> INDEX.                   ibid. Quodnam fit obiectumhuius operis. Delocoquemhocopus obtineat inter cæteraspartes dialecti- cæ,& diuiſione eius.                                   497 CAP.I. Cum expofitione textus.                           ibid. Queſt.r.An vocesfignificent conceptus &res,atqueſcripturę voces adplacitum,conceptusverò naturaliterres. p. 499 CAP . II . De nominecumexpofit.text.                     503 Quest.1.An benedefiniatur nomeniper vocem.               504 Queſtio 2.Annomen definiatur pervocemtanquamper ve- rumgenus.                                              506 Quæftio3.anverumfitnomenſignificare adplacitum :vtin definitione dicitur.                                   507 Queſtio4. Anverum fit,partesnominisſeparatas,noneffe fi-gnificatiuas.                                   518 Queſtio 5. Annomen infinitum,omnino fit excludendum à definitioné.                                            512 Demodo fignificandinominis infiniti.                       513 Dequibuſnamdicaturnomeninfinitum inpropofitione.514 Antranſcendentianominapoſſint infinitari.                 517 Annominadefinita fint enumerandainter abſoluta, vel inter connotatiua.                                      518 An nomen infinitum dicatur vniuocède entibus & non enti-bus,vel analogicè.                                ibid. CAP. III. Deverbo,cum expofitionetext.                519 Queſtio 1. An verum fit verbum confignificare tempus. 520 Queſtio 2. An verbum fit verapars propofitionis.      525 Queſtio 3. Anverbuminfinitumpoffit collocari inpropofi- tione.                                                 528 CAP. IV. De enunciatione,cum expofitione text.            531 Queſtio 1. An in definitione orationis,definiatur ratio invui- uerfali,vtperfectam,&imperfectam,fimplicem & compo- fitamcomprehendit.                              532 Queſtio 2. Anenunciatio fit ensreale,vel rationis.        534 Queſtio 3. Anenunciatio quidditatiuè ſit definitaab Arifto- teleperveritatem,& falfitatem.                        535 Quęft.4.an enunciatio mentalisfitvna ſimplex qualitas. 537 Queſtiog.andiuifio enunciationis,in affirmatiuam,& nega- tiuam,fitgenerisinſpecies,vel analogi in analogata. 540 Queſtio 6.Andiuifio enunciationis in fimplicem, &compo- fitam,fitgenerisinſpecies,velanalogi in analogata. 542 CAP. V. Demodis oppofitionum.                         544 CAP. VI. Deoppofitione, Et veritate enunciationum defuturo contingenti cum expofitionetextus. A HELLO             545 Quæftio LYON
-
-Index. What the object of this work is.                                             ibid. On the place which this work holds among the other parts of Dialectic,
-
-and on its division.                                                        497 CHAP. I. With an exposition of the text.                                     ibid. Quest. 1. Whether words signify concepts and things; and whether
-
-writings signify words by convention, but concepts signify things
-
-naturally.                                                               p. 499 CHAP. II. On the Noun, with an exposition of the text.                        503 Quest. 1. Whether the noun is rightly defined through word.                   504 Question 2. Whether the noun is defined through word as through a
-
-true genus.                                                                 506 Question 3. Whether it is true that the noun signifies by convention, as
-
-is said in the definition.                                                  507 Question 4. Whether it is true that the parts of a noun, when separated,
-
-are not significative.                                                      518 Question 5. Whether the infinite noun is to be altogether excluded from
-
-the definition.                                                             512 On the mode of signifying of the infinite noun.                               513 Of what things the infinite noun is said in a proposition.                    514 Whether transcendental nouns can be made infinite.                            517 Whether infinite nouns are to be counted among absolute or among
-
-connotative terms.                                                          518 Whether the infinite noun is said univocally of beings and non-beings,
-
-or analogically.                                                           ibid. CHAP. III. On the Verb, with an exposition of the text.                       519 Question 1. Whether it is true that the verb consignifies time.               520 Question 2. Whether the verb is a true part of the proposition.               525 Question 3. Whether the infinite verb can be placed in a proposition.         528 CHAP. IV. On the Enunciation, with an exposition of the text.                 531 Question 1. Whether in the definition of speech, speech is defined in
-
-general, so as to include perfect and imperfect, simple and
-
-composite.                                                                  532 Question 2. Whether the enunciation is a real being or a being of
-
-reason.                                                                     534 Question 3. Whether the enunciation was defined quidditatively by
-
-Aristotle through truth and falsity.                                        535 Quest. 4. Whether the mental enunciation is one simple quality.               537 Question 5. Whether the division of the enunciation into affirmative
-
-and negative is of a genus into species, or of an analogous term into
-
-analogates.                                                                 540 Question 6. Whether the division of the enunciation into simple and
-
-composite is of a genus into species, or of an analogous term into
-
-analogates.                                                                 542 CHAP. V. On the Modes of Oppositions.                                         544 CHAP. VI. On the Opposition and Truth of Enunciations about the Contingent
-
-Future, with an exposition of the text.                                     545
-
-Question
 
 [PDF 21]
 
@@ -12996,128 +13112,188 @@ T H E E N D.
 
 [PDF 773]
 
-> Quæſt, vnic. An fingulares enunciationesde futuro contin genti,habeantveritatem,aut falfitatemdeterminatam. 548 4 Aneffectus contingens,quando eſt, ſit neceffarius,vel adhuc contingens.                                        555 Depriorsrefolutione.                                    557 Proæmium huiusoperis.                                  ibid . Deinfcriptione huius operis.                           ibid . Quoduam fit obiectumhuiusoperis.                         558 Diuifio totius operis.                                  559 САР. І. Ситехxpofitionetext .                          ibid. CAP.II.Cum expofitionetext.                             582 Notabile circa literam .                                553 Notabile 2 .                                           ibids Notabile ;.                                            564 CAP. III. Cumexpofit.text.                              565 Dubium1.circa conuerfionempropofitionumdeneceſſe. 566 AnverafitfecundaRegula conuerfionis,vniuerfalisaffirmati- ux,deneceffe.                                     ibid. Dubium2, An bene probaueritAriftot.regulas conuerfionis propofitionumdeneceſſe.                            568 Circa conuerfionempropoſitionúdemodo contingenti. 569 Notabilia3.                                  ibidr& fequen. Notabilevnicum circa conuerfionem propofitionumdepof- abili,& impoſſibili.                               574 CAP. IV.Cum expofit.text.                              ibid: Quid fit figura,& quotuplex,&quimodus.                  576 Anprætertres figuras enumeratasab Arift.addenda fit quarta. 577 CAP.V.Cüm expofit.text.                                 578 •CAP. VI.Cum expofittext.                               581 Traditurarsinueniendi medium,ad coficiendos fyllogifmos, & probandum quodlibet genus propofitionum.         58; Depofteriori refolutione.                               583 Proæmium totius operis.                                ibid. Quodnam fit fubiectumhuius operis.                      586 Digniorem effehacpartem dialecticę ceteris omnibus often- 7ditur. 587 Finis huius operis,& titulus , feu infcriptio eiusexplicatur. 189. Explicatur quem locum obtineredebeat opushoc inter cæte- : raspartes Dialecticæ . Quaredicatur iudicatiua hæc pars pofterioriſtica, pars verò topicainuentiua.
+> - Quæst. vnic. An singulares enunciationes de futuro contingenti habeant veritatem, aut falsitatem determinatam · 548
+>   - An effectus contingens, quando est, sit necessarius, vel adhuc contingens · 555
+> - De priori resolutione · 557
+>   - Proœmium huius operis · ibid.
+>     - De inscriptione huius operis · ibid.
+>     - Quodnam sit obiectum huius operis · 558
+>     - Diuisio totius operis · 559
+>   - CAP. I. Cum expositione text. · ibid.
+>   - CAP. II. Cum expositione text. · 562
+>     - Notabile circa literam · 563
+>     - Notabile 2 · ibid.
+>     - Notabile 3 · 564
+>   - CAP. III. Cum exposit. text. · 565
+>     - Dubium 1. circa conuersionem propositionum de necesse · 566
+>       - An vera sit secunda Regula conuersionis, vniuersalis affirmatiuæ, de necesse · ibid.
+>     - Dubium 2. An bene probauerit Aristot. regulas conuersionis propositionum de necesse · 568
+>     - Circa conuersionem propositionum de modo contingenti · 569
+>       - Notabilia 3 (& sequen.) · ibid.
+>     - Notabile vnicum circa conuersionem propositionum de possibili, & impossibili · 574
+>   - CAP. IV. Cum exposit. text. · ibid.
+>     - Quid sit figura, & quotuplex, & qui modus · 576
+>     - An præter tres figuras enumeratas ab Arist. addenda sit quarta · 577
+>   - CAP. V. Cum exposit. text. · 578
+>   - CAP. VI. Cum exposit. text. · 581
+>     - Traditur ars inueniendi medium, ad conficiendos syllogismos, & probandum quodlibet genus propositionum · 583
+> - De posteriori resolutione · 585
+>   - Proœmium totius operis · ibid.
+>     - Quodnam sit subiectum huius operis · 586
+>     - Digniorem esse hanc partem dialecticæ cæteris omnibus ostenditur · 587
+>     - Finis huius operis, & titulus, seu inscriptio eius explicatur · 589
+>     - Explicatur quem locum obtinere debeat opus hoc inter cæteras partes Dialecticæ
+>     - Quare dicatur iudicatiua hæc pars posterioristica, pars verò topica inuentiua
+>     - Modus procedendi, & diuisio totius operis · 594
+>   - CAP. I. Cum exposit. text. · 595
+>     - Quæstio 1. An de omni, & sola cognitione intellectiua, intelligatur vniuersalis propositio Arist. · 598
+>     - Quæst. 2. An de subiecto sit præsupponenda actualis existentia · 601
+>     - Quæstio 3. An de subiecto præcognoscendum sit quid rei, vel solùm quid nominis · 603
+>     - Quæstio 4. An præcognitiones de subiecto, passione, & principio haberi debeant ante demonstrationem, vel etiam in demonstratione ipsa · 606
+>     - Quæst. 5. An assensus conclusionis fiat ex assensu præmissarum, aut principiorum in genere causæ efficientis, vel solum materialis · 608
+>     - Quæstio 6. An assensus principiorum includatur formaliter in assensu conclusionis · 611
+>     - Quæstio 7. An habito assensu præmissarum, assentiatur intellectus conclusioni in eodem instanti · 615
+>     - Quæstio 8. An habitis assensibus præmissarum, liberum sit intellectui assentire conclusioni, vel necesse sit assensum eius habere in eodem instanti · 617
+>   - CAP. II. Cum exposit. tex. · 622
+>     - Quæstio 1. An secunda definitio demonstrationis sit bona · 625
+>     - Quæstio 2. Quotuplex sit propositio per se nota, an omnis immediata sit appellanda per se nota · 627
+>     - Quæstio 3. An nuda definitio sit principium, quod vocatur positio · 633
+>     - Quæst. 4. An principia demonstrationis sint magis vera, quàm conclusio: & vniuersaliter, vna propositio an possit esse verior altera · 634
+>     - Quæstio 5. An semper sit necessarium, vtramque præmissam demonstrationis certiorem esse conclusione · 638
+>   - CAP. IV. Cum expositione tex. · 644
+>     - Quæstio 1. An demonstratio debeat procedere ex necessariis · 646
+>     - Quæst. 2. An demonstratio debeat constare ex propositionibus de omni, per se, & vniuersaliter · 650
+>     - Quæstio 3. Quidnam significetur per terminum vniuersaliter, & an conueniat propositionibus superiorum de inferioribus, vel solùm his, quæ fiunt in terminis conuertibilibus · 656
+>   - CAP. V. Cum expositione textus · 659
+>     - Quæst. 1. An demonstratio procedens à causa remota sit quia, vel propter quid · 661
+>     - Quæstio 2. An diuisio demonstrationis in demonstrationem quia, & propter quid, sit generis in species, vel analogi in analogata · 664
+>   - TRACT. De subalternatione scientiarum · 673
+>     - Quid nomine scientiæ subalternantis, & subalternatæ intelligatur · ibid.
+>     - Quidnam sit subalternatio scientiarum · ibid.
+>     - An subalternatio scientiarum explicata sit possibilis, vel sola imaginatione excogitata · 674
+>     - An subalternata scientia, existens sine subalternante, sit vera scientia: vel potiùs opinio · 678
+>     - An subalternata scientia, inter proprios limites, demonstret propter quid, vel solùm quia · 680
+>   - CAP. XXVI. Cum expositione textus · 685
+>   - TRACT. I. De habitu principiorum · 687
+>     - An præter intellectum, & species intelligibiles detur habitus principiorum · 688
+>     - Quidnam sit habitus principiorum · 690
+>     - An habitus principiorum sit naturalis, vel acquisitus ab intellectu, per proprios actus · ibid.
+>     - An habitus principiorum sit idem secundum speciem pro omnibus principiis: vel diuersus pro diuersis · 695
+>   - TRACT. De habitu scientiæ · 697
+>     - An præter habitum principiorum, ponendus sit pro conclusionibus alter habitus distinctus, qui appellatur scientia · ibid.
+>     - An euidentia pertineat ad essentiam scientiæ · 699
+>     - An scientia sit de singularibus, & de contingentibus, & entibus per accidens · 704
+>     - An de ente per accidens possit dari scientia · 706
+>     - An de casualibus, & fortuitis detur scientia · 707
+>   - TRACT. III. De opinione, & fide humana
+>     - Quidnam sit opinio, & quid fides humana · ibid.
+>     - An formido sit de intrinseca ratione opinionis & humanæ fidei · 708
+>     - An opinio possit esse simul cum scientia de eadem propositione, & in eodem intellectu · 710
+> - Selecta ex libris Topicorum · 717
+>   - De fine, ac diuisione horum librorum · ibid.
+>   - Quodnam sit obiectum huius operis, & ordo eius cum cæteris partibus Dialecticæ explicatur · ibid.
+>   - Quod sit prædicatum Dialecticum, & quotuplex · 718
+>   - Quid sit, & quotuplex problema Dialecticum · ibid.
+>   - Quidnam sit propositio Dialectica, & quotuplex, & quomodo distinguatur à problemate · 723
+>   - Quid sit, & quotuplex propositio probabilis · 725
+>   - Quidnam sit syllogismus topicus, aut dialecticus · 726
+>   - Enumeratio, atque explicatio locorum, ex quibus deducuntur argumenta probabilia, pro disputatione ineunda · 727
+> - Pro libris Elenchorum · 735
+>   - TRACT. De syllogismo Sophistico · ibid.
+>     - Quidnam sit syllogismus Sophisticus, & quotuplex: & an verus sit syllogismus, vel non · ibid.
 
-Single Quest. Whether singular enunciations about the contin‐
-
-gent future have determinate truth or falsity.                        548 Whether a contingent effect, when it is, is necessary, or still
-
-contingent.                                                           555 On Prior Resolution.                                                      557 Proem of this work.                                                      ibid. On the title of this work.                                               ibid. What the object of this work is.                                          558 Division of the whole work.                                               559 CHAP. I. With an exposition of the text.                                 ibid. CHAP. II. With an exposition of the text.                                 582 Note on the letter.                                                       563 Note 2.                                                                  ibid. Note 3.                                                                   564 CHAP. III. With an exposition of the text.                                565 Doubt 1, concerning the conversion of propositions de necesse.            566 Whether the second rule of conversion, of the universal affirma‐
-
-tive de necesse, is true.                                            ibid. Doubt 2. Whether Aristotle proved well the rules for the conver‐
-
-sion of propositions de necesse.                                      568 On the conversion of propositions of the contingent mode.                 569 Three Notes.                                                      ibid. & foll. Single Note, on the conversion of propositions de possibili and de
-
-impossibili.                                                          574 CHAP. IV. With an exposition of the text.                                ibid. What a figure is, and how many kinds, and what a mood is.                 576 Whether, besides the three figures enumerated by Aristotle, a
-
-fourth is to be added.                                                577 CHAP. V. With an exposition of the text.                                  578 CHAP. VI. With an exposition of the text.                                 581 The art of finding the middle is delivered, for constructing syllo‐
-
-gisms and proving any kind of proposition.                            585 On Posterior Resolution.                                                  585 Proem of the whole work.                                                 ibid. Which is the subject of this work.                                        586 This part of Dialectic is shown to be more worthy than all the
-
-others.                                                               587 The end of this work, and its title or inscription, is explained.        589. It is explained what place this work ought to hold among the oth‐
-
-er parts of Dialectic. Why this posterioristic part is called judicative, but the topical part inventive.
-
-ẽ
+- Single Quest. Whether singular enunciations about the contingent future have determinate truth or falsity · 548
+  - Whether a contingent effect, when it is, is necessary, or still contingent · 555
+- On Prior Resolution · 557
+  - Proem of this work · ibid.
+    - On the title of this work · ibid.
+    - What the object of this work is · 558
+    - Division of the whole work · 559
+  - CHAP. I. With an exposition of the text · ibid.
+  - CHAP. II. With an exposition of the text · 562
+    - Note on the letter · 563
+    - Note 2 · ibid.
+    - Note 3 · 564
+  - CHAP. III. With an exposition of the text · 565
+    - Doubt 1, concerning the conversion of propositions *de necesse* · 566
+      - Whether the second rule of conversion, of the universal affirmative *de necesse*, is true · ibid.
+    - Doubt 2. Whether Aristotle proved well the rules for the conversion of propositions *de necesse* · 568
+    - On the conversion of propositions of the contingent mode · 569
+      - Three Notes (and following) · ibid.
+    - Single Note, on the conversion of propositions *de possibili* and *de impossibili* · 574
+  - CHAP. IV. With an exposition of the text · ibid.
+    - What a figure is, and how many kinds, and what a mood is · 576
+    - Whether, besides the three figures enumerated by Aristotle, a fourth is to be added · 577
+  - CHAP. V. With an exposition of the text · 578
+  - CHAP. VI. With an exposition of the text · 581
+    - The art of finding the middle is delivered, for constructing syllogisms and proving any kind of proposition · 583
+- On Posterior Resolution · 585
+  - Proem of the whole work · ibid.
+    - Which is the subject of this work · 586
+    - This part of Dialectic is shown to be more worthy than all the others · 587
+    - The end of this work, and its title or inscription, is explained · 589
+    - It is explained what place this work ought to hold among the other parts of Dialectic
+    - Why this posterioristic part is called judicative, but the topical part inventive
+    - The mode of proceeding, and the division of the whole work · 594
+  - CHAP. I. With an exposition of the text · 595
+    - Question 1. Whether Aristotle’s universal proposition is understood of all and only intellective cognition · 598
+    - Quest. 2. Whether actual existence is to be presupposed of the subject · 601
+    - Question 3. Whether what the thing is, or only what the name is, must be known beforehand of the subject · 603
+    - Question 4. Whether the precognitions of the subject, the attribute, and the principle must be had before the demonstration, or also in the demonstration itself · 606
+    - Quest. 5. Whether the assent of the conclusion comes about from the assent of the premises or principles in the genus of efficient cause, or only of material cause · 608
+    - Question 6. Whether the assent of the principles is formally included in the assent of the conclusion · 611
+    - Question 7. Whether, once the assent of the premises is had, the intellect assents to the conclusion in the same instant · 615
+    - Question 8. Whether, once the assents of the premises are had, the intellect is free to assent to the conclusion, or whether it is necessary to have the assent to it in the same instant · 617
+  - CHAP. II. With an exposition of the text · 622
+    - Question 1. Whether the second definition of demonstration is good · 625
+    - Question 2. In how many ways a proposition is known *per se*, and whether every immediate proposition is to be called known *per se* · 627
+    - Question 3. Whether a bare definition is a principle which is called a position · 633
+    - Quest. 4. Whether the principles of demonstration are more true than the conclusion, and universally, whether one proposition can be truer than another · 634
+    - Question 5. Whether it is always necessary that each premise of a demonstration be more certain than the conclusion · 638
+  - CHAP. IV. With an exposition of the text · 644
+    - Question 1. Whether demonstration must proceed from necessary things · 646
+    - Quest. 2. Whether demonstration must consist of propositions said of every, *per se*, and universally · 650
+    - Question 3. What is signified by the term “universally,” and whether it belongs to propositions of superior predicates about inferiors, or only to those which are made in convertible terms · 656
+  - CHAP. V. With an exposition of the text · 659
+    - Quest. 1. Whether demonstration proceeding from a remote cause is *quia* or *propter quid* · 661
+    - Question 2. Whether the division of demonstration into demonstration *quia* and *propter quid* is a division of a genus into species, or of an analogous term into its analogates · 664
+  - TREAT. On the Subalternation of Sciences · 673
+    - What is understood by the name of subalternating and subalternated science · ibid.
+    - What the subalternation of sciences is · ibid.
+    - Whether the subalternation of sciences explained above is possible, or devised by the imagination alone · 674
+    - Whether a subalternated science, existing without the subalternating, is true science, or rather opinion · 678
+    - Whether a subalternated science, within its own limits, demonstrates *propter quid*, or only *quia* · 680
+  - CHAP. XXVI. With an exposition of the text · 685
+  - TREAT. I. On the Habit of Principles · 687
+    - Whether, besides the intellect and the intelligible species, there is a habit of principles · 688
+    - What the habit of principles is · 690
+    - Whether the habit of principles is natural, or acquired by the intellect through its own acts · ibid.
+    - Whether the habit of principles is the same in species for all principles, or diverse for diverse ones · 695
+  - TREAT. On the Habit of Science · 697
+    - Whether, besides the habit of principles, another, distinct habit, which is called science, is to be posited for conclusions · ibid.
+    - Whether evidence pertains to the essence of science · 699
+    - Whether there is science of singulars, of contingents, and of beings *per accidens* · 704
+    - Whether there can be science of being *per accidens* · 706
+    - Whether there is science of things by chance and by fortune · 707
+  - TREAT. III. On Opinion and Human Faith
+    - What opinion is, and what human faith is · ibid.
+    - Whether fear is of the intrinsic ratio of opinion and of human faith · 708
+    - Whether opinion can exist together with science concerning the same proposition and in the same intellect · 710
+- Selections from the Books of the Topics · 717
+  - On the end and division of these books · ibid.
+  - What the object of this work is, and its order with the other parts of Dialectic, is explained · ibid.
+  - What a Dialectical predicate is, and how manifold · 718
+  - What a Dialectical problem is, and how many kinds there are · ibid.
+  - What a dialectical proposition is, and how many kinds there are, and how it is distinguished from a problem · 723
+  - What a probable proposition is, and how many kinds there are · 725
+  - What a Topical or dialectical syllogism is · 726
+  - Enumeration and explanation of the places from which probable arguments are deduced for entering upon a disputation · 727
+- For the Books of the Sophistical Refutations · 735
+  - TREAT. On the Sophistical Syllogism · ibid.
+    - What a Sophistical syllogism is, and how many kinds there are; and whether it is a true syllogism, or not · ibid.
 
 [PDF 774]
 
-> Modus procedendi,&diuifio totius operis.                594 CAP. I. Cum expofit.text.                               595 Quæftio 1. Andeomni,&fola cognitioneintellectiua,intel- ligaturvniuerfalis propofitio Arift.                 598 Quæft. 2. Andefubiecto ſitpræfupponendaactualis exiſten- tia .                                                601 Quæſtio 3. Au deſubiectapræcognoſcendum fit quidrei,vel folùm quidnominis.                                   603 Queſtio 4. An præcognitiones de ſubiecto,paſſione,&princi- piohaberidebeant ante demonftrationem,veletiaminde- monftratione ipfa.                                   606 Quest.s.Anaffenfus conclufionis fiat,ex aſſenſupromiffarum, autprincipiorum ingenere caufæ efficientis, vel ſolumma- terialis.                                            608 Queſtio 6. An affenfusprincipiorumincludaturformaliterin aſſenſu conclufionis.                                611 Queſtio7.anhabito affenfu præmiſſarum,affentiatur intelle- ctus conclufioni in codem inftanti,                  615 Queſtio8. Anhabitis affenfibus præmiſſarum,liberum fitin- tellectui affentire conclufioni,vel neceſſe fitaffenfumeius habere in codem inſtanti.                             617 CAP. II. Ситexpofit.tex.                                622 Quæftio 1.An fecundadefinitiodemonſtrationis fitbona.625 Quæftio 2.quotuplexfit propofitio per ſenota, an omnis im- mediata fitappellandaperſenota.                     627 Quæftio 3.Annudadefinitiofitprincipium,quod vocaturpo- fitio.                                                633 Quæft. 4.Anprincipiademonftrationis fintmagis vera,quàm conclufio:&vniuerfaliter,vnapropofitio,anpoffit eſſeve- rioraltera.                                          634 Quæftio 5. An ſemper fit neceſſarium, vtramquepræmiflam demonftrationis,certiorem effe conclufione.           638 CAP.IV. Cum expofitione tex.                            644 Quæftio 1. Andemonftratiodebeatprocedere ex neceffariis. 646 Queſt. 2.andemonſtratio debeat conſtare ex propoſitionibus deomni,perſe,& vniuerfaliter,                         650 Quæftio 3. Quidnam fignificeturper terminuinvniuerfaliter &anconueniat propofitionibus fuperiorumde inferiori- bus ,vel folùmhis, quæ fiunt in terminis conuertibilibus. 656 CAP.V. Cumexpofitionetextus.                            644 Quæſt.1. Andemonftratioprocedens à cauſa remotafir, quia
-
-The mode of proceeding, and the division of the whole work.                594 CHAP. I. With an exposition of the text.                                   595 Question 1. Whether Aristotle’s universal proposition is understood
-
-of all and only intellective cognition.                                  598. Quest. 2. Whether actual existence is to be presupposed of the
-
-subject.                                                                 601 Question 3. Whether what the thing is, or only what the name is,
-
-must be known beforehand of the subject.                                 603 Question 4. Whether the precognitions of the subject, the attribute,
-
-and the principle must be had before the demonstration, or also
-
-in the demonstration itself.                                             606 Quest. 5. Whether the assent of the conclusion comes about from
-
-the assent of the premises or principles in the genus of efficient
-
-cause, or only of material cause.                                        608 Question 6. Whether the assent of the principles is formally includ‐
-
-ed in the assent of the conclusion.                                      611 Question 7. Whether, once the assent of the premises is had, the in‐
-
-tellect assents to the conclusion in the same instant.                   615 Question 8. Whether, once the assents of the premises are had, the
-
-intellect is free to assent to the conclusion, or whether it is neces‐
-
-sary to have the assent to it in the same instant.                       617 CHAP. II. With an exposition of the text.                                  622 Question 1. Whether the second definition of demonstration is
-
-good.                                                                    625 Question 2. In how many ways a proposition is known per se, and
-
-whether every immediate proposition is to be called known per
-
-se.                                                                      627 Question 3. Whether a bare definition is a principle which is called a
-
-position.                                                                633 Quest. 4. Whether the principles of demonstration are more true
-
-than the conclusion, and universally, whether one proposition can
-
-be truer than another.                                                   634 Question 5. Whether it is always necessary that each premise of a
-
-demonstration be more certain than the conclusion.                       638 CHAP. IV. With an exposition of the text.                                  644 Question 1. Whether demonstration must proceed from necessary
-
-things.                                                                  646 Quest. 2. Whether demonstration must consist of propositions said
-
-of every, per se, and universally.                                       650 Question 3. What is signified by the term “universally,” and whether
-
-it belongs to propositions of superior predicates about inferiors,
-
-or only to those which are made in convertible terms.                    656 CHAP. V. With an exposition of the text.                                   644 Quest. 1. Whether demonstration proceeding from a remote cause is
-
-quia
-
 [PDF 775]
 
-> velpropterquid.                                      661 Queſtio 2. an diuifio demonſtrationis in demonſtratione, quia,&propterquid, fitgeneris in ſpecies , velanalogiin analogata.                                           664 TRACT. Defubalternatione fcientiarum.               673 Quid nominefcientiæ ſubalternantis,&fubalternatæ intelli- gatur.                                               ibid. Quidnam fit fubalternatio ſcientiarum .                ibid. Anfubalternatio ſcientiarum explicata,ſitpoſſibilis,velſola imaginatione excogitata.                             674 Anfubalternataſcientia,exiſtens ſine ſubalternante, fitvera ſcientia:velpotiùs opinio.                          678 An ſubalternata ſcientia, interproprios limites,demonſtret propter quid,velfolùm quia.                          680 CAP. XXVI . Cum expofitionetextus.                     680 TRACT. 1. De habitu principiorum.                      687 Anpræter intellectum, & fpecies intelligibiles detur habitus principiorum.                                        688 Quidnam fit habitusprincipiorum.                       690 Anhabitusprincipiorumfitnaturalis,vel acquifitusab intel- lectu,per proprios actus.                            ibid. Anhabitusprincipiorum fitidem ſecundum ſpeciem,pro oin- nibusprincipiis:vel diuerfus pro diuerfis.       695 TRACT. Dehabitufcientia.                               697 Anpræterhabitum principiorum,ponendus fitproconclufio- nibusalterhabitus diſtinctus, qui appellaturſcientia. ibid. Ancuidentia pertineatad eſſentiam ſcientiæ,             699 Anſcientiafitde fingularibus,& de contingentibus,& entibus peraccidens.                                        704 Andeenteper accidens,poſſit dariſcientia.              706 Andecafualibus,& fortuitis detur ſcientia.             707 TRACT. III . De opinione, Et/fide humana. Quidnam fit opinio,& quid fides humana.                ibid. Anformido fit de intrinfeca ratione opinionis & humanæ fidei.                                              708 Anopiniopoffiteffe fimul,cum ſcientiade eadem propoſitio- ne,& in codem intellectu.                            710 Selecta ex libris Topicorum,                           717 De fine, ac diuiſionehorum librorum.                   ibid. Quodnam fit obiectum huius operis,&ordo eius,cum cæte- ris partibus Dialecticæ explicatur.             ibid. Quod fitprædicatum Dialecticum,& quotuplex.        718 Quidfit,& quotuplex problema Dialecticum.              ibid, čij
-
-or propter quid.                                                        661 Question 2. Whether the division of demonstration into demon‐
-
-stration quia and propter quid is a division of a genus into
-
-species, or of an analogous term into its analogates.                664 TREAT. On the Subalternation of Sciences.                               673 What is understood by the name of subalternating and subalter‐
-
-nated science.                                                       ibid. What the subalternation of sciences is.                                 ibid. Whether the subalternation of sciences explained above is possi‐
-
-ble, or devised by the imagination alone.                            674 Whether a subalternated science, existing without the subalter‐
-
-nating, is true science, or rather opinion.                          678 Whether a subalternated science, within its own limits, demon‐
-
-strates propter quid, or only quia.                                  680 CHAP. XXVI. With an exposition of the text.                             689 TREAT. I. On the Habit of Principles.                                   687 Whether, besides the intellect and the intelligible species, there is
-
-a habit of principles.                                               688 What the habit of principles is.                                        690 Whether the habit of principles is natural, or acquired by the in‐
-
-tellect through its own acts.                                        ibid. Whether the habit of principles is the same in species for all prin‐
-
-ciples, or diverse for diverse ones.                                 695 TREAT. On the Habit of Science.                                         697 Whether, besides the habit of principles, another, distinct habit,
-
-which is called science, is to be posited for conclusions.           ibid. Whether evidence pertains to the essence of science.                     699 Whether there is science of singulars, of contingents, and of be‐
-
-ings per accidens.                                                   704 Whether there can be science of being per accidens.                     706 Whether there is science of things by chance and by fortune.            707 TREAT. III. On Opinion and Human Faith. What opinion is, and what human faith is.                               ibid. Whether fear is of the intrinsic ratio of opinion and of human
-
-faith.                                                               708 Whether opinion can exist together with science concerning the
-
-same proposition and in the same intellect.                           710 Selections from the Books of the Topics.                                 717 On the end and division of these books.                                 ibid. What the object of this work is, and its order with the other parts
-
-of Dialectic, is explained.                                          ibid. What a Dialectical predicate is, and how manifold.                       718 What a Dialectical problem is, and how many kinds there are.            ibid.
-
-ẽ ij
-
 [PDF 776]
-
-> Quidnamfitpropofitio Dialectica,&quotuplex,&quomodo diftinguatur àproblemate.                     7.23 Quid fit,& quotuplex propoſitioprobabilis.                    725 Quidnam fit fyllogifmus topicus,aut dialecticus.              726 Enumeratio, atque explicatiolocorum, ex quibus deducun- tur argumentaprobabilia,prodifputatione ineunda. 627 Pro libris Elenchorsum.                                        735 TRACT. Defyllogifmo Sophistico.                               ibid. Quidnam fit fyllogifmus Sophiſticus,& quotuplex : & an ve- rusfitfyllogifmus,vel non.                                  ibid. TABUDE         L FINIS .                    DE - LYON =        VI LL 96   * * 18              E
-
-What a dialectical proposition is, and how many kinds there are,
-
-and how it is distinguished from a problem.                     723 What a probable proposition is, and how many kinds there are.      725 What a Topical or dialectical syllogism is.                        726 Enumeration and explanation of the places from which probable
-
-arguments are deduced for entering upon a disputation.           627 For the Books of the Sophistical Refutations.                       735 TREAT. On the Sophistical Syllogism.                               ibid. What a Sophistical syllogism is, and how many kinds there are;
-
-and whether it is a true syllogism, or not.                     ibid.
-
-T H E E N D.

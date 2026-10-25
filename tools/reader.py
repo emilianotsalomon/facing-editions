@@ -286,35 +286,55 @@ def cut_pair(o, e):
     return list(zip(pieces(o, [c[0] for c in cuts]), pieces(e, [c[1] for c in cuts])))
 
 
+TOCHEAD = re.compile(r'(?i)^#{1,6}\s+.*\b(contents|inhalt|inhaltsverzeichnis|índice|indice|index|sommaire|table des matières|tartalom)\b')
+TOCPAGE = re.compile(r'(.*?)\s+·\s+((?:\d+|[IVXLCDMivxlcdm]+)(?:\s*[–—-]\s*(?:\d+|[IVXLCDMivxlcdm]+))?|ibid\.?)(?:\s+@(.+))?$')
+
+
+def is_contents_list(p, prev=()):
+    """a Markdown list whose items end in '· page' (or any list just after a 'Contents' heading: prev, the paragraphs before it)"""
+    ls = p.split('\n')
+    return (bool(re.match(r'- ', ls[0])) and all(re.match(r'\s*- |\s+\S', l) for l in ls[1:])
+            and (any(TOCPAGE.match(re.sub(r'^\s*- ', '', l).strip()) for l in ls if re.match(r'\s*- ', l)) or any(TOCHEAD.match(x) for x in prev)))
+
+
 def contents_list(p):
     """a Markdown list ('- title · page', two spaces of indent per level, an indented plain line under an item is its summary)
-    -> a table of contents with dot leaders; page numbers become links once resolve_pages knows the cards"""
+    -> a table of contents with dot leaders. The page may be a range ('15–26', linked to its first page), roman, or 'ibid.';
+    ' @PDF 5' after it names the card to link to when the page has no mark of its own. An item without a page links to the
+    first heading after the contents that it begins with (e.g. '- Chapter 1. On God' -> the heading 'Chapter 1.'), and so
+    does an item whose page cannot be found.
+    Links are resolved by resolve_pages once all cards exist."""
     items = []
     for l in p.split('\n'):
         m = re.match(r'(\s*)- (.*)$', l)
         if m:
-            t = m.group(2).strip(); pm = re.match(r'(.*?)\s+·\s+(\d+|[IVXLCDMivxlcdm]+|ibid\.?)$', t)
-            items.append({'d': len(m.group(1).expandtabs(2)) // 2, 't': pm.group(1) if pm else t, 'n': pm.group(2) if pm else '', 's': []})
+            t = m.group(2).strip(); pm = TOCPAGE.match(t)
+            items.append({'d': len(m.group(1).expandtabs(2)) // 2, 't': pm.group(1) if pm else t,
+                          'n': re.sub(r'\s*[–—-]\s*', '–', pm.group(2)) if pm else '', 'at': (pm.group(3) or '') if pm else '', 's': []})
         elif items:
             items[-1]['s'].append(l.strip())
     out, last = [], ''
     for it in items:
-        n = last if it['n'].startswith('ibid') else it['n']
+        n = last if it['n'].startswith('ibid') else it['n'].split('–')[0]
         last = n or last
+        head = re.sub('<[^>]+>', '', md_inline(it['t']))
+        target = (('l:' + it['at'].strip()) if it['at'] else ('p:' + n) if n else 'h:') + '|' + head    # page or label first, else the heading
         t = f'<span class="t">{md_inline(it["t"])}</span>'
-        row = (f'<a class="it" href="#@{html.escape(n)}">{t}<span class="dots"></span><span class="n">{html.escape(it["n"])}</span></a>' if n
-               else f'<span class="it">{t}</span>')
+        row = f'<a class="it" href="#@{html.escape(target)}">{t}' + (f'<span class="dots"></span><span class="n">{html.escape(it["n"])}</span>' if it['n'] else '') + '</a>'
         s = f'<div class="sum">{md_inline(" ".join(it["s"]))}</div>' if it['s'] else ''
-        out.append(f'<li class="{"grp" if not n else ""}" style="--d:{it["d"]}">{row}{s}</li>')
+        out.append(f'<li class="{"" if n else "grp"}" style="--d:{it["d"]}">{row}{s}</li>')
     return f'<ul class="cl">{"".join(out)}</ul>'
 
 
 def resolve_pages(cards):
-    """point '#@N' links at the card where printed page N begins: '[p. N]' labels first, then '[PDF M]' labels through
-    the file's usual PDF-to-printed offset (read off the places where a '[PDF M]' card is followed by a '[p. N]' one)"""
+    """point the contents' links at cards: a page N at the card where printed page N begins ('[p. N]' labels first, then
+    a mark inside a paragraph, then
+    '[PDF M]' labels through the file's usual PDF-to-printed offset, read off the places where a '[PDF M]' card is followed
+    by a '[p. N]' one); '@label' at the card with that label; an item without a page at the first heading after the
+    contents that it begins with. A target not found leaves the entry unlinked."""
     if not any(c.get('toc') for c in cards):
         return
-    where, offs = {}, {}
+    where, offs, label = {}, {}, {}
     for a, b in zip(cards, cards[1:]):
         ma, mb = re.fullmatch(r'PDF (\d+)', a['label']), re.fullmatch(r'p\. (\d+)', b['label'])
         if ma and mb:
@@ -323,20 +343,43 @@ def resolve_pages(cards):
     if off is not None and (offs[off] < 3 or offs[off] < .6 * sum(offs.values())):
         off = None
     for c in cards:
-        m = re.fullmatch(r'p\. (\S+)', c['label'])
-        if m and not c.get('toc'):
-            where.setdefault(m.group(1), c['id'])
+        if not c.get('toc'):
+            label.setdefault(c['label'], c['id'])
+            m = re.fullmatch(r'p\. (\S+)', c['label'])
+            if m:
+                where.setdefault(m.group(1), c['id'])
+    for c in cards:                                   # a page that begins inside a paragraph: the card holding its mark
+        if not c.get('toc'):
+            for m in re.finditer(r'<span class="pg-in">\[p\. ([^\]]+)\]</span>', ''.join(c['o'] + c['e'])):
+                where.setdefault(m.group(1), c['id'])
     if off is not None:
         for c in cards:
             m = re.fullmatch(r'PDF (\d+)', c['label'])
             if m and not c.get('toc') and int(m.group(1)) > off:
                 where.setdefault(str(int(m.group(1)) - off), c['id'])
+    norm = lambda t: re.sub(r'[^\w]+', ' ', html.unescape(t)).strip().lower()
+    first = next(i for i, c in enumerate(cards) if c.get('toc'))
+    heads = [(norm(re.sub('<[^>]+>', '', h[0] if isinstance(h, tuple) else h)), c['id'])
+             for c in cards[first:] + cards[:first] for h in c['h']]          # from the contents on, then before
     def fix(m):
-        cid = where.get(html.unescape(m.group(1)))
+        kind, (v, head) = m.group(1), html.unescape(m.group(2)).split('|', 1)
+        cid = where.get(v) if kind == 'p' else label.get(v) if kind == 'l' else None
+        if not cid:
+            t = norm(head)
+            cid = next((i for h, i in heads if len(h) >= 5 and (t == h or t.startswith(h + ' '))), None)
         return f'<a class="it" href="#{cid}">' if cid else '<a class="it">'
     for c in cards:
         if c.get('toc'):
-            c['e'] = [re.sub(r'<a class="it" href="#@([^"]*)">', fix, x) for x in c['e']]
+            for k in ('o', 'e'):
+                c[k] = [re.sub(r'<a class="it" href="#@(\w):([^"]*)">', fix, x) for x in c[k]]
+            o, e = ''.join(c['o']), ''.join(c['e'])      # original and English lists entry for entry: an unlinked entry takes its twin's link
+            oh, eh = re.findall(r'<a class="it"(?: href="#c\d+")?>', o), re.findall(r'<a class="it"(?: href="#c\d+")?>', e)
+            if oh and len(oh) == len(eh):
+                k = iter(range(len(eh)))
+                def twin(m):
+                    i = next(k)
+                    return m.group(0) if 'href' in m.group(0) else eh[i]
+                c['o'] = [re.sub(r'<a class="it"(?: href="#c\d+")?>', twin, x) for x in c['o']]
 
 
 def render(path, s):
@@ -443,6 +486,9 @@ def render(path, s):
         if p == '⁂':
             cur['e'].append('<p class="sep">⁂</p>'); continue
         if p.startswith('>'):
+            ol_ = '\n'.join(l[2:] if l.startswith('> ') else l.lstrip('>') for l in p.split('\n'))
+            if is_contents_list(ol_, paras[max(0, ix - 2):ix]):      # the original's contents, drawn like the English
+                cur['o'].append(contents_list(ol_)); cur['toc'] = 1; continue
             txt = ' '.join(l.lstrip('> ').strip() for l in p.split('\n'))
             m2 = ANYMARK.search(txt)
             note = pnote[ix] if ix in pnote else bool(NOTE.match(txt))
@@ -459,8 +505,7 @@ def render(path, s):
             if txt:
                 cur['on' if note else 'o'].append(f'<p>{md_inline(txt)}</p>')
             continue
-        if (re.match(r'- ', p) and all(re.match(r'\s*- |\s+\S', l) for l in p.split('\n')[1:])
-                and re.search(r'^\s*- .*\s·\s+(\d+|[IVXLCDMivxlcdm]+)$', p, re.M)):      # a contents list: items end in '· page'
+        if is_contents_list(p, paras[max(0, ix - 2):ix]):
             cur['e'].append(contents_list(p)); cur['toc'] = 1; continue
         im = ANYMARK.search(p)
         if printed_orig:

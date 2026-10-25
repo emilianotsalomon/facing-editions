@@ -78,173 +78,91 @@ Würzburg, July 14, 1866.
 
 ### Inhalt. — Contents.
 
-> Einleitung . . . . . 1
-
-Introduction . . . . . 1
-
-> I. Abschnitt. Ueberblick der früheren Erklärungsversuche . . . . . 5
-
-Section I. Survey of Earlier Attempts at Explanation . . . . . 5
-
-> a. Auslegungen der ältesten Zeit . . . . . 5
-
-a. Interpretations of the Earliest Period . . . . . 5
-
-> b. Auffassungen im Mittelalter . . . . . 8
-
-b. Conceptions in the Middle Ages . . . . . 8
-
-> c. Neuere Erklärungen . . . . . 29
-
-c. More Recent Explanations . . . . . 29
-
-> II. Abschnitt. Entwickelung der Aristotelischen Lehre vom νοῦς ποιητικός . . . . . 37
-
-Section II. Development of the Aristotelian Doctrine of the νοῦς ποιητικός . . . . . 37
-
-> Rückblick. — Anhaltspuncte der Untersuchung . . . . . 37
-
-Retrospect. — Points of Reference for the Investigation . . . . . 37
-
-> I. Theil. Von der Seele und den Seelenkräften im Allgemeinen . . . . . 41
-
-Part I. On the Soul and the Powers of the Soul in General . . . . . 41
-
-> a. Von dem Wesen der Seele und ihrer Vereinigung mit dem Leibe . . . . . 41
-
-a. On the Essence of the Soul and Its Union with the Body . . . . . 41
-
-> b. Von den Theilen der menschlichen Seele . . . . . 53
-
-b. On the Parts of the Human Soul . . . . . 53
-
-> c. Von der mehrfachen Gattung der Kräfte in den höheren Seelentheilen . . . . . 61
-
-c. On the Several Genera of Powers in the Higher Parts of the Soul . . . . . 61
-
-> II. Theil. Von den Seelentheilen im Einzelnen und zuerst von der vegetativen Seele . . . . . 74
-
-Part II. On the Parts of the Soul Individually, and First on the Vegetative Soul . . . . . 74
-
-> III. Theil. Von der sensitiven Seele . . . . . 79
-
-Part III. On the Sensitive Soul . . . . . 79
-
-> a. Von der Empfindung im Allgemeinen und von der Zahl der äusseren Sinne . . . . . 79
-
-a. On Sensation in General and on the Number of the External Senses . . . . . 79
-
-> b. Von dem Sinne der Sensation . . . . . 85
-
-b. On the Sense of Sensation . . . . . 85
-
-> c. Von dem Subjecte der Empfindung . . . . . 98
-
-c. On the Subject of Sensation . . . . . 98
-
-> d. Von der Phantasie . . . . . 102
-
-d. On Imagination . . . . . 102
-
-> e. Von dem sinnlichen Begehren und der willkürlichen Bewegung des Leibes . . . . . 104
-
-e. On Sensory Appetite and the Voluntary Movement of the Body . . . . . 104
-
-> IV. Theil. Von der intellectiven Seele . . . . . 113
-
-Part IV. On the Intellective Soul . . . . . 113
-
-> a. Von dem Verstande, der alles Intelligible in Möglichkeit ist . . . . . 113
-
-a. On the Intellect That Is All Intelligibles in Potentiality . . . . . 113
-
-> Nothwendigkeit der Annahme des Verstandes als eines besonderen Erkenntnissvermögens . . . . . 113
-
-Necessity of Assuming the Intellect as a Special Cognitive Faculty . . . . . 113
-
-> Aehnlichkeit des Verstandes und der Sinne . . . . . 113
-
-Similarity of the Intellect and the Senses . . . . . 113
-
-> Geistigkeit des Verstandes . . . . . 115
-
-Spirituality of the Intellect . . . . . 115
-
-> Die Aristotelischen Beweise der Geistigkeit (Unsterblichkeit) der intellectiven Seele . . . . . 120
-
-The Aristotelian Proofs of the Spirituality (Immortality) of the Intellective Soul . . . . . 120
-
-> Dreifacher Unterschied der Aristotelischen Erkenntnisslehre von der Platonischen . . . . . 131
-
-Threefold Difference between the Aristotelian Theory of Knowledge and the Platonic . . . . . 131
-
-> Lösung scheinbarer Widersprüche . . . . . 136
-
-Solution of Apparent Contradictions . . . . . 136
-
-> Verhältniss des aufnehmenden Verstandes zu den Phantasmen . . . . . 144
-
-Relation of the Receptive Intellect to the Phantasms . . . . . 144
-
-> [p. VIII] b. Von der geistig begehrenden Kraft . . . . . 154
-
-[p. VIII] b. On the Spiritual Appetitive Power . . . . . 154
-
-> c. Von der bewussten Einwirkung des geistigen Theiles auf den sinnlichen . . . . . 159
-
-c. On the Conscious Influence of the Spiritual Part on the Sensory . . . . . 159
-
-> d. Vom νοῦς ποιητικός . . . . . 163
-
-d. On the νοῦς ποιητικός . . . . . 163
-
-> Nothwendigkeit seiner Annahme und vorläufige Bestimmung seiner Eigenschaften . . . . . 163
-
-Necessity of Assuming It, and Preliminary Determination of Its Properties . . . . . 163
-
-> Erklärung des fünften Capitels im dritten Buche von der Seele . . . . . 165
-
-Explanation of the Fifth Chapter of the Third Book On the Soul . . . . . 165
-
-> Erklärung des ersten Theiles . . . . . 165
-
-Explanation of the First Part . . . . . 165
-
-> Erklärung des zweiten Theiles — das göttliche Wissen als letzter Grund des menschlichen Wissens — Entstehung der menschlichen Seele . . . . . 180
-
-Explanation of the Second Part — Divine Knowledge as the Ultimate Ground of Human Knowledge — Origin of the Human Soul . . . . . 180
-
-> Uebersicht über das ganze Capitel . . . . . 219
-
-Survey of the Whole Chapter . . . . . 219
-
-> Scheinbarer Widerspruch zwischen den Büchern von der Seele und den zweiten Analytiken . . . . . 211
-
-Apparent Contradiction between the Books On the Soul and the Posterior Analytics . . . . . 211
-
-> Zeugniss des Theophrast . . . . . 216
-
-Testimony of Theophrastus . . . . . 216
-
-> Zeugniss des Eudemus . . . . . 224
-
-Testimony of Eudemus . . . . . 224
-
-> Verhältniss unserer Erklärung zu den früheren Auffassungen des νοῦς ποιητικός . . . . . 225
-
-Relation of Our Explanation to the Earlier Conceptions of the νοῦς ποιητικός . . . . . 225
-
-> Schlussbetrachtungen . . . . . 229
-
-Concluding Reflections . . . . . 229
-
-> Beilage. Ueber das Wirken, insbesondere das schöpferische Wirken des Aristoteliscken Gottes . . . . . 234
-
-Appendix. On the Activity, in Particular the Creative Activity, of the Aristotelian God . . . . . 234
-
-> Verzeichniss der die Textkritik betreffenden Stellen . . . . . 251
-
-Index of Passages Concerning Textual Criticism . . . . . 251
+> - Einleitung · 1 @scan 32
+> - I. Abschnitt. Ueberblick der früheren Erklärungsversuche · 5 @scan 36
+>   - a. Auslegungen der ältesten Zeit · 5 @scan 36
+>   - b. Auffassungen im Mittelalter · 8
+>   - c. Neuere Erklärungen · 29
+> - II. Abschnitt. Entwickelung der Aristotelischen Lehre vom νοῦς ποιητικός · 37 @scan 68
+>   - Rückblick. — Anhaltspuncte der Untersuchung · 37 @scan 68
+>   - I. Theil. Von der Seele und den Seelenkräften im Allgemeinen · 41 @scan 72
+>     - a. Von dem Wesen der Seele und ihrer Vereinigung mit dem Leibe · 41 @scan 72
+>     - b. Von den Theilen der menschlichen Seele · 53
+>     - c. Von der mehrfachen Gattung der Kräfte in den höheren Seelentheilen · 61
+>   - II. Theil. Von den Seelentheilen im Einzelnen und zuerst von der vegetativen Seele · 74 @scan 105
+>   - III. Theil. Von der sensitiven Seele · 79 @scan 110
+>     - a. Von der Empfindung im Allgemeinen und von der Zahl der äusseren Sinne · 79 @scan 110
+>     - b. Von dem Sinne der Sensation · 85
+>     - c. Von dem Subjecte der Empfindung · 98
+>     - d. Von der Phantasie · 102
+>     - e. Von dem sinnlichen Begehren und der willkürlichen Bewegung des Leibes · 104
+>   - IV. Theil. Von der intellectiven Seele · 113 @scan 144
+>     - a. Von dem Verstande, der alles Intelligible in Möglichkeit ist · 113 @scan 144
+>       - Nothwendigkeit der Annahme des Verstandes als eines besonderen Erkenntnissvermögens · 113 @scan 144
+>       - Aehnlichkeit des Verstandes und der Sinne · 113 @scan 144
+>       - Geistigkeit des Verstandes · 115
+>       - Die Aristotelischen Beweise der Geistigkeit (Unsterblichkeit) der intellectiven Seele · 120
+>       - Dreifacher Unterschied der Aristotelischen Erkenntnisslehre von der Platonischen · 131
+>       - Lösung scheinbarer Widersprüche · 136
+>       - Verhältniss des aufnehmenden Verstandes zu den Phantasmen · 144
+>     - b. Von der geistig begehrenden Kraft · 154
+>     - c. Von der bewussten Einwirkung des geistigen Theiles auf den sinnlichen · 159
+>     - d. Vom νοῦς ποιητικός · 163
+>       - Nothwendigkeit seiner Annahme und vorläufige Bestimmung seiner Eigenschaften · 163
+>       - Erklärung des fünften Capitels im dritten Buche von der Seele · 165
+>       - Erklärung des ersten Theiles · 165
+>       - Erklärung des zweiten Theiles — das göttliche Wissen als letzter Grund des menschlichen Wissens — Entstehung der menschlichen Seele · 180
+>       - Uebersicht über das ganze Capitel · 210
+>       - Scheinbarer Widerspruch zwischen den Büchern von der Seele und den zweiten Analytiken · 211
+>       - Zeugniss des Theophrast · 216
+>       - Zeugniss des Eudemus · 224
+>       - Verhältniss unserer Erklärung zu den früheren Auffassungen des νοῦς ποιητικός · 225
+>   - Schlussbetrachtungen · 229
+> - Beilage. Ueber das Wirken, insbesondere das schöpferische Wirken des Aristotelischen Gottes · 234 @scan 265
+> - Verzeichniss der die Textkritik betreffenden Stellen · 251 @scan 282
+
+- Introduction · 1 @scan 32
+- Section I. Survey of Earlier Attempts at Explanation · 5 @scan 36
+  - a. Interpretations of the Earliest Period · 5 @scan 36
+  - b. Conceptions in the Middle Ages · 8
+  - c. More Recent Explanations · 29
+- Section II. Development of the Aristotelian Doctrine of the νοῦς ποιητικός · 37 @scan 68
+  - Retrospect. — Points of Reference for the Investigation · 37 @scan 68
+  - Part I. On the Soul and the Powers of the Soul in General · 41 @scan 72
+    - a. On the Essence of the Soul and Its Union with the Body · 41 @scan 72
+    - b. On the Parts of the Human Soul · 53
+    - c. On the Several Genera of Powers in the Higher Parts of the Soul · 61
+  - Part II. On the Parts of the Soul Individually, and First on the Vegetative Soul · 74 @scan 105
+  - Part III. On the Sensitive Soul · 79 @scan 110
+    - a. On Sensation in General and on the Number of the External Senses · 79 @scan 110
+    - b. On the Sense of Sensation · 85
+    - c. On the Subject of Sensation · 98
+    - d. On Imagination · 102
+    - e. On Sensory Appetite and the Voluntary Movement of the Body · 104
+  - Part IV. On the Intellective Soul · 113 @scan 144
+    - a. On the Intellect That Is All Intelligibles in Potentiality · 113 @scan 144
+      - Necessity of Assuming the Intellect as a Special Cognitive Faculty · 113 @scan 144
+      - Similarity of the Intellect and the Senses · 113 @scan 144
+      - Spirituality of the Intellect · 115
+      - The Aristotelian Proofs of the Spirituality (Immortality) of the Intellective Soul · 120
+      - Threefold Difference between the Aristotelian Theory of Knowledge and the Platonic · 131
+      - Solution of Apparent Contradictions · 136
+      - Relation of the Receptive Intellect to the Phantasms · 144
+    - b. On the Spiritual Appetitive Power · 154
+    - c. On the Conscious Influence of the Spiritual Part on the Sensory · 159
+    - d. On the νοῦς ποιητικός · 163
+      - Necessity of Assuming It, and Preliminary Determination of Its Properties · 163
+      - Explanation of the Fifth Chapter of the Third Book On the Soul · 165
+      - Explanation of the First Part · 165
+      - Explanation of the Second Part — Divine Knowledge as the Ultimate Ground of Human Knowledge — Origin of the Human Soul · 180
+      - Survey of the Whole Chapter · 210
+      - Apparent Contradiction between the Books On the Soul and the Posterior Analytics · 211
+      - Testimony of Theophrastus · 216
+      - Testimony of Eudemus · 224
+      - Relation of Our Explanation to the Earlier Conceptions of the νοῦς ποιητικός · 225
+  - Concluding Reflections · 229
+- Appendix. On the Activity, in Particular the Creative Activity, of the Aristotelian God · 234 @scan 265
+- Index of Passages Concerning Textual Criticism · 251 @scan 282
 
 [scan 32]
 

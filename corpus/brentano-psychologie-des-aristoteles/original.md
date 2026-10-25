@@ -32,89 +32,48 @@ Würzburg, am 14. Juli 1866.
 
 ### Inhalt. — Contents.
 
-Einleitung . . . . . 1
-
-I. Abschnitt. Ueberblick der früheren Erklärungsversuche . . . . . 5
-
-a. Auslegungen der ältesten Zeit . . . . . 5
-
-b. Auffassungen im Mittelalter . . . . . 8
-
-c. Neuere Erklärungen . . . . . 29
-
-II. Abschnitt. Entwickelung der Aristotelischen Lehre vom νοῦς ποιητικός . . . . . 37
-
-Rückblick. — Anhaltspuncte der Untersuchung . . . . . 37
-
-I. Theil. Von der Seele und den Seelenkräften im Allgemeinen . . . . . 41
-
-a. Von dem Wesen der Seele und ihrer Vereinigung mit dem Leibe . . . . . 41
-
-b. Von den Theilen der menschlichen Seele . . . . . 53
-
-c. Von der mehrfachen Gattung der Kräfte in den höheren Seelentheilen . . . . . 61
-
-II. Theil. Von den Seelentheilen im Einzelnen und zuerst von der vegetativen Seele . . . . . 74
-
-III. Theil. Von der sensitiven Seele . . . . . 79
-
-a. Von der Empfindung im Allgemeinen und von der Zahl der äusseren Sinne . . . . . 79
-
-b. Von dem Sinne der Sensation . . . . . 85
-
-c. Von dem Subjecte der Empfindung . . . . . 98
-
-d. Von der Phantasie . . . . . 102
-
-e. Von dem sinnlichen Begehren und der willkürlichen Bewegung des Leibes . . . . . 104
-
-IV. Theil. Von der intellectiven Seele . . . . . 113
-
-a. Von dem Verstande, der alles Intelligible in Möglichkeit ist . . . . . 113
-
-Nothwendigkeit der Annahme des Verstandes als eines besonderen Erkenntnissvermögens . . . . . 113
-
-Aehnlichkeit des Verstandes und der Sinne . . . . . 113
-
-Geistigkeit des Verstandes . . . . . 115
-
-Die Aristotelischen Beweise der Geistigkeit (Unsterblichkeit) der intellectiven Seele . . . . . 120
-
-Dreifacher Unterschied der Aristotelischen Erkenntnisslehre von der Platonischen . . . . . 131
-
-Lösung scheinbarer Widersprüche . . . . . 136
-
-Verhältniss des aufnehmenden Verstandes zu den Phantasmen . . . . . 144
-
-[p. VIII] b. Von der geistig begehrenden Kraft . . . . . 154
-
-c. Von der bewussten Einwirkung des geistigen Theiles auf den sinnlichen . . . . . 159
-
-d. Vom νοῦς ποιητικός . . . . . 163
-
-Nothwendigkeit seiner Annahme und vorläufige Bestimmung seiner Eigenschaften . . . . . 163
-
-Erklärung des fünften Capitels im dritten Buche von der Seele . . . . . 165
-
-Erklärung des ersten Theiles . . . . . 165
-
-Erklärung des zweiten Theiles — das göttliche Wissen als letzter Grund des menschlichen Wissens — Entstehung der menschlichen Seele . . . . . 180
-
-Uebersicht über das ganze Capitel . . . . . 219
-
-Scheinbarer Widerspruch zwischen den Büchern von der Seele und den zweiten Analytiken . . . . . 211
-
-Zeugniss des Theophrast . . . . . 216
-
-Zeugniss des Eudemus . . . . . 224
-
-Verhältniss unserer Erklärung zu den früheren Auffassungen des νοῦς ποιητικός . . . . . 225
-
-Schlussbetrachtungen . . . . . 229
-
-Beilage. Ueber das Wirken, insbesondere das schöpferische Wirken des Aristoteliscken Gottes . . . . . 234
-
-Verzeichniss der die Textkritik betreffenden Stellen . . . . . 251
+- Einleitung · 1 @scan 32
+- I. Abschnitt. Ueberblick der früheren Erklärungsversuche · 5 @scan 36
+  - a. Auslegungen der ältesten Zeit · 5 @scan 36
+  - b. Auffassungen im Mittelalter · 8
+  - c. Neuere Erklärungen · 29
+- II. Abschnitt. Entwickelung der Aristotelischen Lehre vom νοῦς ποιητικός · 37 @scan 68
+  - Rückblick. — Anhaltspuncte der Untersuchung · 37 @scan 68
+  - I. Theil. Von der Seele und den Seelenkräften im Allgemeinen · 41 @scan 72
+    - a. Von dem Wesen der Seele und ihrer Vereinigung mit dem Leibe · 41 @scan 72
+    - b. Von den Theilen der menschlichen Seele · 53
+    - c. Von der mehrfachen Gattung der Kräfte in den höheren Seelentheilen · 61
+  - II. Theil. Von den Seelentheilen im Einzelnen und zuerst von der vegetativen Seele · 74 @scan 105
+  - III. Theil. Von der sensitiven Seele · 79 @scan 110
+    - a. Von der Empfindung im Allgemeinen und von der Zahl der äusseren Sinne · 79 @scan 110
+    - b. Von dem Sinne der Sensation · 85
+    - c. Von dem Subjecte der Empfindung · 98
+    - d. Von der Phantasie · 102
+    - e. Von dem sinnlichen Begehren und der willkürlichen Bewegung des Leibes · 104
+  - IV. Theil. Von der intellectiven Seele · 113 @scan 144
+    - a. Von dem Verstande, der alles Intelligible in Möglichkeit ist · 113 @scan 144
+      - Nothwendigkeit der Annahme des Verstandes als eines besonderen Erkenntnissvermögens · 113 @scan 144
+      - Aehnlichkeit des Verstandes und der Sinne · 113 @scan 144
+      - Geistigkeit des Verstandes · 115
+      - Die Aristotelischen Beweise der Geistigkeit (Unsterblichkeit) der intellectiven Seele · 120
+      - Dreifacher Unterschied der Aristotelischen Erkenntnisslehre von der Platonischen · 131
+      - Lösung scheinbarer Widersprüche · 136
+      - Verhältniss des aufnehmenden Verstandes zu den Phantasmen · 144
+    - b. Von der geistig begehrenden Kraft · 154
+    - c. Von der bewussten Einwirkung des geistigen Theiles auf den sinnlichen · 159
+    - d. Vom νοῦς ποιητικός · 163
+      - Nothwendigkeit seiner Annahme und vorläufige Bestimmung seiner Eigenschaften · 163
+      - Erklärung des fünften Capitels im dritten Buche von der Seele · 165
+      - Erklärung des ersten Theiles · 165
+      - Erklärung des zweiten Theiles — das göttliche Wissen als letzter Grund des menschlichen Wissens — Entstehung der menschlichen Seele · 180
+      - Uebersicht über das ganze Capitel · 210
+      - Scheinbarer Widerspruch zwischen den Büchern von der Seele und den zweiten Analytiken · 211
+      - Zeugniss des Theophrast · 216
+      - Zeugniss des Eudemus · 224
+      - Verhältniss unserer Erklärung zu den früheren Auffassungen des νοῦς ποιητικός · 225
+  - Schlussbetrachtungen · 229
+- Beilage. Ueber das Wirken, insbesondere das schöpferische Wirken des Aristotelischen Gottes · 234 @scan 265
+- Verzeichniss der die Textkritik betreffenden Stellen · 251 @scan 282
 
 [scan 32]
 

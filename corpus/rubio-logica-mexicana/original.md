@@ -44,45 +44,228 @@ lis Societatis IESV , in Prouincia Lugdunenfi. Vdouicus Michaëlis Prouincialis 
 
 [PDF 13]
 
-DVBIORVM,ET QUESTIONVM, QVAE       IN VTRAQVE             PARTE Logicæ continentur. THEQUE DE PRIMA         PARS .              29LY .19ON 96 QUÆSTIONES PROOEMIALES, Væſtio 1.Vtrùm Logica fit neceffaria. pag.1. Quæſt 2. Vtrum Logica ſitſcientia.        4 Quæſt.3. Vtrum Logicavt ens fit ſcientia.       6 Quæſt. 4. Vtrùm Logica ſit ynus ſimplexhabi- tus.                                        11 Quæft.s.Vtrum Logica ſitſcientia practica,&fpeculatiua.'18 Quæftio6. Vtrum obiectum ſcientiæ ſitmodusſciendi realis, vel ens rationis.                                       25 CAP. I. Porphyrij,cum expofitionetextus QuestVniuersales. 33 Quæftio 1. Vtrum vniuerfalia fintin rebus.               34 Quæftio 2.Quænam fit eſſentia,&natura vniuerfalium. 36 Quæſt.3.Andeturin rebus ante operationem intellectus vni- tas formalis minor numerali.                            39 Quæſtio 4.An vniuerfaleſit in rebus ante operationemintel- lectus.                                                 46 Quest.s.Perquamoperationemintellectusfiatvniuerfale.49 Queſt.6.Vtrum vniuerfaleLogicum fiatper ſimplicemcom- parationemnaturæ cum indiuiduis .                       57 Queſt.7.Anvniuerfale ſitvniuocum reſpectu predicabilium, &verumgenus corum.                                      6 Queſt. 8.Anvniuerfale fitadæquatumobiectum libri prędi- cabilium , vel potiùs prædicabile,                  63 Queſt. An predicabilia fintquinque velplura, autpauciora. 65. Tractatus deNatura entis rationis.                        71 Dubium 1. An ens rationis fit.                          ibid. Dubium 2. Quid fit ens rationis.                          72 Dubium 3. Quotuplex fit ensrationis.                      74 Dubium 4 Per quampotentiam fiat ensrationis.              79 Dubium s.Anentia rationis fiantab intellectu diuino   o 2, vel 81 angelico,
+## Index of the Chapters, Doubts and Questions
 
-## DOUBTS, AND QUESTIONS
-
-## FIRST PART
-
-## PROEMIAL QUESTIONS
+- Prima Pars
+  - Quæstiones Prooemiales
+    - Quæstio 1. Vtrum Logica sit necessaria · 1 @PDF 21
+    - Quæst. 2. Vtrum Logica sit scientia · 4
+    - Quæst. 3. Vtrum Logica vtens sit scientia · 6
+    - Quæst. 4. Vtrum Logica sit vnus simplex habitus · 11
+    - Quæst. 5. Vtrum Logica sit scientia practica, & speculatiua · 18
+    - Quæstio 6. Vtrum obiectum scientiæ sit modus sciendi realis, vel ens rationis · 25
+  - CAP. I. Porphyrij, cum expositione textus. Quæst. Vniuersales · 33
+    - Quæstio 1. Vtrum vniuersalia sint in rebus · 34
+    - Quæstio 2. Quænam sit essentia, & natura vniuersalium · 36
+    - Quæst. 3. An detur in rebus ante operationem intellectus vnitas formalis minor numerali · 39
+    - Quæstio 4. An vniuersale sit in rebus ante operationem intellectus · 46
+    - Quæst. 5. Per quam operationem intellectus fiat vniuersale · 49
+    - Quæst. 6. Vtrum vniuersale Logicum fiat per simplicem comparationem naturæ cum indiuiduis · 57
+    - Quæst. 7. An vniuersale sit vniuocum respectu prædicabilium, & verum genus eorum · 61
+    - Quæst. 8. An vniuersale sit adæquatum obiectum libri prædicabilium, vel potiùs prædicabile · 63
+    - Quæst. An prædicabilia sint quinque, vel plura, aut pauciora · 65
+  - Tractatus de Natura entis rationis · 71
+    - Dubium 1. An ens rationis sit · ibid.
+    - Dubium 2. Quid sit ens rationis · 72
+    - Dubium 3. Quotuplex sit ens rationis · 74
+    - Dubium 4. Per quam potentiam fiat ens rationis · 79
+    - Dubium 5. An entia rationis fiant ab intellectu diuino, vel angelico · 81
+    - Dubium 6. Ad quam scientiam pertineat agere de ente rationis · 84
+    - Dubium 7. Quonam modo ens rationis reducatur ad ordinem prædicamentalem · ibid.
+  - Tract. De modo, quo fiunt prædicationes in concretis, & abstractis primarum, & secundarum intentionum · 86
+    - Dubium. An abstractum superius prædicetur de abstracto inferiori · 87
+  - CAP. II. De genere, cum expositione textus · 95
+    - Quæst. 1. Quodnam sit definitum definitionis generis · 96
+    - Quæst. 2. An definitum proprium eiusdem definitionis sit natura realis, quæ denominatur genus, vel secunda intentio, à qua denominatur · 98
+    - Quæst. 3. An definitio generis sit quidditatiua, vel descriptiua · 102
+    - Quæstio 4. Vtrum genus includat differentias & species actu, vel solùm potentia · 106
+    - Quæstio 5. Vtrum genus prædicetur de specie tanquam totum, vel etiam vt pars illius · 109
+    - Quæstio 6. An modus prædicandi in quid, separet genus à differentia · 113
+  - CAP. III. De specie, cum expositione textus · 115 @p. 114
+    - Quæstio 1. Vtrum species fuerit definita à Porphyrio duabus, vel tribus definitionibus · 117
+    - Quæstio 2. Vtrum species subiicibilis, vt subiicibilis, sit vniuersalis · 120
+    - Quæstio 3. An species possit conseruari in vnico indiuiduo, & genus in vnica specie · 123
+    - Quæst. 4. Vtrum definitio postrema speciei illis speciebus conueniat, quæ vnum tantum indiuiduum habere possunt · 127
+    - Quæstio 5. An species distinguatur à genere per illas particulas suæ definitionis (prædicari de pluribus differentibus numero) · 132
+    - Quæstio 6. An detur vna ratio communis atque realis indiuiduorum, quæ definiatur per secundam definitionem indiuidui · 135
+    - Quæstio 7. An secunda intentio indiuidui per primam definitionem indiuidui definita sit vna · 140
+  - CAP. IIII. De differentia, cum expositione textus · 143
+    - Quæst. 1. Vtrum prima diuisio differentiæ in communem, propriam, & propriissimam sit sufficiens · 145
+    - Quæst. 2. An diuisio differentiæ in communem, propriam, & propriissimam sit generis in species, vel analogi in analogata · 148
+    - Quæstio 3. An verum sit, genus sumi à materia, & differentiam à forma, & quomodo intelligendum · 152
+    - Qu. 4. An compositio speciei, ex genere, & differentia sit realis, vel tantum rationis · 157
+    - Quæst. 5. Vtrum differentia superior includatur in inferiori, & de illa prædicetur · 164
+    - Quæst. 6. An differentia semper & necessario sit perfectior genere, quod contrahit · 170
+    - Quæstio 7. An secunda definitio differentiæ possit conuenire vltimis differentiis · 173
+  - CAP. V. De proprio, cum expositione textus · 176
+    - Qu. 1. An proprium solum quarto modo acceptum constituat quartum prædicabile, vel etiam secundum alios modos · 177
+    - Quæst. 2. An proprium sit vniuersale, aut quartum prædicabile respectu speciei, vel indiuiduorum · 180
+  - CAP. VI. De Accidenti, cum expositione textus · 184
+    - Quæstio 1. An accidens sit vniuersale, & respectu quorum id habeat · 185
+    - Quæstio 2. An diuisio accidentis in accidens separabile, & inseparabile, sit bona · 187
+    - Qu. 3. An definitiones accidentis intelligantur à Porphyrio de inhærentia reali accidentis in subiecto, vel secundæ intentionaliter de affirmatione, & negatione · 189
+    - Quæst. 4. An prima definitio accidentis sit bona · 190
+    - Quæstio 5. An inhærentia aptitudinalis sit de essentia accidentis · 193
+  - Proœmium in prædicamenta Arist. · 196
+    - De inscriptione huius libri · ibid.
+    - De inuentore artis prædicamentalis · ibid.
+    - De fine huius operis · ibid.
+    - An de vocibus, vel de rebus agatur in prædicamentis · 197
+    - De obiecto huius operis · ibid.
+    - De modo procedendi, & ordinatione huius operis, cum cæteris partibus Dialecticæ · ibid.
+    - Ad quam scientiam pertineat de prædicamentis agere · ibid.
+  - CAP. I. De æquiuocis, & vniuocis, & denominatiuis, cum exposit. text. · 198
+    - Quæst. vnica. Vtrum definitio vniuocorum conueniat denominatiuis · 199
+  - TRACT. De nominum Analogia · 201
+    - Quid sit Analogia · 202
+    - Quotuplex sit analogia · 203
+    - An necesse sit rem, vel conceptum, significatum nomine analogi, intrinsecè solùm reperiri in principali analogato, in cæteris verò, solùm per extrinsecam denominationem · 210
+    - An conceptus formalis analogorum sit vnus, & abstractus ab analogatis, vel multiplex, & ab eis an abstrahi possit · 212
+    - Secunda pars quæstionis, de vnitate conceptus obiectiui analogorum · 214
+    - Quonam modo conceptus analogi contineat analogata · 221
+    - An ens sit vniuocum respectu substantiæ, & accidentis, aut analogum, & qua analogia · 227
+    - An saltem ens completum sit vniuocum respectu substantiæ, & accidentis completi · 231
+    - An ens sit vniuocum respectu aliquarum rerum eiusdem prædicamenti, vel diuersorum prædicamentorum · 233
+    - An ens sit analogum comparatum ad ens creatum & increatum, vel ad Deum, & creaturas · 235
+    - Qua analogia dicatur ens respectu substantiæ, & accidentis, atque etiam respectu Dei, & creaturarum · 237
+    - Vtrum accidens sit vniuocum ad nouem prædicamenta accidentium, vel analogum · 240
+    - An necesse sit accidens esse genus, si sit vniuocum · 246
+    - An saltem respectu aliquorum accidentium, aut prædicamentorum, possit esse accidens vniuocum · 247
+  - CAP. II. De diuisione eorum quæ dicuntur, & sunt, cum exposit. tex.
+  - CAP. III. De regulis prædicamentorum essentialium, cum exposit. tex.
+    - Quæst. vnica. An genera non subalternatim posita, possint habere aliquam differentiam communem · ibid. @p. 250
+  - CAP. IIII. Continens diuisionem incomplexorum in decem prædicamenta, cum expositione text.
+    - Quæstio 1. Ex quibusnam rebus per se componatur prædicamentum · ibid. @p. 256
+      - An, & quomodo indiuidua ponantur in prædicamento · 264
+      - Quonam modo res infinitæ ponantur, aut excludantur à prædicamento · 265
+    - Quæst. 2. An res sint ponendæ in prædicamentis sub nominibus abstractis, vel concretis · 265
+    - Quæstio 3. An necesse sit prædicamenta distingui realiter, aut ex natura rei; vel sufficiat distingui ratione · 271
+    - Quæstio 4. Vtrùm prædicamenta sint decem, ita vt nec plura esse possint, nec pauciora · 275
+  - CAP. V. Continens prædicamentum substantiæ, cum expositione tex. · 278
+    - Quæstio 1. Quodnam sit supremum genus prædicamenti substantiæ · 282
+    - Quæstio 2. Vtrùm Deus ponatur in prædicamento substantiæ · 284
+    - Quæstio 3. Vtrum Angeli, & corpora cælestia sint in prædicamento substantiæ · 287
+    - Quæst. 4. Qualisnam sit diuisio substantiæ in primam, & secundam: vniuoca, vel analoga · 292
+    - Quæstio 5. Quod sit formale definitum definitionis primæ substantiæ · 297
+    - Dubium 1. Circa comparationes primarum, & secundarum substantiarum · 300
+    - Dubium 2. Circa tertiam proprietatem substantiæ · 302
+    - Dub. 3. Circa quartam proprietatem substantiæ · 305
+    - Dubium 4. Circa vltimam proprietatem substantiæ · 307
+  - CAP. VI. Continens prædicamentum quantitatis, cum exposit. tex. · 312
+    - Quæstio 1. In quonam sit ponenda essentialis ratio quantitatis · 315
+    - Quæst. 2. Vtrùm Linea, Superficies & Corpus, sint tres species distinctæ quantitatis continuæ · 320
+    - Quæstio 3. Vtrum tempus sit vera species quantitatis continuæ · 325
+    - Quæstio 4. An locus sit species quantitatis continuæ, distincta à superficie · 332
+    - Quæst. 5. An motus sit species quantitatis continuæ · 336
+    - Quæstio 6. An numerus sit species quantitatis discretæ · 338
+    - Quæstio 7. An forma numeri sumenda sit ab vltima vnitate, vel ab omnibus · 346
+    - Quæstio 8. An numerus prædicamentalis non solum reperiatur in corporibus, sed etiam in rebus spiritualibus · 351
+    - Quæst. 9. An oratio sit vera species quantitatis · 352
+      - In quonam sit ponenda quantitas orationis · 354
+    - Quæstio 10. An si daretur linea, superficies, aut corpus, vel alia quantitas, actu infinita, collocaretur in prædicamento · 357
+      - An numerus infinitus esset in prædicamento · 360
+    - Quæst. 11. An quantitas sit res distincta à substantia corporea, & cæteris accidentibus absolutis · 361
+  - CAP. VII. Continens prædicamentum ad aliquid, cum exposit. text. · 364
+    - Quæstio 1. An ad aliquid, vel relatiuum constituat speciale prædicamentum · 367
+    - Quæstio 2. An ad aliquid sit speciale genus entis realis · 369
+    - Quæst. 3. Quodnam sit supremum genus prædicamenti ad aliquid · 373
+    - Quæ. 4. An definitio relatiuorum, tradita ab Arist. ex propria sententia sit bona · 376
+    - Quæ. 5. Vtrùm omnes relationes pertineant ad prædicamentum ad aliquid · 381
+    - Quæstio 6. An species relationis prædicamentalis à termino sit accipienda · 386
+      - An filio correspondeat duplex relatio, vna in patre, & alia in matre, vel eadem in vtroque parente · 389
+    - Quæstio 7. An terminus relationis sit formaliter absolutus, vel formaliter relatiuus · 391
+      - An vnum relatiuum possit, & debeat definiri per alterum · 399
+    - Quæ. 8. An vnum relatiuum ordinetur ad duos terminos eiusdem speciei, per eandem, vel diuersas rationes · 401
+    - Quæstio 9. An entis realis ad non ens, aut ad ens rationis, detur relatio realis · 406
+    - Qu. 10. An aliqua relatio prædicamentalis fundetur proximè in substantia · 411
+    - Quæst. 11. An vna relatio realis possit esse fundamentum alterius · 415
+    - Quæstio 12. Vtrum relationes secundi generis fundentur in potentia, vel in actione · 420
+    - Quæst. 13. An relationes tertij generis sint reales, & prædicamentales · 425
+    - Quæstio 14. An relatio distinguatur realiter à fundamento, vel solùm ratione · 429
+    - Dubium de separatione relationis à fundamento · 433
+    - Dubium 1. An relationi conueniat habere contrarium · 435
+    - Dubium 2. An relatiua suscipiant magis, & minus · 436
+  - CAP. VIII. Continens prædicamentum qualitatis, cum exposit. text. · 439
+    - Quæst. 1. An qualitas sit supremum genus huius prædicamenti: & diuersæ qualitates, enumeratæ ab Arist., diuersæ species eius · 441
+    - Quæ. 2. An habitus, & dispositio distinguantur specie · 445
+    - Quæstio 3. Vtrum naturalis potentia, & impotentia, sint species qualitatis distinctæ · 449
+    - Quæstio 4. De his, quæ pertinent ad passionem, & passibilem qualitatem · 455
+      - Dubium 1. An passio, & passibilis qualitas, sint veræ species qualitatis · ibid.
+      - Dubium 2. An passio, & passibilis qualitas, sint diuersæ species, vel vna tantum · 456
+      - Dubium 3. An passiones animæ pertineant ad hanc speciem qualitatis · 458
+      - Dubium 4. An obiecta omnium sensuum externorum, vt obiecta eorum sunt, pertineant ad hanc speciem qualitatis · 462
+    - Quæstio 5. Quid per Formam, & Figuram intelligat Arist. & an sint diuersæ species qualitatis, vel eadem · 464
+  - CAP. IX. De prædicamento Actionis & passionis · 466
+    - Quid Actio, & Passio sit · 467
+    - Quot, & quæ genera, & species habeant actio, & passio · 468
+    - Quot, & quæ sint proprietates actionis, & passionis · ibid.
+  - CAP. X. De cæteris prædicamentis
+    - Prædicamentum Quando · 469
+      - Quot, & quæ habeat genera, & species hoc prædicamentum · 472
+      - Quot, & quas proprietates habeat hoc prædicamentum · ibid.
+    - Prædicamentum Vbi · 473
+      - Quid sit Vbi, aut in quo consistit ratio formalis eius · ibid.
+      - Quot, & quæ habeat genera, & species, Vbi · 474
+      - Quot, & quas proprietates habeat Vbi · 475
+    - Prædicamentum Situs · ibid.
+      - In quo consistat formalis ratio huius præd. · 476
+      - Quot, & quæ sint genera, & species Situs · 478
+      - Quot, & quæ sint proprietates huius præd. · ibid.
+    - Prædicamentum Habere · ibid.
+      - Quot, & quæ sunt genera, & species habere · 479
+      - Quot, & quæ sint proprietates huius præd. · 480
+      - Quæst. An habere sit aliquid intrinsecum, & inhærens: vel in sola denominatione extrinseca consistat · ibid.
+    - Quæstio generalis pro omnibus sex vltimis prædicamentis
+      - An ratio formalis eorum consistat in aliquo intrinseco, & formaliter inhærenti, vel in sola denominatione extrinseca · 484
+  - CAP. XI. De oppositis, cum expositione text. · 489
+  - CAP. XII. De modis prioris, cum expositione textus · 490
+  - CAP. XIII. De modis simul, cum expositione textus · 491
+  - CAP. XIV. De speciebus motus, cum expositione text. · 492
+  - CAP. XV. De modis habere, cum expositione text. · 494
+- Secunda Pars. Quæstiones & dubia de interpretatione
+  - Proœmium totius operis · 495
+    - Quodnam sit obiectum huius operis · ibid.
+    - De loco quem hoc opus obtineat inter cæteras partes dialecticæ, & diuisione eius · 497
+  - CAP. I. Cum expositione textus · ibid.
+    - Quæst. 1. An voces significent conceptus & res, atque scripturæ voces ad placitum, conceptus verò naturaliter res · 499
+  - CAP. II. De nomine, cum exposit. text. · 503
+    - Quæst. 1. An bene definiatur nomen per vocem · 504
+    - Quæstio 2. An nomen definiatur per vocem tanquam per verum genus · 506
+    - Quæstio 3. An verum sit nomen significare ad placitum: vt in definitione dicitur · 507
+    - Quæstio 4. An verum sit, partes nominis separatas, non esse significatiuas · 510
+    - Quæstio 5. An nomen infinitum omnino sit excludendum à definitione · 512
+      - De modo significandi nominis infiniti · 513
+      - De quibusnam dicatur nomen infinitum in propositione · 514
+      - An transcendentia nomina possint infinitari · 517
+      - An nomina infinita sint enumeranda inter absoluta, vel inter connotatiua · 518
+      - An nomen infinitum dicatur vniuocè de entibus & non entibus, vel analogicè · ibid.
+  - CAP. III. De verbo, cum expositione text. · 519
+    - Quæstio 1. An verum sit verbum consignificare tempus · 520
+    - Quæstio 2. An verbum sit vera pars propositionis · 525
+    - Quæstio 3. An verbum infinitum possit collocari in propositione · 528
+  - CAP. IV. De enunciatione, cum expositione text. · 531
+    - Quæstio 1. An in definitione orationis definiatur ratio in vniuersali, vt perfectam, & imperfectam, simplicem & compositam comprehendit · 532
+    - Quæstio 2. An enunciatio sit ens reale, vel rationis · 534
+    - Quæstio 3. An enunciatio quidditatiuè sit definita ab Aristotele per veritatem, & falsitatem · 535
+    - Quæst. 4. An enunciatio mentalis sit vna simplex qualitas · 537
+    - Quæstio 5. An diuisio enunciationis in affirmatiuam, & negatiuam, sit generis in species, vel analogi in analogata · 540
+    - Quæstio 6. An diuisio enunciationis in simplicem, & compositam, sit generis in species, vel analogi in analogata · 542
+  - CAP. V. De modis oppositionum · 544
+  - CAP. VI. De oppositione, & veritate enunciationum de futuro contingenti, cum expositione textus · 545
 
 [PDF 14]
 
-Dubium 6. Adquam ſcientiampertineatagerede ente ratio- nis.                                                  84 Dubium 7.Quonammodo ens rationis reducatur ad ordi- nem prædicamentalem.                                 ibid. Tract. Demodo,quo circa pred cationesfunt concretis, &abſtra- 86 dis primarum, &fecundarum intentionum, Dubium, Anabſtractum fuperius prædicatur de abſtracto in- feriori .                                             87 CAP. II . De genere,cum expofitionetextus .             95 Quæſt.1. Quodnam fitdefinitum    definitionis generis,  96 Quæſt. 2. An definitumproprium eiufdem definitionis fitna- turarealis,quædenominaturgenus, vel ſecundaintentio,à quadenominatur.                                       98 Quæſt.3. Andefinitiogeneris ſit quidditatiua,vel deſcriptiua. ΙΟΣ. Quæftio 4.Vtrum genus includatdifferentias& ſpeciesactu 106 velfolùmpotentia. Quæftio s. Vtrum genus prædicetur de ſpecie tanquam to- zumvel etiam vtpars illius.                            109 Quæstio 6. Anmodus prædicandi in quid, ſeparet genus à differentia.                                           113 CAP. III. Deſpecie, cum expofitionetextus.               115 Quæftio 1. Verumſpecies fueritdefinita à Porphyrio duabus vel tribus definitionibus,                             117 Quæftio 2. Vtrum ſpeciesſubiicibilis ,vtfubiicibilis fit vni-uerfalis.                                              ) 20 Quæſtio 3, Anſpeciespoſſit conferuari invnico indiuiduo, &genusinvnica ſpecie.                                 123 Quæſt.4.Vtrumdefinitiopoſtrema ſpeciei illis ſpeciebus con- ueniat , quævnumtantum indiuiduum habere poffunt. 127. Quæſtio 5. An ſpecies diſtinguatur àgenereper.illasparticu Tas fuædefinition's (prædicari depluribus differentibus numero .                                               132 Quæftio 6. An deturvna ratio communis atque realisindiui duorum, quæ definiaturper ſecundamdefinitionem indi . uidui.                                                  135 Quzſtio7. An fecundaintentio indiuidui per primam defi- nitionem indiuidui definita fit vna.                  140 CAP. IIII. De differentia,cum expofitione textus. 143 Quæſt. 1. Vtrumprima diuifiodifferentiæ in communem, propriam &propriiffimam fit ſufficiens.         145 Quæſt.2. Andiuifio differentiæ in communem, propriam , &
-
 [PDF 15]
-
-propriſſimam fitgenerisin fpecies,velanalogi in analogata. 148 Quæftio3.Anverum fit,genus ſumi àmateria,&differentiam àforma,&quomodointelligendum.                         152 &differentia fit realis. Qu.4. An compoſitioſpeciei,ex genere,& veltantum rationis.                                  157 Quæft.5.Vtrum differentiaſuperior includaturininferiori, & deillaprædicetur.                                    164 Quæſt.6.Andifferentiaſemper &neceſſario fit perfectior ge. nere,quod contrahit.                                 170 Quæftio7. An fecundadefinitiodifferentizpoſſit conuenire vltimisdifferentiis.                                  173 CAP.V. Depropriocum expofitionetextus                   176 Q1. 1. An proprium ſolumquarto modoacceptum conftituat quartumprædicabile,vel etiam ſecundum alios modos 177 Quæſt.2. an proprium fit vniuerfale,autquartumprædicabile 180 reſpectuſpeciei,velindiuiduorum. CAP. VI. DeAccidenti,cum expofitionetextus.            174 Quæftio1.Anaccidens fit vniuerfale, & reſpectu quorum id habeat.                                               185 Quæſtio 2.An diuifio accidentis inaccidensſeparabile,& in- Leparabile, ſit bona.                               187 Qu.3.Andefinitionesaccidentis,intelliganturàPorphyrio,de inhærentia realiaccidentisin ſubiecto, vel fecundæ inten- tionaliter de affirmatione,&negatione.                189 Quæſt. 4. Anprimadefinitioaccidentis ſitbona.           190 Quæftio5. An inherentia aptitudinalis, fit de eſſentiaacci- dentis.                                               193 Proæmiumin pralicamenta.Arift.                          196 Deinſcriptionehuius libri.                             ibid. Deinuentoreartisprædicamentalis.                       ibid. Definehuius operis.                                    ibid. An devocibus,vel derebusagaturinprædicamentis.          197 De obiectohuius operis.                                ibid. Demodoprocedendi,& ordinatione huius operis,cum cæte- ris partibus Dialectica.                          ibid. Adquam ſcientiam pertineat deprædicamentisagere, ibid. CAP. I. Deaquiuocis , & vniuocis,& denominatsuis cumеxро- fit.text.                                             198 Quæft.vnica,Vtrum definitiovniuocorum,conueniatdeno- minatiuis.                                            199 TRACT. Denominum Analogia.                              201 Quid fit Analogia.                                      202
-
-## Index. most proper is of a genus into species, or of an analogous term
 
 [PDF 16]
 
-Quotuplex fit analogia.                                 203 Anneceffe fit rem, vel conceptum, ſignificatumnomineana- logi, intrinfecè ſolùmreperiri in principali analogato, in cæterisverò,folùmper extrinfecam denominationem. 218 Anconceptusformalisanalogorum,ſit vnus , &abſtractus ab analogatis ,velmultiplex,& ab eis anabſtrahipoffit. 12 Secundapars quæftionis,de vnitateconceptusobiectiui ana- logorum.                                              214 Quonam modo conceptus analogi contineatanalogata, 221 Anensfit vniuocum reſpectu ſubſtantiæ , & accidentis, aut analogum , & qua analogia.                        227 Anſaltem ens completum fit vniuocum reſpectu ſubſtantiæ, &accidentis completi.                                231 Anensſityniuocum reſpectu aliquarum rerum eiufdem præ- dicamenti,vel diuerforum prædicamentorum.         233 An ens fit analogum comparatum ad enscreatum& increa- tum,velad Deum,& creaturas.                    255 Qua analogiadicatur ensreſpectu ſubſtantiæ, & accidentis, atque etiam reſpectuDei,& creaturarum.           237 Vtrum accidens ſit vniuocum ad nouem prædicamenta acci- dentium,vel analogum.                           240 Anneceſſefitaccidens eſſegenus ſi ſit vniuocum.    246 Anfaltem reſpectualiquorum accidentium aut prædicamen- torum,poffit efle accidensvniuocum.             247 CAP. II. Dedimifionecorumquedicuntur,&funt, cum expofit. tex. CAP. III. De regulis predicamentorum effentialium,cum ex- pofit. tex. Quæſt.vnica,angeneranon ſubalternatimpoſita, poffint has bere aliquam differentiam communem.                ibid. CAP. IIII . Continensdiuifionem incomplexorumin decempra-dicamenta,cum expofitionetext. Quæftio 1. Ex quibuſnam rebusperſecomponatur prædica- mentum.                                       ibid. An,& quomodo indiuidua ponanturinprædicamento. 264 Quonammodores infinitæ ponantur, autexcludantur àpræ- dicamento.                                            265 Queſt. 2. An res fint ponendæ in prædicamentis fub nomin- bus abſtractis, vel concretis.                        265 Quæstio 3. Anneceſſeſit prædicamenta diſtingui realiter,aut exnaturarei ; velſufficiatdiſtingui ratione.         271 Quæftio 4. Vtrumprædicamenta fintdecem,itavtnecplura eile poffint,necpauciora.                             27 $
-
 [PDF 17]
-
-CAP. V. Continenspredicamentumſubſtantie, cum expofitione tex .                                                  278 Quæstio r. Quodnam fit fupremumgenusprædicamenti ſub- ftantiæ .                                              282 Quæftio z. VtrùmDeus ponatur in prædicamento ſubſtan-- tiæ.                                                  284      Y Quæftio 3. Vtrum Angeli, &corpora cæleftia fintinprædica- meuto ſubſtantiæ.                                     187 Quæft. 4. Qualiſnam fit diuifio ſubſtantiæ inprimam,& fe- cundam:vniuoca,vel analoga.                        292 Quæftio s. Quodfit formale definitum definitionis primæ fubftantiæ.                                           297 Dubium 1. Circa comparationesprimarum, & fecundarum ſubſtantiarum-                                        300 Dubiumz. Circatertiamproprietatem ſubſtantiæ.        302 Dub. 3. Circa quartam proprietatem ſubſtantiæ.       305 Dubium   4. Circavltimamprop rietatem ſubſtantiæ.    307 CAP. VI. Continenspredicamentum quantitatis, cumexpofit. tex.                                                   312 Quæftio K. Inquonam fitponendaeffentialis ratioquantita- tis.                                                   315 Quæſt. 2. VerùmLinea, Superficies&Corpus, ſinttres ſpecies diſtinctæ quantitatis continua.                    320 Quæſtio3. Vtrum tempus fit vera ſpecies quantitatis con- tinuæ.                                                 325 Queſtio4. An locus fit ſpecies quantitatis continue,diſtincta àfuperficie.                                           332 Queſt. 5. Anmotus fit ſpecies quantitatis continue. 336 Queſtio6. An numerusfit ſpeciesquantitatisdiſcrete. 333 Quçitio 7. An formanumeri fumenda ſit ab vltima vnitate, velab omnibus .                                        346 Queſtio 8.Annumerus predicamentalis non folum reperiatur incorporibus,fed etiaminrebus ſpiritualibus.      35E Queſt. 9.Anoratio fit veraſpeciesquantitatis.            352 Inquonam fitponenda quantitas orationis.               354 Quæftioro. Anfidareturlinea,ſuperficies,aut corpus, velalia quantitas,actu infinita,collocaretur in predicamento. 357 Annumerusinfinitus effetin prædicamento.                  36,0 Quæſt.11. An quantitas fit res diſtincta àſubſtantia corporca, &cæteris accidentibus abſolutis,                       361 CAP. VII, Continenspredicamentumadaliquid, cum expofit text.                                                 364 Queſtio r. Anad aliquid, vel relatiuum conſtisuat ſpeciale
-
-## Index. CHAP. V. Containing the category of substance, with an exposition of the
 
 [PDF 18]
 
-prædicamentum.                                        367 Quæftio2.An adaliquid fit ſpecialegenus entis realis,     369 Quæst.3.Quodnam fit fupremumgenus prædicamenti adali- quid.                                                  373 Qux.4. An definitio relatiuorum,traditaabAriſt, expropria Tententia fitbona .                                    376 Quz.s. Vtrùm omnes relationes,pertineantadprædicamen- tum ad aliquid.                                        381 Quæftio6.An ſpeciesrelationisprædicamentalis à termino ſit accipienda.                                        38.6 Anfilio correſpondeat duplexrelatio,vna inpatre , &alia in matre,vel eadem in vtroqueparente.                  389 Quæſtio 7.Anterminusrelationis,ſitformaliter abſolutus,vel Formaliter relatiuus.                                   391 Anvnumrelatiuum poſſit,&debeatdefiniri peralterum. 399 Quæ.8.An vnumrelatiuum,ordineturadduos terminos eiuf-dem ſpeciei,pereandem, vel dinerſas rationes.  401 Quæftio 9.An entisrealisadnonens,autadens rationis,detur relatio realis,                                      406 Qu. 10. Analiquarelatioprædicamentalis,fundeturproxime inſubſtantia.                                          411 Quæſt. 11. An vna relatio realis,poffiteſſe fundamentumal- terius.                                                415 Quæftio 12. Vtrum relationes ſecundi generis fundenturin potentia,velin actione.                               420 Quæſt. 13. An relationes tertijgeneris fint reales , &prædica- mentales,                                              425 Quæftio 14.An relatio diſtinguaturrealiter àfundamento,vel folùm ratione.                                        429 Dubiumde ſeparationerelationisfundamento.                433 Dubium 1. An relationi conueniat habere contrarium .     435 Dubium 2.An relatiua ſuſcipiant magis,& minus.           436 CAP, VIII . Continenspredicamentumqualitatiscum expofit. text.                                                  439 Quæſt . 1. An qualitas fitfupremumgenushuius prædicamen- ti:&diuerfæ qualitates,enumeratæ ab Ariſt, diuerfæ ſpecies eius,                                                 441 Quæ.2.An habitus,&diſpoſitiodiftinguanturſpecie, 445 Quæftio 3.Verumnaturalispotentia,&impotentia,fintſpecies qualitatisdiſtinctæ,                                 449 Quzſtio4. Dehis,quæ pertinentadpaſſionem, &paffibilem qualitatem.                                            455 Dubium 1, Anpaſſio , &paſſibilis qualitas, Gatverzſpecies
-
 [PDF 19]
 
-JNDEX.                          ibid. qualitatis. Dubium 2.An paſſio,& paſſibilis qualitas,funtdiuerfæ ſpe- cies,vel vnatantum.                                 456 Dubium3. Anpaſſiones animæ pertineant ad hanc ſpeciem qualitatis.                                        458 Dubium 4.An obiecta omnium ſenſuum externorum,vtob icctacorum funt,pertineant ad hanc ſpeciem qualitatis.462 Quæftios. QuidperFormam,&Figuram intelligatArift. & an fintdiuerfæ ſpecies qualitatis,veleadem.         464 CAP. IX. De predicamentoAgionis Etpaffionis:          466 Quid Actio, & Paſſio fit,                             467 Quot,& quægenera,& ſpecies habeantactio,&paffio. 468 Quet,&quæfintproprietates actionis,&paſſionis. ibid. CAP.X. Deceterispradicamentis, PredicamentumQuando.                                  469 Quot,& quæ habeatgenera,& ſpecies hoc prædicamentum. 472 Quot,& quas proprietates habeathocprædicamentum.ibid. PredicamentumVbi..                                    473 Quid fit Vbi,autin quoconſiſtitratio formalis cius.   ibid. Quot,& quæ habeat genera, & ſpecies,Vbi.              474 Quot,&quas proprietates habeat vbi.                   475 Predicamentum Siam.                                   ibid, Inquo conſiſtatformalisratiohuius præd.               476 Quot,& quæ fintgenera,& ſpecies Situs.                478 Quot,& quæ fintproprietates huiuspræd.                ibid. PredicamentumHabere.                                  ibid. Quot,& quæ funtgenera,&ſpecieshabere.             479 Quot,& quæ fint proprietateshuiuspræd.            480 Quæſt.Anhabere ſitaliquid intrinfecum,& inhærens:vel in fola denominatione extrinfecaconfiftat.            ibid. Questiogeneralisproomnibasſexultimis pradicamentic. Anratioformalis corum confiftatinaliquo intrinfeco,& for- maliter inhærenti,vel in ſola denominatione extrinfeca, 484 CAP. XI. Deoppofitis,cum expofitionetext.             489 CAP.XII, Demodis prioris,cum expofitione textus.      490 CAP.XIII . De modis fimul, cum expofitione textus.    49 CAP. XIV. De ſpeciebus motus cum expofitionetext.     492 CAP. XV, Demodis habere,cum expofitionetext.          494 SECVNDA           PARS. Queftiones&dubiade interpretazione. Proæmium totius operis.                               495
-
 [PDF 20]
-
-INDEX.                   ibid. Quodnam fit obiectumhuius operis. Delocoquemhocopus obtineat inter cæteraspartes dialecti- cæ,& diuiſione eius.                                   497 CAP.I. Cum expofitione textus.                           ibid. Queſt.r.An vocesfignificent conceptus &res,atqueſcripturę voces adplacitum,conceptusverò naturaliterres. p. 499 CAP . II . De nominecumexpofit.text.                     503 Quest.1.An benedefiniatur nomeniper vocem.               504 Queſtio 2.Annomen definiatur pervocemtanquamper ve- rumgenus.                                              506 Quæftio3.anverumfitnomenſignificare adplacitum :vtin definitione dicitur.                                   507 Queſtio4. Anverum fit,partesnominisſeparatas,noneffe fi-gnificatiuas.                                   518 Queſtio 5. Annomen infinitum,omnino fit excludendum à definitioné.                                            512 Demodo fignificandinominis infiniti.                       513 Dequibuſnamdicaturnomeninfinitum inpropofitione.514 Antranſcendentianominapoſſint infinitari.                 517 Annominadefinita fint enumerandainter abſoluta, vel inter connotatiua.                                      518 An nomen infinitum dicatur vniuocède entibus & non enti-bus,vel analogicè.                                ibid. CAP. III. Deverbo,cum expofitionetext.                519 Queſtio 1. An verum fit verbum confignificare tempus. 520 Queſtio 2. An verbum fit verapars propofitionis.      525 Queſtio 3. Anverbuminfinitumpoffit collocari inpropofi- tione.                                                 528 CAP. IV. De enunciatione,cum expofitione text.            531 Queſtio 1. An in definitione orationis,definiatur ratio invui- uerfali,vtperfectam,&imperfectam,fimplicem & compo- fitamcomprehendit.                              532 Queſtio 2. Anenunciatio fit ensreale,vel rationis.        534 Queſtio 3. Anenunciatio quidditatiuè ſit definitaab Arifto- teleperveritatem,& falfitatem.                        535 Quęft.4.an enunciatio mentalisfitvna ſimplex qualitas. 537 Queſtiog.andiuifio enunciationis,in affirmatiuam,& nega- tiuam,fitgenerisinſpecies,vel analogi in analogata. 540 Queſtio 6.Andiuifio enunciationis in fimplicem, &compo- fitam,fitgenerisinſpecies,velanalogi in analogata. 542 CAP. V. Demodis oppofitionum.                         544 CAP. VI. Deoppofitione, Et veritate enunciationum defuturo contingenti cum expofitionetextus. A HELLO             545 Quæftio LYON
 
 [PDF 21]
 
@@ -3418,16 +3601,98 @@ rum cognitionem, cap.1. aliudMetaphyficum, illud. vniuer.nu.28 .           33   
 
 [PDF 773]
 
-Quæſt, vnic. An fingulares enunciationesde futuro contin genti,habeantveritatem,aut falfitatemdeterminatam. 548 4 Aneffectus contingens,quando eſt, ſit neceffarius,vel adhuc contingens.                                        555 Depriorsrefolutione.                                    557 Proæmium huiusoperis.                                  ibid . Deinfcriptione huius operis.                           ibid . Quoduam fit obiectumhuiusoperis.                         558 Diuifio totius operis.                                  559 САР. І. Ситехxpofitionetext .                          ibid. CAP.II.Cum expofitionetext.                             582 Notabile circa literam .                                553 Notabile 2 .                                           ibids Notabile ;.                                            564 CAP. III. Cumexpofit.text.                              565 Dubium1.circa conuerfionempropofitionumdeneceſſe. 566 AnverafitfecundaRegula conuerfionis,vniuerfalisaffirmati- ux,deneceffe.                                     ibid. Dubium2, An bene probaueritAriftot.regulas conuerfionis propofitionumdeneceſſe.                            568 Circa conuerfionempropoſitionúdemodo contingenti. 569 Notabilia3.                                  ibidr& fequen. Notabilevnicum circa conuerfionem propofitionumdepof- abili,& impoſſibili.                               574 CAP. IV.Cum expofit.text.                              ibid: Quid fit figura,& quotuplex,&quimodus.                  576 Anprætertres figuras enumeratasab Arift.addenda fit quarta. 577 CAP.V.Cüm expofit.text.                                 578 •CAP. VI.Cum expofittext.                               581 Traditurarsinueniendi medium,ad coficiendos fyllogifmos, & probandum quodlibet genus propofitionum.         58; Depofteriori refolutione.                               583 Proæmium totius operis.                                ibid. Quodnam fit fubiectumhuius operis.                      586 Digniorem effehacpartem dialecticę ceteris omnibus often- 7ditur. 587 Finis huius operis,& titulus , feu infcriptio eiusexplicatur. 189. Explicatur quem locum obtineredebeat opushoc inter cæte- : raspartes Dialecticæ . Quaredicatur iudicatiua hæc pars pofterioriſtica, pars verò topicainuentiua.
+- Quæst. vnic. An singulares enunciationes de futuro contingenti habeant veritatem, aut falsitatem determinatam · 548
+  - An effectus contingens, quando est, sit necessarius, vel adhuc contingens · 555
+- De priori resolutione · 557
+  - Proœmium huius operis · ibid.
+    - De inscriptione huius operis · ibid.
+    - Quodnam sit obiectum huius operis · 558
+    - Diuisio totius operis · 559
+  - CAP. I. Cum expositione text. · ibid.
+  - CAP. II. Cum expositione text. · 562
+    - Notabile circa literam · 563
+    - Notabile 2 · ibid.
+    - Notabile 3 · 564
+  - CAP. III. Cum exposit. text. · 565
+    - Dubium 1. circa conuersionem propositionum de necesse · 566
+      - An vera sit secunda Regula conuersionis, vniuersalis affirmatiuæ, de necesse · ibid.
+    - Dubium 2. An bene probauerit Aristot. regulas conuersionis propositionum de necesse · 568
+    - Circa conuersionem propositionum de modo contingenti · 569
+      - Notabilia 3 (& sequen.) · ibid.
+    - Notabile vnicum circa conuersionem propositionum de possibili, & impossibili · 574
+  - CAP. IV. Cum exposit. text. · ibid.
+    - Quid sit figura, & quotuplex, & qui modus · 576
+    - An præter tres figuras enumeratas ab Arist. addenda sit quarta · 577
+  - CAP. V. Cum exposit. text. · 578
+  - CAP. VI. Cum exposit. text. · 581
+    - Traditur ars inueniendi medium, ad conficiendos syllogismos, & probandum quodlibet genus propositionum · 583
+- De posteriori resolutione · 585
+  - Proœmium totius operis · ibid.
+    - Quodnam sit subiectum huius operis · 586
+    - Digniorem esse hanc partem dialecticæ cæteris omnibus ostenditur · 587
+    - Finis huius operis, & titulus, seu inscriptio eius explicatur · 589
+    - Explicatur quem locum obtinere debeat opus hoc inter cæteras partes Dialecticæ
+    - Quare dicatur iudicatiua hæc pars posterioristica, pars verò topica inuentiua
+    - Modus procedendi, & diuisio totius operis · 594
+  - CAP. I. Cum exposit. text. · 595
+    - Quæstio 1. An de omni, & sola cognitione intellectiua, intelligatur vniuersalis propositio Arist. · 598
+    - Quæst. 2. An de subiecto sit præsupponenda actualis existentia · 601
+    - Quæstio 3. An de subiecto præcognoscendum sit quid rei, vel solùm quid nominis · 603
+    - Quæstio 4. An præcognitiones de subiecto, passione, & principio haberi debeant ante demonstrationem, vel etiam in demonstratione ipsa · 606
+    - Quæst. 5. An assensus conclusionis fiat ex assensu præmissarum, aut principiorum in genere causæ efficientis, vel solum materialis · 608
+    - Quæstio 6. An assensus principiorum includatur formaliter in assensu conclusionis · 611
+    - Quæstio 7. An habito assensu præmissarum, assentiatur intellectus conclusioni in eodem instanti · 615
+    - Quæstio 8. An habitis assensibus præmissarum, liberum sit intellectui assentire conclusioni, vel necesse sit assensum eius habere in eodem instanti · 617
+  - CAP. II. Cum exposit. tex. · 622
+    - Quæstio 1. An secunda definitio demonstrationis sit bona · 625
+    - Quæstio 2. Quotuplex sit propositio per se nota, an omnis immediata sit appellanda per se nota · 627
+    - Quæstio 3. An nuda definitio sit principium, quod vocatur positio · 633
+    - Quæst. 4. An principia demonstrationis sint magis vera, quàm conclusio: & vniuersaliter, vna propositio an possit esse verior altera · 634
+    - Quæstio 5. An semper sit necessarium, vtramque præmissam demonstrationis certiorem esse conclusione · 638
+  - CAP. IV. Cum expositione tex. · 644
+    - Quæstio 1. An demonstratio debeat procedere ex necessariis · 646
+    - Quæst. 2. An demonstratio debeat constare ex propositionibus de omni, per se, & vniuersaliter · 650
+    - Quæstio 3. Quidnam significetur per terminum vniuersaliter, & an conueniat propositionibus superiorum de inferioribus, vel solùm his, quæ fiunt in terminis conuertibilibus · 656
+  - CAP. V. Cum expositione textus · 659
+    - Quæst. 1. An demonstratio procedens à causa remota sit quia, vel propter quid · 661
+    - Quæstio 2. An diuisio demonstrationis in demonstrationem quia, & propter quid, sit generis in species, vel analogi in analogata · 664
+  - TRACT. De subalternatione scientiarum · 673
+    - Quid nomine scientiæ subalternantis, & subalternatæ intelligatur · ibid.
+    - Quidnam sit subalternatio scientiarum · ibid.
+    - An subalternatio scientiarum explicata sit possibilis, vel sola imaginatione excogitata · 674
+    - An subalternata scientia, existens sine subalternante, sit vera scientia: vel potiùs opinio · 678
+    - An subalternata scientia, inter proprios limites, demonstret propter quid, vel solùm quia · 680
+  - CAP. XXVI. Cum expositione textus · 685
+  - TRACT. I. De habitu principiorum · 687
+    - An præter intellectum, & species intelligibiles detur habitus principiorum · 688
+    - Quidnam sit habitus principiorum · 690
+    - An habitus principiorum sit naturalis, vel acquisitus ab intellectu, per proprios actus · ibid.
+    - An habitus principiorum sit idem secundum speciem pro omnibus principiis: vel diuersus pro diuersis · 695
+  - TRACT. De habitu scientiæ · 697
+    - An præter habitum principiorum, ponendus sit pro conclusionibus alter habitus distinctus, qui appellatur scientia · ibid.
+    - An euidentia pertineat ad essentiam scientiæ · 699
+    - An scientia sit de singularibus, & de contingentibus, & entibus per accidens · 704
+    - An de ente per accidens possit dari scientia · 706
+    - An de casualibus, & fortuitis detur scientia · 707
+  - TRACT. III. De opinione, & fide humana
+    - Quidnam sit opinio, & quid fides humana · ibid.
+    - An formido sit de intrinseca ratione opinionis & humanæ fidei · 708
+    - An opinio possit esse simul cum scientia de eadem propositione, & in eodem intellectu · 710
+- Selecta ex libris Topicorum · 717
+  - De fine, ac diuisione horum librorum · ibid.
+  - Quodnam sit obiectum huius operis, & ordo eius cum cæteris partibus Dialecticæ explicatur · ibid.
+  - Quod sit prædicatum Dialecticum, & quotuplex · 718
+  - Quid sit, & quotuplex problema Dialecticum · ibid.
+  - Quidnam sit propositio Dialectica, & quotuplex, & quomodo distinguatur à problemate · 723
+  - Quid sit, & quotuplex propositio probabilis · 725
+  - Quidnam sit syllogismus topicus, aut dialecticus · 726
+  - Enumeratio, atque explicatio locorum, ex quibus deducuntur argumenta probabilia, pro disputatione ineunda · 727
+- Pro libris Elenchorum · 735
+  - TRACT. De syllogismo Sophistico · ibid.
+    - Quidnam sit syllogismus Sophisticus, & quotuplex: & an verus sit syllogismus, vel non · ibid.
 
 [PDF 774]
 
-Modus procedendi,&diuifio totius operis.                594 CAP. I. Cum expofit.text.                               595 Quæftio 1. Andeomni,&fola cognitioneintellectiua,intel- ligaturvniuerfalis propofitio Arift.                 598 Quæft. 2. Andefubiecto ſitpræfupponendaactualis exiſten- tia .                                                601 Quæſtio 3. Au deſubiectapræcognoſcendum fit quidrei,vel folùm quidnominis.                                   603 Queſtio 4. An præcognitiones de ſubiecto,paſſione,&princi- piohaberidebeant ante demonftrationem,veletiaminde- monftratione ipfa.                                   606 Quest.s.Anaffenfus conclufionis fiat,ex aſſenſupromiffarum, autprincipiorum ingenere caufæ efficientis, vel ſolumma- terialis.                                            608 Queſtio 6. An affenfusprincipiorumincludaturformaliterin aſſenſu conclufionis.                                611 Queſtio7.anhabito affenfu præmiſſarum,affentiatur intelle- ctus conclufioni in codem inftanti,                  615 Queſtio8. Anhabitis affenfibus præmiſſarum,liberum fitin- tellectui affentire conclufioni,vel neceſſe fitaffenfumeius habere in codem inſtanti.                             617 CAP. II. Ситexpofit.tex.                                622 Quæftio 1.An fecundadefinitiodemonſtrationis fitbona.625 Quæftio 2.quotuplexfit propofitio per ſenota, an omnis im- mediata fitappellandaperſenota.                     627 Quæftio 3.Annudadefinitiofitprincipium,quod vocaturpo- fitio.                                                633 Quæft. 4.Anprincipiademonftrationis fintmagis vera,quàm conclufio:&vniuerfaliter,vnapropofitio,anpoffit eſſeve- rioraltera.                                          634 Quæftio 5. An ſemper fit neceſſarium, vtramquepræmiflam demonftrationis,certiorem effe conclufione.           638 CAP.IV. Cum expofitione tex.                            644 Quæftio 1. Andemonftratiodebeatprocedere ex neceffariis. 646 Queſt. 2.andemonſtratio debeat conſtare ex propoſitionibus deomni,perſe,& vniuerfaliter,                         650 Quæftio 3. Quidnam fignificeturper terminuinvniuerfaliter &anconueniat propofitionibus fuperiorumde inferiori- bus ,vel folùmhis, quæ fiunt in terminis conuertibilibus. 656 CAP.V. Cumexpofitionetextus.                            644 Quæſt.1. Andemonftratioprocedens à cauſa remotafir, quia
-
 [PDF 775]
 
-velpropterquid.                                      661 Queſtio 2. an diuifio demonſtrationis in demonſtratione, quia,&propterquid, fitgeneris in ſpecies , velanalogiin analogata.                                           664 TRACT. Defubalternatione fcientiarum.               673 Quid nominefcientiæ ſubalternantis,&fubalternatæ intelli- gatur.                                               ibid. Quidnam fit fubalternatio ſcientiarum .                ibid. Anfubalternatio ſcientiarum explicata,ſitpoſſibilis,velſola imaginatione excogitata.                             674 Anfubalternataſcientia,exiſtens ſine ſubalternante, fitvera ſcientia:velpotiùs opinio.                          678 An ſubalternata ſcientia, interproprios limites,demonſtret propter quid,velfolùm quia.                          680 CAP. XXVI . Cum expofitionetextus.                     680 TRACT. 1. De habitu principiorum.                      687 Anpræter intellectum, & fpecies intelligibiles detur habitus principiorum.                                        688 Quidnam fit habitusprincipiorum.                       690 Anhabitusprincipiorumfitnaturalis,vel acquifitusab intel- lectu,per proprios actus.                            ibid. Anhabitusprincipiorum fitidem ſecundum ſpeciem,pro oin- nibusprincipiis:vel diuerfus pro diuerfis.       695 TRACT. Dehabitufcientia.                               697 Anpræterhabitum principiorum,ponendus fitproconclufio- nibusalterhabitus diſtinctus, qui appellaturſcientia. ibid. Ancuidentia pertineatad eſſentiam ſcientiæ,             699 Anſcientiafitde fingularibus,& de contingentibus,& entibus peraccidens.                                        704 Andeenteper accidens,poſſit dariſcientia.              706 Andecafualibus,& fortuitis detur ſcientia.             707 TRACT. III . De opinione, Et/fide humana. Quidnam fit opinio,& quid fides humana.                ibid. Anformido fit de intrinfeca ratione opinionis & humanæ fidei.                                              708 Anopiniopoffiteffe fimul,cum ſcientiade eadem propoſitio- ne,& in codem intellectu.                            710 Selecta ex libris Topicorum,                           717 De fine, ac diuiſionehorum librorum.                   ibid. Quodnam fit obiectum huius operis,&ordo eius,cum cæte- ris partibus Dialecticæ explicatur.             ibid. Quod fitprædicatum Dialecticum,& quotuplex.        718 Quidfit,& quotuplex problema Dialecticum.              ibid, čij
-
 [PDF 776]
-
-Quidnamfitpropofitio Dialectica,&quotuplex,&quomodo diftinguatur àproblemate.                     7.23 Quid fit,& quotuplex propoſitioprobabilis.                    725 Quidnam fit fyllogifmus topicus,aut dialecticus.              726 Enumeratio, atque explicatiolocorum, ex quibus deducun- tur argumentaprobabilia,prodifputatione ineunda. 627 Pro libris Elenchorsum.                                        735 TRACT. Defyllogifmo Sophistico.                               ibid. Quidnam fit fyllogifmus Sophiſticus,& quotuplex : & an ve- rusfitfyllogifmus,vel non.                                  ibid. TABUDE         L FINIS .                    DE - LYON =        VI LL 96   * * 18              E

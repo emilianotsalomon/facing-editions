@@ -28,9 +28,15 @@ Helbing & Lichtenhahn
 
 ## Contents
 
-Page Foreword to the second edition, by C. A. Bernoulli    VI On Bachofen: an appreciation, by Ludwig Klages        IX Foreword to the first edition, by J. J. Bachofen     XIV The Three Mystery Eggs                                 1 Ocnus the Rope Plaiter                               301 Descriptions of the Plates                           422 Summary of the Contents of the Treatises             423 Index of Subjects and Words                          427
-
-Plates I–IV
+- Foreword to the second edition, by C. A. Bernoulli · VI @PDF 5
+- On Bachofen: an appreciation, by Ludwig Klages · IX @PDF 8
+- Foreword to the first edition, by J. J. Bachofen · XIV @PDF 13
+- The Three Mystery Eggs · 1
+- Ocnus the Rope Plaiter · 301
+- Descriptions of the Plates · 422 @PDF 434
+- Summary of the Contents of the Treatises · 423 @PDF 435
+- Index of Subjects and Words · 427 @PDF 439
+- Plates I–IV
 
 [PDF 5]
 
@@ -3988,7 +3994,7 @@ A Tomb Painting.
 
 Plates 1 and 2.
 
-[p. 1]
+[p. 301]
 
 The subject of the following account is furnished by the picture which we present on the second plate. It comes from the same tomb chamber to which the three mystery eggs belong. Composition and execution show the utmost simplicity. In an open landscape, his back turned to a farmstead consisting of various buildings, a bearded old man sits on a massive block of stone, his bearing expressing repose after work accomplished and a lofty, solemn earnestness. The garment, which veils the head, falls in wide folds down over the back and, as it is gathered together over the legs, leaves the breast, the arms, and both feet bare and uncovered. In the old man’s right hand is a long rope, which an ass, lying at a short distance, gnaws. The left rests idly on the knee. Peace lies over the whole scene. It is the repose of evening that flows around everything, the old man, the animal, the farmstead. A deep silence reigns. The soundlessness of the grave seems to have been transferred into the picture. What heightens the interest of this painting is the peculiar conception in which it sets before our eyes a subject known to us from elsewhere as well. The aged Ocnus appears here not, as elsewhere, wholly given over to his eternally vain labor, but resting from the work. Idly there lie on his lap the hands that are otherwise busied with twisting the rope. Every thought of toil, of penance and punishment has been deliberately removed. The surroundings, too, are quite different from the usual ones. In a peaceful landscape the old man has sat down to rest. The farmstead, shaded by trees, seems to have just been left by its owners. Creation with all its delight surrounds the old man, who is otherwise banished to Hades and the sunless depths of the earth. The great penitents of the underworld would not fit at all the representation which the Pamphili picture shows. The Danaids, Ixion, Sisyphus, Cerberus belong indeed to the laboring Ocnus, but not to the resting one, to the penitent of Hades, not to the dweller in the realm of the sun. A decisive contrast separates the Pamphili representation from the others. Not artistic play, but conscious intention, has abandoned the traditional conception and set itself in opposition to it. The suffering Ocnus has become a liberated one. Indeed, the more closely the concept of punishment and [PDF 314] — 302 —
 

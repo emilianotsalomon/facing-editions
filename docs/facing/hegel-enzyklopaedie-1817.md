@@ -102,387 +102,179 @@ Heidelberg, May 1817.
 
 ### Contents.
 
-> Seite.
-
-Page.
-
-> Einleitung -3
-
-Introduction 3
-
-> Die Wissenschaft A. der Logik.
-
-A.
-
-#### The Science of Logic.
-
-> 3,126
-
-3–126
-
-> Borbegriff 15
-
-Preliminary Concept 15
-
-> Erster Theil. Die Lehre vom Seyn 33:49
-
-Part One. The Doctrine of Being 33–49
-
-> A. Qualität 33,43
-
-A. Quality 33–43
-
-> a. Seyn • • • 33
-
-a. Being 33
-
-> b. Daseyu • • 39
-
-b. Determinate Being 39
-
-> с. Fürsich seyn t 42
-
-c. Being-for-itself 42
-
-[p. XII]
-
-> Seite.
-
-Page.
-
-> B. Quantität 1 44:47
-
-B. Quantity 44–47
-
-> a. Reine Quantität 44:47
-
-a. Pure Quantity 44–47
-
-> b. Quantum 45
-
-b. Quantum 45
-
-> C. Grad 46
-
-c. Degree 46
-
-> C. Maaß 48:49
-
-C. Measure 48–49
-
-> Zweyter Theil. Die Lehre vom Wesen • 50,77
-
-Part Two. The Doctrine of Essence 50–77
-
-> A. Die reinen Reflexionsbestim: mungen 51:58
-
-A. The Pure Determinations of Reflection 51–58
-
-> a. Identität • 51
-
-a. Identity 51
-
-> b. Unterschied 53
-
-b. Difference 53
-
-> c. Grund 57
-
-c. Ground 57
-
-> B. Die Erscheinung 59:67
-
-B. Appearance 59–67
-
-> a. Existenz 59
-
-a. Existence 59
-
-> b. Erscheinung • 61
-
-b. Appearance 61
-
-> c. Verhältniß • 1 62
-
-c. Relationship 62
-
-> C. Die Wirklichkeit 67,77
-
-C. Actuality 67–77
-
-> a, Substantialität • 70
-
-a. Substantiality 70
-
-> b. Causalität 71
-
-b. Causality 71
-
-> c. 1 Wechselwirkung 73
-
-c. Reciprocal Action 73
-
-[p. XIII]
-
-> Ceite.
-
-Page.
-
-> Dritter Theil. Die Lehre vom Begriff 78,126
-
-Part Three. The Doctrine of the Concept 78–126
-
-> A. Der subjective Begriff. 78: 100
-
-A. The Subjective Concept 78–100
-
-> a. Begriff 1 80
-
-a. Concept 80
-
-> b. Urtheil: 83
-
-b. Judgment 83
-
-> c. Schluß 91
-
-c. Syllogism 91
-
-> B. Das Object 100110
-
-B. The Object 100–110
-
-> a. Mechanismus 101
-
-a. Mechanism 101
-
-> b. Chemismus 103
-
-b. Chemism 103
-
-> c. Zeleologie 105 1
-
-c. Teleology 105
-
-> C. Die Idee 110126
-
-C. The Idea 110–126
-
-> a. Leben 115
-
-a. Life 115
-
-> b. Erkennen 117
-
-b. Cognition 117
-
-> с. Absolute Idee 123
-
-c. Absolute Idea 123
-
-> ς B.
-
-B.
-
-> Die Philosophie der Natur.
-
-#### The Philosophy of Nature.
-
-> 127: 294
-
-127–294
-
-> Erster Theil. Die Mathematik 130: 141
-
-Part One. Mathematics 130–141
-
-> Zweyter Theil. Die Physik des Unorganischen 142,180
-
-Part Two. The Physics of the Inorganic 142–180
-
-> A. Die Mechanik 143: 152
-
-A. Mechanics 143–152
-
-[p. XIV]
-
-> Seite.
-
-Page.
-
-> B. Die elementarische Physik. 152163
-
-B. Elemental Physics 152–163
-
-> a. Elementarische Körper • 153
-
-a. Elemental Bodies 153
-
-> b. Elemente • • 159
-
-b. Elements 159
-
-> c. Elementarischer Proces 161
-
-c. Elemental Process 161
-
-> C. Die individuelle Physik 164,180
-
-C. Individual Physics 164–180
-
-> a. Gestalt 1 164
-
-a. Shape 164
-
-> b. Besonderung der Körper • 170
-
-b. Particularization of Bodies 170
-
-> c. Proceß der Vereinzelung • 174
-
-c. Process of Individuation 174
-
-> Dritter Theil. Die Physik des Organischen
-
-Part Three. The Physics of the Organic
-
-> 180: 204 1
-
-180–204
-
-> A. Die geologische Natur 181-182
-
-A. Geological Nature 181–182
-
-> B. Die vegetabilische Natur 183-185
-
-B. Vegetable Nature 183–185
-
-> C. Derthierische Organismus 185: 204
-
-C. The Animal Organism 185–204
-
-> Die Philosophie des Geistes
-
-C.
-
-#### The Philosophy of Spirit
-
-> 205 bis Ende.
-
-205 to the end.
-
-> Erster Theil. Der subjective Geist. 209,256
-
-Part One. Subjective Spirit 209–256
-
-> A. Die Seele • • • • 209
-
-A. The Soul 209
-
-> a. Naturbestimmtheit der Seele 212
-
-a. Natural Determinacy of the Soul 212
-
-> b. Gegensaz der Seele gegen ihre Substantialität 1 215
-
-b. Opposition of the Soul to Its Substantiality 215
-
-> c. Wirklichkeit der Seele 221
-
-c. Actuality of the Soul 221
-
-[p. XV]
-
-> Geite.
-
-Page.
-
-> B. Das Bewußtseyn 1 223
-
-B. Consciousness 223
-
-> a. Bewußtseyn als solches 223
-
-a. Consciousness as Such 223
-
-> b. Selbstbewußtseyn 229
-
-b. Self-Consciousness 229
-
-> c. Vernunft 234
-
-c. Reason 234
-
-> C. Der Geist 235
-
-C. Spirit 235
-
-> a. Theoretischer Geist 238
-
-a. Theoretical Spirit 238
-
-> 1) Gefühl. 2) Vorstellung Denken • 241,243,249
-
-1) Feeling. 2) Representation … Thinking 241, 243–249
-
-> b. Praktischer Geist • 251
-
-b. Practical Spirit 251
-
-> 1) Praktisches Gefühl. 2) Trieb und Neigung. 3) Glückseligkeit ۱ 251,254,256.
-
-1) Practical Feeling. 2) Drive … and Inclination. 3) Happiness 251, 254–256.
-
-> Zweyter Theil. Der objective Geist 259
-
-Part Two. Objective Spirit 259
-
-> A. Das Recht 260
-
-A. Right 260
-
-> B. Die Moralität • 265
-
-B. Morality 265
-
-> C. Die Sittlichkeit 270
-
-C. Ethical Life 270
-
-> 1. Das einzelne Volk 275
-
-1. The Individual Nation 275
-
-> 2. Neusseres Staatsrecht ebendas.
-
-2. External Public Law ibid.
-
-> 3. Allgemeine Weltgeschichte 276
-
-3. Universal World History 276
+> - Einleitung · 3 @scan 24
+> - A. Die Wissenschaft der Logik · 3–126 @p. 15
+>   - Vorbegriff · 15
+>   - Erster Theil. Die Lehre vom Seyn · 33–49
+>     - A. Qualität · 33–43
+>       - a. Seyn · 33
+>       - b. Daseyn · 39
+>       - c. Fürsichseyn · 42
+>     - B. Quantität · 44–47
+>       - a. Reine Quantität · 44–47
+>       - b. Quantum · 45
+>       - c. Grad · 46
+>     - C. Maaß · 48–49
+>   - Zweyter Theil. Die Lehre vom Wesen · 50–77
+>     - A. Die reinen Reflexionsbestimmungen · 51–58
+>       - a. Identität · 51
+>       - b. Unterschied · 53
+>       - c. Grund · 57
+>     - B. Die Erscheinung · 59–67
+>       - a. Existenz · 59
+>       - b. Erscheinung · 61
+>       - c. Verhältniß · 62
+>     - C. Die Wirklichkeit · 67–77
+>       - a. Substantialität · 70
+>       - b. Causalität · 71
+>       - c. Wechselwirkung · 73
+>   - Dritter Theil. Die Lehre vom Begriff · 78–126
+>     - A. Der subjective Begriff · 78–100
+>       - a. Begriff · 80
+>       - b. Urtheil · 83
+>       - c. Schluß · 91
+>     - B. Das Object · 100–110
+>       - a. Mechanismus · 101
+>       - b. Chemismus · 103
+>       - c. Teleologie · 105
+>     - C. Die Idee · 110–126
+>       - a. Leben · 115
+>       - b. Erkennen · 117
+>       - c. Absolute Idee · 123
+> - B. Die Philosophie der Natur · 127–294
+>   - Erster Theil. Die Mathematik · 130–141
+>   - Zweyter Theil. Die Physik des Unorganischen · 142–180
+>     - A. Die Mechanik · 143–152
+>     - B. Die elementarische Physik · 152–163
+>       - a. Elementarische Körper · 153
+>       - b. Elemente · 159
+>       - c. Elementarischer Proceß · 161
+>     - C. Die individuelle Physik · 164–180
+>       - a. Gestalt · 164
+>       - b. Besonderung der Körper · 170
+>       - c. Proceß der Vereinzelung · 174
+>   - Dritter Theil. Die Physik des Organischen · 180–204
+>     - A. Die geologische Natur · 181–182
+>     - B. Die vegetabilische Natur · 183–185
+>     - C. Der thierische Organismus · 185–204
+> - C. Die Philosophie des Geistes (bis Ende) · 205
+>   - Erster Theil. Der subjective Geist · 209–256
+>     - A. Die Seele · 209
+>       - a. Naturbestimmtheit der Seele · 212
+>       - b. Gegensatz der Seele gegen ihre Substantialität · 215
+>       - c. Wirklichkeit der Seele · 221
+>     - B. Das Bewußtseyn · 223
+>       - a. Bewußtseyn als solches · 223
+>       - b. Selbstbewußtseyn · 229
+>       - c. Vernunft · 234
+>     - C. Der Geist · 235
+>       - a. Theoretischer Geist · 238
+>         - 1) Gefühl · 241
+>         - 2) Vorstellung · 243
+>         - 3) Denken · 249
+>       - b. Praktischer Geist · 251
+>         - 1) Praktisches Gefühl · 251
+>         - 2) Trieb und Neigung · 254
+>         - 3) Glückseligkeit · 256
+>   - Zweyter Theil. Der objective Geist · 259
+>     - A. Das Recht · 260
+>     - B. Die Moralität · 265
+>     - C. Die Sittlichkeit · 270
+>       - 1. Das einzelne Volk · 275
+>       - 2. Aeusseres Staatsrecht · ibid.
+>       - 3. Allgemeine Weltgeschichte · 276
+>   - Dritter Theil. Der absolute Geist · 279
+>     - a. Religion der Kunst · 280
+>     - b. Geoffenbarte Religion · 283
+>     - c. Philosophie · 286
+
+- Introduction · 3 @scan 24
+- A. The Science of Logic · 3–126 @p. 15
+  - Preliminary Concept · 15
+  - Part One. The Doctrine of Being · 33–49
+    - A. Quality · 33–43
+      - a. Being · 33
+      - b. Determinate Being · 39
+      - c. Being-for-itself · 42
+    - B. Quantity · 44–47
+      - a. Pure Quantity · 44–47
+      - b. Quantum · 45
+      - c. Degree · 46
+    - C. Measure · 48–49
+  - Part Two. The Doctrine of Essence · 50–77
+    - A. The Pure Determinations of Reflection · 51–58
+      - a. Identity · 51
+      - b. Difference · 53
+      - c. Ground · 57
+    - B. Appearance · 59–67
+      - a. Existence · 59
+      - b. Appearance · 61
+      - c. Relationship · 62
+    - C. Actuality · 67–77
+      - a. Substantiality · 70
+      - b. Causality · 71
+      - c. Reciprocal Action · 73
+  - Part Three. The Doctrine of the Concept · 78–126
+    - A. The Subjective Concept · 78–100
+      - a. Concept · 80
+      - b. Judgment · 83
+      - c. Syllogism · 91
+    - B. The Object · 100–110
+      - a. Mechanism · 101
+      - b. Chemism · 103
+      - c. Teleology · 105
+    - C. The Idea · 110–126
+      - a. Life · 115
+      - b. Cognition · 117
+      - c. Absolute Idea · 123
+- B. The Philosophy of Nature · 127–294
+  - Part One. Mathematics · 130–141
+  - Part Two. The Physics of the Inorganic · 142–180
+    - A. Mechanics · 143–152
+    - B. Elemental Physics · 152–163
+      - a. Elemental Bodies · 153
+      - b. Elements · 159
+      - c. Elemental Process · 161
+    - C. Individual Physics · 164–180
+      - a. Shape · 164
+      - b. Particularization of Bodies · 170
+      - c. Process of Individuation · 174
+  - Part Three. The Physics of the Organic · 180–204
+    - A. Geological Nature · 181–182
+    - B. Vegetable Nature · 183–185
+    - C. The Animal Organism · 185–204
+- C. The Philosophy of Spirit (to the end) · 205
+  - Part One. Subjective Spirit · 209–256
+    - A. The Soul · 209
+      - a. Natural Determinacy of the Soul · 212
+      - b. Opposition of the Soul to Its Substantiality · 215
+      - c. Actuality of the Soul · 221
+    - B. Consciousness · 223
+      - a. Consciousness as Such · 223
+      - b. Self-Consciousness · 229
+      - c. Reason · 234
+    - C. Spirit · 235
+      - a. Theoretical Spirit · 238
+        - 1) Feeling · 241
+        - 2) Representation · 243
+        - 3) Thinking · 249
+      - b. Practical Spirit · 251
+        - 1) Practical Feeling · 251
+        - 2) Drive and Inclination · 254
+        - 3) Happiness · 256
+  - Part Two. Objective Spirit · 259
+    - A. Right · 260
+    - B. Morality · 265
+    - C. Ethical Life · 270
+      - 1. The Individual Nation · 275
+      - 2. External Public Law · ibid.
+      - 3. Universal World History · 276
+  - Part Three. Absolute Spirit · 279
+    - a. Religion of Art · 280
+    - b. Revealed Religion · 283
+    - c. Philosophy · 286
 
 [p. XVI]
-
-> Grite.
-
-Page.
-
-> Dritter Theil. Der absolute Geist 279
-
-Part Three. Absolute Spirit 279
-
-> a. Religion der Kunst 1. 280
-
-a. Religion of Art 280
-
-> b. Geoffenbarte Religion 283
-
-b. Revealed Religion 283
-
-> c. Philosophie 286
-
-c. Philosophy 286
 
 > Anmerkung. Durch die Entfernung des Druckorts ist es res schehen, daß der zweyte und dritte 4, schnitt des Ganzen, Bdie Philosophi der Natur S. 127 und C die Philosos phie des Geistes S. 205 nicht durch bes sondere Titelblätter ausgezeichnet sind.
 

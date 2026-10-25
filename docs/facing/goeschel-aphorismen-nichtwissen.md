@@ -202,29 +202,19 @@ Blessed is the pilgrim for whom in the wilderness a fresh spring flows at all ti
 
 ### Contents.
 
-> Vorerinnerung.
+> - Vorerinnerung.
+> - Einleitung · 1–12 @scan 15
+> - I. Das Nichtwissen · 13–47 @scan 27
+> - II. Das absolute Wissen · 48–115
+> - III. Glauben und Wissen · 116–189
+> - Nachwort · 190–195
 
-Preliminary Remarks.
-
-> Einleitung. 4 5.1-12
-
-Introduction p. 1–12
-
-> I. Das Nichtwiſſen. 13 -47
-
-I. Non-Knowing — 13–47
-
-> II. Das absolute Wissen. -48-115
-
-II. Absolute Knowing — 48–115
-
-> III. Glauben und Wissen. 116-189
-
-III. Faith and Knowing — 116–189
-
-> Nachwort -190 -195
-
-Afterword — 190–195
+- Preliminary Remarks.
+- Introduction · 1–12 @scan 15
+- I. Non-Knowing · 13–47 @scan 27
+- II. Absolute Knowing · 48–115
+- III. Faith and Knowing · 116–189
+- Afterword · 190–195
 
 > ,,Niemand betrüge Ach selbst. Melcher Ach unter euch 1 dünket weife,, » Denn zu seyn dieser, der Welt werde Weisheit ein Karr in it dieser Thorheit Welt bey, das Gott. er möge " weise seyn.
 

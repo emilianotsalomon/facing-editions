@@ -42,6 +42,26 @@ August 1927. The Author
 
 [p. 9]
 
+> - I. Was bedeutet „Charakterisieren“? · 11 @p. 10
+> - II. Charakterologische Stammbegriffe · 27 @p. 25
+> - III. Von den Stimmungen und Wallungen · 39 @p. 37
+> - IV. Triebe und Interessen · 51 @p. 49
+> - V. Zur Metaphysik des Willens · 65 @p. 63
+> - VI. Zur Theorie der Gefühle · 89 @p. 87
+> - VII. Über Gattungen und Arten der Charaktere · 107 @p. 105
+> - Quellen · 127
+> - Anmerkungen · 145
+
+- I. What Does “Characterizing” Mean? · 11 @p. 10
+- II. Fundamental Concepts of Characterology · 27 @p. 25
+- III. On Moods and Surges of Emotion · 39 @p. 37
+- IV. Drives and Interests · 51 @p. 49
+- V. On the Metaphysics of the Will · 65 @p. 63
+- VI. On the Theory of the Feelings · 89 @p. 87
+- VII. On the Genera and Species of Characters · 107 @p. 105
+- Sources · 127
+- Notes · 145
+
 [p. 10]
 
 ## I. Was Bedeutet „Charakterisieren“? — I. What Does "Characterizing" Mean?

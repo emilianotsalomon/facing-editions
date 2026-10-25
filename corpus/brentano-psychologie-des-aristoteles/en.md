@@ -32,89 +32,48 @@ Würzburg, July 14, 1866.
 
 ### Inhalt. — Contents.
 
-Introduction . . . . . 1
-
-Section I. Survey of Earlier Attempts at Explanation . . . . . 5
-
-a. Interpretations of the Earliest Period . . . . . 5
-
-b. Conceptions in the Middle Ages . . . . . 8
-
-c. More Recent Explanations . . . . . 29
-
-Section II. Development of the Aristotelian Doctrine of the νοῦς ποιητικός . . . . . 37
-
-Retrospect. — Points of Reference for the Investigation . . . . . 37
-
-Part I. On the Soul and the Powers of the Soul in General . . . . . 41
-
-a. On the Essence of the Soul and Its Union with the Body . . . . . 41
-
-b. On the Parts of the Human Soul . . . . . 53
-
-c. On the Several Genera of Powers in the Higher Parts of the Soul . . . . . 61
-
-Part II. On the Parts of the Soul Individually, and First on the Vegetative Soul . . . . . 74
-
-Part III. On the Sensitive Soul . . . . . 79
-
-a. On Sensation in General and on the Number of the External Senses . . . . . 79
-
-b. On the Sense of Sensation . . . . . 85
-
-c. On the Subject of Sensation . . . . . 98
-
-d. On Imagination . . . . . 102
-
-e. On Sensory Appetite and the Voluntary Movement of the Body . . . . . 104
-
-Part IV. On the Intellective Soul . . . . . 113
-
-a. On the Intellect That Is All Intelligibles in Potentiality . . . . . 113
-
-Necessity of Assuming the Intellect as a Special Cognitive Faculty . . . . . 113
-
-Similarity of the Intellect and the Senses . . . . . 113
-
-Spirituality of the Intellect . . . . . 115
-
-The Aristotelian Proofs of the Spirituality (Immortality) of the Intellective Soul . . . . . 120
-
-Threefold Difference between the Aristotelian Theory of Knowledge and the Platonic . . . . . 131
-
-Solution of Apparent Contradictions . . . . . 136
-
-Relation of the Receptive Intellect to the Phantasms . . . . . 144
-
-[p. VIII] b. On the Spiritual Appetitive Power . . . . . 154
-
-c. On the Conscious Influence of the Spiritual Part on the Sensory . . . . . 159
-
-d. On the νοῦς ποιητικός . . . . . 163
-
-Necessity of Assuming It, and Preliminary Determination of Its Properties . . . . . 163
-
-Explanation of the Fifth Chapter of the Third Book On the Soul . . . . . 165
-
-Explanation of the First Part . . . . . 165
-
-Explanation of the Second Part — Divine Knowledge as the Ultimate Ground of Human Knowledge — Origin of the Human Soul . . . . . 180
-
-Survey of the Whole Chapter . . . . . 219
-
-Apparent Contradiction between the Books On the Soul and the Posterior Analytics . . . . . 211
-
-Testimony of Theophrastus . . . . . 216
-
-Testimony of Eudemus . . . . . 224
-
-Relation of Our Explanation to the Earlier Conceptions of the νοῦς ποιητικός . . . . . 225
-
-Concluding Reflections . . . . . 229
-
-Appendix. On the Activity, in Particular the Creative Activity, of the Aristotelian God . . . . . 234
-
-Index of Passages Concerning Textual Criticism . . . . . 251
+- Introduction · 1 @scan 32
+- Section I. Survey of Earlier Attempts at Explanation · 5 @scan 36
+  - a. Interpretations of the Earliest Period · 5 @scan 36
+  - b. Conceptions in the Middle Ages · 8
+  - c. More Recent Explanations · 29
+- Section II. Development of the Aristotelian Doctrine of the νοῦς ποιητικός · 37 @scan 68
+  - Retrospect. — Points of Reference for the Investigation · 37 @scan 68
+  - Part I. On the Soul and the Powers of the Soul in General · 41 @scan 72
+    - a. On the Essence of the Soul and Its Union with the Body · 41 @scan 72
+    - b. On the Parts of the Human Soul · 53
+    - c. On the Several Genera of Powers in the Higher Parts of the Soul · 61
+  - Part II. On the Parts of the Soul Individually, and First on the Vegetative Soul · 74 @scan 105
+  - Part III. On the Sensitive Soul · 79 @scan 110
+    - a. On Sensation in General and on the Number of the External Senses · 79 @scan 110
+    - b. On the Sense of Sensation · 85
+    - c. On the Subject of Sensation · 98
+    - d. On Imagination · 102
+    - e. On Sensory Appetite and the Voluntary Movement of the Body · 104
+  - Part IV. On the Intellective Soul · 113 @scan 144
+    - a. On the Intellect That Is All Intelligibles in Potentiality · 113 @scan 144
+      - Necessity of Assuming the Intellect as a Special Cognitive Faculty · 113 @scan 144
+      - Similarity of the Intellect and the Senses · 113 @scan 144
+      - Spirituality of the Intellect · 115
+      - The Aristotelian Proofs of the Spirituality (Immortality) of the Intellective Soul · 120
+      - Threefold Difference between the Aristotelian Theory of Knowledge and the Platonic · 131
+      - Solution of Apparent Contradictions · 136
+      - Relation of the Receptive Intellect to the Phantasms · 144
+    - b. On the Spiritual Appetitive Power · 154
+    - c. On the Conscious Influence of the Spiritual Part on the Sensory · 159
+    - d. On the νοῦς ποιητικός · 163
+      - Necessity of Assuming It, and Preliminary Determination of Its Properties · 163
+      - Explanation of the Fifth Chapter of the Third Book On the Soul · 165
+      - Explanation of the First Part · 165
+      - Explanation of the Second Part — Divine Knowledge as the Ultimate Ground of Human Knowledge — Origin of the Human Soul · 180
+      - Survey of the Whole Chapter · 210
+      - Apparent Contradiction between the Books On the Soul and the Posterior Analytics · 211
+      - Testimony of Theophrastus · 216
+      - Testimony of Eudemus · 224
+      - Relation of Our Explanation to the Earlier Conceptions of the νοῦς ποιητικός · 225
+  - Concluding Reflections · 229
+- Appendix. On the Activity, in Particular the Creative Activity, of the Aristotelian God · 234 @scan 265
+- Index of Passages Concerning Textual Criticism · 251 @scan 282
 
 [scan 32]
 

@@ -266,21 +266,32 @@ En fin, se alargó demasiado este prólogo, que es, como la obertura o el prelud
 
 #### Índice de contenido
 
-Prólogo a la Estética — 5
-
-*Título Primero — Gnoseología Estética*
-
-Cap. I. Los elementos del conocer — 43 / Cap. II. Conocimiento sensorial — 48 / Cap. III. Conocimiento intelectual — 57 / Cap. IV. Conocimiento emocional — 81 / Cap. V. La sustancia y sus configuraciones — 119 / Cap. VI. Lógica estética — 143 / Cap. VII. La reversión estética — 155
-
-*Título Segundo — El A Priori Estético*
-
-Cap. VIII. El a priori estético — 175 / Cap. IX. El órgano estético — 226 / Cap. X. Las categorías de la belleza — 239 / Cap. XI. Las direcciones del devenir estético — 257 / Cap. XII. Axiología estética — 260 / Cap. XIII. El objeto de la Estética — 281 / Cap. XIV. Los cinco sentidos preestéticos — 297 / Cap. XV. El Sexto Sentido — 329
-
-*Título Tercero — Clasificación General de las Bellas Artes*
-
-Cap. XVI. Clasificación general de las bellas artes — 335 / Cap. XVII. La plástica — 352 / Cap. XVIII. Danza — 433 / Cap. XIX. La música — 452 / Cap. XX. Poesía — 471 / Cap. XXI. Liturgia — 495
-
-Notas — 511
+- Prólogo a la Estética · 5
+- Título Primero — Gnoseología Estética
+  - Capítulo I. Los elementos del conocer · 43
+  - Capítulo II. Conocimiento sensorial · 48
+  - Capítulo III. Conocimiento intelectual · 57
+  - Capítulo IV. Conocimiento emocional · 81
+  - Capítulo V. La sustancia y sus configuraciones · 119
+  - Capítulo VI. Lógica estética · 143
+  - Capítulo VII. La reversión estética · 155
+- Título Segundo — El A Priori Estético
+  - Capítulo VIII. El a priori estético · 175
+  - Capítulo IX. El órgano estético · 226
+  - Capítulo X. Las categorías de la belleza · 239
+  - Capítulo XI. Las direcciones del devenir estético · 257
+  - Capítulo XII. Axiología estética · 260
+  - Capítulo XIII. El objeto de la Estética · 281
+  - Capítulo XIV. Los cinco sentidos preestéticos · 297
+  - Capítulo XV. El Sexto Sentido · 329
+- Título Tercero — Clasificación General de las Bellas Artes
+  - Capítulo XVI. Clasificación general de las bellas artes · 335
+  - Capítulo XVII. La plástica · 352
+  - Capítulo XVIII. Danza · 433
+  - Capítulo XIX. La música · 452
+  - Capítulo XX. Poesía · 471
+  - Capítulo XXI. Liturgia · 495
+- Notas · 511
 
 ### Título Primero — Gnoseología Estética
 

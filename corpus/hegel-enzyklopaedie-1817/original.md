@@ -44,205 +44,93 @@ Inhalts: Anzeige.
 
 ### Contents.
 
-Seite.
-
-Einleitung -3
-
-Die Wissenschaft A. der Logik.
-
-#### The Science of Logic.
-
-3,126
-
-Borbegriff 15
-
-Erster Theil. Die Lehre vom Seyn 33:49
-
-A. Qualität 33,43
-
-a. Seyn • • • 33
-
-b. Daseyu • • 39
-
-с. Fürsich seyn t 42
-
-[p. XII]
-
-Seite.
-
-B. Quantität 1 44:47
-
-a. Reine Quantität 44:47
-
-b. Quantum 45
-
-C. Grad 46
-
-C. Maaß 48:49
-
-Zweyter Theil. Die Lehre vom Wesen • 50,77
-
-A. Die reinen Reflexionsbestim: mungen 51:58
-
-a. Identität • 51
-
-b. Unterschied 53
-
-c. Grund 57
-
-B. Die Erscheinung 59:67
-
-a. Existenz 59
-
-b. Erscheinung • 61
-
-c. Verhältniß • 1 62
-
-C. Die Wirklichkeit 67,77
-
-a, Substantialität • 70
-
-b. Causalität 71
-
-c. 1 Wechselwirkung 73
-
-[p. XIII]
-
-Ceite.
-
-Dritter Theil. Die Lehre vom Begriff 78,126
-
-A. Der subjective Begriff. 78: 100
-
-a. Begriff 1 80
-
-b. Urtheil: 83
-
-c. Schluß 91
-
-B. Das Object 100110
-
-a. Mechanismus 101
-
-b. Chemismus 103
-
-c. Zeleologie 105 1
-
-C. Die Idee 110126
-
-a. Leben 115
-
-b. Erkennen 117
-
-с. Absolute Idee 123
-
-ς B.
-
-Die Philosophie der Natur.
-
-#### The Philosophy of Nature.
-
-127: 294
-
-Erster Theil. Die Mathematik 130: 141
-
-Zweyter Theil. Die Physik des Unorganischen 142,180
-
-A. Die Mechanik 143: 152
-
-[p. XIV]
-
-Seite.
-
-B. Die elementarische Physik. 152163
-
-a. Elementarische Körper • 153
-
-b. Elemente • • 159
-
-c. Elementarischer Proces 161
-
-C. Die individuelle Physik 164,180
-
-a. Gestalt 1 164
-
-b. Besonderung der Körper • 170
-
-c. Proceß der Vereinzelung • 174
-
-Dritter Theil. Die Physik des Organischen
-
-180: 204 1
-
-A. Die geologische Natur 181-182
-
-B. Die vegetabilische Natur 183-185
-
-C. Derthierische Organismus 185: 204
-
-Die Philosophie des Geistes
-
-#### The Philosophy of Spirit
-
-205 bis Ende.
-
-Erster Theil. Der subjective Geist. 209,256
-
-A. Die Seele • • • • 209
-
-a. Naturbestimmtheit der Seele 212
-
-b. Gegensaz der Seele gegen ihre Substantialität 1 215
-
-c. Wirklichkeit der Seele 221
-
-[p. XV]
-
-Geite.
-
-B. Das Bewußtseyn 1 223
-
-a. Bewußtseyn als solches 223
-
-b. Selbstbewußtseyn 229
-
-c. Vernunft 234
-
-C. Der Geist 235
-
-a. Theoretischer Geist 238
-
-1) Gefühl. 2) Vorstellung Denken • 241,243,249
-
-b. Praktischer Geist • 251
-
-1) Praktisches Gefühl. 2) Trieb und Neigung. 3) Glückseligkeit ۱ 251,254,256.
-
-Zweyter Theil. Der objective Geist 259
-
-A. Das Recht 260
-
-B. Die Moralität • 265
-
-C. Die Sittlichkeit 270
-
-1. Das einzelne Volk 275
-
-2. Neusseres Staatsrecht ebendas.
-
-3. Allgemeine Weltgeschichte 276
+- Einleitung · 3 @scan 24
+- A. Die Wissenschaft der Logik · 3–126 @p. 15
+  - Vorbegriff · 15
+  - Erster Theil. Die Lehre vom Seyn · 33–49
+    - A. Qualität · 33–43
+      - a. Seyn · 33
+      - b. Daseyn · 39
+      - c. Fürsichseyn · 42
+    - B. Quantität · 44–47
+      - a. Reine Quantität · 44–47
+      - b. Quantum · 45
+      - c. Grad · 46
+    - C. Maaß · 48–49
+  - Zweyter Theil. Die Lehre vom Wesen · 50–77
+    - A. Die reinen Reflexionsbestimmungen · 51–58
+      - a. Identität · 51
+      - b. Unterschied · 53
+      - c. Grund · 57
+    - B. Die Erscheinung · 59–67
+      - a. Existenz · 59
+      - b. Erscheinung · 61
+      - c. Verhältniß · 62
+    - C. Die Wirklichkeit · 67–77
+      - a. Substantialität · 70
+      - b. Causalität · 71
+      - c. Wechselwirkung · 73
+  - Dritter Theil. Die Lehre vom Begriff · 78–126
+    - A. Der subjective Begriff · 78–100
+      - a. Begriff · 80
+      - b. Urtheil · 83
+      - c. Schluß · 91
+    - B. Das Object · 100–110
+      - a. Mechanismus · 101
+      - b. Chemismus · 103
+      - c. Teleologie · 105
+    - C. Die Idee · 110–126
+      - a. Leben · 115
+      - b. Erkennen · 117
+      - c. Absolute Idee · 123
+- B. Die Philosophie der Natur · 127–294
+  - Erster Theil. Die Mathematik · 130–141
+  - Zweyter Theil. Die Physik des Unorganischen · 142–180
+    - A. Die Mechanik · 143–152
+    - B. Die elementarische Physik · 152–163
+      - a. Elementarische Körper · 153
+      - b. Elemente · 159
+      - c. Elementarischer Proceß · 161
+    - C. Die individuelle Physik · 164–180
+      - a. Gestalt · 164
+      - b. Besonderung der Körper · 170
+      - c. Proceß der Vereinzelung · 174
+  - Dritter Theil. Die Physik des Organischen · 180–204
+    - A. Die geologische Natur · 181–182
+    - B. Die vegetabilische Natur · 183–185
+    - C. Der thierische Organismus · 185–204
+- C. Die Philosophie des Geistes (bis Ende) · 205
+  - Erster Theil. Der subjective Geist · 209–256
+    - A. Die Seele · 209
+      - a. Naturbestimmtheit der Seele · 212
+      - b. Gegensatz der Seele gegen ihre Substantialität · 215
+      - c. Wirklichkeit der Seele · 221
+    - B. Das Bewußtseyn · 223
+      - a. Bewußtseyn als solches · 223
+      - b. Selbstbewußtseyn · 229
+      - c. Vernunft · 234
+    - C. Der Geist · 235
+      - a. Theoretischer Geist · 238
+        - 1) Gefühl · 241
+        - 2) Vorstellung · 243
+        - 3) Denken · 249
+      - b. Praktischer Geist · 251
+        - 1) Praktisches Gefühl · 251
+        - 2) Trieb und Neigung · 254
+        - 3) Glückseligkeit · 256
+  - Zweyter Theil. Der objective Geist · 259
+    - A. Das Recht · 260
+    - B. Die Moralität · 265
+    - C. Die Sittlichkeit · 270
+      - 1. Das einzelne Volk · 275
+      - 2. Aeusseres Staatsrecht · ibid.
+      - 3. Allgemeine Weltgeschichte · 276
+  - Dritter Theil. Der absolute Geist · 279
+    - a. Religion der Kunst · 280
+    - b. Geoffenbarte Religion · 283
+    - c. Philosophie · 286
 
 [p. XVI]
-
-Grite.
-
-Dritter Theil. Der absolute Geist 279
-
-a. Religion der Kunst 1. 280
-
-b. Geoffenbarte Religion 283
-
-c. Philosophie 286
 
 Anmerkung. Durch die Entfernung des Druckorts ist es res schehen, daß der zweyte und dritte 4, schnitt des Ganzen, Bdie Philosophi der Natur S. 127 und C die Philosos phie des Geistes S. 205 nicht durch bes sondere Titelblätter ausgezeichnet sind.
 
