@@ -48,11 +48,7 @@ Spaniards to the the advice of Antonio Alaminos, one of the most expert and most
 
 A2                        objects
 
-(a) Dr. Robertson says in bk. 3 that the Spaniards landed, and advancing into the country (of Yucatán) observed with astonishment great houses built of stone. So he speaks where he recounts the voyage of Hernández; but a few pages later, speaking of the voyage of Grijalva, he says: Many villages were scattered along the coast, in which (the Spaniards) could make out houses of stone, which at a distance appeared white and splendid. In the warmth of their imagination they fancied these to be so many cities adorned with towers
-
-[p. 4]
-
-objects never before seen by them in the New World. The Yucatecs, Bk. VIII.
+(a) Dr. Robertson says in bk. 3 that the Spaniards landed, and advancing into the country (of Yucatán) observed with astonishment great houses built of stone. So he speaks where he recounts the voyage of Hernández; but a few pages later, speaking of the voyage of Grijalva, he says: Many villages were scattered along the coast, in which (the Spaniards) could make out houses of stone, which at a distance appeared white and splendid. In the warmth of their imagination they fancied these to be so many cities adorned with towers [p. 4] objects never before seen by them in the New World. The Yucatecs, Bk. VIII.
 
 for their part, marveled at the size, the form, and the equipment of
 
@@ -120,19 +116,11 @@ History. For the rest, I cannot understand how a house that is not in fact white
 
 look white from afar.
 
-(b) They gave that islet the name of San Juan because they landed there
-
-[p. 5]
-
-the shore of Chalchiuhcuecan, the Mexican governors of those coasts, astounded at the sight of ships so large and of men of such Bk. VIII. strange appearance and bearing, consulted among themselves about what was to be done, and resolved to repair in person to the court to give the king an account of a thing so extraordinary; and, so as to give him a fuller idea of it, they had their painters represent after a fashion the ships, the artillery, the arms, the dress, and the appearance of that new people. Without delay they set out for the court, where they told the king by word of mouth all that was on the coast, and presented him with the paintings and some little glass beads which they had received from the Spaniards. Moctezuma was troubled at hearing news so strange; but, not to precipitate his decision in an affair of such moment, he held council with Cacamatzin, king of Acolhuacan, his nephew, with Cuitláhuac, lord of Iztapalapa, his brother, and with twelve other persons of rank, his ordinary councilors. After a long conference they concluded by common opinion that the one who had landed on those shores with so great an array could be no other than the god of the air, Quetzalcoatl, awaited by them for so many years; for there ran among those nations, as we have said elsewhere, an ancient tradition that this god, after winning the esteem and veneration of the peoples in Tollan, in Cholula, and in Onohualco by his innocent life and his singular beneficence, had vanished from there, having first promised them to return after some time to rule them in peace and make them happy. The kings of those countries considered themselves lieutenants of that god, and trustees of the crown, which they would have to yield to him
+(b) They gave that islet the name of San Juan because they landed there [p. 5] the shore of Chalchiuhcuecan, the Mexican governors of those coasts, astounded at the sight of ships so large and of men of such Bk. VIII. strange appearance and bearing, consulted among themselves about what was to be done, and resolved to repair in person to the court to give the king an account of a thing so extraordinary; and, so as to give him a fuller idea of it, they had their painters represent after a fashion the ships, the artillery, the arms, the dress, and the appearance of that new people. Without delay they set out for the court, where they told the king by word of mouth all that was on the coast, and presented him with the paintings and some little glass beads which they had received from the Spaniards. Moctezuma was troubled at hearing news so strange; but, not to precipitate his decision in an affair of such moment, he held council with Cacamatzin, king of Acolhuacan, his nephew, with Cuitláhuac, lord of Iztapalapa, his brother, and with twelve other persons of rank, his ordinary councilors. After a long conference they concluded by common opinion that the one who had landed on those shores with so great an array could be no other than the god of the air, Quetzalcoatl, awaited by them for so many years; for there ran among those nations, as we have said elsewhere, an ancient tradition that this god, after winning the esteem and veneration of the peoples in Tollan, in Cholula, and in Onohualco by his innocent life and his singular beneficence, had vanished from there, having first promised them to return after some time to rule them in peace and make them happy. The kings of those countries considered themselves lieutenants of that god, and trustees of the crown, which they would have to yield to him
 
 as
 
-on the day of the holy Precursor, and because that was the name of the commander. They also called it Ulúa; for, having found there two human victims freshly sacrificed, and having asked by signs the reason for so inhuman a deed, the Indians replied, pointing toward the west, Acolhua, Acolhua, meaning to make them understand that they did it by order of the Mexicans, who, like all those of the Valley of Mexico, were called Acolhuas by the peoples distant from their capital. On this islet there is at present a good fortress to defend the entrance to the port of Veracruz.
-
-[p. 6]
-
-as soon as he appeared there. This immemorial tradition, the various
+on the day of the holy Precursor, and because that was the name of the commander. They also called it Ulúa; for, having found there two human victims freshly sacrificed, and having asked by signs the reason for so inhuman a deed, the Indians replied, pointing toward the west, Acolhua, Acolhua, meaning to make them understand that they did it by order of the Mexicans, who, like all those of the Valley of Mexico, were called Acolhuas by the peoples distant from their capital. On this islet there is at present a good fortress to defend the entrance to the port of Veracruz. [p. 6] as soon as he appeared there. This immemorial tradition, the various
 
 Bk. VIII.
 
@@ -200,11 +188,7 @@ was born in Medellín, a small town of Extremadura, in 1485. On his
 
 father's side he was a Cortés,
 
-and
-
-[p. 7]
-
-and a Monroy, and on his mother's side a Pizarro and an Altamirano,
+and [p. 7] and a Monroy, and on his mother's side a Pizarro and an Altamirano,
 
 Bk. VIII. the blood of those four lineages, which were among the most illustrious and the oldest of that town, having been united in him. At the age of fourteen he was sent by his parents to Salamanca, so that by learning Latin and jurisprudence in that famous university he might be of use to his house, which had been reduced to poverty; but it was not long before his martial bent drew him away from his studies and carried him to the New World, in the footsteps of many illustrious young men of his nation. He accompanied Diego Velázquez in the conquest of the island of Cuba, where he acquired property and won great authority for himself. He was a man of great talent, very shrewd, courageous, and skillful in the exercise of arms, fertile in finding means and expedients to bring his projects to completion, extremely ingenious in making himself obeyed and respected even by his peers, magnanimous in his designs and in his actions, prompt in action, modest in speech, steadfast in his undertakings, and patient in his adversities. His zeal for religion was in no way inferior to his constant and inviolable fidelity toward his sovereign; but the splendor of these and of other good qualities, which raised him to the class of heroes, was eclipsed by some actions unworthy of the greatness of his mind. His unruly love of women entangled him in some evil practices, and in earlier times had brought upon him grave troubles and perils. Too great zeal, or obstinacy, in his undertakings, and the fear of upsetting his fortune made him at times fail in justice, in gratitude, and in humanity; but where was there ever a general and conqueror, formed in the school of the world, in whom the virtues did not stand in the balance against the vices? Cortés was of good stature, and of a well-proportioned body, robust and agile. He had a somewhat prominent chest, a black beard, and lively, amiable eyes. Such is the portrait of the famous Conqueror of Mexico left to us by the first historians, who knew him. (*)
 
@@ -284,19 +268,11 @@ Hernán Cortés. — Pedro de Alvarado.
 
 Moctezuma Xocoyotzin.
 
-Gonzalo de Sandoval. — Cristóbal de Olid.
-
-[p. 9]
-
-few words, and of outstanding deeds. To him Cortés entrusted the most arduous and dangerous expeditions, and in all of them he came Bk. VIII. off with honor. In the war against the Mexicans he was commander of one part of the Spanish army, and in the siege of the capital he had more than thirty thousand men under his orders, always earning by his good conduct the favor of his general, the respect of his soldiers, and the love of his very enemies. He founded the colony of Medellín on the coast of Chalchiuhcuecan, and that of Espíritu Santo on the river Coatzacoalco. He was commander of the garrison of Veracruz, and for some time governor of Mexico, and in all his employments he made his equity manifest. He was constant and assiduous in toil, obedient and loyal to his general, kind toward his soldiers, humane (*) toward his enemies, and entirely free from the common contagion of avarice. And, to put it in few words, I find in the whole series of the Conquerors no more accomplished man, nor one more worthy of praise, since there never
+Gonzalo de Sandoval. — Cristóbal de Olid. [p. 9] few words, and of outstanding deeds. To him Cortés entrusted the most arduous and dangerous expeditions, and in all of them he came Bk. VIII. off with honor. In the war against the Mexicans he was commander of one part of the Spanish army, and in the siege of the capital he had more than thirty thousand men under his orders, always earning by his good conduct the favor of his general, the respect of his soldiers, and the love of his very enemies. He founded the colony of Medellín on the coast of Chalchiuhcuecan, and that of Espíritu Santo on the river Coatzacoalco. He was commander of the garrison of Veracruz, and for some time governor of Mexico, and in all his employments he made his equity manifest. He was constant and assiduous in toil, obedient and loyal to his general, kind toward his soldiers, humane (*) toward his enemies, and entirely free from the common contagion of avarice. And, to put it in few words, I find in the whole series of the Conquerors no more accomplished man, nor one more worthy of praise, since there never
 
 History of Mexico, Vol. III.                       B                          was
 
-(*) Dr. Robertson lays at Sandoval’s door that frightful example of severity made upon the people of Pánuco, when the Spaniards burned sixty lords and four hundred nobles before the eyes of their children and relatives, and he cites the testimony of Cortés and of Gómara; but Cortés does not affirm that Sandoval inflicted that punishment, nor does he even name him. Bernal Díaz, whose testimony on this point is worth far more than Gómara’s, says that Sandoval, having defeated the people of Pánuco and taken prisoner twenty lords and some other persons of note, wrote to Cortés asking for his decision regarding the prisoners; and Cortés, to make their condemnation the more just, committed their trial to Diego de Ocampo, judge of that province, who, after hearing their confession, condemned them to be burned, as was done. Bernal Díaz does not state the number of the culprits punished. Cortés says that four hundred, lords and principal persons together, were burned. Such a punishment was without doubt excessive and cruel; but Robertson, who reproaches the Spaniards so much for it, ought, to make his impartiality manifest, to declare the motives those men had for venting their cruelty on the people of Pánuco. These, after submitting to the Crown of Spain, shook off the yoke and, running to arms, threw that whole province into turmoil; they killed four hundred Spaniards, of whom they burned forty alive in a house, and ate the others. These atrocious crimes are not enough to excuse the Spaniards; but they do make their severity less blameworthy. Robertson likewise read in Gómara both the misdeeds of the people of Pánuco and the severity of the Spaniards; but he exaggerates the latter and is silent about the former.
-
-[p. 10]
-
-was among them anyone who knew so well how to reconcile youthful
+(*) Dr. Robertson lays at Sandoval’s door that frightful example of severity made upon the people of Pánuco, when the Spaniards burned sixty lords and four hundred nobles before the eyes of their children and relatives, and he cites the testimony of Cortés and of Gómara; but Cortés does not affirm that Sandoval inflicted that punishment, nor does he even name him. Bernal Díaz, whose testimony on this point is worth far more than Gómara’s, says that Sandoval, having defeated the people of Pánuco and taken prisoner twenty lords and some other persons of note, wrote to Cortés asking for his decision regarding the prisoners; and Cortés, to make their condemnation the more just, committed their trial to Diego de Ocampo, judge of that province, who, after hearing their confession, condemned them to be burned, as was done. Bernal Díaz does not state the number of the culprits punished. Cortés says that four hundred, lords and principal persons together, were burned. Such a punishment was without doubt excessive and cruel; but Robertson, who reproaches the Spaniards so much for it, ought, to make his impartiality manifest, to declare the motives those men had for venting their cruelty on the people of Pánuco. These, after submitting to the Crown of Spain, shook off the yoke and, running to arms, threw that whole province into turmoil; they killed four hundred Spaniards, of whom they burned forty alive in a house, and ate the others. These atrocious crimes are not enough to excuse the Spaniards; but they do make their severity less blameworthy. Robertson likewise read in Gómara both the misdeeds of the people of Pánuco and the severity of the Spaniards; but he exaggerates the latter and is silent about the former. [p. 10] was among them anyone who knew so well how to reconcile youthful
 
 Bk. VIII.
 
@@ -368,21 +344,13 @@ into the country as far as a palm grove, where, having set foot on land
 
 on the pretext of procuring water and provisions,
 
-they
-
-[p. 11]
-
-they set out toward a large village scarcely two miles distant from there, fighting continually with a throng of Indians who with arrows, Bk. VIII. darts, and other weapons of theirs disputed their passage, and overcoming the stockades which they had built for their defense. The Spaniards having at last made themselves masters of the village, they sallied out from it frequently to make raids in the neighboring places, in which they had some very perilous skirmishes, until it came to a pitched and decisive battle on March 25. The battle was fought on the plains of Centla, a village not far from the other already mentioned. The army of the people of Tabasco was much superior in number; but in spite of their multitude they were utterly defeated, thanks to the better discipline of the Spaniards, the superiority of their arms, and the terror spread among the Indians by the size and the fire of the horses. Eight hundred of the people of Tabasco were left dead on the field; of the Spaniards one or two were killed, and more than sixty wounded. This victory was the beginning of the Spaniards' good fortune, and in memory of it they afterward founded a small city there under the name of Our Lady of Victory, (c) which for a long time was the capital of that province. They tried to justify their hostilities by the repeated protests which, before coming to blows, they had made to the people of Tabasco, that they had not come into that country as enemies to do any harm, but only as voyagers in need of obtaining, by the barter of their wares, what they required to continue their voyage, to which protests the Indians replied with a storm of arrows and darts.
+they [p. 11] they set out toward a large village scarcely two miles distant from there, fighting continually with a throng of Indians who with arrows, Bk. VIII. darts, and other weapons of theirs disputed their passage, and overcoming the stockades which they had built for their defense. The Spaniards having at last made themselves masters of the village, they sallied out from it frequently to make raids in the neighboring places, in which they had some very perilous skirmishes, until it came to a pitched and decisive battle on March 25. The battle was fought on the plains of Centla, a village not far from the other already mentioned. The army of the people of Tabasco was much superior in number; but in spite of their multitude they were utterly defeated, thanks to the better discipline of the Spaniards, the superiority of their arms, and the terror spread among the Indians by the size and the fire of the horses. Eight hundred of the people of Tabasco were left dead on the field; of the Spaniards one or two were killed, and more than sixty wounded. This victory was the beginning of the Spaniards' good fortune, and in memory of it they afterward founded a small city there under the name of Our Lady of Victory, (c) which for a long time was the capital of that province. They tried to justify their hostilities by the repeated protests which, before coming to blows, they had made to the people of Tabasco, that they had not come into that country as enemies to do any harm, but only as voyagers in need of obtaining, by the barter of their wares, what they required to continue their voyage, to which protests the Indians replied with a storm of arrows and darts.
 
 Cortés took solemn possession of that country in the name of his sovereign with a strange ceremony, but one consonant with the customs and the chivalric ideas of that age. He took up his buckler, and drew his sword, with which he gave three blows on
 
 B2                             a
 
-(c) The city of Victory was entirely depopulated toward the middle of the last century on account of the frequent invasions of the English. Another small town was afterward founded at a site farther from the sea, which they named Villahermosa; but the capital of this province, where the governor resides, is Tlacotlalpan.
-
-[p. 12]
-
-a great tree that stood in the principal village, protesting that if any‐
+(c) The city of Victory was entirely depopulated toward the middle of the last century on account of the frequent invasions of the English. Another small town was afterward founded at a site farther from the sea, which they named Villahermosa; but the capital of this province, where the governor resides, is Tlacotlalpan. [p. 12] a great tree that stood in the principal village, protesting that if any‐
 
 Bk. VIII. one dared to oppose such a possession, he would defend it with that
 
@@ -454,19 +422,11 @@ that it is certain, and that he heard it from Doña Marina herself. To this is a
 
 tradition which has been preserved to this day in Coatzacoalco in conformity with
 
-what we have said.
-
-[p. 13]
-
-whom she had a son. The love which they bore this fruit of their marriage drove them to the wicked plan of giving out that the firstborn Bk. VIII. was dead, so that the whole inheritance might go to him. Now to make it believed, they secretly handed her over to certain merchants of Xicallanco, a city situated on the borders of Tabasco, at a time when the daughter of one of their slave women had died, at whose death they made the same mourning that they would have made had their own daughter really died. The merchants of Xicallanco gave her, or rather sold her, to the people of Tabasco, their neighbors, and these finally presented her to Cortés, who was very far from thinking that that rare young woman was to serve with her tongue in the conquest of all that land. Besides the Mexican language proper to her own country, she knew well the Maya that was spoken in Yucatán and in Tabasco, and in a short time she learned Spanish too. Promptly instructed in the dogmas of the Christian religion, she was solemnly baptized, together with the other slave women, with the name of Marina. (*) She was constantly faithful to the Spaniards, and the services rendered by her cannot be sufficiently esteemed; for not only was she the instrument of their negotiations with the Mexicans, with the Tlaxcalans, and with the other nations of Anahuac; but she often saved their lives, warning them of the dangers that threatened them, and pointing out the way to avoid them. She accompanied Cortés on all his expeditions, serving him always as interpreter, often as counselor, and at times, to her misfortune, as his mistress. The son whom that Conqueror had by her was named Don Martín Cortés, Knight of the military order of Santiago, who on rash suspicions of rebellion was put to the torture in Mexico in 1568, those iniquitous and barbarous judges disregarding the incomparable services rendered by the parents of that illustrious accused to the Catholic King and to the whole nation
+what we have said. [p. 13] whom she had a son. The love which they bore this fruit of their marriage drove them to the wicked plan of giving out that the firstborn Bk. VIII. was dead, so that the whole inheritance might go to him. Now to make it believed, they secretly handed her over to certain merchants of Xicallanco, a city situated on the borders of Tabasco, at a time when the daughter of one of their slave women had died, at whose death they made the same mourning that they would have made had their own daughter really died. The merchants of Xicallanco gave her, or rather sold her, to the people of Tabasco, their neighbors, and these finally presented her to Cortés, who was very far from thinking that that rare young woman was to serve with her tongue in the conquest of all that land. Besides the Mexican language proper to her own country, she knew well the Maya that was spoken in Yucatán and in Tabasco, and in a short time she learned Spanish too. Promptly instructed in the dogmas of the Christian religion, she was solemnly baptized, together with the other slave women, with the name of Marina. (*) She was constantly faithful to the Spaniards, and the services rendered by her cannot be sufficiently esteemed; for not only was she the instrument of their negotiations with the Mexicans, with the Tlaxcalans, and with the other nations of Anahuac; but she often saved their lives, warning them of the dangers that threatened them, and pointing out the way to avoid them. She accompanied Cortés on all his expeditions, serving him always as interpreter, often as counselor, and at times, to her misfortune, as his mistress. The son whom that Conqueror had by her was named Don Martín Cortés, Knight of the military order of Santiago, who on rash suspicions of rebellion was put to the torture in Mexico in 1568, those iniquitous and barbarous judges disregarding the incomparable services rendered by the parents of that illustrious accused to the Catholic King and to the whole nation
 
 of
 
-(*) The Mexicans, adapting the name Marina to their language, called her Malintzin, whence came the name Malinche, by which she is known among the Spaniards of Mexico.
-
-[p. 14]
-
-of Spain. (e) After the conquest she married a distinguished Spaniard Bk. VIII. named Juan Jaramillo. In the long and difficult journey which she
+(*) The Mexicans, adapting the name Marina to their language, called her Malintzin, whence came the name Malinche, by which she is known among the Spaniards of Mexico. [p. 14] of Spain. (e) After the conquest she married a distinguished Spaniard Bk. VIII. named Juan Jaramillo. In the long and difficult journey which she
 
 made in company with Cortés to the province of Honduras in 1524,
 
@@ -530,19 +490,11 @@ the complaints of the Mexicans, recalled him to court and gave him so severe and
 
 strong a reprimand that on the following day he was found dead of vexation in his
 
-chair.
-
-[p. 15]
-
-of Tabasco, the fleet set out again on its voyage, and, proceeding westward after coasting the province of Coatzacoalco and crossing Bk. VIII. the mouth of the river Papaloapan, entered the port of San Juan de Ulúa on Holy Thursday, April 21. They had scarcely cast anchor when they saw coming from the coast of Chalchiuhcuecan toward the flagship two large canoes, in which were many Mexicans sent by the governor of that coast to learn who those were that had landed there in that new fleet, and what they wanted, and to offer them all the aid they might need for the continuation of their voyage: which made plain the vigilance of that governor and the hospitality of that nation. Having come aboard the flagship, and presented themselves to Cortés with very civil manners, they set forth their commission to him by means of Doña Marina and Aguilar; for, since Aguilar did not then understand Mexican, nor she Spanish, it was necessary in those first conferences with the Mexicans to employ three languages and two interpreters: Doña Marina explained to Aguilar in the Maya language what the Mexicans said in their own tongue, and Aguilar declared it in Spanish to Cortés. This general received the Mexicans courteously, and knowing how pleasing the trinkets of Europe had been to them the year before, he replied that he had come to that country for no other reason than to trade with them and to treat with their king about affairs of the highest moment; and, to put them the more under obligation, he made them taste the wine of Spain, and gave them some little gifts which he thought might be agreeable to them. (f)
+chair. [p. 15] of Tabasco, the fleet set out again on its voyage, and, proceeding westward after coasting the province of Coatzacoalco and crossing Bk. VIII. the mouth of the river Papaloapan, entered the port of San Juan de Ulúa on Holy Thursday, April 21. They had scarcely cast anchor when they saw coming from the coast of Chalchiuhcuecan toward the flagship two large canoes, in which were many Mexicans sent by the governor of that coast to learn who those were that had landed there in that new fleet, and what they wanted, and to offer them all the aid they might need for the continuation of their voyage: which made plain the vigilance of that governor and the hospitality of that nation. Having come aboard the flagship, and presented themselves to Cortés with very civil manners, they set forth their commission to him by means of Doña Marina and Aguilar; for, since Aguilar did not then understand Mexican, nor she Spanish, it was necessary in those first conferences with the Mexicans to employ three languages and two interpreters: Doña Marina explained to Aguilar in the Maya language what the Mexicans said in their own tongue, and Aguilar declared it in Spanish to Cortés. This general received the Mexicans courteously, and knowing how pleasing the trinkets of Europe had been to them the year before, he replied that he had come to that country for no other reason than to trade with them and to treat with their king about affairs of the highest moment; and, to put them the more under obligation, he made them taste the wine of Spain, and gave them some little gifts which he thought might be agreeable to them. (f)
 
 On
 
-(f) Torquemada says that Moctezuma, having been informed of the new fleet, already observed by the sentinels posted on the mountains, at once dispatched his ambassadors to pay reverence to the supposed god Quetzalcoatl, who, going with the utmost speed to the port of Chalchiuhcuecan, passed immediately on board the flagship on the very day on which the Spaniards landed there: that Cortés, warned of the error, and wishing to take advantage of it, received them seated on a high throne which he had promptly had made, where he let himself be worshiped, be dressed in the priestly habit of Quetzalcoatl, and have his neck adorned with a necklace of gems, and his head with a helmet of gold
-
-[p. 16]
-
-On the first day of Easter, after the Spaniards had set foot on land, Bk. VIII.
+(f) Torquemada says that Moctezuma, having been informed of the new fleet, already observed by the sentinels posted on the mountains, at once dispatched his ambassadors to pay reverence to the supposed god Quetzalcoatl, who, going with the utmost speed to the port of Chalchiuhcuecan, passed immediately on board the flagship on the very day on which the Spaniards landed there: that Cortés, warned of the error, and wishing to take advantage of it, received them seated on a high throne which he had promptly had made, where he let himself be worshiped, be dressed in the priestly habit of Quetzalcoatl, and have his neck adorned with a necklace of gems, and his head with a helmet of gold [p. 16] On the first day of Easter, after the Spaniards had set foot on land, Bk. VIII.
 
 and landed their horses and their artillery, and had made, with the
 
@@ -614,11 +566,7 @@ does not say that on that same day they made the altar; indeed in the same chapt
 
 of his history he affirms in quite clear words that it was made on Sunday, after the
 
-governor Teuhtlile had come to pay reverence to Cortés.
-
-[p. 17]
-
-seeking to win their goodwill by his attentions. As soon as they rose from the table, he led them aside to set forth his claims. He told Bk. VIII. them that he was a subject of Don Carlos of Austria, the greatest king of the East, whose goodness, greatness, and power he extolled in the most magnificent terms, and he added that this great monarch, having knowledge of that land and of the lord who reigned in it, had sent him to pay him a visit in his name, and to communicate to him by word of mouth some matters of great moment, and that he would therefore be glad to know where it would please him to hear the embassy. “Scarcely,” replied Teuhtlile, “have you arrived in this country, and you wish at once to see our king? I have listened with pleasure to what you have told me concerning the greatness and the goodness of your sovereign, but know that ours is no less good, nor a lesser king; indeed I marvel that there can be in the world another more powerful than he; but since you affirm it, I shall make it known to my sovereign, of whose goodness I trust that he will not only take pleasure in hearing such news of that great prince, but will also honor his ambassador. Accept in the meantime this gift, which in his name I present to you,” and, taking from a petlacalli, or chest woven of cane, several excellent pieces of gold work, he presented them to him, together with various curious pieces of featherwork, ten loads of fine cotton garments, and a great quantity of provisions. (i)
+governor Teuhtlile had come to pay reverence to Cortés. [p. 17] seeking to win their goodwill by his attentions. As soon as they rose from the table, he led them aside to set forth his claims. He told Bk. VIII. them that he was a subject of Don Carlos of Austria, the greatest king of the East, whose goodness, greatness, and power he extolled in the most magnificent terms, and he added that this great monarch, having knowledge of that land and of the lord who reigned in it, had sent him to pay him a visit in his name, and to communicate to him by word of mouth some matters of great moment, and that he would therefore be glad to know where it would please him to hear the embassy. “Scarcely,” replied Teuhtlile, “have you arrived in this country, and you wish at once to see our king? I have listened with pleasure to what you have told me concerning the greatness and the goodness of your sovereign, but know that ours is no less good, nor a lesser king; indeed I marvel that there can be in the world another more powerful than he; but since you affirm it, I shall make it known to my sovereign, of whose goodness I trust that he will not only take pleasure in hearing such news of that great prince, but will also honor his ambassador. Accept in the meantime this gift, which in his name I present to you,” and, taking from a petlacalli, or chest woven of cane, several excellent pieces of gold work, he presented them to him, together with various curious pieces of featherwork, ten loads of fine cotton garments, and a great quantity of provisions. (i)
 
 Cortés accepted the gift with a singular show of gratitude, and returned it with things of little value, but prized by them either because they were entirely new in that country or for their apparent brilliance. Teuhtlile had brought with him various painters, so that, dividing among themselves the different
 
@@ -638,11 +586,7 @@ Everyone can easily imagine the great disquiet and perplexity in which Moctezuma
 
 that
 
-(k) Some historians say that Cortés, to ask for the helmet full of gold, availed himself of the pretext of a certain heart ailment from which he and his companions suffered, which he said could not be cured with any other remedy than that precious metal; but this matters little to the substance of the fact.
-
-[p. 19]
-
-that fleet, and with a more exact report of the character of those
+(k) Some historians say that Cortés, to ask for the helmet full of gold, availed himself of the pretext of a certain heart ailment from which he and his companions suffered, which he said could not be cured with any other remedy than that precious metal; but this matters little to the substance of the fact. [p. 19] that fleet, and with a more exact report of the character of those
 
 Bk. VIII. strangers, of the fire of their horses, and of the destructive violence of their arms. As one who was so superstitious, he had his gods con‐ §Moctezuma’s
 
@@ -658,11 +602,7 @@ C2                          who
 
 (l) Bernal Díaz calls this ambassador Quintalbor; but such a name is not, and cannot be, Mexican. Robertson says that the same officers who had until then treated with Cortés were charged with carrying him the king's reply, without making any mention of the ambassador; but Bernal Díaz, an eyewitness, as well as other Spanish and Indian historians, affirm what we say. Solís, considering the short interval of seven days, and the distance of seventy leagues between that port and the capital, would not be persuaded that the ambassador came then; but, since he had said a little earlier that the Mexican posts were more diligent than the European, it is no wonder that in one day, or little more, they carried the news of the fleet to the court, and that in four or five days the ambassador went in a litter on the shoulders of the same posts, as was their custom. Since the fact is not improbable, one must believe Bernal Díaz, an eyewitness and truthful.
 
-(m) The incensing done to the Spaniards, although it was nothing more than a
-
-[p. 20]
-
-who were near him, and saluted them respectfully; and, seating himBk. VIII.
+(m) The incensing done to the Spaniards, although it was nothing more than a [p. 20] who were near him, and saluted them respectfully; and, seating himBk. VIII.
 
 self on a chair which Cortés offered him, he delivered his harangue,
 
@@ -728,19 +668,11 @@ teemed gods by the Mexicans.
 
 give more credence to Bernal Díaz, an eyewitness, who knew it well, as one who
 
-must have had his share in Moctezuma's gift.
-
-[p. 21]
-
-no less amazed than pleased at so great a wealth. “This gift,” added the ambassador, speaking to Cortés, “my sovereign sends for you and Bk. VIII. for your companions, since for your king he will send you shortly certain gems of inestimable value. In the meantime you may stay as long as you please on this beach to rest from the fatigues of so long a voyage, and to provide yourselves with whatever you need to return to your country. If you wish anything else of this land for your sovereign, it will be given you at once; but as regards your claim to go to the court, I am charged to dissuade you from so difficult and dangerous a journey, since you would have to travel through uninhabitable deserts and through enemy countries.” Cortés received the gift with the greatest expressions of his gratitude toward the royal beneficence, and responded as he could; but, without abandoning his request, he begged the ambassador to represent to the king the dangers and hardships they had suffered in so long a voyage, and the displeasure his sovereign would feel at seeing himself disappointed in his hope: that for the rest the Spaniards were of such a condition that neither hardships nor perils were capable of diverting them from their undertakings. The ambassador offered to make this known to the king, and courteously took leave together with Teuhtlile, Cuitlalpitoc remaining with a great number of people in a hamlet which they had formed of huts, not far from the camp of the Spaniards.
+must have had his share in Moctezuma's gift. [p. 21] no less amazed than pleased at so great a wealth. “This gift,” added the ambassador, speaking to Cortés, “my sovereign sends for you and Bk. VIII. for your companions, since for your king he will send you shortly certain gems of inestimable value. In the meantime you may stay as long as you please on this beach to rest from the fatigues of so long a voyage, and to provide yourselves with whatever you need to return to your country. If you wish anything else of this land for your sovereign, it will be given you at once; but as regards your claim to go to the court, I am charged to dissuade you from so difficult and dangerous a journey, since you would have to travel through uninhabitable deserts and through enemy countries.” Cortés received the gift with the greatest expressions of his gratitude toward the royal beneficence, and responded as he could; but, without abandoning his request, he begged the ambassador to represent to the king the dangers and hardships they had suffered in so long a voyage, and the displeasure his sovereign would feel at seeing himself disappointed in his hope: that for the rest the Spaniards were of such a condition that neither hardships nor perils were capable of diverting them from their undertakings. The ambassador offered to make this known to the king, and courteously took leave together with Teuhtlile, Cuitlalpitoc remaining with a great number of people in a hamlet which they had formed of huts, not far from the camp of the Spaniards.
 
 Cortés saw well, amid all the prosperity he had so far had, that he could not remain in that place; for besides the discomfort of the heat, and the nuisance of the mosquitoes, which abound too much along all that beach, he feared some damage to his ships from the violence of the north wind, to which that poor harbor is very much exposed: so he dispatched two ships under the command of Captain Montejo, that, proceeding along the coast toward the Pánuco, they might look for another, safer port. They returned within a few
 
-days
-
-[p. 22]
-
-days with the news that they had found, thirty-six miles from Ulúa,
+days [p. 22] days with the news that they had found, thirty-six miles from Ulúa,
 
 Bk. VIII.
 
@@ -804,11 +736,7 @@ draw from the camp of those strangers both the people assigned to
 
 their service and the provisions, if they persisted
 
-in
-
-[p. 23]
-
-in their rash resolution. Such a piece of news caused great dismay among the Spaniards, because at every moment they feared that the Bk. VIII. whole power of that vast empire would fall upon their wretched camp: so Cortés had their provisions secured on the ships, and had his troops put under arms for defense. There is no doubt that both on this occasion and on many others that we shall recall in the History, Moctezuma could easily have destroyed utterly those few strangers who were to do him so much harm; but God preserved them, that they might be instruments of his justice, making use of their arms to punish the superstition, the cruelty, and the other crimes with which those nations had provoked his wrath. We do not however wish to justify the intention and the conduct of the Conquerors; but neither can we fail to recognize in the course of the conquest, in spite of incredulity, the hand of God, who was preparing that empire for its ruin, and was availing himself of the very misdeeds of men for the lofty designs of his Providence.
+in [p. 23] in their rash resolution. Such a piece of news caused great dismay among the Spaniards, because at every moment they feared that the Bk. VIII. whole power of that vast empire would fall upon their wretched camp: so Cortés had their provisions secured on the ships, and had his troops put under arms for defense. There is no doubt that both on this occasion and on many others that we shall recall in the History, Moctezuma could easily have destroyed utterly those few strangers who were to do him so much harm; but God preserved them, that they might be instruments of his justice, making use of their arms to punish the superstition, the cruelty, and the other crimes with which those nations had provoked his wrath. We do not however wish to justify the intention and the conduct of the Conquerors; but neither can we fail to recognize in the course of the conquest, in spite of incredulity, the hand of God, who was preparing that empire for its ruin, and was availing himself of the very misdeeds of men for the lofty designs of his Providence.
 
 § 9.
 
@@ -816,11 +744,7 @@ On this very day of such dismay for the Spaniards, they also had a Embassy of th
 
 consequences. outside the camp saw coming toward them five men somewhat different from the Mexicans in their dress and in their ornaments, who, being led to the Spanish general, said in Mexican (for there was no one there who understood their own language) that they were of the Totonac nation, and sent by the lord of Cempoala, a city twenty-four miles distant from that place, to salute them, to learn who they were and whence they came, and to beg them to betake themselves to that city, where they would be well received, adding that they had not come sooner to the camp for fear of the Mexicans. The lord of Cempoala was one of those feudatories who lived restive under the yoke of the Mexicans; aware of the victory the Spaniards had gained in Tabasco and of their arrival at that port, this seemed to him the finest occasion to shake off the yoke with the help of such valiant men. Cortés
 
-as
-
-[p. 24]
-
-as one who desired nothing more than such alliances to increase his Bk. VIII.
+as [p. 24] as one who desired nothing more than such alliances to increase his Bk. VIII.
 
 forces, after being sufficiently informed of the state and condition of
 
@@ -886,11 +810,7 @@ march with his troops. His intention was not merely to refresh his
 
 men, much distressed on that sandy
 
-beach
-
-[p. 25]
-
-beach, and to seek allies, but also to choose a good site for the found‐
+beach [p. 25] beach, and to seek allies, but also to choose a good site for the found‐
 
 Bk. VIII. ing of the colony, since Cempoala lay on the road to Chiahuitztla, (*) in whose district was the new port already found by Captain Montejo. The army, with a part of the artillery, marched toward Cempoala in good order and prepared to defend itself should it be attacked, whether by the Totonacs, of whose good faith they were not yet sure, or by the Mexicans, whom they supposed offended by their resolution: precautions deemed superfluous by no good general, which were never neglected by Cortés even in the time of his greatest prosperity, being always useful for maintaining military discipline, and for the most part necessary to one's own safety. The ships proceeded along the coast to the port of Chiahuitztla.
 
@@ -898,11 +818,7 @@ Three miles before arriving at Cempoala twenty distinguished Cempoalans came to 
 
 History of Mexico, Vol. III.                       D                        called
 
-(*) Solís and Robertson give Chiahuitztla the name of Quiabislan, which is not, and cannot be, Mexican.
-
-[p. 26]
-
-called it Seville, and others Villaviciosa for its pleasantness. (o) Bk. VIII.
+(*) Solís and Robertson give Chiahuitztla the name of Quiabislan, which is not, and cannot be, Mexican. [p. 26] called it Seville, and others Villaviciosa for its pleasantness. (o) Bk. VIII.
 
 When they reached the great temple, the lord of that state came
 
@@ -970,11 +886,7 @@ the same as to other cities of the New World, namely, that with the sicknesses a
 
 the hardships of the sixteenth century it went on dwindling until it was entirely
 
-depopulated.
-
-[p. 27]
-
-a few years past overwhelmed by the heavy yoke of the Mexicans; that the Mexicans, on the contrary, from humble beginnings had Bk. VIII. risen to so great a grandeur through their close and constant alliance with the kings of Acolhuacan and of Tlacopan, who had made themselves masters of all that land: that their power was unmeasured, and their tyranny proportioned to their might: that the king of Mexico seized the gold of his subjects, and the tax collectors of the tributes demanded of the tributaries their daughters to violate them, and their sons to sacrifice them, besides other unheard-of vexations. Cortés showed himself greatly moved to compassion at his misfortunes, and offered to help him in everything, leaving for another occasion the discussion of the manner of doing so, because just then he was eager to go to Chiahuitztla to see the state of his ships. During this visit the lord of Cempoala made him a gift of gold work, which amounted, according to what some historians say, to about a thousand sequins.
+depopulated. [p. 27] a few years past overwhelmed by the heavy yoke of the Mexicans; that the Mexicans, on the contrary, from humble beginnings had Bk. VIII. risen to so great a grandeur through their close and constant alliance with the kings of Acolhuacan and of Tlacopan, who had made themselves masters of all that land: that their power was unmeasured, and their tyranny proportioned to their might: that the king of Mexico seized the gold of his subjects, and the tax collectors of the tributes demanded of the tributaries their daughters to violate them, and their sons to sacrifice them, besides other unheard-of vexations. Cortés showed himself greatly moved to compassion at his misfortunes, and offered to help him in everything, leaving for another occasion the discussion of the manner of doing so, because just then he was eager to go to Chiahuitztla to see the state of his ships. During this visit the lord of Cempoala made him a gift of gold work, which amounted, according to what some historians say, to about a thousand sequins.
 
 The next day four hundred porters presented themselves to Cortés, sent him by that lord for the transport of the baggage, and then he learned from Doña Marina the custom that prevailed among those nations of supplying spontaneously, and without any payment, porters to every person of distinction who passed through their cities.                                                                    § 10.
 
@@ -982,11 +894,7 @@ From Cempoala the Spaniards proceeded to Chiahuitztla, a small Imprisonment in c
 
 royal ministers. miles from Cempoala toward the north, and three from the new port. Here Cortés had another conference with the lord of that city and with the lord of Cempoala, who for this reason had had himself carried there. At the very time when they were discussing the matter of liberty, there arrived with a great retinue five Mexican nobles, collectors of the royal tributes, showing themselves exceedingly indignant against the Totonacs because they had dared to receive those strangers without awaiting the royal consent, and demanding of them twenty human victims to be sacrificed to their gods for the expiation of so great a crime. The whole city was troubled at such news, and especially the two lords, who felt themselves more
 
-D2                     guilty
-
-[p. 28]
-
-guilty. Cortés, having learned from Doña Marina the cause of their Bk. VIII.
+D2                     guilty [p. 28] guilty. Cortés, having learned from Doña Marina the cause of their Bk. VIII.
 
 consternation, found an extraordinary expedient to extricate them
 
@@ -1048,11 +956,7 @@ prisoners had escaped; and so that the same might not happen with
 
 the others, he said that he wished to secure them in
 
-another
-
-[p. 29]
-
-another, closer prison, and to make this believed, he had them taken in chains onto the ships; but a little later he set them secretly at liber‐ Bk. VIII. ty, like the first.
+another [p. 29] another, closer prison, and to make this believed, he had them taken in chains onto the ships; but a little later he set them secretly at liber‐ Bk. VIII. ty, like the first.
 
 He at once had word spread through all the mountains of the § 11. Totonacs that they were now free of the tribute which they paid to Confederation of the
 
@@ -1062,11 +966,7 @@ After Cortés had assured himself sufficiently of the sincerity of the Totonacs,
 
 This great affair having been happily concluded, Cortés took leave § 12. of those lords in order to carry out another project of the greatest im‐ Founding of portance, which he had formed a little earlier: namely, that of planti‐ Veracruz. ng on that coast a strong colony, which should serve them as a refuge in misfortune, a fortress to keep the Totonacs in the fealty they had already sworn to the Spaniards, a landing place for the new troops that might come to their aid from Spain or from the Antilles, and a warehouse in which to store the goods that might be sent to them by their countrymen, or that they themselves might wish to send to Europe. Thus was founded
 
-this
-
-[p. 30]
-
-this colony, then, in the very country of the Totonacs, on a plain at
+this [p. 30] this colony, then, in the very country of the Totonacs, on a plain at
 
 Bk. VIII.
 
@@ -1140,21 +1040,13 @@ which today preserves the name of Veracruz, and was founded by order of the Coun
 
 of Monterrey, viceroy of Mexico, at the end of the sixteenth century or the beginning
 
-of the seventeenth, and received from Philip III the title of city in 1615.
-
-[p. 31]
-
-refuse the tribute which it ought to pay to its sovereign. They added that it was only out of regard for such guests that an army had not Bk. VIII. come to punish the rebellion of those peoples; but that in the end they would not remain unpunished. Cortés, after expressing his gratitude in the most fitting terms, sought to clear himself of the charge of friendship with the Totonacs by the necessity in which he had found himself of seeking provisions for his troops, because he had been abandoned by the Mexicans. He said then that, as to the tribute, it was not possible for that nation to serve two lords at once; that he hoped to betake himself shortly to the court, to satisfy the king more fully and to let him see the sincerity of his conduct.
+of the seventeenth, and received from Philip III the title of city in 1615. [p. 31] refuse the tribute which it ought to pay to its sovereign. They added that it was only out of regard for such guests that an army had not Bk. VIII. come to punish the rebellion of those peoples; but that in the end they would not remain unpunished. Cortés, after expressing his gratitude in the most fitting terms, sought to clear himself of the charge of friendship with the Totonacs by the necessity in which he had found himself of seeking provisions for his troops, because he had been abandoned by the Mexicans. He said then that, as to the tribute, it was not possible for that nation to serve two lords at once; that he hoped to betake himself shortly to the court, to satisfy the king more fully and to let him see the sincerity of his conduct.
 
 The two princes, after watching with great pleasure and wonder the military exercise of the Spanish cavalry, returned to the court. The lord of Cempoala, who had been much displeased by that embassy, in order to bind the alliance with the Spaniards still closer, presented to Cortés eight maidens, well dressed, that they might marry the captains; and among them was a niece of his, whom he destined for the general himself. Cortés, who had spoken with him several times on the point of religion, told him that he could not accept them unless they first renounced idolatry and embraced Christianity; and he took occasion thereupon to set before him once more the pure and holy truths of our religion, and argued with all the force he could against the vain worship of their lying gods, and especially against the horrible cruelty of their sacrifices. To so fervent an exhortation the Cempoalan replied that, although he prized his friendship exceedingly, he could not oblige him by abandoning the worship of Smashing         of the idols
 
 of Cempoala. those gods, from whose hand they received health, abundance, and all the goods they had, and from whose anger, provoked by ingratitude, they must fear the severest punishments. Cortés’s martial zeal was inflamed the more by this reply; and turning to his soldiers he said to them, “Come, Spaniards, what are we waiting for? How can we endure that these men, who boast
 
-of
-
-[p. 32]
-
-of being our friends, give to the statues and abominable images of the Bk. VIII.
+of [p. 32] of being our friends, give to the statues and abominable images of the Bk. VIII.
 
 Devil the worship that is due to our one and true God? How can we
 
@@ -1218,19 +1110,11 @@ Mexicans against the Totonacs, and then their ruin would be in‐
 
 evitable. This argument turned the Cempoalan
 
-from
-
-[p. 33]
-
-from the first impulse of his zeal, and the fear of the Mexican arms prevailing in his mind over that of his gods, he said to Cortés that he Bk. VIII. might do whatever he pleased; since they had not the heart to lay sacrilegious hands on their gods. No sooner had the Spaniards received this permission than fifty of their soldiers, climbing hastily to the top of the temple, took the idols from the altars and threw them down the steps. The Totonacs meanwhile, weeping bitterly and covering their eyes so as not to see so great a sacrilege, prayed with mournful voice to their gods not to punish in their nation the rashness of those strangers, since they could not prevent it without sacrificing themselves to the fury of the Mexicans. Nevertheless some, either less cowardly or more jealous of the honor of their gods, were preparing to take vengeance on the Spaniards, and would infallibly have come to blows if the Spaniards had not seized the lord of Cempoala and five principal priests, and, threatening to put them to death at once, had not compelled them to restrain the impetus of their fellow citizens.
+from [p. 33] from the first impulse of his zeal, and the fear of the Mexican arms prevailing in his mind over that of his gods, he said to Cortés that he Bk. VIII. might do whatever he pleased; since they had not the heart to lay sacrilegious hands on their gods. No sooner had the Spaniards received this permission than fifty of their soldiers, climbing hastily to the top of the temple, took the idols from the altars and threw them down the steps. The Totonacs meanwhile, weeping bitterly and covering their eyes so as not to see so great a sacrilege, prayed with mournful voice to their gods not to punish in their nation the rashness of those strangers, since they could not prevent it without sacrificing themselves to the fury of the Mexicans. Nevertheless some, either less cowardly or more jealous of the honor of their gods, were preparing to take vengeance on the Spaniards, and would infallibly have come to blows if the Spaniards had not seized the lord of Cempoala and five principal priests, and, threatening to put them to death at once, had not compelled them to restrain the impetus of their fellow citizens.
 
 After an action so bold, in which prudence had no part, Cortés commanded the priests to remove the fragments of the idols from his sight and to cast them into the fire. He was promptly obeyed; and, full of joy then, as if by smashing the idols he had wholly done away with idolatry and driven superstition from those peoples, he told the lord of Cempoala that he would now gladly accept the eight maidens whom he offered him; that from then on he would count the Totonacs among his friends and brothers, and would help them against their enemies in all their needs; that since they would no longer have to worship those detestable images of the Devil, their enemy, he wished to place in that same temple an image of the Mother of the true God, so that they might revere her and implore her protection in all their needs. Then he expatiated at length on the holiness of the Christian religion, and when he had finished he ordered the Cempoalan masons to remove from the walls of the temple those loathsome stains
 
-History of Mexico, Vol. III.                E                       of
-
-[p. 34]
-
-of human blood, which they kept there as trophies of their inhuman
+History of Mexico, Vol. III.                E                       of [p. 34] of human blood, which they kept there as trophies of their inhuman
 
 Bk. VIII. religion, and to clean and whitewash the walls carefully. He had an al‐
 
@@ -1294,11 +1178,7 @@ the magistrates of the new colony, and the other by the principal offi‐
 
 cers of the army, in which they begged him
 
-to
-
-[p. 35]
-
-to be pleased to approve what they had done, and to confirm the of‐
+to [p. 35] to be pleased to approve what they had done, and to confirm the of‐
 
 Bk. VIII. fices of captain general and chief justice, already conferred on Cortés by their votes, whose person they recommended with the most magnificent praises. These letters, together with the gift of gold, were sent to Spain by the two captains Alonso Hernández Portocarrero and Francisco de Montejo, who set sail on July 16 of the year 1519.
 
@@ -1306,11 +1186,7 @@ Scarcely had the aforesaid procurators departed when Cortés, who § 16. was alw
 
 Cortés. terprise which by itself would suffice to make known his magnanimity and to immortalize his name. To take from his soldiers every recourse, and with it every hope of returning to Cuba, and to reinforce his small army with all the sailors, after having punished with the extreme penalty two soldiers who were plotting treachery and flight in one of the ships, and with lesser corporal penalties three other accomplices, he induced by arguments and entreaties some of his confidants, and some of the pilots in whom he trusted most, to bore secretly one or two of the ships, to persuade everyone that they had sunk because they were worm-eaten by the broma, and to represent to him that the others were no longer fit for service for the same reason, having lain three months idle in the port. Cortés made use of such a trick lest his men conspire against him, finding themselves reduced to the hard necessity of conquering or dying. Everything was done as he had ordered, and with the consent of the whole army, after the sails, the rigging, the ironwork, and everything that could be of any use had been removed from the ships. “Thus by an effort of magnanimity,” says Robertson, “to which nothing is comparable in history, five hundred men agreed of their own will to shut themselves up in an enemy country, full of powerful and unknown nations, with every road to escape closed, remaining with the sole refuge of their valor and perseverance.” I do not doubt that if Cortés had not taken that counsel, the bold enterprise he was meditating would have been wholly impossible; since the soldiers
 
-E2                       at
-
-[p. 36]
-
-at the sight of the great obstacles which they met at every step,
+E2                       at [p. 36] at the sight of the great obstacles which they met at every step,
 
 Bk. VIII. would have avoided the danger by flight, and the general himself
 
@@ -1378,19 +1254,11 @@ the
 
 it would be easy to confuse this city with that of Zacatlán, situated at a distance of
 
-thirty miles from Tlaxcala toward the north.
-
-[p. 37]
-
-the information supplied by the Totonacs, he formed a more favorable idea of their bravery, of the strength of their arms, and of their Bk. VIII. horses. In the conference which he had with the Spanish general, each boasted in rivalry of the greatness and power of their respective sovereigns. Cortés rashly demanded of him that he at once give obedience to the Catholic King and with some quantity of gold pay homage to his sovereignty. I have gold indeed, replied Olintetl, but I will not give it without the express order of my king. I shall soon see to it, said Cortés, that he orders you to give the gold, and all you have. If he commands me, rejoined Olintetl, not only the gold, and all my goods, but I shall give even my own person. But what Cortés could not obtain by his threats from that lord, he had by sheer liberality from two other persons of distinction of that valley, who, going to visit him at Xocotla, presented him with some gold necklaces and seven or eight slaves. Cortés found himself perplexed here about the road he ought to take to go to Mexico. The lord of Xocotla and the commanders of the Mexican garrison suggested to him that he should go by way of Cholula; but he judged more safe the advice which the Totonacs gave him, to set out by way of Tlaxcala; and in fact he would have perished in Cholula with his whole army had he gone there directly, as will be seen from what we shall say below. In order then to obtain from the Tlaxcalans permission to pass through their country, he sent to the senate four messengers from among those same Cempoalans whom he brought with him; but these, as we shall soon see, did not deliver the embassy in the name of the Spaniards, but in the name of the Totonacs, whether because the Spanish general so ordered, or because it seemed to themselves more fitting.
+thirty miles from Tlaxcala toward the north. [p. 37] the information supplied by the Totonacs, he formed a more favorable idea of their bravery, of the strength of their arms, and of their Bk. VIII. horses. In the conference which he had with the Spanish general, each boasted in rivalry of the greatness and power of their respective sovereigns. Cortés rashly demanded of him that he at once give obedience to the Catholic King and with some quantity of gold pay homage to his sovereignty. I have gold indeed, replied Olintetl, but I will not give it without the express order of my king. I shall soon see to it, said Cortés, that he orders you to give the gold, and all you have. If he commands me, rejoined Olintetl, not only the gold, and all my goods, but I shall give even my own person. But what Cortés could not obtain by his threats from that lord, he had by sheer liberality from two other persons of distinction of that valley, who, going to visit him at Xocotla, presented him with some gold necklaces and seven or eight slaves. Cortés found himself perplexed here about the road he ought to take to go to Mexico. The lord of Xocotla and the commanders of the Mexican garrison suggested to him that he should go by way of Cholula; but he judged more safe the advice which the Totonacs gave him, to set out by way of Tlaxcala; and in fact he would have perished in Cholula with his whole army had he gone there directly, as will be seen from what we shall say below. In order then to obtain from the Tlaxcalans permission to pass through their country, he sent to the senate four messengers from among those same Cempoalans whom he brought with him; but these, as we shall soon see, did not deliver the embassy in the name of the Spaniards, but in the name of the Totonacs, whether because the Spanish general so ordered, or because it seemed to themselves more fitting.
 
 From Xocotla the Spanish army proceeded to Iztacmaxtitlan, whose population extended for ten or twelve miles in two unbroken rows of houses built on one and the other bank of a small river which runs through the middle of that long and narrow valley; but the city of Iztacmaxtitlan proper, furnished with good buildings and inhabited by six thousand souls
 
-or
-
-[p. 38]
-
-or thereabouts, occupied the summit of a high and steep mountain,
+or [p. 38] or thereabouts, occupied the summit of a high and steep mountain,
 
 Bk. VIII. whose lord was one of those two persons of distinction who visited
 
@@ -1462,11 +1330,7 @@ Bk. VIII. with him the whole Totonac nation greet you, and let you know that fro
 
 Maxixcatzin, who was held in high esteem by all, both for his prudence and for his kindness, said that the advice given by such faithful friends, so hostile to the greatest enemy of the republic, was not to be rejected; that those strangers, judging by the tokens which the Cempoalans gave of them, seemed to be those heroes who, according to their tradition, were to arrive in that country; that the earthquakes which had been felt a short time before, the comet which was then letting itself be seen in the sky, and several other events of those last years were indications that the time for the fulfillment of that tradition had already arrived; that if they were immortal, the republic would try in vain to oppose their entry. “Our refusal,” he added, “might cause us the gravest harm, and for the king of Mexico it would be a subject of malicious pleasure to see introduced by force into Tlaxcala those whom the republic did not willingly
 
-accept
-
-[p. 40]
-
-accept:” he was nevertheless of the opinion that they should be reBk. VIII.
+accept [p. 40] accept:” he was nevertheless of the opinion that they should be reBk. VIII.
 
 ceived in a friendly manner. This view was heard with applause, but
 
@@ -1534,11 +1398,7 @@ Herrera and Torquemada say, that Tlehuexolotzin also had the name of Temilolteca
 
 just as he had that of Tezcacaltecuhtli; since we know that many were called by two
 
-and even by three names.
-
-[p. 41]
-
-sent to the leader of those strangers a courteous and friendly reply,
+and even by three names. [p. 41] sent to the leader of those strangers a courteous and friendly reply,
 
 Bk. VIII. granting him permission to enter it; but that at the same time orders be given to Xicotencatl the younger, son of old Xicotencatl, to go out with the Otomi troops of the republic to oppose their passage and to try their strength. “If we remain victors,” he said, “the glory of our arms will be immortal; if we are defeated, we shall blame the Otomis, and give it to be understood that they undertook the war without our order.” (u) Political expedients too frequent in the world, especially among civilized nations; but not for that reason less contrary to the good faith which men owe one another. The senate accepted the counsel of Temiloltecatl; but before dispatching the messengers with the reply, it gave the proper orders to Xicotencatl. He was a fearless young man, an enemy of peace, and too much inclined to military glory; whence he welcomed the commission, as one that furnished him so fine an occasion to show his bravery.
 
@@ -1546,11 +1406,7 @@ Cortés, after waiting eight days for the reply of the senate, believing that su
 
 History of Mexico, Vol. III.                    F                themselves
 
-(u) We have already said elsewhere that very many Otomis had taken refuge in Tlaxcala to escape from the domination of the Mexicans, and that they served that republic very well.
-
-[p. 42]
-
-themselves against the Mexicans on the eastern side (x), just as they Bk. VIII.
+(u) We have already said elsewhere that very many Otomis had taken refuge in Tlaxcala to escape from the domination of the Mexicans, and that they served that republic very well. [p. 42] themselves against the Mexicans on the eastern side (x), just as they Bk. VIII.
 
 had made great ditches and entrenchments for the same reason on
 
@@ -1630,11 +1486,7 @@ Scarcely had the Cempoalans finished their account when a
 
 F2                  themselves
 
-(z) Bernal Díaz says that the army of the Tlaxcalans was of forty thousand
-
-[p. 44]
-
-themselves lost; but, rallying in the best order they could, and encouraged by Bk. VIII.
+(z) Bernal Díaz says that the army of the Tlaxcalans was of forty thousand [p. 44] themselves lost; but, rallying in the best order they could, and encouraged by Bk. VIII.
 
 the exhortations and the example of their general, the Spaniards withdrew
 
@@ -1692,11 +1544,7 @@ that it was thirty thousand. It is difficult to judge by the eye the number of a
 
 cially when the order of the European militia is not observed in it. In order not to expose my‐
 
-self to error, I am content to say that the army was large.
-
-[p. 45]
-
-among them to go and offer on his part peace to the heads of the na‐
+self to error, I am content to say that the army was large. [p. 45] among them to go and offer on his part peace to the heads of the na‐
 
 Bk. VIII. tion. These went straight to Xicotencatl the younger, who was encamped with a large army six miles from that hill. This proud Tlaxcalan replied that if the Spaniards wished to treat of peace they should go to the capital, where they would be victims consecrated to their gods, and their flesh destined to be food for the Tlaxcalans; that as for him, the next day he would come in person to give them a decisive reply. This resolution, made known to the Spaniards by the same messengers, threw them into such great consternation that that night they prepared for death by sacramental confession, without however neglecting the proper arrangements for their defense.
 
@@ -1704,19 +1552,11 @@ The next day, September 5, the Tlaxcalan army appeared, no less terrible to the 
 
 assault
 
-(A) Cortés says that the army of the Tlaxcalans was of more than 149,000 men. Bernal Díaz affirms, as a thing certain and well known to him, that it consisted of only 50,000 men, namely 10,000 of Maxixcatzin, 10,000 of Xicotencatl, 10,000 of Tlehuexolotzin, 10,000 of Chichimecatecuhtli, one of the most distinguished lords of that republic, and 10,000 of Tecpanecatl, lord of Topoyanco, a considerable city of the same republic, although these names have been much altered by this author. This number seems more probable; that which is read in the letter of Cortés may be believed to be a mistake of the first printer of it.
-
-[p. 46]
-
-assault the camp of the Spaniards. This assault was so violent that, Bk. VIII. forcing the entrenchments, they entered the camp and fought hand to hand with the Spaniards. The Tlaxcalans might have been victors this time, not so much because of the far superior number of their troops as because of their bravery and the quality of their arms, which were pikes, lances, swords, and darts with two and three points, had not the discord that arose among them made victory easier for their enemies. The son of Chichimecatecuhtli, who was commander of the body of troops of his father (*), having been insulted with words by the arrogant Xicotencatl, conceived such great indignation that he challenged him to a duel, which should decide the question of their courage and of their fortune; and not being able to obtain this satisfaction from him, in order to take some vengeance he withdrew from the field the troops who were under his orders, and induced the same course in those of Tlehuexolotzin. Despite so great a diminution of the army, the battle was very obstinate and bloody. The Spaniards, after having courageously repulsed the troops that had assaulted their camp, marched in battle order against the main body of the Tlaxcalan army. The slaughter which the artillery made in the crowded multitude was not enough to make the Tlaxcalans turn their backs, nor to prevent them from promptly filling those gaps which the dead left; indeed with their firmness and intrepidity they had thrown the Spaniards into confusion, in spite of the clamors and reproaches of Cortés and his captains. At last, after four hours of fighting, the Spaniards returned victorious to their camp, although the Tlaxcalans did not cease to assault them often on that same day. Of the Spaniards only one man was lost, and sixty were wounded, and all the horses. Of the Tlaxcalans very many were killed; but not even one corpse
+(A) Cortés says that the army of the Tlaxcalans was of more than 149,000 men. Bernal Díaz affirms, as a thing certain and well known to him, that it consisted of only 50,000 men, namely 10,000 of Maxixcatzin, 10,000 of Xicotencatl, 10,000 of Tlehuexolotzin, 10,000 of Chichimecatecuhtli, one of the most distinguished lords of that republic, and 10,000 of Tecpanecatl, lord of Topoyanco, a considerable city of the same republic, although these names have been much altered by this author. This number seems more probable; that which is read in the letter of Cortés may be believed to be a mistake of the first printer of it. [p. 46] assault the camp of the Spaniards. This assault was so violent that, Bk. VIII. forcing the entrenchments, they entered the camp and fought hand to hand with the Spaniards. The Tlaxcalans might have been victors this time, not so much because of the far superior number of their troops as because of their bravery and the quality of their arms, which were pikes, lances, swords, and darts with two and three points, had not the discord that arose among them made victory easier for their enemies. The son of Chichimecatecuhtli, who was commander of the body of troops of his father (*), having been insulted with words by the arrogant Xicotencatl, conceived such great indignation that he challenged him to a duel, which should decide the question of their courage and of their fortune; and not being able to obtain this satisfaction from him, in order to take some vengeance he withdrew from the field the troops who were under his orders, and induced the same course in those of Tlehuexolotzin. Despite so great a diminution of the army, the battle was very obstinate and bloody. The Spaniards, after having courageously repulsed the troops that had assaulted their camp, marched in battle order against the main body of the Tlaxcalan army. The slaughter which the artillery made in the crowded multitude was not enough to make the Tlaxcalans turn their backs, nor to prevent them from promptly filling those gaps which the dead left; indeed with their firmness and intrepidity they had thrown the Spaniards into confusion, in spite of the clamors and reproaches of Cortés and his captains. At last, after four hours of fighting, the Spaniards returned victorious to their camp, although the Tlaxcalans did not cease to assault them often on that same day. Of the Spaniards only one man was lost, and sixty were wounded, and all the horses. Of the Tlaxcalans very many were killed; but not even one corpse
 
 ## was
 
-(*) Solís says that Chichimecatecuhtli was an ally of the Tlaxcalans, but this is a manifest error, since we know from all the historians that he was a Tlaxcalan, and one of the most distinguished lords of that republic.
-
-[p. 47]
-
-was seen by the Spaniards, because of the great diligence and prompt‐
+(*) Solís says that Chichimecatecuhtli was an ally of the Tlaxcalans, but this is a manifest error, since we know from all the historians that he was a Tlaxcalan, and one of the most distinguished lords of that republic. [p. 47] was seen by the Spaniards, because of the great diligence and prompt‐
 
 Bk. VIII. ness with which they took them away from the field of battle.
 
@@ -1726,11 +1566,7 @@ Xicotencatl, so that the blow he was planning against the Spaniards should not f
 
 of
 
-(B) Some Spanish historians say that only the fingers of the Tlaxcalan spies were cut off; but Cortés himself says that he had their hands cut off.
-
-[p. 48]
-
-of troops, and with his horses, on which he had bells put on the
+(B) Some Spanish historians say that only the fingers of the Tlaxcalan spies were cut off; but Cortés himself says that he had their hands cut off. [p. 48] of troops, and with his horses, on which he had bells put on the
 
 Bk. VIII.
 
@@ -1800,21 +1636,13 @@ should be made to him to return to his own country. Among the
 
 other
 
-councilors
-
-[p. 49]
-
-councilors some embraced the opinion of the king of Texcoco, and
+councilors [p. 49] councilors some embraced the opinion of the king of Texcoco, and
 
 Bk. VIII. others that of the lord of Iztapalapa, to which Moctezuma also adhered. This unhappy king found everywhere only objects and reasons to fear. The imminent confederation of the Tlaxcalans with the Spaniards kept him in extreme disquiet. On another side, Cortés’s alliance with Prince Ixtlilxochitl, his nephew and sworn enemy, disquieted him, who since he had conspired against the king of Texcoco, his brother, had never laid down his arms, and just then was in Otompan at the head of a formidable army. These fears were increased by the rebellion of several provinces which had followed the example of the Totonacs.
 
 He therefore sent six ambassadors to Cortés with a thousand curious cotton garments, and a good quantity of gold and of lovely feathers, and charged them to congratulate him on his victories, to offer him other, greater gifts, and to dissuade him from the journey to Mexico by representing to him the difficulty of the road and other obstacles hard to overcome. These ambassadors set out promptly with a retinue of more than two hundred men, and, arriving at the camp of the Spaniards, carried out exactly what had been ordered them. Cortés received them with all the honor due to their character, and declared himself extremely obliged to the goodness of so great a monarch; but he purposely detained the ambassadors, hoping that in the meantime some skirmish with the Tlaxcalans might occur which would establish before the Mexicans the bravery of his troops and the superiority of European arms; or else that, peace having been made with the republic, they might be witnesses of the severity with which he wished to reproach the Tlaxcalans for their obstinacy. It was not long before the occasion he so greatly desired presented itself. Three enemy squadrons fell upon the camp of the Spaniards with frightful yells and a tempest of arrows and darts. Cortés, although he had taken a purge that very day, mounted his horse and sallied out intrepidly against the Tlaxcalans, who without too much effort
 
-History of Mexico, Vol. III.               G                    were
-
-[p. 50]
-
-were defeated in sight of the Mexican ambassadors.
+History of Mexico, Vol. III.               G                    were [p. 50] were defeated in sight of the Mexican ambassadors.
 
 Bk. VIII.
 
@@ -1882,11 +1710,7 @@ order to draw him to their capital, and to do there without danger to
 
 themselves what they had not
 
-been
-
-[p. 51]
-
-been able to obtain by arms in the open field; that he should compare the conduct of that senate with that of the court of Mexico. The Bk. VIII. Tlaxcalans, after granting them with show of peace permission to enter their country, had not ceased to make war on them until they recognized all their efforts as wholly useless. From the Mexicans, on the contrary, they had suffered no hostility; indeed they had had the most distinguished reception, and the greatest attentions and services in all the places of their dominions where they had arrived, and from their sovereign the most notable proofs of goodwill and friendship. Cortés replied that he had never believed that he did any wrong by that accommodation to the court of Mexico, to which he declared himself extremely obliged; since he wished to have peace with everyone; that for the rest he did not fear the Tlaxcalans in case they should choose to be his enemies; that for him and for the other Spaniards it was all one to be assailed in the city as in the open country, by day as by night, since they knew how to conquer in any place and time; that indeed for the very reason that those men said about the Tlaxcalans, he wished to go to their city, in order to have occasion to take there a resounding vengeance for their perfidy.
+been [p. 51] been able to obtain by arms in the open field; that he should compare the conduct of that senate with that of the court of Mexico. The Bk. VIII. Tlaxcalans, after granting them with show of peace permission to enter their country, had not ceased to make war on them until they recognized all their efforts as wholly useless. From the Mexicans, on the contrary, they had suffered no hostility; indeed they had had the most distinguished reception, and the greatest attentions and services in all the places of their dominions where they had arrived, and from their sovereign the most notable proofs of goodwill and friendship. Cortés replied that he had never believed that he did any wrong by that accommodation to the court of Mexico, to which he declared himself extremely obliged; since he wished to have peace with everyone; that for the rest he did not fear the Tlaxcalans in case they should choose to be his enemies; that for him and for the other Spaniards it was all one to be assailed in the city as in the open country, by day as by night, since they knew how to conquer in any place and time; that indeed for the very reason that those men said about the Tlaxcalans, he wished to go to their city, in order to have occasion to take there a resounding vengeance for their perfidy.
 
 The Tlaxcalans were far from that disloyalty which the Mexicans imputed to them; for from the very moment in which the senate decreed peace they were always the most faithful allies of the Spaniards, as will be seen in the course of this history. The senate was eager to have Cortés in Tlaxcala with all his troops in order to bind still closer the mutual friendship and to treat seriously of the confederation against the Mexicans, and they had already, by means of their messengers, invited that general to take lodging in their houses, declaring the regret they felt at seeing such illustrious friends of the republic in so great discomfort.
 
@@ -1980,11 +1804,7 @@ Spaniards into promising them that at his side they would be perfectly safe. Thi
 
 At that time this city was one of the most remarkable of the country of Anahuac. Cortés in his letters to Charles V affirms that in size, in population, in the quality of its buildings, and in the abundance of the things necessary to
 
-life
-
-[p. 54]
-
-life, it surpassed Granada at the time it was taken from the Moors;
+life [p. 54] life, it surpassed Granada at the time it was taken from the Moors;
 
 Bk. VIII. and that in its market, of which he gives a description, as many as thirty thousand merchants gathered daily. The same Conqueror testifies that, having obtained from the senate that the houses and the inhabitants in the cities, villages, and hamlets of the republic be counted, there were found more than a hundred and fifty thousand houses, and more than five hundred thousand inhabitants.
 
@@ -1992,21 +1812,13 @@ The Tlaxcalans had prepared for the Spaniards, and for all their allies, a fine 
 
 were
 
-(C) Alvarado had by Doña Luisa two children, Don Pedro and Doña Leonor Alvarado. The latter married Don Francisco de la Cueva, a knight of the Order of Santiago, governor of Guatemala, and a cousin of the Duke of Alburquerque, and from this marriage several children were born.
-
-[p. 55]
-
-were given to the captains Cristóbal de Olid, Gonzalo de Sandoval, and Alonso de Ávila.                                                      Bk. VIII.
+(C) Alvarado had by Doña Luisa two children, Don Pedro and Doña Leonor Alvarado. The latter married Don Francisco de la Cueva, a knight of the Order of Santiago, governor of Guatemala, and a cousin of the Duke of Alburquerque, and from this marriage several children were born. [p. 55] were given to the captains Cristóbal de Olid, Gonzalo de Sandoval, and Alonso de Ávila.                                                      Bk. VIII.
 
 Encouraged by so happy a beginning, Cortés wished to persuade the chiefs of the republic and the nobility to detest their superstition and to acknowledge the one true Deity; but they, though convinced by his reasons, and confessing the goodness and the power of the God whom the Spaniards worshiped, were nevertheless not induced to renounce their so-called gods, because they considered them necessary for human happiness. “Our god Camaxtle,” they said, “grants us victory over our enemies; our goddess Matlalcueye sends the rain necessary to our fields, and defends us from the inundations of the Zahuapan. (*) To each of our gods we are indebted for a part of the happiness of our life, and their wrath, provoked by our ingratitude, could bring down the most terrible punishments upon the state.” Cortés, animated by a zeal too ardent and violent, wished to do to the idols of Tlaxcala what he had done with good success to those of Cempoala; but Father Olmedo and other persons of standing dissuaded him from so rash an attempt, representing to him that such violence, besides being unsuited to the peaceful promulgation of the Gospel, could cause the total ruin of the Spaniards in a city so populous and so attached to superstition. Nevertheless, during the twenty days that he stayed there he never ceased to reproach them with the abominable cruelty of their sacrifices, and to inculcate the purity and the holiness of the Christian religion, the falsity of the gods they worshiped, and the existence of a Supreme Being, who rules all natural causes and watches with admirable providence over the preservation of his creatures. These exhortations, made by a man of such authority, of whom the Tlaxcalans had formed too exalted an idea, though they did not produce all the fruit that was desired, were nevertheless quite useful, since the senate
 
 ## was
 
-(*) A river of Tlaxcala.
-
-[p. 56]
-
-was moved by them at last to consent that the cages be broken open, Bk. VIII.
+(*) A river of Tlaxcala. [p. 56] was moved by them at last to consent that the cages be broken open, Bk. VIII.
 
 and that all the prisoners and slaves who were kept there to be sacri‐
 
@@ -2074,11 +1886,7 @@ the arrival of the Spaniards they were confederated with the
 
 Mexicans, and sworn enemies
 
-of
-
-[p. 57]
-
-of that republic. The cause of so great an enmity had been the perfidy
+of [p. 57] of that republic. The cause of so great an enmity had been the perfidy
 
 Bk. VIII. of the Cholulans. In a battle that, as allies of the Tlaxcalans, they gave to the Mexicans, being in the vanguard of the army, they went over, § 25. by a sudden maneuver, into the rear guard, and, attacking the Enmity               between the
 
@@ -2088,11 +1896,7 @@ Moved by such suggestions, Cortés sent four Tlaxcalan nobles to Cholula to lear
 
 Ancient History of Mexico, Vol. III.             H                        was
 
-(D) Torquemada adds that the Cholulans detained the chief of the Tlaxcalan messengers, called Patlahuatzin, and with unheard-of cruelty flayed
-
-[p. 58]
-
-was a manifest demonstration of contempt. Cortés, warned of this by the
+(D) Torquemada adds that the Cholulans detained the chief of the Tlaxcalan messengers, called Patlahuatzin, and with unheard-of cruelty flayed [p. 58] was a manifest demonstration of contempt. Cortés, warned of this by the
 
 Bk. VIII. Tlaxcalans, had those lords told, through four Cempoalans sent there by him,
 
@@ -2156,11 +1960,7 @@ other signs of the perfidy of the Cholulans in order to punish it.
 
 were about a hundred thousand warriors. Bernal Díaz counts only two thousand of the ten
 
-thousand that the senate offered him; but this author seems to have forgotten.
-
-[p. 59]
-
-and with the Totonacs; but that he should not permit the Tlaxcalans,
+thousand that the senate offered him; but this author seems to have forgotten. [p. 59] and with the Totonacs; but that he should not permit the Tlaxcalans,
 
 Bk. VIII. their enemies, to enter. Cortés consented in order to please them, and the Tlaxcalans remained encamped outside the city, imitating in the arrangement of the camp, in the order of the sentinels, and in other things the military discipline of the Spaniards. On the entry of the Spanish army into Cholula there was a similar throng of people, and the same ceremonies, acclamations, and courtesies as there had been in Tlaxcala, but not so sincere.
 
@@ -2168,11 +1968,7 @@ At that time Cholula was a populous city, eighteen miles distant from Tlaxcala t
 
 Cortés was lodged with all his troops in certain large houses, where for the first two days they were abundantly supplied with provisions; but soon these began to run short, until nothing was furnished them but water and wood. This was not the only proof of their malign disposition,
 
-H2                       for
-
-[p. 60]
-
-for at every moment new signs were observed of the treachery they were Bk. VIII.
+H2                       for [p. 60] for at every moment new signs were observed of the treachery they were Bk. VIII.
 
 plotting. The Cempoalan allies observed that in the streets of the city there
 
@@ -2228,21 +2024,13 @@ provided
 
 Cortés affirms that the very lords of Cholula confessed to him that this army was no fewer
 
-than fifty thousand men.
-
-[p. 61]
-
-provided with everything he might need for the journey, and with men of war besides for his security. Cortés accepted their offer, and Bk. VIII. fixed his departure for the following day. The Cholulans went away content, because it seemed to them that everything was going well for the happy success of their treachery; and to make it more sure, they sacrificed to their gods, so they say, ten children, five of each sex. Cortés assembled his captains, disclosed to them the perverse designs of the Cholulans, and bade them state their opinion. Some wished that the danger be avoided by withdrawing to the city of Huexotzinco, barely nine miles from Cholula, or else to Tlaxcala; but the greater part left the matter to the determination of their general. Cortés gave the orders that seemed to him most suited to his purpose, protesting that he would never think himself safe in Mexico without leaving that perfidious city well punished. He ordered the auxiliary troops of Tlaxcala to fall upon the city the next day at sunrise, putting to the sword all the citizens, sparing none, save only the women and children.
+than fifty thousand men. [p. 61] provided with everything he might need for the journey, and with men of war besides for his security. Cortés accepted their offer, and Bk. VIII. fixed his departure for the following day. The Cholulans went away content, because it seemed to them that everything was going well for the happy success of their treachery; and to make it more sure, they sacrificed to their gods, so they say, ten children, five of each sex. Cortés assembled his captains, disclosed to them the perverse designs of the Cholulans, and bade them state their opinion. Some wished that the danger be avoided by withdrawing to the city of Huexotzinco, barely nine miles from Cholula, or else to Tlaxcala; but the greater part left the matter to the determination of their general. Cortés gave the orders that seemed to him most suited to his purpose, protesting that he would never think himself safe in Mexico without leaving that perfidious city well punished. He ordered the auxiliary troops of Tlaxcala to fall upon the city the next day at sunrise, putting to the sword all the citizens, sparing none, save only the women and children.
 
 At last came that day so ill-fated for Cholula. The Spaniards made § 27. ready their horses, their artillery, and their arms, and drew up in a The       massacre at
 
 Cholula. great courtyard of their lodging, which was to be the principal theater of that tragedy. The Cholulans arrived there at daybreak. The lords, with as many as forty nobles, and the porters entered the halls and the rooms to take out the baggage, and guards were at once posted there, that they might not escape. The Cholulan troops entered (at least in large part) the courtyard together with the principal lord of that city, at the request, as is to be believed, of Cortés himself, who, mounting his horse, spoke to them in this manner. “I, gentlemen, have striven to make you my friends; I entered your city peacefully, and here you have suffered no wrong from me or from any of mine; indeed, that you might have nothing to complain of, I did not permit the auxiliary troops of the Tlaxcalans to enter. Besides, I have
 
-begged
-
-[p. 62]
-
-begged you to tell me frankly whether we have done you any injury, in Bk. VIII.
+begged [p. 62] begged you to tell me frankly whether we have done you any injury, in Bk. VIII.
 
 order to give you satisfaction; but you, with detestable perfidy, have
 
@@ -2304,21 +2092,13 @@ The Tlaxcalans for their part entered the city like hungry lions, reviv‐
 
 ing their ferocity with the hatred
 
-of
-
-[p. 63]
-
-of their enemies, and with the desire to please their new allies. A blow so fierce and so unexpected at once threw the citizens into dis‐ Bk. VIII. order; but having gathered in several squadrons they made for some time a vigorous resistance, until, seeing the slaughter that the artillery was working among them, and recognizing the superiority of European arms, they were again thrown into confusion. The greater part of them sought escape in flight; some resorted to the superstition of scraping the walls of the temple in order to flood the city; but finding such effort wholly useless, they tried to fortify themselves in the houses and in the temples. Even this was of no avail; for behold, their enemies set fire to all the buildings where they meet with any resistance. The houses burn, and the towers of the temples: nothing is seen in the streets but bloodied or half-burned corpses, nor is anything heard but the insulting and threatening clamors of the confederates, the feeble sighs of the dying, imprecations against the victors, and laments to their gods for having abandoned them in so great a calamity. Of the many who took refuge in the towers of the temples there was but one who surrendered to the victors: all the others either perished, burned to ashes, or procured a less painful death by throwing themselves down from that height.
+of [p. 63] of their enemies, and with the desire to please their new allies. A blow so fierce and so unexpected at once threw the citizens into dis‐ Bk. VIII. order; but having gathered in several squadrons they made for some time a vigorous resistance, until, seeing the slaughter that the artillery was working among them, and recognizing the superiority of European arms, they were again thrown into confusion. The greater part of them sought escape in flight; some resorted to the superstition of scraping the walls of the temple in order to flood the city; but finding such effort wholly useless, they tried to fortify themselves in the houses and in the temples. Even this was of no avail; for behold, their enemies set fire to all the buildings where they meet with any resistance. The houses burn, and the towers of the temples: nothing is seen in the streets but bloodied or half-burned corpses, nor is anything heard but the insulting and threatening clamors of the confederates, the feeble sighs of the dying, imprecations against the victors, and laments to their gods for having abandoned them in so great a calamity. Of the many who took refuge in the towers of the temples there was but one who surrendered to the victors: all the others either perished, burned to ashes, or procured a less painful death by throwing themselves down from that height.
 
 By this horrible massacre (F), in which there perished
 
 more
 
-(F) In the writings of Monsignor de las Casas this event at Cholula is read very much distorted. It is true that the vengeance was too rigorous and the massacre made there horrible; but the Spaniards did not lack, for punishing the Cholulans, those reasons that we have adduced, and this prelate makes no mention of any, nor did those odious circumstances attend it which he recounts, and which are not found in any ancient historian. To make us believe that the Spaniards carried out that massacre merely out of caprice, and that while the soldiers made rivers of blood flow the general cheerfully sang I know not what verses, it would be necessary at least that the same prelate testify to it as an eyewitness, or that he allege such documents as would suffice to efface that idea of Cortés which all who knew him give us, and make probable what is wholly incredible. But Monsignor de las Casas was neither present, nor does he adduce proofs sufficient to merit our belief. Without due caution he availed himself of some information given him by one of the many enemies of Cortés. I am no panegyrist of this Conqueror, to excuse
-
-[p. 64]
-
-more than six thousand Cholulans, the city was left depopulated. The
+(F) In the writings of Monsignor de las Casas this event at Cholula is read very much distorted. It is true that the vengeance was too rigorous and the massacre made there horrible; but the Spaniards did not lack, for punishing the Cholulans, those reasons that we have adduced, and this prelate makes no mention of any, nor did those odious circumstances attend it which he recounts, and which are not found in any ancient historian. To make us believe that the Spaniards carried out that massacre merely out of caprice, and that while the soldiers made rivers of blood flow the general cheerfully sang I know not what verses, it would be necessary at least that the same prelate testify to it as an eyewitness, or that he allege such documents as would suffice to efface that idea of Cortés which all who knew him give us, and make probable what is wholly incredible. But Monsignor de las Casas was neither present, nor does he adduce proofs sufficient to merit our belief. Without due caution he availed himself of some information given him by one of the many enemies of Cortés. I am no panegyrist of this Conqueror, to excuse [p. 64] more than six thousand Cholulans, the city was left depopulated. The
 
 Bk. VIII. temples and the houses were sacked, the Spaniards seizing the gems,
 
@@ -2396,11 +2176,7 @@ Elated by such happy successes, or perhaps eager to frighten §New    29.
 
 embassy and Moctezuma, the Spanish general charged the Mexican ambassadors gift from the King of to tell their lord that, whereas he had formerly wished to enter Mexico. Mexico peacefully, now, seeing what had happened to him at Cholula, he had determined to enter as an enemy and do him as much harm as he could. The ambassadors replied that before taking such a resolution he should make more diligent inquiries into the affair of the Cholulans, to be certified of the good intentions of their sovereign; that if it seemed good to him, one of them would go to the court to present to the king his complaints. Cortés consented, and after six days the ambassador returned, bringing to the general a great gift consisting of ten dishes of gold, which were worth five thousand sequins, of fifteen hundred garments, and of a great abundance of provisions, thanking him in the name of his sovereign for the punishment inflicted on the perfidious Cholulans, and protesting that the army raised to surprise the Spaniards on the road belonged to the people of Acatzinco and of Itzocan, allies of Cholula, who, though subjects of the Crown, had nevertheless taken up arms without any order from their sovereign. This was confirmed by the oath of the ambassadors,
 
-Ancient History of Mexico, Vol. III.       I                    and
-
-[p. 66]
-
-and Cortés made a show of remaining fully satisfied. It is not easy to
+Ancient History of Mexico, Vol. III.       I                    and [p. 66] and Cortés made a show of remaining fully satisfied. It is not easy to
 
 Bk. VIII.
 
@@ -2460,19 +2236,11 @@ began to make raids through
 
 the
 
-(*) Bernal Díaz calls him Quetzalpopoca, which is also a Mexican name.
-
-[p. 67]
-
-the districts of Totonacapan, chastising their rebellion with arms. The Totonacs carried their complaints to Juan de Escalante, governor Bk. VIII. of the garrison of Veracruz, and begged him to oppose the cruelty of the Mexicans, offering to help him with a good number of troops. Escalante sent to the chief of the Mexicans a courteous embassy to dissuade him from those hostilities, which could not, as he believed, be agreeable to the King of Mexico, who had so committed himself to favoring the Spaniards, protectors of the Totonacs. Cuauhpopoca replied that he knew better than Escalante whether or not the punishment of those rebels was displeasing to his king; that if the Spaniards wished to support them, he with his troops would await them in the plains of Nauhtlan, so that arms might decide their fate. The governor could not endure such a reply; so he marched at once toward the appointed place with two horse and two small cannon, with fifty Spanish foot, and with about ten thousand Totonacs. At the first attack of the Mexicans the Totonacs were at once thrown into confusion, and the greater part took to flight; but in spite of their cowardice the Spaniards continued the fight courageously, doing no little harm to the Mexicans. These, as men who had never experienced the violence of artillery and the manner of fighting of the Europeans, withdrew in fright to the nearby city of Nauhtlan. The Spaniards pressed them furiously, and set fire to some buildings; but this victory cost them the life of the governor, who within three days died of his wounds, and of six or seven soldiers, and of many Totonacs. One of these soldiers, who had a large head and a fierce aspect, was taken prisoner and sent to Mexico by Cuauhpopoca; but having died of his wounds on the road, they brought nothing to Moctezuma but the head, whose appearance caused such horror in that king that he would not allow it to be offered to his gods in any temple of the court.
+(*) Bernal Díaz calls him Quetzalpopoca, which is also a Mexican name. [p. 67] the districts of Totonacapan, chastising their rebellion with arms. The Totonacs carried their complaints to Juan de Escalante, governor Bk. VIII. of the garrison of Veracruz, and begged him to oppose the cruelty of the Mexicans, offering to help him with a good number of troops. Escalante sent to the chief of the Mexicans a courteous embassy to dissuade him from those hostilities, which could not, as he believed, be agreeable to the King of Mexico, who had so committed himself to favoring the Spaniards, protectors of the Totonacs. Cuauhpopoca replied that he knew better than Escalante whether or not the punishment of those rebels was displeasing to his king; that if the Spaniards wished to support them, he with his troops would await them in the plains of Nauhtlan, so that arms might decide their fate. The governor could not endure such a reply; so he marched at once toward the appointed place with two horse and two small cannon, with fifty Spanish foot, and with about ten thousand Totonacs. At the first attack of the Mexicans the Totonacs were at once thrown into confusion, and the greater part took to flight; but in spite of their cowardice the Spaniards continued the fight courageously, doing no little harm to the Mexicans. These, as men who had never experienced the violence of artillery and the manner of fighting of the Europeans, withdrew in fright to the nearby city of Nauhtlan. The Spaniards pressed them furiously, and set fire to some buildings; but this victory cost them the life of the governor, who within three days died of his wounds, and of six or seven soldiers, and of many Totonacs. One of these soldiers, who had a large head and a fierce aspect, was taken prisoner and sent to Mexico by Cuauhpopoca; but having died of his wounds on the road, they brought nothing to Moctezuma but the head, whose appearance caused such horror in that king that he would not allow it to be offered to his gods in any temple of the court.
 
 Cortés received news of these uprisings before
 
-I2                  leaving
-
-[p. 68]
-
-leaving Cholula; (G) but he would say nothing then, nor reveal the
+I2                  leaving [p. 68] leaving Cholula; (G) but he would say nothing then, nor reveal the
 
 Bk. VIII.
 
@@ -2534,11 +2302,7 @@ mit of Popocatepetl and observed the mouth of that famous mountain; but Cortés,
 
 who knew it better, says the opposite. Nevertheless Ordaz obtained from the
 
-Catholic King the right to put a volcano on his coat of arms. This great
-
-[p. 69]
-
-From the summit of Ithualco the Spaniards observed the most beau‐
+Catholic King the right to put a volcano on his coat of arms. This great [p. 69] From the summit of Ithualco the Spaniards observed the most beau‐
 
 Bk. VIII. tiful valley of Mexico, but with very different feelings; for some took delight in the sight of its lakes, its pleasant plains, its verdant mountains, and the many beautiful cities that were in and around those lakes; in others there revived the hope of enriching themselves with the spoils of so great an extent of country as was seen from there; but some more prudent men, looking upon so great a population, thought it rashness to face such grave risks, so that they were seized by such fear that they would have returned from there to Veracruz, if Cortés, making use of his authority and of the reasons suggested to him by his good judgment, had not encouraged them to the enterprise.
 
@@ -2546,11 +2310,7 @@ Meanwhile Moctezuma, dismayed by the event at Cholula, retired to the palace Tli
 
 enterprise was reserved for Montagno and other Spaniards, who after the conquest of Mexico not only observed the fearful mouth of that volcano, but even entered it, not without evident peril of their lives, and drew from it a great quantity of sulfur to make powder for firearms.
 
-(*) Since the ordinary load of a Mexican is fifty Spanish pounds, or eight hundred ounces, we may conjecture, given the number of the Spaniards, that what Moctezuma wished to give them to turn them aside from the journey to the court was more than three million sequins.
-
-[p. 70]
-
-the gift they brought consisted of several works of gold, which were Bk. VIII.
+(*) Since the ordinary load of a Mexican is fifty Spanish pounds, or eight hundred ounces, we may conjecture, given the number of the Spaniards, that what Moctezuma wished to give them to turn them aside from the journey to the court was more than three million sequins. [p. 70] the gift they brought consisted of several works of gold, which were Bk. VIII.
 
 worth fifteen hundred sequins. Cortés paid them every possible cour‐
 
@@ -2616,11 +2376,7 @@ drive you out of it, and that when you wish to remedy the evil you
 
 may have time and means to
 
-do
-
-[p. 71]
-
-do so.” “What are we to do,” replied the king, “when our friends, and
+do [p. 71] do so.” “What are we to do,” replied the king, “when our friends, and
 
 Bk. VIII. what is more, our very gods, instead of favoring us, make our enemies prosper? I am now resolved, and I could wish that all would resolve not to flee, nor to show any cowardice, come what may; but I pity the old men and the children, who have no strength to defend themselves.”
 
@@ -2632,11 +2388,7 @@ with
 
 (I) Amaquemecan, called by the Spaniards Mecameca, is at present a village renowned for no other reason than that there was born there the most celebrated nun Juana Inés de la Cruz, a woman of prodigious intelligence and of no common learning.
 
-(L) Solís confuses Amaquemecan with Ayotzinco. Amaquemecan was never situated, as he says, on the shore of the lake, but more than twelve miles from it on the slope of a mountain. The visit of the King of Texcoco was without doubt at Ayotzinco, as the historians affirm who were well informed,
-
-[p. 72]
-
-with the countries that lie south of Mexico. Curiosity to observe the
+(L) Solís confuses Amaquemecan with Ayotzinco. Amaquemecan was never situated, as he says, on the shore of the lake, but more than twelve miles from it on the slope of a mountain. The visit of the King of Texcoco was without doubt at Ayotzinco, as the historians affirm who were well informed, [p. 72] with the countries that lie south of Mexico. Curiosity to observe the
 
 Bk. VIII. quarters of the Spaniards cost several Mexicans dear; for the Spanish
 
@@ -2700,11 +2452,7 @@ and it is plainly seen from the description of Cortés, and no one before Solís
 
 that it took place at Amaquemecan. Bernal Díaz says that this visit took place at
 
-Iztapalatenco; but this is a manifest mistake caused by a lapse of memory.
-
-[p. 73]
-
-and all the more since he found himself now so near to the court, af‐
+Iztapalatenco; but this is a manifest mistake caused by a lapse of memory. [p. 73] and all the more since he found himself now so near to the court, af‐
 
 Bk. VIII. ter having overcome the perils of so long a journey. If it is so, then, said the king, we shall meet at the court: and taking courteous leave, after having been presented with some European trinkets, he left behind a part of his nobility to accompany Cortés on the journey.
 
@@ -2714,11 +2462,7 @@ From Cuitláhuac they set out by the other causeway toward Visit of the princes 
 
 Texcoco, and entry of Iztapalapa; but on the way Cortés was detained by a new piece of the Spaniards into good fortune. Prince Ixtlilxochitl, seeing that Cortés had not wished that court. to make the journey by way of Calpulalpan, where he was awaiting him, resolved to come to meet him on the road to Iztapalapa. He marched, however, with a good number of troops
 
-Ancient History of Mexico, Vol. III.           K                       and
-
-[p. 74]
-
-passed near Texcoco. Aware of this, Prince Coanacochtzin, his brothBk. VIII.
+Ancient History of Mexico, Vol. III.           K                       and [p. 74] passed near Texcoco. Aware of this, Prince Coanacochtzin, his brothBk. VIII.
 
 er, who after those quarrels that took place three years earlier, of
 
@@ -2784,11 +2528,7 @@ and Solís also make mention of it, but intermingle some circumstances contrary 
 
 the truth. They say that the Spaniards went first to Texcoco, and then to Cuitláhuac,
 
-in which they show themselves to have been ignorant of the situation
-
-[p. 75]
-
-by the two princes and by many Acolhua nobles, amid an immense concourse of people. He and his whole army were lodged in the prin‐ Bk. VIII. cipal palace of the king, where the treatment of his person was equal to the lodging. Here Prince Ixtlilxochitl set before him his claimed rights to the kingdom of Acolhuacan, and his complaints against his brother Cacamatzin and against the King of Mexico, his uncle. Cortés promised to put him in possession of the crown as soon as he should have concluded his negotiations in Mexico, and, without lingering at that court, marched toward Iztapalapa. (N)
+in which they show themselves to have been ignorant of the situation [p. 75] by the two princes and by many Acolhua nobles, amid an immense concourse of people. He and his whole army were lodged in the prin‐ Bk. VIII. cipal palace of the king, where the treatment of his person was equal to the lodging. Here Prince Ixtlilxochitl set before him his claimed rights to the kingdom of Acolhuacan, and his complaints against his brother Cacamatzin and against the King of Mexico, his uncle. Cortés promised to put him in possession of the crown as soon as he should have concluded his negotiations in Mexico, and, without lingering at that court, marched toward Iztapalapa. (N)
 
 Iztapalapa was a large and beautiful city, situated toward the point
 
@@ -2800,11 +2540,7 @@ K2                       devised
 
 of those places. They also assert that Cacamatzin accompanied Cortés to Texcoco; but it is clear to us that this is not true, both from Cortés’s account and from the ancient manuscripts cited by Don Fernando de Alva Ixtlilxochitl. They say nothing of the reconciliation of those two princes, nor do they state the reason Cortés had for going to Texcoco, turning aside from the road that led to Mexico. In what concerns the circumstances of the journey to Texcoco I adopt the account of Vetancurt, who wrote from the memoirs of Alva and of Sigüenza.
 
-(N) An Indian historian cited by Don Fernando de Alva Ixtlilxochitl says that on this occasion Prince Ixtlilxochitl was baptized, together with two hundred other nobles of that court; but this is a story so improbable that it needs no refutation.
-
-[p. 76]
-
-devised, and lodged him and all the troops that accompanied him in Bk. VIII. his own palace. This was a vast edifice of stone and lime, newly built
+(N) An Indian historian cited by Don Fernando de Alva Ixtlilxochitl says that on this occasion Prince Ixtlilxochitl was baptized, together with two hundred other nobles of that court; but this is a story so improbable that it needs no refutation. [p. 76] devised, and lodged him and all the troops that accompanied him in Bk. VIII. his own palace. This was a vast edifice of stone and lime, newly built
 
 and not yet furnished. Besides its many halls and rooms convenient
 
@@ -2866,11 +2602,7 @@ thousand Mexican nobles, all uniformly dressed, who as they passed
 
 before the Spanish general bowed to him with the
 
-usual
-
-[p. 77]
-
-usual ceremony of touching the ground and kissing the hand.
+usual [p. 77] usual ceremony of touching the ground and kissing the hand.
 
 When these compliments were over, in which they spent more Bk. VIII. than an hour, the Spaniards continued their march as well ordered as § 35. if they were going to give battle. A short time before arriving at the Entry of the
 
@@ -2880,11 +2612,7 @@ and of the nobility. guished and numerous retinue. Three nobles went before, car
 
 speech
 
-(O) Solís, in his account of that meeting, makes four mistakes. 1. He says that Cortés’s gift was a band, or a chain of glass. 2. That the two lords who accompanied Moctezuma did not permit Cortés to put the band around his neck. 3. That they did this with some disdain. 4. That they were, however, reproved by the king. All this is false, invented at will, and contrary to the account of Cortés himself.
-
-[p. 78]
-
-speech, as the circumstances required, his benevolence, his respect, Bk. VIII. and the pleasure he had in having come to know so great a monarch.
+(O) Solís, in his account of that meeting, makes four mistakes. 1. He says that Cortés’s gift was a band, or a chain of glass. 2. That the two lords who accompanied Moctezuma did not permit Cortés to put the band around his neck. 3. That they did this with some disdain. 4. That they were, however, reproved by the king. All this is false, invented at will, and contrary to the account of Cortés himself. [p. 78] speech, as the circumstances required, his benevolence, his respect, Bk. VIII. and the pleasure he had in having come to know so great a monarch.
 
 Moctezuma answered him in a few words, and having made the usual
 
@@ -2946,11 +2674,7 @@ and rest, for I shall shortly return.”
 
 The king went off to his palace; and Cortés at once caused
 
-a
-
-[p. 79]
-
-a salvo of all the artillery to be fired, to frighten the Mexicans with
+a [p. 79] a salvo of all the artillery to be fired, to frighten the Mexicans with
 
 Bk. VIII. such a noise. Meanwhile he went to see all the rooms of the palace in order to assign quarters to his men. This building was so large that both the Spaniards and their allies were comfortably lodged in it, who together with the women and the servants whom they brought with them numbered more than seven thousand. Everywhere there was great cleanliness: almost all the rooms had beds of rush and palm mats, according to their custom, with other mats rolled up for pillows, and under canopies of cotton, and seats made of a single piece. Some rooms had the floor covered with mats, and the walls likewise covered with cotton hangings of various colors. The walls were very thick, and at certain intervals there were some towers. So the Spaniards found there all that they could wish for their security. The diligent and cautious general at once posted the guards, formed a battery of his cannon facing the gate of the palace, and used as much diligence in fortifying himself as if he expected some assault from his enemies that very day. A magnificent dinner, served by the nobility, was set out that day for Cortés and his captains, and for the rest of the army various and plentiful dishes were brought, though of inferior quality. This day, so memorable no less for the Spaniards than for the Mexicans, was November 8, 1519, seven months after the Spaniards had arrived in the country of Anahuac.
 
@@ -3014,21 +2738,13 @@ py arrival at this court: and if until now I had made a show of reluc‐
 
 tance, it was only
 
-to
-
-[p. 81]
-
-to humor my subjects. Your fame has magnified things and disturbed
+to [p. 81] to humor my subjects. Your fame has magnified things and disturbed
 
 Bk. IX. minds. It was said that you were immortal gods; that you came mounted on beasts of portentous size and ferocity, and that you wielded thunderbolts with which you made the whole earth tremble. Others spread the report that you were monsters cast up by the sea; that the insatiable hunger for gold had made you abandon your country; that you were too much given to delights, and such gluttons that one of you ate as much as ten of our own people. But all these errors have vanished through the acquaintance that my subjects have had with you. It is now known that you are mortal men like us, although somewhat different in color and in beard. We have already seen with our own eyes that those beasts, so renowned, are nothing but deer more corpulent than ours, and that your so-called thunderbolts are nothing but a better-contrived kind of blowpipe, whose balls are driven with greater noise and do greater harm. As for your personal qualities, we are well informed by those who have had dealings with you that you are kindly and generous, that you bear hardships patiently, that you use severity only against those who provoke your indignation by their hostilities, and that you use arms only for the just defense of your persons.”
 
 “I have no doubt that you likewise will already have driven from your minds, or will soon drive out, those false ideas which the flattery of my vassals or the malevolence of my enemies has made you conceive. There will also be someone who has told you that I am one of the gods, and that I take at my pleasure the form of a lion, or a tiger, or some other animal; but you see already (here, as he said this, he took the skin of his arm between his fingers) that I am of flesh and bone like other mortals, though more noble by my birth and more powerful by the height of my dignity. The Cempoalans, who with your protection have withdrawn from my obedience (but their rebellion will not remain unpunished), will have made you believe that the walls and the roofs
 
-Ancient History of Mexico, Vol. III.        L                       of
-
-[p. 82]
-
-of my palaces are of gold, but your own eyes can give them the lie. Bk. IX.
+Ancient History of Mexico, Vol. III.        L                       of [p. 82] of my palaces are of gold, but your own eyes can give them the lie. Bk. IX.
 
 This is one of my palaces, and you see already that the walls are of
 
@@ -3100,11 +2816,7 @@ king. brought him the answer were the very men who served as introducers of amba
 
 L2                         was
 
-(a) The learned and judicious Father Acosta, speaking of this first conference of Moctezuma, in bk. VII, ch. 25 of his History, says thus: “Many are of the opinion that, given the state of things on that first day, it would have been easy for the Spaniards to do with the king and with the whole kingdom whatever they wished, and to communicate to them the law of Jesus Christ with great peace and the contentment of all; but the judgments of God are profound, and many were the sins of both parties; whence it came about otherwise, although in the end the Lord accomplished His design of showing mercy to that nation, after having judged and punished those who in His sight deserved it.”
-
-[p. 84]
-
-was long, and on diverse subjects. The king put several questions, as Bk. IX.
+(a) The learned and judicious Father Acosta, speaking of this first conference of Moctezuma, in bk. VII, ch. 25 of his History, says thus: “Many are of the opinion that, given the state of things on that first day, it would have been easy for the Spaniards to do with the king and with the whole kingdom whatever they wished, and to communicate to them the law of Jesus Christ with great peace and the contentment of all; but the judgments of God are profound, and many were the sins of both parties; whence it came about otherwise, although in the end the Lord accomplished His design of showing mercy to that nation, after having judged and punished those who in His sight deserved it.” [p. 84] was long, and on diverse subjects. The king put several questions, as Bk. IX.
 
 much on the political government as on the natural things of Spain,
 
@@ -3170,11 +2882,7 @@ Cortés having returned to his quarters (so we shall henceforth call
 
 the palace of King Axayacatl, where were lodged
 
-the
-
-[p. 85]
-
-the Spaniards) he began to reflect on the danger in which he found himself in the center of a city so strong and populous, and resolved to Bk. IX. win the minds of the nobility by good conduct and by courteous and affectionate manners, and ordered his men to behave in such a way that the Mexicans could have no complaint of them; but while he seemed to attend with the greatest diligence to peace, he was turning over in his mind bold and rash designs, entirely contrary to peace, and, since to ripen them it was necessary for him first to inform himself with his own eyes about the fortifications of Mexico and the forces of the Mexicans, he asked the king’s leave to see the royal palaces, the great temple, and the market square. The king kindly granted it, as one who suspected nothing of the cunning general, nor foresaw the consequences of his excessive indulgence. The Spaniards also saw everything they wished, finding everywhere abundant matter for admiration.
+the [p. 85] the Spaniards) he began to reflect on the danger in which he found himself in the center of a city so strong and populous, and resolved to Bk. IX. win the minds of the nobility by good conduct and by courteous and affectionate manners, and ordered his men to behave in such a way that the Mexicans could have no complaint of them; but while he seemed to attend with the greatest diligence to peace, he was turning over in his mind bold and rash designs, entirely contrary to peace, and, since to ripen them it was necessary for him first to inform himself with his own eyes about the fortifications of Mexico and the forces of the Mexicans, he asked the king’s leave to see the royal palaces, the great temple, and the market square. The king kindly granted it, as one who suspected nothing of the cunning general, nor foresaw the consequences of his excessive indulgence. The Spaniards also saw everything they wished, finding everywhere abundant matter for admiration.
 
 At that time the city of Mexico was situated, as we have already §Description
 
@@ -3186,11 +2894,7 @@ there
 
 (*) In the geographical map these cities are shown, by mistake, closer to one another.
 
-(b) Dr. Robertson puts in place of the causeway of Tepeyacac that of Texcoco, which, in the place where he describes Mexico, he situates toward the northwest, and where he speaks of the posts of the Spanish army in the siege of that capital, toward the east, having already said that toward the east there was no causeway on the lake; but there was not, nor could there ever be, any causeway on the lake from Mexico to Texcoco, because of the very great depth of its bed in that part, and had there been one, it would not be of three miles only, as this author affirms, but of fifteen, which is the extent of the lake between.
-
-[p. 86]
-
-there was another somewhat narrower one for the two aqueducts of Bk. IX.
+(b) Dr. Robertson puts in place of the causeway of Tepeyacac that of Texcoco, which, in the place where he describes Mexico, he situates toward the northwest, and where he speaks of the posts of the Spanish army in the siege of that capital, toward the east, having already said that toward the east there was no causeway on the lake; but there was not, nor could there ever be, any causeway on the lake from Mexico to Texcoco, because of the very great depth of its bed in that part, and had there been one, it would not be of three miles only, as this author affirms, but of fifteen, which is the extent of the lake between. [p. 86] there was another somewhat narrower one for the two aqueducts of Bk. IX.
 
 Chapultepec. The circuit of the city, not including the suburbs, was
 
@@ -3272,11 +2976,7 @@ Besides the great and renowned square of Tlatelolco, where the principal market 
 
 The many large buildings, neatly whitewashed and polished, the high towers of the temples scattered through the quarters of the city, the canals, the avenues of trees, and the gardens formed a whole so beautiful that the Spaniards never seemed to tire of looking at it, especially when they viewed it from the upper court of the great temple, which overlooked not only the habitations of that court but also the lakes, and the fine and large
 
-cities
-
-[p. 88]
-
-cities that were round about. They were no less amazed at the sight
+cities [p. 88] cities that were round about. They were no less amazed at the sight
 
 Bk. IX.
 
@@ -3342,21 +3042,13 @@ for the building, in which Holy Mass was celebrated as long as there
 
 was wine, and daily there gathered
 
-the
-
-[p. 89]
-
-the soldiers to perform their devotions. He also planted in the principal court a great cross, so that the Mexicans might see the supreme Bk. IX. veneration in which that holy instrument of our redemption was held among the Spaniards. He wished, moreover, to consecrate to the worship of the true God the very sanctuary of Huitzilopochtli, and was then restrained by respect for the king and the priests; but he carried it out some months afterward, having acquired greater authority through the imprisonment of the king and other actions no less rash, as we shall presently see. He smashed the idols that were venerated there, had the sanctuary cleaned and repaired, placed in it a crucifix and an image of the Mother of God, (d) and, kneeling before these sacred images, thanked the Most High for having granted them to adore Him in that place, so long devoted to the most abominable and cruel idolatry. This same zeal for religion led him to repeat frequently to the king his discourses on the holiest truths of Christianity; but although Moctezuma was not disposed to embrace them, nevertheless, moved by his arguments, he commanded that from then on human victims should no longer be sacrificed; and although he did not comply with the Spanish general in renouncing idolatry, he was ever affectionate toward him, and there was no day on which he did not show the Spaniards new kindnesses and gifts. The order which the king gave to the priests concerning the sacrifices was not constantly observed; and the great harmony that had existed until then was disturbed by the unheard-of attempt of the Spanish general.
+the [p. 89] the soldiers to perform their devotions. He also planted in the principal court a great cross, so that the Mexicans might see the supreme Bk. IX. veneration in which that holy instrument of our redemption was held among the Spaniards. He wished, moreover, to consecrate to the worship of the true God the very sanctuary of Huitzilopochtli, and was then restrained by respect for the king and the priests; but he carried it out some months afterward, having acquired greater authority through the imprisonment of the king and other actions no less rash, as we shall presently see. He smashed the idols that were venerated there, had the sanctuary cleaned and repaired, placed in it a crucifix and an image of the Mother of God, (d) and, kneeling before these sacred images, thanked the Most High for having granted them to adore Him in that place, so long devoted to the most abominable and cruel idolatry. This same zeal for religion led him to repeat frequently to the king his discourses on the holiest truths of Christianity; but although Moctezuma was not disposed to embrace them, nevertheless, moved by his arguments, he commanded that from then on human victims should no longer be sacrificed; and although he did not comply with the Spanish general in renouncing idolatry, he was ever affectionate toward him, and there was no day on which he did not show the Spaniards new kindnesses and gifts. The order which the king gave to the priests concerning the sacrifices was not constantly observed; and the great harmony that had existed until then was disturbed by the unheard-of attempt of the Spanish general.
 
 Not more than six days had passed since the entry of the Spaniards into Mexico when Cortés, finding himself isolated in
 
 History of Mexico, Vol. III.                       M                           the
 
-(d) The image of the Mother of God which Cortés placed in the sanctuary of Huitzilopochtli is believed to be the very same one that is now venerated under the title of Our Lady of los Remedios, or of Succor, in a magnificent temple about eight miles distant from the capital toward the west. It is said that a soldier of Cortés named Villafuerte brought it with him to Mexico, and that on the day after that terrible night in which the Spaniards were defeated he hid it in the place where some years later it was found, that is, in that very place where it is now venerated.
-
-[p. 90]
-
-the midst of an immense people, and knowing how much their lives
+(d) The image of the Mother of God which Cortés placed in the sanctuary of Huitzilopochtli is believed to be the very same one that is now venerated under the title of Our Lady of los Remedios, or of Succor, in a magnificent temple about eight miles distant from the capital toward the west. It is said that a soldier of Cortés named Villafuerte brought it with him to Mexico, and that on the day after that terrible night in which the Spaniards were defeated he hid it in the place where some years later it was found, that is, in that very place where it is now venerated. [p. 90] the midst of an immense people, and knowing how much their lives
 
 Bk. IX.
 
@@ -3426,21 +3118,13 @@ Cempoala.” Now when Cortés left Cempoala the uprisings at Veracruz had not ye
 
 occurred, nor had he received any wrong from the king, but rather singular kindness‐
 
-es and the most magnificent gifts.
-
-[p. 91]
-
-always be suspect to him because of their mortal enmity toward the Mexicans), and asked them whether they had observed any novelty Bk. IX. among the inhabitants of that court. They answered that the Mexican commoners were at that time entertained in the public rejoicings which the king had ordered to celebrate the arrival of such noble strangers; but that among the nobility they noticed a certain suspicious demeanor, and that among other things they had heard them say that it would be easy to remove the bridges from the canals, which seemed to indicate some secret conspiracy against the Spaniards.
+es and the most magnificent gifts. [p. 91] always be suspect to him because of their mortal enmity toward the Mexicans), and asked them whether they had observed any novelty Bk. IX. among the inhabitants of that court. They answered that the Mexican commoners were at that time entertained in the public rejoicings which the king had ordered to celebrate the arrival of such noble strangers; but that among the nobility they noticed a certain suspicious demeanor, and that among other things they had heard them say that it would be easy to remove the bridges from the canals, which seemed to indicate some secret conspiracy against the Spaniards.
 
 Cortés could not sleep that night for anxiety, and spent it all walking about the quarters, lost in thought. A sentry then informed him that in one room there was a door that had been freshly walled up. Cortés had it opened, and on entering found many rooms in which was deposited the treasure of the late King Axayacatl. He saw there many idols, a great quantity of works of silver, gold, gems, feathers, and cotton, and several other things, which the tributary provinces paid to the Crown, or the feudatory lords presented to their sovereign. After observing with amazement so great a wealth, Cortés had the door walled up again, leaving everything then as it was before.
 
 The next morning he assembled his captains, and represented to them the hostilities committed by the lord of Nauhtlan against the garrison of Veracruz and against the Totonacs, their allies, which, according to what the allies themselves said, would not have been committed without the order or permission of the King of Mexico. He set forth with the greatest energy the most grave peril in which they found themselves, and declared to them his design, exaggerating the advantages that were to be expected from its execution, and minimizing the evils that might result from it. Their sentiments were various. Some rejected the general’s counsel as rash and impracticable; and said that it would be better to ask the king’s permission to withdraw from the court; since he who with so much eagerness, and with such great gifts, had sought to dissuade them from the resolution of going to Mexico would readily
 
-M2                  grant
-
-[p. 92]
-
-grant them leave to depart. Others thought departure indeed necesBk. IX. sary, but believed that it should be done secretly, so as not to give the
+M2                  grant [p. 92] grant them leave to depart. Others thought departure indeed necesBk. IX. sary, but believed that it should be done secretly, so as not to give the
 
 Mexicans occasion for some treachery; but the greater part of them,
 
@@ -3500,17 +3184,9 @@ terms, excused himself from accepting her, alleging that he was mar‐
 
 ried in Cuba, and that according to the law
 
-of
+of [p. 93] of God among the Christians he was not permitted to have two wives; but in the end he admitted her into his company, so as not to Bk. IX. displease the king, and to have an opportunity of making her a Christian, as indeed he obtained. To the other captains the king likewise gave some daughters of Mexican lords from among those that he had in his seraglio. They then conversed for some time on various subjects; but Cortés, seeing that these discourses distracted him from his purpose, said to the king that that visit was directed to informing him of the conduct of the lord of Nauhtlan, his vassal: he complained of the hostilities committed by that lord against the Totonacs on account of their friendship with the Spaniards, of the war made on the Spaniards of Veracruz, and of the death of the governor Escalante and of six soldiers of that garrison. “I must,” he added, “give an account to my sovereign of the death of these Spaniards, and in order to be able to give him a suitable satisfaction, I have made inquiry into so irregular a conduct. All blame you as the principal author of such uprisings; but I am far from imagining such perfidy in so great a monarch as that of persecuting us as an enemy in that province at the same time that he loads us with favors at court.” “I do not doubt,” replied the king, “that those who blame me for the war of Nauhtlan are the Tlaxcalans, my sworn enemies; but I assure you that I had no influence in it. Cuauhpopoca ventured to make it without my order, indeed against my own will: and so that you may be assured of the truth, I shall have him come at once to the court, and shall deliver him into your hands.” He called at once two of his courtiers, and, handing over to them a certain gem in which was carved the image of the god of war, which he wore always hanging from his arm, and which served as a seal for the mark of his commands, ordered them to set out with the greatest possible speed toward Nauhtlan, and then to bring to the court Cuauhpopoca and the other principal persons who had taken part in the death of the Spaniards, and gave them authority to raise troops, and
 
-[p. 93]
-
-of God among the Christians he was not permitted to have two wives; but in the end he admitted her into his company, so as not to Bk. IX. displease the king, and to have an opportunity of making her a Christian, as indeed he obtained. To the other captains the king likewise gave some daughters of Mexican lords from among those that he had in his seraglio. They then conversed for some time on various subjects; but Cortés, seeing that these discourses distracted him from his purpose, said to the king that that visit was directed to informing him of the conduct of the lord of Nauhtlan, his vassal: he complained of the hostilities committed by that lord against the Totonacs on account of their friendship with the Spaniards, of the war made on the Spaniards of Veracruz, and of the death of the governor Escalante and of six soldiers of that garrison. “I must,” he added, “give an account to my sovereign of the death of these Spaniards, and in order to be able to give him a suitable satisfaction, I have made inquiry into so irregular a conduct. All blame you as the principal author of such uprisings; but I am far from imagining such perfidy in so great a monarch as that of persecuting us as an enemy in that province at the same time that he loads us with favors at court.” “I do not doubt,” replied the king, “that those who blame me for the war of Nauhtlan are the Tlaxcalans, my sworn enemies; but I assure you that I had no influence in it. Cuauhpopoca ventured to make it without my order, indeed against my own will: and so that you may be assured of the truth, I shall have him come at once to the court, and shall deliver him into your hands.” He called at once two of his courtiers, and, handing over to them a certain gem in which was carved the image of the god of war, which he wore always hanging from his arm, and which served as a seal for the mark of his commands, ordered them to set out with the greatest possible speed toward Nauhtlan, and then to bring to the court Cuauhpopoca and the other principal persons who had taken part in the death of the Spaniards, and gave them authority to raise troops, and
-
-to
-
-[p. 94]
-
-to seize them by force, in case they should refuse to obey. Bk. IX.
+to [p. 94] to seize them by force, in case they should refuse to obey. Bk. IX.
 
 The two courtiers set out at once to carry out their commission,
 
@@ -3572,11 +3248,7 @@ Cortés in his urgings, until one of the Spanish captains, too bold and
 
 inconsiderate,
 
-taking
-
-[p. 95]
-
-taking it ill that the execution of their design was being delayed, said
+taking [p. 95] taking it ill that the execution of their design was being delayed, said
 
 Bk. IX. angrily that they should drop the talk and resolve to drag him off by force, or kill him. The king, who in the Spaniard’s countenance perceived his purpose, asked Doña Marina what that furious stranger was saying. “My lord,” she replied discreetly, “as your subject I desire your welfare, and as the confidante of these men I know their secrets and know their temper. If you deign to do what they require, you will be treated by them with all that honor and distinction which is due to your royal person; but if you persist in your refusal your life is in danger.” That unhappy king, who ever since he had the first news of the arrival of the Spaniards had been overcome by a superstitious fear, and became more pusillanimous from day to day, seeing himself now in such straits, and persuaded that before his guards could arrive to succor him he might already have perished at the hands of those men so bold and resolute, yielded at last to their entreaties. “I will trust you,” he said, “let us go, then, let us go; since the gods so will it”; and he at once ordered that they should prepare his litter, and got into it to be carried to the quarters of the Spaniards.
 
@@ -3584,11 +3256,7 @@ I do not doubt that the readers will feel, in reading and in considering the cir
 
 Moctezuma finally left his palace, never to return
 
-again
-
-[p. 96]
-
-again. He left, protesting to his courtiers that for certain reasons al‐
+again [p. 96] again. He left, protesting to his courtiers that for certain reasons al‐
 
 Bk. IX.
 
@@ -3656,11 +3324,7 @@ dishes aloft for greater display. After choosing what pleased him, he
 
 divided the rest among the Spaniards who attended
 
-him,
-
-[p. 97]
-
-him, and among the Mexican nobles who served him. Not content
+him, [p. 97] him, and among the Mexican nobles who served him. Not content
 
 Bk. IX. with this, his generosity made frequent and magnificent gifts to the Spaniards.
 
@@ -3668,11 +3332,7 @@ Cortés, on his part, showed such zeal that his men should show him the respect 
 
 Cortés, seeing his liberality, or rather prodigality, said to him one day that some rascally soldiers had taken from the treasure of his late father Axayacatl certain pieces of gold; but that he would have them put back at once where they had been. “Provided,” said the king, “that they do not touch the images of the gods, nor what is destined for their worship, let them take what they wish.” Having this permission, the Spaniards then drew from it more than a thousand fine cotton garments. Cortés commanded that they be put back; but Moctezuma opposed, saying that he never took back what he had once given. Cortés also had some soldiers imprisoned because they had taken from the same treasure a certain quantity of liquidambar;
 
-Ancient History of Mexico, Vol. III.        N                      but
-
-[p. 98]
-
-but at the king’s request they were soon set at liberty. Not content
+Ancient History of Mexico, Vol. III.        N                      but [p. 98] but at the king’s request they were soon set at liberty. Not content
 
 Bk. IX. with granting his riches to the Spaniards, Moctezuma presented to
 
@@ -3736,19 +3396,11 @@ himself
 
 (*) In order to set forth the whole of Moctezuma’s life in prison at one time, we
 
-recall here some events much later than those we are about to relate.
-
-[p. 99]
-
-himself with a coarse garment; he was brought into the king’s audience, and after making the customary ceremonies of respect said to Bk. IX. him: “Behold, most great and powerful lord, your servant, obedient to your orders and ready to fulfill your will in everything.” “You have conducted yourself very ill this time,” the king answered with indignation, “in treating as enemies those strangers whom I have received in a friendly manner at my court, and your rashness was very great in accusing me as the author of such an attempt; you shall therefore be punished as a traitor to your sovereign.” And when Cuauhpopoca wished to excuse himself, he would not listen to him, but had him immediately handed over to Cortés together with his accomplices, so that after examining the crime he might punish them with the penalty that was fitting. Cortés put the due questions to them, and they frankly confessed the deed without at first accusing the king, until, seeing themselves threatened with torments and believing their execution unavoidable, they declared that all they had done had been commanded them by the king, without whose orders they would never have dared to attempt anything whatever against the Spaniards.
+recall here some events much later than those we are about to relate. [p. 99] himself with a coarse garment; he was brought into the king’s audience, and after making the customary ceremonies of respect said to Bk. IX. him: “Behold, most great and powerful lord, your servant, obedient to your orders and ready to fulfill your will in everything.” “You have conducted yourself very ill this time,” the king answered with indignation, “in treating as enemies those strangers whom I have received in a friendly manner at my court, and your rashness was very great in accusing me as the author of such an attempt; you shall therefore be punished as a traitor to your sovereign.” And when Cuauhpopoca wished to excuse himself, he would not listen to him, but had him immediately handed over to Cortés together with his accomplices, so that after examining the crime he might punish them with the penalty that was fitting. Cortés put the due questions to them, and they frankly confessed the deed without at first accusing the king, until, seeing themselves threatened with torments and believing their execution unavoidable, they declared that all they had done had been commanded them by the king, without whose orders they would never have dared to attempt anything whatever against the Spaniards.
 
 Cortés, having heard their confession, and making a show of not believing their excuse, condemned them to be burned alive before the royal palace as guilty of lese majesty. He went at once to the king’s apartment with three or four of his captains and a soldier who carried irons in his hand, and without omitting even this time the usual ceremonies and compliments, said to the king: “The accused have now been examined, lord, and all have confessed their crime, and they accuse you as the author of the death of my Spaniards. I have condemned them to the punishment they deserve, and which you also deserve, in view of their confession; but having regard, on the other hand, to the great benefits which you have done us until now, and to the affection which you have shown toward my sovereign and toward my nation, I wish to grant you the favor of life; but I cannot avoid making you feel a part of the punishment you deserve for your
 
-N2                  crime.
-
-[p. 100]
-
-crime.” So saying, he angrily ordered the soldier to put the irons on Bk. IX. his feet, and, without wishing to hear anything, turned his back and
+N2                  crime. [p. 100] crime.” So saying, he angrily ordered the soldier to put the irons on Bk. IX. his feet, and, without wishing to hear anything, turned his back and
 
 went away. So great was the king’s amazement at seeing his person
 
@@ -3810,11 +3462,7 @@ done had been by the express command of his king; he then made
 
 prayers to his gods,
 
-and
-
-[p. 101]
-
-and encouraged his companions to suffer death. The fire was lit, and
+and [p. 101] and encouraged his companions to suffer death. The fire was lit, and
 
 Bk. IX. in a few minutes they were consumed (f) in the sight of an immense people, who did not stir, because they were persuaded, as is to be believed, that this punishment was being carried out by order of the king; and it is very probable that the sentence was published in his name.
 
@@ -3824,11 +3472,7 @@ As soon as the culprits had been executed, Cortés went to Moctezuma’s apartme
 
 had
 
-(f) Solís, where he mentions Cortés’s sentence against Cuauhpopoca, says thus: “The case was tried by military procedure, and sentence of death was passed on them, with the provision that their bodies should be burned publicly.” In which, without stating the kind of punishment to which they were condemned, he gives it to be understood that the culprits were not burned, but only their corpses: which does not befit the truthfulness that is required of a historian. He took pains to dissemble what did not accord with the panegyric of his hero; but his dissembling avails little, since not only the other historians but Cortés himself candidly affirms it in his letter to Charles V. See especially the chronicler Herrera in his Decades, Dec. 2, bk. 8, ch. 9.
-
-[p. 102]
-
-had caused him. His fear of losing his life vanished entirely, and he re‐
+(f) Solís, where he mentions Cortés’s sentence against Cuauhpopoca, says thus: “The case was tried by military procedure, and sentence of death was passed on them, with the provision that their bodies should be burned publicly.” In which, without stating the kind of punishment to which they were condemned, he gives it to be understood that the culprits were not burned, but only their corpses: which does not befit the truthfulness that is required of a historian. He took pains to dissemble what did not accord with the panegyric of his hero; but his dissembling avails little, since not only the other historians but Cortés himself candidly affirms it in his letter to Charles V. See especially the chronicler Herrera in his Decades, Dec. 2, bk. 8, ch. 9. [p. 102] had caused him. His fear of losing his life vanished entirely, and he re‐
 
 Bk. IX.
 
@@ -3900,11 +3544,7 @@ Cacamatzin therefore betook himself to Texcoco, and having convened his councilo
 
 In spite of these representations war was resolved on, and preparations were immediately begun with the greatest secrecy; not with so much, however, that the news did not reach both Moctezuma and Cortés. This general fell into a most grave disquiet, but considering, on the other hand, that all rash undertakings succeeded for him, he resolved to forestall the blow by marching with his troops to make an
 
-assault
-
-[p. 104]
-
-assault on Texcoco. Moctezuma dissuaded him from so bold a plan, Bk. IX.
+assault [p. 104] assault on Texcoco. Moctezuma dissuaded him from so bold a plan, Bk. IX.
 
 informing him of the forces of that court, and of the immense multi‐
 
@@ -3970,11 +3610,7 @@ cowardice, was enough to move him, he wished to give aid to the reli‐
 
 gion, avenge
 
-the
-
-[p. 105]
-
-the gods, preserve the kingdom, and recover his honor and liberty and those of the whole nation: that therefore he would in fact come, Bk. IX. as Moctezuma begged him, to Mexico, not with folded arms, but with sword in hand, to wipe out with the blood of the Spaniards the disgrace of the Mexicans.
+the [p. 105] the gods, preserve the kingdom, and recover his honor and liberty and those of the whole nation: that therefore he would in fact come, Bk. IX. as Moctezuma begged him, to Mexico, not with folded arms, but with sword in hand, to wipe out with the blood of the Spaniards the disgrace of the Mexicans.
 
 King Moctezuma was dismayed at such an answer, fearing to be
 
@@ -3984,11 +3620,7 @@ and of other lords, treme remedy to prevent it, and to save his life by a treach
 
 Prince therefore secretly gave orders to certain Mexican officers who served Cuicuitzcatzin. in the guard of the king his nephew to endeavor with all diligence and without delay to seize his royal person and bring him with the greatest caution to Mexico; because this was very important to the public good of the kingdom. He suggested to them the manner of doing it, and perhaps also gave them some gift and promised them some reward to encourage them to the undertaking. These then solicited other officers or servants of King Cacamatzin whom they found more disposed to that plot, and with their help obtained all that Moctezuma wished. Among his other palaces the King of Acolhuacan had built one on the shore of the lake in such a way that boats could enter and leave by a canal that ran beneath it. Here, where King Cacamatzin was then residing, they arranged a good number of boats with armed men, and in the darkness of night, with which the greatest crimes are covered, fell suddenly upon the king, and before any men could come to defend him, put him in a boat and with the greatest speed carried him to Mexico. Moctezuma, without any regard for his character as a sovereign or for his kinship with Cacamatzin, at once handed him over to Cortés. This general, who, as appears from his conduct, had no idea of that respect which is owed to royal majesty even in the person of a barbarian, put him in irons and shut him up under the custody of a strong guard. The reflections to be made on this, as on other extraordinary
 
-Ancient History of Mexico, Vol. III.        O                   events
-
-[p. 106]
-
-events of our History are too easy and trivial for us to dwell on in the Bk. IX. course of the narrative.
+Ancient History of Mexico, Vol. III.        O                   events [p. 106] events of our History are too easy and trivial for us to dwell on in the Bk. IX. course of the narrative.
 
 Cacamatzin, who had begun his unfortunate reign with the dissen‐
 
@@ -4052,11 +3684,7 @@ was a young man of twenty-five years, and moreover represents Cuicuitzcatzin as 
 
 an age to govern the kingdom. Besides, Cortés himself in another letter, written on
 
-May 15, 1522, says plainly that those two lords were brothers.
-
-[p. 107]
-
-to the love of his vassals, and offering to love him as a father and to revere him as their lord. No one is able to express the grief that such Bk. IX. news caused Cacamatzin, seeing himself, in the freshest youth (for he was not more than twenty-five years old), deprived of the crown which three years before he had inherited from his father, and reduced to the narrowness and solitude of a prison by the very King whom he had wished to free, and by the very strangers whom he had wished to drive from the kingdom.
+May 15, 1522, says plainly that those two lords were brothers. [p. 107] to the love of his vassals, and offering to love him as a father and to revere him as their lord. No one is able to express the grief that such Bk. IX. news caused Cacamatzin, seeing himself, in the freshest youth (for he was not more than twenty-five years old), deprived of the crown which three years before he had inherited from his father, and reduced to the narrowness and solitude of a prison by the very King whom he had wished to free, and by the very strangers whom he had wished to drive from the kingdom.
 
 Cortés now had in his power the two most powerful kings of Anahuac, and it was not long before he seized also the King of Tlacopan, the lords of Iztapalapa and of Coyoacán, both brothers of King Moctezuma, two sons of this same king, Itzcuauhtzin, lord of Tlatelolco, a high priest of Mexico, and several others of the most distinguished persons, although we do not know the circumstances of these imprisonments; but it is to be believed that he took them one by one as they came in to pay a visit to King Moctezuma.
 
@@ -4064,11 +3692,7 @@ Encouraged by such prosperous successes, and seeing the King of § 10. Mexico wh
 
 the Mexican nobility their lawful sovereign, as one who descended from the king and god to the King of Spain. Quetzalcoatl. Moctezuma, who had not the heart to contradict him, summoned the principal nobility of the court and of the neighboring cities. They all came promptly to receive his orders, and when they had assembled in a great hall of the quarters, with Cortés and some other Spaniards present, the king made them a long speech, in which he declared the love which he bore them as a father, from whom they need not fear that he would propose to them anything that was not just and advantageous. He recalled to them the ancient tradition concerning the devolution of the Mexican empire to the descendants of Quetzalcoatl, whose lieutenants he and his predecessors had been, and the phenomena observed in the elements, which, according to the interpretation of the priests
 
-O2                      and
-
-[p. 108]
-
-and diviners signified that the time had now come for the oracles to be fulBk. IX.
+O2                      and [p. 108] and diviners signified that the time had now come for the oracles to be fulBk. IX.
 
 filled. I do not doubt that he made mention also of the memorable event
 
@@ -4142,11 +3766,7 @@ Catholic Kings. Vetancurt, in pt. 2, treatise 1 of his Teatro mexicano, cites th
 
 scripts, the originals of which are without doubt in the archive of the Counts of Moctezuma
 
-and of Tula.
-
-[p. 109]
-
-that it cut short his speech and made him substitute tears for words.
+and of Tula. [p. 109] that it cut short his speech and made him substitute tears for words.
 
 Bk. IX. The King’s weeping was followed by such bitter sobs from the whole assembly that they moved the Spaniards to tenderness and pity. The sobs were then succeeded by a melancholy silence, which was broken by one of the most authoritative Mexican lords with these words: “Since, lord,” he said to the king, “the time has come when the ancient oracles are to be fulfilled, and the gods will, and you command us, that we be subjects of another lord, what have we to do but submit to the sovereign dispositions of Heaven, made known to us through your mouth?”
 
@@ -4156,11 +3776,7 @@ Having thus happily taken this step, he represented to Moctezuma § 11. that sin
 
 Mexicans to the Castile over those countries, it was necessary to show his subordina‐ crown of Castile. tion by some contribution of gold and silver, alleging for this the right which sovereigns had to exact such homage from their vassals in order to maintain the splendor of the crown, to support their ministers, for the expenses of war, and for the other needs of the state. Moctezuma with royal magnificence gave him the treasure of his father Axayacatl, which was kept, as we have already said, in that same palace, from which Cortés had taken nothing until then, although he had been expressly permitted by the king to take from it whatever he wished. All this treasure came into the hands of the Spaniards together with
 
-all
-
-[p. 110]
-
-all that the lords, feudatories of that crown, contributed: which was
+all [p. 110] all that the lords, feudatories of that crown, contributed: which was
 
 Bk. IX.
 
@@ -4316,11 +3932,7 @@ This great consolation lasted until the letters arrived from
 
 Cortés. brigantines, with eighty-five horse, eight hundred foot, and more than five hundred seamen, with twelve pieces of artillery and ample munitions of war, under the command of General Pánfilo de Narváez, had been sent by Diego Velázquez, governor of Cuba, against Cortés himself, as a rebel vassal and a traitor to his sovereign. He received this heavy blow in the presence of King Moctezuma; but without showing any disturbance in his countenance, he gave the king to understand that those who had put in at Chalchiuhcuecan were new companions sent to him from Cuba. He used the same dissimulation toward his Spaniards, until he had prepared their minds.
 
-History of Mexico, Vol. III.                P                       It
-
-[p. 114]
-
-It is beyond doubt that this occasion was one of those in which Bk. IX.
+History of Mexico, Vol. III.                P                       It [p. 114] It is beyond doubt that this occasion was one of those in which Bk. IX.
 
 Cortés made his invincible constancy and magnanimity shine. He
 
@@ -4384,11 +3996,7 @@ and to free both the king himself and the whole nation from their op‐
 
 pression; but Moctezuma
 
-was
-
-[p. 115]
-
-was so far from plotting anything against Cortés on such suggestions
+was [p. 115] was so far from plotting anything against Cortés on such suggestions
 
 Bk. IX. that, on the contrary, when this general let him know of his expedition against Narváez, Moctezuma showed great regret at the risk to which he was exposing himself with such inferior troops, and offered promptly to raise a good army to send to his aid.
 
@@ -4396,11 +4004,7 @@ Cortés had already used every possible diligence to come to a peaceful accommod
 
 P2                          find
 
-(l) Bernal Díaz says that the Spaniards who remained in Mexico were eighty-three. In the modern editions of Cortés’s letters it is said that they were five hundred, but in an old edition the number 140 is given, which seems to me the true one, considering the total number of the Spanish troops. The number 500 is evidently false, and contradicts the account of Cortés himself.
-
-[p. 116]
-
-find that newly arrived commander, and to do all that he could to put
+(l) Bernal Díaz says that the Spaniards who remained in Mexico were eighty-three. In the modern editions of Cortés’s letters it is said that they were five hundred, but in an old edition the number 140 is given, which seems to me the true one, considering the total number of the Spanish troops. The number 500 is evidently false, and contradicts the account of Cortés himself. [p. 116] find that newly arrived commander, and to do all that he could to put
 
 Bk. IX.
 
@@ -4468,11 +4072,7 @@ other
 
 counts 266, besides five captains; but Cortés, who knew it better than they, affirms
 
-that there were 250.
-
-[p. 117]
-
-other arms than pikes, swords, bucklers, and daggers, and advancing
+that there were 250. [p. 117] other arms than pikes, swords, bucklers, and daggers, and advancing
 
 Bk. IX. quietly and without any noise to the great temple of that city, where the enemy had their quarters, he made so furious an assault upon it that before the break of daylight he had already made himself master of the quarters, of all his enemies, of the artillery, of the arms, and of the horses, only four of his soldiers being killed, and fifteen of the enemy, and many on both sides wounded. (n) He had himself acknowledged by all as captain general and supreme magistrate; he put in irons in the fortress of Veracruz both Narváez and Salvatierra, a distinguished person and a sworn enemy of Cortés, and had the sails, the rudders, and the compasses removed from the ships. Scarcely had the light of that day begun (it was Pentecost Sunday, May 27) when the two thousand Chinantecs arrived in good order and well armed, (o) who came only to be witnesses of the triumph of Cortés and of the shame of the partisans of Narváez, seeing themselves vanquished by so few enemies, and less well armed than themselves. The success of this expedition was owing in great part to the incomparable bravery of Sandoval, who with eighty men climbed the temple in the midst of a storm of arrows and balls, assailed the sanctuary where Narváez had fortified himself, and made himself master of his person.
 
@@ -4482,11 +4082,7 @@ who
 
 (n) There is also variety among the authors concerning the number of the dead in that assault; I give what seems to me most probable in view of the accounts of the same authors.
 
-(o) Some authors say that the Chinantecs took part in the assault on Narváez’s quarters; but Bernal Díaz, who was present, affirms the opposite. Cortés makes no mention of them. Whoever wishes to inform himself of all the circumstances of this glorious expedition of Cortés may consult the historians of the conquest; for we omit them, as not befitting our History.
-
-[p. 118]
-
-who were to go under their orders, when ill-omened news reached
+(o) Some authors say that the Chinantecs took part in the assault on Narváez’s quarters; but Bernal Díaz, who was present, affirms the opposite. Cortés makes no mention of them. Whoever wishes to inform himself of all the circumstances of this glorious expedition of Cortés may consult the historians of the conquest; for we omit them, as not befitting our History. [p. 118] who were to go under their orders, when ill-omened news reached
 
 Bk. IX. him from Mexico, which upset his plans and compelled him to return
 
@@ -4558,11 +4154,7 @@ make us prefer the testimony of this writer alone to that of all the others.
 
 according to other historians, more than a thousand; and according to Monsignor de
 
-las Casas, more than two thousand.
-
-[p. 119]
-
-more heated, and perhaps even wearied by the dance, he gave the signal to his men to assail them, and these threw themselves at once Bk. IX. with fury upon those unfortunate men, who could neither offer resistance, since they were unarmed and weary, nor was it possible for them to escape by flight, because the gates were occupied. Terrible was the massacre, lamentable the cries which the dying sent up to Heaven, and copious the blood that was shed there. This fatal blow was one of the most painful to the Mexicans; for they lost in it the flower of their nobility, and to perpetuate its memory among their descendants they composed upon such a theme mournful songs, or elegies, which were preserved for many years after the conquest. When that tragic and horrible business was ended, the Spaniards stripped the corpses of all the wealth with which they were adorned.
+las Casas, more than two thousand. [p. 119] more heated, and perhaps even wearied by the dance, he gave the signal to his men to assail them, and these threw themselves at once Bk. IX. with fury upon those unfortunate men, who could neither offer resistance, since they were unarmed and weary, nor was it possible for them to escape by flight, because the gates were occupied. Terrible was the massacre, lamentable the cries which the dying sent up to Heaven, and copious the blood that was shed there. This fatal blow was one of the most painful to the Mexicans; for they lost in it the flower of their nobility, and to perpetuate its memory among their descendants they composed upon such a theme mournful songs, or elegies, which were preserved for many years after the conquest. When that tragic and horrible business was ended, the Spaniards stripped the corpses of all the wealth with which they were adorned.
 
 The motive that induced Alvarado to so rash and inhuman a deed is not known. Some say that it was none other than that accursed hunger for gold. (r) Others affirm, and this seems more probable, that having been told that the Mexicans meant at that festival to strike a master stroke against the Spaniards, in order to free themselves from their oppression and to restore to liberty their king and lord, whom the Spaniards held in prison, he forestalled them, thinking true the common saying, he who attacks wins. (s) Whatever the case, his conduct cannot be excused of imprudence and of cruelty.
 
@@ -4570,11 +4162,7 @@ The
 
 (r) The Mexican historians, Father Sahagún in his manuscript history, Monsignor de las Casas in his formidable work on the Destruction of the Indies, and Gómara in his Crónica de la Nueva España affirm that Alvarado’s avarice was the cause of the massacre of the Mexican nobility; but I cannot believe it without more effective proofs. Gómara and Monsignor de las Casas simply followed Sahagún, and he followed the information of the Mexicans, who, being enemies of the Spaniards, are not in this worthy of credit.
 
-(s) It is altogether incredible that the Mexicans should have plotted against the Spaniards on the occasion of the dance that treachery which several historians suppose, and much more that they had already prepared the pots to cook the flesh of the Spaniards, as Torquemada says. These are fables invented to justify Alvarado. What seems to me most probable is
-
-[p. 120]
-
-The common people, irritated by so painful a blow, treated the Bk. IX. Spaniards from then on as capital enemies of their country. Some
+(s) It is altogether incredible that the Mexicans should have plotted against the Spaniards on the occasion of the dance that treachery which several historians suppose, and much more that they had already prepared the pots to cook the flesh of the Spaniards, as Torquemada says. These are fables invented to justify Alvarado. What seems to me most probable is [p. 120] The common people, irritated by so painful a blow, treated the Bk. IX. Spaniards from then on as capital enemies of their country. Some
 
 Mexican troops assailed the quarters with such impetuosity that they
 
@@ -4636,21 +4224,13 @@ that the Tlaxcalans, from the great hatred which they bore the Mexicans, put int
 
 Alvarado’s head the alleged treachery. In the history of the Conquest we have several
 
-examples of such suggestions of the Tlaxcalans against their enemies.
-
-[p. 121]
-
-in the palace of Prince Maxixcatzin. There he reviewed his troops, Bk. IX. and found ninety-six horse and one thousand three hundred Spanish foot, to whom were added two thousand Tlaxcalans furnished by that republic. With this army he entered Mexico on June 24. He met with no opposition at his entry; but he at once perceived the popular ferment, as much from the small number of people to be seen in the streets as from certain bridges that had been raised from the canals. When he entered the quarters, with that jubilation on both sides which is easy to imagine, Moctezuma came to meet him in the court with the most obliging demonstrations of friendship; but Cortés, either made insolent by the victory won over Narváez and by the great force he had under his orders, or persuaded that it was necessary to feign a belief that the king was to blame for the disquiet of his vassals, passed on without so much as heeding him. The king, pierced with the keenest grief at seeing himself so unworthily slighted, withdrew to his apartment, where his sorrow was increased by the news which his servants brought him at once, of the insulting words that the Spanish general had spoken against His Majesty. (t)
+examples of such suggestions of the Tlaxcalans against their enemies. [p. 121] in the palace of Prince Maxixcatzin. There he reviewed his troops, Bk. IX. and found ninety-six horse and one thousand three hundred Spanish foot, to whom were added two thousand Tlaxcalans furnished by that republic. With this army he entered Mexico on June 24. He met with no opposition at his entry; but he at once perceived the popular ferment, as much from the small number of people to be seen in the streets as from certain bridges that had been raised from the canals. When he entered the quarters, with that jubilation on both sides which is easy to imagine, Moctezuma came to meet him in the court with the most obliging demonstrations of friendship; but Cortés, either made insolent by the victory won over Narváez and by the great force he had under his orders, or persuaded that it was necessary to feign a belief that the king was to blame for the disquiet of his vassals, passed on without so much as heeding him. The king, pierced with the keenest grief at seeing himself so unworthily slighted, withdrew to his apartment, where his sorrow was increased by the news which his servants brought him at once, of the insulting words that the Spanish general had spoken against His Majesty. (t)
 
 Cortés reproved Captain Alvarado with the utmost severity, and would at once have given him the punishment he deserved, had the circumstances of the time and of the culprit permitted it. He foresaw the great storm that was about to fall upon
 
 History of Mexico, Vol. III.                          Q                           their
 
-(t) The historian Solís refuses to believe the slight shown to Moctezuma by Cortés, and in order to defend this general he wrongs Bernal Díaz, who affirms it as an eyewitness, and the chronicler Herrera, who relates it on good documents. He accuses Bernal Díaz undeservedly of partiality against Cortés, and says of Herrera that it may be suspected that he wished to adopt Díaz’s account in order to be able to apply to it a maxim of Tacitus: Ambition, he adds, dangerous among historians; but in no one more than in Solís himself; for every impartial person well instructed in the history of Mexico will see, on reading that of Solís, that this author, instead of fitting his maxims to the narrative, on the contrary fits the narrative to his maxims. Finally, unless he alleges better reasons than those he employs against Bernal Díaz, we must give credit to the testimony of this author, who was present at the event.
-
-[p. 122]
-
-their heads, and it did not seem to him wise counsel to make an ene‐
+(t) The historian Solís refuses to believe the slight shown to Moctezuma by Cortés, and in order to defend this general he wrongs Bernal Díaz, who affirms it as an eyewitness, and the chronicler Herrera, who relates it on good documents. He accuses Bernal Díaz undeservedly of partiality against Cortés, and says of Herrera that it may be suspected that he wished to adopt Díaz’s account in order to be able to apply to it a maxim of Tacitus: Ambition, he adds, dangerous among historians; but in no one more than in Solís himself; for every impartial person well instructed in the history of Mexico will see, on reading that of Solís, that this author, instead of fitting his maxims to the narrative, on the contrary fits the narrative to his maxims. Finally, unless he alleges better reasons than those he employs against Bernal Díaz, we must give credit to the testimony of this author, who was present at the event. [p. 122] their heads, and it did not seem to him wise counsel to make an ene‐
 
 Bk. IX.
 
@@ -4718,21 +4298,13 @@ to Cortés to remain on the defensive, lest it be ascribed to cowardice,
 
 whereby the enemy would take greater courage. He therefore made
 
-a
-
-[p. 123]
-
-a sortie against them with four hundred men, part Spaniards and part
+a [p. 123] a sortie against them with four hundred men, part Spaniards and part
 
 Bk. IX. Tlaxcalans. The Mexicans retired with little loss to themselves, and Cortés, after setting fire to some houses, returned to the quarters; but seeing that the enemy continued their hostilities, he sent out Captain Ordaz with two hundred soldiers. The Mexicans pretended to be thrown into confusion and to flee, in order to draw them away from the quarters, as in fact they succeeded in doing; but suddenly the Spaniards saw themselves surrounded on every side by enemies, and attacked by one body of troops in front and another in the rear, though so tumultuously and in such disorder that they got in one another’s way. At the same time a great rabble showed itself upon the flat roofs, which incessantly hurled stones and arrows. The Spaniards then found themselves in great peril, and this occasion was beyond doubt one of those in which the valiant Ordaz made his bravery most conspicuous. The fight was very bloody, but without great loss to the Spaniards, who with their muskets and crossbows cleared the flat roofs, and with their pikes and swords drove back the multitude that flooded the street, and so were at length able to withdraw to the quarters, leaving many Mexicans dead, and of their own not more than eight; but nearly all came out wounded, and Ordaz himself as well. Among the injuries that the Mexicans did the Spaniards on this day was that of setting fire to several parts of the quarters, and in one of them the fire was such that the Spaniards were forced to throw down the wall, and to defend that breach with the artillery and with many men, whom they posted there until night, when the enemy gave them leisure to rebuild the wall and to tend the wounded.
 
 The next day (June 26) the assault was more terrible and the fury of the Mexicans greater. The Spaniards defended themselves with twelve pieces of artillery, which made great slaughter in the throng of the assailants; but since these were in so great a number, they hid the dead under the feet of those who stepped into their place. Cortés, on seeing the
 
-Q2                 obstinacy
-
-[p. 124]
-
-obstinacy they showed, sallied forth with the greater part of his Bk. IX. troops,  and made his way, fighting, along one of the three main
+Q2                 obstinacy [p. 124] obstinacy they showed, sallied forth with the greater part of his Bk. IX. troops,  and made his way, fighting, along one of the three main
 
 streets of the city; he stormed some bridges, set fire to some houses,
 
@@ -4798,21 +4370,13 @@ ter of that city, as he would have wished, that he could not even main‐
 
 tain himself in it. On the other
 
-hand
-
-[p. 125]
-
-it greatly grieved him to abandon the enterprise begun, losing in a moment by his departure all the advantages which he had procured Bk. IX. for himself by his courage, his industry, and his good fortune; but yielding to the times, he answered the king that he was ready to depart for the peace of the kingdom, provided that his vassals laid down their arms.                                                              § 17.
+hand [p. 125] it greatly grieved him to abandon the enterprise begun, losing in a moment by his departure all the advantages which he had procured Bk. IX. for himself by his courage, his industry, and his good fortune; but yielding to the times, he answered the king that he was ready to depart for the peace of the kingdom, provided that his vassals laid down their arms.                                                              § 17.
 
 Hardly was this conference ended when the cry to arms was raised The king’s address to
 
 the people, and its in the quarters for a general assault by the Mexicans. On all sides they effects. sought to climb the wall in order to enter, while some troops of archers posted at a convenient distance shot an immense multitude of arrows to overcome the resistance of the besieged, and some of the assailants pressed forward so far that, in spite of the fire of the artillery and the muskets, they set foot inside the quarters and fought hand to hand with the Spaniards. These, thinking themselves by now almost beaten and overwhelmed by the multitude, fought like desperate men. Moctezuma, on seeing their conflict and his own peril, resolved to show himself, in order to restrain by his presence and his voice the fury of his vassals. Having therefore put on the royal insignia, and escorted by some of his ministers and by two hundred Spaniards, he went up on the flat roof and presented himself to the people, ordering the ministers to call for silence, so that the voice of the sovereign might be heard. At his appearance the assault ceased, all fell silent, and some knelt to do him reverence. He spoke in a loud voice, and made them in substance this brief speech: “If the motive which induces you to take up arms against these strangers is zeal for my liberty, I hold dear the love and fidelity which you show me; but you are mistaken in believing me their prisoner, since it is in my power to leave this palace of my late father and go to my own whenever I please. If, however, your indignation is caused by their stay in this court, I let you know that they have given me their word to depart, and I assure you that they will certainly depart as soon as you lay down your arms. Let your disquiet cease, then; show me in this your fidelity, unless what I have
 
-heard
-
-[p. 126]
-
-heard said be true, namely that you have sworn to another lord that Bk. IX. obedience which you owe to me; which I cannot persuade myself to
+heard [p. 126] heard said be true, namely that you have sworn to another lord that Bk. IX. obedience which you owe to me; which I cannot persuade myself to
 
 believe, nor could you do it without drawing down upon yourselves all
 
@@ -4874,11 +4438,7 @@ forced
 
 king was Cuauhtémoc, his nephew, and afterwards the last king of Mexico; but I do
 
-not believe it.
-
-[p. 127]
-
-forced by themselves to put them to death, and to destroy so fine a city. The nobles went away repeating their threats.                 Bk. IX.
+not believe it. [p. 127] forced by themselves to put them to death, and to destroy so fine a city. The nobles went away repeating their threats.                 Bk. IX.
 
 The three engines of war being at last completed, Cortés went out with them early on June 28 or 29 (x), and took his way along one of the three principal streets of the city with three thousand Tlaxcalans and other auxiliary troops, with the greater part of the Spaniards, and with ten pieces of artillery. When they arrived at the bridge that was over the first canal, they set the engines and the ladders against the houses in order to dislodge the rabble that was on the flat roofs; but the stones hurled thence against the engines were so many and so large that they shattered them. The Spaniards fought courageously until midday without ever being able to storm the bridge; for which reason they returned shamefaced to the quarters, leaving one of their number dead, and bringing with them many wounded.
 
@@ -4890,11 +4450,7 @@ temple. with arms and provisions, and began from there to do great damage to the
 
 some
 
-(x) The variety of the authors regarding the order and the circumstances of the fights that took place in those days is beyond description. I follow the account of Cortés, which seems to me in this the most authoritative.
-
-[p. 128]
-
-some Spaniards; meanwhile other Mexican troops who had entered Bk. IX.
+(x) The variety of the authors regarding the order and the circumstances of the fights that took place in those days is beyond description. I follow the account of Cortés, which seems to me in this the most authoritative. [p. 128] some Spaniards; meanwhile other Mexican troops who had entered Bk. IX.
 
 the court fought furiously with those who were surrounding the tem‐
 
@@ -4978,11 +4534,7 @@ On the following day he continued his attacks along the same causeway, stormed t
 
 Ancient History of Mexico, Vol. III.              R                   captured
 
-(*) Cortés says that he burned the houses; but this does not mean that they all burned and were reduced to ashes, but only that he set fire to them, which in some did great damage, in others little, and in others none. Bernal Díaz says that it was hard work to make them burn, because they were covered with flat roofs and separated one from another.
-
-[p. 130]
-
-captured bridges. The Mexicans proposed to him that they were Bk. IX. ready to cause all hostilities to cease; but that to make the capitula‐
+(*) Cortés says that he burned the houses; but this does not mean that they all burned and were reduced to ashes, but only that he set fire to them, which in some did great damage, in others little, and in others none. Bernal Díaz says that it was hard work to make them burn, because they were covered with flat roofs and separated one from another. [p. 130] captured bridges. The Mexicans proposed to him that they were Bk. IX. ready to cause all hostilities to cease; but that to make the capitula‐
 
 tion they had need of the person of a high priest, who had been taken
 
@@ -5046,11 +4598,7 @@ the rigor of hunger, nor to the need of sleep, nor to continual toil, nor
 
 to wounds. After having spent the whole day
 
-in
-
-[p. 131]
-
-in fighting with their enemies they passed the night burying the dead, tending the wounded, and repairing the damage caused by the Bk. IX. Mexicans during the day in the quarters, and even in the little time that they gave to necessary rest they never laid down their arms, ready at every moment to present themselves to the enemy. But the hardiness of those men will appear still more plainly in the terrible fights which we shall shortly relate.
+in [p. 131] in fighting with their enemies they passed the night burying the dead, tending the wounded, and repairing the damage caused by the Bk. IX. Mexicans during the day in the quarters, and even in the little time that they gave to necessary rest they never laid down their arms, ready at every moment to present themselves to the enemy. But the hardiness of those men will appear still more plainly in the terrible fights which we shall shortly relate.
 
 In one of these days, probably June 30, King Moctezuma died
 
@@ -5132,11 +4680,7 @@ Indies.
 
 She survived the conquest, and took at baptism the name of Doña María
 
-Miahuaxochitl.
-
-[p. 133]
-
-daughter of Ixtlilcuechahuac, lord of Tollan. By another wife he had Tecuichpotzin, a beautiful princess, from whom descend the two most Bk. IX. noble houses of Cano Moctezuma and of Andrada Moctezuma. Besides these we know that he had another son, who was lord of Tenayuca, who, having escaped and taken refuge in Tepotzotlán when the Spaniards came out defeated from Mexico, was afterwards solemnly baptized, being near death, toward the end of the year 1524 or at the beginning of 1525. (B) The Catholic Kings granted singular privileges to the posterity of Moctezuma in consideration of the incomparable service done them by that monarch in incorporating into the Crown of Castile, by his voluntary cession, a kingdom so great and so rich as that of Mexico. Happy he, if after having ceded his kingdom to the King of Spain he had gained for himself the kingdom of Heaven; but neither the repeated entreaties made to him by Cortés during the whole time of his imprisonment, nor the continual exhortations employed by Father Olmedo, especially in the last days of his life, sufficed to induce him to embrace the faith of Jesus Christ, (C) which was soon afterwards so readily embraced by his vassals. Most lofty counsels of predestination, which cannot be fathomed by mortals.
+Miahuaxochitl. [p. 133] daughter of Ixtlilcuechahuac, lord of Tollan. By another wife he had Tecuichpotzin, a beautiful princess, from whom descend the two most Bk. IX. noble houses of Cano Moctezuma and of Andrada Moctezuma. Besides these we know that he had another son, who was lord of Tenayuca, who, having escaped and taken refuge in Tepotzotlán when the Spaniards came out defeated from Mexico, was afterwards solemnly baptized, being near death, toward the end of the year 1524 or at the beginning of 1525. (B) The Catholic Kings granted singular privileges to the posterity of Moctezuma in consideration of the incomparable service done them by that monarch in incorporating into the Crown of Castile, by his voluntary cession, a kingdom so great and so rich as that of Mexico. Happy he, if after having ceded his kingdom to the King of Spain he had gained for himself the kingdom of Heaven; but neither the repeated entreaties made to him by Cortés during the whole time of his imprisonment, nor the continual exhortations employed by Father Olmedo, especially in the last days of his life, sufficed to induce him to embrace the faith of Jesus Christ, (C) which was soon afterwards so readily embraced by his vassals. Most lofty counsels of predestination, which cannot be fathomed by mortals.
 
 As
 
@@ -5220,11 +4764,7 @@ populous a city, and in a time of so much turbulence and noise. Moreover, the ki
 
 had no fixed place for their sepulture, and in particular it is known to us from the
 
-testimony of the Mexicans that the ashes of Moctezuma were buried in Copalco.
-
-[p. 135]
-
-their sovereign. (F) Whatever the truth of that deed, the Tlatelolcas Bk. IX.
+testimony of the Mexicans that the ashes of Moctezuma were buried in Copalco. [p. 135] their sovereign. (F) Whatever the truth of that deed, the Tlatelolcas Bk. IX.
 
 carried the corpse of their lord upon a boat, and celebrated his obse‐
 
@@ -5288,11 +4828,7 @@ probability that I find in it.
 
 (G) Bernal Díaz says that the defeat of the Spaniards took place on the night of
 
-July 10; but I believe that this was a mistake of the printer
-
-[p. 136]
-
-on account of the great slaughter they suffered, for which they gave it
+July 10; but I believe that this was a mistake of the printer [p. 136] on account of the great slaughter they suffered, for which they gave it
 
 Bk. IX.
 
@@ -5358,19 +4894,11 @@ part
 
 the diary of their march written by this Conqueror it is plain that the defeat could
 
-not have happened except on July 1.
-
-[p. 137]
-
-part of them passed the first ditch, or canal, happily, with the help of the bridge that they carried with them, without meeting any resis‐ Bk. IX. tance but the little that the sentinels, by whom that post was guarded, were able to make; but the priests, who were keeping watch in the temples, having become aware of it, cried to arms, and with their horns roused the people. In a moment the Spaniards found themselves assailed both by water and by land by an infinite number of enemies, who with their very multitude and disorder hindered one another in the attack. The fight at the second ditch was very terrible and bloody, the danger extreme, and extraordinary the efforts of the Spaniards to escape. The darkness of the night, the din of arms, the threatening cries of the combatants, the lamentable wailings of the prisoners, and the languid sighs of the dying formed a whole no less pitiable than horrible. Here was heard the voice of a soldier who called on his comrades for help, and there that of another who asked God for mercy. All was confusion, outcries, wounds, and slaughter. Cortés, like a good general, ran intrepidly hither and thither, passing and repassing the ditches often by swimming, encouraging some, helping others, and giving to the remnants of his scattered army all the order that could be given, not without great risk of being killed or taken prisoner. The second ditch was filled to such a degree with bodies that those of the rear guard passed over them. Alvarado, who commanded it, found himself at the third ditch so furiously pressed by the enemy that, being unable to face them, or to pass by swimming without evident danger of perishing at their hands, he planted his lance in the bottom of the ditch, and clasped its foot with his arms, and giving an extraordinary impulse to his body, leaped with one bound to the other side of the ditch. This leap, esteemed by all a prodigy of agility, gave to that place the name which it still keeps, of the Leap of Alvarado. (I)
+not have happened except on July 1. [p. 137] part of them passed the first ditch, or canal, happily, with the help of the bridge that they carried with them, without meeting any resis‐ Bk. IX. tance but the little that the sentinels, by whom that post was guarded, were able to make; but the priests, who were keeping watch in the temples, having become aware of it, cried to arms, and with their horns roused the people. In a moment the Spaniards found themselves assailed both by water and by land by an infinite number of enemies, who with their very multitude and disorder hindered one another in the attack. The fight at the second ditch was very terrible and bloody, the danger extreme, and extraordinary the efforts of the Spaniards to escape. The darkness of the night, the din of arms, the threatening cries of the combatants, the lamentable wailings of the prisoners, and the languid sighs of the dying formed a whole no less pitiable than horrible. Here was heard the voice of a soldier who called on his comrades for help, and there that of another who asked God for mercy. All was confusion, outcries, wounds, and slaughter. Cortés, like a good general, ran intrepidly hither and thither, passing and repassing the ditches often by swimming, encouraging some, helping others, and giving to the remnants of his scattered army all the order that could be given, not without great risk of being killed or taken prisoner. The second ditch was filled to such a degree with bodies that those of the rear guard passed over them. Alvarado, who commanded it, found himself at the third ditch so furiously pressed by the enemy that, being unable to face them, or to pass by swimming without evident danger of perishing at their hands, he planted his lance in the bottom of the ditch, and clasped its foot with his arms, and giving an extraordinary impulse to his body, leaped with one bound to the other side of the ditch. This leap, esteemed by all a prodigy of agility, gave to that place the name which it still keeps, of the Leap of Alvarado. (I)
 
 History of Mexico, Vol. III.                      S                         The
 
-(I) Bernal Díaz mocks those who believed such a leap of Alvarado’s; and says that it was altogether impossible, considering the breadth and depth
-
-[p. 138]
-
-The loss of the Mexicans on this ill-fated night was undoubtedly Bk. IX. great. Of that of the Spaniards, as in other computations, the authors
+(I) Bernal Díaz mocks those who believed such a leap of Alvarado’s; and says that it was altogether impossible, considering the breadth and depth [p. 138] The loss of the Mexicans on this ill-fated night was undoubtedly Bk. IX. great. Of that of the Spaniards, as in other computations, the authors
 
 speak with the utmost variety. (L) I deem true the computation
 
@@ -5440,11 +4968,7 @@ know the reason, and on the other hand it is established for us that he was afte
 
 wards killed in Texcoco, as we shall see below.
 
-(N) Torquemada affirms, as a thing well established, that a few days
-
-[p. 139]
-
-these princesses in their misfortune was Doña Elvira, daughter of the Tlaxcalan prince Maxixcatzin.                                             Bk. IX.
+(N) Torquemada affirms, as a thing well established, that a few days [p. 139] these princesses in their misfortune was Doña Elvira, daughter of the Tlaxcalan prince Maxixcatzin.                                             Bk. IX.
 
 Cortés, in spite of the greatness of his heart, could not restrain his tears at the sight of such a calamity. He sat down upon a stone in Popotla, a village near Tlacopan, not to rest from his labors, but to weep for the loss of his friends and companions. Amid so many disasters he had at least the comfort of hearing that his bravest captains, Sandoval, Alvarado, Olid, Ordaz, Ávila, and Lugo, his interpreters Aguilar and Doña Marina, and his engineer Martín López were safe, in whom he chiefly trusted to be able to repair his honor and conquer Mexico.
 
@@ -5456,11 +4980,7 @@ At daybreak the Spaniards found themselves at Popotla, scattered, weary, and dis
 
 S2                  celebrated
 
-after Cortés seized Cacamatzin, he had him strangled in prison. Cortés, Bernal Díaz, Vetancurt, and others say that he was killed together with the other prisoners on that memorable night.
-
-[p. 140]
-
-celebrated sanctuary and magnificent temple of Our Lady called de los
+after Cortés seized Cacamatzin, he had him strangled in prison. Cortés, Bernal Díaz, Vetancurt, and others say that he was killed together with the other prisoners on that memorable night. [p. 140] celebrated sanctuary and magnificent temple of Our Lady called de los
 
 Bk. IX.
 
@@ -5526,11 +5046,7 @@ many dangers will save us from this one also.” At last battle was
 
 joined, which
 
-was
-
-[p. 141]
-
-was very bloody, and lasted more than four hours. Cortés, seeing his
+was [p. 141] was very bloody, and lasted more than four hours. Cortés, seeing his
 
 Bk. IX. troops diminish and in great part lose courage, and his enemies come on more proud notwithstanding the damage they received from the Spanish arms, took a bold and most perilous resolution, by which he obtained the victory, and put in safety the remnants of his wretched army. There came to his mind what he had often heard said, namely, that the Mexicans fell into disorder and fled whenever they saw their general dead, or the standard lost. Cihuacatzin, general of that army, clad in a rich military dress with a fine plume on his head, and with a gilded shield on his arm, was carried in a litter on the shoulders of some soldiers. The standard, which according to their custom he carried, was a net of gold fixed on the point of a pike, which he had strongly tied on his back, and which rose about ten palms above his head. (*) Cortés observed it in the center of that great multitude of enemies, and, resolved to deal a decisive blow, commanded his brave captains Sandoval, Alvarado, Olid, and Ávila to keep behind him to guard his back, and with others who accompanied him he hurled himself at the point where the enterprise seemed to him less difficult, with such impetus that he overthrew some to the ground with his lance, and others with his stirrups. Thus he advanced through the enemy ranks until he reached the general, who was accompanied by some officers, and with a thrust of his lance stretched him on the ground. Juan de Salamanca, a brave soldier who accompanied Cortés, dismounting promptly from his horse, put an end to his life, and taking from him the plume, presented it at once to Cortés. (O) The enemy army, as soon as it saw its general dead and the standard taken, was thrown into confusion
 
@@ -5538,11 +5054,7 @@ and
 
 (*) This sort of standard was called by the Mexicans Tlahuizmatlaxopilli.
 
-(O) Charles V granted some privileges to Juan de Salamanca, and among others that of a coat of arms for his house, in which was a plume in memory of the one that he had taken from General Cihuacatzin when he killed him.
-
-[p. 142]
-
-and began to flee. The Spaniards, encouraged by the glorious deed of Bk. IX. their leader, pressed hard upon them, making a great slaughter of
+(O) Charles V granted some privileges to Juan de Salamanca, and among others that of a coat of arms for his house, in which was a plume in memory of the one that he had taken from General Cihuacatzin when he killed him. [p. 142] and began to flee. The Spaniards, encouraged by the glorious deed of Bk. IX. their leader, pressed hard upon them, making a great slaughter of
 
 them.
 
@@ -5604,11 +5116,7 @@ thor, attentive only to polish of language, to eulogies, and to maxims, cared li
 
 figures. He affirms that Cortés took with him to Mexico after the defeat of Narváez
 
-1100 men, who with another 80 who, as he says, remained with Alvarado, make
-
-[p. 143]
-
-the Tlaxcalans, and many Spaniards in proportion to the number of
+1100 men, who with another 80 who, as he says, remained with Alvarado, make [p. 143] the Tlaxcalans, and many Spaniards in proportion to the number of
 
 Bk. IX. their troops, and all came out wounded.
 
@@ -5624,11 +5132,7 @@ their
 
 (*) Bernal Díaz says that the battle of Otompan was on July 14; but this was a slip of memory; for Cortés affirms that they entered the dominions of Tlaxcala on the 8th, one day after that battle.
 
-(**) Hueyotlipan is called by Cortés and by Herrera Gualipan, by Bernal Díaz Gualiopar, and by Solís Gualipàr.
-
-[p. 144]
-
-their calamities by their dearest friends; but they were soon undeBk. IX.
+(**) Hueyotlipan is called by Cortés and by Herrera Gualipan, by Bernal Díaz Gualiopar, and by Solís Gualipàr. [p. 144] their calamities by their dearest friends; but they were soon undeBk. IX.
 
 ceived, seeing their sincere demonstrations of esteem and of compas‐
 
@@ -5692,11 +5196,7 @@ While the Spaniards rested in Tlaxcala from their fatigues, and
 
 tended their wounds, the Mexicans were exerting themselves
 
-to
-
-[p. 145]
-
-to remedy the ills of the court and of the kingdom. The losses they
+to [p. 145] to remedy the ills of the court and of the kingdom. The losses they
 
 Bk. IX. had suffered during the past year were indeed great and lamentable; for besides the great sums of gold, silver, gems, and other precious things which they had spent, partly in gifts made to the Spaniards and § 24. partly in homage to the King of Spain, of which they doubtless recov‐ Election    in Mexico,
 
@@ -5706,11 +5206,7 @@ While the Spaniards were in the court, distressed by hunger through the hostilit
 
 The Mexicans had need of setting at the head of their nation a man capable of restoring its honor and of repairing the losses suffered in the last year of Moctezuma’s reign. Prince Cuitláhuac was elected King of Mexico, either a little before or a little after the defeat of the Spaniards. He was, as we have already said, lord of Iztapalapa,
 
-History of Mexico, Vol. III.                  T                     Privy
-
-[p. 146]
-
-privy councilor to King Moctezuma his brother, and Tlachcocalcatl, or Bk. IX.
+History of Mexico, Vol. III.                  T                     Privy [p. 146] privy councilor to King Moctezuma his brother, and Tlachcocalcatl, or Bk. IX.
 
 general of the army. He was a wise man and of great talent, as his ene‐
 
@@ -5780,11 +5276,7 @@ avenge himself on that king, and unable to take vengeance on his person, since h
 
 had already died, he took it on the city he had favored. This was the motive, as
 
-Cortés himself says, of his expedition against Iztapalapa.
-
-[p. 147]
-
-a fine gift of beautiful feathers, cotton garments, and salt, which were received with honor according to the laws established among the civi‐ Bk. IX. lized nations of that country. The purpose of that embassy was to §Embassy25.
+Cortés himself says, of his expedition against Iztapalapa. [p. 147] a fine gift of beautiful feathers, cotton garments, and salt, which were received with honor according to the laws established among the civi‐ Bk. IX. lized nations of that country. The purpose of that embassy was to §Embassy25.
 
 of King represent to that senate that although the Mexicans and the Cuitláhuac to the
 
@@ -5792,11 +5284,7 @@ Tlaxcalans. Tlaxcalans had until then been mortal enemies, it was now necessary 
 
 The senate, after hearing the embassy and dismissing
 
-T2                     from
-
-[p. 148]
-
-from the audience hall the ambassadors, according to their custom, Bk. IX. remained there to deliberate on that great affair. There were not lack‐
+T2                     from [p. 148] from the audience hall the ambassadors, according to their custom, Bk. IX. remained there to deliberate on that great affair. There were not lack‐
 
 ing some to whom the proposals of the court of Mexico seemed just
 
@@ -5876,11 +5364,7 @@ Baptism of the four gave obedience to the Catholic King, and, what is more, the 
 
 Some
 
-(R) Neither Cortés nor Bernal Díaz makes any mention of this baptism. Herrera
-
-[p. 150]
-
-Some Tlaxcalans followed their example, but of these not all perse‐
+(R) Neither Cortés nor Bernal Díaz makes any mention of this baptism. Herrera [p. 150] Some Tlaxcalans followed their example, but of these not all perse‐
 
 Bk. IX.
 
@@ -5948,11 +5432,7 @@ Díaz. Besides other proofs, this is evident from the ancient paintings, made by
 
 Tlaxcalans, which were in several convents of the Franciscan fathers and were seen
 
-by the historian Torquemada.
-
-[p. 151]
-
-his soldiers to whatever he wished, he made them an effective speech, by which he induced them to desist from their demand. He re‐ Bk. IX. proached them for that cowardice, awakened in their hearts the sentiments of honor, recalling to them in flattering terms their glorious deeds and the protestations, full of ardor and courage, which they had so often made to him; he made clear to them how much more dangerous their return to Veracruz would prove than their stay in Tlaxcala; he assured them of the fidelity of that republic, of which they still showed themselves doubtful; and finally he begged them to suspend their resolution until they should see the outcome of the war which he meant to make against the province of Tepeyacac, in which he hoped to have new proofs of the sincerity of the Tlaxcalans.
+by the historian Torquemada. [p. 151] his soldiers to whatever he wished, he made them an effective speech, by which he induced them to desist from their demand. He re‐ Bk. IX. proached them for that cowardice, awakened in their hearts the sentiments of honor, recalling to them in flattering terms their glorious deeds and the protestations, full of ardor and courage, which they had so often made to him; he made clear to them how much more dangerous their return to Veracruz would prove than their stay in Tlaxcala; he assured them of the fidelity of that republic, of which they still showed themselves doubtful; and finally he begged them to suspend their resolution until they should see the outcome of the war which he meant to make against the province of Tepeyacac, in which he hoped to have new proofs of the sincerity of the Tlaxcalans.
 
 The lords of the province of Tepeyacac, bordering on the republic § 28.
 
@@ -5960,11 +5440,7 @@ War of the Spaniards of Tlaxcala, had declared themselves friends of Cortés and
 
 Tepeyacac. the King of Spain ever since that horrible butchery which the Spaniards made in Cholula; but seeing the Spaniards afterward cast down and the Mexicans victorious, they returned to the obedience of the King of Mexico, and to win his favor they killed some Spaniards who were traveling from Veracruz to Mexico, unaware of the tragedy of their companions; they admitted a Mexican garrison into their towns, and occupied the road that led from Veracruz to Tlaxcala, and, not content with this, made some raids into the lands of that republic. Cortés resolved to make war upon them, no less to punish their perfidy than to secure the road from that port for the reinforcements which he expected from there. He was urged to such an expedition also by the younger Xicotencatl, who had already been restored to liberty through the mediation of the same Spanish general, and who, to remove any suspicion that might exist against him on account of what had happened in the senate, offered to aid him in that war with a good army. Cortés accepted the offer; but before taking up arms, he amicably requested some satisfaction from the people of Tepeyacac, and exhorted them to leave the Mexican party, promising to pardon them
 
-the
-
-[p. 152]
-
-the crime committed in the killing of those Spaniards; but their proposals Bk. IX.
+the [p. 152] the crime committed in the killing of those Spaniards; but their proposals Bk. IX.
 
 having been rejected by them, he marched against that province with four
 
@@ -6040,11 +5516,7 @@ Ancient History of Mexico, Vol. III.                  V                       de
 
 (*) The city of Tepeyacac, or Tepeaca, as the Spaniards call it, still exists; but the name of Segura de la Frontera was soon forgotten. Charles V gave it the title and honor of a Spanish city in 1545. Today it belongs to the marquisate del Valle.
 
-(**) Cuauhquechollan is called by the Spaniards Guaquechula, or Huacachula. Today it is a most pleasant village of Indians, abounding in good fruit.
-
-[p. 154]
-
-desired to show his fidelity, but was not permitted to do so by the Bk. IX.
+(**) Cuauhquechollan is called by the Spaniards Guaquechula, or Huacachula. Today it is a most pleasant village of Indians, abounding in good fruit. [p. 154] desired to show his fidelity, but was not permitted to do so by the Bk. IX.
 
 Mexicans; that at present there was in Cuauhquechollan a good num‐
 
@@ -6110,21 +5582,13 @@ fitting. He caressed and made gifts, as much as he could, to the
 
 Huexotzincas and the people of Cuauhquechollan
 
-and
-
-[p. 155]
-
-and, accompanied by them, he marched at once for Cholula with a
+and [p. 155] and, accompanied by them, he marched at once for Cholula with a
 
 Bk. IX. hundred foot and ten horse, determined to carry out this enterprise in person. He found the Spaniards in Cholula frightened, gave them courage, and then marched for Cuauhquechollan with the whole army, which then consisted of more than three hundred Spaniards and more than a hundred thousand allies. Such was the readiness of those peoples to arm themselves against the Mexicans in order to escape from their domination. Before arriving at Cuauhquechollan Cortés was informed by that lord that all measures had already been taken: that the Mexicans trusted in their sentinels posted on the towers of the city and on the roads; but that these had already been secretly seized by the citizens.
 
 No sooner did the people of Cuauhquechollan see the army that was coming to their relief than they assaulted with armed hand the lodgings of the Mexicans with such violence that before Cortés entered the city they presented to him forty prisoners. When that general entered, three thousand citizens were fighting at the principal lodging of the Mexican officers, who, although much inferior in number, defended themselves nonetheless with such courage that the people of Cuauhquechollan could not take the house, even though they had made themselves masters of the flat roofs. Cortés gave it the assault and took it; but in spite of the pains he took to capture someone from whom to learn the present state of the court, the Mexicans fought with such obstinacy that all were killed, and he could scarcely gain some light from a dying officer. The other Mexicans who were scattered about the city rushed out of it in order to join the main body of the army, encamped in a high place that commanded all the surroundings, which in a moment drew up in battle order and entered the city, setting fire to the houses. Cortés affirms that he had never seen another army of finer appearance, because of the gold and plumes with which it was seen adorned. The Spaniards ran to the defense with their cavalry and many thousands of allies, and forced them to retire to
 
-V2                        a
-
-[p. 156]
-
-a high and difficult place; but the Mexicans, being still pressed there
+V2                        a [p. 156] a high and difficult place; but the Mexicans, being still pressed there
 
 Bk. IX.
 
@@ -6192,11 +5656,7 @@ years. Cortés wrote his second letter to Charles V, in which he speaks of them,
 
 days after those expeditions.
 
-(*) Itzocan is called Izúcar by the Spaniards.
-
-[p. 157]
-
-they raised the bridges so as not to be pursued by their enemies. The
+(*) Itzocan is called Izúcar by the Spaniards. [p. 157] they raised the bridges so as not to be pursued by their enemies. The
 
 Bk. IX. Spaniards and their allies, in spite of the difficulties they had in crossing the river, pursued them for more than four miles, killing some, taking others prisoner, and leaving all terrified. Cortés, having returned to the city, had fire set to all the sanctuaries, and by means of some prisoners summoned the citizens, who were scattered about the mountains, giving them safe-conduct, that they might return without any fear to live in their houses.
 
@@ -6208,11 +5668,7 @@ Having
 
 (V) Ocopetlayocan is called by Cortés Ocupatujo, through ignorance of the Mexican language, and the author of the Notes on the letters of Cortés printed in Mexico in 1770 believed that it was Ocuituco; but this place is not so near to Cuauhquechollan as Cortés’s Ocupatujo was. Torquemada, although otherwise very exact in writing Mexican names, calls that place sometimes Acapetlajoccan, sometimes Acapetlahuacan.
 
-(*) Coaixtlahuacan is called by Cortés Coastoaca, and is said by him to be near
-
-[p. 158]
-
-Having returned to Tepeyacac, Cortés waged war through his cap‐
+(*) Coaixtlahuacan is called by Cortés Coastoaca, and is said by him to be near [p. 158] Having returned to Tepeyacac, Cortés waged war through his cap‐
 
 Bk. IX.
 
@@ -6276,11 +5732,7 @@ more than 400 distant. Nor does Cortés speak of Huaxyacac, or Oaxaca, where he
 
 says Coastoaca, as that author would have it, but of Coaixtlahuacan, called by the
 
-Spaniards Justlahuaca.
-
-[p. 159]
-
-the spirits of the others; but this loss was promptly and advanta‐
+Spaniards Justlahuaca. [p. 159] the spirits of the others; but this loss was promptly and advanta‐
 
 Bk. IX. geously repaired by a good number of soldiers who arrived with horses, arms, and munitions at the port of Veracruz, some sent by the governor of Cuba to the aid of Narváez, and others by the governor of Jamaica for the expedition to Pánuco; all of whom joined Cortés's party willingly, those very means which his enemies employed for his ruin being changed into instruments of his good fortune.
 
@@ -6294,11 +5746,7 @@ election of King confirmation of the investiture of vacant states, as happened i
 
 The Mexicans elected as king Cuauhtémoc, nephew of the late Cuitláhuac, since there remained no brother of the last two kings. He was a young man of twenty-five years and of great spirit, and although by reason of his age not much practiced in the trade of war, he nonetheless continued the military measures of his predecessor. He married his cousin Tecuichpotzin,
 
-daughter
-
-[p. 160]
-
-daughter of King Moctezuma, and already the wife of his uncle
+daughter [p. 160] daughter of King Moctezuma, and already the wife of his uncle
 
 Bk. IX.
 
@@ -6364,11 +5812,7 @@ his
 
 son was called Juan, as Torquemada attests, who learned it from the Tlaxcalans
 
-themselves.
-
-[p. 161]
-
-his life. He accompanied the Spaniards in their conflicts as far as
+themselves. [p. 161] his life. He accompanied the Spaniards in their conflicts as far as
 
 Bk. IX. Tlaxcala, where he stayed until, either impatient of oppression or eager to recover the throne, he fled secretly to Texcoco. There reigned then at that court his brother Coanacochtzin, to whom, Cacamatzin being dead, the crown belonged according to the law of that kingdom. No sooner had Cuicuitzcatzin presented himself there than he was made prisoner by the royal ministers, who gave prompt notice of it to the king, then absent in Mexico. He let King Cuauhtémoc his cousin know of it, who, thinking that fugitive prince a spy of the Spaniards, was of opinion that he should be put to death. Coanacochtzin, either to please that monarch, or rather to remove from Cuicuitzcatzin the occasion of wishing to recover the throne to the prejudice of his own right and of the peace of the kingdom, had him put to death without delay. Thus ended that unfortunate prince, whose exaltation served for nothing but to make his fall greater and more resounding. (Z)
 
@@ -6434,11 +5878,7 @@ Dutchman; since it is established for us by the testimony of the Spanish authors
 
 Herrera, Torquemada, etc., and by the very privileges granted by the Catholic King
 
-to the posterity of Montagno.
-
-[p. 163]
-
-be employed in the siege of Mexico; and when it seemed to him that it was time to march, he reviewed his troops, which consisted of forty Bk. X. horse and five hundred and fifty foot. He divided that small cavalry into four parts, and the infantry into nine companies, armed some with muskets, others with crossbows, others with sword and buckler, and others with pikes. From his horse, on which he was drawing up his troops, he made them this address: “Friends and comrades of mine, any discourse that I might wish to make to animate your bravery is altogether superfluous, since we all acknowledge ourselves obliged to repair the honor of our arms and to avenge the death of our Spaniards and allies. Let us go to the conquest of Mexico, the most glorious enterprise of any that can ever be offered to us in all our life. Let us go to punish at one stroke the perfidy, the pride, and the cruelty of our enemies, to enlarge the dominions of our sovereign by adding to them a kingdom so great and so rich, to smooth the road for the Gospel, to open the gate of Heaven to so many millions of souls, to secure by the toil of a few days the comfort of our families, and to make our name immortal: incentives capable of encouraging even the most cowardly minds, let alone hearts so noble and generous as yours. I see no difficulty that your bravery cannot overcome. It is true that our enemies are many; but we are superior to them in courage, in discipline, and in arms. Besides, we have under our orders so great a number of auxiliary troops that, helped by them, we could conquer not only one but many cities equal to that of Mexico. Let it be as strong as you please; but it is not so strong that it can resist the attacks which we must give it by land and by water. Finally, God, for whose glory we fight, has declared that he will second our designs. His providence has preserved us in the midst of so many perils and disasters, has sent us new companions in place of those whom we have lost,
+to the posterity of Montagno. [p. 163] be employed in the siege of Mexico; and when it seemed to him that it was time to march, he reviewed his troops, which consisted of forty Bk. X. horse and five hundred and fifty foot. He divided that small cavalry into four parts, and the infantry into nine companies, armed some with muskets, others with crossbows, others with sword and buckler, and others with pikes. From his horse, on which he was drawing up his troops, he made them this address: “Friends and comrades of mine, any discourse that I might wish to make to animate your bravery is altogether superfluous, since we all acknowledge ourselves obliged to repair the honor of our arms and to avenge the death of our Spaniards and allies. Let us go to the conquest of Mexico, the most glorious enterprise of any that can ever be offered to us in all our life. Let us go to punish at one stroke the perfidy, the pride, and the cruelty of our enemies, to enlarge the dominions of our sovereign by adding to them a kingdom so great and so rich, to smooth the road for the Gospel, to open the gate of Heaven to so many millions of souls, to secure by the toil of a few days the comfort of our families, and to make our name immortal: incentives capable of encouraging even the most cowardly minds, let alone hearts so noble and generous as yours. I see no difficulty that your bravery cannot overcome. It is true that our enemies are many; but we are superior to them in courage, in discipline, and in arms. Besides, we have under our orders so great a number of auxiliary troops that, helped by them, we could conquer not only one but many cities equal to that of Mexico. Let it be as strong as you please; but it is not so strong that it can resist the attacks which we must give it by land and by water. Finally, God, for whose glory we fight, has declared that he will second our designs. His providence has preserved us in the midst of so many perils and disasters, has sent us new companions in place of those whom we have lost,
 
 ## X2                     and
 
@@ -6608,11 +6048,7 @@ men; but it is certain that it is not known how many he took with him; since nei
 
 Cortés nor Bernal Díaz states the number. Gómara says there were more than
 
-80,000.
-
-[p. 167]
-
-was a sign of peace, advanced to confer with them. These four were messengers sent by King Coanacochtzin to compliment the Spanish Bk. X. general, to invite him to betake himself to his court, and to beg him not to commit any hostility in his states; they presented to him the little banner, which had thirty-two ounces of gold. Cortés, in spite of these tokens of friendship, reproached them with the death dealt a few months before by the inhabitants of the village of Zoltepec to forty-five Spaniards, five horses, and three hundred Tlaxcalans who were accompanying them, laden with gold, silver, and arms for the Spaniards who were then in Mexico, a death carried out with such inhumanity that they had hung up as trophies in the temples of Texcoco the skins of the Spaniards with their arms and garments, and those of the horses with their shoes. He added that since it was not possible for them to make up the loss of those people, they must at least repay him the gold and silver stolen: that if they did not give him due satisfaction, for each Spaniard killed he would put to death a thousand Texcocans. The messengers replied that the Texcocans were not guilty of that, but the Mexicans, by whose orders the people of Zoltepec had done it; that nevertheless they offered to use every possible diligence that everything should be restored to them, and having taken courteous leave of the Spanish general, they returned in haste to Texcoco with the news of the speedy arrival of the Spaniards at that court.
+80,000. [p. 167] was a sign of peace, advanced to confer with them. These four were messengers sent by King Coanacochtzin to compliment the Spanish Bk. X. general, to invite him to betake himself to his court, and to beg him not to commit any hostility in his states; they presented to him the little banner, which had thirty-two ounces of gold. Cortés, in spite of these tokens of friendship, reproached them with the death dealt a few months before by the inhabitants of the village of Zoltepec to forty-five Spaniards, five horses, and three hundred Tlaxcalans who were accompanying them, laden with gold, silver, and arms for the Spaniards who were then in Mexico, a death carried out with such inhumanity that they had hung up as trophies in the temples of Texcoco the skins of the Spaniards with their arms and garments, and those of the horses with their shoes. He added that since it was not possible for them to make up the loss of those people, they must at least repay him the gold and silver stolen: that if they did not give him due satisfaction, for each Spaniard killed he would put to death a thousand Texcocans. The messengers replied that the Texcocans were not guilty of that, but the Mexicans, by whose orders the people of Zoltepec had done it; that nevertheless they offered to use every possible diligence that everything should be restored to them, and having taken courteous leave of the Spanish general, they returned in haste to Texcoco with the news of the speedy arrival of the Spaniards at that court.
 
 Cortés entered Texcoco with his army on the last day of that year. Some nobles came to meet him, and led him to one of the palaces of the late King Nezahualpilli, which was so large that not only were § 2.
 
@@ -6620,11 +6056,7 @@ Entry of the those six hundred Spaniards lodged there, but, according to what Sp
 
 heavals at that court. comfortably. That general at once noticed that the concourse of citizens in the streets was notably diminished, it seeming to him that he did not see there even a third part of the people he had seen on other occasions, and he particularly observed that the women and the children were missing, a manifest sign of the ill disposition
 
-of
-
-[p. 168]
-
-of that court. Not to increase the distrust of the citizens, and not to Bk. X. expose his men to some disaster, he published an edict in which, on
+of [p. 168] of that court. Not to increase the distrust of the citizens, and not to Bk. X. expose his men to some disaster, he published an edict in which, on
 
 pain of death, he forbade his soldiers to leave their quarters without
 
@@ -6686,11 +6118,7 @@ shortly throw the Spaniards into confusion, together with their fa‐
 
 vorite allies the Tlaxcalans; that if they had been reduced
 
-by
-
-[p. 169]
-
-by concern for their states and possessions, they should move to
+by [p. 169] by concern for their states and possessions, they should move to
 
 Bk. X. Mexico, in whose dominions much better lands would be assigned to them; but those lords, instead of being frightened by the reprimand or yielding to the promises, seized the messengers and sent them to Cortés. He asked them the reason for their embassy, and they replied that, knowing that those lords were in his favor, they had come to beg them to be willing to act as mediators for peace between the Mexicans and the Spaniards. Cortés, pretending to believe what they said, set them at liberty and charged them to tell their sovereign that he did not want war, nor would he ever wage it unless compelled by the hostility of the Mexicans; that he should therefore take heed, and guard against doing any harm to the Spaniards or to their allies, because otherwise they would behave as enemies and would infallibly ruin his cities.
 
@@ -6698,11 +6126,7 @@ The alliance of those three cities was indeed of great importance to Cortés; bu
 
 Ancient History of Mexico, Vol. III.                 Y                             of
 
-(d) Solís, in his account of the elevation of Prince Ixtlilxochitl, besides the imaginary harangues which he puts in the mouths of Cortés and of the Texcocans, falls into at least seven substantial errors. 1. He supposes Cacamatzin still alive at this time, whereas from Cortés’s account, and from that of all the historians, we know
-
-[p. 170]
-
-of this prince, both to take vengeance on the legitimate king Bk. X.
+(d) Solís, in his account of the elevation of Prince Ixtlilxochitl, besides the imaginary harangues which he puts in the mouths of Cortés and of the Texcocans, falls into at least seven substantial errors. 1. He supposes Cacamatzin still alive at this time, whereas from Cortés’s account, and from that of all the historians, we know [p. 170] of this prince, both to take vengeance on the legitimate king Bk. X.
 
 Coanacochtzin and so that the kingdom might be dependent on him.
 
@@ -6792,11 +6216,7 @@ Cortés had resolved to make his quarters in Texcoco, and so had taken pains to 
 
 After putting the affairs of Texcoco in good order, Cortés resolved to make an assault on the city of Iztapalapa, to take vengeance upon it and upon its citizens for the offenses received
 
-Y2                    from
-
-[p. 172]
-
-from Cuitláhuac, their former lord, whom he held to be the author of
+Y2                    from [p. 172] from Cuitláhuac, their former lord, whom he held to be the author of
 
 Bk. X.
 
@@ -6860,11 +6280,7 @@ they
 
 (e) Gómara says that six thousand Tlaxcalans went on that expedition; Solís
 
-counts ten thousand; but Cortés affirms that there were from three to four thousand.
-
-[p. 173]
-
-they continued their journey along the lake, harassed constantly and mocked by the enemy. This expedition was not pleasing to the Bk. X. Spaniards; but although they lost the spoils there, and many were wounded, no more than two Spaniards died, and one horse. The loss of the Iztapalapans was much greater; for besides the damage they suffered in their houses, more than six thousand were left dead, according to Cortés.
+counts ten thousand; but Cortés affirms that there were from three to four thousand. [p. 173] they continued their journey along the lake, harassed constantly and mocked by the enemy. This expedition was not pleasing to the Bk. X. Spaniards; but although they lost the spoils there, and many were wounded, no more than two Spaniards died, and one horse. The loss of the Iztapalapans was much greater; for besides the damage they suffered in their houses, more than six thousand were left dead, according to Cortés.
 
 The displeasure Cortés felt over this expedition was soon compen‐ § 4. sated by the satisfaction he received at the submission which Confederation          of
 
@@ -6874,11 +6290,7 @@ Spaniards. ings gave him by means of their ambassadors, alleging, in order to ob
 
 This confederation was immediately followed by that of Chalco, a considerable city and state on the eastern shore of the fresh-water lake; for Cortés, knowing that the Chalcas wished to adhere to his party but dared not declare themselves for fear of the Mexican garrisons that were in their state, sent Sandoval there with twenty horse, two hundred Spanish foot, and a good number of allies, and gave him orders first to escort certain Tlaxcalan troops who wished to carry to their homeland that portion of the booty of Iztapalapa which they had saved, and then to turn upon Chalco to drive the Mexicans out of that state. Sandoval gave the vanguard to the Tlaxcalans; some Mexican troops that had put themselves in ambush rushed suddenly upon them, threw them into confusion, killed some of their men, and took the booty from them; but when the Spaniards came up they defeated
 
-and
-
-[p. 174]
-
-and put the Mexicans to flight. Having recovered the booty, the Bk. X. Tlaxcalans  continued their journey without danger, and Sandoval
+and [p. 174] and put the Mexicans to flight. Having recovered the booty, the Bk. X. Tlaxcalans  continued their journey without danger, and Sandoval
 
 marched toward Chalco, but long before reaching the city the main
 
@@ -6944,11 +6356,7 @@ lay a great forest of more than fifteen miles, and part of the dominions of
 
 Huexotzinco, and on the other side the most populous part of the kingdom of
 
-Acolhuacan was interposed.
-
-[p. 175]
-
-elder the investiture of the principal city, with other places, and to the younger he assigned Tlalmanalco, Chimalhuacan, Ayotzinco, and Bk. IX. others.
+Acolhuacan was interposed. [p. 175] elder the investiture of the principal city, with other places, and to the younger he assigned Tlalmanalco, Chimalhuacan, Ayotzinco, and Bk. IX. others.
 
 Meanwhile the Mexicans did not cease to make raids into the states that had allied themselves with the Spaniards, but Cortés’s diligence in sending them relief rendered their efforts for the most part useless. Among others, within a few days the Chalcas themselves came to Texcoco to implore the aid of the Spaniards; for they had learned that the Mexicans were preparing to strike a great blow in that state, lately withdrawn from their dominion. Cortés could not this time comply with their requests; because, having now finished the work of the masts, the planks, and all the fittings of the brigantines, he needed his troops to have them transported safely to Texcoco. He therefore gave them the counsel to ally themselves with the Huexotzincas, the Cholulans, and the people of Cuauhquechollan. The Chalcas refused such a confederation because of their ancient enmity with those peoples; but in the end they accepted it, moved by Cortés’s urging and compelled by necessity. The Chalcas had hardly departed when three messengers from Huexotzinco and from Cuauhquechollan opportunely arrived at Texcoco, sent by those lords to Cortés to make known to him their concern on account of certain smokes, by no means obscure signs of war, observed by the sentinels which they had on the summits of the mountains, and to offer him their troops, ready at his orders, should he wish to make use of them. Cortés took advantage of so fine an occasion to confederate those states with that of Chalco, obliging them to renounce for the common good their particular resentments. This alliance was firm; from then on they helped one another mutually against the Mexicans.
 
@@ -6956,11 +6364,7 @@ Meanwhile the Mexicans did not cease to make raids into the states that had alli
 
 As it was now time to transport to Texcoco the timber, sails, Transport of the macordage, and ironwork of the brigantines, Cortés sent for this pur‐ terials for the pose Sandoval with two hundred Spanish foot and fifteen horse, brigantines. charging him to go first to Zoltepec and take a rigorous vengeance upon those citizens for
 
-the
-
-[p. 176]
-
-the killing of those forty-five Spaniards and three hundred Tlaxcalans, Bk. X.
+the [p. 176] the killing of those forty-five Spaniards and three hundred Tlaxcalans, Bk. X.
 
 of which we have made mention above. The people of Zoltepec,
 
@@ -7028,11 +6432,7 @@ Tlaxcalan noble was Acxotecatl, lord of Atlihuetzian, that is, that inhuman fath
 
 who, in hatred of the Christian faith, afterward killed two of his sons. Cortés calls
 
-those chiefs Tutecatl and Teutipll.
-
-[p. 177]
-
-he had always occupied, following the example of his ancestors, the
+those chiefs Tutecatl and Teutipll. [p. 177] he had always occupied, following the example of his ancestors, the
 
 Bk. X. most perilous post, and Sandoval had need of employing reasons and entreaties to content him. Cortés, dressed in the most sumptuous finery and accompanied by all his officers, came to meet them, and embraced and thanked those Tlaxcalan lords for their good offices. They took six hours to enter Texcoco, in the best order, crying Castile, Castile, Tlaxcala, Tlaxcala amid the din of the military instruments.
 
@@ -7044,11 +6444,7 @@ the cities of Xaltocan ing to rest from the fatigue of the journey, he begged Co
 
 The day after, they set out for the great and beautiful city of Cuauhtitlan, as Cortés rightly calls it;
 
-Ancient History of Mexico, Vol. III.          Z                       but
-
-[p. 178]
-
-but they found it deserted, because the citizens, frightened by what Bk. X.
+Ancient History of Mexico, Vol. III.          Z                       but [p. 178] but they found it deserted, because the citizens, frightened by what Bk. X.
 
 had happened at Xaltocan, had sought to put themselves in safety.
 
@@ -7112,21 +6508,13 @@ gods.” In the fights which the Spaniards had in those days, they en‐
 
 tered that fatal causeway, and
 
-approached
-
-[p. 179]
-
-approached those memorable ditches in which nine months before they had been defeated. There they met a terrible resistance, and all Bk. X. at once were on the point of perishing; for, engaged in pursuing certain Mexican troops that had come on purpose to insult them in order to draw them into danger, they found themselves suddenly assailed on both sides of the causeway by so great a number of enemies that they retreated with difficulty, fighting furiously as far as the mainland. In this conflict five Spaniards were killed, and many wounded. Many of the Mexicans were left dead in this and in the other fights. Cortés, displeased at the ill success of his expedition, returned with his army by the same road to Texcoco, receiving on his march fresh insults from the enemy, who ascribed his retreat to fear and cowardice. (g) The Tlaxcalans who accompanied the Spaniards on that expedition, having amassed a great sum of spoils, asked Cortés for permission to carry it to their homeland, and Cortés granted it willingly. (h)
+approached [p. 179] approached those memorable ditches in which nine months before they had been defeated. There they met a terrible resistance, and all Bk. X. at once were on the point of perishing; for, engaged in pursuing certain Mexican troops that had come on purpose to insult them in order to draw them into danger, they found themselves suddenly assailed on both sides of the causeway by so great a number of enemies that they retreated with difficulty, fighting furiously as far as the mainland. In this conflict five Spaniards were killed, and many wounded. Many of the Mexicans were left dead in this and in the other fights. Cortés, displeased at the ill success of his expedition, returned with his army by the same road to Texcoco, receiving on his march fresh insults from the enemy, who ascribed his retreat to fear and cowardice. (g) The Tlaxcalans who accompanied the Spaniards on that expedition, having amassed a great sum of spoils, asked Cortés for permission to carry it to their homeland, and Cortés granted it willingly. (h)
 
 ## Z2                    Sandoval
 
 (g) Solís, wishing to give the lie to Bernal Díaz, says thus: “Whatever our historian may say to discredit this expedition (to Tlacopan), it was so important to the principal end that scarcely had Cortés returned to Texcoco when the caciques of Tucapan, of Mascalzingo, and of Auhtlan (so he calls Tuzapan, Mexicaltzinco, and Nauhtlan), and other peoples of the northern shore, came to him as suppliants to give obedience: which shows that the Spaniards returned with reputation, etc.” But setting aside the ambiguous expression northern shore, which readers unacquainted with the geography of that kingdom will perhaps understand of the shore of the lake, though it must be understood of that of the sea, and the error in saying that the lords of those places came to Texcoco, whereas we know from the testimony of Cortés that they sent their ambassadors there, it is certain that those lords could not have been induced to send such an embassy by the news of what had happened at Tlacopan, because their ambassadors arrived at Texcoco four days after that expedition, as Bernal Díaz, an eyewitness, affirms, and their cities were distant from that court more than 200 miles.
 
-(h) Herrera and Torquemada say that Cortés had the gold ornaments with which the Tlaxcalans were adorned taken from them by force after the expedition to Tlacopan, and that the Tlaxcalans were so indignant at such an outrage that in two days more than twenty thousand of them deserted. If this had been true, Cortés would have been the most foolish and imprudent man,
-
-[p. 180]
-
-Sandoval, who during Cortés’s absence had had charge of that
+(h) Herrera and Torquemada say that Cortés had the gold ornaments with which the Tlaxcalans were adorned taken from them by force after the expedition to Tlacopan, and that the Tlaxcalans were so indignant at such an outrage that in two days more than twenty thousand of them deserted. If this had been true, Cortés would have been the most foolish and imprudent man, [p. 180] Sandoval, who during Cortés’s absence had had charge of that
 
 Bk. X.
 
@@ -7192,11 +6580,7 @@ Gómara, an early author, say. All three agree in affirming that the Tlaxcalans 
 
 leave to go to Tlaxcala, that Cortés granted it willingly, and that they carried the
 
-booty they had made in that expedition, very joyfully.
-
-[p. 181]
-
-the Chalcas forever from the harm that came to them from that
+booty they had made in that expedition, very joyfully. [p. 181] the Chalcas forever from the harm that came to them from that
 
 Bk. X. quarter. The Tlaxcalans and the other allies were frightened at the sight of the difficulty and the danger; but Sandoval, animated by that great courage which shone in all his actions, resolved to die or conquer. He began to climb with his infantry, having at the same time to overcome both the roughness of the mountain and the multitude of enemies who defended it with a cloud of darts, of stones, and even of huge rocks, which although they broke in striking against the crags in between, yet their fragments wounded the Spaniards; but nothing was able to stop them until they entered the city, bathed in sweat and in blood, and the allies did the same after their example. The fatigue and the wounds so inflamed their anger, and with such fury did they hurl themselves against the enemy, that many, fleeing from the swords, threw themselves headlong down the cliffs of the mountain. So great was the blood that was shed there that it dyed a stream that ran there, and so fouled its waters that for more than an hour the victors could not use them to appease the great thirst that tormented them. (i) “This was,” says Cortés, “one of the most signal victories, in which the Spaniards gave the greatest proofs of their courage and of their constancy.” This day cost the life of Gonzalo Domínguez, one of the bravest soldiers of Cortés, whose loss was very keenly felt by all.
 
@@ -7206,11 +6590,7 @@ promptly
 
 (i) Bernal Díaz makes fun of Gómara for this account of the waters clouded with blood, and adds that they had no need to drink that water, since there were some springs of good water; but if these springs were in the same place as the fight, it is to be believed that they too remained stained with blood; if they were distant from that place, the Spaniards were not in a state to seek them. Bernal Díaz was not present on that expedition, and we ought to give more credence to the account of Cortés: “So great,” he says, “was the butchery which our Spaniards made of the enemy, and such the slaughter which the enemy made of themselves, throwing themselves headlong from that summit, that all those who were present affirm that a stream which encircled almost all that place remained tinted with blood for more than an hour, so that they could not drink of it.”
 
-(*) Herrera and Solís, altering the name of that city, call it Capistlan.
-
-[p. 182]
-
-promptly twenty thousand men, and sent them in two thousand
+(*) Herrera and Solís, altering the name of that city, call it Capistlan. [p. 182] promptly twenty thousand men, and sent them in two thousand
 
 Bk. X.
 
@@ -7278,11 +6658,7 @@ to those messengers the contents of the letter, and charged them to
 
 represent to their
 
-sovereign
-
-[p. 183]
-
-sovereign that he claimed nothing else than that the King of Spain
+sovereign [p. 183] sovereign that he claimed nothing else than that the King of Spain
 
 Bk. X. should be recognized as lord of that land, in accordance with what had been agreed by the Mexican nobility in that respectable assembly which was held in Mexico before King Moctezuma; that they should remember the homage which all the Mexican lords then paid to the great monarch of the East; that he wished to establish a firm peace and an eternal alliance with them, and made war only when compelled by their hostilities; that it grieved him to have to shed so much Mexican blood and to destroy such great and beautiful cities; that they themselves were witnesses of the bravery of the Spaniards, of the superiority of their arms, of the multitude of their allies, and of the good fortune of their progress; that they should at last come to their senses, and not oblige him by their obstinacy to continue the war to the total ruin of the court and of the empire.
 
@@ -7294,11 +6670,7 @@ On April 5 Cortés left Texcoco with thirty horse, three hundred Spanish foot, a
 
 where
 
-(**) There were, and still are, two places of this name: the one situated on the shore of the lake of Texcoco at the beginning of the peninsula of Iztapalapa is called simply Chimalhuacan; the other, placed in the mountains that lie south of the Valley of Mexico, is called Chimalhuacan-Chalco, and this was the one where Cortés went.
-
-[p. 184]
-
-where his army swelled with another twenty thousand men and more, Bk. X.
+(**) There were, and still are, two places of this name: the one situated on the shore of the lake of Texcoco at the beginning of the peninsula of Iztapalapa is called simply Chimalhuacan; the other, placed in the mountains that lie south of the Valley of Mexico, is called Chimalhuacan-Chalco, and this was the one where Cortés went. [p. 184] where his army swelled with another twenty thousand men and more, Bk. X.
 
 (l) who either to avenge themselves on the Mexicans, or for the inter‐
 
@@ -7364,11 +6736,7 @@ Chimalhuacan.
 
 (m) Cortés in his letters counts no more than two Spaniards killed in the assault
 
-on that mountain; but Bernal Díaz mentions eight, and gives their names.
-
-[p. 185]
-
-that quarter. He observed on a slope of the mountain two cavaliers, or commanding crags, defended by many warriors; but these, believ‐ Bk. X. ing that the Spaniards intended to make the assault from the opposite side, abandoned the crags and ran to where the danger seemed greater. Cortés, as one who knew well how to profit by all the conjunctures which fortune, or the heedlessness of his enemies, presented to him, ordered one of his captains to try to occupy with a competent number of soldiers one of those two crags, while he himself engaged the besieged on the opposite side. He began, then, to climb with the utmost toil; but when he reached a post as high as that where the enemy were, he saw the Spanish banner raised on one of the crags or cavaliers. The enemy, finding themselves attacked on two sides, and having already begun to feel the damage which the firearms did them, surrendered. Cortés received them with singular humanity; but required of them, as a necessary condition for obtaining pardon, that they should induce likewise to surrender those who occupied the first mountain, as in fact happened.
+on that mountain; but Bernal Díaz mentions eight, and gives their names. [p. 185] that quarter. He observed on a slope of the mountain two cavaliers, or commanding crags, defended by many warriors; but these, believ‐ Bk. X. ing that the Spaniards intended to make the assault from the opposite side, abandoned the crags and ran to where the danger seemed greater. Cortés, as one who knew well how to profit by all the conjunctures which fortune, or the heedlessness of his enemies, presented to him, ordered one of his captains to try to occupy with a competent number of soldiers one of those two crags, while he himself engaged the besieged on the opposite side. He began, then, to climb with the utmost toil; but when he reached a post as high as that where the enemy were, he saw the Spanish banner raised on one of the crags or cavaliers. The enemy, finding themselves attacked on two sides, and having already begun to feel the damage which the firearms did them, surrendered. Cortés received them with singular humanity; but required of them, as a necessary condition for obtaining pardon, that they should induce likewise to surrender those who occupied the first mountain, as in fact happened.
 
 Cortés, now free of these embarrassments, set out through
 
@@ -7376,11 +6744,7 @@ Cortés, now free of these embarrassments, set out through
 
 Ancient History of Mexico, Vol. III.             Aa                      While
 
-(*) The name Quauhnahuac is one of those most altered by the Spaniards. Cortés calls this city Coadnabaced, Bernal Díaz Coadalbaca, Solís Quatlabaca, etc. The name Cuernabaca then prevailed, by which it is at present known to the Spaniards; but the Indians retain the ancient Quauhnahuac. It is one of the thirty places which Charles V gave to Cortés, and today is part of the estates of the Lord Duke of Monteleone, as Marquis del Valle de Oaxaca,
-
-[p. 186]
-
-While they were looking for a suitable place to make the assault, the Bk. X.
+(*) The name Quauhnahuac is one of those most altered by the Spaniards. Cortés calls this city Coadnabaced, Bernal Díaz Coadalbaca, Solís Quatlabaca, etc. The name Cuernabaca then prevailed, by which it is at present known to the Spaniards; but the Indians retain the ancient Quauhnahuac. It is one of the thirty places which Charles V gave to Cortés, and today is part of the estates of the Lord Duke of Monteleone, as Marquis del Valle de Oaxaca, [p. 186] While they were looking for a suitable place to make the assault, the Bk. X.
 
 people of Cuauhnahuac shot at them an indescribable quantity of ar‐
 
@@ -7444,11 +6808,7 @@ the trees of the ravine; but he does not give himself the glory of having been t
 
 to cross, nor of having suggested the plan. See what Cortés, Gómara, Herrera, etc.,
 
-say of it.
-
-[p. 187]
-
-pines, where it suffered great thirst, and the next day found itself near
+say of it. [p. 187] pines, where it suffered great thirst, and the next day found itself near
 
 Bk. X. the city of Xochimilco. This beautiful city, the largest after the courts of all those of the Mexican valley, was founded on the shore of the § 11. lake of Chalco, little more than twelve miles from the capital. Its Conquest       of
 
@@ -7456,11 +6816,7 @@ Xochimilco. population was very numerous, its temples many, its buildings magnif
 
 Aa2               on
 
-(*) Xochimilco means gardens, and fields of flowers.
-
-[p. 188]
-
-on foot with his lance; but, overwhelmed by the enemy, he could not Bk. X.
+(*) Xochimilco means gardens, and fields of flowers. [p. 188] on foot with his lance; but, overwhelmed by the enemy, he could not Bk. X.
 
 have avoided his ruin if a valiant Tlaxcalan, (o) and behind him two
 
@@ -7524,11 +6880,7 @@ dote; for Bernal Díaz and Gómara, and, what is more, Cortés himself, affirm t
 
 one who came to his aid was a Tlaxcalan, without making any mention of that Saint,
 
-or of that man’s afterward having vanished.
-
-[p. 189]
-
-of the Mexicans toward that city. The general divided his army into
+or of that man’s afterward having vanished. [p. 189] of the Mexicans toward that city. The general divided his army into
 
 Bk. X. three columns, and gave his captains the most opportune orders; he left some troops as a garrison in the quarters, and commanded that twenty horse with five hundred Tlaxcalans should pass through the enemy to occupy a neighboring hillock, and there await his further orders to attack. The Mexican commanders came full of pride, displaying certain European swords taken from the Spaniards in the defeat of July 1. The battle was fought outside the city, and when it seemed good to Cortés he ordered the troop posted on the hillock to assail the Mexicans from behind. These, seeing themselves attacked on every side, fell into confusion and fled, leaving five hundred dead on the field. The Spaniards, returned to their quarters, learned that the troop left there had been in great danger because of the multitude of Xochimilcas who had fought it. Cortés, after having been three days in Xochimilco in frequent fights with the enemy, had fire set to the temples and houses, and went to the market, which was outside the city, to order his men for the march. The Xochimilcas, persuading themselves that their departure was an effect of fear, attacked the rear guard with loud cries; but they were so thoroughly beaten by the Spaniards that they did not dare to assail them again.
 
@@ -7536,11 +6888,7 @@ Cortés advanced with his army as far as Coyoacán, a large city situ‐ § 12. 
 
 lakes to Texcoco. ter to arrange the siege of the capital. He found the city deserted, and the next day went out from it to reconnoiter the road that led from that city as far as the causeway of Iztapalapa. He found there an entrenchment made by the Mexicans, and ordered the infantry to attack it, and in spite of the terrible resistance of the enemy who defended it they stormed it, ten Spaniards being wounded and some Mexicans killed. Having climbed the entrenchment, Cortés saw the causeway of Iztapalapa crowded with an innumerable multitude of enemies, and the lake with some thousands of boats, and after having observed
 
-all
-
-[p. 190]
-
-all that suited his plan, he returned to the city, whose temples and
+all [p. 190] all that suited his plan, he returned to the city, whose temples and
 
 Bk. X.
 
@@ -7606,11 +6954,7 @@ canal was half a league in length, 12 feet in breadth, and where least, four Spa
 
 braccia in depth; but I believe that there is some mistake about the breadth, and I do
 
-not doubt that it was more than 12 feet.
-
-[p. 191]
-
-with those who a few days before had come from Spain in a ship that
+not doubt that it was more than 12 feet. [p. 191] with those who a few days before had come from Spain in a ship that
 
 Bk. X. put in at the port of Veracruz, laden with horses, arms, and munitions of war. Everything seemed to point to a happy outcome, when the enterprise fell into the greatest danger of being ruined. Certain Spanish soldiers, partisans of the governor of Cuba, moved by hatred of Cortés, or by envy of his glory, or, what seems more likely, by fear of the perils that awaited them in the siege of the capital, agreed secretly to take the life of Cortés, of his captains Alvarado, Sandoval, and Tapia, and of all those whom they saw more attached to the party of that general. The conspirators had not only determined the time and the manner of carrying out the blow safely, but had even chosen those on whom the vacant offices of general, judge, and captains were to be conferred; but one of the accomplices, repenting of his crime, opportunely revealed the treachery to Cortés. The general immediately had Antonio de Villafaña, the head of the conspiracy, seized and committed the examination of the culprit to a judge; and when the culprit frankly confessed his crime, he was hanged by sentence of justice from a window of the quarters. Toward the accomplices Cortés prudently dissembled, pretending not to believe them guilty and attributing to the malice of Villafaña the infamy that resulted against them from his confession; but so that in the future his life might not be so exposed to such dangers, he created a bodyguard composed of several soldiers, of whose fidelity and courage he was well assured, who accompanied him by day and by night and kept constant watch over the preservation of his person.
 
@@ -7618,11 +6962,7 @@ The conspiracy having thus been prevented by the punishment of § 14. its princi
 
 the siege of Mexico. giving the last touch to his great enterprise. On April 28, after the Mass of the Holy Spirit had been celebrated, at which all the Spaniards received communion, and after the brigantines had been blessed by a priest, these were launched into the water, and, spreading their sails at once, began
 
-to
-
-[p. 192]
-
-to sail over the lake to the firing of the artillery and muskets, which Bk. X.
+to [p. 192] to sail over the lake to the firing of the artillery and muskets, which Bk. X.
 
 was followed by the singing of the Te Deum with the music of the mil‐
 
@@ -7688,11 +7028,7 @@ commanders, and to assign to each of them the place where he was to
 
 pitch
 
-his
-
-[p. 193]
-
-camp, and the troops that were to be under him, and to publish anew the military edict already published in Tlaxcala. He ordered Pedro de Bk. X. Alvarado to encamp in the city of Tlacopan, to prevent any relief
+his [p. 193] camp, and the troops that were to be under him, and to publish anew the military edict already published in Tlaxcala. He ordered Pedro de Bk. X. Alvarado to encamp in the city of Tlacopan, to prevent any relief
 
 § 15. from entering by that side for the Mexicans, and assigned him thirty Disposition of the horse, a hundred and sixty-eight Spanish foot, distributed in three army     in the siege of
 
@@ -7700,11 +7036,7 @@ the capital. companies under as many captains, and twenty-five thousand Tlaxcala
 
 Ancient History of Mexico, Vol. III.                   Bb                     increased
 
-(q) Herrera and Solís count a hundred thousand allies assigned to the three camps; Bernal Díaz, on the contrary, counts no more than twenty-four thousand, eight thousand for each camp. We give greater credence to Cortés, as one who better than anyone else knew the number of troops assigned to each commander. Solís says that Bernal Díaz complains many times that the allies gave them more hindrance than help; but this is false, for on the contrary the said Díaz often boasts of the great help they had from the allies, and of their courage in fighting against the Mexicans. Our friends the Tlaxcalans, he says in ch. 151, helped us very well throughout the whole war, like courageous men. His whole History is full of such expressions, as may also
-
-[p. 194]
-
-increased, as we shall see, to two hundred thousand and more. All the other
+(q) Herrera and Solís count a hundred thousand allies assigned to the three camps; Bernal Díaz, on the contrary, counts no more than twenty-four thousand, eight thousand for each camp. We give greater credence to Cortés, as one who better than anyone else knew the number of troops assigned to each commander. Solís says that Bernal Díaz complains many times that the allies gave them more hindrance than help; but this is false, for on the contrary the said Díaz often boasts of the great help they had from the allies, and of their courage in fighting against the Mexicans. Our friends the Tlaxcalans, he says in ch. 151, helped us very well throughout the whole war, like courageous men. His whole History is full of such expressions, as may also [p. 194] increased, as we shall see, to two hundred thousand and more. All the other
 
 Bk. X.
 
@@ -7768,21 +7100,13 @@ a lady. In my account of this event I follow Torquemada and Herrera, because the
 
 the manuscripts of Ojeda and of Camargo, who were quite well informed. To Solís it seems
 
-incredible
-
-[p. 195]
-
-or in a place near it, as Bernal Díaz affirms, a crier having first published the cause of his sentence, which was that of having deserted Bk. X. and of having stirred up the Tlaxcalans against the Spaniards. It is to be believed that Cortés did not risk the execution of such a punishment without having first obtained, as Herrera expressly affirms, the consent of the senate of Tlaxcala; which was not difficult, considering their severity in punishing crimes even in the most conspicuous persons, and the particular hatred they bore that prince, whose pride they could no longer endure. So resounding a punishment, which should naturally have stirred up the minds of the Tlaxcalans against the Spaniards, so terrified both them and the other allies that from then on they observed the laws of military service more punctually and kept themselves more subordinate to those foreign leaders, the Spaniards drawing profit even from their own faults; but the Tlaxcalans did not fear to make some demonstrations of esteem and veneration toward their prince, weeping for his death, distributing among themselves his garments as precious relics, and celebrating, as is to be believed, his obsequies with due magnificence. The family and goods of Xicotencatl were adjudged to the King of Spain and carried to Texcoco. In the family there were thirty wives, and among the goods a great quantity of gold.
+incredible [p. 195] or in a place near it, as Bernal Díaz affirms, a crier having first published the cause of his sentence, which was that of having deserted Bk. X. and of having stirred up the Tlaxcalans against the Spaniards. It is to be believed that Cortés did not risk the execution of such a punishment without having first obtained, as Herrera expressly affirms, the consent of the senate of Tlaxcala; which was not difficult, considering their severity in punishing crimes even in the most conspicuous persons, and the particular hatred they bore that prince, whose pride they could no longer endure. So resounding a punishment, which should naturally have stirred up the minds of the Tlaxcalans against the Spaniards, so terrified both them and the other allies that from then on they observed the laws of military service more punctually and kept themselves more subordinate to those foreign leaders, the Spaniards drawing profit even from their own faults; but the Tlaxcalans did not fear to make some demonstrations of esteem and veneration toward their prince, weeping for his death, distributing among themselves his garments as precious relics, and celebrating, as is to be believed, his obsequies with due magnificence. The family and goods of Xicotencatl were adjudged to the King of Spain and carried to Texcoco. In the family there were thirty wives, and among the goods a great quantity of gold.
 
 Alvarado and Olid continued their march toward Tlacopan, whence they went on to break the aqueduct of Chapultepec
 
 Bb2                            to
 
-that Xicotencatl was put to death in Texcoco: “because it would have been too great a risk for Cortés to resolve upon so violent an execution under the eyes of so great a number of Tlaxcalans, to whom the ignominious punishment inflicted on one of the foremost men of their nation must necessarily have been distressing;” but Cortés risked far more in imprisoning King Moctezuma in his own court, and under the eyes of an incomparably greater number of Mexicans, to whom that great affront done to the first man of their nation must without fail have been distressing. If in the Conquest of Mexico no other deeds equally rash had intervened, the reasoning of Solís would perhaps be effective; besides which, Cortés did not, according to Herrera, give sentence against Xicotencatl without the consent of the senate of Tlaxcala, and I do not doubt that in the name of that same senate it was published.
-
-[p. 196]
-
-to deprive the Mexicans of water; but they could not carry out so im‐
+that Xicotencatl was put to death in Texcoco: “because it would have been too great a risk for Cortés to resolve upon so violent an execution under the eyes of so great a number of Tlaxcalans, to whom the ignominious punishment inflicted on one of the foremost men of their nation must necessarily have been distressing;” but Cortés risked far more in imprisoning King Moctezuma in his own court, and under the eyes of an incomparably greater number of Mexicans, to whom that great affront done to the first man of their nation must without fail have been distressing. If in the Conquest of Mexico no other deeds equally rash had intervened, the reasoning of Solís would perhaps be effective; besides which, Cortés did not, according to Herrera, give sentence against Xicotencatl without the consent of the senate of Tlaxcala, and I do not doubt that in the name of that same senate it was published. [p. 196] to deprive the Mexicans of water; but they could not carry out so im‐
 
 Bk. X. portant a hostile act without great resistance from the enemy, who,
 
@@ -7846,11 +7170,7 @@ resolved
 
 from Texcoco; but this was a mistake of that author, who should have said Pedro de
 
-Alvarado in place of Gonzalo de Sandoval.
-
-[p. 197]
-
-resolved to defend themselves and to injure the Spaniards as much as
+Alvarado in place of Gonzalo de Sandoval. [p. 197] resolved to defend themselves and to injure the Spaniards as much as
 
 Bk. X. they could. (s) Cortés landed there, and overcoming with a hundred and fifty men the roughness and difficulty of the ascent and the resistance of the enemy, he took the hill by storm, with the killing of all who defended it. (t) But hardly had they taken it when they saw a great fleet of boats (u) coming against them, summoned by the signals of the smoke that at the first appearance of the brigantines had been made both on that hill and in some temples of those surroundings. The Spaniards embarked at once and stood on the defensive without moving until, aided by a strong wind that opportunely arose, and increasing the speed of the brigantines by the impulse of the oars, they dashed against the boats, breaking some and capsizing others by the shock. Some of the enemy perished wounded by the balls, and many were drowned. All the other boats fled, pursued for more than eight miles by the brigantines as far as the capital.
 
@@ -7862,11 +7182,7 @@ and
 
 (t) Solís says that Cortés spared the lives of the greater part of those who defended the hillock of the lake; but Cortés himself affirms that not one of them escaped with his life. This hill, in memory of the victory won by Cortés, has been called from then until now the Peñón del Marqués, that is, the Marquis’s rock.
 
-(u) Bernal Díaz says that the fleet that came against Cortés was composed of all the boats to be found in Mexico and in all the places situated on the lake, but this is a wild hyperbole. Solís affirms that that fleet consisted of four thousand canoes; but Cortés, who commanded the brigantines and had a greater interest than either Bernal Díaz or Solís in exaggerating the number of the enemy boats in order to make his victory more famous, says only that they were more than five hundred.
-
-[p. 198]
-
-and went with them to attack the bulwark, which was situated, as we Bk. X.
+(u) Bernal Díaz says that the fleet that came against Cortés was composed of all the boats to be found in Mexico and in all the places situated on the lake, but this is a wild hyperbole. Solís affirms that that fleet consisted of four thousand canoes; but Cortés, who commanded the brigantines and had a greater interest than either Bernal Díaz or Solís in exaggerating the number of the enemy boats in order to make his victory more famous, says only that they were more than five hundred. [p. 198] and went with them to attack the bulwark, which was situated, as we Bk. X.
 
 have already said, at that angle which the causeway of Coyoacán
 
@@ -7936,19 +7252,11 @@ thing so notable.
 
 this is altogether contrary to the truth, and to the account of Cortés himself, who af‐
 
-firms that his camp was half a league distant from the city.
-
-[p. 199]
-
-they nevertheless forced them, with the fire of the artillery and mus‐ Bk. X. kets, to retire to the city. The next day they found themselves assailed by a prodigious multitude of warriors, who with frightful shouts magnified their number in the imagination of the Spaniards. Cortés, the relief that he was awaiting from Coyoacán having opportunely arrived, made a sortie with his men drawn up in battle order. They fought on both sides with great courage and obstinacy; but the Spaniards and their allies took a ditch and an entrenchment, and with the artillery and the horses did the Mexicans so much harm that they obliged them to take refuge in the city; and because on the side of the lake that lay to the west of the causeway they were troubled by the Mexican boats, Cortés had a ditch of the causeway widened so that the brigantines could pass through it, and these hurled themselves impetuously against them, pursued them as far as the city, and set fire to some houses of the suburbs.
+firms that his camp was half a league distant from the city. [p. 199] they nevertheless forced them, with the fire of the artillery and mus‐ Bk. X. kets, to retire to the city. The next day they found themselves assailed by a prodigious multitude of warriors, who with frightful shouts magnified their number in the imagination of the Spaniards. Cortés, the relief that he was awaiting from Coyoacán having opportunely arrived, made a sortie with his men drawn up in battle order. They fought on both sides with great courage and obstinacy; but the Spaniards and their allies took a ditch and an entrenchment, and with the artillery and the horses did the Mexicans so much harm that they obliged them to take refuge in the city; and because on the side of the lake that lay to the west of the causeway they were troubled by the Mexican boats, Cortés had a ditch of the causeway widened so that the brigantines could pass through it, and these hurled themselves impetuously against them, pursued them as far as the city, and set fire to some houses of the suburbs.
 
 Meanwhile Sandoval, having happily completed, though not without great risk, the expedition of Iztapalapa, marched with his troops toward Coyoacán. On the road he was attacked by the troops of Mexicaltzinco; but he defeated them, and had fire set to their city. Cortés, aware of his march and of a great ditch that had recently been made in the causeway, sent him two brigantines to facilitate the passage of the army. The latter marched toward Coyoacán, and Sandoval went with ten horse to the camp of Cortés. When he arrived there he found those Spaniards in combat with the Mexicans. The fatigue of the journey and of the battle of Mexicaltzinco did not suffice to keep him from the fray. He fought as usual with courage, but in the fighting his leg was pierced by a dart, and along with him many other Spaniards were also wounded. These advantages gained by the Mexicans are not to be compared with the loss that they suffered that day, nor with the fear that the fire of the artillery caused them, which was so great that for many days they did not dare to approach the camp of the Spaniards. These spent six days in continual
 
-fights
-
-[p. 200]
-
-fights: the brigantines, circling around the city, set fire to many hous‐
+fights [p. 200] fights: the brigantines, circling around the city, set fire to many hous‐
 
 Bk. X.
 
@@ -8016,19 +7324,11 @@ the east there was not, nor could there be, any causeway, because of the depth o
 
 lake. Sandoval encamped not in Texcoco, from which it was impossible to assail
 
-Mexico, but in Tepeyacac toward the north.
-
-[p. 201]
-
-number fewer than eighty thousand men. Cortés marched along his
+Mexico, but in Tepeyacac toward the north. [p. 201] number fewer than eighty thousand men. Cortés marched along his
 
 Bk. X. causeway with his numerous army well ordered and flanked by the brigantines, and having scarcely gone a little way he came upon a wide and deep ditch and an entrenchment more than ten feet high. The Mexicans courageously opposed their passage, but, driven back by the artillery of the brigantines, the Spaniards passed on, pressing them as far as the city, where they found another great ditch and a strong and high entrenchment. The force of the water in this ditch, the throng of enemies who had gathered to the defense, their frightful and threatening cries, and the thick rain of arrows, darts, and stones that they shot, held up for some time the resolution of the Spaniards; but having finally, with the discharge of all the artillery and of all the firearms, driven from the entrenchment those who defended it, the army passed over it, and advanced taking other ditches and entrenchments as far as a principal square of the city, which was full of people. In spite of the slaughter that they saw being made in the multitude by a great cannon planted at the entrance of the square, the Spaniards did not dare to enter it, until the general himself, reproaching them for that ignominious fear, and hurling himself intrepidly against the enemy, put courage into his soldiers. The Mexicans, terrified by so great an intrepidity, fled into the enclosure of the great temple, and seeing themselves still assailed there, took refuge in the upper courts of the temples, where they were likewise pursued; but suddenly the Spaniards found themselves attacked from behind by other Mexican troops, and put in such a strait that, being unable to sustain the fury of the enemy either within the enclosure of the temple or outside in the neighboring square, they were forced to retire to the causeway by which they had entered the city, leaving the cannon of artillery in the power of the enemy. Shortly after, three or four horse arrived opportunely in the square, and the Mexicans, persuaded that all the cavalry was coming against them, were thrown into confusion by the fear they had of those great and fiery beasts, and abandoned ignominiously
 
-Ancient History of Mexico, Vol. III.        Cc                       the
-
-[p. 202]
-
-the temple and the square, which were occupied without delay by the
+Ancient History of Mexico, Vol. III.        Cc                       the [p. 202] the temple and the square, which were occupied without delay by the
 
 Bk. X.
 
@@ -8100,11 +7400,7 @@ the beginning of this year until the conquest. He was taken prisoner together wi
 
 King Cuauhtémoc, and was likewise executed with him three years later at
 
-Izancanac, when both were traveling with Cortés toward Comayagua.
-
-[p. 203]
-
-thousand men in Cortés’s camp, and the other twenty thousand were
+Izancanac, when both were traveling with Cortés toward Comayagua. [p. 203] thousand men in Cortés’s camp, and the other twenty thousand were
 
 Bk. X. divided among the camps of Sandoval and of Alvarado. This aid from the Texcocans was soon followed by the confederation of the Xochimilcas and of the mountain Otomis with the Spaniards, which new troops increased Cortés’s army by twenty thousand men.
 
@@ -8178,11 +7474,7 @@ building than a temple, which was at that point where, the causeway widening, it
 
 formed a little square. This temple was taken by Alvarado, who kept a garrison in it
 
-almost all the time of the siege.
-
-[p. 205]
-
-the mainland, as Cortés and Bernal Díaz attest.
+almost all the time of the siege. [p. 205] the mainland, as Cortés and Bernal Díaz attest.
 
 Cortés would have liked to spare his troops the great fatigue of re‐ Bk. X. peating every day the fights to take the same ditches and the same entrenchments; but neither could he leave a garrison there to preserve what had been gained without sacrificing it to the fury of the enemy, nor did he wish to encamp inside the city, as some of his captains advised him; because, besides the continual assaults that they would have to endure day and night from the enemy, they could not from there so easily prevent the relief that came to the city as from the post of Xoloc.
 
@@ -8256,11 +7548,7 @@ eighty thousand men, because Cortés affirms that “that day there were more th
 
 hundred thousand in his camp,” of whom twenty or twenty-two thousand must have
 
-been employed in the two fleets of boats.
-
-[p. 207]
-
-and advancing every day somewhat farther, with the aim of opening communication with Alvarado’s camp, though at that time it was not Bk. X. possible for him to obtain it.
+been employed in the two fleets of boats. [p. 207] and advancing every day somewhat farther, with the aim of opening communication with Alvarado’s camp, though at that time it was not Bk. X. possible for him to obtain it.
 
 Alvarado with his troops, seconded by the brigantines, had already § 22.
 
@@ -8344,11 +7632,7 @@ by order of the king. This treachery appears neither to have been
 
 counseled nor carried out,
 
-except
-
-[p. 209]
-
-except by a part of the rabble of those cities, ill-bred people, ever
+except [p. 209] except by a part of the rabble of those cities, ill-bred people, ever
 
 Bk. X. ready for such crimes.
 
@@ -8360,11 +7644,7 @@ Mexicans. of so many fights, the fruit of which they still saw far off, complain
 
 On the appointed day for the general assault Cortés marched with twenty-five horse, with all his infantry, and with more than a hundred thousand allies. His brigantines, with more than three thousand auxiliary boats, formed the wings of his army on either side of the causeway. He entered the city without any opposition, and at once divided his army into three parts, so that by as many streets they might arrive at the same hour at the market square. The command of the first division was given to Julián de Alderete, the king’s treasurer, who
 
-Ancient History of Mexico, Vol. III.       Dd                      had
-
-[p. 210]
-
-had been the one who with greatest zeal had urged Cortés to underBk. X. take this expedition, and he was ordered to proceed by the main and
+Ancient History of Mexico, Vol. III.       Dd                      had [p. 210] had been the one who with greatest zeal had urged Cortés to underBk. X. take this expedition, and he was ordered to proceed by the main and
 
 widest street with seventy Spanish foot, seven horse, and twenty
 
@@ -8424,11 +7704,7 @@ lished by the accounts of Cortés and other historians that the said ditch was b
 
 the main causeway of Tlacopan and the market square, and that to go to their camp
 
-the Spaniards had to cross the greater part of the city.
-
-[p. 211]
-
-of the fugitives; for, being unable to swim across and defend themselves at the same time, they were wounded and taken by the Bk. X. Mexicans. Cortés, who with the diligence proper to a good general had come to the ditch when the routed troops arrived there, tried to stop them with his shouts, so that they should not by their disorder facilitate the slaughter begun to be made by the enemy; but what voices are capable of restraining the flight of a confused multitude, to which fear lends speed? Pierced by the keenest grief for the loss of his men, and heedless of his own danger, he approached the ditch to rescue those he could. Some came out unarmed, others wounded, and others half drowned. He tried to put them in order and to start them toward the camp, remaining himself behind with twelve or twenty men to guard their rear; but he had scarcely begun to march when he found himself in a narrow pass surrounded by the enemy. That day would have been his last, in spite of the extraordinary courage with which he defended himself, and together with his life all hope of the conquest of Mexico would have been lost, if the Mexicans, instead of giving him death, as they easily could, had not been intent on taking him alive, to honor with so illustrious a victim their gods. They had already taken him, and were leading him without delay to the sacrifice, if his men, warned of his captivity, had not promptly come to free him. Cortés owed his life and his liberty chiefly to a soldier of his guard called Cristóbal de Olea, a man of great courage and singular skill in arms, (*) who on another occasion had delivered him from a like danger, and in this one saved him at the cost of his own life, cutting off with a stroke of his sword the arm of that Mexican who had seized him. Cortés was also indebted for his liberty to the prince Don Carlos Ixtlilxochitl, and to a brave Tlaxcalan called Temacatzin.
+the Spaniards had to cross the greater part of the city. [p. 211] of the fugitives; for, being unable to swim across and defend themselves at the same time, they were wounded and taken by the Bk. X. Mexicans. Cortés, who with the diligence proper to a good general had come to the ditch when the routed troops arrived there, tried to stop them with his shouts, so that they should not by their disorder facilitate the slaughter begun to be made by the enemy; but what voices are capable of restraining the flight of a confused multitude, to which fear lends speed? Pierced by the keenest grief for the loss of his men, and heedless of his own danger, he approached the ditch to rescue those he could. Some came out unarmed, others wounded, and others half drowned. He tried to put them in order and to start them toward the camp, remaining himself behind with twelve or twenty men to guard their rear; but he had scarcely begun to march when he found himself in a narrow pass surrounded by the enemy. That day would have been his last, in spite of the extraordinary courage with which he defended himself, and together with his life all hope of the conquest of Mexico would have been lost, if the Mexicans, instead of giving him death, as they easily could, had not been intent on taking him alive, to honor with so illustrious a victim their gods. They had already taken him, and were leading him without delay to the sacrifice, if his men, warned of his captivity, had not promptly come to free him. Cortés owed his life and his liberty chiefly to a soldier of his guard called Cristóbal de Olea, a man of great courage and singular skill in arms, (*) who on another occasion had delivered him from a like danger, and in this one saved him at the cost of his own life, cutting off with a stroke of his sword the arm of that Mexican who had seized him. Cortés was also indebted for his liberty to the prince Don Carlos Ixtlilxochitl, and to a brave Tlaxcalan called Temacatzin.
 
 Dd2                           At
 
@@ -8496,11 +7772,7 @@ of Tlatelolco in sight of Alvarado’s men. The captain of a brigantine
 
 was also killed. Cortés received a wound
 
-in
-
-[p. 213]
-
-in a leg, and scarcely was there one among the besiegers who was not wounded or ill-treated. (D)                                             Bk. X.
+in [p. 213] in a leg, and scarcely was there one among the besiegers who was not wounded or ill-treated. (D)                                             Bk. X.
 
 The Mexicans celebrated the victory for eight continuous days with illuminations and music in the temples; they made the fame fly through the whole kingdom, and had the heads of the slain Spaniards carried through the provinces to frighten those that had rebelled against the crown and to recall them to their obedience, as in fact they obtained it from some. They dug out the ditches anew, repaired the entrenchments, and restored the city, except the temples and the houses ruined by the enemy, to the state in which it had been before the siege began.
 
@@ -8510,11 +7782,7 @@ of the brigantending their wounds and refreshing themselves for the fights to ti
 
 they
 
-(D) Cortés counts no more than thirty-five or forty Spaniards killed, nor more than twenty wounded, but, following the example of other generals, he diminishes his losses, as he did in giving the account of the defeat of July 1 of the preceding year; whence it seemed to us better to follow Bernal Díaz on this point, who shows that he took particular care to count the Spaniards who were being lost.
-
-[p. 214]
-
-they might lead them, in flight, to the place of the ambush. The Spaniards, as
+(D) Cortés counts no more than thirty-five or forty Spaniards killed, nor more than twenty wounded, but, following the example of other generals, he diminishes his losses, as he did in giving the account of the defeat of July 1 of the preceding year; whence it seemed to us better to follow Bernal Díaz on this point, who shows that he took particular care to count the Spaniards who were being lost. [p. 214] they might lead them, in flight, to the place of the ambush. The Spaniards, as
 
 Bk. X.
 
@@ -8574,11 +7842,7 @@ Spaniards did not enter that court to commit hostilities, it would suffice
 
 merely to cut off their relief to make them die
 
-of
-
-[p. 215]
-
-of hunger; that they could still avoid the disasters that threatened them; that if they consented to the proposals of peace, he would at Bk. X. once cause all hostilities to cease, the king would remain in peaceful possession of the crown, with all the greatness, all the power, and all the authority which he had hitherto enjoyed, and his subjects would remain free and masters of all their goods, without his requiring anything more from His Majesty or from his subjects than the homage due to the King of Spain, as supreme lord of that empire, whose rights had already been recognized by the Mexicans themselves, as resting on the ancient tradition of their ancestors; that if on the contrary he persisted in the war, he would be deprived of the crown, the greater part of his vassals would lose their lives, and that fine and great city would be utterly ruined. The king consulted his councilors, the generals of the army, and the heads of religion; he laid before them the subject of the embassy, the state of that court, the scarcity of provisions, the affliction of the people, and the still greater evils that threatened them, and commanded them to say freely what they thought. Some, foreseeing the outcome of the war, inclined toward peace; others, spurred by hatred of the Spaniards or by the incentive of honor, advised war. The priests, whose authority in this matter as in others was held in the highest respect, strongly opposed peace, alleging several pretended oracles of their gods, whose anger was to be feared if they yielded to the demands of those cruel enemies of their worship, and whose protection had to be sought with prayers and sacrifices. This opinion prevailed in the end, through the superstitious fear that had taken possession of their minds, and in accordance with it the Spanish general was answered that he should continue the war, since they had resolved to defend themselves to their last breath. Had they been brought to such a resolution not by superstition but by honor, by love of their country and of their own liberty, they would not have been so blameworthy, because although they foresaw their ruin as inevitable by continuing the war,
+of [p. 215] of hunger; that they could still avoid the disasters that threatened them; that if they consented to the proposals of peace, he would at Bk. X. once cause all hostilities to cease, the king would remain in peaceful possession of the crown, with all the greatness, all the power, and all the authority which he had hitherto enjoyed, and his subjects would remain free and masters of all their goods, without his requiring anything more from His Majesty or from his subjects than the homage due to the King of Spain, as supreme lord of that empire, whose rights had already been recognized by the Mexicans themselves, as resting on the ancient tradition of their ancestors; that if on the contrary he persisted in the war, he would be deprived of the crown, the greater part of his vassals would lose their lives, and that fine and great city would be utterly ruined. The king consulted his councilors, the generals of the army, and the heads of religion; he laid before them the subject of the embassy, the state of that court, the scarcity of provisions, the affliction of the people, and the still greater evils that threatened them, and commanded them to say freely what they thought. Some, foreseeing the outcome of the war, inclined toward peace; others, spurred by hatred of the Spaniards or by the incentive of honor, advised war. The priests, whose authority in this matter as in others was held in the highest respect, strongly opposed peace, alleging several pretended oracles of their gods, whose anger was to be feared if they yielded to the demands of those cruel enemies of their worship, and whose protection had to be sought with prayers and sacrifices. This opinion prevailed in the end, through the superstitious fear that had taken possession of their minds, and in accordance with it the Spanish general was answered that he should continue the war, since they had resolved to defend themselves to their last breath. Had they been brought to such a resolution not by superstition but by honor, by love of their country and of their own liberty, they would not have been so blameworthy, because although they foresaw their ruin as inevitable by continuing the war,
 
 ## they
 
@@ -8652,17 +7916,9 @@ the Otomis of the Valley of Toluca, asking help against the
 
 Matlatzincas, a powerful and warlike nation of the
 
-same
+same [p. 217] same valley, who were making continual war upon them, had burned one of their towns and had taken many of them prisoner, and who, Bk. X. besides this, had agreed with the Mexicans to attack Cortés's camp with all their forces from the mainland side at the same time as the Mexicans should attack it from the side of the city. On entering Mexico, the Spaniards had sometimes heard the Mexicans threaten them with the power of the Matlatzincas, and Cortés now perceived, from the report of the Otomis, the great danger he would run if he gave the enemy time to carry out their design. He would entrust this important expedition to no one but the brave and invincible Sandoval. This tireless man, although he had been wounded on the day of Cortés's defeat, had in the days that followed acted as general, going ceaselessly around all three camps and giving the most opportune orders for their security. Scarcely fourteen days had passed since the defeat when he marched toward the Valley of Toluca with eighteen horse, a hundred Spanish foot, and sixty thousand allies. On the way they saw some signs of the slaughter made there by the Matlatzincas, and when they entered the valley they found a place freshly ruined, and saw the enemy troops going laden with spoils, which they abandoned as soon as the Spaniards appeared, wishing to be less encumbered for the battle. They crossed a river that traverses the valley, and remained on its bank to await the Spaniards. Sandoval crossed it intrepidly with his army, attacked the enemy, put them to flight, and pursued them for a good nine miles to a city where they took refuge, leaving more than a thousand Matlatzincas dead on the field. Sandoval besieged the city and forced the enemy to abandon it and to take shelter in a fortress built on the top of a steep mountain. The victorious army entered the city, and after sacking it they set fire to the buildings; and because it was late and the troops were too weary, the assault on the fortress was put off until the next day, when, expecting to have
 
-[p. 217]
-
-same valley, who were making continual war upon them, had burned one of their towns and had taken many of them prisoner, and who, Bk. X. besides this, had agreed with the Mexicans to attack Cortés's camp with all their forces from the mainland side at the same time as the Mexicans should attack it from the side of the city. On entering Mexico, the Spaniards had sometimes heard the Mexicans threaten them with the power of the Matlatzincas, and Cortés now perceived, from the report of the Otomis, the great danger he would run if he gave the enemy time to carry out their design. He would entrust this important expedition to no one but the brave and invincible Sandoval. This tireless man, although he had been wounded on the day of Cortés's defeat, had in the days that followed acted as general, going ceaselessly around all three camps and giving the most opportune orders for their security. Scarcely fourteen days had passed since the defeat when he marched toward the Valley of Toluca with eighteen horse, a hundred Spanish foot, and sixty thousand allies. On the way they saw some signs of the slaughter made there by the Matlatzincas, and when they entered the valley they found a place freshly ruined, and saw the enemy troops going laden with spoils, which they abandoned as soon as the Spaniards appeared, wishing to be less encumbered for the battle. They crossed a river that traverses the valley, and remained on its bank to await the Spaniards. Sandoval crossed it intrepidly with his army, attacked the enemy, put them to flight, and pursued them for a good nine miles to a city where they took refuge, leaving more than a thousand Matlatzincas dead on the field. Sandoval besieged the city and forced the enemy to abandon it and to take shelter in a fortress built on the top of a steep mountain. The victorious army entered the city, and after sacking it they set fire to the buildings; and because it was late and the troops were too weary, the assault on the fortress was put off until the next day, when, expecting to have
-
-Ancient History of Mexico, Vol. III.   Ee                      a
-
-[p. 218]
-
-a great struggle, they found the fortress empty. Sandoval resolved to Bk. X.
+Ancient History of Mexico, Vol. III.   Ee                      a [p. 218] a great struggle, they found the fortress empty. Sandoval resolved to Bk. X.
 
 pass, on his return, through some places that had likewise declared
 
@@ -8726,11 +7982,7 @@ know that there was a great province called Cohuixco. Huisuco (among the Mexican
 
 Huitzoco) was, and even today is, an obscure place, and by no means a great prov‐
 
-ince, as that of Cuisco was, according to what Cortés himself affirms.
-
-[p. 219]
-
-besides the external enemies, more than half of the empire had conspired in its ruin, and the other half at least did not favor it.      Bk. X.
+ince, as that of Cuisco was, according to what Cortés himself affirms. [p. 219] besides the external enemies, more than half of the empire had conspired in its ruin, and the other half at least did not favor it.      Bk. X.
 
 While the commander Sandoval was employing his courage
 
@@ -8822,11 +8074,7 @@ On July 24 a new entry was made into the city
 
 with
 
-(*) These women were called María de Estrada, of whose courage we have made mention elsewhere, Beatriz Bermúdez de Velasco, Juana Martín, Isabel Rodríguez, and Beatriz de Palacios.
-
-[p. 222]
-
-with a larger number of troops than on the other occasions, (G) and Bk. X.
+(*) These women were called María de Estrada, of whose courage we have made mention elsewhere, Beatriz Bermúdez de Velasco, Juana Martín, Isabel Rodríguez, and Beatriz de Palacios. [p. 222] with a larger number of troops than on the other occasions, (G) and Bk. X.
 
 fighting vigorously, the Spaniards made themselves masters of that
 
@@ -8886,21 +8134,13 @@ but
 
 (G) Cortés says that the allies, when they saw the success of the Spanish arms,
 
-came in such great numbers to serve in the siege that they could not be counted.
-
-[p. 223]
-
-but if you are vanquished, you yourselves will rebuild them, so that
+came in such great numbers to serve in the siege that they could not be counted. [p. 223] but if you are vanquished, you yourselves will rebuild them, so that
 
 Bk. X. your enemies may live in them.” Now, unable to repair the buildings, the Mexicans made some small wooden fortifications in the streets, in order to harm the besiegers from them, as they had harmed them before from the flat roofs, and to hinder the cavalry they filled the square with stones; but the besiegers made use of them to fill up the ditches.
 
 In the entry made there on the 26th, two great ditches which the Mexicans had newly made were carried. Alvarado for his part was advancing every day farther into the city; and on the 27th he went so far, carrying several ditches and entrenchments, that he came to occupy two towers near the palace where King Cuauhtémoc resided; but he could not thence pass farther, as he wished, because of the extreme difficulty he found in the ditches and the vigorous resistance of the enemy, who forced him to retire, pressing furiously upon his rear guard. Cortés, having observed an extraordinary smoke that rose from those towers, and suspecting what had in fact happened, entered the city, as he was accustomed to do, and spent the whole day in repairing all the bad passages. He now lacked no more than one canal and one entrenchment to enter the market square. He determined to advance as far as that, as in fact he accomplished, and that was the first time since the siege began that his troops joined with those of Alvarado, with unspeakable joy on both sides. Cortés entered that square with some cavalry, and found there an innumerable people lodged in the porticoes, because they could not be contained in the houses of that ward. He climbed the temple, from which he observed the city, and saw that of its eight parts only one remained to be carried. He had fire set to the high and beautiful towers of that temple, in which, as in the greater one of Tenochtitlan, the idol of the god of war was worshiped. The Mexican commoners, on seeing that great flame, which seemed to rise to heaven, raised a great lament. Cortés, moved to pity at seeing so numerous a people
 
-reduced
-
-[p. 224]
-
-reduced to such straits, made all hostilities cease that day, and spoke
+reduced [p. 224] reduced to such straits, made all hostilities cease that day, and spoke
 
 Bk. X.
 
@@ -8964,11 +8204,7 @@ them with death, finding themselves now reduced to such misery and
 
 calamity, and having before their eyes so many lamentable objects, for
 
-they
-
-[p. 225]
-
-they had nowhere even to set foot except upon the corpses of their fellow citizens, they vented their rage in horrible cries, and demanded Bk. X. death as the only remedy for their ills. Some commoners begged Cortés to confer with certain nobles who were defending an entrenchment, in order to treat of some accommodation. Cortés went to them, although he had little hope of success. These were precisely some of those who could no longer bear the hardships of the siege; so that when they saw the Spanish general approach them, moved by despair they said to him: “If you are the son of the Sun, as some imagine, why, when your Father is so swift that in the brief space of a day he completes his course, do you take so long to free us from so many ills by death? We wish indeed to die, in order to go to heaven, where our god Huitzilopochtli awaits us to give us rest from our labors and the reward of our services.” Cortés proposed to them various reasons to move them to surrender; but as they answered that this was neither in their power nor had they any hope of being able to persuade the king, he withdrew, in order to urge him by means of a distinguished personage whom he had made prisoner three days before, and who was an uncle of the king of Texcoco. That man, although wounded, was charged with betaking himself to Tlatelolco to treat of that business with the king; but no other fruit of his embassy was seen than the reiterated outcries with which the people demanded death. (H) Some Mexican troops hurled themselves desperately against the Spaniards, but they were so weakened by hunger that the harm they did was slight, and too great that which they received from their enemies.
+they [p. 225] they had nowhere even to set foot except upon the corpses of their fellow citizens, they vented their rage in horrible cries, and demanded Bk. X. death as the only remedy for their ills. Some commoners begged Cortés to confer with certain nobles who were defending an entrenchment, in order to treat of some accommodation. Cortés went to them, although he had little hope of success. These were precisely some of those who could no longer bear the hardships of the siege; so that when they saw the Spanish general approach them, moved by despair they said to him: “If you are the son of the Sun, as some imagine, why, when your Father is so swift that in the brief space of a day he completes his course, do you take so long to free us from so many ills by death? We wish indeed to die, in order to go to heaven, where our god Huitzilopochtli awaits us to give us rest from our labors and the reward of our services.” Cortés proposed to them various reasons to move them to surrender; but as they answered that this was neither in their power nor had they any hope of being able to persuade the king, he withdrew, in order to urge him by means of a distinguished personage whom he had made prisoner three days before, and who was an uncle of the king of Texcoco. That man, although wounded, was charged with betaking himself to Tlatelolco to treat of that business with the king; but no other fruit of his embassy was seen than the reiterated outcries with which the people demanded death. (H) Some Mexican troops hurled themselves desperately against the Spaniards, but they were so weakened by hunger that the harm they did was slight, and too great that which they received from their enemies.
 
 Cortés returned the next day to the city, expecting at every moment that the Mexicans would surrender, and, without permitting any harm to be done them, he addressed himself to
 
@@ -9056,11 +8292,7 @@ The intolerable stench of so many unburied corpses then forced § 33. the besieg
 
 of the kings. which still remained in the power of the Mexicans. Cortés brought with him three cannon and all his troops. He assigned to each of the captains the place from which he was to make the assault, and commanded them to do all that was possible to force the besieged to throw themselves into the water toward that place where Sandoval was waiting with all the brigantines, which was a kind of harbor surrounded on all sides by houses, where there landed the
 
-Ff2                merchant
-
-[p. 228]
-
-merchant boats of the traders who came to the market of Tlatelolco; Bk. X.
+Ff2                merchant [p. 228] merchant boats of the traders who came to the market of Tlatelolco; Bk. X.
 
 and above all that they should endeavor to take King Cuauhtémoc,
 
@@ -9122,11 +8354,7 @@ then, whatever counsel pleases you best, and act according to your
 
 designs.” Cortés told him to go and prepare
 
-the
-
-[p. 229]
-
-the minds of his citizens for the death that they would soon have to
+the [p. 229] the minds of his citizens for the death that they would soon have to
 
 Bk. X. suffer.
 
@@ -9202,11 +8430,7 @@ the words of Cortés, he who had always been his enemy, having seen
 
 that to King Moctezuma it was not enough to be his
 
-friend
-
-[p. 231]
-
-friend and protector to avoid losing his crown, his liberty, and his life? He demanded of Cortés that no harm be done to his subjects, and Cortés in turn de‐ Bk. X. manded of him that he command all his subjects to surrender. Each gave his orders, and both were promptly obeyed. It was likewise ordered that all the Mexicans should leave the city without arms and without baggage, and, according to what a most truthful eyewitness affirms, (*) for three days and three nights all three causeways were seen full of men, women, and children, weak, emaciated, and filthy, who were leaving by them to take refuge in other places. The stench that so many thousands of putrefied and unburied bodies gave off was so intolerable that it caused some indisposition to the general of the Conquerors. The houses, the streets, and the canals were full of disfigured corpses; (I) the ground of the city was found dug up in some parts by the citizens, who sought roots under the earth to feed upon, and many trees were seen stripped of their bark to meet the extremity of hunger. The general had the corpses buried, and an immense quantity of wood burned throughout the city, both to purify that infected air and to celebrate his victory.
+friend [p. 231] friend and protector to avoid losing his crown, his liberty, and his life? He demanded of Cortés that no harm be done to his subjects, and Cortés in turn de‐ Bk. X. manded of him that he command all his subjects to surrender. Each gave his orders, and both were promptly obeyed. It was likewise ordered that all the Mexicans should leave the city without arms and without baggage, and, according to what a most truthful eyewitness affirms, (*) for three days and three nights all three causeways were seen full of men, women, and children, weak, emaciated, and filthy, who were leaving by them to take refuge in other places. The stench that so many thousands of putrefied and unburied bodies gave off was so intolerable that it caused some indisposition to the general of the Conquerors. The houses, the streets, and the canals were full of disfigured corpses; (I) the ground of the city was found dug up in some parts by the citizens, who sought roots under the earth to feed upon, and many trees were seen stripped of their bark to meet the extremity of hunger. The general had the corpses buried, and an immense quantity of wood burned throughout the city, both to purify that infected air and to celebrate his victory.
 
 The news of the capture of the capital having spread at once throughout the land, the provinces of the empire gave obedience to Cortés, although there were some which even two years afterward troubled the Spaniards with war. The
 
@@ -9214,11 +8438,7 @@ The news of the capture of the capital having spread at once throughout the land
 
 (*) Bernal Díaz del Castillo.
 
-(I) “It is true, and I swear it, amen, that the whole lagoon, and the houses, and the barbacoas were full of bodies and heads of dead men, so that I do not know in what manner to write it; for in the streets, and in the very courts of Tlatelolco, there was nothing else, and we could not walk except among bodies and heads of dead Indians. I have read of the destruction of Jerusalem; but whether in that there was such mortality as in this, I do not know,” etc. Bernal Díaz in ch. 156 of his history. Such expressions from an eyewitness so truthful, and one who did not know how to exaggerate, give some idea of that horrible slaughter. I suspect that the corpses were left unburied by the Mexicans on purpose, to drive off the besiegers with the stench; nor can I persuade myself otherwise, considering the extreme solicitude of those nations in the obsequies of their dead.
-
-[p. 232]
-
-allies returned to their countries exceedingly joyful over the booty, Bk. X.
+(I) “It is true, and I swear it, amen, that the whole lagoon, and the houses, and the barbacoas were full of bodies and heads of dead men, so that I do not know in what manner to write it; for in the streets, and in the very courts of Tlatelolco, there was nothing else, and we could not walk except among bodies and heads of dead Indians. I have read of the destruction of Jerusalem; but whether in that there was such mortality as in this, I do not know,” etc. Bernal Díaz in ch. 156 of his history. Such expressions from an eyewitness so truthful, and one who did not know how to exaggerate, give some idea of that horrible slaughter. I suspect that the corpses were left unburied by the Mexicans on purpose, to drive off the besiegers with the stench; nor can I persuade myself otherwise, considering the extreme solicitude of those nations in the obsequies of their dead. [p. 232] allies returned to their countries exceedingly joyful over the booty, Bk. X.
 
 and content to have overthrown that court whose domination they
 
@@ -9300,11 +8520,7 @@ Ancient History of Mexico, Vol. III.                 Gg                         
 
 (M) The torture that was given to King Cuauhtémoc was that of burning his feet little by little after anointing them with oil. A close private friend of his accompanied him, and died in the torments. Bernal Díaz adds that the king of Tlacopan was also tormented along with him. Cortés, against his will, took up so unworthy and barbarous a resolution in order to yield to the urgings of some greedy Spaniards, who suspected that he did not wish to put the king to the torture in order to profit secretly by the whole royal treasure.
 
-(N) Cuauhtémoc, king of Mexico, Coanacochtzin, king of Acolhuacan, and Tetlepanquetzaltzin, king of Tlacopan, were hanged from a tree by sentence of Cortés in Izancanac, capital city of the province of Acallan, on one of the three days preceding Lent of the year 1525. The cause of their death was a certain conversation which they had among themselves about their misfortunes, in which they suggested how easy it would be for them, if they wished, to kill Cortés and all the Spaniards, and to recover their liberty and their crowns. A Mexican traitor, to win the favor of the Spanish general, gave him an account of everything, altering the sense of the words, and representing as an organized conspiracy what had been merely talk in the air. Cortés, who was then journeying toward the province of Comayagua with a few Spaniards weakened by fatigue, and with more than three thousand Mexicans whom he was leading with him, became convinced that there was no other remedy for avoiding the danger by which he believed himself threatened, except that of putting the three kings to death. This execution, says Bernal Díaz, was most unjust, and blamed by all of us who traveled with him that day. It caused Cortés great melancholy and some sleepless nights. The same author adds that Father Juan de Varillas, a friar of the Order of Our Lady of Mercy, confessed and comforted them at the execution; that they were good Christians, and that they died well disposed; whence it is manifest that they had been baptized; but among so many historians of Mexico there is not one who makes mention of an event so notable and so glorious as that of the baptism of these three kings, while otherwise filling so many pages and so many
-
-[p. 234]
-
-the nations that contributed to their ruin remained, in spite of the Bk. X. Christian and most humane dispositions of the Catholic Kings, aban‐
+(N) Cuauhtémoc, king of Mexico, Coanacochtzin, king of Acolhuacan, and Tetlepanquetzaltzin, king of Tlacopan, were hanged from a tree by sentence of Cortés in Izancanac, capital city of the province of Acallan, on one of the three days preceding Lent of the year 1525. The cause of their death was a certain conversation which they had among themselves about their misfortunes, in which they suggested how easy it would be for them, if they wished, to kill Cortés and all the Spaniards, and to recover their liberty and their crowns. A Mexican traitor, to win the favor of the Spanish general, gave him an account of everything, altering the sense of the words, and representing as an organized conspiracy what had been merely talk in the air. Cortés, who was then journeying toward the province of Comayagua with a few Spaniards weakened by fatigue, and with more than three thousand Mexicans whom he was leading with him, became convinced that there was no other remedy for avoiding the danger by which he believed himself threatened, except that of putting the three kings to death. This execution, says Bernal Díaz, was most unjust, and blamed by all of us who traveled with him that day. It caused Cortés great melancholy and some sleepless nights. The same author adds that Father Juan de Varillas, a friar of the Order of Our Lady of Mercy, confessed and comforted them at the execution; that they were good Christians, and that they died well disposed; whence it is manifest that they had been baptized; but among so many historians of Mexico there is not one who makes mention of an event so notable and so glorious as that of the baptism of these three kings, while otherwise filling so many pages and so many [p. 234] the nations that contributed to their ruin remained, in spite of the Bk. X. Christian and most humane dispositions of the Catholic Kings, aban‐
 
 doned to misery, to oppression, and to the contempt not only of the
 
@@ -9386,11 +8602,7 @@ Doña Juana de Aragón Carrillo de Mendoza y Cortés, 5th Duchess of Terranova, 
 
 V.
 
-(*) Besides the heir of the marquisate, the Conqueror Cortés had several other children, some legitimate and some bastards. The legitimate ones were: 1. Doña María Cortés, etc., married to Don Luis de Quiñones, 5th Count of Luna. 2. Doña Catalina, who died in Seville. 3. Doña Juana, wife of Don Fernando Enríquez de Ribera, 2nd Duke of Alcalá, Marquis of Tarifa, Count of Los Molares. 4. Doña Leonor, married in Mexico to Juan de Tolosa, a Biscayan. The bastards were: 1. Don Martín Cortés, born to him of the famous Doña Marina, Knight of the Order of Santiago. 2. Don Luis, born to him of a lady called Doña N. Hermosilla, and three other daughters had by him from three Indian women of noble
-
-[p. 237]
-
-V.
+(*) Besides the heir of the marquisate, the Conqueror Cortés had several other children, some legitimate and some bastards. The legitimate ones were: 1. Doña María Cortés, etc., married to Don Luis de Quiñones, 5th Count of Luna. 2. Doña Catalina, who died in Seville. 3. Doña Juana, wife of Don Fernando Enríquez de Ribera, 2nd Duke of Alcalá, Marquis of Tarifa, Count of Los Molares. 4. Doña Leonor, married in Mexico to Juan de Tolosa, a Biscayan. The bastards were: 1. Don Martín Cortés, born to him of the famous Doña Marina, Knight of the Order of Santiago. 2. Don Luis, born to him of a lady called Doña N. Hermosilla, and three other daughters had by him from three Indian women of noble [p. 237] V.
 
 Don Andrea Fabrizio Pignatelli d'Aragon Carrillo de Mendoza y Cortés, 6th Duke of Monteleone, 6th Duke of Terranova, 8th Marquis del Valle, Grandee of Spain, Grand Chamberlain of the kingdom of Naples, Knight of the Golden Fleece, etc., married to Doña Teresa Pimentel y Benavides, daughter of Don Antonio Alonso Pimentel de Quiñones, 11th Count of Benavente, of Luna, and of Mayorga, Grandee of Spain, etc., and of Doña Isabel Francisca de Benavides, 3rd Marchioness of Jabalquinto and of Villarreal. Their daughter was ═══
 
@@ -9810,11 +9022,7 @@ of the goddess of hunting. 79. of the Mother of the Gods. 77. 83. of the
 
 arrival of the
 
-gods.
-
-[p. 248]
-
-gods. 78. of the dead. 77. Great festival of the Dedication of the great tem‐
+gods. [p. 248] gods. 78. of the dead. 77. Great festival of the Dedication of the great tem‐
 
 ple. I. 257 Feudatory. The feudatory lords of the Crown of Mexico had to reside a
 
@@ -10062,11 +9270,7 @@ Spaniards. II. 120., and at present debased: 121. Agreement between the nobil‐
 
 ity, and
 
-the
-
-[p. 253]
-
-the Mexican commoners in the times of King Itzcoatl. I. 215. 220 Nopaltzin, king of the Chichimecs. His government. I. 140. His death 143 Weddings of the three Acolhua princes. I. 137. of Nezahualcoyotl 232. of
+the [p. 253] the Mexican commoners in the times of King Itzcoatl. I. 215. 220 Nopaltzin, king of the Chichimecs. His government. I. 140. His death 143 Weddings of the three Acolhua princes. I. 137. of Nezahualcoyotl 232. of
 
 Nezahualpilli 253. of the Mixtecs. II. 93. Ceremonies of weddings. See
 

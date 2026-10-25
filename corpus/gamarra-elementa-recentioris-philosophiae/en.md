@@ -62,11 +62,7 @@ T    he volumes which were brought to me by Your
 
 command, bearing this title, Elements of the Newer Philosophy, by the Rev. Father Dr. Don Juan Benito Díaz de Gamarra y Dávalos, Secular Priest of the Oratory of St. Philip Neri — when I had turned through them, I wondered at the Author’s labor, diligence, alacrity, brevity. For it is scarcely credible to say how much he himself, how learnedly, how vigorously he has labored to instruct Youth in Philosophy (in a philosophy that truly deserves to be called by the name of philosophy)! So far, indeed, are these School Institutions themselves from thrusting upon us anything adverse or hostile either to morals, which ought to be kept uncorrupted, or to the most holy laws, that in my judgment (if I may be permitted to discern anything,
 
-¶                      being
-
-[PDF 10]
-
-being not altogether indifferently versed in these matters) this way and method of teaching Philosophy agrees very closely with the true and genuine one, often adopted by most distinguished Men, and such as the Spanish Universities among our countrymen have long since followed in these times by Royal command. This being so, Most Excellent Prince, there is no reason why the publication of these Elements in print should be forbidden. Such, at least, is my opinion. Given at Mexico, on the day after the Nones of September, in the year of the Lord 1774.
+¶                      being [PDF 10] being not altogether indifferently versed in these matters) this way and method of teaching Philosophy agrees very closely with the true and genuine one, often adopted by most distinguished Men, and such as the Spanish Universities among our countrymen have long since followed in these times by Royal command. This being so, Most Excellent Prince, there is no reason why the publication of these Elements in print should be forbidden. Such, at least, is my opinion. Given at Mexico, on the day after the Nones of September, in the year of the Lord 1774.
 
 Joaquín Velázquez
 
@@ -80,11 +76,7 @@ H     aving seen the Books which, by superior
 
 command of Your Excellency, were sent to me with this Title: Rudiments of the Modern Philosophy, by the Rev. Father Dr. Don Juan Benito Díaz de Gamarra y Dávalos, Secular Priest of the Congregation of the Oratory of St. Philip Neri, I admired the labor of the Author, his diligence, his comprehensiveness, and at the same time the concision with which he writes. Indeed, it can scarcely be believed what a variety of things the Father Doctor has taken up, with how much erudition, and how earnestly he has undertaken this labor in order to instruct Youth in a Philosophy that well deserves this name! And these School Institutions are so far from including anything opposed either to the Laws of the Kingdom or to the integrity and purity of morals, that, on the contrary, in my opinion (if I may give one in these subjects, in which I am not without some experience) this method of teaching Philosophy agrees closely with the true one, which has always been desired by the Authors of better doctrine
 
-¶2                     and
-
-[PDF 12]
-
-and taste, and which at this time has already begun to be put into practice in the Universities of our Spain by order of the King Our Lord. Wherefore I find nothing, Most Excellent Sir, to hinder the printing and publication of this Work. So I judge it. Mexico, September 6, 1774.
+¶2                     and [PDF 12] and taste, and which at this time has already begun to be put into practice in the Universities of our Spain by order of the King Our Lord. Wherefore I find nothing, Most Excellent Sir, to hinder the printing and publication of this Work. So I judge it. Mexico, September 6, 1774.
 
 Most Excellent Sir.
 
@@ -108,11 +100,7 @@ JUDGE. T    hat old answer of some Sage, I know not whose
 
 (to one asking what boys ought to learn), that they ought, in short, to learn what would be of use to them as Men: this I wish wholly to make my own, and I solemnly profess it, now that I have read through these Elements of the Newer Philosophy, compiled by the Rev. Father Dr. Don Juan Benito Díaz de Gamarra y Dávalos, Secular Priest of the Oratory of St. Philip Neri, for the use of the American Youth of the Schools, and have followed them almost syllable by syllable. Wherefore, since the Author, a man diligent above most, has excerpted nearly everything from all the best writers for the sake of instructing Youth rightly, has composed it and written it out briefly, while I myself have come upon nothing that is out of harmony with the orthodox faith,
 
-or
-
-[PDF 14]
-
-or that is foreign to a Christian Philosopher, I judge it most equitable, and that it will be useful, that these pages be committed to the Press. Given at Mexico on the day before the Ides of September, 1774.
+or [PDF 14] or that is foreign to a Christian Philosopher, I judge it most equitable, and that it will be useful, that these pages be committed to the Press. Given at Mexico on the day before the Ides of September, 1774.
 
 Dr. José Ignacio Bartolache.
 
@@ -140,17 +128,9 @@ A    t the bidding of the Congregation of San
 
 Miguel I have striven with all my might to read through, with the greatest attention I could, these two volumes whose title is Elements of the Newer Philosophy. I feared, however, lest I should judge of this work more from prejudice and from my esteem for its most distinguished Author (with whom I had long since begun to live in the closest intimacy) than by right and deservedly. But I frankly confess that I gave myself wholly to playing the part of a supercilious censor, not of a fulsome and shameless praiser. And so, after I had long and much considered what in the end I ought to write on this account and lay before the Conscript Fathers of our Family, behold, these few things came to mind, which will serve in place of a censure. First, indeed, that our countryman, Father Doctor Don Juan Benito, has hit the nail on the head, in that under the name of Philosophy he has brought together for the benefit of the young not an empty fallacy, by deceiving, but a doctrine of the first utility, by teaching. For these Elements
 
-of
+of [PDF 16] of the Newer Philosophy seem to me to embrace, with wonderful brevity and clarity, and likewise in wonderful order, whatever the English, the French, the Dutch, the Italians and the Spaniards, earnestly intent upon philosophical matters through long decades of years, have searched out. The young beginner will certainly find here a great many things duly treated which he would seek elsewhere in vain; unless, having grown older, he devotes himself strenuously for the rest of his life (which happens to very few indeed) to Philosophy and to books, of which we have no great supply. But if anyone should compare those little questions so often debated, On Prescissions, On the Being of Reason, On the Appetite of Matter, On the Categorematic Infinite, or others far emptier still, which the Author knowingly and prudently passed over, with the disquisitions he has briefly written out On God, One and Existing, On the Immortality of Souls, On Virtue, On Duties, and on many others of that kind: he will, by Hercules, perceive which of them are better able to pave and smooth the way both to the right instruction of boys and to Sacred Theology. And truly, so the matter stands. For neither the right Instruction of boys, nor the duties of civil life, nor the science of corporeal nature, nor the best arts (nay, not even the cobbler’s,
 
-[PDF 16]
-
-of the Newer Philosophy seem to me to embrace, with wonderful brevity and clarity, and likewise in wonderful order, whatever the English, the French, the Dutch, the Italians and the Spaniards, earnestly intent upon philosophical matters through long decades of years, have searched out. The young beginner will certainly find here a great many things duly treated which he would seek elsewhere in vain; unless, having grown older, he devotes himself strenuously for the rest of his life (which happens to very few indeed) to Philosophy and to books, of which we have no great supply. But if anyone should compare those little questions so often debated, On Prescissions, On the Being of Reason, On the Appetite of Matter, On the Categorematic Infinite, or others far emptier still, which the Author knowingly and prudently passed over, with the disquisitions he has briefly written out On God, One and Existing, On the Immortality of Souls, On Virtue, On Duties, and on many others of that kind: he will, by Hercules, perceive which of them are better able to pave and smooth the way both to the right instruction of boys and to Sacred Theology. And truly, so the matter stands. For neither the right Instruction of boys, nor the duties of civil life, nor the science of corporeal nature, nor the best arts (nay, not even the cobbler’s,
-
-although
-
-[PDF 17]
-
-although it is commonly held the most illiberal of all), nor finally Sacred Theology, can be helped or increased by those very trifles which we have mentioned above. Let men, then, otherwise most grave, cease to weep whole days and nights over the burial of the Summulae and the Categories, and over the felled Porphyrian Tree, as though it were all over with the commonwealth, with themselves too and their children, with altars and hearths. This is most ridiculous, and is to be met not with much bile but rather with phlegm, that is, with laughter. Wherefore my opinion is this: that the Fathers of our Congregation ought in no way to hinder these volumes from being committed to the press, since the Author has most diligently excerpted from every side, compiled and explained a doctrine both sound and useful; and that it will be of advantage and profit to the young men who will apply themselves to Philosophy among us, I for my part in no way doubt. Given at San Miguel el Grande, on the tenth day before the Kalends of May, in the Year mdcclxxiv.
+although [PDF 17] although it is commonly held the most illiberal of all), nor finally Sacred Theology, can be helped or increased by those very trifles which we have mentioned above. Let men, then, otherwise most grave, cease to weep whole days and nights over the burial of the Summulae and the Categories, and over the felled Porphyrian Tree, as though it were all over with the commonwealth, with themselves too and their children, with altars and hearths. This is most ridiculous, and is to be met not with much bile but rather with phlegm, that is, with laughter. Wherefore my opinion is this: that the Fathers of our Congregation ought in no way to hinder these volumes from being committed to the press, since the Author has most diligently excerpted from every side, compiled and explained a doctrine both sound and useful; and that it will be of advantage and profit to the young men who will apply themselves to Philosophy among us, I for my part in no way doubt. Given at San Miguel el Grande, on the tenth day before the Kalends of May, in the Year mdcclxxiv.
 
 José Henríquez de Rivera.
 
@@ -174,21 +154,13 @@ Fourth of the Deputies.
 
 Felipe Neri Salmerón. First of the Deputies and Secretary of the Congregation. Reg.
 
-Censure
-
-[PDF 19]
-
-of   the    Illustrious       University      of Mexico, and of the Most Grave Fathers who profess Philosophy and Sacred Theology in the City of Mexico.
+Censure [PDF 19] of   the    Illustrious       University      of Mexico, and of the Most Grave Fathers who profess Philosophy and Sacred Theology in the City of Mexico.
 
 W       e, the Rector and the undersigned
 
 Doctors and Fathers, Professors of Sacred Theology and of Philosophy, certify and attest that these Elements of the Newer Philosophy, written by the Rev. Father Dr. Don Juan Benito Díaz de Gamarra y Dávalos, Secular Priest of the Congregation of the Oratory of St. Philip Neri, for the use of our American Youth, contain not only a sounder doctrine, and one most apt for forming morals, but also a more select one, drawn from all the Philosophers of the more recent age; and therefore, after mature examination of the matter, we have judged that it will be to the advantage of the Schools that the volume, once printed,
 
-¶¶ 2                     be
-
-[PDF 20]
-
-be at hand for Beginners in the course of Philosophy, for thoroughly learning those things which at this time cannot be unknown, or disputed, without disgrace and ignominy. In faith and attestation whereof each of us has signed this paper with his own hand.
+¶¶ 2                     be [PDF 20] be at hand for Beginners in the course of Philosophy, for thoroughly learning those things which at this time cannot be unknown, or disputed, without disgrace and ignominy. In faith and attestation whereof each of us has signed this paper with his own hand.
 
 Don Ildefonso Velázquez Gastelu.
 
@@ -272,21 +244,13 @@ To you, great hope of our Country, I submit these Institutions of the Newer Phil
 
 sake
 
-(*) The renowned Melchor Cano, bk. VIII of De locis theologicis.
-
-[PDF 25]
-
-sake that this task and labor were undertaken, hear in a few words what I have accomplished in writing, or at least have attempted.
+(*) The renowned Melchor Cano, bk. VIII of De locis theologicis. [PDF 25] sake that this task and labor were undertaken, hear in a few words what I have accomplished in writing, or at least have attempted.
 
 First of all, then, I commend to you again and again the History of the Philosophy you are entering upon, set down rather briefly at the very threshold of the Institutions. Read it through, turn it over, meditate on it, and weigh in your minds how important it will be for learning Philosophy itself thoroughly, correctly and in due order. For if you do not know what Philosophy is, under what Authors it was born, how far and in what esteem it was held among our forebears, what its fortunes were, what its progress, what its way and method of teaching, it cannot possibly be that you will not err shamefully at every turn. And no kind of error, in my opinion at least, is more to be guarded against and avoided than that of those for whom this alone counts as true philosophy, what they themselves learned as beardless boys; everything else they hold as nothing, as though it were the empty dreams of a sick man’s fancy. For which reason they are deservedly laughed at.
 
 Others, however, and indeed very many in these times, are so delighted both by Aristotle and, above all, by what, under the name of so great
 
-¶¶¶                      a
-
-[PDF 26]
-
-a Man (for we freely admit that he was certainly a very great man), is commonly peddled in the Schools, that they seriously affirm that nothing fitter or more convenient could ever be found for sharpening the little wits of boys, and for teaching Sacred Theology eloquently and learnedly, than those everlasting exercises, the disputes and logomachies On Universals, On the Being of Reason, On Substantial Forms, On the Union and the Whole Composite, and six hundred others of that kind, by which minds are indeed tortured and worn down; but I fear they grow no sharper for the pursuit of wisdom and for the best disciplines, at which all our strength and thought ought to aim, as at a target. And what profit, pray, will those utterly empty interpretations of the Mahometans Avicenna, Averroes, Alfarabi, and the rest of the Arab throng be able to bring to the true religion, to the Church of Christ, and finally to Sacred Theology? No doubt the venerable Fathers of the Church, our forebears, now Fathers Conscript among the dwellers in heaven, Dionysius the Areopagite, Ephrem, Irenaeus, Cyprian, Athanasius, Epiphanius, both Gregories, Chrysostom,
+¶¶¶                      a [PDF 26] a Man (for we freely admit that he was certainly a very great man), is commonly peddled in the Schools, that they seriously affirm that nothing fitter or more convenient could ever be found for sharpening the little wits of boys, and for teaching Sacred Theology eloquently and learnedly, than those everlasting exercises, the disputes and logomachies On Universals, On the Being of Reason, On Substantial Forms, On the Union and the Whole Composite, and six hundred others of that kind, by which minds are indeed tortured and worn down; but I fear they grow no sharper for the pursuit of wisdom and for the best disciplines, at which all our strength and thought ought to aim, as at a target. And what profit, pray, will those utterly empty interpretations of the Mahometans Avicenna, Averroes, Alfarabi, and the rest of the Arab throng be able to bring to the true religion, to the Church of Christ, and finally to Sacred Theology? No doubt the venerable Fathers of the Church, our forebears, now Fathers Conscript among the dwellers in heaven, Dionysius the Areopagite, Ephrem, Irenaeus, Cyprian, Athanasius, Epiphanius, both Gregories, Chrysostom,
 
 Basil,
 
@@ -294,27 +258,15 @@ Basil,
 
 Basil, Leo, Hilary, Prosper, Ambrose, Jerome, Augustine, did not themselves also either defend the Church, or discourse on Theological matters, or rout the profane innovators, the Heretics. On the contrary, they did so above all: for their golden volumes bear witness to it. And yet one would look for Aristotle there in vain. Not that these very great men were ignorant of dialectic and syllogisms, or ordered them banished altogether when matters of the very gravest weight were to be treated or debated: a thing which, had it been done, would have been done quite rashly and heedlessly (yet it was not done by them), and which we would by no means imitate, since the subtleties of syllogisms do not so greatly displease us. But, as I judge, admonished by the saying of Paul, where he says: Beware lest any man cheat you by philosophy, and vain deceit, these most Holy Men resolved, in holiness, to treat all those things which pertain, by God’s revelation, to holiness of life and to everlasting beatitude: from which, assuredly, the whole Philosophy of the Heathen is all but alien. Let them cease, therefore, to deafen our ears, and even to tear us and ours to pieces with abuse, who think they cannot approach Sacred Theology
 
-¶¶¶2                     until
-
-[PDF 28]
-
-until they have called whole hundreds of petty questions into contest. Unless perhaps these men (as I strongly suspect, and grieve) are pursuing not, after all, Sacred Theology, which is an altogether divine science, but the smoke and shadow of Theology, having embraced a cloud for Juno, as the proverb has it.
+¶¶¶2                     until [PDF 28] until they have called whole hundreds of petty questions into contest. Unless perhaps these men (as I strongly suspect, and grieve) are pursuing not, after all, Sacred Theology, which is an altogether divine science, but the smoke and shadow of Theology, having embraced a cloud for Juno, as the proverb has it.
 
 But surely, you will say, St. Albert, surnamed the Great, St. Thomas Aquinas (to say nothing for the moment of St. John Damascene), St. Bonaventure too, and the other Theologians of the more recent age, Most Wise Men, admirable for counsel, maturity and character, Peter Lombard, Scotus, Alexander of Hales, were much given to disputation, and did not disdain laborious questions, nor syllogisms, nor Aristotle: and because they often attributed very great authority to this Philosopher, no one could rightly reproach such great Men on that account, as though they were Philosophers of a lower bench and Theologians of little eloquence. Are not these things most certain, and set before the eyes of all, clearer than noonday itself ? I grant it. But since mention of this matter
 
-has
-
-[PDF 29]
-
-has come up, and it calls for circumspect and well-considered speech, let us, if you please, pursue the matter in order.
+has [PDF 29] has come up, and it calls for circumspect and well-considered speech, let us, if you please, pursue the matter in order.
 
 As for St. Thomas (for of all the others I must speak afterwards), no mortal ever embraced more, none more skillfully, more learnedly, more temperately, none more briefly, all the things that seemed to bear upon Sacred Theology, or could in any way be referred to it. Immortal God! what genius the Man had! what abundance in disputation! how constant, how great his diligence in unrolling the volumes of the Sacred Page! how he revered the Holy Fathers of the Church! how incredible and almost divine that acumen of his altogether Angelic mind in discerning the most difficult things! what candor in writing, what method in teaching, what severity in judging! You might truly say (as Cicero had said before, in a matter not very unlike) that the books of St. Thomas Aquinas, and especially that Theological Summa, though all should roar against it, far and greatly surpass the libraries of all the Theologians, both in the abundance of the greatest matters and in the strength of authority. For St. Thomas
 
-brought
-
-[PDF 30]
-
-brought into Theology, with his immortal and more than Sallustian brevity, more things, exceedingly learned and most worth knowing, than most others even desired. And this outstanding praise of St. Thomas as a Theologian remains, and will remain as long as learning is held in honor. But if at times (for I return to the point from which I had digressed) he is wont in disputing to attribute authority to Aristotle, he did so unwillingly indeed, where Sacred Doctrine was in question. Unless you would have it that so great a Man was so dull of wit, so inept too and heedless, that what he had deliberately laid down in the preceding pages, namely in Art. VIII of Quest. I, about diminishing the authority of all save that of divine revelation, made to the Apostles and Prophets who wrote the Canonical Books, he himself afterwards weakened on purpose by his own example. But if the question concerns St. Thomas not as Theologian but plainly as Philosopher, remember that it is not now that Thomas Aquinas, the light and ornament of the Church, but a Heathen Philosopher (lately made pious from impious), Aristotle by name, who is making trouble for you, a trouble which will amount to next to nothing.
+brought [PDF 30] brought into Theology, with his immortal and more than Sallustian brevity, more things, exceedingly learned and most worth knowing, than most others even desired. And this outstanding praise of St. Thomas as a Theologian remains, and will remain as long as learning is held in honor. But if at times (for I return to the point from which I had digressed) he is wont in disputing to attribute authority to Aristotle, he did so unwillingly indeed, where Sacred Doctrine was in question. Unless you would have it that so great a Man was so dull of wit, so inept too and heedless, that what he had deliberately laid down in the preceding pages, namely in Art. VIII of Quest. I, about diminishing the authority of all save that of divine revelation, made to the Apostles and Prophets who wrote the Canonical Books, he himself afterwards weakened on purpose by his own example. But if the question concerns St. Thomas not as Theologian but plainly as Philosopher, remember that it is not now that Thomas Aquinas, the light and ornament of the Church, but a Heathen Philosopher (lately made pious from impious), Aristotle by name, who is making trouble for you, a trouble which will amount to next to nothing.
 
 For
 
@@ -324,11 +276,7 @@ For how few do not know that the Angelic Doctor did indeed purge the Peripatetic
 
 I come now to the rest: namely Sts. John Damascene, Antoninus, Albert, Bonaventure, Doctors most illustrious within the memory of man, Scotus, Hales (for the Bishop of Paris had been of another mind), do not spurn questions, that is, those doubtful controversies much agitated in the Schools, nor syllogisms, nor Aristotle. And do we, then, spurn them, or declare war on the disputations of the School? Assuredly
 
-the
-
-[PDF 32]
-
-the thing speaks for itself: we too have humored our age, and our Masters, who are held in great esteem among our countrymen, embracing questions, syllogisms, and finally Aristotle himself, where he seemed to judge rightly; but all of it, as far as our strength and our want of skill allowed, soberly, prudently, temperately. For the very pursuit of brevity, which ought to have been our whole care and concern, would have compelled us to restrain the pen, even had it otherwise been worth the trouble to write much more, lest we overwhelm our young recruits.
+the [PDF 32] the thing speaks for itself: we too have humored our age, and our Masters, who are held in great esteem among our countrymen, embracing questions, syllogisms, and finally Aristotle himself, where he seemed to judge rightly; but all of it, as far as our strength and our want of skill allowed, soberly, prudently, temperately. For the very pursuit of brevity, which ought to have been our whole care and concern, would have compelled us to restrain the pen, even had it otherwise been worth the trouble to write much more, lest we overwhelm our young recruits.
 
 And since we have set forth enough so far, by way of our defense, lest anyone (as usually happens) should take our silence for a bad conscience, it remains for us to add briefly something about the plan of our work. And first, we present to you a philosophy that is not the common one, set down in a style a little more polished than that in which it is commonly taught, and that both as concisely as could be done and also as plainly as possible, and complete in every respect: so that I would be persuaded that I had done something like a marvel, had not nearly everything come from all the best
 
@@ -340,11 +288,7 @@ Philosophers of the newer age, culled with great labor and likewise with the utm
 
 But in truth, it is a newer philosophy that I myself
 
-¶¶*¶                     bring
-
-[PDF 34]
-
-bring forward. And why should I not bring it forward? But it is wholly heretical, they say, and was long ago raised up from the lowest seats of Erebus and Orcus, such, namely, as is found among foreign nations, where
+¶¶*¶                     bring [PDF 34] bring forward. And why should I not bring it forward? But it is wholly heretical, they say, and was long ago raised up from the lowest seats of Erebus and Orcus, such, namely, as is found among foreign nations, where
 
 The guilds of flute-girls, the quack-druggists,
 
@@ -354,19 +298,11 @@ Is it so indeed? O splendid, watchful, excellent guardians of the Church! Of cou
 
 I warn and adjure you, therefore, young men, that none of you, from the course once begun of these Institutions and of the newer Philosophy,
 
-be
-
-[PDF 35]
-
-be willing to draw back his foot, nor let himself be imposed upon by the ignorant, who dread the right way of teaching and learning worse than a dog or a snake, shun it, turn away from it, not daring to depart a nail’s breadth from the ancient custom of the School: as though it were a point of religion with them to prefer erring, by prejudgment, with the ancients to thinking the truth with others [*], or, in short, to acquiesce in the most probable
+be [PDF 35] be willing to draw back his foot, nor let himself be imposed upon by the ignorant, who dread the right way of teaching and learning worse than a dog or a snake, shun it, turn away from it, not daring to depart a nail’s breadth from the ancient custom of the School: as though it were a point of religion with them to prefer erring, by prejudgment, with the ancients to thinking the truth with others [*], or, in short, to acquiesce in the most probable
 
 ## ¶¶*¶2                             where
 
-(*) A most distinguished Doctor, a countryman of ours, three years ago brought to light a Book to which he had given the title La Lógica de D. Andrés Piquer, in which he is so prolix in censuring (harshly enough, not to say jejunely and ineptly) whatever Moderns he has ever read, that you would almost say he raves rather than reasons. Bacon, Arnauld, Descartes, Gassendi, Malebranche, Locke, Heineccius, Wolff, Genovesi, Verney he holds of no account, as if they had not advanced Logic themselves but only treated it perfunctorily. Aristotle alone is esteemed great and famous, after whom Piquer alone handed down the precepts of Logic; the rest have all too often inculcated mere trifles, and things not at all to the point. So great indeed was the most distinguished man’s philautia (let him tell us himself, in his usual way, what the force of that word is in Latin, Greek and Spanish), and his preconceived opinion in favor of antiquity, that he has roused that venerable Old Man, the ornament of our now aging century and of our Spain, lately gone to his fate, Fr. Benito Jerónimo Feijóo, whom he holds up to ridicule on the ground that he had praised some of the Moderns named above without discrimination.
-
-[PDF 36]
-
-where truer things will not be at hand. Detractors of this stamp, querulous, difficult, more frivolous even than anyone could imagine men of mature mind to be, whom riding on a reed, and nuts, and odd-and-even no longer delight: these, I say, do not listen to. For they are tiresome and empty.
+(*) A most distinguished Doctor, a countryman of ours, three years ago brought to light a Book to which he had given the title La Lógica de D. Andrés Piquer, in which he is so prolix in censuring (harshly enough, not to say jejunely and ineptly) whatever Moderns he has ever read, that you would almost say he raves rather than reasons. Bacon, Arnauld, Descartes, Gassendi, Malebranche, Locke, Heineccius, Wolff, Genovesi, Verney he holds of no account, as if they had not advanced Logic themselves but only treated it perfunctorily. Aristotle alone is esteemed great and famous, after whom Piquer alone handed down the precepts of Logic; the rest have all too often inculcated mere trifles, and things not at all to the point. So great indeed was the most distinguished man’s philautia (let him tell us himself, in his usual way, what the force of that word is in Latin, Greek and Spanish), and his preconceived opinion in favor of antiquity, that he has roused that venerable Old Man, the ornament of our now aging century and of our Spain, lately gone to his fate, Fr. Benito Jerónimo Feijóo, whom he holds up to ridicule on the ground that he had praised some of the Moderns named above without discrimination. [PDF 36] where truer things will not be at hand. Detractors of this stamp, querulous, difficult, more frivolous even than anyone could imagine men of mature mind to be, whom riding on a reed, and nuts, and odd-and-even no longer delight: these, I say, do not listen to. For they are tiresome and empty.
 
 But if, finally, they object to us that it is useless for these extracts of ours to be published for the benefit of Youth, since other Institutions, already made public in print, are not lacking: let them show, I beg, where at length one may find (what we have long and much sought) a newer doctrine, in a manner not at all at odds with the Schools, and both very briefly delivered and also sufficiently plain, open, arranged in order, adorned, and (what matters most) likely to be useful in the rest of life (*).
 
@@ -380,11 +316,7 @@ It grieves me, though, that these Institutions of mine are to be printed in type
 
 Go on, then, young men, as you have begun, and together with me render the greatest thanks you can to our most illustrious Lord Prelate of Michoacán, Don Luis Fernando de Hoyos y Mier: because, with most munificent benevolence toward us, he, a Man to be looked up to, brought his mind, lofty indeed and most ready for every good thing, to take singular and ever more diligent care of the order of studies in this Most Illustrious College of St. Francis de Sales; because he not only approved the Institutions of the newer philosophy, long since delivered to you by me from our Academic chair, but even celebrated them with praise; and because, most kindly
 
-received
-
-[PDF 38]
-
-received me and you as his clients, or, by a sweeter name, his sons, he attends us with fatherly charity and with a blessing ever most earnestly to be sought. May God, Best and Greatest, grant that he preside over our Church, for its good and its ornament, as long as may be. Given at Mexico, where I was wholly taken up with seeing the Institutions through the press, on the —— day before the Kalends of September, in the year of the Lord
+received [PDF 38] received me and you as his clients, or, by a sweeter name, his sons, he attends us with fatherly charity and with a blessing ever most earnestly to be sought. May God, Best and Greatest, grant that he preside over our Church, for its good and its ornament, as long as may be. Given at Mexico, where I was wholly taken up with seeing the Institutions through the press, on the —— day before the Kalends of September, in the year of the Lord
 
 ciↄ iↄ cclxxiv.
 
@@ -442,11 +374,7 @@ Purchot says (b), for violating the law of God he
 
 changes, some things that pertain to this first part of the History of Philosophy, as also the rest from
 
-the works of Brucker, Stanley, Klausius and others.
-
-[p. 2]
-
-had been expelled from the garden of delights in which he had been placed, then, given over to the darkness of ignorance among the other penalties of sin to which he became subject, he dragged all his posterity with him into that darkness. Hence almost no traces of that excellent and heavenly gift remained in men’s minds, when some, shaking off the sloth of the rest, moved by admiration of the most beautiful things and taught by frequent observation of particular effects, which is called experience, set about restoring it from its foundations with every effort and zeal.
+the works of Brucker, Stanley, Klausius and others. [p. 2] had been expelled from the garden of delights in which he had been placed, then, given over to the darkness of ignorance among the other penalties of sin to which he became subject, he dragged all his posterity with him into that darkness. Hence almost no traces of that excellent and heavenly gift remained in men’s minds, when some, shaking off the sloth of the rest, moved by admiration of the most beautiful things and taught by frequent observation of particular effects, which is called experience, set about restoring it from its foundations with every effort and zeal.
 
 3 It is agreed among nearly all, moreover, that the study of natural science and of the liberal arts flourished above all in Greece; but what Diogenes Laertius says in the Proem to the Lives of the Philosophers, that Philosophy was born in Greece just as men themselves were, is altogether foreign to the truth. For, to pass over what Josephus says (c), that the grandsons of Seth observed the order of the Heavens and the courses of the stars, “and, lest their discoveries should slip out of men’s knowledge, since Adam had foretold a general destruction of the World, the one by fire, the other by flood, set up two columns, one of brick, the other of stone, and carved their discoveries on both, so that if the brick one should perish in the flood, the stone one would survive and give men the means of learning”: to pass over these things, I say, which are commonly known (although they were for the most part unknown to the Heathen), no one will indeed deny that the Patriarchs and leaders of the Hebrews, such as Abraham, Moses and others, were instructed in the science of natural things, just like Solomon, King of the Jews, who, as the Sacred Scriptures testify (d), “treated about trees from the cedar that is in Libanus, unto the hyssop that cometh out of the wall: and he discoursed of beasts, and of fowls, and of creeping things, and of fishes.” This moreover is certain from the testimony of the Heathen themselves, that the Assyrians and Chaldeans were laudably versed in Astronomy, invited, namely, by the flat and open region they inhabited, from which they could freely observe the courses of the stars. Hence Tully (e) records that the Chaldeans excelled in the knowledge of the stars and in the shrewdness of their minds.
 
@@ -462,11 +390,7 @@ the
 
 (e) On Divination, bk. 1.
 
-(f) Jewish Antiquities, ch. 9.
-
-[p. 3]
-
-the sea, Geometry was carried; which Thales of Miletus, namely, learned in Egypt
+(f) Jewish Antiquities, ch. 9. [p. 3] the sea, Geometry was carried; which Thales of Miletus, namely, learned in Egypt
 
 and brought into Greece, as Diogenes Laertius himself narrates in his life.
 
@@ -560,11 +484,7 @@ the
 
 (g) Bk. XX of the Histories, ch. 4.
 
-(h) Academic Questions, bk. 1.
-
-[p. 5]
-
-the Philosophers had been occupied, called Philosophy away and brought it to common life, so that it should inquire about virtues and vices, and in general about good and evil things; and he held that heavenly things were either far removed from our knowledge, or, even if they were known as fully as possible, still contributed nothing to living well. In nearly all the discourses which were written down, variously and copiously, by those who heard him, he disputed in such a way that he affirmed nothing himself, refuted others, and said that he knew nothing, except that very thing.”
+(h) Academic Questions, bk. 1. [p. 5] the Philosophers had been occupied, called Philosophy away and brought it to common life, so that it should inquire about virtues and vices, and in general about good and evil things; and he held that heavenly things were either far removed from our knowledge, or, even if they were known as fully as possible, still contributed nothing to living well. In nearly all the discourses which were written down, variously and copiously, by those who heard him, he disputed in such a way that he affirmed nothing himself, refuted others, and said that he knew nothing, except that very thing.”
 
 17 Crito, Aristippus, Cebes, Xenophon, Euclid and others were followers of Socrates. But among them all Plato the Athenian was eminent, who also succeeded Socrates in the Academy and, keeping to his method, affirmed nothing, but, as the same Tully says (i), “in his books many things are argued on both sides, everything is inquired into, nothing certain is said.” Plato, moreover, had among his other disciples Aristotle, afterwards the Chief of the Peripatetic sect, and his own adversary.
 
@@ -580,11 +500,7 @@ was
 
 (k) Bk. 13 of the Geography.
 
-(l) In the life of Theophrastus.
-
-[p. 6]
-
-was subject, in seeking out books from every quarter to furnish the Library of Pergamum, buried their own in the ground lest they be carried off; and there they lay a long time, abandoned and, as it were, entombed. At length, dug up by the successors of those men, damaged and gnawed by damp and by moths, they were sold for a great sum of money to Apellicon of Teos, a man more devoted to books than to learning. Apellicon, for his part, after an unskilled restoration of the eaten-away parts, transcribed the books into new copies, which nevertheless still teemed with very many faults, and with very many gaps also left unfilled.
+(l) In the life of Theophrastus. [p. 6] was subject, in seeking out books from every quarter to furnish the Library of Pergamum, buried their own in the ground lest they be carried off; and there they lay a long time, abandoned and, as it were, entombed. At length, dug up by the successors of those men, damaged and gnawed by damp and by moths, they were sold for a great sum of money to Apellicon of Teos, a man more devoted to books than to learning. Apellicon, for his part, after an unskilled restoration of the eaten-away parts, transcribed the books into new copies, which nevertheless still teemed with very many faults, and with very many gaps also left unfilled.
 
 21 But immediately after the death of Apellicon his library, which was at Piraeus, was carried off by L. Sulla, as Plutarch records in his life, and taken to Rome, where a certain Grammarian, Tyrannio, asked to be allowed the use of the Aristotelian books; and, having obtained this permission, he himself corrupted a great many things in them, and shared copies with a certain Andronicus of Rhodes, by whom, after they had been likewise interpolated, they were at length brought out into the light. From this it is more than sufficiently clear that the books of Aristotle were wretchedly defiled and full of gaps in many places, so that no one can affirm for certain which are the words of Aristotle himself, and what Apellicon supplied, what Tyrannio and Andronicus. Whoever wishes to know more of this, let him read Stanley (m). We pass on to the rest.
 
@@ -670,11 +586,7 @@ are
 
 (p) Hist. of Philos., vol. 2, On the Eclectics, ch. 2.
 
-(q) Letter 85.
-
-[p. 8]
-
-are led; nor do they think it possible either that they themselves should be wiser, because they are called the younger, or that those others should have been foolish, because they are named the elders (r).”
+(q) Letter 85. [p. 8] are led; nor do they think it possible either that they themselves should be wiser, because they are called the younger, or that those others should have been foolish, because they are named the elders (r).”
 
 28 In the following ages after the coming of Christ, the doctrine of Plato always held first place until about the eighth century of the Church, and very many of the Holy Fathers consecrated their study and their vigils to it. Among the Latin Fathers it was most diligently cultivated by St. Augustine, who, being of a most penetrating wit, illustrated it in many parts and happily employed it to refute the errors of the Heathen and to assert the truth of the Christian Religion.
 
@@ -710,11 +622,7 @@ they
 
 (g) Dialogue against the Luciferians.
 
-(h) On Ps. 118.
-
-[p. 9]
-
-they follow Aristotle.” Gregory Nazianzen too (i) laments that the captious arguments of the sophists and the depraved artifice of the Aristotelian art had crept into the Church like certain Egyptian plagues. St. Augustine addresses the Pelagians thus (k): “Your heresy has been brought to this, that your followers groan that no Dialectician Judges from the Schools of the Peripatetics are to be found in the Church by whom you might be acquitted.” St. Vincent Ferrer exclaims querulously (l) that Aristotle and Averroes were vials of the wrath of God poured out upon the waters of Christian wisdom, whence they were made bitter as wormwood. Whoever wishes more, let him read the celebrated Guido Grandi. Let us follow our History.
+(h) On Ps. 118. [p. 9] they follow Aristotle.” Gregory Nazianzen too (i) laments that the captious arguments of the sophists and the depraved artifice of the Aristotelian art had crept into the Church like certain Egyptian plagues. St. Augustine addresses the Pelagians thus (k): “Your heresy has been brought to this, that your followers groan that no Dialectician Judges from the Schools of the Peripatetics are to be found in the Church by whom you might be acquitted.” St. Vincent Ferrer exclaims querulously (l) that Aristotle and Averroes were vials of the wrath of God poured out upon the waters of Christian wisdom, whence they were made bitter as wormwood. Whoever wishes more, let him read the celebrated Guido Grandi. Let us follow our History.
 
 30 The Western Provinces, meanwhile, presented a far different face of things. For the Arabs, toward the end of the eighth century and the beginning of the ninth, having previously subdued very extensive regions and obtained dominion far and wide through Africa and Spain, revived the doctrine of Aristotle, rendered from Greek into Arabic and from Arabic into Latin and illustrated with commentaries, and brought it into the public schools; and this system indeed held them for nearly five hundred years, the understanding of the Greek and Latin languages being almost buried along with it. This method of philosophizing, brought by the Arabs into Spain, migrated to the English and the French and was spread far and wide; then the eloquent and richer style of Plato’s discourse began to be neglected and dialectical acumen to flourish, the interpreters of Aristotle zealously pursuing a subtle, minute, contentious, excessively talkative manner of discoursing: among whom are reckoned as chief Avicenna, Alfarabi, Alkindi, but easily the prince of all Averroes of Córdoba, called by the singular title of the Commentator. Hence was born the disputatious and contentious Philosophy, which brought barbarism of speech with it into the Schools, and was called Scholastic, because it has been in use in the Schools down to our own times; although it has met with varied fortune at different times, and if I had a mind to draw out my discourse on it at greater length, whole volumes of Brucker and others would have to be copied out by me; we shall, however, touch on some chief points.
 
@@ -894,11 +802,7 @@ the manner of Geometers.
 
 43 This sect numbers celebrated Men, men who for their skill in experimenting
 
-and
-
-[p. 13]
-
-and in making calculations are especially illustrious: so that it is for this reason called
+and [p. 13] and in making calculations are especially illustrious: so that it is for this reason called
 
 Newtonian from the name of its Author, but Mathematical on account of its method of
 
@@ -974,11 +878,7 @@ France in the year 1515, with such success that the Ramist Dialectic commended i
 
 exceedingly to many
 
-on
-
-[p. 14]
-
-on this account, that, rejecting empty subtleties, it referred that discipline to the use of the courts and of life, and above all to the reading of the ancient Writers. Hence it came about that it gained both numerous disciples and eminent men as patrons: in France, Omer Talon; in Germany, Franz Fabricius, Sturm, Chytraeus.
+on [p. 14] on this account, that, rejecting empty subtleties, it referred that discipline to the use of the courts and of life, and above all to the reading of the ancient Writers. Hence it came about that it gained both numerous disciples and eminent men as patrons: in France, Omer Talon; in Germany, Franz Fabricius, Sturm, Chytraeus.
 
 48 Among the Cartesian Writers on Logic there stand out the Author of the Art of Thinking (L’Art de penser), whether he was Arnauld or someone else (p), and Malebranche, who treated at length the art of seeking the truth. There were also those who deduced the precepts of Logic from Mathematical principles; a work of this kind was published by Erhard Weigel, entitled in this form: Analysis Aristotelica ex Euclide restituta, etc. Likewise Walther von Tschirnhaus, in the book whose title is Medicina mentis. To the same class belongs the Logic of Christian Wolff, which he composed by the Mathematical method, illustrated with higher examples. Those Writers on Logic who seem to deserve the name of Eclectics are generally reckoned to be these: John Locke; Christian Thomasius; Mariotte; Poiret; Jean Le Clerc; Jean- Pierre de Crousaz; Andreas Rüdiger; Fortunato da Brescia; Antonio Genovesi; the celebrated Luís António Verney, who also published at Valencia a Method of Studying under the feigned name of Father Barbadiño; Honoré Fabri, Dominique Buffier, Noël Regnault, Cochet, and others.
 
@@ -1080,11 +980,7 @@ F    urther, how great are the accessions that natural Philosophy owes to the
 
 Academies of Sciences, not one of the learned is unaware. Nor
 
-is
-
-[p. 17]
-
-is it our intention, however, while we present these, to list all the Gymnasia and public Schools established in various places from Charlemagne onward; still less does it please us to enumerate the private little gatherings of a few, which were, namely, of short life and hardly fitted for the public utility. The name of Academy was given, while Paul II, Supreme Pontiff, governed the Church, to the College of those residing at Rome who had undertaken some restoration of the fallen ancient learning.
+is [p. 17] is it our intention, however, while we present these, to list all the Gymnasia and public Schools established in various places from Charlemagne onward; still less does it please us to enumerate the private little gatherings of a few, which were, namely, of short life and hardly fitted for the public utility. The name of Academy was given, while Paul II, Supreme Pontiff, governed the Church, to the College of those residing at Rome who had undertaken some restoration of the fallen ancient learning.
 
 59 In the same city celebrated Academies afterwards opened, namely: that of the Humorists, founded by Paolo Mancini, a Roman nobleman, so called from the rain falling from the clouds, because this was their Emblem, with the motto Redit agmine dulci [it returns in a sweet stream]. The other was that of the Lynxes; they took this name from the gift of the Lynx, which excels in sight, so as to intimate their perspicacity in scrutinizing the works of nature; and this Academy, founded either by Federico Cesi or by Angelo, son of Federico, cultivated chiefly Chemistry, and produced illustrious men, Galileo Galilei, Fabio Colonna, and others. There were likewise several Colleges at Rome, such as those of the Ordinati, the Delfici, the Incitati, the Partenii, the Rinnovati, etc. (s); at Venice the Veneta Academy flourished, and also another, of the Incogniti. At Padua the Academy of the Eterei took its origin from Scipione Gonzaga; another comprised the Animosi Academicians. Nor did the other parts of Italy lack their Academies: at Naples, Siena, Ravenna, Ferrara, Verona, Milan, Bologna, etc.
 
@@ -1272,11 +1168,7 @@ and his own senses for investigating and weighing the truth, rather than, by be�
 
 lieving, be deceived by the errors of others, as if he himself
 
-A                                       were
-
-[p. 2]
-
-were devoid of reason. God has given wisdom to all according to each one’s share, so that they might both search out things unheard and weigh things heard. Nor, because our elders went before us in time, did they also go before us in wisdom; for if wisdom is given to all equally, it cannot be seized beforehand by those who came first. It cannot be diminished, like the light and brightness of the sun: for as the sun is the light of the eyes, so wisdom is the light of the human heart. Wherefore, since to be wise, that is, to seek the truth, is innate in all men, those deprive themselves of wisdom who without any judgment approve the discoveries of their elders and are led by others in the manner of cattle. But what deceives them is this: once the name of elders is set before them, they do not think it can happen either that they themselves are wiser, because they are called younger, or that those others were foolish, because they are named elders.”
+A                                       were [p. 2] were devoid of reason. God has given wisdom to all according to each one’s share, so that they might both search out things unheard and weigh things heard. Nor, because our elders went before us in time, did they also go before us in wisdom; for if wisdom is given to all equally, it cannot be seized beforehand by those who came first. It cannot be diminished, like the light and brightness of the sun: for as the sun is the light of the eyes, so wisdom is the light of the human heart. Wherefore, since to be wise, that is, to seek the truth, is innate in all men, those deprive themselves of wisdom who without any judgment approve the discoveries of their elders and are led by others in the manner of cattle. But what deceives them is this: once the name of elders is set before them, they do not think it can happen either that they themselves are wiser, because they are called younger, or that those others were foolish, because they are named elders.”
 
 5 All these things are to be understood of the natural sciences, such as, for example, Philosophy is. For of him who most arrogantly, with his brief human reason, insults the authority of God, that is, the highest reason, what else am I to say than that he casts off all reason? He who does this is not a Philosopher; he is not even rational. In natural science, therefore, we commend that freedom which approves no estrangement from the Church, none from her dogmas. This is the Eclectic Philosophy, to which I judge you must apply yourselves with all care and all zeal. For it is that philosophy, to speak with Tully, whose study, if anyone disparages it, I truly do not understand what it is that he thinks worthy of praise.
 
@@ -1284,11 +1176,7 @@ were devoid of reason. God has given wisdom to all according to each one’s sha
 
 7 Since, finally, Philosophy consists in the knowledge of the true and the good: that part of Philosophy which prepares the mind for the knowledge of the true is usually called Instrumental, or Logic; that which imbues it with that knowledge, Theoretical; and that which finally leads it to the true good, Practical. The Theoretical, since it imbues the mind with the knowledge of the true, either inquires into truths about God, spirits and being, or investigates what is true concerning the causes of natural things. In the former case it is called Metaphysics, in the latter Physics. Finally, since the Practical shows the way to the good: it is either what is good in general, or in particular what is just, becoming, or useful, that it
 
-teaches
-
-[p. 3]
-
-teaches. Of the good in general Ethics treats; of the just, the honorable and the becoming, Natural Law; of the useful, Politics and Economics. But since the narrowness of time does not allow me to linger too long in explaining all the parts of Philosophy, I shall explain Logic, Metaphysics and Ethics somewhat more briefly, perhaps, than was fitting; Physics much more fully.
+teaches [p. 3] teaches. Of the good in general Ethics treats; of the just, the honorable and the becoming, Natural Law; of the useful, Politics and Economics. But since the narrowness of time does not allow me to linger too long in explaining all the parts of Philosophy, I shall explain Logic, Metaphysics and Ethics somewhat more briefly, perhaps, than was fitting; Physics much more fully.
 
 8 But before I begin the work, I humbly invoke God, the Creator and Governor of all things, and I beg him not to fail me as I write, but to flood my mind with his light, lest I go astray in these lucubrations; rather, that I may hand down such precepts as will lead the minds of boys not only to a thorough understanding of these things contained in the visible world, but also (what we ought most of all to care for) in some manner to those heavenly things and to the blessed vision of the Maker; and that he not permit anything alien to the Roman Church or to the sanctioned Laws to slip from us unawares.
 
@@ -1354,11 +1242,7 @@ once cultivated Logic with great care. The Megarians, Stoics and Epicureans also
 
 cultivated it. We shall apply ourselves to it with keen zeal,
 
-so
-
-[p. 5]
-
-so that we may set forth all the best precepts that we have received as handed down by the Moderns, in the order that seems to us most suited to the nature of this discipline; and it seems most convenient to consider first the nature of the human intellect, then the nature of truth, and finally to inquire how truth is to be found and set forth.
+so [p. 5] so that we may set forth all the best precepts that we have received as handed down by the Moderns, in the order that seems to us most suited to the nature of this discipline; and it seems most convenient to consider first the nature of the human intellect, then the nature of truth, and finally to inquire how truth is to be found and set forth.
 
 ## CHAPTER II. On the Nature of the human intellect, and on the operations of
 
@@ -1372,11 +1256,7 @@ therefore, Logic teaches the method of finding and setting forth the truth, it i
 
 6 In turn, if our body is affected by the impact of an external body, the mind feels it by means of those organs of our machinery which are called senses: for if you bring fire near the skin, this affection of the body is felt by the mind. Likewise I feel pain when a thorn pricks my finger. The body, therefore, obeys the mind and carries out what the mind commands, and in turn the mind itself feels whatever is perceived by means of the senses. But that the one
 
-is
-
-[p. 6]
-
-is moved by the other and depends on it, this is the very thing that is called the complexion, or commerce, of the mind and the body.
+is [p. 6] is moved by the other and depends on it, this is the very thing that is called the complexion, or commerce, of the mind and the body.
 
 7 Whatever, then, that may be which understands and wills (of which we shall have to speak in another place), this much is certain: that there is in man something which knows and wills, which we call the soul, the mind, the rational soul, the spirit, etc. Finally, it is certain that body and mind are two altogether distinct substances. The mind perceives the forms of things, discerns, judges, reasons, feels, is stirred by passions, etc., things which no one would attribute to the body except foolishly: the soul, therefore, is not body.
 
@@ -1386,11 +1266,7 @@ is moved by the other and depends on it, this is the very thing that is called t
 
 constituted
 
-(a) There are those who hold that ideas and perceptions are the same thing, and say that they consist in motions of the senses and of the brain. So Hobbes, Leviathan, pt. 1, ch. 3, 4, and in Elem. Philosoph. ch. 25, art. 2. There are those who say that ideas and perceptions are the same cognition of the mind, yet in such a way that the same cognition, inasmuch as it is referred to the mind which perceives, is called perception; inasmuch as it is referred to the object of which it is the image, and which is perceived, idea. So Arnauld and Locke, Essai sur l’Entendement Humain, in the Preface, and bk. 2, ch. 8, §. 7, 8. Others altogether separate perceptions from ideas, and think that God impresses the ideas of things on the human mind. So Malebranche, Recherche de la Verité, bk. 3. Lastly, others say that material ideas are affections of the senses and of the brain, while intellectual ones, which correspond to the material, are perceptions of material things. So Wolff, from whom the Scholastics do not dissent, though they call the material idea an intellection. Amid so great a disagreement among the most learned men, it would be arrogant to wish to put forward anything as certain.
-
-[p. 7]
-
-constituted sense organ, so often there arises in the soul a certain particular sensation corresponding to this change. Thus the motions of the senses affect the brain and impress something on it, from which the mind perceives the things that strike the sense, (b) as Haller (c) confirms with very many examples in his notes to Boerhaave. This perception of the mind is called an idea.
+(a) There are those who hold that ideas and perceptions are the same thing, and say that they consist in motions of the senses and of the brain. So Hobbes, Leviathan, pt. 1, ch. 3, 4, and in Elem. Philosoph. ch. 25, art. 2. There are those who say that ideas and perceptions are the same cognition of the mind, yet in such a way that the same cognition, inasmuch as it is referred to the mind which perceives, is called perception; inasmuch as it is referred to the object of which it is the image, and which is perceived, idea. So Arnauld and Locke, Essai sur l’Entendement Humain, in the Preface, and bk. 2, ch. 8, §. 7, 8. Others altogether separate perceptions from ideas, and think that God impresses the ideas of things on the human mind. So Malebranche, Recherche de la Verité, bk. 3. Lastly, others say that material ideas are affections of the senses and of the brain, while intellectual ones, which correspond to the material, are perceptions of material things. So Wolff, from whom the Scholastics do not dissent, though they call the material idea an intellection. Amid so great a disagreement among the most learned men, it would be arrogant to wish to put forward anything as certain. [p. 7] constituted sense organ, so often there arises in the soul a certain particular sensation corresponding to this change. Thus the motions of the senses affect the brain and impress something on it, from which the mind perceives the things that strike the sense, (b) as Haller (c) confirms with very many examples in his notes to Boerhaave. This perception of the mind is called an idea.
 
 10 When the intellect acquires simple ideas, that is, when it makes an object present to itself and perceives it without referring it to another, e.g. when it knows the sun, or a horse, this cognition is called simply perception, or, as the Scholastics put it, Simple apprehension, that is, a cognition affirming or denying nothing; but when the intellect compares two ideas with each other, refers one to the other, and perceives that it agrees with the other, or not, e.g. when it says The sun is bright, The sun is not a horse, this cognition is judgment, or the act of the intellect by which we affirm or deny something of an object. When the intellect compares three ideas with one another, it is said to Reason. Reasoning, or discourse, is the action of the mind by which we put together several ideas, of which one depends on another, so as to uncover what lay hidden. The question is asked: is air heavy? This is not at once clearly apparent; I therefore use reasoning in this way: whatever, placed on a scale-pan, presses it down is heavy; air placed on a scale-pan presses it down: therefore air is heavy.
 
@@ -1400,11 +1276,7 @@ on
 
 (b) That this is so is plainly shown even from this: that a very acute disease of the head, or a fracture of the skull, or diseases of that kind which have occurred in the brain and the head, have sometimes destroyed all memory of things, and sometimes taken away the understanding of things. This also happens in the demented and the insane, who through a defect of the brain speak incoherently and senselessly. And since the mind neither falls sick nor is changed, because these affections are bodily, it remains that something is impressed in the brain, from which we perceive the forms and ideas of things.
 
-(c) Vol. 4, §. 581.
-
-[p. 8]
-
-on which side the truth stands, the mind doubts, or suspends judgment. Finally,
+(c) Vol. 4, §. 581. [p. 8] on which side the truth stands, the mind doubts, or suspends judgment. Finally,
 
 to pass over other things, when the mind perceives a thing again and is more‐
 
@@ -1474,11 +1346,7 @@ es are the windows of the mind,
 
 through
 
-(d) Essai concernant l’Entendement Humain, bk. 1.
-
-[p. 9]
-
-through which the first notions enter into it, and by which it understands the other things that are outside it. But since how easily this comes about cannot be known unless we have some rough idea of the construction of the senses, we shall set down beforehand a very few things to pave the way for what follows.
+(d) Essai concernant l’Entendement Humain, bk. 1. [p. 9] through which the first notions enter into it, and by which it understands the other things that are outside it. But since how easily this comes about cannot be known unless we have some rough idea of the construction of the senses, we shall set down beforehand a very few things to pave the way for what follows.
 
 15 There are five senses of the human machine, by which the ideas of things are communicated to the brain and to the mind: Sight, Hearing, Smell, Taste, Touch, by which names we designate five different organs. And to begin with sight: the eyes, by which it is perceived, have a peculiar and wonderful structure, which it is not the place here to elucidate minutely; let us say only that the eye is a globe composed of three principal membranes, namely the cornea, the uvea and the retina, each of which encloses its own humor. The humor that is in the middle, which is called the crystalline, is convex on both sides and has the shape of a lens. The rays of light reflected from the object body are refracted while they pass through this lens, and paint an inverted image (e) of the object on the back of the inner membrane, which they call the retina. The retina is an expansion of the innermost medullary part of the optic nerve, which reaches as far as the common sensorium, as Winslow (f) explains very well in his anatomical exposition of the human body.
 
@@ -1506,11 +1374,7 @@ are
 
 (g) L’Existence de Dieu demontreè par les merveilles de la Nature, Contempl. XIV.
 
-(h) De Anima Brutorum, ch. 12.
-
-[p. 11]
-
-are led from the brain, or from the cerebellum and the spinal marrow, they very easily excite the same motion in the brain, from which the mind perceives the contact, that is, acquires the idea of touch, as Haller, Faye and Verdier (i) explain very well.
+(h) De Anima Brutorum, ch. 12. [p. 11] are led from the brain, or from the cerebellum and the spinal marrow, they very easily excite the same motion in the brain, from which the mind perceives the contact, that is, acquires the idea of touch, as Haller, Faye and Verdier (i) explain very well.
 
 21 Hence it becomes manifest that the office of the organs is to receive the impression of bodies and to transmit it to the brain, and to do so by means of the nerves, which are most apt for accomplishing this; but that it is the mind which elicits the ideas of things according to the variety of the senses. We say, however, that the eye sees, the ear hears, etc., which is not so. For the eye only receives, together with the image, a certain motion, so to speak, which it communicates to the brain; while the mind, prompted on the occasion of such a motion, forms for itself the idea of the thing seen. But since the perception of the mind follows that motion of the organ, we therefore confuse the two, and think that the eye sees, etc.; although it is altogether hidden from us how the affections of the senses reach the brain, and how our mind perceives those motions that are impressed in the brain. Thus in almost all sensations, as Malebranche (j) very well notes, four things, though different, are confused, namely because they take place together, and as it were in one point of time.
 
@@ -1600,11 +1464,7 @@ Moreover
 
 30 Thus the notion of substance, as Locke rightly warns, is the idea of a thing altogether unknown to us, or the idea of a most obscure thing, which we feign to be the subject of accidents. But the idea of particular substances, as of iron and of wood, is an idea composed of the ideas of all their properties. Those, therefore, philosophize badly who hold that the nature of a thing is fully known from the properties we know. For even if we know some properties, we cannot affirm with certainty that no properties remain which are not known to us. Wherefore from the properties which we know
 
-we
-
-[p. 14]
-
-we can separate things from one another, and the more properties we discern,
+we [p. 14] we can separate things from one another, and the more properties we discern,
 
 the more nearly we approach the knowledge of the nature; yet this is far re‐
 
@@ -1664,11 +1524,7 @@ manity. Ideas of the first kind are called singular, of the second
 
 particular
 
-(k) In Troad. V. 1016.
-
-[p. 15]
-
-particular, of the third universal. Universals, therefore, are not outside the mind,
+(k) In Troad. V. 1016. [p. 15] particular, of the third universal. Universals, therefore, are not outside the mind,
 
 or, as the Scholastics put it, a parte rei [on the side of the thing]. Universal man is
 
@@ -1732,11 +1588,7 @@ which cannot be called into doubt in Philosophy. Nonsense! For the
 
 predicaments are nothing other
 
-than
-
-[p. 16]
-
-than a nomenclature, which shows by what name Aristotle named certain beings: in actual fact it is an inept division, as we shall show below; but first we shall explain a few things about the antepredicaments.
+than [p. 16] than a nomenclature, which shows by what name Aristotle named certain beings: in actual fact it is an inept division, as we shall show below; but first we shall explain a few things about the antepredicaments.
 
 36 Aristotle counted four Antepredicaments: Univocals, Equivocals, Analogues and Denominatives. Univocals are things whose name is common, while the meaning signified by the name is altogether the same in all. Those words altogether the same signify not identity, but likeness. Equivocals are those whose name is common, while the meaning signified by the name is altogether different. A common example is Dog, which is taken for the domestic animal and for a star. Analogues are things whose name is common, while the meaning signified by the name is partly the same, partly different, or belongs properly to one, improperly to another; thus laughter is analogous with respect to a man and to a meadow. Denominatives are those which are derived from some name, as brave from bravery, etc. And these are the antepredicaments. But if we consider the things themselves, we shall understand without effort that all ideas can be reduced to three classes, as it were: Substance, Adjuncts, Relations, as we also said above.
 
@@ -1846,11 +1698,7 @@ Second, that it ought to be reciprocal with the thing defined, or, as the School
 
 say, that the thing defined and the definition be mutually
 
-convertible
-
-[p. 19]
-
-convertible. Third, that it ought to consist of proper and perspicuous words, or at least of words already defined beforehand. Fourth, that the thing defined should not enter into the definition, that is, that the same should not be explained by the same, e.g. a circle is a circle. Fifth, that the definition ought to apply to all of the thing defined and to it alone; hence that definition of man is faulty: a two-footed animal without feathers. From these rules flow four axioms received in the Schools: to whatever the definition belongs, the thing defined belongs also, and conversely; likewise: to whatever the definition is repugnant, the thing defined is repugnant also, and vice versa.
+convertible [p. 19] convertible. Third, that it ought to consist of proper and perspicuous words, or at least of words already defined beforehand. Fourth, that the thing defined should not enter into the definition, that is, that the same should not be explained by the same, e.g. a circle is a circle. Fifth, that the definition ought to apply to all of the thing defined and to it alone; hence that definition of man is faulty: a two-footed animal without feathers. From these rules flow four axioms received in the Schools: to whatever the definition belongs, the thing defined belongs also, and conversely; likewise: to whatever the definition is repugnant, the thing defined is repugnant also, and vice versa.
 
 46 Two things, however, we must take care of here. First, that we define accurately the obscure names that come into controversy, lest we dispute from an ambiguity. Some Philosophers sin against this law, who, because they do not define their terms, wrangle with one another even to abuse and fisticuffs, even if both disputants are saying the same things in different words. Second: that when we define names, we should not think that we are defining the thing itself. Against this rule those very Philosophers also sin: for when they define certain words at their own discretion, they persuade themselves that they thoroughly know and define the natures of the things signified: e.g. ask them, what is a tree? They say it is a living insensitive thing. What is lightning? They answer that it is an exhalation kindled in a cloud, which tends downward. But these explanations declare only what things are signified by those names; they do not lay open the natures of the things, unless I first know distinctly what a living insensitive thing, an exhalation, a cloud, kindling and the rest are. But now let us say a few things about division.
 
@@ -1858,11 +1706,7 @@ convertible. Third, that it ought to consist of proper and perspicuous words, or
 
 48 The first law of division is that the dividing members be equal to the whole divided. Faultily, therefore, do the Aristotelians divide being into ten categories, since more can be established. The second, that one member not be contained in another; hence number is not rightly divided into even, odd and binary: for the binary is contained in the even. Let the Logician, therefore, in his wisdom so divide a thing that a clearer knowledge of the thing may be had from it, so that he may define it the more easily and accurately. And let him carefully beware of what we warned above concerning definition, lest, when he divides the signification of a name, he think he is dividing the thing itself: an enormity which Aristotle
 
-C2                                     himself
-
-[p. 20]
-
-himself and some of the Ancients imprudently committed. What we have
+C2                                     himself [p. 20] himself and some of the Ancients imprudently committed. What we have
 
 warned concerning division must be understood of subdivisions as well, although
 
@@ -1918,11 +1762,7 @@ For no affirmative proposition is true except because the whole predicate is in�
 
 cluded in the subject; no negative
 
-one
-
-[p. 21]
-
-one, except because the whole is not included. E.g. when I say I am living, by the pronoun I I designate the complex idea of my individual self, and I mean my individual self is living; which amounts to: in the complex idea of my individual self the idea of living is included.
+one [p. 21] one, except because the whole is not included. E.g. when I say I am living, by the pronoun I I designate the complex idea of my individual self, and I mean my individual self is living; which amounts to: in the complex idea of my individual self the idea of living is included.
 
 51 The Matter of a proposition is those words of which the same proposition is composed, as it were of parts. By reason of its matter a proposition is called necessary when the predicate agrees necessarily with the subject, as man is an animal; contingent when it agrees contingently, as John is white; impossible when it is repugnant to it, as Sempronius is a stone. But this too is referred to the necessary: for the former is called necessarily true, the latter necessarily false.
 
@@ -2028,11 +1868,7 @@ Since
 
 66 Thus, e.g., if I demonstrate the roundness of the earth from its shadow in Lunar Eclipses, I demonstrate the cause from the effect, so
 
-that
-
-[p. 25]
-
-that this demonstration will be a posteriori. On the other hand, when I demon‐
+that [p. 25] that this demonstration will be a posteriori. On the other hand, when I demon‐
 
 strate the immortality of the mind from its spirituality, and this from thought,
 
@@ -2098,11 +1934,7 @@ major and in the minor. The third, finally, both in the major and in the minor,
 
 puts the middle
 
-D                                         as
-
-[p. 26]
-
-as subject. Here are examples. First fig.: what thinks is spirit; the mind thinks: there‐
+D                                         as [p. 26] as subject. Here are examples. First fig.: what thinks is spirit; the mind thinks: there‐
 
 fore the mind is spirit. Second fig.: body does not think; the mind thinks: therefore the
 
@@ -2176,11 +2008,7 @@ In affirmative syllogisms it makes no difference at all whether we call the majo
 
 74 By the help of this principle, too, the fallacy of this syllogism can be detected with little trouble: he who says you are an animal says what is true; but he who says you are a goose says you are an animal: therefore he who says you are a goose says what is true. For it suffices to answer that neither of the premises contains the conclusion. For animal in the major is taken particularly, since it is the predicate of this proposition: you are an animal. Hence, too, may be sought the solution of the sophism that St. Augustine reports: you are not what I am; I am a man: therefore you are not a man: for each
 
-D2                                      premise
-
-[p. 28]
-
-premise speaks of a thing singularly proper to me, and so it cannot contain the
+D2                                      premise [p. 28] premise speaks of a thing singularly proper to me, and so it cannot contain the
 
 conclusion, which proceeds about a thing proper to you.
 
@@ -2244,11 +2072,7 @@ Remotely, as when one brings forward a thing openly false, or mere words, or
 
 something of this kind
 
-to
-
-[p. 29]
-
-to prove the thesis: for in such a case too he asks that the principle be granted him which he had to prove in order to accomplish what was proposed. When one of the premises, either plainly doubtful or plainly false, is adduced as a reason, this sophism too is called petitio principii. This can happen in very many ways, as we said above. Aristotle proves that the fixed stars twinkle because they are very far distant from us (l), and that they are very far distant because they twinkle (m). Behold a circle.
+to [p. 29] to prove the thesis: for in such a case too he asks that the principle be granted him which he had to prove in order to accomplish what was proposed. When one of the premises, either plainly doubtful or plainly false, is adduced as a reason, this sophism too is called petitio principii. This can happen in very many ways, as we said above. Aristotle proves that the fixed stars twinkle because they are very far distant from us (l), and that they are very far distant because they twinkle (m). Behold a circle.
 
 78 When they assign as a physical cause mere words that in reality signify nothing, we have said above that there is a petitio principii. Here is an example. Very many Philosophers, while they try to explain things wrapped up by nature herself, since they cannot accomplish this with firm and perspicuous arguments and are unwilling to confess their ignorance, have recourse to empty words and applaud themselves as though they had unlocked some such mystery. Hence horror of the vacuum, soporific virtue, and words of that kind, sonorous indeed and bombastic, but which have no meaning and do not make us more learned.
 
@@ -2260,11 +2084,7 @@ of
 
 (l) On the Heavens, 2, ch. 8.
 
-(m) Prior Analytics, 1, ch. 13.
-
-[p. 30]
-
-of criticism; and finally that it brings the human race no utility toward reason‐
+(m) Prior Analytics, 1, ch. 13. [p. 30] of criticism; and finally that it brings the human race no utility toward reason‐
 
 ing rightly in the other disciplines: which ought not to have been passed over
 
@@ -2612,11 +2432,7 @@ selves deceive, for they always present something that really exists, but becaus
 
 they furnish the occasion of our being deceived, by judging that the objects really
 
-are
-
-[p. 37]
-
-are just as they appear to us. Thus, while we see light, colors and other objects, it is indeed true that we see them, even if we were suffering from frenzy. For all the delirious without doubt see what they see, and their error consists solely in the judgments by which they judge that what they see really exists outside themselves, by the very fact that they see it placed externally. But as we are about to treat of the fallacies of the senses, let us begin with sight.
+are [p. 37] are just as they appear to us. Thus, while we see light, colors and other objects, it is indeed true that we see them, even if we were suffering from frenzy. For all the delirious without doubt see what they see, and their error consists solely in the judgments by which they judge that what they see really exists outside themselves, by the very fact that they see it placed externally. But as we are about to treat of the fallacies of the senses, let us begin with sight.
 
 99 We can scarcely ever judge with certainty that we grasp the true magnitude of things. For just as glass lenses, if they are segments of a larger or a smaller sphere, and hence more or less convex, then represent objects larger or smaller, so our eyes, if they are more or less convex, will do the same. If, therefore, the eyes of two men differ from each other (as they really do differ) either in the density of the humors, or in their figure, or in their position and situation, they will exhibit a different extension of a body, as glass lenses do: hence we cannot say for certain how large the object is that we behold.
 
@@ -2638,11 +2454,7 @@ Men
 
 that
 
-(u) Opticks, p. 103 & 153.
-
-[p. 39]
-
-that sounds; which, however, is false. For the sonorous body does nothing other than tremble very swiftly and in a certain manner, and this tremor drives the air to the tympanum of the ear and so moves it as to excite in the mind the sensation of sound. For no sound arises unless the particles of the bodies that are called sonorous take on a tremulous motion, which can be very easily proved by one or two experiments.
+(u) Opticks, p. 103 & 153. [p. 39] that sounds; which, however, is false. For the sonorous body does nothing other than tremble very swiftly and in a certain manner, and this tremor drives the air to the tympanum of the ear and so moves it as to excite in the mind the sensation of sound. For no sound arises unless the particles of the bodies that are called sonorous take on a tremulous motion, which can be very easily proved by one or two experiments.
 
 106 For if water is poured into a glass vessel and a finger, brought to the lip of the vessel, is drawn round the mouth of the vessel for some time, continually pressing and rubbing, a tremor and quivering is in this way excited in the walls of the vessel, which is at once communicated to the water it contains, and that tremor plainly appears to the eye. And as soon as the particles begin to tremble, the sensation of sound immediately arises; and when that tremor is extinguished, whether this happens of itself or by our doing, all sensation of sound is immediately extinguished.
 
@@ -2666,11 +2478,7 @@ Those
 
 114 Those images must be held most certain which, all the circumstances having been accurately weighed, are always found the same by the same sense, or by the other senses; and this by one man, and much more by diverse men who have examined them diligently. For if not even in this case could the images be held true, God would perpetually delude us:
 
-which
-
-[p. 41]
-
-which is foreign to so great a Goodness. In this way, indeed, the fiction of the
+which [p. 41] which is foreign to so great a Goodness. In this way, indeed, the fiction of the
 
 Pyrrhonists is refuted by true Philosophers. For clarity’s sake we shall comprise
 
@@ -2732,11 +2540,7 @@ such brilliance,
 
 F                                        judges
 
-(u) De Re Logica.
-
-[p. 42]
-
-judges to be good or bad what in reality is not. This can be proved by so many arguments that plenty makes me poor. I shall add a few, however; as for the rest, I advise each one to consult himself: for if he scrutinizes his own actions and weighs them as they deserve, he will find all too many examples.
+(u) De Re Logica. [p. 42] judges to be good or bad what in reality is not. This can be proved by so many arguments that plenty makes me poor. I shall add a few, however; as for the rest, I advise each one to consult himself: for if he scrutinizes his own actions and weighs them as they deserve, he will find all too many examples.
 
 117 The principal source of the affections, from which they all flow, is the immoderate love with which each one loves himself, which we call Philautia [self-love]: wherefore Philautia must be held to be the parent of the errors that arise from the Will. We love vehemently ourselves and everything that is ours, our sayings, deeds and thoughts. Nor do we think that anything so glorious can be declared of any man that we do not judge it ought to be said of ourselves with better right. This affection, like a kind of disease, sometimes pervades not only the half-learned but even the most learned.
 
@@ -2746,11 +2550,7 @@ judges to be good or bad what in reality is not. This can be proved by so many a
 
 120 These things can be pardoned in a Heathen man, writing in so rude an age, and one who had not read good authors; but in Catholic men, and in this light of Letters, they are not to be borne. I have heard a Peripatetic say that the ancient Bishops, from the first century of the Church, held Aristotle as a kind of norm of disputing, even in matters of Faith, and did not depart a finger’s breadth from his opinions. Nor would I hesitate to affirm that very many even now persist in the same
 
-heresy
-
-[p. 43]
-
-heresy, though more covertly.
+heresy [p. 43] heresy, though more covertly.
 
 121 Hence arises this too, that those who are held by such opinions think nothing right except what flows from those sources. These they defend constantly and stubbornly; the rest they reject as false and harmful. They fear, namely, lest they incur the mark of inconstancy or of error, and lose by an ingenuous confession of error the praise they acquired with so much sweat. This philautia prevents men from tracking down the truth; and this happens much more in the old than in the young.
 
@@ -2762,11 +2562,7 @@ heresy, though more covertly.
 
 F2                                         it
 
-(x) Cic., Brutus, ch. 21.
-
-[p. 44]
-
-it repels from itself. The Theologian, on the other hand, even if he praises the Jurisconsult, nevertheless thinks it a heinous crime if the latter touches on anything of the Sacred Science. As though the laws of the Caesars were not illustrated by the Sacred Letters and by Ethical discipline; or as though the statutes of the Sacred Canons were not aided by the constitutions of Princes. And so much in particular on philautia; and since the remaining affections are reduced to it, we shall append a few things about them.
+(x) Cic., Brutus, ch. 21. [p. 44] it repels from itself. The Theologian, on the other hand, even if he praises the Jurisconsult, nevertheless thinks it a heinous crime if the latter touches on anything of the Sacred Science. As though the laws of the Caesars were not illustrated by the Sacred Letters and by Ethical discipline; or as though the statutes of the Sacred Canons were not aided by the constitutions of Princes. And so much in particular on philautia; and since the remaining affections are reduced to it, we shall append a few things about them.
 
 125 Hope, and much more Desire, what do they not disturb in the breast of mortals! How they distract the mind, so that it does not attend to the things that are! Those who desire and hope feign dreams for themselves: these they love, these they adore, they see nothing besides. Hence they readily think that they have what they hope for; they lend their ears to flatterers, believe them, and are wonderfully deceived. Let some mountebank tell a man suffering from paralysis or dropsy that he has an exquisite remedy by which he would free such men from the disease within the course of a single day: though a thousand most weighty men should show that this cannot be done, the sick will think it true.
 
@@ -2778,11 +2574,7 @@ it repels from itself. The Theologian, on the other hand, even if he praises the
 
 129 Fear also generates wonderful phenomena in the minds of men. Those who are seized by excessive fear scarcely ever understand things
 
-as
-
-[p. 45]
-
-as they are: they think they see what they do not see, and perpetually reason badly. Hence so many prodigies present themselves in the Histories of the Heathen, which flowed from this source, that peoples persuaded themselves that the immortal gods would exact the penalty for crime by a visible punishment. And once their minds had been stirred to religious awe, it was easy for them to think that whatever happened less ordinarily, whether an eclipse of the Moon or of the Sun, or an egg larger than usual, or a serpent in the house, and follies of that kind, that these, I say, were portents by which those Gods of theirs declared their anger and indignation.
+as [p. 45] as they are: they think they see what they do not see, and perpetually reason badly. Hence so many prodigies present themselves in the Histories of the Heathen, which flowed from this source, that peoples persuaded themselves that the immortal gods would exact the penalty for crime by a visible punishment. And once their minds had been stirred to religious awe, it was easy for them to think that whatever happened less ordinarily, whether an eclipse of the Moon or of the Sun, or an egg larger than usual, or a serpent in the house, and follies of that kind, that these, I say, were portents by which those Gods of theirs declared their anger and indignation.
 
 130 But among our own people too, how many fables are born of fear! Those who fear assert that they themselves see apparitions of the night, specters of tombs, things horrible to tell. Whatever is heard by night is ghosts. If some old and ragged woman comes along, she, forsooth, displays a marvelous power of calling up demons at pleasure, of doing harm to whomever she will, and of killing a man with impunity: and six hundred most trifling things of this kind, which none but those seized with terror, or fools, will ever affirm.
 
@@ -2862,11 +2654,7 @@ the one, of those things that surpass our intelligence, such as the nature of th
 
 divine properties;
 
-likewise
-
-[p. 47]
-
-likewise all possible things, which can be neither determined nor explained by the reasonings of nature or by divine utterance. The other is of things that can indeed be understood, but we lack the necessary aids by which we might arrive at the knowledge of them: such are those we named a little before, and also the most ancient histories, and infinite things of this kind. And so much on the first cause.
+likewise [p. 47] likewise all possible things, which can be neither determined nor explained by the reasonings of nature or by divine utterance. The other is of things that can indeed be understood, but we lack the necessary aids by which we might arrive at the knowledge of them: such are those we named a little before, and also the most ancient histories, and infinite things of this kind. And so much on the first cause.
 
 138 The second cause is perverse method. This extends very widely, and from it arise very many errors and infinite evils. For in the first place there are those who, having entered upon a winding road set in darkness, do not arrive at the end they proposed to themselves, but frequently slip: nay, the further they advance along it, the more they swerve from the truth. Certain men of letters very often strike upon this rock.
 
@@ -2876,11 +2664,7 @@ likewise all possible things, which can be neither determined nor explained by t
 
 141 The third cause of errors is prejudices, or anticipated judgments that our mind makes about certain things: from which it comes about that we form our other judgments quite similar to them, and do not judge freely and deservedly about anything. For since men from their earliest age are accustomed to listen to others, who imprint on their minds the images of certain things,
 
-they
-
-[p. 48]
-
-they easily persuade themselves that what they hear is true, and attach such faith to such things that they can only with difficulty be turned to the contrary side. From this an infinite crop of errors springs up. And so the incredible multitude of prejudices that holds men is reduced to the prejudice of authority, if you take away a few that arise in adult men either from hatred or from love.
+they [p. 48] they easily persuade themselves that what they hear is true, and attach such faith to such things that they can only with difficulty be turned to the contrary side. From this an infinite crop of errors springs up. And so the incredible multitude of prejudices that holds men is reduced to the prejudice of authority, if you take away a few that arise in adult men either from hatred or from love.
 
 142 And first, the authority of parents is to children the norm of judging, and the cause of many errors. For parents imbue their children from the earliest age with foolish prejudices, which the nurses unceasingly confirm; and since tender minds are not strong in the use of reason and are not at all practiced in judging, they cannot persuade themselves that they have been deceived by their parents: and therefore they are deceived to a wonderful degree. Hence specters, and goblins, and ghosts, and the virtues of herbs and of medicines, and the miracles of mountebanks, and the other most trifling things that beat upon the ears of unhappy boys: so much so that, when they have become men, and are admonished by most learned men, they can scarcely at any time free themselves from those prejudices.
 
@@ -2890,11 +2674,7 @@ they easily persuade themselves that what they hear is true, and attach such fai
 
 145 The Peripatetic Doctor cries out that the disciplines of the Moderns are futile and weak; the Critical Art, Natural History, Geometry, Arithmetic, Mechanics and things like these he thinks to be boys’ trifles; and he hisses off men illustrious in these disciplines just as if they were madmen. On the other hand, he everywhere sounds forth Universals and Signs, and Syllogistics, and Topics, and the huge throng of despicable little questions that he entitles Physics and Metaphysics; and he contends that the limits of philosophical science are wholly defined by these. Nay, at times he strikes, as it were, terror into the minds of the boys,
 
-lest
-
-[p. 49]
-
-lest they learn Mathematics or the Philosophy of the Moderns, or ever call back to a severe examination the things that he himself holds as settled and fixed.
+lest [p. 49] lest they learn Mathematics or the Philosophy of the Moderns, or ever call back to a severe examination the things that he himself holds as settled and fixed.
 
 146 The little boy, nourished on these admonitions, reverently kisses the pronouncements of his Teacher, and thinks that nothing more excellent can be conceived; he turns away from the splendid discoveries of others as though they were mere trifles, and shudders at the mere hearing of the name of the Systems of the Moderns: therefore he is ignorant of the sources of the disciplines, and can neither think nor utter anything worthy of learned ears. And so, when he has grown older, he too nourishes others with the same milk, and propagates ignorance with as much labor as would have been needed for him to be held most illustrious in the best disciplines.
 
@@ -2904,11 +2684,7 @@ lest they learn Mathematics or the Philosophy of the Moderns, or ever call back 
 
 149 These are the common prejudices of authority by which men are led in every part of life. Not that they say expressly: he is rich, or noble, or old: therefore he cannot err: for the fault of this consequence is at once placed before the eyes. But tacitly they feel and settle it so; and without thinking distinctly about
 
-G                                        these
-
-[p. 50]
-
-these things, yet from a long habit of listening and of thinking imprudently, as if by a certain impulse of nature, they conform their actions to this rule.
+G                                        these [p. 50] these things, yet from a long habit of listening and of thinking imprudently, as if by a certain impulse of nature, they conform their actions to this rule.
 
 150 Add to these those who measure the learning either of the author or of the possessor by the multitude, size, titles, rarity and price of books. Truly nothing occurs more frequently, not only among the unlearned but even among most of those who apply themselves to letters, than this prejudice.
 
@@ -2918,11 +2694,7 @@ these things, yet from a long habit of listening and of thinking imprudently, as
 
 153 Now when a man leaves the discipline of his teachers, he runs into the manners of those who live in popular fashion, who are so far from polishing his judgment that they rather generally confirm him in error. For since the errors we drank in with our first milk are cured only by the most accurate meditation, and there are few who weigh with free judgment their first ideas and the force of words, it so happens that the greater part of men persevere in the errors of childhood, and by their error and obstinacy confirm their fellow-countrymen in them. Hence fellow-countrymen generally have the same manners, gladly live on the same foods, and cherish the same opinions. And this not
 
-only
-
-[p. 51]
-
-only in a light matter, but also in the gravest affairs; and, what is more, in that affair of the greatest moment which concerns religion.
+only [p. 51] only in a light matter, but also in the gravest affairs; and, what is more, in that affair of the greatest moment which concerns religion.
 
 154 Ask the people what an Angel is: they will answer that it is a winged boy; ask what the Devil is: you will hear that it is a most hideous man, who bears the appearance of a satyr. Ask also what the Moon is, what the Sun: you will hear that it is an animal that resembles a man in its face, and things like these. Ask what God is: you will be sent off to the Theologians.
 
@@ -2984,11 +2756,7 @@ its cause.
 
 this most excellent, nay truly the most important, part of Philosophy,
 
-although
-
-[p. 53]
-
-although it is the chief aim of this most excellent discipline, which takes upon itself the arduous charge of correcting and ruling the mind. We shall select whatever the Moderns have committed to writing on this subject, and shall explain it as briefly and as neatly as can be done.
+although [p. 53] although it is the chief aim of this most excellent discipline, which takes upon itself the arduous charge of correcting and ruling the mind. We shall select whatever the Moderns have committed to writing on this subject, and shall explain it as briefly and as neatly as can be done.
 
 161 Before we approach the work, however, it must be noted that the nature of this mind of ours is such that it cannot attain everything that is unknown to it. It must therefore be kept before our eyes that we are ignorant of the essences of things, and so ignorant of the essence of matter; and this being posited, there are insoluble questions which we cannot answer, such as those which depend on knowledge of essence, of which we are not speaking. Lest anyone, then, should perhaps incautiously waste his time in inquiring by the Analytic method into those things which, wrapped always in thick darkness, will lie hidden from men, we have thought it fitting to forewarn you to abstain from inquiring into them.
 
@@ -2998,11 +2766,7 @@ although it is the chief aim of this most excellent discipline, which takes upon
 
 164 Rule I. Weigh whether you are so prepared in mind as to be fit for discovering that truth or for solving the question, lest you either wander about to no purpose, or blurt out inept and ridiculous things. Suppose, e.g., the matter in hand is Theological, Medical, Astronomical, things of which you are ignorant. Will you not be utterly ridiculous
 
-who,
-
-[p. 54]
-
-who, ignorant of such faculties, come forth upon the stage to play the Theologian, the Physician, the Astronomer? To this may be applied that saying of Horace:
+who, [p. 54] who, ignorant of such faculties, come forth upon the stage to play the Theologian, the Physician, the Astronomer? To this may be applied that saying of Horace:
 
 Take, you who write, a matter equal to your strength,
 
@@ -3070,11 +2834,7 @@ discipline we desire by our own efforts as well. Truly, I judge that
 
 it has come about only through lack of a right method
 
-(y) Elem. of Logic.
-
-[p. 58]
-
-until one occurs both of whose premises are granted by the respondent. It is
+(y) Elem. of Logic. [p. 58] until one occurs both of whose premises are granted by the respondent. It is
 
 characteristic of Pedagogues, whom in Spanish we call Pedantes, when they take
 
@@ -3136,11 +2896,7 @@ lightly, or not even lightly, they so imbue their minds with most inept opinions
 
 as utterly to deprave their judgment,
 
-and
-
-[p. 59]
-
-and blunt the edge of their judging: nay (what is most to be lamented), they frequently instill the same vices even in those to whose education they devote their labor. From this is born that most rotten Pedantry, that is, a general ineptitude of judgment: which, like a plague of the liberal arts, creeps far and wide to the ruin of young men, and contaminates both humane letters and the weightier disciplines.
+and [p. 59] and blunt the edge of their judging: nay (what is most to be lamented), they frequently instill the same vices even in those to whose education they devote their labor. From this is born that most rotten Pedantry, that is, a general ineptitude of judgment: which, like a plague of the liberal arts, creeps far and wide to the ruin of young men, and contaminates both humane letters and the weightier disciplines.
 
 178 And hence it becomes manifest that a pedant is to the Moderns the same as an ineptus [inept man] was to the Latins. They called ineptus the man who was not apt for judging well about things. This ineptitude of judgment, however, is not confined within narrow regions, but extends far and wide. We nevertheless designate it by the single name of Philosophical Pedantry, because it flows from imprudence in judging, which is most directly opposed to the prudence of thinking rightly, that is, to Logic, whose chief use is in all the disciplines.
 
@@ -3150,11 +2906,7 @@ and blunt the edge of their judging: nay (what is most to be lamented), they fre
 
 181 In the same number are placed those who dispute, with loud voice and straining of lungs, about things which they themselves, to say nothing of others, do not understand. This is frequently done by those who wrangle among themselves about quiddities,
 
-H2                               haecceities,
-
-[p. 60]
-
-haecceities, formalities, the appetite of prime matter, and six hundred things of this kind. They understand, to be sure, the words, and sometimes the abstract ideas which they join to the words. But since no such things correspond to such ideas, they are disputing about nothing. Accordingly, though they pour out many words, they say nothing in truth, and therefore do not understand themselves, both because they say nothing and because they very often put different ideas under the same words.
+H2                               haecceities, [p. 60] haecceities, formalities, the appetite of prime matter, and six hundred things of this kind. They understand, to be sure, the words, and sometimes the abstract ideas which they join to the words. But since no such things correspond to such ideas, they are disputing about nothing. Accordingly, though they pour out many words, they say nothing in truth, and therefore do not understand themselves, both because they say nothing and because they very often put different ideas under the same words.
 
 182 Among the pedants are also reckoned those who confidently pass judgment on the writings of others without having the things that are necessary in order to judge aptly. For how rash it is to judge of the opinions of the Modern philosophers before having so much as greeted their tenets and the History of Letters from the threshold! Who would bear those who, imbued with no learning in true Theology, tinged with no knowledge of the Critical Art, repudiate with great haughtiness the opinions of certain authors as though they were repugnant to the Catholic faith, opinions which they, I will not say do not weigh, but do not even understand?
 
@@ -3164,11 +2916,7 @@ haecceities, formalities, the appetite of prime matter, and six hundred things o
 
 185 Now this reasoning: He praises the philosophical investigation of Heretics: therefore he is a Heretic, is false. And so the other things that are drawn from it labor under the same vice. For not everything the Heretics have said is false, nor is everything Catholics have written true. Both have written things good and bad, which are to be weighed by the oracle of the Vatican: and if by Pontifical
 
-laws
-
-[p. 61]
-
-laws they may exist and be read, they are surely censured rashly with arguments drawn from envy. By the same right we might argue in this way: he stubbornly defends the dogmas of Aristotle, adheres to the tenets of Galen, Avicenna, Averroes: therefore he is a Heathen, or a Mohammedan. Which, however, is a most inept kind of arguing.
+laws [p. 61] laws they may exist and be read, they are surely censured rashly with arguments drawn from envy. By the same right we might argue in this way: he stubbornly defends the dogmas of Aristotle, adheres to the tenets of Galen, Avicenna, Averroes: therefore he is a Heathen, or a Mohammedan. Which, however, is a most inept kind of arguing.
 
 186 Joined with the pedants, too, are those who think they will win the praise of the most polished Moderns in no other way than if, when about to write a Philosophy, they stitch together a patchwork of conflicting opinions: as if someone, e.g., about to write a Physics, after stubbornly defending the system of the Scholastics on substantial and accidental forms, nevertheless, in explaining certain phenomena, embraces the opinions of Gassendi, Descartes, Newton. He indeed is a pedant, and writes without any judgment.
 
@@ -3178,11 +2926,7 @@ laws they may exist and be read, they are surely censured rashly with arguments 
 
 189 And these are the chief kinds of pedantry, to which the rest are easily reduced. We pass over the others, lest our discourse run on without end. From what we have said it is sufficiently manifest that a preposterous, absurd, and inept manner of reasoning, and the want of true Philosophy, have been the cause of our falling into pedantry: that is, of our failing, in any discipline, properly to recognize its end and its aids, and to keep due measure. If we rightly recognized these, we should surely beware of the inepties that expose us to the mockery of the learned and the prudent; and this is the very thing that being a Philosopher in each matter means. The celebrated Verney, from whom we have excerpted these things, discourses of many others concerning pedantry. Consult him.
 
-Scholastic
-
-[p. 60]
-
-haecceities, formalities, the appetite of prime matter, and six hundred things of this kind. They understand, to be sure, the words, and sometimes the abstract ideas which they join to the words. But since no such things correspond to such ideas, they are disputing about nothing. Accordingly, though they pour out many words, they say nothing in truth, and therefore do not understand themselves, both because they say nothing and because they very often put different ideas under the same words.
+Scholastic [p. 60] haecceities, formalities, the appetite of prime matter, and six hundred things of this kind. They understand, to be sure, the words, and sometimes the abstract ideas which they join to the words. But since no such things correspond to such ideas, they are disputing about nothing. Accordingly, though they pour out many words, they say nothing in truth, and therefore do not understand themselves, both because they say nothing and because they very often put different ideas under the same words.
 
 182 Among the pedants are also reckoned those who confidently pass judgment on the writings of others without having the things that are necessary in order to judge aptly. For how rash it is to judge of the opinions of the Modern philosophers before having so much as greeted their tenets and the History of Letters from the threshold! Who would bear those who, imbued with no learning in true Theology, tinged with no knowledge of the Critical Art, repudiate with great haughtiness the opinions of certain authors as though they were repugnant to the Catholic faith, opinions which they, I will not say do not weigh, but do not even understand?
 
@@ -3192,11 +2936,7 @@ haecceities, formalities, the appetite of prime matter, and six hundred things o
 
 185 Now this reasoning: He praises the philosophical investigation of Heretics: therefore he is a Heretic, is false. And so the other things that are drawn from it labor under the same vice. For not everything the Heretics have said is false, nor is everything Catholics have written true. Both have written things good and bad, which are to be weighed by the oracle of the Vatican: and if by Pontifical
 
-laws
-
-[p. 61]
-
-laws they may exist and be read, they are surely censured rashly with arguments drawn from envy. By the same right we might argue in this way: he stubbornly defends the dogmas of Aristotle, adheres to the tenets of Galen, Avicenna, Averroes: therefore he is a Heathen, or a Mohammedan. Which, however, is a most inept kind of arguing.
+laws [p. 61] laws they may exist and be read, they are surely censured rashly with arguments drawn from envy. By the same right we might argue in this way: he stubbornly defends the dogmas of Aristotle, adheres to the tenets of Galen, Avicenna, Averroes: therefore he is a Heathen, or a Mohammedan. Which, however, is a most inept kind of arguing.
 
 186 Joined with the pedants, too, are those who think they will win the praise of the most polished Moderns in no other way than if, when about to write a Philosophy, they stitch together a patchwork of conflicting opinions: as if someone, e.g., about to write a Physics, after stubbornly defending the system of the Scholastics on substantial and accidental forms, nevertheless, in explaining certain phenomena, embraces the opinions of Gassendi, Descartes, Newton. He indeed is a pedant, and writes without any judgment.
 
@@ -3262,11 +3002,7 @@ with its object, as no one denies. But if it does not represent the present ob�
 
 ject, but something else, e.g. if, when brass is present,
 
-it
-
-[p. 63]
-
-it presents gold, it is indeed a true perception of gold, but by no means of brass, and so it is not a false perception of brass, but none, or rather it is no perception of brass at all: therefore a perception, whether simple or complex, cannot, properly speaking, be called false.
+it [p. 63] it presents gold, it is indeed a true perception of gold, but by no means of brass, and so it is not a false perception of brass, but none, or rather it is no perception of brass at all: therefore a perception, whether simple or complex, cannot, properly speaking, be called false.
 
 193 I say 3: a perception, whether simple or complex, can be called false materially, as they say, and by occasion of the subsequent judgment. Proof: for a perception or idea to be capable of being called false in this way, it is enough that it can be the matter and the occasion of a false judgment; but a perception, especially a complex one, can be the matter and the occasion of a subsequent false judgment: therefore. Proof of the minor: the perception of gold when brass is present can be the occasion for someone’s judging that to be gold which is only brass: therefore.
 
@@ -3342,11 +3078,7 @@ corporeal species, e.g. when it perceives itself, its thoughts and affections,
 
 say joy, sadness, etc. Where it must be observed that this
 
-perception
-
-[p. 65]
-
-perception is called consciousness, because it is conscious to itself of its own thoughts or affections, and in a certain way knows within itself that it is thinking. The other species of perception is called imagination, of which we have already spoken (§. 12.)
+perception [p. 65] perception is called consciousness, because it is conscious to itself of its own thoughts or affections, and in a certain way knows within itself that it is thinking. The other species of perception is called imagination, of which we have already spoken (§. 12.)
 
 199 That all ideas are acquired by the mind is most certain; but how it acquires them is not sufficiently agreed among the Philosophers. Lucretius (z) thinks that from the objects themselves certain images fly off, which enter the senses and make similar motions in the brain, and that in this way the mind acquires its ideas. Which is altogether false: for according to him these idols are bodies, and since they would be continually flying off from the surfaces, these would at length be worn away and perish utterly. Moreover, abstract things, such as reasonings and volitions, etc., could not be understood, because no images come from them to the senses; but these things are repugnant to experience.
 
@@ -3362,11 +3094,7 @@ I                            usually
 
 (a) Aristotle, On the Soul, bk. 3, ch. 5 and 8.
 
-(b) Recherche de la Verité, bk. 1, ch. 2.
-
-[p. 66]
-
-usually set out clearly enough, as the celebrated Jacquier excellently observes. For if by this name they understand ideas perpetually present to the mind, there can be no controversy. For who would say that there is some idea in us which we contemplate unceasingly? But if they mean ideas which are always at hand before all experience and all reasoning, no one surely remembers any idea of this kind which the mind thought of before all experience and all reasoning.
+(b) Recherche de la Verité, bk. 1, ch. 2. [p. 66] usually set out clearly enough, as the celebrated Jacquier excellently observes. For if by this name they understand ideas perpetually present to the mind, there can be no controversy. For who would say that there is some idea in us which we contemplate unceasingly? But if they mean ideas which are always at hand before all experience and all reasoning, no one surely remembers any idea of this kind which the mind thought of before all experience and all reasoning.
 
 203 But if by innate ideas we understand those notions which are sometimes acquired without the occasion of external objects, and by an easy and ready use of reason, we say that ideas are to be admitted as innate in this sense only. And in truth nothing else can be signified by the term innate ideas, as he will confess who weighs this most weighty question, not from the heat of disputation or the ambiguity of a definition, but from the proper testimony of his own consciousness. These things explained, let the conclusion be against the Peripatetics, Gassendi, and Locke.
 
@@ -3380,11 +3108,7 @@ usually set out clearly enough, as the celebrated Jacquier excellently observes.
 
 etc.:
 
-(c) Bk. 10 of the Confessions, no. 17, otherwise ch. 10.
-
-[p. 67]
-
-etc.: but these ideas take their origin from the senses: therefore. I deny the minor: because being in general is neither colored, nor savory, nor endowed with any sensible quality. But you will prove the minor: the idea of being in general is formed by abstraction from singular and individual bodies; but singular bodies are perceived by the senses: therefore such an idea takes its origin from the senses. To the proof, I distinguish the major: it is formed by abstraction from corporeal and spiritual things, I grant; from corporeal things only, I deny the major and the consequent.
+(c) Bk. 10 of the Confessions, no. 17, otherwise ch. 10. [p. 67] etc.: but these ideas take their origin from the senses: therefore. I deny the minor: because being in general is neither colored, nor savory, nor endowed with any sensible quality. But you will prove the minor: the idea of being in general is formed by abstraction from singular and individual bodies; but singular bodies are perceived by the senses: therefore such an idea takes its origin from the senses. To the proof, I distinguish the major: it is formed by abstraction from corporeal and spiritual things, I grant; from corporeal things only, I deny the major and the consequent.
 
 207 We call being in general that which can exist; and so, even if it were supposed that there are no bodies, we could form this idea of being from the inmost consciousness of the operations of our mind, and without any relation to body. Moreover, if this idea took its origin only from the senses, it would not comprehend in its extension absolutely all the genera of being, but only corporeal beings; which, however, is false. You will insist 1: Nothing is in the intellect which was not first in the sense; therefore all ideas, and accordingly the idea of being in general, depend on the senses. Dist. the antecedent: which was not first in the external or the internal sense, I grant; in the external sense only, I deny the antecedent, and the consequent.
 
@@ -3406,11 +3130,7 @@ I2                                       You
 
 it
 
-(d) Bk. 14 of On the Trinity.
-
-[p. 69]
-
-it is plain that a man brought up among bears, and another who had been deaf
+(d) Bk. 14 of On the Trinity. [p. 69] it is plain that a man brought up among bears, and another who had been deaf
 
 and dumb up to the twenty-fourth year of his age, had no idea of God and of
 
@@ -3666,11 +3386,7 @@ works had first been put in order by Tyrannio the Grammarian and a certain
 
 Andronicus of Rhodes,
 
-L                                  seemed
-
-[p. 2]
-
-seemed unable to be referred to any definite class (a).
+L                                  seemed [p. 2] seemed unable to be referred to any definite class (a).
 
 2 Now, however, by the name of Metaphysics there comes to the mind of Philosophers that discipline which pursues things placed on high, that is, things established above the nature of bodies, or spiritual things freed from all commerce with matter. Hence it is commonly and very well defined by all Philosophers: The faculty which considers all the general affections of being that are common to corporeal and incorporeal beings alike, and which also contemplates incorporeal substances and their affections, as they are perceptible to us by the light of reason alone. There are three principal parts of Metaphysics. The first of them is called Ontology, or Ontosophy, that is, the science of being, and so it treats of being taken in general, and weighs its affections as abstracted by the mind. The second so scrutinizes spiritual substances as to set before us their nature, existence and operations by the light of reason alone. And since there are chiefly two spiritual substances that can be known by us through the light of nature, namely God and the human mind, Pneumatology, or the Science of Spirits, has customarily been divided, quite fittingly, into two parts: that which treats of the human mind is called Psychology, or Pneumatology; that which discourses of God, with reason alone as guide, Natural Theology.
 
@@ -3722,11 +3438,7 @@ to which this general and most universal idea, concept or name of Being does
 
 not apply. Being taken universally is divided into substance and
 
-L2                                  accident
-
-[p. 4]
-
-accident, or into being properly and strictly taken, and a mode of being. Substance, or thing, is the name given to that being which exists by itself, or can exist or be perfectly conceived independently of another being, as a stone, a man, etc.: an accident, on the other hand, or mode of being, is that being which must exist in another, and can neither be nor be conceived except as inhering in and joined to another, as whiteness, roundness, motion, etc.
+L2                                  accident [p. 4] accident, or into being properly and strictly taken, and a mode of being. Substance, or thing, is the name given to that being which exists by itself, or can exist or be perfectly conceived independently of another being, as a stone, a man, etc.: an accident, on the other hand, or mode of being, is that being which must exist in another, and can neither be nor be conceived except as inhering in and joined to another, as whiteness, roundness, motion, etc.
 
 6 Substance, or thing, is divided into created and uncreated: that is called uncreated which receives from no one the being that it has, as God alone is; created, that which has been produced freely, contingently, by another, that is, by God, as men, stars, etc. Created substances are divided into corporeal and incorporeal. Accidents are divided chiefly into extrinsic and intrinsic. Those are called intrinsic which affect intrinsically and really the thing, the substance or subject itself in which they are found, as motion and figure in a body; extrinsic, those which posit nothing intrinsically, truly and really in the thing, but are only conceived in it by our intellect, and yet are considered by us as beings, of which kind are all relations, privations, and extrinsic denominations.
 
@@ -3736,11 +3448,7 @@ accident, or into being properly and strictly taken, and a mode of being. Substa
 
 9 Therefore substance taken physically and really must have some internal modes. Hence it is inept to ask whether it can be without modes: because even if a substance is at times without this or that mode, yet in this order of things it cannot be stripped of all modes. Taken metaphysically, however, it is plain that it can be without modes. Therefore it is also inept to ask whether it can be without modes; because substance taken metaphysically signifies precisely this, namely a nature separated from modes. Yet since the abstract idea of substance, as of essence, is not the same in all things, but according to the variety
 
-of
-
-[p. 5]
-
-of things is itself also various, it is at times such as to comprise some modes: which for that reason are no longer to be called modes, but the essence and substance of the thing. But we shall conveniently explain these things by an example.
+of [p. 5] of things is itself also various, it is at times such as to comprise some modes: which for that reason are no longer to be called modes, but the essence and substance of the thing. But we shall conveniently explain these things by an example.
 
 10 E.g., the pen that I am at present moving with my hand in order to write these things can be not moved, if I stop: therefore it can be deprived of motion, and be at rest, without ceasing to be a pen. It cannot, however, be deprived at once of motion and of rest, but must necessarily have one or the other. Likewise it cannot be deprived of all magnitude, figure, and the rest: but it necessarily has one or another. A clock, on the contrary, e.g., comprises, besides the artful construction of its parts, their motion. And therefore, although motion taken in general is a mode of body, it is nevertheless the essence or substance of the clock. Likewise a thunderbolt, besides the inflamed matter, includes a most violent motion. For this reason this motion is no longer a mode, but the essence of the thunderbolt. Therefore, that we may judge rightly of modes, we must first establish in what the nature of the thing consists, lest we unwittingly call a mode that which constitutes its nature.
 
@@ -3750,11 +3458,7 @@ of things is itself also various, it is at times such as to comprise some modes:
 
 13 Relation, on the other hand, is a certain order, habitude, or respect of one thing to another, which is conceived in some thing because that thing is ordered or referred to another, as, e.g., if Alexander is referred to Philip, he is called son, although this being a son is found only in the intellect. An extrinsic denomination, finally, is a pure name that is attributed to some thing, although it is conceived by the intellect as some being, perfection or mode inhering in another, as when one is made a judge,
 
-a
-
-[p. 6]
-
-a knight, a nobleman, or is praised or blamed: he receives indeed only this outward word, or denomination, yet something is conceived by us that inheres, as it were intrinsically, in the judge, the knight, the nobleman, the man praised or blamed.
+a [p. 6] a knight, a nobleman, or is praised or blamed: he receives indeed only this outward word, or denomination, yet something is conceived by us that inheres, as it were intrinsically, in the judge, the knight, the nobleman, the man praised or blamed.
 
 14 Hence another division of being is drawn, into real being and being of reason. Real being is said to be that which truly and really is, independently of the intellect, or which must be even if the intellect considers nothing, as a rose, a man, a stone: a being of reason is that which is only conceived, is made by and depends on the thinking intellect, and therefore, if the intellect considers nothing, a being of reason cannot be. Here the Peripatetics raise the question whether being itself taken generally, or the concept of being, is univocal with respect to God and creatures; as also with respect to substance and accident, and finally with respect to real being and being of reason: whether, namely, the concept of being applies to them in the same way, and all things are equally being, although they are afterwards distinguished by various properties and differences?
 
@@ -3768,11 +3472,7 @@ and
 
 (b) Exodus, ch. 3, v. 14.
 
-(c) Ch. 40, v. 17.
-
-[p. 7]
-
-and therefore that universal and common concept of being, to which those charac‐
+(c) Ch. 40, v. 17. [p. 7] and therefore that universal and common concept of being, to which those charac‐
 
 ters or differences are superadded, must always be admitted. Again, then, it can be
 
@@ -3860,11 +3560,7 @@ For
 
 24 Hence in divine things three hypostases, or subsistences, are found, and therefore also three persons: and since the subsistence of the Divine Word took the place of the created, or human, subsistence in Christ the Lord, or terminated the human nature, which ought to have been terminated by its own created or human subsistence, it appears most clearly that in Christ the Lord there is found a twofold nature, divine, namely, and human, and therefore a twofold will, as the Sixth Synod against the Monothelites
 
-defined
-
-[p. 9]
-
-defined; but only one hypostasis, or divine subsistence, and therefore only one di‐
+defined [p. 9] defined; but only one hypostasis, or divine subsistence, and therefore only one di‐
 
 vine person, was found in him.
 
@@ -3934,11 +3630,7 @@ a triangle, which, though placed under the same genus of figure, yet belong to d
 
 ferent species of figure. Numerical distinction, finally, is that which is found
 
-M                                    between
-
-[p. 10]
-
-between individuals of the same species, or between those that are contained under the same species and are distinguished only by individuating circumstances and conditions, as circle A, circle B. Generic and specific distinction is conceived to be drawn from the form, nature, or essence of things; whence those things that differ specifically or generically must have a different essence.
+M                                    between [p. 10] between individuals of the same species, or between those that are contained under the same species and are distinguished only by individuating circumstances and conditions, as circle A, circle B. Generic and specific distinction is conceived to be drawn from the form, nature, or essence of things; whence those things that differ specifically or generically must have a different essence.
 
 29 Numerical distinction, on the other hand, which is also commonly called material, must, as very many think, be drawn from matter alone, which is accordingly called the principle of individuation, or from material circumstances; whence the Thomists hold that in Angels, because they lack matter, this numerical distinction is not admitted, or that several Angels cannot be found in a single species, but rather that individual Angels differ specifically from one another. Yet just as rational souls, though they are incorporeal, are numerically distinguished from one another by the order or habitude by which each is directed to its own body, so too Angels can be numerically distinguished by the spiritual accidents or circumstances with which they are affected, or at any rate by the varied action of God by which they were created or are conserved.
 
@@ -4004,11 +3696,7 @@ picture it to oneself as the generation of some thing drawn out of nothing consi
 
 ter. To create is to give existence
 
-(d) De l’Existence de Dieu, vol. 1, ch. 11.
-
-[p. 13]
-
-to a thing that did not have it before; that is, to bring it about that a thing exists which did not exist before. All Philosophers admit that no created agent can bring about any of those things which cannot be except through creation. For the power of creating belongs to God alone: For it is not lawful, says St. Augustine (e), to believe or to say that the creator of any nature, however small and mortal, is anyone but God. These things being laid down,
+(d) De l’Existence de Dieu, vol. 1, ch. 11. [p. 13] to a thing that did not have it before; that is, to bring it about that a thing exists which did not exist before. All Philosophers admit that no created agent can bring about any of those things which cannot be except through creation. For the power of creating belongs to God alone: For it is not lawful, says St. Augustine (e), to believe or to say that the creator of any nature, however small and mortal, is anyone but God. These things being laid down,
 
 38 I say 1: the rational soul is created by God alone when it is infused into the little body. It is proved: to create is to bring it about that a thing exists which did not exist before; but God brings it about that the soul exists, which did not exist before: therefore. It is proved 2: to create is to make something when nothing that intrinsically pertains to it exists beforehand; but it is thus that God makes the soul: therefore. Proof of the minor: the human mind is a simple substance, lacking parts, devoid of composition and divisibility, as we shall see in what follows: therefore it is made without any succession of parts, and with nothing that intrinsically pertains to it existing beforehand: therefore it comes to be by creation alone; but creation belongs to God alone, as has already been said: therefore the rational soul is made by God the Creator.
 
@@ -4026,11 +3714,7 @@ therefore
 
 (g) Psychologia Rationalis, §. 704 ff.
 
-(h) Under Leo X, Sess. 8, vol. 19 of Labbe’s Collection of the Councils.
-
-[p. 14]
-
-therefore the pre-existence of souls is openly contrary to the Lateran Council, and consequently can by no means be defended.
+(h) Under Leo X, Sess. 8, vol. 19 of Labbe’s Collection of the Councils. [p. 14] therefore the pre-existence of souls is openly contrary to the Lateran Council, and consequently can by no means be defended.
 
 42 It is proved 2. from absurdity: once this opinion is granted, Virginity could not be urged upon all women indiscriminately; for since it is not known which women are endowed with animated corpuscles, virginity cannot be urged upon individual women without its being true that it lies in our choice that as many souls should perish as those animated corpuscles contain. For the same reason, too, no woman would be permitted to bind herself by a perpetual vow of virginity unless it were first certainly established for her that no animated corpuscles are contained in her womb; and since all these things are no less false than absurd, it follows that the Wolffian opinion is to be utterly rejected by a Catholic man.
 
@@ -4048,11 +3732,7 @@ from
 
 (l) Quaestiones Medico-Legales, bk. 9, tit. 1, last question.
 
-(m) Teatro Crítico, vol. 8, Discourse 11.
-
-[p. 15]
-
-from the rational soul alone; but from the first instant of conception it lives, is nour‐
+(m) Teatro Crítico, vol. 8, Discourse 11. [p. 15] from the rational soul alone; but from the first instant of conception it lives, is nour‐
 
 ished, and grows, as all agree: therefore at that very instant it is endowed with the
 
@@ -4130,11 +3810,7 @@ nothing comes: therefore the rational soul is not created. I distinguish the mi�
 
 nor: out of nothing nothing comes, that is, something is not drawn out of nothing as
 
-from
-
-[p. 16]
-
-from a material and pre-existing cause, I grant; that is, it cannot be brought about that what did not exist before should exist, I subdistinguish: if we speak of an agent whose powers are finite, I grant; if the discussion is of an agent whose power is infinite, such as God is, I deny; and I deny the consequence as well. You will say with Toland and Gildon: God communicated divisibility and figure to matter, although God does not have them in himself: therefore an intelligent substance too, namely the soul, can emanate from a non-intelligent substance, such as matter is: therefore it is not created by God. I deny the consequence, and there is a disparity, because God contains in himself most eminently whatever good and perfection there is in matter, and by his power produces all things in matter; but matter can contain neither formally, nor virtually, nor eminently the true and simple perfections of the soul; since in a corporeal and inert being, such as matter is, there cannot be the adequate ground of an intelligent and freely acting being, which is found only in a free, acting, intelligent being.
+from [p. 16] from a material and pre-existing cause, I grant; that is, it cannot be brought about that what did not exist before should exist, I subdistinguish: if we speak of an agent whose powers are finite, I grant; if the discussion is of an agent whose power is infinite, such as God is, I deny; and I deny the consequence as well. You will say with Toland and Gildon: God communicated divisibility and figure to matter, although God does not have them in himself: therefore an intelligent substance too, namely the soul, can emanate from a non-intelligent substance, such as matter is: therefore it is not created by God. I deny the consequence, and there is a disparity, because God contains in himself most eminently whatever good and perfection there is in matter, and by his power produces all things in matter; but matter can contain neither formally, nor virtually, nor eminently the true and simple perfections of the soul; since in a corporeal and inert being, such as matter is, there cannot be the adequate ground of an intelligent and freely acting being, which is found only in a free, acting, intelligent being.
 
 48 Obj. 2. with Antonio Rocco: the soul depends entirely on the body, or matter: therefore it is produced dependently on matter: therefore it is not created. The antecedent is proved 1. because this soul depends on the temperament of this body; otherwise any soul could enter any body. 2. because if the soul did not depend on the body, it would not depart unwillingly when the body perishes and is dissolved: therefore. To the argument I distinguish the antecedent: it depends on the body in order to be, I deny; in order to exercise the office of a form that vivifies and moves the body, I grant; and therefore the soul is not free to enter any body whatever, since it is destined by God its Creator to rule and vivify this one, and is produced under this law, that together with this body it should constitute an individual man. That the soul departs unwillingly when the body is dissolved, however, is a penalty of original sin. The distinguished Berti (n) explains most happily and aptly, by the example of a sailor, how the soul is both dependent on the body and independent of it, which it will not be unwelcome to you to hear.
 
@@ -4220,11 +3896,7 @@ N                           because
 
 (p) In Princip. Philos. § 705.
 
-(q) Bk. IV, On the Literal Meaning of Genesis.
-
-[p. 18]
-
-because beyond that he no longer founded any new kinds. And so, when God is said to create a soul, he is not said to do something that he had not done before. For already on the sixth day he had made man to his own image, which is certainly understood according to the soul. And this he does now, not by instituting what was not, but by multiplying what was. Hence both that is true, that he rested from instituting things that were not; and this is true, that he works until now, not only by governing what he made, but also by creating in greater number, not what he had not yet created, but what he had already created.
+(q) Bk. IV, On the Literal Meaning of Genesis. [p. 18] because beyond that he no longer founded any new kinds. And so, when God is said to create a soul, he is not said to do something that he had not done before. For already on the sixth day he had made man to his own image, which is certainly understood according to the soul. And this he does now, not by instituting what was not, but by multiplying what was. Hence both that is true, that he rested from instituting things that were not; and this is true, that he works until now, not only by governing what he made, but also by creating in greater number, not what he had not yet created, but what he had already created.
 
 53 Obj. against the third: The presence of the soul is detected more, and more certainly, from the motion of the embryo than from its other operations; but before the fortieth day the embryo does not move, and moreover the female moves later than the male: therefore before the fortieth the embryo does not receive the rational soul, and male and female do not receive it at the same moment of conception. I deny the major of the argument: because the other operations that precede motion cannot be attributed to any other agent than the rational soul, and it is all one to elicit the presence of the rational soul from motion and to deduce it from life, from nutrition, from growth; hence, since the fetus in the womb immediately lives, is nourished, grows, and feels, it must immediately have a rational soul. Besides: what dependence does motion have on the rational soul as rational? One ought therefore to have affirmed that the fetus receives the rational soul when it performs some operation pertaining to the rational soul as rational, not when it begins to move. The minor of the argument, moreover, is false, absolutely speaking. For who will dare to affirm that the embryo does not have some unobservable motion before the fortieth day? Nor, even if all motion were absent, ought one to infer from this that the rational soul is not present.
 
@@ -4232,11 +3904,7 @@ because beyond that he no longer founded any new kinds. And so, when God is said
 
 55 Obj. 1. The fetus ought not to receive the rational soul unless it is perfectly organized; but this organization is not completed at the same time in every individual, because of the variety of temperaments and powers: therefore the soul is not infused at the very moment of conception. The argument can be answered in several ways. First: by granting that organization is required for the soul to operate, but denying that it is necessary
 
-for
-
-[p. 19]
-
-for it to inform. Second: by saying that God ought not to be subject to nature, so that before he infuses the soul he must wait for the organization of the fetus contrived by nature itself. But it is preferable to satisfy the argument in another way, according to the mind of the Moderns. The most common opinion among the Moderns is that of the perfect delineation of the embryo in the corpuscles lying hidden in the mother’s womb; and once this is granted, it can be denied that the fetus is not perfectly organized before the fortieth.
+for [p. 19] for it to inform. Second: by saying that God ought not to be subject to nature, so that before he infuses the soul he must wait for the organization of the fetus contrived by nature itself. But it is preferable to satisfy the argument in another way, according to the mind of the Moderns. The most common opinion among the Moderns is that of the perfect delineation of the embryo in the corpuscles lying hidden in the mother’s womb; and once this is granted, it can be denied that the fetus is not perfectly organized before the fortieth.
 
 56 But if by perfect organization our adversaries understand an organization so complete in every respect that by it the fetus has whatever an embryo ought to have, so that, as the eye bears witness, it is furnished with all its members and necessary organs, we shall deny that this organization is necessary for receiving the soul; for if it were so, the reception of the soul would have to be delayed for several months; hence, when the Angelic Master says (r) that the rational soul is infused when the body is disposed, he is not to be understood of this final disposition; otherwise the holy Doctor himself would be asserting contradictory things, which it is wrong even to think.
 
@@ -4252,11 +3920,7 @@ N2                                          by
 
 (s) Pt. 1, q. 90, art. 4.
 
-(t) Pt. 1, q. 91, art. 4, ad 3.
-
-[p. 20]
-
-by motion, even if this happened before the fortieth, they should be cleansed in the laver of baptism, at least conditionally; but this in no way prevents us from affirming with the distinguished Feijóo that, at whatever time the abortion occurs, the fetus ought to be baptized conditionally; for according to everyone it ought to be washed in baptism when it is probable that the fetus is animated; but from what has been said it is highly probable, both by the intrinsic probability of the reasons and by the extrinsic probability of authors of great name, that the fetus is informed by the rational soul from the very instant of conception: therefore, at whatever time the abortion occurs, it ought to be baptized, at least conditionally.
+(t) Pt. 1, q. 91, art. 4, ad 3. [p. 20] by motion, even if this happened before the fortieth, they should be cleansed in the laver of baptism, at least conditionally; but this in no way prevents us from affirming with the distinguished Feijóo that, at whatever time the abortion occurs, the fetus ought to be baptized conditionally; for according to everyone it ought to be washed in baptism when it is probable that the fetus is animated; but from what has been said it is highly probable, both by the intrinsic probability of the reasons and by the extrinsic probability of authors of great name, that the fetus is informed by the rational soul from the very instant of conception: therefore, at whatever time the abortion occurs, it ought to be baptized, at least conditionally.
 
 60 Obj. finally: the Laws, Canon as well as Civil, distinguish the animated fetus from the inanimate, and declare it animated only after forty days, and for this reason impose a greater or a lesser penalty on offenders and on those who procure abortion; in confirmation of which the Constitution of Sixtus V, Supreme Pontiff, was finally issued, in which it is determined that those who procure the abortion of an animated fetus are subject to the same penalties as true homicides: therefore our conclusion is contrary to the authority of the Ecclesiastical and Secular Laws. To the argument I reply, with Zacchia, praised above, that both the Canons and the Laws speak in the texts cited not from their own scientific knowledge, but from the opinions of the wise men of that age, Philosophers and Physicians, as they have been accustomed to do elsewhere in matters that belong to other professions. Therefore, since the aforesaid wise men had been consulted on that matter, the Canons and Laws, wishing to follow their determination in this, imposed on offenders penalties now greater, now lesser, according to the difference that those men made between the fetus not animated by the rational soul and the animated one. But even with these things granted, we contend that the determinations of the Canons and Laws issued in accordance with justice, and must remain safe and intact, while our opinion on the animation of the fetus at the first moment of conception also remains firm.
 
@@ -4264,11 +3928,7 @@ by motion, even if this happened before the fortieth, they should be cleansed in
 
 in
 
-(u) In the book On the Nature of the Child.
-
-[p. 21]
-
-in the first forty days, but difficult in the following ones, and much less safe. Let what
+(u) In the book On the Nature of the Child. [p. 21] in the first forty days, but difficult in the following ones, and much less safe. Let what
 
 has been said in reply to the argument suffice. The most distinguished Feijóo, howev‐
 
@@ -4344,11 +4004,7 @@ Hobbes, Toland (y), nor is Locke very far removed from him. Among the more recen
 
 if
 
-(y) Spinoza, Pt. 2 of the Ethics, prop. 13, and Cor. to prop. 17. Hobbes, Phys. Pt. 2, ch. 25, no. 10, and in the Leviathan, or On the Commonwealth, Pt. 1, On Man, ch. 3. Toland, Leç. 3, sur le mouvement. The author of the work entitled Epitres Philosophiques, Ep. 3 and 25, no. 53. The author of the work entitled La Philosophie du Bon Sens (commonly said to be the Marquis d’Argens), vol. 2, Reflex. 4, §. 10 ff. The author of the impious little book published at Potsdam in the year 1748 and entitled Discours sur la vie heureuse. The author of another impious little book entitled L’Esprit (commonly said to be Helvétius), Disc. 1, ch. 1. Bayle, Dictionnaire Historique, & Critique, art. Leucippe, rem. E, and art. Rorarius, rem. D and F. Rousseau, Discours sur l’inégalité parmi les hommes, Amsterdam ed., year 1755. The author of the little book entitled Oracles de la Raison (commonly said to be Gildon), p. 185. The author of the work entitled Epitres Juives (commonly said to be the Marquis d’Argens), and many other men of this stamp, who try, with an utterly vain effort, to show that there is nothing in us but what is material. To all these must also be added Voltaire, who openly fights against both the spirituality and the immortality of the soul, both in vol. 6 of his Works, Lettre à Monsieur de Genonville, p. 240, and in vol. 9, de l’Ame, & des Idées, pp. 58 and 91, and in vol. 7, ch. 35, sur l’Ame, p. 283, Paris ed., year 1757, and elsewhere in his minor works.
-
-[p. 23]
-
-if it were an intrinsic modification of matter, it would be matter itself modified; but thought neither is nor can be matter modified: therefore.
+(y) Spinoza, Pt. 2 of the Ethics, prop. 13, and Cor. to prop. 17. Hobbes, Phys. Pt. 2, ch. 25, no. 10, and in the Leviathan, or On the Commonwealth, Pt. 1, On Man, ch. 3. Toland, Leç. 3, sur le mouvement. The author of the work entitled Epitres Philosophiques, Ep. 3 and 25, no. 53. The author of the work entitled La Philosophie du Bon Sens (commonly said to be the Marquis d’Argens), vol. 2, Reflex. 4, §. 10 ff. The author of the impious little book published at Potsdam in the year 1748 and entitled Discours sur la vie heureuse. The author of another impious little book entitled L’Esprit (commonly said to be Helvétius), Disc. 1, ch. 1. Bayle, Dictionnaire Historique, & Critique, art. Leucippe, rem. E, and art. Rorarius, rem. D and F. Rousseau, Discours sur l’inégalité parmi les hommes, Amsterdam ed., year 1755. The author of the little book entitled Oracles de la Raison (commonly said to be Gildon), p. 185. The author of the work entitled Epitres Juives (commonly said to be the Marquis d’Argens), and many other men of this stamp, who try, with an utterly vain effort, to show that there is nothing in us but what is material. To all these must also be added Voltaire, who openly fights against both the spirituality and the immortality of the soul, both in vol. 6 of his Works, Lettre à Monsieur de Genonville, p. 240, and in vol. 9, de l’Ame, & des Idées, pp. 58 and 91, and in vol. 7, ch. 35, sur l’Ame, p. 283, Paris ed., year 1757, and elsewhere in his minor works. [p. 23] if it were an intrinsic modification of matter, it would be matter itself modified; but thought neither is nor can be matter modified: therefore.
 
 68 Proof of the minor: if it were so, thought would have the properties of matter; it would consequently be extended, divisible into parts, and figured; but this is most evidently repugnant: therefore. Proof of the minor: for who is so mad as to believe that an act of the intellect, e.g. assent or dissent, is spread out over a certain space of place, that it can be cut into two or four parts, and have a round, square, or triangular figure? Therefore thought does not have, nor can it have, the properties of matter: therefore the soul is the principle of operations that cannot belong to matter: therefore it is spiritual, and not matter.
 
@@ -4362,11 +4018,7 @@ if it were an intrinsic modification of matter, it would be matter itself modifi
 
 that
 
-(z) Dei fondamenti della Religione, & dei fonti dell’Empietà.
-
-[p. 24]
-
-that rather, comparing the one with the other, I see that there is such a discrepancy, diversity and distance between them that, however hard I strive, I cannot even imagine them joined to each other.
+(z) Dei fondamenti della Religione, & dei fonti dell’Empietà. [p. 24] that rather, comparing the one with the other, I see that there is such a discrepancy, diversity and distance between them that, however hard I strive, I cannot even imagine them joined to each other.
 
 73 The same argument is set before our eyes by François Lamy, of the Order of St. Benedict (a). I shall give the whole passage, turned from French into Latin: “What, then, is the principle of these operations? (says the Monk just praised) Will it be the body, or a corporeal soul? Can it ever be conceived that a body, that is, a mass of flesh configured in this or that way, can elicit spiritual notions, perceive justice, wisdom, truth, and perceive and know itself?
 
@@ -4380,11 +4032,7 @@ that rather, comparing the one with the other, I see that there is such a discre
 
 as
 
-(a) De la Connoissance de soi-même.
-
-[p. 25]
-
-as has been demonstrated: therefore. Proof 2: the soul cannot be placed in that liv‐
+(a) De la Connoissance de soi-même. [p. 25] as has been demonstrated: therefore. Proof 2: the soul cannot be placed in that liv‐
 
 ing substance without thought itself being likewise placed formally in a certain mo‐
 
@@ -4488,11 +4136,7 @@ I deny, and the consequence too. Just as no one ought to wonder if an artisan, a
 
 89 Whence did Helvétius learn that our interior organs, when we remember something, must be in nearly the same state as when that thing acts sensibly on us? Surely, in recollecting the pleasures we have tasted, we do not always remember them with joy,
 
-O2                                      but
-
-[p. 28]
-
-but often also with sadness and grief, and then especially when we see that many evils have come to us from them. We would, however, always rejoice in the recollection of pleasure, if our interior organs were then disposed in nearly the same way as when we sensibly enjoy the pleasure. And what will happen when we remember at the same time many things that are contrary to one another, such as pain and pleasure? Besides: how many things are there by which we can in no way be sensibly affected, and yet we remember them? Do truth and falsity affect our senses? Does the turpitude or honorableness of actions affect touch, the eyes, the palate, or the nostrils?
+O2                                      but [p. 28] but often also with sadness and grief, and then especially when we see that many evils have come to us from them. We would, however, always rejoice in the recollection of pleasure, if our interior organs were then disposed in nearly the same way as when we sensibly enjoy the pleasure. And what will happen when we remember at the same time many things that are contrary to one another, such as pain and pleasure? Besides: how many things are there by which we can in no way be sensibly affected, and yet we remember them? Do truth and falsity affect our senses? Does the turpitude or honorableness of actions affect touch, the eyes, the palate, or the nostrils?
 
 90 And as regards the second, surely, if to judge is the same as to sense, it necessarily follows from this that while I judge of a taste, I sense the taste: therefore, for anyone to sense several tastes in succession at his pleasure, it will be enough for him to judge of them; for when two things are not distinguished from each other but are one and the same, what belongs to the one must belong to the other: therefore one who judges of colors, e.g., sees colors; one who judges of odors senses odors. Whom, then, would these things not move to laughter?
 
@@ -4500,11 +4144,7 @@ but often also with sadness and grief, and then especially when we see that many
 
 92 Obj. 4. against the 4th, with Locke: we deny that it can be brought about by the power of God that matter should think, because we cannot comprehend it; but this reason is altogether insufficient: therefore. 2: although the idea of a Musician is not included in the idea of a Physician, nevertheless these two things can be joined in a man: therefore, although the idea of thought is not included in the idea of matter, matter will be able to think. To the first I deny the causal proposition: for this is not the reason for our persuasion; we do not think so because we do not see how this can be done, but because we perceive by a most certain reason that it cannot be done. To the second I reply that to be a physician and a musician is not repugnant to the essence of man, but thought is repugnant to matter, because
 
-matter
-
-[p. 29]
-
-matter must be extended, have parts, etc. But a thinking substance can have none of these things, as we have already demonstrated.
+matter [p. 29] matter must be extended, have parts, etc. But a thinking substance can have none of these things, as we have already demonstrated.
 
 93 Obj. 5. In the idea of matter is contained the notion of an extended and solid substance, but not of vegetation: therefore, just as God can unite the power of vegetating to an extended and solid substance, so too can he unite the power of thinking. 2: Although we do not know in what way the power of vegetating can be present in plants, and that of sensing in brutes, nevertheless we do not deny that this can be done by God: therefore. To the first I deny the consequence, and the reason is that vegetation, as the Materialists themselves admit, can be accomplished through motion and the diverse disposition and configuration of the parts. But thought cannot belong to matter through motion and configuration, as we have already proved. To the second the reply is the same: for although we do not know those things, we nevertheless know at the same time this as well, that no contradiction follows if we admit them.
 
@@ -4588,11 +4228,7 @@ the
 
 (d) Held in the year 1513 under Julius II and Leo X. Sess. 8.
 
-(e) Bk. XII, De Locis Theologicis, last ch.
-
-[p. 31]
-
-the Lord nor in the Gospel, and hold the faith of the Church and of the Saints as nothing, so it seems superfluous to draw arguments from the places that contain the authority of faith. In this dissertation, therefore, we must take our stand, as far as we can, not on Sacred authorities but on principles known by the light of nature, against Epicurus, Lucretius, and other most pernicious modern Philosophers, enemies of the truths of our most holy Religion, who strive with an utterly vain effort to show that the human soul is mortal and will perish together with the body. But before we approach the question, we must explain some things for the sake of clarity.
+(e) Bk. XII, De Locis Theologicis, last ch. [p. 31] the Lord nor in the Gospel, and hold the faith of the Church and of the Saints as nothing, so it seems superfluous to draw arguments from the places that contain the authority of faith. In this dissertation, therefore, we must take our stand, as far as we can, not on Sacred authorities but on principles known by the light of nature, against Epicurus, Lucretius, and other most pernicious modern Philosophers, enemies of the truths of our most holy Religion, who strive with an utterly vain effort to show that the human soul is mortal and will perish together with the body. But before we approach the question, we must explain some things for the sake of clarity.
 
 100 Absolute immortality, which can be called intrinsic, belongs to a living being that has in itself, and from its own nature, no principle of perishing. Relative immortality, which can be called extrinsic, belongs to a living being that cannot be destroyed or annihilated by another, extrinsic, being. It is certain that immortality both absolute and relative belongs to God alone; the rational soul, however, does not have relative immortality in every sense; for although it cannot be destroyed or annihilated by another created being, it can nevertheless absolutely be annihilated by God.
 
@@ -4622,11 +4258,7 @@ that
 
 (i) Luke 16, v. 25.
 
-(k) Letter to Gerh. Wolth., which is no. 16, vol. II of the Epistolae ad diversos.
-
-[p. 33]
-
-that the most wise and likewise most powerful Ruler of the Universe has appointed
+(k) Letter to Gerh. Wolth., which is no. 16, vol. II of the Epistolae ad diversos. [p. 33] that the most wise and likewise most powerful Ruler of the Universe has appointed
 
 rewards for the good and punishments for the wicked, and executes what He has ap‐
 
@@ -4704,11 +4336,7 @@ P                                        first:
 
 (n) Eccles. 12, v. 7. Wisd. 3, v. 1.
 
-(o) Matt., ch. 25, v. 34 ff.
-
-[p. 34]
-
-first: that Ecclesiastes (p) writes that the death of man and of beasts is one. Reply: the death of men and of beasts is one as regards the bodily life common to all animals. Thus man has nothing more than the beast by reason of the body, since all things return to the same condition of earth from which they were made. The mind, therefore, does not return into the earth, since it was not produced from earth. Moreover, it can be answered that in all these places Solomon does not speak from his own opinion but from that of the impious; that is, he relates what the wicked hold in their minds, not what he himself thinks, as St. Gregory the Great (q) and the most learned Bishop Huet (r) excellently observe.
+(o) Matt., ch. 25, v. 34 ff. [p. 34] first: that Ecclesiastes (p) writes that the death of man and of beasts is one. Reply: the death of men and of beasts is one as regards the bodily life common to all animals. Thus man has nothing more than the beast by reason of the body, since all things return to the same condition of earth from which they were made. The mind, therefore, does not return into the earth, since it was not produced from earth. Moreover, it can be answered that in all these places Solomon does not speak from his own opinion but from that of the impious; that is, he relates what the wicked hold in their minds, not what he himself thinks, as St. Gregory the Great (q) and the most learned Bishop Huet (r) excellently observe.
 
 109 Obj. 2. In Wisdom, ch. 2, we read: after this, that is, after death, the spirit is poured abroad as soft air: therefore the rational soul vanishes when a man dies. Secondly: Ecclesiastes (s) says: “Who knoweth if the spirit of the children of Adam ascend upward, and if the spirit of the beasts descend downward?” Therefore the condition of man and of beast is equal, even as regards the spirit. To the first I reply that it speaks there from the opinion of the impious, as the beginning of the chapter declares: The wicked said, reasoning with themselves, but not right; and in v. 2 it adds: These things the wicked thought, and were deceived, nor esteemed the honor of holy souls, for God created man incorruptible. To the second I reply: those words are those of one reproving the impious, whose mind savors nothing but earthly things. For if we wish to measure all things by the senses: who knoweth if the spirit of the children of Adam, etc. Likewise, what is said in the Sixth Ecumenical Council, that the soul is immortal not by nature but by the grace of God, is to be understood in this sense, that the soul has immortality by God’s willing and conserving it, which conservation is from grace alone. Thus intrinsic immortality is natural to the rational soul; but extrinsic immortality is gratuitous.
 
@@ -4724,11 +4352,7 @@ therefore
 
 (r) Demonstratio Evangelica, Prop. 4.
 
-(s) Ch. 3, v. 21.
-
-[p. 35]
-
-therefore it depends intrinsically on the body, so that its essence is to be actually joined to the body. I distinguish the antecedent: it is an incomplete substance, that is, it is apt to inform a body and to constitute a man together with the body, I concede; that is, it is half a substance, which lacks something of the notion of substance, I deny; and the consequence. You will say: the human mind is not produced except dependently on the body: therefore it depends on it intrinsically. I distinguish the antecedent: except dependently on the body as on an occasion, I concede; as on a subject in which and through which it exists, I deny; and the consequence.
+(s) Ch. 3, v. 21. [p. 35] therefore it depends intrinsically on the body, so that its essence is to be actually joined to the body. I distinguish the antecedent: it is an incomplete substance, that is, it is apt to inform a body and to constitute a man together with the body, I concede; that is, it is half a substance, which lacks something of the notion of substance, I deny; and the consequence. You will say: the human mind is not produced except dependently on the body: therefore it depends on it intrinsically. I distinguish the antecedent: except dependently on the body as on an occasion, I concede; as on a subject in which and through which it exists, I deny; and the consequence.
 
 112 The roundness of wax, e.g., is produced dependently on the wax in which it is received; hence it depends on the wax in order to exist, and when the wax perishes the roundness perishes: but the soul is produced dependently on the body only as on an occasion, inasmuch, namely, as God determines to create the soul to be joined to the body; nor does He create it on account of the body alone, but on account of itself. Thus the soul depends no more on the body in order to exist than some wall depends on another, pre-existing wall, on the occasion of which it is built so as to make a house together with it. Inst.: the human mind depends on the body in order to operate: therefore also in order to exist. I distinguish the antecedent: it depends on it as on an occasion, that is, on account of the law of union between itself and the body, I concede; it depends on it as on the principle of its operations, I deny; and the consequence.
 
@@ -4738,11 +4362,7 @@ therefore it depends intrinsically on the body, so that its essence is to be act
 
 115 Obj. 5. The soul is not immortal because it is a substance, since many substances perish; nor yet because it is spiritual, since grace and the habits of the soul itself are spiritual, and yet they perish:
 
-P2                                  therefore
-
-[p. 36]
-
-therefore it is maintained with no right to be immortal. I reply that the soul is immortal not precisely because it is a substance, but because it is such a substance, namely simple and thinking. For because it is a simple substance lacking parts, it cannot perish by the action of a created agent; because it is a thinking substance, it is of such a nature that it can operate, and hence also live, separated from the body. But the things that depend on the disposition of the subject, as spiritual accidents, e.g. habits, can be corrupted, because they are educed from a disposed subject and depend on it both in coming to be and in being conserved; whence, when the dispositions of the subject are removed, they perish: but the rational soul is not educed from the body, nor does it depend on it in coming to be and in being conserved. You will say: what has a beginning has an end; but the soul has a beginning: therefore also an end. I distinguish the antecedent: what has a beginning by generation, let it pass; by creation, I deny; and the consequence.
+P2                                  therefore [p. 36] therefore it is maintained with no right to be immortal. I reply that the soul is immortal not precisely because it is a substance, but because it is such a substance, namely simple and thinking. For because it is a simple substance lacking parts, it cannot perish by the action of a created agent; because it is a thinking substance, it is of such a nature that it can operate, and hence also live, separated from the body. But the things that depend on the disposition of the subject, as spiritual accidents, e.g. habits, can be corrupted, because they are educed from a disposed subject and depend on it both in coming to be and in being conserved; whence, when the dispositions of the subject are removed, they perish: but the rational soul is not educed from the body, nor does it depend on it in coming to be and in being conserved. You will say: what has a beginning has an end; but the soul has a beginning: therefore also an end. I distinguish the antecedent: what has a beginning by generation, let it pass; by creation, I deny; and the consequence.
 
 116 Obj. 6: The soul separated from the body would be in a violent state: therefore it cannot naturally exist separated from the body: therefore it must perish. Reply 1: granting the antecedent, I deny the consequence, which does not follow; for the souls of the damned, which are simple substances, even though they are in a violent state, do not on that account perish, but live forever for their pain. Reply 2: by denying the antecedent: since the propensity which the soul has toward the body does not so solicit it that it cannot most easily do without the presence of the body. And certainly the blessed souls, intimately joined with God, are by no means in a violent state, which would stand in the way of their happiness.
 
@@ -4750,11 +4370,7 @@ therefore it is maintained with no right to be immortal. I reply that the soul i
 
 118 Moreover, many illustrious Theologians and Physicists (t) maintain
 
-(t) The principal ones are: Calmet, Dictionnaire de la S. Bible, article Ame, French edition. Magalotti, Lettere Scientifiche, Lett. XI, & Lettere Familiari, Lett. XXIV. Antonio Genovesi, Disciplinarum Metaphysicarum Elementa, vol. 3, Dissertation on the soul of brutes. Giovanni Lami, Theologian to His Imperial Majesty, Novelle Letterarie for the year 1761. Alfonso Niccolai, Lezioni sopra la S. Scrittura, Lezz. XIII. Antonio Filippo Adami, Magazzino letterario di Livorno, vol. 5, and many others related by D. Boullier, Essai Philosophique sur l’ame des Bêtes.
-
-[p. 37]
-
-that the souls of brutes are an immaterial active principle, or spirit, that is, not a body of the same nature as all the bodies we know through the ministry of the senses. For they are persuaded that there has been created a certain kind of spiritual substance which is capable indeed of sensation and of simple perception, yet is not furnished with the other faculties in which the human mind is strong; which cannot be destroyed by the forces of nature, nor by any created cause, but is to be reduced to nothing only by Him who created it, when, the organic body being no longer fit for the functions of life, it shall have, as it were, discharged its office of sensing. These things indeed, as they deserve to be discussed at greater length, so would they call for a discourse and an explanation of their own.
+(t) The principal ones are: Calmet, Dictionnaire de la S. Bible, article Ame, French edition. Magalotti, Lettere Scientifiche, Lett. XI, & Lettere Familiari, Lett. XXIV. Antonio Genovesi, Disciplinarum Metaphysicarum Elementa, vol. 3, Dissertation on the soul of brutes. Giovanni Lami, Theologian to His Imperial Majesty, Novelle Letterarie for the year 1761. Alfonso Niccolai, Lezioni sopra la S. Scrittura, Lezz. XIII. Antonio Filippo Adami, Magazzino letterario di Livorno, vol. 5, and many others related by D. Boullier, Essai Philosophique sur l’ame des Bêtes. [p. 37] that the souls of brutes are an immaterial active principle, or spirit, that is, not a body of the same nature as all the bodies we know through the ministry of the senses. For they are persuaded that there has been created a certain kind of spiritual substance which is capable indeed of sensation and of simple perception, yet is not furnished with the other faculties in which the human mind is strong; which cannot be destroyed by the forces of nature, nor by any created cause, but is to be reduced to nothing only by Him who created it, when, the organic body being no longer fit for the functions of life, it shall have, as it were, discharged its office of sensing. These things indeed, as they deserve to be discussed at greater length, so would they call for a discourse and an explanation of their own.
 
 119 But as for the matter at hand, I say that even if this System is admitted, no argument is deduced from it for overthrowing the immortality of the rational soul. For from the fact that in that System the soul of brutes is not endowed with the faculties with which the human soul is adorned, that is, from the fact that it cannot perceive abstract ideas but only sensations, it follows that in it there is neither liberty, nor merit, nor crime, nor the faculty of knowing the Supreme Good and of enjoying it, in which the happiness of the other life consists. Wherefore the arguments which persuade us that the human soul, separated from the body, is to endure forever do not support the soul of brutes, even if it were said to be spiritual. For this soul, when it has reached its end, which is to animate the body, will return to nothing by the act of Him who created it.
 
@@ -4958,11 +4574,7 @@ tions follow in that limb.
 
 body which have no antecedent cause in the body itself,
 
-but
-
-[p. 41]
-
-but are produced from the appetite of the mind and its faculty of moving; and likewise that motions in the limbs are often extinguished at the mind’s will, without any motion following in the corporeal nature.
+but [p. 41] but are produced from the appetite of the mind and its faculty of moving; and likewise that motions in the limbs are often extinguished at the mind’s will, without any motion following in the corporeal nature.
 
 125 The Cartesians, with Fr. Malebranche, defenders of the system of occasional causes, assert that the mind in no way acts on the body, but that on the occasion of the thoughts of the soul the body is moved by God, just as on the occasion of the motions of the body that same God modifies the mind. I wish to throw a ball: God extends my arm, applies my hand to the ball, closes my fingers so that I may grasp the ball, etc. In the same way, when external bodies act on the nerves, God is the immediate author of the perceptions that are to arise therefrom. While my hand is applied to the ball, I do not sense the ball, but God gives me the perception of the contact itself.
 
@@ -5048,11 +4660,7 @@ nature to produce the notions of things successively, it produces them in itself
 
 necessarily, so that their production
 
-can
-
-[p. 43]
-
-can in no way be hindered by us; and, this being posited, the mind is stripped of all liberty over its perceptions. In like manner, if the motions of the body are carried out by the force of mechanism alone, they are intrinsically necessary, and so follow in such a way that none of them can be hindered by us, just like the motions of the heart, which are not subject to the command of the mind. No action, therefore, will render a man worthy of being either commended or blamed on its account.
+can [p. 43] can in no way be hindered by us; and, this being posited, the mind is stripped of all liberty over its perceptions. In like manner, if the motions of the body are carried out by the force of mechanism alone, they are intrinsically necessary, and so follow in such a way that none of them can be hindered by us, just like the motions of the heart, which are not subject to the command of the mind. No action, therefore, will render a man worthy of being either commended or blamed on its account.
 
 133 What of the fact that the system of pre-established harmony lays open a road to living dishonorably, since in it the care of the external senses contributes absolutely nothing to fostering honorable thoughts in the mind and repelling base ones? Moreover, it is plainly contrary to Sacred Scripture and to the Holy Fathers to say (as the Harmonists say) that the changes which take place in the sense organs from the impact of sensible things contribute absolutely nothing to exciting perceptions and appetitions in the soul, since Scripture and the Holy Fathers teach that it can be prevented that the human mind should know sensible things, and hence that it should be borne toward them by inordinate desire, if the external senses are so guarded that they can in no way be altered by the things themselves.
 
@@ -5140,11 +4748,7 @@ conclusion, therefore, be:
 
 soul by virtue of which the soul is affected by the motions of the body, and in turn
 
-can
-
-[p. 45]
-
-can effect motions in the body by a physical and true influx. Prob.: Although we
+can [p. 45] can effect motions in the body by a physical and true influx. Prob.: Although we
 
 cannot conceive how a spirit is so bound to a body that it can by no means leave
 
@@ -5224,11 +4828,7 @@ yet that action is not on that account to be denied. The arguments of the
 
 Cartesians and Leibnizians demonstrate
 
-that
-
-[p. 46]
-
-that neither does the body act on the mind nor the mind on the body in the way that a body acts on another body; but they do not prove that one substance cannot act on another in any way, and that all influx is impossible. Although, therefore, we grant that the physical laws of motion are not observed in the commerce of soul and body, yet it by no means follows from this that intelligent and free beings have not received from God the force of producing some motions in bodies according to other laws suited to their nature.
+that [p. 46] that neither does the body act on the mind nor the mind on the body in the way that a body acts on another body; but they do not prove that one substance cannot act on another in any way, and that all influx is impossible. Although, therefore, we grant that the physical laws of motion are not observed in the commerce of soul and body, yet it by no means follows from this that intelligent and free beings have not received from God the force of producing some motions in bodies according to other laws suited to their nature.
 
 142 You will say: The system of physical influx cannot be maintained unless it is granted that something is transfused from the mind into the body, and conversely, for that is what the very word influx means: but this is absurd: therefore. I deny the major of the argument: when we contend that the body acts on, or flows into, the mind, he must be of dull wit who understands the argument as he pleases; for by this we understand only that the force and nature of the mind are so affected and directed by the commotions of the brain that representations arise in it, but by no means that the ideas of external things pass, as it were, from the body into the mind. It is certain, therefore, that by the agitations of the brain no motion proper to bodies is communicated to the mind, but that the mind is determined to act in a manner suited to its own nature.
 
@@ -5240,11 +4840,7 @@ that neither does the body act on the mind nor the mind on the body in the way t
 
 but
 
-(e) Tusculan Disputations, bk. 1, ch. 20.
-
-[p. 47]
-
-but so it is: therefore. The minor is proved: It is permitted, nay necessary, to have recourse to God if second causes do not suffice; and nothing else happens in the system of occasional causes; and in this hypothesis no miracle properly so called is admitted, since all things happen according to natural laws established by God, and hence suited to the order of nature. Nor is the existence of bodies rendered uncertain; for God, being supremely truthful, cannot will that we be deceived by perpetual illusions. Finally, the Cartesian hypothesis does not take active force away from the will, for the will itself, on the occasion of the bodily motions given, then acts, and freely elicits its operations: therefore the system of occasional causes is very easily understood and is liable to no inconveniences.
+(e) Tusculan Disputations, bk. 1, ch. 20. [p. 47] but so it is: therefore. The minor is proved: It is permitted, nay necessary, to have recourse to God if second causes do not suffice; and nothing else happens in the system of occasional causes; and in this hypothesis no miracle properly so called is admitted, since all things happen according to natural laws established by God, and hence suited to the order of nature. Nor is the existence of bodies rendered uncertain; for God, being supremely truthful, cannot will that we be deceived by perpetual illusions. Finally, the Cartesian hypothesis does not take active force away from the will, for the will itself, on the occasion of the bodily motions given, then acts, and freely elicits its operations: therefore the system of occasional causes is very easily understood and is liable to no inconveniences.
 
 146 Let us reply to the several parts of the argument with the celebrated Jacquier. And first: in the explanation of natural effects one must at last have recourse to the first cause; but Philosophers ought not to do this if second causes are available, all of which indeed are referred to the first. Further, in the present question it is not necessary to take refuge immediately in the first cause, unless it is demonstrated that physical influx is impossible, which, as has already been proved, can be shown by no reason. Secondly: in the hypothesis of occasional causes the existence of bodies can indeed be shown from the infinite veracity of God and from revelation, but another kind of proof would be taken away, that which arises from our sensations, by which the Idealists, who make light of Revelation, ought certainly to be convinced.
 
@@ -5264,11 +4860,7 @@ but so it is: therefore. The minor is proved: It is permitted, nay necessary, to
 
 152 Nor, finally, does the reply avail that the series of all motions was foreseen by God in accordance with the free determination of the will, and
 
-ordered.
-
-[p. 49]
-
-ordered. For since the Leibnizians admit no action between the soul and the body,
+ordered. [p. 49] ordered. For since the Leibnizians admit no action between the soul and the body,
 
 God could in no way foresee and order a series of all motions agreeing with the free
 
@@ -5428,11 +5020,7 @@ Atheists, in De Atheismo Philosophorum Gentilium celebriorum; and so does Buddeu
 
 Spinozam.
 
-(q) Tusculan Disputations, bk. 1, ch. 27.
-
-[p. 53]
-
-from all mortal admixture, perceiving and moving all things, and itself endowed with everlasting motion.” These things laid down, we must inquire whether it is evident with physical evidence that God exists. We speak of physical evidence, namely of that which suffices to extort a constant and firm assent, not from a wanton man who doubts of everything, but from an ingenuous lover of truth. For it is not in my mind in this place to deal with those who so deny everything that they do not admit as true without doubting even the first principles of knowledge themselves, most evident though they are. It will be enough to pull up their sophisms and cavils.
+(q) Tusculan Disputations, bk. 1, ch. 27. [p. 53] from all mortal admixture, perceiving and moving all things, and itself endowed with everlasting motion.” These things laid down, we must inquire whether it is evident with physical evidence that God exists. We speak of physical evidence, namely of that which suffices to extort a constant and firm assent, not from a wanton man who doubts of everything, but from an ingenuous lover of truth. For it is not in my mind in this place to deal with those who so deny everything that they do not admit as true without doubting even the first principles of knowledge themselves, most evident though they are. It will be enough to pull up their sophisms and cavils.
 
 164 I say, therefore: it is evident with physical evidence that God exists. Proof 1, from the perpetual and constant consent of all nations and peoples: for what nature universally confesses must necessarily be true. For it is impossible for nature universally to lie. Now that all races, all nations, however wild and barbarous, have perpetually agreed in this, that they admit some supreme Deity, is so plain that it could be denied only by one who is an utter stranger to History. “There is no race” (says Cicero (r)) “so untamed, nor so wild, that, even if it does not know what sort of God it ought to have, does not yet know that it ought to have one.”
 
@@ -5458,11 +5046,7 @@ What
 
 170 Whoever, then, has seriously attended to these things and contemplated them with an attentive mind will, I do not doubt, at last come to confess with us that the excellent machine of the world, and the bodies that are in it, could by no means have come to be without reason and counsel. “Or when, by some contrivance,” (says the praised, most elegant Cicero)
 
-we
-
-[p. 55]
-
-“(u) we see something being moved, as a sphere, as clocks, as very many other things, we do not doubt that those are works of reason; but when we see the onrush of the heaven moved with wonderful swiftness and turned round, most constantly bringing about the yearly alternations with the utmost safety and preservation of all things, do we doubt that these things are done not only by reason, but by a reason that is excellent and divine?”
+we [p. 55] “(u) we see something being moved, as a sphere, as clocks, as very many other things, we do not doubt that those are works of reason; but when we see the onrush of the heaven moved with wonderful swiftness and turned round, most constantly bringing about the yearly alternations with the utmost safety and preservation of all things, do we doubt that these things are done not only by reason, but by a reason that is excellent and divine?”
 
 171 It pleases me, therefore, to complete the argument thus in a few words. If there is something in the nature of things which the mind of man, which reason, which human force, which human power cannot bring about, that which brings it about is certainly better than man. But the heavenly things, and all those whose order is everlasting, cannot be brought about by man. That, therefore, by which they are brought about is better than man. And what would you call this rather than God? For if God does not exist, what can there be in the nature of things better than man? For in him alone is reason, than which nothing can be more excellent. But for a man to think that there is nothing in the world better than himself is the arrogance of a fool, not to say of a madman. Therefore there is something better than man. Therefore God exists.
 
@@ -5476,11 +5060,7 @@ that
 
 (u) In the place cited.
 
-(x) In the place cited, ch. 47.
-
-[p. 56]
-
-that all natural composites, and the most adorned and most beautiful world itself, not only could have come to be from atoms running together at random, but were in fact so made, why, I say, do they not also say that if innumerable forms of the one-and-twenty letters were thrown together somewhere, the Annals of Ennius could be produced from them, so that they could afterwards be read? That is certainly less laborious than a single paltry animalcule, not to say than the whole machine of the world itself. Why has not the Annals of Ennius, but even a single verse of Virgil, never been produced in this way? Moreover (as the same Cicero excellently argues (y)), if a concourse of atoms can make a world, why can it not make a portico, a temple, a house, a city, which are less laborious and indeed much easier? Surely the Atheists babble so rashly about the world that they seem to me never to have looked up at this wonderful adornment of the Heaven.
+(x) In the place cited, ch. 47. [p. 56] that all natural composites, and the most adorned and most beautiful world itself, not only could have come to be from atoms running together at random, but were in fact so made, why, I say, do they not also say that if innumerable forms of the one-and-twenty letters were thrown together somewhere, the Annals of Ennius could be produced from them, so that they could afterwards be read? That is certainly less laborious than a single paltry animalcule, not to say than the whole machine of the world itself. Why has not the Annals of Ennius, but even a single verse of Virgil, never been produced in this way? Moreover (as the same Cicero excellently argues (y)), if a concourse of atoms can make a world, why can it not make a portico, a temple, a house, a city, which are less laborious and indeed much easier? Surely the Atheists babble so rashly about the world that they seem to me never to have looked up at this wonderful adornment of the Heaven.
 
 175 Add, with Lactantius (z): If all things arise from chance concurrences of atoms, why has it never happened by chance that those principles came together so as to make an animal of such a kind that it would hear with its nostrils rather, smell with its eyes, see with its ears? Moreover, the Atheists have their throats cut by the very reasoning they employ. They say that it is not repugnant that the world should be made from a chance concurrence of atoms, and that if it is not repugnant, there is no reason why it should not in fact have been made in this way. But against them this same argument is urged thus: It is not repugnant that there should exist a cause full of reason which determined the primordial atoms to that combination which is now found: therefore a cause of this kind in fact exists.
 
@@ -5492,11 +5072,7 @@ and
 
 (y) In the place cited, ch. 37.
 
-(z) On the Workmanship of God, ch. 6.
-
-[p. 57]
-
-and indeed such that in it is contained the reason why contingent beings exist. There
+(z) On the Workmanship of God, ch. 6. [p. 57] and indeed such that in it is contained the reason why contingent beings exist. There
 
 are many other most invincible demonstrations of this most worthy argument, which
 
@@ -5570,11 +5146,7 @@ S                                 all
 
 (f) Pensées Philosophiques, and elsewhere.
 
-(g) De Cive, ch. 1, §. 4.
-
-[p. 58]
-
-all should agree in feigning a Supreme Deity: therefore the Atheists, who posit both, contradict themselves.
+(g) De Cive, ch. 1, §. 4. [p. 58] all should agree in feigning a Supreme Deity: therefore the Atheists, who posit both, contradict themselves.
 
 181 Obj. 3: men have it implanted by nature itself to investigate the causes of things; but if they have been unable to attain the true ones, they feign supposititious ones for themselves: hence they have falsely persuaded themselves that God exists, so that they might rejoice at having attained the first principle of all things: therefore ignorance and error were the cause why some God was admitted by men. I deny the antecedent and the consequence: for things established on account of ignorance rest on empty and light reasons, and therefore can easily be refuted: therefore it is impossible that all the most skilled men should agree in them. How absurd, then, it is, and how foreign to all reason, that all nations, and those far removed from one another and having no communication with one another, should have been able to agree in one and the same error and kind of fiction!
 
@@ -5586,11 +5158,7 @@ all should agree in feigning a Supreme Deity: therefore the Atheists, who posit 
 
 therefore
 
-(h) On the Nature of the Gods.
-
-[p. 59]
-
-(i): therefore. Second: no one has ever seen God: therefore we believe the existence of the Supreme Deity from the instruction of our teachers and the education given by our parents. To the first I deny the consequence. For from the fact that some Philosophers have fought against this consent, it is rightly concluded that a greater force for persuading is in it; for from this it is established that this universal consent did not flow from ignorance, error, education or some prejudice, but proceeded from the inner voice of nature, from the reason itself which is inborn in each man, from the natural light itself, which on account of the follies of a few raving philosophers could never be obscured. To the second I distinguish the antecedent: no one has seen him in himself, I grant; in his works, I deny; and I deny the consequence. For who has ever seen the mind? Yet I acknowledge it from its works, because I think, etc.
+(h) On the Nature of the Gods. [p. 59] (i): therefore. Second: no one has ever seen God: therefore we believe the existence of the Supreme Deity from the instruction of our teachers and the education given by our parents. To the first I deny the consequence. For from the fact that some Philosophers have fought against this consent, it is rightly concluded that a greater force for persuading is in it; for from this it is established that this universal consent did not flow from ignorance, error, education or some prejudice, but proceeded from the inner voice of nature, from the reason itself which is inborn in each man, from the natural light itself, which on account of the follies of a few raving philosophers could never be obscured. To the second I distinguish the antecedent: no one has seen him in himself, I grant; in his works, I deny; and I deny the consequence. For who has ever seen the mind? Yet I acknowledge it from its works, because I think, etc.
 
 185 Obj. 6. If the consent of nations is admitted as a firm argument for persuading, many absurdities follow: therefore. Proof of the antecedent. Polytheism was established by the consent of nations; for, if the Jews are excepted, all agreed in it. Second. Each nation, on account of the consent of its forefathers, ought to prefer its own Religion to the Religion of another. Third. No one can be ignorant that many errors were disseminated and various superstitions instituted by the consent of nations: therefore. I reply with a distinction: that in all these things the consent was certain and universal, I deny; that it was inconstant, uncertain and particular, I grant. The consent, therefore, from which we contend that a most firm argument for persuading of some thing is drawn must be such that it embraces firmly and constantly all men of all nations and of all times.
 
@@ -5598,11 +5166,7 @@ therefore
 
 S2                                        do
 
-(i) Systema Intellectuale, ch. 3, §. 30.
-
-[p. 60]
-
-do we find, without prejudice, that there exists a supremely intelligent maker.
+(i) Systema Intellectuale, ch. 3, §. 30. [p. 60] do we find, without prejudice, that there exists a supremely intelligent maker.
 
 187 I think it will not be unpleasant for you if I set before you some arguments which Fr. Girolamo Maria Buzzi expounds in the Accurate Synopsis of the Theology of the distinguished Fr. Giovanni Lorenzo Berti, copied out in as many words; for even from this you will learn how clearly it embraces everything, how lucidly it sets things forth, and how useful a study of this kind will afterwards be to you in Theology (*).
 
@@ -5618,11 +5182,7 @@ wicked
 
 (k) Bk. XII of The City of God, ch. 15.
 
-(l) Bk. XI of the Confessions, ch. 13.
-
-[p. 61]
-
-wicked is not from God, but from man, whom God placed in the hand of his own counsel, judging it better to do good with evils than to permit no evils to exist.
+(l) Bk. XI of the Confessions, ch. 13. [p. 61] wicked is not from God, but from man, whom God placed in the hand of his own counsel, judging it better to do good with evils than to permit no evils to exist.
 
 191 To the 3rd I deny the antecedent. For there is no part of the globe from which some advantage does not come to man. The mountains supply purer air, the woodlands pastures, the rocks metals and marbles. Rivers feed fish, water gardens, adorn and fortify cities. The sea contributes clouds and rains to the fertility of the fields, and carries goods across from the remotest shores. Heat and cold too are of use, for the latter makes the earth pregnant, the former ripens the crops: therefore, etc. To the 4th and 5th I deny the antecedent. For hardships, and death itself, are the wages of original sin. But since the Atheist mocks these things, I reply 2.: by these things men are led to contempt of earthly things and to praiseworthy industry; they are warned to live sparingly and not to hasten death upon themselves by excessive venery and wine. Of wild beasts, moreover, there is none which does not furnish us either help, or food, pleasure or remedy. To the last I deny the antecedent. For wisdom with weakness is better than even the greatest strength without reason. Thus far Fr. Buzzi.
 
@@ -5632,11 +5192,7 @@ wicked is not from God, but from man, whom God placed in the hand of his own cou
 
 194 You will say: the existence of a contingent being is not necessarily connected with the necessary being; otherwise the contingent being would exist necessarily: therefore a contingent being can exist without a necessary being existing. I distinguish the antecedent: that is, it is not of such a kind that a necessary being cannot be had without a contingent one being had, I grant; that is, a contingent being can exist without a necessary one existing, I deny; and I deny the consequence. It is true that the existence of a contingent being is not so connected with the necessary being that the necessary being could not exist unless there existed
 
-a
-
-[p. 62]
-
-a contingent being. For a contingent being is not produced necessarily. But it is false that the existence of a contingent being is not so connected with the necessary being that it is altogether repugnant that a contingent being be had without a necessary one being had. For since the necessary being holds the reason why the contingent exists, it is a contradiction that a contingent being should exist without a necessary one existing; just as the conflict is evident in this, that there should be an effect without a cause existing.
+a [p. 62] a contingent being. For a contingent being is not produced necessarily. But it is false that the existence of a contingent being is not so connected with the necessary being that it is altogether repugnant that a contingent being be had without a necessary one being had. For since the necessary being holds the reason why the contingent exists, it is a contradiction that a contingent being should exist without a necessary one existing; just as the conflict is evident in this, that there should be an effect without a cause existing.
 
 195 Obj. finally. It is evidently not repugnant that there be a process to infinity in efficient causes: therefore it is evidently not established that a cause must be admitted which is the first of all. Passing over the antecedent, I deny the consequence. For the existence of God has not been demonstrated by us from the fact that an infinite series of causes is repugnant. For whether it is repugnant or not, it is always true that a cause existing from itself must be admitted, since it cannot be that the whole collection of beings should be in such a way that it could equally have not been. That God, the Best and Greatest, exists is therefore beyond doubt. For (I shall conclude in the words of Cicero): “For if reason is on my side, if events, if peoples, if nations, if Greeks, if Barbarians, if our forefathers too, if, finally, this has always been so thought, if the greatest Philosophers, if the Poets, if the Wisest Men, who established Commonwealths, who founded cities: are we waiting until the beasts speak, and are we not content with the agreeing authority of men?” (m). And let what has been said of Natural Theology and of the whole of Metaphysics suffice.
 
@@ -5818,21 +5374,13 @@ He must be adored. By the name of Religion we understand the worship of love, of
 
 other
 
-(b) Here are the titles of the little books. La Philosophie du Bon Sens (commonly the Marquis d’Argens). Epitres Persanes (commonly M. de Montesquieu). Lettres sur la Religion essentielle à l’homme. Pensés Philosophiques. Les Oracles de la Raison. Examen de la Religion. Code de la Nature, ou le veritable esprit de ses loix. Le Christianisme aussi ancien que le monde. Les Mœurs. Tolerance des Religions. Epitres Turces. Epitres Chinoises, Epitres Cabalistes. Epitres Peruvienes. L’Esprit. Dictionnaire Philosophique. Dictionnaire Raisonné des Sciences, des Arts, & des Metiers, ou Dictionnaire Encyclopédique. At
-
-[p. 4]
-
-other works of this stamp, with which Europe teems, have come down into the battle line.
+(b) Here are the titles of the little books. La Philosophie du Bon Sens (commonly the Marquis d’Argens). Epitres Persanes (commonly M. de Montesquieu). Lettres sur la Religion essentielle à l’homme. Pensés Philosophiques. Les Oracles de la Raison. Examen de la Religion. Code de la Nature, ou le veritable esprit de ses loix. Le Christianisme aussi ancien que le monde. Les Mœurs. Tolerance des Religions. Epitres Turces. Epitres Chinoises, Epitres Cabalistes. Epitres Peruvienes. L’Esprit. Dictionnaire Philosophique. Dictionnaire Raisonné des Sciences, des Arts, & des Metiers, ou Dictionnaire Encyclopédique. At [p. 4] other works of this stamp, with which Europe teems, have come down into the battle line.
 
 6 For my part I would not dare to decide (I use the words of the most distinguished Valsecchi) which feeling ought rather to be aroused in a wise man beholding this crowd, whether that of indignation, or of contempt, or rather of pity. Ah, wretched men! Do you think you have so much strength that you judge yourselves able, by bringing out a few little pages, to refute the consensus of so many centuries, to convict the whole human race of error, to stifle the voice of nature, and to wage war on the Supreme Deity? Will that Religion which neither idolatry, then dominant, nor the cruelty of Tyrants equipped with the arms of the whole Roman empire, nor the acumen of so many Philosophers practiced in all the arts of disputation could overwhelm, be subdued by avarice, pleasure, the manners and bearing of a world corrupted by every desire and made effeminate? Fables.
 
 7 Nay rather, Religion itself, victorious over all obstacles, triumphant over hearts and minds, has multiplied its victories by its contests, and has found its adversaries, after the battle, to be its keenest champions. Shall that Religion, I say, be laid low and utterly destroyed by some infamous satire, a collection of libertine little tales, a selection of a few ambiguous words and puerile sophisms? If this is not the height of audacity, nay, a signal madness, I do not know what ever could be. And in truth it is enough to read even in passing the little writings of these Masters for the marks of light-minded and raving men to be recognized at once. Do not, I beg you, think that in them you can find
 
-some Neufchatel 1751. 17 vols. in fol. (It cannot be denied that Physics, Mathematics, in a word the Sciences and Arts, are set forth excellently in this work, since what is handed down about them regards Religion and morals neither directly nor indirectly. But the things that belong to Religion, that regard the authority of the Prince, and finally that pertain to good morals, are ruined, debased, derided. With all these removed, the Work, revised anew and expurgated, is now coming out at Lucca and at Livorno in Tuscany, to the applause of the learned and to the very great good and profit of the whole Republic of Letters.) Rousseau, L’Emille, ou traité d’Education. Voltaire in his various little works. With most valid reasons these Libertines, and many others besides, have been censured by most distinguished men: Tommaso Maria Cerboni O.P., in the work entitled De Theologia Naturali, & Revelata; Anton. Valsecchi O.P., in the work entitled Dei Fondamenti della Religione, e de i fonti dell’Empietà; P. Muniglia O.P., Dissertazzione contro i Fatalisti; the author of the work entitled La Pretessa Filosofia degli moderni increduli; Abbé Nonnotte, in the work entitled Les Erreurs de Voltaire; Abbé Gauchat, in the work entitled Lettres Critiques, ou analyse & refutation des ecrits modernes contre la Religion; and others.
-
-[p. 5]
-
-some well-deduced system, in which the first things answer to the last, the middle ones both to the last and to the first, and all cohere aptly with one another, by which war might be waged both on Religion and on God, the Best and Greatest.
+some Neufchatel 1751. 17 vols. in fol. (It cannot be denied that Physics, Mathematics, in a word the Sciences and Arts, are set forth excellently in this work, since what is handed down about them regards Religion and morals neither directly nor indirectly. But the things that belong to Religion, that regard the authority of the Prince, and finally that pertain to good morals, are ruined, debased, derided. With all these removed, the Work, revised anew and expurgated, is now coming out at Lucca and at Livorno in Tuscany, to the applause of the learned and to the very great good and profit of the whole Republic of Letters.) Rousseau, L’Emille, ou traité d’Education. Voltaire in his various little works. With most valid reasons these Libertines, and many others besides, have been censured by most distinguished men: Tommaso Maria Cerboni O.P., in the work entitled De Theologia Naturali, & Revelata; Anton. Valsecchi O.P., in the work entitled Dei Fondamenti della Religione, e de i fonti dell’Empietà; P. Muniglia O.P., Dissertazzione contro i Fatalisti; the author of the work entitled La Pretessa Filosofia degli moderni increduli; Abbé Nonnotte, in the work entitled Les Erreurs de Voltaire; Abbé Gauchat, in the work entitled Lettres Critiques, ou analyse & refutation des ecrits modernes contre la Religion; and others. [p. 5] some well-deduced system, in which the first things answer to the last, the middle ones both to the last and to the first, and all cohere aptly with one another, by which war might be waged both on Religion and on God, the Best and Greatest.
 
 8 Nothing is heard but confused declamations and voices, as they were heard in the land of Sennaar among the builders of the huge tower, who did not even understand one another’s speech. Each one spews out unspeakable and false things, but so various, so contrary, that not only do they not mean the same thing, but these destroy those.
 
@@ -5846,19 +5394,11 @@ religiously
 
 (c) A Deist, or Theist, is the name given to one who indeed grants that God exists, but professes no Religion, no worship. The Deists disdainfully decry all Religion and divine Revelation as mere fables, and prattle that it is enough if God is adored in the simplicity of nature and of the heart.
 
-(d) The definition on which Spinoza’s system rests is the definition of substance conceived in these words: By substance I understand that which is in itself and is conceived through itself: that is, that whose concept does not need the concept of another thing from which it must be formed (Ethics, Pt. 1, Def. 3). Now these words, that which is in itself, can have a twofold meaning. I. That which is in itself, that is, which is from itself, excluding a cause that produces it. II. That which is in itself,
-
-[p. 6]
-
-religiously imitates its illustrious leaders in this point: having learned lying from them, it has also learned this, to reject what it has approved and always to contradict itself.
+(d) The definition on which Spinoza’s system rests is the definition of substance conceived in these words: By substance I understand that which is in itself and is conceived through itself: that is, that whose concept does not need the concept of another thing from which it must be formed (Ethics, Pt. 1, Def. 3). Now these words, that which is in itself, can have a twofold meaning. I. That which is in itself, that is, which is from itself, excluding a cause that produces it. II. That which is in itself, [p. 6] religiously imitates its illustrious leaders in this point: having learned lying from them, it has also learned this, to reject what it has approved and always to contradict itself.
 
 12 Besides this, you will find in little books of this sort a whole Polyanthea, or a rude and undigested collection of declamations and of erudition. They dispute in them about Jurisprudence, about Politics, about Astronomy, about Commerce, about Ethics, about War; Dialectic alone, or the Art of Thinking, is wholly lacking. They fly from Athens to Sparta, from Jerusalem
 
-to that is, which is through itself, excluding a subject that sustains it. Modes, e.g. motion, shape, etc., do not exist from themselves, because they need a cause by which they are produced; but neither do they exist through themselves, for they require a subject in which to inhere, e.g. a ball. But the most perfect Being exists through itself and from itself. For it does not need a subject by which to be sustained, nor can it even have a cause by which it is produced. A horse exists through itself, since it inheres in no subject; but it does not exist from itself, since it has had a cause by which it was produced. Spinoza used the ambiguous expression exists in itself, and will have it proper to substance to exist from itself, excluding a cause that produces it; but this is what everyone denies, and what that circumcised philosopher nowhere proved in his book. Let us pass to the other parts of the definition and, with the torch of the distinction just given going before us, uncover his fraud. By substance I understand that which is in itself, and he adds, and is conceived through itself. If Spinoza believes that the concept of substance is so absolute that it implies no relation to a subject that sustains it, as motion implies one to the movable, he thinks truly, but this helps Pantheism not at all. What then does he mean? This, namely: that the concept of substance is so absolute that it removes from itself every relation to a cause that produces it; but this is altogether false, and this he will never prove. The same must be said of the other words that follow, which the impious Apella adds to explain the definition of substance just given, that is, substance is that whose concept does not need the concept of another thing from which it must be formed. For if he means that the concept of substance must exclude from itself a relation to another substance to which it is referred, as an effect to a cause, we deny it, nor will he ever prove it. The crafty Hebrew, however, understood this; for from this one false principle he derived his whole Pantheistic system, and he wished to include in that definition, as its foundation, that which was the head of the whole controversy: namely, that it is of the essence of substance that it exist from itself, excluding any cause whatever, and that there can never be conceived in a substance a relation of effect to another substance as to the cause that procreates it.
-
-[p. 7]
-
-to Rome, from the age of Augustus to the age of Louis. A passage is made from the Caribs of the Antilles to the Hottentots of Africa; from these to the northern Greenlanders; thence to the wild men of other remote regions. Hence the laws of regions of the world so unlike one another are now examined, now their customs are compared with one another, now their turpitudes are recounted, now irreligion is celebrated with applause. Chinese antiquities carry greater weight with them than sacred Genesis. Diodorus, Strabo and Tacitus are cited as more expert in Jewish antiquities than Moses himself. Horace, Petronius, Manilius, Lucretius, Poppius are brought forward as incomparable teachers of wisdom.
+to that is, which is through itself, excluding a subject that sustains it. Modes, e.g. motion, shape, etc., do not exist from themselves, because they need a cause by which they are produced; but neither do they exist through themselves, for they require a subject in which to inhere, e.g. a ball. But the most perfect Being exists through itself and from itself. For it does not need a subject by which to be sustained, nor can it even have a cause by which it is produced. A horse exists through itself, since it inheres in no subject; but it does not exist from itself, since it has had a cause by which it was produced. Spinoza used the ambiguous expression exists in itself, and will have it proper to substance to exist from itself, excluding a cause that produces it; but this is what everyone denies, and what that circumcised philosopher nowhere proved in his book. Let us pass to the other parts of the definition and, with the torch of the distinction just given going before us, uncover his fraud. By substance I understand that which is in itself, and he adds, and is conceived through itself. If Spinoza believes that the concept of substance is so absolute that it implies no relation to a subject that sustains it, as motion implies one to the movable, he thinks truly, but this helps Pantheism not at all. What then does he mean? This, namely: that the concept of substance is so absolute that it removes from itself every relation to a cause that produces it; but this is altogether false, and this he will never prove. The same must be said of the other words that follow, which the impious Apella adds to explain the definition of substance just given, that is, substance is that whose concept does not need the concept of another thing from which it must be formed. For if he means that the concept of substance must exclude from itself a relation to another substance to which it is referred, as an effect to a cause, we deny it, nor will he ever prove it. The crafty Hebrew, however, understood this; for from this one false principle he derived his whole Pantheistic system, and he wished to include in that definition, as its foundation, that which was the head of the whole controversy: namely, that it is of the essence of substance that it exist from itself, excluding any cause whatever, and that there can never be conceived in a substance a relation of effect to another substance as to the cause that procreates it. [p. 7] to Rome, from the age of Augustus to the age of Louis. A passage is made from the Caribs of the Antilles to the Hottentots of Africa; from these to the northern Greenlanders; thence to the wild men of other remote regions. Hence the laws of regions of the world so unlike one another are now examined, now their customs are compared with one another, now their turpitudes are recounted, now irreligion is celebrated with applause. Chinese antiquities carry greater weight with them than sacred Genesis. Diodorus, Strabo and Tacitus are cited as more expert in Jewish antiquities than Moses himself. Horace, Petronius, Manilius, Lucretius, Poppius are brought forward as incomparable teachers of wisdom.
 
 13 Yet all this is mostly done without the passages of the authors being examined; for the most part they bring in those passages unfaithfully, and always without the art of Criticism; for it is enough that they be pronounced in a fearless, censorious voice, which alone, as they suppose, can give weight to fables and lies.
 
@@ -5872,11 +5412,7 @@ to Rome, from the age of Augustus to the age of Louis. A passage is made from th
 
 V                                            corrupt
 
-(e) Letter in the form of a Brief, given to Fr. Anton. Valsecchi on 21 March, in the year 1767.
-
-[p. 8]
-
-corrupt and reprobate concerning the Faith, with a most impudent license joined with impunity, try to pour most absurd and impious opinions into the minds of the unlearned, I have thought it altogether necessary to warn you that, should books of this kind (which God forbid) perhaps at some time fall into your hands, you abstain altogether from reading them, lest they cheat you by philosophy, and vain deceit; according to the tradition of men, and not according to Christ, as St. Paul says (f). But let our discourse return to the point from which it set out.
+(e) Letter in the form of a Brief, given to Fr. Anton. Valsecchi on 21 March, in the year 1767. [p. 8] corrupt and reprobate concerning the Faith, with a most impudent license joined with impunity, try to pour most absurd and impious opinions into the minds of the unlearned, I have thought it altogether necessary to warn you that, should books of this kind (which God forbid) perhaps at some time fall into your hands, you abstain altogether from reading them, lest they cheat you by philosophy, and vain deceit; according to the tradition of men, and not according to Christ, as St. Paul says (f). But let our discourse return to the point from which it set out.
 
 18 As regards God, since He is most excellent and rightly and deservedly claims for Himself the supreme right and the supreme authority over all things, everyone understands that He is to be honored with as great a homage and veneration as is owed to the Best Founder and the most Loving Preserver of things. There are many things by which we testify our homage toward others, and indeed love is the chief proof of our homage. For by it it comes about that we cultivate in a wonderful way, with zeal and devotion, those whom we judge worthy of our benevolence. There can therefore be no doubt that God, the Best and Greatest, who by right of dominion is to be worshipped by us, is to be loved above all else and cherished supremely. Nor indeed is there only one reason by which we are driven to do this. For God is that highest good which, if it were seen with the eyes, would arouse (as Plato says of Wisdom) wondrous loves of itself. For whatever is good for us in this life we understand to proceed from Him alone, and we are to receive eternal beatitude in the other life from the enjoyment of Him.
 
@@ -5890,11 +5426,7 @@ supreme
 
 (g) Matthew, ch. 22, v. 37.
 
-(h) Luke 12, v. 29.
-
-[p. 9]
-
-supreme reason itself, goodness itself, and truth itself. Concerning His promises and words, therefore, once it is established that He has spoken and promised, no one may doubt. From faith there necessarily follows Hope, by which we ought to expect both the reward appointed for virtue and also those helps which, since they assist the weakness of our powers, are therefore altogether necessary for attaining it.
+(h) Luke 12, v. 29. [p. 9] supreme reason itself, goodness itself, and truth itself. Concerning His promises and words, therefore, once it is established that He has spoken and promised, no one may doubt. From faith there necessarily follows Hope, by which we ought to expect both the reward appointed for virtue and also those helps which, since they assist the weakness of our powers, are therefore altogether necessary for attaining it.
 
 21 That filial love, therefore, by which we love God as a Father, ought to rouse us to hope with certainty from Him for all the goods that will profit us; and therefore we ought to ask and entreat of Him help, and aid in adversity, as the Redeemer Himself very often invites us to pray and to ask: Ask, and you shall receive; seek, and you shall find; knock, and it shall be opened to you. By divine counsel, however, He admonishes us to ask in the name of Christ Himself: If you ask the Father any thing in my name, he will give it you.
 
@@ -5904,11 +5436,7 @@ supreme reason itself, goodness itself, and truth itself. Concerning His promise
 
 24 But let us treat fully of the duties which are to be
 
-Y2                                  cultivated
-
-[p. 10]
-
-cultivated by man toward himself. The things that pertain to this kind of duties are contained in the custody and cultivation both of the mind and of the body. But although we are bound to both, the perfecting of the mind must nevertheless be greater and more careful, by as much as the mind itself is more excellent and nobler than the body. Now the care of the mind is perfected by the amendment of the intellect and of the will. Whatever, therefore, seems to regard this amendment must be performed by a Christian man above all, with all zeal and diligence. And since the vices of the intellect are more easily removed by the study of the disciplines, as the errors of the will are more safely amended by the exercise of the virtues, we shall have to take refuge in both. Nothing, however, among the aids just mentioned, can be offered or devised that is more apt for procuring the cultivation of the mind than an attentive and vigilant moderation of our affections.
+Y2                                  cultivated [p. 10] cultivated by man toward himself. The things that pertain to this kind of duties are contained in the custody and cultivation both of the mind and of the body. But although we are bound to both, the perfecting of the mind must nevertheless be greater and more careful, by as much as the mind itself is more excellent and nobler than the body. Now the care of the mind is perfected by the amendment of the intellect and of the will. Whatever, therefore, seems to regard this amendment must be performed by a Christian man above all, with all zeal and diligence. And since the vices of the intellect are more easily removed by the study of the disciplines, as the errors of the will are more safely amended by the exercise of the virtues, we shall have to take refuge in both. Nothing, however, among the aids just mentioned, can be offered or devised that is more apt for procuring the cultivation of the mind than an attentive and vigilant moderation of our affections.
 
 25 The principal affections are Love, Hatred, Desire, Joy, Hope, Sadness, Distrust, Boldness, Despair, Pleasure, Ambition, Avarice, Anger, Shame, Weariness, Envy, Derision, Jealousy, immoderate Love of self, Emulation, by which we see human minds enticed, moved or excited, so that from them all the virtues or vices arise as from most abundant springs. [See what was said in the Logic, bk. 2, ch. 5.] Hence in every kind of life we have this precept: that we correct the motions of the mind that do not obey reason. As for the body, since no one is Lord of his own life, whatever Voltaire may blurt out, neither can anyone exercise an absolute dominion over it. And indeed such custody of the body must be kept as is required in order neither to destroy it nor to impair it. All of which, however, is to be understood and performed always without prejudice to the business of Religion.
 
@@ -5916,11 +5444,7 @@ cultivated by man toward himself. The things that pertain to this kind of duties
 
 27 The remaining duties to be observed by man toward man are these. That the human race is generated for mutual Society, whatever Rousseau, still living and the talk of men, may think to the contrary, is ascertained among all. For what would organs fit for speaking profit, or to what use would affections for helping others serve, unless we were destined by nature itself, namely by God, the most wise author of nature, to enter as it were into one great Society? We are therefore joined by a mutual bond of friendship
 
-and
-
-[p. 11]
-
-and benevolence. And just as all that is honorable lies in observing it, so all deformity and baseness lies in breaking and violating it.
+and [p. 11] and benevolence. And just as all that is honorable lies in observing it, so all deformity and baseness lies in breaking and violating it.
 
 28 From this friendship, moreover, two kinds of duties are derived. The first, that we offend no one by word or deed; the second, that we help our fellows with beneficence as far as we can. And indeed the injury of others, which is forbidden by that natural law, what you would not have done to you, do not do to another, can extend very widely. For since there are goods of the mind, of the body and of fortune, we can be harmful to others in three ways.
 
@@ -5932,11 +5456,7 @@ and benevolence. And just as all that is honorable lies in observing it, so all 
 
 32 That excellent name, therefore, which has fallen to each man through the exercise of the virtues, can be injured by another neither privately nor publicly. In this matter, if we falsely charge the words or deeds of others as crimes, we are both guilty of calumny and sin against justice. If, on the other hand, we make manifest to another what is a vice and a sin in someone else, which is indeed true but hidden, we are already acting against mutual benevolence. But nothing is more shameful, nothing fouler in the Society of men, than inconstancy in words and compacts. For since the chief foundation of Justice is Faith, once this virtue is removed, Justice too, and together with it sociability, must collapse. Wherefore, if the faith given to anyone must not be violated, by the same reasoning every license of deceiving another by a lie has also been taken away. This indeed we understand of every kind of lie, so that whether it is done to the detriment of another, or you lie for the advantage of yourself and of others, you will be judged a violator of both rights, namely the perfect and the imperfect. Concerning beneficence and liberality, I think that all the duties derived from this head are contained in that principle: whatever you would have done to you by others, do also to others. Thus the omission of these is to be referred not to injustice, but to inhumanity
 
-and
-
-[p. 12]
-
-and baseness. In conferring benefits many cautions must be applied, and first of all
+and [p. 12] and baseness. In conferring benefits many cautions must be applied, and first of all
 
 we must see to it, with Tully, that the kindness not harm the very persons to whom it will
 
@@ -6006,11 +5526,7 @@ that
 
 (i) On Ends, 2.
 
-(k) Dissert. on Virtue, which we give here with a few changes.
-
-[p. 13]
-
-that it temper them, modify them, and direct them to the highest good of our nature.
+(k) Dissert. on Virtue, which we give here with a few changes. [p. 13] that it temper them, modify them, and direct them to the highest good of our nature.
 
 36 Now the ends of our nature regard either the present life only, or the future one as well. The virtues that perfect men for the happiness of the future life and direct them toward it are called Theological virtues, about which it is for Theologians to discourse; those, on the other hand, that train the same man for holily cultivating and preserving society, and produce the tranquillity and security of society, are called Civil virtues; and finally whatever virtues perfect man for the tranquillity of a private or solitary life are named Monastic and Ethical virtues.
 
@@ -6020,11 +5536,7 @@ that it temper them, modify them, and direct them to the highest good of our nat
 
 39 Wherefore, if we strive to amend reason, to purge the imagination, if we measure exactly the goodness or malice of things, if we discern the true relations of things to our nature and our ends,
 
-we
-
-[p. 14]
-
-we shall indeed be able to be stirred by them somewhat more vehemently toward vices, or to be held back somewhat from conceiving virtue, but in no way to be driven to the former, or drawn back from the latter, against our will. Nor can there be any greater argument that those things can become instruments of virtue than what experience teaches: that very many have so subjected them to themselves and to reason that, while they felt themselves either more vehemently agitated or hindered by a great force, they meanwhile either curbed them or drove them on with goads. I say that there is no one, however depraved, who, if he would be candid, would confess that he is carried to vices against his will; no one so very wicked that he cannot be bent to what is honorable and to virtue. Hence Horace said very elegantly and admirably (l) that
+we [p. 14] we shall indeed be able to be stirred by them somewhat more vehemently toward vices, or to be held back somewhat from conceiving virtue, but in no way to be driven to the former, or drawn back from the latter, against our will. Nor can there be any greater argument that those things can become instruments of virtue than what experience teaches: that very many have so subjected them to themselves and to reason that, while they felt themselves either more vehemently agitated or hindered by a great force, they meanwhile either curbed them or drove them on with goads. I say that there is no one, however depraved, who, if he would be candid, would confess that he is carried to vices against his will; no one so very wicked that he cannot be bent to what is honorable and to virtue. Hence Horace said very elegantly and admirably (l) that
 
 The envious man, the wrathful, the sluggard, the drunkard, the lover,
 
@@ -6054,11 +5566,7 @@ But
 
 45 The first precept is that we implore with assiduous prayers the divine help by which we may receive strength for cultivating virtue. For God is also the first efficient cause of virtue, and in the divine Scriptures the fear of God is called the beginning of Wisdom. The second precept is that the signal beauty of virtue and its most abundant fruits be kept continually before our eyes. Socrates used to say that if honorableness and virtue showed their face without a veil, they would kindle incredible flames of love in us. Among the fruits of virtue, moreover, the chief are: I. Tranquillity of mind, which proceeds from virtue alone. II. True praise and glory, which can be expected not from vices but from virtue alone, even in this depravity of morals in which nearly all of us live. III. True utility, since vices can feign utility, but cannot furnish the true kind. IV. True nobility; for nobility
 
-X                                      was
-
-[p. 16]
-
-was first born of virtue, and is placed essentially in virtue, so that those who glory in ancestral nobility, while themselves wholly void of virtue, are to be called sons of nobles rather than nobles. V. Finally, virtue brings with it this great benefit, that it wrings love even from barbarians; hence that admirable saying of Tully: virtue is loved even in an enemy.
+X                                      was [p. 16] was first born of virtue, and is placed essentially in virtue, so that those who glory in ancestral nobility, while themselves wholly void of virtue, are to be called sons of nobles rather than nobles. V. Finally, virtue brings with it this great benefit, that it wrings love even from barbarians; hence that admirable saying of Tully: virtue is loved even in an enemy.
 
 46 The third precept is that you set before yourself, to be pursued in virtue, not only middling things or things easier to do, but that you always aspire to its highest summit, and to the virtue that is called heroic; for unless you do this, you will scarcely cling to its lowest part. The fourth precept is that we perpetually paint all the vices to the mind in vivid colors, and accustom ourselves to shudder at them. For it can scarcely be told how much force the horror of vices contributes to establishing virtue. The fifth precept is that we weigh to which vice we are more prone, whether because of temperament, or of education, or of the manners of the age, so that we may draw ourselves farther away from it. And to this above all the man who loves virtue must give his effort. Elegantly Horace (o):
 
@@ -6112,11 +5620,7 @@ Why was honor lacking to this deed, or reason to that?
 
 54 Now the fifth sign that we have advanced in virtue is if, in the face of the difficulties
 
-which
-
-[p. 19]
-
-which virtue offers in prospect, we do not yield timidly, but go against them boldly. To kindle this ardor, the fruits of virtue must be perpetually considered. The sixth sign is if adversities are borne with an even mind. For indeed, he who is so disturbed by even the smallest evils that he is miserable has not advanced even a finger’s breadth. And this is what the Stoics taught, that distress does not befall the Wise man. Excellently Cicero (q): “He who is brave,” he says, “must likewise be great of soul; he who is great of soul, unconquered; he who is unconquered must look down upon human affairs and judge them to be placed beneath him: but no one can look down upon those things on account of which he can be affected by distress. From which it follows that the brave man is never affected by distress. But all wise men are brave; distress therefore does not befall the wise man.”
+which [p. 19] which virtue offers in prospect, we do not yield timidly, but go against them boldly. To kindle this ardor, the fruits of virtue must be perpetually considered. The sixth sign is if adversities are borne with an even mind. For indeed, he who is so disturbed by even the smallest evils that he is miserable has not advanced even a finger’s breadth. And this is what the Stoics taught, that distress does not befall the Wise man. Excellently Cicero (q): “He who is brave,” he says, “must likewise be great of soul; he who is great of soul, unconquered; he who is unconquered must look down upon human affairs and judge them to be placed beneath him: but no one can look down upon those things on account of which he can be affected by distress. From which it follows that the brave man is never affected by distress. But all wise men are brave; distress therefore does not befall the wise man.”
 
 55 The seventh sign is if the virtuous man despises enticements to vice: for if he is easily moved from his purpose, he has made either no progress or little. For vicious men are above all wont to adorn their vices with the most beautiful appearances, so that they may seem less vicious, and to take away from others the horror of vice: to make it respectable by custom, to excuse it by the weakness of human nature; to traduce and deride the virtues as the figments either of weak minds or of enthusiasts; to call those wise who have learned to deceive others cunningly for the sake of private advantage, and those fools who do not know how. If you by no means allow yourself to be taken in by them, know that you have advanced in virtue.
 
@@ -6278,11 +5782,7 @@ Note 2, that since every Circle is divided by Mathematicians into 360 parts, whi
 
 Note 3, that lines make a greater or a lesser Angle, not when they are longer or shorter, but when, with the same length of each, they recede more or less from each other. Hence if two lines AD, AL (in the same Figure) are each equal to the two AE, AN, and their extreme Points D and L are as far apart from each other as E and N, the Angles DAL and EAN will be equal. And conversely, if the Angles are equal, the extreme points will be equally distant. On the other hand, when D and M stand farther apart from each other
 
-than
-
-[p. 6]
-
-than E and N, the Right Angle DAM will be greater than the Acute Angle EAN.
+than [p. 6] than E and N, the Right Angle DAM will be greater than the Acute Angle EAN.
 
 XIII. Parallel lines are those which stand apart from each other by an equal space everywhere, and, however far they are produced, never meet so as to make an Angle.
 
@@ -6318,11 +5818,7 @@ XXVI. A Rhombus, whose sides are all equal, but its Angles not right; Fig. VII, 
 
 XXVII. A Rectangle longer on one side, whose Angles are right,
 
-but
-
-[p. 7]
-
-but only the two opposite sides equal: Fig. VIII, Plate I.
+but [p. 7] but only the two opposite sides equal: Fig. VIII, Plate I.
 
 ## XXVIII. A Rhomboid, of which only the two opposite sides are equal, and the
 
@@ -6466,11 +5962,7 @@ I  f from a given point F outside a line a Perpendicular is to be drawn to the l
 
 placing one foot of the compass at F, let the line be cut on either side, extended further (if need be), at B and G; then from B and G let two Arcs be made, with the same opening of the compass, cutting
 
-Z                                     each
-
-[p. 10]
-
-each other at H. The line FH will be the Perpendicular sought. From Theor. IV, pt. 2.
+Z                                     each [p. 10] each other at H. The line FH will be the Perpendicular sought. From Theor. IV, pt. 2.
 
 It must be noted, however, that a Perpendicular cannot be drawn from any point whatever to any point whatever of a line; but it is sometimes necessary to produce the given line further, so that a Perpendicular can be drawn to it from the given point.
 
@@ -6590,11 +6082,7 @@ the
 
 (c) Cor. of prop. 15.
 
-(d) Prop. 29.
-
-[p. 14]
-
-the exterior H, equal to the Angle N, interior and opposite toward the same side.
+(d) Prop. 29. [p. 14] the exterior H, equal to the Angle N, interior and opposite toward the same side.
 
 Cor. The Converse of this Theorem is easily demonstrated; namely, that if a Line cutting two other lines makes the two internal angles on the same side equal to two right angles, those two lines will be Parallel: For they will be equally inclined to the middle secant, and to each other. Likewise if it makes the alternate angles, or the internal and the external, equal (a).
 
@@ -6618,11 +6106,7 @@ equal.
 
 (a) Eucl. bk. I, prop. 28, 27.
 
-(b) Prop. 32.
-
-[p. 15]
-
-equal. IV. If they have a side opposite one of the two equal angles equal (a).
+(b) Prop. 32. [p. 15] equal. IV. If they have a side opposite one of the two equal angles equal (a).
 
 Dem. I. If the side AB is equal to the side DE, and the side AC equal to the side DF, and the Angle A equal to the angle D: the Side DE, superposed on the side AB, will coincide with it, and the side DF with the side AC, and the points E, F with the points B, C: therefore both the Bases and the remaining Angles at the Base will coincide, and will be equal in each triangle: from definition VI of the straight line.
 
@@ -6646,11 +6130,7 @@ to
 
 (b) Eucl. bk. I, prop. 21.
 
-(c) Prop. 5.
-
-[p. 16]
-
-to the Triangle ACL, and the angles B and C, opposite the common side, are equal. From the preceding Theor.
+(c) Prop. 5. [p. 16] to the Triangle ACL, and the angles B and C, opposite the common side, are equal. From the preceding Theor.
 
 Cor. I. The Angles D and E below the Base are also equal; for the two angles B and D together are equal to two right angles, and no less the angles C and E: from Theor. I; therefore, when the equal angles B and C are taken away, the angles D and E remain equal.
 
@@ -6774,11 +6254,7 @@ Aa 2                                             are
 
 (b) Eucl. bk. II, prop. 2.
 
-(c) Prop. 3.
-
-[p. 20]
-
-made from the side CB and the segment BD, produced further as far as the Perpendicular AD
+(c) Prop. 3. [p. 20] made from the side CB and the segment BD, produced further as far as the Perpendicular AD
 
 (a).
 
@@ -6894,11 +6370,7 @@ L   et any Diameter AB whatever be drawn in the Circle: if upon the Diameter a
 
 Triangle is made whose vertex C touches at any point
 
-the
-
-[p. 24]
-
-the Circumference, BCA will be Right-angled: if the vertex D falls outside the Circumference, BDA will be Acute-angled: if it falls inside the Circle, as at E, BEA will be an Obtuse-angled Triangle. From Theor. I of this book, & Cor. of Theor. IV, Bk. I.
+the [p. 24] the Circumference, BCA will be Right-angled: if the vertex D falls outside the Circumference, BDA will be Acute-angled: if it falls inside the Circle, as at E, BEA will be an Obtuse-angled Triangle. From Theor. I of this book, & Cor. of Theor. IV, Bk. I.
 
 ## Problem IV. (Fig. 4.)
 
@@ -7070,11 +6542,7 @@ Dem. The Semidiameter AD, perpendicular to the line BC, is the shortest
 
 (d) Pr. 15.
 
-(e) Pr. 16.
-
-[p. 29]
-
-of all the lines from the center to the same line; therefore the line AC, and any other drawn to the line BC, is greater than the semidiameter AD: and consequently every other line to the line BC falls beyond the circle, because it is greater than the semidiameter: therefore the line BC touches the circle in one point D.
+(e) Pr. 16. [p. 29] of all the lines from the center to the same line; therefore the line AC, and any other drawn to the line BC, is greater than the semidiameter AD: and consequently every other line to the line BC falls beyond the circle, because it is greater than the semidiameter: therefore the line BC touches the circle in one point D.
 
 Cor. I. No straight line can be drawn through the point D between the Circumference and the Tangent: for the perpendicular from the center A, which can be drawn to any line drawn through the point D, according to Problem V, bk. 1, must be shorter than the semidiameter AD, which is not perpendicular to the line DE, from Theor. V, bk. 1, last cor.; and so the line DE, and any other that is drawn through the point D below the tangent, does not fall outside, but inside the Circle.
 
@@ -7156,11 +6624,7 @@ V. Four terms are said to be in the same Proportion when the first contains the 
 
 Of these, moreover, the first, which is referred to another, is called the antecedent; the later, to which the first is referred, is called the consequent: and the two antecedents
 
-and
-
-[p. 32]
-
-are called homologous to each other, just as the two consequents are to each other: e.g., if it is said, as 4 to 2, so 6 to 3: 4 and 6 are called antecedents and homologous to each other; 2 and 3 are also called consequents homologous to each other.
+and [p. 32] are called homologous to each other, just as the two consequents are to each other: e.g., if it is said, as 4 to 2, so 6 to 3: 4 and 6 are called antecedents and homologous to each other; 2 and 3 are also called consequents homologous to each other.
 
 VI. Proportion, moreover, or Proportionality, consists in at least three terms;
 
@@ -7268,11 +6732,7 @@ It is plain from Axiom VI: because when similar parts are added, similar
 
 (a) Eucl. bk. V, prop. 16.
 
-(b) Eucl. bk. V, prop. 18.
-
-[p. 35]
-
-wholes also result. And proportional terms are those whose excesses are similar parts.
+(b) Eucl. bk. V, prop. 18. [p. 35] wholes also result. And proportional terms are those whose excesses are similar parts.
 
 IV. Division of ratio is the comparison of the excess of the antecedent over the consequent to the consequent itself: e.g., as 9 to 3, so 6 to 2; therefore, by division, as 6 (the number by which 9 exceeds 3) to 3, so 4 (the number by which 6 exceeds 2) to 2. (a)
 
@@ -7312,11 +6772,7 @@ Cc 2                                      by
 
 (c) Eucl. bk. V, prop. 22.
 
-(d) Prop. 23.
-
-[p. 36]
-
-by the consequent, the quotient is called the exponent of the ratio. Now the Quotient, or Quotient number, is that which denotes how many times some number is contained in another. Thus in the ratio 8 to 2 the number 8 is the antecedent, 2 the consequent, and the quotient 4 is the exponent of the ratio; and 4 is the quotient because 2 is contained four times in 8.
+(d) Prop. 23. [p. 36] by the consequent, the quotient is called the exponent of the ratio. Now the Quotient, or Quotient number, is that which denotes how many times some number is contained in another. Thus in the ratio 8 to 2 the number 8 is the antecedent, 2 the consequent, and the quotient 4 is the exponent of the ratio; and 4 is the quotient because 2 is contained four times in 8.
 
 If the antecedent equals the consequent, the ratio is one of equality, as 4 to 4.
 
@@ -7330,11 +6786,7 @@ Two quantities are said to be in direct ratio when the first and third terms of 
 
 Two quantities are in inverse, or reciprocal, ratio when the first and fourth terms of a Geometric proportion belong to one quantity, while the second and third relate to another. If Peter, e.g., has 100 of knowledge and 50 of study, and Paul has 50 of knowledge and 100 of labor, the knowledge of Peter and the knowledge of Paul will be in inverse, or reciprocal, ratio. I shall say, therefore, that the knowledge of Peter is to the knowledge of Paul as the labor of Paul is to the labor of Peter. The first and fourth
 
-terms
-
-[p. 37]
-
-terms of this proportion belong to Peter, the second and third relate to Paul, as is self-evident.
+terms [p. 37] terms of this proportion belong to Peter, the second and third relate to Paul, as is self-evident.
 
 The ratio which arises from the multiplication of several ratios with one another is called a compound Ratio. Thus, if there are the ratios 8 to 4 and 3 to 5, and you multiply the antec. 8 by the antec. 3, and the conseq. 4 by the conseq. 5, the ratio of the product 24 from the antecedents to the product 20 from the consequents is said to be compounded of the ratios 8 to 4 and 3 to 5.
 
@@ -7354,11 +6806,7 @@ L    et the line AB be divided into five parts, just as the line AC is divided. 
 
 be joined so as to make any angle whatever at A, and let CB be drawn. Then through the points at which the line AC has been cut let DE, FG, etc. be made parallel to CB, cutting the line AB. These divisions
 
-will
-
-[p. 38]
-
-will divide the line AB in the same proportion as the line AC is divided. From Theor. II of this book.
+will [p. 38] will divide the line AB in the same proportion as the line AC is divided. From Theor. II of this book.
 
 Any line, however, such as AB, is divided more easily if it is to be divided into equal parts. For let an indefinite line AC be joined to it at any angle whatever, and at the other end, at an equal angle, the line BI (which by Theor. II, bk. I will be parallel to the line AC, because of the equal alternate angles); then from A toward C, and from B toward I, with any opening of the compass, let as many equal parts be cut off as you wish. The lines DL, FM, and the others drawn through the opposite points of section, will also divide the line AB into the equal parts sought. From the same.
 
@@ -7452,11 +6900,7 @@ W       e taught in bk. I, last Prob., how to convert a Trapezium into a Rectang
 
 into any parallelogram whatever. How to convert any rectilinear figure whatever into a rectangle, or another parallelogram,
 
-we
-
-[p. 41]
-
-we teach here more conveniently. Let there be, then, any rectilinear figure BAC whatever, to which an equal rectangle is to be constructed. First, by drawing lines to the vertices of the angles, resolve the whole rectilinear figure into Triangles, which will always be two fewer than the sides of the figure. Then upon any given straight line make a rectangle DG equal to the triangle B; and, DN being produced indefinitely, upon the straight line FG let a rectangle FI be made equal to the triangle A; and upon the straight line HI a rectangle HM equal to the triangle C. The whole rectangle DM will be equal to the rectilinear figure BAC: From Theor. VIII, bk. I.
+we [p. 41] we teach here more conveniently. Let there be, then, any rectilinear figure BAC whatever, to which an equal rectangle is to be constructed. First, by drawing lines to the vertices of the angles, resolve the whole rectilinear figure into Triangles, which will always be two fewer than the sides of the figure. Then upon any given straight line make a rectangle DG equal to the triangle B; and, DN being produced indefinitely, upon the straight line FG let a rectangle FI be made equal to the triangle A; and upon the straight line HI a rectangle HM equal to the triangle C. The whole rectangle DM will be equal to the rectilinear figure BAC: From Theor. VIII, bk. I.
 
 ## Problem XI. (Fig. 11.)
 
@@ -7484,11 +6928,7 @@ T          sixth book of Euclid, in which are demonstrated first the Proportions
 
 Rectilinear Figures, then of Lines and of Figures in the circle, and also of the circles themselves,
 
-Dd                                     some
-
-[p. 42]
-
-some things that bear on this having been brought in from Euclid’s books 3, 11 and 13.
+Dd                                     some [p. 42] some things that bear on this having been brought in from Euclid’s books 3, 11 and 13.
 
 Theorem I. (Plate V. Fig. 1.) Parallelograms and Triangles that have the same Height, or that are between the same Parallels,
 
@@ -7614,11 +7054,7 @@ proportional
 
 (a) Eucl. bk. VI, prop. 19.
 
-(b) Eucl. bk. VI, prop. 20.
-
-[p. 46]
-
-rectangles proportional, which likewise have the duplicate proportion of the sides. By Theor. I, cor. 4.
+(b) Eucl. bk. VI, prop. 20. [p. 46] rectangles proportional, which likewise have the duplicate proportion of the sides. By Theor. I, cor. 4.
 
 III. Therefore, just as in a right-angled triangle the square of the base is equal to the two squares of the sides containing the right angle, so any similar figures whatever described upon the base of a right-angled triangle will be equal to the two figures together similarly described upon the sides containing the right angle, since they are likewise in the duplicate ratio of the sides. (a)
 
@@ -7682,11 +7118,7 @@ bk.
 
 (b) Eucl. bk. XIII, prop. 13.
 
-(c) Eucl. bk. XIII, prop. 9.
-
-[p. 48]
-
-bk. 2, cor. 2, the angle B, or the angle GAB equal to it, will be double the angle BCA, whose measure is the fifth part of the semicircle; but the same external angle CAB is double the angle E; therefore the angles E and BCA are equal; the Triangles ECB and BCA have, moreover, the angle B in common; therefore they are equiangular and proportional: therefore, as in the whole triangle ECB is EB to BC, so is the same BC to AB in the smaller triangle ACB; but AE was made equal to CB; therefore, as the whole EB to the greater segment EA, so is the same EA to the smaller segment AB.
+(c) Eucl. bk. XIII, prop. 9. [p. 48] bk. 2, cor. 2, the angle B, or the angle GAB equal to it, will be double the angle BCA, whose measure is the fifth part of the semicircle; but the same external angle CAB is double the angle E; therefore the angles E and BCA are equal; the Triangles ECB and BCA have, moreover, the angle B in common; therefore they are equiangular and proportional: therefore, as in the whole triangle ECB is EB to BC, so is the same BC to AB in the smaller triangle ACB; but AE was made equal to CB; therefore, as the whole EB to the greater segment EA, so is the same EA to the smaller segment AB.
 
 Cor. It is plain that the triangle ECB is also isosceles, and that its angles at the base are double the angle at the vertex: if this triangle is constructed in a circle and the angles at the base are bisected, the whole circle will be divided into five equal parts, for inscribing a Pentagon.
 
@@ -7840,11 +7272,7 @@ been produced, and for
 
 A2                                       what
 
-(a) In the Proem to the Physics.
-
-[p. 2]
-
-what end it was made, whether, and with what forces and properties it is endowed, and other things of this kind; and once these have been seen through, then both the thing and the nature of things are deemed to be thoroughly known.
+(a) In the Proem to the Physics. [p. 2] what end it was made, whether, and with what forces and properties it is endowed, and other things of this kind; and once these have been seen through, then both the thing and the nature of things are deemed to be thoroughly known.
 
 2 We said in the definition that Physics is concerned with natural body insofar as it is natural, namely insofar as it is the subject of sensible affections and capable of all those changes which we observe taking place in the world; and by this natural body is distinguished from the mathematical, and Physics itself from Geometry, which is likewise concerned with body.
 
@@ -7934,11 +7362,7 @@ the
 
 (c) Horace, bk. 1, Ep. 6.
 
-(d) Bk. 1 On Ends, ch. 19.
-
-[p. 4]
-
-the advantages which clocks of various kinds, telescopes, microscopes, spectacles
+(d) Bk. 1 On Ends, ch. 19. [p. 4] the advantages which clocks of various kinds, telescopes, microscopes, spectacles
 
 and innumerable other things, which must be credited to Physics, afford to human
 
@@ -8100,11 +7524,7 @@ B                                              but
 
 (j) Elementa Physicae, vol. 1, ch. 1.
 
-(k) Perrault, Essais de Physique.
-
-[p. 8]
-
-but differ greatly from one another by a certain internal principle that is not easily
+(k) Perrault, Essais de Physique. [p. 8] but differ greatly from one another by a certain internal principle that is not easily
 
 perceived. Which, to pass over other examples, is most true of water hemlock and
 
@@ -8214,11 +7634,7 @@ proceed? For that attribute is the formal reason of the thing, through
 
 B2                                         which
 
-(l) Pt. 2 of the Principles, no. 4.
-
-[p. 10]
-
-which the thing itself is what it is, and is first distinguished from all others. These things being laid down:
+(l) Pt. 2 of the Principles, no. 4. [p. 10] which the thing itself is what it is, and is first distinguished from all others. These things being laid down:
 
 3 I say first, against Descartes and Aristotle: the essence of body is by no means placed in actual extension, or in threefold dimension. It is proved. Who will deny that God, Best and Greatest, can destroy the whole mass of air which is enclosed between the earth and the Moon? But then the very same extension would remain, and yet no corporeal substance would be left: therefore. But Descartes denies that this can happen: for he thinks that if, e.g., the air of this little room were destroyed, the walls themselves would touch one another, since those things are said to be joined which are separated by no intervening body; or he thinks that in this hypothesis a most manifest contradiction is contained, since that space would indeed be void, as is supposed, and at the same time not void, because there would always be threefold dimension in it, and therefore body itself.
 
@@ -8230,11 +7646,7 @@ which the thing itself is what it is, and is first distinguished from all others
 
 without
 
-(m) Sect. 1, Phys., bk. 3, ch. 6.
-
-[p. 11]
-
-without ceasing to be body; but body can be deprived of actual impenetrability with‐
+(m) Sect. 1, Phys., bk. 3, ch. 6. [p. 11] without ceasing to be body; but body can be deprived of actual impenetrability with‐
 
 out ceasing to be body: therefore. Proof of the minor. It is certain that two bodies
 
@@ -8398,11 +7810,7 @@ T H E O B J E C T I O N S A R E A N S W E R E D.
 
 place in such a way that it excludes any body whatever from it;
 
-therefore
-
-[p. 14]
-
-therefore impenetrability cannot be the formal reason of body. I distinguish the antecedent. If impenetrability is taken for the natural exigency of occupying place with the exclusion of another, as it is taken in the question, I deny; if it is taken for a free power of non-penetration, I grant. The impenetrability of body is such that, because of it, a body cannot by the forces of nature subsist together with another in the same place, and by its very essence it always requires to occupy the place in which it exists with the exclusion of every other body. But an Angel is of such a nature that it does not fill place, although it can freely repel any body whatever, by its own force, from the place in which it is.
+therefore [p. 14] therefore impenetrability cannot be the formal reason of body. I distinguish the antecedent. If impenetrability is taken for the natural exigency of occupying place with the exclusion of another, as it is taken in the question, I deny; if it is taken for a free power of non-penetration, I grant. The impenetrability of body is such that, because of it, a body cannot by the forces of nature subsist together with another in the same place, and by its very essence it always requires to occupy the place in which it exists with the exclusion of every other body. But an Angel is of such a nature that it does not fill place, although it can freely repel any body whatever, by its own force, from the place in which it is.
 
 17 Obj. 2. Body is not impenetrable by an Angel: therefore body is not distinguished from spirit by impenetrability; and for that reason the formal reason of body is not well placed in natural impenetrability. I distinguish the antecedent. Body is not impenetrable by an Angel through its own defect, I deny; by reason of the Angel, I grant; and I deny the consequent. Body by its nature seeks to exclude from its place everything that fills place. Hence, since a spiritual substance is not repletive of place, neither is it of such a kind that body could expel it from its place. Moreover, since it is evident from what was taught in the preceding place that the impenetrability which is in body does not belong to Angels, there can be no doubt that body is sufficiently distinguished from spirit by radical impenetrability.
 
@@ -8412,11 +7820,7 @@ therefore impenetrability cannot be the formal reason of body. I distinguish the
 
 20 You will say: the principles from whose union the entitatively extended whole arises are not body if taken separately, but principles of body: therefore the formal reason of corporeal substance is not
 
-different
-
-[p. 15]
-
-different from extension, but is extension itself. I deny the antecedent; because the
+different [p. 15] different from extension, but is extension itself. I deny the antecedent; because the
 
 parts constituting the extended thing, taken separately, are material, or corporeal,
 
@@ -8478,11 +7882,7 @@ ers. Thus the organic body is a secondary principle of man, since it so constitu
 
 that it itself too, together with
 
-C                                          others
-
-[p. 16]
-
-others, is essentially composed. Moreover, the intrinsic principles of things are either metaphysical, or artificial, or sensible.
+C                                          others [p. 16] others, is essentially composed. Moreover, the intrinsic principles of things are either metaphysical, or artificial, or sensible.
 
 23 Metaphysical are those which, after the manner of metaphysical things, cannot be reached by sense, but only grasped by the intellect. Artificial are those which, disposed and conjoined by a certain wonderful artifice of nature, compose natural body in such a way that all its sensible affections and operations arise from the magnitude, figure, motion, etc. of the parts, and can be suitably explained from these. Sensible, finally, or Physical, are called those which can really be separated from one another by a true resolution of bodies, and be discerned with the aid of the senses. It is established among all Philosophers, the Ancients as well as the Moderns, that any natural composite which can be produced and destroyed by the forces of nature consists of a twofold essential principle; of which one is determinable and is called matter, the other determining, and is named form. For it is certain that natural changes of one composite into another as to substance take place: for who would deny that food, e.g., is changed into chyle, this into blood, and blood into the other parts of the organic body; of which one is surely converted into another on such terms that nothing sensible remains out of which each of them essentially coalesces?
 
@@ -8490,11 +7890,7 @@ others, is essentially composed. Moreover, the intrinsic principles of things ar
 
 25 The whole business, therefore, that this matter involves consists in this: that it be made plain what the physical nature of these principles is; namely, what physically is that from which, as pre-existing, as from a determinable subject, natural composites are produced by created causes, and what is that by which each composite is what it is, and is essentially distinguished from any other? The Peripatetics gave us nothing on this matter, content to have considered matter and form metaphysically. But the Moderns, having rejected the scholastic subtleties, are wholly engaged in setting out openly the physical nature of these principles; whence it appears how falsely the common Peripatetics
 
-say
-
-[p. 17]
-
-say that neither matter nor form is admitted by the Moderns. These things, then, be‐
+say [p. 17] say that neither matter nor form is admitted by the Moderns. These things, then, be‐
 
 ing established, let us look at the metaphysical system of the Peripatetics.
 
@@ -8560,11 +7956,7 @@ C2                                                 any
 
 ch. 3; on which point St. Justin Martyr and St. Basil derided Aristotle.
 
-(r) Filosofía escéptica en diálogos.
-
-[p. 18]
-
-any of those things, etc., because it is not any form, whose office it is to determine a
+(r) Filosofía escéptica en diálogos. [p. 18] any of those things, etc., because it is not any form, whose office it is to determine a
 
 being to this or that physical species. Finally, it is not negations, or privations of be‐
 
@@ -8634,11 +8026,7 @@ reason he is in the class of those who, as the principles of bodies, metaphysica
 
 insensible, ones
 
-have
-
-[p. 19]
-
-have laid down. The elements of all things, according to him, are monads, or simple, in‐
+have [p. 19] have laid down. The elements of all things, according to him, are monads, or simple, in‐
 
 generable and incorruptible substances created by God. Every monad represents the
 
@@ -8776,11 +8164,7 @@ natural body, namely matter and form, were only metaphysically
 
 and
 
-(u) In the Preface to his Physics.
-
-[p. 21]
-
-and in the abstract assigned by Aristotle, and that everything he asserts and determines about them is merely certain metaphysical abstractions, by which physical things are never sufficiently set forth; and so they contribute nothing to the knowledge of particular bodies or to the explanation of the various phenomena, and therefore serve almost nothing toward acquiring Physics, nor can they have a place in the system of Physics, by Axiom VI.
+(u) In the Preface to his Physics. [p. 21] and in the abstract assigned by Aristotle, and that everything he asserts and determines about them is merely certain metaphysical abstractions, by which physical things are never sufficiently set forth; and so they contribute nothing to the knowledge of particular bodies or to the explanation of the various phenomena, and therefore serve almost nothing toward acquiring Physics, nor can they have a place in the system of Physics, by Axiom VI.
 
 36 To make this clearer, suppose the following case. Let someone ask, e.g., from what, as from intrinsic principles, does a house come together? And let me answer that it comes together from the matter and the form of the house: that the matter, moreover, is that from which the house is made, and the form the act by which the matter is determined to compose a house. With this answer I have certainly spoken the truth, but I have not made the questioner more learned; and therefore he will rightly ask again what, namely, that matter is from which the house has been made, or likewise what that act is which is called the form of the house. We do not, therefore, come away from the school of Aristotle more learned in those things which pertain to the first beginnings of natural things; and therefore the metaphysical system of the Peripatetics serves almost nothing toward acquiring natural Philosophy, not because it is false, but on the contrary because it is too true, and teaches nothing beyond those things which cannot be unknown. For who can ever doubt that all composites are made of matter and form? But after we have learned these things we can give the cause of no phenomenon: therefore it serves nothing toward learning Physics thoroughly.
 
@@ -8788,11 +8172,7 @@ and in the abstract assigned by Aristotle, and that everything he asserts and de
 
 38 The second part of the proposition is evident; for when a Peripatetic is asked why heat and cold, e.g., produce a diverse sensation? they point to no other cause than that these qualities are diverse, of an altogether diverse nature. But who will deny that by these little ways of speaking the phenomena of things are by no means explained, and that the unknown
 
-matter
-
-[p. 22]
-
-matter of the controversy is dispatched with an answer just as unknown? Therefore
+matter [p. 22] matter of the controversy is dispatched with an answer just as unknown? Therefore
 
 in the Peripatetic system the unknown is set forth through the equally unknown,
 
@@ -8860,11 +8240,7 @@ a
 
 (a) Phys. Elect., vol. 1, bk. 1.
 
-(b) La Fisica de’ Peripatetici al paragone della vera Fisica d’Aristot.
-
-[p. 23]
-
-a prism, etc. They set forth the phenomena and changes of natural bodies through the
+(b) La Fisica de’ Peripatetici al paragone della vera Fisica d’Aristot. [p. 23] a prism, etc. They set forth the phenomena and changes of natural bodies through the
 
 atoms thus explained. This is the most ancient system of Epicurus, renewed by the
 
@@ -8938,11 +8314,7 @@ D                                  workshop,
 
 (c) Tusculan Disputations I, ch. 2.
 
-(d) Principles, pt. 3, no. 45.
-
-[p. 24]
-
-workshop, where a globe is shaped out of a cube turned round very rapidly: for just
+(d) Principles, pt. 3, no. 45. [p. 24] workshop, where a globe is shaped out of a cube turned round very rapidly: for just
 
 as, from the wearing of a cubic piece of wood, parts of three kinds appear — some,
 
@@ -9018,11 +8390,7 @@ forces of nature (e). Of the Newtonian system the principal
 
 head
 
-(e) Opticks, Qu. 31.
-
-[p. 25]
-
-head is the attractive force: by this they understand the virtue, or principle, of that action which cannot be explained by the ordinary forces of bodies, namely pressure and impulse; and the action itself by which bodies approach one another is called by them attraction. This they hold to be universal and mutual, both of great bodies and of the smallest particles of matter.
+(e) Opticks, Qu. 31. [p. 25] head is the attractive force: by this they understand the virtue, or principle, of that action which cannot be explained by the ordinary forces of bodies, namely pressure and impulse; and the action itself by which bodies approach one another is called by them attraction. This they hold to be universal and mutual, both of great bodies and of the smallest particles of matter.
 
 48 Some philosophers, the French especially, say that although Newton’s system would have vague and uncertain hypotheses driven out of Philosophy [§ 20], some of the Newtonians nevertheless do no less themselves, by admitting an attractive force. For they do not know whether a force of this kind is a cause or an effect, nor can they by its help give the reason of the phenomena. And as regards the first, the most illustrious Newton himself (f): “What I call Attraction may be perform’d by impulse, or by some other means unknown to me. I use that Word here to signify only in general any Force by which Bodies tend towards one another, whatsoever be the Cause.”
 
@@ -9038,11 +8406,7 @@ D2                                        than
 
 (h) Leçons de Physique, vol. 2, Append., art. 2.
 
-(i) Histoire du Ciel, vol. 2, Cosmogon., §. 9.
-
-[p. 26]
-
-than if it fell from the same height on some plain not rough with any mountains?
+(i) Histoire du Ciel, vol. 2, Cosmogon., §. 9. [p. 26] than if it fell from the same height on some plain not rough with any mountains?
 
 51 Nor does it matter that the attractive force of the mountain is not sensible in
 
@@ -9110,11 +8474,7 @@ and
 
 (m) Plutarch, loc. cit.
 
-(n) Dissertation on the Elements.
-
-[p. 27]
-
-and fire, but as their form, their combination [o]. Others held otherwise: for nothing (as Cicero says) can be thought up so absurd that it has not been said by some one of the philosophers.
+(n) Dissertation on the Elements. [p. 27] and fire, but as their form, their combination [o]. Others held otherwise: for nothing (as Cicero says) can be thought up so absurd that it has not been said by some one of the philosophers.
 
 53 Chymia, which by the Moderns is also called Chemia, that is, the art of resolving bodies, is said to have been invented by Hermes, and is therefore also called Hermetic. It was greatly illustrated, not only with a view to preparing medicines but also to explaining the principles of natural things, by Theophrastus Paracelsus, called the Father of the Chemists. The chemists, then, are the Spagyrists, or Empirics, who are occupied with the analysis of bodies and seek nothing else by their art and operations than to unfold the principles joined and bound together in mixed bodies and, once unfolded, to subject them to the senses themselves. The object of this art is every sensible body, and it is divided into three classes, or kingdoms, or families, as they themselves speak, namely the animal, the vegetable and the mineral. And what they draw out of these, chiefly by the help of fire and through menstrua, or dissolvents, those are for them the principles of bodies, according to their axiom: that anything is constituted of those parts into which it is resolved. Their principles are numbered five, namely Mercury, Sulphur, Salt, Water and Earth. The first three are called active, the last two passive.
 
@@ -9124,11 +8484,7 @@ and fire, but as their form, their combination [o]. Others held otherwise: for n
 
 are
 
-(o) Diogenes Laertius, bk. 8, sect. 76.
-
-[p. 28]
-
-are admitted by them as the principles of bodies. Here I note in passing that the op‐
+(o) Diogenes Laertius, bk. 8, sect. 76. [p. 28] are admitted by them as the principles of bodies. Here I note in passing that the op‐
 
 erations of the chemists are by no means to be neglected, nor indeed to be held of no
 
@@ -9194,11 +8550,7 @@ spirit
 
 [q] De mira subtilitate effluviorum, ch. 3.
 
-[*] An ounce contains 480 grains.
-
-[p. 29]
-
-spirit of sal ammoniac, imbued so great a quantity of water with a blue color, and that a conspicuous and saturated one, that it contained 256806 parts equal to that little grain. The most learned Fr. Francesco Lana testifies [r] that as much gum lac as would suffice to fill a walnut shell tinges with an intense color such a quantity of water as is enough to imbue a thousand paper leaves on both sides with the same color. Since, then, on any one leaf a thousand millions of colored points can conveniently be marked, there will be on all those leaves 1,000,000,000,000 visible colored points, distinct from one another. These things certainly prove that the parts of matter are most minute. Next, that these smallest parts are unequal in their magnitude, and diverse in figure and motion, is manifest from this, that this inequality and diversity of the most minute parts must be asserted in order that the sensible qualities and operations of any natural body may be rightly and conveniently explained.
+[*] An ounce contains 480 grains. [p. 29] spirit of sal ammoniac, imbued so great a quantity of water with a blue color, and that a conspicuous and saturated one, that it contained 256806 parts equal to that little grain. The most learned Fr. Francesco Lana testifies [r] that as much gum lac as would suffice to fill a walnut shell tinges with an intense color such a quantity of water as is enough to imbue a thousand paper leaves on both sides with the same color. Since, then, on any one leaf a thousand millions of colored points can conveniently be marked, there will be on all those leaves 1,000,000,000,000 visible colored points, distinct from one another. These things certainly prove that the parts of matter are most minute. Next, that these smallest parts are unequal in their magnitude, and diverse in figure and motion, is manifest from this, that this inequality and diversity of the most minute parts must be asserted in order that the sensible qualities and operations of any natural body may be rightly and conveniently explained.
 
 59 These most minute parts of bodies, finally, can certainly be homogeneous, and not diverse as regards substance, since it is by no means required that they be substantially diverse in order that from their union bodies may emerge whose sensible qualities are diverse from one another, and whose operations are quite dissimilar. For composites can be made from those primordial parts of matter whose sensible qualities and operations are quite diverse from one another, although the parts themselves differ not at all from one another as regards substance: for since they are of unequal magnitude and diverse figure, they can be artfully disposed among themselves in diverse ways; finally, some of them can be moved in diverse directions within the whole that they constitute, and others be at rest in it, which quite suffices for bodies endowed with dissimilar qualities to be capable of being composed of them: therefore those parts can certainly be homogeneous.
 
@@ -9236,11 +8588,7 @@ spirit of sal ammoniac, imbued so great a quantity of water with a blue color, a
 
 E                                            is
 
-(u) Metaphysics, bk. 7, lect. 7 & 8; pt. 1, q. 65, art. 4, in the body of the article; and in other places.
-
-[p. 32]
-
-is not properly a being, but a mode of a being, since to subsist by itself belongs no less to
+(u) Metaphysics, bk. 7, lect. 7 & 8; pt. 1, q. 65, art. 4, in the body of the article; and in other places. [p. 32] is not properly a being, but a mode of a being, since to subsist by itself belongs no less to
 
 a substance, or thing, or being, than to inhere belongs to an accident, or mode of a being.
 
@@ -9300,11 +8648,7 @@ Moreover,
 
 in
 
-(x) Philos., vol. 3, bk. 1, tract. 3, prop. 35.
-
-[p. 33]
-
-in bk. 1 of the Physics, text 64, he says: It is manifest from what has been said that everything that is made is always composite. The Angelic Doctor defends this very point in the places cited [§. 65]. Indeed, this very thing is shown most clearly also by the testimony of Cicero, who, since he knew Greek to a marvel, and understood Aristotle and Plato and the others, whom he had read attentively, much better than even all the common Peripatetics gathered into one, says in more than one place that the Peripatetics and the Academics differ in names but agree in substance; and since it is clearer than daylight that the Academics in no way admitted such substantial forms, we must say that Aristotle, in expounding physical things, never took refuge in such forms.
+(x) Philos., vol. 3, bk. 1, tract. 3, prop. 35. [p. 33] in bk. 1 of the Physics, text 64, he says: It is manifest from what has been said that everything that is made is always composite. The Angelic Doctor defends this very point in the places cited [§. 65]. Indeed, this very thing is shown most clearly also by the testimony of Cicero, who, since he knew Greek to a marvel, and understood Aristotle and Plato and the others, whom he had read attentively, much better than even all the common Peripatetics gathered into one, says in more than one place that the Peripatetics and the Academics differ in names but agree in substance; and since it is clearer than daylight that the Academics in no way admitted such substantial forms, we must say that Aristotle, in expounding physical things, never took refuge in such forms.
 
 70 Proof 2. Whatever is produced outside God is produced either by creation or by generation; but substantial forms are produced neither by creation nor by generation: therefore. The minor is proved as to its second part: if forms were generated, they would be made out of something existing in them; but this can be nothing else than matter: therefore they would be made out of matter existing in the forms themselves: therefore the forms themselves would coalesce out of matter and form. I will frame the same argument about the form of the form, and so on to infinity: therefore, to avoid an inconvenience of this kind, it must necessarily be said that form is neither generated nor made, and consequently is not an absolute entity, as the Peripatetics contend.
 
@@ -9312,11 +8656,7 @@ in bk. 1 of the Physics, text 64, he says: It is manifest from what has been sai
 
 72 Proof 3. Every substantial entity really distinct from others can properly be made and generated; but form, according to Aristotle and St. Thomas, cannot properly be made and generated [§§ 65 & 69]: therefore it is not a substantial entity, but only a mode modally distinct from matter. Proof 4. If the said entitative forms were given, they would be annihilated in the destruction of the composite; but they are not annihilated: therefore. The major is proved: an entity which ceases to be according to its whole being is annihilated,
 
-E2                                           but
-
-[p. 34]
-
-but the said forms, in the destruction of the composite, cease to be according to
+E2                                           but [p. 34] but the said forms, in the destruction of the composite, cease to be according to
 
 their whole being: therefore.
 
@@ -9394,11 +8734,7 @@ no change at all supervening, constitute any other.
 
 bodies of incredible variety and discrepant
 
-from
-
-[p. 35]
-
-from one another; but matter, which is everywhere of the same kind and not of diverse nature, cannot accomplish this: therefore. I deny the minor. For all variety must be derived from the varied disposition, combination, etc., of matter, that is, from form. Thus from the juices of the earth, by the mere percolation of their parts transmitted through the fibrils of a tree, bark, flowers and fruits are born. From foods likewise chyle, blood, bones and flesh, which differ greatly from one another, are formed by the mere transposition of parts, a new order, etc. Accordingly the variety of bodies coheres most aptly with a matter homogeneous as to substance.
+from [p. 35] from one another; but matter, which is everywhere of the same kind and not of diverse nature, cannot accomplish this: therefore. I deny the minor. For all variety must be derived from the varied disposition, combination, etc., of matter, that is, from form. Thus from the juices of the earth, by the mere percolation of their parts transmitted through the fibrils of a tree, bark, flowers and fruits are born. From foods likewise chyle, blood, bones and flesh, which differ greatly from one another, are formed by the mere transposition of parts, a new order, etc. Accordingly the variety of bodies coheres most aptly with a matter homogeneous as to substance.
 
 77 You will insist. If the parts of matter are supposed homogeneous, from their addition and conjunction there would not result some new essence, but a certain homogeneous integral whole, which would not be of a different nature from one part of it; just as, when we add water to water, we do not make another essence, but extensively increase the same essence of water that is found in any drop; but this is against experience: therefore. It is confirmed: if a musician joined two voices like each other in all respects, he would by no means make a diapason; for this it is necessary that they be of diverse nature, the lower, namely, double of the higher: therefore the same must be said in our case.
 
@@ -9408,11 +8744,7 @@ from one another; but matter, which is everywhere of the same kind and not of di
 
 80 Obj. 4. If we say that matter is a substance consisting of parts diverse in bulk, figure, etc., it is not the essence of matter that is explained by us, but body itself: therefore. The antecedent is proved: it is the nature of matter that it is not complete; but the particles of which matter consists are complete: therefore. I distinguish the minor: they are complete in the character of matter, I grant; in the character of a natural composite, or sensible body, I deny. By us only the essence of matter physically considered is set forth:
 
-in
-
-[p. 36]
-
-in the character of matter it is something complete; but in the character of sensible
+in [p. 36] in the character of matter it is something complete; but in the character of sensible
 
 body it is not completed except by the form, which arises from a certain complex, or‐
 
@@ -9492,11 +8824,7 @@ most
 
 (a) In the Decree of Union.
 
-(b) Sess. 13, ch. 1, & Can. 1.
-
-[p. 37]
-
-most aptly calls. This transubstantiation, moreover, as the celebrated Theologian Honoré Tournely (c) excellently says, has no example in nature, because it is singular; nor can it be comprehended by human reason, because it is wonderful; it lies wholly hidden in the mysteries.
+(b) Sess. 13, ch. 1, & Can. 1. [p. 37] most aptly calls. This transubstantiation, moreover, as the celebrated Theologian Honoré Tournely (c) excellently says, has no example in nature, because it is singular; nor can it be comprehended by human reason, because it is wonderful; it lies wholly hidden in the mysteries.
 
 84 It is also altogether most certain that the most Sacred body of Christ the Lord (and the same must be said of his blood) is in the Eucharist Sacramentally, namely in such a manner as, although we can scarcely express it in words (as the Council of Trent wisely admonishes), we must nevertheless most steadfastly believe to be possible to God (d). That mode of existing, indeed, has no example in created things, and is full of miracles, and is therefore deservedly called Sacramental, that is, a mode which belongs to the Sacrament alone. Let these things that have been said suffice for the Peripatetics to see that the most Sacred Dogmas of our Religion are kept safe and sound by us.
 
@@ -9510,11 +8838,7 @@ to
 
 (d) Sess. 13, ch. 1.
 
-(e) De Locis, bk. 8, ch. 4.
-
-[p. 38]
-
-to Religion and with the Faith secure, be defended by a Catholic man. So the celebrated Robert Holcot (f), of the illustrious family of the Preaching Fathers. So the most Eminent Cardinal of the Holy Roman Church Pierre d’Ailly (g). So the most learned Prelate Jacques-Bénigne Bossuet (h). So the celebrated Lodovico Antonio Muratori (i). So Father Vanrroy (j). So the most renowned light of the Augustinian Order, Lorenzo Berti (k). So the celebrated Noël Alexandre (l).
+(e) De Locis, bk. 8, ch. 4. [p. 38] to Religion and with the Faith secure, be defended by a Catholic man. So the celebrated Robert Holcot (f), of the illustrious family of the Preaching Fathers. So the most Eminent Cardinal of the Holy Roman Church Pierre d’Ailly (g). So the most learned Prelate Jacques-Bénigne Bossuet (h). So the celebrated Lodovico Antonio Muratori (i). So Father Vanrroy (j). So the most renowned light of the Augustinian Order, Lorenzo Berti (k). So the celebrated Noël Alexandre (l).
 
 87 But it is better to hear the most learned Theologian of the illustrious family of the Preachers, Hyacinthe Serry [m]: “Why should I relate other things” (says the celebrated man)? “Are the systems of the recent School to be subjected to the rash censures of certain Theologians? Most philosophers now, following Descartes, place the essence of physical body in the extension of quantity, and hold that substance itself is in no way distinguished from quantity; and the Church, as I know for certain, permits them to philosophize thus. Why then do you brand them with censures? And those whom the common Mother cherishes as sons, do you curse as heathens and publicans, because they seem to you perhaps to shake the faith of the most holy Eucharist? Your study and zeal for the House of God I praise highly and commend: but I would have it be according to knowledge. You will be by far a better Theologian if you reconcile the system permitted by the Church with the faith of the Eucharist.
 
@@ -9536,11 +8860,7 @@ you
 
 (l) Vol. VI, Historia Ecclesiastica, Diss. 7, in the history of the 10th and 12th centuries, art. 6, in the Schol.
 
-(m) Vol. 1, Praelectiones Theologicae, Disp. on the making of the world, Lect. 1.
-
-[p. 39]
-
-you are not a Theologian but a most audacious censor; you fight not for the Faith but for preconceived opinions; you contend not for the Church but for the Aristotelian School.” Thus far the most Eloquent Theologian. What do the Peripatetics say to this? Let them see to it themselves.
+(m) Vol. 1, Praelectiones Theologicae, Disp. on the making of the world, Lect. 1. [p. 39] you are not a Theologian but a most audacious censor; you fight not for the Faith but for preconceived opinions; you contend not for the Church but for the Aristotelian School.” Thus far the most Eloquent Theologian. What do the Peripatetics say to this? Let them see to it themselves.
 
 89 “For it is not enough” (says the celebrated Cano) “for passing sentence of heresy to have touched upon the heresy itself by suspicion; but a certain comprehension is needed, so that we may judge of errors without error” (n). “Let the Peripatetics therefore cease” [I use the words of the celebrated Muratori] “to leave no stone unturned whereby they may defame the Modern Authors of new opinions, though these have nothing at odds with our Holy Religion, and tear their books to pieces, proscribe them, and present them to the Supreme Tribunals of the Church to be pierced through” (o).
 
@@ -9578,11 +8898,7 @@ This error, then, the Council condemned; it did not say that the existence of ac
 
 only
 
-(u) So the above-praised Verney, De Re Metaphysica. Rome, printed by Generoso Salomoni.
-
-[p. 41]
-
-only, and as it were for the sake of another thing directly willed by it. Thus a house, e.g., since it is made only by art, is an accidental whole. For the rest, these and other instances of the kind which fill the writings of the Scholastics rest on principles which are neither known from the terms themselves nor demonstrated from others, but which, first devised according to arbitrary hypotheses, were soon believed rather than known, when they had been entered on the authority of others in the register of axioms.
+(u) So the above-praised Verney, De Re Metaphysica. Rome, printed by Generoso Salomoni. [p. 41] only, and as it were for the sake of another thing directly willed by it. Thus a house, e.g., since it is made only by art, is an accidental whole. For the rest, these and other instances of the kind which fill the writings of the Scholastics rest on principles which are neither known from the terms themselves nor demonstrated from others, but which, first devised according to arbitrary hypotheses, were soon believed rather than known, when they had been entered on the authority of others in the register of axioms.
 
 97 For what, I ask, do those words mean: One per se, a whole per se, a substantial whole? What do these mean: act per se and potency per se, or a whole being composed of act per se and potency per se? For if by the name of one per se, etc. a composite is understood which arises from a double semi-substance, what is in question is assumed as if certain, or the same is shown by the same, as they say. For to say a natural composite is one per se is just the same as to say a natural composite arises intrinsically from a double substance, or the form of any natural composite is entitatively a substance. But if by the name of one per se is meant that which is regarded primarily and per se by operating nature, it is plain that nothing can legitimately be inferred from this which would in the least favor establishing the existence of the forms of the Scholastics.
 
@@ -9590,11 +8906,7 @@ only, and as it were for the sake of another thing directly willed by it. Thus a
 
 99 Inst.: things that differ by a form which is entitatively an accident differ accidentally: therefore, for natural composites to differ substantially, they must differ by a form which is entitatively a substance. Dist. antec.: things that differ by a form, etc., differ accidentally, if that form does not pertain to the essence of the things compared with one another, I grant; if it pertains to their essence, I deny; and the conseq. For no one is unaware that a white thing, e.g., differs no less essentially by whiteness from everything that is not white than a man
 
-F2                                             is
-
-[p. 42]
-
-is distinguished essentially by rationality from that which is not a man. And the reason is that whiteness pertains intrinsically to the essence of a white thing no less than rationality does to the essence of man. Artificial dispositions, therefore, although considered in themselves they are accidents, nevertheless, because they essentially constitute a natural composite, bring it about that the composite itself is distinguished essentially, or substantially, from any other.
+F2                                             is [p. 42] is distinguished essentially by rationality from that which is not a man. And the reason is that whiteness pertains intrinsically to the essence of a white thing no less than rationality does to the essence of man. Artificial dispositions, therefore, although considered in themselves they are accidents, nevertheless, because they essentially constitute a natural composite, bring it about that the composite itself is distinguished essentially, or substantially, from any other.
 
 100 They urge: a natural composite is essentially a substance: therefore its form cannot be an accident; for it cannot happen that a substance be composed of an accident. Dist. antec.: it is essentially a substance by reason of the matter, I grant; by reason of the form, if it lacks life, I deny; and the conseq. A natural composite devoid of life, then, is not a substance except in the way in which man is called a corporeal substance; namely, just as man is not a corporeal substance except by reason of matter, and by no means by reason of form, so a natural composite which lacks life is a substance not by reason of form but only by reason of matter; and just as it is not repugnant that man should consist intrinsically of body and spirit, so it implies no contradiction that a natural composite should be essentially composed of substance and accident as of parts.
 
@@ -9604,11 +8916,7 @@ is distinguished essentially by rationality from that which is not a man. And th
 
 is
 
-(x) The author of the Art of Thinking, pt. 3, ch. 19.
-
-[p. 43]
-
-is understood, as is commonly done, the production of a new substance which had never existed before, namely of a substantial form, the very thing will be supposed which is in question, since it is clearer than daylight that one who denies substantial forms cannot grant that nature produces such things. Nay, so far is anyone from being driven by this argument to admit substantial forms, that he ought even to draw from it a wholly opposite conclusion, in this manner: if there were substantial forms, nature could produce anew substances which did not exist before; but nature does not produce such things anew; for such a production would be a kind of creation: therefore there are no substantial forms.” Thus far the praised Author.
+(x) The author of the Art of Thinking, pt. 3, ch. 19. [p. 43] is understood, as is commonly done, the production of a new substance which had never existed before, namely of a substantial form, the very thing will be supposed which is in question, since it is clearer than daylight that one who denies substantial forms cannot grant that nature produces such things. Nay, so far is anyone from being driven by this argument to admit substantial forms, that he ought even to draw from it a wholly opposite conclusion, in this manner: if there were substantial forms, nature could produce anew substances which did not exist before; but nature does not produce such things anew; for such a production would be a kind of creation: therefore there are no substantial forms.” Thus far the praised Author.
 
 103 Obj. 5. There is in every natural composite, not even excepting those which lack life, an active principle of diverse operations; but this principle cannot be anything but a substantial form, as it is taken by the Scholastics: therefore we must admit a form of this kind in every composite. Reply by denying the min.: for the active principle, if any exists in natural composites which lack life, is nothing but the subtler portion of those corpuscles of which the composite itself essentially coalesces: for there is no purely corporeal operation in nature which is not wholly accomplished through the motion of the subtlest corpuscles.
 
@@ -9618,11 +8926,7 @@ is understood, as is commonly done, the production of a new substance which had 
 
 106 Obj. 7. If form were nothing entitative, but only modal, creatures would produce nothing anew, and there would be no created agent,
 
-but
-
-[p. 44]
-
-but this must not be said: therefore. Proof of the conseq.: for a created agent does not produce matter anew, since it presupposes it; nor the form, which is neither generated nor produced: therefore it produces nothing. I reply that created agents produce neither matter nor form, but only the composite: for creatures, as St. Bonaventure excellently says (z), only bring it about that what was in one mode comes to be in another mode.
+but [p. 44] but this must not be said: therefore. Proof of the conseq.: for a created agent does not produce matter anew, since it presupposes it; nor the form, which is neither generated nor produced: therefore it produces nothing. I reply that created agents produce neither matter nor form, but only the composite: for creatures, as St. Bonaventure excellently says (z), only bring it about that what was in one mode comes to be in another mode.
 
 107 Obj. 8. Each natural being devoid of life has its own peculiar operations; e.g., in fire is found a particular operation of heating, and so of the rest; but operations of this kind cannot arise from matter, which of itself is inert and has no operative force, and is the same in species in all natural composites: therefore they proceed from the special form of each: therefore this is something entitatively distinct from matter. Dist. min.: the aforesaid operations cannot arise from matter considered in itself, I grant; from matter as modified, I deny; and the conseq.
 
@@ -9632,11 +8936,7 @@ but this must not be said: therefore. Proof of the conseq.: for a created agent 
 
 that
 
-(z) On 2, Dist. 18, art. 4, q. 1.
-
-[p. 45]
-
-that what has been proved essentially of the one need not belong to the other. Let
+(z) On 2, Dist. 18, art. 4, q. 1. [p. 45] that what has been proved essentially of the one need not belong to the other. Let
 
 these things that have been said suffice.
 
@@ -9702,11 +9002,7 @@ and
 
 (d) In the Chemistry.
 
-(e) Elementa Chemiae, vol. 2, p. 445.
-
-[p. 46]
-
-and in nature for restoring the haematopoietic force (namely the force of converting chyle
+(e) Elementa Chemiae, vol. 2, p. 445. [p. 46] and in nature for restoring the haematopoietic force (namely the force of converting chyle
 
 into blood) to the human body, whenever this arises solely from the weakness of over-lax
 
@@ -9786,11 +9082,7 @@ ened and the bond dissolved by which the component particles of the composite it
 
 self are held united together; and therefore the destruction of a natural composite,
 
-which
-
-[p. 47]
-
-which is effected per se by the action of fire, or heat, consists not in the production of some new substance, but only in the dissolution of the bond by which the component parts are tied together.
+which [p. 47] which is effected per se by the action of fire, or heat, consists not in the production of some new substance, but only in the dissolution of the bond by which the component parts are tied together.
 
 116 I said that fire, or heat, effects nothing else per se, when it destroys a natural composite, than to dissolve the component parts. For I do not deny that it happens not rarely that some new substance, which had not been in the composite, is produced by the action of heat. But this is entirely per accidens; for a new substance comes to be if the heat is more vehement than the dissolution of the parts requires. For the particles, agitated beyond measure by too great a heat, are so mingled together, those of diverse kinds, that new concretions emerge from it, and hence new substances seem to be produced; but this does not prevent the aforesaid substances from being found in mixed bodies; for from bodies of the same species salt, sulphur and mercury, likewise of the same character, are perpetually extracted, which would surely not happen with such constancy if those substances were produced entitatively by heat; for what is effected by chance happens rarely.
 
@@ -9802,11 +9094,7 @@ which is effected per se by the action of fire, or heat, consists not in the pro
 
 G                                           the
 
-(f) Histoire de l’Académie Royale, 1704, p. 37.
-
-[p. 48]
-
-the great Boerhaave, iron coalesces out of the very principles which are established by us, so that this metal has its place not among the principles or elements, but among mixed bodies.
+(f) Histoire de l’Académie Royale, 1704, p. 37. [p. 48] the great Boerhaave, iron coalesces out of the very principles which are established by us, so that this metal has its place not among the principles or elements, but among mixed bodies.
 
 120 And what forbids us to say, rather, that in the very act of combustion the fatty, saline, vitriolic-acid and earthy parts, which are the elements of iron, fused into one and joined together, coalesced into true iron? So that, consequently, the extraction of iron from ashes and clay is a true making of it. An argument for this may perhaps be what the Memoirs of the Royal Academy of Sciences of Paris (g) record: namely, that those composites which burn less readily and give off smoke more copiously, such as herbs and the harder woods, yield iron in their ashes in greater quantity than those which flare up suddenly and give off a more brightly shining flame.
 
@@ -9824,11 +9112,7 @@ salt
 
 (i) Elementa Chemiae, vol. 2, p. 447.
 
-(j) Vol. 4, Philosophia, ch. 20, no. 9.
-
-[p. 49]
-
-salt, etc., that the particles of those substances are formally in it, what else is it but to ask whether any natural mixture whatever is of such a nature that there are in it some particles which are not mixed?
+(j) Vol. 4, Philosophia, ch. 20, no. 9. [p. 49] salt, etc., that the particles of those substances are formally in it, what else is it but to ask whether any natural mixture whatever is of such a nature that there are in it some particles which are not mixed?
 
 124 Moreover, the argument must also be answered by the Scholastics. For if there can be no part in a mixture which is not mixed, there could also be no essential part in a composite which is not essentially composite: therefore matter and form must necessarily be composed essentially of other principles, which likewise must be essentially composed of others, and so on, so that it would be true, namely, that there is no part of a composite which is not composite; but this is absurd: therefore it is absurd also that there is absolutely no part in a mixture which is not mixed. Finally, note: not all the sensible principles are found in every composite, nor always in equal quantity, since experience teaches us that some bodies abound in salt, e.g., but contain less oil and mercury; in others earth holds the chief place; of others the greatest part is sulphur.
 
@@ -9840,11 +9124,7 @@ salt, etc., that the particles of those substances are formally in it, what else
 
 G2                                      than
 
-(k) In Klaus, vol. 1, Phys., p. 150.
-
-[p. 50]
-
-than in all the simples which enter into the composition. If several colors are
+(k) In Klaus, vol. 1, Phys., p. 150. [p. 50] than in all the simples which enter into the composition. If several colors are
 
 mixed, there arises indeed a color other than all the simples taken separately,
 
@@ -9894,11 +9174,7 @@ I      by which one body, if compared with another, is said to be equal or un‐
 
 equal to it; just as by the name of quality is meant that by reason
 
-of
-
-[p. 51]
-
-of which one thing is called similar or dissimilar to another. This established:
+of [p. 51] of which one thing is called similar or dissimilar to another. This established:
 
 ## 130 I say, first, against many Scholastics: the magnitude of body does not
 
@@ -9970,11 +9246,7 @@ T         close the matter proper to the body. That order and position which
 
 the surfaces bounding the volume of the body have among themselves
 
-is
-
-[p. 52]
-
-is called figure, by which a body is said to be spherical, cubical, etc. The exterior conformation of a body, then, is called figure, which namely does not pertain intrinsically to the nature of the thing, and can be common to altogether diverse bodies; but the figure of the parts themselves, constituting a body definite in its kind, which in wax, e.g., must doubtless be other than in iron, is called configuration. Situation is a certain posture, order, combination, texture, or artificial disposition of the molecules themselves in the whole which is intrinsically constituted of them.
+is [p. 52] is called figure, by which a body is said to be spherical, cubical, etc. The exterior conformation of a body, then, is called figure, which namely does not pertain intrinsically to the nature of the thing, and can be common to altogether diverse bodies; but the figure of the parts themselves, constituting a body definite in its kind, which in wax, e.g., must doubtless be other than in iron, is called configuration. Situation is a certain posture, order, combination, texture, or artificial disposition of the molecules themselves in the whole which is intrinsically constituted of them.
 
 134 The surfaces of bodies can be varied in altogether manifold ways. This prodigious variety of figures, moreover, is confirmed by innumerable experiments of the Physicists, of which we shall select the more useful. Keep some drops of the best vinegar on a fragment of glass for some hours, so that they partly evaporate; then look at them through a microscope: you will observe innumerable salts, nearly all pointed. If you keep vinegar in some vessel exposed to the air for some weeks, and more quickly in summertime, you will see with the microscope innumerable, as it were, most tiny eels running about hither and thither. From these, however, it is plain that the sharp taste of vinegar draws its origin not from the eels, as some have thought, but from diverse salts.
 
@@ -9984,11 +9256,7 @@ is called figure, by which a body is said to be spherical, cubical, etc. The ext
 
 137 If you collect the parts emitted spontaneously, or drawn out of bodies by art with the help of fire, you will notice that they are of the same nature, and produce the same effects, as the bodies themselves. Thus the vapor of water, collected, gives water; the vapors of sulphur and of camphor restore sulphur and camphor anew. But these things would not happen if the parts of bodies did not
 
-have
-
-[p. 53]
-
-have, and when released did not preserve, the same figure. The parts of water and of other vapors can be observed if bodies evaporate in a small room closed on all sides, into which only a ray of the sun passes to illuminate the vapors. In this way it became known that the parts of water are perfectly round. Many other things worth noting are found in the writings of Leeuwenhoek, Robert Boyle, Martin Lister, Erasmus Bartholin and John Freind, which Authors you will be able to consult when you have the means and the leisure.
+have [p. 53] have, and when released did not preserve, the same figure. The parts of water and of other vapors can be observed if bodies evaporate in a small room closed on all sides, into which only a ray of the sun passes to illuminate the vapors. In this way it became known that the parts of water are perfectly round. Many other things worth noting are found in the writings of Leeuwenhoek, Robert Boyle, Martin Lister, Erasmus Bartholin and John Freind, which Authors you will be able to consult when you have the means and the leisure.
 
 138 Since, then, any part whatever of matter, or of body, has its peculiar figure, necessarily, while the parts of some body are actually separated, its surface must be increased. For when the parts are disjoined, and each is contained by its own surface, because it has figure, those internal surfaces of the body by which the parts touched one another become visible, and, together with the old surface under which the whole body was contained, compose the entire surface of the body cut into parts. When, therefore, a body is divided into several parts, its surface is increased while the same mass, or solidity, remains. Wherefore, since the same matter remains and the surface of the body is increased by the continued separation of the parts, the surface will acquire a greater ratio to the matter of the body.
 
@@ -9998,11 +9266,7 @@ have, and when released did not preserve, the same figure. The parts of water an
 
 141 From the figure and situation of bodies many phenomena can be explained
 
-and
-
-[p. 54]
-
-and these no less useful than pleasant to know, of which we shall set forth only some, so that from those which are now to be set forth by us very much light may come to what we shall afterwards say on Statics and Hydrostatics. All bodies, then, are seen to have a certain gravity; hence it comes about that stones, e.g., descend until they are held up by meeting other bodies. They begin to be held up, moreover, when their center of gravity is prevented from descending. The center of gravity, moreover, is the point placed in any heavy body by which, if the body is suspended, all its parts will keep whatever situation you have given them, and so will be in equilibrium. E.g., if a staff or an iron rod is suspended by a thread at its middle part, and each part of it is in equilibrium, that point from which it will be suspended will be its center of gravity, since its parts on either side will be of equal weight.
+and [p. 54] and these no less useful than pleasant to know, of which we shall set forth only some, so that from those which are now to be set forth by us very much light may come to what we shall afterwards say on Statics and Hydrostatics. All bodies, then, are seen to have a certain gravity; hence it comes about that stones, e.g., descend until they are held up by meeting other bodies. They begin to be held up, moreover, when their center of gravity is prevented from descending. The center of gravity, moreover, is the point placed in any heavy body by which, if the body is suspended, all its parts will keep whatever situation you have given them, and so will be in equilibrium. E.g., if a staff or an iron rod is suspended by a thread at its middle part, and each part of it is in equilibrium, that point from which it will be suspended will be its center of gravity, since its parts on either side will be of equal weight.
 
 142 But if that rod is not everywhere homogeneous, that is, of the same nature, suppose if in one part it is of iron and in the other of wood, its center of gravity will not be in the middle of its extension, but will recede from it toward that part of the matter which is denser. Wherefore the center of gravity and the center of magnitude, or of extension, do not always coincide in the same point, but only when the matter of the heavy body is homogeneous: e.g., in an iron globe the center of extension, or its middle point, which is equally distant from the individual points of the surface, can also be conceived as the center of gravity, since the matter in the iron globe is everywhere homogeneous.
 
@@ -10028,13 +9292,9 @@ Spanish               1240.      Bolognese      1691.
 
 Roman                 1320.      Viennese       1399.
 
-London                1351.      Dutch          1391.
+London                1351.      Dutch          1391. [p. 56] the arc B L. But it cannot be raised without the center of gravity i, which is in the bucket, describing at the same time the arc i M, which it cannot describe without ascending upward against the tendency of heavy bodies (Axiom 3, §. 144): therefore the bucket will not be able to fall, but will necessarily hang motionless from the rod.
 
 (1) The length and division of the measure of lines is not the same among all nations: the following Table will set out some varieties of the well-known measures in particles of the kind of which the Royal Paris Foot is 1440. That foot, namely, contains 12 inches, the inch 12 lines, the line 10 particles, or points, and so the whole Paris foot will contain 1440 particles.
-
-[p. 56]
-
-the arc B L. But it cannot be raised without the center of gravity i, which is in the bucket, describing at the same time the arc i M, which it cannot describe without ascending upward against the tendency of heavy bodies (Axiom 3, §. 144): therefore the bucket will not be able to fall, but will necessarily hang motionless from the rod.
 
 148 By means of the motion of the center of gravity it is also explained how it can happen that a body, while ascending, continually descends, which at first sight seems a Paradox. Let a triangle A B C (Fig. IV) be constructed of three pieces of wood, whose base C B is equal to the axes of two cones joined together by their bases G F. Under the base C B let two supports C D, B E be placed, shorter than the radius of the base of the cones G F. If those two cones are set upon the extremity A, they will seem to ascend into C B, where the elevation is greatest; yet the center of gravity will descend.
 
@@ -10118,11 +9378,7 @@ divisible into parts; but every body, however thin, is always
 
 H2                                   extended:
 
-(m) Entret. Physiques. Entret. I.
-
-[p. 58]
-
-extended: therefore every body is always, and to infinity, divisible. The Epicureans reply by distinguishing the major: everything extended taken mathematically, they grant; taken physically, they deny. That is said to be extended mathematically which is considered only by reason of its dimensions, without regard to the condition and nature of the extended subject; that, however, is called extended physically which is considered as a certain physical substance endowed with a definite nature and condition. Whatever is extended can be divided mathematically and by the mind, but not always in reality itself and physically, since there can be a certain simple substance not composed of parts, namely the atom, which is the first subject of which all sensible bodies consist, and the last into which they are resolved. Thus far the Epicureans and Gassendists.
+(m) Entret. Physiques. Entret. I. [p. 58] extended: therefore every body is always, and to infinity, divisible. The Epicureans reply by distinguishing the major: everything extended taken mathematically, they grant; taken physically, they deny. That is said to be extended mathematically which is considered only by reason of its dimensions, without regard to the condition and nature of the extended subject; that, however, is called extended physically which is considered as a certain physical substance endowed with a definite nature and condition. Whatever is extended can be divided mathematically and by the mind, but not always in reality itself and physically, since there can be a certain simple substance not composed of parts, namely the atom, which is the first subject of which all sensible bodies consist, and the last into which they are resolved. Thus far the Epicureans and Gassendists.
 
 156 These, moreover, argue thus against the Peripatetics: If matter were divisible to infinity, a tiny body, such as a grain of wheat, would contain within itself infinite parts in act, for a body is conceived as divisible only into those parts which it contains; but this is manifestly contradictory: therefore matter, or the continuum, is not divisible to infinity. The Peripatetics reply by distinguishing the major: if matter were divisible according to aliquot parts, a tiny body would have, etc., they grant; if it is divisible only into proportional parts, each of which includes infinitely many others within itself, they deny. You have the state of the question.
 
@@ -10134,11 +9390,7 @@ of
 
 (n) Pt. 2, General Physics, no. 128.
 
-(o) Magist. Nat. & Art., Tract. 1, bk. 1, ch. 1, Obs. 4.
-
-[p. 59]
-
-of smoke actually contained in the room will be 75,000,000,000,000, all of which, though previously shut up in one tiny grain of incense, are nevertheless still so many that they can affect a man’s sense of smell.
+(o) Magist. Nat. & Art., Tract. 1, bk. 1, ch. 1, Obs. 4. [p. 59] of smoke actually contained in the room will be 75,000,000,000,000, all of which, though previously shut up in one tiny grain of incense, are nevertheless still so many that they can affect a man’s sense of smell.
 
 159 Fill the vial A (Fig. VI) with a bent neck, which is called an Aeolipile, with rose water or any other fragrant water; put a fire under it, or the case B, in which there is spirit of wine with a lighted wick; the water will soon evaporate through the slender neck, and the odor will be diffused through the whole room, however large. After two or three minutes remove the vial from the fire and stop it up: the diminution of the water will scarcely be sensible, so that a very small quantity of it has been dispersed through the whole air of the room. Now, by a calculation made by the learned Fr. Giovanni della Torre (p), a man most perspicacious in searching out the secrets of nature, it has been ascertained that that very small portion of water which evaporated in the space of three minutes is resolved into 3,583,180,800 particles sensible to the nostrils, which truly surpasses all comprehension.
 
@@ -10152,11 +9404,7 @@ certainly
 
 (p) Elem. Physic., vol. 1, no. 135.
 
-(q) Memoires de l’Academ., 1713.
-
-[p. 60]
-
-certainly cannot happen, as is shown when the calculation is made, unless a single grain of gold is extended to about two leagues.
+(q) Memoires de l’Academ., 1713. [p. 60] certainly cannot happen, as is shown when the calculation is made, unless a single grain of gold is extended to about two leagues.
 
 163 Fourthly, an abyss of minuteness in matter is demonstrated from microscopic observations. Fr. Lana Terzi (r) relates that he observed a very white animalcule which had been invisible to even the most perspicacious eyes, and which, placed under a microscope magnifying twenty-seven million times, appeared equal to a grain of wheat: with a very swift motion it scarcely covered the length of a grain of wheat in twelve seconds of time. What, then, must be the wondrous subtlety of the steps, of the feet, of the eyes, of the pupil, of the blood, of the animal spirits in an animalcule of this kind! The same must be said of those very fine animalcules which are seen in cheese with the help of a microscope. How tiny, moreover, is the pupil of those animalcules, through which nevertheless far finer rays of light pass? How tiny are those parts which can be called animal spirits? If we consider these things, we must needs confess that something greater, and more than our faculty of imagining can present to us, lies hidden in the smallest things.
 
@@ -10172,11 +9420,7 @@ and
 
 (t) Phys. Gener., pt. 2, no. 127.
 
-(u) Leçons de Physique, vol. 1, p. 64.
-
-[p. 61]
-
-and adorned with a gilded rim, so much space being still left over that four hundred
+(u) Leçons de Physique, vol. 1, p. 64. [p. 61] and adorned with a gilded rim, so much space being still left over that four hundred
 
 others like them could have been put in.
 
@@ -10242,11 +9486,7 @@ demonstrate:
 
 (x) Natural History, bk. 11, ch. 2.
 
-(y) Bk. 21, Against Faustus, ch. 5.
-
-[p. 62]
-
-demonstrate: but very many experiments show that all bodies are pierced through with innumerable pores: therefore. The minor is proved; and, to begin with diaphanous bodies, their very great porosity is more than sufficiently established from the fact that they transmit light, whereas, if these bodies were not pierced through with innumerable pores, they would deny passage to the rays of light. Wherefore air, water, glass, crystal, diamond and the other pellucid stones must be filled with innumerable pores; for pellucidity cannot be understood unless an easy passage lies open for the rays of light to the opposite points of the surfaces. Hence it is evident that crystal, e.g., contains almost nothing whatever of solid matter.
+(y) Bk. 21, Against Faustus, ch. 5. [p. 62] demonstrate: but very many experiments show that all bodies are pierced through with innumerable pores: therefore. The minor is proved; and, to begin with diaphanous bodies, their very great porosity is more than sufficiently established from the fact that they transmit light, whereas, if these bodies were not pierced through with innumerable pores, they would deny passage to the rays of light. Wherefore air, water, glass, crystal, diamond and the other pellucid stones must be filled with innumerable pores; for pellucidity cannot be understood unless an easy passage lies open for the rays of light to the opposite points of the surfaces. Hence it is evident that crystal, e.g., contains almost nothing whatever of solid matter.
 
 170 Now, since the smallest parts of all bodies appear in some measure pellucid, as is observed with the microscope, it follows that opaque bodies too are not devoid of their pores; for if the smallest parts of which they grow together are porous, the bodies composed of those smallest parts must also be porous. Let us now speak of particular bodies.
 
@@ -10262,11 +9502,7 @@ he
 
 [a] Histoire de l’Academ., 1713.
 
-(b) Leçons de Physique, vol. 1.
-
-[p. 63]
-
-he writes, that eggs were preserved in this way even for the space of six months, without being spoiled by even the least unpleasant taste. This practice serves those who sail the sea for a longer time, and also for bringing into our kingdoms foreign birds, which would not be carried alive across so many stretches of land and sea without the greatest trouble.
+(b) Leçons de Physique, vol. 1. [p. 63] he writes, that eggs were preserved in this way even for the space of six months, without being spoiled by even the least unpleasant taste. This practice serves those who sail the sea for a longer time, and also for bringing into our kingdoms foreign birds, which would not be carried alive across so many stretches of land and sea without the greatest trouble.
 
 174 I will also describe for you, so that the porosity of bodies may appear more clearly, the ink which is commonly called sympathetic by the Chemists. It is usually prepared in this way. Let one ounce of litharge be taken and mixed with five or six ounces of distilled vinegar, and let it be filtered through paper in the usual way. This liquor, which is called by the Chemists vinegar of Saturn, or impregnation of Saturn made with distilled vinegar, is to be used for tracing characters, which you will no more perceive than if you had written with water; but if another liquor is applied, to be prepared by an artifice presently to be described, the characters at once become visible. Let one ounce of orpiment therefore be taken and mixed with two ounces of quicklime; let water be poured onto the mixture: there will be had a second liquor, with which some paper inscribed with the characters previously traced is to be moistened; even with a hundred sheets of paper placed in between, the particles of this liquor at once pass through the many sheets of paper, and you will read, splendidly black, the characters which before escaped the eyes, and you will marvel.
 
@@ -10278,11 +9514,7 @@ he writes, that eggs were preserved in this way even for the space of six months
 
 I                                       and
 
-(c) Instit. Philosoph. Exp., §. 247 ff.
-
-[p. 64]
-
-and from the size and figure of the effluvia. Thus, if oil extracted from wax and
+(c) Instit. Philosoph. Exp., §. 247 ff. [p. 64] and from the size and figure of the effluvia. Thus, if oil extracted from wax and
 
 quintessence of sulfur, both certainly very odorous, are carefully kept in a glass
 
@@ -10358,11 +9590,7 @@ hollow golden globe filled with water, and then, with great force
 
 compressed,
 
-(d) Instit. Philosoph. Rat., vol. 1, no. 59.
-
-[p. 65]
-
-compressed, exuded water on every side, and dripped everywhere with innu‐
+(d) Instit. Philosoph. Rat., vol. 1, no. 59. [p. 65] compressed, exuded water on every side, and dripped everywhere with innu‐
 
 merable tiny droplets as though bedewed, although the gold itself meanwhile
 
@@ -10432,11 +9660,7 @@ which lacks pores and which does not contain something of a very subtle sub‐
 
 stance, so likewise none
 
-I2                                    seems
-
-[p. 66]
-
-seems to exist from whose pores some portion of its substance does not continually burst out of its own accord, or is not carried off from it by the impetus of another body running against it. But let us prove this very thing specifically of different bodies. As regards animals, it is plain from the sagacity of dogs, which follow a wild beast even when it is far away by the effluvia left along its path; it will be still more plain from the observations of Sanctorius and Dodart to be adduced below. The Physicists affirm the same of plants, with Fr. Lana Terzi and Malpighi.
+I2                                    seems [p. 66] seems to exist from whose pores some portion of its substance does not continually burst out of its own accord, or is not carried off from it by the impetus of another body running against it. But let us prove this very thing specifically of different bodies. As regards animals, it is plain from the sagacity of dogs, which follow a wild beast even when it is far away by the effluvia left along its path; it will be still more plain from the observations of Sanctorius and Dodart to be adduced below. The Physicists affirm the same of plants, with Fr. Lana Terzi and Malpighi.
 
 184 Truly no other reason is given why plants, while the air is very hot, droop and wither, but, when the air has cooled, begin to flourish and revive, than that this hidden expiration, brought about by the heat, robs the plants of a huge quantity of corpuscles; whence it comes about that the fibers are exhausted and slackened, lose their firmness, and, through the lack of the corpuscles and of the spirits which sustain the little tubes of the fibers, are at length forced to yield to the forces of gravity; which shines forth most of all in the heliotrope. Not to mention to you the odor which vegetable bodies above all diffuse in every direction.
 
@@ -10466,11 +9690,7 @@ assert
 
 (h) Magist. Nat. & Art., vol. 2, bk. 3, ch. 1.
 
-(i) Medicina Statica.
-
-[p. 68]
-
-assert that there is little or no usefulness in these matters; but again I say to you: do not be led by the talk of the unskilled. Let us, however, return to the point from which we digressed.
+(i) Medicina Statica. [p. 68] assert that there is little or no usefulness in these matters; but again I say to you: do not be led by the talk of the unskilled. Let us, however, return to the point from which we digressed.
 
 191 The most distinguished Dodart (j), Member of the Royal Academy of Paris and physician to the King of France, established by experiments carried out over a space of 33 years that transpiration is far greater in youth than in any other age (k). From what has been said it is manifest that a very rapid change takes place in our bodies, and that the hardest parts of our body are subject to this perpetual vicissitude; and indeed there is no bone in the animal body so hard, so compact, that it is not nourished, and hence that it is not changed, and does not lose part of itself and recover a new one.
 
@@ -10564,11 +9784,7 @@ nay, reason itself demonstrates, that Almighty God can gather the scattered
 
 particles of matter which made up each man’s
 
-substance
-
-[p. 70]
-
-substance through the whole course of life, and pick them out, and recall them to
+substance [p. 70] substance through the whole course of life, and pick them out, and recall them to
 
 whatever size he wishes; and what may be lacking to anyone, He will supply who
 
@@ -10636,11 +9852,7 @@ with
 
 (l) In the Enchiridion, ch. 20.
 
-(m) From the Creed attributed to St. Athanasius.
-
-[p. 71]
-
-with no restraint applied from outside, they do not regain their former extension. These things being thus established,
+(m) From the Creed attributed to St. Athanasius. [p. 71] with no restraint applied from outside, they do not regain their former extension. These things being thus established,
 
 200 I say: the rarefaction of bodies consists in this, that the pores of the body are dilated; condensation, however, in this, that the same pores are constricted; upon which dilatation there follows an entry of particles and of insensible corpuscles, as upon the constriction their expulsion. Proof: a body is said to rarefy when, its matter not being increased, its volume grows and occupies a greater space; to be condensed when, its matter not being diminished, its volume decreases and the body fits a smaller space [§. 198]; but it is evident that the volume of a body is increased without its matter growing, by the very fact that the pores in it are dilated, and that the volume of a body decreases without anything being taken away from its matter, by the very fact that the pores are narrowed: therefore. That in the physical sense, moreover, there cannot be rarefaction without the entry of insensible corpuscles, fiery, ethereal or others, is plain; because, since (as will be said) there is no sensible void, and so every sensible space is full of some very subtle matter, it follows that when the pores are dilated, the bulk of the whole body being sensibly increased, this matter, being very subtle, enters and fills them. One must reason about condensation in the same way, proportionally.
 
@@ -10802,11 +10014,7 @@ variously mix them together, and disturb them. But I am pleased to note, followi
 
 Father Regnault
 
-(o)
-
-[p. 75]
-
-(o), the fermentation of fulminating powder.
+(o) [p. 75] (o), the fermentation of fulminating powder.
 
 211 Fulminating powder is a mixture composed of three parts of niter, two of salt of tartar, and one of sulphur, each reduced separately to powder and then mixed together. This, put in an iron spoon over a candle or live coals and heated to a certain degree, is suddenly dissipated with a horrible detonation, and sometimes bursts the spoon. The action, namely, of the fiery corpuscles insinuating themselves carries the spicules of the niter into the salt of tartar, and the dilatation of the internal air brings about that violent agitation from which the detonation arises. Father Regnault gives as the cause of the bursting of the spoon that the force of the powder is not only borne in every direction, but is moreover driven into the spoon by the resisting upper air, the more powerfully the greater the speed and vehemence with which the dissipated powder strikes and moves the air. From these things the phenomena of fermentation are explained.
 
@@ -10838,11 +10046,7 @@ arose,
 
 (u) A matrass is a glass flask furnished with a long and straight neck. Another kind of matrass serves for attenuating liquors over a gentle fire. It is composed of a glass phial A (Fig. XII.) with a long neck, with another small phial B luted to the first: the liquor ascends into B, returns again into A, etc., and through this circulation it is attenuated and deposits its dregs at the bottom of phial A.
 
-(x) Mémoires de l’Académie Royale, for the years 1706 and 1707.
-
-[p. 77]
-
-arose, because the red vapor is imbibed by the sulphur of the iron, which divides the iron more quickly and into smaller parts.
+(x) Mémoires de l’Académie Royale, for the years 1706 and 1707. [p. 77] arose, because the red vapor is imbibed by the sulphur of the iron, which divides the iron more quickly and into smaller parts.
 
 217 That these phenomena may be explained, it must be observed that spirit of niter divides iron into very small parts and associates itself with them, and these parts are the smaller the more the spirit abounds in the sulphur of the iron. That sulphur, moreover, can divide metals is well established. Now let oil of tartar, which is an earthy alkali, be added: the parts of the nitrous acid do not cohere so closely with those of the iron that they cannot enter with their points into the cavities of the alkali; hence arises the effervescence, which the bubbles of air continually bursting from the liquor display. Since, however, the acid parts are united with the iron, they cannot rush into the alkali with very great force, and therefore the effervescence is not so sensible as that which arises if oil of tartar per deliquium is put into simple spirit of niter; but in our experiment the acid particles of the niter partly enter the alkali, partly cohere with the particles of the iron.
 
@@ -10858,11 +10062,7 @@ dissolved
 
 (z) A drachm is the eighth part of an ounce.
 
-(a) Amalgamation takes place when some metal is intimately united with another, or with a mineral.
-
-[p. 78]
-
-dissolved with the mercury and the niter in water is the cause of the vegetation.
+(a) Amalgamation takes place when some metal is intimately united with another, or with a mineral. [p. 78] dissolved with the mercury and the niter in water is the cause of the vegetation.
 
 When the solution has been diluted by the water, the parts of the niter are no longer
 
@@ -10934,11 +10134,7 @@ which can be considered a universal affection of bodies, we shall seem to be doi
 
 something quite
 
-in
-
-[p. 79]
-
-in keeping with our plan if, before we explain the nature, the laws, and all the properties of motion, we embrace very briefly (the subtleties of the Schools being set aside) those things concerning time and place from which some light may shine forth for explaining the rest more conveniently.
+in [p. 79] in keeping with our plan if, before we explain the nature, the laws, and all the properties of motion, we embrace very briefly (the subtleties of the Schools being set aside) those things concerning time and place from which some light may shine forth for explaining the rest more conveniently.
 
 224 Time, then, to begin with it, is indeed very easily conceived, but can scarcely be explained or defined by us. “For what,” says the great Augustine (b), “what do we mention more familiarly and more knowingly in speaking than time? And we understand it, surely, when we speak of it; we understand it also when we hear another speaking of it. What, then, is time? If no one asks me, I know; if I wish to explain it to one who asks, I do not know: yet I say confidently that I know that if nothing passed away there would be no past time, and if nothing were, there would be no present time.” Aristotle, however, wishing to define time, says that it is the number of motion according to before and after (c). This definition is deservedly wont to be censured by the Moderns; for it can more probably be said that motion itself is the number and measure of time, since we are certainly accustomed to number or to measure the duration of time by some motion, such as that of a clock or of the sun.
 
@@ -10952,11 +10148,7 @@ L                                 at
 
 (c) Physics 5, ch. 16, text 7.
 
-(d) Dialogue 6, pp. 126 and 127.
-
-[p. 80]
-
-at a point, so our brief life is passed very swiftly through the many instants, as it
+(d) Dialogue 6, pp. 126 and 127. [p. 80] at a point, so our brief life is passed very swiftly through the many instants, as it
 
 were, of time in which it exists; for, as Ovid elegantly sings (e),
 
@@ -11018,11 +10210,7 @@ body.
 
 (f) Pt. 2 of the Principles, no. 15.
 
-(g) Loc. cit., no. 10.
-
-[p. 81]
-
-body. On the other hand, St. Augustine formerly agreed with Democritus and Epicurus (h): for place, says the Holy Doctor, is in space, which is occupied by the length, breadth and height of a body. Not otherwise do Gassendi (i), Newton (j), Keill (k) think about place, and, in short, all the Moderns, to whom nothing is more at heart than to swear by the words of no master. Having laid down these few things, then, I shall say briefly what I think should be held about the nature of place. For nothing can legitimately be determined in this matter unless what is certain is first distinguished from what is uncertain.
+(g) Loc. cit., no. 10. [p. 81] body. On the other hand, St. Augustine formerly agreed with Democritus and Epicurus (h): for place, says the Holy Doctor, is in space, which is occupied by the length, breadth and height of a body. Not otherwise do Gassendi (i), Newton (j), Keill (k) think about place, and, in short, all the Moderns, to whom nothing is more at heart than to swear by the words of no master. Having laid down these few things, then, I shall say briefly what I think should be held about the nature of place. For nothing can legitimately be determined in this matter unless what is certain is first distinguished from what is uncertain.
 
 230 I hold as certain, in the first place, that no body really exists which does not exist in some place. Whether, however, it can be brought about by Divine power that some body should exist nowhere, let the common Philosophers, who take the greatest delight in the philosophy of possibles, weigh in the scales. I likewise hold as an ascertained matter that place is not in a place, and so that place is not one of those things that exist in a place. For if it were so, by the same reasoning the place of the place also would be in a place, and so on to infinity. It is ascertained also that none of those things which are moved locally can be held for the place of bodies. For only that which exists in a place can be moved locally. I judge, finally, that the place of bodies is to be set in that in which the bodies themselves singly so exist that they fill one part of it altogether equal to their extension, are moved in it while it is itself wholly immobile, and by it, primarily and of themselves, mutually exclude one another, so far, namely, that several cannot by any means be placed together in the same part by the forces of nature. For all admit that bodies fill the place which each occupies, that they equal it, and that they are on that account impenetrable, because each of them excludes another from that place in which it is. By the name of space nothing else is understood but a negative extension, wholly immobile according to its threefold dimension, in which existing bodies are now placed, and which, if they were reduced to nothing, they would leave behind. This negative extension is called by St. Augustine a spacious nothing, by others an interval. These things being laid down:
 
@@ -11038,11 +10226,7 @@ L2                                             that
 
 (j) Principia, Schol. to Def. 8.
 
-(k) Introductio ad veram Philosophiam, lect. 2 and 6.
-
-[p. 82]
-
-that they touched each other. In this no repugnance, not even the least, appears. Let there be, then, two such bodies A, B (Fig. XVI.), which touch each other at the point C. Since, therefore, it is a most certain thing that the contact of two spheres can take place at one point only, it remains evident that the two bodies A, B will touch each other only at the point C, and consequently that their convex surfaces will be distant from each other, or that a straight line can be drawn from the point a to the point b, and so of the others. Between such convex surfaces, however, no body would really be had, since it has been supposed, namely, that only the two bodies A and B were created by God: therefore between those surfaces there would then be a pure interval, or space; and therefore space is possible in which no body at all exists.
+(k) Introductio ad veram Philosophiam, lect. 2 and 6. [p. 82] that they touched each other. In this no repugnance, not even the least, appears. Let there be, then, two such bodies A, B (Fig. XVI.), which touch each other at the point C. Since, therefore, it is a most certain thing that the contact of two spheres can take place at one point only, it remains evident that the two bodies A, B will touch each other only at the point C, and consequently that their convex surfaces will be distant from each other, or that a straight line can be drawn from the point a to the point b, and so of the others. Between such convex surfaces, however, no body would really be had, since it has been supposed, namely, that only the two bodies A and B were created by God: therefore between those surfaces there would then be a pure interval, or space; and therefore space is possible in which no body at all exists.
 
 233 I say 3. Space is really to be admitted, namely a negative extension, altogether different from corporeal substance. Proof: space is really to be admitted if it is shown to be possible [§. 231.]; but it is established with mathematical evidence that space is possible [§. 232.]; therefore it is really to be admitted. Moreover, the existence of space is clearly gathered also from the fact that the extension of the world is not infinite. For it cannot be finite unless outside its bounds there is space which could be occupied by other bodies. That the world is by no means without limits is the opinion of all those who hold it for an ascertained matter that no being besides God is infinite. From what has been said it becomes manifest that all bodies exist in space, that each fills one part of it, plainly equal to its extension, and that they are moved in it while it is wholly immobile.
 
@@ -11050,11 +10234,7 @@ that they touched each other. In this no repugnance, not even the least, appears
 
 235 I say 4, against the Peripatetics: bodies are not in a place because they are circumscribed by the concave surface of another body. Proof: if it were so, that body which is contained by no circumambient surface would exist nowhere: therefore, since the outermost Heaven is comprehended by no external body, it really is outside its own nothingness without existing in any place; but it is false that a body can exist without being somewhere [§ 230.]: therefore bodies are not in a place because, etc. That the outermost Heaven, moreover, is nowhere, once the opinion of Aristotle is admitted, none of the Scholastics can deny without most openly opposing Aristotle himself. For this is what the Prince of the Peripatetics
 
-(l)
-
-[p. 83]
-
-(l) has: Heaven is not somewhere, nor in any place, since no body contains it. Wherefore, as
+(l) [p. 83] (l) has: Heaven is not somewhere, nor in any place, since no body contains it. Wherefore, as
 
 the most illustrious Gassendi says (m): it is wonderful to tell into what straits the
 
@@ -11130,11 +10310,7 @@ extension,
 
 (l) Bk. 4 of the Physics, text 45.
 
-(m) Sect. 1 of the Physics, bk. 2, ch. 6.
-
-[p. 84]
-
-extension, but negative, penetrable, and altogether indiscerptible: for body and space claim for themselves attributes not only diverse, but so contrary that it is impossible to conceive them as one thing and as inhering in the same subject. The greatest difference of body from space, therefore, consists in this: that every body indeed has the three kinds of spaces (that is, of dimensions), yet not whatever has the three kinds of spaces is body.
+(m) Sect. 1 of the Physics, bk. 2, ch. 6. [p. 84] extension, but negative, penetrable, and altogether indiscerptible: for body and space claim for themselves attributes not only diverse, but so contrary that it is impossible to conceive them as one thing and as inhering in the same subject. The greatest difference of body from space, therefore, consists in this: that every body indeed has the three kinds of spaces (that is, of dimensions), yet not whatever has the three kinds of spaces is body.
 
 239 Obj. 2: Space is either something real or a pure nothing. If the second: then it is wrongly called extended, measurable, etc., because of nothing there are no properties. If the first: then something besides God is immense and unbounded; but this is absurd: therefore there is no space. I reply that space is not something real and positive, but, as St. Augustine says, a spacious nothing. It can be called real inasmuch as it does not depend on the intellect. For with no intellect thinking, the points a, b (Fig. XVI.) are distant from each other. Space is called extended, measurable, etc., in plainly the same sense in which a shadow is called extended and measurable, inasmuch, namely, as an extended and measurable body can be placed in that space. Of nothing, moreover, as we have said [§. 12], there are no positive properties, but many negative ones. Since these things are so, it is vainly asked by the Scholastics whether space is a substance or an accident. For it is manifest that only the real and positive is that which can rightly be divided into substance and accident. Nor does it help them that space is not something feigned by the intellect, for neither is a shadow anything of this kind, and yet none of the Scholastics will say that it is a substance or an accident. Nor does it stand in the way that space is called imaginary, as though it depended on the imagination; for it is so called because we imagine its dimensions after the manner of corporeal dimensions, which fall under the senses.
 
@@ -11142,11 +10318,7 @@ extension, but negative, penetrable, and altogether indiscerptible: for body and
 
 241 Obj. 4: place is said to receive the locable thing, to contain it, and to be filled by it; but these things do not belong to space, but to a positive being: therefore. I distinguish the major: and to be filled by it exactly as a vessel receives a liquor, contains it, and is filled by it, I deny; in such a way, namely, that the sense is that the thing exists in the place, and indeed so that nothing of the thing itself is had outside the place, and that, speaking of bodies, it does not allow the place to be occupied at the same time by another thing, I grant; and I distinguish the
 
-minor.
-
-[p. 85]
-
-minor: these functions do not belong to space if it is taken in the first way, I grant; if
+minor. [p. 85] minor: these functions do not belong to space if it is taken in the first way, I grant; if
 
 it is taken in the second way, I deny; and the consequence. The solution is manifest.
 
@@ -11234,11 +10406,7 @@ come
 
 (n) Pt. 2 of the Principles, no. 16.
 
-(o) Bk. 2 of the Principia, sect. 7, Schol. to prop. 40, p. 356, London ed., and p. 371 of the Opticks.
-
-[p. 87]
-
-come about that the sides themselves would not be distant from each other, but would plainly touch each other. On the contrary, however: for I hold it certain that the sides of that vessel cannot touch each other without its figure perishing; and who will deny that God, the Best and Greatest, can reduce to nothing all the substance contained in the vessel without the figure of that same vessel being changed in the least, since, as experience witnesses, the figure of the vessel itself depends in no way at all on the substance which fills the vessel?
+(o) Bk. 2 of the Principia, sect. 7, Schol. to prop. 40, p. 356, London ed., and p. 371 of the Opticks. [p. 87] come about that the sides themselves would not be distant from each other, but would plainly touch each other. On the contrary, however: for I hold it certain that the sides of that vessel cannot touch each other without its figure perishing; and who will deny that God, the Best and Greatest, can reduce to nothing all the substance contained in the vessel without the figure of that same vessel being changed in the least, since, as experience witnesses, the figure of the vessel itself depends in no way at all on the substance which fills the vessel?
 
 249 It is also false that those bodies touch each other between which no body is really interposed. For the physical contact of two bodies requires not only that no body be had between them, but also that none, not even the smallest, could be interposed between them without their being moved from their place. That this may be more openly evident, consider Fig. XVI. It is certain that it is wholly repugnant that those two spherical bodies A, B should touch each other along their convex surfaces: therefore the points a b, e d, m n, x y will not be contiguous to one another; but then nothing real and positive would be had between them: therefore it is false that two bodies touch each other by the very fact that nothing real and positive, or no body, really exists between them.
 
@@ -11250,11 +10418,7 @@ M                                 that
 
 (p) Institutio Philosophiae, pt. 4, ch. 13, no. 9.
 
-(q) Philosoph., vol. 3, p. 254.
-
-[p. 88]
-
-that God does not substitute another body within the vessel: therefore it will have to
+(q) Philosoph., vol. 3, p. 254. [p. 88] that God does not substitute another body within the vessel: therefore it will have to
 
 be admitted that it always existed there, and consequently that it was penetrated
 
@@ -11336,11 +10500,7 @@ another, it is enough that, while they remain unmoved, some body could be inter�
 
 posed, even though none is actually interposed;
 
-for
-
-[p. 89]
-
-for by that very fact they must exist in remote and distant places, as has been demonstrated by us above.
+for [p. 89] for by that very fact they must exist in remote and distant places, as has been demonstrated by us above.
 
 256 Obj. 3, against the second, with the great Newton: if there is not actually a coacervate vacuum, then the spaces of the heavens would have to be actually full; but they cannot be full, for thus the motion of the comets and planets would be retarded; nay, ever since the beginning of the world, from which they have been moving, their motion ought to have been growing languid: therefore. I deny the minor and its included proof: for in order that the stars may continually pursue their motion, nothing else whatever is required than that the matter filling the planetary heaven should not sensibly resist the stars. Moreover, the substance of light, diffused on every side through the circuit of heaven, in which the globes of the planets and comets are moved, does not, according to the excellent Newton himself, bring it about that their courses are disturbed, or that the motion itself grows gradually languid: therefore by the same reasoning those spaces of the heavens could be filled with another body, most fluid and most subtle, without the perennial motion of the stars being either disturbed or retarded even in the least. These things, however, which we have said about the coacervate vacuum do not prevent us from admitting the disseminate vacuum with the celebrated Gassendi.
 
@@ -11348,11 +10508,7 @@ for by that very fact they must exist in remote and distant places, as has been 
 
 258 Obj. 4, against the third: that celebrated experiment which is called Torricellian
 
-M2                                     because
-
-[p. 90]
-
-because Evangelista Torricelli is asserted to have been the first of all to perform this experiment. Let there be a little glass tube A C (Fig. XVII.), hermetically sealed at one of its ends, and let its length be greater than two and a half feet; let it be filled with mercury, then let the mouth through which it was filled with mercury be stopped with a finger; let the tube, thus closed by the finger, be inverted, and let its end, together with the stopping finger, be put into some vessel also well filled with mercury; after the immersion let the finger be removed and the mouth of the tube opened, and at once the mercury will descend from the tube into that vessel, not, however, all of it, but it will remain in the tube itself up to the height A E, which varies with the variety of time and place: therefore the upper part of the tube, E C, left by the mercury, is altogether empty: therefore a coacervate vacuum can be had by the forces of nature alone.
+M2                                     because [p. 90] because Evangelista Torricelli is asserted to have been the first of all to perform this experiment. Let there be a little glass tube A C (Fig. XVII.), hermetically sealed at one of its ends, and let its length be greater than two and a half feet; let it be filled with mercury, then let the mouth through which it was filled with mercury be stopped with a finger; let the tube, thus closed by the finger, be inverted, and let its end, together with the stopping finger, be put into some vessel also well filled with mercury; after the immersion let the finger be removed and the mouth of the tube opened, and at once the mercury will descend from the tube into that vessel, not, however, all of it, but it will remain in the tube itself up to the height A E, which varies with the variety of time and place: therefore the upper part of the tube, E C, left by the mercury, is altogether empty: therefore a coacervate vacuum can be had by the forces of nature alone.
 
 259 I reply that it is false that the upper part of the tube left by the mercury is filled with no substance whatever. For since glass is furnished with innumerable little pores, as we have already said, the mercury cannot desert any part of the tube without the most subtle ethereal substance entering the pores of the glass and filling that part of the tube. Certainly that upper part takes on heat if it is brought near a fire, and is suffused with light, which would by no means happen if there were no substance there: for a vacuum, since it is nothing but the absence of body, is not capable of heat or of light; and light cannot be propagated unless either a substance is diffused through that space, or the substance which is already in it is most strongly urged in a straight line by the luminous body, as we shall demonstrate when we come to speak of light. Besides, if the part C E is altogether empty, I should like to know why the whole tube is not emptied? For it is not contrary to nature that the whole should become empty, if it is not contrary to the laws of nature that the part C E should exist plainly empty.
 
@@ -11416,11 +10572,7 @@ and so
 
 evident
 
-(r) 3 Phys., text 1.
-
-[p. 92]
-
-evident that it could be called into doubt only by one who can speak without moving his tongue, I consider it a sin to spend even the least bit of time, and to bestow even the slightest effort, on demonstrating the existence of motion, imitating that man who, when questioned about motion, answered nothing, but rose and walked, mocking the sophist’s fallacy by evidence itself. The existence of local motion being thus placed beyond all hazard of doubt, we shall briefly inquire into its nature.
+(r) 3 Phys., text 1. [p. 92] evident that it could be called into doubt only by one who can speak without moving his tongue, I consider it a sin to spend even the least bit of time, and to bestow even the slightest effort, on demonstrating the existence of motion, imitating that man who, when questioned about motion, answered nothing, but rose and walked, mocking the sophist’s fallacy by evidence itself. The existence of local motion being thus placed beyond all hazard of doubt, we shall briefly inquire into its nature.
 
 262 Motion is defined by Aristotle: the act of a being in potency toward a new place, insofar as it is in potency toward it. It can, however, be described more clearly: the passage of a body from place to place, or: the state of a body which is actually carried from place to place, or the continual acquisition of place. For a body is said to be moved locally when it passes from one place into another in such a way that it ceases to be in the one because it is made present to the other. For local motion, therefore, it is necessary that the movable cease to be present to one place from the fact that it is made present to another. Local motion is divided into absolute and relative. Absolute motion is the migration of a body from one absolute place into another, or from one part of space into another; relative motion is the migration of a body from the vicinity of those things which are around it and are regarded as if immovable, into the vicinity of others which are likewise considered as entirely at rest.
 
@@ -11510,11 +10662,7 @@ From
 
 272 Force is the faculty or power which either induces motion in a body,
 
-or
-
-[p. 95]
-
-or would induce it if an obstacle were removed; and this, following the most learned Leibniz, Philosophers divide into living and dead. They call that force living which actually induces motion in a body, as is gravity in a descending stone; that force, on the other hand, they say is dead which actually lacks its effect, but which, if an obstacle were removed, would drive the body to motion, as is the same gravity in a globe held up by a thread, which rests so long as it is held up, but when the support is removed at once begins to descend downward. This same force is also called initial force, conatus or nisus toward actual motion.
+or [p. 95] or would induce it if an obstacle were removed; and this, following the most learned Leibniz, Philosophers divide into living and dead. They call that force living which actually induces motion in a body, as is gravity in a descending stone; that force, on the other hand, they say is dead which actually lacks its effect, but which, if an obstacle were removed, would drive the body to motion, as is the same gravity in a globe held up by a thread, which rests so long as it is held up, but when the support is removed at once begins to descend downward. This same force is also called initial force, conatus or nisus toward actual motion.
 
 273 By quantity of motion (which the Moderns also call momentum) we understand the force or impetus which bodies, out of the state of rest, can exert against obstacles set against them; and so, in defining the quantity of motion, attention must be paid both to the velocity with which the body is moved and to the mass, or quantity of matter, of the body itself. For let there be two bodies A B having equal quantities of matter, and let them be carried against an opposed obstacle with equal velocity: each body will exert the same impetus against the obstacle, for there is no cause why the one should exert a greater force than the other, since both the masses and the velocities are supposed equal; and if the impetuses are equal, the motions, or quantities of motions, will likewise be equal.
 
@@ -11522,11 +10670,7 @@ or would induce it if an obstacle were removed; and this, following the most lea
 
 275 From these Theorems there follows directly the third, which runs thus: the momenta, or quantities of motions, of bodies whose velocities as well as masses are unequal have a ratio compounded of the simple ratios of the velocities and of the masses. So that, therefore, when a twofold motion of any bodies whatever is proposed, it may be understood which of those motions must be held the greater or the smaller, first the gravity, or mass, of each body must be accurately ascertained, then the velocity, or celerity, with which each is moved, or the spaces which are traversed by each body; then, the mass of each body being multiplied by the celerity of the body, the product of them will exhibit the quantity of motion which belongs to each body: and this
 
-N                                           very
-
-[p. 96]
-
-very thing is stated thus in the geometric manner: The quantity of motion, or momentum, of a body is rightly expressed by the product of the celerity multiplied into the mass.
+N                                           very [p. 96] very thing is stated thus in the geometric manner: The quantity of motion, or momentum, of a body is rightly expressed by the product of the celerity multiplied into the mass.
 
 276 The quantity of motion, therefore, is not to be estimated from the celerity of the movable alone. For since motion belongs both to the whole body and to each of its parts, it cannot, as we have already said, be estimated otherwise than by multiplying the mass of the body into the velocity. For let, e.g., the mass of the body A be 4, its velocity or celerity 6. In this case each part of the body A will have 6 degrees of celerity, and consequently also 6 degrees of impetus or motion: the impetus, therefore, or force of the whole body will be equal to 6 degrees of impetus repeated four times; or, what is the same, if 4 is multiplied into 6, the quantity of motion in the body A will be 24. Likewise let the mass of the body B be 3, its velocity 8; let 3 be multiplied into 8: the quantity in the body B will be 24. From which it can easily be understood that the same quantity of motion is found in each movable. The momentum of a given body can therefore be regarded as a rectangle whose base represents the mass of the body itself, and its height the body’s celerity. For a rectangle arises from multiplying the base into the height, as was said in Geometry.
 
@@ -11536,11 +10680,7 @@ very thing is stated thus in the geometric manner: The quantity of motion, or mo
 
 279 From what has been said it is manifest that the force or impetus, or motion, or momentum (for all these are one and the same) of any body can be increased in three ways. 1. By increased velocity, an example of which we have in the iron balls which engines of war, by the force of gunpowder,
 
-discharge
-
-[p. 97]
-
-discharge against the walls of besieged towns, which balls strike the walls themselves with great impetus because of the great velocity with which they are carried. 2: By increased quantity of matter; an example of which we have in battering rams and other machines of war which were in use among the Ancients; for these, although they advanced most slowly, yet had an immense mass, and so afforded great use for assaulting walls. 3.: By increased velocity and quantity of matter together, in which case the impetus becomes immense, since the increment comes to the momentum from a double cause, namely from the velocity and from the mass.
+discharge [p. 97] discharge against the walls of besieged towns, which balls strike the walls themselves with great impetus because of the great velocity with which they are carried. 2: By increased quantity of matter; an example of which we have in battering rams and other machines of war which were in use among the Ancients; for these, although they advanced most slowly, yet had an immense mass, and so afforded great use for assaulting walls. 3.: By increased velocity and quantity of matter together, in which case the impetus becomes immense, since the increment comes to the momentum from a double cause, namely from the velocity and from the mass.
 
 280 But since not a few of the things said in this chapter can cause difficulty for young students, it is helpful to set before their eyes some examples of the equality and inequality of impetuses, and to demonstrate them again, and also to propose more clearly the rules of velocities and of the quantity of motions.
 
@@ -11552,11 +10692,7 @@ discharge against the walls of besieged towns, which balls strike the walls them
 
 284 For to carry a body of three feet through three equal parts of the line A B is to bring it about that each body of one foot composing the body of three feet runs through three equal parts; or it is to bring it about that three bodies of one foot each run through three equal parts of that line. Now to bring it about that three bodies of one foot each run through three equal parts of space is the same as to bring it about that a single body of one foot runs through nine equal parts of space; since on either side nine equal parts of space are traversed
 
-N2                                           by
-
-[p. 98]
-
-by a body of one foot: therefore the effects are alike: therefore their productive
+N2                                           by [p. 98] by a body of one foot: therefore the effects are alike: therefore their productive
 
 forces are equal.
 
@@ -11624,11 +10760,7 @@ Geometry, supplies us with the apparatus of various machines. How useful this pa
 
 of Physics is, and how much it serves for knowing very many phenomena of nature
 
-and
-
-[p. 99]
-
-and explaining them, only one who is plainly a stranger to Geometry and
+and [p. 99] and explaining them, only one who is plainly a stranger to Geometry and
 
 Physics could deny; so that for this reason I have judged it altogether necessary
 
@@ -11708,11 +10840,7 @@ preserve its own state.
 
 in
 
-(a) Bk. IV, Phys., text 69.
-
-[p. 101]
-
-in that course, and will never deflect from the rectilinear path. For if they described a curve, they would then be changing their direction at every moment, which conflicts with the inertia of matter, because of which it cannot assign itself any determination. That they must be moved uniformly, moreover, comes from the same force of inertia; for in order that the motion be accelerated or retarded, a new force must come in which either helps or hinders that motion, a force which, however, we suppose removed.
+(a) Bk. IV, Phys., text 69. [p. 101] in that course, and will never deflect from the rectilinear path. For if they described a curve, they would then be changing their direction at every moment, which conflicts with the inertia of matter, because of which it cannot assign itself any determination. That they must be moved uniformly, moreover, comes from the same force of inertia; for in order that the motion be accelerated or retarded, a new force must come in which either helps or hinders that motion, a force which, however, we suppose removed.
 
 295 Besides: a body is of itself so indifferent to motion and rest that, if it once rests, it rests forever, but if it has once been placed in motion, it is moved perpetually: therefore, if it has once been determined to motion, it will not return to rest by itself alone; or if it rests, it will not be roused to motion by itself alone: therefore, once incited to motion, it will need a new determination in order to be called back to rest, and conversely. Moreover, a body which was created spherical by God always perseveres spherical, and one that is once square always maintains its figure, until this figure is changed by some cause: therefore likewise a body which once rests will always rest.
 
@@ -11724,11 +10852,7 @@ in that course, and will never deflect from the rectilinear path. For if they de
 
 299 Imagine now a body moved in the circumference of a circle, and
 
-then
-
-[p. 102]
-
-then it will in truth be moved in a rectilinear figure of infinite sides, each of which is infinitely small. Therefore, if in the first particle of time the body describes one of these sides, thereafter, every external force being set aside, it ought, because of the force of inertia, to be moved uniformly along that same side produced further, which side touches the circle. Wherefore, if we see some body revolve in the circumference of a circle, it must be said that there is some force acting perpetually on the body, which draws it back from its rectilinear course and gradually bends it into the remaining sides of the polygon.
+then [p. 102] then it will in truth be moved in a rectilinear figure of infinite sides, each of which is infinitely small. Therefore, if in the first particle of time the body describes one of these sides, thereafter, every external force being set aside, it ought, because of the force of inertia, to be moved uniformly along that same side produced further, which side touches the circle. Wherefore, if we see some body revolve in the circumference of a circle, it must be said that there is some force acting perpetually on the body, which draws it back from its rectilinear course and gradually bends it into the remaining sides of the polygon.
 
 300 This force of a body of receding from the center is called centrifugal; that by which the body seeks the center, centripetal: both are called by the common name central. Hence you will gather 2. that a body moved circularly and afterwards left to itself, or with the obstacles removed, must be carried along the tangent of the circle, which is the small side continued; whence is deduced this general rule, which is the foundation of the whole system of the world: A body moved circularly strives at every moment to recede from the center of its motion; and indeed the more vehemently, the more vehemently it is agitated. This rule is confirmed by experience.
 
@@ -11740,11 +10864,7 @@ then it will in truth be moved in a rectilinear figure of infinite sides, each o
 
 304 From what has been said it follows that, although it is natural, that is, consonant with the laws established by God, that some body carried
 
-and
-
-[p. 103]
-
-and left to itself be moved in a straight line, it is nevertheless no less natural that the same body, first carried along a straight line, should afterwards be moved away from its determination as often as obstacles occur to prevent its being moved in a straight line. The permanent disturbance, therefore, or inflection of motion in a body which is moved along a circular line, is against the natural requirement of the initial motion impressed along a straight line, according to which the body at each instant begins to move itself; but this disturbance or inflection is not against nature, because the nature of a motion already begun does not require absolutely not to be disturbed, but only not to be disturbed in the absence of some obstacle which requires the disturbance. But let us now propose the second law of nature.
+and [p. 103] and left to itself be moved in a straight line, it is nevertheless no less natural that the same body, first carried along a straight line, should afterwards be moved away from its determination as often as obstacles occur to prevent its being moved in a straight line. The permanent disturbance, therefore, or inflection of motion in a body which is moved along a circular line, is against the natural requirement of the initial motion impressed along a straight line, according to which the body at each instant begins to move itself; but this disturbance or inflection is not against nature, because the nature of a motion already begun does not require absolutely not to be disturbed, but only not to be disturbed in the absence of some obstacle which requires the disturbance. But let us now propose the second law of nature.
 
 305 The second law is: the change of motion is always proportional to the motive force impressed, and is always made along the straight line along which that force is impressed. For since motion is generated in bodies by motive force, this is certain, that the motion begotten in a body is proportional to the motive force itself, to such a degree that, if some force generates a certain motion in a body, a double force will generate a double motion, a triple force a triple one; and generally, one force which is to another force as the number 100 to 1 will generate a motion which will be to the motion begotten by the other force as the same number 100 to 1; but for this to be true, equality of the times is postulated. That the motion must be made along a straight line has already been demonstrated above.
 
@@ -11828,11 +10948,7 @@ mediocre study in searching them out. And would that he had given us truer laws!
 
 For he would have raised on more stable foundations the edifice
 
-which
-
-[p. 105]
-
-which we have seen partly totter, partly collapse, not without some detriment to his
+which [p. 105] which we have seen partly totter, partly collapse, not without some detriment to his
 
 name. Warned by his example, we shall strive to bring forward truer ones.
 
@@ -11902,11 +11018,7 @@ same direction with a common celerity
 
 O2                                 which
 
-(b) Leçons de Physique, vol. 1, Leç. IV, sect. III.
-
-[p. 106]
-
-which, however, is less than the celerity of the impelling body, but greater than that of the im‐
+(b) Leçons de Physique, vol. 1, Leç. IV, sect. III. [p. 106] which, however, is less than the celerity of the impelling body, but greater than that of the im‐
 
 pelled body was before the impact.
 
@@ -12138,11 +11250,7 @@ and moved more slowly: after the impact it will go back.
 
 so let the relative celerity of the body A become = 15. And let A, as to
 
-mass,
-
-[p. 109]
-
-mass, half as great. In the impact this will impart to body B a velocity = 10, namely
+mass, [p. 109] mass, half as great. In the impact this will impart to body B a velocity = 10, namely
 
 two thirds [by the law stated]: this velocity, increased by just as much again through
 
@@ -12292,11 +11400,7 @@ along
 
 (f) Entretiens physiques, vol. 1, Entretien XI.
 
-(g) Phys. Gen., pt. I, Diss. II, Sect. V, Art. X.
-
-[p. 111]
-
-along that very one. II. If that body falls obliquely on the surface of another body, as if
+(g) Phys. Gen., pt. I, Diss. II, Sect. V, Art. X. [p. 111] along that very one. II. If that body falls obliquely on the surface of another body, as if
 
 a ball falls at the angle ABD (same Fig.) on the line, or surface, DBE, it will so re‐
 
@@ -12368,11 +11472,7 @@ by which a mobile body, on account of the greater or smaller resistance of the b
 
 it enters obliquely, from the straight line which it was describing
 
-P                                            is
-
-[p. 112]
-
-is deflected. We said which it enters obliquely, because if it fell perpendicularly, it would not be inflected at all, but would tend straight on.
+P                                            is [p. 112] is deflected. We said which it enters obliquely, because if it fell perpendicularly, it would not be inflected at all, but would tend straight on.
 
 341 But so that this may be understood more clearly and explained more accurately, let there be conceived a ray of light AB (Fig. XXII.), which, propagated in the air, falls obliquely on the surface of water CD; for this ray, as soon as it enters the water, is so inflected that it bends away from the straight line BE, which it would describe with straight motion if it always found the same density, and approaches the straight line BG, which is conceived as perpendicular to the surface CD.
 
@@ -12462,11 +11562,7 @@ placed
 
 (i) Mathematical Collection, bk. 8.
 
-(j) Statics, bk. 1, pt. 1, Def. 4.
-
-[p. 115]
-
-placed under the lever; because, namely, it rests upon a rigid line, which is also called
+(j) Statics, bk. 1, pt. 1, Def. 4. [p. 115] placed under the lever; because, namely, it rests upon a rigid line, which is also called
 
 the Mathematical lever, or line of the lever. Weights hung from the extreme points of
 
@@ -12546,11 +11642,7 @@ without
 
 (k) Euclid, bk. 3, prop. 19.
 
-(l) The same, bk. 1, prop. 19.
-
-[p. 116]
-
-without anything obstructing it. Since, therefore, it is not hindered from descending, the heavy body must necessarily fall along that same arc.
+(l) The same, bk. 1, prop. 19. [p. 116] without anything obstructing it. Since, therefore, it is not hindered from descending, the heavy body must necessarily fall along that same arc.
 
 355 From the consideration of the center of gravity it is likewise deduced why those things stand erect more firmly and more securely which rest on a broader base; and so why we ourselves, while we stand on both feet, remain safely, but on the contrary totter easily when supported on one alone; for in the former case the base is ample enough, and twin props sustain the body; but in the second it is narrow, and much narrower still when we press the floor only with the heel, so that the line of direction easily runs out beyond the base. Hence too are derived the rules of dancing, of walking, and of regulating the motions of the body. The very conformation of the animal body shows this same principle of equilibrium: the paired parts, distributed equally, occupy the sides, so that they are separated from the middle by an equal interval, while the single parts hold the middle place. Nor is this equilibrium evident in men only, but in brutes as well. For the wings of birds add an equal weight to them on either side: those which are allotted a longer neck are also furnished with longer feet, which they stretch out backward in flying; while they take their rest supported on one foot, they hide the head under the wing that lies crosswise opposite. We pass over countless things of this kind (m).
 
@@ -12630,11 +11722,7 @@ are unequal and the distances equal, they do not remain in equilibrium, but the 
 
 endowed with the greater weight
 
-will
-
-[p. 118]
-
-will be depressed. If the weights are equal and the distances unequal, they do not stand
+will [p. 118] will be depressed. If the weights are equal and the distances unequal, they do not stand
 
 balanced, but the one that is removed further from the center of motion preponderates.
 
@@ -12714,11 +11802,7 @@ body B = m. So that hence this reciprocal proportion necessarily holds, 2c : c =
 
 es from the double velocity multiplied into the simple mass,
 
-it
-
-[p. 119]
-
-it will be = 2cm. But the momentum of body A is the product of the mass twice as
+it [p. 119] it will be = 2cm. But the momentum of body A is the product of the mass twice as
 
 great multiplied by the simple velocity, that is: = 2mc, which is evidently the same.
 
@@ -12798,11 +11882,7 @@ for, their inequality being posited, the bodies which, placed on the pans, are i
 
 equilibrium will be not of the same but of unequal weight, as
 
-Q                                      (from
-
-[p. 120]
-
-(from Princip. III.) is clear. This fraud (indeed, every fraud) in deceitful balances
+Q                                      (from [p. 120] (from Princip. III.) is clear. This fraud (indeed, every fraud) in deceitful balances
 
 is detected by making an exchange of the weights in the pans, as Father Schott
 
@@ -12878,11 +11958,7 @@ pounds.
 
 if
 
-(o) Magia universalis, pt. 3, Mag. Stat., Syntagm. 3, Pragm. 3, toward the end.
-
-[p. 121]
-
-if, further, the momentum at the point m is increased, so that, if that force were
+(o) Magia universalis, pt. 3, Mag. Stat., Syntagm. 3, Pragm. 3, toward the end. [p. 121] if, further, the momentum at the point m is increased, so that, if that force were
 
 made such as to exceed the weight of a hundredweight, a weight of four hundred‐
 
@@ -13196,11 +12272,7 @@ a space = Da + bx, that is, through double the space covered by the weight.
 
 Therefore, by means of the dispastos, the power will move
 
-the
-
-[p. 125]
-
-the weight, if it is to it in a greater ratio than 1 : 2, and so the power is rendered dou‐
+the [p. 125] the weight, if it is to it in a greater ratio than 1 : 2, and so the power is rendered dou‐
 
 ble by it; and it is helped just as much as by the monospastos of the second kind.
 
@@ -13358,11 +12430,7 @@ weight F (for it is all one whether the power at K or at D
 
 be
 
-(s) Place cited, Mach. 2.
-
-[p. 127]
-
-be understood to be placed; yet let the whole weight be thought of as rightly collect‐
+(s) Place cited, Mach. 2. [p. 127] be understood to be placed; yet let the whole weight be thought of as rightly collect‐
 
 ed in the one point F of the line of direction D F). Therefore the power in D is to the
 
@@ -13524,11 +12592,7 @@ thrust forward under the body to be moved
 
 and
 
-(t) Phys., pt. 2, §. 2147. See Fr. Schott, Mag. Mechan., Syntagm. 5.
-
-[p. 119]
-
-and moreover the direction of the power which drives bodies apart by means of the
+(t) Phys., pt. 2, §. 2147. See Fr. Schott, Mag. Mechan., Syntagm. 5. [p. 119] and moreover the direction of the power which drives bodies apart by means of the
 
 wedge is parallel to its length, they infer therefore that the power is to the force of
 
@@ -13604,11 +12668,7 @@ R2                                                  the
 
 into the Spanish language, they are now coming out in Madrid.
 
-(z) Work De motu animal.
-
-[p. 130]
-
-both the longer the arms of the handle are, and the closer the body comes to the little pin; and again, that this stick is broken the more readily, the farther out the parts by which it is grasped extend. The reason is also given, from the nature of the heterodromous lever, why a mill driven by the wind or by the inflow of water turns the faster, the farther the sails or spokes are stretched out. For the impact of the air flowing against them, or of the water, acts as the moving powers; the axle, which the sails or wheels surround, takes the place of the hypomochlion; the stone has the role of the load.
+(z) Work De motu animal. [p. 130] both the longer the arms of the handle are, and the closer the body comes to the little pin; and again, that this stick is broken the more readily, the farther out the parts by which it is grasped extend. The reason is also given, from the nature of the heterodromous lever, why a mill driven by the wind or by the inflow of water turns the faster, the farther the sails or spokes are stretched out. For the impact of the air flowing against them, or of the water, acts as the moving powers; the axle, which the sails or wheels surround, takes the place of the hypomochlion; the stone has the role of the load.
 
 400 Nor by a dissimilar law does the homodromous lever make plain to us the force of oars; for the oar rests on the water as on a fulcrum, the ship to be moved forward holds the part of the weight, the hands that of the power: for that reason it happens that the vessel is propelled the more easily, the farther the rower is from the thole-pin and the closer the thole-pin is brought to the water. From this same principle the forces of the rudder are derived: likewise it is deduced why a ship runs forward the more swiftly, the higher the yard is raised on the mast. For the wind filling the sails stands in the place of the power, the ship for the weight, the lowest part of the mast for the fulcrum. It is explained also why a nail firmly fixed in a board is easily pulled out by a forked hammer taking hold of its projecting head. For the hammer represents a lever of the second kind, whose handle the moving power drives; the board, against which its other end is pressed, is the fulcrum; the nail holds the part of the load to be raised. For the same reason a knife fixed at one end to a table cuts the more strongly, the closer to the point of attachment the thing to be divided is applied. Similarly we grind even harder foods more strongly with the molar teeth than with the so-called incisors; for the former are nearer the fulcrum than the latter.
 
@@ -13896,11 +12956,7 @@ L AW I I . F L U I D S P R E S S I N E V E R Y D I R E C T I O N .
 
 422 Finally, from the pressure by which they are urged by the force of gravity, it follows that fluids also press from below upward, namely when, others pressing downward, they are raised up, almost as in a balance the heavier solid lifts the other by its descent. Many indications establish this law, phenomena
 
-that
-
-[p. 137]
-
-that occur daily. From a vessel inclined to the horizon the liquid would not flow out if, like firm bodies, it exerted its force only on the underlying plane; a ship gaping at the side takes in water at that place, and the more quickly, the higher the water surrounding the vessel stands above the hole: a cask pierced in any part whatever affords an exit to the liquid.
+that [p. 137] that occur daily. From a vessel inclined to the horizon the liquid would not flow out if, like firm bodies, it exerted its force only on the underlying plane; a ship gaping at the side takes in water at that place, and the more quickly, the higher the water surrounding the vessel stands above the hole: a cask pierced in any part whatever affords an exit to the liquid.
 
 423 By a single trial one may explore the pressure of fluids in every direction. For if several holes are made in a vessel, one looking perpendicularly down toward the horizon, another vertical to it, another let into the side, and a stopper of cork is fitted to each opening under the condition that it fit the hole exactly, yet can be removed by a rather light impression; then, the liquid being let in, it will be observed that the cork is pushed out by the water reaching the height of the opening, whether it was inserted in the bottom hole, the lateral one, or the one stretched out toward the top. L AW I I I . H O M O G E N E O U S F L U I D S A R R A N G E T H E M S E LV E S
 
@@ -13914,11 +12970,7 @@ AT A L E V E L , O R A L O N G T H E S A M E H O R I Z O N TA L L I N E .
 
 427 In the first place, if the tubes are endowed with an equal perimeter and are erected perpendicularly, the matter is ascertained. Next, if they are supposed to be inclined to the horizon,
 
-S2                                           the
-
-[p. 138]
-
-the reason of the equilibrium shines out no less (from Law I.). If, finally, the perimeters of the tubes are unequal, it is derived from the principles of Statics that the fluids will be in equilibrium if it holds that the ratio of the mass in the one is reciprocal to the ratio of the velocity in the other. But this ratio of mass and velocity is had in a fluid contained in tubes of this kind. For let the tube a b (Fig. LV.) be supposed to exceed the other, C d, a hundred times in breadth: it cannot happen that the fluid in the former is depressed toward e by the height of one inch without a motion taking place in the narrower one to the height of a hundred digits.
+S2                                           the [p. 138] the reason of the equilibrium shines out no less (from Law I.). If, finally, the perimeters of the tubes are unequal, it is derived from the principles of Statics that the fluids will be in equilibrium if it holds that the ratio of the mass in the one is reciprocal to the ratio of the velocity in the other. But this ratio of mass and velocity is had in a fluid contained in tubes of this kind. For let the tube a b (Fig. LV.) be supposed to exceed the other, C d, a hundred times in breadth: it cannot happen that the fluid in the former is depressed toward e by the height of one inch without a motion taking place in the narrower one to the height of a hundred digits.
 
 428 As, therefore, the mass of the fluid comprised in the wider tube is to the mass in the narrower, so reciprocally is the velocity in the latter to the velocity in the former: the momenta are therefore equal on both sides; and hence the equilibrium of the fluid in both. Now, that in homogeneous fluids this comes about when they obtain the same height is clear: for since the pressure is in the compound ratio of height and base (from Law I.), if the vertical section e f is regarded as a common base, and the horizontal line m n is drawn through it, and the perpendiculars m a, n d are erected, the pressure toward the base will be, on the one part, = e f m a, on the other = e f n d. But since the momenta of the fluid are equal (from what has been said), and the specific gravity (by hypothesis) is the same, and therefore in the mutual comparison of the pressure no account need be taken of it as though it were different, it follows that the pressure in each leg toward e f, tending in opposite directions, is equal, that is: e f m a = e f n d; and, division by e f being made, m a = n d will hold, or the heights are equal, and hence m n and a d intercept equal perpendiculars. But m n (by construction) is a horizontal line. Therefore a d, or the twin surface of the fluid in each tube, is settled at a level.
 
@@ -13928,11 +12980,7 @@ the reason of the equilibrium shines out no less (from Law I.). If, finally, the
 
 431 But the common section, or base, is understood as the center of motion; and the heights themselves are the distances from it; since
 
-indeed
-
-[p. 139]
-
-indeed (by the Law cited) the pressure and balancing of fluids, when they are regarded in themselves, must depend upon these and be derived from them. Heterogeneous fluids will therefore compose an equilibrium if their heights are reciprocally as their specific gravities.
+indeed [p. 139] indeed (by the Law cited) the pressure and balancing of fluids, when they are regarded in themselves, must depend upon these and be derived from them. Heterogeneous fluids will therefore compose an equilibrium if their heights are reciprocally as their specific gravities.
 
 432 Law VI. Fluids in actual flow, when they pass from a wider space into a narrower one, accelerate their motion in the very passage.
 
@@ -14302,11 +13350,7 @@ wet hempen cord. II. He who is placed upon the cake of resin does not excite a
 
 flame from the electric tube with which
 
-he
-
-[p. 145]
-
-he is in communication. III. If someone standing on the ground holds in his hand some metal vessel containing warm spirit of wine, and offers it to a man placed on the resin cake, this man, now electric, will set the liquor on fire as often as he tries to draw fire from it. IV. Exactly the same phenomenon occurs when the man who is now electric holds the metal vessel in his hand, and a man destitute of electric virtue tries to draw the flame.
+he [p. 145] he is in communication. III. If someone standing on the ground holds in his hand some metal vessel containing warm spirit of wine, and offers it to a man placed on the resin cake, this man, now electric, will set the liquor on fire as often as he tries to draw fire from it. IV. Exactly the same phenomenon occurs when the man who is now electric holds the metal vessel in his hand, and a man destitute of electric virtue tries to draw the flame.
 
 455 Experiment III. All the lightest bodies, such as ground tobacco, the thinner leaves of gold or silver, small bird feathers, bran, etc., are now attracted toward a body endowed with electric virtue, now repelled from this body, now cling to this same body. Indeed, electric virtue manifests itself by the goings and returnings of bodies of this kind, the lightest ones.
 
@@ -14320,11 +13364,7 @@ he is in communication. III. If someone standing on the ground holds in his hand
 
 460 Observations. I. If in place of the paper some bird is put,
 
-T2                                     most
-
-[p. 146]
-
-most certain death will be brought upon it by a few sparks drawn from its feather‐
+T2                                     most [p. 146] most certain death will be brought upon it by a few sparks drawn from its feather‐
 
 less head. II. In place of the flask half full of water, of which we were speaking in
 
@@ -14470,11 +13510,7 @@ matter of the first element quickly returns into the glass from which it had
 
 come
 
-(o) Pt. 4, Principles, art. 185.
-
-[p. 148]
-
-come out on account of the friction. IV. The matter of the first element and the
+(o) Pt. 4, Principles, art. 185. [p. 148] come out on account of the friction. IV. The matter of the first element and the
 
 electric matter are in no way distinguished from each other. V. According to
 
@@ -14550,11 +13586,7 @@ hundred and thirty years ago, did Honoré Fabri think about electricity.
 
 of
 
-(p) Vol. 4, Physics.
-
-[p. 146]
-
-of bodies electric by communication are not explained: for Father Fabri held that no
+(p) Vol. 4, Physics. [p. 146] of bodies electric by communication are not explained: for Father Fabri held that no
 
 body at all, not even metals, can become electric by communication, as is manifest
 
@@ -14626,11 +13658,7 @@ mosphere about the electric body. III. There spread themselves out in the air
 
 the
 
-(q) Years 1733, 1734, 1737.
-
-[p. 150]
-
-the oily little vortices, and, on account of the perfect plenum that has persisted in na‐
+(q) Years 1733, 1734, 1737. [p. 150] the oily little vortices, and, on account of the perfect plenum that has persisted in na‐
 
 ture from the beginning of the world, similar little vortices flow toward the electric
 
@@ -14700,11 +13728,7 @@ rare bodies than in dense ones; for this matter is denser
 
 in
 
-(r) Experiences sur l’Electricité avec quelques conjectures sur la cause de ses effets.
-
-[p. 151]
-
-in amber, glass, diamond, than in air, water, etc. Unless perhaps the distinguished
+(r) Experiences sur l’Electricité avec quelques conjectures sur la cause de ses effets. [p. 151] in amber, glass, diamond, than in air, water, etc. Unless perhaps the distinguished
 
 Author wishes a greater abundance of electric matter to be understood by density,
 
@@ -14776,11 +13800,7 @@ V                                                 body
 
 M. d’Alibard.
 
-(t) Essai sur l’Electricité, and elsewhere in various small works.
-
-[p. 152]
-
-body, e.g. toward a glass globe rubbed with a dry hand, a fiery matter which
+(t) Essai sur l’Electricité, and elsewhere in various small works. [p. 152] body, e.g. toward a glass globe rubbed with a dry hand, a fiery matter which
 
 abundantly repairs the losses that the glass globe suffers on account of the fric‐
 
@@ -14856,11 +13876,7 @@ out of its bosom. For the glass globe does not lose its electricity after innume
 
 able frictions and immense losses,
 
-which
-
-[p. 153]
-
-which it has suffered; therefore it evidently repairs its losses. But the electric body cannot make good its losses unless as many fiery corpuscles flow toward it as had flowed out of its bosom: therefore, etc. Now as regards the principles that are peculiar to us in this matter, they are five in number.
+which [p. 153] which it has suffered; therefore it evidently repairs its losses. But the electric body cannot make good its losses unless as many fiery corpuscles flow toward it as had flowed out of its bosom: therefore, etc. Now as regards the principles that are peculiar to us in this matter, they are five in number.
 
 485 I. Only some part of the fiery corpuscles going out of the glass globe rubbed with a dry hand enters the iron tube of the electric machine; another part of the same corpuscles communicates itself either to the air or to the bodies standing round about on every side. For experience establishes that not only the tube of the electric machine, but also the very Rubber of the glass globe sensibly receives electric force, provided he is placed on a cake of resin.
 
@@ -14884,11 +13900,7 @@ V2                                       In
 
 493 Explanation of Experiment V. The vehement conflict of two fiery outflows, one of which has its way through the iron wire,
 
-the
-
-[p. 155]
-
-the other through the electric tube, is the cause why the very thick paper men‐
+the [p. 155] the other through the electric tube, is the cause why the very thick paper men‐
 
 tioned in Experim. V is pierced with a very great crack.
 
@@ -14976,21 +13988,13 @@ I deny the parity: iron not far distant from the electric machine acquires a rar
 
 502 Inst. From this opinion it follows that a man placed in the usual way on a resin cake ought to draw a flame from the electric iron tube with which he is in communication: but this
 
-is
-
-[p. 157]
-
-is false: therefore. Proof of the major: a man resting on the floor draws a little flame from the iron tube with which he does not communicate: therefore a fortiori a man placed on the cake ought, etc. I deny the consequence. The man placed on the cake is just as electric as the iron tube, and is therefore surrounded by an electric atmosphere just as dense as the atmosphere of the iron tube. Whereas the man resting on the floor is only initially electric, and is consequently surrounded by a rare electric atmosphere, while the iron tube is girded by a dense electric atmosphere: therefore, according to the principles set forth above, the latter must draw some little flame from the iron tube, but the former none. But, you will say, by what mechanism is the spirit of wine inflamed, which is mentioned in Observation III of Experiment II? I reply: the spirit of wine is inflamed in exactly the same way in which a certain little flame is drawn from the iron tube.
+is [p. 157] is false: therefore. Proof of the major: a man resting on the floor draws a little flame from the iron tube with which he does not communicate: therefore a fortiori a man placed on the cake ought, etc. I deny the consequence. The man placed on the cake is just as electric as the iron tube, and is therefore surrounded by an electric atmosphere just as dense as the atmosphere of the iron tube. Whereas the man resting on the floor is only initially electric, and is consequently surrounded by a rare electric atmosphere, while the iron tube is girded by a dense electric atmosphere: therefore, according to the principles set forth above, the latter must draw some little flame from the iron tube, but the former none. But, you will say, by what mechanism is the spirit of wine inflamed, which is mentioned in Observation III of Experiment II? I reply: the spirit of wine is inflamed in exactly the same way in which a certain little flame is drawn from the iron tube.
 
 503 Obj. 3. In this new opinion there is no physical cause of the affluence of fiery particles toward bodies actually electric: therefore the explanation of Experiment III is not to be admitted. I prove the antecedent: before some motion of rotation was impressed on the glass globe, the electric matter which was found in the air did not flow toward the glass globe or toward the iron tube: therefore neither ought it to flow toward them after some motion of rotation has been impressed on the glass globe. I deny the first antecedent: in the lower atmosphere there is a sensible plenum, and the air is elastic. These things presupposed, I reason thus: the glass globe cannot become electric without emitting many fiery corpuscles from its bosom, and without a new motion being acquired by the electric matter which is found in the air and in the bodies standing round the electric machine on every side. But all these things cannot happen without there corresponding, on account of the elastic air and on account of the sensible plenum, to the effluence of fiery particles from the bosom of the glass globe an affluence of the same, or of similar, fiery particles toward the same glass globe. What has been said of the glass globe, let it be said proportionally of the iron tube: therefore in this opinion there is a physical cause of the affluence of fiery particles toward electric bodies.
 
 504 I deny the last consequence: in the first case the glass globe was suffering no loss, and the electric matter which is found in the air and in the bodies standing round the electric machine on every side had not received a new motion. But in the 2nd case the glass globe suffers an almost immense loss of fiery particles, and the electric matter which is found in the air and in the bodies standing round the electric machine on every side has acquired a new motion. But you will say: what is the physical cause of the effluence of fiery particles from the bosom of the glass globe rubbed with a dry hand? I reply: this effluence is owed to friction joined to the motion of rotation. You will say again: for what cause, then, do no fiery particles flow out of a metal globe rubbed with a dry hand and endowed with a most vehement motion of rotation? I reply that there exists a twofold cause of this phenomenon: for I. there are far fewer
 
-fiery
-
-[p. 158]
-
-fiery corpuscles in metals, and in bodies electric by communication, than in glass and in bodies electric of themselves. II. Metals have somewhat rigid parts, on which friction does not impress that motion from which the effluence of fiery corpuscles arises.
+fiery [p. 158] fiery corpuscles in metals, and in bodies electric by communication, than in glass and in bodies electric of themselves. II. Metals have somewhat rigid parts, on which friction does not impress that motion from which the effluence of fiery corpuscles arises.
 
 505 Obj. 4. From our opinion it follows that if the iron wire mentioned in Experiment IV were enclosed in a metal flask, the shock would be much more vehement than when the iron wire is enclosed in a glass flask; but this is false: therefore. Proof of the major: if the iron wire were enclosed in a metal flask, the fiery outflow entering through the hand that holds up the lower part of the metal flask would be much greater than when the experiment is made by means of a glass flask; therefore from our opinion it follows, etc. Proof of the antecedent: the electric matter permeates a metal flask much more easily than a glass flask: therefore, if, etc. I deny the second antecedent, as supposing something false. The iron wire enclosed in a metal flask would not become sensibly electric; for the electric matter communicated to the iron wire would evaporate through the pores of the metal. Hence I concede the last antecedent and deny the consequence.
 
@@ -15000,11 +14004,7 @@ fiery corpuscles in metals, and in bodies electric by communication, than in gla
 
 508 Obj. 7. From our opinion it follows that the Rubber mentioned in Experiment VII ought not to draw a flame from the iron tube to which he brings his finger; but this is false: therefore. Proof of the major: a man placed in the usual way on a resin cake does not draw a flame from the tube with which he communicates through the iron wire: therefore likewise the Rubber placed on the cake ought not to draw a flame from the iron tube with which he has communication through the glass globe. I deny the consequence. The man placed on the cake is just as electric as the iron tube with
 
-which
-
-[p. 159]
-
-which he communicates through the iron wire: whereas the Rubber is much less
+which [p. 159] which he communicates through the iron wire: whereas the Rubber is much less
 
 electric than the iron tube, even though he is placed on a cake of resin: therefore the
 
@@ -15062,11 +14062,7 @@ sinuate itself through the pores of the matter obstructing the tubules of the ne
 
 X                         and
 
-(u) Experiences sur l’électricité, by Mr. Jallabert.
-
-[p. 160]
-
-and little by little dissipate every obstruction, and consequently be a present remedy against paralysis.
+(u) Experiences sur l’électricité, by Mr. Jallabert. [p. 160] and little by little dissipate every obstruction, and consequently be a present remedy against paralysis.
 
 512 You will ask, IV.: to what distance is the electric vapor propagated? I reply: the very great distance to which a vapor of this kind is propagated, as it were in a moment of time, may seem incredible. For Du Fay at 1256 feet, Maffei at 2220, Watson at 8000, at 10600, at 12276 feet, testify that the electric virtue was propagated along iron wires with such speed that the shock was perceived at the other extremity of the chain at almost the same instant. But we do not on that account think that a propagation of this kind is instantaneous, since Beccaria (x) discovered by most accurate experiments that the electric vapor, in traversing 500 Paris feet, takes up some sensible interval of time.
 
@@ -15162,11 +14158,7 @@ X2                                  518 Inst.
 
 521 But, you will say, what in our opinion is the physical cause of the crash booming and re-echoing in the atmosphere? I reply: the flash
 
-dilates
-
-[p. 163]
-
-dilates the air contained between the more electric cloud and the less electric cloud which run against each other. This air, suddenly dilated, compresses the neighboring air; the neighboring air, endowed with an excellent elater, restores itself to its first figure, and in restoring itself excites the horrid crash which we hear booming and re-echoing in the atmosphere. From this physical explanation the following necessarily follow: I. There must sometimes be lightning flashes without any crash being heard; namely, when we are too far distant from the place in which the electric cloud is moving, or when the air contained between the more electric cloud and the less electric cloud has not acquired sufficient dilatation. II. Sometimes a crash must be heard without any lightning flash being seen, which happens when some thicker cloud is found between the earth and the electric cloud; for a cloud of this kind absorbs the rays of light of which lightning flashes consist.
+dilates [p. 163] dilates the air contained between the more electric cloud and the less electric cloud which run against each other. This air, suddenly dilated, compresses the neighboring air; the neighboring air, endowed with an excellent elater, restores itself to its first figure, and in restoring itself excites the horrid crash which we hear booming and re-echoing in the atmosphere. From this physical explanation the following necessarily follow: I. There must sometimes be lightning flashes without any crash being heard; namely, when we are too far distant from the place in which the electric cloud is moving, or when the air contained between the more electric cloud and the less electric cloud has not acquired sufficient dilatation. II. Sometimes a crash must be heard without any lightning flash being seen, which happens when some thicker cloud is found between the earth and the electric cloud; for a cloud of this kind absorbs the rays of light of which lightning flashes consist.
 
 522 III. Not rarely must we judge the sound to be, as it were, running about within the bowels of the clouds; for the sound is often reflected either from different parts of the clouds, or from different mountains and crags, etc. IV. The crash is not heard from a great distance; for sound, no otherwise than motion, that is, through running into other bodies, both becomes weaker and sometimes even perishes. V. It can easily be known how far distant from us is the cloud which holds the thunderbolt in its bosom. And indeed the light of the lightning flash is transmitted all the way to us within an insensible space of time, whereas sound runs through only 173 Paris toises within one second of time: if, therefore, four seconds of time should be counted between the flash and the crash, it will evidently be inferred from this that the electric cloud is 692 Paris toises distant from us. VI. If the crash is heard at precisely the same instant at which the flash gleams, then it will have to be inferred that the electric cloud is nearer.
 
@@ -15174,11 +14166,7 @@ dilates the air contained between the more electric cloud and the less electric 
 
 524 From what has been said the following evidently follow. I. The bituminous, sulphureous and nitrous exhalations which are found within the bowels of electric clouds, and which are the fuel of the thunderbolt, must be kindled by the electric fire. II. Of these exhalations some are thick, others thinner: the thick exhalations act on bodies whose pores are wider, and leave untouched bodies whose pores are narrower. For that reason certain thunderbolts have sometimes consumed the scabbard, leaving the sword untouched. Thin exhalations, on the other hand, act
 
-only
-
-[p. 164]
-
-on compact bodies alone. Of exhalations of this species were formed the thunder‐
+only [p. 164] on compact bodies alone. Of exhalations of this species were formed the thunder‐
 
 bolts which melted the sword, leaving the scabbard untouched.
 
@@ -15246,11 +14234,7 @@ many
 
 overturned on account of a violent concussion of the earth on the 29th of July of the year just past,
 
-1773.
-
-[p. 165]
-
-many subterranean fires in the bosom of the same earth. Hence arise the flames which Mount Etna in Sicily, Mount Vesuvius in the territory of Naples, etc., vomit forth. II. These subterranean fires are not kept up without fuel. The common fuel of these fires, moreover, is sulphur, bitumen, niter and the other fossil bodies, most of which are electric by friction. Hence it is no wonder that mines of sulphur and of bitumen are frequent in those tracts of land beneath which subterranean fires lie hidden.
+1773. [p. 165] many subterranean fires in the bosom of the same earth. Hence arise the flames which Mount Etna in Sicily, Mount Vesuvius in the territory of Naples, etc., vomit forth. II. These subterranean fires are not kept up without fuel. The common fuel of these fires, moreover, is sulphur, bitumen, niter and the other fossil bodies, most of which are electric by friction. Hence it is no wonder that mines of sulphur and of bitumen are frequent in those tracts of land beneath which subterranean fires lie hidden.
 
 528 III. Within the very bosom of the earth sulphureous, bituminous and nitrous particles, already hot through the motion impressed by the electric matter which they contain, are kindled. This new motion, however, or rather this equivalent friction, is excited now by contrary winds penetrating into the inmost bowels of the earth through its huge passages, which they call aërophylacia, now by an electric spark excited within. Hence it follows that there are bodies electric per se that are inflammable, and bodies electric per se that are not inflammable. Of the first kind are all sulphureous materials, of the second kind vitreous materials. IV. There are in the bosom of the earth subterranean caves, upon which for the most part huge masses of mountains rest. V. In subterranean caves are found fire, water and air, in such a way, however, that the fire, or rather the combustible matter, namely sulphureous and bituminous matter, when kindled, occupies the lowest place, the water the middle place, and the air the uppermost place. These things being premised, and laid down as so many principles,
 
@@ -15342,11 +14326,7 @@ up. For then the air, dilated by the subterranean fires, so lifts up the land ly
 
 hidden under the waters that this same land comes out higher
 
-than
-
-[p. 167]
-
-than the surface of the waters. This was probably the origin of certain islands which have risen up in the Archipelago and in the Atlantic Ocean.
+than [p. 167] than the surface of the waters. This was probably the origin of certain islands which have risen up in the Archipelago and in the Atlantic Ocean.
 
 535 You will insist 1. If earthquakes depended on the causes mentioned above alone, it would follow that mountainous places ought not to suffer more frequent earthquakes than places not mountainous; but this is false: therefore. Proof of the major: in our opinion mountains are not numbered among the causes of earthquakes: therefore. I distinguish the antec.: they are not numbered directly, I grant; indirectly, I deny, and the conseq. Mountainous places suffer more frequent motions for this reason, that for the most part caves are found under mountains, as we said above. Hence it is easily explained why now a greater, now a lesser tract of earth trembles. For this depends, other things being equal, on the greater or lesser depth and breadth of the cavern; for the deeper and broader the subterranean cavern is, the greater, evidently, must be the space of earth which is lifted up.
 
@@ -15356,11 +14336,7 @@ than the surface of the waters. This was probably the origin of certain islands 
 
 538 But you will say: how could it come about that in certain earthquakes waters formerly cold became hot, while in others waters formerly hot were made cold? I reply: all motions which kindle a new fire near some springs must heat the waters which were formerly cold; and no one doubts that combustible materials can be kindled by motion. But as often as the old fires are extinguished through some earthquake, whether they are extinguished through evaporation
 
-Y                                        or
-
-[p. 168]
-
-or through any other cause whatever, so often must the waters grow cold which
+Y                                        or [p. 168] or through any other cause whatever, so often must the waters grow cold which
 
 the fires lately extinguished used to heat. You will say again: How could pestilence
 
@@ -15526,11 +14502,7 @@ these characters:
 
 is
 
-(a) Principia, bk. 1, Def. 5.
-
-[p. 171]
-
-is formed by those same little vortices, which have swept along with them bitu‐
+(a) Principia, bk. 1, Def. 5. [p. 171] is formed by those same little vortices, which have swept along with them bitu‐
 
 minous, sulphureous, oily, nitrous particles, etc. On the greater or lesser dilata‐
 
@@ -15596,11 +14568,7 @@ first.
 
 553 The change of the external sense organ arising from the impulse of a sensible thing, upon which the sensation of that thing follows in the soul, is nothing else, physically speaking, than a certain motion in those fibers of the nerves which constitute the external sense organ, excited by the impulse of the thing itself. For a bodily agent does not act except through local motion, namely, only insofar as it locally moves that on which it acts. Certainly there is no bodily action which by the motion of its parts (as will be plain to anyone who considers it) is
 
-not
-
-[p. 173]
-
-not accomplished. Therefore no body, either, undergoes anything from a bodily
+not [p. 173] not accomplished. Therefore no body, either, undergoes anything from a bodily
 
 agent except insofar as it is moved by it. But the sense organs undergo something
 
@@ -15678,11 +14646,7 @@ species of touch. In bk. 2 On the Soul he says: Taste
 
 is
 
-(b) Praelect. in suas Inst. Med., at no. 566.
-
-[p. 174]
-
-is one of the things which are perceived by touch. To the argument I reply directly that, since the sensible bodies by which the external sense organs are changed differ very greatly among themselves, and the manner in which the sense organs themselves are affected by them is plainly dissimilar, it was not done in vain, but by the supreme counsel of the Divine Maker, and by the greatest necessity of nature, that the structure of the external sense organs themselves should also be notably diverse; from which it follows that for receiving the impressions of all sensible things and communicating them to the brain, a single organ of touch, touch being taken for a special sense, would by no means suffice.
+(b) Praelect. in suas Inst. Med., at no. 566. [p. 174] is one of the things which are perceived by touch. To the argument I reply directly that, since the sensible bodies by which the external sense organs are changed differ very greatly among themselves, and the manner in which the sense organs themselves are affected by them is plainly dissimilar, it was not done in vain, but by the supreme counsel of the Divine Maker, and by the greatest necessity of nature, that the structure of the external sense organs themselves should also be notably diverse; from which it follows that for receiving the impressions of all sensible things and communicating them to the brain, a single organ of touch, touch being taken for a special sense, would by no means suffice.
 
 557 Obj. 3, by insisting: whatever diversity occurs in the impressions of sensible things is communicated to the brain through the nerves, the nervous fibers and the animal spirits; but in every part of the body all these things are found, and indeed of the same nature: therefore in every part of the body there exist organs which can receive the impression, or change, of sensible things: therefore, our opinion being laid down, the sensitive power consists in touch alone, and by this one sense we perceive light, taste, etc.: therefore the remaining organs of the human body would be superfluous. I deny the min. of the argument: for the parts of the human body which serve instrumentally for performing sensations differ greatly among themselves, although each of them is composed of filaments of nerves: it cannot, therefore, be said that they are of the same nature, that is, that there is no essential difference whatever between them. I deny, therefore, that the fibers are interwoven with the same artifice in all parts of the body: for this artifice, as experience itself attests, is plainly dissimilar according to the specific difference of those parts.
 
@@ -15690,11 +14654,7 @@ is one of the things which are perceived by touch. To the argument I reply direc
 
 559 Obj. 4. If no sensation can be perceived without motion, it follows that there is no memory or sensation in those who are asleep, since
 
-no
-
-[p. 175]
-
-no impression is made by objects then absent: but this is contrary to experience: therefore. I distinguish the maj.: that there is no sensation on an external occasion (which is what the question concerns), I grant; a merely internal one, I deny, and the conseq.
+no [p. 175] no impression is made by objects then absent: but this is contrary to experience: therefore. I distinguish the maj.: that there is no sensation on an external occasion (which is what the question concerns), I grant; a merely internal one, I deny, and the conseq.
 
 560 Obj. 5. If our assertion is true, the soul feels at the very point of time at which some change is produced in the sense organ; but this cannot be, if the motion impressed on the sensory nerves must be propagated all the way to the brain in order that the soul may perceive: therefore, etc. The major is evident. For if you turn your closed eyes toward a tree, while you open them the light at once enters the eyes, and at once you see, nor does even the least little delay intervene between the change of the eye and the perception of the soul. The minor, however, is plain, because, since motion takes place in time, some interval of time is necessary for the motion impressed on the little fibers of the retina to be propagated all the way to the brain: therefore, etc. Reply: I distinguish the maj.: the soul feels at the very point of time at which the change takes place in the sense organ, that is, between the motion impressed on the sensory nerves and the perception of the soul no observable delay intervenes, I grant. None absolutely, I deny the maj., and, the min. being distinguished in the same way, I deny the conseq. If motion is propagated through a very small space with great velocity, the time in which it is propagated through that space is not perceived, or is not distinguished, by us. Thus, although it is certain (as we shall see afterwards) that sound is propagated successively and not in an instant, we can nevertheless observe no delay between the moment at which someone very near us speaks and the moment at which his voice reaches our ears. The same is also plain in the propagation of light: as soon as a candle is lit in a dark place, all objects, even distant ones, are at once seen bathed in light, although light cannot be propagated in an instant. Therefore the experiment which is objected to us proves this one thing only, that the motion is transmitted from the sensory nerves to the brain with great velocity.
 
@@ -15786,11 +14746,7 @@ Proof. The quality of a sensible body is placed in that by which
 
 Z2                                               a
 
-(e) Bk. XIV of The City of God, ch. 24.
-
-[p. 178]
-
-a body formally has it that it is fit to be sensible [§. 550]; but from the mechanical
+(e) Bk. XIV of The City of God, ch. 24. [p. 178] a body formally has it that it is fit to be sensible [§. 550]; but from the mechanical
 
 affections of the particles of matter of which it is composed a body has it that it is
 
@@ -15856,11 +14812,7 @@ be held as a fundamental Principle, as it were. The dilatation of a body, and th
 
 ordered motion which is excited in the parts
 
-within
-
-[p. 179]
-
-within it when it conceives heat, are the principal effects of heat, and, as it were, its characteristics. For that expansive and disordered motion of the parts of a body growing hot so depends on the heat by which the body is affected, and follows it in such a way, that it depends on it and follows it no otherwise than an effect depends on its efficient cause and follows it. For when heat is posited in a body, the motion itself is also posited in it; when the former is increased, the latter too is increased; but when it is taken away or diminished, the motion also is either taken away entirely or gradually decreases and is diminished.
+within [p. 179] within it when it conceives heat, are the principal effects of heat, and, as it were, its characteristics. For that expansive and disordered motion of the parts of a body growing hot so depends on the heat by which the body is affected, and follows it in such a way, that it depends on it and follows it no otherwise than an effect depends on its efficient cause and follows it. For when heat is posited in a body, the motion itself is also posited in it; when the former is increased, the latter too is increased; but when it is taken away or diminished, the motion also is either taken away entirely or gradually decreases and is diminished.
 
 570 Heat, therefore, is formally placed in that entity by force of which all bodies are dilated and their internal parts are agitated in a disordered way. Henceforth, then, to speak with the most learned Boerhaave (f), I shall call heat, or fire, that thing which has in itself this property, that it penetrates all bodies, solid and fluid, and by that very fact dilates them into greater spaces. We are not pleased, therefore, with the definition of heat which is handed down by the Peripatetics, namely that heat is that by which homogeneous things are gathered together and heterogeneous things separated. For, as Malebranche excellently observes (g), heat does not gather together the parts of water; rather it dissipates them into vapors. It does not gather together the parts of wine, nor even the parts of quicksilver. On the contrary, it resolves and separates all bodies, solid and fluid, homogeneous and heterogeneous. And if there are some whose parts fire cannot dissipate, this does not happen because they are of the same nature, but because they are too thick and too solid to be carried away by the motion of the parts. Moreover, no heat will be able so to segregate a mass melted together from gold, silver and copper that even the imperfect metals remain apart from the gold and silver; nay, if different portions of gold, silver and copper are contained in a vessel and placed over the fire, after some time they are gathered by the force of heat into one mass. These things laid down,
 
@@ -15872,11 +14824,7 @@ rush,
 
 (f) Elem. Chem., vol. 1, p. 69.
 
-(g) Recherche de la Verité, ch. 5.
-
-[p. 180]
-
-rush, and stir them up with a similar motion. Proof by parts: 1. It is certain that heat is a body, and of such a condition that it can pervade all bodies; but heat, if it is a body, cannot pervade all bodies except insofar as it enters their pores; nor can it enter the pores and diffuse itself through the whole mass of those bodies unless heat is nothing different from corpuscles, as is evident: therefore. Second: there exists absolutely no body in the nature of things so compact that heat cannot enter its pores, as the great Boerhaave testifies (h): therefore the corpuscles of heat are so slight that the same Author, just praised, has rightly said that their subtlety, if it is referred to our imagination, is infinite.
+(g) Recherche de la Verité, ch. 5. [p. 180] rush, and stir them up with a similar motion. Proof by parts: 1. It is certain that heat is a body, and of such a condition that it can pervade all bodies; but heat, if it is a body, cannot pervade all bodies except insofar as it enters their pores; nor can it enter the pores and diffuse itself through the whole mass of those bodies unless heat is nothing different from corpuscles, as is evident: therefore. Second: there exists absolutely no body in the nature of things so compact that heat cannot enter its pores, as the great Boerhaave testifies (h): therefore the corpuscles of heat are so slight that the same Author, just praised, has rightly said that their subtlety, if it is referred to our imagination, is infinite.
 
 573 Third: It is necessary that the particles of heat be moved most swiftly with a disordered and expansive motion. For it is certain that it can in no way come about that by force of heat all bodies are dilated, fluids boil, hard things liquefy, and finally the smallest parts of all things conceive an expansive and disordered motion when they grow hot, unless the extremely slight particles in which heat consists press upon the walls of the pores of the body which they enter, overcome the momentum by which its molecules adhere to one another, and therefore tear them apart and drive them in manifold directions, and at the same time prevent, as long as they are mixed with them, the parts of the body itself from returning to their former contact; but the particles of heat cannot accomplish this unless they are endowed with an expansive and disordered motion, as is self-evident: therefore.
 
@@ -15886,11 +14834,7 @@ rush, and stir them up with a similar motion. Proof by parts: 1. It is certain t
 
 had
 
-(h) Elem. Chem., Tract. de Igne.
-
-[p. 181]
-
-had made it tractable, fly off and cause the other parts, earthy, more tenacious and
+(h) Elem. Chem., Tract. de Igne. [p. 181] had made it tractable, fly off and cause the other parts, earthy, more tenacious and
 
 heavier, to come closer together and become entangled; in wax, on the other hand,
 
@@ -15988,11 +14932,7 @@ I reply
 
 582 Obj. 5.: It is manifest from experience that heat can be excited without any perturbed and expansive motion of the parts, as the author praised above testifies: therefore. Dist. antec.: without motion etc. of the insensible parts, I deny; of the sensible parts, I grant; and I deny the conseq. Heat can be present in a body
 
-without
-
-[p. 183]
-
-without any sensible motion appearing in it, because it can happen that there is not released in that body such a quantity of corpuscles of heat as suffices to agitate its sensible parts in a perturbed way. But there cannot be heat in a body without any motion whatever of the insensible parts, because heat cannot be in it unless those corpuscles in which heat consists are in it and are moved; and surely, since the liquor of a thermometer immersed in those fermentations of which the author speaks rises through several degrees, it remains plain that very fine corpuscles exist in them which, driven into motion, enter the pores of the glass and agitate the contained liquor with an expansive and perturbed motion; unless we wish the liquor itself to be dilated without anything existing to which that dilatation may be ascribed.
+without [p. 183] without any sensible motion appearing in it, because it can happen that there is not released in that body such a quantity of corpuscles of heat as suffices to agitate its sensible parts in a perturbed way. But there cannot be heat in a body without any motion whatever of the insensible parts, because heat cannot be in it unless those corpuscles in which heat consists are in it and are moved; and surely, since the liquor of a thermometer immersed in those fermentations of which the author speaks rises through several degrees, it remains plain that very fine corpuscles exist in them which, driven into motion, enter the pores of the glass and agitate the contained liquor with an expansive and perturbed motion; unless we wish the liquor itself to be dilated without anything existing to which that dilatation may be ascribed.
 
 583 Obj. 6. The north wind is carried with a vehement motion, and yet it is cold: therefore. Secondly: waters in the whirlpools of rivers rush headlong with a perturbed and swift motion; but we observe no heat in them: therefore. To the first I reply that, although the north wind is carried with a vehement motion, yet because it is driven in a straight line it is cold, especially since it brings from the northern regions particles which can check the excited motion of the insensible parts. To the second I say: heat is not observed in the whirlpools of water because the sensible parts of the water are carried off by this motion; but for the nature of heat there is required not merely a vehement and perturbed motion of any parts whatever, but an agitation of very fine and insensible parts, which, carried off above all by the fiery particles, can penetrate other bodies and fibers and stir them with a similar motion.
 
@@ -16000,11 +14940,7 @@ without any sensible motion appearing in it, because it can happen that there is
 
 585 Obj. finally: the white of an egg congeals into a consistent mass by the action of heat: therefore heat does not consist in corpuscles affected with a very swift, perturbed and expansive motion; for it can in no way be conceived how consistency, and hence rest of the parts, could arise from that which is moved most swiftly. Dist. antec.: it congeals in such a way that that consistency is an effect of heat per se, I deny; in such a way that it is an effect of heat per accidens, I grant; and I deny the conseq. The white of an egg acquires consistency not because the nature of heat is of itself able to bestow consistency on bodies, but because the parts of certain bodies are of such a size and figure, and woven together with such artifice, that they cannot be moved by the corpuscles of heat without becoming entangled with one another and congealing into a hard mass. Indeed the very white of the egg,
 
-Aa                                      which
-
-[p. 184]
-
-which at first hardens by the action of heat, is wholly dissolved if the heat itself
+Aa                                      which [p. 184] which at first hardens by the action of heat, is wholly dissolved if the heat itself
 
 is increased: a very strong argument indeed that its consistency comes from
 
@@ -16076,11 +15012,7 @@ be the coldest, and ice itself, from which a cold exhalation bursts forth abun�
 
 dantly, and which is endowed with an intestine motion of its parts,
 
-would
-
-[p. 185]
-
-would not be a supremely cold body. Although, therefore, a body whose parts are at rest is not hot, it is not on that account, by this very fact, to be judged cold.
+would [p. 185] would not be a supremely cold body. Although, therefore, a body whose parts are at rest is not hot, it is not on that account, by this very fact, to be judged cold.
 
 588 I say secondly, with the great Boerhaave (i): cold by no means consists in the mere privation of heat. This is against very many of the Moderns, among whom the distinguished ’s Gravesande is numbered. Prob.: Since water is dilated in congelation [§. 571. ff.], if it passed into ice on account of the withdrawal of heat, the water would be dilated solely on account of that withdrawal; and hence, conversely, it would be condensed by heat, as the hypothesis of our adversaries supposes; we should have to say that water has from the efficient cause by which it is condensed that very thing, namely that it is fluid: but it is against the nature of heat that water affected by it should be reduced to a smaller space than it possesses of itself [§. 567.]: therefore water is not changed into ice for this cause alone, that it is deprived of heat; but it is converted into ice when something is added to it: therefore it does not grow cold through the mere withdrawal of heat, and consequently cold does not consist in the mere privation of heat. Hence, by the very fact that a body is not hot, it cannot be judged cold, unless other things are equal.
 
@@ -16092,11 +15024,7 @@ Aa 2                                corpuscles
 
 (i) Elem. Chem., vol. 1, p. 73.
 
-(k) Elem. Phys., §. 2460 ff.
-
-[p. 186]
-
-corpuscles in which we have said that cold consists. That the nitrous particles hold the chief place is argued by that very intense cold which is produced by means of niter. For the often-praised Musschenbroek found that, when a thermometer made with mercury was immersed in snow onto which spirit of niter had been poured, the mercury descended below the mark that indicates the cold of ice. He found also that very strong spirit of vinegar, immersed in the same snow, passed into ice. But that water does not pass into ice even if niter is added to it, the cause is that, for this to happen, the niter would have to be resolved into its primitive corpuscles; but it cannot be so dissolved by water, as all admit. From this, therefore, it does not follow that niter is not the cause of congelation, nor that cold does not reside chiefly in its particles; since we have placed cold not in any corpuscles whatever, but in the primitive corpuscles of salts.
+(k) Elem. Phys., §. 2460 ff. [p. 186] corpuscles in which we have said that cold consists. That the nitrous particles hold the chief place is argued by that very intense cold which is produced by means of niter. For the often-praised Musschenbroek found that, when a thermometer made with mercury was immersed in snow onto which spirit of niter had been poured, the mercury descended below the mark that indicates the cold of ice. He found also that very strong spirit of vinegar, immersed in the same snow, passed into ice. But that water does not pass into ice even if niter is added to it, the cause is that, for this to happen, the niter would have to be resolved into its primitive corpuscles; but it cannot be so dissolved by water, as all admit. From this, therefore, it does not follow that niter is not the cause of congelation, nor that cold does not reside chiefly in its particles; since we have placed cold not in any corpuscles whatever, but in the primitive corpuscles of salts.
 
 591 Nor can I pass over in silence the celebrated experiment performed by the Florentine Academicians: namely, that just as the heat of a fire, or of the sun, collected in a mirror and reflected onto a nearby thermometer, rarefies the liquor of that same thermometer and forces it to rise higher, so, if ice is substituted in place of the sun, the liquor of the thermometer descends and is condensed; but in the first case, even according to our adversaries, certain corpuscles come out from the fire which rarefy the spirit of wine enclosed in the thermometer: therefore certain corpuscles must come out of the ice which, collected by the mirror, are reflected onto the thermometer and condense its liquor; and consequently cold must not be made to consist only in the absence of heat, as, among others, Mr. de Ratte (l) tries to show, not noticing that the experiments he brings forward to weaken our opinion prove against himself.
 
@@ -16106,11 +15034,7 @@ corpuscles in which we have said that cold consists. That the nitrous particles 
 
 are
 
-(l) L’Encyclopédie, s.v. Froid.
-
-[p. 187]
-
-are dissolved by the summer heat and flow down into the waters of the stream and are mixed with them. Besides what we have said [§. 201] about ice, it must now also be said that water is dilated while it passes into ice because the primitive parts of water are of such a texture that the likewise primitive corpuscles of niter, and of the other salts by which congelation is effected, cannot be mixed intimately with them, as is required for hardening water, without a great effervescence taking place. The expansive force of ice, therefore, says the often-praised Musschenbroek (m), arises from very subtle corpuscles flitting in the atmosphere, mixed with the water, effervescing with it, and fixing it into a firm and solid mass.
+(l) L’Encyclopédie, s.v. Froid. [p. 187] are dissolved by the summer heat and flow down into the waters of the stream and are mixed with them. Besides what we have said [§. 201] about ice, it must now also be said that water is dilated while it passes into ice because the primitive parts of water are of such a texture that the likewise primitive corpuscles of niter, and of the other salts by which congelation is effected, cannot be mixed intimately with them, as is required for hardening water, without a great effervescence taking place. The expansive force of ice, therefore, says the often-praised Musschenbroek (m), arises from very subtle corpuscles flitting in the atmosphere, mixed with the water, effervescing with it, and fixing it into a firm and solid mass.
 
 594 Against our opinion very many arguments are usually opposed, which are easily answered. I shall propose to you only one. Experience shows that water is felt as cold if the heat of the water falls short of that heat by which our sensorium is affected: therefore cold does not consist in frigorific corpuscles, but only in a diminution of heat. I deny the conseq.: For that water appears cold to us which is less hot than the organ of touch, because, since the motion produced in the parts of the water by the corpuscles of heat that are in it is more remiss than that with which the nervous fibers of touch are then endowed, the watery particles themselves, applied to those fibers, retard and stop their motion, and at the same time condense and constrict them; in a word, they excite in them that passion which the sensation of cold in the soul accompanies.
 
@@ -16124,11 +15048,7 @@ very
 
 (n) Praelect. Academ. in suas Instit., on the sense of touch, no. 483.
 
-(o) Bk. 2, De mortibus subitaneis.
-
-[p. 188]
-
-very frequent impediments in the secretions of the humors, and from diminished
+(o) Bk. 2, De mortibus subitaneis. [p. 188] very frequent impediments in the secretions of the humors, and from diminished
 
 or wholly suppressed transpiration there ensue innumerable kinds of diseases, and
 
@@ -16208,11 +15128,7 @@ thermometer.
 
 602 The use of the Barometer lies wholly in this, that it may be recognized day by day how great the gravity of the incumbent atmosphere is. Therefore the higher the mercury has stood in the Barometer, the heavier the atmosphere is to be judged, and the lighter, the lower the mercury has been in it. And today’s gravity of the atmosphere will be to its yesterday’s gravity as today’s height of the mercury in the Barometer is to yesterday’s
 
-height;
-
-[p. 190]
-
-height; so that if, for example, yesterday the mercury remained suspended in the tube
+height; [p. 190] height; so that if, for example, yesterday the mercury remained suspended in the tube
 
 A C of the Barometer (same Fig.) at the height a e, but today it stands suspended in it
 
@@ -16264,11 +15180,7 @@ comfort from the sweet fragrance of damask roses
 
 (q) Praelect. Academ., on smell.
 
-(r) De insig. efficacia effluvior., ch. 6.
-
-[p. 191]
-
-(s). These things, however, and very many others cannot be explained except through a substantial effluvium of the odorous body.
+(r) De insig. efficacia effluvior., ch. 6. [p. 191] (s). These things, however, and very many others cannot be explained except through a substantial effluvium of the odorous body.
 
 604 The second part is proved: for it is established from chemical experiments that only those bodies are odorous which are endowed with a volatile sulphureo-mercurial substance, and that those smell more intensely which abound more in a substance of this kind: therefore. The third part, namely that these particles are configured, is most plainly established. For it is altogether certain that the corpuscles of the odorous effluvium are formally odorous through that by which they can tickle the nervous fibers of smell; but it is established that these nervous fibers are not moved by the corpuscles of the odoriferous effluvium except inasmuch as the corpuscles themselves are endowed with a certain size and affected with a certain figure, since reason demonstrates that a purely mechanical effect, such as that motion of the fibers is, can be ascribed only to a mechanical cause: therefore.
 
@@ -16280,11 +15192,7 @@ Bb                                           about
 
 (s) The most distinguished Fr. Lana Terzi reports many other things in the Magisterium Naturae et Artis (from which, as from a treasury, not a few Physicists have relieved their own poverty: would that they were as dutiful in rendering the author his deserved honor as they are ready to appropriate what belongs to others!)
 
-(t) Loc. cit.
-
-[p. 192]
-
-about the specific difference of smells, only two kinds can be distinguished, namely
+(t) Loc. cit. [p. 192] about the specific difference of smells, only two kinds can be distinguished, namely
 
 the pleasant and the troublesome.
 
@@ -16356,11 +15264,7 @@ help of the saliva. Hence those things are altogether insipid which the teeth ca
 
 grind and the saliva cannot dissolve, such as metals, stones, etc. Observation
 
-third:
-
-[p. 193]
-
-third: although solid bodies are savory, no taste at all is perceived if the tongue is either too dry or swollen with too much moisture. Observation fourth: savory bodies become more savory with heat, but on the contrary become altogether insipid if they grow excessively cold. Things that are very cold, says the most learned Boerhaave, are not tasted, nor does any taste remain when the tongue is exquisitely cold. These things being laid down,
+third: [p. 193] third: although solid bodies are savory, no taste at all is perceived if the tongue is either too dry or swollen with too much moisture. Observation fourth: savory bodies become more savory with heat, but on the contrary become altogether insipid if they grow excessively cold. Things that are very cold, says the most learned Boerhaave, are not tasted, nor does any taste remain when the tongue is exquisitely cold. These things being laid down,
 
 610 I say: Tastes in first act, and as they exist in the body, consist primarily in saline particles of the savory body, affected with a certain size and figure, which, dissolved by the saliva, can pervade the cuticle that clothes the organ of taste and agitate in various ways the nervous papillae protruding beneath it, and pluck, squeeze, prick or soothe them according to their various modification. Prob. by parts. The first, from observation first: for if the taste of bodies did not arise from saline particles, neither would those bodies be insipid which are destitute of salt, nor would those be savory which abound in salt. I said that tastes consist primarily in particles of salt. For there is no doubt that a sulphureous substance too contributes very much to tastes, since experience demonstrates that the force of the saline particles is diminished not a little by sulphur: hence it is brought about by it that the organ of taste is not always changed in the same way by the saline corpuscles.
 
@@ -16372,11 +15276,7 @@ Sharp, and Insipid, Austere, Harsh, Bitter. Some hold that Insipid is not proper
 
 612 The conclusion is confirmed: on our opinion a reason is given for those things which we observed about tastes at the threshold. First: the taste of a consistent body is not perceived unless the body itself is ground by the teeth and dissolved by the saliva. For the saline particles of a body cannot change the organ of taste unless they are separated from those with which they are mixed in the body itself, and are so dissolved by the saliva that they can enter the pores of the tongue. Secondly: the taste of no solid body is felt if the tongue is too dry or swollen with too much moisture. For when moisture is lacking, the menstruum is wanting by which the saline substance of the body
 
-Bb 2                                   may
-
-[p. 194]
-
-may be dissolved and conducted to the organ of taste. But excessive moisture dimin‐
+Bb 2                                   may [p. 194] may be dissolved and conducted to the organ of taste. But excessive moisture dimin‐
 
 ishes the ratio of the dissolved body to the dissolving vehicle, and therefore little or
 
@@ -16446,11 +15346,7 @@ ing established,
 
 tremulous motion of the smallest parts of the sonorous body;
 
-but
-
-[p. 195]
-
-but as it is in the medium through which it is transmitted, and hence derivative sound, it is placed chiefly in a tremulous motion of the air, which arises from the tremor and quivering of sounding bodies and is propagated all the way to the organ of hearing. The first part is demonstrated. Only those bodies are sonorous which, when struck or vibrated, take on a tremor, and hence which consist of elastic parts fit for performing very swift vibrations; but by that very fact primitive sound consists in a tremulous motion of the smallest parts of the sonorous body: therefore. The major is established, since we have found by experiments that those bodies which are more elastic, and hence fitter for tremulous motion, are also more sonorous. Thus, because tin is stiffer than lead, silver more than gold, steel than iron, for that reason the one is more sonorous than the other; and it is commonly known that bodies consisting of excessively flexible parts are destitute of sound. Moreover: we know that bells, by the mere contact of a hand applied while they are sounding, give back a diminished sound, because the tremulous motion is in some part impeded.
+but [p. 195] but as it is in the medium through which it is transmitted, and hence derivative sound, it is placed chiefly in a tremulous motion of the air, which arises from the tremor and quivering of sounding bodies and is propagated all the way to the organ of hearing. The first part is demonstrated. Only those bodies are sonorous which, when struck or vibrated, take on a tremor, and hence which consist of elastic parts fit for performing very swift vibrations; but by that very fact primitive sound consists in a tremulous motion of the smallest parts of the sonorous body: therefore. The major is established, since we have found by experiments that those bodies which are more elastic, and hence fitter for tremulous motion, are also more sonorous. Thus, because tin is stiffer than lead, silver more than gold, steel than iron, for that reason the one is more sonorous than the other; and it is commonly known that bodies consisting of excessively flexible parts are destitute of sound. Moreover: we know that bells, by the mere contact of a hand applied while they are sounding, give back a diminished sound, because the tremulous motion is in some part impeded.
 
 616 The second part is proved: namely, that bodies are not sonorous through a tremor, or vibrations, that are total, but through particular ones, that is, through a tremulous motion of small parts; which the distinguished men Perrault (u), Carré (x) and de La Hire (y) discovered, whereas formerly bodies were thought to be sonorous through total vibrations. The thing is proved by common experiments. I shall use only two. If a musical string is struck rather vehemently with a bow greased with tallow, even though total vibrations are bound to occur, it gives no sound; but if a bow made rough with pitch or resin is drawn over the same string, a sound is clearly perceived: but no other reason can be given for this than that the bow coated with resin is roughened and as it were obtains little teeth, with which it rubs and agitates the smallest parts of the string, which the bow made slippery with tallow cannot graze: therefore. Secondly: if the ends of a pair of flexible, elastic fire tongs, pressed together by the fingers, are suddenly released, either no sound is heard or a moderate one, although the arms of the tongs are set into a vibratory motion by their elasticity; yet they sound clearly if they are struck with a hard body: therefore the tremulous motion of small parts produces primitive sound.
 
@@ -16462,11 +15358,7 @@ is
 
 (x) Mémoires de l’Académie, 1709.
 
-(y) Mémoires de l’Académie, 1716.
-
-[p. 196]
-
-is above all the air is plain, first, from its nature: for since it is endowed with a notable elasticity, it has the aptitude that its particles nearest the sonorous body are repelled by the small vibrated parts of that body, and these urge others, and still others more remote, until at length an impression is made on the organ itself and the sound is perceived; next, the same is clear from the fact that no sound is perceived when the air is removed: therefore derivative sound, etc.
+(y) Mémoires de l’Académie, 1716. [p. 196] is above all the air is plain, first, from its nature: for since it is endowed with a notable elasticity, it has the aptitude that its particles nearest the sonorous body are repelled by the small vibrated parts of that body, and these urge others, and still others more remote, until at length an impression is made on the organ itself and the sound is perceived; next, the same is clear from the fact that no sound is perceived when the air is removed: therefore derivative sound, etc.
 
 618 We have said that derivative sound is placed in the tremulous motion chiefly of aerial particles: for that air is not the only medium through which sound is transferred, very many experiments made by Mr. Nollet (z) and others clearly prove. Thus water seems a body quite fit for taking on a tremulous motion, since experience testifies that fish in fishponds are very often called together by the sound of a bell to food prepared for them.
 
@@ -16574,11 +15466,7 @@ time
 
 (c) In the Phonurgia.
 
-(d) Phys. Elect., vol. 1, p. 659 ff.
-
-[p. 199]
-
-time perceive different sounds, as of voices, bells, etc.; but this is contrary to experience: therefore. Proof of the major: the air cannot be set in motion at the same time by different motions together; and the same must be said of the drum of the ear. I reply by denying the proposition. For the tremulous motion of the air also consists of its own small motions; hence, when the alternating percussions of different bodies are communicated to the same organ, the air can be stirred by different motions in the same sensible time; and the same must be said of the drum of the ear, and consequently different sounds can be perceived in the same sensible time.
+(d) Phys. Elect., vol. 1, p. 659 ff. [p. 199] time perceive different sounds, as of voices, bells, etc.; but this is contrary to experience: therefore. Proof of the major: the air cannot be set in motion at the same time by different motions together; and the same must be said of the drum of the ear. I reply by denying the proposition. For the tremulous motion of the air also consists of its own small motions; hence, when the alternating percussions of different bodies are communicated to the same organ, the air can be stirred by different motions in the same sensible time; and the same must be said of the drum of the ear, and consequently different sounds can be perceived in the same sensible time.
 
 630 You have an example in standing water: if you throw little stones into different parts of it at the same time, you will surely see the whole of it ruffled into swelling ripples in the manner of a circle, which, continually spreading themselves out, intersect one another without any disturbance whatever. Likewise, therefore, in our case the vibrations excited by different sounding bodies run all the way to the ear without any disturbance, and affect it in different ways, whence it comes about that different sounds are perceived at the same time.
 
@@ -16588,11 +15476,7 @@ time perceive different sounds, as of voices, bells, etc.; but this is contrary 
 
 633 For just as the crystalline lens receives the rays of light in such a way that by the force of its convexity it projects them onto the base of the retina with due distinctness, and to accomplish this changes its convexity to greater or smaller according to the different falling-in and different incidence of the rays: so also the drum of the ear is so constituted that, according to the different falling-in of the vibrating air, it now increases its tension, now diminishes it; so that, just as the crystalline lens increases or diminishes its convexity by
 
-Cc                                 expanding
-
-[p. 200]
-
-or contracting itself through the action of a most delicate muscle, so also the drum
+Cc                                 expanding [p. 200] or contracting itself through the action of a most delicate muscle, so also the drum
 
 of the ear increases or diminishes its tension through the action of a twin muscle, by
 
@@ -16650,11 +15534,7 @@ rightly made to consist in a certain most agitated motion of the subtle parts of
 
 body. Proof: primitive light is rightly made to consist in that
 
-which
-
-[p. 201]
-
-which is always joined with light itself in a body, and on which light so depends that, when it is posited in bodies, light is at once had in them and they are made luminous, whereas when it is taken away light straightway perishes; but always joined with light is a most agitated motion of the subtle parts of the body, so that there is no luminous body in which a motion of this kind is not detected; and as soon as the subtler parts of bodies are driven into agitated motion, light is emitted by them, but it is extinguished as soon as the agitated parts are brought back to rest: therefore primitive light consists in a certain most agitated motion of the subtle parts of a body. The minor is demonstrated part by part most plainly.
+which [p. 201] which is always joined with light itself in a body, and on which light so depends that, when it is posited in bodies, light is at once had in them and they are made luminous, whereas when it is taken away light straightway perishes; but always joined with light is a most agitated motion of the subtle parts of the body, so that there is no luminous body in which a motion of this kind is not detected; and as soon as the subtler parts of bodies are driven into agitated motion, light is emitted by them, but it is extinguished as soon as the agitated parts are brought back to rest: therefore primitive light consists in a certain most agitated motion of the subtle parts of a body. The minor is demonstrated part by part most plainly.
 
 637 And as to the first part, namely that all luminous bodies are endowed with such a motion, it is altogether most certain. For in flame and in burning coals a vehement motion of the parts is visible; likewise that putrefying bodies, putrid fish, wood corrupted by rot, which emit light, are agitated by an intestine motion of the parts is manifest from what has been said elsewhere, since fermentation and putrefaction cannot be explained without motion and agitation of the parts. The other part too is clear, namely that bodies emit light as soon as their subtler particles are set in motion.
 
@@ -16666,11 +15546,7 @@ which is always joined with light itself in a body, and on which light so depend
 
 Cc 2                                evident
 
-(e) Opticks, query 9.
-
-[p. 202]
-
-evident from this, that it shares in the affections of a body: for, first, while it passes from one medium into another, it is refracted. Second: falling upon an opaque surface, it is reflected toward the opposite side. Third: propagated light can be gathered and, as it were, condensed into one point, if it is received by a concave mirror or a convex lens, in the point which they call the focus, in which it produces a heat so intense that it sets on fire, after a few minutes, any combustible bodies placed in that spot, melts and dissolves metals and all fusible things, and turns into glass those which are least liable to liquefaction and abound in salt, as may be seen in the Acta Eruditorum of Leipzig (f), where a great many things are related of the concave mirror which, from its inventor D. Tschirnhaus, is called the Tschirnhausian. (g)
+(e) Opticks, query 9. [p. 202] evident from this, that it shares in the affections of a body: for, first, while it passes from one medium into another, it is refracted. Second: falling upon an opaque surface, it is reflected toward the opposite side. Third: propagated light can be gathered and, as it were, condensed into one point, if it is received by a concave mirror or a convex lens, in the point which they call the focus, in which it produces a heat so intense that it sets on fire, after a few minutes, any combustible bodies placed in that spot, melts and dissolves metals and all fusible things, and turns into glass those which are least liable to liquefaction and abound in salt, as may be seen in the Acta Eruditorum of Leipzig (f), where a great many things are related of the concave mirror which, from its inventor D. Tschirnhaus, is called the Tschirnhausian. (g)
 
 641 Fourth: light strikes the organ of sight, and by its abundance or vehemence (just as an excessive crash offends the ear) it disturbs it, nay hurts it greatly; but all these things manifestly prove a corporeal, or impenetrable, substance: therefore. And indeed, as the distinguished Gassendi argues very well (h), just as a ball driven against a wall rebounds from it, because, since it is a body, it cannot pass through a place occupied by a body, so a ray of light driven against a body is struck back by it, because that body occupies the place with its bulk; for it is a constant rule that natural effects of the same kind have the same causes, as we have said [§. 22.]. Next, that it is a most subtle substance is evident from this, that it enters the pores of glass most easily. What of the fact that the structure of the tiniest animalcules demonstrates the tenuity of light? For if the animalcules themselves, as we have already said [§. 164.], are of such tenuity, if their eyes and the pupils of them are of so slight a bulk, how much smaller must the matter of light be, so that it may glide into the eyes and the pupil and easily permeate these organs?
 
@@ -16694,11 +15570,7 @@ That
 
 646 But against this, argues the most distinguished Fortunato da Brescia: for no projected body needs the presence of the projector in order to persevere in the motion that it received from it; but it goes on being moved even if the projector
 
-fails
-
-[p. 204]
-
-fails after impressing the motion on it: therefore neither do the corpuscles of light need the presence of the luminous body, lest the motion which they received from it should perish in them. Moreover, neither the corpuscles of sound nor those of odor so depend on the sounding or odorous body from which they emanate that they can be moved, and excite sensation in us, only in its presence: therefore neither do the corpuscles of light so depend on the luminous body that they should come to a halt in their motion and be rendered wholly unfit for exciting the sensation of light in us as soon as the luminous body is no longer present to us.
+fails [p. 204] fails after impressing the motion on it: therefore neither do the corpuscles of light need the presence of the luminous body, lest the motion which they received from it should perish in them. Moreover, neither the corpuscles of sound nor those of odor so depend on the sounding or odorous body from which they emanate that they can be moved, and excite sensation in us, only in its presence: therefore neither do the corpuscles of light so depend on the luminous body that they should come to a halt in their motion and be rendered wholly unfit for exciting the sensation of light in us as soon as the luminous body is no longer present to us.
 
 647 But if someone should say that the corpuscles of sound can be moved even when the sounding body from which they were emitted is absent, because their motion is perturbed and spreads through the air in every direction, whereas the corpuscles of light can be moved only when the luminous body by which they were darted forth is present, because their motion is rectilinear: against this it is urged that, just as the perturbed motion of corpuscles does not need, in order to be preserved, the presence of a body moving them in a perturbed way, so neither should the rectilinear motion of corpuscles need, lest it perish, the presence of a body vibrating them along a straight line. For the reason of each motion is altogether the same, namely the independence of the body moved from the mover, so that it retains the motion it has once received, whatever that motion may be. Nay, so far is the duration of a rectilinear motion once impressed on a body from depending on the duration of the mover, that among the laws of nature this is one: every body once set in motion is always moved along a straight line, so long as it is not compelled by some external cause to change its direction [§. 294.].
 
@@ -16712,11 +15584,7 @@ that
 
 (k) Elem. Phys. §. 2155.
 
-(l) Comment. in Exp. Acad. del Cimento, pt. 2, p. 184.
-
-[p. 205]
-
-that it needs the space of some hours in order to reach Saturn from the sun, and then
+(l) Comment. in Exp. Acad. del Cimento, pt. 2, p. 184. [p. 205] that it needs the space of some hours in order to reach Saturn from the sun, and then
 
 us from Saturn, and the space of some months in order to be propagated from the
 
@@ -16800,11 +15668,7 @@ sound rebound like a ball when an Echo occurs, and yet those aerial particles in
 
 tremor
 
-sound
-
-[p. 206]
-
-sound consists, even according to the Peripatetics, are corporeal, and it is certain that sound is reflected because those particles are corporeal: therefore light too is reflected not metaphorically, but truly and properly, even though it does not rebound like a ball from a wall.
+sound [p. 206] sound consists, even according to the Peripatetics, are corporeal, and it is certain that sound is reflected because those particles are corporeal: therefore light too is reflected not metaphorically, but truly and properly, even though it does not rebound like a ball from a wall.
 
 653 Obj. 3: the particles of light are most tenuous: therefore they cannot meet with [such resistance] that they can be reflected and refracted: for since light […] in […]: therefore refraction is said of light only metaphorically. I deny the consequence. For just as […] the tenuity of the particles of light, and […] by motion […], since among them they can […] and be reflected, since […] than they are impelled by the luminous body […]. For since those particles are corporeal, […] no one fails to see that there can be in them the texture in which the […] of bodies is placed, and on which their […] depends.
 
@@ -16826,11 +15690,7 @@ I distinguish the major: it is compenetrated in such a way that it truly enters 
 
 659 You will say: these reasons have no weight, since it is certain that no body is wholly porous, that none can […]
 
-Dd
-
-[p. 208]
-
-[…] be called, just as on the contrary the whole body is called diaphanous […]. But against this: for it is asserted gratuitously and without foundation that the whole glass is diaphanous. For since, as every new experiment plainly demonstrates, […] light […] innumerable […] it is evident that light does not so pervade the whole glass that nothing […] to which light denies passage.
+Dd [p. 208] […] be called, just as on the contrary the whole body is called diaphanous […]. But against this: for it is asserted gratuitously and without foundation that the whole glass is diaphanous. For since, as every new experiment plainly demonstrates, […] light […] innumerable […] it is evident that light does not so pervade the whole glass that nothing […] to which light denies passage.
 
 660 You will say: the whole glass is denominated luminous, just as the whole […] is said to receive light, which is by no means affirmed of a sieve pierced with very small holes, whose parts are not diaphanous, but receive light only through the holes. But I reply very easily: the whole glass is called luminous because both its pores, through which light passes, and the very particles which bound them and […] reflect it, are of so small a magnitude that they altogether escape the senses. But in a sieve the matter stands the other way. For however many the holes may be which […] light in it, and give it passage, they are nevertheless far […], just as also the parts in it […] by which the incident rays of light are sent back to us.
 
@@ -16912,11 +15772,7 @@ are equal to each other.
 
 ing through different
 
-Dd 2                                   media,
-
-[p. 210]
-
-media, from the direction which it had. This deviation has no place where the ray falls along the perpendicular; rather, obliquity of incidence is required. It is helpful to recall what we have said of the refraction of motion. The universal principle of the refraction of the rays of light is this: Light passing obliquely from a rarer medium into a denser one, namely from air into water or glass, is refracted by approaching the perpendicular: but passing from a denser medium into a rarer one, namely from glass or water into air, it is refracted by receding from the perpendicular line.
+Dd 2                                   media, [p. 210] media, from the direction which it had. This deviation has no place where the ray falls along the perpendicular; rather, obliquity of incidence is required. It is helpful to recall what we have said of the refraction of motion. The universal principle of the refraction of the rays of light is this: Light passing obliquely from a rarer medium into a denser one, namely from air into water or glass, is refracted by approaching the perpendicular: but passing from a denser medium into a rarer one, namely from glass or water into air, it is refracted by receding from the perpendicular line.
 
 667 Proof of the first part. Let there be a glass vessel with a flat bottom D F H E (Fig. LXVI), covered with an opaque plate very finely perforated at B. Let a ray of light A B enter the vessel itself through the hole B. It is ascertained by experience that, while the vessel is filled with air alone, the ray A B proceeds straight to b, but on the contrary goes on to a if, the position of the vessel remaining entirely the same, the vessel itself is filled with water. Therefore the ray A B approaches the perpendicular B e while it passes obliquely from air into water. As to the second part, the matter is very well known: a coin A (Fig. LXVII.) placed on the bottom of the vessel C A B is seen from the spot a if the vessel is filled with water, but cannot be seen from the same spot if the vessel itself is full of air alone. The ray A B, therefore, breaking out of the vessel full of water, turns aside from the straight path and is therefore refracted by receding from the perpendicular B E while it passes from water into air: therefore light, etc.
 
@@ -16998,11 +15854,7 @@ another plano-convex, which is bounded by one plane surface and the other convex
 
 A concavo-concave glass is that each of whose surfaces shows a cavity;
 
-a
-
-[p. 212]
-
-a plano-concave one, one of whose surfaces is plane, while the other presents a cavity. Finally, a glass concave on one side and convex on the other is called a meniscus.
+a [p. 212] a plano-concave one, one of whose surfaces is plane, while the other presents a cavity. Finally, a glass concave on one side and convex on the other is called a meniscus.
 
 674 It is the task of Dioptrics to contemplate all these things distinctly, to examine the properties of the different media, and to form from glasses, having obtained either a convex or a concave form, telescopes, microscopes and spectacles, by all of which our sight is wonderfully helped, whether for the viewing of remote things, or for detecting the more minute secrets of nature, or for discerning more easily and better any new bodies whatever. We shall touch on a few things.
 
@@ -17102,11 +15954,7 @@ doubtful credit, and fables, intrude themselves here, and very many things are
 
 narrated
 
-which,
-
-[p. 251]
-
-which, if we consult experience and investigate everything most accurately, we shall find for certain either not to be so at all, or never to happen in the way in which they are reported. This having been noted,
+which, [p. 251] which, if we consult experience and investigate everything most accurately, we shall find for certain either not to be so at all, or never to happen in the way in which they are reported. This having been noted,
 
 685 I say first: Sympathy, Antipathy, Idiosyncrasy and Antiperistasis are rightly attributed to substantial outflows, and to the motion, rest, figure and situation of the parts, and to other mechanical affections; likewise to custom, to manners, to temperament, or to imagination. Proof, part by part. First, by explaining sympathetic effects most clearly from the said principles. Thus, for example, the powder from calcined vitriol which is called sympathetic, and which, when thrown into blood freshly let out of a wound, is found to stop its flow and to heal the wound, will be conceived to produce this effect in no other way than through the corpuscles of the vitriol, which, mixed with the still warm particles of the blood and set into fermentation together with them, are carried to the wound from which the blood was pressed out (just as transpiration takes place), and indeed, like wedges, entirely block up the open passages through which the blood flows forth.
 
@@ -17116,11 +15964,7 @@ which, if we consult experience and investigate everything most accurately, we s
 
 Ee                               having
 
-(t) In a special dissertation on the herb mimosa.
-
-[p. 216]
-
-having, namely, first set out the anatomy of this kind of plant, having noted the reticular composition of the leaves out of fibers, utricles, small vessels and little vesicles swollen with air of various kinds, and having weighed the equilibrium of the sap-bearing vessels and of the tracheae, he illustrates the matter: namely, when a hand approaches, the air contained in the vesicles is rarefied and expanded by the warm exhalations emitted, hence the sap-bearing vessels are in some measure compressed; when these are compressed, the more abundant inflow of the sap, from which the leaves obtained their vigor and extension, is checked, whence the leaves grow pale, become flaccid and contract. When the hand is then withdrawn, it is no wonder that the vigor of the herb is restored, since, the cause of the expansion ceasing, the rarefaction of the air is overcome by the sap flowing in through the vessels.
+(t) In a special dissertation on the herb mimosa. [p. 216] having, namely, first set out the anatomy of this kind of plant, having noted the reticular composition of the leaves out of fibers, utricles, small vessels and little vesicles swollen with air of various kinds, and having weighed the equilibrium of the sap-bearing vessels and of the tracheae, he illustrates the matter: namely, when a hand approaches, the air contained in the vesicles is rarefied and expanded by the warm exhalations emitted, hence the sap-bearing vessels are in some measure compressed; when these are compressed, the more abundant inflow of the sap, from which the leaves obtained their vigor and extension, is checked, whence the leaves grow pale, become flaccid and contract. When the hand is then withdrawn, it is no wonder that the vigor of the herb is restored, since, the cause of the expansion ceasing, the rarefaction of the air is overcome by the sap flowing in through the vessels.
 
 688 The chief reason of idiosyncrasies lies in this, that, owing to a singular disposition, constitution and likeness of the organs, and above all a more tender, softer, looser or more rigid etc. constitution of the nervous fibers, certain impressions affect the mind, and according as they are either agreeable or adverse to the mind, it is affected in various ways, either calmly, or unpleasantly, or impetuously; whence there follow determinate motions of the common sensorium and of the nerves which are stretched out and distributed from there to the parts and through them. It is accordingly explained why certain men fear cats, dogs, mice, and shudder at and abominate other animals, and grow pale and tremble even at their name.
 
@@ -17130,11 +15974,7 @@ having, namely, first set out the anatomy of this kind of plant, having noted th
 
 691 Those effects which are attributed by the Peripatetics to Antiperistasis as to an occult quality can just as well be explained by mechanical affections, without that metaphorical battle of qualities: as, for instance, that underground places are colder in summer than in winter. And indeed the experiments which, for the proof of this occult quality,
 
-are
-
-[p. 217]
-
-are adduced either arise from the deception of the senses or are insufficient to estab‐
+are [p. 217] are adduced either arise from the deception of the senses or are insufficient to estab‐
 
 lish that quality. For the same place, though equally tempered, seems to the judgment
 
@@ -17198,11 +16038,7 @@ Ee 2                                  I say
 
 (y) Mag. Nat. & Art. vol. 3.
 
-(z) In Magia Univers. and in Mag. Sympath.
-
-[p. 228]
-
-which the solar rays undergo, by far the greatest, while they pass through the exceed‐
+(z) In Magia Univers. and in Mag. Sympath. [p. 228] which the solar rays undergo, by far the greatest, while they pass through the exceed‐
 
 ingly dense atmosphere of those places; whence it comes about that the Sun seems to
 
@@ -17272,11 +16108,7 @@ ered by Galileo, and at length Saturn with its two attendants; finally
 
 he
 
-(d) Elem. Geograph. §. 131.
-
-[p. 219]
-
-he added on top of all these the firmament, concentric with the earth.
+(d) Elem. Geograph. §. 131. [p. 219] he added on top of all these the firmament, concentric with the earth.
 
 735 III. The Copernican system took its name from Nicolaus Copernicus, after the thirty years’ study which he spent on illustrating this hypothesis. According to it the Sun is set immobile in the center of the world; he holds that around it Mercury moves nearest, then Venus, next the Earth with the Moon circling about it, afterwards Mars, then Jupiter, and finally that Saturn revolves; beyond all the Planets, and indeed at an almost immense distance, he places the Sphere of the fixed Stars, wholly destitute of all motion. To the single Planets, the Sun alone excepted, which he therefore strikes out of the number of the Planets, he assigns a periodic motion, namely under the Zodiac, following the series of the signs.
 
@@ -17286,11 +16118,7 @@ he added on top of all these the firmament, concentric with the earth.
 
 Chapter
 
-(e) Praelect. Theolog. vol. 1, Praelect. 1, On the Workmanship of the World, p. 130, Venice edition, year 1742.
-
-[p. 220]
-
-rarefying it too much, or dissolving its natural mixture, exciting a malignant fermentation in it, or constricting too much, condensing the parts, and hence restraining their vigor and natural actions.
+(e) Praelect. Theolog. vol. 1, Praelect. 1, On the Workmanship of the World, p. 130, Venice edition, year 1742. [p. 220] rarefying it too much, or dissolving its natural mixture, exciting a malignant fermentation in it, or constricting too much, condensing the parts, and hence restraining their vigor and natural actions.
 
 704 Monkshood, by excessive heat, thins and agitates the blood with which it is mixed, and burns up the delicate substance of the viscera; water hemlock, on the other hand, by excessive cold gradually halts the particles of the blood in the finer and extreme veins, so that there it grows torpid as though congealed; then, as these approach the heart little by little with rest and cold, it renders the blood stagnant in the heart itself, whence death follows. We omit what they say of the basilisk, namely that its look is deadly, and likewise of the remora, the little fish that holds ships back, things which indeed are reckoned among old wives’ tales by critics of better note. The motions, however, which are excited in certain men by the bite of the tarantula (which is a species of spider well known in Calabria near Tarentum), we shall explain later.
 
@@ -17300,11 +16128,7 @@ rarefying it too much, or dissolving its natural mixture, exciting a malignant f
 
 707 Nor is it to be wondered at that a particular musical harmony, as Fr. Schott notes, is demanded to cure each person so affected. For since the animal spirits, fibers, nerves and poisonous particles have a different consistency and size in different men, a different harmonic conformation too is required to move the spirits, fibers and nerves, and hence to dissipate the poison by agitation,
 
-and
-
-[p. 221]
-
-leaping. Whoever desires more on this subject should consult the learned volumes of
+and [p. 221] leaping. Whoever desires more on this subject should consult the learned volumes of
 
 the more recent Physicians; among these the works of the distinguished Herman
 
@@ -17444,11 +16268,7 @@ Tropics, and as many polar circles. All are divided into 360 parts equal among t
 
 selves, or degrees;
 
-these
-
-[p. 223]
-
-these in turn into 60 others, which are called minutes. Besides, certain points in the circuit of the whole sphere are usually considered and called cardinal. We shall go through the notions of all of these distinctly, one by one.
+these [p. 223] these in turn into 60 others, which are called minutes. Besides, certain points in the circuit of the whole sphere are usually considered and called cardinal. We shall go through the notions of all of these distinctly, one by one.
 
 715 The Pole indicates the point of the world’s axis around which, itself wholly unmoved, the machine of the universe is turned. There are two such points, or poles: one the Arctic, which is also called Boreal and Aquilonian from the wind that blows from there. The other is called the Antarctic, and is also named Meridional, or Austral. Both are counted in the first place among the cardinal points.
 
@@ -17458,11 +16278,7 @@ these in turn into 60 others, which are called minutes. Besides, certain points 
 
 718 The uses of the horizon are these. I. It distributes the world-sphere into two parts, and the rational horizon indeed into equal ones, or hemispheres:
 
-Ff                                        the
-
-[p. 224]
-
-the upper, which rises above the rational horizon, and the lower, which lies beneath that same horizon; the sensible horizon, on the other hand, distinguishes the part of the Heaven visible to us from the invisible. II. It determines the risings and settings of the stars. III. It designates, for each particular region, the stars that never rise or never set. IV. It defines the length of the artificial day and of the night: for that interval during which the Sun remains above the horizon is called the artificial day, as the night is taken to be this space during which it is depressed below the horizon. V. It is the boundary from which the altitude of the Stars is found: for the altitude of a star above the horizon is as great as the arc of the circle drawn through the poles of the horizon and the very center of the Star, comprehended between that center and the point of the horizon. The same holds of the depth of the Stars which they have below the horizon. VI. The Horizon, according to the different position of the sphere, makes it now right, now parallel, now oblique. This circle is not usually marked on Geographical Maps. In the armillary Sphere its office is performed by a broad and immovable rim, on which three things are inscribed: namely the degrees which the Sun runs through in the Zodiac, the old and the new Calendar, and the cardinal points of the winds.
+Ff                                        the [p. 224] the upper, which rises above the rational horizon, and the lower, which lies beneath that same horizon; the sensible horizon, on the other hand, distinguishes the part of the Heaven visible to us from the invisible. II. It determines the risings and settings of the stars. III. It designates, for each particular region, the stars that never rise or never set. IV. It defines the length of the artificial day and of the night: for that interval during which the Sun remains above the horizon is called the artificial day, as the night is taken to be this space during which it is depressed below the horizon. V. It is the boundary from which the altitude of the Stars is found: for the altitude of a star above the horizon is as great as the arc of the circle drawn through the poles of the horizon and the very center of the Star, comprehended between that center and the point of the horizon. The same holds of the depth of the Stars which they have below the horizon. VI. The Horizon, according to the different position of the sphere, makes it now right, now parallel, now oblique. This circle is not usually marked on Geographical Maps. In the armillary Sphere its office is performed by a broad and immovable rim, on which three things are inscribed: namely the degrees which the Sun runs through in the Zodiac, the old and the new Calendar, and the cardinal points of the winds.
 
 719 The Zodiac is the circle under which the Planets are perpetually moved, and which cuts the equator at oblique angles in two opposite, equinoctial points, while in two others, likewise diametrically opposite, the solstitial, it touches the tropics: the summer tropic at the beginning of Cancer, the winter one at the beginning of Capricorn; its poles are therefore distant from the poles of the world and of the equator itself by a space of about 23 degrees and 30 minutes (c).
 
@@ -17500,11 +16316,7 @@ Ff 2                                       723
 
 727 The Polar circles are twin, likewise lesser circles; they have their name from the poles toward which they are moved, the one being of the arctic, the other of the antarctic, yet as far
 
-removed
-
-[p. 227]
-
-removed from these as the tropics are from the equator, namely 23 deg., about 30
+removed [p. 227] removed from these as the tropics are from the equator, namely 23 deg., about 30
 
 first min. These circles, together with the tropics and the equator itself, are common‐
 
@@ -17576,11 +16388,7 @@ by the space of six months, yet for them the day is extended longer, while the n
 
 on the contrary diminished, namely on account of the very refraction
 
-which
-
-[p. 228]
-
-which the solar rays undergo, by far the greatest, while they pass through the exceed‐
+which [p. 228] which the solar rays undergo, by far the greatest, while they pass through the exceed‐
 
 ingly dense atmosphere of those places; whence it comes about that the Sun seems to
 
@@ -17650,11 +16458,7 @@ ered by Galileo, and at length Saturn with its two attendants; finally
 
 he
 
-(d) Elem. Geograph. §. 131.
-
-[p. 219]
-
-he added on top of all these the firmament, concentric with the earth.
+(d) Elem. Geograph. §. 131. [p. 219] he added on top of all these the firmament, concentric with the earth.
 
 735 III. The Copernican system took its name from Nicolaus Copernicus, after the thirty years’ study which he spent on illustrating this hypothesis. According to it the Sun is set immobile in the center of the world; he holds that around it Mercury moves nearest, then Venus, next the Earth with the Moon circling about it, afterwards Mars, then Jupiter, and finally that Saturn revolves; beyond all the Planets, and indeed at an almost immense distance, he places the Sphere of the fixed Stars, wholly destitute of all motion. To the single Planets, the Sun alone excepted, which he therefore strikes out of the number of the Planets, he assigns a periodic motion, namely under the Zodiac, following the series of the signs.
 
@@ -17736,11 +16540,7 @@ than
 
 (g) The orbit of a Planet is the name given to that curved line, returning into itself, which it de‐
 
-scribes in its periodic motion.
-
-[p. 231]
-
-than the Tychonic does; for in the latter all the globes contained in the celestial spaces, the terraqueous one excepted, are set in motion, and indeed in such a way that each completes its circuit in the interval of 24 hours, so that for that reason they must be moved with an almost incredible velocity: therefore the Copernican hypothesis is to be preferred (Ax. II, §. 32).
+scribes in its periodic motion. [p. 231] than the Tychonic does; for in the latter all the globes contained in the celestial spaces, the terraqueous one excepted, are set in motion, and indeed in such a way that each completes its circuit in the interval of 24 hours, so that for that reason they must be moved with an almost incredible velocity: therefore the Copernican hypothesis is to be preferred (Ax. II, §. 32).
 
 741 For this reason it is much easier, and much more apt, for Astronomical observations and for constructing demonstrations: so that the Tychonian Astronomers too make use of the Copernican hypothesis to complete their observations and to carry out the construction of their tables. Nay, as the most distinguished Serry observes (h), it was once adopted by the Church herself for the emendation of the Roman Calendar.
 
@@ -17756,11 +16556,7 @@ Gg                                                and
 
 (h) In the place cited above.
 
-(i) Aeneid, bk. III, v. 72.
-
-[p. 232]
-
-and according to appearance. They answer that Divine Scripture tempers itself to the capacity of the common people. The reason they give for asserting this is that “God (as the distinguished Muratori says (k)), speaking through his Scriptures, did not have this aim, to feed men’s vain curiosity about things not necessary to know, about the elements of the world and about bodies, but to hand down things truly useful for attaining eternal happiness. For He does not speak in the learned words of human wisdom, but lowers Himself to the use of those expressions which, although they are recognized as less accurate and as improper when weighed in the balance of human wisdom, yet set forth some useful and salutary truth more conveniently to an unlearned people.” For the rest, they profess that they do not wish to depart from the common ways of speaking, and that they will speak in accommodation to what appears by the testimony of the senses: The Sun rises; it is raised to the point of midday; it declines toward the West, etc.
+(i) Aeneid, bk. III, v. 72. [p. 232] and according to appearance. They answer that Divine Scripture tempers itself to the capacity of the common people. The reason they give for asserting this is that “God (as the distinguished Muratori says (k)), speaking through his Scriptures, did not have this aim, to feed men’s vain curiosity about things not necessary to know, about the elements of the world and about bodies, but to hand down things truly useful for attaining eternal happiness. For He does not speak in the learned words of human wisdom, but lowers Himself to the use of those expressions which, although they are recognized as less accurate and as improper when weighed in the balance of human wisdom, yet set forth some useful and salutary truth more conveniently to an unlearned people.” For the rest, they profess that they do not wish to depart from the common ways of speaking, and that they will speak in accommodation to what appears by the testimony of the senses: The Sun rises; it is raised to the point of midday; it declines toward the West, etc.
 
 746 The distinguished Theologian Hyacinthe Serry too, after adducing the testimonies of Sacred Letters cited above, rises up thus against the adversary of the Copernican hypothesis (l): “Do you wield the censor’s rod on account of those few little words of Scripture? Why not rather, if you are a Theologian, until the Church condemns the ingenious System, bend the words of Scripture cited to a convenient sense? So that those words which are paraded in favor of the immobile stability of the earth may be understood only of firmness, consistency and duration, in no way excluding local motion: for Divine Wisdom is also said to have established the Heavens, or the sky above, Prov. 8, though motion according to Ptolemy’s System is in no way at odds with that firmness of the heavens: while those which are brought forward from Sacred Letters in favor of the mobility of the Sun were said not according to the truth of the thing, but according to the opinion of the common people and the common manner of speaking, so that the Sacred Writers might accommodate themselves to the understanding of an unlearned people: which we have made manifest by so many other examples; and in this very one which is especially objected, about Josue, it is most certain, namely that it was said according to the opinion of the common people, if the whole narration of the deed is attended to more diligently. Move not, O sun, says Josue, toward Gabaon: and yet, since the earth is a small mass in comparison with the Sun, and Gabaon on that same globe of the earth is as a most minute point, what, I ask, is the Sun commanded, that it should not move toward Gabaon? Could the huge globe of the Sun so correspond to this point as either to move or to stand still over against it? Josue therefore alluded to the common judgment of the eyes, for to our eyes the Sun appears as a disk to be measured by two palms at most, running over a small space of the sky.
 
@@ -17768,11 +16564,7 @@ and according to appearance. They answer that Divine Scripture tempers itself to
 
 or
 
-(k) De moderamine Ingenior. ch. 22. (l) In the place cited above.
-
-[p. 233]
-
-or line. That, therefore, must be interpreted according to the understanding of the
+(k) De moderamine Ingenior. ch. 22. (l) In the place cited above. [p. 233] or line. That, therefore, must be interpreted according to the understanding of the
 
 common people: that that place of the heavens seems to them the middle which is
 
@@ -17846,11 +16638,7 @@ tend from these two Stars to the rest; nor are they content to say that the star
 
 sublunary things through heat and light, but they think that various other influences
 
-Gg 2                                             are
-
-[p. 234]
-
-are exerted upon the earth, while they attribute different specific properties to the Stars: that the Moon, being exceedingly moist, excites the humors on the earth; that Saturn is cold; Mars dry and hot, etc.; so that, accordingly, the rising of some brings on rain, that of others induces drought, etc. It is not our pleasure to pursue these and more things of the kind any further: we shall set forth our view of the influence of the Stars in brief. Wherefore the conclusion follows.
+Gg 2                                             are [p. 234] are exerted upon the earth, while they attribute different specific properties to the Stars: that the Moon, being exceedingly moist, excites the humors on the earth; that Saturn is cold; Mars dry and hot, etc.; so that, accordingly, the rising of some brings on rain, that of others induces drought, etc. It is not our pleasure to pursue these and more things of the kind any further: we shall set forth our view of the influence of the Stars in brief. Wherefore the conclusion follows.
 
 751 Apart from the action of light we acknowledge no other influence of the stars upon the earth: except, however, the Sun, which by its heat, sensible enough, warms our earth, and also the Moon, which, if not by heat or cold, yet certainly by its weight upon the atmosphere beneath it, can press upon our globe variously according to its varying position. For, in the first place, certain substantial effluvia, moist, dry, etc., cannot be transmitted from the stars to the earth; for what cause can be adduced by which such effluvia should be propelled through the longest spaces beyond the atmosphere of their star, which extends only some miles? Certainly about terrestrial effluvia all agree that they by no means run out beyond the atmosphere into the region of the Moon: then, even if effluvia were thrust out, what can be imagined that would direct them to our earth rather than to some other space and celestial body? Finally, if the Moon, in which our adversaries place the greatest force, scattered its effluvia spherically, then, since these diverge from one another the more, the further they recede from the lunar body, and at so great a distance as the Moon has from the earth can and must be spread very far apart, those effects which are attributed to the influence of the moon can by no means be produced by so stingy and meager a dew of effluvia.
 
@@ -17858,11 +16646,7 @@ are exerted upon the earth, while they attribute different specific properties t
 
 753 Hence, although there is in the other stars a force of striking and agitating the slender fibrils of the optic nerves, and so, since particles thinner than these fibrils and more apt for motion are contained in the air, water and earth, a force of agitating and moving these particles, and consequently of producing some effects (how far these will fall under sense, each will judge from the almost immense distance of the fixed stars, and from the
 
-faint
-
-[p. 235]
-
-faint light of the planets), nevertheless none at all is to be ascribed to them ex‐
+faint [p. 235] faint light of the planets), nevertheless none at all is to be ascribed to them ex‐
 
 cept in proportion to their light, whose action must be held as demonstrated.
 
@@ -17938,11 +16722,7 @@ should one be hot, another moist, when all are opaque masses not much unlike
 
 our earth? By experience they cannot establish their art;
 
-for
-
-[p. 236]
-
-for this rests on frequently repeated observation, whereas the astrologers neither
+for [p. 236] for this rests on frequently repeated observation, whereas the astrologers neither
 
 have nor can have an observation in which, from a similar position of the stars, a sim‐
 
@@ -18022,11 +16802,7 @@ likely, says the distinguished Rohault
 
 (n)
 
-(m) Phys. Partic., pt. 1, q. 10.
-
-[p. 237]
-
-(n), that the heat of the sun in the space of many years can torrefy and consume these
+(m) Phys. Partic., pt. 1, q. 10. [p. 237] (n), that the heat of the sun in the space of many years can torrefy and consume these
 
 stones, which are consumed by fire in a few hours; and when this happens, it ought to
 
@@ -18092,11 +16868,7 @@ that this seems to agree best with the inertia, gravity,
 
 and
 
-(n) Phys., pt. II, ch. 27.
-
-[p. 238]
-
-and solidity of the earth. Further: since the earth is dissolved with the greatest
+(n) Phys., pt. II, ch. 27. [p. 238] and solidity of the earth. Further: since the earth is dissolved with the greatest
 
 difficulty by the force of fire, and its particles cannot be blown off into the air,
 
@@ -18164,11 +16936,7 @@ various kinds: sand, clay, fat earths of diverse colors, stones, salts, etc.: a 
 
 which is found in the Earth,
 
-as
-
-[p. 239]
-
-as no one, unless he were ignorant both of history and of narratives, would deny. By water is understood that fluid and moist substance which God, Best and Greatest, in the first creation separated from the solid and dry, and gathered into the sea, which occupies a great part of the terrestrial surface.
+as [p. 239] as no one, unless he were ignorant both of history and of narratives, would deny. By water is understood that fluid and moist substance which God, Best and Greatest, in the first creation separated from the solid and dry, and gathered into the sea, which occupies a great part of the terrestrial surface.
 
 764 That fire is diffused through the interior parts of the earth is plain, both from the fact that it is contained in mixed bodies, and from hot springs, the heat of mines, various exhalations, and fire-vomiting mountains. That the body of the Earth is compacted into a vast mass, no one is unaware; and it has its compaction and firmness from the cause of gravity, by which, namely, its parts are compressed and driven together on every side. But this is more difficult to resolve: into what figure this mass has been compacted: whether, namely, it holds a spherical one? Or a spheroidal one; and this, whether depressed at the poles and raised at the equator, or, on the contrary, rising at the poles and sinking at the equator.
 
@@ -18178,11 +16946,7 @@ as no one, unless he were ignorant both of history and of narratives, would deny
 
 767 For that excess of the greater diameter over the lesser is so slight that nothing prevents their being held as physically equal diameters, and hence the terraqueous mass as physically spherical. Newton
 
-Hh                                     indeed
-
-[p. 240]
-
-indeed holds that the greater diameter of the Earth is to the lesser as 230 to 229, and hence that the earth would be higher under the equator than under the poles by 17 miles and a sixth part. Huygens, on the other hand, establishes almost the same ratio of the diameters, namely that of the number 578 to 577; and if this ratio is then worked out in miles by the rules of proportion, as is usually done, it will be plain that the excess of the greater semidiameter of the Earth over the lesser does not equal even 7 miles; and so slight a difference leaves the Earth, at any rate as regards sense, spherical.
+Hh                                     indeed [p. 240] indeed holds that the greater diameter of the Earth is to the lesser as 230 to 229, and hence that the earth would be higher under the equator than under the poles by 17 miles and a sixth part. Huygens, on the other hand, establishes almost the same ratio of the diameters, namely that of the number 578 to 577; and if this ratio is then worked out in miles by the rules of proportion, as is usually done, it will be plain that the excess of the greater semidiameter of the Earth over the lesser does not equal even 7 miles; and so slight a difference leaves the Earth, at any rate as regards sense, spherical.
 
 768 Nor does the argument for the first opinion, taken from the daily motion of the Earth, prove anything; from this revolution the patrons of this hypothesis think it follows that the parts, by a greater centrifugal force under the equator than toward the poles, recede farther from the axis of the Earth, and so are more elevated under the equator than under the poles, and form the spheroidal mass of the Earth. It does not, I say, prove anything: for, granting the motion of the Earth about its axis, it does not evidently follow that the parts about the equator swell out and are compressed toward the poles: for the mass of the Earth is not soft but firmly compacted, nor does it seem conformable to experience that a sphere revolved about its axis should be changed into a spheroid compressed at the poles of the revolution, with whatever speed it be turned.
 
@@ -18192,11 +16956,7 @@ indeed holds that the greater diameter of the Earth is to the lesser as 230 to 2
 
 771 The magnitude of the Earth, if it is compared with the starry heaven, is so slight that it stands to it just as a point. Its absolute magnitude, however, is altogether uncertain. Indeed, in determining the magnitude of one degree of the great circles of the terraqueous orb, authors disagree very much among themselves. Hence it is no wonder if they dissent in establishing the magnitude of the Earth: since from the value of one degree
 
-is
-
-[p. 241]
-
-is gathered the value of the periphery of a great circle, and hence the quantity
+is [p. 241] is gathered the value of the periphery of a great circle, and hence the quantity
 
 of the diameter and of the semidiameter, as well as of the convex surface, and
 
@@ -18266,11 +17026,7 @@ marine spoils which the investigators of Nature find here and there on the sur�
 
 faces of mountains, or at no great depth,
 
-Hh 2                                     are
-
-[p. 242]
-
-are to be traced chiefly to the deluge, and to seas at some time spread over those
+Hh 2                                     are [p. 242] are to be traced chiefly to the deluge, and to seas at some time spread over those
 
 places, as a knowledge of History and Geography will show.
 
@@ -18340,11 +17096,7 @@ now by more, now by fewer degrees, according to the diversity of regions, more o
 
 less, now hither now thither (that is, now toward the east,
 
-now
-
-[p. 243]
-
-now toward the west) the nautical needles decline; indeed, after a notable time they sometimes change their direction in the same place; and this affection is called declination.
+now [p. 243] now toward the west) the nautical needles decline; indeed, after a notable time they sometimes change their direction in the same place; and this affection is called declination.
 
 777 To this also pertains another affection of the same, which is called inclination, various indeed, but constant, by virtue of which a magnet, or a magnetic needle freely suspended in equilibrium, preponderates toward one side and is inclined, by this law: that the inclination is more or less notable according as the tract of the earth is more remote from or nearer to the equator; for under it a perfect equilibrium is had. The attractive force is that by which a magnet draws to itself either another magnet or iron; with this difference, however, that a magnet snatches iron to itself by either of its sides, but draws a magnet to itself by one side and repels it by the other. Finally, the force communicative of itself is that by which it imbues steel or iron with the same virtue in which it is itself strong: namely, the directive and the attractive. These things set out, we inquire into the cause of these phenomena: in which altogether obscure matter we shall lay down whatever may have an appearance of likelihood and may in some fashion expound the said effects to the understanding. Before we carry this out, a preliminary hypothesis is laid down.
 
@@ -18442,11 +17194,7 @@ The directive force of the magnet is, namely, that by which the magnet turns its
 
 toward each pole of the world. But this is fittingly traced
 
-to
-
-[p. 245]
-
-to the effluxes set forth in the said manner; for these, moving thereafter through
+to [p. 245] to the effluxes set forth in the said manner; for these, moving thereafter through
 
 the same passages of the magnet which they had made for themselves in the mine,
 
@@ -18608,21 +17356,13 @@ magnet it is necessary that a reason be given why poles of the same name,
 
 whether one southern and the other southern, or two northern, repel each other
 
-not
-
-[p. 247]
-
-not only in the magnet but also in the magnetic needle; then why poles not of the same name, namely one southern and the other northern, approach each other; and finally why iron is snatched by a magnet from either side. But these things are conveniently explained by the force of the magnetic atmosphere. For if, as we laid down above [§. 781 ff.], the internal configuration of magnets and the structure of their pores is such that the smallest molecules, laid down and bent like little hairs, incline with their tips toward one pole of the magnetic body, e.g. the northern, it will come about, this contexture of the parts being supposed, that the fluid running into the southern pole can freely pervade it and be carried flowingly over the surface of the little hairs, no force being brought upon them; whereas the parts of the subtler fluid that have slipped into the northern pole will bring force upon the tips which occupy and line the paths of the little hairs. Wherefore, if one magnet is placed toward another in such a way that the northern pole of the former faces the southern pole of the latter, then, since the atmospheric fluid of the one is driven in the direction which the inflection of the little hairs has in the other, the most subtle parts of the fluid will pass along the very surface of the little hairs with no force and impression, or the least, made upon them.
+not [p. 247] not only in the magnet but also in the magnetic needle; then why poles not of the same name, namely one southern and the other northern, approach each other; and finally why iron is snatched by a magnet from either side. But these things are conveniently explained by the force of the magnetic atmosphere. For if, as we laid down above [§. 781 ff.], the internal configuration of magnets and the structure of their pores is such that the smallest molecules, laid down and bent like little hairs, incline with their tips toward one pole of the magnetic body, e.g. the northern, it will come about, this contexture of the parts being supposed, that the fluid running into the southern pole can freely pervade it and be carried flowingly over the surface of the little hairs, no force being brought upon them; whereas the parts of the subtler fluid that have slipped into the northern pole will bring force upon the tips which occupy and line the paths of the little hairs. Wherefore, if one magnet is placed toward another in such a way that the northern pole of the former faces the southern pole of the latter, then, since the atmospheric fluid of the one is driven in the direction which the inflection of the little hairs has in the other, the most subtle parts of the fluid will pass along the very surface of the little hairs with no force and impression, or the least, made upon them.
 
 792 But when those poles of the magnets are joined from which the subtler torrent of atmosphere bursts forth, then indeed the molecules of this fluid flowing out of the pole of the one will be unable to enter the pores of the like pole in the other magnet, since the points of the little hairs are stretched out and so resist: hence, force being brought upon these paths, they will strive to repel the magnet into which they rush. But if those poles of the magnets into each of which the surrounding fluid breaks in are placed not far from each other, then, besides the fact that the directions of the magnetic fluid oppose each other, repulsion must follow from this, that the twin atmospheres do not coalesce into one in such a way that all the other fluid interposed is removed and so an approach follows; and although an entrance lies open to the effluvia through each of these poles, yet because each is supposed to be endowed with such a habit of pores that only the magnetic fluid can enter through them, the commingling of the atmospheres and their conjunction, in a manner, into one vortex (other heterogeneous fluids being excluded) is for that reason impeded: hence it will come about that the magnets do not approach each other, but are repelled by the opposite directions of the effluvia on either side. The same is to be thought of the magnetic needle.
 
 793 Finally, that iron not yet imbued, as they say, with magnetic virtue is snatched to the magnet, at whatever pole it is placed, we assert on this ground: that the structure of this metal and the conformation of its paths seem adapted for receiving and transmitting the magnetic effluvia, in such a way indeed that these can penetrate more freely through its interior surface and be carried flowingly along, no force being brought upon the walls of the pores: whereby it will be brought about that the other fluids interposed in the space between the magnet and the iron are removed; and these being moved away, since, the most subtle fluid being spread around the bodies, along that part
 
-Ii                                   nothing
-
-[p. 248]
-
-nothing resists, it follows that by its pressure the iron is urged toward the magnet.
+Ii                                   nothing [p. 248] nothing resists, it follows that by its pressure the iron is urged toward the magnet.
 
 794 The assertion is confirmed by an exposition of the phenomena; and first a reason is given why, besides iron or steel, no other bodies are drawn by the magnet: namely, because such is the disposition of the pores in iron, and the configuration of its parts, as in a body homogeneous with the magnet, that the effluvia penetrate it more easily than the other bodies: hence, while the torrent of effluvia crosses the pores of the iron in greater abundance, the resistance in the intermediate space is diminished, and, this being removed, these bodies are joined by the forces of the pressing fluid.
 
@@ -18848,11 +17588,7 @@ sea waters would have to deposit their saltness and bitterness, and to ascend, a
 
 it were of their own accord, to that height above the mountains at which
 
-we
-
-[p. 252]
-
-we observe springs welling forth. But neither seems capable of being maintained; for in this way the sea water would lose its saltness and bitterness insofar as it deposited, or left behind, its salty and bitter particles in those windings which the adversaries posit; but this cannot happen: for one of two things must follow: either that at length, in the course of time, those ways and passages are obstructed by the adhering salt, or this other, that the salt is scraped off and carried away by the water coming upon it, and so the waters burst forth from the springs filled with a more potent salt, or with a greater quantity of it.
+we [p. 252] we observe springs welling forth. But neither seems capable of being maintained; for in this way the sea water would lose its saltness and bitterness insofar as it deposited, or left behind, its salty and bitter particles in those windings which the adversaries posit; but this cannot happen: for one of two things must follow: either that at length, in the course of time, those ways and passages are obstructed by the adhering salt, or this other, that the salt is scraped off and carried away by the water coming upon it, and so the waters burst forth from the springs filled with a more potent salt, or with a greater quantity of it.
 
 808 The other cannot be reconciled with the principles of Hydrostatics: for from these we hold it as certain that water in communicating tubes, of whatever figure and perimeter at last, does not keep equilibrium unless it has obtained the same height in them, that is, has set its surface in each tube physically parallel to a horizontal line. But the places of very many springs are higher than the surface of the sea. Therefore the sea water cannot ascend to the height from which springs well forth.
 
@@ -18938,11 +17674,7 @@ penetrate into their cavity only through the narrow openings of the convolutions
 
 hence that air consists of particles of its own proper kind,
 
-is
-
-[p. 255]
-
-is evident above all from this, that it is established that vapors and exhalations as‐
+is [p. 255] is evident above all from this, that it is established that vapors and exhalations as‐
 
 cend, but that they cannot be raised unless they are thrust out by a heavier body; so
 
@@ -19018,11 +17750,7 @@ inasmuch, namely, as it brings about by its heat that the air directly beneath i
 
 greatly rarefied, and, having become rarer,
 
-Kk                                           by
-
-[p. 256]
-
-by that very fact becomes lighter, and hence is thrust out by the rest, which are heavier and denser, and thus, the equilibrium of the air being disturbed, wind arises.
+Kk                                           by [p. 256] by that very fact becomes lighter, and hence is thrust out by the rest, which are heavier and denser, and thus, the equilibrium of the air being disturbed, wind arises.
 
 823 Next, the Sun excites winds by rarefying vapors with its heat; similarly while, by its action, the snows with which the summits of mountains are covered melt; for then the released particles press on the air and propel it toward that very region which lies beneath the Sun, since, being rarer, it resists their dilatation less; hence at the approach of spring north winds are very frequent, and south winds at the approach of autumn, because, as the Sun draws near the tropic of Cancer, the snows lying on the northern mountains begin to melt; but on the contrary, as the Sun draws near the tropic of Capricorn, the snows lying on the southern mountains are dissolved: to which is referred another cause of the winds as well, namely the admixture of the exhalations which are rather copiously scattered in the atmosphere, and the effervescence arising thence.
 
@@ -19102,11 +17830,7 @@ burns little, because it embraces less fire, and much foreign matter, relatively
 
 those ignited bodies. Its conical figure arises from
 
-Kk 2                                      this,
-
-[p. 258]
-
-this, that it cleaves the air in a single place: namely, there where the air resists more
+Kk 2                                      this, [p. 258] this, that it cleaves the air in a single place: namely, there where the air resists more
 
 weakly and the flame is more active, since the most subtle parts are thrust out
 
@@ -19176,11 +17900,7 @@ consist. Mist differs from a cloud only in its degree of density and in place; f
 
 arises from little bubbles of humid
 
-exhalations
-
-[p. 259]
-
-exhalations agglomerated together in great quantity: they differ, however, in this, that the little bubbles constituting a cloud are far wider, and hence lighter with respect to the air, than those which make a mist, so that they lie, as it were, upon them: mist is changed into clouds by the very fact that the lower air thrusts out the bubbles, rarefied and therefore made lighter and dissipated: hence it is plain why, as the Sun approaches the meridian, mists for the most part pass into clouds.
+exhalations [p. 259] exhalations agglomerated together in great quantity: they differ, however, in this, that the little bubbles constituting a cloud are far wider, and hence lighter with respect to the air, than those which make a mist, so that they lie, as it were, upon them: mist is changed into clouds by the very fact that the lower air thrusts out the bubbles, rarefied and therefore made lighter and dissipated: hence it is plain why, as the Sun approaches the meridian, mists for the most part pass into clouds.
 
 833 Rain arises from the broken little bubbles of the clouds, which are broken from several causes: namely, either on account of the excessive heat of the Sun, by which they are very greatly dilated; or if they collide with one another by the force of contrary winds; or if they are pressed against the sides of mountains; or, finally, if they are too much constricted by an intense cold of the air. The evening damp is a certain humor, like a most subtle and insensible rain, falling from on high as night comes on; and it arises from most tenuous aqueous little bubbles, which, carried on high, are broken and turn into insensible drops as soon as the air, after sunset, is seized by some cold: hence there is none in wintertime, but only in summer, and chiefly in spring and autumn, when, moreover, no wind is blowing. And when the sky is stormy and rainy, and in winter too, those thicker droplets are dissipated by the winds, or are not dilated by rarefaction into such minute ones.
 
@@ -19190,11 +17910,7 @@ exhalations agglomerated together in great quantity: they differ, however, in th
 
 836 Snow is produced if the little bubbles of a humid exhalation, while turning into rain,
 
-are
-
-[p. 260]
-
-are frozen by cold; for the flakes of snow are nothing else than most tenuous droplets of water, which, seized by cold, are united first among themselves like threads, when they become entangled with one another in diverse ways in their descent. The figure of snow is sometimes regular, sometimes irregular; often, if it is examined with a microscope, it shows a hexagonal star, at times a lily, and not seldom a rose; which figures seem to depend on the diverse exhalations frozen together. From these things it is easily understood what honeydew, manna, and the hair of Venus, or virgin threads, which appear like spiders’ threads over hedges and grasses, are, and whence they draw their origin.
+are [p. 260] are frozen by cold; for the flakes of snow are nothing else than most tenuous droplets of water, which, seized by cold, are united first among themselves like threads, when they become entangled with one another in diverse ways in their descent. The figure of snow is sometimes regular, sometimes irregular; often, if it is examined with a microscope, it shows a hexagonal star, at times a lily, and not seldom a rose; which figures seem to depend on the diverse exhalations frozen together. From these things it is easily understood what honeydew, manna, and the hair of Venus, or virgin threads, which appear like spiders’ threads over hedges and grasses, are, and whence they draw their origin.
 
 837 The fiery meteors are, first, the flash; second, thunder; third, lightning, of which enough has been said in the Electrology; fourth, Helen and Pollux, which are fires that appear to those sailing, in the lowest region of the air, and are formed from spirituous fumes, which the sea, agitated by storms, transpires, carried up little by little, gathered together and kindled. If one appeared, it was called Helen; when two were seen, Castor and Pollux. Fifth: falling and shooting stars are certain fiery globules kindled in the upper air, and so moved through it that at times they appear to us to proceed straight, at other times to glide headlong from the sky. Sixth: the licking fire, and the foolish fire, is a fat exhalation sweating out from the flesh of men or of bodies, and from fattier matter, which is kindled by compression or friction, and clings to horses or men without harm.
 
@@ -19202,11 +17918,7 @@ are frozen by cold; for the flakes of snow are nothing else than most tenuous dr
 
 839 Seventh: nearly the same is the account of the phenomena of the aforesaid meteors, which are distinguished among themselves only by their diverse figure; for if a marshy or bituminous exhalation, gathered together with nitrous spirits and suddenly kindled in the upper air by means of fermentation, friction or compression, presents the appearance of a fiery globe, and has about it hanging flakes, as it were, and is borne with a leaping motion, it is called the Leaping Goat; if it is oblong and parallel to the horizon, the Beam; if it swells in its middle, the Dragon; if it is round and flat, the Shield; if smooth and cylindrical, the Column; if it ends in a point, the Pyramid; if it is widely dispersed and shows, as it were, kindled straws, it is named the Stubble. Eighth: the Aurora Borealis, or northern light, is
 
-that
-
-[p. 261]
-
-that glow which in the nighttime at times appears to us in the northern quarter of the sky in such a way that the sky itself seems, as it were, to burn in that part. The history of this phenomenon is extensive; since it is found everywhere among the Moderns, for brevity’s sake I adduce only what is necessary.
+that [p. 261] that glow which in the nighttime at times appears to us in the northern quarter of the sky in such a way that the sky itself seems, as it were, to burn in that part. The history of this phenomenon is extensive; since it is found everywhere among the Moderns, for brevity’s sake I adduce only what is necessary.
 
 840 In the first place, it has its seat in the atmosphere of the Earth, like the other fiery meteors, and is produced in it; for this light has at times been seen below the clouds, as Mayer testifies: then, if it extended beyond the atmosphere, it would be very high, and hence would be seen even from places near the equator, which, however, is contrary to experience, especially since it often happens that it is seen in one place and is not observed in another a few miles distant. Wherefore we think that this light, like the remaining fiery meteors, comes from an exhalation and vapor carried on high from the earth, or from the matter of lightning and of flashes not yet well ripened, so to speak, and not yet prepared for the effects of lightning and of flashes.
 
@@ -19216,11 +17928,7 @@ that glow which in the nighttime at times appears to us in the northern quarter 
 
 843 Further, why the same colors seem always to be and to remain is from this, that continually other and other parts of the dewy cloud, or new droplets again and again, succeed the earlier ones in the same situation and disposition, no otherwise than in a burning taper the same flame is believed to endure, on account of other and other particles of fire continually succeeding. Second: the Halo, or crown, or area, is a colored circle, more commonly whitish, sometimes however showing the colors of the rainbow, but more obscure, which appears now and then around the Sun, more often around the Moon; it is formed in a dewy cloud placed between the star and the eye,
 
-with
-
-[p. 262]
-
-with a texture suited to a double refraction, by virtue of which the rays make with
+with [p. 262] with a texture suited to a double refraction, by virtue of which the rays make with
 
 the axis, or the line drawn through the center of the star and the eye, an angle of
 
@@ -19292,11 +18000,7 @@ juice going round and returning in a circuit. The wonderful apparatus of these o
 
 ganic bodies was investigated
 
-and
-
-[p. 263]
-
-and explained by Malpighi the Italian and Grew the Englishman. Life, in a manner, and its actions are accomplished in plants by the continual motion, returning in a circuit, of the vital fluid through solid organs most wisely disposed; which motion the agitation, impulse and pressure of the ether and the air bring about, the elastic force mediating at the same time; so that on that account they are rightly called Hydraulic-Pneumatic machines; and that these may be understood more deeply, I subjoin a very brief Anatomy of them.
+and [p. 263] and explained by Malpighi the Italian and Grew the Englishman. Life, in a manner, and its actions are accomplished in plants by the continual motion, returning in a circuit, of the vital fluid through solid organs most wisely disposed; which motion the agitation, impulse and pressure of the ether and the air bring about, the elastic force mediating at the same time; so that on that account they are rightly called Hydraulic-Pneumatic machines; and that these may be understood more deeply, I subjoin a very brief Anatomy of them.
 
 847 Of the parts of plants, some are fluid, others solid. The fluid part is that humor or juice which, like the blood in man, is diffused through the solid parts of the plant. This juice, and the true and genuine nourishment of plants, they say most probably to be saline, earthy and oily parts, which, prepared in the aqueous juice, attenuated, worked up, and distributed with this juice, as with a vehicle, into the whole structure of the plants, are carried round, so that the single parts can receive what is suitable for nourishing and increasing their substance. The solid parts constitute their organic body, and are: the trunk, roots, branches, leaves, flowers, fruits. The trunk, which in trees is called the bole and stock, in flowers and herbs the stalk, scape and thyrsus, in wheat and the like the straw or haulm, is, as it were, the body of the plant, which, bursting forth from the earth, rises above it and unfolds itself into branches, fronds, etc. The root is that part of the plant which, placed wholly below the earth and adhering to it, draws its nourishment for the plant. The branches, just as the limbs from the body of an animal, so burst forth from the body, or trunk, of the plant, for the most part without order, sometimes in an elegant order, and spread themselves in every direction; being of altogether the same nature as the trunk from which they arise, and furnished like it with bark, they contain pith in the middle, and are composed of the same little vessels, namely fibers, utricles and tracheae. The leaves embrace chiefly two parts: namely, the petiole, by which the leaf is attached to the plant, and the very body of the leaf.
 
@@ -19304,11 +18008,7 @@ and explained by Malpighi the Italian and Grew the Englishman. Life, in a manner
 
 849 That little grain, or kernel, is called the seed, from which, as from an egg, the plant germinates; four things are distinguished in it: the envelopes;
 
-Ll                                        the
-
-[p. 264]
-
-the first, or outermost of all, is harder than the rest; when it is removed, two little
+Ll                                        the [p. 264] the first, or outermost of all, is harder than the rest; when it is removed, two little
 
 skins are met, of which the exterior is thick and almost cartilaginous, the interior
 
@@ -19388,11 +18088,7 @@ ter a very long time no herb, or sign of a plant, appeared; so that on that acco
 
 inferred that, since no seed had either lain hidden before in the earth
 
-dug
-
-[p. 265]
-
-dug out from deeper down, or could have fallen into the vessel through the air, plants have their genesis from seed.
+dug [p. 265] dug out from deeper down, or could have fallen into the vessel through the air, plants have their genesis from seed.
 
 852 As regards the nutrition and growth of plants, it is accomplished by the admission, elaboration and purification of a suitable juice, and by its continual circulation through the organs of the plant; for the roots draw in moisture; this, once received, ascends through the woody tubes of the plant, because it is urged upward unceasingly by the alternate dilatation and constriction of the tracheae which are interspersed among the woody tubes; and from these it is dispersed into the other parts. That the nutritive juice circulates is shown, first of all, because only in this way does it seem that the nutrition of plants can be accomplished; since indeed this cannot take place unless that which is useful, and is suitable nourishment for the plant, is separated from the useless, and this is thrust back again to those parts, so that it may be rendered fit for nutrition through a new purification and elaboration; and then it is plain from experience; for Malpighi, when the bark had been cut round in a circle and a ring-shaped portion torn away, found that the edge of the upper bark swelled notably and also increased, but that the lower obtained no increase, but only put forth buds in their season. And let these things, which have been excerpted from Fr. Klaus, suffice to have been said, so that we may put the finishing hand to the Physics, both General and Particular.
 
@@ -19456,11 +18152,7 @@ Ch. II. On the Figure and Situation of bodies.                                 5
 
 The arguments are answered.                                                    72. Dissertation IV. Other properties of bodies are briefly
 
-set
-
-[PDF 552]
-
-set forth, and the principal phenomena are explained as clearly as possible.
+set [PDF 552] set forth, and the principal phenomena are explained as clearly as possible.
 
 Ch. I. On the Fermentation of bodies.                                           74. Ch. II. On Time.                                                                78. Ch. III. It is shown what the place of bodies is.                               80. The arguments are answered.                                                     83. Ch. IV. On the Vacuum.                                                          85. The arguments are answered.                                                     88.
 

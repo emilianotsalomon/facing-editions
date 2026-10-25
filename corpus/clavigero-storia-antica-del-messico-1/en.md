@@ -54,11 +54,7 @@ I myself should be ashamed to present you with a work so crude and so defective,
 
 Moreover, who would dare to appear with so humble a gift before a Body so distinguished, which, having been from its very beginning consummate and perfect, has gone on continually increasing its perfection? (a) Who would not be overcome
 
-(a) The University of Mexico was founded by order of the Emperor Charles V, and by the authority of Pope Julius III, in the year 1553, with all the prerogatives and privileges of that of Salamanca. Its first lecturers were most excellent, because they were chosen from among the men of letters of Spain, at a time when the sciences flourished there more
-
-[p. v]
-
-by a sacred awe on seeing in your schools the images of those most illustrious men who once adorned both New and Old Spain, or on hearing those immortal names of Veracruz, Hortigosa, Naranjo, Cervantes, Salcedo, Sariñana, Siles, Sigüenza, Bermúdez, Eguiara, Miranda, Portillo, etc., etc., which would do honor even to the most renowned Academies of learned Europe? (b) The mere remembrance of the names of your Doctors who are still living would be enough to make the author lose heart, and among others that of the most illustrious Chancellor and head of your University, whom, besides the distinction of his illustrious birth, a sublime intelligence, a supreme erudition in sacred and in human letters, and a solid piety have raised to the most brilliant offices of learning, and render most worthy of the sacred purple.
+(a) The University of Mexico was founded by order of the Emperor Charles V, and by the authority of Pope Julius III, in the year 1553, with all the prerogatives and privileges of that of Salamanca. Its first lecturers were most excellent, because they were chosen from among the men of letters of Spain, at a time when the sciences flourished there more [p. v] by a sacred awe on seeing in your schools the images of those most illustrious men who once adorned both New and Old Spain, or on hearing those immortal names of Veracruz, Hortigosa, Naranjo, Cervantes, Salcedo, Sariñana, Siles, Sigüenza, Bermúdez, Eguiara, Miranda, Portillo, etc., etc., which would do honor even to the most renowned Academies of learned Europe? (b) The mere remembrance of the names of your Doctors who are still living would be enough to make the author lose heart, and among others that of the most illustrious Chancellor and head of your University, whom, besides the distinction of his illustrious birth, a sublime intelligence, a supreme erudition in sacred and in human letters, and a solid piety have raised to the most brilliant offices of learning, and render most worthy of the sacred purple.
 
 But than ever. One of them (Father Alonso de la Veracruz, an Augustinian) published in Mexico and in Spain several philosophical and theological works highly esteemed by the learned. Another (Dr. Cervantes) printed in Mexico some excellent Latin dialogues. The rapid progress of this distinguished University is shown in the Third Mexican Council, held in the year 1585, which in the judgment of competent men is one of the most learned among the provincial and national councils. There are at present twenty-three ordinary lecturers in rhetoric, philosophy, theology, canon and civil jurisprudence, medicine, mathematics, and languages.
 
@@ -68,11 +64,7 @@ But than ever. One of them (Father Alonso de la Veracruz, an Augustinian) publis
 
 But leaving aside now the praises due to you, since they will perhaps be thought flatteries by those who are unaware of your signal merit, I wish to complain to you in a friendly way of the indolence, or negligence, of our forebears with regard to the history of our homeland. It is indeed true that there were many worthy men who labored to illustrate Mexican antiquity, and left many most valuable writings on it. It is likewise true that there was already in that University a Professor of Antiquities, charged with explaining the characters and the figures of the Mexican paintings, since they were of the greatest importance for deciding in the courts the suits that arose over the ownership of certain lands, or over the nobility of certain Indian families. But this is precisely what grieves me. Why was that Professor, so necessary, not kept? Why let those writings, so precious, perish, and especially those of the most learned Sigüenza? For lack of a Professor of Antiquities there is at present no one who understands the Mexican paintings, and through the loss of the writings the history of Mexico has become most difficult, not to say impossible. Now, since such a loss cannot be repaired, let at least what remains to us not be lost. I hope that you, who are in that kingdom the guardians of the sciences, will seek to preserve the remains of the antiquity of our homeland, forming of them, in the very magnificent edifice of your schools, a museum no less useful than curious, in which may be gathered the ancient statues
 
-that
-
-[PDF 6]
-
-vij that remain to us, or that may be discovered in excavations, the arms, the mosaic works, and other such antiquities, the Mexican paintings of every sort, scattered here and there, and above all the manuscripts, both those of the first missionaries and of other early Spaniards, and those of the Indians themselves, which are in the libraries of some Monasteries: from which copies might be made before they are consumed by moths or lost through some other misfortune. What a curious and learned Foreigner (*) did a few (*) The Chevalier
+that [PDF 6] vij that remain to us, or that may be discovered in excavations, the arms, the mosaic works, and other such antiquities, the Mexican paintings of every sort, scattered here and there, and above all the manuscripts, both those of the first missionaries and of other early Spaniards, and those of the Indians themselves, which are in the libraries of some Monasteries: from which copies might be made before they are consumed by moths or lost through some other misfortune. What a curious and learned Foreigner (*) did a few (*) The Chevalier
 
 Boturini. years ago shows what our compatriots might do, if to great diligence and shrewd industry they were to add the prudence that is required to draw such monuments from the hands of the Indians.
 
@@ -120,41 +112,25 @@ T         to avoid the tedious and blameworthy idleness to which I
 
 found myself condemned, to serve as best I could my homeland and my nation, and to restore to its splendor the truth obscured by an incredible swarm of modern writers on America, has been no less laborious and difficult for me than costly. For, to say nothing of the great expense incurred in procuring from Cadiz, from Madrid, and from other cities of Europe the necessary books, I have read and diligently examined almost everything that has been published thus far on such a subject; I have compared the accounts of the authors, and weighed their authority in the balance of criticism; I have studied a great many historical paintings of the Mexicans; I have made use of their manuscripts, already read when I was in Mexico; and I have consulted many men experienced in those countries. To such diligence I might add, to lend credit to my labors, that I lived thirty-six years in several provinces of that vast kingdom, that I learned the Mexican language, and that for some years I associated with the very Mexicans whose history I write. Yet I do not flatter myself that I can give a perfect work; for besides finding myself destitute of those endowments of talent, judgment, and eloquence which are required in a good historian, the lamentable loss of the greater part of the Mexican paintings, which I have mentioned and bewailed elsewhere, and the lack of so many valuable manuscripts, which are preserved in several libraries of Mexico, are insuperable obstacles for anyone who would undertake such a History, above all outside those countries. Nevertheless I hope that my labor will be welcome, not indeed for the elegance of the language, for the beauty of the descriptions, for the gravity of the
 
-History of Mexico, Vol. I.                  A                  maxims
-
-[p. 2]
-
-maxims, or for the grandeur of the deeds recounted; but rather for the diligence in research, for the sincerity of the narration, for the naturalness of the style, and for the service done to men of letters eager to know the Mexican antiquities, by presenting to them, gathered together in this little work, whatever is valuable that lies scattered here and there among the authors, and moreover several things never published by them.
+History of Mexico, Vol. I.                  A                  maxims [p. 2] maxims, or for the grandeur of the deeds recounted; but rather for the diligence in research, for the sincerity of the narration, for the naturalness of the style, and for the service done to men of letters eager to know the Mexican antiquities, by presenting to them, gathered together in this little work, whatever is valuable that lies scattered here and there among the authors, and moreover several things never published by them.
 
 Having set before myself the usefulness of my countrymen as the principal end of this History, I wrote it at first in Spanish; then, induced by some Italian men of letters, who showed themselves extremely eager to read it in their own language, I took upon myself the new and laborious task of translating it into Tuscan; but those who have had the kindness to value my labors will have also that of making allowance for me.
 
 Induced likewise by some friends, I wrote that essay on the natural history of Mexico which is read in the first book, which I myself believed unnecessary, and which many will perhaps think out of place; but in order not to depart wholly from my subject, I strove to bring back to ancient history what I say of natural things, noting the use that the ancient Mexicans made of them. On the other hand, to those who are drawn to the study of Nature, this same essay will seem, as it in fact is, too restricted and superficial; but to satisfy their curiosity it would be necessary to write a work quite different from the one I have undertaken. For the rest, I should have spared myself a great deal of trouble, had I not been constrained to humor the aforesaid friends, since in order to write properly that little natural history I studied the works of Pliny, Dioscorides, de Laet, Hernández, Ulloa, Buffon, Valmont de Bomare, and other naturalists; not content either with what I had seen with my own eyes, or with what I have had by information from men experienced in those countries and well informed.
 
-In writing I have had nothing more at heart than the truth. I should have labored far less, and my History would perhaps be more welcome to many, if all the diligence I have employed in tracking down the truth I had put into embellishing my narration
-
-[p. 3]
-
-with a brilliant and charming style, with philosophical and political reflections, and with facts invented at will, as I see done by not a few authors of our vaunted century; but to me, who am a sworn enemy of all deceit, falsehood, and affectation, the truth seems bound to appear the more beautiful the more bare it is. In recounting the events of the conquest made by the Spaniards I have kept myself equally far from the panegyric of Solís and from the invectives of Monsignor de las Casas; for I neither wish to flatter my countrymen nor to calumniate them. (a) I set down the facts at the degree of certainty or verisimilitude at which I find them; where I cannot ascertain some occurrence because of the disagreement of the authors, as concerning the death of King Moctezuma, I set forth their different opinions candidly, but without omitting those conjectures which sound reason dictates. In short, I have always kept before my eyes those two holy laws of history, not to dare to say what is false, nor to fear to say what is true, and I flatter myself that I have not contravened them.
+In writing I have had nothing more at heart than the truth. I should have labored far less, and my History would perhaps be more welcome to many, if all the diligence I have employed in tracking down the truth I had put into embellishing my narration [p. 3] with a brilliant and charming style, with philosophical and political reflections, and with facts invented at will, as I see done by not a few authors of our vaunted century; but to me, who am a sworn enemy of all deceit, falsehood, and affectation, the truth seems bound to appear the more beautiful the more bare it is. In recounting the events of the conquest made by the Spaniards I have kept myself equally far from the panegyric of Solís and from the invectives of Monsignor de las Casas; for I neither wish to flatter my countrymen nor to calumniate them. (a) I set down the facts at the degree of certainty or verisimilitude at which I find them; where I cannot ascertain some occurrence because of the disagreement of the authors, as concerning the death of King Moctezuma, I set forth their different opinions candidly, but without omitting those conjectures which sound reason dictates. In short, I have always kept before my eyes those two holy laws of history, not to dare to say what is false, nor to fear to say what is true, and I flatter myself that I have not contravened them.
 
 I do not doubt that there are readers so delicate and fastidious that they cannot endure the harshness of so many Mexican names scattered throughout the History; but this is an evil for which I could not find a remedy without exposing myself to falling into another defect, less tolerable, and quite common in almost all the Europeans who have written of America, namely that of altering names in such a manner, in order to soften them, that they can no longer be recognized. Who would be capable of guessing that Solís speaks of Quauhnahuac where he says Quatlabaca, of Huejotlipan where he puts Gualipàr, and of Cuitlalpitoc where he writes Pilpatoc? Hence I have thought it safer to imitate the example of many modern writers, who wherever they cite in their works the names of persons, places, rivers, etc., of another European nation, write them just as that nation
 
 A2                          uses
 
-(a) I do not claim to make Solís out a flatterer, nor Monsignor de las Casas a calumniator, but I mean only to say that what Solís wrote, moved by the desire to magnify his Hero, and Monsignor de las Casas, carried away by pious zeal for the Indians, I could not write without flattering or calumniating.
-
-[p. 4]
-
-uses them; and yet there are names taken from the German language, and from the Illyrian, far harder on Italian ears, because of the greater concurrence of strong consonants, than all the Mexican words I have employed. I do not, however, reject those names already altered which, being generally known, leave no danger of mistake. Thus I write Messico in place of Mexico, Tlascalla in place of Tlaxcallan, and Motezuma in place of Moteuczoma.
+(a) I do not claim to make Solís out a flatterer, nor Monsignor de las Casas a calumniator, but I mean only to say that what Solís wrote, moved by the desire to magnify his Hero, and Monsignor de las Casas, carried away by pious zeal for the Indians, I could not write without flattering or calumniating. [p. 4] uses them; and yet there are names taken from the German language, and from the Illyrian, far harder on Italian ears, because of the greater concurrence of strong consonants, than all the Mexican words I have employed. I do not, however, reject those names already altered which, being generally known, leave no danger of mistake. Thus I write Messico in place of Mexico, Tlascalla in place of Tlaxcallan, and Motezuma in place of Moteuczoma.
 
 With regard to the geography of Anahuac I have used every effort to make it exact, availing myself now of the knowledge of those countries that I gained myself in the many journeys I made there, now of the information and the writings of others; but for all that I have not fully succeeded, since in spite of the most earnest diligence I have not been able to procure those scanty astronomical observations that have been made on the spot. The position, however, and the distances that I have indicated, both in the body of the history and on the geographical map, must not be believed to be set down with that precision and exactness which is required of a geographer, but approximately, as may be done by a shrewd traveler who judges by eye. I have had in my hands innumerable geographical maps of Mexico, ancient as well as modern, and it would have been easy to copy the one that pleased me most, making a few slight changes to bring it to the ancient geography; but among so many I have not found even one that is not full of errors, as much with regard to the latitude and longitude of places as in what concerns the division of the provinces, the course of the rivers, and the direction of the coasts. To know what account is to be made of all the maps published thus far, it is enough to note the discrepancy that there is in them about the longitude of the capital, though it ought to be better known than that of any other city of Mexico. This discrepancy is no less than fourteen degrees, since by some geographers that city is placed at 264 degrees of longitude from the island of Hierro, by others at 265, by others at 266, and so on up to 278, or perhaps more.
 
 No less to embellish my History than to facilitate the understanding of several things described in it, I have had engraved
 
-as
-
-[p. 5]
-
-as many as twenty copperplates. The Mexican characters and the figures of the cities, of the kings, of the armor, of the garments, of the shields, of the century, of the year, of the month, and of the flood have been taken from various Mexican paintings. The figure of the great temple has been made after that of the Anonymous Conqueror, correcting the measurements he gives and adding the rest according to the description of other ancient authors. The image of the other temple is a copy of the one that Valadés published in his Rhetorica christiana. The figures of the flowers and of the animals are for the most part copies of those of Hernández. The portrait of Moctezuma has been made after the copy that Gemelli published of the original which Sigüenza had. The portraits of the Conquerors are copies of those that are seen in Herrera’s Decades. All the other figures have been drawn after what we have seen with our own eyes, and after what the ancient historians relate of it.
+as [p. 5] as many as twenty copperplates. The Mexican characters and the figures of the cities, of the kings, of the armor, of the garments, of the shields, of the century, of the year, of the month, and of the flood have been taken from various Mexican paintings. The figure of the great temple has been made after that of the Anonymous Conqueror, correcting the measurements he gives and adding the rest according to the description of other ancient authors. The image of the other temple is a copy of the one that Valadés published in his Rhetorica christiana. The figures of the flowers and of the animals are for the most part copies of those of Hernández. The portrait of Moctezuma has been made after the copy that Gemelli published of the original which Sigüenza had. The portraits of the Conquerors are copies of those that are seen in Herrera’s Decades. All the other figures have been drawn after what we have seen with our own eyes, and after what the ancient historians relate of it.
 
 Besides this, I wished to put before the narration of the facts a brief account of the writers of the ancient History of Mexico; both to show the foundations of my work, and to do honor to the memory of some illustrious Americans whose writings are wholly unknown in Europe. It will serve likewise to point out the sources of Mexican history to anyone who might in the future wish to perfect this imperfect work of mine.
 
@@ -190,11 +166,7 @@ Toribio de Benavente, a most illustrious Spanish Franciscan, and one of the twel
 
 their
 
-(b) In the Collection of the Early historians of America made by Señor Barcia, and printed at Madrid in 1749, the History of Gómara is found; but some expressions of this author concerning the character of the conqueror Cortés are lacking.
-
-[p. 8]
-
-their character, their arts, and their customs. Of this History, completed in one large folio volume, some copies are found in Spain. He wrote likewise a work on the Mexican calendar (the original of which was preserved in Mexico), and others no less useful to the Spaniards than to the Indians.
+(b) In the Collection of the Early historians of America made by Señor Barcia, and printed at Madrid in 1749, the History of Gómara is found; but some expressions of this author concerning the character of the conqueror Cortés are lacking. [p. 8] their character, their arts, and their customs. Of this History, completed in one large folio volume, some copies are found in Spain. He wrote likewise a work on the Mexican calendar (the original of which was preserved in Mexico), and others no less useful to the Spaniards than to the Indians.
 
 Andrés de Olmos, Spanish Franciscan of holy memory. This tireless Preacher learned the Mexican, Totonac, and Huastec languages, and composed a grammar and a dictionary of all three. Besides other works prepared by him for the benefit of the Spaniards and of the Indians, he wrote in Spanish a treatise on Mexican antiquities, and in Mexican the exhortations which the ancient Mexicans used to give to their children, of which I give a specimen in bk. VII of this History.
 
@@ -202,11 +174,7 @@ Bernardino de Sahagún, laborious Spanish Franciscan. Having been employed for m
 
 Alonso de Zorita, Spanish jurist and Judge of Mexico. After making, by order of King Philip II, diligent inquiries into the political government of the Mexicans, he wrote in Spanish A Compendious Account of the Lords Who Were in Mexico, and of Their Diversity; of the Laws, Usages, and Customs of the Mexicans; of the Tributes They Paid, etc. The original manuscript in folio was preserved in the library of the College
 
-of
-
-[p. 9]
-
-of SS. Peter and Paul of the Jesuits of Mexico. From this work, which is well written, a good part of what we have written on such a subject has been drawn.
+of [p. 9] of SS. Peter and Paul of the Jesuits of Mexico. From this work, which is well written, a good part of what we have written on such a subject has been drawn.
 
 Juan de Tovar, a most noble Mexican Jesuit. He wrote on the ancient history of the kingdoms of Mexico, Acolhuacan, and Tlacopan, after making diligent inquiries by order of the Viceroy of Mexico, Don Martín Enríquez. Of these manuscripts Father Acosta made principal use in what he wrote concerning Mexican antiquities, as he himself declares.
 
@@ -216,11 +184,7 @@ Fernando Pimentel Ixtlilxochitl, son of Coanacochtzin, last king of Acolhuacan, 
 
 Antonio Pimentel Ixtlilxochitl, son of Señor Don Fernando Pimentel. He wrote Historical Memoirs of the kingdom of Acolhuacan, which Torquemada used, and from them was taken the computation noted in bk. IV of our history of the annual expenditure that was made in the palace of the famous King Nezahualcoyotl, great-great-grandfather of that author.
 
-History of Mexico, Vol. I.                 B                   Tadeo
-
-[p. 10]
-
-Tadeo de Niza, a noble Tlaxcalan Indian. In the year 1548, by order of the Viceroy of Mexico, he wrote the history of the conquest, which was signed by thirty Tlaxcalan lords.
+History of Mexico, Vol. I.                 B                   Tadeo [p. 10] Tadeo de Niza, a noble Tlaxcalan Indian. In the year 1548, by order of the Viceroy of Mexico, he wrote the history of the conquest, which was signed by thirty Tlaxcalan lords.
 
 Gabriel de Ayala, a noble Indian of Texcoco. He wrote in Mexican historical commentaries containing the account of all the events of the Mexicans from the year 1243 of the common era to 1562.
 
@@ -252,11 +216,7 @@ Fernando Alvarado Tezozomoc, a Mexican Indian. He wrote in Spanish a Mexican chr
 
 Bartolomé de las Casas, famous Spanish Dominican, first Bishop of Chiapas, and supremely deserving of the Indians. The terrible writings presented by this venerable prelate to Kings Charles V and Philip II in favor of the Indians, and against the Spanish conquerors, printed at Seville,
 
-B2                      and
-
-[p. 12]
-
-and thereafter translated and eagerly reprinted, out of hatred for the Spaniards, in various languages of Europe, contain some points of the ancient history of the Mexicans, but so exaggerated and altered that we cannot rely on the authority of the author, though otherwise very respectable. The too great fire of his zeal transmitted light together with smoke, that is, the truth mingled with the false: (a) not indeed because he sought on purpose to deceive his King and the whole world, since to suspect such wickedness in him would be to wrong his virtue, acknowledged and revered even by his enemies; but because, not having been present at what he relates of Mexico, he trusted too much in the information of others: which we shall show in some places of our History. Far more useful to us, perhaps, would be two other great works of the same prelate, never published, namely 1. an Apologetic History of the climate and the land of the countries of America, and of the character, customs, etc., of the Americans subject to the dominion of the Catholic King. This manuscript, in 830 folios, was preserved in the library of the Dominicans of Valladolid in Spain, where it was read by Remesal, as he attests in his Chronicle of the Dominicans of Chiapas and Guatemala. 2. a general history of America in three folio volumes, a copy of which was in the library of the Count of Villaumbrosa at Madrid, where Pinelo saw it, as he affirms in his Biblioteca occidental. Two volumes of this history were seen by the aforesaid author in the celebrated archive of Simancas, which has been the sepulcher of many valuable manuscripts of America. Two volumes likewise were at Amsterdam in the library of Giacomo Kricio.
+B2                      and [p. 12] and thereafter translated and eagerly reprinted, out of hatred for the Spaniards, in various languages of Europe, contain some points of the ancient history of the Mexicans, but so exaggerated and altered that we cannot rely on the authority of the author, though otherwise very respectable. The too great fire of his zeal transmitted light together with smoke, that is, the truth mingled with the false: (a) not indeed because he sought on purpose to deceive his King and the whole world, since to suspect such wickedness in him would be to wrong his virtue, acknowledged and revered even by his enemies; but because, not having been present at what he relates of Mexico, he trusted too much in the information of others: which we shall show in some places of our History. Far more useful to us, perhaps, would be two other great works of the same prelate, never published, namely 1. an Apologetic History of the climate and the land of the countries of America, and of the character, customs, etc., of the Americans subject to the dominion of the Catholic King. This manuscript, in 830 folios, was preserved in the library of the Dominicans of Valladolid in Spain, where it was read by Remesal, as he attests in his Chronicle of the Dominicans of Chiapas and Guatemala. 2. a general history of America in three folio volumes, a copy of which was in the library of the Count of Villaumbrosa at Madrid, where Pinelo saw it, as he affirms in his Biblioteca occidental. Two volumes of this history were seen by the aforesaid author in the celebrated archive of Simancas, which has been the sepulcher of many valuable manuscripts of America. Two volumes likewise were at Amsterdam in the library of Giacomo Kricio.
 
 Agustín Dávila Padilla, a noble and ingenious Dominican of Mexico, Preacher to King Philip III, Royal Chronicler of America, and Archbishop of the island of
 
@@ -280,11 +240,7 @@ A     ntonio de Herrera, Royal Chronicler of the Indies. This sin‐
 
 cere and judicious author wrote in four folio volumes eight Decades of the history of America, beginning from the year 1492, together with a geographical Description of the Spanish colonies in that New World, which work was printed for the first time at Madrid at the beginning of the last century, and then reprinted in 1730, as well as translated and published in other languages of Europe. Although the principal aim of the author was to relate the deeds of the Spaniards, he does not however omit the ancient history of the Americans; but in what concerns the Mexicans he for the most part copies the accounts of Acosta and of Gómara. His method, moreover, like that
 
-of
-
-[p. 14]
-
-of all the strict annalists, is displeasing to lovers of history, since at every step the narrative is seen to be interrupted, the account of some deed being broken off by the telling of other events quite different from it.
+of [p. 14] of all the strict annalists, is displeasing to lovers of history, since at every step the narrative is seen to be interrupted, the account of some deed being broken off by the telling of other events quite different from it.
 
 Enrico Martínez, a foreign author, though with a Spanish surname. After traveling through the greater part of Europe, and staying many years in Mexico, where he was most useful by reason of his great skill in the mathematics, he wrote the History of New Spain, which was printed in Mexico in 1606. In the ancient history he follows for the most part in the footsteps of Acosta; but it contains astronomical and physical observations that are important for the geography and for the natural history of those countries.
 
@@ -292,11 +248,7 @@ Gregorio García, a Spanish Dominican. His famous treatise on the origin of the 
 
 Juan de Torquemada, a Spanish Franciscan. The history of Mexico written by him under the title of Monarquía indiana, printed at Madrid about 1614 in three large folio volumes, and reprinted in 1724, is beyond doubt the most complete, with regard to Mexican antiquity, of all that have been published up to now. The author remained in Mexico from his youth until his death, knew the Mexican language very well, associated with the Mexicans for more than fifty years, collected a great number of ancient paintings and excellent manuscripts, and labored on his work more than twenty years; but in spite of his diligence and of such advantages, he often shows himself lacking in memory, in criticism, and in good taste, and in his history there are to be seen many gross contradictions, above all concerning chronology, several childish tales, and a great abundance of superfluous erudition; so that a good deal of patience is needed to read it. Nevertheless, there being very many things in it of great merit,
 
-which
-
-[p. 15]
-
-which will be sought in vain in other authors, I was obliged to do in such a history what Virgil did with the works of Ennius, that is, to search for gems amid the dung.
+which [p. 15] which will be sought in vain in other authors, I was obliged to do in such a history what Virgil did with the works of Ennius, that is, to search for gems amid the dung.
 
 Arias de Villalobos, a Spaniard. His History of Mexico, carried from the founding of the capital down to the year 1623, written in verse and printed there in the same year, is a work of little merit.
 
@@ -304,11 +256,7 @@ Cristóbal Chaves Castillejo, a Spaniard. About the year 1632 he wrote a folio v
 
 Carlos de Sigüenza y Góngora, a celebrated Mexican, professor of mathematics in the university of his native land. This great man was one of those who have deserved best of the History of Mexico; for at great expense he made a large and choice collection of manuscripts and ancient paintings, and he applied himself with the greatest diligence and assiduity to illustrating the antiquities of that kingdom. Besides many mathematical, critical, historical, and poetical works composed by him, some still in manuscript and some printed in Mexico from the year 1680 to 1693, he wrote in Spanish: 1. The Ciclografía mexicana, a work of great labor, in which, by calculating the eclipses and the comets noted in the historical paintings of the Mexicans, he adjusted their epochs to ours, and, making use of good documents, set forth the method that they had in counting the centuries, the years, and the months. 2. The Historia del imperio de los chichimecas, in which he set forth what he had found in the manuscripts and in the Mexican paintings concerning the first colonies that passed from Asia to America, and concerning the events of the most ancient nations settled in Anahuac. 3. A long and very learned dissertation on the preaching of the Gospel in Anahuac, made there, as he believed, by the Apostle St. Thomas, availing himself of the tradition of the Indians, of the crosses found and already venerated in Mexico, and of other monuments. 4. The Genealogy of the Mexican Kings, in which he deduced the series of their ancestors from as far back as the seventh century of the Christian era. 5. Critical annotations on the works of Torquemada and of Bernal Díaz. All these most erudite manuscripts,
 
-which
-
-[p. 16]
-
-which could have given us great help for our history, were lost through the carelessness of the heirs of that learned author, and only a few fragments of them remain, preserved in the works of some contemporary writers, as in those of Gemelli, Vetancurt, and Florencia.
+which [p. 16] which could have given us great help for our history, were lost through the carelessness of the heirs of that learned author, and only a few fragments of them remain, preserved in the works of some contemporary writers, as in those of Gemelli, Vetancurt, and Florencia.
 
 Agustín de Vetancurt, a Franciscan of Mexico. His history, ancient and modern, of Mexico, printed in that capital in 1698 in one folio volume under the title of Teatro mexicano, is, so far as the ancient history is concerned, nothing other than an abridgment of Torquemada’s, made in haste and written with little care.
 
@@ -322,21 +270,13 @@ Solís in the office of Chronicler. A True History of the Conquest of New Spain,
 
 Lorenzo Boturini Benaducci, a Milanese. This curious and erudite Chevalier went to Mexico in 1736, and, eager to write the History of that kingdom, made, during the eight years that he stayed there, the most diligent researches into its antiquities, learned the Mexican language moderately well, made friends with the Indians in order to obtain ancient paintings from them, and procured
 
-copies
-
-[p. 17]
-
-copies of many valuable manuscripts that were in the libraries of the monasteries. The museum that he formed of paintings and ancient manuscripts was the most copious and the most choice that has ever been seen in that kingdom, at least after that of the most illustrious Sigüenza; but before he could lay hand to his work he was stripped, by the excessive jealousy of that government, of all his literary property, and sent to Spain, where, having been wholly cleared of every suspicion against his loyalty and honor, though without recovering his manuscripts, he printed at Madrid in 1746, in one quarto volume, a sample of the great history that he was planning. In it are found some important pieces of information never before published; but there are also errors in it. The system of history that he had formed for himself was too grand, and therefore somewhat fanciful.
+copies [p. 17] copies of many valuable manuscripts that were in the libraries of the monasteries. The museum that he formed of paintings and ancient manuscripts was the most copious and the most choice that has ever been seen in that kingdom, at least after that of the most illustrious Sigüenza; but before he could lay hand to his work he was stripped, by the excessive jealousy of that government, of all his literary property, and sent to Spain, where, having been wholly cleared of every suspicion against his loyalty and honor, though without recovering his manuscripts, he printed at Madrid in 1746, in one quarto volume, a sample of the great history that he was planning. In it are found some important pieces of information never before published; but there are also errors in it. The system of history that he had formed for himself was too grand, and therefore somewhat fanciful.
 
 Besides these and other writers, both Spanish and Indian, there are also some anonymous ones whose works are worthy of being remembered for the importance of their subject, and these are: 1. certain annals of the Toltec nation, painted on paper and written in the Mexican language, in which an account is given of the migration and the wars of the Toltecs, of their kings, of the founding of Tollan, their metropolis, and of other events of theirs down to the year 1547 of the common era. 2. certain historical commentaries in Mexican on the events of the Aztec, or Mexican, nation from the year 1066 to 1316, and others likewise in Mexican from the year 1367 to 1509. 3. a Mexican history in Mexican brought down to the year 1406, in which the arrival of the Mexicans at the city of Tollan in 1196 is placed, as we say in our history. All these manuscripts were in the precious museum of the Chevalier Boturini.
 
 We do not make mention here of those authors who wrote of the antiquities of Michoacán, Yucatán, Guatemala, and New Mexico; for although all these provinces are today believed by many to be comprised in Mexico, they did not belong to the Mexican empire, whose history we are writing. We do mention, however, the authors of the ancient history of the kingdom of Acolhuacan and of the republic of Tlaxcala, because their events
 
-History of Mexico, Vol. I.                  C                      are
-
-[p. 18]
-
-are for the most part connected with those of the Mexicans.
+History of Mexico, Vol. I.                  C                      are [p. 18] are for the most part connected with those of the Mexicans.
 
 If in enumerating the writers on Mexico we sought to make a show of erudition, we could set down here a very long catalogue of French, English, Italians, Dutch, Flemings, and Germans who have written, either on purpose or incidentally, of the ancient history of that kingdom; but having read very many of them in order to make use of them in my work, I have found none who could be of service to me, except the two Italians Gemelli and Boturini, who, by having been in Mexico, and by having procured from the Mexicans paintings and particular records concerning their antiquities, have in some manner contributed to the illustration of its history. All the others have either repeated what had already been written by the Spanish authors whom we have mentioned, or else have altered the facts to suit themselves, in order to rage all the more fiercely against the Spaniards, as M. de P. has lately done in his Recherches philosophiques sur les Américains, and M. Marmontel in his romance Les Incas.
 
@@ -350,11 +290,7 @@ Among the modern writers on the affairs of America the most famous and esteemed 
 
 Dr. Robertson, though more moderate than Raynal in his distrust of history, and better supplied with Spanish books and manuscripts, fell likewise into more errors and contradictions, since he sought to go further in the knowledge of America and of the Americans. Then, to make us despair of being able to obtain even a moderate account of the institutions and customs of the Mexicans, he exaggerates the stupidity of the Conquerors and the destruction wrought upon the historical monuments of that nation by the superstition of the first missionaries. “In consequence,” he says, “of this fanatical zeal of the monks… whatever knowledge of remote events
 
-C2                     such
-
-[p. 20]
-
-such rude monuments contained was entirely lost, and no information remained concerning the ancient revolutions and policy of the empire, but what was derived from tradition, or from some fragments of their historical paintings that escaped the barbarous researches of Zummaraga. From the experience of all nations it is manifest, that the memory of past transactions can neither be long preserved, nor be transmitted with any fidelity by tradition. The Mexican paintings, which are supposed to have served as annals of their empire, are few in number, and of ambiguous meaning. Thus amidst the uncertainty of the former, and the obscurity of the latter, we must glean what intelligence can be collected from the scanty materials scattered in the Spanish writers.” But in all this the author is mistaken; for, 1. the materials found in the Spanish historians are not so scanty that a reasonable, though not altogether complete, history of the Mexicans cannot be formed from them, as is manifest to anyone who consults them without partiality: it is enough to know how to make the choice, and to separate the grain from the chaff. 2. Nor, in order to write such a history, is there need to rely on the materials scattered among the Spaniards, since there are so many Histories and Memoirs written by the Indians themselves, of which Robertson had no knowledge. 3. Nor are the historical paintings that escaped the researches of the first missionaries few, except in relation to the unspeakable abundance that existed before, as may easily be seen in our history, and in that of Torquemada, and of other writers. 4. Neither are such paintings of ambiguous meaning, except to Robertson, and to all those who do not understand the characters and the figures of the Mexicans, nor know the method that they had for representing things, just as our writings are of ambiguous meaning to those who have not learned to read. When the lamentable burning of the paintings was carried out by the missionaries, there were living very many historians, Acolhuas, Mexicans, Tepanecs, Tlaxcalans, etc., who exerted themselves to repair the loss of such monuments, as in part they succeeded in doing, now by making new paintings, now by making use of our characters, already learned by them, now by instructing
+C2                     such [p. 20] such rude monuments contained was entirely lost, and no information remained concerning the ancient revolutions and policy of the empire, but what was derived from tradition, or from some fragments of their historical paintings that escaped the barbarous researches of Zummaraga. From the experience of all nations it is manifest, that the memory of past transactions can neither be long preserved, nor be transmitted with any fidelity by tradition. The Mexican paintings, which are supposed to have served as annals of their empire, are few in number, and of ambiguous meaning. Thus amidst the uncertainty of the former, and the obscurity of the latter, we must glean what intelligence can be collected from the scanty materials scattered in the Spanish writers.” But in all this the author is mistaken; for, 1. the materials found in the Spanish historians are not so scanty that a reasonable, though not altogether complete, history of the Mexicans cannot be formed from them, as is manifest to anyone who consults them without partiality: it is enough to know how to make the choice, and to separate the grain from the chaff. 2. Nor, in order to write such a history, is there need to rely on the materials scattered among the Spaniards, since there are so many Histories and Memoirs written by the Indians themselves, of which Robertson had no knowledge. 3. Nor are the historical paintings that escaped the researches of the first missionaries few, except in relation to the unspeakable abundance that existed before, as may easily be seen in our history, and in that of Torquemada, and of other writers. 4. Neither are such paintings of ambiguous meaning, except to Robertson, and to all those who do not understand the characters and the figures of the Mexicans, nor know the method that they had for representing things, just as our writings are of ambiguous meaning to those who have not learned to read. When the lamentable burning of the paintings was carried out by the missionaries, there were living very many historians, Acolhuas, Mexicans, Tepanecs, Tlaxcalans, etc., who exerted themselves to repair the loss of such monuments, as in part they succeeded in doing, now by making new paintings, now by making use of our characters, already learned by them, now by instructing
 
 ## their
 
@@ -374,11 +310,7 @@ paintings that were saved from the burning by the first missionaries, or that we
 
 I. The Mendoza Collection. So we call the collection of 63 Mexican paintings made by order of the first Viceroy of Mexico, Don Antonio de Mendoza, to which he had added, by persons who understood them, their interpretation in the Mexican and Spanish languages, in order to send them to the Emperor Charles V. The vessel on which they were sent was captured by a French corsair and taken to France. The Mexican paintings came into the hands of Thevet, geographer to the Most Christian King, from whose heirs Hakluyt, at that time chaplain to the English ambassador at the court of France, bought them at a great price. Thence carried to England, their Spanish interpretation was translated into English by Locke (not the same as the other famous metaphysician of the same name) by order of Walter Raleigh, and finally, at the request of the learned Henry Spelman, published by Samuel Purchas in the third volume of his collection. In 1692 they were printed anew at Paris, with the French interpretation, by Melchisédech Thévenot in vol. II of his work entitled Relations de divers voyages curieux. The paintings were, as we have already said, sixty-three: the first twelve containing the founding of Mexico, and the years and conquests of the Mexican kings; the thirty-six following representing the tributary cities of that crown, and the quantity and quality of their tributes; and the last fifteen indicating a part of the education of their children and of their political government. But it must be noted that Thévenot’s edition is deficient and defective, since in the copies of paintings XI and XII the figures of
 
-the
-
-[p. 23]
-
-the years are seen to be changed, the figures belonging to the reign of Moctezuma II being put in that of Ahuitzotl, and the reverse; the copies of paintings XXI and XXII are altogether missing, and for the most part the figures of the tributary cities. Father Kircher reprinted a copy of the first painting, made from that of Purchas, in his work entitled Oedipus Aegyptiacus. This Mendoza collection has been diligently studied by us, and has afforded us some advantage for the History.
+the [p. 23] the years are seen to be changed, the figures belonging to the reign of Moctezuma II being put in that of Ahuitzotl, and the reverse; the copies of paintings XXI and XXII are altogether missing, and for the most part the figures of the tributary cities. Father Kircher reprinted a copy of the first painting, made from that of Purchas, in his work entitled Oedipus Aegyptiacus. This Mendoza collection has been diligently studied by us, and has afforded us some advantage for the History.
 
 II. The Vatican Collection. Father Acosta makes mention of certain painted Mexican annals that were in his time in the library of the Vatican. We do not doubt that they are there still, in view of the great and praiseworthy curiosity of the Italian gentlemen in preserving such antiquities, but we have not had the opportunity to betake ourselves to Rome to seek them out and study them.
 
@@ -386,21 +318,13 @@ III. The Vienna Collection. In the Imperial library of that court there are pres
 
 IV. The Sigüenza Collection. This most learned Mexican, being exceedingly devoted to the study of antiquity, gathered a great number of choice ancient paintings, some
 
-purchased
-
-[p. 24]
-
-purchased at a great price, and some left to him by will by the most noble Indian Don Juan de Alva Ixtlilxochitl, who had inherited them from the kings of Texcoco, his ancestors. Those images of the Mexican century and of the migration of the Aztecs, and those portraits of the Mexican kings, which Gemelli published in vol. VI of his Giro del mondo, are copies of the paintings of Sigüenza, then living in Mexico, when Gemelli came there. (a) The figure of the Mexican century and year is in substance the same that more than a century earlier Valadés had published in Italy in his Rhetorica christiana. Sigüenza, after having made use of the aforesaid paintings for his most erudite works, left them at his death to the College of SS. Peter and Paul of the Jesuits of Mexico, together with his very choice library and his excellent mathematical instruments, where I saw and studied in the year 1759 some volumes of such paintings, containing for the most part the penalties prescribed by the Mexican laws against certain crimes.
+purchased [p. 24] purchased at a great price, and some left to him by will by the most noble Indian Don Juan de Alva Ixtlilxochitl, who had inherited them from the kings of Texcoco, his ancestors. Those images of the Mexican century and of the migration of the Aztecs, and those portraits of the Mexican kings, which Gemelli published in vol. VI of his Giro del mondo, are copies of the paintings of Sigüenza, then living in Mexico, when Gemelli came there. (a) The figure of the Mexican century and year is in substance the same that more than a century earlier Valadés had published in Italy in his Rhetorica christiana. Sigüenza, after having made use of the aforesaid paintings for his most erudite works, left them at his death to the College of SS. Peter and Paul of the Jesuits of Mexico, together with his very choice library and his excellent mathematical instruments, where I saw and studied in the year 1759 some volumes of such paintings, containing for the most part the penalties prescribed by the Mexican laws against certain crimes.
 
 V. The Boturini Collection. This precious collection of Mexican antiquities, formerly sequestered by the jealous government of Mexico from that erudite and laborious Chevalier, was preserved for the most part in the archive of the Viceroy. I saw some
 
 of
 
-(a) Dr. Robertson says that the copy of the journey of the Mexicans, or Aztecs, was given to Gemelli by Don Cristóbal de Guadalajara; but in this he contradicts Gemelli himself, who declares himself indebted to Sigüenza for all the Mexican antiquities that he gives us in his account. From Guadalajara he had nothing else than the hydrographic chart of the Mexican lake. “But as it seems now,” adds Robertson, “to be a received opinion (founded I know not on what evidence) that Carreri was never out of Italy, and that his famous Giro del Mundo, is an account of a fictitious voyage, I have not mentioned these paintings.” If I did not live in the eighteenth century, in which the most extravagant ideas are seen to be adopted, I should be greatly astonished that such an opinion should be generally accepted. In fact, who could imagine that a man who had never been in Mexico would be capable of giving so minute an account of the smallest events of that time, of the persons then living, of their qualities and offices, of all the monasteries of Mexico and of other cities, of the number of their religious, and even of that of the altars of every church, and of other minutiae never published? Nay, in order to do justice to the merit of this Italian, I declare that I have never found a more exact traveler in what he saw with his own eyes, though not in what he had by the information of others.
-
-[p. 25]
-
-of these paintings, containing some events of the conquest, and some fine portraits of the Mexican kings. In 1770 there were published in Mexico, together with Cortés’s letters, the figure of the Mexican year and thirty-two copies of as many paintings of the tributes that several cities of Mexico paid to that crown, the one and the others taken from the Boturini Museum. Those of the tributes are the same as those of the Mendoza collection, published by Purchas and by Thévenot. Those of Mexico are better engraved, and have the figures of the tributary cities, which for the most part are lacking in the others; but for the rest, six copies of those belonging to the tributes are altogether wanting in them, and there are a thousand absurdities in the interpretation of the figures, caused by ignorance of antiquity and of the Mexican language. This must be noted, so that those who see that work printed in Mexico under a respected name may not for that reason trust it and stumble into some error.
+(a) Dr. Robertson says that the copy of the journey of the Mexicans, or Aztecs, was given to Gemelli by Don Cristóbal de Guadalajara; but in this he contradicts Gemelli himself, who declares himself indebted to Sigüenza for all the Mexican antiquities that he gives us in his account. From Guadalajara he had nothing else than the hydrographic chart of the Mexican lake. “But as it seems now,” adds Robertson, “to be a received opinion (founded I know not on what evidence) that Carreri was never out of Italy, and that his famous Giro del Mundo, is an account of a fictitious voyage, I have not mentioned these paintings.” If I did not live in the eighteenth century, in which the most extravagant ideas are seen to be adopted, I should be greatly astonished that such an opinion should be generally accepted. In fact, who could imagine that a man who had never been in Mexico would be capable of giving so minute an account of the smallest events of that time, of the persons then living, of their qualities and offices, of all the monasteries of Mexico and of other cities, of the number of their religious, and even of that of the altars of every church, and of other minutiae never published? Nay, in order to do justice to the merit of this Italian, I declare that I have never found a more exact traveler in what he saw with his own eyes, though not in what he had by the information of others. [p. 25] of these paintings, containing some events of the conquest, and some fine portraits of the Mexican kings. In 1770 there were published in Mexico, together with Cortés’s letters, the figure of the Mexican year and thirty-two copies of as many paintings of the tributes that several cities of Mexico paid to that crown, the one and the others taken from the Boturini Museum. Those of the tributes are the same as those of the Mendoza collection, published by Purchas and by Thévenot. Those of Mexico are better engraved, and have the figures of the tributary cities, which for the most part are lacking in the others; but for the rest, six copies of those belonging to the tributes are altogether wanting in them, and there are a thousand absurdities in the interpretation of the figures, caused by ignorance of antiquity and of the Mexican language. This must be noted, so that those who see that work printed in Mexico under a respected name may not for that reason trust it and stumble into some error.
 
 ## NOTICE
 
@@ -410,11 +334,7 @@ saying more, the measures of Paris are to be understood, which, being more gener
 
 In the map of the Mexican empire we have contented ourselves with indicating the provinces and a very few places, leaving out a great many, and among others not a few considerable cities;
 
-History of Mexico, Vol. I.                 D                  because
-
-[p. 26]
-
-because their names are so long that they would leave no room for the names of the provinces. Those two little islands that are seen in the Gulf of Mexico are hardly a mile and a half from the coast; but it pleased the engraver to represent them farther off. One of them is the one that the Spaniards called San Juan de Ulúa.
+History of Mexico, Vol. I.                 D                  because [p. 26] because their names are so long that they would leave no room for the names of the provinces. Those two little islands that are seen in the Gulf of Mexico are hardly a mile and a half from the coast; but it pleased the engraver to represent them farther off. One of them is the one that the Spaniards called San Juan de Ulúa.
 
 ## Ancient
 
@@ -518,11 +438,7 @@ stead of Tlacopan, Acolman, Otompan, Huexotla, Tepejacac, Quauhtemallan, and
 
 Huitzilopochco; and this example we shall imitate as far as is fitting, in order to spare
 
-readers the difficulty of pronouncing them.
-
-[p. 29]
-
-than for the civilization and refinement of its inhabitants. The three cities of Huexotla, Coatlichan, and Atenco were so near to it that they Bk. I. could be considered as so many suburbs. That of Otompan was of great note, as were also those of Acolman and of Tepepulco.
+readers the difficulty of pronouncing them. [p. 29] than for the civilization and refinement of its inhabitants. The three cities of Huexotla, Coatlichan, and Atenco were so near to it that they Bk. I. could be considered as so many suburbs. That of Otompan was of great note, as were also those of Acolman and of Tepepulco.
 
 The celebrated republic of Tlaxcallan, or Tlascalla, bordered on the west on the kingdom of Acolhuacan, on the south on the republics of Cholula and of Huexotzinco, and on the state of Tepeyacac, which belonged to the crown of Mexico, on the north on the state of Zacatlán, and on the east on other states likewise subject to the same crown. Its length did not reach fifty miles, nor its breadth more than thirty. Tlaxcallan, the capital, from which the republic took its name, was situated on the slope of the great mountain Matlalcueye, to the northwest, and about seventy miles east of the Mexican court.
 
@@ -532,11 +448,7 @@ The noblest portion of this land, as much with regard to its advantageous situat
 
 valley
 
-(c) Solís and other authors, Spanish as well as French and English, give a much greater extent to the kingdom of Mexico, and Dr. Robertson says that “the territories belonging to the chiefs of Tezeuco and Tacuba, were hardly inferior in extent to those of the Mexican monarch”; but how far these authors are from the truth we shall show in our Dissertations.
-
-[p. 30]
-
-valley of Mexico itself, crowned by beautiful and verdant mountains, Bk. I.
+(c) Solís and other authors, Spanish as well as French and English, give a much greater extent to the kingdom of Mexico, and Dr. Robertson says that “the territories belonging to the chiefs of Tezeuco and Tacuba, were hardly inferior in extent to those of the Mexican monarch”; but how far these authors are from the truth we shall show in our Dissertations. [p. 30] valley of Mexico itself, crowned by beautiful and verdant mountains, Bk. I.
 
 whose circumference, measured along the lower part of the moun‐
 
@@ -600,11 +512,7 @@ Tepetlaoztoc, Tepepulco, Tizayuca, Citlaltepec, Coyotepec, Zumpango, Tultitlán,
 
 Tetepanco, Ecatepec, Tequixquiac, Huipochtlan, Tepotzotlán, Tehuilloyoccan, Huehuetoca,
 
-Atlacuihuayan, etc. See our Dissertation VI.
-
-[p. 31]
-
-of north latitude, and in 276° 34′ of longitude, between the two
+Atlacuihuayan, etc. See our Dissertation VI. [p. 31] of north latitude, and in 276° 34′ of longitude, between the two
 
 Bk. I. courts of Texcoco and Tlacopan, fifteen miles to the west of the former, and four to the east of the other. Of its provinces some were inland and others maritime.
 
@@ -616,11 +524,7 @@ The province of the Otomis began in the northern part of the Mexican valley and 
 
 The province of the Matlatzincas comprised, besides the valley of Toluca, all the space that lies from there to Tlaximaloyan (today Taximaroa), the frontier of the kingdom of Michoacán. The fertile valley of Toluca is more than forty miles long from southeast to northwest, and as much as thirty wide where it broadens most. Toluca, which was the principal city
 
-of
-
-[p. 32]
-
-of the Matlatzincas, from which the valley took its name, was, as it Bk. I. still is, situated at the foot of a lofty mountain perpetually crowned
+of [p. 32] of the Matlatzincas, from which the valley took its name, was, as it Bk. I. still is, situated at the foot of a lofty mountain perpetually crowned
 
 with snow, thirty miles from Mexico. All the other places of the valley
 
@@ -768,21 +672,13 @@ southeast on the country of Xochitepec, which did not belong to the
 
 crown of Mexico, and on the west on that of
 
-Tehuantepec
-
-[p. 35]
-
-of Tehuantepec, and toward the south ended at the sea. Its capital, also called Soconusco, was situated between two rivers in 14° of lati‐ Bk. I. tude and 283° of longitude. On the Gulf of Mexico there were, besides the coast of the Totonacs, the provinces of Cuetlachtlan and of Coatzacoalco. The latter bordered on the east on the vast country of Onohualco, under which name the Mexicans included the states of Tabasco and of the peninsula of Yucatán, which were not subject to their dominion. Besides the capital, likewise called Coatzacoalco, founded on the bank of a great river, there were other well-populated places, among which special mention is due to Painala, as having been the birthplace of the famous Malintzin, one of the most effective instruments of the conquest of Mexico. The province of Cuetlachtlan, which had a capital likewise so called, comprised all that coast which lies between the Alvarado River, where the province of Coatzacoalco ends, and the Antigua (*), where that of the Totonacs began. In that part of the coast which the Mexicans called Chalchicuecan there now stand the city and port of Veracruz, the most renowned in all New Spain.
+Tehuantepec [p. 35] of Tehuantepec, and toward the south ended at the sea. Its capital, also called Soconusco, was situated between two rivers in 14° of lati‐ Bk. I. tude and 283° of longitude. On the Gulf of Mexico there were, besides the coast of the Totonacs, the provinces of Cuetlachtlan and of Coatzacoalco. The latter bordered on the east on the vast country of Onohualco, under which name the Mexicans included the states of Tabasco and of the peninsula of Yucatán, which were not subject to their dominion. Besides the capital, likewise called Coatzacoalco, founded on the bank of a great river, there were other well-populated places, among which special mention is due to Painala, as having been the birthplace of the famous Malintzin, one of the most effective instruments of the conquest of Mexico. The province of Cuetlachtlan, which had a capital likewise so called, comprised all that coast which lies between the Alvarado River, where the province of Coatzacoalco ends, and the Antigua (*), where that of the Totonacs began. In that part of the coast which the Mexicans called Chalchicuecan there now stand the city and port of Veracruz, the most renowned in all New Spain.
 
 The whole country of Anahuac was, generally speaking, well populated. In the History and in the dissertations we shall have occasion to mention several particular cities and to give some idea of the multitude of their inhabitants. Almost all the inhabited places survive still under the same ancient names, though in part altered; but all the ancient cities, except Mexico, Orizaba, and one or two others, are seen to be so diminished that they scarcely have the fourth part of the number of buildings and inhabitants that they once had; there are many that have only the tenth part, and some that do not preserve even the twentieth part. Now, speaking of the Indians in general, and comparing what is reported of their multitude
 
 E2                          by
 
-(*) We give this river the Spanish name by which it is now known, because we do not know what the Mexicans called it.
-
-[p. 36]
-
-by the first Spanish historians and the native writers with what we
+(*) We give this river the Spanish name by which it is now known, because we do not know what the Mexicans called it. [p. 36] by the first Spanish historians and the native writers with what we
 
 Bk. I.
 
@@ -860,11 +756,7 @@ There were also, and there still are, several lakes, which served no less to emb
 
 of
 
-(g) M. de Bomare says in his Dictionary of Natural History that the salt of the Mexican lake may come from the waters of the North Sea filtered through the earth; and to confirm his opinion he cites Le Journal des Sçavans of the year 1676, but this is truly a gross error, since that lake is 180 miles distant from the sea, besides which the bed of the lake is so elevated that it stands at least a mile in perpendicular height above the surface of the sea. The anonymous author of the work entitled Observations curieuses sur le lac de Mexique (the very one of which the journalists of Paris give the extract) is very far from adopting the error of M. de Bomare.
-
-[p. 38]
-
-of Zumpango and of Xaltocan gave their names. The lake of Tochtlan Bk. I.
+(g) M. de Bomare says in his Dictionary of Natural History that the salt of the Mexican lake may come from the waters of the North Sea filtered through the earth; and to confirm his opinion he cites Le Journal des Sçavans of the year 1676, but this is truly a gross error, since that lake is 180 miles distant from the sea, besides which the bed of the lake is so elevated that it stands at least a mile in perpendicular height above the surface of the sea. The anonymous author of the work entitled Observations curieuses sur le lac de Mexique (the very one of which the journalists of Paris give the extract) is very far from adopting the error of M. de Bomare. [p. 38] of Zumpango and of Xaltocan gave their names. The lake of Tochtlan Bk. I.
 
 in the province of Coatzacoalco is very beautiful, and its shores are
 
@@ -932,11 +824,7 @@ scribed for those who sweat easily is a dram of scrapings.
 
 (i) Among the cascades the most famous is that made by the great river of
 
-Guadalajara at a place called Tempizque, fifteen miles south of that city.
-
-[p. 39]
-
-the carts and carriages. It may be believed that it was a fragment of
+Guadalajara at a place called Tempizque, fifteen miles south of that city. [p. 39] the carts and carriages. It may be believed that it was a fragment of
 
 Bk. I. the neighboring mountain, torn away by some ancient earthquake.
 
@@ -946,11 +834,7 @@ The climate of the countries of Anahuac varies according to their
 
 This mildness and pleasantness of the climate beneath the torrid zone is the effect of several natural causes entirely unknown to the ancients, who believed it uninhabitable, and not well understood by some moderns, by whom it is held to be little favorable
 
-to
-
-[p. 40]
-
-to living beings. The clearness of the atmosphere, the lesser obliquity
+to [p. 40] to living beings. The clearness of the atmosphere, the lesser obliquity
 
 Bk. I.
 
@@ -1018,11 +902,7 @@ Spaniards the Volcano of Orizaba, began to throw out smoke in
 
 been seen in it in more than two centuries
 
-the
-
-[p. 41]
-
-the slightest sign of fire. This celebrated mountain, which is of coni‐
+the [p. 41] the slightest sign of fire. This celebrated mountain, which is of coni‐
 
 Bk. I. cal shape, and is without doubt the highest in all the land of Anahuac, is by reason of its height the first land seen by navigators sailing toward that quarter, at a distance of 150 miles. (k) Its summit is always covered with snow, and its slope is adorned with great cedars, pines, and other trees of precious wood; whence its prospect is beautiful from every side. It is more than ninety miles from the capital toward the east.
 
@@ -1032,11 +912,7 @@ History of Mexico, Vol. I.                           F                         h
 
 (k) The Poyauhtecatl is higher than the Teide, or Peak of Tenerife, according to Father Taillandier, a Jesuit, who observed both. See the Lettres édifiantes, etc. Of the Popocatépetl Thomas Gage says that it is as high as the highest mountains of the Alps. He might have said something more still, if he had also taken into account the elevation of the ground from which this celebrated mountain rises.
 
-(l) The excise on ice, or frozen snow, that is consumed in the capital amounted in 1746 to as much as 15,522 Mexican scudi; some years later it rose to more than 20 thousand, and at present we may believe that it is much more.
-
-[p. 42]
-
-have at times thrown out fire in our own times. (m) Bk. I.     Besides these mountains there are still others, which, though not
+(l) The excise on ice, or frozen snow, that is consumed in the capital amounted in 1746 to as much as 15,522 Mexican scudi; some years later it rose to more than 20 thousand, and at present we may believe that it is much more. [p. 42] have at times thrown out fire in our own times. (m) Bk. I.     Besides these mountains there are still others, which, though not
 
 burning, are nonetheless very renowned for their height, such as the
 
@@ -1108,21 +984,13 @@ that he had collected on a sheet of paper. In the city of Valladolid, sixty mile
 
 ashes rained in such abundance that the courtyards of the houses had to be swept
 
-two or three times a day.
-
-[p. 43]
-
-the most part this precious metal in grains among the sands of the
+two or three times a day. [p. 43] the most part this precious metal in grains among the sands of the
 
 Bk. I. rivers, and the aforesaid peoples paid a certain quantity of it to the crown of Mexico. Silver was dug from the mines of Tlachco (celebrated even at that time), of Zumpango, and others; but it was not so highly prized by them as by other nations. After the conquest so many silver mines have been discovered in that country, especially in the provinces that lie to the northwest of the capital, that it is quite impossible to number them. Of copper they had two kinds, one hard, which they used in place of iron for making axes, hatchets, hoes, and other instruments of war and of agriculture, and the other common and pliant, for making basins, pots, and other vessels. This metal abounded more than elsewhere in the provinces of Zacatula and of the Cohuixcas, as it does today in the kingdom of Michoacán. They dug tin from the mines of Tlachco, and lead from those of Ixmiquilpan, a place in the country of the Otomis. Of tin they made money, as we shall say in its place, and of lead we know that it was sold in the markets; but we are wholly ignorant of the use they made of it. They had also iron mines in Tlaxcala, in Tlachco, and in other places; but either they did not discover the mines, or else they did not know how to take advantage of the metal. They had likewise in Chilapa mines of quicksilver, and in many places mines of sulphur, alum, vitriol, cinnabar, ochre, and of a white earth very much like white lead. As for the quicksilver and the vitriol, we do not know what use they made of them; of the other minerals they made use for their paintings and dyes. Of amber and of asphaltum, or bitumen of Judea, there was, and there still is, great abundance on the coasts of both seas, and several places of the empire paid tribute in both of them to the king of Mexico. The amber, which they set in gold, they used only for ornament and pleasure; of the asphaltum they made use in certain incensings, as we shall see elsewhere.
 
 Among the precious stones there were, and there still are, diamonds,
 
-F2                 though
-
-[p. 44]
-
-though few, emeralds, amethysts, cat's-eyes, turquoises, cornelians, Bk. I.
+F2                 though [p. 44] though few, emeralds, amethysts, cat's-eyes, turquoises, cornelians, Bk. I.
 
 and certain green stones resembling emeralds and not much inferior
 
@@ -1186,11 +1054,7 @@ which is a species of selenite, or ass's mirror, is a diaphanous whitish
 
 stone,
 
-and
-
-[p. 45]
-
-and easily divisible into thin plates, which by means of calcination
+and [p. 45] and easily divisible into thin plates, which by means of calcination
 
 Bk. I. yields a fine plaster, and the ancient Mexicans used it for the white of their paintings. There is also an infinite quantity of gypsum and of talc; but as to this stone we do not know the use they made of it. The Mezcuitlatl, that is, dung of the moon, is of the class of those stones which, because of their resistance to the action of fire, are called by the chemists Lapides refractarii. It is transparent, and of a reddish gold color. But no other stone was so commonly used among the Mexicans as the Itztli, of which there is abundance in many places of Mexico. The Itztli is semi-diaphanous, of vitreous substance, and for the most part black; but there is also found white and blue. Of this stone they made mirrors, knives, lancets, razors, and even swords, as we shall say where we treat of their military affairs, and after the introduction of the Gospel highly prized altar stones were made of it. (n)
 
@@ -1202,11 +1066,7 @@ that
 
 (n) The Itztli is known in South America under the name of Gallinazo stone. The celebrated M. de Caylus, in a manuscript dissertation of his, seen and cited by M. de Bomare, proves that the Obsidian stone, of which the ancients made the murrhine vases so highly esteemed by them, was entirely like the Gallinazo stone.
 
-(o) We adopt this division of plants, though imperfect, because it seemed to us the most convenient and the most fitting to the purpose of our History.
-
-[p. 46]
-
-that adorned the meadows and decked the gardens of the Mexicans, Bk. I. there are some worthy of mention either for the singular beauty of
+(o) We adopt this division of plants, though imperfect, because it seemed to us the most convenient and the most fitting to the purpose of our History. [p. 46] that adorned the meadows and decked the gardens of the Mexicans, Bk. I. there are some worthy of mention either for the singular beauty of
 
 their colors, or for their most delicate fragrance, or even for their ex‐
 
@@ -1268,11 +1128,7 @@ with the brush as it deserves, greatly sought after by the princes of the Indian
 
 nature, and held in high esteem. Hernández, Hist. Nat. N. Hispaniae, bk. 8, ch. 8. The
 
-Lincei Academicians of Rome, who commented on
-
-[p. 47]
-
-or leaves, purple at the innermost part, whitish in the middle, and red in the rest, but charmingly spotted with yellow and whitish dots. The Bk. I. plant that bears it has leaves resembling those of the iris, or flag, but longer and broader, and small, slender stalks. This flower was one of the most esteemed by the Mexicans.
+Lincei Academicians of Rome, who commented on [p. 47] or leaves, purple at the innermost part, whitish in the middle, and red in the rest, but charmingly spotted with yellow and whitish dots. The Bk. I. plant that bears it has leaves resembling those of the iris, or flag, but longer and broader, and small, slender stalks. This flower was one of the most esteemed by the Mexicans.
 
 The Oceloxochitl, or Tiger Flower, is large, composed of three pointed leaves, and red, but toward the middle variegated with white and yellow, and in some manner representing the spots of that beast, whence it took its name. The plant has leaves likewise resembling those of the flag, and a bulbous root.
 
@@ -1358,21 +1214,13 @@ but of a sweet and pleasing taste, which would doubtless be improved if they wer
 
 brought under cultivation. The grape of the other vine is hard, large, and of a very
 
-harsh taste; but quite good preserves are made of it.
-
-[p. 49]
-
-the testimony of Oviedo, of Hernández, and of Bernal Díaz, that the coconuts were owed to the Philippine Islands, and the others to the Bk. I. Canaries; (t) but knowing that many hold a different opinion, I do not wish to engage in a dispute which, besides being of no importance to me, would divert me from the course of the History. It is certain that these plants, and all the others brought there from elsewhere, have thrived happily in that country, and have multiplied as much as in their own. All the maritime lands abound in coconut palms. Of oranges there are seven very different species, and of lemons at least four. There are as many, and very different ones, of (u) Musa, or Platano, as the Spaniards call it. The largest, which is the Zapalote, is from fifteen to twenty inches in length, and up to three in diameter. It is hard, and little esteemed, nor is it eaten otherwise than roasted or cooked. The Platano largo, that is, long, is eight inches at most in length
+harsh taste; but quite good preserves are made of it. [p. 49] the testimony of Oviedo, of Hernández, and of Bernal Díaz, that the coconuts were owed to the Philippine Islands, and the others to the Bk. I. Canaries; (t) but knowing that many hold a different opinion, I do not wish to engage in a dispute which, besides being of no importance to me, would divert me from the course of the History. It is certain that these plants, and all the others brought there from elsewhere, have thrived happily in that country, and have multiplied as much as in their own. All the maritime lands abound in coconut palms. Of oranges there are seven very different species, and of lemons at least four. There are as many, and very different ones, of (u) Musa, or Platano, as the Spaniards call it. The largest, which is the Zapalote, is from fifteen to twenty inches in length, and up to three in diameter. It is hard, and little esteemed, nor is it eaten otherwise than roasted or cooked. The Platano largo, that is, long, is eight inches at most in length
 
 History of Mexico, Vol. I.                                   G                              and
 
 (t) Oviedo in his Natural History testifies that the first to carry the Musa from the Canary Islands to Hispaniola in 1516 was Fr. Tomás de Berlanga, a Dominican, and that from there it was transplanted to the continent of America. Hernández, in bk. 3, ch. 40 of his Natural History, speaks thus of the coconut: It grows everywhere among the Eastern Indians, and now also among the Western Indians. Bernal Díaz, in his True History of the Conquest, ch. 17, says that he sowed in the land of Coatzacoalco seven or eight orange seeds: And these, he adds, were the first oranges that were planted in New Spain. As for the Musa, it may be believed that of the four species there, only one is foreign, namely the one they call Guineo.
 
-(u) The Musa was not entirely unknown to the ancients. Pliny, citing the account that the soldiers of Alexander the Great gave of all that they saw in India, makes this description of it: Another tree is greater, and more excellent in its fruit and sweetness, on which the wise men of the Indians live. Its leaf imitates the wings of birds, three cubits in length, two in breadth. It puts forth its fruit from the rind, wonderful for the sweetness of its juice, so that one satisfies four. The name of the tree is pala, of the fruit ariena. Hist. Nat., bk. XII, ch. VI. Besides these characteristics proper to the Musa, it must be added that the name Palan, given to the Musa in those remote times, is preserved to this day in Malabar, as Garcia de Orta, a learned Portuguese physician who lived there many years, attests. It might be suspected that from the name Palan the name Platano has been derived, which so ill suits it. The name Bananas, which the French give it, is what it has in Guinea, and that of Musa, which the Italians give it, is taken from the Arabic language. By some it is called Fruit of Paradise, and there was no lack of those who persuaded themselves that this was precisely the fruit that made our first Fathers transgress.
-
-[p. 50]
-
-and one and a half in diameter. Its skin is at first green, then yellow, Bk. I.
+(u) The Musa was not entirely unknown to the ancients. Pliny, citing the account that the soldiers of Alexander the Great gave of all that they saw in India, makes this description of it: Another tree is greater, and more excellent in its fruit and sweetness, on which the wise men of the Indians live. Its leaf imitates the wings of birds, three cubits in length, two in breadth. It puts forth its fruit from the rind, wonderful for the sweetness of its juice, so that one satisfies four. The name of the tree is pala, of the fruit ariena. Hist. Nat., bk. XII, ch. VI. Besides these characteristics proper to the Musa, it must be added that the name Palan, given to the Musa in those remote times, is preserved to this day in Malabar, as Garcia de Orta, a learned Portuguese physician who lived there many years, attests. It might be suspected that from the name Palan the name Platano has been derived, which so ill suits it. The name Bananas, which the French give it, is what it has in Guinea, and that of Musa, which the Italians give it, is taken from the Arabic language. By some it is called Fruit of Paradise, and there was no lack of those who persuaded themselves that this was precisely the fruit that made our first Fathers transgress. [p. 50] and one and a half in diameter. Its skin is at first green, then yellow, Bk. I.
 
 and at greater ripeness black, or blackish. The fruit is tasty and
 
@@ -1458,11 +1306,7 @@ G2                            this
 
 (x) The fruits comprised by the Mexicans under the name of Tzapotl are the Mamei Tetzontzapotl, the Chirimoya Matzapotl, the Anona Quauhtzapotl, the black Zapote Tliltzapotl, etc.
 
-(y) Gemelli says that the black Zapote has also the flavor of cassia; but this is very far from the truth, as all those who have eaten it know. He says further that this fruit, when it is unripe, is poison to fish; but it is surprising that such an effect should have been known only to the foreigner Gemelli, who did not stay ten months in Mexico.
-
-[p. 52]
-
-this fruit, when still green, a gluey milk is drawn, which readily conBk. I. denses, called by the Mexicans Chictli and by the Spaniards Chicle,
+(y) Gemelli says that the black Zapote has also the flavor of cassia; but this is very far from the truth, as all those who have eaten it know. He says further that this fruit, when it is unripe, is poison to fish; but it is surprising that such an effect should have been known only to the foreigner Gemelli, who did not stay ten months in Mexico. [p. 52] this fruit, when still green, a gluey milk is drawn, which readily conBk. I. denses, called by the Mexicans Chictli and by the Spaniards Chicle,
 
 which boys and women are accustomed to chew, and in Colima they
 
@@ -1526,11 +1370,7 @@ in a suburb of Mexico, where he lodged for several months) there were
 
 Chicozapotes. This fruit can never thrive in the valley of Mexico, nor in any other
 
-country exposed to frost.
-
-[p. 53]
-
-its almond is closely shut up inside a very hard shell. It is smaller than
+country exposed to frost. [p. 53] its almond is closely shut up inside a very hard shell. It is smaller than
 
 Bk. I. the common walnut, and in shape it resembles the nutmeg; its shell is smooth, and its almond is sparser and of inferior taste to the common one. (B) The common walnut, brought there from Europe, has likewise multiplied greatly, and has become as common as in Europe itself.
 
@@ -1540,11 +1380,7 @@ Among the very many other fruits which, to shorten my description, I pass over, 
 
 of
 
-(B) We speak only of the imprisoned nut of the Mexican empire, since that of New Mexico is larger, and of better flavor than the common walnut of Europe, according to what a man worthy of trust has told me. It may be believed that this walnut of New Mexico is the same as that of Louisiana, called Pacana, or Pacaria.
-
-[p. 54]
-
-of the cacao, the vanilla, the chia, the chilli, or capsicum, the tomato, Bk. I.
+(B) We speak only of the imprisoned nut of the Mexican empire, since that of New Mexico is larger, and of better flavor than the common walnut of Europe, according to what a man worthy of trust has told me. It may be believed that this walnut of New Mexico is the same as that of Louisiana, called Pacana, or Pacaria. [p. 54] of the cacao, the vanilla, the chia, the chilli, or capsicum, the tomato, Bk. I.
 
 Tabasco pepper, cotton, and the grains and pulses most in use among
 
@@ -1608,11 +1444,7 @@ shrub
 
 France Poivre de Guinée, and by other names. In Italian I use the name by which it is
 
-known in the places of Italy where I have been.
-
-[p. 55]
-
-shrub, and the Chiltecpin are the smallest, but also the most pungent.
+known in the places of Italy where I have been. [p. 55] shrub, and the Chiltecpin are the smallest, but also the most pungent.
 
 Bk. I. Of the tomato there are six species, distinct in size, in color, and in taste. The largest, which is the Xictomatl, or Xitomate, as the Spaniards of Mexico call it, is already very common in Europe: in Spain and in France under the name of Tomate (D), and in Italy under that of Pomo d’oro. The Miltomatl is smaller, green, and perfectly round. How much both were used by the Mexicans at their meals will be told later, when we come to speak of their foods.
 
@@ -1790,11 +1622,7 @@ royal
 
 (H) The Jucca is the plant from whose root they make the bread called Casave in
 
-some countries of America.
-
-[p. 59]
-
-royal palm, which surpasses the others in the beauty of its branches, the coconut palm, and those of dates, (I) there are other species wor‐ Bk. I. thy of mention.
+some countries of America. [p. 59] royal palm, which surpasses the others in the beauty of its branches, the coconut palm, and those of dates, (I) there are other species wor‐ Bk. I. thy of mention.
 
 The Quauhcojolli is a palm of middling size, whose trunk is inaccessible to quadrupeds, being entirely armed with long, strong, and very sharp spines. Its branches have the shape of a handsome plume, among which its fruits are seen hanging in large clusters, round, as large as common walnuts, and like them composed of four parts, namely a husk at first green and afterwards dark, a yellow pulp tenaciously attached to the stone, a round and very hard stone, and inside the stone an almond, or white marrow.
 
@@ -1806,11 +1634,7 @@ There is another palm, which bears the oil nuts (called by the Spaniards cocos d
 
 H2                       inside
 
-(I) Besides the date palm proper to that country, there is also that of Barbary. Dates are sold in the month of June in the markets of Mexico City, Puebla, and other cities, but in spite of their sweetness they are not much sought after.
-
-[p. 60]
-
-inside which is a white almond, oily and edible, covered with a thin Bk. I.
+(I) Besides the date palm proper to that country, there is also that of Barbary. Dates are sold in the month of June in the markets of Mexico City, Puebla, and other cities, but in spite of their sweetness they are not much sought after. [p. 60] inside which is a white almond, oily and edible, covered with a thin Bk. I.
 
 purple skin. The oil gives off a sweet odor, but is too easily con‐
 
@@ -1872,11 +1696,7 @@ in water, such as the Guayacan, the Tapinzeran, the Jabin, the Quiebrahacha, etc
 
 Quiebrahacha, that is, axe-breaker, is so called because in cutting it the axe not infre‐
 
-quently breaks, from the hardness of the wood.
-
-[p. 61]
-
-that Garcia de Orta gives of it (*), and other authors, is none the less
+quently breaks, from the hardness of the wood. [p. 61] that Garcia de Orta gives of it (*), and other authors, is none the less
 
 Bk. I. to be prized for the very sweet odor it gives off, especially when freshly cut. There is also in that country a tree whose wood is precious, but otherwise of so malignant a nature that it causes swelling of the scrotum in anyone who handles it carelessly when it has newly been cut. The name which the Michoacans give it, which I do not remember, expresses that bad effect plainly. I have not been a witness of such a phenomenon, nor have I seen the tree; but I learned of it when I was in Michoacán from persons worthy of trust.
 
@@ -1888,11 +1708,7 @@ some
 
 (*) History of the Simples, Aromatics, etc., of the East Indies.
 
-(L) The Mexican name of this tree is Ahuehuetl, and the Spanish common people of that country call it Ahuehuete; but those who wish to speak in Castilian call it Sabino, that is, savin, in which they are mistaken; for the Ahuehuetl, though very like the savin, is not even a savin, but a fir, as Dr. Hernández shows in bk. 3, ch. 66, of
-
-[p. 62]
-
-some thunderbolts, fourteen men on horseback can stand comfortBk. I.
+(L) The Mexican name of this tree is Ahuehuetl, and the Spanish common people of that country call it Ahuehuete; but those who wish to speak in Castilian call it Sabino, that is, savin, in which they are mistaken; for the Ahuehuetl, though very like the savin, is not even a savin, but a fir, as Dr. Hernández shows in bk. 3, ch. 66, of [p. 62] some thunderbolts, fourteen men on horseback can stand comfortBk. I.
 
 ably. A still greater idea of its breadth is given us by a testimony as au‐
 
@@ -1976,11 +1792,7 @@ and
 
 (N) Father Andrés Pérez de Ribas, in his History of the Missions of Sinaloa, and M. de Bomare, in his Dictionary under the names of Figuier des Indes, Grand Figuier, and Figuier admirable, make mention of this singular fig tree. The historians of the East Indies describe another tree like this, which is found in those regions.
 
-(O) The first balsam that was brought from Mexico to Rome was sold at a hundred ducats the ounce, as Dr. Monardes attests in his History of the Medicinal Simples of America; and it was declared by the Apostolic See to be fit matter for chrism, though different from that of Palestine, as Acosta and other historians of America observe.
-
-[p. 64]
-
-and in other hot lands. The Mexican kings had it transplanted to the Bk. I. celebrated garden of Oaxtepec, where it throve happily, and multi‐
+(O) The first balsam that was brought from Mexico to Rome was sold at a hundred ducats the ounce, as Dr. Monardes attests in his History of the Medicinal Simples of America; and it was declared by the Apostolic See to be fit matter for chrism, though different from that of Palestine, as Acosta and other historians of America observe. [p. 64] and in other hot lands. The Mexican kings had it transplanted to the Bk. I. celebrated garden of Oaxtepec, where it throve happily, and multi‐
 
 plied considerably in all those mountains. Some Indians, in order to
 
@@ -2044,11 +1856,7 @@ which is very useful in medicine.
 
 (*) The names Huaconex and Maripenda are not Mexican; but are those used by the
 
-authors who write of those plants.
-
-[p. 65]
-
-that precious resin, which the Spaniards called Liquidambar, and the oil of the same name, which is still more fragrant and valuable. Bk. I. Liquidambar is also drawn by the decoction of the branches, but it is inferior to that which distills from the tree.
+authors who write of those plants. [p. 65] that precious resin, which the Spaniards called Liquidambar, and the oil of the same name, which is still more fragrant and valuable. Bk. I. Liquidambar is also drawn by the decoction of the branches, but it is inferior to that which distills from the tree.
 
 The Mexican name Copalli is generic, and common to all resins, but especially signifies those that serve for incense. There are as many as ten species of trees that yield these sorts of resin, differing among themselves not so much in name as in the form of the foliage and of the fruit, and in the quality of the resin. The Copal, by antonomasia, is a white and transparent resin, which distills from a large tree, whose leaves resemble those of the oak, but are larger, and the fruit is roundish and reddish. This resin is well known in Europe under the name of gum copal, and the use made of it both in medicine and in varnishes is also well known. The ancient Mexicans used it principally in the incensings which they made, now for the religious worship of their idols, now as homage to ambassadors and other persons of the first rank. Today they consume a great quantity of it in the worship of the true God and of his saints. The Tecopalli, or Tepecopalli, is a resin like the frankincense of Arabia in color, in odor, and in taste, which distills from a tree of middling size, that grows in the mountains, whose fruit is like an acorn containing a pine nut moistened with a mucilage, or viscous saliva, and inside it a little almond, which is usefully employed in medicine. Both these trees, and all the others of this class, in whose description we cannot linger, are proper to hot lands.
 
@@ -2056,11 +1864,7 @@ The caranna and the tacamahac, resins well known in the apothecaries’ shops of
 
 History of Mexico, Vol. I.                          I                     shining
 
-(*) The Mexicans gave the tree of the caranna the name of Tlahuelilocaquahuitl, that is, tree of wickedness (not Habeliloca, as M. de Bomare writes); because they superstitiously believed that it was feared by the spirits
-
-[p. 66]
-
-shining, and fragrant, and its leaves, though round, are not unlike Bk. I.
+(*) The Mexicans gave the tree of the caranna the name of Tlahuelilocaquahuitl, that is, tree of wickedness (not Habeliloca, as M. de Bomare writes); because they superstitiously believed that it was feared by the spirits [p. 66] shining, and fragrant, and its leaves, though round, are not unlike Bk. I.
 
 those of the olive tree. The tree of the tacamahac has broad, toothed
 
@@ -2126,11 +1930,7 @@ indubitable, that lac is a true resin distilled from the tree which the Mexicans
 
 Tzinacancuitlaquahuitl, and rejects, as a vulgar error, the opposite opinion. 3. The
 
-country where lac abounds is the extremely fertile province of the
-
-[p. 67]
-
-This tree, whose size is middling, and the trunk of a red color, is very
+country where lac abounds is the extremely fertile province of the [p. 67] This tree, whose size is middling, and the trunk of a red color, is very
 
 Bk. I. common in the provinces of the Cohuixcas and of the Tlahuicas.
 
@@ -2142,11 +1942,7 @@ The Mexicans made their balls of this resin, which, though heavy, bound higher t
 
 I2                 impervious Tlahuicas, where all the fruits grow marvelously well, and from there a very great quantity is carried to the capital. Now so great a harvest of fruits could not be made if there were in that land as many millions of ants as would be needed for the making of so excessive a quantity of lac, since the trees are very many, and almost all of them are full of it. 4. If lac is the work of ants, why do they make it only on those trees, and not on those of another species? etc. Lac was called by the Mexicans Tzinacancuitlatl, that is, bat dung, from some analogy which they found between those two things.
 
-(S) The Mexicans call dragon’s blood Ezpatli, which means blood medicine, and the tree Ezquahuitl, that is, blood tree. There is another tree of the same name in the mountains of Cuauhnahuac, which is somewhat like it; but this one has round and rough leaves, a thick bark, and a fragrant root.
-
-[p. 68]
-
-impervious to water. From the Ule liquefied by fire a medicinal oil is
+(S) The Mexicans call dragon’s blood Ezpatli, which means blood medicine, and the tree Ezquahuitl, that is, blood tree. There is another tree of the same name in the mountains of Cuauhnahuac, which is somewhat like it; but this one has round and rough leaves, a thick bark, and a fragrant root. [p. 68] impervious to water. From the Ule liquefied by fire a medicinal oil is
 
 Bk. I.
 
@@ -2208,11 +2004,7 @@ the
 
 (T) In Michoacán there is a tree called by the Tarascans Tarantaqua, of the same
 
-species as the Olquahuitl, but different in the leaves.
-
-[p. 69]
-
-the impropriety of the nomenclature caused by analogy, have made
+species as the Olquahuitl, but different in the leaves. [p. 69] the impropriety of the nomenclature caused by analogy, have made
 
 Bk. I. the history of animals difficult and arduous. The first Spanish nomenclators, more versed in the art of war than in the study of nature, instead of retaining, as would have been better, the names which the Mexicans gave to their animals, called several animals of very different species tigers, wolves, bears, dogs, squirrels, etc., either from the similarity of the color of the skin, or of other features, or from conformity in certain operations and properties. Now I do not pretend to correct their errors, nor even to illustrate the natural history of that vast kingdom; but only to give my readers some idea of the quadrupeds, the birds, the reptiles, the fish, and the insects that live on the land and in the waters of Anahuac.
 
@@ -2224,11 +2016,7 @@ The ancient quadrupeds common to Mexico and to the old continent are the lions, 
 
 weasels
 
-(U) The white deer, whether of the same species or of a species distinct from the other deer, are undoubtedly common to both continents
-
-[p. 70]
-
-weasels, the martens, the squirrels, the polatouches, the rabbits, the Bk. I.
+(U) The white deer, whether of the same species or of a species distinct from the other deer, are undoubtedly common to both continents [p. 70] weasels, the martens, the squirrels, the polatouches, the rabbits, the Bk. I.
 
 hares, the otters, and the mice. I know well that M. de Buffon denies
 
@@ -2294,11 +2082,7 @@ longer has any place.
 
 out mane, and gives the number of lions of each species that Pompey presented in
 
-the Roman spectacles.
-
-[p. 71]
-
-and spreads out, together with its feet, that skin like wings. The Spanish common people confuse this quadruped with the squirrel be‐ Bk. I. cause of their resemblance; but they are certainly different. The rats were brought to Mexico by European ships; not so the mice, which were always known to the Mexicans under the name of Quimichin, which they also gave metaphorically to their spies. (*)
+the Roman spectacles. [p. 71] and spreads out, together with its feet, that skin like wings. The Spanish common people confuse this quadruped with the squirrel be‐ Bk. I. cause of their resemblance; but they are certainly different. The rats were brought to Mexico by European ships; not so the mice, which were always known to the Mexicans under the name of Quimichin, which they also gave metaphorically to their spies. (*)
 
 The species of quadrupeds that were in the kingdom of Mexico, common also to other countries of the New World, are the Cojametl, the Epatl, several species of monkeys, comprised by the Spaniards under the generic name of Monos, the Ajotochtli, the Aztacojotl, the Tlacuatzin, the Techichi, the Tlalmototli, the Techallotl, the Amiztli, the Mapach, and the Danta (X).
 
@@ -2308,11 +2092,7 @@ since
 
 (*) Although in the Tuscan language the names Topo and Sorcio are used indiscriminately, as in Latin the names Mus and Sorex, there being nevertheless two species, as M. de Buffon says, the one larger and fiercer, the other smaller and more domestic, we give to the latter the name Sorcio (Sorex), and to the former the name Topo (Mus), in order to distinguish them. The Spaniards distinguish the species well, calling the large one Rata and the small one Raton: the latter was in America, the other was brought from Europe, and has in Peru the name of Pericote.
 
-(X) Several authors count among the animals of Mexico the Paco, or Peruvian sheep, the Huanaco, the vicuña, the taruca, and the sloth; but all these quadrupeds are proper to South America, and none of them to North America. It is true that Dr. Hernández makes mention among the quadrupeds of New Spain of the Paco, gives its portrait, and uses the Mexican name Pelonichcatl; but he did so on account of some individuals brought there from Peru, to which the Mexicans gave that name, as he also describes several animals of the Philippine Islands; yet they have never been bred in Mexico, nor are they found in any country of North America, unless perhaps some individual taken there out of curiosity, as one has been taken to Europe.
-
-[p. 72]
-
-since the error was discovered through the anatomy of that animal. Bk. I. So hard is it to uproot popular opinions! The flesh of the Cojametl is
+(X) Several authors count among the animals of Mexico the Paco, or Peruvian sheep, the Huanaco, the vicuña, the taruca, and the sloth; but all these quadrupeds are proper to South America, and none of them to North America. It is true that Dr. Hernández makes mention among the quadrupeds of New Spain of the Paco, gives its portrait, and uses the Mexican name Pelonichcatl; but he did so on account of some individuals brought there from Peru, to which the Mexicans gave that name, as he also describes several animals of the Philippine Islands; yet they have never been bred in Mexico, nor are they found in any country of North America, unless perhaps some individual taken there out of curiosity, as one has been taken to Europe. [p. 72] since the error was discovered through the anatomy of that animal. Bk. I. So hard is it to uproot popular opinions! The flesh of the Cojametl is
 
 good to eat, provided that as soon as it is killed the gland is cut out
 
@@ -2376,11 +2156,7 @@ size and color. The name Coaso or Squash, taken from the traveler Dampier, who a
 
 firms that it is common in New Spain, has never been heard in that whole land. The
 
-Indians of Yucatán, where the said traveler stayed, call that quadruped Pai.
-
-[p. 73]
-
-for those bony plates with which it keeps its back covered, in imitation of the ancient armor of horses. The Mexicans gave it that name Bk. I. for the resemblance, though imperfect, which it bears to the rabbit when it puts out its head, and to the gourd when it takes shelter beneath its plates, or shells; (Z) but it resembles no other animal more than the tortoise, although in several features it is not a little unlike it: one might give it the name of testaceous quadruped. Whenever this animal finds itself pursued on some plain, it has no way of escaping from the hands of the hunter; but since it ordinarily inhabits the mountains, where it finds some slope, it curls up, makes itself into a ball, and, rolling down the hillside, leaves the hunter mocked.
+Indians of Yucatán, where the said traveler stayed, call that quadruped Pai. [p. 73] for those bony plates with which it keeps its back covered, in imitation of the ancient armor of horses. The Mexicans gave it that name Bk. I. for the resemblance, though imperfect, which it bears to the rabbit when it puts out its head, and to the gourd when it takes shelter beneath its plates, or shells; (Z) but it resembles no other animal more than the tortoise, although in several features it is not a little unlike it: one might give it the name of testaceous quadruped. Whenever this animal finds itself pursued on some plain, it has no way of escaping from the hands of the hunter; but since it ordinarily inhabits the mountains, where it finds some slope, it curls up, makes itself into a ball, and, rolling down the hillside, leaves the hunter mocked.
 
 The Techichi, which elsewhere had the name of Alco, was a quadruped of Mexico and of other countries of America, which, because it was like a small dog in shape, was called Perro, that is, dog, by the Spaniards. It was of a melancholy aspect and altogether mute: whence arose the fable, spread by several authors still living, that all the dogs carried over from the old world become mute in the new. The flesh of the Techichi was eaten by the Mexicans, and, if we give credit to the Spaniards who still ate it, was of good taste and nourishing. The Spaniards after the Conquest of Mexico, having as yet neither herds nor flocks, supplied their slaughterhouses with these quadrupeds; so that in a short time they consumed the species, although it was numerous.
 
@@ -2388,11 +2164,7 @@ The Tlalmototli, or ground squirrel, called the Swiss by M. de Buffon, resembles
 
 History of Mexico, Vol. I.                          K                          but
 
-(Z) Ajotochtli is a word composed of Ajotli, Gourd, and Tochtli, Rabbit. M. de Buffon counts eight species of it under the name of Tatous, taking their diversity from the number of plates and movable bands that cover them. I could not say how many species there are in Mexico, since I have seen few individuals, and at that time, as I was not thinking of writing on this subject, I was not curious to count the plates and bands, nor do I know whether anyone has taken this trouble.
-
-[p. 74]
-
-but it is very unlike it in color, in size, in dwelling, and in some propBk. I.
+(Z) Ajotochtli is a word composed of Ajotli, Gourd, and Tochtli, Rabbit. M. de Buffon counts eight species of it under the name of Tatous, taking their diversity from the number of plates and movable bands that cover them. I could not say how many species there are in Mexico, since I have seen few individuals, and at that time, as I was not thinking of writing on this subject, I was not curious to count the plates and bands, nor do I know whether anyone has taken this trouble. [p. 74] but it is very unlike it in color, in size, in dwelling, and in some propBk. I.
 
 erty. The hair of its belly is all white, and elsewhere white mixed with
 
@@ -2452,11 +2224,7 @@ it
 
 America, because it seems to us to be the very one that M. de Buffon describes for us
 
-under the name of Saricovienne.
-
-[p. 75]
-
-it is treacherous like the squirrel itself, and is apt to bite its master.
+under the name of Saricovienne. [p. 75] it is treacherous like the squirrel itself, and is apt to bite its master.
 
 Bk. I.
 
@@ -2468,11 +2236,7 @@ K2                    graceful
 
 (bb) The Danta is much smaller than the Tlacaxolotl described by Dr. Hernández; but we do not know that this great quadruped has ever been in the lands of the Mexican kingdom. The same must be said of the deer of New Mexico and of the cíbolos, or bison, which are likewise larger than the Danta. On this see our Fourth Dissertation.
 
-(cc) Oviedo says that the legs of the Danta are very good and savory nourishment, provided that they are kept at the fire for twenty-four hours without interruption.
-
-[p. 76]
-
-graceful ones; middling ones, of the bulk of a badger; and large, Bk. I.
+(cc) Oviedo says that the legs of the Danta are very good and savory nourishment, provided that they are kept at the fire for twenty-four hours without interruption. [p. 76] graceful ones; middling ones, of the bulk of a badger; and large, Bk. I.
 
 strong, fierce, and bearded ones, which some call Zambos. These,
 
@@ -2542,11 +2306,7 @@ with regard to the tail: for those of M. de Buffon have it immense, while those 
 
 Oviedo are entirely without it. The description that Oviedo gives of their manner of
 
-hunting ants is singularly curious.
-
-[p. 77]
-
-the jackal; whence several historians of Mexico have assigned it now to one species, now to another; but it is nonetheless indubitably dif‐ Bk. I. ferent from all of these, as we demonstrate in our dissertations. It is smaller than the wolf, and as large as a mastiff, but leaner. It has yellow, sparkling eyes, small, pointed, erect ears, a blackish muzzle, strong legs, feet armed with thick, curved claws, a thick and hairy tail, and a skin variegated with black, dusky brown, and white. Its voice has something of the howl of the wolf and of the barking of the dog. The Coyote is among the most common quadrupeds in Mexico, (ff) and among those most harmful to flocks. It assails a herd, and where it finds no lamb to carry off, it seizes a sheep by the neck with its teeth, and, joined to it in this way and beating its rump with its tail, leads it where it wishes. It pursues deer, and sometimes even attacks men. In flight it commonly does nothing but trot; but this trot is so lively and so swift that a horse at the gallop can hardly overtake it. The Cuetlachcojotl seems to us a quadruped of the same species as the Coyote; for it is not distinguished from it except by having a thicker neck and hair like that of the wolf.
+hunting ants is singularly curious. [p. 77] the jackal; whence several historians of Mexico have assigned it now to one species, now to another; but it is nonetheless indubitably dif‐ Bk. I. ferent from all of these, as we demonstrate in our dissertations. It is smaller than the wolf, and as large as a mastiff, but leaner. It has yellow, sparkling eyes, small, pointed, erect ears, a blackish muzzle, strong legs, feet armed with thick, curved claws, a thick and hairy tail, and a skin variegated with black, dusky brown, and white. Its voice has something of the howl of the wolf and of the barking of the dog. The Coyote is among the most common quadrupeds in Mexico, (ff) and among those most harmful to flocks. It assails a herd, and where it finds no lamb to carry off, it seizes a sheep by the neck with its teeth, and, joined to it in this way and beating its rump with its tail, leads it where it wishes. It pursues deer, and sometimes even attacks men. In flight it commonly does nothing but trot; but this trot is so lively and so swift that a horse at the gallop can hardly overtake it. The Cuetlachcojotl seems to us a quadruped of the same species as the Coyote; for it is not distinguished from it except by having a thicker neck and hair like that of the wolf.
 
 The Tlalcojotl, or Tlalcoyote, is the size of a middling dog, but stouter, and is in our opinion the bulkiest of all the quadrupeds that live underground. In the head it somewhat resembles the cat, and the lion in color and in the length of its hair. It has a long, bushy tail, and feeds on hens and other small animals, which it hunts in the darkness of the night.
 
@@ -2554,11 +2314,7 @@ The Itzcuintepotzotli, the Tepeitzcuintli, and the Xoloitzcuintli were three spe
 
 black
 
-(ff) Neither M. de Buffon nor M. de Bomare makes mention of the Coyote, although its species is the most common among wild beasts and the most numerous in Mexico, and is sufficiently described by Dr. Hernández, whose Natural History they often cite.
-
-[p. 78]
-
-black. Its head was small in proportion to the body, and seemed Bk. I. joined directly to it because of the smallness and thickness of the
+(ff) Neither M. de Buffon nor M. de Bomare makes mention of the Coyote, although its species is the most common among wild beasts and the most numerous in Mexico, and is sufficiently described by Dr. Hernández, whose Natural History they often cite. [p. 78] black. Its head was small in proportion to the body, and seemed Bk. I. joined directly to it because of the smallness and thickness of the
 
 neck; its eyes were pleasant, its ears drooping, its nose had a consider‐
 
@@ -2624,11 +2380,7 @@ ing that dissertation, and the expense in publishing it. Faber's error was adopt
 
 M. de Buffon. See our dissertations, where other mistakes of this great man are
 
-pointed out.
-
-[p. 79]
-
-the air of a fable; certainly not because he wished to deceive us, but because he sometimes trusted too much to the information of others. (hh)                                        Bk. I.
+pointed out. [p. 79] the air of a fable; certainly not because he wished to deceive us, but because he sometimes trusted too much to the information of others. (hh)                                        Bk. I.
 
 The Cojopollin is a quadruped as large as an ordinary rat; but it has a thicker tail, and uses it in place of a hand. The muzzle and the ears are like those of a little pig; the ears are transparent, the legs and feet white, and the belly yellowish white. It lives and rears its young in trees. The young, when they are afraid, cling tightly to their mother.
 
@@ -2636,11 +2388,7 @@ The Tozan, or Tuza, is a quadruped equivalent to the mole of Europe, but very di
 
 in
 
-(hh) Dr. Hernández says that when the Ocotochtli makes a kill, it covers it with foliage, and then, climbing a nearby tree, begins to utter howls as if inviting the other animals to eat of its prey; and that in fact the last to eat is the Ocotochtli itself; for such is the poison of its tongue that, if it ate first, the prey would be infected and the other animals would die in eating it. This fable is still heard from the mouth of the common people.
-
-[p. 80]
-
-in place of little sacks or baskets. The species of the Tuzas is most nuBk. I. merous; but I do not remember ever having seen them in the places
+(hh) Dr. Hernández says that when the Ocotochtli makes a kill, it covers it with foliage, and then, climbing a nearby tree, begins to utter howls as if inviting the other animals to eat of its prey; and that in fact the last to eat is the Ocotochtli itself; for such is the poison of its tongue that, if it ate first, the prey would be infected and the other animals would die in eating it. This fable is still heard from the mouth of the common people. [p. 80] in place of little sacks or baskets. The species of the Tuzas is most nuBk. I. merous; but I do not remember ever having seen them in the places
 
 where the ground squirrels live.
 
@@ -2780,11 +2528,7 @@ fail: “Birds with hooked talons do not at all flock together, and each preys f
 
 It can be true only if it is understood of birds properly of prey, such as the eagles, vul‐
 
-tures, falcons, sparrowhawks, etc.
-
-[p. 83]
-
-of the Cozcaquauhtli, on the contrary, is not numerous, and is proper to the hot climes. It is, moreover, larger than the Zopilote; it has the Bk. I. head and feet red, and the beak white at the tip and blood-colored for the rest. Its feathers are brown, except those of the neck and of the parts near the breast, which are reddish black; its wings are ash-gray underneath, and above variegated with black and tawny.
+tures, falcons, sparrowhawks, etc. [p. 83] of the Cozcaquauhtli, on the contrary, is not numerous, and is proper to the hot climes. It is, moreover, larger than the Zopilote; it has the Bk. I. head and feet red, and the beak white at the tip and blood-colored for the rest. Its feathers are brown, except those of the neck and of the parts near the breast, which are reddish black; its wings are ash-gray underneath, and above variegated with black and tawny.
 
 The Cozcaquauhtli is called by the Mexicans King of the Zopilotes, (mm) and they say that when both species gather to eat a carcass, the Zopilote never touches it before the Cozcaquauhtli has tasted it. The Zopilotes are, besides, birds most useful to that kingdom; for not only do they clean the land, but they also pursue and destroy the eggs of the crocodiles in the very sand where the females of those formidable amphibians lay them so that they may be hatched by the sun: so that the killing of such birds ought to be forbidden under penalties.
 
@@ -2792,11 +2536,7 @@ Among the night birds there are eagle owls, owlets, scops owls, and others, to w
 
 L2                            as
 
-(mm) That bird which now has in New Spain the name of King of the Zopilotes seems different from the one we describe. That modern King of the Zopilotes is as large as a common eagle, robust, and of a majestic air, with strong talons, lively and handsome eyes, and fine black, white, and tawny feathers: the most singular thing is that fleshy growth of scarlet color which surrounds the neck like a collar, and covers the head like a little crown. So it was described to me by a capable and trustworthy person, who says he has seen three individuals of that species, and in particular the one that in 1750 was sent from Mexico to the Catholic King Ferdinand VI. He says besides that the portrait of a bird published in the work entitled Il Gazzettiere americano is true to life. The Mexican name Cozcaquauhtli, which means eagle with a collar, really suits this one more than the other. The image of this bird, which is seen among our figures, is a copy of that in the Gazzettiere americano.
-
-[p. 84]
-
-as those of the Philippine Islands and of other eastern regions. Bk. I.
+(mm) That bird which now has in New Spain the name of King of the Zopilotes seems different from the one we describe. That modern King of the Zopilotes is as large as a common eagle, robust, and of a majestic air, with strong talons, lively and handsome eyes, and fine black, white, and tawny feathers: the most singular thing is that fleshy growth of scarlet color which surrounds the neck like a collar, and covers the head like a little crown. So it was described to me by a capable and trustworthy person, who says he has seen three individuals of that species, and in particular the one that in 1750 was sent from Mexico to the Catholic King Ferdinand VI. He says besides that the portrait of a bird published in the work entitled Il Gazzettiere americano is true to life. The Mexican name Cozcaquauhtli, which means eagle with a collar, really suits this one more than the other. The image of this bird, which is seen among our figures, is a copy of that in the Gazzettiere americano. [p. 84] as those of the Philippine Islands and of other eastern regions. Bk. I.
 
 Among the water birds we wish to count not only the web-footed
 
@@ -2858,11 +2598,7 @@ with which the Creator has furnished it for its defense. This is a small
 
 water bird with
 
-a
-
-[p. 85]
-
-a long, slender neck, a small head, a long yellow beak, long legs, feet, and claws, and a short tail. The color of its legs and feet is ash-gray, Bk. I. and that of its body black, with some yellow feathers near the belly. On its head it has a little circlet or coronet of horny substance, divided into three very sharp points, and it has two more on the front part of the wings. (nn)
+a [p. 85] a long, slender neck, a small head, a long yellow beak, long legs, feet, and claws, and a short tail. The color of its legs and feet is ash-gray, Bk. I. and that of its body black, with some yellow feathers near the belly. On its head it has a little circlet or coronet of horny substance, divided into three very sharp points, and it has two more on the front part of the wings. (nn)
 
 In the other classes of birds there are some valued for their flesh, others for their feathers, others for their song or their voice, and others finally for their instinct, or for some notable property of theirs which may interest our curiosity.
 
@@ -2954,11 +2690,7 @@ The Tzinizcan is the size of a dove. It has
 
 the
 
-(pp) The Spaniards of Mexico call it Chupamirto, because it sucks particularly the flowers of a plant which is known there by the most improper name of Myrtle. In other countries of America they give it the names of Chupaflor, Picaflor, Tominejo, Colibre, etc. Among so many authors who describe this precious little bird, none gives a better idea of the beauty of its feathers than Father Acosta.
-
-[p. 88]
-
-the beak small, curved, and yellow; the head and neck like those of Bk. I. the dove, but adorned with green and shining feathers; the breast and
+(pp) The Spaniards of Mexico call it Chupamirto, because it sucks particularly the flowers of a plant which is known there by the most improper name of Myrtle. In other countries of America they give it the names of Chupaflor, Picaflor, Tominejo, Colibre, etc. Among so many authors who describe this precious little bird, none gives a better idea of the beauty of its feathers than Father Acosta. [p. 88] the beak small, curved, and yellow; the head and neck like those of Bk. I. the dove, but adorned with green and shining feathers; the breast and
 
 belly red, except in the part nearest the tail, which is variegated with
 
@@ -3014,21 +2746,13 @@ Europeans to hear the Mexican birds than to see them.
 
 There are also in Mexico the goldfinches and the renowned
 
-nightingales
-
-[p. 89]
-
-nightingales, and besides at least twenty-two other species of songbirds, little or in no way inferior to those; but far surpassing all those Bk. I. we know is the most celebrated Centzontli, a name given to it by the Mexicans to express the surprising variety of its voices. (qq) It is impossible for us to give a complete idea of the sweetness and softness of its song, of the harmony and variety of its tones, and of the facility with which it learns to express whatever it hears. It imitates to the life not only the song of other birds, but even the different voices of quadrupeds. It is the size of a common thrush. The color of its body is white beneath and gray above, with some white feathers, especially near the tail and the head. It eats anything; but it takes particular delight in flies, which it takes with demonstrations of pleasure from the fingers of whoever offers them. The species of the Centzontli is everywhere among the most numerous; but although these birds are so common, they are so prized that I have seen twenty-five scudi paid for one. Attempts have often been made to carry it to Europe; but I do not know whether any has ever succeeded; and I am persuaded that even if it arrived alive in Europe it could never be without great detriment to its voice and its instinct, because of the discomforts of the voyage and the change of climate.
+nightingales [p. 89] nightingales, and besides at least twenty-two other species of songbirds, little or in no way inferior to those; but far surpassing all those Bk. I. we know is the most celebrated Centzontli, a name given to it by the Mexicans to express the surprising variety of its voices. (qq) It is impossible for us to give a complete idea of the sweetness and softness of its song, of the harmony and variety of its tones, and of the facility with which it learns to express whatever it hears. It imitates to the life not only the song of other birds, but even the different voices of quadrupeds. It is the size of a common thrush. The color of its body is white beneath and gray above, with some white feathers, especially near the tail and the head. It eats anything; but it takes particular delight in flies, which it takes with demonstrations of pleasure from the fingers of whoever offers them. The species of the Centzontli is everywhere among the most numerous; but although these birds are so common, they are so prized that I have seen twenty-five scudi paid for one. Attempts have often been made to carry it to Europe; but I do not know whether any has ever succeeded; and I am persuaded that even if it arrived alive in Europe it could never be without great detriment to its voice and its instinct, because of the discomforts of the voyage and the change of climate.
 
 The birds called cardinals are no less pleasing to the ear for the melody of their song than to the sight for the beauty of their scarlet feathers and of their crest. The Mexican calandra also sings most sweetly, and its song resembles that of the nightingale. Its feathers are variegated with white, yellow, and gray. It weaves marvelously
 
 History of Mexico, Vol. I.                           M                             its
 
-(qq) Centzontlatole (this is the true name, and that of Centzontli is used only by abbreviation) means, that which has infinite voices. The Mexicans use the word Centzontli (four hundred) as the Latins use mille and sexcenta, to express an indefinite and innumerable multitude. The Greek Polyglotta, which some modern ornithologists give it, agrees with the Mexican name. See what we say about the Centzontli in the Dissertations.
-
-[p. 90]
-
-its nest with bristles, thickened and attached with some sort of sticky Bk. I.
+(qq) Centzontlatole (this is the true name, and that of Centzontli is used only by abbreviation) means, that which has infinite voices. The Mexicans use the word Centzontli (four hundred) as the Latins use mille and sexcenta, to express an indefinite and innumerable multitude. The Greek Polyglotta, which some modern ornithologists give it, agrees with the Mexican name. See what we say about the Centzontli in the Dissertations. [p. 90] its nest with bristles, thickened and attached with some sort of sticky Bk. I.
 
 material, hanging it like a purse or little bag from some branch of a
 
@@ -3102,11 +2826,7 @@ M2                            of
 
 (rr) The Toznenetl and the Cochotl are called Pericos and Loros by the Spaniards of Mexico. The name Huacamaya is from the Haitian language, which was spoken on the island of Hispaniola. Loro is a word taken from the Quichua, or Inca, language, and Toznenetl, Cochotl, and Quiltototl from the Mexican language.
 
-(*) Madrugador in Spanish means one who gets up early. Since there is no equivalent word in the Tuscan language, we use “awakener,” which also suits it; but perhaps “twilight bird” would be more proper.
-
-[p. 92]
-
-of Tzacua, though they are not so valuable for the beauty of their Bk. I.
+(*) Madrugador in Spanish means one who gets up early. Since there is no equivalent word in the Tuscan language, we use “awakener,” which also suits it; but perhaps “twilight bird” would be more proper. [p. 92] of Tzacua, though they are not so valuable for the beauty of their Bk. I.
 
 feathers or for the excellence of their song, are nonetheless worthy of
 
@@ -3166,11 +2886,7 @@ away crying to another tree nearby, and if meanwhile some Tzacuas of
 
 the same village arrive from the fields, it goes to meet them
 
-and
-
-[p. 93]
-
-and, changing the tone of its voice, it forces them to withdraw; but as soon as it sees the danger cease, it returns cheerfully to its customary Bk. I. visit of the nests. These things observed of the Tzacuas by a man who is perspicacious, learned, and truthful, (*) lead us to believe that still more surprising ones might be found, if the observations were repeated; but leaving now these objects so pleasing, let us turn our gaze to others, terrible ones.
+and [p. 93] and, changing the tone of its voice, it forces them to withdraw; but as soon as it sees the danger cease, it returns cheerfully to its customary Bk. I. visit of the nests. These things observed of the Tzacuas by a man who is perspicacious, learned, and truthful, (*) lead us to believe that still more surprising ones might be found, if the observations were repeated; but leaving now these objects so pleasing, let us turn our gaze to others, terrible ones.
 
 The reptiles of Mexico may be reduced to two orders or classes, §Reptiles
 
@@ -3186,11 +2902,7 @@ with
 
 (*) The Abbé Don José Rafael Campoy, whom we praise elsewhere as he deserves.
 
-(ss) I know very well the diversity of opinions among authors on deciding which animals ought to be comprised in the class of reptiles; but as I do not undertake to make an exact division of animals, but only to present them to readers with some order, I take the name of reptiles in the common signification which it had among our forebears.
-
-[p. 94]
-
-with yellow bands in the form of rings. Its bite is painful, but not Bk. I. mortal, as some think. It is peculiar to the hot countries. Of that
+(ss) I know very well the diversity of opinions among authors on deciding which animals ought to be comprised in the class of reptiles; but as I do not undertake to make an exact division of animals, but only to present them to readers with some order, I take the name of reptiles in the common signification which it had among our forebears. [p. 94] with yellow bands in the form of rings. Its bite is painful, but not Bk. I. mortal, as some think. It is peculiar to the hot countries. Of that
 
 same clime is the other large lizard, but it is twice as large; for it is,
 
@@ -3268,11 +2980,7 @@ The variety of serpents is much greater than that of the aforesaid reptiles, for
 
 The one the Mexicans called Canauhcoatl seems to have been the most considerable in thickness. It was as much as three Paris perches long, and as thick as a man of ordinary size. A little smaller was one of the Tlilcoa, or black serpents, seen by Dr. Hernández in the mountains of Tepoztlán; for, having such a thickness, it was also ten Spanish cubits
 
-long,
-
-[p. 96]
-
-long, or more than sixteen Paris feet; but nowadays serpents of such Bk. I.
+long, [p. 96] long, or more than sixteen Paris feet; but nowadays serpents of such Bk. I.
 
 bulk will hardly be found, unless it be in some solitary wood, very far
 
@@ -3334,11 +3042,7 @@ cause every year it gets one; but we do not know whether he says this on the str
 
 of his own observations, or rather on another's word.
 
-(uu) Father Inama, Jesuit missionary of California, made many experiments
-
-[PDF 106]
-
-1. Mexican Tiger. 2. Tlacocelotl. 3. Itzcuintepotzotli. 4. Mexican Porcupine. 5. King of
+(uu) Father Inama, Jesuit missionary of California, made many experiments [PDF 106] 1. Mexican Tiger. 2. Tlacocelotl. 3. Itzcuintepotzotli. 4. Mexican Porcupine. 5. King of
 
 the Zopilotes.
 
@@ -3362,11 +3066,7 @@ History of Mexico, Vol. I.                       N                          the 
 
 (vv) The Mexicans also give this serpent the name of Micoatl, and the Spaniards that of Saetilla: the one and the other mean the same as the jaculus of the Latins.
 
-(*) There are other species of serpents which, being of the same color, have the same name of Cencoatl, but all are innocent.
-
-[p. 98]
-
-the little finger. It lives always in ant-hills, and finds itself so well with Bk. I. the ants that it often accompanies them on their journeys, and re‐
+(*) There are other species of serpents which, being of the same color, have the same name of Cencoatl, but all are innocent. [p. 98] the little finger. It lives always in ant-hills, and finds itself so well with Bk. I. the ants that it often accompanies them on their journeys, and re‐
 
 turns to its dwelling. The Mexican name Tzicatlinan means Mother of
 
@@ -3430,11 +3130,7 @@ found in Mexico; but I do not know that anyone has seen it; and if it has ever b
 
 seen, it must not be considered a regular species, but a monster, like the two-headed
 
-eagle found a few years ago in Oaxaca, and thence sent to the Catholic King.
-
-[p. 99]
-
-rivers, the lakes, and the seas of Anahuac, we shall find in them a much greater number of animals. The known species of their fish are alto‐ Bk. I. gether innumerable; for of those alone that serve for the sustenance of man I have counted more than a hundred species, not counting the turtles, the crabs, the shrimps, nor any other testaceous or crustaceous animal. Of the fish, some are common to both seas, others are proper only to the Gulf of Mexico, others to the Pacific Ocean, and others finally to the rivers and lakes.
+eagle found a few years ago in Oaxaca, and thence sent to the Catholic King. [p. 99] rivers, the lakes, and the seas of Anahuac, we shall find in them a much greater number of animals. The known species of their fish are alto‐ Bk. I. gether innumerable; for of those alone that serve for the sustenance of man I have counted more than a hundred species, not counting the turtles, the crabs, the shrimps, nor any other testaceous or crustaceous animal. Of the fish, some are common to both seas, others are proper only to the Gulf of Mexico, others to the Pacific Ocean, and others finally to the rivers and lakes.
 
 The fish common to both seas are: the whales, the dolphins, the
 
@@ -3450,11 +3146,7 @@ The rivers and lakes have whitefish of three or four species, the carp, the grey
 
 N2                     The
 
-(yy) Since among the fish mentioned by me there are some known to the Italians, and others altogether unknown to them, and therefore without a Tuscan name, I have observed
-
-[p. 100]
-
-The description of these fish, besides diverting us too far from the Bk. I. course of our History, would for the most part be useless to Italian
+(yy) Since among the fish mentioned by me there are some known to the Italians, and others altogether unknown to them, and therefore without a Tuscan name, I have observed [p. 100] The description of these fish, besides diverting us too far from the Bk. I. course of our History, would for the most part be useless to Italian
 
 readers; so we shall have to content ourselves with stating some par‐
 
@@ -3520,11 +3212,7 @@ for Chucho, etc.
 
 (zz) M. de Buffon agrees with Dr. Hernández in saying that the manatee bears
 
-only a single little manatee at a time; but others say that it bears two. It may
-
-[p. 101]
-
-Some authors place the manatee in the class of amphibians; but wrongly, since it never comes onto land; it merely puts its head and Bk. I. part of its body out of the water to bite the herbage that is on the banks of the rivers. (Aa)
+only a single little manatee at a time; but others say that it bears two. It may [p. 101] Some authors place the manatee in the class of amphibians; but wrongly, since it never comes onto land; it merely puts its head and Bk. I. part of its body out of the water to bite the herbage that is on the banks of the rivers. (Aa)
 
 The manta is that flat fish so dangerous to the pearl fishers, of which Ulloa and other authors make mention, and I do not doubt that it is the same one recorded by Pliny, but not well understood, under the name of Cloud, or Mist. (Bb) It may be believed that it passed from the seas of the old continent to those of the new, as other fish appear also to have passed. So great is the strength
 
@@ -3534,11 +3222,7 @@ be believed that the same happens to the female manatee as to woman, namely, tha
 
 (Aa) M. de la Condamine confirms what we say with regard to the manatee's living always in the water, and the same had been said two centuries earlier by Oviedo and Hernández, eyewitnesses both. It is true that Hernández seems to say quite the opposite; but it is an evident misprint, which anyone who reads the text can perceive. It should also be noted that the manatee, though properly marine, is frequently found in the rivers.
 
-(Bb) The divers themselves report that a kind of cloud thickens over their heads, like flat fish, pressing upon them and preventing them from coming up again, and that for this reason they carry very sharp stilettos attached to lines; for unless it is pierced it does not withdraw, this being, as I think, the effect of darkness and terror. For no one has found among the animals any one called a cloud or mist (the name by which they call this evil). Pliny, Natural History, bk. 9, ch. 46. The account which these divers, or “cormorants,” gave of their Cloud is not different from what the divers of the seas of America say of their Manta, and the name of Cloud suits it, since it really looks like a cloud to those who are in the water beneath it, and even today swimmers carry long knives, or sharp sticks, to free themselves from such a beast. This observation, which escaped all the interpreters of Pliny, was made by my compatriot and friend the Abbé José Rafael Campoy, a person highly praiseworthy no less for his morals and his honor than for his eloquence and his erudition, especially in Latinity, in history, in criticism, and in geography. His death, which touches us too deeply, occurring on December 29, 1777, did not allow him to complete several works already begun, which would have been very useful.
-
-[p. 102]
-
-which this beast has in its muscles that it not only suffocates the man whom Bk. I. it embraces, or enfolds by bending itself, but has been seen to seize the cable
+(Bb) The divers themselves report that a kind of cloud thickens over their heads, like flat fish, pressing upon them and preventing them from coming up again, and that for this reason they carry very sharp stilettos attached to lines; for unless it is pierced it does not withdraw, this being, as I think, the effect of darkness and terror. For no one has found among the animals any one called a cloud or mist (the name by which they call this evil). Pliny, Natural History, bk. 9, ch. 46. The account which these divers, or “cormorants,” gave of their Cloud is not different from what the divers of the seas of America say of their Manta, and the name of Cloud suits it, since it really looks like a cloud to those who are in the water beneath it, and even today swimmers carry long knives, or sharp sticks, to free themselves from such a beast. This observation, which escaped all the interpreters of Pliny, was made by my compatriot and friend the Abbé José Rafael Campoy, a person highly praiseworthy no less for his morals and his honor than for his eloquence and his erudition, especially in Latinity, in history, in criticism, and in geography. His death, which touches us too deeply, occurring on December 29, 1777, did not allow him to complete several works already begun, which would have been very useful. [p. 102] which this beast has in its muscles that it not only suffocates the man whom Bk. I. it embraces, or enfolds by bending itself, but has been seen to seize the cable
 
 of a sloop and move it from the place where it was moored. It got the name
 
@@ -3594,11 +3278,7 @@ wholesome.
 
 Among the needlefish there is one called by the Mexicans Huitzitzilmichin,
 
-three
-
-[p. 103]
-
-three feet long, but very slender. Its body is covered with certain little plates instead of scales. Its snout is eight inches long, and is longer in Bk. I. the upper part, the opposite of the other needlefish, which it surpasses no less in the taste of its flesh than in the size of its body.
+three [p. 103] three feet long, but very slender. Its body is covered with certain little plates instead of scales. Its snout is eight inches long, and is longer in Bk. I. the upper part, the opposite of the other needlefish, which it surpasses no less in the taste of its flesh than in the size of its body.
 
 The bobo is a most noble fish, and much esteemed for the excellence of its flesh, about two feet long, and four or six inches wide where widest. The river barbel, known by the name of Bagre, is of the size of the bobo, and of an exquisite taste too, but harmful unless its flesh is first purged with lemon juice, or some other acid, of a certain slime or viscous liquid which it has. The bobos, as far as we know, are caught only in the rivers that empty into the Gulf of Mexico, and the barbels in those that discharge into the Pacific Ocean, or in some lake. The taste of these two species of fish, though delicate, does not quite reach that of the pámpanos and of the little doves, which are, not without reason, the most esteemed of all.
 
@@ -3610,11 +3290,7 @@ The Occhione (*) is a flat, round fish, which has eight,
 
 or
 
-(*) This fish, which is usually caught only in California, either has had no name until now, or else we do not know it; so we have given it that of Occhione (Big-eye), which seems to us to suit it.
-
-[p. 104]
-
-or ten inches in diameter. The lower part of its body is quite flat, but Bk. I. the upper is convex, and in the center where it rises most it has a sin‐
+(*) This fish, which is usually caught only in California, either has had no name until now, or else we do not know it; so we have given it that of Occhione (Big-eye), which seems to us to suit it. [p. 104] or ten inches in diameter. The lower part of its body is quite flat, but Bk. I. the upper is convex, and in the center where it rises most it has a sin‐
 
 gle eye, but as large as that of an ox, and furnished with the necessary
 
@@ -3680,11 +3356,7 @@ Ascolotl, Azoloti, and Axoloti; and says that the Spaniards call it Juguete del 
 
 the Mexicans call it Axolotl, and the Spaniards give it no other name than that of
 
-Axolote.
-
-[p. 105]
-
-frog. The most singular thing about this fish is that it has a uterus like that of woman, and is subject like her to the periodic evacuation of Bk. I. blood, as is established by several observations, to which Hernández bears witness. (Dd) Its flesh is edible and wholesome, and has almost the same taste as the eel. It is believed singularly beneficial to consumptives. In the same Mexican lake there are other species of little fishes, but not such that we need linger over their description.
+Axolote. [p. 105] frog. The most singular thing about this fish is that it has a uterus like that of woman, and is subject like her to the periodic evacuation of Bk. I. blood, as is established by several observations, to which Hernández bears witness. (Dd) Its flesh is edible and wholesome, and has almost the same taste as the eel. It is believed singularly beneficial to consumptives. In the same Mexican lake there are other species of little fishes, but not such that we need linger over their description.
 
 As for shells, there are infinite species, and among them some of a beauty never seen, especially in the Pacific Ocean. Along all the coasts of this sea there was at various times the pearl fishery. The Mexicans fished for them on the coast of Tototepec, and on that of the Cuitlatecs, where they now fish for tortoiseshell. Among the starfish there is one furnished with five rays, and with an eye in each. Among the sponges and lithophytes there are rare and strange species. Dr. Hernández presents us with the portrait of a sponge sent to him from the Pacific Ocean, which had the shape of a human hand, but with ten or more fingers, clay-colored with black dots and red streaks, and was more callous than ordinary ones.
 
@@ -3696,11 +3368,7 @@ Among the flying ones are the beetles, the bees, the wasps, the
 
 History of Mexico, Vol. I.                         O                          flies
 
-(Dd) M. de Bomare finds difficulty in believing what is said of the Axolote; but while we are assured by the testimony of those who have had these animals under their eyes for years, we ought not to mind the distrust of a Frenchman who, though learned in Natural History, has never seen the Axoloti, nor even knows their name: especially since the periodic evacuation of blood is not so peculiar to women that female monkeys do not have it also. “The females of monkeys,” says the same M. de Bomare, “for the most part have menses like women.” See Singes.
-
-[p. 106]
-
-flies, the gnats, the butterflies, and the grasshoppers. The beetles are Bk. I. of several species, but for the most part innocent. There are green
+(Dd) M. de Bomare finds difficulty in believing what is said of the Axolote; but while we are assured by the testimony of those who have had these animals under their eyes for years, we ought not to mind the distrust of a Frenchman who, though learned in Natural History, has never seen the Axoloti, nor even knows their name: especially since the periodic evacuation of blood is not so peculiar to women that female monkeys do not have it also. “The females of monkeys,” says the same M. de Bomare, “for the most part have menses like women.” See Singes. [p. 106] flies, the gnats, the butterflies, and the grasshoppers. The beetles are Bk. I. of several species, but for the most part innocent. There are green
 
 ones, to which the Mexicans gave the name of Majatl, with which
 
@@ -3762,11 +3430,7 @@ mon in Europe, and very frequent in that country.
 
 As agreeable as the sight of the Cucujo is, so disagreeable is
 
-that
-
-[p. 107]
-
-that of the Temolin. This is a large beetle, of a reddish chestnut color,
+that [p. 107] that of the Temolin. This is a large beetle, of a reddish chestnut color,
 
 Bk. I. furnished with six hairy feet, and with four toes on each. There are two species of Temolin: the one has its forehead armed with a horn, or antenna, and the other with two.
 
@@ -3774,11 +3438,7 @@ Of bees there are at least six different species. The first is that of the commo
 
 O2                      honey
 
-(Ee) The honey of Estabentun is very highly prized by the English and the French who come to the ports of Yucatán. I know that the French of Guarico have bought it sometimes to send as a present to their sovereign.
-
-[p. 108]
-
-honey is sour and bitterish. The Tlalpipiolli, which makes up the sixth Bk. I.
+(Ee) The honey of Estabentun is very highly prized by the English and the French who come to the ports of Yucatán. I know that the French of Guarico have bought it sometimes to send as a present to their sovereign. [p. 108] honey is sour and bitterish. The Tlalpipiolli, which makes up the sixth Bk. I.
 
 species, is black and yellow, as large as the common ones, but
 
@@ -3844,11 +3504,7 @@ natural historia de las Indias, ch. 81. It is true that in Mexico they are not s
 
 Oviedo says; but, generally speaking, there are neither so many of them nor so trou‐
 
-blesome as in Europe.
-
-[p. 109]
-
-in Italy, abound also in the maritime lands of Mexico, and in those places where the heat, the stagnant waters, and the groves foster their Bk. I. multiplication. In the lake of Chalco there are infinite numbers of them; but the capital, although it is near that lake, is quite free from this nuisance.
+blesome as in Europe. [p. 109] in Italy, abound also in the maritime lands of Mexico, and in those places where the heat, the stagnant waters, and the groves foster their Bk. I. multiplication. In the lake of Chalco there are infinite numbers of them; but the capital, although it is near that lake, is quite free from this nuisance.
 
 There are also in the hot lands certain midges, which make no noise in flying, but whose sting causes a violent itching, and if, to rid himself of it, the person bitten scratches the affected part, a sore is easily made.
 
@@ -3928,11 +3584,7 @@ fame it has.
 
 (*) There are villages in the Mixteca that still preserve the name then given them
 
-because of their trade, such as San Francisco de la Seda and Tepexi de la Seda.
-
-[p. 111]
-
-that silk was sold in the markets of Mexico, and that some paintings on silk paper made by the ancient Mexicans are still preserved.      Bk. I.
+because of their trade, such as San Francisco de la Seda and Tepexi de la Seda. [p. 111] that silk was sold in the markets of Mexico, and that some paintings on silk paper made by the ancient Mexicans are still preserved.      Bk. I.
 
 Centipedes are found sometimes in temperate countries, and more often in hot and humid ones. Dr. Hernández says that he saw some so large that they were two feet long and two fingers thick; but such insects must have been seen by that author in some country too humid and uncultivated, for we, although we have lingered in many places of every sort of climate, have never found any of so immense a size.
 
@@ -3942,11 +3594,7 @@ Among the many species of spiders found there, we cannot pass over two remarkabl
 
 a
 
-(*) I suspect that the original name of this spider was Cazapulga, that is, flea-hunter, afterward corrupted by the common people, as often happens.
-
-[p. 112]
-
-a red belly, and is as large as a chickpea. It is venomous and common Bk. I.
+(*) I suspect that the original name of this spider was Cazapulga, that is, flea-hunter, afterward corrupted by the common people, as often happens. [p. 112] a red belly, and is as large as a chickpea. It is venomous and common Bk. I.
 
 in the diocese of Chiapas and elsewhere. I do not know whether it is
 
@@ -4010,11 +3658,7 @@ credible quickness. For the most part it is not felt until, in piercing
 
 the skin, it causes an intolerable itching. These insects, because of
 
-their
-
-[p. 113]
-
-their surprising multiplication would be enough to depopulate those countries, if it were not so easy to avoid them, and if the inhabitants Bk. I. were not so quick in removing them before they multiply. God, for His part, that the harm done us by them might be less, not only denied them wings, but also withheld from their legs that conformation, and those vigorous muscles, which He granted to fleas for leaping; but among the poor, who by reason of their misery are condemned to live in the dust and to a habitual neglect of their persons, such insects usually multiply so greatly that they make wide cavities in their flesh and cause them dangerous sores.
+their [p. 113] their surprising multiplication would be enough to depopulate those countries, if it were not so easy to avoid them, and if the inhabitants Bk. I. were not so quick in removing them before they multiply. God, for His part, that the harm done us by them might be less, not only denied them wings, but also withheld from their legs that conformation, and those vigorous muscles, which He granted to fleas for leaping; but among the poor, who by reason of their misery are condemned to live in the dust and to a habitual neglect of their persons, such insects usually multiply so greatly that they make wide cavities in their flesh and cause them dangerous sores.
 
 What the Nigue do in dwellings, the Garrapate, or ticks, do in the country; of which there are two species, or rather two classes. The first is of those lice, no less common in the new than in the old continent, which attach themselves to the skin of sheep, horses, and other quadrupeds, and get into their ears, and even sometimes into those of men.
 
@@ -4024,11 +3668,7 @@ The celebrated cochineal of Mexico, so well known and prized throughout the worl
 
 History of Mexico, Vol. I.                      P                          it.
 
-(Hh) Oviedo says that to detach ticks promptly and without danger it is enough to anoint oneself with a little oil, and then to scrape oneself with a knife.
-
-[p. 114]
-
-it. (Ii) The country where it succeeds best is the Mixteca, in which is Bk. I. found the most considerable branch of its commerce. (Jj) In the six‐
+(Hh) Oviedo says that to detach ticks promptly and without danger it is enough to anoint oneself with a little oil, and then to scrape oneself with a knife. [p. 114] it. (Ii) The country where it succeeds best is the Mixteca, in which is Bk. I. found the most considerable branch of its commerce. (Jj) In the six‐
 
 teenth century it was also raised in Tlaxcala, in Huexotzinco, and in
 
@@ -4108,11 +3748,7 @@ Among the aquatic insects the Atetepitz is a marsh beetle, resembling in size an
 
 P2                        upper
 
-(Kk) Don Antonio de Ulloa says that the nopal on which the cochineal is raised has no spines; but this is not so, for I, who spent five years in the Mixteca, always saw it on spiny nopals. M. Raynal persuaded himself that the color of the cochineal is owed to the tuna, or red fig, on which it feeds; but this author was not well informed; for the cochineal feeds not on the fruit but on the leaf, which is entirely green, nor does that nopal bear red figs but white ones. It is true that it can also be raised on that of the red fig; but that is not the plant proper to the cochineal.
-
-[p. 116]
-
-upper part of the body, and white in the lower. It stings with its tail, Bk. I. which is hard and venomous. The Ocuiliztac is a black marsh worm,
+(Kk) Don Antonio de Ulloa says that the nopal on which the cochineal is raised has no spines; but this is not so, for I, who spent five years in the Mixteca, always saw it on spiny nopals. M. Raynal persuaded himself that the color of the cochineal is owed to the tuna, or red fig, on which it feeds; but this author was not well informed; for the cochineal feeds not on the fruit but on the leaf, which is entirely green, nor does that nopal bear red figs but white ones. It is true that it can also be raised on that of the red fig; but that is not the plant proper to the cochineal. [p. 116] upper part of the body, and white in the lower. It stings with its tail, Bk. I. which is hard and venomous. The Ocuiliztac is a black marsh worm,
 
 but when roasted it takes on a white color. All these insects were edi‐
 
@@ -4180,11 +3816,7 @@ what is the lack of these few vegetables when compared with that unspeakable abu
 
 dance and variety of plants, as fruit-bearing as medicinal, which are found in such
 
-countries?
-
-[p. 117]
-
-the most delicious fruits, and the most aromatic resins. There the species of animals are more varied and more numerous, and their in‐ Bk. I. dividuals handsomer and larger, the birds of more beautiful plumage and of sweeter song; but all these allurements are counterbalanced by as many inconveniences; for in such countries are found the most terrible wild beasts, the most venomous reptiles, and the most harmful insects. The land does not suffer the dismal symptoms of winter, nor is the air subject to the tiresome vicissitude of the seasons. On the land a perpetual spring reigns, and in the air a continual summer, to which the inhabitants readily accustom themselves; but the incessant sweating of their bodies, and the abundant and savory fruits with which the bountiful earth regales them at all times, expose them to several maladies unknown in other countries. The cold lands are not so fertile or so beautiful; but they are healthier, and their animals less harmful to man. In the temperate countries (at least in many, such as the valley of Mexico) one enjoys the advantages of the cold countries without their inconveniences, and several delights of the hot countries without their discomforts. The most common maladies in the hot countries are intermittent fevers, the spasm, and consumption, and in the port of Veracruz, for some few years past, the black vomit. (Nn) In the other countries, catarrhs, defluxions, pleurisy, and acute fevers, and in the capital diarrhea. Besides these ordinary maladies, certain epidemic diseases are wont to be felt at times, which seem periodic, although their period is not fixed and regular, such as those that occurred there in 1545, in 1576, and in our own days in 1736 and in 1762. The smallpox, brought there by the Spanish conquerors, is not seen in that country as frequently as in Europe, but after a certain number of years it comes, and then attacks all those who have not suffered it before, making in one stroke all that slaughter that it makes successively in Europe.
+countries? [p. 117] the most delicious fruits, and the most aromatic resins. There the species of animals are more varied and more numerous, and their in‐ Bk. I. dividuals handsomer and larger, the birds of more beautiful plumage and of sweeter song; but all these allurements are counterbalanced by as many inconveniences; for in such countries are found the most terrible wild beasts, the most venomous reptiles, and the most harmful insects. The land does not suffer the dismal symptoms of winter, nor is the air subject to the tiresome vicissitude of the seasons. On the land a perpetual spring reigns, and in the air a continual summer, to which the inhabitants readily accustom themselves; but the incessant sweating of their bodies, and the abundant and savory fruits with which the bountiful earth regales them at all times, expose them to several maladies unknown in other countries. The cold lands are not so fertile or so beautiful; but they are healthier, and their animals less harmful to man. In the temperate countries (at least in many, such as the valley of Mexico) one enjoys the advantages of the cold countries without their inconveniences, and several delights of the hot countries without their discomforts. The most common maladies in the hot countries are intermittent fevers, the spasm, and consumption, and in the port of Veracruz, for some few years past, the black vomit. (Nn) In the other countries, catarrhs, defluxions, pleurisy, and acute fevers, and in the capital diarrhea. Besides these ordinary maladies, certain epidemic diseases are wont to be felt at times, which seem periodic, although their period is not fixed and regular, such as those that occurred there in 1545, in 1576, and in our own days in 1736 and in 1762. The smallpox, brought there by the Spanish conquerors, is not seen in that country as frequently as in Europe, but after a certain number of years it comes, and then attacks all those who have not suffered it before, making in one stroke all that slaughter that it makes successively in Europe.
 
 The
 
@@ -4262,11 +3894,7 @@ persons are rarer. It is harder to find a hunchback, a cripple, or a
 
 squinter among a thousand Mexicans than among
 
-a
-
-[p. 119]
-
-a hundred individuals of other nations. The unpleasantness of their color, the narrowness of their forehead, the scantiness of their beard, Bk. I. and the coarseness of their hair are so balanced by the regularity and proportion of their limbs that they hold the middle ground between beauty and deformity. Their aspect neither attracts nor offends; but among the young Mexican women many are found who are fair and quite beautiful, whose beauty is made the more lovable by the sweetness of their speech, the pleasantness of their manners, and the natural modesty of their countenances.
+a [p. 119] a hundred individuals of other nations. The unpleasantness of their color, the narrowness of their forehead, the scantiness of their beard, Bk. I. and the coarseness of their hair are so balanced by the regularity and proportion of their limbs that they hold the middle ground between beauty and deformity. Their aspect neither attracts nor offends; but among the young Mexican women many are found who are fair and quite beautiful, whose beauty is made the more lovable by the sweetness of their speech, the pleasantness of their manners, and the natural modesty of their countenances.
 
 Their senses are very keen, above all that of sight, which they keep entire to extreme old age. Their constitution is sound, and their health robust. They are found entirely free from many infirmities that are frequent among the Spaniards; but in the epidemic diseases to which the country is subject from time to time, they are the principal victims: among them such diseases begin, and among them they end. One never perceives from the mouth of a Mexican that foul breath which in others is wont to be caused by the corruption of the humors or by the indigestion of food. They are of a phlegmatic constitution; but the pituitous evacuations of their heads are very scanty, and they seldom spit. They turn gray and grow bald later than the Spaniards, and those who reach the age of a hundred are not very rare among them; almost all the others die of an acute disease.
 
@@ -4274,11 +3902,7 @@ They are at present, and have always been, very sober in eating; but their passi
 
 Their souls are radically in all respects similar to those
 
-of
-
-[p. 120]
-
-of the other children of Adam, and endowed with the same faculties; Bk. I.
+of [p. 120] of the other children of Adam, and endowed with the same faculties; Bk. I.
 
 nor did the Europeans ever do less honor to their own reason than
 
@@ -4368,11 +3992,7 @@ History of Mexico, Vol. I.                       Q                            is
 
 (Rr) Experience has shown us how grateful the Mexicans are for the benefits they receive, whenever they are sure of the benevolence and sincerity of the benefactor. Their gratitude has often been made manifest by public and noisy demonstrations, which make plain the falsity of that proverb.
 
-(Ss) We do not speak of those Mexicans who, through their continual commerce with the avaricious, have been infected with avarice; but even these are less moved by interest than other avaricious people.
-
-[p. 122]
-
-is precisely the so much exaggerated laziness of the Americans. (Tt) Bk. I.
+(Ss) We do not speak of those Mexicans who, through their continual commerce with the avaricious, have been infected with avarice; but even these are less moved by interest than other avaricious people. [p. 122] is precisely the so much exaggerated laziness of the Americans. (Tt) Bk. I.
 
 Nevertheless there is no people in that kingdom that works more, or
 
@@ -4464,11 +4084,7 @@ T         scured, and so enveloped in fables (as is that of the other
 
 peoples of the world), that to find the truth is not merely difficult but altogether impossible. Certain it is nevertheless, as much from the venerable testimony of the holy books as from the constant and universal tradition of those peoples, that the first inhabitants of Anahuac descended from those few men whom Divine Providence snatched from the waters of the Flood to preserve the human species on earth. Nor can it be doubted that the nations that anciently peopled that land came to it from countries farther north in America, where their ancestors had settled many years and centuries earlier. On these two points I find all the Toltec, Chichimec, Acolhua, Mexican, and Tlaxcalan historians in agreement; but it is not known who the first inhabitants were, nor the time of their passage, nor the events of their journey and of their first settlements. Several historians, wishing to penetrate this chaos armed with feeble conjectures, vain combinations, and certain suspect paintings, have become lost
 
-in
-
-[p. 125]
-
-in the thick darkness of antiquity, adopting as an expedient childish and baseless narratives.                                                Bk. II.
+in [p. 125] in the thick darkness of antiquity, adopting as an expedient childish and baseless narratives.                                                Bk. II.
 
 There were authors who, relying on the tradition of the American peoples, and on the discovery of bones, skulls, and entire skeletons of immense size, which at different times and in several places of New § 1.
 
@@ -4570,11 +4186,7 @@ It is no wonder that only eight monarchs reigned in little less than four centur
 
 Most celebrated among all the nations of Anahuac were the Toltecs, Civilization of the both for their civilization and for their excellence in the arts; whence in Toltecs. later centuries the name of Toltecs was given as a mark of honor to the most distinguished artisans. They always lived in society, gathered in well-regulated cities under the dominion of sovereigns and the direction of laws. They were little warlike, and more devoted to the cultivation of the arts than to the exercise of arms. The later nations acknowledged themselves indebted to their agriculture for maize, cotton, chili pepper, and other most useful fruits. And they practiced not only the arts of primary necessity, but also those that serve luxury. They knew how to smelt gold and silver, and to give them every sort of figure in casting. They worked skillfully every species of gem, and this was precisely the art that made their name most famous; but nothing could make them more esteemed among us than their having been the inventors,
 
-or
-
-[p. 128]
-
-or at least the reformers of the system of the ordering of time which all the Bk. II. civilized nations of Anahuac adopted; which presupposes, as we shall see later,
+or [p. 128] or at least the reformers of the system of the ordering of time which all the Bk. II. civilized nations of Anahuac adopted; which presupposes, as we shall see later,
 
 many observations and exact knowledge of astronomy.
 
@@ -4636,21 +4248,13 @@ compare the Toltec years with ours, and found the year 34 of Christ, that is, 30
 
 mon era, to be VII Tochtli. I did this out of mere curiosity, and not because I pretend to con‐
 
-firm, or because I believe, the anecdotes of that author.
-
-[p. 129]
-
-some learned Spaniards, versed in the history and paintings of the Toltecs, compared their chronology with ours, they found that that Bk. II. nation counted from the creation of the world to the time of the birth of Christ 5199 years, which is precisely the chronology of the Roman Calendar.
+firm, or because I believe, the anecdotes of that author. [p. 129] some learned Spaniards, versed in the history and paintings of the Toltecs, compared their chronology with ours, they found that that Bk. II. nation counted from the creation of the world to the time of the birth of Christ 5199 years, which is precisely the chronology of the Roman Calendar.
 
 Whatever may be said of these curious anecdotes of the Chevalier Boturini, which I leave to the free judgment of prudent readers, it is certain and indubitable among all those who have studied the history of those nations that the Toltecs had a clear and distinct knowledge of the universal Flood, of the confusion of tongues, and of the dispersion of peoples; indeed, they named their first ancestors, who separated from the rest of the families in that universal dispersion. It is likewise certain, as we shall show elsewhere (though it may seem an incredible thing to the critics of Europe, accustomed to believe all Americans cut to one measure), that the Mexicans and all the other civilized nations of Anahuac had their civil year as well adjusted to the solar by means of intercalary days as the Romans had it after the ordinance of Julius Caesar, and that such exactness was owed to the enlightenment of the Toltecs. As regards religion, they were idolaters, and, so far as appears from history, were the inventors of the greater part of the Mexican mythology; but we do not know that they had in use those barbarous and bloody sacrifices which afterward became so frequent among the other nations. The Texcocan historians believed the Toltecs to be the authors of that most famous idol representing the god of water, placed on Mount Tlaloc, of which we shall speak later. It is certain indeed that they built, in honor of their beloved god Quetzalcoatl, the very lofty pyramid of Cholula, and probably also the famous ones of Teotihuacan, in honor of the Sun and the Moon, which, though disfigured, still subsist. (g) The Chevalier
 
 History of Mexico, Vol. I.                         R                     Boturini
 
-(g) Vetancurt attributes to the Mexicans the construction of the pyramids of Teotihuacan; but this is evidently false, and contrary to the opinion of all the other authors, both American and Spanish. Dr. Sigüenza seems,
-
-[p. 130]
-
-Boturini believed that the Toltecs built the pyramid of Cholula in or‐
+(g) Vetancurt attributes to the Mexicans the construction of the pyramids of Teotihuacan; but this is evidently false, and contrary to the opinion of all the other authors, both American and Spanish. Dr. Sigüenza seems, [p. 130] Boturini believed that the Toltecs built the pyramid of Cholula in or‐
 
 Bk. II.
 
@@ -4730,11 +4334,7 @@ their Chronicles omitted nothing of what occurred in this kind. We have demonstr
 
 ed the falsity of that account in order to make those more cautious in accepting mod‐
 
-ern paintings who in the future might undertake the History of Mexico.
-
-[p. 131]
-
-side into many large cities; but the stupendous calamities that befell them in the first years of the reign of Topiltzin overturned their pow‐ Bk. II. er and their happiness. For some years heaven denied them the rain necessary for their fields, and the earth the fruits on which they sustained themselves. The air, infected with mortal corruption, filled the land each day with corpses, and with consternation the minds of those who survived the ruin of their fellow countrymen. Thus a great part of the nation died of hunger and of contagion. Topiltzin also died in the year II Tecpatl, the twentieth of his reign, which was probably 1052 of the common era, and with him ended the monarchy of the Toltecs. The wretched remnants of the nation, thinking to escape the common calamity, sought in other countries a fitting remedy for their ills. Some made for Onohualco, or Yucatán, others toward Guatemala; meanwhile there remained in the kingdom of Tula various families scattered here and there in the great valley, where Mexico was afterward founded, in Cholula, in Tlaximaloyan, and in other places, and among them the two princes, sons of King Topiltzin, whose descendants in the course of time became related by marriage to the royal families of Mexico, of Texcoco, and of Colhuacan.
+ern paintings who in the future might undertake the History of Mexico. [p. 131] side into many large cities; but the stupendous calamities that befell them in the first years of the reign of Topiltzin overturned their pow‐ Bk. II. er and their happiness. For some years heaven denied them the rain necessary for their fields, and the earth the fruits on which they sustained themselves. The air, infected with mortal corruption, filled the land each day with corpses, and with consternation the minds of those who survived the ruin of their fellow countrymen. Thus a great part of the nation died of hunger and of contagion. Topiltzin also died in the year II Tecpatl, the twentieth of his reign, which was probably 1052 of the common era, and with him ended the monarchy of the Toltecs. The wretched remnants of the nation, thinking to escape the common calamity, sought in other countries a fitting remedy for their ills. Some made for Onohualco, or Yucatán, others toward Guatemala; meanwhile there remained in the kingdom of Tula various families scattered here and there in the great valley, where Mexico was afterward founded, in Cholula, in Tlaximaloyan, and in other places, and among them the two princes, sons of King Topiltzin, whose descendants in the course of time became related by marriage to the royal families of Mexico, of Texcoco, and of Colhuacan.
 
 These scanty notices concerning the Toltecs are the only ones that we judge worthy of being related here, passing over various fabulous narratives of which several historians have made use. (i) We would wish to have their Divine Book, cited by Boturini and by Don Fernando de Alva Ixtlilxochitl in his highly prized manuscripts, to bring greater light to the history of this celebrated nation.
 
@@ -4818,11 +4418,7 @@ yet discovered, and much farther north than Torquemada imagined.
 
 the mountains; yet in the same chapter where he writes this, he affirms that the capi‐
 
-tal city of their kingdom was called Amaquemecan.
-
-[p. 133]
-
-that accompany civil life. They lived only on game, fruits, and the roots that the uncultivated earth bore. Their clothing was the rough Bk. II. skins of the beasts they had taken, nor did they know any other weapon than the bow and arrow. Their religion was reduced to the simple worship of the Sun, to whose alleged divinity they offered grass, and the flowers they found growing in the fields. As for their customs, they were certainly less unpleasing, and less coarse, than the temper of a hunting people would lead one to expect.
+tal city of their kingdom was called Amaquemecan. [p. 133] that accompany civil life. They lived only on game, fruits, and the roots that the uncultivated earth bore. Their clothing was the rough Bk. II. skins of the beasts they had taken, nor did they know any other weapon than the bow and arrow. Their religion was reduced to the simple worship of the Sun, to whose alleged divinity they offered grass, and the flowers they found growing in the fields. As for their customs, they were certainly less unpleasing, and less coarse, than the temper of a hunting people would lead one to expect.
 
 The motive they had for abandoning their homeland is uncertain, § 5. as is also uncertain the etymology of the name Chichimecatl. (m) The Xolotl, first king of last king they had had in Amaquemecan left the government divided the      Chichimecs in
 
@@ -4832,11 +4428,7 @@ the
 
 It is a manifest, gross contradiction; or else we shall say that Amaquemecan was a city without houses, and shall give the title of city to the caves of the mountains. This fault is frequent in this author, who is nevertheless deserving of credit for his services to the History of Mexico.
 
-(m) Several authors have labored to divine the etymology of the name Chichimecatl. Torquemada says that this name is derived from Techichinani, which means Sucker, because the Chichimecs sucked the blood of the animals they hunted. But this etymology is forced, especially among those peoples who did not alter names in such a fashion in their derivation. Vetancurt believed that it was derived from Chichime, that is, Dogs, because by that name they were called in contempt by the other nations; but if it had been so, they would not glory, as in fact they did glory, in the name of Chichimecatl.
-
-[p. 134]
-
-the ruins of Toltec places, and in particular those of the great city of Bk. II.
+(m) Several authors have labored to divine the etymology of the name Chichimecatl. Torquemada says that this name is derived from Techichinani, which means Sucker, because the Chichimecs sucked the blood of the animals they hunted. But this etymology is forced, especially among those peoples who did not alter names in such a fashion in their derivation. Vetancurt believed that it was derived from Chichime, that is, Dogs, because by that name they were called in contempt by the other nations; but if it had been so, they would not glory, as in fact they did glory, in the name of Chichimecatl. [p. 134] the ruins of Toltec places, and in particular those of the great city of Bk. II.
 
 Tula, where they arrived after eighteen months. From this place they
 
@@ -4902,11 +4494,7 @@ and
 
 (n) Torquemada says that the country then occupied by the Chichimecs was twen‐
 
-ty leagues, or sixty miles, square.
-
-[p. 135]
-
-and in other places several Toltec families, from whom he learned the cause and the time of their desolation. Not only did the Chichimecs Bk. II. refrain from molesting these wretched remnants of that celebrated nation, but they even contracted alliances with them, many nobles marrying Toltec women, and among others Prince Nopaltzin himself married Azcaxochitl, a maiden descended from Pochotl, one of those two princes of the royal house of the Toltecs who survived the ruin of their nation. This humane conduct helped the Chichimecs greatly; for through contact with that industrious nation they began to taste maize and other fruits of industry, they learned agriculture, the manner of extracting metals and the art of smelting them, as well as those of working stone and of spinning and weaving cotton, and others, by which they improved their sustenance, their clothing, their dwellings, and their customs.
+ty leagues, or sixty miles, square. [p. 135] and in other places several Toltec families, from whom he learned the cause and the time of their desolation. Not only did the Chichimecs Bk. II. refrain from molesting these wretched remnants of that celebrated nation, but they even contracted alliances with them, many nobles marrying Toltec women, and among others Prince Nopaltzin himself married Azcaxochitl, a maiden descended from Pochotl, one of those two princes of the royal house of the Toltecs who survived the ruin of their nation. This humane conduct helped the Chichimecs greatly; for through contact with that industrious nation they began to taste maize and other fruits of industry, they learned agriculture, the manner of extracting metals and the art of smelting them, as well as those of working stone and of spinning and weaving cotton, and others, by which they improved their sustenance, their clothing, their dwellings, and their customs.
 
 Nor did the arrival of other civilized nations contribute less to the
 
@@ -4916,11 +4504,7 @@ er peoples. try (*) six very distinguished personages with a considerable follow
 
 of
 
-(*) The names of these six personages were Tecuatzin, Tzontehuayotl, Zacatitechcochi, Huihuatzin, Tepotzotecua, and Itzcuincua.
-
-[p. 136]
-
-of the south their relief. Be that as it may, the six personages who had Bk. II. come  from the north to Tenayuca were kindly received by the
+(*) The names of these six personages were Tecuatzin, Tzontehuayotl, Zacatitechcochi, Huihuatzin, Tepotzotecua, and Itzcuincua. [p. 136] of the south their relief. Be that as it may, the six personages who had Bk. II. come  from the north to Tenayuca were kindly received by the
 
 Chichimec king, and, he having learned from them the cause of their
 
@@ -4984,21 +4568,13 @@ flattering vanity of seeing humbled in his presence three princes at‐
 
 tracted by such distant
 
-countries
-
-[p. 137]
-
-countries by the fame of his power and of his clemency. He replied pleasantly to their expressions, and offered to comply with their Bk. II. wishes; but while he was deliberating on the manner of doing so, he ordered his son Nopaltzin to lodge them and to take care of them.
+countries [p. 137] countries by the fame of his power and of his clemency. He replied pleasantly to their expressions, and offered to comply with their Bk. II. wishes; but while he was deliberating on the manner of doing so, he ordered his son Nopaltzin to lodge them and to take care of them.
 
 The king had two unmarried daughters, whom at first he thought to marry to the two elder princes; but he would not disclose his thought until he should have informed himself of their character and been certain of the will of his subjects. When he was then sure of the one and of the other, he called the princes to him, who were somewhat anxious about their lot, and made known to them his resolution not only to grant them establishments in his kingdom, but also to marry them to his daughters, complaining that he had not another, so that none should be excluded from the new alliance. The princes thanked him with singular expressions of gratitude, and offered to serve him with the greatest fidelity.
 
 The day appointed for the wedding having arrived, so great a crowd of people flocked to Tenayuca, the place destined for that great ceremony, that the city not being sufficient to hold it, many people remained in the countryside. Acolhuatzin married the elder of the two princesses, called Cuetlaxochitl, and Chiconcuauhtli took the other. The third prince had Coatetl, a maiden born in Chalco of most noble parents, in whom Toltec blood had been mingled with Chichimec. The public rejoicings lasted as long as sixty days, in which there was wrestling, racing, and combats with wild beasts, exercises suited to the genius of the Chichimecs, and in all of them Prince Nopaltzin distinguished himself. Following the example of the royal persons, those two nations went on knitting themselves together with marriages, until of both one was made, which, taking its name from the nobler part, was called Acolhua, and the kingdom Acolhuacan, the name of Chichimecs remaining then for those men who, prizing the exercise of the chase more than the labors of agriculture, or else impatient of subordination, went off to the mountains that are toward the north
 
-History of Mexico, Vol. I.                S                     and
-
-[p. 138]
-
-and toward the northwest of the Mexican valley, where, giving them‐
+History of Mexico, Vol. I.                S                     and [p. 138] and toward the northwest of the Mexican valley, where, giving them‐
 
 Bk. II. selves up to the sway of their barbarous liberty, without a chief, with‐
 
@@ -5064,11 +4640,7 @@ and the pleasantness of the place. Aware of this, the rebels, having
 
 made a dam in the stream that crossed the city, opened a trench
 
-to
-
-[p. 139]
-
-to conduct the water to the gardens; but to do so they waited for the time when the king was accustomed to sleep there, and then, the dam Bk. II. having been removed on the side of the trench, they sent all the water at once into the gardens, so that he should be drowned. They flattered themselves that their crime would never be discovered, since the misfortune of the king might be ascribed to some accident, or to measures ill taken by subjects who sincerely desired to serve their lord; but they deceived themselves, and their blow did not succeed; for the king had secret warning of the conspiracy, and, dissembling that he knew of it, he went at the accustomed hour to the garden and lay down to sleep in an elevated spot, where he would not be in danger. When he then saw the water enter, although the treachery was already evident, he continued his dissimulation in order to mock his enemies: “I,” he then said, “was well persuaded that my subjects loved me; but now I see that they love me far more than I thought. I wanted to increase the water of my gardens, and behold, my subjects have brought it to me without any expense. We must therefore make a feast of my good fortune.” Then he ordered rejoicings to be held in the court, and when they were over he departed for Tenayuca, full of grief and indignation, and determined to give a rigorous punishment to the conspirators; but there he was seized by a mortal illness, which calmed his anger.
+to [p. 139] to conduct the water to the gardens; but to do so they waited for the time when the king was accustomed to sleep there, and then, the dam Bk. II. having been removed on the side of the trench, they sent all the water at once into the gardens, so that he should be drowned. They flattered themselves that their crime would never be discovered, since the misfortune of the king might be ascribed to some accident, or to measures ill taken by subjects who sincerely desired to serve their lord; but they deceived themselves, and their blow did not succeed; for the king had secret warning of the conspiracy, and, dissembling that he knew of it, he went at the accustomed hour to the garden and lay down to sleep in an elevated spot, where he would not be in danger. When he then saw the water enter, although the treachery was already evident, he continued his dissimulation in order to mock his enemies: “I,” he then said, “was well persuaded that my subjects loved me; but now I see that they love me far more than I thought. I wanted to increase the water of my gardens, and behold, my subjects have brought it to me without any expense. We must therefore make a feast of my good fortune.” Then he ordered rejoicings to be held in the court, and when they were over he departed for Tenayuca, full of grief and indignation, and determined to give a rigorous punishment to the conspirators; but there he was seized by a mortal illness, which calmed his anger.
 
 Now, feeling the nearness of death, he called to him Prince § 8.
 
@@ -5146,11 +4718,7 @@ then, as far as we can conjecture, about sixty years of age, and already
 
 had children and grandchildren. His
 
-legitimate
-
-[p. 141]
-
-legitimate sons by the Toltec queen were Tlotzin, Cuauhtequihua, and
+legitimate [p. 141] legitimate sons by the Toltec queen were Tlotzin, Cuauhtequihua, and
 
 Bk. II. Apopozoc. To Tlotzin, who was the first-born, he conferred the government of Texcoco, that he might go on learning the difficult art of ruling men, and to the other two he gave the investiture of the states of Zacatlán and of Tenamitic. (p)
 
@@ -5158,11 +4726,7 @@ For a year the king remained at the court of Tenayuca, setting in order the affa
 
 your
 
-(p) If one wished to adopt the chronology of Torquemada, one would have to give Nopaltzin, when he ascended the throne, 130 years of age; for when he arrived with his father in the country of Anahuac, he was at least 18 or 20 years old, since he received from his father the commission to reconnoiter the land, and these added to the 113 which, according to Torquemada, Xolotl reigned in that country, make 131 or 133. See on this point our Dissertation II.
-
-[p. 142]
-
-your subjects well.” When he had consoled his son for a while, the Bk. II. king went back to his court of Tenayuca.
+(p) If one wished to adopt the chronology of Torquemada, one would have to give Nopaltzin, when he ascended the throne, 130 years of age; for when he arrived with his father in the country of Anahuac, he was at least 18 or 20 years old, since he received from his father the commission to reconnoiter the land, and these added to the 113 which, according to Torquemada, Xolotl reigned in that country, make 131 or 133. See on this point our Dissertation II. [p. 142] your subjects well.” When he had consoled his son for a while, the Bk. II. king went back to his court of Tenayuca.
 
 Prince Acolhuatzin, who was still living, thinking the limits of his
 
@@ -5240,11 +4804,7 @@ It was not long before the king himself also died, after thirty-two § 10. years
 
 Among the other lords who attended the exaltation of the new king were his two brothers Cuauhtequihua and Apopozoc, whom he kept for a year in his royal house. Tlotzin was of so benign and loving a temper that he was the whole delight of his vassals. All the nobles sought pretexts to visit him and to enjoy the pleasantness and sweetness of his manner. Notwithstanding this disposition so inclined to peace, he took great care of the affairs of war, causing his subjects to exercise often in arms, and he himself delighted in the chase; but we know nothing in particular of his actions, nor of the events of his reign in the thirty-six years that he occupied the throne of Acolhuacan. He died
 
-racked
-
-[p. 144]
-
-racked by most grievous pains in Tenayuca. His ashes were deposited
+racked [p. 144] racked by most grievous pains in Tenayuca. His ashes were deposited
 
 Bk. II.
 
@@ -5306,21 +4866,13 @@ riously and obstinately on both sides, until night separated the
 
 armies
 
-(*) This king also had the name of Tlaltecatzin.
-
-[p. 145]
-
-armies, leaving the victory undecided. Thus they continued for forty days in frequent fights, the rebels never losing heart in spite of the Bk. II. advantages which the royal troops won every day; but perceiving at last, from the slaughter and the diminution of their soldiers, their imminent ruin, they surrendered to their sovereign, who, punishing the leaders of the rebellion severely, pardoned the peoples their crime. He did the same with the state of Tepepulco, which had also rebelled.
+(*) This king also had the name of Tlaltecatzin. [p. 145] armies, leaving the victory undecided. Thus they continued for forty days in frequent fights, the rebels never losing heart in spite of the Bk. II. advantages which the royal troops won every day; but perceiving at last, from the slaughter and the diminution of their soldiers, their imminent ruin, they surrendered to their sovereign, who, punishing the leaders of the rebellion severely, pardoned the peoples their crime. He did the same with the state of Tepepulco, which had also rebelled.
 
 This spirit of rebellion went spreading through the whole kingdom like a contagion: for scarcely was Tepepulco subdued when Huehuetoca, Mixquic, Totolapan, and four other cities declared themselves in rebellion. The king wished to go in person with a good body of troops against Totolapan, and sent against the other six cities as many bodies under the command of brave and faithful generals: and so great was his good fortune that in a very short time, and without considerable loss, he brought all seven cities back under his obedience. These victories were celebrated with great rejoicings for eight days at the court, and the generals and the soldiers who had most distinguished themselves were rewarded. Just as the bad example of some states had driven others to rebellion, so the unhappy outcome served them as a lesson for the future not to plot any more novelties against the due subordination to their sovereign: whence in the rest of his government, which, according to what the historians say, lasted sixty years, Quinatzin enjoyed great tranquillity.
 
 When this king came to die, there were made toward him certain demonstrations that had never been made toward his predecessors; for his body having been opened, and the viscera removed, they prepared it with I know not what composition of aromatics, so that it might be preserved for some time from corruption. They then placed him in a great seat, clad in the royal garments, and armed with bow and arrows, and put at his feet a wooden eagle, and behind him a tiger, to signify his intrepidity and bravery. In this posture they kept him on public display for forty days, and after the customary weeping they burned him
 
-History of Mexico, Vol. I.                 T                      and
-
-[p. 146]
-
-and buried the ashes in a cave of the mountains near Texcoco. Bk. II.
+History of Mexico, Vol. I.                 T                      and [p. 146] and buried the ashes in a cave of the mountains near Texcoco. Bk. II.
 
 There succeeded Quinatzin on the throne his son Techotlalatzin; but as the
 
@@ -5400,11 +4952,7 @@ T2                             that
 
 (r) Some authors, among whom was the celebrated Doctor Sigüenza, wrote that the Olmecs passed over from the island of Atlantis, and that they alone arrived in Anahuac from the east, all the other nations having come from the north: but we are wholly ignorant of the foundations of such an opinion.
 
-(s) The Chevalier Boturini conjectures that the Olmecs, driven from their country, went off to the Antillean islands and to South America. Anything may be; but it is not known.
-
-[p. 148]
-
-that country; but they remained for many centuries in barbarism, liv‐
+(s) The Chevalier Boturini conjectures that the Olmecs, driven from their country, went off to the Antillean islands and to South America. Anything may be; but it is not known. [p. 148] that country; but they remained for many centuries in barbarism, liv‐
 
 Bk. II.
 
@@ -5472,11 +5020,7 @@ which they clothe the other Indians.
 
 many cities and countless villages. Their kings were rivals
 
-of
-
-[p. 149]
-
-of the Mexicans, and had frequent wars with them. Their artisans either surpassed or equaled those of the other nations: at least after the Bk. II. conquest of Mexico the best works of mosaic were made in Michoacán, and there alone down to our times has this so precious art been preserved. The Tarascans were idolaters, but not so cruel in their worship as the Mexicans. Their language is abundant, sweet, and sonorous. They often use the soft R: their syllables consist for the most part of a single consonant and a vowel. Besides the natural advantages of their country, the Tarascans had the good fortune to have as first bishop Don Vasco de Quiroga, one of the most distinguished prelates that Spain has produced, truly worthy of being compared with the ancient Fathers of Christianity; whose memory has been preserved alive down to our times, and will be preserved eternally among those peoples. The country of Michoacán, which is among the most valuable of the New World, was annexed to the crown of Spain by the free and spontaneous cession of its legitimate sovereign, without costing the Spaniards even a drop of blood, although it is to be believed that the fear instilled in him by the recent ruin of the Mexican empire impelled that monarch to such a cession. (t)              § 14.
+of [p. 149] of the Mexicans, and had frequent wars with them. Their artisans either surpassed or equaled those of the other nations: at least after the Bk. II. conquest of Mexico the best works of mosaic were made in Michoacán, and there alone down to our times has this so precious art been preserved. The Tarascans were idolaters, but not so cruel in their worship as the Mexicans. Their language is abundant, sweet, and sonorous. They often use the soft R: their syllables consist for the most part of a single consonant and a vowel. Besides the natural advantages of their country, the Tarascans had the good fortune to have as first bishop Don Vasco de Quiroga, one of the most distinguished prelates that Spain has produced, truly worthy of being compared with the ancient Fathers of Christianity; whose memory has been preserved alive down to our times, and will be preserved eternally among those peoples. The country of Michoacán, which is among the most valuable of the New World, was annexed to the crown of Spain by the free and spontaneous cession of its legitimate sovereign, without costing the Spaniards even a drop of blood, although it is to be believed that the fear instilled in him by the recent ruin of the Mexican empire impelled that monarch to such a cession. (t)              § 14.
 
 The Mazahuas were formerly part of the Otomi nation; for the The           Mazahuas, the
 
@@ -5484,11 +5028,7 @@ Matlatzincas, and languages of both nations are nothing but different dialects o
 
 language
 
-(t) The Chevalier Boturini says that the Mexicans, finding themselves besieged by the Spaniards, sent an embassy to the king of Michoacán to procure his alliance; that he assembled a hundred thousand Tarascans, and as many Teochichimecs, in the province of Ávalos, but, frightened by a certain vision that he had of a sister of his, already dead and returned to life, he dismissed the army and abandoned the enterprise of succoring the Mexicans, as he had intended. But this whole account is a tissue of fables. 1. No author of that century makes mention, so far as we know, of such an occurrence. 2. Where were those hundred thousand Teochichimecs, who assembled so quickly? 3. Why did he assemble the army in the province farthest from Mexico? Who has ever seen the king of France send his troops to assemble in Flanders in order to go to the succor of some city of Spain? The resurrection of that princess is a fable composed on the memorable occurrence of the sister of Moctezuma, of which we shall speak elsewhere.
-
-[p. 150]
-
-language, is a clear proof of the great antiquity of their separation. Bk. II.
+(t) The Chevalier Boturini says that the Mexicans, finding themselves besieged by the Spaniards, sent an embassy to the king of Michoacán to procure his alliance; that he assembled a hundred thousand Tarascans, and as many Teochichimecs, in the province of Ávalos, but, frightened by a certain vision that he had of a sister of his, already dead and returned to life, he dismissed the army and abandoned the enterprise of succoring the Mexicans, as he had intended. But this whole account is a tissue of fables. 1. No author of that century makes mention, so far as we know, of such an occurrence. 2. Where were those hundred thousand Teochichimecs, who assembled so quickly? 3. Why did he assemble the army in the province farthest from Mexico? Who has ever seen the king of France send his troops to assemble in Flanders in order to go to the succor of some city of Spain? The resurrection of that princess is a fable composed on the memorable occurrence of the sister of Moctezuma, of which we shall speak elsewhere. [p. 150] language, is a clear proof of the great antiquity of their separation. Bk. II.
 
 The principal places inhabited by them were on the western moun‐
 
@@ -5550,11 +5090,7 @@ of
 
 (v) On the mythology of the Mixtecs see the work of Brother Gregorio García,
 
-Dominican, entitled Origen de los indios, in bk. 5, ch. 4.
-
-[p. 151]
-
-of the Lord to people that land. They also said that the first settlers
+Dominican, entitled Origen de los indios, in bk. 5, ch. 4. [p. 151] of the Lord to people that land. They also said that the first settlers
 
 Bk. II. had come from the north, and that when they arrived at Soconusco they separated, some going to live in the country of Nicaragua, and the others remaining in that of Chiapas. This nation, according to what the historians say, was not governed by a king but by two military chiefs elected by the priests. So they continued until they were subjected to that crown by the last Mexican kings. They made the same use of paintings as the Mexicans and had the same way of reckoning time; but the figures with which they represented the years, the months, and the days were altogether different.
 
@@ -5636,11 +5172,7 @@ Mexican grammar.
 
 inhabitant of a palace, Tepanecatl, inhabitant of a stony place. Others give this name
 
-another, quite forced etymology.
-
-[p. 153]
-
-that land, until the arms of the Mexicans, allied with those of the legitimate heir of Acolhuacan, overthrew the Tepanec monarchy to‐ Bk. II. gether with the Tyrant.
+another, quite forced etymology. [p. 153] that land, until the arms of the Mexicans, allied with those of the legitimate heir of Acolhuacan, overthrew the Tepanec monarchy to‐ Bk. II. gether with the Tyrant.
 
 The Tlaxcalans, called Teochichimecs by Torquemada and other au‐ § 16. thors and considered as a tribe of the Chichimec nation, (y) settled at The Tlaxcalans. first in Poyauhtlan, a place situated on the eastern shore of the Lake of Texcoco, between this capital and the village of Chimalhuacán. There they lived for some time in great misery, sustaining themselves only on game for want of arable land; but having multiplied, and wishing to enlarge the bounds of their territory, they drew upon themselves the resentment of the neighboring nations.
 
@@ -5716,11 +5248,7 @@ Huexotzincas and other peoples, aware of the bravery and the
 
 strength of their new neighbors, fearing that in the future
 
-they
-
-[p. 155]
-
-they might prove harmful to them, raised a large army to drive them Bk. II. out altogether from the whole country. The blow was so violent that the Tlaxcalans were forced to abandon the place and retire to the summit of that great mountain. Finding themselves there in the greatest consternation, they implored through their ambassadors the protection of the Chichimec king, and obtained from him a large body of troops. The Huexotzincas, not having forces sufficient to withstand the royal army, called the Tepanecs to their aid, believing that they would not refuse so fine an occasion for revenge; but these, remembering the tragic event of Poyauhtlan, although they sent troops, gave these too the order to do no harm to the Tlaxcalans, and the Tlaxcalans themselves were warned by them, lest they should take them for enemies, and be assured that those people were sent only to deceive the Huexotzincas and so as not to disturb the harmony that existed between them and the Tepanecs. With the help of the Texcocans, and through the perfidious laziness of the Tepanecs, the Huexotzincas were defeated and forced to return in ignominy to their own state. The Tlaxcalans, delivered from so grave a danger, and peace made with their neighbors, returned to their first settlement to continue the peopling already begun.
+they [p. 155] they might prove harmful to them, raised a large army to drive them Bk. II. out altogether from the whole country. The blow was so violent that the Tlaxcalans were forced to abandon the place and retire to the summit of that great mountain. Finding themselves there in the greatest consternation, they implored through their ambassadors the protection of the Chichimec king, and obtained from him a large body of troops. The Huexotzincas, not having forces sufficient to withstand the royal army, called the Tepanecs to their aid, believing that they would not refuse so fine an occasion for revenge; but these, remembering the tragic event of Poyauhtlan, although they sent troops, gave these too the order to do no harm to the Tlaxcalans, and the Tlaxcalans themselves were warned by them, lest they should take them for enemies, and be assured that those people were sent only to deceive the Huexotzincas and so as not to disturb the harmony that existed between them and the Tepanecs. With the help of the Texcocans, and through the perfidious laziness of the Tepanecs, the Huexotzincas were defeated and forced to return in ignominy to their own state. The Tlaxcalans, delivered from so grave a danger, and peace made with their neighbors, returned to their first settlement to continue the peopling already begun.
 
 This was the origin of the famous city and republic of Tlaxcala, eternal rival of the Mexicans and the cause of their ruin. At the beginning they all obeyed one chief; but their population having afterward considerably increased, the city was divided into four quarters called Tepeticpac, Ocotelolco, Quiahuiztlan, and Tizatlan. Each quarter was under its own lord, to whom were likewise subject all the places dependent on that quarter; so that the whole state was composed of four petty monarchies; but these four lords together with other nobles of the first rank formed a kind of aristocracy with respect to the common concerns of the state. This diet or senate was the arbiter of war and of peace; it fell to it to prescribe the number of troops that were to be armed, and the general who was to command them.
 
@@ -5806,11 +5334,7 @@ Although I do not trust such a narration, it does not seem to me otherwise altog
 
 a
 
-miles from Mexico. Boturini says that Aztlan is a province of Asia; but I do not know what reasons he had for so singular an opinion. In several geographical maps published in the sixteenth century this province is seen situated north of the Gulf of California, and I do not doubt that it is to be found toward that quarter, but far removed from that gulf: so that the distance indicated by Vetancurt seems to me probable.
-
-[p. 158]
-
-a person esteemed wise to persuade, on grounds of religion, whatever Bk. II.
+miles from Mexico. Boturini says that Aztlan is a province of Asia; but I do not know what reasons he had for so singular an opinion. In several geographical maps published in the sixteenth century this province is seen situated north of the Gulf of California, and I do not doubt that it is to be found toward that quarter, but far removed from that gulf: so that the distance indicated by Vetancurt seems to me probable. [p. 158] a person esteemed wise to persuade, on grounds of religion, whatever Bk. II.
 
 he most wishes, to an ignorant and superstitious people. It would be
 
@@ -5874,19 +5398,11 @@ represented
 
 some
 
-(A) I believe that this alleged arm of the sea is nothing other than the image
-
-[p. 159]
-
-some river in such paintings, it would have been the Colorado, or Red River,
+(A) I believe that this alleged arm of the sea is nothing other than the image [p. 159] some river in such paintings, it would have been the Colorado, or Red River,
 
 Bk. II. which empties into the Gulf of California at 32½° of latitude, since this is the most considerable of all that are found on the road they took. Having crossed the Red River, then, beyond the 35th degree, they went southeast as far as the river Gila, where they halted for some time; for to this day are seen remains of large buildings made by them on the banks of that river. Then, resuming their road toward the south-southeast, they stopped at a latitude of about 29 degrees, in a place that is distant more than 250 miles from the city of Chihuahua, to the north-northwest. This place is known by the name of Casas Grandes, on account of a vast edifice, still standing, which, according to the universal tradition of those peoples, was built by the Mexicans during their migration. This edifice is made on the plan of those of New Mexico, that is, composed of three stories, with a terrace above them, and without a door in the lower story. The door for entering the building is in the second story, so that a ladder is needed. So do the inhabitants of New Mexico, in order to be less exposed to the assaults of their enemies, putting out the ladder only for those whom they permit to enter their houses. The Aztecs doubtless had the same motive in making the edifice in that form; for in it are observed the marks of a fortress, defended on one flank by a high mountain, and for the rest surrounded by a wall about seven feet thick, whose foundations still exist. In that fortress are seen stones as large as millstones; the beams of the roofs are of pine, and well worked. In the
 
-center of the universal Flood, represented in the Mexican paintings before the beginning of their journey, as is seen in the copy published by Gemelli of a painting shown him by the celebrated Dr. Sigüenza. The Chevalier Boturini claims that this arm of the sea is the Gulf of California, since he was persuaded that the Mexicans passed from Aztlan to California, and then, crossing that gulf, made their way to Culiacán; but since remains of the buildings constructed by the Mexicans on their journey have been found on the Gila River and in Pimería, and not in California, there is no reason to believe that they passed by sea, but rather by land to Culiacán.
-
-[p. 160]
-
-center of so vast a structure there is a little mound made on purpose, Bk. II. as appears, to keep watch from it and to observe the enemies. Some
+center of the universal Flood, represented in the Mexican paintings before the beginning of their journey, as is seen in the copy published by Gemelli of a painting shown him by the celebrated Dr. Sigüenza. The Chevalier Boturini claims that this arm of the sea is the Gulf of California, since he was persuaded that the Mexicans passed from Aztlan to California, and then, crossing that gulf, made their way to Culiacán; but since remains of the buildings constructed by the Mexicans on their journey have been found on the Gila River and in Pimería, and not in California, there is no reason to believe that they passed by sea, but rather by land to Culiacán. [p. 160] center of so vast a structure there is a little mound made on purpose, Bk. II. as appears, to keep watch from it and to observe the enemies. Some
 
 excavations have been made in this place, and several utensils have
 
@@ -5950,11 +5466,7 @@ Nayarit there were found trenches made by the Coras to defend themselves against
 
 the Mexicans on the journey that the latter made from Hueicolhuacan to
 
-Chicomoztoc.
-
-[p. 161]
-
-the Tepanecs, the Colhuas, the Chalcas, the Tlahuicas, and the Tlaxcalans passed on, the Mexicans remained there with their idol. Bk. II. They say that the division took place by express command of their god; but we are persuaded that some discord separated them. The situation of Chicomoztoc, where the Mexicans stayed nine years, is not known; but it seems to me that this place is twenty miles south of the city of Zacatecas, where to this day are seen the remains of a very vast edifice, which is indubitably the work of the Aztecs on their journey; for, besides the tradition of the Zacatecos, ancient inhabitants of that country, who, being altogether barbarous, neither had houses nor knew how to build them, that building found there by the Spaniards can be ascribed to no one but the Aztecs. That they were then reduced to a smaller number by the dismemberment of the other tribes will probably have been the reason why the Mexicans did not undertake such buildings in the rest of their migration.
+Chicomoztoc. [p. 161] the Tepanecs, the Colhuas, the Chalcas, the Tlahuicas, and the Tlaxcalans passed on, the Mexicans remained there with their idol. Bk. II. They say that the division took place by express command of their god; but we are persuaded that some discord separated them. The situation of Chicomoztoc, where the Mexicans stayed nine years, is not known; but it seems to me that this place is twenty miles south of the city of Zacatecas, where to this day are seen the remains of a very vast edifice, which is indubitably the work of the Aztecs on their journey; for, besides the tradition of the Zacatecos, ancient inhabitants of that country, who, being altogether barbarous, neither had houses nor knew how to build them, that building found there by the Spaniards can be ascribed to no one but the Aztecs. That they were then reduced to a smaller number by the dismemberment of the other tribes will probably have been the reason why the Mexicans did not undertake such buildings in the rest of their migration.
 
 From the country of the Zacatecos, journeying south by Ameca, Cocula, and Sayula, they descended to the maritime province of Colima, then to that of Zacatula; whence, turning toward the east, they climbed to Malinalco, a place situated in the mountains that surround the valley of Toluca, (C) and then, taking the road toward the north, they arrived in 1196 in the celebrated city of Tula. (D)
 
@@ -5964,11 +5476,7 @@ History of Mexico, Vol. I.                       X                         was
 
 (C) It is established from the manuscripts of Father Juan de Tovar, Jesuit, most learned in the antiquities of those nations, that the Mexicans passed through Michoacán, and it could not have been by any other part than that of Colima and of Zacatula, which then probably belonged to the kingdom, as today to the ecclesiastical diocese of Michoacán; for if they had made the journey to Tula by another road, they would not have made it by Malinalco.
 
-(D) The epoch of the arrival of the Mexicans at Tula in 1196 is confirmed by a manuscript history in the Mexican language cited by the Chevalier Boturini, and on this point of chronology other authors are in agreement.
-
-[p. 162]
-
-was, as they say, two bundles that appeared marvelously in the midst Bk. II.
+(D) The epoch of the arrival of the Mexicans at Tula in 1196 is confirmed by a manuscript history in the Mexican language cited by the Chevalier Boturini, and on this point of chronology other authors are in agreement. [p. 162] was, as they say, two bundles that appeared marvelously in the midst Bk. II.
 
 of their camp. Some of them, approaching the first bundle to exam‐
 
@@ -6030,11 +5538,7 @@ and
 
 the Aztecs knew many centuries earlier how to strike fire by the friction of two
 
-sticks.
-
-[p. 163]
-
-and perhaps also some one who, weary of so long a migration, did not wish to expose himself to new hardships.                                Bk. II.
+sticks. [p. 163] and perhaps also some one who, weary of so long a migration, did not wish to expose himself to new hardships.                                Bk. II.
 
 At Tula they stayed nine years, and then eleven in other places not far off, until in 1216 they arrived at Zumpango, a considerable city of the Valley of Mexico. Tochpanecatl, lord of this city, received them with singular kindness, and, not content with granting them a comfortable lodging and with giving them abundant gifts, being attached to them through long and familiar acquaintance, asked the chiefs of the nation for some noble maiden to be the wife of his son Ilhuicatl. The Mexicans, obliged by so great a benevolence, gave him Tlacapantzin, whom that illustrious young man promptly married, and from them descended, as we shall see, the Mexican kings.
 
@@ -6044,11 +5548,7 @@ As soon as the Mexicans appeared in that country, they were recognized by order 
 
 X2                         The
 
-(F) If Quinatzin were believed to be reigning then, it would be necessary that his reign and that of his successor comprise a space of 161 years,
-
-[p. 164]
-
-The persecutions that they suffered in this place from some lords, and par‐
+(F) If Quinatzin were believed to be reigning then, it would be necessary that his reign and that of his successor comprise a space of 161 years, [p. 164] The persecutions that they suffered in this place from some lords, and par‐
 
 Bk. II.
 
@@ -6116,11 +5616,7 @@ Bk. II. Colhuas and the Xochimilcas, their neighbors, to the great disadvantage 
 
 This action having ended with such glory, the Colhua soldiers presented themselves with their prisoners to the general, according to the custom of those nations; for among them the bravery of soldiers was not estimated by the number of enemies they left dead on the field, but by that of the prisoners that they presented
 
-alive
-
-[p. 166]
-
-alive to the general. It cannot be doubted that this was a reasonable Bk. II.
+alive [p. 166] alive to the general. It cannot be doubted that this was a reasonable Bk. II.
 
 sentiment and a practice quite in conformity with humanity. If the
 
@@ -6196,11 +5692,7 @@ After staying two years at Iztacalco, they passed finally to that site on the la
 
 that
 
-(*) The Mexicans represented Colhuacan in their paintings by the figure of a humped mountain, and this is precisely what that name signifies.
-
-[p. 168]
-
-that place, and afterward to their city, the name of Tenochtitlan; (G)
+(*) The Mexicans represented Colhuacan in their paintings by the figure of a humped mountain, and this is precisely what that name signifies. [p. 168] that place, and afterward to their city, the name of Tenochtitlan; (G)
 
 Bk. II. all, or almost all, the historians of Mexico say that this was precisely
 
@@ -6276,11 +5768,7 @@ But where their industry made its utmost effort was in making, from the brushwoo
 
 History of Mexico, Vol. I.                          Y                     floating
 
-Maguei, or plants of Mexican aloe; but by the study of history I was undeceived, and now I am quite sure that Mexico signifies the Place of Mexitli or Huitzilopochtli, that is, the Mars of the Mexicans, on account of the sanctuary built for him there: whence Mexico means among the Mexicans the same as Fanum Martis among the Romans. The Mexicans drop from names of this kind the final syllable tli. The co added to it is our preposition in. The name Mexicaltzinco means the place of the House or temple of the god Mexitli: so that in substance they signify the same thing: Huitzilopochco, Mexicaltzinco, and Mexico are names of the three places which the Mexicans successively inhabited.
-
-[p. 170]
-
-floating on the water (whose structure and form we shall set out in its Bk. II. place), where they sowed maiz, or maize, chili pepper, chia, kidney
+Maguei, or plants of Mexican aloe; but by the study of history I was undeceived, and now I am quite sure that Mexico signifies the Place of Mexitli or Huitzilopochtli, that is, the Mars of the Mexicans, on account of the sanctuary built for him there: whence Mexico means among the Mexicans the same as Fanum Martis among the Romans. The Mexicans drop from names of this kind the final syllable tli. The co added to it is our preposition in. The name Mexicaltzinco means the place of the House or temple of the god Mexitli: so that in substance they signify the same thing: Huitzilopochco, Mexicaltzinco, and Mexico are names of the three places which the Mexicans successively inhabited. [p. 170] floating on the water (whose structure and form we shall set out in its Bk. II. place), where they sowed maiz, or maize, chili pepper, chia, kidney
 
 beans, and gourds.
 
@@ -6340,11 +5828,7 @@ pret as Oven.
 
 that of San Sebastián Atzacualco, that of San Juan Moyotla, and that of Santa María
 
-Cuepopan and Tlaquechiuhcan.
-
-[p. 171]
-
-of Huitzilopochtli, to whom they paid greater worship every day.
+Cuepopan and Tlaquechiuhcan. [p. 171] of Huitzilopochtli, to whom they paid greater worship every day.
 
 Bk. II.
 
@@ -6352,11 +5836,7 @@ In homage to this wicked deity they performed at this time a hor‐
 
 § 21. rible sacrifice, which cannot be heard of without horror. They sent an Inhuman sacrifice. embassy to the petty king of Colhuacan, begging him to give them one of his daughters, that she might be consecrated Mother of their protecting god, and explaining to him that this was an express command of their god, in order to exalt her to so great an honor. The petty king, either enamored of the glory he hoped for in having a deified daughter, or else frightened by the misfortunes he foresaw if he should refuse the request of a god, at once granted what they asked, especially as he could not suspect what was about to happen. The Mexicans led that noble maiden with great jubilation to their city; but scarcely had she arrived when the Devil, according to what the historians say, commanded that she be sacrificed to him, and after her death flayed, and that one of the most valiant young men of the nation be clothed in her skin. Whether this was an order of the Devil or, what is more likely, a cruel invention of the barbarous priests, everything was punctually carried out. The petty king, invited by the Mexicans to be present at the apotheosis of his daughter, went to be one of the spectators of that great ceremony and one of the worshippers of that new deity. He was brought into the sanctuary, where beside the idol stood upright the young man clothed in the bloodied skin of the victim; but the darkness of the place did not let him see what was there. They put into his hands a censer and a little copal, that he might begin his worship; but having seen, by the light of the flame the copal made, the horrible spectacle that lay before him, he was moved to the depths by grief, and, carried away by violent emotions, rushed out crying like a madman, ordering his people to avenge so barbarous an outrage; but they did not dare undertake it, since they would infallibly have been overwhelmed by the multitude: so the disconsolate father returned to his house to bewail his misfortune for the rest of his life. His
 
-Y2                 unhappy
-
-[p. 172]
-
-unhappy daughter was created a goddess, and honorary Mother not Bk. II.
+Y2                 unhappy [p. 172] unhappy daughter was created a goddess, and honorary Mother not Bk. II.
 
 only of Huitzilopochtli but of all their gods, and this is precisely what
 
@@ -6390,11 +5870,7 @@ Acamapichtli was one of the most illustrious and most prudent
 
 persons
 
-(*) The twenty lords who then governed the nation were called Tenoch, Atzin, Acacitli, Ahuexotl, or Ahueiotl, Ocelopan, Xomimitl, Xiuhcac,
-
-[p. 174]
-
-persons that they then had. He was the son of Opochtli, a most noble
+(*) The twenty lords who then governed the nation were called Tenoch, Atzin, Acacitli, Ahuexotl, or Ahueiotl, Ocelopan, Xomimitl, Xiuhcac, [p. 174] persons that they then had. He was the son of Opochtli, a most noble
 
 Bk. III.
 
@@ -6468,11 +5944,7 @@ critical skill and diligence than Torquemada.
 
 when his nation was so abased by slavery; yet such a marriage is certified by the
 
-paintings of the Mexicans and the Colhuas, seen by the most learned Sigüenza.
-
-[p. 175]
-
-for one of his sons, that as monarch he might govern them, and that they might serve him as vassals. The king gave them his son Bk. III. Cuacuauhpitzahuac, who was at once crowned first king of Tlatelolco in 1353.
+paintings of the Mexicans and the Colhuas, seen by the most learned Sigüenza. [p. 175] for one of his sons, that as monarch he might govern them, and that they might serve him as vassals. The king gave them his son Bk. III. Cuacuauhpitzahuac, who was at once crowned first king of Tlatelolco in 1353.
 
 It is to be suspected that the Tlatelolcas, in making this request of that king, both to flatter him and to irritate him against the Mexicans, their rivals, exaggerated to him the insolence of those who had made a king without his permission; for a few days later the same king of Azcapotzalco convoked his councilors and spoke to them thus: “What do you think, noble Tepanecs, of the Mexicans’ attempt? They have made their way into our dominions, and are increasing considerably their city and their commerce; and, what is worse, they have had the audacity to create a king from among their own countrymen without waiting for our permission. Now if they do this in the beginnings of their settlement, what may be believed they will do when they have multiplied and their forces have grown? Is it not to be feared that in the future, instead of paying us the tribute we have imposed on them, they will claim that we pay it to them, and that the petty king of the Mexicans will want to be monarch of the Tepanecs as well? I, however, think it necessary to increase their burdens in such a way that, wearing themselves out in paying them, they may be consumed, or else, by not paying them, may be afflicted by us with other evils, and finally compelled to leave our state.” All applauded this resolution, nor could anything else be hoped for, since a prince who makes his inclination plain in seeking counsel looks more for §Burdens
 
@@ -6552,21 +6024,13 @@ sors on the crown. He took the second wife without leaving the first;
 
 indeed they lived, both
 
-of
-
-[p. 177]
-
-of them in such concord that Ilancueitl took charge of the education of Huitzilihuitl. He had besides, though not honored with the title of Bk. III. queens, other wives, and among them a slave, of whom was born to him Itzcoatl, one of the best and most renowned kings that there were in Anahuac. Acamapichtli governed his city, which was then his whole kingdom, peacefully for the space of thirty-seven years. In his time the population increased, some stone buildings were erected, and the canals were begun, which served no less for the embellishment of the city than for the utility of the citizens. The Interpreter of the Mendoza Collection ascribes to this king the conquest of Mixquic, Cuitláhuac, Cuauhnahuac, and Xochimilco. But who can persuade himself that the Mexicans were capable of undertaking the conquest of four such large cities, when they could hardly sustain themselves in their own settlement? Hence the painting of this collection, which represents those four cities as conquered by the Mexicans, must be understood of them in so far as they were auxiliary troops of other states, as a little later they served the king of Texcoco against the people of Xaltocan.
+of [p. 177] of them in such concord that Ilancueitl took charge of the education of Huitzilihuitl. He had besides, though not honored with the title of Bk. III. queens, other wives, and among them a slave, of whom was born to him Itzcoatl, one of the best and most renowned kings that there were in Anahuac. Acamapichtli governed his city, which was then his whole kingdom, peacefully for the space of thirty-seven years. In his time the population increased, some stone buildings were erected, and the canals were begun, which served no less for the embellishment of the city than for the utility of the citizens. The Interpreter of the Mendoza Collection ascribes to this king the conquest of Mixquic, Cuitláhuac, Cuauhnahuac, and Xochimilco. But who can persuade himself that the Mexicans were capable of undertaking the conquest of four such large cities, when they could hardly sustain themselves in their own settlement? Hence the painting of this collection, which represents those four cities as conquered by the Mexicans, must be understood of them in so far as they were auxiliary troops of other states, as a little later they served the king of Texcoco against the people of Xaltocan.
 
 Shortly before his death Acamapichtli convoked the magnates of the city and made them a short speech, commending to them his wives and his children and zeal for the public good. He said that, having received the crown from their hands, he returned it to them, that they might give it to the one whom they judged would be more useful to the state; and he declared the grief he felt in dying and leaving his nation tributary to the Tepanecs. His death, which occurred in 1389, was deeply felt by the Mexicans, and his obsequies were celebrated with as much solemnity as the wretchedness of the nation allowed.
 
 From the death of Acamapichtli until the election of the new king there was, according to Dr. Sigüenza, an interregnum of four months; which did not happen again afterward, since from then on hardly a few days had passed after the death of a king when another was elected. This time the election could be delayed, the nobility being occupied in the
 
-History of Mexico, Vol. I.                 Z               regulating
-
-[p. 178]
-
-regulating the number of the electors and establishing the ceremonial
+History of Mexico, Vol. I.                 Z               regulating [p. 178] regulating the number of the electors and establishing the ceremonial
 
 Bk. III. of the coronation, which was then first observed.
 
@@ -6630,11 +6094,7 @@ you have been raised by him must not serve you as a pretext for idle‐
 
 ness and softness, but rather as a spur to toil. Always keep before
 
-your
-
-[p. 179]
-
-your eyes the clear examples of your great father, who spared no toil
+your [p. 179] your eyes the clear examples of your great father, who spared no toil
 
 Bk. III. for the good of his people. We should wish, O lord, to make you gifts worthy of your person; but since the fortune in which we find ourselves does not permit it, deign to receive our desires and the constant fidelity that we promise you.”
 
@@ -6642,11 +6102,7 @@ Huitzilihuitl was not yet married when he ascended the throne; so it was soon th
 
 These expressions, which are singularly elegant in the Mexican language, so bent the mind of Tezozomoc (this was the king’s name) that he at once granted his daughter Ayauhcihuatl, to the unspeakable delight of the Mexicans, who conducted her in pomp to Mexico, and the longed-for marriage was celebrated with the usual ceremony of tying the edge of the bride’s garment to that of the bridegroom. The king had by her in the first year a son, to whom they gave the name of Acolnahuacatl; but eager to ennoble
 
-Z2                      his
-
-[p. 180]
-
-his nation with new alliances, he asked for and obtained from the
+Z2                      his [p. 180] his nation with new alliances, he asked for and obtained from the
 
 Bk. III. lord of Cuauhnahuac one of his daughters, named Miahuaxochitl, by
 
@@ -6714,21 +6170,13 @@ ples in check by means of foreign people, dependent on others,
 
 whom
 
-he
-
-[p. 181]
-
-he placed in each. A policy truly useful for preventing rebellion; but injurious to innocent subjects, and troublesome for the lords who Bk. III. governed them. Besides this he honored several nobles with distinguished offices. He made Tetlato general of the army, Yolqui Quartermaster and Introducer of Ambassadors, Tlami Steward of the royal palace, Amechichi Superintendent of the cleanliness of the royal houses, and Cohuatl Director of the Goldsmiths of Ocolco. No one worked in gold and silver for the king’s service except the director’s own sons, who had, however, learned the art. The Quartermaster of Ambassadors had under him several other Colhua officials, the Steward had a certain number of Chichimecs, and the superintendent of cleanliness a similar number of Tepanecs. By such measures he increased the splendor of the court and strengthened the throne of Acolhuacan, though he could not prevent the revolutions that we shall presently set forth. These and other similar strokes of policy, which will be discovered in the course of this History, will show the wrong done to the Americans by those Europeans who thought them animals of another species, and by those too who believe them incapable of improvement.
+he [p. 181] he placed in each. A policy truly useful for preventing rebellion; but injurious to innocent subjects, and troublesome for the lords who Bk. III. governed them. Besides this he honored several nobles with distinguished offices. He made Tetlato general of the army, Yolqui Quartermaster and Introducer of Ambassadors, Tlami Steward of the royal palace, Amechichi Superintendent of the cleanliness of the royal houses, and Cohuatl Director of the Goldsmiths of Ocolco. No one worked in gold and silver for the king’s service except the director’s own sons, who had, however, learned the art. The Quartermaster of Ambassadors had under him several other Colhua officials, the Steward had a certain number of Chichimecs, and the superintendent of cleanliness a similar number of Tepanecs. By such measures he increased the splendor of the court and strengthened the throne of Acolhuacan, though he could not prevent the revolutions that we shall presently set forth. These and other similar strokes of policy, which will be discovered in the course of this History, will show the wrong done to the Americans by those Europeans who thought them animals of another species, and by those too who believe them incapable of improvement.
 
 The new alliance contracted by the king of Mexico with the king of Azcapotzalco, and the glory the Mexicans had won in the war of Xaltocan, contributed greatly, no less to the vigor of their little state than to the better treatment of their persons; for, having now greater freedom and extension in their commerce, they began at this time to clothe themselves in cotton, of which they had before been entirely deprived by their poverty, and they wore nothing else than coarse cloths of maguei thread or of wild palm. But scarcely had they begun to draw breath when from the same royal family of Azcapotzalco there arose against them a new enemy and a bloodthirsty persecutor.
 
 Maxtla, lord of Coyoacán and son of the king of Azcapotzalco, an ambitious, untamed, and cruel man, and therefore feared even by his own father, had taken offense at the
 
-marriage
-
-[p. 182]
-
-marriage of his sister Ayauhcihuatl to the king of Mexico. He dissem‐
+marriage [p. 182] marriage of his sister Ayauhcihuatl to the king of Mexico. He dissem‐
 
 Bk. III.
 
@@ -6794,11 +6242,7 @@ saying that he would never have asked for the princess, nor would the
 
 king her father have granted her to him, if she had been
 
-promised
-
-[p. 183]
-
-promised to another. But in spite of the sincerity of his excuses and the efficacy of his reasons, Maxtla replied to him indignantly: “I could Bk. III. well, without hearing you further, put you to death here on the spot: thus your rashness would be punished and my honor avenged; but I do not wish it to be said that a Tepanec prince treacherously killed his enemy. Go now in peace: time will furnish me with some occasion to take a more honorable vengeance.”
+promised [p. 183] promised to another. But in spite of the sincerity of his excuses and the efficacy of his reasons, Maxtla replied to him indignantly: “I could Bk. III. well, without hearing you further, put you to death here on the spot: thus your rashness would be punished and my honor avenged; but I do not wish it to be said that a Tepanec prince treacherously killed his enemy. Go now in peace: time will furnish me with some occasion to take a more honorable vengeance.”
 
 The Mexican went away full of grief and rage, and it was not long before he felt the effects of the enmity of his cruel brother-in-law. The true cause of this enmity was the fear that Maxtla conceived that the lordship of the Tepanecs might perhaps at some time fall to his nephew Acolnahuacatl, since he was born of a daughter of King Tezozomoc, whereby his nation would be made subject to the Mexican. To free himself, then, from such a fear, he took the barbarous resolution of putting his nephew to death, as in fact happened, at the hands of certain men who wished by so cruel a deed to win the favor of their master; for there never lack among the powerful venal men who are ministers of their passions. (*) Tezozomoc did not consent to this crime; but neither did he show, so far as we know, any displeasure. In the course of this History it will be seen that the pride, ambition, and cruelty of Maxtla, tolerated, indeed favored by his indulgent father, were the cause of his ruin and of the destruction of his nation. Huitzilihuitl bore so painful a blow very unwillingly; but he did not find himself with forces sufficient to avenge himself.
 
@@ -6866,19 +6310,11 @@ there
 
 not impossible to reign so many years, it is wholly improbable, nor can we believe it without
 
-grave documents, especially as their chronology is everywhere absurd. See our dissertations.
-
-[p. 185]
-
-there was the king of Azcapotzalco, who soon made plain how well he had been known to the late King Techotlalatzin; for without paying Bk. III. obedience to the new king, he went off to his own state to incite the minds of other feudatories to rebellion. He convoked the kings of Mexico and of Tlatelolco and told them that, Techotlalatzin, who for so many years had tyrannized that country, being dead, he wished to set at liberty all the individual lords in such a manner that each should rule his state with absolute independence of the king of Acolhuacan; that to attain so glorious an end he had need of their help, and trusted in their courage, already known to all nations, that they would share in the glory to which he aspired: and so that the blow might be surer, he would bring into the confederation other lords whom he knew to be animated by the same thoughts. Both kings, whether from fear of Tezozomoc’s overbearing power or to increase the glory of their arms, offered to serve him with their troops, and the same answer was given by other lords whom he solicited.
+grave documents, especially as their chronology is everywhere absurd. See our dissertations. [p. 185] there was the king of Azcapotzalco, who soon made plain how well he had been known to the late King Techotlalatzin; for without paying Bk. III. obedience to the new king, he went off to his own state to incite the minds of other feudatories to rebellion. He convoked the kings of Mexico and of Tlatelolco and told them that, Techotlalatzin, who for so many years had tyrannized that country, being dead, he wished to set at liberty all the individual lords in such a manner that each should rule his state with absolute independence of the king of Acolhuacan; that to attain so glorious an end he had need of their help, and trusted in their courage, already known to all nations, that they would share in the glory to which he aspired: and so that the blow might be surer, he would bring into the confederation other lords whom he knew to be animated by the same thoughts. Both kings, whether from fear of Tezozomoc’s overbearing power or to increase the glory of their arms, offered to serve him with their troops, and the same answer was given by other lords whom he solicited.
 
 Meanwhile Ixtlilxochitl was trying to put the affairs of his court in order and to win the minds of his subjects; but he recognized, not without grave sorrow, that many had already withdrawn from his obedience to submit to the perfidious Tezozomoc; so, to check the progress of his enemies, he ordered the lords of Coatlichan, of Huexotla, and of other states near the court to arm without delay as many troops as they could. The king himself wished to command the army in person; but he was dissuaded by his courtiers, who thought his presence more necessary at court; since in that turbulence some hidden enemies, or men of equivocal loyalty, might take advantage of his absence to seize the capital and hurl him from the throne. Tochintecuhtli, son of the lord of Coatlichan, was therefore appointed general of the army, with Cuauhxilotl, lord of Iztapalocan, as his substitute in case of death or of some other accident. They chose as the theater of the war the plain of Cuauhtitlan, fifteen miles north of Azcapotzalco. The rebel troops were more
 
-History of Mexico, Vol. I.              Aa              numerous
-
-[p. 186]
-
-numerous, but those of the royal army better disciplined. This army,
+History of Mexico, Vol. I.              Aa              numerous [p. 186] numerous, but those of the royal army better disciplined. This army,
 
 Bk. III. before going to Cuauhtitlan, laid waste six states of rebel lords, both
 
@@ -6942,11 +6378,7 @@ brothers of the deceased king, and, if there were no brothers, from
 
 among his nephews. This law
 
-was
-
-[p. 187]
-
-was constantly observed, as we shall see, until the ruin of the
+was [p. 187] was constantly observed, as we shall see, until the ruin of the
 
 Bk. III. Mexican empire.
 
@@ -6956,11 +6388,7 @@ He sent therefore a nephew of his named Cihuacuecuenotzin to § 10. Otompan, one
 
 Cihuacuecuenotzin. king with provisions, of which he was in want, and to admonish them to abandon the party of the rebels, remembering the fidelity they had sworn to him. Cihuacuecuenotzin well knew the danger of the enterprise; but the nobility of his sentiments, the strength of his spirit, and his fidelity to his sovereign prevailing over his fear, he was ready to obey: “I go, lord,” he said to him, “to carry out your commands and to sacrifice my life to the obedience I owe you. You are not unaware how far the people of Otompan have been alienated from you in order to adhere to your enemy. All the land is occupied by the Tepanecs and full of dangers: my return is too uncertain. But if I perish in your service, and if the sacrifice I make to you of my life is worthy of some recompense, I beg you to protect my two tender little sons whom I leave.” These words, accompanied by tears, softened the heart of the king, who, on dismissing him,
 
-Aa2                      said
-
-[p. 188]
-
-said to him: “May our god accompany you and bring you back safe. Bk. III.
+Aa2                      said [p. 188] said to him: “May our god accompany you and bring you back safe. Bk. III.
 
 Ah! perhaps on your return you will find done to me what you fear for
 
@@ -7040,11 +6468,7 @@ He left several sons, and among them Nezahualcoyotl, heir to the crown, whom he 
 
 great
 
-(d) Torquemada makes Matlalcihuatzin a daughter of Huitzilihuitl; but how? He says that this king, when he ascended the throne, was not more than 17 years old, nor was he yet married, and that he reigned 22, or at most 26 years. On the other hand he represents Nezahualcoyotl, at the death of his alleged grandfather, at an age to go to war and to conduct negotiations to secure the crown: whence it must be said that Huitzilihuitl, before counting 26 years of marriage, already had grandchildren of at least 20 years.
-
-[p. 190]
-
-great intelligence and of an incomparable magnanimity, and worthier Bk. III. than any other to occupy the throne of Acolhuacan; but he could not,
+(d) Torquemada makes Matlalcihuatzin a daughter of Huitzilihuitl; but how? He says that this king, when he ascended the throne, was not more than 17 years old, nor was he yet married, and that he reigned 22, or at most 26 years. On the other hand he represents Nezahualcoyotl, at the death of his alleged grandfather, at an age to go to war and to conduct negotiations to secure the crown: whence it must be said that Huitzilihuitl, before counting 26 years of marriage, already had grandchildren of at least 20 years. [p. 190] great intelligence and of an incomparable magnanimity, and worthier Bk. III. than any other to occupy the throne of Acolhuacan; but he could not,
 
 because of the overbearing power of Tezozomoc, take possession of
 
@@ -7108,11 +6532,7 @@ persons of those opposed to the Tyrant, and among them Prince
 
 Nezahualcoyotl. The grief and rage that the latter
 
-felt
-
-[p. 191]
-
-felt at it aroused in him youthful ardor, and were on the point of hurling him into a rash action against his enemies, had not a confidant of Bk. III. his who accompanied him deterred him, representing to him the fatal consequences of his rashness, and showing him how much better it would be to wait for time to bring some more opportune occasion of recovering the crown and of avenging himself on his enemies: that the Tyrant was already decrepit, and that his death, which could not be long in coming, would change the state of affairs altogether: that the very peoples would come to submit to their lawful lord, compelled by the injustice and cruelty of the usurper. On this same occasion a Mexican officer of considerable standing (probably Itzcoatl, brother of the king and general of the Mexican armies), either on his own authority or by order of King Chimalpopoca, climbed up on the temple which the Toltec nation had in that court, and spoke thus to the immense crowd that was there: “Hear, Chichimecs, hear, Acolhuas, and all of you who are gathered here: let no one dare do any harm to our son Nezahualcoyotl, nor allow another to do it to him, unless he wishes to submit to a rigorous punishment.” This proclamation served greatly for the safety of the heir prince, no one wishing to bring upon himself the anger of a nation that was beginning to make itself respected.
+felt [p. 191] felt at it aroused in him youthful ardor, and were on the point of hurling him into a rash action against his enemies, had not a confidant of Bk. III. his who accompanied him deterred him, representing to him the fatal consequences of his rashness, and showing him how much better it would be to wait for time to bring some more opportune occasion of recovering the crown and of avenging himself on his enemies: that the Tyrant was already decrepit, and that his death, which could not be long in coming, would change the state of affairs altogether: that the very peoples would come to submit to their lawful lord, compelled by the injustice and cruelty of the usurper. On this same occasion a Mexican officer of considerable standing (probably Itzcoatl, brother of the king and general of the Mexican armies), either on his own authority or by order of King Chimalpopoca, climbed up on the temple which the Toltec nation had in that court, and spoke thus to the immense crowd that was there: “Hear, Chichimecs, hear, Acolhuas, and all of you who are gathered here: let no one dare do any harm to our son Nezahualcoyotl, nor allow another to do it to him, unless he wishes to submit to a rigorous punishment.” This proclamation served greatly for the safety of the heir prince, no one wishing to bring upon himself the anger of a nation that was beginning to make itself respected.
 
 Not long afterward many of the nobles who, to escape the fury of the Tepanec troops, had taken refuge in Huexotzinco and in Tlaxcala, assembled in Papalotla, a place near Texcoco, to deliberate on the course they should take in the present circumstances, and all agreed to submit to the new lords whom the Usurper had set over them in their cities, both to free themselves from so many hostilities and to be able to attend quietly to their homes and families.
 
@@ -7122,11 +6542,7 @@ The Tyrant, having satisfied his ambition by the usurpation of the §Burdens
 
 imposed by kingdom of Acolhuacan, and his cruelty by the slaughters committed the Tyrant. there, wished also to gratify his greed with burdens upon his subjects. He prescribed to them that, besides the tribute,
 
-which
-
-[p. 192]
-
-which they had formerly paid to their king in provisions and in cloth Bk. III.
+which [p. 192] which they had formerly paid to their king in provisions and in cloth Bk. III.
 
 for clothing, they should pay him another in gold and precious stones,
 
@@ -7198,11 +6614,7 @@ Chichimecs, your forefathers, took no account of gold and gems. They put no othe
 
 Meanwhile Nezahualcoyotl kept going about, ever anxious, through several cities, seeking to win over minds in order to restore himself to the throne. But although his subjects loved him, and wished to see him in possession of the kingdom, they did not dare to favor his party openly, for fear of the Tyrant. Among the subjects most closely related to him who abandoned him were the lord of Chimalpan, his uncle, and Tecpanecatl, brother of his second wife Nezahualxochitl, of the royal line of Mexico. Persevering in such negotiations, he arrived one evening at a country estate in the province of Chalco, belonging to a widow lady named Tziltomiauh. He observed that there was a plantation of maguei there, from which the widow drew wine not only for the use of her household but also to sell, which was strictly forbidden by the Chichimec laws. He was inflamed
 
-History of Mexico, Vol. I.              Bb                   with
-
-[p. 194]
-
-with such zeal for the laws of his fathers that, without either the ad‐
+History of Mexico, Vol. I.              Bb                   with [p. 194] with such zeal for the laws of his fathers that, without either the ad‐
 
 Bk. III.
 
@@ -7266,11 +6678,7 @@ ambition, of perfidy, and of injustice, in 1422, after having tyrannized
 
 for nine
 
-years
-
-[p. 195]
-
-years the kingdom of Acolhuacan, and having possessed for very
+years [p. 195] years the kingdom of Acolhuacan, and having possessed for very
 
 Bk. III. many the state of Azcapotzalco. (e)
 
@@ -7278,11 +6686,7 @@ Although it belonged to Tayatzin, as successor to the crown, to give the appropr
 
 Bb2                       father
 
-(e) Torquemada makes Tezozomoc the immediate son of the first Acolhua prince, and so makes him reign 160 or 180 years; but from the very address made by the Chichimec orator it is clear to us that Tezozomoc was a descendant of Xolotl, of Nopaltzin, and of Tlotzin. Now the sister of Nopaltzin married Prince Acolhuatzin, so that their children were cousins of Tlotzin, son of Nopaltzin. In all this Torquemada agrees with us. Who, then, was ever called a descendant of his cousin? Whoever will read the genealogy of the Chichimec kings in Torquemada’s work will at once perceive the blunders made by this author. It may be that there were two or three lords of Azcapotzalco named Tezozomoc; but the one who tyrannized over Acolhuacan was at most a great-grandson of Prince Acolhuatzin.
-
-[p. 196]
-
-father against Nezahualcoyotl, proposed it to his brother Maxtla. But Bk. III.
+(e) Torquemada makes Tezozomoc the immediate son of the first Acolhua prince, and so makes him reign 160 or 180 years; but from the very address made by the Chichimec orator it is clear to us that Tezozomoc was a descendant of Xolotl, of Nopaltzin, and of Tlotzin. Now the sister of Nopaltzin married Prince Acolhuatzin, so that their children were cousins of Tlotzin, son of Nopaltzin. In all this Torquemada agrees with us. Who, then, was ever called a descendant of his cousin? Whoever will read the genealogy of the Chichimec kings in Torquemada’s work will at once perceive the blunders made by this author. It may be that there were two or three lords of Azcapotzalco named Tezozomoc; but the one who tyrannized over Acolhuacan was at most a great-grandson of Prince Acolhuatzin. [p. 196] father against Nezahualcoyotl, proposed it to his brother Maxtla. But Bk. III.
 
 the latter, though he had a heart no less inhuman, had nevertheless a
 
@@ -7358,11 +6762,7 @@ The next morning he summoned the people of Azcapotzalco, and § 14.
 
 Maxtla, Tyrant of told them that, since he could not remain in the palace of his father, Acolhuacan. because it belonged to Prince Tayatzin, and since he moreover needed a house in that court, where he could lodge whenever, for some
 
-business,
-
-[p. 198]
-
-business, he had to come from his state of Coyoacán, he wished them Bk. III.
+business, [p. 198] business, he had to come from his state of Coyoacán, he wished them Bk. III.
 
 to show him the love they bore him by the very speedy construction
 
@@ -7430,11 +6830,7 @@ Much greater was Maxtla’s indignation against the king of Mexico;
 
 but it did not seem to him fitting to make an attempt
 
-against
-
-[p. 199]
-
-against his life until he should see himself well secured on the throne. Meanwhile he vented his rage in insults against his person and in out‐ Bk. III. rages offered to his dignity. Soon after his intrusion into the kingdom,
+against [p. 199] against his life until he should see himself well secured on the throne. Meanwhile he vented his rage in insults against his person and in out‐ Bk. III. rages offered to his dignity. Soon after his intrusion into the kingdom,
 
 § 15. there was sent to him by the king of Mexico the present that it was Insults offered by the the custom to make every year in token of acknowledgment of the Tyrant           to the king of
 
@@ -7442,11 +6838,7 @@ Mexico. overlordship of the king of Azcapotzalco. This present, consisting of th
 
 Such a scorn was soon followed by a most grievous offense against honor. The Tyrant learned that among the wives of the Mexican king there was one singularly beautiful, and, inflamed by this mere report with wicked desires, he determined to sacrifice honesty and justice to his passion. To attain his end he made use of certain Tepanec ladies, charging them that when they visited, as they were wont to do, that Mexican lady, they should invite her to come to them at Azcapotzalco to divert herself for some days. Such visits being at that time quite frequent even among persons of the first rank and of different nations, it was not difficult for the villainous prince to seize the occasion he so much desired to satisfy his guilty passion, neither the tears nor the efforts used by that honest lady in defense of her honor sufficing to restrain him: whereupon she returned to Mexico full of ignominy,
 
-and
-
-[p. 200]
-
-and pierced by the keenest grief, to complain to her husband. This
+and [p. 200] and pierced by the keenest grief, to complain to her husband. This
 
 Bk. III. unfortunate king, either so as not to survive his dishonor, or so as not
 
@@ -7514,11 +6906,7 @@ With
 
 With the imprisonment of Chimalpopoca Maxtla’s desire revived to seize also Prince Nezahualcoyotl, and in order to obtain him more Bk. III. easily he had him summoned under the pretext of wishing to make an agreement with him about the crown of Acolhuacan. The shrewd prince at once perceived the malign intention of the Tyrant; but the ardor of his age, and the courage, or rather the rashness, of his spirit made him present himself intrepidly to the gravest perils. In passing through Tlatelolco he visited a confidant of his called Chichincatl, who let him know that the Tyrant was not only plotting against his life and that of the king of Tlatelolco, but would even, if he could, annihilate the whole Acolhua nation. Nevertheless, without being frightened, he betook himself to Azcapotzalco in the evening, and went straight to the house of a friend of his. Early in the morning he went to find Chachaton, a great favorite of the Tyrant, by whom the prince himself was loved, and commended himself to him, that he might dissuade Maxtla from doing anything against his person. The two went together to the palace, and Chachaton went in first to inform his lord of the prince’s coming and to speak to him in his favor. Then the prince entered, and after his compliments said to him thus: “I know, lord, that you have imprisoned the king of Mexico, and I do not know whether you have already put him to death, or whether he still lives in prison. I have also heard it said that you wish to put me to death too. If it is truly so, here I am before you: kill me with your own hands, so that your anger may be vented against a prince no less innocent than unfortunate.” As he said these words, the remembrance of his misfortunes drew some tears from his eyes. “What do you think?” said Maxtla then to his favorite. “Is it any wonder that a young man who has scarcely begun to enjoy life should seek death so intrepidly?” And turning to the prince, he assured him that he was plotting nothing against his life: that the king of Mexico was not dead, nor would he ever have him put to death, and he sought at the same time to justify himself in regard to the imprisonment
 
-History of Mexico, Vol. I.               Cc                      of
-
-[p. 202]
-
-of that unfortunate king. He then ordered that the prince be suitably Bk. III. lodged.
+History of Mexico, Vol. I.               Cc                      of [p. 202] of that unfortunate king. He then ordered that the prince be suitably Bk. III. lodged.
 
 Chimalpopoca, informed of the arrival at the court of the prince,
 
@@ -7578,11 +6966,7 @@ and cruel Tyrant! Since I cannot take any other vengeance on him, at
 
 least I will not leave him the pleasure that
 
-he
-
-[p. 203]
-
-he would then have in the choice of the time and of the kind of death with which I must end my unhappy days. I wish to be master of my Bk. III. life, to choose the time and the manner of dying, and to be also the executor of my own death, so that there may be so much the less ignominy in it, the less influence the will of my enemy has upon it.” (*) With such a resolution, so conformable to the ideas of those nations, he hanged himself from a beam of the cage, making use, as is to be believed, of his own girdle.
+he [p. 203] he would then have in the choice of the time and of the kind of death with which I must end my unhappy days. I wish to be master of my Bk. III. life, to choose the time and the manner of dying, and to be also the executor of my own death, so that there may be so much the less ignominy in it, the less influence the will of my enemy has upon it.” (*) With such a resolution, so conformable to the ideas of those nations, he hanged himself from a beam of the cage, making use, as is to be believed, of his own girdle.
 
 With an end so tragic the third king of Mexico finished his calamitous life. We have no more precise accounts either of his character or of the progress which the nation made in the time of his reign, which lasted about thirteen years, having ended in 1423, about a year after the death of Tezozomoc. All that is known of him is that in the eleventh year of his reign he had a great stone brought to Mexico, to serve as an altar for the ordinary sacrifice of prisoners, and another, round and larger, for the gladiatorial sacrifice, of which we shall speak elsewhere. In the fourth painting of the Mendoza Collection are represented the victories gained by the Mexicans in the reign of Chimalpopoca over the cities of Chalco and of Tequixquiac, and the naval engagement which they had with the Chalcas, with the loss of some men and of some boats overturned by the enemy. The Interpreter of that collection adds that Chimalpopoca left many sons born of his concubines.
 
@@ -7594,11 +6978,7 @@ and falling into a rage because his designs had been upset, and fearing death of
 
 Cc2                      certain
 
-(*) These last words of Chimalpopoca, reported by the historians of Mexico, could be learned from the testimony of the guards who were around the cage, or prison.
-
-[p. 204]
-
-certain omens of the priests; but his anger was already in a state not Bk. III.
+(*) These last words of Chimalpopoca, reported by the historians of Mexico, could be learned from the testimony of the guards who were around the cage, or prison. [p. 204] certain omens of the priests; but his anger was already in a state not Bk. III.
 
 to be restrained by motives of religion; so he gave four of the bravest
 
@@ -7660,11 +7040,7 @@ having
 
 labyrinth, which he had had made with so many turns and intricacies that the way
 
-out was impossible to anyone who did not know its arrangement, whose secret
-
-[p. 205]
-
-having waited a good while after dinner, and seeing that neither the prince let himself be seen nor his retainer Ocelotl, they searched for Bk. III. him through the whole house without finding in it any person who could give them word of him. Assured, therefore, of his flight, they went out at once to look for him everywhere, and having learned from a peasant on the road to Coatitlan that he had taken refuge in that place, they entered it with an armed force, threatening the inhabitants with death if they did not reveal the fugitive prince; but, by a rare example of fidelity, there was not in the whole place anyone who would betray him, although some were killed for this reason. Among those who sacrificed their lives to fidelity were Tochmantzin, overseer of all the looms of Coatitlan, and Matlalintzin, a noble lady. The Tepanecs, unable to find the prince there in spite of their diligence and of the cruelty they had used against the inhabitants, went out to look for him through the countryside; and Nezahualcoyotl also went out by another way, and took a road opposite to that of his enemies; but as they were searching for him everywhere, he found himself in great danger of falling into their hands, had he not been hidden by certain peasants inside a heap of the herb chian that was on the threshing floor.
+out was impossible to anyone who did not know its arrangement, whose secret [p. 205] having waited a good while after dinner, and seeing that neither the prince let himself be seen nor his retainer Ocelotl, they searched for Bk. III. him through the whole house without finding in it any person who could give them word of him. Assured, therefore, of his flight, they went out at once to look for him everywhere, and having learned from a peasant on the road to Coatitlan that he had taken refuge in that place, they entered it with an armed force, threatening the inhabitants with death if they did not reveal the fugitive prince; but, by a rare example of fidelity, there was not in the whole place anyone who would betray him, although some were killed for this reason. Among those who sacrificed their lives to fidelity were Tochmantzin, overseer of all the looms of Coatitlan, and Matlalintzin, a noble lady. The Tepanecs, unable to find the prince there in spite of their diligence and of the cruelty they had used against the inhabitants, went out to look for him through the countryside; and Nezahualcoyotl also went out by another way, and took a road opposite to that of his enemies; but as they were searching for him everywhere, he found himself in great danger of falling into their hands, had he not been hidden by certain peasants inside a heap of the herb chian that was on the threshing floor.
 
 Safe from such a danger, the prince went to spend the night at Tetzcotzinco, a pleasant country house built by his ancestors for their recreation. There six lords were waiting for him, who, outside their states, were wandering through the cities of the kingdom. There they §Negotiations
 
@@ -7674,11 +7050,7 @@ of held that night a secret council, and resolved to solicit the aid of the Neza
 
 obtain the crown. Chalcas, although they had been accomplices in the death of King Ixtlilxochitl. The next morning, early, the prince went to Matlallan and to other places, admonishing those of his party to be prepared with their arms for the time of his return. Two days he spent in these negotiations, and on the evening of the second
 
-day was known to none but the prince himself and some of his intimate confidants. It is not indeed incredible that he himself designed such a building, since his intelligence was marvelous, and in every respect he showed lights superior to those of all his countrymen.
-
-[p. 206]
-
-day he was in Apan, where he was met by the ambassadors of the
+day was known to none but the prince himself and some of his intimate confidants. It is not indeed incredible that he himself designed such a building, since his intelligence was marvelous, and in every respect he showed lights superior to those of all his countrymen. [p. 206] day he was in Apan, where he was met by the ambassadors of the
 
 Bk. III.
 
@@ -7744,11 +7116,7 @@ successor. The Mexican nobility has not ended in Chimalpopoca; there
 
 still remain several excellent princes,
 
-brothers
-
-[p. 207]
-
-brothers of his, from among whom you can choose a lord who will govern you and a father who will welcome you. Imagine that for a Bk. III. short time the sun has been eclipsed and the earth darkened, and that now the light returns to us in the new king. What matters is that, without lingering in long conferences, we elect a prince who will restore the honor of our nation, avenge the affronts done to it, and set it again in its primitive liberty.” They proceeded at once to the election, and Prince Itzcoatl was elected by common consent, half-brother on the father’s side of the two preceding kings, and natural son of Acamapichtli, born of a slave woman. As much as he might lose in esteem by the unfortunate condition of his mother, so much was he worthy by the nobility and renown of his father, and far more by his own virtues, of which he gave many examples in the post of general of the Mexican armies, which he had held for more than thirty years. He was esteemed the most prudent, upright, and valiant man of the whole nation. Placed upon the Tlatocaicpalli, or royal seat, he was saluted as king by all the nobility with singular acclamations. Then one of the orators made him an address on the obligations of a sovereign: “All of us, O great king and lord,” he said to him among other things, “all of us now hang upon you. On your shoulders are borne the old, the orphans, and the widows. Will you have the heart to lay down this burden? Will you allow the children who crawl on the ground to perish at the hands of our enemies? Come, lord, begin to spread out your mantle to carry on your back the poor Mexicans, who flatter themselves that they live secure beneath the cool shade of your kindness.” This ceremony over, the exaltation of the new monarch was celebrated with public dances and games. It was no less applauded by Nezahualcoyotl and by his whole party: for no one doubted that the new king would be a constant ally of the prince his brother-in-law; and they hoped for great advantages from his prowess and from his military skill; but to the Tepanecs and their allies, and above all to the Tyrant, such an election was very displeasing.
+brothers [p. 207] brothers of his, from among whom you can choose a lord who will govern you and a father who will welcome you. Imagine that for a Bk. III. short time the sun has been eclipsed and the earth darkened, and that now the light returns to us in the new king. What matters is that, without lingering in long conferences, we elect a prince who will restore the honor of our nation, avenge the affronts done to it, and set it again in its primitive liberty.” They proceeded at once to the election, and Prince Itzcoatl was elected by common consent, half-brother on the father’s side of the two preceding kings, and natural son of Acamapichtli, born of a slave woman. As much as he might lose in esteem by the unfortunate condition of his mother, so much was he worthy by the nobility and renown of his father, and far more by his own virtues, of which he gave many examples in the post of general of the Mexican armies, which he had held for more than thirty years. He was esteemed the most prudent, upright, and valiant man of the whole nation. Placed upon the Tlatocaicpalli, or royal seat, he was saluted as king by all the nobility with singular acclamations. Then one of the orators made him an address on the obligations of a sovereign: “All of us, O great king and lord,” he said to him among other things, “all of us now hang upon you. On your shoulders are borne the old, the orphans, and the widows. Will you have the heart to lay down this burden? Will you allow the children who crawl on the ground to perish at the hands of our enemies? Come, lord, begin to spread out your mantle to carry on your back the poor Mexicans, who flatter themselves that they live secure beneath the cool shade of your kindness.” This ceremony over, the exaltation of the new monarch was celebrated with public dances and games. It was no less applauded by Nezahualcoyotl and by his whole party: for no one doubted that the new king would be a constant ally of the prince his brother-in-law; and they hoped for great advantages from his prowess and from his military skill; but to the Tepanecs and their allies, and above all to the Tyrant, such an election was very displeasing.
 
 ## Itzcoatl
 
@@ -7818,11 +7186,7 @@ to kill the governors and the other officials established there by the
 
 Tyrant,
 
-and
-
-[p. 209]
-
-and all the Tepanecs, as many as they found there. While this terrible punishment was being carried out in Texcoco, the Tlaxcalan and Bk. III. Huexotzinca troops, detached from the army, assailed with indescribable fury the city of Acolman, killing all they met as far as the house of the lord of the city, who was a brother of the Tyrant, and who, having no forces sufficient to defend himself, was slain by his enemies. On the same day the Chalca auxiliaries of the Prince fell upon the city of Coatlichan and took it without much resistance, with the death of the governor, who had taken refuge on the top of the great temple; so that in a single day the Prince brought under his obedience the court and two considerable cities of the kingdom of Acolhuacan.
+and [p. 209] and all the Tepanecs, as many as they found there. While this terrible punishment was being carried out in Texcoco, the Tlaxcalan and Bk. III. Huexotzinca troops, detached from the army, assailed with indescribable fury the city of Acolman, killing all they met as far as the house of the lord of the city, who was a brother of the Tyrant, and who, having no forces sufficient to defend himself, was slain by his enemies. On the same day the Chalca auxiliaries of the Prince fell upon the city of Coatlichan and took it without much resistance, with the death of the governor, who had taken refuge on the top of the great temple; so that in a single day the Prince brought under his obedience the court and two considerable cities of the kingdom of Acolhuacan.
 
 The king of Mexico, aware of the progress of his brother-in-law, §Adventures
 
@@ -7832,11 +7196,7 @@ of sent him another embassy to congratulate him and to ratify the al‐ Moctezum
 
 History of Mexico, Vol. I.                        Dd                          the
 
-(g) Father Acosta, or rather Father Tovar, erred not only in the account of some deeds of our hero, but even in what concerns his person; for he believed Tlacaelel to be different from Moctezuma, whereas in fact he is a single personage, called by two and even three names. He makes Tlacaelel also a nephew of Itzcoatl and at the same time an uncle of Moctezuma, which is evidently false, since it is known that Moctezuma was the son of Huitzilihuitl, brother of Itzcoatl; whence he could not be the nephew of the nephew of Itzcoatl.
-
-[p. 210]
-
-the enterprise was; since the Tyrant, to hinder the progress of his rival Bk. III. and his communication with the Mexicans, had occupied the roads;
+(g) Father Acosta, or rather Father Tovar, erred not only in the account of some deeds of our hero, but even in what concerns his person; for he believed Tlacaelel to be different from Moctezuma, whereas in fact he is a single personage, called by two and even three names. He makes Tlacaelel also a nephew of Itzcoatl and at the same time an uncle of Moctezuma, which is evidently false, since it is known that Moctezuma was the son of Huitzilihuitl, brother of Itzcoatl; whence he could not be the nephew of the nephew of Itzcoatl. [p. 210] the enterprise was; since the Tyrant, to hinder the progress of his rival Bk. III. and his communication with the Mexicans, had occupied the roads;
 
 but neither did the king for that reason refrain from sending the em‐
 
@@ -7896,11 +7256,7 @@ by deeds so unworthy.” With this answer, and with the prisoners, the
 
 Chalcas returned to Toteotzin, who, being determined to make some
 
-friends
-
-[p. 211]
-
-friends by means of those prisoners, informed the Tyrant Maxtla, leaving to his will the fate of those unfortunates, and hoping by such Bk. III. flattery to calm the anger caused in him by his perfidy and by his inconstancy in abandoning the Tepanec party for that of Prince Nezahualcoyotl. Meanwhile, while he awaited Maxtla’s reply, he had the prisoners shut up in the same prison and under the custody of the same Cuateotzin. The latter, grieved at the misfortune of a young man so illustrious and so brave, summoned on the evening before the day on which the reply from Azcapotzalco was expected a servant of his in whom he greatly trusted, and ordered him to set the prisoners at liberty that very night, and to tell Moctezuma on his part that he had resolved to save his life at the evident risk of losing his own; that if on this account he should have to die, as was to be feared, he should not forget to show his gratitude in the protection of the children he was leaving; and, finally, that he should not go by land to Mexico, because he would again be taken by the guards who were on the road, but should make his way by Iztapalocan to Chimalhuacan, and there embark to be carried to his city.
+friends [p. 211] friends by means of those prisoners, informed the Tyrant Maxtla, leaving to his will the fate of those unfortunates, and hoping by such Bk. III. flattery to calm the anger caused in him by his perfidy and by his inconstancy in abandoning the Tepanec party for that of Prince Nezahualcoyotl. Meanwhile, while he awaited Maxtla’s reply, he had the prisoners shut up in the same prison and under the custody of the same Cuateotzin. The latter, grieved at the misfortune of a young man so illustrious and so brave, summoned on the evening before the day on which the reply from Azcapotzalco was expected a servant of his in whom he greatly trusted, and ordered him to set the prisoners at liberty that very night, and to tell Moctezuma on his part that he had resolved to save his life at the evident risk of losing his own; that if on this account he should have to die, as was to be feared, he should not forget to show his gratitude in the protection of the children he was leaving; and, finally, that he should not go by land to Mexico, because he would again be taken by the guards who were on the road, but should make his way by Iztapalocan to Chimalhuacan, and there embark to be carried to his city.
 
 The servant carried out the order, and Moctezuma followed the counsel of Cuateotzin. They left the prison that night and cautiously made their way toward Chimalhuacan, where they kept hidden the whole following day, and, having nothing else to eat, fed on raw herbs; at night they embarked, and with the greatest speed were carried to Mexico, where they were received with singular rejoicing, since they were already believed dead there.
 
@@ -7968,19 +7324,11 @@ some popular sedition more pernicious than the war with the enemies,
 
 was constrained, against his will,
 
-to
-
-[p. 213]
-
-to comply with the people’s request. Moctezuma happened to be present, and, unable to endure that a nation which boasted so much Bk. III. of honor should adopt so ignominious a course, he spoke thus to the commoners: “Ah, what are you thinking of, O Mexicans? Have you lost your wits? How has such cowardice entered into your hearts? Have you perhaps forgotten that you are Mexicans, and descendants of those heroes who founded this city, and of those valiant men who have preserved it in spite of the opposition of our enemies? Either change your sentiment, then, or renounce the glory that you have inherited from your forefathers.” And turning then to the king: “How, my lord,” he said to him, “can you permit so great an ignominy in your people? Speak to them once more, and tell them to let us adopt another course before putting ourselves so foolishly and so shamefully into the hands of our enemies.”
+to [p. 213] to comply with the people’s request. Moctezuma happened to be present, and, unable to endure that a nation which boasted so much Bk. III. of honor should adopt so ignominious a course, he spoke thus to the commoners: “Ah, what are you thinking of, O Mexicans? Have you lost your wits? How has such cowardice entered into your hearts? Have you perhaps forgotten that you are Mexicans, and descendants of those heroes who founded this city, and of those valiant men who have preserved it in spite of the opposition of our enemies? Either change your sentiment, then, or renounce the glory that you have inherited from your forefathers.” And turning then to the king: “How, my lord,” he said to him, “can you permit so great an ignominy in your people? Speak to them once more, and tell them to let us adopt another course before putting ourselves so foolishly and so shamefully into the hands of our enemies.”
 
 The king, who desired nothing more than this, spoke to the commoners, recommending the counsel of Moctezuma, which was well received. “Well, then,” said the king, addressing the nobility, “which of you, who are the flower of the nation, will have the courage to carry an embassy to the lord of the Tepanecs?” They all began to look at one another, and there was none among them who dared to face the danger, until Moctezuma presented himself with youthful intrepidity, saying: “I will go; for if after all I must die, it matters little whether it be today or tomorrow, nor can a better occasion be found for dying with glory, sacrificing my life to the honor of my nation. Here I am, my lord, ready to obey your commands. Command me, then, whatever you please.” The king, pleased with so great a courage, ordered him to go and propose peace to the Tyrant, but without consenting to ignominious conditions. The brave young man set out at once, and meeting the Tepanec guards, persuaded them to let him bear to their lord an embassy of the highest importance. Presented to the Tyrant, he asked him for peace in the name of his king and of his nation, but under honorable conditions. The Tyrant
 
-replied
-
-[p. 214]
-
-replied that it was necessary to deliberate with his councilors in order to Bk. III. give the decisive reply on the following day; and Moctezuma having
+replied [p. 214] replied that it was necessary to deliberate with his councilors in order to Bk. III. give the decisive reply on the following day; and Moctezuma having
 
 asked of him a safe-conduct, he gave him no other than what he might
 
@@ -8040,11 +7388,7 @@ At such news the commoners were again thrown into confusion, and
 
 had recourse to the king to ask of him permission to abandon
 
-the
-
-[p. 215]
-
-the city, because they believed their ruin inevitable. The king tried to
+the [p. 215] the city, because they believed their ruin inevitable. The king tried to
 
 Bk. III. comfort and encourage them with the hope of victory. But if we should ever be defeated, replied the commoners, what shall we do? If that hap‐
 
@@ -8056,11 +7400,7 @@ On the day following the arrival of Prince Nezahualcoyotl in Mexico, the army of
 
 boasting
 
-(h) I believe that the Mexicans had by this time built the causeways of Tacuba and of Tepeyac, not that of Iztapalapan, which is larger, and where the lake was deepest.
-
-[p. 216]
-
-boasting too soon of victory. This army was commanded by a famous Bk. III.
+(h) I believe that the Mexicans had by this time built the causeways of Tacuba and of Tepeyac, not that of Iztapalapan, which is larger, and where the lake was deepest. [p. 216] boasting too soon of victory. This army was commanded by a famous Bk. III.
 
 general called Mazatl. The Tyrant Maxtla, although he had accepted
 
@@ -8120,11 +7460,7 @@ their enemies, they said: O mighty Tepanecs, lords of the mainland, restrain
 
 your anger; for we now surrender. If you please,
 
-here
-
-[p. 217]
-
-here, before your very eyes, we will kill our chiefs, to deserve from you pardon
+here [p. 217] here, before your very eyes, we will kill our chiefs, to deserve from you pardon
 
 Bk. III. for the rashness into which their ambition has led us. So great was the indignation which the king, the prince, the general, and the nobility felt at such clamors that they would on the spot have punished with death the baseness of their cowardly soldiers, had it not been in order not to make the enemy’s victory easier; and so, dissembling their displeasure, they all cried with one voice, Let us go and die with glory, and threw themselves with such impetus upon the enemy that they drove them back from a ditch which they had occupied and made them retreat. With this advantage the king began to animate his people, while the Prince and the general worked wonders of courage. In the hottest of the fray Moctezuma met the Tepanec general, who came on proud of the terror his soldiers had caused among the Mexican commoners, and dealt him so fierce a blow on the head that he stretched him lifeless at his feet. The rumor of victory spread at once through the whole field, whereby the Mexicans took great courage; but the Tepanecs were so dismayed by the death of their brave general Mazatl that they immediately fell into disorder. The night coming on prevented the Mexicans from continuing their advance: whereupon both sides withdrew to their cities, the Mexicans full of courage and impatient at not being able, because of the darkness of the night, to complete their victory, and the Tepanecs disconsolate and melancholy, though not wholly without hope of avenging themselves on the following day.
 
@@ -8132,11 +7468,7 @@ Maxtla, greatly afflicted both by the death of his general and by the defeat of 
 
 History of Mexico, Vol. I.                     Ee                          At
 
-(i) From these expressions of the Tyrant it may be believed that when he took possession
-
-[p. 218]
-
-At last came the day that was to decide the fate of three kings.
+(i) From these expressions of the Tyrant it may be believed that when he took possession [p. 218] At last came the day that was to decide the fate of three kings.
 
 Bk. III.
 
@@ -8198,21 +7530,13 @@ the
 
 of the crown of Azcapotzalco by the death of his brother Tayatzin, he again imposed
 
-on the Mexicans the tribute already remitted to them by his father Tezozomoc.
-
-[p. 219]
-
-the system of those kingdoms, marked the year 1425 of the common era, a century exactly after the founding of Mexico.             Bk. III.
+on the Mexicans the tribute already remitted to them by his father Tezozomoc. [p. 219] the system of those kingdoms, marked the year 1425 of the common era, a century exactly after the founding of Mexico.             Bk. III.
 
 The following night the victors busied themselves in sacking the city, in demolishing the houses, and in burning the temples, leaving that court, once so celebrated, in such a state that it could not recover in many years. While the Mexicans and the Acolhuas were gathering the fruits of their victory, the Tlaxcalans and the Huexotzincas, detached from the army, took by assault the ancient court of Tenayuca, and on the following day came to join them, in order to take the city of Cuetlachtepec.
 
 The fugitive Tepanecs, finding themselves reduced to the greatest misery in the mountains, and fearing to be overtaken there too by the victors, thought of surrendering and imploring their clemency; and to obtain it they sent to the king of Mexico a distinguished personage accompanied by other nobles from several places of the Tepanec nation. This ambassador humbly asked the king for pardon in the name of his fellow countrymen, offered him obedience, and promised that all the Tepanecs would acknowledge him as their lawful lord and serve him as vassals. He congratulated himself on their fortune, in the midst of so great an overthrow, in having to submit to a king so worthy and endowed with the most excellent qualities, and finally concluded his speech by earnestly begging him to be willing to grant them the grace of life and the liberty to return to their houses. Itzcoatl received them with the greatest kindness, granted all they wished, and declared that he would receive them not as subjects but as sons, and offered to perform toward them all the offices of a true father; but at the same time he threatened them with utter extermination should they dare to violate the fidelity they had sworn to him. After this favor the fugitives returned to their homes to rebuild their houses and to attend to the interests of their families; and from that time they remained always subject to the king of Mexico, adding by their misfortune to the examples of vicissitude that we constantly observe
 
-Ee2                       in
-
-[p. 220]
-
-in human happiness. But not all the Tepanecs submitted at once to Bk. III.
+Ee2                       in [p. 220] in human happiness. But not all the Tepanecs submitted at once to Bk. III.
 
 the obedience of the Conqueror; for those of Coyoacán, a consider‐
 
@@ -8266,11 +7590,7 @@ Chichimecs to the he determined to help him in turn in the recovery of the kingd
 
 Acolhuacan. Acolhuacan. If the king of Mexico had set aside fidelity and justice in favor of ambition, he would not have lacked pretexts to take possession of that kingdom also. The Tyrant Tezozomoc had placed Chimalpopoca in possession of Texcoco, and the latter, as lord, had commanded in that court. Itzcoatl, who had entered into all the rights of his predecessor, could consider that state as incorporated for some years past into the crown of Mexico. Having moreover on the other hand lawfully conquered Azcapotzalco and subdued the Tepanecs, he seemed bound to succeed to all the rights of the vanquished, rights which, both by twelve years of possession and by the acceptance of the greater part of the peoples, might perhaps
 
-be
-
-[p. 222]
-
-be thought sufficiently justified. But disregarding such pretexts, he se‐
+be [p. 222] be thought sufficiently justified. But disregarding such pretexts, he se‐
 
 Bk. IV. riously resolved to place Nezahualcoyotl on the throne which be‐
 
@@ -8336,21 +7656,13 @@ declaring
 
 whence it is to be believed that the Tyrant Maxtla took it from him in order to give it
 
-to Huitznahuatl.
-
-[p. 223]
-
-declaring their rebellion they began to maltreat the Mexican women who went to their market, and even the men who for any reason hap‐ Bk. IV. pened to come to that city. Whereupon King Itzcoatl commanded that no Mexican should go to Coyoacán until the insolence of those rebels should be punished. The expedition of Huexotla being therefore ended, he marched against them. In the first three battles he fought he scarcely gained any other advantage than that of making them retreat a little; but in the fourth, while the two armies were fighting furiously, Moctezuma, with the courageous troops he had placed in ambush, fell with such impetus upon the rear guard of the rebels that he threw them into disorder and forced them to abandon the field and flee to the city. He pursued them also, and perceiving that they meant to fortify themselves in the great temple, forestalled them by occupying it, and burned the tower of that sanctuary. At such a blow the rebels were so dismayed that, leaving the city, they fled to the mountains that lie south of Coyoacán; but even there they were pressed by the royal troops for more than thirty miles, until on a mountain west of Cuauhnahuac the fugitives, weary and with no hope of escaping, threw down their arms in token of surrender and gave themselves up to the discretion of the victors.
+to Huitznahuatl. [p. 223] declaring their rebellion they began to maltreat the Mexican women who went to their market, and even the men who for any reason hap‐ Bk. IV. pened to come to that city. Whereupon King Itzcoatl commanded that no Mexican should go to Coyoacán until the insolence of those rebels should be punished. The expedition of Huexotla being therefore ended, he marched against them. In the first three battles he fought he scarcely gained any other advantage than that of making them retreat a little; but in the fourth, while the two armies were fighting furiously, Moctezuma, with the courageous troops he had placed in ambush, fell with such impetus upon the rear guard of the rebels that he threw them into disorder and forced them to abandon the field and flee to the city. He pursued them also, and perceiving that they meant to fortify themselves in the great temple, forestalled them by occupying it, and burned the tower of that sanctuary. At such a blow the rebels were so dismayed that, leaving the city, they fled to the mountains that lie south of Coyoacán; but even there they were pressed by the royal troops for more than thirty miles, until on a mountain west of Cuauhnahuac the fugitives, weary and with no hope of escaping, threw down their arms in token of surrender and gave themselves up to the discretion of the victors.
 
 By this victory Itzcoatl remained master of the whole state of the Tepanecs, and Moctezuma full of glory. It is a marvel, say the historians, that the greater part of the prisoners taken in that war of Coyoacán belonged to Moctezuma and to three brave Acolhua officers; for all four, following the example of the ancient Mexicans in the war against the Xochimilcas, had agreed to cut a lock of hair from all those they took, and on the greater part of them such a mark was found.
 
 Having brought this expedition to so happy an end, and settled the affairs of Coyoacán and of the other conquered cities, both kings returned to Mexico. King Itzcoatl thought it fitting to place at the head of the Tepanecs someone
 
-of
-
-[p. 224]
-
-of the family of their ancient lords, so that they might live more tran‐
+of [p. 224] of the family of their ancient lords, so that they might live more tran‐
 
 Bk. IV.
 
@@ -8416,11 +7728,7 @@ electors; but from the history itself we know the opposite: nor is there any evi
 
 that they ever took part in, or were present at, any election, as we shall say
 
-elsewhere.
-
-[p. 225]
-
-birth and of the offices they held as of the courage they showed and
+elsewhere. [p. 225] birth and of the offices they held as of the courage they showed and
 
 Bk. IV. the services they rendered. Thus the hope of reward animated them to the most heroic enterprises, being sure that their glory and their advantages did not depend upon certain accidents of fortune, but upon the merit of their own actions. Such a policy was for the most part adopted by the later kings, with great benefit to the state. This famous alliance being established, Itzcoatl went with King Nezahualcoyotl to Texcoco to crown him with his own hand. This ceremony was celebrated with the greatest solemnity in 1426. Thereupon the king of Mexico returned to his court, and the king of Acolhuacan applied himself with the greatest diligence to reforming his own.
 
@@ -8430,11 +7738,7 @@ The kingdom of Acolhuacan was not so well regulated as
 
 Nezahualcoyotl. government of the peoples, weakened the vigor of the laws, and in great part spoiled the customs. Nezahualcoyotl, who besides the love he bore to his nation was endowed with singular prudence, made such regulations for the reform of the kingdom that it was soon seen more flourishing than under any other of his predecessors. He gave a new form to the councils already established by his grandfather. He conferred the offices on the most suitable persons. There was a council for purely civil causes, and besides others there sat in it five lords who in his adversities had been constantly faithful to him. There was another council for criminal causes, over which presided two princes, his brothers, of the highest integrity. The Council of War was composed of the most famous captains, among whom the first place was held by the lord of Teotihuacan, son-in-law of the king and one of the thirteen grandees of the kingdom. The council for the royal revenues consisted of the king’s stewards and of the chief merchants of the court. There were three principal stewards, who had charge of the tributes and of the other revenues of the king. He established assemblies in the manner of academies for their poetry, for astronomy, for music,
 
-History of Mexico, Vol. I.                  Ff                      for
-
-[p. 226]
-
-for painting, for history, and for the art of divination, and he sum‐
+History of Mexico, Vol. I.                  Ff                      for [p. 226] for painting, for history, and for the art of divination, and he sum‐
 
 Bk. IV.
 
@@ -8504,11 +7808,7 @@ so that in a short time, defeated, they withdrew to the city. The
 
 Mexicans, pursuing them, entered it, and set
 
-fire
-
-[p. 227]
-
-fire to the towers of the temples and to other buildings. Unable to
+fire [p. 227] fire to the towers of the temples and to other buildings. Unable to
 
 Bk. IV. withstand their attack, the citizens fled to the mountains; but being besieged there also by the Mexicans, they finally surrendered. Moctezuma was received by the Xochimilca priests with music of little flutes and small drums, having dispatched so important an expedition in only eleven days. The king of Mexico presently betook himself to take possession of that city, which was, as we have already indicated, the greatest of the Valley of Mexico after the courts; there he was recognized and acclaimed king, received the obedience of those new subjects, and promised to love them as a father and to take care in the future of their interests.
 
@@ -8516,11 +7816,7 @@ The misfortune of the Xochimilcas was not enough to frighten the people of Cuitl
 
 The lord of Xiuhtepec, a city of the country of the Tlahuicas more than thirty miles south of Mexico, had asked of his neighbor the lord of Cuauhnahuac a daughter of his for wife, and the latter had granted her. Afterwards the lord
 
-Ff2                       of
-
-[p. 228]
-
-of Tlaltexcal laid claim to her, and to him he gave her at once, heedBk. IV. less of the promise made to the first, either because of some offense
+Ff2                       of [p. 228] of Tlaltexcal laid claim to her, and to him he gave her at once, heedBk. IV. less of the promise made to the first, either because of some offense
 
 received from him or for some other reason unknown to us. Gravely
 
@@ -8584,21 +7880,13 @@ self in little more than twelve years in a state to command those very
 
 ones who had dominated it, and the peoples who thought
 
-themselves
-
-[p. 229]
-
-themselves superior. So much does the valor and wisdom of its Head matter to the happiness of a nation! The great Itzcoatl died at last, af‐ Bk. IV. ter so glorious a reign and at a very advanced age, in 1436 of the common era. He was a king justly celebrated by the Mexicans for his singular qualities and for the incomparable services he rendered them. He served the nation for more than thirty years in the office of General, and governed it for nearly thirteen as sovereign. Besides having freed it from the domination of the Tepanecs, enlarged its dominions, restored the royal family of the Chichimecs to the throne of Acolhuacan, enriched his court with the spoils of the conquered cities, and laid, in the triple alliance that he established, the foundations of its future greatness, he also ennobled it with new buildings. Among others, after the conquest of Cuitlahuac he built a temple to the goddess Cihuacoatl, and soon after another to Huitzilopochtli. The Mexicans celebrated his funeral rites with extraordinary solemnity and with the greatest demonstrations of grief, and laid his ashes in the same tomb as those of his predecessors.
+themselves [p. 229] themselves superior. So much does the valor and wisdom of its Head matter to the happiness of a nation! The great Itzcoatl died at last, af‐ Bk. IV. ter so glorious a reign and at a very advanced age, in 1436 of the common era. He was a king justly celebrated by the Mexicans for his singular qualities and for the incomparable services he rendered them. He served the nation for more than thirty years in the office of General, and governed it for nearly thirteen as sovereign. Besides having freed it from the domination of the Tepanecs, enlarged its dominions, restored the royal family of the Chichimecs to the throne of Acolhuacan, enriched his court with the spoils of the conquered cities, and laid, in the triple alliance that he established, the foundations of its future greatness, he also ennobled it with new buildings. Among others, after the conquest of Cuitlahuac he built a temple to the goddess Cihuacoatl, and soon after another to Huitzilopochtli. The Mexicans celebrated his funeral rites with extraordinary solemnity and with the greatest demonstrations of grief, and laid his ashes in the same tomb as those of his predecessors.
 
 The four electors had no need to deliberate in the election of the § 6. new king; for, since no brother of the deceased kings survived, the Moctezuma         I, fifth
 
 king of Mexico. election had to fall upon one of the nephews of Itzcoatl; and no one was truly found more worthy than Moctezuma Ilhuicamina, the son of Huitzilihuitl, no less for his virtues than for the important services he had rendered his nation. He was therefore elected with general applause, and notice of this was given at once to the two allied kings, who not only ratified the election but even celebrated it with great praises of the one elected, and sent him presents worthy of his greatness and of their esteem. After the customary ceremonies and the congratulatory speeches of the priests, the nobles, and the soldiers, there were great rejoicings, with banquets, dances, and illuminations. But before coming to the coronation, whether by a law established by the nation or by his own will, he went out to war to take prisoners from among the enemy to be sacrificed at this great ceremony. He determined that they should be Chalcas
 
-to
-
-[p. 230]
-
-to avenge the insults received and the unworthy treatment inflicted
+to [p. 230] to avenge the insults received and the unworthy treatment inflicted
 
 Bk. IV.
 
@@ -8676,11 +7964,7 @@ The report of so horrible an event spread at once through the whole land. The ki
 
 This famous king, although from his youth he had had several wives, and by them many sons, had until then granted the honor of queen to none, since they were all
 
-either
-
-[p. 232]
-
-either daughters of his subjects or else slaves. (c) Now, thinking it
+either [p. 232] either daughters of his subjects or else slaves. (c) Now, thinking it
 
 Bk. IV.
 
@@ -8744,11 +8028,7 @@ who, being of the royal house of Mexico, was quite worthy of the honor of queen;
 
 but this lady died before the prince her husband recovered the crown usurped from
 
-him by the Tepanecs.
-
-[p. 233]
-
-while Itzcoatl, aware of this design, prepared himself suitably for defense and made him lose his courage. Hence there arose such distrust Bk. IV. and enmity between the Mexicans and the Tlatelolcas that they remained for years without communicating with one another, except for some commoners who went furtively to the markets. Under the reign of Moctezuma, Cuauhtlatoa resumed his perverse designs; but this time they did not go unpunished; for Moctezuma, being warned, forestalled the blow by a furious assault that he made upon Tlatelolco, in which he had that restless petty king put to death, although his city did not then remain subject to the dominion of the Mexican. The Tlatelolcas elected as king the brave Moquihuix, in whose election the king of Mexico himself doubtless had a hand.
+him by the Tepanecs. [p. 233] while Itzcoatl, aware of this design, prepared himself suitably for defense and made him lose his courage. Hence there arose such distrust Bk. IV. and enmity between the Mexicans and the Tlatelolcas that they remained for years without communicating with one another, except for some commoners who went furtively to the markets. Under the reign of Moctezuma, Cuauhtlatoa resumed his perverse designs; but this time they did not go unpunished; for Moctezuma, being warned, forestalled the blow by a furious assault that he made upon Tlatelolco, in which he had that restless petty king put to death, although his city did not then remain subject to the dominion of the Mexican. The Tlatelolcas elected as king the brave Moquihuix, in whose election the king of Mexico himself doubtless had a hand.
 
 Moctezuma, finding himself now free of this pernicious neighbor, § 10.
 
@@ -8758,11 +8038,7 @@ In the tenth year, which was 1446 of the common era, there was § 11.
 
 Inundation of in Mexico a great inundation caused by overly abundant rains, which Mexico. brought so much water to the lake that, being unable to contain itself within its bed, it overflowed and flooded the city to such a degree that it ruined several houses and left no street where one could go on foot, it being necessary to use boats everywhere.
 
-History of Mexico, Vol. I.                 Gg              Moctezuma
-
-[p. 234]
-
-Moctezuma, much afflicted by such a calamity, had recourse to the
+History of Mexico, Vol. I.                 Gg              Moctezuma [p. 234] Moctezuma, much afflicted by such a calamity, had recourse to the
 
 Bk. IV. king of Texcoco, hoping to receive from his wisdom the suggestion of
 
@@ -8836,11 +8112,7 @@ But the Mexicans could not enjoy their abundance in peace; for
 
 § 13. they had to go out to war against Atonaltzin, lord of the city and state New conquests, and of Coaixtlahuacan in the country of the Mixtecs. He was a powerful death of Moctezuma. lord who, I know not why, would not allow any Mexican passage through his lands, and did all the harm he could to all who came there for whatever interest. Moctezuma, gravely resentful of his hostilities, sent him an embassy to learn from him the reason for such conduct, threatening him with war if he did not give suitable satisfaction. Atonaltzin received the embassy with scorn, and, having had set before the ambassadors
 
-Gg2                         a
-
-[p. 236]
-
-a part of his riches, “Take,” he said to them, “this present to your king, and Bk. IV.
+Gg2                         a [p. 236] a part of his riches, “Take,” he said to them, “this present to your king, and Bk. IV.
 
 tell him that from it he will learn how much my subjects give me, and how
 
@@ -8898,19 +8170,11 @@ paintings of the Mendoza collection, where the principal places conquered by eac
 
 Mexican kings are indicated, no mention is made of Tlachquiauhco except among the con‐
 
-quests of Moctezuma II; but he seems rather to have reconquered it.
-
-[p. 237]
-
-from the fury of the Mexicans died at the hands of the Mixtecs, who avenged upon them the evil outcome of the battle. Atonaltzin surren‐ Bk. IV. dered to Moctezuma, who not only became master of the city and state of Coaixtlahuacan, but, going on, took possession of Tochtepec, Tzapotlan, Tototlan, and Chinantla, and in the two following years of Cosamaloapan and Cuauhtochco. The cause of these wars was the same that gave rise to many others, namely that the inhabitants of those places had killed, in time of peace, some Mexican merchants or couriers.
+quests of Moctezuma II; but he seems rather to have reconquered it. [p. 237] from the fury of the Mexicans died at the hands of the Mixtecs, who avenged upon them the evil outcome of the battle. Atonaltzin surren‐ Bk. IV. dered to Moctezuma, who not only became master of the city and state of Coaixtlahuacan, but, going on, took possession of Tochtepec, Tzapotlan, Tototlan, and Chinantla, and in the two following years of Cosamaloapan and Cuauhtochco. The cause of these wars was the same that gave rise to many others, namely that the inhabitants of those places had killed, in time of peace, some Mexican merchants or couriers.
 
 More difficult and more famous was the expedition undertaken in 1457 against Cuetlachtlan, or Cotaxtla. This province, situated, as we have already said, on the coast of the Gulf of Mexico, and founded, or at least inhabited, by the Olmecs, who had been driven out by the Tlaxcalans, was very populous. We likewise do not know the cause of this war; but we do know that the people of Cotaxtla, foreseeing the storm that hung over them, called to their aid the Huexotzincas and the Tlaxcalans. These, being gravely resentful of the defeat of Coaixtlahuacan, and wishing to avenge themselves, not only offered to help them, but also persuaded the Cholulans, their neighbors, to enter the same confederation. These three republics sent numerous troops to Cotaxtla to await the enemy there. Moctezuma for his part raised a large and brilliant army, in which the flower of the Mexican, Acolhua, Tlatelolca, and Tepanec nobility had enlisted. Besides other personages there were in this army Axayacatl, General, Tizoc, and Ahuitzotl, all three brothers and of the royal house of Mexico, who successively occupied that throne after Moctezuma their cousin. There were likewise the lords of Colhuacan and of Tenayuca; but the most noteworthy by his rank was Moquihuix, king of Tlatelolco, successor of the unfortunate Cuauhtlatoa. When this army left Mexico, the news of the confederation of the three republics with the people of Cotaxtla had not yet arrived; as soon as Moctezuma learned of it, he sent his generals couriers
 
-with
-
-[p. 238]
-
-with the order not to advance further, but to return at once to the court. The Bk. IV. generals went into deliberation: some were of the opinion that the sov‐
+with [p. 238] with the order not to advance further, but to return at once to the court. The Bk. IV. generals went into deliberation: some were of the opinion that the sov‐
 
 ereign’s orders should be obeyed without reply; others said that there was no
 
@@ -8964,11 +8228,7 @@ of
 
 (e) The Chevalier Boturini makes mention of this ode; he had it among the other manu‐
 
-scripts and paintings of his most valuable museum.
-
-[p. 239]
-
-of punishment, not only for the rebellion but also for other new crimes. At this time they had the rashness to take prisoner a brother Bk. IV. of King Moctezuma himself, who was, as we believe, lord of Ehecatepec, together with other Mexicans. Such an attempt, carried out upon a person so closely bound in blood to their sovereign, seems to have been a means devised by them to withdraw from the dominion of the Mexicans and make the city of Chalco a rival of that of Mexico; for they wished to make that lord king of Chalco, and often, though in vain, proposed it to him. He, seeing them obstinate in their resolution, told them that he accepted the crown offered to him; and in order that the act of his exaltation might be more solemn, he wished a very tall tree to be planted in the marketplace, and a scaffold to be made upon it, from which he could be seen by all. Everything was done as he required, and, gathering the Mexicans around the tree, he climbed upon the scaffold with a nosegay of flowers in his hand; and from that height, in view of an immense throng of people, he spoke to his own thus: “You know well, brave Mexicans, that the Chalcas wish to crown me king; but may it not please our god that I should betray our country: rather I wish to teach you by my example to prize the fidelity owed to it more than life itself.” And having said this he hurled himself from the scaffold. An act truly barbarous, but quite in conformity with the ideas that the ancients had of magnanimity, and so much the less blameworthy than that of Cato and of others celebrated by antiquity as the motive was nobler and the spirit of the Mexican greater. This resolution so inflamed the anger of the Chalcas that they at once fell upon the other Mexicans and killed them with lance thrusts. The following night they chanced to hear the melancholy cry of an owl, and, as men given to superstition, they took it for a bad omen of their imminent ruin. Nor were they mistaken in their presentiment of their misfortune; for Moctezuma, gravely angered by their rebellion and by their enormous outrages, immediately proclaimed the
+scripts and paintings of his most valuable museum. [p. 239] of punishment, not only for the rebellion but also for other new crimes. At this time they had the rashness to take prisoner a brother Bk. IV. of King Moctezuma himself, who was, as we believe, lord of Ehecatepec, together with other Mexicans. Such an attempt, carried out upon a person so closely bound in blood to their sovereign, seems to have been a means devised by them to withdraw from the dominion of the Mexicans and make the city of Chalco a rival of that of Mexico; for they wished to make that lord king of Chalco, and often, though in vain, proposed it to him. He, seeing them obstinate in their resolution, told them that he accepted the crown offered to him; and in order that the act of his exaltation might be more solemn, he wished a very tall tree to be planted in the marketplace, and a scaffold to be made upon it, from which he could be seen by all. Everything was done as he required, and, gathering the Mexicans around the tree, he climbed upon the scaffold with a nosegay of flowers in his hand; and from that height, in view of an immense throng of people, he spoke to his own thus: “You know well, brave Mexicans, that the Chalcas wish to crown me king; but may it not please our god that I should betray our country: rather I wish to teach you by my example to prize the fidelity owed to it more than life itself.” And having said this he hurled himself from the scaffold. An act truly barbarous, but quite in conformity with the ideas that the ancients had of magnanimity, and so much the less blameworthy than that of Cato and of others celebrated by antiquity as the motive was nobler and the spirit of the Mexican greater. This resolution so inflamed the anger of the Chalcas that they at once fell upon the other Mexicans and killed them with lance thrusts. The following night they chanced to hear the melancholy cry of an owl, and, as men given to superstition, they took it for a bad omen of their imminent ruin. Nor were they mistaken in their presentiment of their misfortune; for Moctezuma, gravely angered by their rebellion and by their enormous outrages, immediately proclaimed the
 
 ## war
 
@@ -9040,11 +8300,7 @@ tain ceremonial unknown to his predecessors. He built a great temple
 
 to the god of war, instituted
 
-many
-
-[p. 241]
-
-many rites, and increased the number of the priests. The interpreter
+many [p. 241] many rites, and increased the number of the priests. The interpreter
 
 Bk. IV. of the Mendoza collection adds that Moctezuma was sober, and singularly severe in punishing drunkenness, and that by his justice, his prudence, and the goodness of his manners he made himself feared and respected by his subjects. Finally, after a glorious reign of twenty-eight years and some months, he died, lamented by all, in 1464. His funeral rites were celebrated with so much the greater pomp as the magnificence of the court and the power of the nation were already greater.
 
@@ -9056,11 +8312,7 @@ of Mexico. tors to elect after his days Axayacatl, whom he judged the man most f
 
 After the festivals of the election the new king went out to war to procure, following the example of his predecessor, victims to be sacrificed at his coronation. He made his expedition against the province of Tehuantepec, situated on the coast of the Pacific Ocean, about four hundred miles southeast of Mexico. The people of Tehuantepec had prepared themselves well, and allied themselves with their neighbors, to oppose the attempts of the Mexicans. In the furious battle that was fought there, Axayacatl, who commanded as General, pretended to flee in order to lead the enemy into an ambush. The people of Tehuantepec were pursuing the Mexicans, already singing the victory, when suddenly they found themselves attacked in the rear by a part of the Mexican army that came out of the ambush, and in front by those who had been fleeing, who turned against them; so that, harried from both sides, they were utterly defeated
 
-History of Mexico, Vol. I.                Hh                     The
-
-[p. 242]
-
-The enemies who were able to save their lives by flight were pursued
+History of Mexico, Vol. I.                Hh                     The [p. 242] The enemies who were able to save their lives by flight were pursued
 
 Bk. IV. by the Mexicans as far as the city of Tehuantepec itself, which they
 
@@ -9126,19 +8378,11 @@ duced into the kingdom in the time of the Tyrants, he published
 
 eighty laws, which were afterward compiled by his most illustrious
 
-descendant
-
-[p. 243]
-
-descendant Don Fernando de Alva Ixtlilxochitl in his manuscript History of the Chichimec Lords. He established that no case, civil or Bk. IV. criminal, could be prolonged beyond eighty days, that is, four Mexican months. Every eighty days a great assembly was held in the royal palace, where all the judges and all the accused came together. The cases that had not been concluded in the preceding four months were infallibly concluded on that day, and the accused who were convicted of any crime immediately and irremissibly suffered the penalty proportioned to their crime in the presence of that numerous assembly. For different crimes he prescribed different penalties, and some he punished with the utmost rigor, especially adultery, sodomy, theft, homicide, drunkenness, and treason against the country. If we believe the Texcocan historians, he had four of his sons put to death for being guilty of incest with their stepmothers.
+descendant [p. 243] descendant Don Fernando de Alva Ixtlilxochitl in his manuscript History of the Chichimec Lords. He established that no case, civil or Bk. IV. criminal, could be prolonged beyond eighty days, that is, four Mexican months. Every eighty days a great assembly was held in the royal palace, where all the judges and all the accused came together. The cases that had not been concluded in the preceding four months were infallibly concluded on that day, and the accused who were convicted of any crime immediately and irremissibly suffered the penalty proportioned to their crime in the presence of that numerous assembly. For different crimes he prescribed different penalties, and some he punished with the utmost rigor, especially adultery, sodomy, theft, homicide, drunkenness, and treason against the country. If we believe the Texcocan historians, he had four of his sons put to death for being guilty of incest with their stepmothers.
 
 Yet his clemency toward the wretched was singular. In that kingdom it was forbidden, on pain of death, to take anything from another’s field; and this law was so rigorous that stealing seven ears of maize was enough to incur the penalty. Nezahualcoyotl, in order to provide in some way for needy travelers without detriment to the law, commanded that on both sides of the main roads maize and other seeds should be sown, of whose fruits the needy might make use. A great part of his revenues he spent for the poor, particularly the aged, the sick, and widows. To prevent the destruction of the forests he prescribed limits to the woodcutters, and forbade them to pass beyond them under heavy penalties. Wishing to know whether such an order was exactly observed, he went out one day in disguise with another prince, his brother, and betook himself to the foot of the neighboring mountains, where the limits prescribed by him lay. There he found a boy occupied in gathering shavings that had been left from the wood cut, and asked him why he did not enter the forest to make firewood. Because the king, answered the boy, has forbidden us to cross these limits, and if
 
-Hh2                      we
-
-[p. 244]
-
-we do not obey him, he will punish us severely. Neither the entreaties nor Bk. IV.
+Hh2                      we [p. 244] we do not obey him, he will punish us severely. Neither the entreaties nor Bk. IV.
 
 the promises that the king made him sufficed to induce him to the trans‐
 
@@ -9202,11 +8446,7 @@ bears witness.
 
 (f) The fanega is a Spanish measure of dry goods, containing about a hundred Spanish
 
-pounds of common wheat, or more than 130 Roman pounds.
-
-[p. 245]
-
-so great a quantity of maize and cacao; especially since the cacao had
+pounds of common wheat, or more than 130 Roman pounds. [p. 245] so great a quantity of maize and cacao; especially since the cacao had
 
 Bk. IV. to be procured through commerce with the hot countries, there being in the whole kingdom of Acolhuacan no land suited to the cultivation of this plant. For half the year, that is, for nine Mexican months, fourteen cities supplied this provision, and another fifteen the provision of the other half of the year. (g) To the young men was assigned the provision of the firewood, which was consumed in the royal palace in surprising quantity.
 
@@ -9298,11 +8538,7 @@ In his last illness, having had all his sons come into his presence, he declared
 
 his
 
-(k) In the list that we have given of the historians of that kingdom, it can be seen that some of them were of the royal family of Texcoco.
-
-[p. 248]
-
-his body, burning it secretly, as is to be believed, and instead of hold‐
+(k) In the list that we have given of the historians of that kingdom, it can be seen that some of them were of the royal family of Texcoco. [p. 248] his body, burning it secretly, as is to be believed, and instead of hold‐
 
 Bk. IV. ing funeral rites for him, celebrated with extraordinary festivities and
 
@@ -9368,21 +8604,13 @@ and in the name of all offered to fight courageously against the ene‐
 
 mies of the country: then
 
-to
-
-[p. 249]
-
-to encourage them still further, he washed the altar of the sacrifices
+to [p. 249] to encourage them still further, he washed the altar of the sacrifices
 
 Bk. IV. and gave that water, tinged with human blood, to the king and to all the captains to drink; with it, they said, they felt their courage grow, and I do not doubt that it had grown the better to practice cruelty. Meanwhile the queen, impatient of the ill treatment she suffered and frightened by the perils of the war, left her husband and betook herself to Mexico with four children, to put herself under the shelter of her brother. This she could do easily because of the very short distance between the two cities. Such a novelty so increased the mutual ill feeling of the Mexicans and the Tlatelolcas that wherever they met they insulted one another with words, came to blows, and killed one another.
 
 As the time for making war was now drawing near, Moquihuix, together with his captains and many of the confederates, held a solemn sacrifice on the mountain least distant from the city, in order to obtain the protection of their gods; and there the day was fixed on which war was to be declared on the Mexicans. A few days later he gave notice to the confederates, so that they might be well prepared to come to his aid as soon as the attack began. Xiloman, lord of Colhuacan, wished first to assail the Mexicans and then, feigning flight, to provoke them to pursue him, so that the Tlatelolcas might attack them from behind. The day after these embassies Moquihuix performed the ceremony of arming his troops, and then betook himself to the temple of Huitzilopochtli to implore his help; there they returned to drink that abominable draught which Poyahuitl had given them at the first assembly, and all the soldiers passed one by one before the idol, making it a deep reverence. No sooner was this ceremony over than a company of bold Mexicans entered the market square, killing everyone they met; but the Tlatelolca troops, coming up at once, drove them out and took some prisoners, who were sacrificed without delay in a temple called Tlillan. That same day, at sunset, some Tlatelolca women had the boldness to advance into the streets of
 
-History of Mexico, Vol. I.                  Ii                 Mexico
-
-[p. 250]
-
-Mexico and to burn brooms at the doors of the houses, shamelessly Bk. IV.
+History of Mexico, Vol. I.                  Ii                 Mexico [p. 250] Mexico and to burn brooms at the doors of the houses, shamelessly Bk. IV.
 
 hurling insults at the Mexicans and threatening them with their swift
 
@@ -9446,11 +8674,7 @@ But these laments, caused by the pain of their wounds and the an‐
 
 guish of death, were
 
-altogether
-
-[p. 251]
-
-altogether unjust: for Moquihuix did not fail in the duties of a general
+altogether [p. 251] altogether unjust: for Moquihuix did not fail in the duties of a general
 
 Bk. IV. and of a king, since he ought not to expose his own life as much as the soldiers theirs, in order to be able to be more useful to them by counsel and by voice. Meanwhile the Mexicans advanced as far as the stairway of the temple and, climbing it, reached the upper court, from which Moquihuix encouraged his people and defended himself like a desperate man; but a Mexican captain named Quetzalhua threw him down the stairs with a shove, (l) and some soldiers, taking the corpse on their arms, presented it to Axayacatl, who, opening its chest, tore out the heart. A horrible act, but performed without horror, being too common in their sacrifices.
 
@@ -9460,11 +8684,7 @@ We do not know whether the people of Cuauhpanco, the Huexotzincas, and the Matla
 
 Ii2                          the
 
-(l) The Interpreter of the Mendoza Collection says that Moquihuix, having lost the battle, fled to the top of the temple and then threw himself down, because he could not bear the insults of a priest; but the account of the other historians seems to us more in keeping with the character of that king.
-
-[p. 252]
-
-the historians say that, having arrived to the relief of the Tlatelolcas
+(l) The Interpreter of the Mendoza Collection says that Moquihuix, having lost the battle, fled to the top of the temple and then threw himself down, because he could not bear the insults of a priest; but the account of the other historians seems to us more in keeping with the character of that king. [p. 252] the historians say that, having arrived to the relief of the Tlatelolcas
 
 Bk. IV. when Moquihuix was already dead and the war ended, they went back
 
@@ -9618,11 +8838,7 @@ ans say nothing of the end that the princes, authors of the conspiracy,
 
 met with. It may be believed,
 
-that
-
-[p. 255]
-
-that they were killed in the battle, or else saved themselves by flight from the punishment they deserved. Nezahualpilli, who a little earlier Bk. IV. had built himself a new palace, also had a wall constructed, to leave an eternal monument of his victory, that enclosed as much land as that which the Huexotzincas had occupied when they came to the defense of their general, and gave that place the same name as the day on which the victory was won. Thus did those seek to make their name and the glory of their deeds immortal who are believed by many to care nothing for the future.
+that [p. 255] that they were killed in the battle, or else saved themselves by flight from the punishment they deserved. Nezahualpilli, who a little earlier Bk. IV. had built himself a new palace, also had a wall constructed, to leave an eternal monument of his victory, that enclosed as much land as that which the Huexotzincas had occupied when they came to the defense of their general, and gave that place the same name as the day on which the victory was won. Thus did those seek to make their name and the glory of their deeds immortal who are believed by many to care nothing for the future.
 
 § 20.
 
@@ -9632,11 +8848,7 @@ Nezahualpilli, with noble houses; but none had been declared queen by him, since
 
 against
 
-(*) The name of Huexotzincatl was given to that prince simply on account of the victory over the Huexotzincas.
-
-[p. 256]
-
-against the Mexicans, and, converted to Christianity, took in baptism
+(*) The name of Huexotzincatl was given to that prince simply on account of the victory over the Huexotzincas. [p. 256] against the Mexicans, and, converted to Christianity, took in baptism
 
 Bk. IV.
 
@@ -9704,11 +8916,7 @@ who was already general of the army; for from the time of King
 
 Chimalpopoca
 
-the
-
-[p. 257]
-
-the custom had been introduced of not raising to the throne anyone who had not first exercised that office, it being thought very fitting Bk. IV. that he who was to become head of so warlike a nation should give proof of his bravery, and that in commanding the troops he should learn the manner of governing the kingdom.
+the [p. 257] the custom had been introduced of not raising to the throne anyone who had not first exercised that office, it being thought very fitting Bk. IV. that he who was to become head of so warlike a nation should give proof of his bravery, and that in commanding the troops he should learn the manner of governing the kingdom.
 
 The first care of the new king, after he was crowned, was the §Dedication
 
@@ -9794,19 +9002,11 @@ another origin for that name.
 
 Quetzalcuitlapillan, could never achieve it; but among the conquests of this king,
 
-represented in painting XI of the Mendoza Collection, that province is also found.
-
-[p. 259]
-
-in the historians either the cause or the circumstances of such wars. When the expedition against Huexotzinco was over, Ahuitzotl cele‐ Bk. IV. brated the dedication of a new temple, called Tlacatecco, in which the prisoners taken in the earlier wars were sacrificed; but the joy of that festival was disturbed by the burning of the temple of Tlillan.
+represented in painting XI of the Mendoza Collection, that province is also found. [p. 259] in the historians either the cause or the circumstances of such wars. When the expedition against Huexotzinco was over, Ahuitzotl cele‐ Bk. IV. brated the dedication of a new temple, called Tlacatecco, in which the prisoners taken in the earlier wars were sacrificed; but the joy of that festival was disturbed by the burning of the temple of Tlillan.
 
 Thus this king passed his reign in continual wars until 1496, in which year the war against Atlixco took place. The entry of the Mexican army into this valley was so sudden that the first notice the people of Atlixco had of it was that which they received through their eyes on seeing them enter. They took up arms at once for their defense; but not finding themselves with forces sufficient to resist for long, they asked help of the Huexotzincas, their neighbors. When the ambassadors of Atlixco arrived at Huexotzinco, a famous captain named Toltecatl, whose great courage was in no way inferior to the extraordinary strength of his arm, was playing ball. As soon as he learned the news of the Mexican army, he left the game to go to Atlixco with the auxiliary troops, and, entering the battle unarmed, to display his bravery and to show the contempt he felt for his enemies, he struck down with his fists the first Mexican who presented himself, and took his arms, with which he made great slaughter. The Mexicans, unable to overcome the resistance of their enemies, abandoned the field and returned to Mexico covered with ignominy. The Huexotzincas, to reward the singular prowess of Toltecatl, made him head of their republic. This had been subjected to the dominion of the Mexicans, whose arms they had provoked with their insults; but since the conquered do not bear the yoke of the conqueror except when they cannot shake it off, every time the Huexotzincas found themselves with forces sufficient to resist, they rebelled, and the same happened with the greater part of the provinces subjected by force of arms to the crown of Mexico; whence it was necessary that the Mexican army should be in continual motion to reconquer what the king was losing. Toltecatl accepted the office conferred on him; but
 
-Kk2                scarcely
-
-[p. 260]
-
-scarcely had a year passed when he was obliged to give up his office
+Kk2                scarcely [p. 260] scarcely had a year passed when he was obliged to give up his office
 
 Bk. IV. and his country. The priests and other ministers of the temples, abus‐
 
@@ -9868,11 +9068,7 @@ by any means to abandon his project, had a great and ample aqueduct
 
 the
 
-(*) This aqueduct was entirely demolished either by Ahuitzotl himself, or by
-
-[p. 261]
-
-the water with many superstitious ceremonies; for some priests went
+(*) This aqueduct was entirely demolished either by Ahuitzotl himself, or by [p. 261] the water with many superstitious ceremonies; for some priests went
 
 Bk. IV. about incensing it, others sacrificed quails and anointed with their blood the lip of the aqueduct, others played musical instruments, and all celebrated the arrival of the water. The high priest wore the same dress in which they represented Chalchiuhtlicue, goddess of water. (q)
 
@@ -9884,11 +9080,7 @@ the
 
 his successor; for nothing was left of it when the Spaniards arrived in that country.
 
-(q) Father Acosta testifies that the conveying of the water of Huitzilopochco to Mexico, and the ceremonies performed by the priests, were represented in a Mexican painting that was in the Vatican library in his time (and perhaps is there still).
-
-[p. 262]
-
-the ruinous buildings pulled down and rebuilt in better form, notably
+(q) Father Acosta testifies that the conveying of the water of Huitzilopochco to Mexico, and the ceremonies performed by the priests, were represented in a Mexican painting that was in the Vatican library in his time (and perhaps is there still). [p. 262] the ruinous buildings pulled down and rebuilt in better form, notably
 
 Bk. IV.
 
@@ -9958,11 +9150,7 @@ good
 
 (r) The Spaniards say, N. is my Ahuizote; This is N.’s Ahuizote; no one lacks his Ahuizote,
 
-etc.
-
-[p. 263]
-
-good humor, and so delighted in music that neither by day nor by
+etc. [p. 263] good humor, and so delighted in music that neither by day nor by
 
 Bk. IV. night was this entertainment lacking in the palace; which must have been prejudicial to the public good, since it robbed him of a great part of the time and care that he ought to have given to the affairs of the kingdom. Nor did women occupy his mind any less. His predecessors had had many wives, thinking that their authority and greatness appeared the greater the greater the number of persons devoted to their pleasures. Ahuitzotl, having so greatly enlarged the dominions and increased the power of the crown, wished to show the superiority of his greatness over that of his predecessors in the excessive number of his wives. Such was the state of the court of Mexico at the beginning of the sixteenth century, of that century so fertile in great events, in which that kingdom was to change its face and the whole New World was to be turned upside down.
 
@@ -10028,11 +9216,7 @@ Interpreter of the Mendoza Collection, etc.
 
 History of Mexico, Vol. I.                      Ll                        was
 
-(*) The first Moctezuma was called by the Mexicans Huehue Moteuczoma, and the second Moteuczoma Xocoyotzin, names equivalent to the Senior and the Junior of the Latins.
-
-[p. 266]
-
-was more to its advantage. Who will be able to persuade himself that Bk. V. he who as a private man had already explored the folds of the heav‐
+(*) The first Moctezuma was called by the Mexicans Huehue Moteuczoma, and the second Moteuczoma Xocoyotzin, names equivalent to the Senior and the Junior of the Latins. [p. 266] was more to its advantage. Who will be able to persuade himself that Bk. V. he who as a private man had already explored the folds of the heav‐
 
 ens, (b) will now as king not know the things of the earth, for the
 
@@ -10092,11 +9276,7 @@ king
 
 (b) This saying of King Nezahualpilli seems to signify that Moctezuma was en‐
 
-gaged in the study of astronomy.
-
-[p. 267]
-
-king for the praises with which he favored him; and having listened to the other speeches, he remained in the temple to keep the fast of Bk. V. four days, and was then conducted with great pomp back to the royal palace.
+gaged in the study of astronomy. [p. 267] king for the praises with which he favored him; and having listened to the other speeches, he remained in the temple to keep the fast of Bk. V. four days, and was then conducted with great pomp back to the royal palace.
 
 He thought next of making war to procure the victims that were to be sacrificed at his coronation. This misfortune fell upon the people of Atlixco, who a little before had rebelled against the crown. The king therefore went out from the court with the flower of the nobility, among whom went also his brothers and cousins. In this war the Mexicans lost some brave officers; but nevertheless they put the rebels back under their former yoke, and Moctezuma returned victorious, bringing with him the unfortunate prisoners he needed for his coronation. This ceremony was celebrated with such a display of games, dances, theatrical performances, and illuminations, and with such abundance and richness of tributes sent from the provinces of the kingdom, that even foreigners never before seen in Mexico came to see it, and the very enemies of the Mexicans, such as the Tlaxcalans and the Michoacans, disguised themselves in order to be present as spectators; but Moctezuma, having learned of it, with royal generosity had them lodged and entertained, and also had some terraces fitted up from which they could observe that great ceremony at their ease.
 
@@ -10104,11 +9284,7 @@ The first thing he did was to reward with the state of Tlachauhco the great serv
 
 Conduct and ceremouse his authority when he made manifest the pride that until then he nial of King had kept hidden under a fair appearance of humility. All his predeces‐ Moctezuma. sors had been accustomed to confer the offices on the most deserving, and on those who seemed to them the fittest to exercise them, honoring with them indifferently nobles and commoners, notwithstanding the solemn agreement made between the nobility and the commoners under the reign of Itzcoatl. Moctezuma, as soon as he took the reins of government, showed himself
 
-Ll2                      of
-
-[p. 268]
-
-of a different mind, and disapproved the conduct of his predecessors, Bk. V. on the pretext that the commoners served according to their station,
+Ll2                      of [p. 268] of a different mind, and disapproved the conduct of his predecessors, Bk. V. on the pretext that the commoners served according to their station,
 
 and that in all their actions they displayed the baseness of their birth
 
@@ -10178,11 +9354,7 @@ The same audience hall served him for his dinner: the table was a large cushion,
 
 they
 
-(d) The Mexican words are Tlatoani, Lord; Notlatocatzin, my Lord; and Hueitlatoani, Great Lord.
-
-[p. 270]
-
-they presented it before the king sat down to table, and at once withBk. V. drew; and so that it should not grow cold, every dish was accompa‐
+(d) The Mexican words are Tlatoani, Lord; Notlatocatzin, my Lord; and Hueitlatoani, Great Lord. [p. 270] they presented it before the king sat down to table, and at once withBk. V. drew; and so that it should not grow cold, every dish was accompa‐
 
 nied by its own chafing dish. The king indicated with a little rod that
 
@@ -10244,11 +9416,7 @@ he passed all stopped with eyes closed, as if they feared to be dazzled
 
 by the splendor
 
-of
-
-[p. 271]
-
-of Majesty. When he dismounted from the litter to go on foot, carpets were spread so that he should not touch the ground with his Bk. V. feet.
+of [p. 271] of Majesty. When he dismounted from the litter to go on foot, carpets were spread so that he should not touch the ground with his Bk. V. feet.
 
 To so great a majesty the grandeur and magnificence of his palaces, of his pleasure houses, of his woods and gardens corresponded. The §Magnificence
 
@@ -10266,11 +9434,7 @@ He had two houses in Mexico for animals: one for the birds other than birds of p
 
 themselves
 
-(*) The Anonymous Conqueror, in his valuable account. He tells us further that, having entered that great palace four times, and having gone round it until he was worn out, he could not see all of it.
-
-[p. 272]
-
-themselves that any species was lacking of all that exist in the world. Bk. V.
+(*) The Anonymous Conqueror, in his valuable account. He tells us further that, having entered that great palace four times, and having gone round it until he was worn out, he could not see all of it. [p. 272] themselves that any species was lacking of all that exist in the world. Bk. V.
 
 To each was supplied the same food on which it fed in its time of lib‐
 
@@ -10334,11 +9498,7 @@ dred turkeys were killed every day. In the same house there were
 
 many
 
-halls
-
-[p. 273]
-
-low halls with a great number of strong wooden cages, in which were shut up the lions, the tigers, the wolves, the coyotes, the wild cats, Bk. V. and all the other species of wild beasts, which were fed on deer, rabbits, hares, techichi, and other animals, and on the entrails of the men who were sacrificed.
+halls [p. 273] low halls with a great number of strong wooden cages, in which were shut up the lions, the tigers, the wolves, the coyotes, the wild cats, Bk. V. and all the other species of wild beasts, which were fed on deer, rabbits, hares, techichi, and other animals, and on the entrails of the men who were sacrificed.
 
 Nor did the king of Mexico keep only those species of animals that other princes keep for grandeur, but even those which by their nature seem exempt from servitude, such as crocodiles and serpents. The serpents of several species were kept in certain casks or large vessels, the crocodiles in ponds enclosed by a wall. There were likewise very many ponds for fish, of which two handsome ones still survive, seen by us in the palace of Chapultepec, two miles from Mexico.
 
@@ -10348,11 +9508,7 @@ In all his palaces he had most beautiful gardens, in which there was every kind 
 
 Of all the aforesaid palaces, gardens, and woods nothing remains but the wood of Chapultepec, which the Spanish viceroys have preserved for their recreation. All the others were wrecked by the conquerors. They demolished the most magnificent edifices of Mexican antiquity, now from an indiscreet zeal for religion, now from vengeance, now to make use of the materials. They abandoned the cultivation of the royal gardens, cut down the woods, and reduced that land to such a state that nowadays the magnificence of those kings could not be believed, if
 
-History of Mexico, Vol. I.                Mm                        it
-
-[p. 274]
-
-it were not evident to us from the testimony of those very men who an‐
+History of Mexico, Vol. I.                Mm                        it [p. 274] it were not evident to us from the testimony of those very men who an‐
 
 Bk. V.
 
@@ -10414,11 +9570,7 @@ remission, even though he belonged to the most conspicuous nobility.
 
 He was an implacable enemy of idleness, and to banish it
 
-as
-
-[p. 275]
-
-as far as possible from his dominions, he sought to keep his subjects
+as [p. 275] as far as possible from his dominions, he sought to keep his subjects
 
 Bk. V. constantly occupied: the soldiers in continual exercises of war, and the others either in the cultivation of the fields, or in the construction of new buildings, or in other public works; and even the beggars, that they should not be altogether idle, he required to contribute a certain quantity of those filthy insects that are the nurslings of squalor and the companions of misery.
 
@@ -10428,11 +9580,7 @@ At the beginning of his reign he put to death Malinalli, lord of Tlachquiauhco, 
 
 Among so many provinces conquered by the Mexicans by force of § 5. arms, or voluntarily submitted to them for fear of their power, the re‐ War of Tlaxcala. public of Tlaxcala had always maintained itself unconquered, never bending its neck to the yoke, although it was so little distant from the court of the Mexican empire. The Huexotzincas, the Cholulans, and other neighboring states, which had formerly been allies of the republic, jealous then of their prosperity
 
-Mm2                       had
-
-[p. 276]
-
-had embittered the Mexicans against them, on the pretext that the Bk. V.
+Mm2                       had [p. 276] had embittered the Mexicans against them, on the pretext that the Bk. V.
 
 Tlaxcalans wished to take possession of the maritime provinces of the
 
@@ -10496,11 +9644,7 @@ countries to dwell in this land, have the Tlaxcalans ever acknowl‐
 
 edged any prince with tribute. They have always preserved
 
-their
-
-[p. 277]
-
-their liberty, and, not being accustomed to the servitude to which you claim to reduce them, rather than surrender to your power they will Bk. V. shed more blood than their ancestors shed in the famous battle of Poyauhtlan.”
+their [p. 277] their liberty, and, not being accustomed to the servitude to which you claim to reduce them, rather than surrender to your power they will Bk. V. shed more blood than their ancestors shed in the famous battle of Poyauhtlan.”
 
 The Tlaxcalans, distressed by the arrogant and ambitious pretension of the Mexicans, and despairing of being able to induce them to a reasonable agreement, thought seriously of fortifying their frontiers still further to prevent any invasion. They had before surrounded the lands of the republic with great ditches, and had placed good garrisons on the frontiers; now, in view of the threats of the Mexicans, they increased their fortifications, augmenting the troops of the garrisons, and building that famous wall of six miles which barred the entry to enemies on the east side, from which quarter greater danger threatened them. Often they were attacked by the Huexotzincas, the Cholulans, the people of Itzocan, the people of Tecamachalco, and other states neighboring or little distant from Tlaxcala; but they could never take from the republic a palm of land, thanks to the supreme vigilance of the Tlaxcalans and the courage with which they opposed the invaders.
 
@@ -10508,11 +9652,7 @@ Very many vassals of the crown of Mexico had taken refuge in the land of Tlaxcal
 
 During all the time that Axayacatl and his successors reigned, the Tlaxcalans remained deprived of commerce with the maritime provinces; hence salt failed the people to such a degree that they became accustomed to eating their food without such a seasoning
 
-and
-
-[p. 278]
-
-and did not return to the use of it until many years after the conquest Bk. V. by the Spaniards; but the nobles (at least some of them), as they had
+and [p. 278] and did not return to the use of it until many years after the conquest Bk. V. by the Spaniards; but the nobles (at least some of them), as they had
 
 secret correspondence with certain Mexican lords, provided them‐
 
@@ -10578,21 +9718,13 @@ Spaniards. We do not know from history whether on this occasion
 
 there also engaged
 
-in
-
-[p. 279]
-
-in the war the other states neighboring Tlaxcala; it may be that the Huexotzincas and the Cholulans did not permit the others to have a Bk. V. share in their glory.
+in [p. 279] in the war the other states neighboring Tlaxcala; it may be that the Huexotzincas and the Cholulans did not permit the others to have a Bk. V. share in their glory.
 
 The Tlaxcalans remained so enraged against the Huexotzincas that, no longer willing to confine themselves within their own state to defend it, as they had done before, they often went out to attack their enemies. Once they assaulted them along the foot of the mountains that lie to the west of Huexotzinco (*), and pressed them in such a way that, the Huexotzincas not being able to resist, they asked help of Moctezuma, who immediately sent an army under the command of his eldest son. This army marched along the southern slope of the volcano Popocatepetl, where it was swelled by the troops of Chietlan and Itzocan, and thence by way of Cuauhquechollan entered the valley of Atlixco. The Tlaxcalans, aware of the route the Mexicans were taking, determined to forestall them and fall upon them before they could unite with the Huexotzincas. So sudden was their assault that the Mexicans were defeated, and the Tlaxcalans, taking advantage of their disorder, made a great slaughter of them. Among the dead fell the prince-general himself, to whom perhaps so important an office had been given rather to add this honor to the splendor of his birth than out of regard for his skill in the art of war. The rest of the army took to flight, and the victors, laden with spoils, returned to Tlaxcala. It is surprising that they did not fall immediately upon the city of Huexotzinco, when they might have hoped that it would at once surrender; but perhaps their victory was not so complete as to leave them without the loss of many of their own in the battle, and they thought it better to enjoy then the fruits of the victory, to return afterward to the war with greater forces. In fact they returned; but they were repulsed by the Huexotzincas, who had meanwhile fortified themselves, and went back to Tlaxcala without
 
 any
 
-(*) The city of Huexotzinco was not then where it is at present, but farther up, toward the west.
-
-[p. 280]
-
-any other advantage than that of laying waste the fields of Bk. V. Huexotzinco and of Cholula; whereby those peoples were brought to
+(*) The city of Huexotzinco was not then where it is at present, but farther up, toward the west. [p. 280] any other advantage than that of laying waste the fields of Bk. V. Huexotzinco and of Cholula; whereby those peoples were brought to
 
 such a necessity that they were compelled to seek provisions in
 
@@ -10656,21 +9788,13 @@ Among the Tlaxcalan victims, one very memorable in the Mexican
 
 histories
 
-was
-
-[p. 281]
-
-was a most famous general called Tlahuicole, (e) in whom it was not known which was greater, the courage or the surprising strength of Bk. V. his body. The Maquahuitl, or Mexican sword, with which he fought was so heavy that a man of ordinary strength could hardly lift it from § 6. the ground. His name was the terror of the enemies of the republic, Tlahuicole, celebrat‐
+was [p. 281] was a most famous general called Tlahuicole, (e) in whom it was not known which was greater, the courage or the surprising strength of Bk. V. his body. The Maquahuitl, or Mexican sword, with which he fought was so heavy that a man of ordinary strength could hardly lift it from § 6. the ground. His name was the terror of the enemies of the republic, Tlahuicole, celebrat‐
 
 ed general of the and wherever he appeared with his weapon, all fled. This man, then, Tlaxcalans. in an assault that the Huexotzincas made on a garrison of Otomis, rashly placed himself, in the greatest heat of the fray, in a marshy place, where, not being able to move as nimbly as he wished, he was taken prisoner, shut up in a strong cage, and then carried to Mexico and presented to Moctezuma. This king, who knew how to esteem merit even in his enemies, instead of putting him to death generously granted him the liberty of returning to his native land; but the arrogant Tlaxcalan would not accept the favor, on the pretext that, having been taken prisoner, he had not the heart to present himself with such ignominy to his countrymen. He said that he wished to die, like the other prisoners, in honor of their gods. Moctezuma, seeing him so reluctant to return to his native land, and not wishing besides to deprive the world of so celebrated a man, kept him at court in the hope of making him a friend of the Mexicans and of making use of him for the benefit of the crown. Meanwhile war broke out with the Michoacans, the cause and circumstances of which we do not know at all, and Moctezuma committed to Tlahuicole himself the command of the army that he sent to Tlaximaloyan, the frontier, as we have already said, of the kingdom of Michoacán. Tlahuicole responded advantageously to the confidence placed in him; for although he could not dislodge the Michoacans from the place where they had fortified themselves, he nevertheless took many of them prisoner, and took from them a good quantity of gold and silver. Moctezuma held in esteem
 
 History of Mexico, Vol. I.                          Nn                            his
 
-(e) The event of Tlahuicole occurred probably in the last years of Moctezuma’s reign; but because of its relation to the war of Tlaxcala, it seemed to us fitting to anticipate it.
-
-[p. 282]
-
-his service, and again granted him liberty; but he refusing it as before,
+(e) The event of Tlahuicole occurred probably in the last years of Moctezuma’s reign; but because of its relation to the war of Tlaxcala, it seemed to us fitting to anticipate it. [p. 282] his service, and again granted him liberty; but he refusing it as before,
 
 Bk. V. he offered him the illustrious office of Tlacatecatl, or general of the
 
@@ -10734,21 +9858,13 @@ had having been consumed, the king had occasion to exercise his lib‐
 
 erality; he therefore opened all his granaries, and distributed
 
-among
-
-[p. 283]
-
-among his subjects all the maize that there was; but this not sufficing to remedy their need, he permitted, in imitation of Moctezuma I, Bk. V. their going off to other countries to procure their sustenance. The following year (1505), having had an abundant harvest, the Mexicans went out to war against Cuauhtemallan, a province more than nine hundred miles distant from Mexico toward the southeast. While this war was in progress, caused probably by some hostility committed by the people of Guatemala against the subjects of the crown, the building of a temple erected in honor of the goddess Centeotl was completed in Mexico, whose most solemn dedication was celebrated with the sacrifices of the prisoners taken in that war.
+among [p. 283] among his subjects all the maize that there was; but this not sufficing to remedy their need, he permitted, in imitation of Moctezuma I, Bk. V. their going off to other countries to procure their sustenance. The following year (1505), having had an abundant harvest, the Mexicans went out to war against Cuauhtemallan, a province more than nine hundred miles distant from Mexico toward the southeast. While this war was in progress, caused probably by some hostility committed by the people of Guatemala against the subjects of the crown, the building of a temple erected in honor of the goddess Centeotl was completed in Mexico, whose most solemn dedication was celebrated with the sacrifices of the prisoners taken in that war.
 
 They had also by this time widened the road on the lake from Chapultepec to Mexico, and rebuilt the aqueduct that was upon the same road; but the joy they felt at the completion of so great a work was disturbed by the burning of the tower of another temple, called Zomolli, caused by lightning. The inhabitants of that part of the city which was farther from that temple, and particularly the Tlatelolcas, not having noticed the lightning, persuaded themselves that such a fire had been started by enemies who had come suddenly upon the city; whereupon they at once took up arms to defend it, and ran in crowds toward the temple. Moctezuma conceived such anger at that disturbance, persuading himself that it had been a mere pretext of the Tlatelolcas to stir up some sedition (for there was perpetual distrust of them), that he deprived them of all the public offices they held, and even forbade them to appear at court, neither the protestations they made of their innocence nor the prayers with which they implored the royal clemency then sufficing to turn him from such a resolution; but as soon as that first fire of his wrath died down, he restored them to their offices and to his favor.
 
 Meanwhile the Mixtecs and the Zapotecs rebelled against the crown. The principal leaders of the rebellion, to whom had committed themselves all the lords of both nations
 
-Nn                   were
-
-[p. 284]
-
-were Cetecpatl, lord of Coaixtlahuacan, and Nahuixochitl, lord of
+Nn                   were [p. 284] were Cetecpatl, lord of Coaixtlahuacan, and Nahuixochitl, lord of
 
 Bk. V.
 
@@ -10818,11 +9934,7 @@ god Quetzalcoatl, whose sanctuary, which was among the most cele‐
 
 brated and
 
-most
-
-[p. 285]
-
-most revered in all that land, he believed to have been profaned by
+most [p. 285] most revered in all that land, he believed to have been profaned by
 
 Bk. V. the Huexotzincas. Having therefore taken counsel with the two allied kings, he sent to Cholula some persons of his court to inform themselves fully of the whole affair, and having found it very different from what the Huexotzincas had told him, he conceived such indignation at having been deceived by them that he at once dispatched an army, ordering the general to punish them severely if they should not give fitting satisfaction. The Huexotzincas, sensing the storm that was about to burst upon them, came out drawn up in battle array to receive the Mexicans; but the Mexican general advanced toward them to set forth his commission in these words: “Our lord Moctezuma, who has his court in the midst of the water, Nezahualpilli, who commands on the shores of the lake, and Totoquihuatzin, who reigns at the foot of the mountains, order us to tell you that, having learned from your ambassadors that you have ruined Cholula and killed its inhabitants, they have felt the utmost grief, and are compelled to avenge so great an outrage against the venerable sanctuary of Quetzalcoatl.” The Huexotzincas protested that the report of their ambassadors was too exaggerated and false, and that therefore a body so respectable as that of the city of Huexotzinco could not be the author of it, and they offered to satisfy all three kings by the punishment of the guilty. Then, having caused the aforesaid ambassadors to be brought there, and having cut off their ears and nose (which was the penalty established against those who told lies harmful to the public), they handed them over to the general. Thus they avoided the evils of war, which otherwise would have been inevitable.                 § 10.
 
@@ -10900,17 +10012,9 @@ nation. Moctezuma, who was too superstitious to be able to regard
 
 with indifference such
 
-a
+a [p. 287] a phenomenon, consulted his astrologers about it; but these not knowing how to divine its meaning, he asked it of the king of Bk. V. Acolhuacan, who was also given to astrology and divination. These kings, although they were related to each other and perpetually allied, did not however live in much harmony, ever since the king of Acolhuacan had put to death, as we shall soon see, his son Huexotzincatzin, heedless of the entreaties of Moctezuma, who, as uncle of that prince, had interceded for him. It had already been a long time since they had dealt with each other with that frequency and that confidence with which they used to; but this time the vain terror that weighed upon Moctezuma’s mind impelled him to avail himself of the learning of King Nezahualpilli; hence he begged him to come to Mexico to deliberate together on that matter, which pressed equally upon both. Nezahualpilli went, and after conferring at length with Moctezuma, was of the opinion, according to what the historians say, that the comet announced the future misfortunes of those kingdoms through the arrival of new peoples. But this interpretation not pleasing Moctezuma, Nezahualpilli challenged him to the ball game, which was very frequent even among the kings themselves, and they agreed that if the king of Mexico won the match, the king of Acolhuacan would renounce his interpretation, esteeming it false; but if Nezahualpilli won, Moctezuma should acknowledge it as true and embrace it. A truly ridiculous folly of those men, to believe that the truth of a prediction depended on the dexterity of the player or on the fortune of the game; but yet less pernicious than that of the ancient Europeans, who committed to the barbarity of the duel and the uncertainty of arms truth, innocence, and honor. Nezahualpilli remained victorious in the game, and Moctezuma disconsolate at the loss and at the confirmation of so evil a prognostication. Nevertheless he wished to try another way, hoping to find a more favorable prediction that might counterbalance that of the king of Acolhuacan and the misfortune at the game. He therefore had a most famous astrologer consulted, well versed
 
-[p. 287]
-
-a phenomenon, consulted his astrologers about it; but these not knowing how to divine its meaning, he asked it of the king of Bk. V. Acolhuacan, who was also given to astrology and divination. These kings, although they were related to each other and perpetually allied, did not however live in much harmony, ever since the king of Acolhuacan had put to death, as we shall soon see, his son Huexotzincatzin, heedless of the entreaties of Moctezuma, who, as uncle of that prince, had interceded for him. It had already been a long time since they had dealt with each other with that frequency and that confidence with which they used to; but this time the vain terror that weighed upon Moctezuma’s mind impelled him to avail himself of the learning of King Nezahualpilli; hence he begged him to come to Mexico to deliberate together on that matter, which pressed equally upon both. Nezahualpilli went, and after conferring at length with Moctezuma, was of the opinion, according to what the historians say, that the comet announced the future misfortunes of those kingdoms through the arrival of new peoples. But this interpretation not pleasing Moctezuma, Nezahualpilli challenged him to the ball game, which was very frequent even among the kings themselves, and they agreed that if the king of Mexico won the match, the king of Acolhuacan would renounce his interpretation, esteeming it false; but if Nezahualpilli won, Moctezuma should acknowledge it as true and embrace it. A truly ridiculous folly of those men, to believe that the truth of a prediction depended on the dexterity of the player or on the fortune of the game; but yet less pernicious than that of the ancient Europeans, who committed to the barbarity of the duel and the uncertainty of arms truth, innocence, and honor. Nezahualpilli remained victorious in the game, and Moctezuma disconsolate at the loss and at the confirmation of so evil a prognostication. Nevertheless he wished to try another way, hoping to find a more favorable prediction that might counterbalance that of the king of Acolhuacan and the misfortune at the game. He therefore had a most famous astrologer consulted, well versed
-
-in
-
-[p. 288]
-
-in the superstitions of divination, by which he had made his name so Bk. V.
+in [p. 288] in the superstitions of divination, by which he had made his name so Bk. V.
 
 celebrated in that land, and had won for himself such great authority
 
@@ -10976,11 +10080,7 @@ in the erroneous persuasion of his pretended divinity. But if the Devil
 
 prognosticated the future
 
-calamities
-
-[p. 289]
-
-calamities in order to deceive those wretched peoples, the most merciful God announced them in order to dispose their spirits to the Bk. V. Gospel. The event that I am about to relate in confirmation of this truth was public and sensational, having occurred in the presence of two kings and of the Mexican nobility. It is also found represented in some paintings of those nations, and a juridical attestation of it was sent to the court of Spain. (*)
+calamities [p. 289] calamities in order to deceive those wretched peoples, the most merciful God announced them in order to dispose their spirits to the Bk. V. Gospel. The event that I am about to relate in confirmation of this truth was public and sensational, having occurred in the presence of two kings and of the Mexican nobility. It is also found represented in some paintings of those nations, and a juridical attestation of it was sent to the court of Spain. (*)
 
 Papantzin, a Mexican princess and sister of King Moctezuma, had § 12.
 
@@ -10990,11 +10090,7 @@ History of Mexico, Vol. I.                      Oo                       what
 
 (*) See Torquemada, bk. 2, ch. 91, and Vetancurt, pt. 3, treatise 1, ch. 8.
 
-(f) Cocoton is almost the same as “little girl”; but it expresses somewhat more tenderness.
-
-[p. 290]
-
-what was said to her, followed her; but scarcely had she come in sight Bk. V. of the princess when she was seized with such horror that she fell to
+(f) Cocoton is almost the same as “little girl”; but it expresses somewhat more tenderness. [p. 290] what was said to her, followed her; but scarcely had she come in sight Bk. V. of the princess when she was seized with such horror that she fell to
 
 the ground in a swoon. The girl told her mother, and she, with two
 
@@ -11056,19 +10152,11 @@ end of which could be seen on no side. In the middle of it I observed
 
 a
 
-road
-
-[p. 291]
-
-road, which I then saw divide into various paths, and on one side there ran a great river, whose waters made a frightful noise; and as I Bk. V. wished to throw myself into the river to cross to the opposite bank by swimming, I saw before me a handsome youth of good stature, dressed in a long robe, white as snow and shining like the sun, furnished with wings of beautiful feathers, and bearing on his forehead this sign (in saying this the princess made the sign of the cross with her first two fingers); and, taking me by the hand, he said to me: Stay; for it is not yet time to cross this river. God loves you greatly, though you do not know him. Then he led me along the river, on whose bank I saw very many human skulls and bones, and I heard such lamentable groans that they moved me to compassion. Then, turning my eyes to the river, I saw upstream some large boats, and in them certain men of a color and dress very different from ours. They were white and bearded, and carried standards in their hands and helmets on their heads. God, the youth then said to me, God wills that you live, so that you may be a witness of the revolutions that are to come to pass in these kingdoms. The groans that you heard among those bones are those of the souls of your ancestors, who are and always will be tormented for their crimes. The men whom you see coming in the boats are those who by force of arms will make themselves masters of all these kingdoms, and with them will come also the knowledge of the true God, Creator of heaven and earth. As soon as the war is ended and the bath is proclaimed by which sins are washed away, be the first to receive it, and guide your countrymen by your example. This said, the youth vanished, and I, called back to life, rose from the place where I lay, lifted the stone from the sepulcher, and went out into the garden, where I was found by my servants.”
+road [p. 291] road, which I then saw divide into various paths, and on one side there ran a great river, whose waters made a frightful noise; and as I Bk. V. wished to throw myself into the river to cross to the opposite bank by swimming, I saw before me a handsome youth of good stature, dressed in a long robe, white as snow and shining like the sun, furnished with wings of beautiful feathers, and bearing on his forehead this sign (in saying this the princess made the sign of the cross with her first two fingers); and, taking me by the hand, he said to me: Stay; for it is not yet time to cross this river. God loves you greatly, though you do not know him. Then he led me along the river, on whose bank I saw very many human skulls and bones, and I heard such lamentable groans that they moved me to compassion. Then, turning my eyes to the river, I saw upstream some large boats, and in them certain men of a color and dress very different from ours. They were white and bearded, and carried standards in their hands and helmets on their heads. God, the youth then said to me, God wills that you live, so that you may be a witness of the revolutions that are to come to pass in these kingdoms. The groans that you heard among those bones are those of the souls of your ancestors, who are and always will be tormented for their crimes. The men whom you see coming in the boats are those who by force of arms will make themselves masters of all these kingdoms, and with them will come also the knowledge of the true God, Creator of heaven and earth. As soon as the war is ended and the bath is proclaimed by which sins are washed away, be the first to receive it, and guide your countrymen by your example. This said, the youth vanished, and I, called back to life, rose from the place where I lay, lifted the stone from the sepulcher, and went out into the garden, where I was found by my servants.”
 
 Moctezuma was stunned on hearing such an account, and, with his mind disturbed by a great throng of thoughts, he rose and went out at once to betake himself to a palace of his set apart for the time of mourning, without saying a word to his sister, or to the king of Texcoco, or to any of those who accompanied him,
 
-Oo2                  although
-
-[p. 292]
-
-although some flatterers, in order to reassure him, tried to persuade
+Oo2                  although [p. 292] although some flatterers, in order to reassure him, tried to persuade
 
 Bk. V.
 
@@ -11134,11 +10222,7 @@ expeditions
 
 a sister of the king of Michoacán. In Book II we made mention of the fables with
 
-which this author’s account is filled!
-
-[p. 293]
-
-expeditions of his armies had been made in 1508, particularly against
+which this author’s account is filled! [p. 293] expeditions of his armies had been made in 1508, particularly against
 
 Bk. V. the Tlaxcalans, the Huexotzincas, the people of Atlixco, and against those of Icpatepec and of Malinaltepec, in which they took more than five thousand prisoners, who were afterwards sacrificed in the § 14. capital. In 1509 came the war against those of Xochitepec, who had Erection of a new alrebelled. In the following year the altar of the sacrifices seeming small tar for the sacrifices,
 
@@ -11146,11 +10230,7 @@ and new expeditions to Moctezuma, and less in proportion to the magnificence of 
 
 To furnish so great a number of victims it was necessary to wage war continually. In 1511 the Yopis rebelled, and wished to kill the whole garrison of Mexicans that was at Tlacotepec; but their design having been opportunely discovered, they were punished, and two hundred of them were led as prisoners to the capital. In 1512 an army of Mexicans marched toward the north against the people of Quetzalapan, and with
 
-the
-
-[p. 294]
-
-loss of only ninety-five men they took one thousand three hundred
+the [p. 294] loss of only ninety-five men they took one thousand three hundred
 
 Bk. V.
 
@@ -11218,21 +10298,13 @@ esteem among them, they gave themselves more to it after they were
 
 stimulated by the
 
-example
-
-[p. 295]
-
-example of the great King Nezahualcoyotl and of his son and successor.                                                               Bk. V.
+example [p. 295] example of the great King Nezahualcoyotl and of his son and successor.                                                               Bk. V.
 
 After six months of this private life he returned to the capital, ordered his dear Xocotzin to withdraw with her children to the palace called Tecpilpan, and shut himself up in the one that was his ordinary residence, without letting himself be seen by anyone save some of his confidants, with the design of concealing his death in imitation of his father. In fact neither the time nor the other circumstances of his death were ever known. It is known only that he died in 1516, and that before dying he commanded the confidants whom he employed to burn his body secretly. Hence it came about that the common people, and even a good many nobles, remained persuaded that he was not dead, but had gone to the kingdom of Amaquemecan, whence his ancestors had their origin, as he had often said he wished to do.
 
 This king was of the same opinion in matters of religion as his great father Nezahualcoyotl. He despised in his mind the worship of idols, although outwardly he conformed with the people. He likewise imitated his father in zeal for the laws and in severity of justice, of which he gave a rare example in the last years of his reign. There was a law that forbade, under pain of death, the speaking of indecent words in the royal palace. This law was violated by one of the princes his sons, named Huexotzincatzin, whom he loved more than all the others, no less for his character and for the virtues that were already shining in his youth than for his being the first-born among the sons he had by his favorite Xocotzin; but the prince’s words had been rather the effect of youthful thoughtlessness than of any wicked purpose. The king learned of it from one of his concubines, to whom such words had been said. He asked her whether this had occurred before other persons, and, having learned that the prince’s tutors had been present, he withdrew to an apartment of the palace that was set aside for occasions of mourning. There he had the tutors summoned to examine them. They, fearing
 
-to
-
-[p. 296]
-
-to be severely punished if they concealed the truth, testified to it Bk. V.
+to [p. 296] to be severely punished if they concealed the truth, testified to it Bk. V.
 
 frankly; but at the same time they endeavored to excuse the prince,
 
@@ -11312,11 +10384,7 @@ As soon as the supreme council of the deceased king was assured Revolutions of t
 
 Acolhuacan. tion of the Mexicans. They therefore assembled to deliberate upon an affair of such moment, and beginning
 
-History of Mexico, Vol. I.               Pp                       to
-
-[p. 298]
-
-to speak, the oldest and most authoritative of them set forth the very Bk. V.
+History of Mexico, Vol. I.               Pp                       to [p. 298] to speak, the oldest and most authoritative of them set forth the very Bk. V.
 
 grave harms that anarchy could bring upon the state if the election
 
@@ -11380,11 +10448,7 @@ er,” replied Coanacochtzin, “to oppose so wise and so just a resolu‐
 
 tion. Do you not observe that if Cacamatzin were not king,
 
-to
-
-[p. 299]
-
-to me, not to you, would the crown be due?” “It is true,” said Ixtlilxochitl then, “that if in the succession only age is to be consid‐ Bk. V. ered, the crown is due to Cacamatzin, and, he failing, to you; but if regard is had, as is just, to courage, it is due to me rather than to you or to Cacamatzin.” The councilors, seeing that the anger of the princes was growing ever hotter, imposed silence on both and dismissed the assembly.
+to [p. 299] to me, not to you, would the crown be due?” “It is true,” said Ixtlilxochitl then, “that if in the succession only age is to be consid‐ Bk. V. ered, the crown is due to Cacamatzin, and, he failing, to you; but if regard is had, as is just, to courage, it is due to me rather than to you or to Cacamatzin.” The councilors, seeing that the anger of the princes was growing ever hotter, imposed silence on both and dismissed the assembly.
 
 The two princes went to their mother, Queen Xocotzin, to continue their dispute, and Cacamatzin, accompanied by many nobles, went at once to Mexico to inform Moctezuma of what had happened and to ask his help. Moctezuma, who, besides the love he bore him, saw the right of that prince and the consent of the nation, advised him to place in safety, before anything else, the royal treasure, and promised him to settle the quarrel with his brother, and to employ the Mexican arms in his favor if negotiations should not prove sufficient.
 
@@ -11458,21 +10522,13 @@ tal, he sought to fortify himself; but the prince, content to see him‐
 
 self respected and feared, did not move
 
-then
-
-[p. 301]
-
-then from Otompan; but he posted guards on the roads with orders
+then [p. 301] then from Otompan; but he posted guards on the roads with orders
 
 Bk. V. to do harm to no one, not to hinder the passage of private persons who might wish to go from the capital to any other place, and to show respect to persons of the first rank who might pass there. Cacamatzin, seeing the forces and the resolution of his brother, and thinking it a lesser evil to sacrifice a part, though a large one, of the kingdom than to lose it all, sent him, with the consent of Coanacochtzin, an embassy to make some accommodation with him. He sent to tell him that he might keep, if he wished, all the dominions of the mountains, since he himself was content with the capital and the states of the plains; that he wished also to share with his brother Coanacochtzin the revenues of the kingdom; but at the same time he begged him to renounce every other pretension and to disturb no more the public tranquillity. The ambassadors were two personages of the royal blood of Acolhuacan, for whom Ixtlilxochitl had great respect. This prince replied that his brothers might do whatever they pleased; that it was pleasing to him that Cacamatzin should be in possession of the kingdom of Acolhuacan; that he was plotting nothing against them, nor against the state; that he maintained that army for no other purpose than to oppose the ambitious designs of the Mexicans, who had caused the gravest vexations and suspicions to his father Nezahualpilli; that if the kingdom was divided at that time for the common interest of the nation, he hoped to see it united again another time; that above all they should take care not to fall into the snares of the crafty Moctezuma. Nor was Ixtlilxochitl mistaken in his distrust of Moctezuma; for in fact that king was the very one who gave the unfortunate Cacamatzin, as we shall see, into the hands of the Spaniards, in spite of the love he bore him.
 
 By the agreement made with his brother, Cacamatzin remained in peaceful possession of the crown of Acolhuacan, but with his dominions much diminished, since what he had ceded was a considerable part of the kingdom. Ixtlilxochitl kept his troops always in motion, and often let himself be seen with his army in the neighborhood of Mexico, defying Moctezuma
 
-to
-
-[p. 302]
-
-to fight hand to hand with him. But this king was no longer in a state Bk. V. to accept such a challenge: the fire that he had had in his youth had
+to [p. 302] to fight hand to hand with him. But this king was no longer in a state Bk. V. to accept such a challenge: the fire that he had had in his youth had
 
 already begun to die down with the years, and domestic delights had
 

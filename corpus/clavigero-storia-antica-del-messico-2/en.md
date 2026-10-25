@@ -42,11 +42,7 @@ them one cannot have a complete idea of the genius, the inclinations, and the en
 
 The Mexicans had some idea, though an imperfect one, of a Supreme Being, absolute and independent, to whom they acknowledged
 
-A2                    that
-
-[p. 4]
-
-that adoration and fear were due. They represented him in no form,
+A2                    that [p. 4] that adoration and fear were due. They represented him in no form,
 
 Bk. VI.
 
@@ -116,19 +112,11 @@ ting. If religion had no other end than that of serving politics, as
 
 will be seen from what we shall say when we come to treat of the rites of their
 
-funerals.
-
-[p. 5]
-
-(several unbelievers of our century foolishly go on imagining), those nations could not have invented a dogma more suited to encourage Bk. VI. their soldiers than one that assured them so weighty a reward after death. They added, furthermore, that after four years of that glorious life those spirits passed on to animate clouds and birds of lovely plumage and sweet song, remaining always free to rise again into heaven and to come down to earth to sing and to suck the flowers. The Tlaxcalans believed that all the souls of the nobles, after death, animated beautiful and melodious birds and noble quadrupeds, and those of the commoners, weasels, beetles, and other vile animals. Whence it is seen that the preposterous system of the Pythagorean transmigration, which has taken such deep root and spread so widely in the countries of the Levant, found its partisans in those of the West as well. (a) The souls of those who died drowned, or struck by lightning, or of dropsy, tumors, sores, or any other such infirmity, like the souls of children, at least of those who were sacrificed to Tlaloc, god of water, went, as the Mexicans said, to a cool and pleasant place called Tlalocan, where that god dwelt and where every sort of delicate food and of pleasure abounded. In the enclosure of the great temple of Mexico there was a place where they believed that on a certain day of the year all the children sacrificed to Tlaloc were present, invisible. The Mixtecs were persuaded that a great cavern, which lay in a very high mountain of their province, was the gate of Paradise; and therefore all the lords and nobles had themselves buried near that cavern, in order to be nearer to that place of delights. Finally, the third place destined for the souls of those who ended by any other death was the Mictlan, or hell,
+funerals. [p. 5] (several unbelievers of our century foolishly go on imagining), those nations could not have invented a dogma more suited to encourage Bk. VI. their soldiers than one that assured them so weighty a reward after death. They added, furthermore, that after four years of that glorious life those spirits passed on to animate clouds and birds of lovely plumage and sweet song, remaining always free to rise again into heaven and to come down to earth to sing and to suck the flowers. The Tlaxcalans believed that all the souls of the nobles, after death, animated beautiful and melodious birds and noble quadrupeds, and those of the commoners, weasels, beetles, and other vile animals. Whence it is seen that the preposterous system of the Pythagorean transmigration, which has taken such deep root and spread so widely in the countries of the Levant, found its partisans in those of the West as well. (a) The souls of those who died drowned, or struck by lightning, or of dropsy, tumors, sores, or any other such infirmity, like the souls of children, at least of those who were sacrificed to Tlaloc, god of water, went, as the Mexicans said, to a cool and pleasant place called Tlalocan, where that god dwelt and where every sort of delicate food and of pleasure abounded. In the enclosure of the great temple of Mexico there was a place where they believed that on a certain day of the year all the children sacrificed to Tlaloc were present, invisible. The Mixtecs were persuaded that a great cavern, which lay in a very high mountain of their province, was the gate of Paradise; and therefore all the lords and nobles had themselves buried near that cavern, in order to be nearer to that place of delights. Finally, the third place destined for the souls of those who ended by any other death was the Mictlan, or hell,
 
 ## which
 
-(a) Who would ever believe that so rancid and improbable a system as that of the Pythagorean transmigration should be promoted by a Christian philosopher in the very center of Christendom, and in the enlightened eighteenth century? And yet it was seriously promoted not long ago by a Frenchman in a book printed in Paris under this extravagant title, L'an deux mille quatre cent quarante. To such excesses does freedom of thinking in matters of religion lead.
-
-[p. 6]
-
-which was, from what they said, a very dark place, where there Bk. VI. reigneda god called Mictlantecuhtli (Lord of hell) and a goddess
+(a) Who would ever believe that so rancid and improbable a system as that of the Pythagorean transmigration should be promoted by a Christian philosopher in the very center of Christendom, and in the enlightened eighteenth century? And yet it was seriously promoted not long ago by a Frenchman in a book printed in Paris under this extravagant title, L'an deux mille quatre cent quarante. To such excesses does freedom of thinking in matters of religion lead. [p. 6] which was, from what they said, a very dark place, where there Bk. VI. reigneda god called Mictlantecuhtli (Lord of hell) and a goddess
 
 named Mictlancihuatl. They believed, as it seems to me, that hell was
 
@@ -194,11 +182,7 @@ next, which is a copy of an original painting of the Mexicans.
 
 concerning the creation of the world, let him read what Father Gregorio García, a
 
-Dominican, writes in his work entitled Origen de los indios.
-
-[p. 7]
-
-and the other gods, what we have found in Mexican mythology, taking no account of the magnificent conjectures and the fantastic sys‐ Bk. VI. tem of the Chevalier Boturini.
+Dominican, writes in his work entitled Origen de los indios. [p. 7] and the other gods, what we have found in Mexican mythology, taking no account of the magnificent conjectures and the fantastic sys‐ Bk. VI. tem of the Chevalier Boturini.
 
 Tezcatlipoca. This was the greatest god who was worshiped in § 2.
 
@@ -206,11 +190,7 @@ The gods of provithose countries, after the invisible God, or Supreme Being, of 
 
 His principal idol was made of teotetl (divine stone), which is a black and shining stone like black marble, and it was dressed in festive attire. It had gold earrings, and from the lower lip there hung a little crystal tube, inside which there was a little green or blue feather, which at first sight seemed a gem. His hair was bound with a little gold cord, from the end of which hung an ear of the same metal, with certain vapors of smoke painted on it, which, according to their interpretation, represented the prayers of the afflicted. The whole chest was covered with solid gold. On both arms he had gold bracelets, in the navel an emerald, and in the left hand a gold fan edged with most beautiful feathers and so well burnished that it looked like a mirror, in which they meant to signify that he saw everything that happened in the world. At other times, to signify his justice, they represented him seated on a stool surrounded by a red cloth, on which were figured some skulls and bones of the dead, in his left hand a shield,
 
-with
-
-[p. 8]
-
-four arrows, and the right hand raised in the attitude of hurling a Bk. VI. dart, the body painted black, and the head crowned with quail
+with [p. 8] four arrows, and the right hand raised in the attitude of hurling a Bk. VI. dart, the body painted black, and the head crowned with quail
 
 feathers.
 
@@ -274,11 +254,7 @@ the stars.
 
 (d) Those peoples believed that the earth had suffered three great and universal
 
-calamities, by which all men had been deprived of life, as we shall say elsewhere.
-
-[p. 9]
-
-his course to the place where his brothers were awaiting him, who put those fragments into a basin and sprinkled them with their Bk. VI. blood, which they drew from several parts of the body. On the fourth day a boy was seen to be formed by them, and as they continued for three more days the sprinkling of blood, a girl was formed also, and both were handed over to the same Xolotl, that he might bring them up, who fed them on thistle milk. In this manner they believed that the restoration of the human race was accomplished on that occasion. Hence originated, as they affirmed, the custom of drawing blood from various parts of the body, which was, as we shall see, so common among those nations; and the inequality of the pieces of the bone they believed to have been the cause of the diversity of stature among men.
+calamities, by which all men had been deprived of life, as we shall say elsewhere. [p. 9] his course to the place where his brothers were awaiting him, who put those fragments into a basin and sprinkled them with their Bk. VI. blood, which they drew from several parts of the body. On the fourth day a boy was seen to be formed by them, and as they continued for three more days the sprinkling of blood, a girl was formed also, and both were handed over to the same Xolotl, that he might bring them up, who fed them on thistle milk. In this manner they believed that the restoration of the human race was accomplished on that occasion. Hence originated, as they affirmed, the custom of drawing blood from various parts of the body, which was, as we shall see, so common among those nations; and the inequality of the pieces of the bone they believed to have been the cause of the diversity of stature among men.
 
 Cihuacoatl (Woman-Serpent), also called Quilaztli. They believed her to have been the first woman who bore children in the world, and she always bore twins. She was esteemed a great goddess, and they said that she often let herself be seen carrying a baby in a cradle upon her.
 
@@ -286,11 +262,7 @@ Tonatiuh and Meztli, names of the Sun and of the Moon, both § 3.
 
 Apotheosis of the deified by those nations. They said also that, once the human race Sun and of the Moon. had been restored and had multiplied, each of the aforesaid heroes, or demigods, had among men his servants and partisans, and that, there being no longer a Sun, since the one that had been there had come to an end, the heroes assembled at Teotihuacan around a great fire, and told the men that the first of them who should cast himself into the fire would have the glory of becoming the Sun. A man bolder than the others, named Nanahuatzin, at once hurled himself in, and descended to hell. Meanwhile, as all remained in expectation of the outcome, the heroes made a wager with the quails, the locusts, and other animals on the place in the sky from which the new Sun was to be born, and since it was not guessed by those animals, they were at once sacrificed. At last the Sun was born in that quarter which from then on was called the East;
 
-History of Mexico, Vol. II.                B                     but
-
-[p. 10]
-
-but scarcely had it risen above the horizon when it stopped; which Bk. VI.
+History of Mexico, Vol. II.                B                     but [p. 10] but scarcely had it risen above the horizon when it stopped; which Bk. VI.
 
 the heroes perceiving, they sent word to it to continue its course. The
 
@@ -364,11 +336,7 @@ Quetzalcoatl (feathered serpent). He was among the Mexicans, § 4.
 
 The god of the air. and all the other nations of Anahuac, the god of the air. They said that he had been high priest of Tula, white, tall, and corpulent, with a broad forehead, large eyes, long black hair, and a thick beard; that out of love of decency he always wore a long robe; that he was so rich that he had palaces of silver and of gems; that he was very industrious, and had been the inventor of the arts of casting metals and of cutting gems; that he was most wise and most prudent, as he made known in the laws he left to men, and above all that he was a man of austere and exemplary life; that whenever he wished to publish some law in the kingdom, he had a crier go up on the mount Tzatzitepec (hill of cries), near the city of Tula, and his voice could be heard as far as three hundred miles; that in his time maize grew so large that a single ear was a load suited to the strength of one man; that the gourds were as long as a human body; that there was no need to dye cotton, since it grew naturally of every color; and in the same fashion was the greatness and the abundance of all other fruits and seeds; that there was then an incredible multitude of most beautiful and melodious birds; that all his subjects were rich; and, to put many words into one, the Mexicans imagined the pontificate of Quetzalcoatl to have been as happy as the Greeks imagined the reign of Saturn, to whom he was also similar in the misfortune of exile; for while he was in such prosperity, Tezcatlipoca, wishing, I do not know for what reason, to drive him out of that country, appeared to him in the form of an old man, told him that it was the will of the gods that he betake himself to the kingdom of Tlapallan, and at the same time offered him a drink, which Quetzalcoatl took willingly, in the hope of acquiring by it the immortality to which he aspired; but scarcely had he taken it when he felt himself moved
 
-B2                        by
-
-[p. 12]
-
-by such a desire to go to Tlapallan that he set out on the road at once, Bk. VI.
+B2                        by [p. 12] by such a desire to go to Tlapallan that he set out on the road at once, Bk. VI.
 
 accompanied by many of his subjects, who all along the way went
 
@@ -436,11 +404,7 @@ city of Cholula itself temples and priests dedicated to his worship,
 
 and from all countries
 
-went
-
-[p. 13]
-
-went to that city to make their devotions, and to fulfill their vows. The Cholulans preserved with the greatest veneration certain little Bk. VI. green stones, well carved, which they said had been possessed by him. The Yucatecans boasted that their lords were descended from Quetzalcoatl. Barren women commended themselves to him in order to become fruitful. The festivals they held for him were great and very famous, especially in Cholula in the Teoxihuitl, or divine year, which were preceded by a rigorous fast of eighty days and by frightful austerities carried out by the priests consecrated to his worship. They said that Quetzalcoatl swept the road for the god of water; because in those countries the wind ordinarily precedes the rain.
+went [p. 13] went to that city to make their devotions, and to fulfill their vows. The Cholulans preserved with the greatest veneration certain little Bk. VI. green stones, well carved, which they said had been possessed by him. The Yucatecans boasted that their lords were descended from Quetzalcoatl. Barren women commended themselves to him in order to become fruitful. The festivals they held for him were great and very famous, especially in Cholula in the Teoxihuitl, or divine year, which were preceded by a rigorous fast of eighty days and by frightful austerities carried out by the priests consecrated to his worship. They said that Quetzalcoatl swept the road for the god of water; because in those countries the wind ordinarily precedes the rain.
 
 Dr. Sigüenza believed that the Quetzalcoatl deified by those nations was none other than the Apostle St. Thomas, who announced the Gospel to them. He promoted such an opinion with exquisite erudition in a work (e) which, like several others of great merit written by him, had the misfortune of being lost through the negligence of his heirs. In this work he made a comparison of the names of Didymos and of Quetzalcoatl, (f) of their dress, their doctrine, and their predictions, and examined the places through which they went, the traces which they left, and the portents which their disciples published. Since we have not seen the aforesaid manuscripts, we abstain from censuring such an opinion, to which, in spite of the respect which we bear to the sublime talent and the great learning of the author, we cannot in any way assent.
 
@@ -450,11 +414,7 @@ preached
 
 (e) Of this work of Sigüenza, Vetancurt makes mention in his Teatro mexicano, and Dr. Eguiara in the Biblioteca mexicana.
 
-(f) Vetancurt, where he makes the comparison of the names of Didymos and of Quetzalcoatl, says that this name is composed of Coatl, twin, and Quetzalli, gem, and that it signifies Precious Twin. But Torquemada, who knew Mexican perfectly, and had from the ancients the interpretation of those names, says that Quetzalcoatl means Feathered Serpent. In fact, Coatl properly signifies Serpent, and Quetzalli Green Feather, and only by metaphor are such names given to the twin and to the gem.
-
-[p. 14]
-
-preached in America. The reasons which those authors had are severBk. VI.
+(f) Vetancurt, where he makes the comparison of the names of Didymos and of Quetzalcoatl, says that this name is composed of Coatl, twin, and Quetzalli, gem, and that it signifies Precious Twin. But Torquemada, who knew Mexican perfectly, and had from the ancients the interpretation of those names, says that Quetzalcoatl means Feathered Serpent. In fact, Coatl properly signifies Serpent, and Quetzalli Green Feather, and only by metaphor are such names given to the twin and to the gem. [p. 14] preached in America. The reasons which those authors had are severBk. VI.
 
 al: crosses found at different times and in different places (g), which
 
@@ -532,11 +492,7 @@ was likewise enlightened to announce the birth of our divine Redeemer.
 
 were found carved footprints of animals, without our being able to guess the purpose
 
-of those who took the trouble to carve them.
-
-[p. 15]
-
-so that they often went to those places to implore his protection. The
+of those who took the trouble to carve them. [p. 15] so that they often went to those places to implore his protection. The
 
 Bk. VI. native historians relate that when the Acolhuas had arrived in that
 
@@ -550,11 +506,7 @@ Chalchiuhcueye, otherwise Chalchiuhtlicue, goddess of water and companion of Tla
 
 effects
 
-(*) Apozonallotl and Acuecueyotl express the swelling and the undulation
-
-[p. 16]
-
-effects which the waters cause, or the various appearances and colors Bk. VI.
+(*) Apozonallotl and Acuecueyotl express the swelling and the undulation [p. 16] effects which the waters cause, or the various appearances and colors Bk. VI.
 
 which they form by their motion. The Tlaxcalans called her
 
@@ -620,11 +572,7 @@ rising and falling of its waves, etc.
 
 Xilonen, Iztaccenteotl, and Tlatlauhquicenteotl, changing the name according to the
 
-state in which the maize was.
-
-[p. 17]
-
-dedicated to her worship, and revered by the whole nation. They bore her a great love; for they were persuaded that she did not require hu‐ Bk. VI. man victims, but was content only with the sacrifices of turtledoves, quails, rabbits, and such animals, which they offered her in great quantity. They hoped that she would at last deliver them from the tyrannical servitude of the other gods, who obliged them to sacrifice so great a number of men. But the Mexicans showed themselves of another mind, shedding at the festivals of that goddess much human blood. In the aforesaid temple of the Totonacs there was one of the most renowned oracles of all that country.
+state in which the maize was. [p. 17] dedicated to her worship, and revered by the whole nation. They bore her a great love; for they were persuaded that she did not require hu‐ Bk. VI. man victims, but was content only with the sacrifices of turtledoves, quails, rabbits, and such animals, which they offered her in great quantity. They hoped that she would at last deliver them from the tyrannical servitude of the other gods, who obliged them to sacrifice so great a number of men. But the Mexicans showed themselves of another mind, shedding at the festivals of that goddess much human blood. In the aforesaid temple of the Totonacs there was one of the most renowned oracles of all that country.
 
 Mictlantecuhtli, god of hell, and Mictlancihuatl his companion, were very famous among the Mexicans. They believed that these gods resided, as we have already indicated, in a very dark place which was in the bowels of the earth. They had a temple in Mexico, in which they held a festival for them in the seventeenth month. To them also they made nocturnal sacrifices and oblations, and the principal minister of their cult was a priest called Tlillantlenamacac, who dyed himself black to perform the functions of his priesthood.
 
@@ -636,11 +584,7 @@ Huitzilopochtli, or Mexitli, was the god of war, the most The gods of war. celeb
 
 History of Mexico, Vol. II.                         C                          and
 
-(k) Huitzilopochtli is a name composed of two, namely Huitzilin, which is the name of that most beautiful little bird, called by us Succiafiore, of which we have made mention in bk. I, and Opochtli, Left. He was so called because his idol had on its left foot feathers of that little bird. The Cavalier
-
-[p. 18]
-
-and others that he was born of a woman, but without the cooperation Bk. VI. of any man; and they related the occurrence in this manner. There
+(k) Huitzilopochtli is a name composed of two, namely Huitzilin, which is the name of that most beautiful little bird, called by us Succiafiore, of which we have made mention in bk. I, and Opochtli, Left. He was so called because his idol had on its left foot feathers of that little bird. The Cavalier [p. 18] and others that he was born of a woman, but without the cooperation Bk. VI. of any man; and they related the occurrence in this manner. There
 
 lived, they said, in Coatepec, a place near the ancient city of Tula, a
 
@@ -708,11 +652,7 @@ when they began their migration led by Huitziton, were already adoring, from tim
 
 immemorial, that god of war. The Spaniards, not knowing how to pronounce the
 
-name of Huitzilopochtli, called him Huichilobos.
-
-[p. 19]
-
-guilty, and he fell upon the others with such fury that, in spite of their
+name of Huitzilopochtli, called him Huichilobos. [p. 19] guilty, and he fell upon the others with such fury that, in spite of their
 
 Bk. VI. efforts, their arms, and their entreaties, all were killed, and their houses sacked, and the spoils of these he presented to his Mother. Such an event put men into such consternation that from then on they called him Tetzahuitl, terror, and Tetzauhteotl, terrible god.
 
@@ -720,11 +660,7 @@ This god, having become the tutelary god of the Mexicans, was he, according to w
 
 Tlacahuepan-Cuexcotzin, likewise a god of war, younger brother and companion of Huitzilopochtli. His
 
-C2                     idol
-
-[p. 20]
-
-idol was venerated together with that of his brother in the principal
+C2                     idol [p. 20] idol was venerated together with that of his brother in the principal
 
 Bk. VI. sanctuary of Mexico; but in no other place did he have greater wor‐
 
@@ -790,11 +726,7 @@ Tzapotlatenan, goddess of medicine. They believed
 
 that
 
-(*) Yacatecuhtli was also called Xiacatecuhtli and Yacacoliuhqui.
-
-[p. 21]
-
-that she had been the inventor of the oil called Oxitl, and of other
+(*) Yacatecuhtli was also called Xiacatecuhtli and Yacacoliuhqui. [p. 21] that she had been the inventor of the oil called Oxitl, and of other
 
 Bk. VI. most useful medicines. They honored her annually with sacrifices of human victims, and with particular hymns which they composed to praise her.
 
@@ -884,11 +816,7 @@ of
 
 ing the Mexican name of this god, gave him that of his festival, Xipehualiztli, taking
 
-only its first two syllables.
-
-[p. 23]
-
-of the gods, they also gave her the name of Tocitzin, that is, Our Grandmother. Of the origin and apotheosis of this alleged Mother of Bk. VI. the gods we have already spoken in bk. II, where we set forth the tragic death of the Princess of Colhuacan. This goddess had a temple in Mexico, where in the eleventh month they held a most solemn festival for her. The Tlaxcalans paid her particular worship, and the midwives venerated her as their protectress. Almost all the Spanish writers confuse Teteoinan with Tonantzin; but they were without doubt different.
+only its first two syllables. [p. 23] of the gods, they also gave her the name of Tocitzin, that is, Our Grandmother. Of the origin and apotheosis of this alleged Mother of Bk. VI. the gods we have already spoken in bk. II, where we set forth the tragic death of the Princess of Colhuacan. This goddess had a temple in Mexico, where in the eleventh month they held a most solemn festival for her. The Tlaxcalans paid her particular worship, and the midwives venerated her as their protectress. Almost all the Spanish writers confuse Teteoinan with Tonantzin; but they were without doubt different.
 
 Ilamatecuhtli, for whom the Mexicans held a festival on the third day of the seventeenth month, seems to have been a goddess of old age. Her name signifies nothing other than Old Lady.
 
@@ -900,11 +828,7 @@ The very gods of the Mexicans were for the most part those of the other nations 
 
 The idols representing those wicked deities, which were venerated in the temples, in the houses, in the streets, and in the woods,
 
-were
-
-[p. 24]
-
-were countless. Bishop Juan de Zumárraga, the first bishop of
+were [p. 24] were countless. Bishop Juan de Zumárraga, the first bishop of
 
 Bk. VI.
 
@@ -974,11 +898,7 @@ confirm the truth. The formula of their oaths was this: Cuix amo ne‐
 
 chitta in Toteotzin? Perhaps our God does not see
 
-me?
-
-[p. 25]
-
-me? And naming the principal god, or some other to whom they bore Bk. VI. particular devotion, they kissed the hand after touching the ground with it. Such an oath carried great weight in trials for clearing oneself of any crime of which they were accused; because they were persuaded that there was no man so rash as to dare to abuse the name of God with the evident peril of being most severely punished by heaven.
+me? [p. 25] me? And naming the principal god, or some other to whom they bore Bk. VI. particular devotion, they kissed the hand after touching the ground with it. Such an oath carried great weight in trials for clearing oneself of any crime of which they were accused; because they were persuaded that there was no man so rash as to dare to abuse the name of God with the evident peril of being most severely punished by heaven.
 
 The mythology of the Mexicans did not lack metamorphoses, or § 9. transformations. Among others they related that a man named Their
 
@@ -990,11 +910,7 @@ The great temple of civilized nations of the world, temples, or places set apart
 
 The city and the kingdom of Mexico began with the building of the sanctuary of Huitzilopochtli, or Mexitli, from whom the city took its name. This edifice was then a poor hut. Itzcoatl, the first conquering king of that nation, enlarged it after the capture of Azcapotzalco. Moctezuma I, his successor, built a new temple, in which there was some magnificence. Finally Ahuitzotl built
 
-History of Mexico, Vol. II.                  D                       and
-
-[p. 26]
-
-Bk. VI.
+History of Mexico, Vol. II.                  D                       and [p. 26] Bk. VI.
 
 and dedicated that vast temple, which was designed by his predeces‐
 
@@ -1090,11 +1006,7 @@ D2                         with
 
 (o) The Anonymous Conqueror says that what was within the enclosure of the wall looked like a city. Gómara affirms that the wall was a very great crossbow shot long on each side. Torquemada, having said the same as Gómara in bk. 8, ch. 11, afterward in ch. 19 affirms that the circuit of the wall was more than three thousand paces: which is evidently false. Dr. Hernández, in his lengthy description of that temple, which is preserved in manuscript in the library of the Escorial, and which Father Nieremberg used in his Natural History, gives each side of the wall two hundred Toledan braccia, which make about eighty-six perches.
 
-(p) Sahagún makes the temple perfectly square; but the Anonymous Conqueror, both in his description and in the figure he left us, represents it as oblong, such as those of Teotihuacan are, which served as the model for all the others.
-
-[p. 28]
-
-with square and equal slabs, and composed of five stages, nearly equal Bk. VI.
+(p) Sahagún makes the temple perfectly square; but the Anonymous Conqueror, both in his description and in the figure he left us, represents it as oblong, such as those of Teotihuacan are, which served as the model for all the others. [p. 28] with square and equal slabs, and composed of five stages, nearly equal Bk. VI.
 
 in height but unequal in length and breadth, since the higher ones
 
@@ -1158,11 +1070,7 @@ Fifty brazas, or estados, make 257 Parisian feet, or nearly 42 perches.
 
 found in the collection of Giovanni Battista Ramusio, and another in Father
 
-Kircher’s work entitled Oedipus Aegyptiacus.
-
-[p. 29]
-
-had forty-three perches (s) in length and thirty-four in breadth, and
+Kircher’s work entitled Oedipus Aegyptiacus. [p. 29] had forty-three perches (s) in length and thirty-four in breadth, and
 
 Bk. VI. was as well paved as the floor, or lower court. At the eastern end of that level two towers rose to a height of fifty-six feet, a little more than nine perches. Each was divided into three stories, of which the lowest was of stone and lime, and the other two of well-worked and painted wood. The lowest story, or base, was properly the sanctuary, where on a stone altar five feet high the titular idols were placed. One of these two sanctuaries was consecrated to Huitzilopochtli and to the other two gods of war, and the other to Tezcatlipoca. The other stories were intended for keeping certain things belonging to the worship of the idols, and the ashes of some kings or lords who out of particular devotion had so provided. Both sanctuaries had their door to the west, and both towers ended in a very beautiful dome of wood; but there is no author who sets forth the interior arrangement and the ornamentation of the sanctuaries, nor even the thickness of the towers; wherefore the one that we represent in our figure is not even certain, but was put in only by conjecture. This, too, we can affirm without danger of error: that the height of the edifice, without the towers, was not less than nineteen perches, and with the towers exceeded twenty-eight. From that height one saw the lake, the cities around it, and a great part of the valley, and it was, according to what eyewitnesses affirm, the most beautiful view in the world.
 
@@ -1170,11 +1078,7 @@ In the upper court was the altar of the ordinary sacrifices, and in the lower co
 
 night
 
-(s) Sahagún, whose measures Torquemada adopted, gives the upper court no more than seventy Toledan feet square, which make ten perches; but it was not possible that in so narrow a space five hundred Mexican nobles could have taken their stand to fight against the Spaniards, as Cortés affirms, and much less if we believe Bernal Díaz, who says that the Mexicans fortified in that temple were four thousand, besides other companies that were up there when those nobles climbed up.
-
-[p. 30]
-
-night there was a perpetual fire, which they kept up and preserved
+(s) Sahagún, whose measures Torquemada adopted, gives the upper court no more than seventy Toledan feet square, which make ten perches; but it was not possible that in so narrow a space five hundred Mexican nobles could have taken their stand to fight against the Spaniards, as Cortés affirms, and much less if we believe Bernal Díaz, who says that the Mexicans fortified in that temple were four thousand, besides other companies that were up there when those nobles climbed up. [p. 30] night there was a perpetual fire, which they kept up and preserved
 
 Bk. VI.
 
@@ -1254,11 +1158,7 @@ They had rooms intended for guarding the idols, the ornaments, and all the prope
 
 in
 
-(t) The fountain Toxpalatl, whose water was quite good, was stopped up when the Spaniards ruined the temple; it was opened again in 1582 in the Marqués’s little square (which today they call el Empedradillo, near the cathedral), but I do not know for what reason they stopped it up again.
-
-[p. 32]
-
-in the others there were skulls set in the walls, forming by their Bk. VI.
+(t) The fountain Toxpalatl, whose water was quite good, was stopped up when the Spaniards ruined the temple; it was opened again in 1582 in the Marqués’s little square (which today they call el Empedradillo, near the cathedral), but I do not know for what reason they stopped it up again. [p. 32] in the others there were skulls set in the walls, forming by their Bk. VI.
 
 arrangement and symmetry several figures not so much curious as
 
@@ -1334,11 +1234,7 @@ Outside the capital the most celebrated temples were those of Texcoco, of Cholul
 
 History of Mexico, Vol. II.                        E                       there
 
-(v) “I certify to Your Highness that I counted from one mosque four hundred and odd towers in the said city (of Cholula), and all of them are of mosques.” Letter to Charles V of October 30, 1520. The Anonymous Conqueror counted, as he affirms, 190 towers among those of the temples and those of the palaces. Bernal Díaz says that they exceeded a hundred; but it is to be believed that these two authors counted only those most notable for their height. Some later authors wrote that those towers were as many as the days of the year.
-
-[p. 34]
-
-there is a devout sanctuary of the Mother of the true God; but on acBk. VI. count of its antiquity that pyramid has become so covered with earth
+(v) “I certify to Your Highness that I counted from one mosque four hundred and odd towers in the said city (of Cholula), and all of them are of mosques.” Letter to Charles V of October 30, 1520. The Anonymous Conqueror counted, as he affirms, 190 towers among those of the temples and those of the palaces. Bernal Díaz says that they exceeded a hundred; but it is to be believed that these two authors counted only those most notable for their height. Some later authors wrote that those towers were as many as the days of the year. [p. 34] there is a devout sanctuary of the Mother of the true God; but on acBk. VI. count of its antiquity that pyramid has become so covered with earth
 
 and brushwood that it looks more like a natural mountain than an ed‐
 
@@ -1412,11 +1308,7 @@ uity with curiosity and diligence; but his precious manuscripts were lost.
 
 [PDF 35]
 
-Another kind of temple.
-
-[p. 35]
-
-base eighty-six perches long and sixty-three wide. Each of these temples is divided into four stages, and into as many stairs, arranged in the same manner Bk. VI. as those of the great temple of Mexico; but at present they are not to be seen, because they are partly in ruins and covered everywhere by a great quantity of earth. Around the same buildings many little mounds are seen, which, as is believed, were so many small temples consecrated to other planets and stars, and because all that site was full of religious structures of this kind it received from the ancients the name of Teotihuacan.
+Another kind of temple. [p. 35] base eighty-six perches long and sixty-three wide. Each of these temples is divided into four stages, and into as many stairs, arranged in the same manner Bk. VI. as those of the great temple of Mexico; but at present they are not to be seen, because they are partly in ruins and covered everywhere by a great quantity of earth. Around the same buildings many little mounds are seen, which, as is believed, were so many small temples consecrated to other planets and stars, and because all that site was full of religious structures of this kind it received from the ancients the name of Teotihuacan.
 
 The number of temples that there were in the whole Mexican empire was very great. Torquemada persuaded himself that there were more than forty thousand; but I believe that they exceeded that number by far, if one wishes to count even the small ones; for there was no inhabited place without a temple, nor any place of some size that did not have many.
 
@@ -1428,11 +1320,7 @@ The revenues of the great temple of Mexico, like those of the other temples of t
 
 E2                       large
 
-(*) Diego Valadés, a Franciscan, after having spent many years in the conversion of the Mexicans, came to Rome, where he was made Procurator General of his Order. Soon afterward he published in Perugia his learned and valuable work in Latin entitled Rhetorica Christiana, dedicated to Pope Gregory XIII, and adorned with several Mexican antiquities.
-
-[p. 36]
-
-large. Each temple had its own possessions and lands, and also its own
+(*) Diego Valadés, a Franciscan, after having spent many years in the conversion of the Mexicans, came to Rome, where he was made Procurator General of his Order. Soon afterward he published in Perugia his learned and valuable work in Latin entitled Rhetorica Christiana, dedicated to Pope Gregory XIII, and adorned with several Mexican antiquities. [p. 36] large. Each temple had its own possessions and lands, and also its own
 
 Bk. VI.
 
@@ -1504,11 +1392,7 @@ greatly to the multiplication of such ministers was the supreme re‐
 
 spect which they paid to the priesthood
 
-and
-
-[p. 37]
-
-and the esteem in which they held the employment of serving at the worship of the gods. The lords vied with one another in consecrating Bk. VI. their sons for some time to the service of the sanctuaries. The lower nobility employed their sons in the outer tasks, that is, in carrying wood, in stirring up and keeping up the fire of the braziers, and in other similar ones, both groups persuading themselves that they could not aspire to a greater honor than that of serving the worship of their gods.
+and [p. 37] and the esteem in which they held the employment of serving at the worship of the gods. The lords vied with one another in consecrating Bk. VI. their sons for some time to the service of the sanctuaries. The lower nobility employed their sons in the outer tasks, that is, in carrying wood, in stirring up and keeping up the fire of the braziers, and in other similar ones, both groups persuading themselves that they could not aspire to a greater honor than that of serving the worship of their gods.
 
 There were several orders and ranks among the priests. The supreme heads of all were the two high priests, to whom they gave the names of Teoteuctli (divine lord) and of Hueiteopixqui (great priest). This eminent dignity was not conferred except on persons of great distinction, both for their birth and for their probity and for their knowledge of the ceremonies of their religion. The high priests were the oracles whom the kings consulted in the gravest affairs of state, and without their opinion no war was undertaken. These were the ones who anointed the kings after their election, and who opened the breast and tore out the heart of the human victims at the most solemn sacrifices. The high priest in the kingdom of Acolhuacan was always, according to what some historians say, the second-born son of the king. The one of the Totonacs was anointed with elastic resin mixed with the blood of infants, and this they called divine anointing. (z) Several authors affirm the same of the one at Mexico.
 
@@ -1518,11 +1402,7 @@ The high priesthood was conferred by election; but we do not
 
 know
 
-(z) Father Acosta confuses the divine anointing of the high priest with that of the king; but it was quite different: the king was not anointed with elastic resin, but with a certain ink.
-
-[p. 38]
-
-know whether the electors were of the body of the priests itself, or Bk. VI.
+(z) Father Acosta confuses the divine anointing of the high priest with that of the king; but it was quite different: the king was not anointed with elastic resin, but with a certain ink. [p. 38] know whether the electors were of the body of the priests itself, or Bk. VI.
 
 the same who elected the political head of the nation. The insignia of
 
@@ -1588,11 +1468,7 @@ but both of them certainly erred.
 
 read bk. viii of Torquemada and the account of Dr. Hernández, which Nieremberg
 
-inserted in his Natural History.
-
-[p. 39]
-
-they now give to those of the true God the name of Teopixqui, that is,
+inserted in his Natural History. [p. 39] they now give to those of the true God the name of Teopixqui, that is,
 
 Bk. VI. guardian or minister of God.
 
@@ -1606,11 +1482,7 @@ Four times a day they incensed the idols, that is, at daybreak, at noon, at suns
 
 The dress of the Mexican priests was not different from that of the common people, except for a black cotton mantle which they wore on the head in the manner of taffeta; but those who in their monasteries professed a more austere life went
 
-dressed
-
-[p. 40]
-
-dressed all in black, like the common priests of the other nations of Bk. VI. the empire. They never cut their hair; so that many of them wore it
+dressed [p. 40] dressed all in black, like the common priests of the other nations of Bk. VI. the empire. They never cut their hair; so that many of them wore it
 
 so long that it reached to their legs. They wore it braided with thick
 
@@ -1672,11 +1544,7 @@ Tezcatzoncatl every day, after the end of the singing with which they
 
 celebrated their god, put on the ground
 
-a
-
-[p. 41]
-
-a bundle of three hundred and three reeds, according to the number
+a [p. 41] a bundle of three hundred and three reeds, according to the number
 
 Bk. VI. of the singers, among which only one was pierced; each took his own at random, and he who drew the pierced reed was the only one who might taste the wine. During the whole time that they were employed in the service of the temple, they refrained from touching any woman other than their own wives; indeed they affected such composure and modesty that whenever they chanced upon some woman they fixed their eyes on the ground so as not to look at her. Any excess of incontinence on the part of the priests was rigorously punished. The priest who in Tehuacán was convicted of having violated chastity was handed over by the priests to the people, and by night they beat him to death with clubs. In Ichcatlan the high priest was obliged to remain always within the temple and to abstain from all dealings with any woman whatever; and if through his misfortune he failed in any of these obligations, he was mercilessly torn to pieces, and his bloody limbs were presented as an example to his successor. Those who through their sloth did not rise for the nocturnal ministries of the temple had boiling water poured over their heads, or else had their lips and ears pierced, and if they did not amend this or any other fault, they were plunged into the lake and dismissed from the temple at the festival which they held for the god of water in the sixth month. The priests lived for the most part in community under certain superiors, who watched over their conduct.
 
@@ -1684,11 +1552,7 @@ Among the Mexicans the priesthood was not by its nature perpet‐ § 16.
 
 The priestesses. ual. There were indeed some who consecrated themselves for their whole life to the ministry of the altars; but others only for some time, either in fulfillment of some vow of their fathers or out of particular devotion. Nor was the priesthood attached to the male sex, since there were women dedicated to the immediate service of the temples. They incensed the idols, tended the sacred fire, swept the court, prepared the oblation of food which was made daily, and presented it with their own hands to the idols; but they were wholly excluded from the ministry of sacrificing and from the preeminent
 
-History of Mexico, Vol. II.                   F                 dignities
-
-[p. 42]
-
-dignities of the priesthood. Among these priestesses some were from Bk. VI.
+History of Mexico, Vol. II.                   F                 dignities [p. 42] dignities of the priesthood. Among these priestesses some were from Bk. VI.
 
 their most tender age consecrated by their parents to the service of
 
@@ -1752,21 +1616,13 @@ sanctuaries. About nothing was there such zeal as about the conti‐
 
 nence of these virgins. Any
 
-crime
-
-[p. 43]
-
-crime in this matter was unpardonable; if it remained entirely secret, the young offender sought to appease the wrath of the gods by fasts Bk. VI. and austerities, since she feared that in punishment of her fault her flesh would rot. When the virgin consecrated from her infancy to the worship of the gods reached seventeen or eighteen years, an age at which they were for the most part married, her parents sought a husband for her, and having found one they presented to the Tepanteohuatzin, on small round dishes curiously varnished, a certain number of quails, and a certain quantity of copal, flowers, and foods, with a well-composed speech in which they thanked him for the care and diligence employed in the education of their daughter and asked his permission to settle her in marriage. The Tepanteohuatzin granted it with another speech, exhorting the young woman to perseverance in virtue and to the fulfillment of the obligations of marriage.
+crime [p. 43] crime in this matter was unpardonable; if it remained entirely secret, the young offender sought to appease the wrath of the gods by fasts Bk. VI. and austerities, since she feared that in punishment of her fault her flesh would rot. When the virgin consecrated from her infancy to the worship of the gods reached seventeen or eighteen years, an age at which they were for the most part married, her parents sought a husband for her, and having found one they presented to the Tepanteohuatzin, on small round dishes curiously varnished, a certain number of quails, and a certain quantity of copal, flowers, and foods, with a well-composed speech in which they thanked him for the care and diligence employed in the education of their daughter and asked his permission to settle her in marriage. The Tepanteohuatzin granted it with another speech, exhorting the young woman to perseverance in virtue and to the fulfillment of the obligations of marriage.
 
 Among the different orders or congregations that there were, both § 17.
 
 Different orders of of men and of women consecrated to the worship of certain particu‐ religious. lar gods, that of Quetzalcoatl is worthy of mention. In the colleges or monasteries of both sexes dedicated to this imaginary god a singularly rigid and austere life was led. The dress of the inmates was quite modest; they bathed every day at midnight, and kept vigil until two hours before day, singing hymns to their god and exercising themselves in various austerities. They had liberty to go to the mountains at any hour of the day or night to shed their blood: which was granted them on account of the reputation of virtue in which they were held by all. The superiors of the monasteries took the same name of Quetzalcoatl, and had such authority that they visited no one, except the king when it was needed. These religious were consecrated to their order from infancy. The parents of the child invited the superior to a dinner, and he sent one of his subordinates. The latter carried the child to him, who, taking him in his arms, offered him with a prayer to Quetzalcoatl, and put around his neck a necklace, which he was to wear until the age of seven years. When
 
-F2                       the
-
-[p. 44]
-
-the child reached two years of age, the superior made a small incision Bk. VI.
+F2                       the [p. 44] the child reached two years of age, the superior made a small incision Bk. VI.
 
 in his breast, which, like the necklace, was a token of his consecra‐
 
@@ -1844,11 +1700,7 @@ We do not know what the sacrifices of the ancient Toltecs were. The Chichimecs r
 
 The sacrifices varied in number, place, and manner according to the circumstances of the festivals. For the most part the victims died with the breast opened; but others were drowned in the lake, others died of hunger shut up in the caverns of the mountains, and others finally in the gladiatorial sacrifice. The most common place was the temple, in whose upper court
 
-was
-
-[p. 46]
-
-was the altar destined for the ordinary sacrifices. That of the great Bk. VI.
+was [p. 46] was the altar destined for the ordinary sacrifices. That of the great Bk. VI.
 
 temple of Mexico was a green stone (presumably jasper), convex on
 
@@ -1918,11 +1770,7 @@ of
 
 [PDF 48]
 
-The ordinary sacrifice.
-
-[p. 47]
-
-of war, as soon as they had sacrificed him, they cut off the head, to preserve it among the bones, and hurled the body down the stairs to Bk. VI. the lower court, where it was taken by that officer or soldier who had made him prisoner, and he carried it to his house, to have it cooked and seasoned, and to make with it a banquet for his friends. If he was not a prisoner of war but a slave bought for the sacrifice, his master took the corpse from the same altar for the same purpose. They ate only the legs, thighs, and arms, and the rest they burned, or else reserved it for the sustenance of the wild beasts and birds of prey that were raised in the royal palaces. The Otomis, after having killed the victim, tore it to pieces and sold the shreds in the market. The Zapotecs sacrificed men to the gods, women to the goddesses, and children to I know not what little deities.
+The ordinary sacrifice. [p. 47] of war, as soon as they had sacrificed him, they cut off the head, to preserve it among the bones, and hurled the body down the stairs to Bk. VI. the lower court, where it was taken by that officer or soldier who had made him prisoner, and he carried it to his house, to have it cooked and seasoned, and to make with it a banquet for his friends. If he was not a prisoner of war but a slave bought for the sacrifice, his master took the corpse from the same altar for the same purpose. They ate only the legs, thighs, and arms, and the rest they burned, or else reserved it for the sustenance of the wild beasts and birds of prey that were raised in the royal palaces. The Otomis, after having killed the victim, tore it to pieces and sold the shreds in the market. The Zapotecs sacrificed men to the gods, women to the goddesses, and children to I know not what little deities.
 
 This was the most ordinary manner of sacrificing, with some circumstances of greater cruelty, as we shall see below; but they had other kinds of sacrifices, though rare. At the festival of Teteoinan the woman who represented this goddess was beheaded on the shoulders of another woman. At the festival of the arrival of the gods the victims were put to death in the fire. At one of the festivals which they made to Tlaloc they sacrificed to him two children, one of each sex, drowning them in a certain place in the lake. At another festival of the same god they bought three little boys of six or seven years, and, shutting them up with abominable inhumanity in a cave, left them to die of hunger and of horror.
 
@@ -1930,11 +1778,7 @@ But the most celebrated sacrifice among the Mexicans was that
 
 § 19. which the Spaniards called, not without reason, the Gladiatorial. This Gladiatorial sacrifice. was a very honorable one, and none were destined for it but the prisoners most renowned for their bravery. Near the great temple of the large cities there was, in a place ample enough to contain an immense crowd of people, a round platform of earth eight feet high, and upon it a great round stone, resembling in shape our millstones, but much larger, and almost three feet high,
 
-well
-
-[p. 48]
-
-well polished, and with figures carved on it. (*) On this stone, which Bk. VI.
+well [p. 48] well polished, and with figures carved on it. (*) On this stone, which Bk. VI.
 
 they called Temalacatl, they placed the prisoner, armed with a shield
 
@@ -2080,11 +1924,7 @@ of
 
 against the conquerors of the testimony of Bishop Zumárraga and of the first reli‐
 
-gious, afterward contradicts them so openly concerning the number of the sacrifices.
-
-[p. 51]
-
-of the idols, and be food for their immortal gods.
+gious, afterward contradicts them so openly concerning the number of the sacrifices. [p. 51] of the idols, and be food for their immortal gods.
 
 But the most frequent oblation was that of copal. All burned in‐ Bk. VI. cense daily to their idols, so that there was no house where there were not censers. The priests in the temple, the fathers of families in their houses, and the judges in their tribunals used to burn incense toward the four cardinal winds every time they had to pronounce sentence on any grave case, whether civil or criminal. But the censing among the Mexicans and the other nations of Anahuac was not only a religious act toward their deities, but also a merely civil homage toward the lords and the ambassadors.
 
@@ -2094,11 +1934,7 @@ Equally famous were the inhuman and frightful sacrifices which § 21. the people
 
 Cuauhtitlan. fire. One day before the festival they planted six very tall trees in the lower court of the temple, sacrificed two female slaves, and then flayed them and took the bones out of their thighs. The next day two distinguished priests dressed themselves in the blood-stained skins, and taking those bones in their hands, began to descend the steps of the temple at a solemn pace, but together with frightful howls. The people, crowded at the foot of the temple, said in a loud voice: Behold, our gods are now coming. As soon as they reached the lower court, they began, to the sound of musical instruments, a dance which lasted almost the whole day. Meanwhile the people went on sacrificing so great a number of quail that at times they reached eight thousand. When these sacrifices were finished, the priests carried six prisoners up into the trees, and binding them
 
-G2                       to
-
-[p. 52]
-
-to them, came down; but hardly had the priests reached the ground
+G2                       to [p. 52] to them, came down; but hardly had the priests reached the ground
 
 Bk. VI. when those unhappy victims were already sacrificed by the people
 
@@ -2162,11 +1998,7 @@ people
 
 (E) Acxojatl is a plant with several straight stalks and long, strong leaves, arranged
 
-symmetrically. They made good brooms from this plant, and still make them.
-
-[p. 53]
-
-people. Those who performed these austerities within the enclosure
+symmetrically. They made good brooms from this plant, and still make them. [p. 53] people. Those who performed these austerities within the enclosure
 
 Bk. VI. of the great temple of Mexico bathed in a pool that was there, which, because its water was always tinged with blood, was called Ezapan. The number of canes to be used each time was for the most part fixed; after they had served once, they were kept as a testimony of their penance.
 
@@ -2176,11 +2008,7 @@ Among the fasts there were some general ones, which the whole people was bound t
 
 with
 
-(F) The fast which was made to the Sun was called Netonatiuhzahualo, or Netonatiuhzahualiztli. Dr. Hernández says that it was made every two hundred or three hundred days. We suspect that it fell on the day I Olin, which came around every two hundred and sixty days.
-
-[p. 54]
-
-with many rooms, where they withdrew to perform such a penance. Bk. VI.
+(F) The fast which was made to the Sun was called Netonatiuhzahualo, or Netonatiuhzahualiztli. Dr. Hernández says that it was made every two hundred or three hundred days. We suspect that it fell on the day I Olin, which came around every two hundred and sixty days. [p. 54] with many rooms, where they withdrew to perform such a penance. Bk. VI.
 
 At one of the festivals all those who held any public office, after serv‐
 
@@ -2256,11 +2084,7 @@ There was seen at times, on the occasion of some public calamity, an extraordina
 
 Also very famous in that country was the fast of the Tlaxcalans in Celebrated penance the divine year, in which they held a most solemn festival to their god of the Tlaxcalans. Camaxtle. When the time came to begin it, their chief, the Achcauhtli, convoked all the Tlamacazqui, or penitents, and gave them a grave exhortation to penance, and warned them that if any should not find himself with strength sufficient to carry it out, he should make this known to him within five days; for if after that term, once the fast was begun, any should fail and turn back, he would be deemed unworthy of the company of the gods, and the priesthood would be taken from him and all his goods sequestered. After the five days that were granted for deliberation, he went up, with all those who had the courage to carry out the penance, who
 
-were
-
-[p. 56]
-
-were usually more than two hundred, on the very high mount
+were [p. 56] were usually more than two hundred, on the very high mount
 
 Bk. VI.
 
@@ -2328,11 +2152,7 @@ men well informed, and worthy in every respect of the greatest cre‐
 
 dence, who applied themselves with the utmost zeal to this study,
 
-examined
-
-[p. 57]
-
-examined the ancient paintings with diligence; and they informed Bk. VI.
+examined [p. 57] examined the ancient paintings with diligence; and they informed Bk. VI.
 
 themselves from the best-instructed Mexicans and Acolhuas. We pro‐
 
@@ -2396,11 +2216,7 @@ centuries was composed an age, called by them Huehuetiliztli, that is,
 
 old age, of a hundred and four
 
-History of Mexico, Vol. II.                 H                     years
-
-[p. 58]
-
-years. (G) To the end of the century they gave the name Toxiuhmolpia, Bk. VI. which means Binding of our years, because in it the two centuries
+History of Mexico, Vol. II.                 H                     years [p. 58] years. (G) To the end of the century they gave the name Toxiuhmolpia, Bk. VI. which means Binding of our years, because in it the two centuries
 
 were joined to form an age. The years had four names, which were
 
@@ -2564,11 +2380,7 @@ second
 
 Chevalier Boturini puts in its place the Temetlatl, that is, the stone for grinding maize
 
-and cacao.
-
-[p. 61]
-
-second year of the century would be, as in the preceding, I Cipactli, and in the same manner the last day of all the years would always be Bk. VI. Xochitl; but since the period of thirteen days was continued, as in fact it was continued through the Nemontemi days, the signs or characters accordingly changed place, and the sign Miquiztli, which in all the months of the first year occupied the sixth place, occupies the first in the second year, and on the contrary the sign Cipactli, which in the first year had occupied the first place, has the sixteenth in the second year. To know what the sign of the first day of any year whatever must be, there is this general rule. Every year Tochtli begins with Cipactli, every year Acatl with Miquiztli, every year Tecpatl with Ozomatli, and every year Calli with Cozcaquauhtli, always giving to the sign of the day the same number as that of the year: so that just as the year I Tochtli has for its first day I Cipactli, so II Acatl has II Miquiztli, III Tecpatl has III Ozomatli, IV Calli has IV Cozcaquauhtli, etc. (M)
+and cacao. [p. 61] second year of the century would be, as in the preceding, I Cipactli, and in the same manner the last day of all the years would always be Bk. VI. Xochitl; but since the period of thirteen days was continued, as in fact it was continued through the Nemontemi days, the signs or characters accordingly changed place, and the sign Miquiztli, which in all the months of the first year occupied the sixth place, occupies the first in the second year, and on the contrary the sign Cipactli, which in the first year had occupied the first place, has the sixteenth in the second year. To know what the sign of the first day of any year whatever must be, there is this general rule. Every year Tochtli begins with Cipactli, every year Acatl with Miquiztli, every year Tecpatl with Ozomatli, and every year Calli with Cozcaquauhtli, always giving to the sign of the day the same number as that of the year: so that just as the year I Tochtli has for its first day I Cipactli, so II Acatl has II Miquiztli, III Tecpatl has III Ozomatli, IV Calli has IV Cozcaquauhtli, etc. (M)
 
 From what we have said, the particular esteem is evident in which the number thirteen was held among the Mexicans. Of thirteen years were the four periods of which the century was composed; of thirteen months was their cycle of 260 days, and of thirteen days the periods of which we have made mention. The reason for such an esteem was, according to Dr. Sigüenza, that this was the number of their greater gods. The number four seems to have been somewhat less prized by them. Just as they counted in their century four periods of thirteen years, so they counted thirteen periods of four years, and at the end of each of these periods they held extraordinary festivals. We have already mentioned elsewhere both the fast of four months and the Nappapohuallatolli, or general audience, to be held every four months.
 
@@ -2644,11 +2456,7 @@ pleted, nor in the following one, nor did they continue in them the
 
 periods of days, which proceeded
 
-always
-
-[p. 63]
-
-always numbering from the first to the last day of the century. When the intercalary days had passed, they began the new century with the Bk. VI. year I Tochtli and with the day I Cipactli, on the 26th of our February, as at the beginning of the preceding century.
+always [p. 63] always numbering from the first to the last day of the century. When the intercalary days had passed, they began the new century with the Bk. VI. year I Tochtli and with the day I Cipactli, on the 26th of our February, as at the beginning of the preceding century.
 
 I would not dare to publish such anecdotes had I not assured myself by the most weighty testimony of Dr. Sigüenza, who, besides his great erudition, his critical sense, and his truthfulness, was the man who employed the greatest diligence to clarify these points, now consulting the best-instructed Mexicans and Texcocans, now studying their histories and paintings.
 
@@ -2656,11 +2464,7 @@ The Chevalier Boturini affirms that more than a hundred years before the common 
 
 Two things will indeed seem strange in the system of the Mexicans: the one, that they did not regulate their months by the course of the Moon; the other, that no particular character is to be found which distinguished one century from another. But as to the first we do not doubt that their astronomical months were adjusted to the periods of the moon; for we know that their year was
 
-so
-
-[p. 64]
-
-so well regulated by the course of the Sun, and therefore they un‐
+so [p. 64] so well regulated by the course of the Sun, and therefore they un‐
 
 Bk. VI. doubtedly used the same name Metztli to signify indifferently the
 
@@ -2822,21 +2626,13 @@ and
 
 (*) Whenever we indicate the correspondence of the Mexican months with our
 
-own, it must be understood of those of the first year of their century.
-
-[p. 67]
-
-and there, after putting them to death in the ordinary sacrifice, the priests flayed them and clothed themselves in their skins, wishing to Bk. VI. make a show for some days in those bloody spoils. The owners of the sacrificed prisoners had to fast twenty days, and then gave great banquets, at which the flesh of the victims was served. Together with the prisoners there were also sacrificed the thieves of gold or silver, condemned by the law of the kingdom to such a punishment. The circumstance of flaying the victims gave this month the name Tlacaxipehualiztli, that is, flaying of men. In this festival the military men performed many exercises of arms and trials of war, and the nobles celebrated with many songs the glorious deeds of their ancestors. In Tlaxcala there were dances both of the nobles and of the commoners, all clothed in animal skins and adorned with gold and silver. By reason of these dances, common to all orders of persons, they gave to the festival, no less than to the month, the name of Coailhuitl, or General Festival.
+own, it must be understood of those of the first year of their century. [p. 67] and there, after putting them to death in the ordinary sacrifice, the priests flayed them and clothed themselves in their skins, wishing to Bk. VI. make a show for some days in those bloody spoils. The owners of the sacrificed prisoners had to fast twenty days, and then gave great banquets, at which the flesh of the victims was served. Together with the prisoners there were also sacrificed the thieves of gold or silver, condemned by the law of the kingdom to such a punishment. The circumstance of flaying the victims gave this month the name Tlacaxipehualiztli, that is, flaying of men. In this festival the military men performed many exercises of arms and trials of war, and the nobles celebrated with many songs the glorious deeds of their ancestors. In Tlaxcala there were dances both of the nobles and of the commoners, all clothed in animal skins and adorned with gold and silver. By reason of these dances, common to all orders of persons, they gave to the festival, no less than to the month, the name of Coailhuitl, or General Festival.
 
 In the third month, which began on April 7, the second festival of Tlaloc was celebrated with the sacrifice of some children. The skins of the victims sacrificed to Xipe in the preceding month were carried in procession to a temple called Yopico, which was within the enclosure of the great temple, and deposited in a cave that was there. In this same month the Xochimanqui, that is, those who dealt in flowers, celebrated the festival of their goddess Coatlicue, and presented to her little bunches of flowers curiously arranged. Before this oblation was made, no one was permitted to smell those flowers. Every night of this month the ministers of the temples kept watch, and for this reason made great fires; whence the month had the name Tozoztontli, or little vigil.
 
 The fourth month was called Hueitozoztli, or great vigil; because in it not only the priests kept watch, as in the preceding one, but also the nobility and the commoners. They drew blood from their ears, eyelids, nose, tongue, arms, and thighs, to expiate the faults committed with all their senses, and they set up at
 
-I2                   their
-
-[p. 68]
-
-their doors some iris leaves stained with blood, for no other end, so
+I2                   their [p. 68] their doors some iris leaves stained with blood, for no other end, so
 
 Bk. VI.
 
@@ -2902,19 +2698,11 @@ temple, adorned the idol with particular insignia of gold, and with
 
 beautiful
 
-feathers
-
-[p. 69]
-
-feathers, and raised the curtain which always covered the door of the Sanctuary, so that that image of their god might be seen and adored Bk. VI. by all who stood around. When the day of the festival had come, the people gathered in the lower court of the temple. Some priests, painted black and dressed in the same garment as the idol, carried it down on a litter, which the young men and the virgins of the temple girded with thick ropes composed of many strings of toasted maize, and they put one of these strings on the idol’s neck, and a garland on its head. This rope, a symbol of the dryness which they sought to avoid, was called Toxcatl, which name was given also to the month on account of such a ceremony. All the young men and the virgins of the temple, as well as the grandees of the court, wore similar strings on their necks and in their hands. Then a procession was formed through the lower court of the temple, where flowers and fragrant herbs were strewn: two priests incensed the idol, which others carried on their shoulders. Meanwhile the people stayed on their knees, striking their backs with thick, knotted cords. When the procession was over, and the discipline with it, they carried the idol back to its altar, and made it copious oblations of gold, gems, flowers, feathers, animals, and foods, which the virgins prepared, and other women, who by a particular vow went that day to serve at the temple. These foods were carried in procession by the same virgins, led by a distinguished priest dressed in a strange garment, and then the young men carried them to the dwellings of the priests, for whom they were destined.
+feathers [p. 69] feathers, and raised the curtain which always covered the door of the Sanctuary, so that that image of their god might be seen and adored Bk. VI. by all who stood around. When the day of the festival had come, the people gathered in the lower court of the temple. Some priests, painted black and dressed in the same garment as the idol, carried it down on a litter, which the young men and the virgins of the temple girded with thick ropes composed of many strings of toasted maize, and they put one of these strings on the idol’s neck, and a garland on its head. This rope, a symbol of the dryness which they sought to avoid, was called Toxcatl, which name was given also to the month on account of such a ceremony. All the young men and the virgins of the temple, as well as the grandees of the court, wore similar strings on their necks and in their hands. Then a procession was formed through the lower court of the temple, where flowers and fragrant herbs were strewn: two priests incensed the idol, which others carried on their shoulders. Meanwhile the people stayed on their knees, striking their backs with thick, knotted cords. When the procession was over, and the discipline with it, they carried the idol back to its altar, and made it copious oblations of gold, gems, flowers, feathers, animals, and foods, which the virgins prepared, and other women, who by a particular vow went that day to serve at the temple. These foods were carried in procession by the same virgins, led by a distinguished priest dressed in a strange garment, and then the young men carried them to the dwellings of the priests, for whom they were destined.
 
 The sacrifice of the victim representing the god Tezcatlipoca was then performed. This was a young man, the most handsome and best formed of all the prisoners. They chose him a year in advance, and throughout this time he went dressed in the garb of that idol: he walked freely about the city, but always escorted by a good guard, and was adored by all as the living image of that supreme deity. Twenty days before the festival this young man married four beautiful maidens, and in the five days preceding the festival they gave him sumptuous dinners, and granted
 
-him
-
-[p. 70]
-
-him all the pleasures of life. On the day of the festival they conducted
+him [p. 70] him all the pleasures of life. On the day of the festival they conducted
 
 Bk. VI.
 
@@ -2980,21 +2768,13 @@ feathers: they set on its head a little parasol of paper adorned with
 
 beautiful feathers, and above it a small bloodstained knife of flint,
 
-on
-
-[p. 71]
-
-on its breast a gold plate, and on its garment were seen several figures
+on [p. 71] on its breast a gold plate, and on its garment were seen several figures
 
 Bk. VI. representing the bones of the dead, and the image of a man torn to pieces: by which they intended to signify either the power of this god in battles, or the terrible vengeance which, according to their mythology, he took on those who conspired against the honor and the life of his mother. They placed this statue on a litter built upon four wooden serpents, which four principal officers of the Mexican army carried from the place where the statue was made as far as the altar where it was set up. Several young men, forming a circle, and joining together by means of certain arrows which they held in their hands, some by the shaft and others by the point, carried before the litter a piece of paper more than fifteen perches long, on which were probably painted the glorious deeds of that wicked deity, which they went along singing to the sound of musical instruments.
 
 When the day of the festival had come, a great sacrifice of quails was made in the morning, whose heads were torn off and which they then threw at the foot of the altar. The first to make such a sacrifice was the king, then the priests, and finally the people. Of so great a multitude of quails a part was seasoned for the tables of the king and of the priests, and the rest was kept for another time. All those who attended the festival carried clay censers, and a certain quantity of bitumen of Judea, to burn and with it to incense their god, and all the coals that were used there were then put into a great brazier called by them Tlexictli. On account of such a ceremony they called this festival the incensing of Huitzilopochtli. The dance of the virgins and of the priests followed immediately. The virgins wore their faces painted, their arms adorned with red feathers, on their heads garlands made of strings of toasted maize, and in their hands certain split canes with little flags of cotton or of paper. The priests wore their faces painted black, their foreheads armed with little paper disks, and their lips smeared with honey: they covered their private parts
 
-with
-
-[p. 72]
-
-with paper, and each had in his hand a scepter, at whose extremity Bk. VI.
+with [p. 72] with paper, and each had in his hand a scepter, at whose extremity Bk. VI.
 
 was a flower made of feathers, and above it a knot likewise of feath‐
 
@@ -3060,11 +2840,7 @@ or mark, by which the Mexican nation recognized itself as specially
 
 consecrated to the worship of their
 
-tutelary
-
-[p. 73]
-
-tutelary god; and this is also the reason why several authors came to
+tutelary [p. 73] tutelary god; and this is also the reason why several authors came to
 
 Bk. VI. believe the rite of circumcision established among the Mexicans. (P) But perhaps the Yucatecans and the Totonacs practiced it, not the Mexicans, nor any other nation of the empire.
 
@@ -3146,21 +2922,13 @@ there was a great dance of women, who danced in a circle holding on
 
 to certain cords of various flowers,
 
-and
-
-[p. 75]
-
-and with garlands of wormwood on their heads. In the center of the circle there was a woman prisoner dressed in the same garb as the Bk. VI. idol of that goddess. They accompanied the dance with singing, and in both they were led by two old and authoritative priests. The dance continued all night; and the following morning that of the priests began, and lasted all day, interrupted at times by the sacrifices of the prisoners. The priests danced decently dressed, and carrying in their hands those beautiful yellow flowers which the Mexicans called Cempoalxochitl, and several Europeans Indian carnations. At sunset the sacrifice of the woman prisoner was made, and the festival ended with great banquets.
+and [p. 75] and with garlands of wormwood on their heads. In the center of the circle there was a woman prisoner dressed in the same garb as the Bk. VI. idol of that goddess. They accompanied the dance with singing, and in both they were led by two old and authoritative priests. The dance continued all night; and the following morning that of the priests began, and lasted all day, interrupted at times by the sacrifices of the prisoners. The priests danced decently dressed, and carrying in their hands those beautiful yellow flowers which the Mexicans called Cempoalxochitl, and several Europeans Indian carnations. At sunset the sacrifice of the woman prisoner was made, and the festival ended with great banquets.
 
 This whole month was one of great rejoicing for the Mexicans. In it they dressed in the best garments they had: dances and amusements in the gardens were frequent: the poems which they sang were all of love, or of other pleasant subjects. The commoners went hunting in the mountains, and the nobles did military exercises, now in the countryside, now on the lake in boats. These rejoicings of the nobility gave this month the name of Tecuilhuitl, festival of the lords, or of Tecuilhuitontli, little festival of the lords, since it was truly small in comparison with that of the following month.
 
 In the eighth month, which began on July 16, they held a solemn festival to the goddess Centeotl under the name of Xilonen; for, as we have already noted elsewhere, they changed her name according to the state of the maize. At this festival they called her Xilonen; because the ear of maize, when the grain is still tender, is called xilotl. The festival lasted eight days, during which there was almost continual dancing in the temple of that goddess. The king and the lords gave food and drink to the people on such days. The people were set in rows in the lower court of the temple, and there they were handed the Chianpinolli, which was a certain drink among the most usual among them, the tamalli, that is, certain pastes of maize made in the shape of ravioli, and other foods, of which we shall speak elsewhere. They made presents to the priests, and the lords
 
-K2                  invited
-
-[p. 76]
-
-invited one another in turn to dinner, and presented one another with
+K2                  invited [p. 76] invited one another in turn to dinner, and presented one another with
 
 Bk. VI.
 
@@ -3228,11 +2996,7 @@ temple accompanied by their prisoners, and there they spent the time
 
 dancing and singing
 
-with
-
-[p. 77]
-
-with them all night. When the day of the festival came, and the hour
+with [p. 77] with them all night. When the day of the festival came, and the hour
 
 Bk. VI. of the sacrifice, they bound the feet and hands of the victims, and sprinkled in their faces the powder of Jauhtli (*), so that, the sense being dulled by it, the torment might be less painful to them. Then they began the dance, each with his victim on his shoulders, and one by one they went throwing them into a great fire kindled in the court, and then immediately drew them out with wooden hooks, to complete the sacrifice at the altar in the ordinary manner. The Mexicans gave this month the name of Xocohuetzi, expressing the ripeness of fruits. The Tlaxcalans called the ninth month Miccailhuitl, that is, Festival of the dead, because in it they made offerings for the souls of their dead, and the tenth month Hueimiccailhuitl, that is, Great festival of the dead, because in it they wore mourning and made lamentation for the death of their ancestors.
 
@@ -3240,11 +3004,7 @@ Five days before the beginning of the eleventh month, the start of which was on 
 
 by
 
-(*) The Jauhtli is a plant whose stalk is a cubit long, its leaves similar to those of the willow, but toothed, its flowers yellow, and its root slender. Both the flowers and the other parts of the plant have the same smell and taste as anise. It is very useful in medicine, and the Mexican physicians used it against several diseases; but they also made use of it for certain superstitious purposes.
-
-[p. 78]
-
-by a young man, with a great retinue, to present to the idol of Bk. VI.
+(*) The Jauhtli is a plant whose stalk is a cubit long, its leaves similar to those of the willow, but toothed, its flowers yellow, and its root slender. Both the flowers and the other parts of the plant have the same smell and taste as anise. It is very useful in medicine, and the Mexican physicians used it against several diseases; but they also made use of it for certain superstitious purposes. [p. 78] by a young man, with a great retinue, to present to the idol of Bk. VI.
 
 Huitzilopochtli in memory of the inhuman sacrifice which their an‐
 
@@ -3446,21 +3206,13 @@ the ward of Teotlachco, where they halted to sacrifice two prisoners of
 
 war, and some slaves
 
-purchased
-
-[p. 81]
-
-purchased; thence they proceeded to Tlatelolco, to Popotla, to Chapultepec, from which they returned to the city, and after going Bk. VI. around other wards returned to the temple.
+purchased [p. 81] purchased; thence they proceeded to Tlatelolco, to Popotla, to Chapultepec, from which they returned to the city, and after going Bk. VI. around other wards returned to the temple.
 
 In this journey of nine or ten miles they spent the greater part of the day, and in all the places where they halted they sacrificed quails, and perhaps also some prisoners. When they arrived at the temple they placed the statue of Painalton, and the standard, on the altar of Huitzilopochtli: the king incensed the statues of seeds, and then another procession was formed around the temple, at the end of which the prisoners and the remaining slaves were sacrificed. These sacrifices were made at the close of the day. That night the priests kept vigil, and the next morning they carried the paste statue of Huitzilopochtli to a great hall which was in the enclosure of the temple, and there, in the presence only of the king, of four chief priests, and of four superiors of the seminaries, the priest Quetzalcoatl, who was the head of the Tlamacazqui, or Penitents, threw a dart at the statue, with which he pierced it through from side to side. They said then that their god was now dead. One of the chief priests cut out the heart of the statue, and gave it to the king to eat. The body was divided into two parts: one was given to the Tlatelolcas, and the other remained for the Mexicans. This latter was again divided into four parts for the four quarters of the city, and each of these into as many minute particles as there were men in the quarter. This ceremony they expressed by the word Teocualo, which means, the god being eaten. The women did not taste this sacred paste, perhaps because the trade of arms did not belong to them. We do not know whether they made the same use of the statue of Tlacahuepan. The Mexicans gave this month the name of Panquetzaliztli, which signifies the raising of the standard, from what they carried in the aforesaid procession. In this month they were occupied in renewing the boundaries, and in repairing the hedges of their fields.
 
 In the sixteenth month, which began on December 23, the fifth and last festival of the gods of the
 
-History of Mexico, Vol. II.              L                  water
-
-[p. 82]
-
-water and of the mountains. They prepared for it with their usual ausBk. VI. terities, and with offerings of copal and of other aromatic resins.
+History of Mexico, Vol. II.              L                  water [p. 82] water and of the mountains. They prepared for it with their usual ausBk. VI. terities, and with offerings of copal and of other aromatic resins.
 
 They made by vow certain little figures of the mountains, which they
 
@@ -3528,11 +3280,7 @@ among the Mexicans, besides which the figure of this month, which is that of wat
 
 running down the steps of an edifice, plainly expresses the descent of the water signi‐
 
-fied by the word Atemoztli.
-
-[p. 83]
-
-the rabble amused itself with a game not unlike the Lupercalia of the
+fied by the word Atemoztli. [p. 83] the rabble amused itself with a game not unlike the Lupercalia of the
 
 Bk. VI. Romans; for, running through the streets, they beat with little sacks full of hay all the women whom they met. In the same month was celebrated the festival of Mictlantecuhtli, god of hell, with the nocturnal sacrifice of a prisoner, and the second festival of Yacatecuhtli, god of the merchants. The name Tititl, which they gave to this month, signifies the contraction which the cold causes at that time. (R)
 
@@ -3618,11 +3366,7 @@ beasts, they would devour them. In like manner they covered the
 
 faces of the children,
 
-and
-
-[p. 85]
-
-and did not let them sleep, lest they be transformed into mice. Those
+and [p. 85] and did not let them sleep, lest they be transformed into mice. Those
 
 Bk. VI. who had not gone with the priests climbed up on the terraces to observe from there the outcome of that great ceremony. The task of drawing the fire on this occasion belonged exclusively to a priest of Copolco, one of the wards of the city. The instruments were, as we shall say elsewhere, two pieces of wood, and the place where it was drawn was the breast of some brave prisoner whom they sacrificed. As soon as the fire was lit, all cried out with one voice for joy; a great fire was made on the same mountain, so that it might be seen from afar, and they burned on it the victim already sacrificed. All vied with one another to take some of that sacred fire, to carry it with the greatest speed to their houses. The priests carried it to the great temple of Mexico, whence all the inhabitants of that capital were supplied. In the thirteen days following the renewal of the fire, which were the intercalary days inserted between one century and the next in order to adjust the year to the solar course, they were occupied in repairing and whitewashing the buildings, both public and private, and in procuring new crockery and new garments: so that everything might be, or at least seem, new at the beginning of the new century. On the first day of that year and of that century, which, as we have already mentioned, fell on February 26, it was lawful for no one to taste water until noon. In the same hour the sacrifices began, the number of which was proportioned to the greatness of the festival. Voices of jubilation resounded everywhere, and mutual congratulations on the new century granted by Heaven. The illuminations of these first nights were astonishing: the festivities, the banquets, the dances, and the public games were of the most solemn kind. Among the others there was held, amid an immense concourse of people and the most singular demonstrations of jubilation, the game of the flyers, which we shall describe elsewhere: in which there were four flyers, and thirteen the turns that each made in his flight, to signify the four periods of thirteen years of which the century was composed.
 
@@ -3694,17 +3438,9 @@ offerings of copal, and sacrifices of parrots. The umbilical cord was cut upon a
 
 of maize, and with a new knife, which was immediately thrown into the river; they
 
-sowed the grain of that ear, and watched with the greatest diligence
+sowed the grain of that ear, and watched with the greatest diligence [p. 87] This first bath having been given, the diviners were consulted about the child’s fortune, and for this purpose they were fully in‐ Bk. VI. formed of the day and the hour of his birth. These considered the quality of the sign proper to that day, and of the sign dominant in that period of thirteen days, and if he was born at midnight they compared the two signs, that is, that of the day which was ending and that of the other which was beginning. Having made their observations, they pronounced the good or bad fortune of the infant. If it was bad, and if the fifth day after the birth, on which it was customary to give the second bath or washing, was unlucky, such a ceremony was postponed to another, more favorable day. For this second bath, which was the most solemn, they invited all the relatives and friends, and some boys, and if they were well-to-do they gave lavish dinners, and presented garments to all the guests. If the father of the child was a military man, he prepared for this ceremony a little bow, four little arrows, and a little garment of the same fashion as that which the child was to wear when he was grown. If he was a farmer or an artisan, he prepared some instruments proper to his craft, and proportioned to the body of the infant. If it was a girl, they provided for her a little garment suited to her sex, a little spindle, and some other little weaving instrument. A great number of torches were lighted, and the midwife, taking the infant, carried it through the whole courtyard of the house, and placed it on a heap of iris leaves, beside a basin of water prepared in the middle of the courtyard, and there, stripping it, she said: My son, the gods Ometecuhtli and Omecihuatl, lords of Heaven, have sent you to this sad and calamitous world. Receive this water, which shall give you life; and after having moistened its mouth, head, and breast with forms of words similar to those of the first bath, she bathed his whole
 
-[p. 87]
-
-This first bath having been given, the diviners were consulted about the child’s fortune, and for this purpose they were fully in‐ Bk. VI. formed of the day and the hour of his birth. These considered the quality of the sign proper to that day, and of the sign dominant in that period of thirteen days, and if he was born at midnight they compared the two signs, that is, that of the day which was ending and that of the other which was beginning. Having made their observations, they pronounced the good or bad fortune of the infant. If it was bad, and if the fifth day after the birth, on which it was customary to give the second bath or washing, was unlucky, such a ceremony was postponed to another, more favorable day. For this second bath, which was the most solemn, they invited all the relatives and friends, and some boys, and if they were well-to-do they gave lavish dinners, and presented garments to all the guests. If the father of the child was a military man, he prepared for this ceremony a little bow, four little arrows, and a little garment of the same fashion as that which the child was to wear when he was grown. If he was a farmer or an artisan, he prepared some instruments proper to his craft, and proportioned to the body of the infant. If it was a girl, they provided for her a little garment suited to her sex, a little spindle, and some other little weaving instrument. A great number of torches were lighted, and the midwife, taking the infant, carried it through the whole courtyard of the house, and placed it on a heap of iris leaves, beside a basin of water prepared in the middle of the courtyard, and there, stripping it, she said: My son, the gods Ometecuhtli and Omecihuatl, lords of Heaven, have sent you to this sad and calamitous world. Receive this water, which shall give you life; and after having moistened its mouth, head, and breast with forms of words similar to those of the first bath, she bathed his whole
-
-body over it, as over a sacred thing. The harvest which they made of this grain was divided into three parts: one they gave to the diviner, from another they made pap for the child, and the rest was kept, so that the child himself might sow it when he was of an age to be able to do so.
-
-[p. 88]
-
-body, and rubbing each of his limbs, said: Where are you, ill fortune? In Bk. VI.
+body over it, as over a sacred thing. The harvest which they made of this grain was divided into three parts: one they gave to the diviner, from another they made pap for the child, and the rest was kept, so that the child himself might sow it when he was of an age to be able to do so. [p. 88] body, and rubbing each of his limbs, said: Where are you, ill fortune? In Bk. VI.
 
 which limb have you hidden yourself? Go far from this child. This said, she
 
@@ -3768,11 +3504,7 @@ chiefs who governed the republic of Tlaxcala when the Spaniards ar‐
 
 rived they gave the
 
-name
-
-[p. 89]
-
-name of Citlalpopoca, that is, Smoking Star; because he was born at
+name [p. 89] name of Citlalpopoca, that is, Smoking Star; because he was born at
 
 Bk. VI. the time when a comet was seen in the sky. To one who was born on the day of the renewal of the fire they gave the name of Molpilli if a boy; if a girl, that of Xiuhnenetl, alluding in both cases to the circumstances of the festival. To the boys they gave for the most part names of animals, and to the girls names of flowers; wherein it is to be believed that they had regard both to the dreams of the parents and to the counsels of the diviners. The name that was given to children was for the most part single; but they afterwards used to acquire by their actions a surname, just as to Moctezuma I they gave, because of his prowess, the surnames of Ilhuicamina and Tlacaele.
 
@@ -3784,11 +3516,7 @@ History of Mexico, Vol. II.                      M                         The
 
 (U) In Guatemala they also held rejoicings when the child began to walk, and for seven years continuously the anniversary of his birth was celebrated.
 
-(V) In bk. 4, tit. 2, of the third provincial council of Mexico it is supposed
-
-[p. 90]
-
-The parents were those who arranged the marriage, and it was never Bk. VI.
+(V) In bk. 4, tit. 2, of the third provincial council of Mexico it is supposed [p. 90] The parents were those who arranged the marriage, and it was never Bk. VI.
 
 carried out without their consent. When the son arrived at an age ca‐
 
@@ -3856,19 +3584,11 @@ was between the conquest of the Spaniards and the publication of the Gospel, sev
 
 al abuses were introduced into those nations, never tolerated under their kings, as
 
-the apostolic religious who were employed in their conversion bore witness.
-
-[p. 91]
-
-and informing themselves also of what the maiden might bring. This time the parents answered that before resolving it was necessary to Bk. VI. consult their kinsfolk, and to inquire into the wishes of their daughter. Those women did not return again, since the parents themselves sent the decisive answer by means of other women of their kindred.
+the apostolic religious who were employed in their conversion bore witness. [p. 91] and informing themselves also of what the maiden might bring. This time the parents answered that before resolving it was necessary to Bk. VI. consult their kinsfolk, and to inquire into the wishes of their daughter. Those women did not return again, since the parents themselves sent the decisive answer by means of other women of their kindred.
 
 Having at last obtained a favorable answer, and the day of the wedding having been fixed, after the parents had exhorted their daughter to fidelity and obedience to her husband, and to such a conduct of life as would do honor to her family, they conducted her with a great retinue and with music to the house of the father-in-law, and if she was noble they carried her in a litter. The groom and the parents-in-law received her at the door of the house, with four torches borne by four women. On her arrival the bride and groom incensed one another. The groom, taking her by the hand, led her into the hall or room which they had prepared for the wedding. They both sat down on a new and curious mat which lay in the middle of the room, near the fire which they kept burning. Then a priest tied a corner of the Huepilli, or shirt of the bride, to another of the Tilmatli, or mantle of the groom, and in this ceremony they made the marriage contract essentially consist. The wife then made seven turns around the fire, and, returned to her mat, offered together with her husband copal to their gods, and they presented one another with gifts. The dinner followed. The bride and groom ate on the mat, giving one another the morsels, and the guests in their places. When the guests were warmed with the wine, which on such occasions was drunk in abundance, they went out to dance in the courtyard, the bride and groom remaining in that room, from which for four days they never went out, except for the needs of nature, and to go at midnight to the oratory to incense the idols and make them offerings of foods. They spent those four days in prayer and fasting, dressed in new garments and adorned with certain insignia of the gods of their devotion, without ever proceeding
 
-M2                      to
-
-[p. 92]
-
-to any less decent action, since they believed the punishment of Bk. VI.
+M2                      to [p. 92] to any less decent action, since they believed the punishment of Bk. VI.
 
 Heaven inevitable. Their beds on those nights were two new mats of
 
@@ -3934,11 +3654,7 @@ found in his wife something that displeased him, he could on the fol‐
 
 lowing day repudiate her
 
-but
-
-[p. 93]
-
-but if on that day he showed himself content with having her, he could no longer leave her. The contract being thus ratified, the bride and Bk. VI. groom withdrew to do penance for their past misdeeds for twenty or thirty days, abstaining during that time from many pleasures of the senses, drawing blood from themselves, and bathing often.
+but [p. 93] but if on that day he showed himself content with having her, he could no longer leave her. The contract being thus ratified, the bride and Bk. VI. groom withdrew to do penance for their past misdeeds for twenty or thirty days, abstaining during that time from many pleasures of the senses, drawing blood from themselves, and bathing often.
 
 Among the Mixtecs, besides the ceremony of tying together the ends of the garments of the bride and groom, they cut off a part of their hair, and the husband for a little while carried his wife upon his back.
 
@@ -3950,11 +3666,7 @@ Finally, the Mexicans having been so superstitious in all their actions, § 39.
 
 Funeral rites. they surpassed even themselves in their funeral rites. As soon as someone died, certain masters of funeral ceremonies were summoned, who were for the most part elderly men. These, having cut many pieces of paper, dressed the corpse in them, and taking a glass of water they sprinkled it on his head, saying that this was the water used during his life. Then they dressed him in a garment corresponding to his condition, to his means, and to the circumstances of his death. If the dead man had been a man of war, they put on him the garment of Huitzilopochtli; if a merchant, that of Yacatecuhtli; if an artisan, that of the god
 
-who
-
-[p. 94]
-
-who was the patron of his art or trade. He who died by drowning was Bk. VI.
+who [p. 94] who was the patron of his art or trade. He who died by drowning was Bk. VI.
 
 clothed in the garment of Tlaloc; he who was executed for adultery, in
 
@@ -4016,19 +3728,11 @@ After burning it they gathered all the ashes in a pot, and among them
 
 they put a gem of little or much
 
-value
-
-[p. 95]
-
-value according to the means of the deceased, which, they said, was to serve him in place of a heart in the other world. This pot they Bk. VI. buried in a deep pit, and for four days they made over it oblations of bread and of wine.
+value [p. 95] value according to the means of the deceased, which, they said, was to serve him in place of a heart in the other world. This pot they Bk. VI. buried in a deep pit, and for four days they made over it oblations of bread and of wine.
 
 These were the funeral rites of the common people; but in the obsequies of the kings, and in proportion in those of the lords and persons of high rank, there occurred certain particulars worthy of being recalled. When the king fell ill, says Gómara, a mask was put on the idol of Huitzilopochtli, and another on that of Tezcatlipoca, and it was not taken off until the king was dead or recovered; but it is certain, as we have said elsewhere, that the idol of Huitzilopochtli always had two masks, not merely one. As soon as the king of Mexico died, his death was published with great pomp, and all the lords were notified, so that they might attend the funeral, both those who were at the court and those who were in places not far from it. Meanwhile they laid the royal corpse upon fine and curious mats, and his household servants kept it company. On the fourth or fifth day, when the lords had already arrived, bringing with them rich garments, beautiful feathers, and slaves to present for the solemnity of the obsequies, they clothed the corpse in fifteen or more very fine cotton garments of various colors, adorned it with gold, silver, and gems, hung from its lower lip an emerald, which was to serve it as a heart, covered the face with a mask, and over the garments put on it the insignia of the god in whose temple or court the ashes were to be buried. They cut off a part of the hair, and together with another lock which had been cut off in his infancy they kept it in a little chest, in order to perpetuate, as they said, the memory of the deceased. On the chest they placed the portrait of the deceased himself, made of wood or of stone. Then they killed his slave, his chaplain, who had the care of his oratory, and of all that pertained to the
 
-private
-
-[p. 96]
-
-private worship of his gods, so that in the other world he might serve him in Bk. VI.
+private [p. 96] private worship of his gods, so that in the other world he might serve him in Bk. VI.
 
 the same office.
 
@@ -4090,11 +3794,7 @@ as this author would have it. How is it possible that the Mexicans should have c
 
 cruelty, when they had to choose the successor of the deceased king from among his brothers,
 
-according to the law of the kingdom?
-
-[p. 97]
-
-remained intact: they searched diligently for the emerald that had been put in his lip, and all together it was kept inside the little chest Bk. VII. where they had put the hair, and the chest was placed in the spot appointed for his sepulcher. For the four following days they made offerings of food at the sepulcher; on the fifth they sacrificed some slaves, and others on the twentieth, the fortieth, the sixtieth, and the eightieth day. From then on human victims were no longer sacrificed; but every year an anniversary was celebrated with sacrifices of rabbits, butterflies, quails, and other birds, and with offerings of bread, wine, copal, flowers, and certain little canes full of aromatic substances, which they called Acajetl. This anniversary was celebrated for four years.
+according to the law of the kingdom? [p. 97] remained intact: they searched diligently for the emerald that had been put in his lip, and all together it was kept inside the little chest Bk. VII. where they had put the hair, and the chest was placed in the spot appointed for his sepulcher. For the four following days they made offerings of food at the sepulcher; on the fifth they sacrificed some slaves, and others on the twentieth, the fortieth, the sixtieth, and the eightieth day. From then on human victims were no longer sacrificed; but every year an anniversary was celebrated with sacrifices of rabbits, butterflies, quails, and other birds, and with offerings of bread, wine, copal, flowers, and certain little canes full of aromatic substances, which they called Acajetl. This anniversary was celebrated for four years.
 
 The bodies were for the most part burned; only those of persons who died by drowning, or of dropsy and of some other infirmity I know not what, were buried whole; but we do not know the reason for such a difference.
 
@@ -4104,11 +3804,7 @@ There was no fixed place for burial. Many had their ashes buried The sepulchers.
 
 History of Mexico, Vol. II.                           N                              it
 
-(Y) Solís, in his History of the Conquest of Mexico, affirms that the ashes of the kings were deposited at Chapultepec; but this is false, and contrary to the deposition of Cortés, whose panegyric he wrote, of Bernal Díaz, and of other eyewitnesses.
-
-[p. 98]
-
-it was a woman’s, a spindle, a shuttle, and a Xicalli, a certain natural Bk. VI.
+(Y) Solís, in his History of the Conquest of Mexico, affirms that the ashes of the kings were deposited at Chapultepec; but this is false, and contrary to the deposition of Cortés, whose panegyric he wrote, of Bernal Díaz, and of other eyewitnesses. [p. 98] it was a woman’s, a spindle, a shuttle, and a Xicalli, a certain natural Bk. VI.
 
 vessel, of which we shall speak later. In those of the rich they placed
 
@@ -4166,11 +3862,7 @@ ephemeral
 
 (*) The Spanish goldsmiths divide the pound of gold into two marks, or sixteen
 
-ounces, or a hundred castellanos; whence an ounce has 6¼ castellanos.
-
-[p. 99]
-
-ephemeral authority, they put him in a pit; but without covering him with earth.                                                              Bk. VI.
+ounces, or a hundred castellanos; whence an ounce has 6¼ castellanos. [p. 99] ephemeral authority, they put him in a pit; but without covering him with earth.                                                              Bk. VI.
 
 Every year they held a festival in honor of their last lord, in which his birth was celebrated, not his death, of which no mention was ever made.
 
@@ -4196,21 +3888,13 @@ cernment, of zeal for justice, and of love of the public good, that they would b
 
 The education of youth, which is the principal support of a state, and what best makes known the character of any nation whatever, was such among the Mexicans that it alone would suffice to confound the proud contempt of certain critics, who believe confined within the limits
 
-of
-
-[p. 101]
-
-of Europe the empire of Reason. Now, in what we shall say on this subject, we shall have for our guide both the paintings themselves of Bk. VII. those nations and the most enlightened authors.
+of [p. 101] of Europe the empire of Reason. Now, in what we shall say on this subject, we shall have for our guide both the paintings themselves of Bk. VII. those nations and the most enlightened authors.
 
 “Nothing,” says Father Acosta, “has caused me more wonder, nor § 1.
 
 Education of the seemed to me more worthy of praise and of remembrance, than the Mexican youth. care and the order that the Mexicans had in the education of their children.” In fact, it is hard to find a nation that has employed greater diligence in an article so important to the state. It is true that they vitiated their instruction with superstition; but the zeal that they showed for the education of their children ought to put to shame the negligence of our fathers of families, and many of the precepts that they gave to their youth might serve as lessons to ours as well. All Mexican infants, even the children of kings, were suckled by their own mothers. If the mother was prevented by some illness, they did not entrust the child so readily to a nurse without first informing themselves both of this woman’s condition and of the quality of her milk. From their infancy they accustomed them to bear hunger, heat, and cold. When they reached the age of five years, either they were handed over to the priests, that these might bring them up in the seminaries, as was done with almost all the sons of the nobles, and even with those of the kings themselves; or, if they were to be brought up in their own houses, their parents began from then on to instruct them in the worship of their gods, and to teach them the formulas for praying and for imploring their protection. They often led them to the temples to attach them to religion. They instilled in them a horror of vice, modesty in their actions, respect for their elders, and love of labor. They made them sleep on a mat; they gave them no other food than what the necessity of life required, nor other clothing than what sufficed for the defense of decency. When they reached a certain age, they taught them the use of arms, and if their parents were military men, they took them along to the war, so that they might train themselves in the military art, and drive fear from their minds by growing accustomed to dangers. If their parents were farmers,
 
-or
-
-[p. 102]
-
-or artisans, they taught them their own trade. They trained the girls
+or [p. 102] or artisans, they taught them their own trade. They trained the girls
 
 Bk. VII.
 
@@ -4272,11 +3956,7 @@ boy of nine years, whose father pricks him in several parts of the
 
 body to correct his indocility, and a little girl of the
 
-same
-
-[p. 103]
-
-same age, whom her mother pricks only on the hands; a boy and a girl of ten years, whom their parents beat with a rod because they refuse Bk. VII. to do what has been commanded them.
+same [p. 103] same age, whom her mother pricks only on the hands; a boy and a girl of ten years, whom their parents beat with a rod because they refuse Bk. VII. to do what has been commanded them.
 
 In the fifty-second painting are represented two boys of eleven years, whose fathers, since they had not been reformed by other punishments, make them receive in the nose the smoke of chilli, or chili pepper; a boy of twelve years, who in punishment of his faults is kept by his father bound for a whole day in a dunghill, and a girl of the same age, whom her mother makes sweep the whole house during the night, and part of the street; a boy of thirteen years, whom his father makes steer a little boat loaded with rushes, and a girl of the same age grinding maize by order of her mother; a youth of fourteen years employed by his father in fishing, and a girl occupied by her mother in weaving.
 
@@ -4354,11 +4034,7 @@ him whom you see fall into some fault or failing, and refrain from re‐
 
 proaching him with it; but be abashed
 
-and
-
-[p. 105]
-
-and fear lest that very thing happen to you which offends you in others. Do not go where you are not called, nor meddle in what does not Bk. VII. concern you. In all your actions and words strive to show your good breeding. In conversation do not strike others with the hand, nor talk too much, nor interrupt or disturb the talk of others. If you hear anyone talking foolishly, and it is not your place to correct him, be silent; if it is your place, consider first what you are about to say to him, and do not speak to him with arrogance, so that your correction may be the more welcome.
+and [p. 105] and fear lest that very thing happen to you which offends you in others. Do not go where you are not called, nor meddle in what does not Bk. VII. concern you. In all your actions and words strive to show your good breeding. In conversation do not strike others with the hand, nor talk too much, nor interrupt or disturb the talk of others. If you hear anyone talking foolishly, and it is not your place to correct him, be silent; if it is your place, consider first what you are about to say to him, and do not speak to him with arrogance, so that your correction may be the more welcome.
 
 “When someone talks with you, listen to him attentively, and holding yourself in a becoming posture, not playing with your feet, nor taking your mantle in your mouth, nor spitting too much, nor looking here and there, nor rising often, if you are seated; for such actions are signs of levity and of bad breeding.
 
@@ -4368,11 +4044,7 @@ and fear lest that very thing happen to you which offends you in others. Do not 
 
 “When they give you something, accept it with signs of gratitude. If it is great, do not therefore swagger. If it is small, do not despise it, nor show disdain, nor cause displeasure to him who favors you. If you become rich, do not be insolent, nor scoff at the poor; for those same gods who denied riches to others in order to give them to you, displeased by your pride, will take them from you to give them to others. Sustain yourself by your own labors; for so your food will be more pleasant to you. I, my son, have sustained you
 
-History of Mexico, Vol. II.               O                    until
-
-[p. 106]
-
-until now with my sweat, and in nothing have I failed in the duty of a Bk. VII. father toward you: I have provided you with all that was needful,
+History of Mexico, Vol. II.               O                    until [p. 106] until now with my sweat, and in nothing have I failed in the duty of a Bk. VII. father toward you: I have provided you with all that was needful,
 
 without having taken it from others. Do you do likewise.
 
@@ -4434,11 +4106,7 @@ obligations of a father. With such counsels I wish to fortify your
 
 heart. Do not reject them, nor
 
-forget
-
-[p. 107]
-
-forget them; for on them depend your life and all your happiness.”
+forget [p. 107] forget them; for on them depend your life and all your happiness.”
 
 Bk. VII.
 
@@ -4520,11 +4188,7 @@ you do so, he will tire, and will let you go in peace.
 
 nothing may be said or thought against your
 
-honor
-
-[p. 109]
-
-honor; but if you enter the house of your relatives, greet them with respect, and do not stay there idle; but take up the spindle at once to Bk. VII. spin, or do what is needed.
+honor [p. 109] honor; but if you enter the house of your relatives, greet them with respect, and do not stay there idle; but take up the spindle at once to Bk. VII. spin, or do what is needed.
 
 “When you are married, respect your husband, obey him, and do diligently what he commands you. Do not cause him displeasure, nor show yourself disdainful or angry toward him; but receive him lovingly into your bosom, even though, being poor, he lives at your expense. If your husband causes you some displeasure, do not let him know your vexation when he commands something; but for the time dissemble it, and afterwards you will tell him gently what troubles you, so that by your gentleness he may be soothed and avoid vexing you. Do not dishonor him before others; for you too would remain dishonored. If anyone should enter your house to visit your husband, show that you welcome his visit, and render him all the services that you can. If your husband is foolish, be you discreet. If he is wanting in the administration of the goods, admonish him of his failings; but if he is quite useless for caring for the property, take that care upon yourself, attending diligently to the possessions, and never failing to pay the workmen promptly. Beware of letting anything be lost through your negligence.
 
@@ -4534,11 +4198,7 @@ Not content with such instructions, and with domestic education, § 5.
 
 Public schools and the Mexicans all sent their children to the public schools, which were seminaries. near the temples, where for three years they were instructed in religion and in good morals. Besides this, almost all, especially the nobles, took care that their children should be brought up in the seminaries attached to the temples, of which there were many in the cities of the Mexican empire
 
-for
-
-[p. 110]
-
-for boys, for youths, and for girls. Those of the boys and of the youths Bk. VII.
+for [p. 110] for boys, for youths, and for girls. Those of the boys and of the youths Bk. VII.
 
 were governed by priests devoted solely to their education; those of
 
@@ -4600,11 +4260,7 @@ we have already indicated, from twenty to twenty-two years, and in
 
 the
 
-girls
-
-[p. 111]
-
-girls at eighteen or seventeen. When such a time arrived, either the
+girls [p. 111] girls at eighteen or seventeen. When such a time arrived, either the
 
 Bk. VII. youth himself asked permission of the superior to go and marry, or, what happened more often, his parents requested it for the same purpose, first thanking the superior for the care he had taken in instructing him. The superior, in dismissing, as he did at the great festival of Tezcatlipoca, all the youths and girls who had arrived at such an age, made them a discourse exhorting them to perseverance in virtue and to the fulfillment of the obligations of the new state. Virgins brought up in the seminaries were singularly sought as wives, both on account of their morals and for the skill that they had in the arts proper to their sex. The youth who, having reached the age of twenty-two years, did not marry was reputed perpetually consecrated to the service of the temple, and if after such a consecration, repenting of his celibacy, he sought to marry, he made himself infamous forever, and there was no woman who would have him for a husband. In Tlaxcala, those who, when the time for marrying came, refused marriage were shorn, which among them was esteemed a great dishonor.
 
@@ -4682,11 +4338,7 @@ ment, avoiding by such a law several inconveniences noted by us else‐
 
 where. This law was observed inviolably
 
-from
-
-[p. 113]
-
-from the second to the last king. To Huitzilihuitl, son of Acamapichtli, succeeded his two brothers Chimalpopoca and Bk. VII. Itzcoatl; to Itzcoatl his nephew Moctezuma Ilhuicamina; to Moctezuma succeeded Axayacatl, his cousin; to Axayacatl his two brothers Tizoc and Ahuitzotl; to the latter his nephew Moctezuma II; to Moctezuma his brother Cuitláhuac, and to this one finally his nephew Cuauhtémoc. This will be seen more clearly in the genealogy of the Mexican kings, which we shall give below.
+from [p. 113] from the second to the last king. To Huitzilihuitl, son of Acamapichtli, succeeded his two brothers Chimalpopoca and Bk. VII. Itzcoatl; to Itzcoatl his nephew Moctezuma Ilhuicamina; to Moctezuma succeeded Axayacatl, his cousin; to Axayacatl his two brothers Tizoc and Ahuitzotl; to the latter his nephew Moctezuma II; to Moctezuma his brother Cuitláhuac, and to this one finally his nephew Cuauhtémoc. This will be seen more clearly in the genealogy of the Mexican kings, which we shall give below.
 
 No regard was had in the election to the right of primogeniture. This was seen at the death of Moctezuma I, in whose place Axayacatl was elected, preferred by the electors to his two elder brothers Tizoc and Ahuitzotl.
 
@@ -4696,11 +4348,7 @@ Pomp and ceremonial magnificence. As soon as the election was made, notice of it
 
 the king. it, and to the feudatory lords who had come to be present at the funeral. The two kings, accompanied by all the nobility, led the elect to the great temple. The feudatory lords went before with the proper insignia of their states, then the nobles of the court with the insignia of their dignities and offices; the two allied kings followed, and behind them the king elect, naked, and with no other clothing than the Maxtlatl, that is, that belt or broad band with which they covered their shame. He climbed to the temple supported on the arms of the two principal lords of the court, where one of the high priests awaited him, accompanied by the most considerable personages of the temple. He adored the idol of Huitzilopochtli, touching the earth with his hand, and then carrying it to his mouth. The high priest stained his whole body with a certain ink, and sprinkled him four times with water blessed, according to their rite, at the great festival of Huitzilopochtli, making use for this sprinkling of branches of cedar and of willow, and of leaves of maize; he clothed him in a mantle on which were painted skulls and bones of the dead
 
-History of Mexico, Vol. II.                  P                      and
-
-[p. 114]
-
-and covered his head with two other mantles, the one black and the Bk. VII.
+History of Mexico, Vol. II.                  P                      and [p. 114] and covered his head with two other mantles, the one black and the Bk. VII.
 
 other blue, on which were represented those same figures; he hung
 
@@ -4766,11 +4414,7 @@ blood from his ears, and offered it to Huitzilopochtli together with
 
 the copal that in his honor
 
-burned
-
-[p. 115]
-
-burned, making warm and continual prayers to obtain the light that he needed to govern the monarchy wisely. On the fifth day the nobili‐ Bk. VII. ty returned to the temple to lead the new king to his palace, where the feudatories came to be confirmed in the investiture of their fiefs. Then followed the rejoicings of the people, the banquets, the dances, and the illuminations.
+burned [p. 115] burned, making warm and continual prayers to obtain the light that he needed to govern the monarchy wisely. On the fifth day the nobili‐ Bk. VII. ty returned to the temple to lead the new king to his palace, where the feudatories came to be confirmed in the investiture of their fiefs. Then followed the rejoicings of the people, the banquets, the dances, and the illuminations.
 
 In order to proceed to the coronation, it was necessary, according § 8. to the law of the kingdom, or rather the custom introduced into it by Coronation,      crown,
 
@@ -4778,11 +4422,7 @@ robes, and royal Moctezuma I, that the king already elected should go out to war
 
 The garment that he ordinarily wore in the palace was the Xiuhtilmatli, that is, a mantle woven of white and blue. When he went to the temple, he wore a white garment. That in which he clothed himself to attend the council and other public functions was different according to the quality and the circumstances: one for civil cases and another for criminal ones; one for acts of justice, and another for the
 
-P2                 rejoicings
-
-[p. 116]
-
-rejoicings. On all these occasions he always wore the crown.
+P2                 rejoicings [p. 116] rejoicings. On all these occasions he always wore the crown.
 
 Bk. VII. Whenever he went out, he was accompanied by a great retinue of no‐
 
@@ -4846,11 +4486,7 @@ fathers, not according to the order of their birth, but according to
 
 their rank, since the sons
 
-born
-
-[p. 117]
-
-born of the queen or principal wife were always preferred. This was observed from the first Chichimec king Xolotl down to Cacamatzin, Bk. VII. to whom his brother Cuicuitzcatzin succeeded through the intrigues of Moctezuma and of the Conqueror Cortés.
+born [p. 117] born of the queen or principal wife were always preferred. This was observed from the first Chichimec king Xolotl down to Cacamatzin, Bk. VII. to whom his brother Cuicuitzcatzin succeeded through the intrigues of Moctezuma and of the Conqueror Cortés.
 
 The king of Mexico, like the king of Acolhuacan, had three § 10. supreme councils composed of men of the first nobility, in which Royal councils, and
 
@@ -4922,11 +4558,7 @@ them. When the harangue was ended, the ambassadors returned to
 
 their lodging. In the meantime the lord consulted with his council,
 
-and
-
-[p. 119]
-
-and made known his decision to the ambassadors through his ministers; he supplied them abundantly with provisions for the journey, Bk. VII. made them some presents besides, and those very persons who had received them went out to see them on their way beyond the place. If the lord to whom the embassy was addressed was a friend of the Mexicans, it was thought a great dishonor not to accept the presents; but if he was an enemy, the ambassadors could not receive them without the express order of their master. These ceremonies were not always all observed in embassies, nor were all embassies sent to the lord of the city or of the state; for some, as we shall say below, were sent to the body of the nobility, or else to the people.
+and [p. 119] and made known his decision to the ambassadors through his ministers; he supplied them abundantly with provisions for the journey, Bk. VII. made them some presents besides, and those very persons who had received them went out to see them on their way beyond the place. If the lord to whom the embassy was addressed was a friend of the Mexicans, it was thought a great dishonor not to accept the presents; but if he was an enemy, the ambassadors could not receive them without the express order of their master. These ceremonies were not always all observed in embassies, nor were all embassies sent to the lord of the city or of the state; for some, as we shall say below, were sent to the body of the nobility, or else to the people.
 
 § 12.
 
@@ -4934,11 +4566,7 @@ The couriers, whom the Mexicans often employed, wore different Couriers and post
 
 The people, rejoicing at the sight of him, conducted him with such demonstrations to the royal palace. In order that the message might arrive the more promptly, there stood along the highroads of the kingdom certain small towers about six miles apart from one another, where couriers were always ready to set out upon a journey. As soon as the first courier was dispatched, he ran as swiftly as he could to the first post, or little tower, where he communicated the message to another, and handed over to him, if there happened to be any, the paintings that represented the news or the business and served them as letters. This
 
-second
-
-[p. 120]
-
-second courier ran without delay to the second post: and so, in a con‐
+second [p. 120] second courier ran without delay to the second post: and so, in a con‐
 
 Bk. VII.
 
@@ -5004,21 +4632,13 @@ his
 
 language, which was spoken in the island of Hispaniola. The Mexicans called the lord
 
-Tlatoani, and the noble Pilli and Teuctli.
-
-[p. 121]
-
-his nasal cartilage, in order then to hang from it certain grains of gold, which were the principal insignia of the dignity. On the day of Bk. VII. taking possession they stripped him of the sorry garment in which he had been clothed during the time of his penance, and dressed him in the most sumptuous finery; they bound his hair with a strip of leather dyed red, from which hung pretty feathers, and hung the grains of gold from his nose. This ceremony was performed by a priest in the upper court of the great temple, who, after conferring the dignity on him, delivered a congratulatory harangue. Then he went down to the lower court, where he took part with the nobility in a great dance that was held there, which was followed by a magnificent banquet, given at his expense to all the lords of the state; besides the countless garments that were presented to them, food was provided in such abundance that, according to some authors, fourteen hundred, and even sixteen hundred, turkeys were consumed, together with very many rabbits, deer, and other animals, an incredible quantity of cacao in a number of drinks, and the most exquisite and delicate fruits of those lands. The title of Teuctli was added, as a surname, to the proper name of the persons raised to this dignity, as in Chichimeca-teuctli, Pil-teuctli, and others. The Teuctli took precedence over all the others in the senate, both in sitting and in voting, and might have a servant follow them carrying a chair, which was esteemed a privilege of the highest honor.
+Tlatoani, and the noble Pilli and Teuctli. [p. 121] his nasal cartilage, in order then to hang from it certain grains of gold, which were the principal insignia of the dignity. On the day of Bk. VII. taking possession they stripped him of the sorry garment in which he had been clothed during the time of his penance, and dressed him in the most sumptuous finery; they bound his hair with a strip of leather dyed red, from which hung pretty feathers, and hung the grains of gold from his nose. This ceremony was performed by a priest in the upper court of the great temple, who, after conferring the dignity on him, delivered a congratulatory harangue. Then he went down to the lower court, where he took part with the nobility in a great dance that was held there, which was followed by a magnificent banquet, given at his expense to all the lords of the state; besides the countless garments that were presented to them, food was provided in such abundance that, according to some authors, fourteen hundred, and even sixteen hundred, turkeys were consumed, together with very many rabbits, deer, and other animals, an incredible quantity of cacao in a number of drinks, and the most exquisite and delicate fruits of those lands. The title of Teuctli was added, as a surname, to the proper name of the persons raised to this dignity, as in Chichimeca-teuctli, Pil-teuctli, and others. The Teuctli took precedence over all the others in the senate, both in sitting and in voting, and might have a servant follow them carrying a chair, which was esteemed a privilege of the highest honor.
 
 The Mexican nobility was for the most part hereditary. Up to the downfall of the empire very many families descended from those illustrious Aztecs who founded Mexico were preserved in great splendor, and to this day several branches of those most ancient houses survive, but for the most part abased by poverty and mingled with the most obscure rabble. (a) There is no doubt that the policy
 
 History of Mexico, Vol. II.                      Q                           of
 
-(a) One cannot see without sorrow the abasement to which many of the most illustrious families of that kingdom are reduced. Not long ago a locksmith, a descendant of the ancient kings of Michoacán, was executed; I knew in Mexico City a poor tailor, a descendant of a most noble house of Coyoacán,
-
-[p. 122]
-
-of the Spaniards would have been wiser if, instead of bringing women
+(a) One cannot see without sorrow the abasement to which many of the most illustrious families of that kingdom are reduced. Not long ago a locksmith, a descendant of the ancient kings of Michoacán, was executed; I knew in Mexico City a poor tailor, a descendant of a most noble house of Coyoacán, [p. 122] of the Spaniards would have been wiser if, instead of bringing women
 
 Bk. VII.
 
@@ -5084,11 +4704,7 @@ Acolhuacan, and of Tacuba themselves, the repeated orders given in their favor b
 
 the clemency and equity of the Catholic Kings not having sufficed to preserve them
 
-from the common misfortune.
-
-[p. 123]
-
-moreover the obligation of attending upon the king and accompanying him every time he let himself be seen in public, and for this rea‐ Bk. VII. son they were highly esteemed by everyone. When one of these lords died, his eldest son entered into possession of the lands with all the obligations of his father; but if he went to settle in another place, he lost them, and then the king granted them to another usufructuary, or else left the choice of him to the discretion of the community in whose district the lands were situated.
+from the common misfortune. [p. 123] moreover the obligation of attending upon the king and accompanying him every time he let himself be seen in public, and for this rea‐ Bk. VII. son they were highly esteemed by everyone. When one of these lords died, his eldest son entered into possession of the lands with all the obligations of his father; but if he went to settle in another place, he lost them, and then the king granted them to another usufructuary, or else left the choice of him to the discretion of the community in whose district the lands were situated.
 
 The lands which they called Pillalli, that is, lands of the nobles, were ancient possessions of the nobles, transmitted by inheritance from fathers to sons, or else were grants obtained from the king in reward for services rendered to the crown. The holders of both kinds could for the most part alienate their possessions, but could neither give nor sell them to commoners. I said for the most part, because among these lands there were some granted by the king on condition that they might not be alienated, but must be left by inheritance to their sons.
 
@@ -5170,11 +4786,7 @@ they
 
 tance of six hundred Castilian braccia, which make two hundred fifty-seven perches
 
-of Paris.
-
-[p. 125]
-
-they inflicted on the tributaries. Their insignia were a rod, which they Bk. VII. carried in one hand, and a fan of feathers in the other. The king's
+of Paris. [p. 125] they inflicted on the tributaries. Their insignia were a rod, which they Bk. VII. carried in one hand, and a fan of feathers in the other. The king's
 
 treasurers had paintings in which the tributary places and the quanti‐
 
@@ -5238,11 +4850,7 @@ Collection are lacking, besides the many errors that are in the interpretation; 
 
 has over that of Thévenot the advantages of having the figures of the cities, and of
 
-having them all engraved on copper.
-
-[p. 126]
-
-sixteen thousand balls of ule, or elastic resin. Tepeyacac, Quecholac, Bk. VII.
+having them all engraved on copper. [p. 126] sixteen thousand balls of ule, or elastic resin. Tepeyacac, Quecholac, Bk. VII.
 
 Tecamachalco, Acatzingo, and other places of that district, four thou‐
 
@@ -5304,11 +4912,7 @@ These excessive contributions, together with the great presents
 
 that the governors of the provinces and the
 
-feudatory
-
-[p. 127]
-
-feudatory lords made to the king, and the spoils of war, formed that great wealth of the court which caused so much admiration among Bk. VII. the Spanish conquerors, and so much misery to the unfortunate subjects. The tributes, which at the beginning were quite light, later became excessive; for with the conquests the pride and the pomp of the kings increased. It is true that a great part, and perhaps the greatest, of these revenues was spent for the benefit of the subjects themselves, now maintaining a great number of ministers and magistrates for the administration of justice, now rewarding those who had deserved well of the state, now relieving the needy, especially widows, orphans, and the infirm aged, who were the three classes of people that deserved the greatest compassion from the Mexicans, now opening the royal granaries to the people in time of famine; but how many unhappy commoners, of those who could hardly pay the tribute imposed on them, must have been overwhelmed by misery because the royal beneficence did not reach them? To the excessive burdens was added the rigor with which they were collected. He who did not pay the tribute was sold as a slave, in order to draw from his liberty what could not be drawn from his industry.
+feudatory [p. 127] feudatory lords made to the king, and the spoils of war, formed that great wealth of the court which caused so much admiration among Bk. VII. the Spanish conquerors, and so much misery to the unfortunate subjects. The tributes, which at the beginning were quite light, later became excessive; for with the conquests the pride and the pomp of the kings increased. It is true that a great part, and perhaps the greatest, of these revenues was spent for the benefit of the subjects themselves, now maintaining a great number of ministers and magistrates for the administration of justice, now rewarding those who had deserved well of the state, now relieving the needy, especially widows, orphans, and the infirm aged, who were the three classes of people that deserved the greatest compassion from the Mexicans, now opening the royal granaries to the people in time of famine; but how many unhappy commoners, of those who could hardly pay the tribute imposed on them, must have been overwhelmed by misery because the royal beneficence did not reach them? To the excessive burdens was added the rigor with which they were collected. He who did not pay the tribute was sold as a slave, in order to draw from his liberty what could not be drawn from his industry.
 
 § 16.
 
@@ -5318,11 +4922,7 @@ Acolhuacan. dom, there was a supreme magistrate called Cihuacoatl, whose authori
 
 Inferior to this, though quite considerable, was the tribunal of the Tlacatecatl, which was composed of three judges, namely the Tlacatecatl, who was the chief and from whom the tribunal took its name, and two others, whom they called Quauhnochtli and Tlailotlac. They took cognizance of civil and criminal cases in the first and in the second instance, although the sentence
 
-was
-
-[p. 128]
-
-was pronounced in the name of the Tlacatecatl alone. Every day they Bk. VII.
+was [p. 128] was pronounced in the name of the Tlacatecatl alone. Every day they Bk. VII.
 
 assembled in a hall of the house of the community, which they called
 
@@ -5390,21 +4990,13 @@ kingdom of Mexico) their possessions, and peasants to cultivate their
 
 fields:
 
-these
-
-[p. 129]
-
-these possessions, belonging to the office and not to the person, did not pass to the heirs, but to the successors in the office of magistrate. Bk. VII. In grave cases they could not pass sentence (at least in the capital) without giving an account to the king. In the court, every Mexican month, or every twenty days, an assembly of all the judges was held before the king to conclude all the pending cases. If, because they were too complicated, they could not then be finished, they were reserved for another general and more solemn assembly, which was held every eighty days and was therefore called Nappapohuallatolli, that is, Conference of the Eighty, in which all the cases were wholly concluded, and there, before the whole assembly, punishment was inflicted on the convicted culprits. The king gave the sentence by making with the point of an arrow a line on the culprit's head, as painted in the record of the trial.
+these [p. 129] these possessions, belonging to the office and not to the person, did not pass to the heirs, but to the successors in the office of magistrate. Bk. VII. In grave cases they could not pass sentence (at least in the capital) without giving an account to the king. In the court, every Mexican month, or every twenty days, an assembly of all the judges was held before the king to conclude all the pending cases. If, because they were too complicated, they could not then be finished, they were reserved for another general and more solemn assembly, which was held every eighty days and was therefore called Nappapohuallatolli, that is, Conference of the Eighty, in which all the cases were wholly concluded, and there, before the whole assembly, punishment was inflicted on the convicted culprits. The king gave the sentence by making with the point of an arrow a line on the culprit's head, as painted in the record of the trial.
 
 In the trials of the Mexicans the parties themselves made their own pleadings; at least we do not know that there were advocates. In criminal cases the plaintiff was not allowed any other proof than that of witnesses; but the accused could clear himself by oath. In disputes over the boundaries of possessions the paintings of the lands were consulted, as authentic documents.
 
 All the magistrates had to judge according to the laws of the kingdom, which they had expressed in paintings. Of these I have seen many, and from them I have drawn a part of what I shall say on this subject. The power of making laws in Texcoco always resided in the kings, who rigorously saw to it that those they published were observed. Among the Mexicans the first laws were made, as it seems to us, by the body of the nobility; but afterwards the kings were the lawgivers of the nation, and so long as their authority remained within just limits, they were zealous for the observance of those laws which they or their predecessors had promulgated. In the last years of the monarchy despotism altered them and changed them according to caprice. We shall recall here those that were in force when the Spaniards entered Mexico. In some of them will be seen to stand out a certain prudence, and humanity,
 
-History of Mexico, Vol. II.                  R                      and
-
-[p. 130]
-
-and great zeal for good morals; but in others an excessive rigor, which Bk. VII. degenerated into cruelty.
+History of Mexico, Vol. II.                  R                      and [p. 130] and great zeal for good morals; but in others an excessive rigor, which Bk. VII. degenerated into cruelty.
 
 The traitor to the king or to the state was torn to pieces, and his
 
@@ -5468,11 +5060,7 @@ Adultery was punished irremissibly with the penalty of death.
 
 Adulterers were stoned, or else they crushed their
 
-heads
-
-[p. 131]
-
-heads between two stones. This law, which prescribed the stoning of
+heads [p. 131] heads between two stones. This law, which prescribed the stoning of
 
 Bk. VII. adulterers, is one of those that I have seen represented in the ancient paintings preserved in the library of the Colegio Máximo of the Jesuits in Mexico City. It is seen also in the last painting of the Mendoza Collection, and Gómara, Torquemada, and other authors make mention of it. But the sin of the husband with some free woman, or one not bound by matrimony, was not reckoned adultery, or at least was not punished; so that they did not oblige the husband to as much fidelity as they required of the wife. Throughout the whole empire this crime was punished, but in some places with greater rigor than in others. In Ichcatlan the woman accused of adultery appeared before the judges, and if the proofs of the crime were convincing, the penalty was inflicted on her there without delay, by tearing her to pieces and dividing the pieces among the witnesses. In Itztepec the infidelity of the woman was punished, by sentence of the magistrates, by her husband, who cut off her nose and ears. In some parts of the empire the husband who had union with his wife was punished with the penalty of death, when it was established that she had already failed in fidelity.
 
@@ -5480,11 +5068,7 @@ Repudiation was not lawful without the permission of the magistrates. He who wis
 
 Those guilty of incest in the first degree of consanguinity or of affinity were hanged, and all marriages between persons related in that degree were severely forbidden by the laws, except that between in-laws; for among the Mexicans, as among the Hebrews, there was the custom that the brothers of a deceased husband married the widowed sisters-in-law;
 
-R2                      but
-
-[p. 132]
-
-but there was between the one and the other a great difference; for Bk. VII.
+R2                      but [p. 132] but there was between the one and the other a great difference; for Bk. VII.
 
 among the Hebrews such a marriage took place only when the hus‐
 
@@ -5548,11 +5132,7 @@ of
 
 (d) See what we say in our Dissertations against the Researcher, who has renewed so
 
-atrocious a calumny against the Americans.
-
-[p. 133]
-
-of pine, and smeared her head with the turpentine of the same wood. The
+atrocious a calumny against the Americans. [p. 133] of pine, and smeared her head with the turpentine of the same wood. The
 
 Bk. VII. more distinguished the persons whom she served in such a trade, the heavier the penalties imposed on her.
 
@@ -5650,11 +5230,7 @@ Needy parents could sell some of their children to relieve their necessity, and 
 
 The persons who sold themselves were for the most part gamblers, to stake the price of their liberty at play; those who through their sloth, or through some misfortune, found themselves reduced to misery; and prostitutes, to procure themselves finery to make a show in; since such women among the Mexicans generally sought no other advantage in their disorders
 
-than
-
-[p. 136]
-
-than that of their own pleasure. It did not grieve the Mexicans as
+than [p. 136] than that of their own pleasure. It did not grieve the Mexicans as
 
 Bk. VII. much to become slaves as it does other peoples, because the condition of their slavery was not so hard. The labors of slaves were moderate, and the treatment by their masters was for the most part kind, and the masters, when dying, commonly left them free. The ordinary price of a slave was a load of cotton garments.
 
@@ -5678,11 +5254,7 @@ According to the laws published by the celebrated King Nezahualcoyotl, the thief
 
 History of Mexico, Vol. II.                   S                      the
 
-(*) The law against lying historians is attested by Don Fernando de Alva Ixtlilxochitl, a descendant of that lawgiver, in his valuable manuscripts.
-
-[p. 138]
-
-the penalty of death the thieves of the fields, declaring that the steal‐
+(*) The law against lying historians is attested by Don Fernando de Alva Ixtlilxochitl, a descendant of that lawgiver, in his valuable manuscripts. [p. 138] the penalty of death the thieves of the fields, declaring that the steal‐
 
 Bk. VII.
 
@@ -5746,11 +5318,7 @@ to provide the prisons with guards, was obliged to pay the master of
 
 the fugitive
 
-a
-
-[p. 139]
-
-a slave, a load of cotton garments, and a buckler.
+a [p. 139] a slave, a load of cotton garments, and a buckler.
 
 Bk. VII.
 
@@ -5764,11 +5332,7 @@ The supreme military dignity was that of general of the army; but there were fou
 
 S2                             to
 
-(*) Some authors say that Tlacochcalcatl signifies prince of the darts; but in truth it means nothing other than dweller in the armory, or house of the darts.
-
-[p. 140]
-
-to the first; nor do we even know their names, because of the variety Bk. VII.
+(*) Some authors say that Tlacochcalcatl signifies prince of the darts; but in truth it means nothing other than dweller in the armory, or house of the darts. [p. 140] to the first; nor do we even know their names, because of the variety Bk. VII.
 
 that we find in the authors. (f) After the generals came the captains,
 
@@ -5830,11 +5394,7 @@ Ezhuahuacatl, and adds that these were the names of the four electors. Torquemad
 
 uses the name Tlacatecatl; but sometimes he makes this rank inferior to that of the
 
-Tlacochcalcatl, and sometimes he confuses the two.
-
-[p. 141]
-
-and to wear shoes more elegant than those of the common people,
+Tlacochcalcatl, and sometimes he confuses the two. [p. 141] and to wear shoes more elegant than those of the common people,
 
 Bk. VII. which was not permitted to soldiers until they had by their deeds earned some advancement in the militia. There was a particular garment called Tlatatziuhqui, destined as a reward for that soldier who by his example encouraged the disheartened army to continue the battle vigorously.
 
@@ -5854,11 +5414,7 @@ of
 
 (g) All these royal insignia had their particular names. They called the boots cozehuatl, the armlets Matemecatl, the bracelets Matzopeztli, the emerald of the lip Tentetl, the earrings Nacochtli, the necklace Cozcapetlatl, and the principal insignia of feathers Quachictli.
 
-(h) Solís claims that the shield was used by none but lords; but the Anonymous Conqueror, who often saw the Mexicans under arms and found himself in many battles against them, says expressly that these arms were common to all. There is no author who speaks more exactly than he of the arms of the Mexicans.
-
-[p. 142]
-
-of large tortoise shells, trimmed with copper, silver, or gold according Bk. VII.
+(h) Solís claims that the shield was used by none but lords; but the Anonymous Conqueror, who often saw the Mexicans under arms and found himself in many battles against them, says expressly that these arms were common to all. There is no author who speaks more exactly than he of the arms of the Mexicans. [p. 142] of large tortoise shells, trimmed with copper, silver, or gold according Bk. VII.
 
 to the rank they held in the militia and their means. These were of a
 
@@ -5924,11 +5480,7 @@ conquerors, make mention of these large shields.
 
 [PDF 148]
 
-Mexican armor.
-
-[p. 143]
-
-nobles wore a fine plume on the head, contriving by such additions to
+Mexican armor. [p. 143] nobles wore a fine plume on the head, contriving by such additions to
 
 Bk. VII. make their stature appear more imposing. The common soldiers went entirely naked, with no other garment than the Maxtlatl, or girdle, with which they covered their nakedness; but they feigned the clothing they lacked with the various colors with which they painted their bodies. The European historians, who show themselves so amazed at this and at other extravagant customs of the Americans, do not perceive how common such customs were among the ancient nations of Europe itself.
 
@@ -5950,11 +5502,7 @@ the
 
 (K) Herrera says that they fastened flints to their swords with the viscous juice of a certain root, called cacotle, mixed with the blood of bats; but they neither used flints in their swords nor, to fasten the razors of itztli, used anything but lac, which, because of some resemblance to the dung of bats, they called Tzinacancuitlatl, and from this name alone the error of that chronicler arose.
 
-(L) Dr. Hernández says that with a blow of the maquahuitl a man could be cut in half, and the Anonymous Conqueror attests that he saw in a battle a Mexican who, with a blow he dealt a horse in the belly, made its entrails come out, and another who, with a similar blow dealt another horse on the head, stretched it dead at his feet.
-
-[p. 145]
-
-the darts with a cord, (*) in order to draw them back after wounding.
+(L) Dr. Hernández says that with a blow of the maquahuitl a man could be cut in half, and the Anonymous Conqueror attests that he saw in a battle a Mexican who, with a blow he dealt a horse in the belly, made its entrails come out, and another who, with a similar blow dealt another horse on the head, stretched it dead at his feet. [p. 145] the darts with a cord, (*) in order to draw them back after wounding.
 
 Bk. VII. This was the weapon most feared by the Spanish conquerors; for they used to hurl it with such force that they pierced a man through and through. The soldiers for the most part went armed at once with sword, bow and arrows, dart, and sling. We do not know whether they also used their axe for war, of which we shall speak below.
 
@@ -5966,11 +5514,7 @@ History of Mexico, Vol. II.                         T                          l
 
 (*) The Mexican dart was of that sort of darts which the Romans called hastile, jaculum, or telum amentatum, and the Spanish name amento or amiento, which the historians of Mexico use, means the same as the amentum of the Latins.
 
-(M) Gómara says that the ensign of the republic of Tlaxcala was a crane; but other historians better informed than he affirm that it was an eagle.
-
-[p. 146]
-
-last years of the empire, to the general, and those of the companies,
+(M) Gómara says that the ensign of the republic of Tlaxcala was a crane; but other historians better informed than he affirm that it was an eagle. [p. 146] last years of the empire, to the general, and those of the companies,
 
 Bk. VII.
 
@@ -6036,11 +5580,7 @@ the war; and sometimes, according to what one historian says, so
 
 effective
 
-were
-
-[p. 147]
-
-were the reasons proposed by the ambassadors, and so vividly did they exaggerate the advantages of peace and the inconveniences of Bk. VII. war, that some accommodation was arrived at. They were also accustomed to send with the ambassadors the idol of Huitzilopochtli, requiring those who caused the war to give him a place among their gods. If these found themselves with forces sufficient to resist, they rejected the proposal and dismissed the foreign god; but if they did not find themselves in a condition to sustain the war, they received the idol and placed it among their provincial gods, and answered the embassy with a good present of gold, and of gems, or of beautiful feathers, protesting their submission to the sovereign.
+were [p. 147] were the reasons proposed by the ambassadors, and so vividly did they exaggerate the advantages of peace and the inconveniences of Bk. VII. war, that some accommodation was arrived at. They were also accustomed to send with the ambassadors the idol of Huitzilopochtli, requiring those who caused the war to give him a place among their gods. If these found themselves with forces sufficient to resist, they rejected the proposal and dismissed the foreign god; but if they did not find themselves in a condition to sustain the war, they received the idol and placed it among their provincial gods, and answered the embassy with a good present of gold, and of gems, or of beautiful feathers, protesting their submission to the sovereign.
 
 In case war had to be made, before anything else notice was given to the enemies, so that they might prepare for defense, since they considered it a cowardice, utterly unworthy of courageous men, to assail the unprepared; and for that purpose some shields, which were a token of challenge, and some cotton garments were sent ahead. If one king challenged another, the ceremony was added of anointing him and of fastening feathers to his head by means of the ambassador, as happened in the challenge of King Itzcoatl to the Tyrant Maxtla. Then they dispatched spies, to whom they gave the name of Quimichtin, or mice, so that, disguised, they might go into the enemy's country to observe their movements and the number and quality of the troops that were being made ready. If these men succeeded in their commission, they were well rewarded.
 
@@ -6114,11 +5654,7 @@ came out routed from the capital. When some enemy, already beaten,
 
 strove to save himself by flight, they cut
 
-his
-
-[p. 149]
-
-his hamstrings, so that he could not escape. When they saw the stan‐
+his [p. 149] his hamstrings, so that he could not escape. When they saw the stan‐
 
 Bk. VII. dard of the army taken by the enemy, or their general dead, they all fled, and then no human force was capable of restraining them.
 
@@ -6130,11 +5666,7 @@ When some city was about to be besieged, the greatest concern of the besieged wa
 
 For the defense of places they used various kinds of fortifications, Fortifications. such as walls, and bulwarks with their parapets, stockades, ditches, and trenches. Of the city of Cuauhquechollan
 
-we
-
-[p. 150]
-
-we know to have been fortified with a good wall of stone and lime, Bk. VII. about twenty feet high and twelve thick. (*)
+we [p. 150] we know to have been fortified with a good wall of stone and lime, Bk. VII. about twenty feet high and twelve thick. (*)
 
 The conquerors, who describe to us the fortifications of this city,
 
@@ -6206,11 +5738,7 @@ gives the name of bitumen to the cement which those nations used.
 
 Gateway in the walls of the cities.
 
-Mexican shields. Mexican sword.
-
-[p. 151]
-
-unless by climbing many very high and narrow steps; for such were
+Mexican shields. Mexican sword. [p. 151] unless by climbing many very high and narrow steps; for such were
 
 Bk. VII. for the most part the entrances of their fortresses. From this ancient edifice, now covered with undergrowth through the neglect of those peoples, a gentleman of Córdoba extracted a few years ago several well-worked stone statues, to adorn his house with them. Near the ancient court of Texcoco a part is preserved of the high wall that surrounded the city of Coatlichan. I wish that my countrymen would try to preserve these few remains of the military architecture of the Mexicans, since they have let so many other precious things of their antiquity perish. (o)
 
@@ -6220,11 +5748,7 @@ But the most singular fortifications of Mexico were the temples themselves, and 
 
 a
 
-(o) These scanty reports of those remains of Mexican antiquity, obtained from eyewitnesses worthy of all credit, persuade us that there are still many others of which we are ignorant through the indifference of my countrymen. See what we say concerning these antiquities in our Dissertations against M. de P. and Dr. Robertson.
-
-[p. 152]
-
-a citadel. The wall that surrounded the whole enclosure of the tem‐
+(o) These scanty reports of those remains of Mexican antiquity, obtained from eyewitnesses worthy of all credit, persuade us that there are still many others of which we are ignorant through the indifference of my countrymen. See what we say concerning these antiquities in our Dissertations against M. de P. and Dr. Robertson. [p. 152] a citadel. The wall that surrounded the whole enclosure of the tem‐
 
 Bk. VII.
 
@@ -6296,11 +5820,7 @@ plants that float on the lake, and above all the mud which they draw
 
 from the bottom of the same lake. Their regular figure is oblong:
 
-the
-
-[p. 153]
-
-the length and the breadth vary; but for the most part they are, as it seems to me, about eight perches in length, not more than three in Bk. VII. breadth, and less than a foot in elevation above the surface of the water. These were the first fields which the Mexicans had after the founding of Mexico, in which they cultivated maize, chili pepper, and other plants necessary to their sustenance. In the time that followed, when they had multiplied excessively through the industry of that people, there were also gardens of flowers and of fragrant herbs, which were used for the worship of the gods and for the delight of the lords. At present flowers and every sort of vegetable are cultivated there. Every day of the year at the break of dawn there are seen arriving by the canal at the great square of that capital countless boats laden with many kinds of flowers and herbs cultivated in those gardens. Everything grows there marvelously; for the mud of the lake is most fertile, besides which it has no need of the water of heaven. In the larger gardens there is usually some shrub, and even a hut, for the cultivator to take shelter in and to protect himself from the rain and the sun. When the owner of some garden, or, as they commonly call it, Chinampa, wishes to move to another site, whether to get away from a harmful neighbor or to be nearer his family, he gets into his boat, and by himself, if the garden is small, or helped by others, if it is large, tows it behind him and takes it wherever he wishes, together with the hut and the shrubs. That part of the lake where these gardens and flower gardens are is a place of recreation supremely delightful, where the senses take the sweetest pleasure in the world.
+the [p. 153] the length and the breadth vary; but for the most part they are, as it seems to me, about eight perches in length, not more than three in Bk. VII. breadth, and less than a foot in elevation above the surface of the water. These were the first fields which the Mexicans had after the founding of Mexico, in which they cultivated maize, chili pepper, and other plants necessary to their sustenance. In the time that followed, when they had multiplied excessively through the industry of that people, there were also gardens of flowers and of fragrant herbs, which were used for the worship of the gods and for the delight of the lords. At present flowers and every sort of vegetable are cultivated there. Every day of the year at the break of dawn there are seen arriving by the canal at the great square of that capital countless boats laden with many kinds of flowers and herbs cultivated in those gardens. Everything grows there marvelously; for the mud of the lake is most fertile, besides which it has no need of the water of heaven. In the larger gardens there is usually some shrub, and even a hut, for the cultivator to take shelter in and to protect himself from the rain and the sun. When the owner of some garden, or, as they commonly call it, Chinampa, wishes to move to another site, whether to get away from a harmful neighbor or to be nearer his family, he gets into his boat, and by himself, if the garden is small, or helped by others, if it is large, tows it behind him and takes it wherever he wishes, together with the hut and the shrubs. That part of the lake where these gardens and flower gardens are is a place of recreation supremely delightful, where the senses take the sweetest pleasure in the world.
 
 After the Mexicans, having shaken off the yoke of the Tepanecs, § 28. began by their conquests to procure arable lands for themselves, they Mannerthe land.
 
@@ -6308,11 +5828,7 @@ of cultivating
 
 applied themselves with the greatest diligence to agriculture. Having neither plow, nor oxen, nor other animals to employ in the cultivation of the land, they made up for it with their own labor and with some very simple instruments. To hoe and dig the earth they made use of the Coatl (today Coa), which is an instrument of copper with a wooden handle, but different from the hoe, and
 
-History of Mexico, Vol. II.                    V                       from
-
-[p. 154]
-
-from the spade. To cut trees they used their axe, likewise of copper, Bk. VII.
+History of Mexico, Vol. II.                    V                       from [p. 154] from the spade. To cut trees they used their axe, likewise of copper, Bk. VII.
 
 which was of the same shape as ours, except that where ours has its
 
@@ -6376,11 +5892,7 @@ greater
 
 (*) The slowness is not as great as it appears; for the peasants, accustomed to such
 
-an exercise, do it with a surprising speed.
-
-[p. 155]
-
-greater exactness the quantity of seed to the strength of the soil, be‐
+an exercise, do it with a surprising speed. [p. 155] greater exactness the quantity of seed to the strength of the soil, be‐
 
 Bk. VII. sides which almost none of the grain sown is lost. In fact, the harvests in fields cultivated in this way are much more abundant. When the maize plant reaches a certain size, they cover its foot with a mound of earth, so that it may be better nourished and may the more resist the blows of the winds.
 
@@ -6394,11 +5906,7 @@ granaries. and granaries for keeping the grain. Their granaries were square, and
 
 V2                        a
 
-(**) A Castilian measure for dry things, of which we have made mention elsewhere.
-
-[p. 156]
-
-a person well versed in agriculture told me, grain keeps better there
+(**) A Castilian measure for dry things, of which we have made mention elsewhere. [p. 156] a person well versed in agriculture told me, grain keeps better there
 
 Bk. VII.
 
@@ -6464,11 +5972,7 @@ which Cortés and Díaz make mention as eyewitnesses, was planted,
 
 or at least enlarged and improved, by Cuitláhuac, brother and
 
-successor
-
-[p. 157]
-
-successor to Moctezuma II in the kingdom. He had many foreign Bk. VII.
+successor [p. 157] successor to Moctezuma II in the kingdom. He had many foreign Bk. VII.
 
 trees transplanted there, as Dr. Hernández attests, who saw them.
 
@@ -6534,11 +6038,7 @@ sown, two thousand cacao plants set out, and a great pond made there, where five
 
 hundred ducks were raised, as also in the houses fifteen hundred turkeys, or
 
-American peacocks.
-
-[p. 158]
-
-private advantage to the public good, cut down the groves without
+American peacocks. [p. 158] private advantage to the public good, cut down the groves without
 
 Bk. VII. any regard in order to enlarge their fields. (q)
 
@@ -6604,11 +6104,7 @@ for its buildings from the wood that was on the neighboring Mount Cimatario. Tod
 
 it is necessary to bring it from afar, because that mountain is now entirely bare of
 
-trees.
-
-[p. 159]
-
-and that there has never been a nation that could be compared to the
+trees. [p. 159] and that there has never been a nation that could be compared to the
 
 Bk. VII. Mexicans in the care of so many species of animals, or in the knowledge of their inclinations, of the food suitable to each, and of all the means for their preservation and for their propagation.
 
@@ -6684,11 +6180,7 @@ The same viceroy betook himself with a great retinue of Spaniards to
 
 the aforesaid plain,
 
-where
-
-[p. 161]
-
-where lodging had been prepared for him in wooden houses built for the purpose. Eleven thousand Otomis formed a circle of more than Bk. VII. fifteen miles, and having done all that we have indicated, there gathered so much game into the plain that the viceroy, full of wonder, commanded that the greater part of it be set at liberty, as in fact was done; nevertheless the animals hunted were so many that it would not be credible, had it not been a public fact, attested by many, and among others by a witness worthy of the highest credit. (*) More than six hundred deer and wild goats were killed, more than a hundred coyotes, and a surprising number of hares, rabbits, and other quadrupeds. That plain still preserves the Spanish name which was then given it, Cazadero, or place of the hunt.
+where [p. 161] where lodging had been prepared for him in wooden houses built for the purpose. Eleven thousand Otomis formed a circle of more than Bk. VII. fifteen miles, and having done all that we have indicated, there gathered so much game into the plain that the viceroy, full of wonder, commanded that the greater part of it be set at liberty, as in fact was done; nevertheless the animals hunted were so many that it would not be credible, had it not been a public fact, attested by many, and among others by a witness worthy of the highest credit. (*) More than six hundred deer and wild goats were killed, more than a hundred coyotes, and a surprising number of hares, rabbits, and other quadrupeds. That plain still preserves the Spanish name which was then given it, Cazadero, or place of the hunt.
 
 Besides the ordinary way of hunting they had others, peculiar and suited to the nature of the animals. To catch monkeys they made a little fire in the wood, and placed among the embers a certain species of stone called by them Cacalotetl (stone of the Raven, or black), which has the property of bursting with great noise when it is well heated. They covered the fire with earth, and scattered a little maize around it. The monkeys, attracted by the grain, ran up, bringing their young with them, and while they were pleasantly eating, the stone burst: they fled in terror, leaving their young in danger, and the hunters, placed in ambush, seized them before the mothers could return to take them back.
 
@@ -6756,11 +6248,7 @@ tions beyond the tropic, persecuted by their enemies the Apaches; for by touch a
 
 ing the footprints of their enemies they know approximately the time at which they passed
 
-there. I hear the same said of the Yucatecans.
-
-[p. 163]
-
-the manner of performing so bold an action against so terrible a beast. The other method, still used by some, is the very one once em‐ Bk. VII. ployed by the Egyptians against the celebrated crocodiles of the Nile. The fisherman presented himself to the crocodile carrying in his hand a stout stick sharpened at both ends, and when that beast opened its mouth to devour him, he put his armed arm into its jaws, and the crocodile, wishing to close its mouth, was transfixed by both points of the stick. The fisherman waited until it was weakened by the loss of blood, and then killed it.
+there. I hear the same said of the Yucatecans. [p. 163] the manner of performing so bold an action against so terrible a beast. The other method, still used by some, is the very one once em‐ Bk. VII. ployed by the Egyptians against the celebrated crocodiles of the Nile. The fisherman presented himself to the crocodile carrying in his hand a stout stick sharpened at both ends, and when that beast opened its mouth to devour him, he put his armed arm into its jaws, and the crocodile, wishing to close its mouth, was transfixed by both points of the stick. The fisherman waited until it was weakened by the loss of blood, and then killed it.
 
 Fishing, hunting, agriculture, and the arts furnished the Mexicans §Trade.
 
@@ -6772,11 +6260,7 @@ In all the places of the Mexican empire, and of the whole vast country of Anahua
 
 Now to give some idea of these markets, or rather fairs, so celebrated by the historians of Mexico
 
-X2                       it
-
-[p. 164]
-
-it will suffice to say what that of the capital was. This market, until Bk. VII.
+X2                       it [p. 164] it will suffice to say what that of the capital was. This market, until Bk. VII.
 
 the time of King Axayacatl, had been held in a square which lay in
 
@@ -6842,21 +6326,13 @@ for the Anonymous Conqueror, who speaks of it more distinctly, says that between
 
 twenty and twenty-five thousand came daily, and at the great markets between forty
 
-and fifty thousand.
-
-[p. 165]
-
-vanity, or to the curiosity of men: (u) innumerable species of animals, dead as well as living; every sort of foodstuff that was in use among them; all the met‐ Bk. VII. als and gems known to them; all the drugs and medicinal simples, herbs, gums, resins, and mineral earths, as well as the medicines prepared by their physicians, such as drinks, confections, oils, plasters, ointments, etc.; and every sort of manufacture and work of maguei thread, of mountain palm, and of cotton, of feathers, of animal hair, of wood, of stone, of gold, of silver, and of copper. Slaves were also sold, and even whole boats loaded with human dung for tanning the skins of animals. In short, everything was sold in that square that could have been sold in the whole city; for there were no other shops, nor was anything sold outside the market, except foodstuffs. Here came together the potters and jewelers of Cholula, the goldsmiths of Azcapotzalco, the painters of Texcoco, the stonecutters of Tenayuca, the hunters of Xilotepec, the fishermen of Cuitláhuac, the fruit-sellers of the hot countries, the makers of mats and chairs of Cuauhtitlan, and the cultivators of flowers of Xochimilco.
+and fifty thousand. [p. 165] vanity, or to the curiosity of men: (u) innumerable species of animals, dead as well as living; every sort of foodstuff that was in use among them; all the met‐ Bk. VII. als and gems known to them; all the drugs and medicinal simples, herbs, gums, resins, and mineral earths, as well as the medicines prepared by their physicians, such as drinks, confections, oils, plasters, ointments, etc.; and every sort of manufacture and work of maguei thread, of mountain palm, and of cotton, of feathers, of animal hair, of wood, of stone, of gold, of silver, and of copper. Slaves were also sold, and even whole boats loaded with human dung for tanning the skins of animals. In short, everything was sold in that square that could have been sold in the whole city; for there were no other shops, nor was anything sold outside the market, except foodstuffs. Here came together the potters and jewelers of Cholula, the goldsmiths of Azcapotzalco, the painters of Texcoco, the stonecutters of Tenayuca, the hunters of Xilotepec, the fishermen of Cuitláhuac, the fruit-sellers of the hot countries, the makers of mats and chairs of Cuauhtitlan, and the cultivators of flowers of Xochimilco.
 
 Their trade was carried on not only by way of barter, as several authors say, but also by way of true buying and selling. They had five kinds of true money, § 36. though none of it was coined, which served them as a price for buying what Money. they wished. The first was a certain species of cacao, different from that which they used in their daily drinks, which circulated incessantly through the hands of the dealers, as money does among us. They counted the cacao by xiquipilli (which was worth, as we have already said, eight thousand), and to spare themselves the labor of counting, when the merchandise was of great value, they counted by sacks, each sack being reckoned at three xiquipilli, that is, twenty-four thousand almonds. The second kind of money was
 
 ## certain
 
-(u) Whoever reads the description of the market given by Cortés, by Bernal Díaz, and by the Anonymous Conqueror will see that there is no exaggeration in what I say of the variety of the merchandise.
-
-[p. 166]
-
-certain small cotton cloths, which they called Patolquachtli, intended almost
+(u) Whoever reads the description of the market given by Cortés, by Bernal Díaz, and by the Anonymous Conqueror will see that there is no exaggeration in what I say of the variety of the merchandise. [p. 166] certain small cotton cloths, which they called Patolquachtli, intended almost
 
 Bk. VII.
 
@@ -6992,11 +6468,7 @@ hand
 
 of Tlaxcala should perhaps be understood of the market held every five days, as we
 
-have said of that of Mexico.
-
-[p. 168]
-
-hand a black, smooth staff, which, according to them, was the image
+have said of that of Mexico. [p. 168] hand a black, smooth staff, which, according to them, was the image
 
 Bk. VII.
 
@@ -7060,11 +6532,7 @@ solid canes, bound tightly upon large gourds, hard and hollow. Four or
 
 six
 
-passengers
-
-[p. 169]
-
-passengers at a time; and they were conducted from one bank of the river to the other by one, two, or four swimmers, who, holding a cor‐ Bk. VII. ner of the contrivance with one hand, swam with the other. This contrivance is still in use on some rivers distant from the capital, and I crossed a large river of the Mixteca on it in 1739. It is safe where the course of the water is even and tranquil, but dangerous on rapid and impetuous rivers.
+passengers [p. 169] passengers at a time; and they were conducted from one bank of the river to the other by one, two, or four swimmers, who, holding a cor‐ Bk. VII. ner of the contrivance with one hand, swam with the other. This contrivance is still in use on some rivers distant from the capital, and I crossed a large river of the Mixteca on it in 1739. It is safe where the course of the water is even and tranquil, but dangerous on rapid and impetuous rivers.
 
 Their bridges were of stone or of wood; but those of stone were, as it appears, very few. The most singular was the one to which the Spaniards of those countries gave the name Hamaca. This was a braiding of certain ropes, or natural ligaments of a tree, more pliant than osiers, but thicker still and stronger, called in America Bejucos, whose ends they fastened to the trees on the one bank and the other of the rivers, the braiding, or net, remaining suspended in the air like a swing. (*) Such bridges are still seen on some rivers. The Spaniards dare not cross them; but the Indians cross with as much confidence and fearlessness as if they were walking over a stone bridge, paying no heed to the swaying of the Hamaca or to the depth of the river. But, on the other hand, it may be said that, since the ancient Mexicans were good swimmers, they had no need of bridges, except when, because of the rapidity of the water or the weight of the load they carried, they could not cross by swimming.
 
@@ -7072,11 +6540,7 @@ The historians of Mexico tell us nothing of the maritime trade of the Mexicans. 
 
 History of Mexico, Vol. II.                       Y                           of
 
-(*) Some bridges have their ropes stretched so taut that they do not sway, and all have their handrail made of the same ropes.
-
-[p. 170]
-
-of the capital with Texcoco, with Xochimilco, with Chalco, with Cuitláhuac, and with the other
+(*) Some bridges have their ropes stretched so taut that they do not sway, and all have their handrail made of the same ropes. [p. 170] of the capital with Texcoco, with Xochimilco, with Chalco, with Cuitláhuac, and with the other
 
 Bk. VII. cities situated on the lake, was carried on by water, and hence there was that astonishing multi‐
 
@@ -7140,11 +6604,7 @@ Of the copiousness of this language we have a good proof in the Natural History 
 
 Y2                       make
 
-(A) Among the praisers of the Mexican language there have been some French and Flemings, and many Germans, Italians, and Spaniards.
-
-[p. 172]
-
-make use of the Spanish name. But if this author had had any acBk. VII. quaintance with the Mexican language, he would have known that
+(A) Among the praisers of the Mexican language there have been some French and Flemings, and many Germans, Italians, and Spaniards. [p. 172] make use of the Spanish name. But if this author had had any acBk. VII. quaintance with the Mexican language, he would have known that
 
 the Teotl of the Mexicans means the same as the Theos of the Greeks,
 
@@ -7204,11 +6664,7 @@ count to forty-eight millions at least, and we shall
 
 show
 
-(**) The author of the work entitled Recherches philosophiques sur les Américains.
-
-[p. 173]
-
-show how common this language has been among the Spaniards, and
+(**) The author of the work entitled Recherches philosophiques sur les Américains. [p. 173] show how common this language has been among the Spaniards, and
 
 Bk. VII. how well those have known it who have written in it.
 
@@ -7218,11 +6674,7 @@ The manner of speaking in Mexican varies according to the condition of the perso
 
 The Mexicans have, like the Greeks and other nations, the advantage of composing one word out of two, three, or four simple ones; but they do it with greater economy than the Greeks;
 
-for
-
-[p. 174]
-
-for whereas the latter use in composition almost entire words, the
+for [p. 174] for whereas the latter use in composition almost entire words, the
 
 Bk. VII.
 
@@ -7286,11 +6738,7 @@ all their merits. Those who were destined to be orators were from
 
 childhood instructed
 
-in
-
-[p. 175]
-
-in speaking well, and learned by heart the most famous harangues of
+in [p. 175] in speaking well, and learned by heart the most famous harangues of
 
 Bk. VII. their ancestors, handed down from fathers to sons. Their eloquence was employed chiefly in embassies, in councils, and in the congratulatory harangues that were made to new kings. Although their most celebrated haranguers are not to be compared with the orators of the civilized nations of Europe, it cannot, however, be denied that their speeches were weighty, solid, and elegant, as can be seen from the remains of their eloquence that survive. Even today, when they find themselves reduced to such humiliation and stripped of their ancient training, they deliver in their assemblies speeches so just and so well conceived that they cause wonder in those who hear them.
 
@@ -7364,11 +6812,7 @@ of
 
 ancient Mexicans in his excellent grammar of the Mexican language, printed in Mexico City
 
-around the middle of the last century.
-
-[p. 177]
-
-of this kind, and although I do not doubt the delicacy of the language Bk. VII.
+around the middle of the last century. [p. 177] of this kind, and although I do not doubt the delicacy of the language Bk. VII.
 
 used in them, I shall never be able to believe that their comedies
 
@@ -7432,11 +6876,7 @@ ers, fruits, and animals. Those which I saw for the procession of Corpus Christi
 
 the village of Jamiltepec, capital of the province of Jicayán, were among the most
 
-beautiful and curious things I have ever seen.
-
-[p. 178]
-
-at the principal festivals.” (*) This description of Father Acosta reminds us of Bk. VII.
+beautiful and curious things I have ever seen. [p. 178] at the principal festivals.” (*) This description of Father Acosta reminds us of Bk. VII.
 
 the first scenes of the Greeks, and we do not doubt that if the Mexican em‐
 
@@ -7504,21 +6944,13 @@ Musical instruments.
 
 1. The Huehuetl. 2. The Teponaztli. 3. The Ajacaxtli.
 
-Form of the great dance. Plan of the ball court.
-
-[p. 179]
-
-or Mexican drum, was a cylinder of wood, more than three feet high,
+Form of the great dance. Plan of the ball court. [p. 179] or Mexican drum, was a cylinder of wood, more than three feet high,
 
 Bk. VII. curiously carved and painted on the outside, covered on the top with a well-tanned and stretched deerskin, which they tightened or slackened in order to make the sound sharper or deeper. It was played only with the fingers, and required great skill in the player. The Teponaztli, which is still in use among the Indians today, is also cylindrical and hollow, but entirely of wood and without any skin, nor has it any other opening than two longish slits in the middle, parallel and a little apart from one another. It is played by beating the interval between the two slits with two little sticks like those of our drums, but covered for the most part at their ends with ule, or elastic resin, in order to make the sound softer. The size of this instrument varies: there are small ones, which are carried hung from the neck, middle-sized ones, and large ones, which are more than five feet long. The sound it gives is melancholy, and that of the largest is so loud that it is heard at a distance of two miles and more. To the sound of such instruments, whose form we present here to the readers, the Mexicans intoned their songs. Their singing was harsh and wearisome to European ears; but they took so much pleasure in it that at their festivals they used to spend the whole day singing. This, finally, was the art in which the Mexicans succeeded least.
 
 But although their music was so imperfect, their dances were most § 45. beautiful, and in them they exercised themselves from childhood un‐ Dances. der the direction of the priests. They were of various sorts, and were called by several names signifying either the quality of the dance or the circumstances of the festival in which it was held. They danced sometimes in a circle and sometimes in rows. In some dances only the men danced, and in others the women also. For the dance the nobles dressed in the most sumptuous garments, adorned themselves with bracelets, earrings, and several pendants of gold, jewels, and beautiful feathers, and carried in one hand a shield covered with the finest feathers, or a fan, likewise of feathers, and in the other an Ajacaxtli,
 
-Z2                    which
-
-[p. 180]
-
-which is a certain small vessel, of which we shall speak later, resemBk. VII.
+Z2                    which [p. 180] which is a certain small vessel, of which we shall speak later, resemBk. VII.
 
 bling a little gourd, round or oval, with many small holes, and con‐
 
@@ -7582,11 +7014,7 @@ the music. All in the dance described a circle, and no one left his
 
 spoke, or line. Those who danced near
 
-the
-
-[p. 181]
-
-the music moved with slowness and gravity, since the circuit they had
+the [p. 181] the music moved with slowness and gravity, since the circuit they had
 
 Bk. VII. to make was smaller, and therefore that was the place of the lords and of the nobles more advanced in age; but those who occupied the position farthest from the music moved very swiftly, so as not to lose the straightness of the line, nor fall behind the measure of the lords.
 
@@ -7598,11 +7026,7 @@ Not only the lords, the priests, and the girls of the colleges danced, but also 
 
 Among the other dances there was one quite curious, which is still in use today among the Yucatecans. They planted in the ground a pole fifteen or twenty feet high, from whose top they suspended twenty or more cords, according to the number of the dancers, long, and all of different colors. Each took his cord by the end, and they began to dance to the sound of the musical instruments, crossing one another
 
-with
-
-[p. 182]
-
-with great skill, until they formed around the pole a pretty braiding Bk. VII.
+with [p. 182] with great skill, until they formed around the pole a pretty braiding Bk. VII.
 
 of the cords, in which the colors were seen arranged in checks and in
 
@@ -7668,21 +7092,13 @@ herons
 
 [PDF 191]
 
-The game of the flyers.
-
-[p. 183]
-
-herons, and as other birds, climbed with great agility up the tree by a
+The game of the flyers. [p. 183] herons, and as other birds, climbed with great agility up the tree by a
 
 Bk. VII. rope fastened to it from its foot as far as the frame. From the frame they mounted one by one onto the cylinder, and after dancing there a little, and entertaining the immense multitude of people who gathered there, they tied themselves with the ends of the cords threaded through the holes of the frame, and, launching themselves with force, began their flight with wings outspread. The force of their bodies set the frame and the cylinder in motion: the frame with its turnings unwound the cords from which the flyers hung; so that as the cords lengthened, the circles that they made in their flight were larger still. Meanwhile, while these four flew, another danced on the cylinder, playing a tambourine or waving a small flag, without showing any fear of the danger in which he found himself of falling from so great a height. The others who were on the frame (for as many as ten or twelve used to climb up), as soon as they saw the flyers in the last turn, let themselves down by the same cords in order to arrive on the ground together with them, amid the acclamations of the people. Those who let themselves down by the cords used, in order to make their agility appear the more, to pass from one cord to another in that part where, because of the smallness of the distance, they could do so.
 
 The most essential point of this game consisted in so proportioning the height of the tree and the cords that with thirteen turns the four flyers should arrive exactly on the ground, in order to represent in that number their century of fifty-two years, composed, as we have already said, of four periods of thirteen years. This celebrated game is still in use in that kingdom; but without any more regard for the number of turns, or for that of the flyers, nor conforming in everything to the form of the ancients; for the frame is wont to be hexagonal or octagonal, and the flyers six or eight. In some places they put a kind of guard on the frame to prevent the too frequent accidents since the conquest; for since drunkenness is so common among the Indians, they are wont to climb the tree
 
-almost
-
-[p. 184]
-
-almost bereft of sense by reason of wine or brandy: whence they easiBk. VII. ly lose their balance at so great a height, which is wont to be more
+almost [p. 184] almost bereft of sense by reason of wine or brandy: whence they easiBk. VII. ly lose their balance at so great a height, which is wont to be more
 
 than sixty feet.
 
@@ -7744,11 +7160,7 @@ point. The poor staked ears of maize, or else, if they had nothing else,
 
 gambled their liberty; others a certain number of garments
 
-of
-
-[p. 185]
-
-of cotton, and the rich things of gold, precious feathers, and jewels. There were in the space between the players two great stones resem‐ Bk. VII. bling in shape our millstones, each with a hole in the middle a little larger than the ball. Whoever made the ball pass through the hole, which seldom happened, not only won the match; but by a law established in the game made himself master of the garments of all those who were present, and such a throw was celebrated as an immortal deed.
+of [p. 185] of cotton, and the rich things of gold, precious feathers, and jewels. There were in the space between the players two great stones resem‐ Bk. VII. bling in shape our millstones, each with a hole in the middle a little larger than the ball. Whoever made the ball pass through the hole, which seldom happened, not only won the match; but by a law established in the game made himself master of the garments of all those who were present, and such a throw was celebrated as an immortal deed.
 
 Such a game was in great esteem among the Mexicans and the other nations of that kingdom, and as common as may be seen from the surprising number of balls which every year Tochtepec, Otatitlan, and other places paid as tribute to the crown of Mexico, which, as we have said elsewhere, was not less than sixteen thousand. The kings themselves often played, and challenged one another, as Moctezuma II and Nezahualpilli did. Today it is no longer in use among the nations of the Mexican empire; but it is among the Nayarits, the Opatas, the Tarahumaras, and other peoples of the north. All the Spaniards who have seen them play have marveled at their prodigious agility.
 
@@ -7758,11 +7170,7 @@ Bernal Díaz makes mention of another game, with which King Moctezuma used to am
 
 History of Mexico, Vol. II.                          Aa        which
 
-(*) Patolli is a generic name signifying every sort of game.
-
-[p. 186]
-
-which he set up as a mark, and whoever first made five points won
+(*) Patolli is a generic name signifying every sort of game. [p. 186] which he set up as a mark, and whoever first made five points won
 
 Bk. VII.
 
@@ -7832,11 +7240,7 @@ of
 
 [PDF 196]
 
-Various Mexican games.
-
-[p. 187]
-
-of Anahuac. The Chichimecs and the Otomis, who abandoned the
+Various Mexican games. [p. 187] of Anahuac. The Chichimecs and the Otomis, who abandoned the
 
 Bk. VII. savage life, learned it from the Acolhuas and the Toltecs.
 
@@ -7844,11 +7248,7 @@ Among the paintings of the Mexicans, and of all these nations, there were many t
 
 Aa2              or
 
-(*) In his work entitled Libra astronómica, printed in Mexico.
-
-[p. 188]
-
-or chorographical, which served not only to represent the extent and Bk. VII.
+(*) In his work entitled Libra astronómica, printed in Mexico. [p. 188] or chorographical, which served not only to represent the extent and Bk. VII.
 
 the boundaries of possessions, but also the situation of places, the di‐
 
@@ -7912,11 +7312,7 @@ obtain one from them.
 
 The canvas on which they painted was of thread of maguei, or
 
-of
-
-[p. 189]
-
-of the palm Icxotl (D), or of tanned skins, or even of paper. They made the paper from the leaves of a certain species of maguei, macer‐ Bk. VII. ated in the manner of hemp, and then washed, stretched, and
+of [p. 189] of the palm Icxotl (D), or of tanned skins, or even of paper. They made the paper from the leaves of a certain species of maguei, macer‐ Bk. VII. ated in the manner of hemp, and then washed, stretched, and
 
 § 48. smoothed. They made it also from the palm icxotl, from thin barks of Canvas and colors. other trees joined together and prepared with a certain gum, from silk, and finally from cotton, although we are ignorant of the manner of making it. I have had in my hands several sheets of this Mexican paper. In thickness it resembles European pasteboard, but it is softer and smoother, and one can write on it comfortably.
 
@@ -7928,11 +7324,7 @@ the
 
 (D) The coarse canvas on which the most renowned image of Our Lady of Guadalupe is painted is of palm icxotl.
 
-(E) The description of the indigo plant is found in many authors, and especially in Dr. Hernández, bk. 4, ch. 12, which is wholly different from the one that M. Raynal gives in bk. 6 of his Philosophical and Political History. This author affirms that this plant was transplanted
-
-[p. 190]
-
-the way of making it then was not at all the same as that of today. Bk. VII. They put the broken foliage of that plant into vessels of hot, or rather
+(E) The description of the indigo plant is found in many authors, and especially in Dr. Hernández, bk. 4, ch. 12, which is wholly different from the one that M. Raynal gives in bk. 6 of his Philosophical and Political History. This author affirms that this plant was transplanted [p. 190] the way of making it then was not at all the same as that of today. Bk. VII. They put the broken foliage of that plant into vessels of hot, or rather
 
 lukewarm, water, and after stirring it sufficiently with a paddle, they
 
@@ -8018,11 +7410,7 @@ The Mexicans made use in their paintings not only of simple images of objects, a
 
 that with great diligence three plants of Chian, grown from seed sent from Mexico. They took root happily, and I had the pleasure of seeing them laden with flowers in September of the year 1777; but the frost, coming earlier that year than usual, killed them.
 
-(*) Such authors are effectively refuted by Dr. Eguiara in the learned preface of the Biblioteca mexicana, and by ourselves also in our Dissertations.
-
-[p. 192]
-
-that is, intended to form words, like our letters; but real, or immediately sig‐ Bk. VII. nificative of things, such as are the characters of the astronomers and of the algebraists. So that readers may form some idea of them, we wish to put before their eyes the numeral characters of the Mexicans, as also those of time, of heaven, of earth, of water, and of air. (H)
+(*) Such authors are effectively refuted by Dr. Eguiara in the learned preface of the Biblioteca mexicana, and by ourselves also in our Dissertations. [p. 192] that is, intended to form words, like our letters; but real, or immediately sig‐ Bk. VII. nificative of things, such as are the characters of the astronomers and of the algebraists. So that readers may form some idea of them, we wish to put before their eyes the numeral characters of the Mexicans, as also those of time, of heaven, of earth, of water, and of air. (H)
 
 To represent a person they painted a man, or else a human head, and above it a figure expressing the meaning of his name, as is seen in the figures of the Mexican kings. To express a city or village they painted in the same way a figure expressive of what its name signified. To form their histories, or annals, they painted along the edge of the canvas, or paper, the figures of the years in as many little squares, and beside each little square the event or events corresponding to that year; and if, because the years whose history they wished to express were many, they could not all stand on one canvas, they continued on another. As for the order of representing the years and the events, the historian was free to begin them from any corner of the canvas he pleased; but with this rule, constantly observed in all the paintings I have seen, that if the painter began from the upper right-hand corner, he continued toward the left hand. If he began, and this was the more usual, from the upper corner at the left hand, he went on perpendicularly downward. If he painted the first year in the lower corner at the left hand, he continued toward the right, and if he began in the lower
 
@@ -8054,11 +7442,7 @@ Figures of cities.
 
 6 Atotonilco. 7 Ahuilizapan. 8 Atenco. 9 Tehuillojocan. 10 Nepohualco. 11 Michmalojan. 12 Quauhtinchan. 13 Tlacotepec.
 
-14 Macuilxochitl. 15 Tlachco. 16 Tecozauhtla.
-
-[p. 193]
-
-right-hand corner, he went on perpendicularly upward; in such a manner that in the upper part of the canvas they never painted from the Bk. VII. left hand to the right, nor ever in the lower part from the right to the left; nor did they advance upward along the left side, nor downward along the right. Once this method of the Mexicans is known, it is easy to recognize at first sight where the beginning is, and where the end, of any historical painting.
+14 Macuilxochitl. 15 Tlachco. 16 Tecozauhtla. [p. 193] right-hand corner, he went on perpendicularly upward; in such a manner that in the upper part of the canvas they never painted from the Bk. VII. left hand to the right, nor ever in the lower part from the right to the left; nor did they advance upward along the left side, nor downward along the right. Once this method of the Mexicans is known, it is easy to recognize at first sight where the beginning is, and where the end, of any historical painting.
 
 It cannot be denied that such a way of signifying things was imperfect, confused, and equivocal; but the endeavor of those peoples to perpetuate the memory of events is worthy of praise, and so is their industry in supplying, however imperfectly, the lack of letters, which they would perhaps have discovered, considering their progress in civilization, had their empire not been so short-lived; at the least they would have considerably abbreviated and facilitated their paintings by the multiplication of characters.
 
@@ -8066,11 +7450,7 @@ Their paintings, moreover, ought not to be considered so much as an orderly and 
 
 Nor did those peoples make use only of tradition, paintings, and songs to preserve the memory of events, but also of threads of various colors, variously knotted, called by the Peruvians Quipu, and by the Mexicans Nepohualtzitzin. This rare way of representing things, so much used in Peru, does not appear to have been employed in the countries of Anahuac except in the most remote centuries; for
 
-History of Mexico, Vol. II.              Bb                      no
-
-[p. 194]
-
-no traces of such monuments are found any longer. The Chevalier Bk. VII.
+History of Mexico, Vol. II.              Bb                      no [p. 194] no traces of such monuments are found any longer. The Chevalier Bk. VII.
 
 Boturini says that after the most diligent search he was barely able to
 
@@ -8136,11 +7516,7 @@ worked stone without iron, or steel, or any other instrument than a
 
 chisel of flint. There was need
 
-of
-
-[p. 195]
-
-of their incomparable composure and constancy in labor to overcome so great a difficulty, and to bear the slowness of such works; but they Bk. VII. succeeded in spite of such crude instruments. They knew how to express in their statues all the attitudes and postures of which the body is capable, they observed the proportions exactly, and they made, where it was required, the most minute and delicate carvings. Not only did they make whole statues, but they also carved on stones figures in low relief, such as those of Moctezuma II and of one of his sons, carved on a stone of the mountain of Chapultepec, mentioned and celebrated by Father Acosta. They also made statues of clay and of wood, using for these a copper chisel. The surprising number of their statues may be conjectured from that of their idols, which we mentioned in the preceding book. We have, moreover, to complain in this matter of the zeal of the first bishop of Mexico and of the first preachers of the Gospel; for, in order not to leave their neophytes any incentive to idolatry, they deprived us of many valuable monuments of Mexican sculpture. The foundations of the first church that was built in Mexico were of idols, and statues were counted by the thousands that were broken, to such a degree that, that kingdom having been the most abundant in works of this kind, nowadays scarcely a few can be found after the most diligent search. The conduct of those blessed religious was very praiseworthy, both for its motive and for its effects; but we could wish that the innocent statues of those peoples had not been subjected to the same condemnation as the superstitious simulacra, and that even of these some had been preserved in some place where they would not have been a stumbling block to the neophytes.
+of [p. 195] of their incomparable composure and constancy in labor to overcome so great a difficulty, and to bear the slowness of such works; but they Bk. VII. succeeded in spite of such crude instruments. They knew how to express in their statues all the attitudes and postures of which the body is capable, they observed the proportions exactly, and they made, where it was required, the most minute and delicate carvings. Not only did they make whole statues, but they also carved on stones figures in low relief, such as those of Moctezuma II and of one of his sons, carved on a stone of the mountain of Chapultepec, mentioned and celebrated by Father Acosta. They also made statues of clay and of wood, using for these a copper chisel. The surprising number of their statues may be conjectured from that of their idols, which we mentioned in the preceding book. We have, moreover, to complain in this matter of the zeal of the first bishop of Mexico and of the first preachers of the Gospel; for, in order not to leave their neophytes any incentive to idolatry, they deprived us of many valuable monuments of Mexican sculpture. The foundations of the first church that was built in Mexico were of idols, and statues were counted by the thousands that were broken, to such a degree that, that kingdom having been the most abundant in works of this kind, nowadays scarcely a few can be found after the most diligent search. The conduct of those blessed religious was very praiseworthy, both for its motive and for its effects; but we could wish that the innocent statues of those peoples had not been subjected to the same condemnation as the superstitious simulacra, and that even of these some had been preserved in some place where they would not have been a stumbling block to the neophytes.
 
 Cast-metal works were held by the Mexicans in far greater esteem than all the works of sculpture, both for the greater value of the ma‐
 
@@ -8220,11 +7596,7 @@ Bk. VII. which they made of the most delicate and beautiful feathers of birds. T
 
 These are those images so celebrated by the Spaniards and by other European nations, in which the beholder does not know which he should praise more, the vividness and beauty of the natural colors, or the skill of the artisan and the ingenious arrangement of the art: “Which, says Father Acosta, are
 
-justly
-
-[p. 198]
-
-justly prized, causing wonder how works so fine and so even could be Bk. VII. made of the feathers of birds that they seem made with the brush;
+justly [p. 198] justly prized, causing wonder how works so fine and so even could be Bk. VII. made of the feathers of birds that they seem made with the brush;
 
 and what neither the brush nor the colors of painting can produce, a
 
@@ -8302,11 +7674,7 @@ Now in a nation so industrious in those arts which serve only cu‐
 
 § 53. riosity and luxury, there could not be lacking those that are necessary Domestic architecto life. Architecture, which is one of those arts that the necessity of ture of the Mexicans. the first men invented, was practiced by the inhabitants of the country of Anahuac, at least from the time of the Toltecs. The Chichimecs, their successors, the Acolhuas, and all the other nations of the kingdoms of Acolhuacan, of Mexico, and of Michoacán, of the republic of Tlaxcala, and of other provinces, except the Otomis, built houses and formed cities from time immemorial. When the Mexicans arrived in that country they found it full of great and beautiful cities. They, who before leaving their homeland were already well versed in architecture and accustomed to social life, constructed in their long migration many
 
-edifices
-
-[p. 200]
-
-edifices in those places where they stayed for some years; whose reBk. VII.
+edifices [p. 200] edifices in those places where they stayed for some years; whose reBk. VII.
 
 mains still exist, as we have already said, on the banks of the river
 
@@ -8366,21 +7734,13 @@ laid out with symmetry. The great houses of the capital had for the
 
 most part two doors, the principal one on the street, and
 
-the
-
-[p. 201]
-
-the other on the canal. In their doorways they had no wooden doors, thinking, perhaps, that their dwellings were secure enough through Bk. VII. the severity of the laws against thieves; but to defend them from the view of passers-by they covered the doorways with reed mats, hanging on them some strings of potsherds, or pieces of broken crockery, or some other thing capable of rousing with its noise the attention of the servants whenever anyone lifted the mat in order to enter. No one was permitted to enter without the consent of the master. When necessity, or courtesy, or the claim of kinship did not justify the entrance of him who arrived at the door, he was heard there and promptly dismissed.
+the [p. 201] the other on the canal. In their doorways they had no wooden doors, thinking, perhaps, that their dwellings were secure enough through Bk. VII. the severity of the laws against thieves; but to defend them from the view of passers-by they covered the doorways with reed mats, hanging on them some strings of potsherds, or pieces of broken crockery, or some other thing capable of rousing with its noise the attention of the servants whenever anyone lifted the mat in order to enter. No one was permitted to enter without the consent of the master. When necessity, or courtesy, or the claim of kinship did not justify the entrance of him who arrived at the door, he was heard there and promptly dismissed.
 
 The Mexicans knew how to build arches and vaults (L), as is clear from their baths, from the remains of the royal palaces of Texcoco and of other buildings saved from the fury of the conquerors, and also from many of their paintings. Cornices and other particular ornaments of architecture were in use among them. They delighted in making ornaments of stone in the form of knots around their doors and windows, and in some edifices there was a great serpent of stone in the attitude of biting its tail above the main doorway, after winding its body about all the windows of the house. The walls of their edifices were straight and perpendicular, they using for this the plumb level, or some other equivalent instrument; for through the negligence of the historians we are ignorant of the instruments which they used for their buildings, as of several other things belonging to this and to other arts. Some believe that the Mexican masons, in building the walls, piled earth against them on one side and on the other, and that as the walls rose, the heaps of earth set against them rose likewise
 
 History of Mexico, Vol. II.                        Cc                            to
 
-(L) Torquemada says that when the Spaniards removed the centerings from a vault built in the first church of Mexico, the Mexicans, terrified, did not dare to enter the church, expecting every moment to see the vault fall. But if they felt any amazement, it was certainly not caused by seeing the vault, which, as we have said, was in use among them, but perhaps by seeing the centerings removed too soon, or by some other circumstance involved that deserved their admiration.
-
-[p. 202]
-
-to such a degree that the walls, until the building was finished, reBk. VII.
+(L) Torquemada says that when the Spaniards removed the centerings from a vault built in the first church of Mexico, the Mexicans, terrified, did not dare to enter the church, expecting every moment to see the vault fall. But if they felt any amazement, it was certainly not caused by seeing the vault, which, as we have said, was in use among them, but perhaps by seeing the centerings removed too soon, or by some other circumstance involved that deserved their admiration. [p. 202] to such a degree that the walls, until the building was finished, reBk. VII.
 
 mained entirely covered and buried: so that the masons had no need
 
@@ -8462,11 +7822,7 @@ Aqueducts, and places, many good aqueducts. Those of the capital, for conducting
 
 The aforesaid causeway of Chapultepec, as well as the others built on the lake and often mentioned by us, are incontestable monuments of the industry of the Mexicans; but it is shown still more plainly in the very ground of their city; for whereas other architects have nothing else to do but lay the foundations in the earth and raise the edifices, the Mexicans had in addition to make the ground itself on which to build, by joining with embankments some separate little islands. Besides this great labor, they had also that of constructing dikes and sluices in several places of the city to render their buildings more secure. But if in such works the industry of the Mexicans is discerned, in others their magnificence is displayed. Among the monuments of ancient architecture that still remain in the Mexican empire, very celebrated are the edifices of Mictlan in the Mixteca, in which there are
 
-Cc2                   things
-
-[p. 204]
-
-things to wonder at, and particularly a great hall, whose roof is sup‐
+Cc2                   things [p. 204] things to wonder at, and particularly a great hall, whose roof is sup‐
 
 Bk. VII.
 
@@ -8536,11 +7892,7 @@ metric feet, they are only 32 miles and eighty-three feet, or a little less than
 
 leagues. If he spoke of Toledan feet, it would be a little less, since this is to that as
 
-1240 to 1417.
-
-[p. 205]
-
-of the ravine, as the ground requires, in order to be on a level with the aqueduct. This great bridge is 3,178 geometric feet long, or more than Bk. VII. half a mile. They labored on it five years, and on the whole aqueduct seventeen. The description of this superb structure did not seem to me out of place in my History; for although it was undertaken by a Spaniard after the Conquest, it was nevertheless carried out by the people of Cempoala, who survived the ruin of their empire.
+1240 to 1417. [p. 205] of the ravine, as the ground requires, in order to be on a level with the aqueduct. This great bridge is 3,178 geometric feet long, or more than Bk. VII. half a mile. They labored on it five years, and on the whole aqueduct seventeen. The description of this superb structure did not seem to me out of place in my History; for although it was undertaken by a Spaniard after the Conquest, it was nevertheless carried out by the people of Cempoala, who survived the ruin of their empire.
 
 The ignorant Researcher denies to the Mexicans the knowledge and the use of lime; but it is evident from the testimony of all the historians of Mexico, from the register of tributes, and above all from the ancient edifices still standing, that all those nations made the same use of lime as the Europeans do. The common people of that kingdom believe that the Mexicans mixed eggs with the lime to make it more tenacious; but this is an error, caused perhaps by seeing the ancient walls yellowish. It is likewise evident from the testimony of the first historians that baked bricks were in use among the Mexicans, and that they were sold, like all other things, in the markets.
 
@@ -8562,11 +7914,7 @@ dug
 
 (N) As for Cortés’s emeralds, the first was made in the form of a rose, the second like a little horn, the third like a fish with eyes of gold, the fourth was a little bell with a fine pearl for a clapper, and on it this Spanish inscription in gold letters, Bendito quien te crió, that is, Blessed be he who created you. The fifth, which was the most valuable, and for which the Genoese would have given 40,000 ducats, was a small cup with a foot of gold, and with four little chains, also of gold, which were joined together in a pearl in the manner of a button. The rim of the cup was encircled by a ring of gold, on which was engraved this Latin inscription: Among those born of women there hath not risen a greater. These five emeralds, worked by the Mexicans by order of Cortés, were presented by him to his second wife, the noble lady Doña Juana Ramírez de Arellano y Zúñiga, daughter of the Count of Aguilar: Jewels, says Gómara, who saw them, better than any lady in Spain ever had.
 
-(*) Mariana, in the Summary, or supplement, of the General History of Spain.
-
-[p. 207]
-
-dug them; but there still survive there some enormous pieces of emerald,
+(*) Mariana, in the Summary, or supplement, of the General History of Spain. [p. 207] dug them; but there still survive there some enormous pieces of emerald,
 
 Bk. VII. such as a holy stone that is in the cathedral church of Puebla, and another in the parish church of Quechula (if it is not the same one transported from there to Puebla), which the parishioners kept bound with iron chains, as Vetancurt says, so that no one might carry it away.
 
@@ -8576,11 +7924,7 @@ The carpenters worked several kinds of wood well with their copper tools, etc. s
 
 The manufacture of various kinds of cloth was common everywhere, and this was one of the arts that nearly everyone learned. They had neither wool, nor common silk, nor flax, nor hemp; but they supplied the place of wool with cotton, of silk with feathers and with the hair of the rabbit and the hare, and of flax and hemp with the Icxotl, or mountain palm, with the Quetzalichtli, with the Pati, and with other species of maguei. Of cotton they made both coarse cloths and cloths as fine and delicate as those of Holland, which were rightly prized in Europe. A few years after the Conquest a priestly vestment of the Mexicans was carried to Rome, which, as the Chevalier Boturini affirms, made that court marvel at its fineness and excellence. They wove these cloths with several figures and colors, representing on them various animals and flowers. Of feathers woven in with cotton they made mantles, bedcovers, tapestries, coats, and other things no less soft than beautiful. I have seen some handsome mantles of this kind, which some lords still preserve, and are accustomed to wear on certain extraordinary festivals, such as that of the coronation of the King of Spain. In like manner they wove with cotton the finest hair
 
-of
-
-[p. 208]
-
-of the belly of rabbits and hares, after dyeing and spinning it, and
+of [p. 208] of the belly of rabbits and hares, after dyeing and spinning it, and
 
 Bk. VII.
 
@@ -8740,11 +8084,7 @@ that they performed marvelous cures with them, but without indicat‐
 
 ing the progress they made in an art
 
-so
-
-[p. 211]
-
-so profitable to mankind. But it cannot be doubted that the same
+so [p. 211] so profitable to mankind. But it cannot be doubted that the same
 
 Bk. VII. needs which drove the Greeks to make a collection of experiments and observations on the nature of diseases and on the virtue of remedies likewise led the Mexicans to the knowledge of these two most § 59.
 
@@ -8754,11 +8094,7 @@ We do not know that they made use of their paintings, as the simples. Greeks did
 
 Dd2                          great
 
-(P) Dr. Hernández, being physician to Philip II, King of Spain, and very renowned for his works published on the Natural History of Pliny, was sent by that monarch to Mexico to make researches into the natural things of that kingdom. He was employed there, together with other learned naturalists, for several years, availing himself of the instruction of the Mexican physicians. His work, worthy of the 60,000 ducats spent on it, consisted of 24 books of history and eleven volumes of excellent pictures of plants and animals; but the King, thinking it too voluminous, ordered his physician Nardo Antonio Recchi, a Neapolitan, to make a compendium of it. This compendium was published in the Spanish language at Mexico by Francisco Ximénez, a Dominican, in 1615, and then in Latin at Rome in 1651 by the Lincean Academicians, with learned notes and dissertations, but too long and tedious. Hernández's manuscripts were kept in the library of the Escorial, whence Father Nieremberg took a great part of what he wrote in his Natural History, as he himself avows. Father Claude Clement, a French Jesuit, speaking of Hernández's manuscripts, says thus: If all these books and commentaries were as perfect and finished as they were begun, Philip II and Francisco Hernández would in no way yield to Alexander and Aristotle in this respect.
-
-[p. 212]
-
-great number of quadrupeds, reptiles, fishes, insects, and minerals. Bk. VII.
+(P) Dr. Hernández, being physician to Philip II, King of Spain, and very renowned for his works published on the Natural History of Pliny, was sent by that monarch to Mexico to make researches into the natural things of that kingdom. He was employed there, together with other learned naturalists, for several years, availing himself of the instruction of the Mexican physicians. His work, worthy of the 60,000 ducats spent on it, consisted of 24 books of history and eleven volumes of excellent pictures of plants and animals; but the King, thinking it too voluminous, ordered his physician Nardo Antonio Recchi, a Neapolitan, to make a compendium of it. This compendium was published in the Spanish language at Mexico by Francisco Ximénez, a Dominican, in 1615, and then in Latin at Rome in 1651 by the Lincean Academicians, with learned notes and dissertations, but too long and tedious. Hernández's manuscripts were kept in the library of the Escorial, whence Father Nieremberg took a great part of what he wrote in his Natural History, as he himself avows. Father Claude Clement, a French Jesuit, speaking of Hernández's manuscripts, says thus: If all these books and commentaries were as perfect and finished as they were begun, Philip II and Francisco Hernández would in no way yield to Alexander and Aristotle in this respect. [p. 212] great number of quadrupeds, reptiles, fishes, insects, and minerals. Bk. VII.
 
 From this most valuable, though imperfect, history there could be
 
@@ -8824,11 +8160,7 @@ known to the first religious who went there to preach the Gospel, curing them wi
 
 it of certain fevers which were wasting them away. From the religious the knowledge
 
-was communicated to the Spaniards, and through them to all Europe.
-
-[p. 213]
-
-to excite sneezing. Against intermittent fevers they employed for the most part the Chatalhuic, and against other kinds of fevers the Bk. VII. Chiantzolli, the Iztacxalli, the Huehuetzontecomatl, and above all the Izticpatli. To preserve themselves from the ailment which excessive exercise in the ball game used to cause them, they were accustomed to eat the bark of the Apitzalpatli macerated in water. We should never be done if we wished to mention all the plants, resins, minerals, and other medicaments, both simple and compound, which they used against all the kinds of diseases known to them. Whoever may wish fuller instruction on this subject can consult the aforesaid work of Dr. Hernández, and the two treatises published by Dr. Monardes, a physician of Seville, on the medicinal things which are usually brought from America to Europe.                                          § 60.
+was communicated to the Spaniards, and through them to all Europe. [p. 213] to excite sneezing. Against intermittent fevers they employed for the most part the Chatalhuic, and against other kinds of fevers the Bk. VII. Chiantzolli, the Iztacxalli, the Huehuetzontecomatl, and above all the Izticpatli. To preserve themselves from the ailment which excessive exercise in the ball game used to cause them, they were accustomed to eat the bark of the Apitzalpatli macerated in water. We should never be done if we wished to mention all the plants, resins, minerals, and other medicaments, both simple and compound, which they used against all the kinds of diseases known to them. Whoever may wish fuller instruction on this subject can consult the aforesaid work of Dr. Hernández, and the two treatises published by Dr. Monardes, a physician of Seville, on the medicinal things which are usually brought from America to Europe.                                          § 60.
 
 The Mexican physicians made use of infusions, decoctions, plas‐ Oils, ointments, infu‐
 
@@ -8836,11 +8168,7 @@ sions, etc. ters, ointments, and oils, and all these things were sold in the mar
 
 They also drew from the Huitziloxitl, as we have mentioned elsewhere, those two sorts of balsam mentioned by Pliny and other ancient naturalists, namely the opobalsam, or balsam distilled from the tree, and the xylobalsam, obtained by the decoction of the branches. From the bark of the Huaconex, macerated four days continuously in water, they drew another liquor equivalent to balsam. From the plant called by the Spaniards Maripenda (a name, as it appears, taken from the Tarascan language), they likewise drew a liquor resembling balsam, both in its good odor and in its marvelous effects, by putting the tender stalks with the fruit of the plant to boil in water until the water became so thick
 
-as
-
-[p. 214]
-
-as must. In this manner they drew other valuable oils and liquors,
+as [p. 214] as must. In this manner they drew other valuable oils and liquors,
 
 Bk. VII.
 
@@ -8914,21 +8242,13 @@ furnace
 
 The Temazcalli, or Mexican hypocaust.
 
-1 The front. 2 The back. 3 Section.
-
-[p. 215]
-
-furnace of stone or of bricks, with its mouth facing outward for putting the fire in, and with a hole above for letting out the smoke. Bk. VII. The part where the furnace is joined to the hypocaust, which measures about two and a half feet square, is closed with a dry stone of tetzontli, or of another as porous as that. In the upper part of the vault there is another hole, or vent, like that of the furnace. This is the common structure of the Temazcalli, as shown in the accompanying figure; but there are others which have neither vault nor furnace, and are reduced to small oblong chambers, otherwise well covered and protected from the air.
+1 The front. 2 The back. 3 Section. [p. 215] furnace of stone or of bricks, with its mouth facing outward for putting the fire in, and with a hole above for letting out the smoke. Bk. VII. The part where the furnace is joined to the hypocaust, which measures about two and a half feet square, is closed with a dry stone of tetzontli, or of another as porous as that. In the upper part of the vault there is another hole, or vent, like that of the furnace. This is the common structure of the Temazcalli, as shown in the accompanying figure; but there are others which have neither vault nor furnace, and are reduced to small oblong chambers, otherwise well covered and protected from the air.
 
 When someone wishes to bathe, he has put inside the temazcalli first a mat, (*) a basin of water, and a bunch of herbs or of maize leaves. Then a fire is made in the furnace, and kept burning until the stones that lie between the temazcalli and the furnace are quite red-hot. He who wishes to bathe enters, for the most part naked, and often, either because of illness or for his greater convenience, is accompanied by one of his servants. As soon as he enters, he shuts the door tightly, leaving open for a little while the vent which is in the roof of the temazcalli, so that the smoke introduced through the cracks of the stones may go out; and after it has all gone out, he stops up the vent also. Then he throws water on the heated stones, from which a dense vapor at once rises, and goes to occupy the upper part of the Temazcalli. Meanwhile, as the sick man lies on the mat, his servant (if he cannot do it for himself) begins to draw the vapor down, and to beat the sick man gently, especially on the aching part, with the bunch of herbs somewhat dipped in the now warm water of the basin. The sick man at once falls into a gentle and copious sweat, which is increased as one wishes, or diminished in proportion to need. Once the desired evacuation is obtained, freedom is given
 
 to
 
-(*) The Spaniards, when they bathe, usually put down a mattress, for greater comfort.
-
-[p. 216]
-
-to the vapor, the door is opened, and the sick man dresses; and, well Bk. VII. covered, is carried on the mat or mattress back to the room; for the
+(*) The Spaniards, when they bathe, usually put down a mattress, for greater comfort. [p. 216] to the vapor, the door is opened, and the sick man dresses; and, well Bk. VII. covered, is carried on the mat or mattress back to the room; for the
 
 door of the bath is for the most part inside some room of the
 
@@ -8990,11 +8310,7 @@ superstitious
 
 wound in the head received in the famous battle of Otompan, was perfectly cured by
 
-the Tlaxcalan physicians.
-
-[p. 217]
-
-superstitious ceremonies; with the invocation of their gods, and with certain imprecations against diseases. The physicians venerated the Bk. VII. goddess Tzapotlatenan as the protectress of their art, and believed her to be the inventor of several medicinal secrets, and among others of the oil which they drew by distillation from the Ocotl.                 § 64.
+the Tlaxcalan physicians. [p. 217] superstitious ceremonies; with the invocation of their gods, and with certain imprecations against diseases. The physicians venerated the Bk. VII. goddess Tzapotlatenan as the protectress of their art, and believed her to be the inventor of several medicinal secrets, and among others of the oil which they drew by distillation from the Ocotl.                 § 64.
 
 It is a wonder that the Mexicans, and especially the poor, were not Foods  of the
 
@@ -9002,11 +8318,7 @@ Mexicans. subject to many diseases, considering the quality of their foods. This
 
 Not content with feeding on living things, they also ate a certain slimy substance which floats on the waters of the lake, which they dried in the sun and preserved for use, like cheese, which it resembles in taste. They gave this substance the name of Tecuitlatl, that is, excrement of stones. Accustomed then to such vile foods, they did not give them up in the time of their greatest abundance: so that the market was always seen full of a thousand species of little animals, raw, boiled, fried, and roasted, which were sold chiefly
 
-History of Mexico, Vol. II.                Ee                       for
-
-[p. 218]
-
-for the poor. Nevertheless, as soon as, with the trade in fish, they began to Bk. VII.
+History of Mexico, Vol. II.                Ee                       for [p. 218] for the poor. Nevertheless, as soon as, with the trade in fish, they began to Bk. VII.
 
 procure better foods for themselves, and to cultivate by their industry the
 
@@ -9068,21 +8380,13 @@ and the Atolli Atole.
 
 [PDF 233]
 
-Method of making bread. 1. Woman husking the maize. 2. grinding it. 3. forming and baking the bread.
-
-[p. 219]
-
-make bread of red maize, kneading it with the most beautiful flower coatzontecoxochitl, and with several medicinal herbs, to lessen the heat Bk. VII. of the stomach. This is the bread that the Mexicans, and all the other nations of those vast countries, have always used down to our own days, rejecting in comparison with it the best wheat bread. Their example has been imitated by very many Spaniards; but, to tell the truth, this bread, although it is very wholesome and substantial, and when freshly made has a good taste, is nevertheless somewhat unpleasant when it grows cold. The making of bread, like the preparing and seasoning of every sort of food, has always been among those nations a trade proper to women. They were the ones who made it for their families, and the ones who sold it in the market.
+Method of making bread. 1. Woman husking the maize. 2. grinding it. 3. forming and baking the bread. [p. 219] make bread of red maize, kneading it with the most beautiful flower coatzontecoxochitl, and with several medicinal herbs, to lessen the heat Bk. VII. of the stomach. This is the bread that the Mexicans, and all the other nations of those vast countries, have always used down to our own days, rejecting in comparison with it the best wheat bread. Their example has been imitated by very many Spaniards; but, to tell the truth, this bread, although it is very wholesome and substantial, and when freshly made has a good taste, is nevertheless somewhat unpleasant when it grows cold. The making of bread, like the preparing and seasoning of every sort of food, has always been among those nations a trade proper to women. They were the ones who made it for their families, and the ones who sold it in the market.
 
 Not only bread, but also very many foods and drinks they made of maize, with various ingredients and preparations. The Atolli is a gruel, or polenta, made of the paste of cooked maize, well ground, diluted in water, and strained. They put that liquid, strained through the sieve, on the fire, and give it a fresh cooking until it takes on the proper thickness. It is tasteless to the palate of the Spaniards; yet they commonly give it to their sick, as a wholesome nourishment, sweetening it with a little sugar in place of the honey formerly used by the Indians. To these, however, it is so agreeable that they cannot do without it. It was formerly, and is even today, their breakfast, and with it they bear the labors of agriculture and of the other servile occupations in which they are engaged. Dr. Hernández distinguishes seventeen species of Atolli, differing as much in the seasoning as in the manner of preparing it.
 
 After maize, the seeds most used were those of cacao, of chia, and of kidney beans. Of cacao they made several usual drinks, and among others that called by them Chocolatl. They ground an equal quantity of cacao and of seeds of Pochotl, put it all together with a proportionate quantity of water in a small pot, and there turned it
 
-Ee2                      and
-
-[p. 220]
-
-and stirred with that small toothed instrument of wood, which in Bk. VII.
+Ee2                      and [p. 220] and stirred with that small toothed instrument of wood, which in Bk. VII.
 
 some places in Italy is called frullo, and in others macinella: then they
 
@@ -9146,11 +8450,7 @@ was much prized, and was never lacking in the markets.
 
 (T) The Mecaxochitl is a small climbing plant, whose leaves are large and thick, and
 
-the fruit closely resembles long pepper.
-
-[p. 221]
-
-calls it) he endured the burning heat of the Sun and the fatigues of war.
+the fruit closely resembles long pepper. [p. 221] calls it) he endured the burning heat of the Sun and the fatigues of war.
 
 Bk. VII.
 
@@ -9168,11 +8468,7 @@ They also used several kinds of wine, or drinks equivalent to it, of
 
 this
 
-(*) Pulque is neither a Spanish word nor a Mexican one, but taken from the Araucanian language, which is spoken in Chile, in which pulcu is the general name of the drinks which those Indians use to get drunk; but it is difficult to guess how that name passed to Mexico.
-
-[p. 222]
-
-this. When the maguei, or Mexican aloe, reaches a certain size and Bk. VII.
+(*) Pulque is neither a Spanish word nor a Mexican one, but taken from the Araucanian language, which is spoken in Chile, in which pulcu is the general name of the drinks which those Indians use to get drunk; but it is difficult to guess how that name passed to Mexico. [p. 222] this. When the maguei, or Mexican aloe, reaches a certain size and Bk. VII.
 
 maturity, they cut its stalk, or rather the still tender leaves from
 
@@ -9238,11 +8534,7 @@ Roman, contains, according to the calculation of Mariana, 512 ounces of wine or 
 
 common water. Now, supposing that the Pulque weighs no more than water, the fifty
 
-amphoras will be more than two thousand Roman pounds.
-
-[p. 223]
-
-not counting what is introduced by contraband, and what the privi‐
+amphoras will be more than two thousand Roman pounds. [p. 223] not counting what is introduced by contraband, and what the privi‐
 
 Bk. VII. leged Indians sell in the great square.
 
@@ -9336,11 +8628,7 @@ A plebeian. An ordinary woman. A noble.
 
 A lady. A soldier. A priest.
 
-Mexican dress.
-
-[p. 225]
-
-cacao, as it is represented in our figure of the way of making bread. This instrument is still in very common use throughout New Spain Bk. VII. and in the greater part of America. The Europeans too have adopted it, and in Italy and elsewhere the chocolate-makers use it to grind the cacao. The Comalli was, and still is (for it is as much used as the metlatl), a round, somewhat concave earthen dish, a finger in thickness and about fifteen inches in diameter.
+Mexican dress. [p. 225] cacao, as it is represented in our figure of the way of making bread. This instrument is still in very common use throughout New Spain Bk. VII. and in the greater part of America. The Europeans too have adopted it, and in Italy and elsewhere the chocolate-makers use it to grind the cacao. The Comalli was, and still is (for it is as much used as the metlatl), a round, somewhat concave earthen dish, a finger in thickness and about fifteen inches in diameter.
 
 The drinking vessels of the Mexicans were made of certain fruits resembling gourds, which grow in the hot countries on trees of moderate size. Some are large and perfectly round, and these they call Xicalli (X); the others are smaller and cylindrical, and to these they give the name of Tecomatl. Both kinds of fruit are solid and heavy: their rind is hard, woody, and of a dark green color, and their seeds are like those of gourds. The Xicalli is about eight inches in diameter, and the Tecomatl a little less in length and about four fingers in thickness. Each fruit, divided in half, yielded two equal vessels: they hollowed out all the seeds, and gave them, with certain mineral earths, a permanent varnish of a pleasant odor and of various colors, above all a beautiful red. Nowadays they are accustomed also to silver and gild them.
 
@@ -9348,11 +8636,7 @@ The Mexicans used in their houses neither candlesticks nor candles of wax or of 
 
 History of Mexico, Vol. II.                        Ff                            of
 
-(X) The Spaniards of Mexico called the Xicalli Xicara. The Spaniards of Europe adopted this name to signify the little cup for taking chocolate, and from it arose the Italian chicchera. M. de Bomare mentions the tree of the Xicalli under the name of Calebasse d’Amérique, and says that in New Spain it is known by the names of Choyne, Cujete, and Hyguero; but this is not true. The name Hibuero (not Hyguero) was the one that the Indians of the island of Hispaniola gave to this tree: the conquering Spaniards formerly used it; but no one else afterwards made use of it in New Spain. The other names I have never heard in those countries.
-
-[p. 226]
-
-of wax from the honeycombs, they either did not wish to, or did not Bk. VII.
+(X) The Spaniards of Mexico called the Xicalli Xicara. The Spaniards of Europe adopted this name to signify the little cup for taking chocolate, and from it arose the Italian chicchera. M. de Bomare mentions the tree of the Xicalli under the name of Calebasse d’Amérique, and says that in New Spain it is known by the names of Choyne, Cujete, and Hyguero; but this is not true. The name Hibuero (not Hyguero) was the one that the Indians of the island of Hispaniola gave to this tree: the conquering Spaniards formerly used it; but no one else afterwards made use of it in New Spain. The other names I have never heard in those countries. [p. 226] of wax from the honeycombs, they either did not wish to, or did not Bk. VII.
 
 know how to, derive from it the advantage of light. In the maritime
 
@@ -9436,11 +8720,7 @@ Ff2                              a
 
 (Z) Tabaco is a name taken from the Haitian language. The Mexicans had two kinds of tobacco, very different in the size of the plant and of the leaves, in the shape of the flower, and in the color of the seed. The smaller, which is the common one, they called Picietl, and the larger Quaujetl. This grows as tall as a tree of moderate size. Its flower is not divided into five parts like that of the Picietl, but only distinguished into six or seven angles. These plants vary greatly by reason of the climate, not only in the quality of the tobacco but also in the size of the leaves and in other accidents; whence several authors have multiplied the species.
 
-(aa) I have heard it said that from the Epatl, or zorriglio, an excellent soap is extracted.
-
-[p. 228]
-
-a root. The fruit was that of the Copalxocotl, a tree of moderate size, Bk. VII.
+(aa) I have heard it said that from the Epatl, or zorriglio, an excellent soap is extracted. [p. 228] a root. The fruit was that of the Copalxocotl, a tree of moderate size, Bk. VII.
 
 which grows in Michoacán, in Yucatán, in the Mixteca, and else‐
 
@@ -9602,11 +8882,7 @@ TOCHTLI I TECPATL                       1428            II Acatl                
 
 IX
 
-(k) Maxtla the Tyrant. (l) Itzcoatl, fourth king of Mexico. (m) Conquest of Azcapotzalco. (n) Nezahualcoyotl, king of Acolhuacan, and Totoquihuatzin, king of Tacuba. (o) Moctezuma Ilhuicamina, fifth king of Mexico. (p) Moquihuix, fourth king of Tlatelolco. (q) Flood of Mexico. (r) Famous war of Cuetlachtlan. (s) Axayacatl, sixth king of Mexico. (t) Chimalpopoca, king of Tacuba. (u) Nezahualpilli, king of Acolhuacan,
-
-[p. 233]
-
-Mexican          Christian                 Mexican           Christian
+(k) Maxtla the Tyrant. (l) Itzcoatl, fourth king of Mexico. (m) Conquest of Azcapotzalco. (n) Nezahualcoyotl, king of Acolhuacan, and Totoquihuatzin, king of Tacuba. (o) Moctezuma Ilhuicamina, fifth king of Mexico. (p) Moquihuix, fourth king of Tlatelolco. (q) Flood of Mexico. (r) Famous war of Cuetlachtlan. (s) Axayacatl, sixth king of Mexico. (t) Chimalpopoca, king of Tacuba. (u) Nezahualpilli, king of Acolhuacan, [p. 233] Mexican          Christian                 Mexican           Christian
 
 Years             Years                     Years             Years IX Acatl                1475               VII Acatl                1499 X Tecpatl               1476               VIII Tecpatl             1500 XI Calli                1477        (x)    IX Calli                 1501 XII Tochtli             1478               X Tochtli                1502        (C) XIII Acatl              1479               XI Acatl                 1503 I TECPATL               1480               XII Tecpatl              1504 II Calli                1481               XIII Calli               1505
 
@@ -10134,11 +9410,7 @@ Month 11.
 
 26       V Acatl
 
-History of Mexico, Vol. II.                     Hh                        27
-
-[p. 242]
-
-Our Days          Mexican Days                     Festivals Sept.       27   VI Ocelotl            The third festival of the goddess
+History of Mexico, Vol. II.                     Hh                        27 [p. 242] Our Days          Mexican Days                     Festivals Sept.       27   VI Ocelotl            The third festival of the goddess
 
 ## 28   VII Quauhtli          Centeotl in the temple Xiuhcalco
 
@@ -10536,11 +9808,7 @@ The sixth month is represented by a pot, or little jar, to signify a certain pol
 
 The two figures of the seventh and eighth months seem to have been invented
 
-History of Mexico, Vol. II.                Ii                     to
-
-[p. 250]
-
-to signify the dances that were performed in them, and because the dances of the eighth month were greater, the figure that represents it is also greater. Beside the aforesaid figures are seen lancets, to denote the austerity with which they prepared for those festivals. The Tlaxcalans represented these two months in two heads of lords: that of the month Tecuilhuitontli, or Small festival of the lords, seems to be that of a young man, and that of the month Hueitecuilhuitl, that is, Great festival of the lords, appears to be that of an old man.
+History of Mexico, Vol. II.                Ii                     to [p. 250] to signify the dances that were performed in them, and because the dances of the eighth month were greater, the figure that represents it is also greater. Beside the aforesaid figures are seen lancets, to denote the austerity with which they prepared for those festivals. The Tlaxcalans represented these two months in two heads of lords: that of the month Tecuilhuitontli, or Small festival of the lords, seems to be that of a young man, and that of the month Hueitecuilhuitl, that is, Great festival of the lords, appears to be that of an old man.
 
 The figures of the ninth and tenth months are undoubtedly significant of the mourning dress which they wore, and of the grief which they made for their dead, which caused the ninth month to be called Miccailhuitl, that is, Festival of the dead, and the tenth month Hueimiccailhuitl, or Great festival of the dead; but because the grief of the tenth month was greater, the figure that represents it is also larger. The Tlaxcalans painted in each of the aforesaid months a skull with two bones; but the skull of the tenth month larger.
 
@@ -10628,11 +9896,7 @@ The third figure is that of the back part of a man beside a rush plant, and the 
 
 in
 
-(*) Father Acosta says that Chalco means, In the mouths; but the Mexican word signifying the mouth is Camatl, and to say, In the mouths, they say Camac.
-
-[p. 254]
-
-in tzinco, which are many, have a similar meaning and are represented by similar figures.
+(*) Father Acosta says that Chalco means, In the mouths; but the Mexican word signifying the mouth is Camatl, and to say, In the mouths, they say Camac. [p. 254] in tzinco, which are many, have a similar meaning and are represented by similar figures.
 
 The fifth figure is that of a little branch of the tree Huaxin on a nose, to represent the city of Huaxyacac, a name composed of Huaxin and of jacatl, and meaning, At the point or extremity of the grove of Huaxin; for although jacatl properly means the nose, it is used to signify any point whatever. Thus Tepeyacac, the name of two places, means On the point of the mountain. In our figure that little branch is seen not on the nose, as it should be, but on the forehead, through a mistake of the engraver.
 
@@ -10670,11 +9934,7 @@ The sixteenth figure represents the place of Tecozauhtla, whose name means, Plac
 
 These figures are not portraits of the kings, but symbols signifying
 
-their
-
-[p. 256]
-
-their names. In all of them is seen a head crowned in the Mexican fashion, and each has its own mark to signify the name of the king represented in it.
+their [p. 256] their names. In all of them is seen a head crowned in the Mexican fashion, and each has its own mark to signify the name of the king represented in it.
 
 Acamapichtli, name of the first king of Mexico, means, He who has reeds in his fist, and this is seen represented in his figure.
 
@@ -10724,11 +9984,7 @@ gret how deplorable is the loss of those documents which served the celebrated D
 
 The year and the century have been regulated among the Mexicans from time immemorial with an intelligence greater than corresponds to their arts and sciences. In these they were without doubt inferior to the Greeks and the Romans; but the talent that is discerned in the calendar does not yield to that of the most cultivated nations. Hence we must conjecture that this calendar was not the work of the Mexicans, but of another, more enlightened nation; and since in America
 
-it
-
-[p. 259]
-
-it has not been found, we must seek it elsewhere, as in Asia or in Egypt. This supposition is confirmed by what you affirm, namely, that the Mexicans had their calendar from the Toltecs (who came from Asia), who, according to Boturini, had their year exactly adjusted to the solar course more than 100 years before the Christian era; and by seeing that other nations, such as the Chiapanecs, used the same Mexican calendar with no other difference than that of the symbols.
+it [p. 259] it has not been found, we must seek it elsewhere, as in Asia or in Egypt. This supposition is confirmed by what you affirm, namely, that the Mexicans had their calendar from the Toltecs (who came from Asia), who, according to Boturini, had their year exactly adjusted to the solar course more than 100 years before the Christian era; and by seeing that other nations, such as the Chiapanecs, used the same Mexican calendar with no other difference than that of the symbols.
 
 The Mexican year began on February 26, a day famous in the era of Nabonassar, which was fixed by the Egyptian priests 747 years before the Christian era; for at noon of that day there corresponded among them the beginning of the month Thoth. Now if those priests also fixed this day for the epoch because it was (a) famous in Egypt, we have in that case the Mexican calendar in conformity with the Egyptian. But leaving this aside, it cannot otherwise be doubted that the Mexican calendar agreed closely with the Egyptian. Of this Herodotus says, (b) that it was first regulated by the Egyptians by giving the year 12 months of 30 days and adding five days to each year, so that the circle of the year might return upon its own tracks: that the principal gods of Egypt were twelve, and that each month was under the tutelage and patronage of one of these gods. The Mexicans also added five days in every year, which were called by them Nemontemi, that is, useless, because in them they did nothing. Plutarch says (c) that on such days the Egyptians celebrated the festival of the birth of their gods.
 
@@ -10738,57 +9994,33 @@ Kk2                        in
 
 (a) On February 26 of that year the year properly began according to the meridian of Alexandria, which was built three centuries afterward. Q. Curt. bk. 4, ch. 21. See La Lande, Astronomie, no. 1597.
 
-(b) Herod. bk. 2, ch. 1 and 6. (c) Plut. De Iside et Osiride.
-
-[p. 260]
-
-in the Mexican month what Holy Scripture tells us (a) of the month, that it owes its name to the Moon. So that the Mexicans, having perhaps received the lunar month from their ancestors, will afterward have instituted the other species of months for other ends. You affirm in your history, on the faith of Boturini, that the Mixtecs had the year of 13 months, which number was sacred in the Mexican calendar out of regard for their 13 principal gods, in the same manner as in Egypt the number 12 was consecrated to their twelve greater gods.
+(b) Herod. bk. 2, ch. 1 and 6. (c) Plut. De Iside et Osiride. [p. 260] in the Mexican month what Holy Scripture tells us (a) of the month, that it owes its name to the Moon. So that the Mexicans, having perhaps received the lunar month from their ancestors, will afterward have instituted the other species of months for other ends. You affirm in your history, on the faith of Boturini, that the Mixtecs had the year of 13 months, which number was sacred in the Mexican calendar out of regard for their 13 principal gods, in the same manner as in Egypt the number 12 was consecrated to their twelve greater gods.
 
 Admirable indeed is the use, in the Mexican calendar, of symbols and of periods of years, of months, and of days. As for the periods, it seems to me that that of five days might be called their civil week, and that of thirteen their religious week. Similarly the period of twenty days will have been their civil month; that of twenty-six days the religious month; and that of thirty the lunar and astronomical month. In the century it may be believed that the period of four years was the civil one, and that of thirteen the religious one. By the multiplication of these two periods they had their century of fifty-two years, and from the doubling of the century they had their age of a hundred and four years. In all these periods is discerned an art no less marvelous than that of our indictions, cycles, etc. The period of civil weeks was contained perfectly in the civil month and in the astronomical; the latter had six of them, and the former four, and the year contained seventy-three complete weeks: in which our method is exceeded by the Mexican; for our weeks are not contained perfectly in the month, nor even in the year. The period of religious weeks was contained twice in their religious month, and twenty-eight times in the year; but in this a day was left over, just as one is left over in our weeks. From the periods of thirteen days multiplied by the twenty characters of the month there resulted the cycle of 260 days, of which you make mention; but because in the solar year after the twenty-eight religious weeks
 
 a
 
-(a) From the moon is the sign of the festival day . . . the month is called after her name . . . Ecclus. 43.
-
-[p. 261]
-
-a day remained over, whence there likewise resulted another cycle of 260 years, in such a way that the Mexicans could tell from the first day of the year what year it was. The period of civil months multiplied by the number of days (that is, 18 multiplied by 20) and the period of lunar months multiplied by the number of days (that is, 12 multiplied by 30) give the same product, or number, 360: a number indeed no less immemorial, and in use among the Mexicans, than among the most ancient nations; and a number which from time immemorial rules in geometry and astronomy, and is most important for its relation to the circle, which is divided into 360 parts, or degrees. We have among no nation of the world anything similar to this clear and admirable method of calendar. From the small period of four years multiplied by the aforesaid cycle of 260 years there came another marvelous cycle of 1040 years. The Mexicans combined the small period of 4 years with the period above mentioned, the week of 13 years; whence there resulted their well-known cycle, or century, of 52 years; and so with the four figures indicating the period of 4 years they had, as we have with the dominical letters, a period which, to tell the truth, exceeded ours: for ours is of 28 years, and the Mexican is of 52 years: this was perpetual, and ours in the Gregorian years is not perpetual. Such variety and simplicity of periods of weeks, months, years, and cycles cannot fail to be admired: all the more so as there is discovered at once the well-known relation which the said periods have to many different ends, which Boturini indicates, saying, “the Mexican calendar was of four kinds: namely, natural for agriculture, chronological for history, ritual for the festivals, and astronomical for the course of the stars, and the year was luni-solar.” This year, unless we place it at the end of three Mexican ages, after several calculations made I do not find.
+(a) From the moon is the sign of the festival day . . . the month is called after her name . . . Ecclus. 43. [p. 261] a day remained over, whence there likewise resulted another cycle of 260 years, in such a way that the Mexicans could tell from the first day of the year what year it was. The period of civil months multiplied by the number of days (that is, 18 multiplied by 20) and the period of lunar months multiplied by the number of days (that is, 12 multiplied by 30) give the same product, or number, 360: a number indeed no less immemorial, and in use among the Mexicans, than among the most ancient nations; and a number which from time immemorial rules in geometry and astronomy, and is most important for its relation to the circle, which is divided into 360 parts, or degrees. We have among no nation of the world anything similar to this clear and admirable method of calendar. From the small period of four years multiplied by the aforesaid cycle of 260 years there came another marvelous cycle of 1040 years. The Mexicans combined the small period of 4 years with the period above mentioned, the week of 13 years; whence there resulted their well-known cycle, or century, of 52 years; and so with the four figures indicating the period of 4 years they had, as we have with the dominical letters, a period which, to tell the truth, exceeded ours: for ours is of 28 years, and the Mexican is of 52 years: this was perpetual, and ours in the Gregorian years is not perpetual. Such variety and simplicity of periods of weeks, months, years, and cycles cannot fail to be admired: all the more so as there is discovered at once the well-known relation which the said periods have to many different ends, which Boturini indicates, saying, “the Mexican calendar was of four kinds: namely, natural for agriculture, chronological for history, ritual for the festivals, and astronomical for the course of the stars, and the year was luni-solar.” This year, unless we place it at the end of three Mexican ages, after several calculations made I do not find.
 
 Boturini himself determines, according to the Mexican paintings, the year of the confusion of tongues and the years of the creation of the world; which determination ought not to seem
 
-difficult,
-
-[p. 262]
-
-difficult, since, the eclipses being noted in the Mexican paintings, there is no doubt that from them can be derived the true epoch of the chronology, just as Father Souciet derives the Chinese from the solar eclipse which he fixed in the year 2155 before the Christian era. A well-circumstanced eclipse, as Father Briga (a) Romagnoli proves at length, can give light to fix the epoch of the chronology within a space of 20 thousand years: and although in the Mexican paintings not all the circumstances of the eclipses are described, the defect of these is remedied by the many eclipses that are noted in them. Hence the Mexican gentlemen, who still preserve a great number of paintings, could by the study of them bring great advantage to chronology.
+difficult, [p. 262] difficult, since, the eclipses being noted in the Mexican paintings, there is no doubt that from them can be derived the true epoch of the chronology, just as Father Souciet derives the Chinese from the solar eclipse which he fixed in the year 2155 before the Christian era. A well-circumstanced eclipse, as Father Briga (a) Romagnoli proves at length, can give light to fix the epoch of the chronology within a space of 20 thousand years: and although in the Mexican paintings not all the circumstances of the eclipses are described, the defect of these is remedied by the many eclipses that are noted in them. Hence the Mexican gentlemen, who still preserve a great number of paintings, could by the study of them bring great advantage to chronology.
 
 As regards the symbols of the months and of the Mexican year, ideas are discovered totally conformable to those of the ancient Egyptians. These (as is seen in their monuments) distinguished each month, or part of the zodiac where the Sun stood, with characteristic figures of what happened in each season of the year. Thus we see the signs of Aries, of Taurus, and of the two kids (which are now the two Twins) to be in the months of the birth of these animals: the signs of Cancer, of Leo, and of Virgo with the ear of grain in those months in which the Sun retrogrades, like a crab, in which there is greater heat, and in which the harvest is gathered: the signs of Scorpio (which in the Egyptian sphere occupied the space which Libra now occupies) and that of Sagittarius in the months of venomous illnesses and of the chase: and lastly the signs of Capricorn, of Aquarius, and of Pisces in those months in which the Sun returns to climb toward us, in which it rains much, and in which the abundant fishing begins. Somewhat similar to these are the ideas which the Mexicans adapted to their climate. They called their first month, which began on February 26, Acahualco, that is, cessation of the waters; and they symbolized this month with a house and the figure of water above it. They also gave to the said month
 
 the
 
-(a) Scientiæ eclipsium ex Europa in Sinas, pt. 3, ch. 2, § 20.
-
-[p. 263]
-
-the name of Quahuitlehua, that is, the budding, or moving, of the trees. The Mexicans, then, distinguished their first month by two names, of which the first, namely Acahualco, or cessation of the waters, did not suit their climate, where the waters cease in October; but it suits the fields of Sennaar, and the northern climes of America, in which their progenitors had been: and from this it is clearly gathered that the origin of the said name is most ancient. The second name, namely Quahuitlehua, or budding of the trees, agrees much with the word Kimah used by Job to signify the Pleiades, (a) which in his time announced the spring, in which the trees put forth. The symbol of the second Mexican month was a pavilion; which served to denote the great heat that is felt in Mexico in April before the rains of May begin. The symbol of the third month was a bird, which at that time would be seen. The twelfth and thirteenth months had for symbol the plant pachtli, which in the said months springs up and grows. The symbol of the seventeenth month was expressed with certain pieces of wood bound with a cord, and a hand that was pulling it; the intention being thereby to signify how much the cold constricts in that month, namely in January: and to this same end the name Tititl, which was given to the said month, clearly alludes. The constellation Kesil, of which Job speaks to signify winter, in the Arabic root (which is Kesal) signifies to be cold and drowsy: and in the text of Job it reads thus, “Will you be able to break the cords, or bonds, of Kesil?”
+(a) Scientiæ eclipsium ex Europa in Sinas, pt. 3, ch. 2, § 20. [p. 263] the name of Quahuitlehua, that is, the budding, or moving, of the trees. The Mexicans, then, distinguished their first month by two names, of which the first, namely Acahualco, or cessation of the waters, did not suit their climate, where the waters cease in October; but it suits the fields of Sennaar, and the northern climes of America, in which their progenitors had been: and from this it is clearly gathered that the origin of the said name is most ancient. The second name, namely Quahuitlehua, or budding of the trees, agrees much with the word Kimah used by Job to signify the Pleiades, (a) which in his time announced the spring, in which the trees put forth. The symbol of the second Mexican month was a pavilion; which served to denote the great heat that is felt in Mexico in April before the rains of May begin. The symbol of the third month was a bird, which at that time would be seen. The twelfth and thirteenth months had for symbol the plant pachtli, which in the said months springs up and grows. The symbol of the seventeenth month was expressed with certain pieces of wood bound with a cord, and a hand that was pulling it; the intention being thereby to signify how much the cold constricts in that month, namely in January: and to this same end the name Tititl, which was given to the said month, clearly alludes. The constellation Kesil, of which Job speaks to signify winter, in the Arabic root (which is Kesal) signifies to be cold and drowsy: and in the text of Job it reads thus, “Will you be able to break the cords, or bonds, of Kesil?”
 
 And here, setting aside the clear conformity which the Mexican symbols and expressions for spring and winter have with those of Job, who in my opinion flourished a short time after the Flood (as I say in my vol. XI), it must be noted how the said symbols, which are truly excellent for keeping the year invariable, demonstrate the use of intercalary days among the Mexicans: otherwise it would be seen that in two centuries the symbol of the month of cold would come to fall
 
 in
 
-(a) Job, ch. 9, v. 9, and ch. 38, 31.
-
-[p. 264]
-
-in the month of heat. Thus, if from the Mexican paintings it is gathered that in them the conquest of Mexico was noted in their ninth month, called Tlaxochimaco, it would be inferred from this that intercalary days had been in use. The same would be deduced from seeing that the Mexicans at the entrance of the Spaniards preserved that order of months which, according to the signification of their names, suited the seasons of the year and the products of the earth. Further, to find out how the Mexicans regulated their leap years, and whether their year was exact, a precise examination and comparison should be made of some event known to us which could be seen to be noted by the Mexicans. You, for example, fix the death of Moctezuma on June 29, 1520: if this were found in the Mexican paintings on the day VII Cuetzpalin of the seventh month, it would be inferred that their year was exact, and that the leap days had been interspersed every four years: if it corresponded to the day IV Cipactli, it was a sign that their year was exact, and that the leap days were counted after the century: if it corresponded to the VII Ozomatli, then it was inferred that their leap days were placed after the century, and that their year was as much in error as ours was at that time. The proposed example rests upon the calendar which you put at the end of vol. II: this I have done for the sake of greater clarity: but if it were a question of making the calculation exactly, it should be borne in mind that your Calendar corresponds to the year I of the Mexican century, and that the year 1520 was the year XIV of that century: whence the names of the days would have a different order from that which has been proposed for the sake of greater clarity.
+(a) Job, ch. 9, v. 9, and ch. 38, 31. [p. 264] in the month of heat. Thus, if from the Mexican paintings it is gathered that in them the conquest of Mexico was noted in their ninth month, called Tlaxochimaco, it would be inferred from this that intercalary days had been in use. The same would be deduced from seeing that the Mexicans at the entrance of the Spaniards preserved that order of months which, according to the signification of their names, suited the seasons of the year and the products of the earth. Further, to find out how the Mexicans regulated their leap years, and whether their year was exact, a precise examination and comparison should be made of some event known to us which could be seen to be noted by the Mexicans. You, for example, fix the death of Moctezuma on June 29, 1520: if this were found in the Mexican paintings on the day VII Cuetzpalin of the seventh month, it would be inferred that their year was exact, and that the leap days had been interspersed every four years: if it corresponded to the day IV Cipactli, it was a sign that their year was exact, and that the leap days were counted after the century: if it corresponded to the VII Ozomatli, then it was inferred that their leap days were placed after the century, and that their year was as much in error as ours was at that time. The proposed example rests upon the calendar which you put at the end of vol. II: this I have done for the sake of greater clarity: but if it were a question of making the calculation exactly, it should be borne in mind that your Calendar corresponds to the year I of the Mexican century, and that the year 1520 was the year XIV of that century: whence the names of the days would have a different order from that which has been proposed for the sake of greater clarity.
 
 Lastly, most respected Friend, the symbol which you put to signify the Mexican century convinces us evidently that it is the very one which the ancient Egyptians and Chaldeans had. There is seen in the Mexican symbol the sun, as if eclipsed by the moon, and surrounded by a serpent, which makes four knots, and embraces the four periods of thirteen years. This very same idea of the serpent with the sun is immemorial in the world to signify the periodic, or annual, course of the sun. We
 
-have
-
-[p. 265]
-
-have in astronomy that the points where eclipses occur are called (as Father Briga (a) Romagnoli noted) from time immemorial head and tail of the dragon. The Chinese, with false ideas, but conformable to this immemorial allusion, believe that in eclipses a dragon is in the act of swallowing the sun. The Egyptians agree more particularly with the Mexicans; for to symbolize the sun they used a circle with one or two serpents: still more did the ancient Persians agree, among whom their Mithras (who certainly was the sun), worshiped by the Greeks and by the Romans, was symbolized (b) with the sun and with a serpent; and from Father Montfaucon (c) we have in his Antiquities a monument of a serpent, which, encircling the signs of the zodiac, cuts them in various ways by coiling around them. In view of these undeniable examples the following reflection is most convincing, namely: there is no doubt that the symbol of the serpent is a totally arbitrary thing to signify the sun, with which it has no physical relation: why then, I ask, have so many dispersed nations, some of which did not deal with one another except in the first centuries after the Flood, why have they agreed in using one and the same symbol, so arbitrary, and wished to signify by it one and the same object? The finding of the word sack in the Hebrew, Greek, Teutonic, Latin, etc. languages obliges us to believe that it belongs to the primitive language of men after the Flood; and will not the seeing used by the Mexicans, by the Chinese, by the ancient Egyptians, and by the Persians one and the same arbitrary symbol to signify the sun, and its course, oblige us to recognize in the said symbol its true origin in the time of Noah, or of the first men after the Flood? This well-deduced consequence of mine is effectively confirmed by the Chiapanec calendar (which is wholly Mexican), where the Chiapanecs (according to Monsignor Núñez de la Vega
+have [p. 265] have in astronomy that the points where eclipses occur are called (as Father Briga (a) Romagnoli noted) from time immemorial head and tail of the dragon. The Chinese, with false ideas, but conformable to this immemorial allusion, believe that in eclipses a dragon is in the act of swallowing the sun. The Egyptians agree more particularly with the Mexicans; for to symbolize the sun they used a circle with one or two serpents: still more did the ancient Persians agree, among whom their Mithras (who certainly was the sun), worshiped by the Greeks and by the Romans, was symbolized (b) with the sun and with a serpent; and from Father Montfaucon (c) we have in his Antiquities a monument of a serpent, which, encircling the signs of the zodiac, cuts them in various ways by coiling around them. In view of these undeniable examples the following reflection is most convincing, namely: there is no doubt that the symbol of the serpent is a totally arbitrary thing to signify the sun, with which it has no physical relation: why then, I ask, have so many dispersed nations, some of which did not deal with one another except in the first centuries after the Flood, why have they agreed in using one and the same symbol, so arbitrary, and wished to signify by it one and the same object? The finding of the word sack in the Hebrew, Greek, Teutonic, Latin, etc. languages obliges us to believe that it belongs to the primitive language of men after the Flood; and will not the seeing used by the Mexicans, by the Chinese, by the ancient Egyptians, and by the Persians one and the same arbitrary symbol to signify the sun, and its course, oblige us to recognize in the said symbol its true origin in the time of Noah, or of the first men after the Flood? This well-deduced consequence of mine is effectively confirmed by the Chiapanec calendar (which is wholly Mexican), where the Chiapanecs (according to Monsignor Núñez de la Vega
 
 History of Mexico, Vol. II.                                 Ll                         Bishop
 
@@ -10816,27 +10048,15 @@ thor of the Lettere americane, a most recent work, full of erudition, published 
 
 In letter IX of the second part, in which he speaks of the Mexican year, this author cites Gemelli, and unjustly charges him with an error. Gemelli says that the Mexican year
 
-Ll2                      at
-
-[p. 268]
-
-at the beginning of their century began on April 10; but that every four years it advanced a day, on account of our leap day: so that after four years it began on the 9th of that month, after eight years it began on the 8th, and thus it went on advancing a day every four years to the end of the Mexican century, in which, by the interposition of the thirteen intercalary days, omitted in the course of the century, the year returned to begin on April 10. This, adds the author of the Letters, is a contradiction of fact, since the year after four years ought to begin on the eleventh, and not on the ninth, and thus for every four years a day ought to be added, and in that case the correction of the thirteen days after the 52 years became superfluous, or, a retrogression of a day being admitted every four years, the difference of the sidereal year at the end of the cycle would have been double, that is, of 26 days.
+Ll2                      at [p. 268] at the beginning of their century began on April 10; but that every four years it advanced a day, on account of our leap day: so that after four years it began on the 9th of that month, after eight years it began on the 8th, and thus it went on advancing a day every four years to the end of the Mexican century, in which, by the interposition of the thirteen intercalary days, omitted in the course of the century, the year returned to begin on April 10. This, adds the author of the Letters, is a contradiction of fact, since the year after four years ought to begin on the eleventh, and not on the ninth, and thus for every four years a day ought to be added, and in that case the correction of the thirteen days after the 52 years became superfluous, or, a retrogression of a day being admitted every four years, the difference of the sidereal year at the end of the cycle would have been double, that is, of 26 days.
 
 I am amazed that a man of letters who shows himself to be a good calculator should err in so simple and so clear a calculation. The year 1506 was secular among the Mexicans. Now, for greater clarity, let us suppose that their year began, like ours, on the 1st of January. This first year of the Mexican century, composed, like ours, of 365 days, ended just like ours on December 31, and similarly the second year, corresponding to 1507; but in 1508 the Mexican year had to end a day before ours; because ours, being a leap year, had 366 days, whereas the Mexican had no more than 365. Therefore the fourth year of that Mexican century, corresponding to 1509, had to begin a day before ours, that is, on December 31, 1508. Likewise the eighth year, corresponding to 1513, had to begin on December 30, 1512, for the same reason of that year having been a leap year. The twelfth year, corresponding to 1517, had to begin on December 29, 1516, and so on to the year 1557, the last of that Mexican century, in which the Mexican year had to advance on ours as many days as there had been leap years. Now in the 52 years
 
-of
-
-[p. 269]
-
-of the Mexican century there are 13 leap years: therefore that last year of the century had to advance thirteen days on ours, and not 26. The interposition of the thirteen days at the end of the century, to adjust the year to the solar course, was therefore not superfluous. So Gemelli spoke rightly in what he wrote concerning the anticipation of the year, though he erred in saying that the Mexican year began on April 10; since it began, as we have so many times said, on February 26. The author of the Letters believes that the Mexicans began their year from the spring equinox. I am of the same opinion as to their astronomical year; but I have not dared to affirm it, because I do not know it. The ancient Spanish historians of Mexico were not astronomers, and in their histories they did not take as much care to set forth the progress of the Mexicans in the sciences as their superstitious rites. The Mexican Ciclografía, composed by the great astronomer Sigüenza after a diligent study of the Mexican paintings, and after very many calculations of the eclipses and of the comets noted in those paintings, has not come down to us.
+of [p. 269] of the Mexican century there are 13 leap years: therefore that last year of the century had to advance thirteen days on ours, and not 26. The interposition of the thirteen days at the end of the century, to adjust the year to the solar course, was therefore not superfluous. So Gemelli spoke rightly in what he wrote concerning the anticipation of the year, though he erred in saying that the Mexican year began on April 10; since it began, as we have so many times said, on February 26. The author of the Letters believes that the Mexicans began their year from the spring equinox. I am of the same opinion as to their astronomical year; but I have not dared to affirm it, because I do not know it. The ancient Spanish historians of Mexico were not astronomers, and in their histories they did not take as much care to set forth the progress of the Mexicans in the sciences as their superstitious rites. The Mexican Ciclografía, composed by the great astronomer Sigüenza after a diligent study of the Mexican paintings, and after very many calculations of the eclipses and of the comets noted in those paintings, has not come down to us.
 
 I cannot forgive the author of the Letters the wrong that he does to this great Mexican in letter 3 of vol. II, where he discusses, on the faith of Gemelli, the pyramids of Teotihuacan. Carlos Sigüenza, says that author, judges such edifices to be anterior to the Flood. It is not true: how could Sigüenza judge such pyramids anterior to the Flood, believing the peopling of America posterior to the confusion of tongues, and the first settlers descendants of Nephtuim, great-grandson of Noah, as the Chevalier Boturini, who saw some works of Sigüenza, attests? Gemelli himself, on whom the author of the Letters relies, expressly contradicts him in vol. 6, bk. 2, ch. 8. No Indian historian, says this traveler, has known how to investigate the time of the erection of the pyramids of America; yet Don Carlos Sigüenza esteemed them most ancient, and a little after the Flood. Nor did Gemelli explain well the view of Sigüenza; for Dr. Eguiara, discussing in the Bibliotheca mexicana the works of Sigüenza
 
-Ll3                       and
-
-[p. 270]
-
-and, among the others, of the one which he wrote on the peopling of America, says that in this work he fixes the first peopling of that New World a little after the Babylonian confusion, that is, somewhat later than what Gemelli gives us to understand.
+Ll3                       and [p. 270] and, among the others, of the one which he wrote on the peopling of America, says that in this work he fixes the first peopling of that New World a little after the Babylonian confusion, that is, somewhat later than what Gemelli gives us to understand.
 
 As for the other, more important articles discussed in the aforesaid letters, we shall treat of them at the proper place in our dissertations, in which we shall partly agree with that author, and partly oppose his views.
 

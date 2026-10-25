@@ -221,6 +221,7 @@ def render(path, s):
         skip = 1
     if len(paras) > 1 and paras[1].startswith('Conventions:'):
         skip = 2
+    noorig = not mono and not any(p.startswith('>') for p in paras[skip:])   # English-only edition: the English column carries the text
     for p in paras[skip:]:
         mk = re.fullmatch(r'\[(p\. [^\]]+|scan \d+|PDF \d+)\]', p)
         if mk:
@@ -246,6 +247,8 @@ def render(path, s):
             continue
         im = re.search(r'\[(?:p\. |scan |PDF )([^\]]+)\]', p)
         if mono and im and (cur['e'] or cur['h']):
+            new_card(im.group(0)[1:-1])
+        elif noorig and im and not NOTE.match(p) and (cur['e'] or cur['h']):      # a paragraph holding a page mark opens that page's card; its first mark labels it
             new_card(im.group(0)[1:-1])
         elif im and not cur['label']:
             cur['label'] = im.group(0)[1:-1]
