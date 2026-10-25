@@ -11,6 +11,8 @@ a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
 .chip{display:inline-block;font-size:.72rem;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:.05rem .55rem;margin-left:.3rem;vertical-align:middle;white-space:nowrap}
 .wrap{margin:0 auto;padding:1.2rem 1.4rem 5rem}.wrap.index{max-width:1100px}
 /* index */
+.tabs{display:flex;gap:1.6rem;border-bottom:1px solid var(--line);margin:1.6rem 0 0}.tabs button{font:inherit;font-size:1rem;border:0;background:transparent;color:var(--muted);padding:.6rem 0;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px}.tabs button.on{color:var(--ink);border-bottom-color:var(--accent)}
+.reslist .row{border-bottom:1px solid var(--line)}
 .hero{padding:2.4rem 0 1.2rem}.hero h1{font-size:2rem;font-weight:normal;margin:0 0 .3rem;letter-spacing:-.01em}.hero p{margin:0;color:var(--muted);max-width:60ch}
 .controls{display:flex;gap:.9rem;flex-wrap:wrap;align-items:center;margin:1rem 0 1.6rem;position:sticky;top:3.1rem;background:var(--paper);padding:.6rem 0;z-index:4}
 .seg{display:inline-flex;align-items:center;gap:0;border:1px solid var(--line);border-radius:999px;background:var(--card);padding:.15rem;font-size:.82rem}
@@ -58,7 +60,6 @@ body.noside .page{gap:0 0}body.noside main{padding-left:.2rem}
 .card .o p:last-child,.card .e p:last-child{margin-bottom:0}.card .o,.card .e{min-width:0}
 .card .fn{margin-top:auto;padding-top:.5rem;border-top:1px solid var(--line);font-size:.84em;line-height:1.45;color:var(--muted)}
 .card .fn p{margin:0 0 .3em;text-align:justify;text-align-last:left;hyphens:auto}.card .fn p:last-child{margin-bottom:0}.card .o .fn{border-top-color:color-mix(in srgb,var(--line) 60%,var(--orig))}
-.card .fnrow .o,.card .fnrow .e{font-size:.84em}.card .fnrow .o p,.card .fnrow .e p{line-height:1.45}
 .card .fn{margin-top:.8rem}
 .card.mono .e{max-width:66ch}.gnotes p,.notes p{text-align:justify;text-align-last:left;hyphens:auto}
 .card p.sep{text-align:center;color:var(--muted);letter-spacing:.4em}
