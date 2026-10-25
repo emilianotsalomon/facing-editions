@@ -1,0 +1,15 @@
+title: Psyche
+title_en: Psyche. On the Developmental History of the Soul
+author: Carl Gustav Carus
+year: 1846
+original_language: de
+translation_language: en
+edition_layout: clean text (both columns typeset)
+source: ‘Psyche-Carus-1846.html’ (HTML reader) — THIS FILE IS THE SOURCE, corrections go here
+original_text: text embedded in the HTML reader (Pforzheim 1846, Psyche. Zur Entwicklungsgeschichte der Seele); the HTML does not say how it was obtained; it shows OCR errors of the print (e.g. Säße, Gin ähnlicher, unbenonr men) — uncorrected; footnote cues were lost in the source (see notes) and their position is approximate
+translation: "machine-made (Claude), unrevised: not reviewed against the original"
+pages: 480
+genre: Psychology and religion
+generated: 2026-10-24 from the HTML reader
+heading: "# Carl Gustav Carus, *Psyche* (1846) — *Psyche. On the Developmental History of the Soul*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."

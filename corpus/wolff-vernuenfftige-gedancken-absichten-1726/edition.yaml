@@ -1,0 +1,15 @@
+title: Vernünfftige Gedancken von den Absichten der natürlichen Dinge
+title_en: Reasonable Thoughts on the Purposes of Natural Things
+author: Christian Wolff
+year: 1726
+original_language: de
+translation_language: en
+edition_layout: clean text (both columns typeset)
+source: ‘Wolff_Reasonable_Thoughts_on_the_Purposes_of_Natural_Things_DE-EN.pdf’ (542-page facing PDF, German left / English right, one page of the 2nd ed. 1726 per spread); extracted by the group’s own PyMuPDF script, not corpus.py (which garbles the layout); the book’s alphabetical Register / Index (pdf pp. 527–542, German and re-sorted English, not parallel) and the PDF’s own cover note are omitted
+original_text: "German transcription of the second edition (Frankfurt and Leipzig: Renger, 1726) as typeset in the PDF; unrevised here. Line-end hyphenation removed; marginal glosses (Randglossen) given as separate italic pairs before the paragraph they stand beside; footnote letters as printed (repeated within one paragraph: a, a′)"
+translation: "machine-made (Claude), unrevised: not reviewed against the original; English as typeset in the PDF"
+pages: 495
+genre: Wolff and the German Enlightenment
+generated: 2026-10-24 from the PDF
+heading: "# Christian Wolff, *Vernünfftige Gedancken von den Absichten der natürlichen Dinge* (1726) — *Reasonable Thoughts on the Purposes of Natural Things*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."

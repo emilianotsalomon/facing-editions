@@ -1,0 +1,15 @@
+title: Horas de estudio
+title_en: Hours of Study
+author: Pedro Henríquez Ureña
+year: 1910
+original_language: es
+translation_language: en
+edition_layout: clean text (both columns typeset)
+source: ‘horas-de-estudio.html’ (HTML reader) — THIS FILE IS THE SOURCE, corrections go here
+original_text: text of the Paris 1910 edition (P. Ollendorff) as given in the HTML reader; uncorrected; the reader holds six pieces; page markers are only the start page of each piece as given in the reader's table of contents
+translation: "machine-made (Claude), unrevised: not reviewed against the original"
+pages: 6
+genre: Latin American philosophy
+generated: 2026-10-24 from the HTML reader
+heading: "# Pedro Henríquez Ureña, *Horas de estudio* (1910) — *Hours of Study*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."

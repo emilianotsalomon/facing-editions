@@ -1,0 +1,2 @@
+## General remark — Provenance of the edition
+Source: Lima: Imp. Eduardo Rávago, 1923; OCR files, with paragraphs and page markers reconstructed by hand. The page-number lines of the OCR use many dash glyphs, so some folios had to be placed by the translators. The opening folios of chapters (pp. 352, 373, 386) are genuinely unnumbered. The conclusion of Part I ch. XXIV, between pp. 335 and 336, was never supplied and may be missing; the numeral of Part II ch. X was lost in the OCR and was supplied. — prepared from the production records, Oct 2026

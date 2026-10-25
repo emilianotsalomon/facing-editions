@@ -1,0 +1,15 @@
+title: La estética contemporánea
+title_en: Contemporary Aesthetics
+author: Alejandro O. Deustua
+year: 1924
+original_language: es
+translation_language: en
+edition_layout: clean text (both columns typeset)
+source: ‘deustua (1924) la estética contemporánea.ocr.md’ (OCR of the 8-page scan, pp. 116–123 of a periodical) + ‘Deustua_Aestética_Contemporánea_Translation.md’; year taken from the source file name (the scan has no title page; not independently verified; the text cites a work of 1919)
+original_text: OCR of the scan (8 pages, pp. 116–123), repaired where the OCR was plainly garbled or broken (hyphenation artefacts, split paragraph at the p. 120/121 break, footnote cues and notes, the passages on pp. 118 and 122 re-read from the scan); other small OCR slips remain; the unrelated French article that follows on p. 123 is omitted; footnotes are numbered 1–13 in running order (the print restarts the numbering on each page)
+translation: "machine-made (Claude), unrevised: not reviewed against the original; made from the uncorrected OCR, so a few sentences (notably the last paragraph of p. 122) do not match the printed text; footnote cues, page markers and notes added to the English afterwards"
+pages: 8
+genre: Aesthetics
+generated: 2026-10-24 from the OCR and translation files
+heading: "# Alejandro O. Deustua, *La estética contemporánea* (1924) — *Contemporary Aesthetics*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."

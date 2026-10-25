@@ -1,0 +1,2 @@
+## General remark — Provenance of the edition
+Source: Paris 1865, Google Books scan (502 pages → 488 spreads); non-text pages dropped. Terminology rests on period English translations (Cousin by Henry and Wight, Hamilton, Meiklejohn); quotations from Reid, Hamilton and Locke are restored in their original English; *esprit* in the Krause triad is "spirit"; God pronouns are lower case mid-sentence. — prepared from the production records, Oct 2026

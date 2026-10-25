@@ -30,7 +30,18 @@ WRITE = '--write' in args
 SAMPLES = args[args.index('--samples') + 1] if '--samples' in args else None
 ONLY = [a for a in args if not a.startswith('--') and a != SAMPLES]
 WORDS = set(w.strip().lower() for w in open('/usr/share/dict/words')) if os.path.exists('/usr/share/dict/words') else set()
-SKIP = {'bardili-grundriss-der-ersten-logik'}
+SKIP = {'bardili-grundriss-der-ersten-logik',
+        # added or replaced in ac077ca (25 Oct, KB-staging) after the audit: not audited, left as imported
+        'baumgarten-aesthetica', 'bolzano-drei-philosophische-abhandlungen', 'carus-psyche', 'caso-concepto-de-la-historia-universal',
+        'caso-discursos-a-la-nacion-mexicana', 'caso-ensayos-criticos-y-polemicos', 'caso-principios-de-estetica', 'dacque-urwelt-sage-und-menschheit-1928',
+        'deustua-estetica-general', 'deustua-la-estetica-contemporanea', 'du-prel-spiritismus', 'fichte-geist-und-buchstab',
+        'gabler-kritik-des-bewusstseins', 'garcilaso-comentarios-reales-culto-del-sol', 'gonzalez-prada-nuestros-indios', 'henriquez-urena-horas-de-estudio',
+        'joel-ursprung-der-naturphilosophie', 'klages-vom-kosmogonischen-eros', 'klages-vom-wesen-des-bewusstseins', 'korn-axiologia',
+        'korn-la-libertad-creadora-en', 'montaigne-des-coches', 'obereit-aufklaerungs-versuch', 'palagyi-neue-theorie-des-raumes-und-der-zeit',
+        'palagyi-wahrnehmungslehre', 'rosenkranz-schelling', 'rosenkranz-system-der-wissenschaft', 'schelling-saemmtliche-werke-i-7',
+        'vasconcelos-1922-orientaciones-del-pensamiento-en-mexico-bilingual', 'vasconcelos-1925-democracia-y-tirania-bilingual', 'vasconcelos-1926-nationalism-in-latin-america-en', 'vasconcelos-1932-etica-cap-23-etica-terrestre-bilingual',
+        'vasconcelos-civilizacion-y-mestizaje-bilingual', 'wolff-vernuenfftige-gedancken-absichten-1726', 'klages-persoenlichkeit', 'obereit-widerruf-fuer-kant'}
+LINEWISE = {'dacque-urwelt-sage-und-menschheit'}               # an original extracted line by line from a PDF text layer
 NOJOIN = {'klages-errungenschaften-nietzsches'}                # its short lines are Nietzsche's verse
 HEADER = {                                                     # fields the export could not know
     'luz-y-caballero-obras-1': {'year': '1890'},
@@ -250,7 +261,7 @@ def header(slug, text, log, mono):
             fm = re.sub(rf'^({anchor}: .*)$', lambda mo: mo.group(1) + f'\n{k}: {val}', fm, count=1, flags=re.M)
     src = re.search(r'^source: (.*)$', fm, re.M)
     new = re.sub(r' — THIS FILE IS THE SOURCE, corrections go here| \(generated — edit the page files, not this file\)', '', src.group(1))
-    new = new.replace('page files of _facing-pipeline/', 'exported from the page files of _facing-pipeline/')
+    new = re.sub(r'^(?:(?:exported from )?the )?page files of _facing-pipeline/', 'exported from the page files of _facing-pipeline/', new)
     if new != src.group(1):
         log['header'].append(f'source: … → {new[:70]}')
         fm = fm[:src.start()] + f'source: {new}' + fm[src.end():]
@@ -274,7 +285,7 @@ def fix(folder):
     head = dict((a.strip(), b.strip()) for a, b in (l.split(':', 1) for l in fm.split('\n') if ':' in l))
     mono = facing.is_mono(fm)
     text = single_fixes(slug, text, log)
-    if re.search(r'recovered from the PDF|\.pdf’', head.get('source', '')):    # text taken line by line from a PDF
+    if 'recovered from the PDF' in head.get('source', '') or slug in LINEWISE:  # text taken line by line from a PDF
         top, body = re.match(r'(---\n.*?\n---\n\n# [^\n]*\n\nConventions:[^\n]*\n\n)(.*)', text, re.S).groups()
         P = [p for p in body.rstrip('\n').split('\n\n') if p.strip()]
         text = top + '\n\n'.join(recovered(P, slug, head, log)) + '\n'
