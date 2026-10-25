@@ -1,6 +1,6 @@
 ---
 title: Geografía Estética de México
-title_en: 
+title_en: Aesthetic Geography of Mexico
 author: José Vasconcelos
 year: 1941
 original_language: es
@@ -8,7 +8,7 @@ translation_language: none
 edition_layout: original text only (no translation)
 collection: Obras (vasconcelos-obras-v2)
 order: 98.9
-source: ‘98.9 Geografía Estética de México.html’ (HTML reader) — THIS FILE IS THE SOURCE, corrections go here
+source: ‘98.9 Geografía Estética de México.html’ (HTML reader)
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 8
@@ -16,9 +16,9 @@ genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 
-# José Vasconcelos, *Geografía Estética de México* (1941)
+# José Vasconcelos, *Geografía Estética de México* (1941) — *Aesthetic Geography of Mexico*
 
-Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong.
+Conventions: `[p. N]` marks where a printed page begins (its folio as printed); the text is the original only (no translation); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml.
 
 ## Geografía Estética de México
 

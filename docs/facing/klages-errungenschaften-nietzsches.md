@@ -6,7 +6,7 @@ year: 1926
 original_language: de
 translation_language: en
 edition_layout: photocopy (scan beside the English)
-source: recovered from the PDF ‘Klages - Die psychologischen Errungenschaften Nietzsches (DE-EN).pdf’ (the page files were not kept) — THIS FILE IS THE SOURCE, corrections go here
+source: recovered from the PDF ‘Klages - Die psychologischen Errungenschaften Nietzsches (DE-EN).pdf’ (the page files were not kept)
 original_text: not in this file (scan only — see the PDF edition)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 227
@@ -16,7 +16,7 @@ generated: 2026-10-24 by corpus.py
 
 # Ludwig Klages, *Die psychologischen Errungenschaften Nietzsches* (1926) — *The Psychological Achievements of Nietzsche*
 
-Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong.
+Conventions: `[p. N]` marks where a printed page begins (its folio as printed); `[PDF N]` a page of the source PDF with no printed number; the English only; the original is not in this edition (see the scan in the PDF edition); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml.
 
 [PDF 1]
 

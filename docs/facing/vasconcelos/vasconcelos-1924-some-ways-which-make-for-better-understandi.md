@@ -8,7 +8,7 @@ translation_language: none
 edition_layout: original text only (no translation)
 collection: Obras (vasconcelos-obras-v2)
 order: 5.1
-source: ‘5.1 some-ways.html’ (HTML reader) — THIS FILE IS THE SOURCE, corrections go here
+source: ‘5.1 some-ways.html’ (HTML reader)
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 6
@@ -18,7 +18,7 @@ generated: 2026-10-24 by corpus.py
 
 # José Vasconcelos, *Some Ways Which Make For Better Understanding Between Latin Americans and Anglosaxons* (1924)
 
-Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong.
+Conventions: `[p. N]` marks where a printed page begins (its folio as printed); the text is the original only (no translation); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml.
 
 ## Some Ways Which Make For Better Understanding Between Latin Americans and Anglosaxons
 

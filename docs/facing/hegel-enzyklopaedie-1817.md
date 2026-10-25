@@ -6,7 +6,7 @@ year: 1817
 original_language: de
 translation_language: en
 edition_layout: photocopy (scan beside the English)
-source: page files of _facing-pipeline/hegel-enz (generated — edit the page files, not this file)
+source: exported from the page files of _facing-pipeline/hegel-enz
 original_text: OCR of the scan, uncorrected, cut at the English paragraph starts (the scan in the PDF edition is the authority)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 302
@@ -16,7 +16,7 @@ generated: 2026-10-24 by corpus.py
 
 # G. W. F. Hegel, *Encyklopädie der philosophischen Wissenschaften im Grundrisse* (1817) — *Encyclopaedia of the Philosophical Sciences in Outline*
 
-Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong.
+Conventions: `[p. N]` marks where a printed page begins (its folio as printed); `[scan N]` a page of the scan with no printed number; original and English are paired paragraph by paragraph within each page (in the facing text: original in quoted blocks, English in plain paragraphs); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml.
 
 [scan 6]
 
@@ -2398,7 +2398,7 @@ The Idea can also be grasped as *reason*, as the *subject-object*, as the *unity
 
 The understanding has an easy job of pointing out everything that is said of the Idea as in itself *contradictory*. But this can be turned back upon it just as well, or rather this has already been accomplished in the Idea; — a work which is the work of reason, and indeed not so easy as the understanding’s own. — If, therefore, the understanding shows that the Idea contradicts itself, because, e.g., the subjective is only subjective, and the objective rather opposed to it, being is something quite other than the Concept, and therefore cannot be picked out of it, just as the finite is only finite and precisely the opposite of the infinite, hence not identical with it, and so on through all determinations, then [p. 113] logic rather points out the opposite, namely that the subjective, which is supposed to be only subjective, the finite, which is supposed to be only finite, the infinite, which is supposed to be only infinite, and so on, has no truth, contradicts itself and passes over into its opposite, whereby this passing-over, the unity in which the extremes are, as sublated, as a shining or as moments, manifests itself as their truth. The understanding that sets about the Idea is the twofold misunderstanding, in that *first* it takes the extremes of the Idea — let them be expressed as they will — insofar as they are *in their unity*, still in the sense as if they were *not* in their concrete unity but *abstractions* outside it; it overlooks, e.g., already the nature of the *copula* in judgment, which asserts of the singular, the subject, that the singular is just as much not singular but universal. — *Secondly* the understanding holds *its reflection*, that the Idea, identical with itself, contains the *negative* of itself, the contradiction, to be an *external* reflection, which does not fall within the Idea itself. — In fact, however, this is not a wisdom peculiar to the understanding, but because the Idea is this negativity, it is itself the dialectic, which eternally separates what is identical with itself from what is different, the subjective from the objective, the finite from the infinite, the soul from the body, and only insofar is eternal creation, eternal vitality, and eternal spirit. Since it is thus itself the passing-over into the *abstract understanding*, it is just as eternally *reason*, as the dialectic which again brings to understanding this differentiated item of the understanding about its nature and the false semblance of the independence of its productions, and leads it back into unity.
 
-[p. 141]
+[p. 114]
 
 > Indem diese gedoppelte Bewegung nicht zeitlich, noch auf irgend eine Weise getrennt und unterschie deu ist, sonst wäre sie wieder nur abstracter Ver stand, ist sie das ewige Anschauen ihrer selbst im Andern; der Begriff, der in seiner Objectivität si ch selbst ausgeführt hat, das Object, das innere Zweckmäßigkeit, das wesentliche Subjectivität ist. Die verschiedenen Weisen, die Idee aufzufassen, als Einheit des Ideellen und Reellen, des Endlichen und Unendlichen, der Identi tät und der Differenz, und so fort, sind mehr -oder weniger formell, indem sie irgend ein Stuffe des bestimmten Begriffes bezeichnen. Nur der Begriff selbst ist frey, und das wahrhaft Allgemeine; in der Idee ist daher seine Bestimmtheit eben so nur er selbst; eine Objectivität, in welche er als das Allgemeine sich selbst fortsekt, und in der er nur seine eigene, die totale Bestimmtheit hat. Die Idee ist das unendliche Urtheil, das eben so schlechthin identisch, als dessen Seiten, jede die selbstständige Totalität sind, und eben dadurch, daß jede sich dazu vollendet, in die andere übergegangen ist. - Kei ner der sonst bestimmten Begriffe ist diese in ihren beyden Seiten vollendete Totalität, als der Begriff selbst und die Objectivität.
 
@@ -2922,37 +2922,31 @@ Universal gravitation must be acknowledged for itself as a profound thought, whi
 
 [p. 146]
 
-> zeigt sich, daß das, was Keppler auf eine einfache und erhabene Weise, in der Form von Gesezen der himmlischen Bewegung ausgesprochen, 1 Newton in die begrifflose Reflexionsform von Kraft der Schwere umgewandelt hat. Die ganze Manier dieses sogenannten Beweisens stellt überhaupt ein verworrenes Gewebe dar, aus Linien der bloß geometrischen Construction, welchen physicalische Bedeutung selbstständigen Kräften eine gegeben, von wird beschleunigenden undaus leeren Verstandesbegriffen von einer Kraft, von Zeittheilchen, zu deren Anfang jene immer von neuem einwirken, einer Kraft der Träg heit, welchederen vorherige Wirkung fortseßen soll u. s. f. Ein vernünftiger Beweis über die quantitativen Bestimmungen der freyen Bewegung kann allein auf den Begriffsbestimmungen des Raums und der Zeit, der Momente, deren Verhältniß die Bewegung ist, beruhen. §. 213. 2) Das absolute Verhältniß der unselbststän =
+> ſtimmungen, welche über Geſeke dieſer beyden Kräfte ausgefunden worden, aufmerkſam nachgeht, ſo entde>t ſich bald die Verwirrung, die aus jener Scheidung entſteht. Noch größer aber wird fie, wenn ihrer im Verhältniſſe zur S< were erwähnt. wird; die Gravitation, die auch Attraction genannt wird, erſcheint dann als daſſelbe mit der Centripetalfraft, das Geſel für dieſe einzelne Kraft als ein Geſetz des Ganzen der Gravitation, und die Centrifugalkraft, die ein anderesmal wieder für ſchlecht- Hin weſentlich gilt," als etwas ganz überflüſſiges. — In obigem Schluſſe, welcher die unmittelbare Idee der Schwere enthält, ſie ſelbſt nemlich als den Begriff, welcher durch die Befonderheit.der Körper in die äuſſerliche „Realität der Bewegung tritt, iſt die vernünftige Identität und Untrennbarkeit dieſer drey Momente enthalten. =- Auch zeigt ſich in demſelben die Relativität der Bewegung, als ſie ſchlechthin nur im Syſteme mehrerer und zwar nach verſchiedener Beſtimmung zu einander im Verhältniß ſtehender Körper einen Sinn hatz welche verſchiedene Beſtim» mung ſich ſogleich ergeben wird. $. 214.
 
 — If one attentively follows the quantitative determinations that have been found concerning laws of these two forces, the confusion that arises from that separation soon reveals itself. It becomes still greater, however, when they are mentioned in relation to *gravity*; gravitation, which is also called *attraction*, then appears as the same as the centripetal force, the law for this single force as a law of the whole of gravitation, and the centrifugal force, which at another time again counts as absolutely essential, as something quite superfluous. — In the above syllogism, which contains the immediate *Idea* of gravity, namely gravity itself as the Concept that, through the particularity of the bodies, enters into the external reality of motion, the rational identity and inseparability of these three moments is contained. — The relativity of motion also shows itself in it, in that motion has a meaning absolutely only in the system of *several* bodies standing in relationship to one another, and indeed according to different determination; which different determination will emerge immediately.
 
-> digen Körper, welche blos das Extrem des Aussersich
+> Die beſondern Körper, in welchen die Schwere rea»
 
 §. 211.
 
-> seyns der Schwere zu sind und daher einer Centralkbrpern eignen Centras ist litat entbehren, ihren relativen, das Ruhen ihrer Schwere in denselben, welches wegen des körperlichen Aussereinanderseyns nur ein Streben und daher ein Druck ist, nach ihrem ausser ihnen. liegenden Centrum gerichtet. §. 214.  Die Trennung von dem unmittelbaren Zusammen 1 Hange, in welchem ein solcher Körper ruht, ist ein zufälliger Zustand Zusammenhangs, den er, wenn gehoben das, äusserliche Hinder- Fall
+> liſirt iſt, haben zu Beſtimmungen ihrer unterſchiedenen Natur die Momente ihres Begriffs. Einer iſt alſo das allgemeine Centrum des Inſichſeyns. Dieſem Extreme ſteht die aufferfihfeyende, “centrumloſe Einzelnheit entgegen. Die beſondern aber ſind andere, die in der Beſtimmung des Auſſerſichſeyns ſtehen und als zugleich inſichſeyende auch Centra für ſich find, und ſich auf den erſten als auf ihre weſentliche Einheit beziehen; — eine Beziehung, die nicht eine Beziehung von Maſſe zu Maſſe; ſondern qualitativ iſt.
 
 The particular bodies, in which gravity is realized, have as determinations of their differentiated nature the moments of their Concept. One of them, then, is the *universal* center of *being-within-itself*. Over against this extreme stands the centerless *singularity* that is outside itself. The *particular* ones, however, are others, which stand in the determination of being-outside-itself and, as at the same time being-within-themselves, are also centers for themselves, and relate themselves to the first as to their essential unity; — a relation that is not a relation of mass to mass, but is qualitative.
 
 [p. 147]
 
-> zukommt,, aber die Bewegung, wenn das Hinderniß ent-
-
 §. 212.
+
+> 1) Die Bewegung der Körper der relativen Cen-!
 
 1) The motion of the bodies of relative centrality, in relation to the body of the abstract, universal one, is the *absolutely free motion*, and the syllogism of this system is that the universal central body is concluded together, through the relative ones, with dependent corporeality.
 
-> fernt wird ihm immanent und eine Erscheinung seiner eigenen Schwere ist. Diese Bewegung geht für sich selbst in Ruhe über. Die anziehende Kraft der Sonne z. B. gegen die Planeten oder der Erde gegen die ihr angehörigen und selbstständigen Körper, führt die schiefe
+> tralität in Beziehung auf den Körper der abſtracten, allgemeinen, iſt die abſolut freye Bewegung, und der Schluß dieſes Syſtemes iſt, daß der allgemein Centralförper durch die relativen mit der „unſelbſtſtändigen - Körperlichkeit zuſammengeſchloſſen iſt. Die Geſekeder abſolut -freyen Bewegung fi find
 
-The laws of absolutely free motion were, as is well known, discovered by *Kepler*; — a discovery of immortal fame. *Kepler* has *proved* it in the sense that he found for the empirical data their universal expression. (§ 145) It has since become a common saying that *Newton* first found the proofs of those laws. Hardly ever has a fame passed more unjustly from a first discoverer to another. I merely call attention here to the fact that, at bottom, it is already conceded by mathematicians 1) that the Newtonian formulas can be derived from the Keplerian laws, 2) that the Newtonian proof of the proposition that a body subject to the law of gravitation moves in an *ellipse* around the central body applies to a *conic section* in general; whereas the main proposition that was to be proved consists precisely in this, that the orbit of such a body is *not a circle or any other conic section*, but *alone the ellipse*. The conditions that make the orbit of the body a determinate conic section are traced back to an *empirical* circumstance, namely a particular position of the body at a determinate point in time, and the *contingent* strength of an *impact* that it is supposed originally to have received. 3) that the Newtonian law of the so-called force of
+> bekanntlich von Keppler entdeckt worden; — eine‘ Entdefung von unfterbiihem Ruhme. Bewier fen hat Keppler dieſelbe in dem Sinne, daß er für die empiriſchen Data ihren allgemeinen Ausdruck gefunden hat. (5. ı45), Es iſt ſeitdem zu einer allgemeinen Redensart geworben, daß Newton erſt die Beweiſe jener Gefege gefunden habe. Nicht leicht iſt ein Ruhm ungerechter von einem erſten Entdeer auf einen andern übergegangen. I< mache hier nur darauf aufmerkſam, daß im Grunde bereits von den Mathematikern zugeſtanden wird 1) daß die Newtoniſchen Formeln ſich aus den Keppleriſchen Geſetken ableiten laſſen, 2) daß der Newtoniſche Beweis von dem Saße, daß ein dem Gravitations- -. geſetze unterworfener Körper ſich in einer Ellipſe um den Centralkörper bewege, auf eine koniſche Section überhaupt geht; während der Hauptſatz der bewieſen werden ſollte, gerade darin beſteht, daß die Bahn eines ſolchen Körpers nicht ein Kreis oder ſonſt eine koniſche Section, ſondern allein die Ellipſe iſt. Die Bedingungen, welhe die Bahn des Körpers zu einem beſtimmten Kegelſchnitte machen, werden auf/eifen empiriſchen Umſtand, nemlich eine beſondere Lage des Körpers in einem beſtimmten Zeitpunkte, und die zufällige Stärke eines Sto ßes, den er urſprünglich erhalten haben ſollte, zurückgeführt. 3) daß das ' Newtoniſche Gefeg von der ſogenannten Kraft der [p. 148] Schwere gleichfalls nuraus 1 der Erfahrung durch Induction aufgezeigt ist. Bey näherer Betrachtung zeigt sich, daß das, was Keppler auf eine einfache und erhabene Weise, in der Form von Gesezen der himmlischen Bewegung ausgesprochen, 1 Newton in die begrifflose Reflexionsform von Kraft der Schwere umgewandelt hat. Die ganze Manier dieses sogenannten Beweisens stellt überhaupt ein verworrenes Gewebe dar, aus Linien der bloß geometrischen Construction, welchen eine physicalische Bedeutung von selbstständigen Kräften gegeben wird, und aus leeren Verstandesbegriffen von einer beschleunigenden Kraft, von Zeittheilchen, zu deren Anfang jene immer von neuem einwirken, einer Kraft der Träg heit, welchederen vorherige Wirkung fortseßen foll u. s. f. Ein vernünftiger Beweis über die quantitativen Bestimmungen der freyen Bewegung kann allein auf den Begriffsbestimmungen des Raums und der Zeit, der Momente, deren Verhältniß die Bewegung ist, beruhen.
 
-> Vorstellung mit sich, als ob sie eine dem Centralkörper Activität wäre, in ihrer Sphäre inwohnende Körper und passiv die befindlichen sichnur und ausserlich dagegen verhielten. So wird auch die absolute Bewegung durch die Anwendung von Bestimmungen der gemeinen Mechanik als der todte Conflict von einer selbstständigen Tangentialkraft und einer eben so selbstständigen vom Mittelpunkt ausgehenden Kraft vorgestellt, vonwelchen der Körper passiv hin und hergezogen wäre Das Galileische Gesek des Falles. durchgelaufenen Räume 1 die, daß die, sich wie Quadrate der verflossenen Zeiten verhalten zeigt gegen die abstracte gleichförmige Geschwindigkeit des todten Mechanismus, wo die Räume den Zeiten proportional sind, das Freywerden der Begriffsbestimmungen der Zeit und des Raumes, von denen jene als das negative Moment oder Princip des Eins die Bestimmung der Wurzel, dieser aber als das Aussereinanderseyn, und zwar ein, ohne eine andere Bestimmtheit als die der Wurzel,, Bestimmung Quadrats Aussersichkommen In die beyde des hat. diesem Geseke bleiben Freyheit Momente noch in diesem Verhältnisse, weil die der Bewegung im Falle, da sie auch bedingt ist, nur formell ist; in der absoluten Bewegung hingegen die ist das Verhältniß in Bewegung seiner Totalität, da sie
-
-[p. 148]
-
-> Schwere gleichfalls nuraus 1 der Erfahrung durch Induction aufgezeigt ist. Bey näherer Betrachtung zeigt sich, daß das, was Keppler auf eine einfache und erhabene Weise, in der Form von Gesezen der himmlischen Bewegung ausgesprochen, 1 Newton in die begrifflose Reflexionsform von Kraft der Schwere umgewandelt hat. Die ganze Manier dieses sogenannten Beweisens stellt überhaupt ein verworrenes Gewebe dar, aus Linien der bloß geometrischen Construction, welchen eine physicalische Bedeutung von selbstständigen Kräften gegeben wird, und aus leeren Verstandesbegriffen von einer beschleunigenden Kraft, von Zeittheilchen, zu deren Anfang jene immer von neuem einwirken, einer Kraft der Träg heit, welchederen vorherige Wirkung fortseßen foll u. s. f. Ein vernünftiger Beweis über die quantitativen Bestimmungen der freyen Bewegung kann allein auf den Begriffsbestimmungen des Raums und der Zeit, der Momente, deren Verhältniß die Bewegung ist, beruhen.
-
-gravity is likewise shown only from experience through induction. — On closer consideration it turns out that what Kepler expressed in a simple and sublime manner, in the form of *laws of the heavenly motion*, Newton has transformed into the *conceptless reflective form* of *force of gravity*. The whole manner of this so-called proving presents, in general, a confused web, of *lines* of the merely geometrical construction, to which a physical meaning of *independent forces* is given, and of empty concepts of the understanding of an *accelerating force*, of *time-particles*, at the beginning of which those always act anew, of a *force of inertia*, which is to continue their previous effect, etc. — A rational proof concerning the quantitative determinations of free motion can rest solely on the *determinations of the Concept* of space and time, of the moments whose *relationship* is motion.
+The laws of absolutely free motion were, as is well known, discovered by *Kepler*; — a discovery of immortal fame. *Kepler* has *proved* it in the sense that he found for the empirical data their universal expression. (§ 145) It has since become a common saying that *Newton* first found the proofs of those laws. Hardly ever has a fame passed more unjustly from a first discoverer to another. I merely call attention here to the fact that, at bottom, it is already conceded by mathematicians 1) that the Newtonian formulas can be derived from the Keplerian laws, 2) that the Newtonian proof of the proposition that a body subject to the law of gravitation moves in an *ellipse* around the central body applies to a *conic section* in general; whereas the main proposition that was to be proved consists precisely in this, that the orbit of such a body is *not a circle or any other conic section*, but *alone the ellipse*. The conditions that make the orbit of the body a determinate conic section are traced back to an *empirical* circumstance, namely a particular position of the body at a determinate point in time, and the *contingent* strength of an *impact* that it is supposed originally to have received. 3) that the Newtonian law of the so-called force of [p. 148] gravity is likewise shown only from experience through induction. — On closer consideration it turns out that what Kepler expressed in a simple and sublime manner, in the form of *laws of the heavenly motion*, Newton has transformed into the *conceptless reflective form* of *force of gravity*. The whole manner of this so-called proving presents, in general, a confused web, of *lines* of the merely geometrical construction, to which a physical meaning of *independent forces* is given, and of empty concepts of the understanding of an *accelerating force*, of *time-particles*, at the beginning of which those always act anew, of a *force of inertia*, which is to continue their previous effect, etc. — A rational proof concerning the quantitative determinations of free motion can rest solely on the *determinations of the Concept* of space and time, of the moments whose *relationship* is motion.
 
 > §. 213.
 
@@ -3058,2561 +3052,2523 @@ In the Oriental intuition, the substantial unity of the spiritual and the natura
 
 [p. 154]
 
-> Kometen. bloße die Meteore sind, der thun Alten die, Astronodaß die men in den neuesten Zeiten doch nicht mehr so spröde und vornehm als ehemals. Bisher ist nur erst die Wiederkehr von einem einzigen; Berechnungbeobachtet worden andere sind gekommen nach der erwartet worden, aber nicht. Auch deutet die Astronomen angeführte Vermuthung dahin, daß die bisherige formelle Ansicht von der gegen das Ganze des Systems zufälligen, in die Kreuß und Quere hervortretenden Erscheinung der Kometen, mit der Zeit aufgeben und den Gedanken, daß die andern Körper desselben sich gegen sie wehren, d. i als nothwendige organische Momente verhalten,. könnten, Trostgründe fassen gegen damit auch bessere, alsbisher die von des Kometen befürchteten Gefahren vorzubringen sich in Stand sehen würden. §. 224.  3) Der Gegensak in sich zurückgegangen ist die Erde oder der Planet überhaupt, der Körper der individuellen Totalität, in welcher die Starrheit zur Trennung in reale Unterschiede aufgeschlossen, und diese Auflösung durch den selbstischen Einheitspunkt zusammengehalten ist. Man ist gewohnt die Sonne und die Sterne für vortreflichere Naturen zu halten, als die Planeten, weil die erste Erhebung der Reflexion über die sinnliche Wahrnehmung das Abstracte füs das Höchste nimmt gegen das Einzelne, das noch nicht begriffen ist - Der Name Irrsterne ist den Körpern der. Individualität Bewegung aus der unmittelbaren an Ansicht ihrer als. Achsendrehung entstanden um; sich und und fur zugleich sich aber Bewegung ist diese [p. 155] dienende und ausschweifende Bewegung der lunarischen und komentarischen Körper. Eben so ist die Licht - Natur des Centralkörpers die abstracte Identität, deren Wahrheit, wie des Denkens, - in der concreten Idee, in der Individualität ist. Was die Planeten betrift, so Reihe der hat die Astronomie Entüber fernung die nächste Bestimmtheitderselben, die Vernünftiges, noch kein wirkliches Gesek, vielweniger
+> 154 ve Bündeln derſelben, aus welchen ein in feiner Ausbreitung beſchränktes Licht beſtehen fol, gehört zu der übrigen Barbarey der Begriffe, die in der Phy- ſik beſonders ſeit Newton herrſchend geworden iſt. — Die Untrennbarkeit des Lichtes, - in feiner unendlihen Ausdehnung, ein reelles Auffereinander, das mit ſich identiſch bleibt, kann vom Verſtande am wenigſten für unbegreiflich ausgegeben werden, da ſein eigenes Princip vielmehr dieſe abſtracte Identität iſt. — Wenn die Aſtronomen darauf gekommen ſind, von Himmels - Erſcheinungen zu ſprechen," die indem ſie von uns wahrgenommen werden, bereits vor 500 Jahren und mehr vorgegangen ſeyen, ſs kann man darin einerſeits empiriſche Erſcheinungen der Fortpflanzung des Lichts, die in einer Sphäre gelten, auf eine andere Übergetragen glau ben, wo ſie keine Bedeutung haben, andererſeits 'aber eine Vergangenheit zu einer Gegenwart nach ‚der ideellen Weiſe der Erinnerung werden ſehen. — Nah der Vorſtellung, daß von jedem Punkte einer ſichtbaren Oberflähe nac< allen Richtun- ‚gen Strahlen ausgeſchi>t, alſo von jedem eine ma- ' terielle Halbkugel von unendlicher Dimenſion gebildet wird, durchdringen ſich alle dieſe unendlich vielen Halbkugeln. Statt daß aber hiedurch zwiſchen dem Auge und dem Gegenſtande eine verdichtete,/ vers wirrte Maſſe entſtehen und die zu erklärende Sichtbarkeit vermöge dieſer Erklärung eher die Unſichtbar- Feit hervorbringen ſollte, reducirt ſich vielmehr dieſe ganze Vorſtellung ſelbſt ſo zur Nichtigkeit, wie die Vorſtellung eines concreten Körpers, der aus vielen Materien beſtehen foll, ſo daß in den Poren der eis nen die andern ſich befinden, in welchen ſelbſt umgekehrt die andern ftecfen und circuliren, — durch dieſe allſeitige Durchdringung die Annahme der diſcreten Materialität der „Stoffe aufhebt, ‚und vielmehr ein; [p. 155] “ſtiſche Natur des Lichtes, inſofern die natürlis den Dinge durd) daſſelbe belebt, individuali- ſir t und ihre Auffhliefung bekräftigt und. zus fammengehalten wird, kommt erſt in der Individua- * Iiſfirung der Materie zum Vorfhein, indem die zur erſt abſtracte Identität nur als Rückkehr und Aufhebung der Beſonderheit als negative Einheit der Einzelnheit iſt. 4? $. 221.
 
 *bundles* of the same, of which a light restricted in its spreading is supposed to consist, belongs to the remaining barbarism of concepts that has become dominant in physics especially since *Newton*. — The inseparability of light, in its infinite extension, a real being-outside-one-another that remains identical with itself, can least of all be declared *incomprehensible* by the understanding, since its own principle is rather this abstract identity. — If astronomers have come to speak of heavenly appearances which, while they are being perceived by us, are said to have already occurred 500 years ago and more, one can in this, on the one hand, believe empirical appearances of the *propagation of light*, which hold in one sphere, to be transferred to another, where they have no significance, but on the other hand see a past become a present in the ideal manner of recollection. — According to the representation that from *each point* of a visible surface rays are sent out *in all directions*, and hence a *material hemisphere* of infinite dimension is formed from each, all these infinitely many hemispheres interpenetrate. Instead, however, of a condensed, confused mass having to arise through this between the eye and the object, and of the visibility to be explained having to produce, by virtue of this explanation, invisibility rather, this whole representation itself reduces itself rather to nullity, just as the representation of a concrete body that is supposed to consist of many matters, so that the others are located in the pores of the one, in which, conversely, the others themselves are lodged and circulate, — sublates, through this all-sided interpenetration, the assumption of the discrete materiality of the stuffs, and rather establishes a [p. 155] wholly ideal relationship. — The *self-like* nature of light, insofar as the natural things are enlivened by it, *individualized* and their opening-up is strengthened and held together, first comes to light in the individualization of matter, in that the at first abstract identity is only as the return and sublation of particularity, as the negative unity of singularity.
 
-> etwas entdeckt. Was ich, in einer
+> Das Licht verhält ſich als allgemeine Identität, zu:
 
 §. 221.
 
-> frühern ich Dissertation für befriedigend hierüber versuchthabe - Eben kann so nicht mehr naturphilosophischen ansehen. können die Versuche, die Vernünftigkeit der Reihe in der physicalischen Beschaffenheit aufzuzeigen, bisher nur als Anfänge die Gesichtspunktezu finden, auf die es ankommt, betrach-
+> nächſt in dieſer Beſtimmung der Verſchiedenheit oder des Verſtandes der Momente der Totalität, zur concreten Materie als ein Aeuſſeres und Anderes, als zu einem Dunkeln; dieſe Berührung und äuſſerliche Tr übung des einen durch das andere'iſt die Farbe. Nach der bekannten Newtoniſc<hen Theorie
 
 Light relates itself, as universal identity, first of all in this determination of *diversity* or of the understanding of the moments of the totality, to concrete matter as something external and other, as to a *dark*; this contact and external *clouding* of the one by the other is *color*.
 
-> tet werden. Zufälligkeit Das Unvernünftige zu ist, zu den Gedanken der Kepplers dabey Grunde legen, und z. B. in Gedanken, die Anordnung des Sonnensystems nach den Geseken der musikalischen Harmonie zu fassen, nur eine Verirrung der Einbildungskraft zu sehen, und nicht den tiefen Glauben, daß Vernunft in diesem Systeme ist, hochzuschäßen -; ein Glauben, welcher der einzige Grund seiner glänzenden Entdeckungen gewesen ist - Die ganz ungeschickte und irrige Anwendung. der Zahlenverhältnisse der Töne, welche Newton auf die Farben gemacht, hat dagegen Ruhm und Glauben behalten. b Die Element). §. 225. Der Körper die gen derelementarischen der Individualität Totalität, welche hat unmittelbar Bestimmun frey [p. 156] §. 226.  1) Das Element der unterschiedlosen Einfachheit ist nicht mehr die positive Identität mit sich, die Selbstmanifestation, welche das Licht als solches ist; diese macht das eigene, innere Selbst des individuellen Körpers aus, sondern ist nur negative Allgemeinheit, als das selbstlose Moment eines andern. Diese Identität ist deswegen die verdachtlose, aber schleichende und zehrende Macht individuellen und organischen Procef =; des durchsichtige ses die alles aufnehmende und Flüssigkeit, aber eben so die elastische, in alles eindringende, die Luft. §. 227. 2) Die Elemente des Gegensakes sind 2) das Fürsichseyn, aber nicht das gleichgültge der Starrheit, sondern das in der Individualität als Moment gefekte als idenund daher die materielle Selbstischkeit, das Licht tisch mit der Wärme, das Feuer. Es ist die materialisirte Zeit, das schlechthin Unruhige und Verzehrende, in welche eben so die Selbverzehrung des bestehenden 1 Körpers ausschlägt, alssie umgekehrt äusserlich an ihn kommend ihn zerstört, ein Verzehren, das eben so sich selbst verzehrt. §. 228.  β) Das andere Element ist das Neutrale, der in sich zusammengegangene Gegensak, der aber ohne die Einzelnheit, hiemit ohne Starrheit und Bestimmung in
+> beſteht das weiſſe, d. i. farbloſe Licht, aus fünf oder aus ſieben Farben; — denn genau weiß dieß. die Theorie ſelbſt nicht. — Ueber die Barbarey vors erſte der Vorſtellung, daß auch beym Lichte nach der ſchlechteſten Reflexions - Form, der Zu ſammen- ſe bung, gegriffen worden iſt, und dasH elle hier ſogar aus ſieben Dunkelheiten beſtehen ſoll, wie man das klare Waſſer aus ſieben Erdarten beſtehen laſſen könnte, kann man ſich nicht ſtark genug ausdruden; fo wie ferner über die Ungeſchi>lichkeit, Fadheit, ja ſelbſt Unredlichkeit des 4 Newtoniſchen Beobachtens und Experimentirens;— alsdenn über die gleich. ſchlechte Beſchaffenheit des Shlieffens,„ Folgerns und Beweiſens aus jenen unreinen empiriſchen Daten; — ferner über die Blindheit des nun ſeit faſt anderthalb Jahr» hunderte fortgeführten Nachbetens, ſo wie über die Unwiſſenheit dieſer jene einfältige Vorftelungvertheidigenden [p. 156] Nachbeter, „endlich insbeſondere über die Gedankenloſigkeit, mit der eine Mens ge der unmittelbaren Folgerungen jener Theorie Cz- B. die Unmöglichkeit achromatiſcher Fernröhre) aufgegeben worden und doh die Theorie ſelbſt behauptet wird; — zufegt über die Blindheit des Vorur- * theils, daß dieſelbe auf etwas Mathe matiſchem beruhe / und als ob die, zum theil felbſt falſchen und + einſeitigen. Meſſungen, ſo wie die in die Folge-. rungen hineingebrachten quantitativen. Beſtimmuns gen irgend einen Grund für die Theorie uffd die Natur der Sache ſelbſt abgäben. — Ein Hauptgrund, warum die, eben ſo klare als gründliche und ges lehvte, Göthe'ſ<h eBeleuchtung dieſer Finſterniß im Lichte, nicht eine wirkſamere Aufnahme erlangt bat, iſt ohne Zweifel dieſe, weil die Gedankenloſigkeit und Einfältigkeit, die man eingeſtehen follte, gar zu groß iſt. — Statt daß ſich dieſe ungereimten Vor- ſtellungen vermindert hätten, ſind ſie in den neueſten Zeiten auf die Malusſchen EntdeFungen, noch durch eine Polariſation des Lichtes, und gardurchdie Viere>igkeit der Sonnenſtrahlen, durch eine links rotirende Bewegung der rothen und eine vehts votirende der blauen Strahlen vermehrt worden. Dergleichen "Einfältigkei- „3 ten rechtfertigen ſich durch das Privilegium der Phy- | ſik zu den ſogenannten Hypotheſen; allein man erlaubt ſich im- Spaſſe keine Einfältigkeiten 3, viek2 weniger ſollte man für Hypotheſen, die nicht einmal ein Spaß ſeyn ſsllen, 'dergleichen vorbrinz= | gen. |
 
 According to the well-known *Newtonian* theory, white, i.e., colorless light, *consists* of *five* or of *seven* colors; — for the theory itself does not know this exactly. — On the *barbarism*, first of all, of the representation that with light too recourse has been had to the worst form of reflection, *composition*, and that the *bright* is here supposed even to consist of seven *darknesses*, just as one could let clear water consist of seven earths, one can *not* express oneself strongly *enough*; as well as, further, on the *clumsiness*, *insipidity*, indeed even *dishonesty* of the Newtonian observing and experimenting; — then on the equally bad constitution of the *concluding*, *inferring* and *proving* from those impure empirical data; — further on the *blindness* of the *parroting* now carried on for nearly a century and a half, as well as on the *ignorance* of these parrots who defend that *simple-minded* representation, [p. 156] finally, in particular, about the thoughtlessness with which a number of the immediate consequences of that theory (e.g., the impossibility of achromatic telescopes) have been given up and yet the theory itself is maintained; — lastly, about the blindness of the *prejudice* that it rests on something *mathematical*, and as if the *measurements*, in part themselves false and one-sided, as well as the quantitative determinations brought into the inferences, furnished any ground for the theory and the nature of the matter itself. — A principal reason why the *Goethean* illumination of this darkness in light, as clear as it is *thorough* and *learned*, has not met with a more effective reception is, without doubt, this: because the thoughtlessness and simple-mindedness, which one ought to admit, are altogether too great. — Instead of these absurd representations having diminished, they have in the most recent times, following *Malus's* discoveries, been further increased by a *polarization* of light, and even by the *quadrangularity* of the sun's rays, by a *left-rotating motion* of the red and a *right-rotating* one of the blue rays. Such *instances of simple-mindedness* justify themselves by the privilege of physics to the so-called *hypotheses*; but one permits oneself no instances of simple-mindedness in jest, much less should one put forward such things for hypotheses that are not even supposed to be a jest.
 
-> ihm sich, gesekte ein durchgängiges Bestimmtheit Gleichgewicht auflöst, Begränztheit, alle mechanisch der Gein
+> / |
 
 §. 222.
 
-> stalt nur von Aussen erhält, und ohne die Unruhe des Processes an ihm selbst, schlechthin die Möglichkeit desselben und die Auflösbarkeit ist; das Wasser.
+> | $. 222. 4 | Das Licht macht das Daſeyn oder die phyſikalihe Bedeutung des Körpers der abſtracten Centralität | aus, welcher als Lichtkörper reell iſt. i |
 
 Light makes up the *determinate being* or the *physical* meaning of the body of abstract centrality, which as *light-body* is real.
 
 [p. 157]
 
-> des und der individuellen aber Bestimmung des entwickelten desselben Unterschien, ist die
+> Dieſe abſtracte Identität hat ihren reellen Ges
 
 §. 223.
 
-> zunächst noch unbestimmte Erdigkeit, uberhaupt.  c). Der elementarische Proces.  $.230. Die individuelle Identität, unter welche die diffe kenten Elemente, und ihre Verschiedenheit gegen einans der gegen gebunden, ist Dialektik und, die das ihre physicalische Einheit, Leben der Erde sind, den mete eine
+> genſaß auſſer ihr; als elementariſches Moment der Reflexion zerfällt er in fih, und iſt als eine Zweyheit, a) der körperlichen Verſchiedenheit, des materiellen Fürſichſeyns, der Starrheit, 8) der Entgegen: feßung als folher, welche aber als frey und von der * Individualität nicht gehalten nur in ſich zuſammenge- ſunken,/ die Auflöſung und Neutralität, iſt; jenes der lundviſche, dieſes der Eometarifche Körper. Dieſe beyden Körper haben auch im Syſtem der
 
 This abstract identity has its *real* opposition outside it; as an elemental moment of reflection it falls apart within itself, and is as a *duality*, α) of corporeal *diversity*, of material being-for-itself, of *rigidity*, β) of *counter-positing* as such, which, however, as free and not held by individuality, merely collapsed within itself, is *dissolution* and *neutrality*; the former the *lunar*, the latter the *cometary* body.
 
-> keologischen Procesß ausmacht; die Elemente, als unselbstständige Momente, haben in ihm eben so allein iht Bestehen, als sie darin erzeugt werden. Wie die Bestimmungen der gemeinen Mechanik und der selbstständigen Körper auf die absolute Mechanik und die freyen Centralkörper angewendet werden, eben so wird die endliche Physik der vereinzelten indi Körper für genommen, als die viduellen Physik dasselbe ist freye selbstständige des Erdenprocesses. Es wird gerade für den Triumph der Wissenschaft ge halten, in dem allgemeinen Processe der Erde dieselben Bestimmungen wieder zu erkennen und nach zuweisen, welche sich an den äusserlichen und unselbst ständigen Processen der vereinzelten physicalischen Körperlichkeit zeigen. Das Aufzeigen dieser Gleichheit wird dadurch bewirkt, daß die Bestimmungen die Abstraction von ihren eigenthümlichen Une durch Bedingungen zu Allge terschieden und oberflächlichen meinheiten, wie die Attraction, gemacht werden, Kräften und Geseken, in welchen das Besondere, der concrete Begriff und die Bedingungen mangeln und angesehen dann theils als ein äusserlicher Analogie Stoff hinzutres hinzuge [p. 158] - dichtet Vorstellung wurden. Einen Hauptunterschied, macht die fire vor der substantiellen unveränderlichen Verschiedenheit der Elemente, welcher aus den Processen der vereinzelnten an Stoffe vom Verstande einmal zeigen festgesekt ist B.; wo Krystall diesen höhere Ues bergänge sich, z. im das Wasser fest wird, Hartnäckigkeit Licht, Wärme verschwindet u. s. f. bereis gen tet sich die Begriff des formellen Denkens ges mungen den eine Hülfe durch nebulose Bestim Auflösung, zum Theil gebunden durch bloß sinnlose Latentwetrden Ausdrücke, von, - wandlung und dergleichen. Hieher gehört, wesentlich Erscheinungen die Verin Stoffe aller Verhältnisse Materien an den impo de und jedes physicalische zum Theil Daseyn zu rable, wodurch dem Ausschon erwähnten Eingehen Chaos in von Materien und deren jeder und gemacht, den erdichteten Poren Begriff, andern sondern auch die wird Vorstellung und nicht ausgeht nur. aller
+> Schwere als relative Centralkörper ihre be- ſtimmtere Bedeutung, die denſelben Begriff zu Grunde liegen hat, als ihrephyſicaliſhe, und hier bemerkt werden kann. — Sie drehen ſich niht um ihre Achſe. Der Körper der Starrheit als des formellen Fürfihfeyns, welches die im Gegenſate begriffene Selbſtſtändigkeit und darum nicht Individualität iſt, ziſt deswegen dienend und Tra« bant eines andern, in welchem ex ſeine A <ſe hat. Der Körper der Auflöſung, das Gegentheil der Starrheit, iſt in “ſeinem Verhalten ausfhweis fend, und in ſeiner ercentrifchen Bahn, wie in ſeinem phyſicaliſchen Daſeyn die Zufälligkeit darſtellend; ſo daß man von dieſen Körpern vermuthete 5 daß die Nähe eines großen Planeten ihre Bahn Anz dern könne; — ſie zeigen ſich als eine oberflächliche Concretion, die eben ſo zufällig ſich wieder zerftäus ben mag. — Der Mond hat keine Atmoſphäre, und entbehrt damit des meteorologiſchen Proceſſes. Er zeigt nur hohe Berge und Krater, und die Entz zündung dieſer Starrheit in ſich ſelbſt; die Geſtalt eines Kryſtalls, welhe Heim, Ceiner der wenigen geiſtvollen Geognoſten) als die urſprüngliche der bioß ftarıen Erde aufgezeigt hat, — Dex Komet era [p. 158] scheint als ein formeller Proceß, eine unruhige Dunstmasse; keiner hat etwas starres, einen Kern, ge zeigt. Gegen die Vorstellung der Alten, daß die Kometen bloße Meteore sind, thun die Astronomen in den neuesten Zeiten doch nicht mehr spröde so und vornehm als ehemals Bisher nur erst die. ist - Wiederkehr von einem einzigen beobachtet worden,; andere sind nach der Berechnung erwartet worden aber nicht gekommen. Auch deutet die Astronomen angeführte Vermuthung dahin daß bisheri, diege formelle Ansicht von der gegen das Ganze des Systems zufälligen, indie Kreuß und Quere hervortretenden Erscheinung der Kometen mit der Zeit auf-, geben und den Gedanken daß die andern Körper, desselben sich gegen sie wehren als nothwen, =,, d..i dige organische Momente verhalten fassen könntendamit auch bessere Trostgründe, als bisher gegen die von des Kometen befürchteten Gefahren vorzubringen sich in Stand sehen würden.
 
 These two bodies also have, in the system of gravity, as *relative central bodies*, their more determinate meaning, which has the same Concept at its ground as their physical one does, and which can be noted here. — They do not rotate about their axis. The *body of rigidity*, as of formal being-for-itself, which is the independence involved in opposition and therefore not individuality, is for this reason *serving* and the *satellite* of another, in which it has its *axis*. The *body of dissolution*, the opposite of rigidity, is in its behavior *erratic*, and, in its eccentric orbit as in its physical determinate being, presents contingency; so that it has been conjectured of these bodies that the proximity of a great planet could alter their orbit; — they show themselves as a superficial concretion, which may just as contingently disperse again. — The *moon* has no atmosphere, and thereby lacks the meteorological process. It shows only high mountains and craters, and the inflammation of this rigidity within itself; the shape of a crystal, which *Heim* (one of the few ingenious geognosts) has pointed out as the original one of the merely rigid earth. — The *comet* appears [p. 158] as a formal process, a restless mass of vapor; none has shown anything rigid, a *nucleus*. Against the representation of the ancients, that comets are mere meteors, astronomers in the most recent times, however, no longer act so aloof and superior as formerly. As yet only the return of a single one has been observed; others were expected according to calculation, but did not come. — The conjecture put forward by astronomers also points to this, that they could in time give up the hitherto formal view of the appearance of the comets, contingent in relation to the whole of the system and emerging athwart and across it, and grasp the thought that the other bodies of the same *defend* themselves against them, i.e., behave as necessary organic moments, so that they would also put themselves in a position to offer better grounds of consolation than hitherto against the dangers feared from the comet. —
 
-> §. 231.
+> §. 224.
 
 §. 224.
 
+> 3) Der Gegensak in sich zurückgegangen ist die Erde oder der Planet überhaupt, der Körper der individuellen Totalität, in welcher die Starrheit zur Trennung in reale Unterschiede aufgeschlossen, und diese Auflösung durch den selbstischen Einheitspunkt zusammengehalten ist. Man ist gewohnt die Sonne und die Sterne für vortreflichereNaturen halten zu
+
 3) The opposition gone back into itself is the *earth* or the *planet* in general, the body of *individual* totality, in which rigidity is *opened up* into separation into real differences, and this dissolution is held together by the *self-like point of unity*.
 
-> Der Proceß der Erde wird durch ihr allgemeines Selbst, die Thätigkeit des Lichts, ihr ursprüngliche Verhältniß zur Sonne, fortdauerd angefacht. Das eine Moment dieses Processes ist die Diremtion ihrer substantiellen Identität, die Spannung in die Momente
+> als die Planeten,, weil die erste Erhebung der Reflexion über die sinnliche Wahrnehmung das Abstracte füs das Höchstenimmt gegen das Einzelne das noch nicht begriffen, ist. Der Name Irrsterne den Körpern der ist Individualität aus der unmittelbaren Ansicht ihrer Bewegung entstanden und fur sich aber; an diese ist als Achsendrehung. um sich und zugleich Bewegung [p. 159] der Lebendigkeit, und darum eben so vortrefflicher als die Ruhe des Mittelpunkts des Systems, wie als die dienende und ausschweifende Bewegung der lunarischen und komentarischen Körper. Eben so ist die - Licht - Natur des Centralkörpers die abstracte Identität, deren Wahrheit, wie des Denkens, in der concreten Idee, in der Individualität ist. Was die Reihe der Planeten betrift hat die Astronomie, soüber die nächste Bestimmtheit derselben die Ent-, fernung noch kein wirkliches Gesek vielweniger,, etwas Vernünftiges entdeckt Was ich ineiner. frühern Dissertation hierüber versucht habe kann ich nicht mehr für befriedigend ansehen. -, Eben so können die naturphilosophischen Versuche, die Vernünftigkeit der Reihe in der physicalischen Beschaffen- - heit aufzuzeigen, bisher nur als Anfänge die Gesichtspunkte zu finden auf die, ankommt es betrach-, tet werden. Das Unvernünftige den Geist, danken der Zufälligkeit dabey zu Grunde zu legen, und.z B. in Kepplers Gedanken, die Anordnung des Sonnensystems nach den Geseken der musikalischen Harmonie zu fassen, nur eine Verirrung der Einbildungskraft zu sehen und nicht den tiefen Glauben, daß Vernunft in, diesem Sy- - steme ist, hochzuschäßen -; ein Glauben, welcher der einzige Grund seiner glänzenden Entdeckungen gewesen.ist Die ganz ungeschickte und irrige Anwendung der Zahlenverhältnisse der Töne, welche Newton auf die Farben gemacht, hat dagegen
 
-One is accustomed to hold the sun and the stars to be more excellent natures than the planets, because the first elevation of reflection above sensuous perception takes the *abstract* for the highest as against the singular, which is not yet comprehended. — The name *wandering stars* has arisen for the bodies of individuality from the immediate view of their motion; in and for itself, however, this is, as axial rotation about itself and at the same time motion
+One is accustomed to hold the sun and the stars to be more excellent natures than the planets, because the first elevation of reflection above sensuous perception takes the *abstract* for the highest as against the singular, which is not yet comprehended. — The name *wandering stars* has arisen for the bodies of individuality from the immediate view of their motion; in and for itself, however, this is, as axial rotation about itself and at the same time motion [p. 159] around a central body the most concrete, expression of vitality, and for that reason just as much more excellent than the rest of the center of the system as than the serving and erratic motion of the lunar and cometary bodies. Likewise the light-nature of the central body is the *abstract* identity, whose truth, as that of thinking, is in the concrete Idea, in individuality. — As for the series of the planets, astronomy has discovered, concerning their nearest determinacy, the *distance*, as yet no actual law, much less anything rational. What I attempted on this in an earlier dissertation I can no longer regard as satisfactory. — Likewise the attempts in the philosophy of nature to show the rationality of the series in the physical constitution can so far be regarded only as beginnings of finding the points of view that matter. — What is irrational is to lay the thought of contingency at the ground of this, and, e.g., in *Kepler's* thought of grasping the arrangement of the solar system according to the laws of musical harmony, to see only an *aberration of the imagination*, and not to esteem highly the deep belief that *reason is in this system*; — a belief that was the sole ground of his brilliant discoveries. The wholly clumsy and erroneous application of the numerical relationships of tones which *Newton* made to *colors* has, on the other hand, retained renown and credence.
 
-> des selbstständigen Gegensakes, in die Starrheit Auflösung und die selbstlose zugeht Neutralität, Krystall wodurch die Erde der zu, einerseits Wasserkörper zum,, einem Kometen Monde,, zu anderer-,: seits einem Zusammenhang einem werden ständigen und die Momente Wurzeln ihren zu realisiren mit ihren selbsts suchen. §. 232. Das andere Moment ist Fürsichseyn, welchem die Momente der Entgegenserung, daß das zugehen,
-
-[p. 159]
-
-> - sich als die auf die Spike getriebene negativität aufhebt; die sich entzündende Verze hrung des versuche ten unterschiedenen Bestehens der Momente, wodurch ihre substantielle Identität sich herstellt, und die Erde sich als fruchtbar Individualität geworden ist. Das Gewitter ist die vollständige Erscheinung dieses Processes, die andern metereologischen Phänos mene sind Beginne oder Momente und unreife Auss führungen desselben. An ihm aber hat die Physik, da sie ihre Ansicht auf die Bedingungen des äusserlie chen Processes beschränkt, weder mit der Regenbil. dung, ( ungeachtet de Luc's Beobachtungen und der von ihm darausgezogenen, und unter den Deute schen von dem geistreichen Lichtenberg gegen die Auflösungstheorie urgirten und im Andenken wenig. stens erhaltenen Folgerungen), noch mit dem Blike, auch nicht mit dem Donner noch zurecht kommen kön. nen; eben so wenig mit andern meteorologischen Er scheinungen, insbesondere den Atmosphärilien, in welchen der Proceß bis zum Beginn eines irdis schen Kernes fortgeht.  §. 233. Der Begriff der Materie, die Schwere, legt in der elementarischen Natur seine Momente aus, zunächst in Gestalt selbstständiger Realitäten. Die Erde zunächst der abstracte Grund der Individualität, sekt sich in ihrem Processe als negative Einheit der auſſereinanderge. henden abstracten Elemente und_hiemit als reellen Grund und Wirklichkeit der Individualisirung, in
-
-around a central body the most concrete, expression of vitality, and for that reason just as much more excellent than the rest of the center of the system as than the serving and erratic motion of the lunar and cometary bodies. Likewise the light-nature of the central body is the *abstract* identity, whose truth, as that of thinking, is in the concrete Idea, in individuality. — As for the series of the planets, astronomy has discovered, concerning their nearest determinacy, the *distance*, as yet no actual law, much less anything rational. What I attempted on this in an earlier dissertation I can no longer regard as satisfactory. — Likewise the attempts in the philosophy of nature to show the rationality of the series in the physical constitution can so far be regarded only as beginnings of finding the points of view that matter. — What is irrational is to lay the thought of contingency at the ground of this, and, e.g., in *Kepler's* thought of grasping the arrangement of the solar system according to the laws of musical harmony, to see only an *aberration of the imagination*, and not to esteem highly the deep belief that *reason is in this system*; — a belief that was the sole ground of his brilliant discoveries. The wholly clumsy and erroneous application of the numerical relationships of tones which *Newton* made to *colors* has, on the other hand, retained renown and credence.
-
-> welcher te zusammengeeint nun die Elemente sich darstellen als in. concretem Einheitspunce
+> Ruhm und Glauben behalten. b
 
 ##### b). The Elements.
 
+> .) Die Element
+
 §. 225.
 
-The body of individuality has the determinations of the elemental totality, which are immediately free
+> §. 225. Der Körper der Individualität hat die Bestimmun gen derelementarischen Totalität, welche unmittelbar frey [p. 160] für sich bestehende Körper sind, als unterworfene Momente an ihm; so machen sie seine allgemeinen physikalischen Elemente aus. §. 226. 1) Das Element der unterschiedlosen Einfachheit
 
-[p. 160]
+The body of individuality has the determinations of the elemental totality, which are immediately free [p. 160] self-subsisting bodies, as subjected moments in it; thus they constitute its universal *physical elements*.
 
-> C  Individuelle Physik.:
-
-self-subsisting bodies, as subjected moments in it; thus they constitute its universal *physical elements*.
-
-> §
+> ist nicht mehr die positive Identität mit sich, die Selbst-
 
 §. 226.
 
 1) The element of undifferentiated simplicity is no longer the positive identity with itself, the self-manifestation, which *light* as such is; this makes up the *own*, inner self of the individual body, but it is only *negative universality*, as the selfless moment of *another*. This identity is therefore the unsuspected but creeping and consuming power of the individual and organic process; the all-receiving and transparent, but just as much elastic, all-penetrating fluidity, *air*.
 
-> . 234. Der Allgemeinheit individuelle Körper ist die zur Einzelnheit aus der der Schwere durch die Beson- Derheit der Elemente zusammengeschlossene Materie. So ist sie nun an und für sich bestimmt, und hat durch die Einzelnheit eine eigenthümliche Form, welchedie Ein- Heit der Besonderung eines Körpers ausmacht. Diese Individualität ist a) unmittelbare die oder ruhende, Se- Ei es stalt; b) ihre Besonderung in Verschiedenheit der genschaften und in die Spannung der Unterschiede; c) Proces, worin die Gestalt sich eben so auslöst als in ih
+> manifestation, welche das Licht als solches ist; diese macht das eigene, innere Selbst des individuellen Körpers aus sondern, nur negative Allgemeinheit ist, als das selbstlose Moment eines andern Diese Iden-. tität ist deswegen die verdachtlose, aber schleichende und zehrende Macht des individuellen und organischen Procef =; ses die alles aufnehmende und durchsichtige aber eben, so die elastische, in alles eindringende Flüssigkeit, die Luft. §. 227. 2) Die Elemente des Gegensakes sind 2) das Für-
 
 §. 227.
 
 2) The elements of opposition are α) being-for-itself, but not the *indifferent* one of rigidity, but that posited in individuality as a moment and hence the material selfhood, light as identical with heat, *fire*. It is the materialized *time*, the absolutely restless and consuming, into which the self-consumption of the subsisting body just as much turns over as, conversely, coming externally to it, it destroys it, — a consuming that just as much consumes itself.
 
-> rem Unund für sich bestimmtseyn hervorgeht.
+> sichseyn, aber nicht das gleichgültge der Starrheit,
 
 §. 228.
 
-> a) Die Gestalt.. §. 235. Die Individualität der Materie in ihrem unmittelbaren Daseyn ist die immanente Form, welche der Materie des Körpers, der zunächst nur ein oberflächliches Eins, und dann Eine besondere Bestimmtheit zu seinem Wesen hat, einen eigenen bestimmten Unterschied gibt; -die Gestalt, die specifische Art des innerlichen Zusammenhalts der Materieund deren äusserlic
+> sondern das in der Individualität als Moment gefekte und daher die materielle Selbstischkeit das Licht als iden-, tisch mit der Wärme das Feuer, Es die materiali-. ist sirte Zeit Unruhige das schlechthin, und Verzehrende, die Selbverzehrungin welche eben so des bestehenden 1 Körpers ausschlägt, als sie umgekehrt äusserlich an ihn kommend ihn zerstört, ein Verzehren, das eben so sich selbst verzehrt. §. 228.
 
 β) The other element is the neutral, the opposition gone together within itself, which, however, without singularity, hence without rigidity and determination within itself, a thoroughgoing equilibrium, dissolves every determinacy mechanically posited in it, receives limitedness of shape only from outside, and, without the restlessness of the process in itself, is absolutely the possibility of the same and the dissolvability; *water*.
 
-> chen Begrenzung im Raume; die Individualität des
+> β) Das andere Element ist das Neutrale, der in
 
-> Mechanismus. Die Specification der Materie zu einem Elemente ist noch gestaltlos, weil sie nur erst Besonderheit ist. Bey der Form der Gestalt, und der Individualität überhaupt, ist vornemlich die Vorstel lung einer äusserlich mechanischen Weise und der Zusammensehung zu entfernen. Es hilft nichts, die äusserliche Theilung und ein äusserliches
+> sich zusammengegangene Gegensak, der aber ohne die in in Einzelnheit, hiemit ohne Starrheit und Bestimmung, sich ein durchgängiges Gleichgewicht, alle mechanisch ihm gesekte Bestimmtheit auflöst, Begränztheit der Gestalt nur von Aussen erhält, und ohne die Unruhe des Processes an ihm selbst, schlechthin die Möglichkeit desselben und die Auflösbarkeit ist; das Wasser.
 
 [p. 161]
 
-> bleibt der Gestalt immer zu die Hülfe eigenthumliche zu nehmen Unterscheidung; das Wesentliche, die
+> §. 229.)
 
 §. 229.
 
 3) The element, however, of developed difference and of the individual determination of the same, is the at first still indeterminate *earthiness*, in general.
 
-> an diesen Theilen zum Vorschein kommt, und eine bestimmte sebstische Einheit ihrer Beziehung auss macht. 1
+> 3 Das Element aber des entwickelten Unterschien des und der individuellen Bestimmung desselben, ist die zunächst noch unbestimmte Erdigkeit, uberhaupt. c
 
-> Specification §. 236. specifische
+> .) Der elementarische Proces.
 
 ##### c). The Elemental Process.
 
-> Schwere Die oder abstracte Dichtigkeit der Materie ist die, das Verhält
+> $.230.
 
 §. 230.
 
-> niß des Gewichts der Masse zu dem Volumen, wodurch die materielle Selbstischkeit sich von dem abstracten allge meinen Verhältnisse zum Centralkörper losreißt, und aufhört die gleichförmige Erfüllung des Raums zu seyn, und ihrem abstracten Aussereinader ein specifisches Insich seyn entgegensekt. Die verschiedene Dichtigkeit der Materie wirdbe
+> Die individuelle Identität, unter welche die diffe kenten Elemente, und ihre Verschiedenheit gegen einans der und gegen ihre Einheit gebunden sind, eine, ist Dialektik, die das physicalische Leben der Erde den mete, keologischen Procesß ausmacht die Elemente, als unselbstständige Momente, haben in; ihm eben so allein iht Bestehen, als sie darin erzeugt werden. Wie die Bestimmungen der gemeinen Mechanik
 
 The individual identity, under which the differing elements, and their diversity against one another and against their unity, are bound, is a dialectic that makes up the physical life of the earth, the *meteorological process*; the elements, as dependent moments, have in it their subsistence only to the same extent as they are produced in it.
 
-> kanntlich durch die Annahme von Poren erklärt; erklären heißt überhaupt eine Erscheinung auf die angenommenen, vertrauten Verstandesbestim mungen zurückführen, und mit keiner ist die Vorstellung vertrauter, als mit der Zusammen sez zung, Theilen und deren Kleinheit, und der Leerheit, und daher nichts deutlicher als zum Begreifen der Verdichtung der Materiedie Erdichtung von Poren zu gebrauchen, leeren Zwi schenräumen, von denen die Physik, als von einem vorhandenem spricht, die sie aber nicht aufzeigt, ungeachtet sie zugleich vorgibt, sich allein auf Erfahrung und Beobachtung zu stüken. Was über diese hinaus ist und nur angenommen wird, ist Sache des Denkens. Es fällt der Physik aber nicht ein, daß sie Gedanken hat; was in gedoppeltem Sinne wahr ist, und hier in dem Dritten, daß die Poren bloße Erdichtungen sind. Ein unmittelbares Beyspiel von eigenthümlicher Specification der Schwere ist die Erscheinung, daß ein auf seinem Un-
+> und der selbstständigen Körper auf die absolute Mechanik und die freyen Centralkörper angewendet werden, eben wird die endliche Physik der vereinzelten indi so viduellen Körper für dasselbe genommen als die, Physik ge ist freye selbstständige des Erdenprocesses. Es wird gerade für den Triumph der Wissenschaft halten, in dem allgemeinen Processe der Erde dieselben Bestimmungen wieder zu erkennen und nach zuweisen, welche sich an den äusserlichen und unselbst ständigen Processen der vereinzelten physicalischen Körperlichkeit zeigen. Das Aufzeigen dieser Gleichheit wird dadurch bewirkt, daß die Bestimmungen durch die von ihren eigenthümlichen Une Abstraction terschieden und Bedingungen oberflächlichen Allge zu meinheiten wie die Attraction gemacht werden,,, Kräften und Geseken in welchen das Besondere,, der concrete Begriff und die Bedingungen mangeln und dann theils als ein äusserlicher Stoff hinzutres tend angesehen,theils auch nach der Analogie hinzuge. 11
 
 Just as the determinations of ordinary mechanics and of the independent bodies are applied to absolute mechanics and the free central bodies, so the finite physics of the individuated individual bodies is taken for the same as the free, independent physics of the earth-process is. It is held to be precisely the triumph of science to recognize again and demonstrate in the universal process of the earth the same determinations that show themselves in the external and dependent processes of individuated physical corporeality. The demonstration of this likeness is effected by the determinations being made, through abstraction from their peculiar differences and conditions, into superficial universalities, such as attraction, — forces and laws, in which the particular, the concrete Concept and the conditions are lacking, and were then partly regarded as an external stuff entering in, partly also, by analogy, added by invention.
 
 [p. 162]
 
-> terstützungspunkte, wie er magnetiſirt gleichgewichtig wird, schwebender sein Gleichgewicht Eisen. stab verliert und an dem einen Pole ikt zeigt als an dem andern sich - Die Säße, welche schwerer die Physik ben ihrer Art,. die Dichtigkeit vorzustellen, voraussekt,) daß eine gleiche Anzahl gleichgros ser materieller sind: Theile 1 gleiches wird somit bey der formellen Identität schwer der sind Schwere; stehen geblieben Das Maß der Anzahl der Theile ist Gewicht. 2) Raum, so was von: gleichem das Gewicht, aber 3 ist), auch auch der gleichen Raum daß, einnimmt; wenn daher 4) gleiche Gewichte doch in einem vers schiedenen Volumen erscheinen, so wird durch Annahme Poren die Gleichheit Raumes, der erfüllt wird der, erhalten - Kant hat des bereits der Quantitätsbestimmung. Anzahl Intensität gegenübergestellt, der an Stelle die mehr in gleichem Raume und die gleiche Anzahl von aber Theilen von einem stärkern Grade der die Raumerfüllung gesekt, und dadurch einer sogenannten Dynamischen Physik
+> dichtet wurden. Einen Hauptunterschied macht die fire Vorstellung vor der substantiellen, unveränderlichen Verschiedenheit der Elemente, welcher aus den Processen der vereinzelnten Stoffe vom Verstande einmal festgesekt wo ist diesen höhere Ues; an bergänge sich zeigen B. im Krystall das Wasser,.z fest wird, Licht, Wärme verschwindet u. s f.. bereis tet sich die Hartnäckigkeit des formellen Denkens ges gen den Begriff eine Hülfe durch nebulose Bestim mungen zum Theil durch bloß sinnlose Ausdrücke,, von Auflösung, gebunden Latentwetrdenund dergleichen Hieher gehört wesentlich die Ver-., wandlung aller Verhältnisse an den Erscheinungen in Stoffe und Materien zum Theil impo de rable wodurch jedes physicalische Daseyn, dem zu schon erwähnten Chaos von Materien und deren Ausund Eingehen, in den erdichteten Poren jeder andern gemacht wird und nicht nur aller Begriff,
 
 — A principal difference is made by the fixed representation of the substantial, unalterable *diversity* of the elements, which has once been fixed by the understanding from the processes of the individuated stuffs; where higher transitions show themselves in these, e.g., where in the crystal water becomes solid, light, heat disappears, etc., the obstinacy of formal thinking against the Concept provides itself with an aid through nebulous determinations, in part through merely senseless expressions, of *dissolution*, *becoming bound and latent*, and the like. To this belongs essentially the transformation of all relationships in the appearances into *stuffs* and *matters*, in part *imponderable*, whereby every physical determinate being is made into the already mentioned *chaos* of matters and their going out and in in the invented pores of each other, and not only all Concept but also representation gives out.
 
-> den Ursprung gegeben -. Wenigstens hätte die Be-
+> sondern auch die Vorstellung ausgeht. §. 231.
 
 §. 231.
 
-> stimmung als die des des extensiven intensiven; aber Quantums dieser Unterschied so viel Recht ( § 56.) ist leer und an sich nichtig Die intensive. Größebestimmung hat aber hier. dieß voraus, daß sie auf das Maaß hinweist und zunächst ein In sich seyn andeutet, das in seiner Begriffsbestimmung imma nente Form bestimmtheit ist, die als Quantum überhaupt da ist; dessen Unterschiede als extensives oder intensives aber, - und weiter geht die dynami- Physik nicht, drücken keine Realität aus. sche §. 237. 1
+> Der Proceß der Erde wird durch ihr allgemeines Selbst die Thätigkeit des Lichts, ihr ursprüngliche, Verhältniß zur Sonne, fortdauerd angefacht. Das eine Moment dieses Processes ist die Diremtion ihrer substantiellen Identität, die Spannung in die Momente des selbstständigen Gegensakes, in die Starrheit und die selbstlose Neutralität, wodurch die Erde der Auflösung zugeht einerseits zum Krystall einem Monde, andererzu,, seits einem Wasserkörper einem Kometen,, zu werden,: und die Momente ihren Zusammenhang mit ihren selbsts ständigen Wurzeln zu realisiren suchen.
 
 The process of the earth is continually kindled by its universal *self*, the activity of *light*, its original relationship to the sun. The *one moment* of this process is the *diremption* of its substantial identity, the tension into the moments of independent opposition, into rigidity and selfless neutrality, whereby the earth goes toward dissolution, to become, on the one hand, a crystal, a moon, on the other a body of water, a comet, and the moments seek to realize their connection with their independent roots.
 
-> Die Dichtigkeit ist nur ist erst ein fache Bestimmtheit Eins.
+> §. 232. Das andere Moment ist daß das Fürsichseyn
 
 §. 232.
 
-> Die der Körperlichkeit einfache Bestimmtheit, aber hier schlechthin aber wesentlich als immanente als [p. 163] Formbestimmtheit digkeit aus, der. in So der macht Punctualität es das Princip sich haltende der Sprős Gestaltung. Die, cules der vorhin Materie erwähnten, sind eine kleinen äusserliche Theilchen Reflexionsbe Moles. stimmung; die reelle Bedeutung der Bestimmung des
+> ,,, welchem die Momente der Entgegenserung zugehen [p. 163] die sich ten unterschiedenen auf die entzündende Spike getriebene negativität Bestehens
 
 The *other moment* is that the being-for-itself, toward which the moments of counter-positing go, [p. 163] sublates itself as negativity driven to the extreme; — the *self-kindling consumption* of the attempted differentiated subsistence of the moments, whereby their substantial identity restores itself, and the earth has become, for itself, *fruitful individuality*.
 
-> Eins ist, daß es immanente Form der Gestaltung ist.  §. 236. Das Spröde, als das für sich seyende Subjecti ve, aber muß sich zum Unterschiede des Begriffes aufschliessen, der Punkt in die Linie übergehen und sich an derselben in Extreme entgegensehen, welche durch die Mitte, ihren Indifferenzpunkt gehalten sind. Dieser Schluß macht das Princip der Gestaltung in ihrer entwickelten Bestimmtheit aus, und ist in dieser Strenge der Magnetismus. Der Magnetismus ist eine der Bestimmungen, die sich vornemlich darbieten mußten, als der Gedanke sich in der bestimmten Natur vermuthete, und die Idee einer Naturphilosophie faßte. Denn der Magnet stellt auf eine einfache naive Weise, die Na-
+> Verze hrung des versuche der Momente, aufhebt wodurch; ihre substantielle Identität sich herstellt, und die Erde sich als fruchtbar Individualität geworden.ist Das Gewitter ist die vollständige Erscheinung dieses Processes, die andern metereologischen Phänos mene sind Beginne oder Momente und unreife Auss führungen desselben. An ihm aber hat die Physik,, die da sie ihre Ansicht auf Bedingungen des äusserlie chen Processes beschränkt weder mit der Regenbil. dung, ( ungeachtet Luc's Beobachtungen und de der von ihm darausgezogenen und unter den Deute, schen von dem geistreichen Lichtenberg gegen die Auflösungstheorie urgirten und im Andenken wenig stens erhaltenen Folgerungen), noch mit dem Blike,. auch nicht mit dem Donner noch zurecht kommen kön. nen; eben sowenig mit andern meteorologischen Er scheinungen den Atmosphärilien, insbesondere
 
 The *thunderstorm* is the complete appearance of this process; the other meteorological phenomena are beginnings or moments and immature realizations of it. In it, however, physics, since it confines its view to the conditions of the external process, has been able to come to terms neither with the formation of rain, (notwithstanding *de Luc's* observations and the consequences drawn from them by him, and urged among the Germans against the theory of dissolution by the ingenious *Lichtenberg*, and at least kept in memory), nor with lightning, nor with thunder either; just as little with other meteorological phenomena, in particular the *atmospherilia*, in which the process proceeds as far as the beginning of a terrestrial nucleus.
 
-> tur Dinge des Begriffes sie dar. Die Pole sind, keine besonde-
+> , in welchen der Proceß bis zum Beginn eines irdis
 
 §. 233.
 
-> Realität ren,; sondern haben eine nicht ideelle die; sinnliche der Indifferenzpunkt mechanische, in welchem sie ihre Substanz haben, ist die Einheit, in der sie nur als Bestimmungen des Begriffs sind, und die Polarität ist eine Entgegengesekung nur solcher Momente. Die Erscheinungen, welche den Magnetismus als etwas bloß besonderes ansehen lase sen, sind nur immer wieder dieselben Bestimmungen, keine verschiedenen Eigenschaften, - welche Data zu einer Beschreibung geben könnten. Daß die ein-
+> schen Kernes fortgeht. §. 233. Der Begriff der Materie, die Schwere, legt Natur seine Momente aus zunächst der elementarischen in in, Gestalt selbstständiger Realitäten Die Erde zunächst. der abstracte Grund der Individualität sekt sich, in ihrem Processe als negative Einheit der auſſereinanderge. henden abstracten Elemente und_hiemit als reellen Grund und Wirklichkeit der Individualisirung, in welcher nun die Elemente als in concretem Einheitspunce te zusammengeeint sich darstellen.
 
 The *Concept* of matter, gravity, lays out its moments in the elemental nature, at first in the shape of independent realities. The earth, at first the *abstract* ground of individuality, posits itself in its process as the negative unity of the abstract elements going asunder, and hence as *real* ground and *actuality* of individualization, in which the elements now present themselves as united together in a concrete point of unity.
 
 [p. 164]
 
-> 168
+> C Individuelle Physik.:
 
 C.
 
-> gen ist, sich daß anziehen das Gleiche; was, Indifferente eben der Magnetismus sich dirimirt selbst und
+> §. 234.
 
 #### Individual Physics.
 
-> in Extreme entgegensekt, und das Ungleiche, Diffe
+> Der individuelle Körper ist die zur Einzelnheit aus der Allgemeinheit der Schwere durch Besondie
 
 §. 234.
 
-> rente seine Indifferenz sekt; man hat die ungleich. nahmige Pole sogar freundschaftliche, diegleichnahmige aber feindschaftliche genannt. Daß aber alle Körper magnetisch sind, hat einen schiefen Doppelsinn; der richtige ist, daß alle reelle, nicht bloß spröde Gestalt diesen Begriff enthält, der unrichtige aber, daß alle Körper auch dieses Princip in seiner strengen Abstraction, wie es als Magnetis mus ist, an sich haben. Eine Begriffsform dadurch als in der Natur vorhanden aufzeigen wollen, daß ist fie, in allgemein der Bestimmtheit existiren, solle wie, sie wäre als ein eine unphilosophi Abstraction
+> Derheit der Elemente zusammengeschlossene Materie So. - ist sie nun an und für sich bestimmt und hat durch die, Einzelnheit eine eigenthümliche Form welche die Ein-, Heit der Besonderung eines Körpers ausmacht. Diese Individualität ist unmittelbare oder ruhende a) Sees,) Ei stalt; ihre Besonderung b) in die Verschiedenheit der genschaften und die Spannung der Unterschiede
 
 The individual body is the matter that has been concluded together to *singularity* out of the *universality* of gravity through the *particularity* of the elements. Thus it is now determinate in and for itself, and has through singularity a peculiar *form*, which makes up the *unity* of the particularization of a body. — This individuality is a) immediate or resting, *shape*; b) its particularization into the diversity of properties and into the tension of the differences; c) process, in which the shape dissolves itself just as much as it comes forth in its being-determinate in and for itself.
 
-> scher Gedanke. Die Natur ist vielmehr die Idee im
+> in in;ih c
 
 ##### a). The Shape.
 
-> Elemente des Auſſereinander Begriffsmomente, so daß, zerstreut sie eben sowie
+> Proces worin
 
 §. 235.
 
-> hält der Verstand und in, Realität die darstellt, aber in den höhern fest organischen Dingen die höchste Concretion der unterschiedenen Begriffsformen in Einem vereint. §. 239. Dem Magnetismus der als lineare Räumlichkeit und ideelle Entgegensetzung der Extreme der abstracte Bes griff der Gestalt ist, steht die abstracte Totalität dersel ben, die Kugel, die Gestalt der realen Gestaltlosigkeit,
+> , die Gestalt sich eben auslöst als so rem Un undfür sich bestimmtseyn hervorgeht. a). Die Gestalt. §. 235. Die Individualität der Materie in ihrem unmittelbaren Daseyn die ist immanente Form, welche der Materie des Körpers, der zunächst nur ein oberflächliches Eins, und dann Eine besondere Bestimmtheit zu seinem Wesen hat, einen eigenen bestimmten Unterschied gibt; -die Gestalt die specifische Art des innerlichen -, Zusammenhalts der Materie und deren äusserlic
 
 The individuality of matter in its immediate determinate being is the *immanent form*, which gives to the matter of the body, which at first has only a superficial one, and then *one* particular determinacy as its essence, its own determinate difference; — the *shape*, the specific manner of the *inner cohesion* of the matter and of its *external* delimitation in space; — the individuality of *mechanism*.
 
-> der flüssigen Unbestimmtheit und der gleichgultigen Ver schiebbarkeit der Theile gegenüber.  §. 240. Zwischen den beyden eigentlichen gestaltlosen Ertres men, der punctuellen Sprödigkeit und der sich kugelnden Flüssigkeit, fällt die reelle Gestalt in der Vereinie [p. 165] gung jener Extreme, dem in die totale Körperlichkeit übergegangene Magnetismus, der Cohäsion. §. 241. 6 Die gemeine quantitativen Cohäsion betrifft Stärke blos das einzelne Mo
+> chen Begrenzung im Raume; die Individualität des Mechanismus. Die Specification der Materie einem Ele zumente ist noch gestaltlos weil nur erst Beson, siederheit ist. Bey der Form der Gestalt, und der Individualität überhaupt vornemlich, ist die Vorstel lung einer äusserlich mechanischen Weise und der Zusammensehung zu entfernen. Es hilft nichts, die äusserliche Theilung und ein äusserliches Anseken der Theile zum Verstehen der Bestimmtheit [p. 165] der Gestalt zu Hülfe zu nehmen das Wesentliche; bleibt immer die eigenthumliche, Unterscheidung die an diesen Theilen zum Vorschein kommt, und eine bestimmte sebstische Einheit ihrer Beziehung auss macht. 1 §. 236. Die abstracte Specification ist die specifische
 
 The specification of matter into an *element* is still shapeless, because it is as yet only particularity. — With the form of shape, and of individuality in general, the representation of an *externally mechanical* manner and of *composition* is above all to be removed. It is of no help to call to one's aid the external division and an external attaching of the parts for the understanding of the determinacy [p. 165] of shape; what is essential always remains the peculiar distinction that comes to light in these parts, and makes up a determinate *self-like* unity of their relation.
 
-> hangs ment der der Theile eines Körpers. Die concrete des Cohäsion Zusammen ist
+> Schwere oder Dichtigkeit der Materie, das Verhält
 
 §. 236.
 
-> immanente Form und Bestimmtheit dieses Zusammen: hangs, und begreift die äusserlichen Krystallisatio nen und die Bruchgestalten oder Kerngestalten, die innerliche, sich durch und durch gehend zeigende Kry- ſtallisation. §. 242. Krystallisation ist der individus elle Körper Durch als die Einzelner äusserliche gegen Andere abgeschlossen,
+> niß des Gewichts der Masse zu dem Volumen, wodurch die materielle Selbstischkeit sich von dem abstracten allge meinen Verhältnisse zum Centralkörper losreißt, und aufhört die gleichförmige Erfüllung des Raums zu seyn, und ihrem abstracten Aussereinader ein specifisches Insich seyn entgegensekt. Die verschiedene Dichtigkeit der Materie wird kanntlich erklären durch die Annahme von Poren erklärt heißt überhaupt eine Erscheinung auf die; - be angenommenen, vertrauten Verstandesbestim
 
 The abstract specification is the *specific gravity or density* of matter, the relationship of the weight of the mass to the volume, whereby the material selfhood tears itself loose from the abstract universal relationship to the central body, and ceases to be the uniform filling of space, and opposes to its abstract being-outside-one-another a specific being-within-itself.
 
-> und eines mechanischen Processes mit ihnen fähig. Als innerlich formirt specificirt er diesen Proceß gegen sein Verhalten als bloße allgemeine Masse; in der Ela- ſticität, Härte, Weichheit, Zähigkeit, Dehnbarkeit, Zersprengbarkeit erhält er so seine individuelle Bestimmt heit in dem Widerstande gegen äusserliche Gewalt.  §. 243. 3 Wie aber die Dichtigkeit die einfache Bestimmt heit nur erst als Verhältniß des Volums zur Masse ist so ist die Cohäsion diese Einfachheit als das Selbsti ſche der Individualität. Die Selbsterhaltung des Kör- 1 pers in der Erschutterung durch mechanische Gewalt ist da.. her auch ein Hervortreten seiner individuellen reinen Ide alität, seiner eigenthumlichen Bewegung in sich durch seine ganze Cohäston hindurch die specisische Bestimmung seines ideellen Auseinander in sich durch seine selbstische Zeit, Dieß Erzittern, das der Körper als seine und zwar specificirte Idealität, der veellen Gewalt und äuss serlichen Veränderung gegenüber erscheinen läßt, ist der Klang, [p. 166] Das Cohäsionslose, das Spröde und Flüssige, ist klanglos, und macht in seinem Widerstande, der nur eine äusserliche Erschütterung ist, nur ein Ges räusch. §. 244., da sie Diese ist Individualität hier nur erst aufgehoben die uns mittelbare Die, Reibung kann durch, mechanische Gewalt werden. gehaltenen welche den durch Körperlichkeit die Cohäsion auſſereinander in Negativität Eines Unterschied Zeitmoments der bringt die, beginnende zusammen- Selbstverzehrung macht eine Körpers oder sich vollendende ne specisische des im hervorbrechen, innern welcher sei- Natur Aufhebung, Verhältniß der Ver- Wärmecapacitat änderung und seiner Cohäsion, durch die darstellt. Besonderung b). Die: der Unterschiede. § 245 کر.. Die Gestaltung, die Individualisirung des Mecha nismus oder der Schwere geht in die elementarische Besonderung über. Der individuelle Körper hat die Totalität der Elemente an ihm, als Subject derselben enthält er sie erstlich als Eigenschaften oder Prädicate; aber zweytens nur erst in der unmittelbaren Individualität gehalten, sind sie auch als gegeneinander gleichgültige Materien; drittens sind sie Verhältnisse zu den ungebundenen Elementen und Processe des indivi duellen Körpers mit denselben. Bey dem alten, allgemeinen Gedanken, daß je
+> mungen zurückführen, und mit keiner ist die Vorstellung vertrauter, als mit der Zusammen sez zung, Theilen und deren Kleinheit, undder Leerheit und daher nichts deutlicher als zum, Begreifen der Verdichtung der Materie die Erdichtung von Poren gebrauchen zu leeren Zwi, schenräumen von denen die Physik, als von einem, vorhandenem spricht die aber nicht aufzeigt, sie un-, geachtet sie auf Erfahrung zugleich vorgibt, sich allein und Beobachtung stüken zu Was über diese hin-. aus und nur angenommen ist wird Sache, ist des Denkens Es fällt der. Physik aber nicht ein, daß sie Gedanken hat was gedoppeltem Sinne; in wahr und hier ist, dem Drittenin daß die Poren, bloße Erdichtungen sind Ein unmittelba-. res Beyspiel von eigenthümlicher Specification der Schwere die Erscheinung ist daß ein auf seinem Un-, [p. 166] ‫ر‬ terstützungspunkte gleichgewichtig schwebender Eisen. stab, wie er magnetiſirtwird, sein Gleichgewicht verliert und sich an dem einen Pole ikt schwerer zeigt als an dem andern. Die Säße, welche die Physik ben ihrer Art die Dichtigkeit vorzustellen, vor- -, aussekt, sind:) 1 daß eine gleiche Anzahl gleichgros ser materieller Theile gleich schwer sind es wird; somit bey der formellen Identität der Schwere stehen geblieben. 2) Das Maß der Anzahl der Theile ist das Gewicht aber auch der Raum, so daß was von ist 3,,: gleichem Gewicht,) auch gleichen Raum einnimmt; wenn daher 4) gleiche Gewichte doch in einem versschiedenen Volumen erscheinen, so wird durch Annahme der Poren die Gleichheit des Raumes der er-, füllt wird, erhalten. Kant hat bereits der Quantitätsbestimmung der Anzahl die Intensität gegenübergestellt, und an die Stelle von mehr Theilen in gleichem Raume die gleiche Anzahl aber von einem stärkernGrade der Raumerfüllung gesekt und, Dynamischen Physik dadurch einer sogenannten den Ursprung gegeben Wenigstens hätte die Be- -. stimmung des intensiven Quantums viel Recht so als die des extensiven; aber dieser Unterschied ( §. 56.) leer und ist sich nichtig Die intensive an. Größebestimmung hat aber hier dieß voraus daß, sie auf das Maaß hinweist und zunächst ein sich seyn In andeutet das,seiner Begriffsbestimmung in imma nente Form bestimmtheitals Quanist, die tum überhaupt da als extensives ist; dessen Unterschiede oder intensives aber, und weiter geht die dynami-
 
 The varying density of matter is, as is well known, explained by the assumption of *pores*; — to *explain* means in general to trace an appearance back to assumed, familiar *determinations of the understanding*, and with none is the representation more familiar than with *composition*, *parts* and their *smallness*, and *emptiness*, and hence nothing is clearer than to use, for the comprehension of the condensation of matter, the invention of *pores*, — of empty interspaces, of which physics speaks as of something present, but which it does not show, notwithstanding that it at the same time professes to rely solely on experience and observation. What goes beyond these and is only *assumed* is a matter of *thinking*. It does not occur to physics, however, that it has thoughts; which is true in a double sense, and here in the third, that the pores are mere *inventions*. — An immediate example of a peculiar specification of gravity is the appearance that an iron bar poised in equilibrium on its point of support, [p. 166] as it is *magnetized*, loses its equilibrium and now shows itself heavier at the one pole than at the other. — The propositions that physics presupposes in its way of representing density are: 1) that an equal number of equally large material parts are equally heavy; — thus one remains stuck at the formal identity of gravity. 2) The measure of the number of the parts is the weight, but 3) also space, so that what is of equal weight also takes up equal space; if therefore 4) equal weights nevertheless appear in a different volume, then, by the assumption of pores, the equality of the space that is filled is maintained. — Kant has already opposed *intensity* to the quantitative determination of *number*, and put in the place of *more* parts in equal space the equal number but of a stronger *degree of space-filling*, and thereby given the origin to a so-called *dynamical physics*. — At least the determination of the *intensive* quantum would have as much right as that of the *extensive*; but this difference (§ 56) is empty and null in itself. The *intensive* determination of magnitude, however, has this advantage here, that it points to measure and indicates, first of all, a *being-within-itself* which, in its determination of the Concept, is *immanent form-determinacy*, which is there as quantum in general; whose differences, however, as extensive or intensive, — and dynamical physics goes no further, — express no reality.
 
-> Paracelsischen der Körper aus den, vier daß Elementen er aus Mercurius, oder dem oder neuern Flüs =
+> sche Physik nicht, drücken keine Realität aus.
 
 §. 237.
 
-> sigkeit, Schwefel oder Del und Salz bestehe und vielen andern Gedanken dieser Art, ist vors erste die Widerlegung leicht gewesen, indem man unter [p. 167] jenen Namen die einzelnen empirischen Stoffe vers stehen wollte, welche zunächst durch solche Namen bes zeichnet sind. Es ist aber nicht zu verkennen, daß
+> §. 237. 1 Die Dichtigkeit ist nur erst ein fache Bestimmtheit. Die einfache Bestimmtheit ist aber wesentlich als Eins der Körperlichkeit, aber hier schlechthin als immanente [p. 167] 167. Formbestimmtheit. So macht es das Princip der Sprős digkeit aus, der in der Punctualität sich haltende Gestaltung.
 
 Density is as yet only a *simple* determinacy. The simple determinacy, however, is essentially as the *one* of corporeality, but here absolutely as immanent [p. 167] form-determinacy. Thus it constitutes the principle of *brittleness*, of the configuration that keeps itself in punctuality.
 
-> sie viel wesentlicher die Begriffsbestimmungen ent hielten und ausdrücken sollten, und es ist daher vielmehr die Gewaltsamkeit zu bewundern, mit welcher der Gedanke in solchen sinnlichen Dingen nur seine
+> Die vorhin erwähnten kleinen Theilchen, Moles cules der Materie, sind eine äusserliche Reflexionsbe. stimmung; die reelle Bedeutung der Bestimmung des Eins ist, daß es immanente Form der Gestaltung ist.
 
 The small particles mentioned earlier, molecules of matter, are an external determination of reflection; the real significance of the determination of the one is that it is immanent form of configuration.
 
-> eigene erkannte Bestimmung und festhielt und Fürs die allgemeine andere Bedeutung ist ein sol-
+> §. 236.
 
 §. 236.
 
-> ches Auffassen und Bestimmen., da es die Vernunft zu seiner Quelle hat, welche sich durch die sinnliche Spielerey der Erscheinung und deren Verworrenheit nicht irre machen, noch gar sich selbst in Vergessenheit bringen läßt, unendlich über das gedankenlose Anfsuchen und das chaotische Hererzählen der Eigenschaften der Körper erhaben. Hier gilt es für ein Verdienst und einen Ruhm immer noch etwas Be
+> Das Spröde, als das für sich seyende Subjecti ve, aber muß sich zum Unterschiede des Begriffes aufschliessen, der Punkt in die Linie übergehen und sich an derselben in Extreme entgegensehen, welche durch die Mitte, ihren Indifferenzpunkt gehalten sind Dieser in. Schluß macht das Princip der Gestaltung ihrer entwickelten Bestimmtheit aus, und ist in dieser Strenge der Magnetismus. Der Magnetismus ist eine der Bestimmungen,
 
 The brittle, as the *subjective* that is for itself, must however open itself up to the difference of the Concept, the point pass over into the line and, on it, oppose itself in extremes, which are held by the middle, their point of indifference. This syllogism constitutes the principle of *configuration* in its developed determinacy, and in this strictness is *magnetism*.
 
-> sonders ausgegangen zu haben, statt es auf das Algemeine und den Begriff zurückzubringen, und diesen darin zu erkennen. § 246.. Der Körper individualisirt a) das äusserliche Selbst des Lichts an seiner Dunkelheit zu einer specifischen Trübung desselben, zur Farbe; b) die Luft als die abstracte, selbstlose Allgemeinheit, zur Einfachheit jeines specifischen Processes, oder im Geruche ist vielmehr die specifische Individualität des Körpers in ihrer Einfachheit, selbst nur als Proces; c) das Wasser die abstracte Neutralität, individualisirt er zur bestimmten Neutralität der Salzigkeit, Säure und sofort, zum Geschmack. §. 247. Die Körper sind durch diese ihre allgemeine terrestrische Totalität zunächst in einem oberflächlichen Processe gegen die Elemente, denn ihre individuelle Natur besteht [p. 168] darin, gegen sie abgeschlossen zu seyn. Aber als einzelne stehen sie auch im Verhältnisse zu einander und zwar ausser dem mechanischen Verhalten als besondere Indivi dualitäten.  §. 248. Zunächst als Selbstständige gegeneinander er halten sie sich, und wie sie im mechanischen Verhält nisse ihr Selbst auf die ideelle Bewegung als ein Schwingen in sich als Klang kund thun, so treten sie nun in reeler Selbſtiſchkeit, im elektrischen Verhältnisse gegen. einander auf. 1 $.249.  Das Für sich seyn, das sie in der Berührung ma nifestiren, ist durch die Differenz des andern in jedem gesekt, und ist daher nicht fren, sondern eine entgegengesekte Spannung, in welcher aber nicht die Natur des Körpers in ihrer ganzen Bestimmtheit eintritt, sondern nur die Realität seines abstracten Selbsts, ein Licht, und zwar ein entgegengesektes sich producirt. Die Aufhebung der Diremtion, das andere Moment dieses Pro- Körperlos cesses, hat unmittelbar ein indifferentes verschwindet Licht, zum und Product ausser, dieser das abals
+> die sich vornemlich darbieten mußten, als der Gedanke sich in der bestimmten Natur vermuthete, und die Idee einer Naturphilosophie faßte Denn der. Magnet stellt auf eine einfache naive Weise die Na-, tur des Begriffes dar. Die Pole sind keine besonderen Dinge; sie haben nicht die sinnliche, mechanische Realität sondern eine ideelle der Indifferenzpunkt,,,,; sie in in welchem ihre Substanz haben, ist die Einheit nur als Bestimmungen des Begriffs sind der sie und die Polarität eine Entgegengesekung ist nur solcher Momente Die Erscheinungen. welche den, Magnetismus als etwas bloß besonderes ansehen lasesen, sind nur immer wieder dieselben Bestimmungen, keine verschiedenen Eigenschaften, welche Data zu einer Beschreibung geben könnten. Daß die einzelne Magnetnadel sich nach Norden und damit in Einem nach Süden richtet, ist Erscheinung des allge. meinen Erdmagnetismus; dieselbe, daß von [p. 168] zwen solchen empirischen Magneten die gleichnahmi gen Pole sich abstoßen, und die ungleichnahmi gen sich anziehen; was eben der Magnetismus selbst dirimirt und in ist daß das Gleiche Indifferente sich,, Extreme entgegensekt, und das Ungleiche, Diffe rente seine Indifferenz sekt; man hat die ungleich. - nahmige Pole sogar freundschaftliche die, gleichnahmige aber feindschaftliche genannt. Daß aber alle Körper magnetisch sind, hat einen schiefen Doppelsinn der richtige daß alle reelle; ist,, nicht bloß spröde Gestalt diesen Begriff enthält der, unrichtige aber daß alle Körper auch dieses Princip, in seiner strengen Abstraction wie als Magnetis, es mus ist, an sich haben. Eine Begriffsform dadurch als Natur vorhanden aufzeigen wollen daß in in der, sie ist fie der Bestimmtheit, wie als eine Abstraction, allgemein existiren solle, wäre ein unphilosophi scher Gedanke. Die Natur ist vielmehr die Idee im Elemente des Auſſereinander daß eben sowie, so, sie der Verstand die Begriffsmomente zerstreut fest in, hält und Realität darstellt, aber in den höhern
 
 Magnetism is one of the determinations that had to present themselves above all when thought surmised itself in determinate nature, and conceived the idea of a *philosophy of nature*. For the magnet presents, in a simple, naive manner, the nature of the Concept. The poles are not particular things; they do not have the sensuous, mechanical reality, but an ideal one; the point of indifference, in which they have their substance, is the unity in which they are only as determinations of the Concept, and polarity is an opposition only of such moments. The appearances that allow magnetism to be regarded as something merely particular are only ever the same determinations again and again, not different properties that could give data for a description. — That the single magnetic needle directs itself toward the north and thereby, at one and the same time, toward the south, is appearance of the universal *earth-magnetism*; the same, that of [p. 168] two such empirical magnets the like-named poles repel one another and the unlike-named attract one another; which is precisely magnetism itself, that the like, the indifferent, dirempts itself and opposes itself into extremes, and the unlike, the different, posits its indifference; one has even called the *unlike-named* poles *friendly*, the *like-named*, however, *hostile*. — That all bodies, however, are magnetic has a skewed double meaning; the correct one is that every real shape, not merely brittle shape, contains this Concept; the incorrect one, however, that all bodies also have in themselves this principle in its strict abstraction, as it is as magnetism. To want to show a form of the Concept as present in nature by claiming that it should exist universally in the determinacy in which it is as an abstraction would be an unphilosophical thought. Nature is rather the Idea in the element of being-outside-one-another, so that it, just as the understanding does, holds the moments of the Concept fast *scattered* and presents them in reality, but in the higher organic things unites the highest *concretion* of the different forms of the Concept in one.
 
-> stracten physicalischen Erscheinung daher vornehmlich nur
+> organischen Dingen die höchste Concretion der unterschiedenen Begriffsformen in Einem vereint.
 
 §. 239.
 
-> die mechanische Wirkung der Erschutterung hat... Bekanntlich ist der frühere an eine bestimmte sinnliche Eristenz gebundene Unterschied von Glas: und Harz - Elektritität durch die vervollständigte Empirie in den Gedankenunterschied von p o sttiver und negativer Elektricität idealisirt worden;
+> §. 239. Dem Magnetismus der als lineare Räumlichkeit und ideelle Entgegensetzung der Extreme der abstracte Bes griff der Gestalt steht die abstracte Totalität dersel ist, ben, die Kugel, die Gestalt der realen Gestaltlosigkeit,
 
 Over against magnetism, which as linear spatiality and ideal opposition of the extremes is the abstract Concept of shape, stands the abstract totality of the same, the *sphere*, the shape of real shapelessness, of fluid indeterminacy and of the indifferent displaceability of the parts.
 
-> die ein zunächst merkwürdiges das Allgemeine Beyspiel in, sinnlicher wie die Empirie Form,
+> der flüssigen Unbestimmtheit und der gleichgultigen Ver schiebbarkeit der Theile gegenüber.
 
 §. 240.
 
-> fassen und festhalten will, sich selbst aufhebt. - Wenn in neuern Zeiten viel von der Polarisation des Lichts die Rede geworden ist, so wäre [p. 169] mit grösserem Rechte dieser Ausdruck für die Electrici
+> §. 240. Zwischen den beyden eigentlichen gestaltlosen Ertres men, der punctuellen Sprödigkeit und der sich kugelnden Flüssigkeit, fällt die reelle Gestalt der Vereinie in [p. 169] gung jener Extreme, dem in die totale Körperlichkeit übergegangene Magnetismus, der Cohäsion. §. 241.
 
 Between the two properly shapeless extremes, punctual brittleness and the fluidity that forms itself into a sphere, falls the *real shape* in the unification [p. 169] of those extremes, the magnetism that has passed over into total corporeality, *cohesion*.
 
-> tät Erscheinungen aufbehalten, worden wo durchsichtige, als für Medien die Malusschen, spiegelnde
+> 6
 
 §. 241.
 
-> Oberflächen und die verschiedenen Stellungen dersele be zu nander, so wie ein bestimmter Einfallswinkel des Lichter, so viele anderweitige differente Umstände sind, welche keinen Unterschied am Lichteselbst, sondern nur an seinem Scheinen zeigen. Die Bedingungen, inter welche die positive und die negative Elektricität hervortreten, die glättere oder mattere Oberfläche z. B., ein Hauch und so fort, be
+> Die gemeine Cohäsion betrifft blos das einzelne Mo ment der quantitativen Stärke des Zusammen Die concrete Cohäsion ist hangs der Theile eines Körpers. immanente Form und Bestimmtheit dieses Zusammen: hangs, und begreift die äusserlichen Krystallisatio nen und die Bruchgestalten oder Kerngestalten, die innerliche, sich durch und durch gehend zeigende Kry- ſtallisation. §. 242. Durch die äusserliche der individus Krystallisation ist elle
 
 Common cohesion concerns merely the single moment of the *quantitative strength* of the coherence of the parts of a body. Concrete cohesion is immanent form and determinacy of this coherence, and comprises the external *crystallizations* and the *fracture shapes or core shapes*, the internal crystallization that shows itself going right through.
 
-> weisen die Oberflächliakeit des elektrischen Processes
+> Körper als Einzelner gegen Andere abgeschlossen,
 
 §. 242.
 
-> und Körpers wie wenig darein die concrete physicalische Natur Färbung des eingeht. Even so zeigen die schwache der beyden Beginn elektrischen Lichter Körperlichkeit, Geruch, an Geschmack nurden einer dem abstracten Selbst Regativität des Lichts, in welchem sich der Proces hält. Die - Spannung, welche das Auf- Heben der entgegengesekten Sch laz; ist, ist haupts sächlich sekende ein Selbst bleht auch als das solches sich mit in sich der identisch ideel
+> fähig und eines mechanischen Processes mit ihnen. Als innerlich formirt specificirt diesen Proceß gegen er sein Verhalten als bloße allgemeine Masse der Ela-; in ſticität Härte Weichheit Zähigkeit,, Dehnbarkeit,,, Zersprengbarkeit erhält seine individuelle Bestimmt er so heit in dem Widerstande gegen äusserliche Gewalt. § 243
 
 Through external crystallization the individual body is closed off as a *singular* against *others*, and is capable of a *mechanical process* with them. As internally formed, it specifies this process against its behavior as a mere universal mass; in *elasticity*, hardness, softness, toughness, ductility, shatterability, it thus obtains its individual determinacy in the resistance to external force.
 
-> len Sphäre des Rames und der Zeit und des Me-
+> .
 
 §. 243.
 
-> cha'n is mus stehen. Das Licht hat kaum einen Ans fang sich zur Wärme zu materialisiren, und die Zündung, die aus der sogenannten Entladung entspringen kann, ist Berthollet Statique Chimique Ière Partie, Sect. III. not. XI). mehr eine directe Wirkung der Erschütterung, alsdie Folge einer Realisation des Ciates zu Feuer. Der Galvanismus ist der permanenter gemachte elektrische Proces; er hat die Permanenz als die Berührung zweyer differenter nicht spröder Körper, die um ihrer flüssigen Natur willen ( der genannten elektrischen Leitumsfähigkeit der Metalle) Daseyn ihrer ganzen geben Differenz und um unnittelbar ihre Solidität gegen einander und der
+> . 3 Wie aber die Dichtigkeit die einfache Bestimmt heit nur erst als Verhältniß des Volums zur Masse ist so ist die Cohäsion diese Einfachheit als das Selbsti ſche der Individualität. Die Selbsterhaltung des Kör- 1 Gewalt ist da.. pers in der Erschutterung durch mechanische her auch ein Hervortreten seiner individuellen reinen Ide alität seiner eigenthumlichen Bewegung, sich durch in die specisische Bestimmung seine ganze Cohäston hindurch seines ideellen Auseinander in sich durch seine selbstische Zeit, Dieß Erzittern, das der Körper als seine und zwar specificirte Idealität, der veellen Gewalt und äuss Veränderung gegenüber erscheinen läßt, ist der serlichen Klang,
 
 But just as density is the *simple* determinacy only at first, as the relationship of volume to mass, so cohesion is this *simplicity* as the *self-like* of individuality. The self-preservation of the body in the shaking by mechanical force is therefore also an emergence of its individual pure *ideality*, of its peculiar motion within itself through its whole cohesion; the specific determination of its ideal being-asunder within itself through its self-like time. This trembling, which the body lets appear as its own and indeed *specified ideality*, in face of real force and external alteration, is sound.
 
 [p. 170]
 
-> Oberflächlichkeit dieser Beziehung willen, sich und ihre Spannung gegen einander erhalten. Der galvanische Proceß wird nur durch diese besondere
+> Das Cohäsionslose, das Spröde und Flüssige, ist klanglos und macht, in seinem Widerstande der, nur eine äusserliche Erschütterung ist, nur ein Ges
 
 What lacks cohesion, the brittle and the fluid, is soundless, and in its resistance, which is only an external shaking, makes only a *noise*.
 
-> Eigenthümlichkeit der Körper concreterer uro körper-
+> räusch. §. 244.
 
 §. 244.
 
-> schen licherer Processe Natur. und macht den Uebergang zum chemi- §. 250. Die Individualitat des Körpers ist die negative Einheit des Begriffs, welche schlechtsin nicht ein Unmittelbares und unbewegtes Allgemeines, sondern nur durch die Vermittelung des Processes sich sekendes ist; der Körper ist daher Product, und seine Gestalt eine Voraussezzung, von welcher vielmehrdas Ende, in das sie übergeht, vorausgesetzt wird. Die Besonderung aber
+> Diese Individualität, da sie hier nur erst die uns kann durch mechanische Gewalt aufgehoben ist mittelbare, werden. Die Reibung, welche den durch die Cohäsion auſſereinander gehaltenen Unterschied der Körperlichkeit in die Negativität Eines Zeitmoments zusammenbringt, macht eine beginnende oder sich vollendende Selbstverzehrung des Körpers hervorbrechen welcher sei-, nespecisische Natur Verhältniß der innern Ver-, im änderung und Aufhebung seiner Cohäsion, durch die Wärmecapacitat darstellt. b). Die Besonderung:
 
 This individuality, since it is here as yet only the immediate one, can be sublated by mechanical force. *Friction*, which brings the difference of corporeality, held outside one another by cohesion, together into the negativity of *one moment of time*, makes break forth a beginning or self-completing self-consumption of the body, which presents its *specific* nature, in the relationship of the *internal* alteration and sublation of its cohesion, through *heat capacity*.
 
-> Entgegensehung bleibt nicht bey, der nur bloß als trägen Spannurg Verschiedenheit und Differenz, undder der
+> der Unterschiede. ‫رک‬
 
 ##### b). The Particularization of the Differences.
 
-> genschaften reinen Selbstischkeit nur die Realität stehen, sondem diess einfachen da die besondern Begriffes Ei-,
+> 245
 
 §. 245.
 
-> de Leib ihrer Seele, des Lichts ind, so geht die ganze Körperlichkeit in die Spannungund den Procesß ein, der die Bildungdes individueller Körpers, die Vereins zelung ist; der chemisce Proceß. 1  c) Der Proces rer Vereinzelung.  7 § 251. Der chemische Proceß hat seine Producte zu seiner Voraussekung, und beginnt daher) 1 von ihrer
+> §. Die Gestaltung, die. Individualisirung des Mecha nismus oder der Schwere die elementarische Begeht in sonderung über Der individuelle Körper hat die Totali-. tät der Elemente ihm als Subject derselben enthält an, er erstlich als Eigenschaften oder Prädicate sie; aber zweytens nur erst der unmittelbaren Indiin vidualität gehalten sind sie auch als gegeneinander gleich-,
 
 Configuration, the individualization of mechanism or of gravity, passes over into elemental particularization. The individual body has the totality of the elements in it; as subject of them it contains them *firstly* as *properties* or *predicates*; but *secondly*, held as yet only in *immediate* individuality, they are also as *matters* indifferent to one another; *thirdly*, they are relationships to the unbound elements and processes of the individual body with them.
 
-> Unmittelbarkeit. Dem Begriffe nach unmittelbar ist der besonderte. Köper, insofern seine Eigenschaften eder Materien in einfache Bestimmung zusammen geeint und der Einfachheit der specificirten Schwere, der Dichtigkeit, gleichgeworden sind. Die Metallität ist und diese Gediegenheit sich in ungetrenner, durch Ganzheit welche die und Besonderheit Allgemeinheit flüssig, in [p. 171] die bestimmte Differenz gegen eine andere zu sehen fäs hig ist. §.252. Die Mitte, durch die sich der Begriff diese gedie genen Differenzen, welcher die Einheit beyder und das Wesen eines jeden an sich ist, mit seiner Realität zusammenschließt, - oder die Differenz eines jeden von beyden, mit der Differenz des andern in eins seht, und dadurch als Totalität seines Begriffes reell wird, ist zunächst gegen die unmittelbare Solidität der Extreme die abstracte Neutralität, das Element des Wassers. Der Proces selbst ist die Diremtion desselben in entgegengesezte Momente durch jene vorausgesetzte Differenz der Extreme, die daran ihre Abstraction aufheben und sich, zur Einheit ihres Begriffs vervouständigen. §. 253. Die Momente, in welche das Wasser dirimirt, oder was dasselbe ist, die Formen, unter denen es gesekt
+> gültige Materien drittens sind; Verhältnisse sie zu den ungebundenen Elementen und Processe des indivi duellen Körpers mit denselben. Bey dem alten, allgemeinen Gedanken, daß je der Körper aus den vier Elementen, oder dem neuern Paracelsischen, daß er aus Mercurius oder Flüssigkeit, Schwefel oder Del und Salz und bestehe vielen andern Gedanken dieser Art vors erste, ist die Widerlegung leicht gewesen indem man unter, [p. 171] jenen Namen die einzelnen empirischen Stoffe vers stehen wollte, welche zunächst durch solche Namen bes zeichnet sind. Es ist aber nicht zu verkennen, daß sie viel wesentlicher die Begriffsbestimmungen ent hielten und ausdrücken sollten, und es ist daher vielmehr die Gewaltsamkeit zu bewundern, mit welcher der Gedanke solchen sinnlichen Dingen nur seine in eigene Bestimmung und die allgemeine Bedeutung erkannte und festhielt. Fürs andere ist ein solches Auffassen und Bestimmen, da es die Vernunft zu seiner Quelle hat, welche sich durch die sinnliche Spielerey der Erscheinung und deren Verworrenheit nicht irre machen, noch gar sich selbst Vergessenin heit bringen läßt, unendlich über das gedankenlose Anfsuchen und das chaotische Hererzählen der Eigenschaften der Körper erhaben. Hier gilt es für ein Verdienst und einen Ruhm immer noch etwas Be sonders ausgegangen zu haben, statt es auf das Algemeine und den Begriff zurückzubringen, und diesen darin zu erkennen. §. 246. Der Körper individualisirt a) das äusserliche Selbst des Lichts an seiner Dunkelheit zu einer specifischen Trübung desselben zur Farbe, Luft; b) die als
 
 In the case of the old, universal thought that every body consists of the four elements, or of the more recent *Paracelsian* one that it consists of mercury or fluidity, sulfur or oil, and salt, and of many other thoughts of this kind, the refutation has been easy *in the first place*, in that one [p. 171] wanted to understand by those names the individual empirical stuffs that are first of all designated by such names. It is not to be mistaken, however, that they contained, and were meant to express, far more essentially the determinations of the Concept, and it is therefore rather the violence that is to be admired with which thought, in such sensuous things, cognized and held fast only its own determination and the universal significance. *Secondly*, such a grasping and determining, since it has reason as its source, which lets itself neither be led astray by the sensuous play of appearance and its confusedness, nor even be brought into forgetfulness of itself, is infinitely elevated above the thoughtless searching out and the chaotic reciting of the *properties* of bodies. Here it still counts as a merit and a distinction to have set out after something *particular*, instead of tracing it back to the universal and the Concept, and cognizing the latter therein.
 
-> wird, sind abstract, weil das Wasser selbst nur physisches
+> die abstracte,selbstlose Allgemeinheit zur Einfachheit, jeines specifischen Processes Geruche im
 
 §. 246.
 
-> Element, nicht individueller physischer Körper ist -; die chemischen Elemente des Gegensakes, Sauerstoff und Wasserstoff. Die Metalle aber, welche sich dadurch integrirt haben, erhalten aus jener abstracten Mitte gleichfalls nur eine abstracte Integration; eine Realität, welche erst ein Gesektseyn der Differenz an ihnen ist; Oxide. Der Metallität liegt die Stuffe, als Kalk nur ein Orid zu seyn, am nächsten, wegen der innern Indifferenz ihrer gediegenen Natur; aber die Ohn-
+> in ist oder, vielmehr die specifische Individualität des Körpers ihrer Einfachheit, selbst nur als Proces das Wasser die; c) abstracte Neutralität individualisirt, zur bestimmten er Neutralität der Salzigkeit Säure und sofort zum Ge,, = schmack. §. 247. Die Körper sind durch diese ihre allgemeine terrestri-
 
 The body individualizes a) the external self of *light*, at its darkness, into a specific clouding of the same, into *color*; b) *air*, as the abstract, selfless universality, into the simplicity of its specific process, or in *smell* the specific individuality of the body is rather in its simplicity, itself only as process; c) *water*, the abstract neutrality, it individualizes into the determinate neutrality of saltiness, acidity, and so on, into *taste*.
 
-> macht der Natur, den bestimmten Begriff festzuhale
+> sche Totalität zunächst in einem oberflächlichen Processe
 
 §. 247.
 
-> ten, läßt einzelne Metalle auch so weit zur Entge genseßung hinübergehen, daßihre Oride gleich auf Chemie der Seite so der weit Säuren gekommen stehen,. auch Bekanntlich nicht nur in ist Kali die [p. 172] ,, und Natron sogar im Ammonium sondern auch im Strontian, Baryt, ja in den Erden die metallische, Basis darzustellen Körper, wenigstens in Amalgamenund Ues
+> gegen die Elemente denn ihre individuelle Natur besteht, 1 1 [p. 172] darin, gegen sie abgeschlossen zu seyn. Aber als einzelne stehen sie Verhältnisse auch imeinander und zwar zu ausser dem mechanischen Verhalten als besondere Indivi dualitäten. §. 248.
 
 Through this their universal terrestrial totality the bodies are first of all in a superficial process against the elements, for their individual nature consists [p. 172] in being closed off against them. But as singular ones they also stand in relationship to one another, and indeed, apart from mechanical behavior, as particular individualities.
 
-> brigens dadurch diese sind die themischen als Oride Elemente zu erkennen solche Abstractio.
+> Zunächst als Selbstständige gegeneinander er
 
 §. 248.
 
-> 1 nen, daß sie in der Gasform, in welcher sie sich für sich darstellen, einander wie das Licht durchdringen, und ihre Materialität und Undurchdringlichkeit, der Ponderabitität ungeachtet, sich hier zur Immateriall tät gesteigert zeigt. Ferner haben Sauerstoff und Wasserstoff eine so wenig von der Individualität der
+> halten sie und wie, sich sie mechanischen Verhält im nisse ihr Selbst auf die ideelle Bewegung als ein Schwingen insich als Klang kund thun treten nun re-, so sie in eler Selbſtiſchkeit, im elektrischen Verhältnisse gegen. einander auf. 1 $.249. Das Für sich seyn, das sie in der Berührung ma
 
 First of all, as *independent* ones against one another, they *maintain* themselves, and as, in the mechanical relationship, they make their self known in ideal motion, as a vibrating within itself, as sound, so they now step forth against one another in real selfhood, in the *electrical* relationship.
 
-> Körper Basen ebensowohl unabhängige zu Determination Oxiden und zur, daß kalischen das Origen Seite
+> nifestiren, ist durch die Differenz des andern in
 
 §. 249.
 
-> überhaupt, als zur entgegengesekten, der Säure, bestimmt, wie dagegen in der Hydrothionsäure, die Determination zur Säure sich als Hydrogenisation zeigt. §. 254. Der gediegenen Indifferenz der besonderten Körperlichkeit steht die physicalische Sprödigkeit gegen. über, das Zusammengefaßtseyn der Besonderheit in die selbstische Einheit, ( das Erz, als Vereinigung des Schwefels und Metaus stellt die Totalität dar). Diese Sprödigkeit ist die reelle Möglichkeit des Entzündens, welcher die Wirklichkeit des sich selbst verzehrenden
+> jedem gesekt, und ist daher nicht fren, sondern eine entgegengesekte Spannung, in welcher aber nicht die Natur des Körpers in ihrer ganzen Bestimmtheit eintritt sondern, nur die Realität seines abstracten Selbsts ein Licht,, und zwar ein entgegengesektes sich producirt Die Auf-. hebung der Diremtion, das andere Moment dieses Processes, hat ein indifferentes Licht zum Product, das als Körperlos unmittelbar verschwindet, und ausser dieser abstracten physicalischen Erscheinung daher vornehmlich nur die mechanische Wirkung der Erschutterung hat... Bekanntlich ist der frühere an eine bestimmte sinnliche Eristenz gebundene Unterschied von Glas: und Harz Elektritität durch die vervollständigte - - Empirie in den Gedankenunterschied von p
 
 The *being-for-itself* that they manifest in contact is posited through the difference of the other in each, and is therefore not free, but an opposed *tension*, in which, however, not the nature of the body enters in its entire determinacy, but only the reality of its abstract self, a *light*, and indeed an opposed one, produces itself. The sublation of the diremption, the other moment of this process, has an indifferent light as its product, which, as incorporeal, vanishes immediately, and outside this abstract physical appearance therefore has, chiefly only, the mechanical effect of the shaking.
 
-> Fürsichseyns, das Feuer, noch ein äusserliches ist. Es vermittelt die innere Differenz des brennbaren Körpers durch das physicalische Element der abstracten Negati- ' vität, die Luft, mit dem Gesektseyn oder der Realie tät, und begeistet ihn zur Säure. Die Luft aber wird dadurch in dieß ihr negatives Princip, den Sauerstoff, und in das todte positive Residuum, in den Stickstoff dirimirt. §. 255. differenz Die, chemischen der Stickstoff Elemente,, und die die Abstraction beyden des der Gegen In [p. 173] sakes das, der fürsüchseyenden Differenz, der Sauerstoff, Brennende, und der dem Gegensake angehöri gen oder fürsichseyenden Indifferenz, der Wasserstoff, 1 das Brennbare, haben die Abstraction ihres individu ellen Elementes an dem Kohlenstoffe. §. 256. beyden 1, 2) Die Kalchigtes Producte der abstracten Processe Säure und oder Kalisches, sind nicht mehr in bloßer Verschiedenheit, sondern in eigentlicher und ( concentrirte unfähig Säure und zu zur Kausticität begeistetes Kali) daher für sich bestehen, und nur die Unruhe sich zu aufzuheben und mit ihren Entgegengesekten Begriff identisch ist, sehen ist. Diese Einheit, Salz in der ihr realisirt das Neutrale, das. §. 257. Körper als 3) Im Salze ist der gestaltete und concrete Product seines Processes. Das Verhalten verschiede ner dergleichen zueinander betrifft theils die die nähere Parti cularisation der Körper, aus der sogenannten Wahle verwandschaften da entspringen. Ueberhaupt aber sind diese Processe Körper, die in sie eingehenden Extreme nicht abstracte sind, sie für sich selbst reellere. Dem eigen thümlichen die nach sind Diremtionen der sie producirt Neutralen in Abstractionen Rückgänge, aus deren Processe worden, zu den Oriden und Säuren, und zu ferner auch unmittelbar und in abstractern Formen den indifferenten Basen, welche auf diese Weise sich als Producte darstellen. In der empirischen Chemie ist es hauptsächlich um die Particularität der Producte zu thun, welche dann nach oberflächlichen abstracten Bestime mungen geordnet werden. In dieser Ordnung ere scheinen Erden, Schwefel Metalle,, Phosphor Sauerstoff, als Wasserstoff einfache u. chemi f. f. [p. 174] Körper 1 sche nebeneinander; ebenso chaotisch werden abstractere und reellere Processe auf gleiche Stuffe gesetzt. Wenn in dieses, Gemenge eine wissenschaftliche Form kommen soll zu so ist jedes Product nach es der Stuffe des hervorgeht Processes, bestimmen, aus eigenthümlider we-
+> o st tiver und negativer Elektricität idealisirt worden ein merkwürdiges Beyspiel wie die Empirie,; die zunächst das Allgemeine und festhalten will fassen Wenn sich selbst aufhebt neuern Zeiten viel von der Polarisain, in, sinnlicher Form. - tion des Lichts die Rede geworden ist, so wäre [p. 173] , Erscheinungen, wo durchsichtige Medien, spiegelnde Oberflächen und die verschiedenen Stellungen dersele be zu nander wie ein bestimmter Einfallswinkel, so viele anderweitigedes Lichter, so differente Umstände sind, welche keinen Unterschied am Lichte selbst, sondern nur an seinem Scheinen zeigen. Die Bedingungen inter welche die, positive und die negative Elektricität hervortreten glättere oder, die mattere Oberfläche B. ein Hauch und fort z., so, be weisen die Oberflächliakeit des elektrischen Processes und wie wenig darein die concrete physicalische Natur des Körpers eingeht. Even so zeigen die schwache Färbung der beyden elektrischen Lichter Geruch an,, Geschmack nurden Beginn einer Körperlichkeit dem abstracten Selbst des Lichts, in welchem sichder Proces hält Die Regativität. welche das Auf-, Heben der entgegengesekten Spannung haupts ist, ist sächlich ein Sch laz das sich mit sich identisch; sekende Selbst bleht auch als solches der ideel in len Sphäre des Rames und der Zeit und des Memus stehen Das Licht hat kaum einen Ans is cha'n. fang sich zur Wärme zu materialisiren, und die Zündung, die, aus der sogenannten Entladung entspringen kann ist Berthollet Statique Chi- Sect III not XI mehrmique Ière Partie,...). eine directe Wirkung der Erschütterung, als die Folge einer Realisation des Ciates zu Feuer. Der Galvanismus ist der permanenter gemachte elektrische Proces; er hat die Permanenz als die Berührung zweyer differenter nicht spröder Körper, die um ihrer flüssigen Natur willen ( der genannten elektrischen Leitumsfähigkeit der Metalle) ihrer ganzen Differenz unnittelbar gegen einander Daseyn geben und um ihre Solidität Lund der [p. 174] galvanische Proceß wird nur durch diese besondere Eigenthümlichkeit der Körper concreterer uro körperlicherer Natur und macht den Uebergang zum chemischen Processe. §. 250. Die Individualitat des Körpers ist die negative Einheit des Begriffs, welche schlechtsin nicht ein Unmittelbares und unbewegtes Allgemeines, sondern nur durch die Vermittelung des Processes sich sekendes
 
 As is well known, the earlier difference, bound to a determinate sensuous existence, between *glass*- and *resin-electricity* has been idealized, through completed empirical science, into the *difference of thought* between *positive* and *negative* electricity; — a remarkable example of how empirical science, which at first wants to grasp and hold fast the universal in *sensuous* form, sublates itself. — If much has been said in recent times about the *polarization of light*, then [p. 173] this expression would have been reserved with greater right for electricity than for *Malus’s* phenomena, in which transparent media, reflecting surfaces and the different positions of these toward one another, as well as a determinate angle of incidence of the light, are so many other different circumstances that show no difference *in the light* itself, but only in its shining. — The conditions under which positive and negative electricity emerge, the smoother or duller surface, e.g., a breath, and so on, prove the superficiality of the electrical process and how little the concrete physical nature of the body enters into it. In just the same way the faint coloring of the two electrical lights, smell, taste, show only the beginning of a corporeality at the abstract self of light, in which the process remains. The negativity that is the sublation of the opposed tension is chiefly a *shock*; — the self that posits itself as identical with itself remains, even as such, within the *ideal* sphere of space and time and *mechanism*. Light has hardly a beginning of materializing itself into heat, and the *ignition* that can arise from the so-called discharge is (*Berthollet Statique Chimique Ière Partie, Sect. III. not. XI.*) more a direct *effect* of the shaking than the consequence of a realization of light into fire. — *Galvanism* is the electrical process made more *permanent*; it has permanence as the contact of two different, non-brittle bodies, which, *for the sake of their fluid nature* (the so-called electrical conductivity of the metals), give immediate determinate being, against one another, to their *whole* difference, and, for the sake of their *solidity* and of the [p. 174] superficiality of this relation, maintain themselves and their *tension* against one another. The galvanic process comes about only through this particular peculiarity of bodies of a more concrete and more corporeal nature, and makes the transition to the chemical process.
 
-> sentlich che Bedeutung giebt und; und die eben ihm seine so wesentlich ist,
+> ist
 
 §. 250.
 
-> die Stuffen der Abstracion oder Realität des Processes zu unterscheiden. Animalische und vegetabi lische Substanzen gehören ohnehin einer ganz andern Ordnung an, und ihre Natur kann so wenig aus dem chemischen Processe begriffen werden, daß sie vielmehr dadurch zerstöhrt, und nur der Weg ihres Todes darin erfaßt wird. Diese Substanzen sollten jedoch am meisten dienen, der Metaphysik, die in der Chemie, wie in der Physik herrschend ist, nemlich den Gedanken oder vielmehr wüsten Vorstel lungen von Un veränderlichkeit der Stoffe, von ihrer Zusammensehung und dem Bestehen aus ihnen, entgegen zu wirken. Auein wir sehen überhaupt zugegeben, daß die chemischen Stoffe die in der sie Vereinigung in der Trennung die Eigenschaften zeigen, und doch verlieren die Vor-,
+> ; der Kör- - per daher Product und seine Gestalt eine Voraussez-, ist, zung von welcher vielmehr das Ende das über-, in sie geht vorausgesetzt wird, Die Besonderung aber. bleibt nicht bey der bloß trägen Verschiedenheit undder, Entgegensehung, nur als Spannurg und Differenz der reinen Selbstischkeit stehen, sondem da die besondern Eigenschaften nur die Realität diess einfachen Begriffes, de Leib ihrer Seele des Lichts ind, geht ganze, so die - Körperlichkeit in die Spannungund den Procesß ein, der die Bildung des individueller Körpers, die Vereins zelung ist; der chemisce Proceß. 1 c) Der Proces rer Vereinzelung.
 
 The individuality of the body is the negative unity of the Concept, which is absolutely not an immediate and unmoved universal, but one that posits itself only through the mediation of the process; the body is therefore product, and its shape a presupposition by which, rather, the end into which it passes over is presupposed. — *Particularization*, however, does not remain standing at the merely inert diversity and opposition, only as tension and difference of pure selfhood, but, since the particular properties are only the reality of this simple Concept, the body of their soul, of *light*, the *whole* corporeality enters into the tension and the process, which is the *formation* of the individual body, *individuation*; — the *chemical process*.
 
-> stellung Dinge gelten, daß sie sie ohne die Eigenschaften diesel-
+> § 251.
 
 ##### c) The Process of Individuation.
 
-> Dinge ben mit, diesen welche Eigenschaftenmit denselben nicht sind erst, Producte und als
+> 7 Der chemische Proceß hat seine Producte zu
 
 §. 251.
 
-> des Processes seyen. Ein wichtiger Schritt zur Vereinfachung der Particularitäten in den Wahlverwandschaften ist durch das von Richter und Gu iton Morveau Verbindungen gefundene Gesek geschehen, daß neutrale rungin keine Verände Ansehung des Zustandes der Sätlösung tigung erleiden, wenn sie durch die Aufvermischt werden und die Säuren ihre Es hängt Basen damit gegeneinander die Scale der Quantitäten vertauschen von Säu-. [p. 175] ren und Alcalien zusammen, nach welcher jede einzelne Säure für ihre Sättigung zu jenem Alcalischen
+> seiner Voraussekung und beginnt daher, von ihrer 1) Unmittelbarkeit Dem Begriffe nach unmittelbar. ist der besonderte. Köper insofern seine Eigenschaften, eder Materien in einfache Bestimmung zusammen geeint und der Einfachheit der specificirten Schwere, der Dichtigkeit Die Metallität in, ist, gleichgeworden sind. diese Gediegenheit, durch welche die Besonderheit flüssig und sich in ungetrenner Ganzheit und Allgemeinheit [p. 175] hig.ist §.252. Die Mitte, durch die sich der Begriff diese gedie
 
 The *chemical process* has its products as its presupposition, and therefore begins 1) from their immediacy. *Immediate* according to the Concept is the particularized body, insofar as its properties or matters have been unified into *simple determination* and have become equal to the simplicity of specified gravity, of density. *Metality* is this compactness, through which particularity is fluid, and capable of positing itself, in undivided wholeness and universality, into [p. 175] the determinate difference against another.
 
-> ein besonderes Verhältnis hat, so aber das für jede
+> genen Differenzen welcher die Einheit beyder und das -
 
 §. 252.
 
-> andere übrigen Säure, deren quantitative ist Einheit nur von der 1 der verschieden, nunmehr zu die Sättigung Alcalien untereinander, zu dasselbe übrigen Verhältniß ihrer haben als den Säuren, somit auch die Säuren jedes ein constantes Verhältniß zeigenunter Da sich gegen verschiedene übrigens Kalische Bestimmung. in der chemische Proceß seine dem Begriffe hat, so sind die empirischen Bedingungen eie ner besondern Form desselben Bestimmungen, wie bey der Electrici tät, nicht so feste sinnliche und nicht so abstracte Momente als man sich z. B. bey der Wahlverwandschaft berühmten Werke Statique vorstellt; Berthollet chimique hat in die seinem Ume
+> , Wesen eines jeden an sich mit seiner Realitätist, zusammenschließt oder die Differenz eines jeden von, beyden, mit der Differenz des andern eins seht in, und dadurch als Totalität seines Begriffes reell wird, ist zunächst gegen die unmittelbare Solidität der Extreme die abstracte Neutralität, das Element des Wassers. Der Proces selbst istdie Diremtion desselben entgegen ingesezte Momente durch jene vorausgesetzte Differenz der Extreme die daran ihre Abstraction, aufheben und, sich zur Einheit ihres Begriffs vervouständigen.
 
 The middle, through which the *Concept*, which is in itself the *unity* of both and the *essence* of each, joins together these compact differences with its *reality*, — or posits the difference of each of the two as one with the difference of the other, and thereby becomes *real* as totality of its Concept, is first of all, over against the immediate solidity of the extremes, the *abstract neutrality*, the element of *water*. The process itself is the diremption of it into opposed moments through that presupposed difference of the extremes, which therein sublate their abstraction and complete themselves into the unity of their Concept.
 
-> stände zusammengestellt und untersucht, welche in die
+> §. 253.
 
 §. 253.
 
-> Resultate bringen der chemischen, Action eine Bedingungen Veränderung, Resultate, die nur für aus der Verwandschaft welche man constante er und sagt festbestimmte Geseße ansieht, fliessen sollen;, die Erklärungen Oberflächlichkeit, welche die Wissenschaft durch diese 1 erhält an, sieht man vornemlich für Fortschritte derselben. §. 258. 1 Der Proceß ist zwar im Allgemeinen das Leben, wodurch chemische der individuelle Körper in seiner Un-
+> Die Momente, in welche das Wasser dirimirt, oder was dasselbe ist, die Formen, unter denen es gesekt wird, sind abstract, weil das Wasser selbst nur physisches Element, nicht individueller physischer Körperist; die chemischen Elemente des Gegensakes Sauer-, stoff und Wasserstoff. Die Metalle aber, welche sich dadurch integrirt haben, erhalten aus jener abstracten Mitte gleichfalls nur eine abstracte Integration; eine Realität welche erst ein Gesektseyn der Differenz an ist, ihnen; Oxide. Der Metallität liegt die Stuffe als Kalk nur,
 
 The moments into which water dirempts, or, what is the same, the forms under which it is posited, are abstract, because water itself is only a physical *element*, not an individual physical body; — the *chemical elements* of opposition, *oxygen* and *hydrogen*. The metals, however, which have integrated themselves through this, likewise obtain from that abstract middle only an abstract integration; a reality which is as yet only a *being-posited* of difference in them; *oxides*.
 
-> mittelbarkeit aufgehoben und hervorgebracht wird, somit der Begriff nicht mehrinnere Nothwendigkeit bleibt, sondern zur Erscheinung kommt. Aberer kommt auch nur zu dieser, nicht zur Objectivitat. Dieser Proceß ist ein endliches und vorübergehendes, weil der einzelne Körper unmittelbare Individualität, damit eine beschränkte Besonderheit, und der Prozeß dadurch unmittelbare nud zufällige Bedingungen hat. Im Neutralen [p. 176] ist Differenz Feuer, es nicht die in und zur das Entzweyung erloschen an; so wie das facht Diffesich rente zunächst sich selbst in gleichgültiger Selbstständigkeit existirt, für in Beziehung mit einander, nicht selbst begeistet sich steht noch sich Die. Erscheinungen, B. im chemischen Orid auf niedrigern daß Grad z. Oxi- Processe herabgesekt ein einen es der dation den Säure verbinden, auf kann dem, und sich ein mit Theil der einwirkendagegen  Bestimmung stärker oridirt wird Zweckmäßigkeit, - veranlassen die Chemiker bey Erklä-, die rung der, der stimmung anzuwenden Begriffs; in worin hiemit die liegt Selbstbedes der Realisation. §. 259. Im Proces zeigt der Körper sowohl in seinem Entstehen als Vergehen die Flüchtigkeit seiner unmittelbaren
+> ein Orid seyn zu am nächsten,wegen der innern, Indifferenz ihrer gediegenen Natur aber Ohn-; die macht der Natur den bestimmten Begriff festzuhale, läßt einzelne Metalle auch weit zur Entge soten, genseßung hinübergehen, daß ihre Oride gleich auf der Seite der Säuren stehen. Bekanntlich ist die Chemie so weit gekommen, auch nicht nur in Kali [p. 176] Strontian, Baryt, ja in den Erden die metallische Basis darzustellen, wenigstens in Amalgamen, und dadurch diese Körper als Oride zu erkennen. - Ues brigens sind die themischen Elemente solche Abstractio 1 nen, daß sie inder Gasform welcher, sich für in sie sich darstellen, einander wie das Licht durchdringen, und ihre Materialität und Undurchdringlichkeit, der Ponderabitität ungeachtet, sich hier zur Immateriall tät gesteigert zeigt. Ferner haben Sauerstoff und Wasserstoff eine so wenig von der Individualität der Körper unabhängige Determination, daß das Origen Basen ebensowohl zu Oxiden und zur kalischen Seite der Säure überhauptals zur entgegengesekten,,, bestimmt wie dagegen, der Hydrothionsäure die in, Determination zur Säure sich als Hydrogenisation zeigt.
 
 Nearest to metality lies the stage of being, as calx, only an oxide, because of the inner indifference of its compact nature; but the impotence of nature to hold fast the determinate Concept lets individual metals also go over so far to opposition that their oxides stand at once on the side of the *acids*. — As is well known, chemistry has come so far as, also not merely in potash [p. 176] and soda, even in ammonium, but also in strontian, baryta, indeed in the earths, to present the metallic base, at least in amalgams, and thereby to cognize these bodies as oxides. — Moreover, the chemical elements are such abstractions that in the gaseous form, in which they present themselves for themselves, they interpenetrate one another like light, and their materiality and impenetrability, notwithstanding ponderability, shows itself here heightened to immateriality. Furthermore, oxygen and hydrogen have a determination so little independent of the individuality of the bodies that oxygen determines bases just as well to oxides and to the alkaline side in general as to the opposite one, that of acid, just as, conversely, in hydrothionic acid the determination to acid shows itself as hydrogenization.
 
-> Individualität, und stellt sich als Moment der allge-
+> §. 254. Der gediegenen Indifferenz der besonderten
 
 §. 254.
 
-> meinen dar; in dieser hat der Begriff seine ihm entsprechende Realität, eine aus der Besonderung gewordene, concrete Allgemeinheit, welche somit die im unmittelbaren Processe des Chemismus auseinander fallenden Bedingungenund Momente des totalen Schlusses in sich enthält; der Organismus.  Dritter Theil.  Organische Physik. §. 260. Körpers, in- Die sie reelle Totalität des individuellen es dem aufgehoben ihre Besonderheit zum Producte in gemacht und eben so hat, hat so sich damit sie die erste erfüllte Ideali-
+> Körperlichkeit steht die physicalische Sprödigkeit gegen. über, das Zusammengefaßtseynder Besonderheit die in selbstischeEinheit das Erz, als Vereinigung des (, Schwefels und Metaus stellt die Totalität dar Diese). Sprödigkeit die reelle Möglichkeit des Entzün istdens,welcher die Wirklichkeit des sich selbst verzehrenden Fürsichseyns das Feuer, noch ein äusserliches, ist. Es vermittelt die innere Differenz des brennbaren Körpers durch das physicalische Element der abstracten Negati- ' vität, die Luft, mit dem Gesektseyn oder der Realie tät, und begeistet ihn zur Säure. Die Luft aber wird dadurch in dieß ihr negatives Princip, den Sauerstoff, und in das todte positive Residuum in, den Stickstoff
 
 Over against the *compact* indifference of particularized corporeality stands physical *brittleness*, the being-gathered-together of particularity into the self-like unity (ore, as unification of sulfur and metal, presents the totality). This brittleness is the *real possibility* of ignition, to which the actuality of the self-consuming being-for-itself, *fire*, is still something external. It mediates the *internal difference* of the combustible body, through the physical element of abstract negativity, *air*, with *being-posited* or reality, and inspirits it into *acid*. Air, however, is thereby dirempted into this its negative principle, oxygen, and into the dead positive residuum, into *nitrogen*.
 
-> tät der Natur erhoben, daß subjective aber eine geworden
+> dirimirt.
 
 §. 255.
 
-> und wesentlich selbstische ist und zur ist. unmittelbaren Die Idee, somit zum zur Leben Eristenz. Dieses gekommen ist, a) zunächst als Ge [p. 177] Organismus stalt, das allgemeine; b) Bild des Lebens; der geologische Subjectivegetabilische als besondere,) oder formelle Subjectivität vität, die, c als einzelne concrete animalische Natur. 1 A.
+> §. 255. Die chemischen Elemente, die Abstraction der In differenz, der Stickstoff, und die beyden des Gegen [p. 177] das Brennende und der dem Gegensake, angehöri gen oder fürsichseyenden Indifferenz der Wasserstoff,, 1 das Brennbare, haben die Abstraction ihres individu ellen Elementes an dem Kohlenstoffe. §. 256. 1
 
 The chemical elements, the abstraction of indifference, *nitrogen*, and the two of opposition, [p. 177] of the difference that is for itself, *oxygen*, the burning, and of the indifference that belongs to opposition or is for itself, *hydrogen*, the combustible, have the abstraction of their *individual* element in *carbon*.
 
-> Die geologische Natur
+> 2) Die beyden Producte der abstracten Processe,
+
+> Säure und Kalchigtes oder Kalisches, sind nicht mehr in bloßer Verschiedenheit, sondern in eigentlicher und ( concentrirte Säure und zur Kausticität begeistetes Kali) daher unfähig für sich zu bestehen, und nur die Unruhe sich aufzuheben und mit ihren Entgegengesekten der ihr Begriff, zu identisch sehen. Diese Einheit, in realisirt ist ist das Neutrale das Salz,. §. 257. 3) Im Salze ist der gestaltete und concrete Körper
 
 §. 256.
 
 2) The two products of the abstract processes, *acid* and the *calcareous* or *alkaline*, are no longer in mere diversity, but in proper and (concentrated acid and potash inspirited to causticity) therefore incapable of subsisting for themselves, and only the unrest of sublating themselves and positing themselves as identical with their opposites. This unity, in which their Concept is realized, is the neutral, the *salt*.
 
-> . §. 261. Das allgemeine System der individuellen Körper ist die Erde, welche im chemischen Processe zunächſt ihre abstracte Individualität in der Besonderung hat, aber als Totalität derselben die unendliche Beziehungauf sich, allgemeiner sich selbst anfachender Proceß, unmittelbares Subject und Product desselben ist. Aber als die
+> als Product seines Processes. Das Verhalten verschiede
 
 §. 257.
 
 3) In the salt the shaped and concrete body is as product of its process. The behavior of various such ones toward one another concerns in part the closer particularization of the bodies, from which the so-called *elective affinities* arise. In general, however, these processes, since the extremes entering into them are not abstract bodies, are for themselves more real ones. As to what is peculiar to them, they are diremptions of the neutral into the abstractions from whose process they were produced, *regressions* to the oxides and acids, and further also, immediately and in more abstract forms, to the indifferent bases, which in this way present themselves as products.
 
-> von der subjectiven Totalitat Totalität ist Erdkörper sich selbst vorausgesekte Gestalt,
+> ner dergleichen zueinander betrifft theils die nähere Parti der Körper cularisation aus der, die sogenannten Wahle verwandschaften entspringen. Ueberhaupt aber sind diese Processe die, da in sie eingehenden Extreme nicht abstracte Körper sind für sich selbst reellere Dem eigen,. thümlichen nach sind sie Diremtionen der Neutralen in die Abstractionen, aus deren Processe producirt worsie den, Rückgänge zu den Oriden und Säuren, und ferner auch unmittelbar und in abstractern Formen zu den indifferenten Basen, welche auf diese Weise sich als Producte darstellen. In der empirischen Chemie ist es hauptsächlich um die Particularität der Producte thun zu, welchedann nach oberflächlichen abstracten Bestime
 
 In empirical chemistry it is chiefly a matter of the *particularity of the products*, which are then ordered according to superficial abstract determinations. In this order there appear metals, oxygen, hydrogen, etc., earths, sulfur, phosphorus as *simple* chemical
 
-> des unmittelbare Organismus. der nur die §. 262.  Die Glieder dieses Organismus enthalten daher nicht die Algemeinheit des Processes in sich selbst, sie sind die besondern Individuen, und machen ein System aus, dessen Gebilde sich als Glieder der Entfaltung einer zum Grunde ligenden Idee darstellen, dessen Bildungsproceß ein vergangener ist. §. 263. jen- Die Mächte dieses Processes, welche die Natur seits der Erde als Selbstständigkeiten Stellung zurückläßt im, sind der
-
-> system Zusammenhang, ihr solarisches und die, lunarisches der und Erde kometarisches Sonnen- Le-, die Neigung ihrer auf die Bahn und die magnetische ben Achse Zu diesen Achsen Achse und deren Polarisation steht in näherer. Beziehung die Vertheilung des Meers und des Lands, dessen zusammenhängende Ausbreitung im Nor-
+> mungen geordnet werden dieser Ordnung ere. In scheinen Metalle Sauerstoff Wasserstoff.u f,,, f.. Erden, Schwefel Phosphor als einfache chemi 12 1
 
 [p. 178]
 
-> den, die Theilung und zugespikte Verengerung der Thei le gegen Süden, die weitere Absonderung in eine alte und in eine neue Welt, und die fernere Vertheilung von jener in die durch ihren physicalischen, organischen und anthropologischen Charakter untereinder und gegen die neue Welt verschiedenen Welttheile, - an welche sich einnoch jüngerer und unreifer anschließt; die Gebirgszüge u. f. f. S. 264. Organisirung Die granitischen physicalische Dreyheit zeigt einen Stuffengang vom Gebirgskern, eine an der Bestimmungen in sich darstellenden, von welchem die 1 andern in Gebilde theils Uebergänge und Modificationen Grundlage sind,! denen seine Totalität die existirende, nur als in sich ungleicher und unförmlicher in bleibt, theils ein Auseinandertreten seiner Momente bestimmtere Differenz und in abstractere mineralische Momente, die Metalle sie und die in oryktognostischen Lagerungen Gegenstände überhaupt, bis Gestaltung sich mechanischen und immanenter entbehrenden Aufschwemmungen verlieren. §. 265. Krystall todtliegende Orga- Dieser des Lebens Begriff, der Zusammenhange nismus der Erde, der seinen in dem siderischen vorausge- Vergangenheit, seinen Proceß ist aber als eine Subject sekte meteorologischen hat, das unmittelbare organisirte des Processes, das als dieses In Ganze objectiven in seiner Subjecte vollständigen ist Bestimmtheit ist. Pro dies sem derobjective der vorherelementarische jeceß nun und individuelle allgemeine, das Aufheben ner lität Unmittelbarkeit nun für, wodurch die als Lebendiges Individua- Wirkliches sich und das Leben Lebendigkeit d. i. die wird. Die Erste wirkliche die vegeta, bilische welche Natur fruchtbare Erde hervorbringt, ist. [p. 179] B. 1 Die vegetabilische Natur. §. 266. Die Allgemeinheit des Lebens und seine Einzelnheit ist in der unmittelbaren Lebendigkeit unmittelbar identisch. Der Process der Gliederung und Selbsterhaltung des vegetabilischen Subjects ist daher ein Aussersich kommen, und Zerfallen in mehrere Individuen, für welche das Eine ganze Individuum mehr nur der Boden als ihre subjective Einheit ist. Ferner ist deßwegen die Differenz der organischen Theile nur eine oberflächliche Metamorphose, und der eine kann leicht in die Function des andern übergehen. § 267.... Der Proceß der Gestaltung und der Reproduction des einzelnen Individuums fällt auf diese Weise mit dem Gattungsproceſſe zusammen; und weil sich die selbstische Allgemeinheit, das subjective Eins der Individualität nicht von der reellen Besonderung trennt, sondern in sie 1 nur versenkt ist, hat die Pflanze keine Bewegung vom Plake, noch eine sich unterbrechende Intussusception, sondern eine continuirlich strömende Ernährung, sie ver-
+> 1 sche Körper nebeneinander; ebenso chaotisch werden abstractere und Processe auf gleiche Stuffe reellere gesetzt. Wenn in dieses Gemenge eine wissenschaftliche Form kommen soll, so ist jedes Product nach der Stuffe des Processes zu bestimmen we-, aus der es sentlich hervorgeht, und die ihm seine eigenthümliche Bedeutung giebt; und eben so wesentlich ist, die Stuffen der Abstracion oder Realität des Processes zu unterscheiden. Animalische und vegetabi lische Substanzen gehören ohnehin einer ganz anan dern Ordnung, und ihre Natur kann so wenig aus dem chemischen Processe begriffen werden, daß sie vielmehr dadurch zerstöhrt, und nur der Weg ihres Todes darin erfaßt wird. Diese Substanzen sollten jedoch am meisten dienen, der Metaphysik die, in der Chemie, wie in der Physik herrschend ist, nemlich den Gedanken oder vielmehr wüsten Vorstel lungen von Un veränderlichkeit der Stoffe, von ihrer Zusammensehung und dem Bestehen aus ihnen, entgegen zu wirken. Auein wir sehen überhaupt zugegeben, daß die chemischen Stoffe in der Vereinigung die Eigenschaften verlieren, die sie in der Trennung zeigen, und doch die Vorstellung gelten, daß sie ohne die Eigenschaften diesel- - ben Dinge, welche sie mit denselben sind, und als Dinge mit diesen Eigenschaften nicht erst Producte des Processes seyen. Ein wichtiger Schritt zur Vereinfachung der Particularitäten in den Wahlverdurch das von Richter und Gu wandschaften ist iton Morveau gefundene Gesek geschehen daß, neutrale Verbindungen keine Verände rungin Ansehung des Zustandes der Sättigung erleiden wenn sie durch die Auf-, lösung vermischt werden und die Säuren ihre Basen gegeneinander vertauschen. Es hängt damit die Scale der Quantitäten von Säu- 1 [p. 179] zelne Säure für ihre Sättigung zu jenem Alcalischen ein besonderes Verhältnis hat, so aber das für jede andere Säure, deren quantitative Einheit nur von der 1 der übrigen verschieden ist, nunmehr die Alcalien untereinander dasselbe Verhältniß zu ihrer Sättigunghaben als, den übrigen Säuren zu, somit auch die Säuren ein constantes Verhältniß unter sich gegen jedes verschiedene Kalische zeigen. Da der chemische Proceß übrigens seine Bestimmung dem Bein griffe hat, sosind die empirischen Bedingungen eie ner besondern Form desselben, wie bey der Electrici tät, nicht so feste sinnliche Bestimmungen und nicht so abstracte Momente als man sich.z B. bey der Wahlverwandschaft vorstellt; Berthollet in seinem berühmten Werke Statique chimique hat die Ume stände zusammengestellt und untersucht, welche in die Resultate der chemischen Action eine Veränderung bringen Resultate die nur aus Bedingungen der,, Verwandschaft welche man für constante und festbe-, stimmte Geseße ansieht, fliessen sollen; er sagt, die Oberflächlichkeit, welche die Wissenschaft durch diese 1 Erklärungen erhält sieht man vornemlich für Fortan, schritte derselben. §. 258.
 
 bodies alongside one another; just as chaotically abstract and more real processes are placed on the same level. If a scientific form is to enter into this medley, every product is to be determined according to the stage of the process from which it essentially emerges and which gives it its peculiar significance; and it is just as essential to distinguish the stages of abstraction or reality of the process. *Animal* and *vegetable* substances belong in any case to an entirely different order, and their nature can so little be comprehended from the chemical process that they are rather destroyed by it, and only the path of their death is grasped therein. These substances, however, should serve most of all to counteract the metaphysics that is dominant in chemistry as in physics, namely the thoughts, or rather wild representations, of the *unalterability* of the *stuffs*, of their *composition* and of *consisting* of them. But we see it generally admitted that the chemical stuffs lose in union the *properties* they show in separation, and yet see the representation hold good that without the properties they are the same things as they are with them, and as things with these properties are not first products of the process. — An important step toward the simplification of the particularities in the elective affinities has been made through the law found by *Richter* and *Guyton Morveau*, that *neutral compounds undergo no alteration in respect of the state of saturation when they are mixed through solution and the acids exchange their bases with one another*. Connected with this is the scale of the quantities of acids [p. 179] and alkalis, according to which each single acid has a particular relationship, for its saturation, to that alkaline one, yet in such a way that for every other acid, whose quantitative unity is different only from that of the rest, the alkalis now have among themselves the same relationship to their saturation as to the rest of the acids, so that the acids too show among themselves a constant relationship toward every different alkaline one. — Since the chemical process, moreover, has its determination in the Concept, the empirical conditions of a particular form of it, as with electricity, are not such *firm* sensuous determinations and not such *abstract* moments as one imagines, e.g., in the case of elective affinity; *Berthollet*, in his celebrated work *Statique chimique*, has compiled and investigated the circumstances that bring about an alteration in the results of chemical action — results that are supposed to flow only from conditions of affinity, which one regards as constant and firmly determined laws; he says that the superficiality that science obtains through these explanations is regarded chiefly as progress on its part.
 
-> hält dern sich zu den nicht allgemeinen zu individualisirtem Elementen; Unorganischen noch ist sie des, Gesone 1
+> 1 Der chemische Proceß zwar im Allgemeinen das
 
 §. 258.
 
-> fühls und animalischer Wärme fähig. § 268.. Begriff Insofern aber das Leben wesentlich der ist, der sich nur durch Selbstentzweyung und Wiedereinung realisirt, so treten die Processe Gestaltungsproceßist der Pflanze auch auseinander. 1) Ihr innerer Verwandlung aber theils als positiver, nur unmittelbare der, Ernährungszuflüsse in die specisische Natur der Pflanzenart. Theils ist dieser Proceß als Vermittlung um seiner [p. 180] wesentlichen Einfachheit willen Allgemeine die Entzweyung einer seits in das abstracte Negative der in sich un trennbaren Individualität als in das der Lebendigkeit, die Verholzung Lebendigkeit; andererseits aber als Seite der Einzelnheit und, unmittelbar
+> ist Leben, wodurch der individuelle Körper seiner Unin mittelbarkeit aufgehoben und hervorgebracht wird somit, der Begriff nicht mehrinnere Nothwendigkeit bleibtson-, dern zur Erscheinung kommt. Aber er kommt auch nur ist zu dieser, nicht zur Objectivitat. Dieser Proceß ein endliches und vorübergehendes, weil der einzelne Körper unmittelbare Individualität, damit eine beschränkte Besonderheit, und der Prozeß dadurch unmittelbare nud zufällige Bedingungen hat. Im Neutralen [p. 180] nicht in sich selbst zur Entzweyung an wie das Diffe-; so gleichgültiger Selbstständigkeit existirt rente zunächst in in, nicht für sich Beziehung mit einander steht, noch sich selbst begeistet.
 
 The chemical process is indeed, in general, life, whereby the individual body is sublated and produced in its immediacy, so that the Concept no longer remains inner necessity, but comes to *appearance*. But it comes also only to this, not to *objectivity*. — This process is a finite and transitory one, because the single body is immediate individuality, and so a limited particularity, and the process thereby has immediate and contingent conditions. In the neutral [p. 180] the difference and the fire are extinguished; it does not kindle itself within itself to disunion; just as the different exists at first in indifferent independence, does not stand for itself in relation with one another, nor inspirit itself.
 
-> der nach Aussen sich specificirende Proceß. §. 269. ist Entfaltung Organe: 2) Dieser die der Glieder als der unterschiedenen elementarischen Verhältnisse; die Ent sie zweyung theils in das Verhältniß Wasserproceß zur Erde und in Da das vermittelnde, den Luftund subjectiver. Allgemein die Pflanze gegen ihr Selbst nicht in Einzelnheit innerer, so wird =
+> Die chemischen Erscheinungen, daß.z B. im Processe ein Orid auf einen niedrigern Grad der Oxidation herabgesekt, auf dem es sich mit der einwirkenden Säure verbinden kann, und ein Theil dagegenstärker oridirt wird veranlassen die Chemiker, die, Bestimmung der Zweckmäßigkeit bey der Erklärung anzuwenden; worin hiemit die Selbstbe-, stimmung des Begriffs in der Realisation liegt. §. 259. Im Proces zeigt der Körper sowohl in seinem Ent-
 
 The chemical phenomena — that, e.g., in the process an oxide is reduced to a lower degree of oxidation, at which it can combine with the acting acid, and a part of it, on the other hand, is more strongly oxidized — induce chemists to apply the determination of *purposiveness* in the explanation; — in which, thereby, the self-determination of the Concept in realization lies.
 
-> heit sie vom Lichte die, äusserliche an welchem sie sich die zurückhält specisische Bekräfti-
+> stehen als Vergehen die Flüchtigkeit seiner unmittelbaren
 
 §. 259.
 
-> gung und Individualisirung ihres Selbsts nimmt, eben sosehr nach Aussen gerissen, verknotet und verzweigt sich in eine Vielheit von individuellem Seyn.  §. 270. Weil aber die Reproduction des vegetabilischen Individuums als Einzelnen nicht die subjective Rükkehr in sich, ein Selbstgefühl, sondern nach Innen die Verholzung ist, so geht damit Sie die gebiert Production des in Selbsts Blü
+> Individualität und stellt sich als Moment der allge-, meinen dar; in dieser hat der Begriff seine ihm entsprechende Realität aus der Besonderung geworde, einene, concrete Allgemeinheit welche somit die im unmit, = - telbaren Processe des Chemismus auseinander fallenden Bedingungen und Momente des totalen Schlusses in sich enthält; der Organismus.
 
 In the process the body shows, both in its coming-to-be and in its passing-away, the transience of its immediate individuality, and presents itself as a moment of the *universal* one; in the latter the Concept has its reality corresponding to it, a concrete universality that has come to be out of particularization, which thus contains within itself the conditions and moments of the total syllogism that fall asunder in the immediate process of chemism; — the *organism*.
 
-> the der Pflanze heraus, nach in Trübung Aussen welcher. die neutrale, ihr grüne Licht Farbe der zu eie
+> Dritter Theil. Organische Physik.
 
 #### Part Three.
 
-> ner rein specifischen vom Dunkeln, als weisse bestimmt Farbe, producirt oder auch wird das. Licht
+> §. 260.
 
 ### Organic Physics.
 
-> §. 271.
+> Die reelle Totalität des individuellen Körpers, ines
 
 §. 260.
 
-> die ihr Opfer darbringt ist Indem Entäusserung Pflanze so zugleich Selbst zum, diese Begriff der durch den Proces hervorgebracht realisirte, die Pflanze, die gegenüber sich selbst getreten als Ganzes ist hat Punkt, sich ist aber darin Beginn Ges. Dieser höchste Andeutung daher der Gattungsproceſſes einer schlechtsdifferenz und die des. [p. 181] §. 272. 1  3) Der Gattungsproces, als unterschieden von dem Gestaltungsums, ist in der und Wirklichkeit Reproductionsprocesse der vegetabilischen des Natur Individuein
+> so sie dem ihre Besonderheit zum Producte gemacht und eben aufgehoben hat, hat sich damit in die erste Idealität der Natur erhoben, so daß sie aber eine erfüllte und wesentlich selbstische und subjective geworden ist. Die Idee ist somit zur Eristenz gekommen zunächst zur unmittelbaren, zum Leben. Dieses), a ist als Ge [p. 181] Organismus; b) als besondere oder formelle Subjectivität, die vegetabilische, c) als einzelne concrete Subjectivität, animalische Natur. 1 A. Die geologische Natur.
 
 The real totality of the individual body, in that it has made its particularity into a product and has just as much sublated it, has thereby raised itself into the first ideality of nature, so that, however, it has become a *filled* one, and essentially *self-like* and *subjective*. The *Idea* has thus come to existence, at first to the immediate one, to *life*. This is a) as shape, [p. 181] the universal image of life; the *geological* organism; b) as particular or formal subjectivity, the *vegetable* one, c) as singular concrete subjectivity, *animal* nature.
 
-> als fallen Allgemeinheit die mit viele sich selbst Individuen zusammengegangene sind. Aber Subjectivität Begriffe ist, er
+> §. 261.
 
 A.
 
 #### Geological Nature.
 
-> die mittelbare Einzelnheit, in welcher ihres die organischen Pflanze die Lebens uns
+> Das allgemeine System der individuellen Körper ist
 
 §. 261.
 
-> aufhebt, und dadurch den Uebergang in den höhern Organismus begründet.  C.  Der thierische Organismus. §. 273. Subjectis Die organische Individualität ist erst
+> dieErde welche im chemischen Processe zunächſt ihre, - abstracte Individualität der Besonderung hat aber als in, Totalität derselben die unendliche Beziehung auf sich, allgemeiner sich selbst anfachender Proceß unmittel- Subject und Product.ist, bares desselben Aber als die von der subjectiven Totalität sich selbst vorausgesekte, unmittelbare Totalitat der Erdkörper nur die Gestalt
 
 The universal system of individual bodies is the *earth*, which in the chemical process has, at first, its abstract individuality in particularization, but, as totality of the same, is the infinite relation to itself, a universal process kindling itself, — the immediate subject and product of the same. But as the immediate totality that the subjective totality has presupposed to itself, the earth-body is only the *shape* of the organism.
 
-> vität, insofern, ihre Einzelnheit aufgehoben nicht bloß, unmit =
+> ist
 
 §. 262.
 
-> concretes telbare Wirklichkeit Moment der sondern Allgemeinheit ebenso ist, und der und Orgaals nismus in seinem Processe nach Aussen die selbstische Sonne inwendig behält. Dieß ist die animalische Natur, welche in der Wirklichkeit und Neusserlichkeit der Einzeln heit, eben so dagegen unmittelbar in sich reflectirte Einzelnheit, in sich seyende subjective Allgemeinheit ist.
+> des Organismus. §. 262. Die Glieder dieses Organismus enthalten daher nicht die Algemeinheit des Processes in sich selbst, sie sind die besondern Individuen, und machen ein System aus, dessen Gebilde sich als Glieder der Entfaltung einer zum Grunde ligenden Idee darstellen, dessen Bildungs-
 
 The members of this organism therefore do not contain the universality of the process within themselves; they are the particular individuals, and make up a *system*, whose formations present themselves as members of the unfolding of an underlying Idea, whose *formative process* is a *past* one.
 
-> §. 274.
+> proceß ein vergangener.ist
 
 §. 263.
 
-> Das Thier hat zufällige Selbstbewegung, weil seine Subjectivität, wiedas Licht und Feuer, der Schwere entrissene Idealität, eine freye Zeit ist, die als zugleich der reellen Neusserlichkeit entnommen, sich nach ins nerem Zufall, selbst zum Orte bestimmt. Damit vere bunden, ist daß das Thier Stimme hat, indem seine Subjectivität als an und für sich seyende, die Herrschaft der abstracten Idealität von Zeit und Kaum ist, und seis [p. 182] ne Selbstbewegung als die ideelle, innere Individualitäteines freyen Erzitterns in sich selbst darstellt; animalische Wärme, als fortdauernden Auflösungsproceß der - Cohäsion in der fortdauernden Erhaltung der - Gestalt; unterbrochene Intussuscription, vornehmlich aber Gefühl, als die in der Bestimmtheit sich unmittelbar allgemeine und sich von ihr als wirklicher unterscheidende Individualität.
+> §. 263. Die Mächte dieses Processes, welche die Natur jenseits der Erde als Selbstständigkeiten zurückläßt, sind der Zusammenhang und die Stellung der Erde im Sonnensystem, ihr solarisches lunarisches und kometarisches Le-, ben, die Neigung ihrer Achse auf die Bahn und die magnetische Achse. Zu diesen Achsen und deren Polarisation steht in näherer Beziehung die Vertheilung des Meers und des Lands, dessen zusammenhängende Ausbreitung Norim [p. 182] le gegen Süden, die weitere Absonderung in eine alte und in eine neue Welt, und die fernere Vertheilung von jener in die durch ihren physicalischen, organischen und anthropologischen Charakter untereinder und gegen die neue Welt verschiedenen Welttheile, an welche sich einnoch jüngerer und unreifer anschließt; geu. f. f. Gebirgszü- - die S. 264. Die physicalische Organisirung zeigt einen Stuffengang vom granitischen eine Dreyheit der Bestimmun-
 
 The powers of this process, which nature leaves behind beyond the earth as independent entities, are the connection and the position of the earth in the solar system, its solar, lunar and cometary life, the inclination of its axis to the orbit, and the magnetic axis. In closer relation to these axes and their polarization stands the distribution of sea and land, whose continuous extension in the north, [p. 182] the division and pointed narrowing of the parts toward the south, the further separation into an old and a new world, and the subsequent distribution of the former into the parts of the world, differing from one another, and from the new world, through their physical, organic and anthropological character, to which a still younger and more immature one attaches itself; — the mountain ranges, etc.
 
-> §. 275.
+> , gen sich darstellenden Gebirgskern
 
 §. 264.
 
-> Der thierische Organismus ist als lebendige Allgemeinheit der Begriff, welcher sich durch seine drey Identi- Bestimmungen verläuft, deren jede dieselbe totale tät der substantiellen Uebergehen Einheit und zugleich für sich, als Formbestimmung das in die andern ist so daß aus demselben sich die Totalität resultirt; nur als dieses sich reproducirende, nicht als seyendes, ist das Lebendige. §. 276.. 1 Er ist daher a) sein einfaches, allgemeines Insich seyn in seiner Veusserlichkeit, wodurch die wirk-
+> in von welchem die an, andern Gebilde theils Uebergänge und Modificationen sind, 1 in denen seine Totalität die existirende Grundlage, nur! als in sich ungleicher und unförmlicher bleibt theils ein, Auseinandertreten seiner Momente bestimmtere Diffein renz und in abstractere mineralische Momente, die Metalle und die oryktognostischen Gegenstände überhaupt, bis sie sich in mechanischen Lagerungen und immanenter Gestaltung entbehrenden Aufschwemmungen verlieren. §. 265. Dieser Krystall des Lebens, der todtliegende Organismus der Erde, der seinen Begriff in
 
 The physical organization indicates a graded progression from the *granitic* mountain core, which presents a triad of determinations within itself, of which the other formations are partly transitions and modifications, in which its totality remains the existing foundation, only as one more unequal and more formless within itself, partly a stepping-asunder of its moments into more determinate difference and into more abstract mineral moments, the metals and the oryctognostic objects in general, until they lose themselves in mechanical layerings and in alluvial deposits lacking immanent configuration.
 
-> das liche Allgemeine Bestimmtheit aufgenommen unmittelbar und als dieses Besonderheit dadurch unin
+> dem siderischen
 
 §. 265.
 
-> getrennte - Identität des Subjectsmit sich selbst in jener ist; Sensibilität; B) Besonderheit, als Reizbarkeit von Aussen und aus dem aufnehmenden Sub- - jecte kommende Rückwirkungdagegen nach Aussen. Irritabilität; y) die Einheit dieser Momente, die negative Rückkehr durch das Verhältniß derAeusserlichkeit zu sich, und dadurch Erzeugungund Seken seiner als eines Einzelnen, Reproduction; nach innen die Realität und Grundlage der erstern Momente und Gliederung und Bewaffnung nach Aussen. §. 277. Diese drey Momente des Begriffs haben ihre Realität in den drey Systemen, dem Nerven B l u t -
+> Zusammenhange, seinen Proceß aber als eine vorausgesekte Vergangenheit hat, ist das unmittelbare Subject des meteorologischen Processes, das als dieses organisirte Ganze in seiner vollständigen Bestimmtheit ist Indies. sem objectiven Subjecte der vorher elementarische Pro ist ceß nun derobjective und individuelle das Aufheben, jener Unmittelbarkeit wodurch die allgemeine Individua-, lität nun für sich und das Leben als Lebendiges d. i. Wirkliches wird. Die Erste wirkliche Lebendigkeit, welche die fruchtbare Erde hervorbringt, ist die vegeta bilische Natur.
 
 This crystal of life, the dead-lying organism of the earth, which has its *Concept* in the sidereal connection, but its process as a presupposed past, is the immediate subject of the meteorological process, the subject which is, as this organized whole, in its complete determinacy. In this objective subject the previously elemental process is now the objective and individual one, — the sublation of that immediacy, whereby the *universal* individuality now becomes *for itself* and life becomes the *living being*, i.e., *actual*. The first actual vitality that the fertile earth brings forth is *vegetable* nature.
 
 [p. 183]
 
-> Verdauungssystem, in
+> Die vegetabilische Natur.
 
 B.
 
-> den und Systemen der Knochen und woven der Sinneswerkzeuge ersteres sich,
+> §. 266. Die Allgemeinheit des Lebens und seine Einzelnheit
 
 #### Vegetable Nature.
 
-> das Zweyte in der Lunge; und Verdauungssystem den Muskeln nach zwey Seiz
+> ist in der unmittelbaren Lebendigkeit unmittelbar
 
 §. 266.
 
-> Drüsensystem ten nach Aussen mit kehrt Haut und das Zellgewebe eine unmittel aber als bare, vegetative, in dem eigentlichen Systeme der Eingeweide aber die vermittelnde Reproduction ist. Das Thier ist hiedurch für sich in die Centra von drey Systemen abgetheilt, ( insectum) Kopf, Brust und Unterleib, wogegen die Extremitäten zur mechanischen Bewegung und Ergreiffung das Moment der sich nach Aussen untere schieden sekenden Einzelnheit ausmachen. §. 278.
+> identisch. Der Process der Gliederung und Selbsterhaltung des vegetabilischen Subjects ist daher ein Aussersich kommen, und Zerfallen in mehrere Individuen für, welche das Eine ganze Individuum mehr nur der Boden als ihre subjective Einheit Ferner.ist ist deßwegen die Differenz der organischen Theile nur eine oberflächliche Metamorphose, und der eine kann leicht in die Function des andern übergehen. §. 267... Der Proceß der Gestaltung und der Reproduction des einzelnen Individuums fällt auf diese Weise mit dem
 
 The universality of life and its singularity are immediately *identical* in *immediate vitality*. The process of articulation and self-preservation of the vegetable subject is therefore a coming-outside-itself, and a falling apart into several individuals, for which the one whole individual is more the mere soil than their subjective unity. Furthermore, for that reason the *difference of the organic parts* is only a superficial metamorphosis, and the one can easily pass over into the function of the other.
 
-> heit Die des Begriffes Idee des mit Lebendigen seiner Realität ist die; aufgezeigte sie ist aber Einals
+> Gattungsproceſſe zusammen; und weil sich die selbstische Allgemeinheit, das subjective Eins der Individualität
 
 §. 267.
 
-> Entgegenseßung jener Subjectivität und Objectivitat wesentlich nur als Proceß, als Bewegung der abstracten Beziehung des Lebendigen auf sich, welche in Besonderheit sich dirimirt, und als Rückkehr in sich selbst die negative Einheit der Subjectivität und Totalität ist. Jedes dieser Momente ist aber als concretes Moment der Lebendigkeit selbst Proceß, und das Ganze die Einheit dreyer Processe. §. 279:.) ist 1 Der Gestaltungsproceß abstracte Proceß der innerhalb lebendigen Einzeln ihrer =
+> nicht von der reellen Besonderung trennt, sondern in sie 1 nur versenkt ist, hat die Pflanze keine Bewegung vom Plake, noch eine sich unterbrechende Intussusception, sondern eine continuirlich strömende Ernährung, sie verhält sich nicht zu individualisirtem Unorganischen sone, 1 dern zu den allgemeinen Elementen noch des Ge-; ist sie fühls und animalischer Wärme fähig. §. 268. Insofern aber das Leben wesentlich der Begriff ist,
 
 The process of configuration and of reproduction of the single individual coincides in this way with the process of the genus; and because the self-like universality, the subjective one of individuality, is not separated from the real particularization but is merely sunk into it, the plant has no motion from its place, nor an interrupting intussusception, but a continuously flowing nourishment; it does not relate itself to an individualized inorganic, but to the universal elements; nor is it capable of feeling and of animal heat.
 
-> heit selbst, der in welchem der Organismus seine eigene Glie:
+> der sich nur durch Selbstentzweyung und Wiedereinung
 
 §. 268.
 
-> der zu seiner unorganischen Natur, zu Mitteln macht, aus sich zehrt, und sich d. i. eben diese Totalität der Gegliederung selbst producirt, so daß jedes Glied wechselsei tig Zweck und - Mittel, aus den andern und gegen sie sich erhält; der Proceß, der das einfache Selbstgefühl zum Resultate hat. [p. 184] §. 280.  2) Das Selbstgefühl der Einzeln heit ist in seis ner negativen Rückkehr in sich, unmittelbar ausschlies send und sich gegen eine unorganische Natur als gegen die eine thierische reale und Organisation äusserliche in dieser spannend ausserlichen. Indem Bezie a)
+> realisirt, so treten die Processe der Pflanze auch auseinander. 1) Ihr innerer Gestaltungsproceßist aber theils als positiver, nur unmittelbare Verwandlung der, Ernährungszuflüsse die specisische Natur der Pflanzenin dieser Proceß als Vermittlung art. Theils ist um seiner [p. 184] seits in das abstracte Allgemeine der sich un in trennbaren Individualität als in das Negative der Lebendigkeit, die Verholzung; andererseits aber als Seite der Einzelnheit und Lebendigkeit, unmittelbar der nach Aussen sich specificirende Proceß. §. 269.
 
 Insofar, however, as life is essentially the Concept, which realizes itself only through self-disunion and re-uniting, the processes of the plant also fall asunder. 1) Its inner *process of configuration* is, however, partly, as positive, only immediate transformation of the inflows of nourishment into the specific nature of the plant species. Partly this process is, as mediation, for the sake of its [p. 184] essential simplicity, the *disunion*, on the one hand into the *abstract universal* of the individuality inseparable within itself, as into the *negative* of vitality, lignification; on the other hand, however, as the side of *singularity* and *vitality*, immediately the process that specifies itself *outward*.
 
-> Hung unmittelbar in sich reflectirt ist, so ist dieß
+> :
 
 §. 269.
 
+> 2) Dieser ist die Entfaltung der Glieder als Organe der unterschiedenen elementarischen Verhältnisse; die Ent zweyung theils in das Verhältniß zur Erde und in das sie vermittelnde, den Luftund Wasserproceß. Da die Pflanze ihr Selbst nicht in innerer subjectiver Allgemeinheit gegen die äusserliche Einzelnheit zurückhält, wird so sie vom Lichte, an welchem sie sich die specisische Bekräftigung und Individualisirung ihres Selbsts nimmt, eben sosehr nach Aussen gerissen verknotet und verzweigt,
+
 2) This is the unfolding of the members as organs of the different elemental relationships; the disunion partly into the relationship to the earth and into that which mediates it, the air and water process. Since the plant does not hold back its self, in inner subjective universality, against external singularity, it is, by the light, from which it takes the specific confirmation and *individualization* of its self, just as much torn outward, and knots and branches itself into a multiplicity of individual being.
 
-> ideelle Verhalten der theoretische - Proces und zwar das nigkeit bestimmte Gefuhl, welches sich in die Vielsiskder unorganischen Natur unterscheidet. §. 281. Die Sinne und die theoretischen Processe sind daher 1) der Sinn der mechanischen Sphäre, - der Schwere, der Cohäsion und ihrer Veränderung, der Wärme, das Gefühl als solches 2) die Sinne des Gegensakes, der besonderten Luftigkeit, und der gleichfalls realisirten Neutralitat -, des Wassers, und der Gegensäße
+> sich in eine Vielheit von individuellem Seyn.
 
 §. 270.
 
-> ihrer Auflösung; Geruch und Geschmack. Identi- 3) Der
+> §. 270. Weil aber die Reproduction des vegetabilischen Individuums als Einzelnen nicht die subjective Rükkehr in sich, ein Selbstgefühl, sondern nach Innen die Verholzung ist, so geht damit die Production des Selbsts der Pflanze nach Aussen. Sie gebiert ihr Licht in der Blü the heraus, in welcher die neutrale, grüne Farbe zu eie
 
 But because the reproduction of the vegetable individual as a singular one is not the subjective return into itself, a *feeling of self*, but, inwardly, lignification, the production of the plant’s self therewith goes outward. It gives birth to its light out in the *blossom*, in which the neutral, green color is determined to a specific clouding, or else the light is produced pure of the dark, as white color.
 
-> Sinn tät, der der reinen dem wesenhaften schweren Materiellen, aber äusserlichen nicht zugehörigen Seite des Feuers, des Lichts und der Farbe; - und 4) der Sinn für die Darstellung der subjectiven Realität, oder der selbstständigen innern Idealität des gegenüberstehenden Körpers, der Sinn des Gehörs. Dreyheit Die der Begriffsmomente geht hier das darum Moment in eine der Fünfheit Besonderheit der oder Zahl des nach Gegensakes über, weil in
+> ner specifischen Trübung bestimmt, oder auch das Licht
 
 §. 271.
 
-> seiner Totalität selbst eine Dreyheit ist, und der thie-
+> rein vom Dunkeln, als weisse Farbe producirt wird. §. 271. Indem die Pflanze so ihr Selbst zum Opfer darbringt, ist diese Entäusserung zugleich der durch den Proces realisirte Begriff, die Pflanze, die sich selbst als Ganzes hervorgebracht hat, sich aber darin gegenüber getreten ist. Dieser höchste Punkt daher der Beginn einer Ges ist schlechtsdifferenz und die Andeutung des Gattungsproceſſes.
 
 In that the plant thus offers up its self in sacrifice, this *externalization* is at the same time the Concept realized through the process, the plant that has produced itself as a whole, but has therein stepped over against itself. This highest point is therefore the beginning of a sexual difference and the indication of the process of the genus.
 
-> rische Organismus die Reduction der aussereinanders. gefallenen Subjectivität unorganischen Natur in die unendliche Einheit der, aber in dieser zugleich ihre sie entwickelte Totalität ist, deren Momente, weil ren noch natürliche Allgemeinheit Subjectivität ist, besonders existiliche. Concrete Die, die Schwere mit, ihren als das individualisirs noch inner-
-
 [p. 185]
-
-> ten Bestimmungen, hat also am Getaste ihren be-
 
 §. 272.
 
+> 3) Der Gattungsproces, als unterschieden von dem
+
 3) The process of the genus, as distinguished from the process of configuration and of reproduction of the individual, is in the actuality of vegetable nature a superfluity, because those processes are immediately also a falling apart into many individuals. But in the Concept it is, as the subjectivity that has gone together with itself, the *universality*, in which the plant sublates the *immediate singularity* of its organic life, and thereby grounds the transition into the higher organism.
 
-> sondern Sinn, den zum Grunde liegenden, allgemeinen Sinn, der deswegen auch besser das Gefühl überhaupt heißt. Die Besonderheit ist der Gegensak, und dieser ist die Identität und der Gegen --- sak selbst; ihr gehört daher der Sinn des Licht s'an, als der abstracten, aber ebendarum selbst bestimm ten, eine Seite des Gegensakes ausmachenden Identität an; ferner die zwey Sinne des Gegensakes selbst als solchen, der Luft und des Wassers, beyder fication, wie und der Individualisirung übrigen, in ihrer. verkörperten Dem Sinne Speci der
+> Gestaltungsund Reproductionsprocesse des Individuums, ist, in der Wirklichkeit der vegetabilischen Natur ein Ueberfluß weil jene Proceſſe unmittelbar auch ein Zerfallen in viele Individuen sind Aber Begriffe im, er. ist als die mit sich selbst zusammengegangene Subjectivität Allgemeinheit die welcher die Pflanze die uns, in mittelbare Einzelnheit ihres organischen Lebens aufhebt, und dadurch den Uebergang in den höhern Organismus begründet. C.
 
 C.
 
-> Ton an. sich kundgebende der
+> Der thierische Organismus. §. 273.
 
 #### The Animal Organism.
 
-> §. 282.
+> Die organische Individualität ist erst Subjectis
 
 §. 273.
 
-> B) Der reelle Proceß mit der unorganischen Natur beginnt gleichfalls mit dem Gefühl, nemlich dem Gefühle realer Aeusserlichkeit, und hiemit der Negation, des Subjects, welches zugleich die positive Beziehung auf sich selbst undderen Gewißheit gegen diese seine Negation, ist mit dem Gefühldes Mangels und dem Erregtwerden Trieb ihn aufzuheben, der die Bedingung eines von Aussen ist. Nur ein Lebendiges fühlt Mangel; denn nur es
+> vität,insofern ihre Einzelnheit nicht bloß unmittelbare Wirklichkeit, sondern ebenso aufgehoben und als, concretes Moment der Allgemeinheit ist, und der Organismus seinem Processe nach Aussen die selbstische Sonin ne inwendig behält Dieß die animalische Natur. ist, welche in der Wirklichkeit und Neusserlichkeit der Einzeln dagegen unmittelbar in Einin so heit, eben sich reflectirte sich seyende subjective Allgemeinheit zelnheit, ist
 
 Organic individuality is *subjectivity* only insofar as its singularity is not merely immediate actuality, but just as much sublated, and is as a concrete moment of universality, and the organism in its process outward retains the self-like sun inwardly. This is *animal* nature, which, in the actuality and externality of singularity, is, just as much, on the other hand, immediately singularity reflected into itself, subjective universality that is within itself.
 
-> ner ist in selbst der Natur und der seines Begriff bestimmten, der die Entgegen Einheit se i =
+> . §. 274.
 
 §. 274.
 
-> gesekten ist; dadurch ist es Subject. Wo eine Schranke ist, ist sie eine Negation nur für ein Drittes, eine äusserliche Reflexion; Mangel aber ist, sie insofern in Einem eben so das Darüber hinausseyn vorhanden, der Widerspruch als solcher gesekt ist. Ein solches, das den Widerspruch seiner selbst in sich zu haben und zu ertragen fähig, ist ist das Subject; dieß macht seine Unendlichkeit [p. 186] aus. - Wenn von endlicher Vernunft gesprochen wird, so beweist sie eben darin, daß sie unendlich, ist indem sie sich als endlich bestimmt; denn die Negation ist Endlichkeit, Mangel nur für das, welches das Aufgehobenseyn derselben, - die unendli che Beziehung auf sich selbst ist Die Gedankenlosigkeit bleibt aber bey der. Abstraction der Schranke stehen, und im Leben, wo der Begriff
+> Das Thier hat zufällige Selbstbewegung weil -, seine Subjectivität, wie das Licht und Feuer, der Schwere entrissene Idealität, eine freye Zeit ist, die als zugleich der reellen Neusserlichkeit entnommen, sich nach ins nerem Zufall, selbst zum Orte bestimmt. Damit vere bunden ist, daß das Thier Stimme hat, indem seine Subjectivität als an und für sich seyende, die Herrschaft der abstracten Idealität von Zeit und Kaum ist, und seis [p. 186] eines freyen Erzitternsanima- - in sich selbst darstellt; lische Wärme, als fortdauernden Auflösungsproceß der Cohäsion in der fortdauernden unterbrochene Intussuscription Erhaltung der Gestalt; vornehmlich aber Gefühl, als die in der Bestimmtheit sich un-, - mittelbar allgemeine und sich von ihr als wirklicher unterscheidende Individualität. §. 275. Der thierische Organismus als lebendige Allge ist =
 
 The animal has contingent *self-motion*, because its subjectivity, like light and fire, an ideality wrested from gravity, — is a free time, which, as at the same time withdrawn from real externality, determines itself, according to inner contingency, even to place. Connected with this is that the animal has *voice*, in that its subjectivity, as being in and for itself, is the dominion of the abstract ideality of time and space, and presents its [p. 186] self-motion as the ideal, inner individuality of a free trembling within itself; — animal *heat*, as the continuing process of dissolution of cohesion in the continuing preservation of shape; — *interrupted intussusception*, — but above all *feeling*, as the individuality that is immediately universal to itself in determinacy and distinguishes itself from it as actual.
 
-> selbst in die Existenz tritt, faßt sie ihn ebenfalls
+> meinheit der Begriff welcher sich durch seine drey Bestim-,
 
 §. 275.
 
-> nicht auf, sondern hält sich an Bestimmungen der Vorstellung, - wie Trieb, Instinkt, Bedürfe niß u. f. f. Daß für den Organismus die Bestimmung von Erregt werden durch äusserliche Potenzen an die Stelle des Einwirkens äus serlicher Ursachen gekommen ist, ist ein wichstiger Schritt in der wahrhaften Vorstellung desselben. Es beginnt darin der Idealismus, daß überhaupt
+> mungen verläuft deren jede dieselbe totale Identi-, tät der substantiellen Einheit und zugleich für sich als Formbestimmung das Uebergehen die andern in, ist sodaß aus demselben sich die Totalität resultirt nur als; dieses sich reproducirende, nicht als seyendes, ist das Lebendige. §. 276. 1. Er ist daher a) sein einfaches, allgemeines Insich seyn in seiner Veusserlichkeit, wodurch die wirkliche Bestimmtheit unmittelbar als Besonderheit in
 
 The animal organism is, as living universality, the Concept, which courses through its three determinations, each of which is the same *total identity* of the substantial unity and at the same time, for itself as determination of form, the *passing over* into the others, so that from the same the totality results; only as this self-reproducing, not as something that is, is the living being.
 
-> nichts eine positive Beziehung zum Lebendigen an haben
+> das Allgemeine aufgenommen und dieses dadurch un-
 
 §. 276.
 
-> 1 kann, deren Möglichkeit dieses nicht Begriff und fürsiche, selbst, d. Subjecte h. die nicht durch den bestimmt somit so unphilosophisch dem schlechthin irgend immanent wäre. Aber Reflexionsbestimmungen als ein wissenschaftliches ist Einfüh Gez braue rung von die in solcher Erregungstheorie formellen und materiellen, als lange Verhältnisse für philoder gegolten B. ganz gensak sophisch Receptivität haben; z. der Wirkungsverabstracte Gemögen von in umgekehrten und, die als Factoren Verhältnisse aller in der Größe Organismus mit einander zu stehen sollen, wodurch in dem quantitativer fassende Unterschied den Formalismus Erhöhung bloß Verminderung Verschieden Stärheit kung, und Schwächung und, d.h. in die höchstmögli-,
+> - - getrennte Identität des Subjects mit sich selbst jener inist; Sensibilität; B) Besonderheit, als Reizbarkeit von Aussen und aus dem aufnehmenden Sub- - jecte kommende Rückwirkung dagegen nach Aussen Irritabilität die;)y die Einheit negative Rückkehr durch das Verhältniß derAeusser dieser Momente., = lichkeit zu sichund dadurch Erzeugung und Seken seiner als eines Einzelnen, Reproduction nach, innen die Realität und Grundlage der erstern Momente
 
 It is therefore α) its simple, *universal being-within-itself* in its externality, whereby the actual determinacy is received *immediately* as particularity into the *universal*, and this thereby is undivided identity of the subject with itself in that; — *sensibility*; — β) *particularity*, as excitability from without and the reaction, coming from the receiving subject, against it outward. — *irritability*; — γ) the unity of these moments, the *negative* return through the relationship of externality to itself, and thereby generation and positing of itself as a *singular one*, — *reproduction*; inwardly the reality and foundation of the former moments, and *articulation* and *armament* outwardly.
 
-> che Begrifflosigkeit gefallen ist. Eine Theorie
+> ; und Gliederung und Bewaffnung nach Aussen.
 
 §. 277.
 
-> der Medicin, die auf diese dürren Verstandesbestimmungen gebaut ist, ist mit einem halben Dukend [p. 187] Säße vollendet, und es ist kein Wunder, wenn sie eine schnelle Ausbreitung und viele Anhänger fand. Die Veranlassung zu dieser Verirrung der Philoso phie, mit der sich so eben die Natur zu befreunden ansing, lag in dem Grundirrthum, daß nachdem das Absolute, als die absolute Indifferenz des Subjectis. ven und Objectiven bestimmt worden war, alle Bestimmung nun nur ein quantitativer Unterschied seyn sollte. Die absolute Form, der Begriff, und die Lebendigkeit hat vielmehr allein die qualitative, sich an sich selbst aufzehrende Differenz zu ihrer Seele. Weil diese wahrhafte unendliche Negativität nicht er-
+> §. 277. Diese drey Momente des Begriffs haben ihre Realität in den drey Systemen, dem Nerven B l ut - [p. 187] den Systemen der Knochen und der Sinneswerkzeuge, das Zweyte in der Lunge und den Muskeln nach zwey Seiz ten nach Aussen kehrt; das Verdauungssystem aber als Drüsensystem mit Haut und Zellgewebe eine unmittel bare, vegetative, in dem eigentlichen Systeme der Eingeweide aber die vermittelnde Reproduction.ist Das Thier hiedurch für sich die Centra von drey Syste-) in ist men abgetheilt insectum, ( Kopf Brust und Unterleib,, wogegen die Extremitäten zur mechanischen Bewegung und Ergreiffung das Moment der sich nach Aussen untere schieden sekenden Einzelnheit ausmachen. §. 278.
 
 These three moments of the *Concept* have their reality in the three systems, the *nerve*-, *blood*- [p. 187] and *digestive system*, of which the first turns itself in the systems of the bones and of the sense organs, the second in the lung and the muscles, outward on two sides; the digestive system, however, as glandular system with skin and cellular tissue, is an *immediate*, vegetative reproduction, but in the system of the viscera proper the *mediating* one. The animal is thereby divided *for itself* into the centers of three systems, (*insectum*) head, chest and abdomen, whereas the extremities, for mechanical motion and grasping, make up the moment of the singularity that posits itself as distinguished outwardly.
 
-> kannt, war, mennte bey Spinoza man die absolute Identität des
+> Die Idee des Lebendigen die aufgezeigte Einist
 
 §. 278.
 
-> in Lebens einem äussern wie Verstand vorkommen die Attribute, nicht und festhal- Modi ten zu können, ohne den Unterschied zu einem bloß äusserlichen der Reflexion zu machen; womit es dem Leben an dem springenden Punkt der Selbstheit, dem Principe der Selbstbewegung, Diremtion seiner selbst, Einzelnheit überhaupt fehlt - Für völlig unphilosophisch und rohsinnlich ist. ferner das Verfahren zu halten, welches den formellen Be stimmungen eine reelle Bedeutung geben wollte, und an die Stelle von Begriffsbestimmungen gar den Ko h-
+> heit des Begriffes mit seiner Realität aber als; sie ist Entgegenseßung jener Subjectivität und Objectivitat wesentlich nur als Proceß, als Bewegung der abstracten Beziehung des Lebendigen auf sich, welche in Besonderheit sich dirimirt, und als Rückkehr in sich selbst die negative Einheit der Subjectivität und Totalität.ist Jedes dieser Momente aber als concretes ist Moment der Lebendigkeit selbst Proceß, und das Ganze die Einheit dreyer Processe.:§. 279.) Der abstracte Proceß der lebendigen Einzelnist 1
 
 The Idea of the living being is the exhibited *unity* of the Concept with its reality; but it is, as *opposition of that subjectivity and objectivity*, essentially only as *process*, — as motion of the abstract relation of the living being to itself, which dirempts itself into particularity, and as return into itself is the negative unity of subjectivity and totality. Each of these moments, however, as a concrete moment of vitality, is itself process, and the whole is the *unity of three processes*.
 
-> lenstoff und Stickstofs, Sauerund Wasserstoff
+> heit der Gestaltungsproceß innerhalb ihrer
 
 §. 279.
 
 1) The *abstract* process of living singularity is the *process of configuration within itself*, in which the organism makes its own members into its inorganic nature, into means, feeds off itself, and produces itself, i.e., precisely this totality of articulation itself, so that each member is reciprocally end and means, maintains itself out of the others and against them; — the process that has the simple self-feeling as its result.
 
-> sekte, und den vorhin intensiven Unterschied, nun zu dem Mehr oder Weniger des einen und des andern Stoffes, das wirksame und positive Verhältniß der äussern Reiße aber als ein - Zusehen eines mangelnden Stoffes bestimmte; z. B. in einer Asthenie, einem Nervensieber, habe im Or ganismus der Stickstoff die Oberhand potenzirte, weil das Gehirn und der Nerv überhaupt der Hauptbestandtheil Stickstoff sen, indem die chemische dieser organischen Analyse Gebilde ihn als
+> selbst, in welchem der Organismus seine eigene Glie der zu seiner unorganischen Natur, zu Mitteln macht,: aus sich zehrt, und sich d. i. eben diese Totalität der Gegliederung selbst producirt so daß jedes Glied wechselsei -, sich tig Zweck und Mittel, aus den andern und gegen sie erhält; der Proceß, der das einfache Selbstgefühl zum Resultate hat.
 
 [p. 188]
 
-> mit indicirt, um das Gleichgewicht dieser Stoffe,
+> ner negativen Rückkehr sich unmittelbar ausschlies
 
 §. 280.
 
 2) The self-feeling of *singularity* is, in its negative return into itself, immediately *excluding* and tensing itself against an inorganic nature as against a *real and external* one. Inasmuch as α) the animal organization is *immediately* reflected into itself in this external relation, this ideal behavior is the *theoretical* process, and indeed the *determinate feeling*, — which differentiates itself into the *multiplicity of senses* of inorganic nature.
 
-> die Gesundheit, wieder herzustellen. Die Mittel, welche sich gegen Nervensieber empirischer weise wirk sam gezeigt haben, werden aus eben diesem Grunde als auf die Seite des Kohlenstoffs gehörig angesehen, und ein solches oberflächliches Zusammenstellen und Meynenfür Construction und Beweisen ausgegeben. Das Rohe besteht darin, daß das äuſſere caput mortuum, der todte Stoff, in den die Chemie ein erstorbenes Leben zum Zweytenmal
+> in, send und sich gegen eine unorganische Natur als gegen eine reale und äusserliche spannend Indem. a) die thierische Organisation dieser ausserlichen Bezie in Hung unmittelbar insich reflectirt ist, so ist dieß ideelle Verhalten der theoretische Proces und zwar das bestimmte Gefuhl welches sich, die Vielsisk innigkeit der unorganischen Natur unterscheidet. §. 281 -
 
 §. 281.
 
-> gans getödtet, ja hat für, seinen für das Begriff Wesen genommen eines lebendigen wird Dieß Or-
+> .
 
 The senses and the theoretical processes are therefore 1) the sense of the mechanical sphere, — of *gravity*, of cohesion and its alteration, of heat, *feeling* as such; 2) the senses of *opposition*, of particular *airiness*, and of the likewise realized *neutrality*, of *water*, and of the oppositions of its dissolution; — *smell* and *taste*. 3) The sense of the pure essential, but external *identity*, of the side, not belonging to the heavy material, of *fire*, of *light* and of *color*; — and 4) the sense for the presentation of the *subjective* reality, or of the independent inner ideality of the body standing opposite, the *sense* of *hearing*.
 
-> lektere begründet dann den so höchst bequemen. Forma-- lismus, dergleichen sinnliche Materialien wie die chemischen Stoffe, ferner Verhältnisse, die der Sphäre der unorganischen Natur angehören, wie die Nordund Süd - Polarität des Magnetismus, oder die Unterschiede dieses selbst und des elektrischen Moments statt der Begriffsbestimmungen zu ge brauchen, und das natürliche Universum auf die Weise zu begreifen und zu entwickeln, daß auf die Sphären und Unterschiede, die dasselbe darstellt, ein solches fertiges Schema von Nordund = Süd,. Westund Ost - = Polarität, oder welches Andere es sen, äusserlich angeheftet wird. Es ist hierüber eine große
+> Die Sinne und die theoretischen Processe sind daher) 1 der Sinn der mechanischen Sphäre, der Schwere, der Cohäsion und ihrer Veränderung, der Wärme, das Gefühl als solches 2) die Sinne des Gegensakes, Luftigkeitder besonderten, und der gleichfalls realisirten Neutralitat, des Wassers, und der Gegensäße ihrer Auflösung; Geruch und Geschmack. 3) Der Sinn der reinen wesenhaften Identi- -, aber äusserlichen tät, der dem schweren Materiellen nicht zugehörigen Seite des Feuers des Lichts und der Farbe,; und 4) der Sinn für die Darstellung der subjectiven Realität oder der selbstständigen innern Idealität des
 
 The *triplicity* of the moments of the Concept passes over here into a *quintuplicity* as regards number because the moment of particularity or of opposition is itself a triplicity in its totality, and the animal organism is the reduction of the inorganic nature that has fallen asunder into the infinite unity of subjectivity, but in this at the same time its developed totality, whose moments, because it is still *natural* subjectivity, exist particularly. *Universality*, as the still inward concrete, gravity with its individualized
 
-> Mannigfaltigkeit von Formen möglich, da es beliebig bleibt, die Bestimmungen der Totalität, wie sie in der chemischen Sphäre z. B. erscheinen, Sauerstoff, Wasserstoff u. s. f. für das Schema anzunehmen und sie auf Magnetismus, Mechanismus, Vegetation, Animalität u. s. f. überzutragen, oder aber den Magnetismus, die Electricitat, das Männliche } und Weibliche, Contraction und Expansion u. f. f. zu nehmen, überhaupt zu Gegensäßen jeder andern Sphäre zu greiffen und sie in den übrigen gebrauchen.
+> , gegenüberstehenden Körpers, der Sinn des Gehörs. Die Dreyheit der Begriffsmomente geht hier darum in eine Fünfheit der Zahl nach über, weil das Moment der Besonderheit oder des Gegensakes in seiner Totalität selbst eine Dreyheit ist, und der thierische Organismus die Reduction der aussereinanders. gefallenen unorganischen Natur in die unendliche Einheit der Subjectivität, aber in dieser zugleich ihre entwickelteTotalität deren Momente ist, weil, sie noch natürliche Subjectivität besonders existiist, ren. Die Allgemeinheit als das noch inner-, liche Concrete, die Schwere mit ihren individualisirs
 
 [p. 189]
 
-> §. 283.  Das Bedürfniß und die Erregung geht auf das Verhältniß des allgemeinen und besondern Mechanismus, ( Schlafen und Wachen) auf den Process mit der Luft, ( Athmenund Hautproces), mit dem Wasser, (Durst) und mit der individualisirten Erde, nemlich besondern Gebilden derselben ( Hunger §. 275.) Das Leben, das Subject dieser Momente der Totalität, spannt sich in sich als Begriff und in die Momente als ihm äusserliche Realis 1 tät, und ist der fortdauernde Conflict, in welchem es diese Neusserlichkeit überwindet. Weil das Thier als wesentlich Einzelnes, dieß nur im Einzelnen vermag, ist diese Objectivirung seiner, seinem Begriffe nicht anges messen und geht daher aus der Befriedigung fortdauernd
+> Sinn sondern, den zum Grunde liegenden allge, = meinen Sinn, der deswegen auch besser das Gefühl überhaupt heißt. Die Besonderheit der Geist gensak, und dieser istdie Identität und der Gegen --- sak selbst; ihr gehört daher der Sinn des Licht s'an, als der abstracten, aber ebendarum selbst bestimm ten, eine Seite des Gegensakes ausmachenden Identität an ferner die zwey Sinne des Gegensakes; selbstals solchen der Luft und des Wassers,, beyder wie der übrigen, ihrer verkörperten Speci, in fication und Individualisirung. Dem Sinne der Einzelnheit gehört die als reine in sich seyende Subjectivität sich kundgebende Subjectivität, der Ton an. §. 282.)B Der reelle Proceß mit der unorganischen Natur beginnt gleichfalls mit dem Gefühl, nemlich
 
 determinations, has therefore its particular sense in *touch*, the underlying, universal sense, which for that reason is also better called *feeling* in general. *Particularity* is the opposition, and this is the identity and the opposition itself; to it therefore belongs the sense of *light*, as of the abstract, but for that very reason itself *determinate* identity that makes up one side of the opposition; further, the two senses of the opposition itself as such, of *air* and of *water*, of both, as of the rest, in their embodied specification and individualization. To the sense of *singularity* belongs the subjectivity that makes itself known as pure subjectivity being within itself, *sound*.
 
-> in den Zustand des Bedürfnisses zurück.
+> dem Gefühle realer Aeusserlichkeit, und hiemit der Ne-
 
 §. 282.
 
-> §. 284. Die mechanische Bemächtigung des äussern Objects ist nur der Anfang der Einung desselben mit dem thierisch Lebendigen. Da dieses ein Subject hiemit, die einfache Negativität des punctuellen Eins ist, so kann die Assimilation weder mechanischer eben so wenig als chemischer Natur seyn, da in diesen Processen sowohl die Stoffe als die Bedingungen und die Thätigkeit äusserlie
+> gation Subjects welches zugleich die positive Be- -, des, ziehung auf und deren Gewißheit gegensich selbst diese seine Negation ist, mit dem Gefühl des Mangels und dem Trieb ihn aufzuheben, der die Bedingung eines Erregtwerden von Aussen ist.
 
 β) The *real process* with the inorganic nature likewise begins with *feeling*, namely with the feeling of real externality, and thereby of the *negation* of the subject, which is at the same time the positive relation to itself and the *certainty* of this relation against this its negation, — with the feeling of *lack* and the *drive* to sublate it, — which is the condition of *being excited* from outside.
 
-> che gegeneinander bleiben, und der lebendigen absoluten Einheit entbehren. §. 285. Sie ist erstlich, weil das Lebendige die allgemei ne Macht seiner äusserlichen, ihm entgegengesekten Natur ist, das unmittelbare Zusammengehen des inwen. dig aufgenommenen mit der Animalität; eine Infection mit dieser und einfache Verwandlung ( S.278). Zweytens indem die Macht des Lebendigen die Beziehung auf sich selbst durch Vermittlungist, so ist die Assimilation Verdauung; Entgegenſekung des 15 Subjects ge-
+> Nur ein Lebendiges fühlt Mangel; denn nur ies ist in der Natur der Begriff, der die Einheit se ner selbst und seines bestimmten Entgegen gesekten Subject Wo eine ist ist dadurch; ist es. Schranke, ist sie eine Negation nur für ein Drittes eine äusserliche Reflexion Mangel,,; aber ist sie insofern in Einem eben so das Darüber hinausseyn vorhanden, der Widerspruch als solcher gesekt ist. Ein solches, das den Widerspruch seiner selbst in sich zu haben und zu ertragen fähig,ist ist das Subject; dieß macht seine Unendlichkeit
 
 Only a living being feels *lack*; for only it is in nature the *Concept*, which is the unity *of itself and of its determinate opposite*; thereby it is *subject*. Where there is a *limitation*, it is a negation only *for a third*, an external reflection; *lack*, however, it is insofar as in *one* just as much the *being-beyond* is present, the *contradiction* as such is posited. Such a one, which is capable of having and enduring the contradiction of itself within itself, is the *subject*; this constitutes its *infinity*.
 
 [p. 190]
 
-> gen sein unmittelbares Assimiliren, so daß jenes als Negatives sich dagegen erregt, und als Proceß des Gegensakes, Process des animalischen Wassers ( des Magenund pankreatischen = Safts, animalischer Lymphe überhaupt) und des animalischen Feuers ( der Galle, in welcher das In sich gekehrtseyn des Organismus von seiner Concentration aus, die es in der Milz hat, zum Fürsüchseyn und zur thätigen Verzehrung bestimmt ist, au ftritt. §. 286.  Diese thierische Erregung ist zunächst gegen die ä u ssere Potenz gekehrt, welche aber durch die Infection ( §.277.) unmittelbar auf die Seite des Organismus gestelt ist. Aber jene Erregung hat als der Gegensaß Allgemeinund das Fürsichseyn des Processes gegen die heit und einfache Beziehung des Lebendigen auf sich gleichfalls die Bestimmung der Aeusserlichkeit Subjects. Bey- Mittel des zusammen zunächst auf der Seite des als erscheinend, macht also eigentlich das Object und das Negative gegen den Organismus aus, das er zu überwinden und verdauen hat. 4 §. 287. Verkehrung Organismus Diese die der Negation Ansicht ist die Reflexion Negades in sich, seiner Thätigkeit eigenen tivität oder Seyn nach Aussen gerichteten. Als natürliches schließt sich die Einzelnheit disjungirend, die er hierin erreicht, mit seiner Allgemeinheit Negation als so zusammen Objects, daß er die erste Thätigkeit, die Neusserlichkeit des und seine eigene, von sich einerseits excernirt, Negation andererseits in als unmittelbar identisch reproducirt mit dieser seine diesem Mittel sich in hat; indem so der nach Reproduction aussen gehende Proces den ersten Formellen der aus sich selbst sich verwandelt und übergegangen ist.. [p. 191] 1! Das Hauptmoment in der Verdauung ist die unmittelbare Wirkung des Lebens, als der Macht seines unorganischen Objects, das es sich entgegens sest, und nur und insofern als seinen erregenden Reik voraussekt, als es an sich identisch mit ihm ist. Diese Wirkung ist Infection und unmittelbare Verwandlung. Spallanzani's und andere Versuche, und die neuere Physiologie hat diese Unmit telbarkeit, mit der sich das Lebendige als allgemeines ohne weitere Vermittlung durch seine bloße Berührung und Aufnehmen des Nahrungsmittels in seine Wärme und Sphäre überhaupt, sich in dass selbe continuirt, gegen die, als ein mechanisches, erdichtetes Ausund Absondern schon homogener, brauchbarer Theile, so wie gegen die als chemischen Proceß vorgestellte Vermittlung, auch empirischer Weise, erwiesen, und dem Begriffe gemäß aufge zeigt. Die Untersuchungen dagegen der vermittelnden Actionen haben bestimmtere Momente dieser Verwandlung, ( wie sich z. B. bey.vegetabilischen Stoffen eine Reihe von Gährungen darstellt) nicht ergeben; im Gegentheil z. B. gezeigt, daß schon vom Magen aus vieles in die Masse der Säfte übergeht, ohne die übrigen Stuffen der Vermittlung durchzugehen zu haben, daß der pankreatische Saft weiter nichts, als Speichel ist, und die Pankreas sehr wohl entbehrt werden kann, u. s. f. Das lekte Product, der Chylus, den der Brustgang aufnimmt und ins Blut ergist, ist dieselbe Lymphe, welche jedes einzelne Eingeweide und Organ excernirt, die Haut und das lymphatische System im unmittebarem Processe der Verwandlung allenthalben gewinnt und der alenthalben schon bereitet ist. Die niedrigen Thierorganisationen, die ohnehinnichts als eine zum Darmkanal häutigen Punktegeronnene oder Röhrchen Lymphe sind einem, gehen einfachen nicht [p. 192] über diese unmittelbare_Verwandlung hinaus. Der vermittelte Verdauungs, Proces, in den eigen höheru Thierorganisationen ist in Rücksicht auf seinthümliches Productein eben solcher Ueber fluß, als bey Pflanzen ihre durch sogenannte Geschlechts = Differenz vermittelte Saamen - Erzeugung. Die Faeces zeigen, besonders bey Kindern, bey denen die Vermehrung der Materie doch am meis sten hervorsticht, häufig den größten Theil der Nahrungsmittel unverändert, vornehmlich mit thierischen Stoffen, der Galle, Phosphor und dergleichen vermischt, und als die Hauptwirkung des Organismus, seine eigenen - Productionen zu überwinden und wegzuschaffen. Der Schluß des Organismus weckmäßigkeit ist darum nicht der Schluß der äussern 3, weil er nicht dabey stehen bleibt, seine Thätigkeit und Form gegen das äussere Object zu richten, sondern diesen Proceß, der wegen seiner Aeusserlichkeie auf dem Sprunge steht, mechanisch und chemisch zu wer den, selbst zum Object macht, und da er Natur, ist im Zusammengehen seiner darin mit sich selbst, disjunctive Thätigkeit ist, welche diesen Proces von sich wegschaft, von seinem Zorne gegen das Object, dieser einseitigen Subjectivität abstrahirt, und - -- dadurch das für sich wird, was er an sich ist, Identität seines Begriffs und seiner Realität, so das Ende und Product seiner Thätigkeit als das findet, was er schon Befriedigung von Anfang und ursprünglich vernünftig ist. Hiedurch ist die; der in die äussere Differenz gehende Processes schlägt in den Proceß des Organismus mit sich selbst um, und das Resultat ist nicht die bloße Hervorbringung eines Mittels, sondern des Zwecks. (
+> - 190 aus. Wenn von endlicher Vernunft gesprochen wird, so beweist sie eben darin, daß sie unendlich ist, indem sie sich als endlich bestimmt; denn die Nega- - tion ist Endlichkeit, Mangel nur für das, welches das Aufgehobenseyn derselben, die unendli che Beziehung auf sich selbst ist. Die Gedankenlosigkeit bleibt aber bey der Abstraction der Schranke stehen und im Leben wo der Begriff,, selbst die Existenz tritt in faßt ihn ebenfalls, sie nicht auf sondern hält sich Bestimmungen der an -, Vorstellung wie Trieb, Instinkt Bedürfe,, niß.u f.f Daß für den Organismus die Be-. Erregt werden durch äusserliche stimmung von Potenzen an die Stelle des Einwirkens äusserlicher Ursachen gekommen ein wichs ist, ist tiger Schritt der wahrhaften Vorstellung desselben in. Es beginnt darin der Idealismus daß überhaupt, nichts eine positive Beziehung zum Lebendigen haben kann, deren Möglichkeit dieses nicht an und fürsiche 1 selbst, d..h die nicht durch den Begriff bestimmt, somit dem Subjecte schlechthin immanent wäre. Aber so unphilosophisch als irgend ein wissenschaftliches Gez braue von Reflexionsbestimmungen die Einfüh ist rung solcher formellen und materiellen Verhältnisse in der Erregungstheorie als lange für philo-, sophisch gegolten haben;.z B. der ganz abstracte Gegensak von Receptivität und Wirkungsvermögen, die als Factoren in umgekehrten Verhältnisse der Größe mit einander stehen sollen, wodurch aller in dem Organismus zu fassende Unterschied in den Formalismus bloß quantitativer Verschieden heit Erhöhung und Verminderung, Stär-, kung und Schwächung d.h. die höchstmögli-.ist in, che Begrifflosigkeit gefallen Eine Theorie der Medicin, die auf diese dürren Verstandesbestimmungen gebaut ist, ist mit einem halben Dukend [p. 191] Säße vollendet, und es ist kein Wunderwenn, sie eine schnelle Ausbreitung und viele Anhänger fand. Die Veranlassung zu dieser Verirrung der Philoso phie,mit der sich eben die Natur so befreunden zu ansing,lag in dem Grundirrthum daß nachdem das, Absolute als die absolute Indifferenz des Subjectis,. ven und Objectiven bestimmt worden war alle Be-, stimmung nun nur ein quantitativer Unterschied seyn sollte Die absolute Form der Begriff und.,, die Lebendigkeit hat vielmehr allein die qualitative, sich an sich selbst aufzehrende Differenz zu ihrer Seele Weil diese wahrhafte unendliche Negativität nicht er-. kannt war, mennte man die absolute Identität des Lebens, wie bey Spinoza die Attribute und Modi in einem äussern Verstand vorkommen nicht festhal-, ten zu können, ohne den Unterschied zu einem bloß äusserlichen der Reflexion zu machen; womit es dem Leben an dem springenden Punkt der Selbstheit, dem Principe der Selbstbewegung seiner selbst Einzelnheit überhaupt fehlt, völlig unphilosophisch und rohsinnlich Für ferner das, ist. - Diremtion Verfahren zu welches den formellen Be halten, stimmungen reelle Bedeutung geben wollte und eine, die Stelle von Begriffsbestimmungen an gar den Ko hlenstoff und Stickstofs Sauerund Wasserstoff, sekte, und den vorhin intensiven Unterschied, nun zu dem Mehr oder Weniger des einen und desandern Stoffes, das wirksame und positive Verhältniß der äussern Reiße aber als ein Zusehen eines mangelnden Stoffes bestimmte;.z B. in einer Asthenie, einem Nervensieber, habe im Or ganismus der Stickstoff die Oberhand weil das, Gehirn und der Nerv überhaupt der potenzirte Stickstoff sen indem die chemische Analyse ihn als, Hauptbestandtheil dieser organischen Gebilde zeigt; die Hinzusehung des Kohlenstoffs sey hie [p. 192] mit indicirt, um das Gleichgewicht dieser Stoffe, die Gesundheit, wieder herzustellen. Die Mittel, welche sich gegen Nervensieber empirischer weise wirk sam gezeigt haben werden aus eben diesem Grunde, als auf die Seite des Kohlenstoffs gehörig ange- - sehen, und ein solches oberflächliches Zusammenstellen und Meynen für Construction und Beweisen ausgegeben Das Rohe besteht darin., daß das äuſſere caput mortuum der todte Stoff,, in den die Chemie ein erstorbenes Leben zum Zweytenmal getödtet hat für das Wesen eines lebendigen Or-, gans, für seinen Begriff genommen wird Dieß ja. lektere begründet dann den höchst bequemen Forma-- so lismus, dergleichen sinnliche Materialien wie die chemischen Stoffe, ferner Verhältnisse, die der Sphäre der unorganischen Natur angehören wie, die Nordund Süd Polarität des Magnetismus -, oder die Unterschiede dieses selbst und des elektrischen Moments statt der Begriffsbestimmungen zu ge brauchen und das natürliche Universum auf die zu, begreifen zu Weise und entwickeln, daß auf die Sphären und Unterschiede, die dasselbe darstellt ein solches fertiges Schema von Nordund = Süd,,., Westund Ost = Polarität oder welches Andere -, es sen äusserlich angeheftet wird hierüber eine große. Es ist Mannigfaltigkeit von Formen möglich belie-, da es big bleibt die Bestimmungen der Totalität, wie, sie in der chemischen Sphäre z. B. erscheinen Sauer-, stoff, Wasserstoff u..s f. für das Schema anzunehmen und auf Magnetismus sie Mechanismus Ve-,, getation Animalität, überzutragen u..soder aber f., den Magnetismus die Electricitat, das Männliche, } und Weibliche, Contraction und Expansion u. f. f. zu nehmen, überhaupt zu Gegensäßen jeder andern Sphäre zu greiffen und sie in den übrigen gebrauchen.
 
 — When *finite* reason is spoken of, it proves precisely thereby that it is infinite, in that it determines itself as *finite*; for negation is finitude, lack only for that which is the *being-sublated* of it, the *infinite* relation to itself. — Thoughtlessness, however, stays at the abstraction of the *limitation*, and in life, where the *Concept* itself enters into *existence*, it likewise does not grasp it, but holds to determinations of representation, such as *drive*, *instinct*, *need*, etc. — That for the organism the determination of *being excited* by *external potencies* has taken the place of the *acting-upon* by *external causes* is an important step in the true representation of it. — Idealism begins in this: that in general nothing can have a positive relation to the living being whose possibility this would not be in and for itself, i.e., which would not be determined through the Concept, thus absolutely immanent to the subject. But as unphilosophical as any scientific brew of determinations of reflection is the introduction of such formal and material relationships in the *theory of excitation*, as have long passed for philosophical; e.g., the wholly abstract opposition of *receptivity* and *capacity for effect*, which as factors are supposed to stand to one another in inverse ratio of magnitude, whereby all difference to be grasped in the organism has fallen into the *formalism* of merely *quantitative* diversity, *heightening* and *diminution*, *strengthening* and *weakening*, i.e., into the highest possible *conceptlessness*. A theory of medicine that is built on these barren determinations of the understanding is completed with half a dozen [p. 191] propositions, and it is no wonder if it found rapid diffusion and many adherents. The occasion for this aberration of philosophy, with which nature had only just begun to make friends, lay in the fundamental error that, after the absolute had been determined as the absolute indifference of the subjective and the objective, all determination was now supposed to be only a *quantitative* difference. The absolute form, the *Concept*, and vitality have rather the qualitative difference, consuming itself within itself, alone as its soul. Because this true infinite negativity had not been cognized, it was thought that the absolute identity of life, as in Spinoza the attributes and modes occur in an external understanding, could not be held fast without making the difference into a merely external one of reflection; whereby life lacks the *springing point* of selfhood, the principle of self-motion, diremption of itself, singularity in general. — To be held entirely unphilosophical and crudely sensuous, further, is the procedure that wanted to give *formal* determinations a *real* meaning, and in place of determinations of the Concept even put *carbon* and *nitrogen*, oxygen and hydrogen, and determined the previously intensive difference, now, as the *more* or *less* of the one and the other stuff, but the effective and positive relationship of the external stimuli as an *adding* of a lacking stuff; — e.g., in an *asthenia*, — a nervous fever, *nitrogen* is said to have the upper hand in the organism, because the brain and the nerve in general are supposed to be the *potentiated* nitrogen, since *chemical* analysis shows it as the *principal constituent* of these organic formations; the addition of *carbon* is said to be hereby [p. 192] indicated, in order to restore the equilibrium of these *stuffs*, health. The remedies that have proved effective against nervous fever in an empirical manner are, for this very reason, regarded as belonging to the side of *carbon*, and such a superficial putting together and opining is passed off as *construction* and *proving*. — The crudity consists in this, that the external *caput mortuum*, the dead stuff, into which chemistry has killed a deadened life for the second time, is taken for the *essence* of a living organ, indeed for its *Concept*. This latter then grounds the so highly convenient formalism of using such sensuous materials as the chemical stuffs, further relationships that belong to the sphere of inorganic nature, such as the north and south polarity of magnetism, or the differences of this itself and of the electrical moment, instead of determinations of the Concept, and of comprehending and developing the natural universe in such a way that onto the spheres and differences that it presents, such a ready-made schema of north- and south-, west- and east-polarity, or whatever else it may be, is externally attached. A great multiplicity of forms is possible here, since it remains optional to adopt for the schema the determinations of the totality, as they appear in the *chemical* sphere, e.g., oxygen, hydrogen, etc., and to transfer them to magnetism, mechanism, vegetation, animality, etc., or else to take magnetism, electricity, the masculine and the feminine, contraction and expansion, etc., in general to reach for oppositions of any other sphere and to use them in the rest.
 
 [p. 193]
 
-> 5. 288.
+> Das Bedürfniß und die Erregung geht auf das Verhältniß des allgemeinen und besondern Mechanismus,
 
 §. 283.
 
-> Durch den Proces mit der äussern Natur gibt das Thier der Gewißheit seiner selbst, seinem subjectiven Be griff, die Wahrheit, Objectivitat, als einzelnes In dividuum; und ist Production seiner eben sowohl als Selbsterhaltung, oder Reproduction als Production seis nes ersten Begriffs. Damit geht dieser mit sich selbst zusam men, und ist als concretes Allgemeines, Gattung. Die Disjunction der sich selbst findenden Einzelnheit in der Gattung ist die Geschlechts - Dif ferenz, die Beziehung des Subjects auf ein Object, das selbst ein solches Subject ist. § 289.. Diese Beziehung ist Trieb; das Einzelne als
+> (Schlafen und Wachen) auf den Process mit der Luft, (Athmenund Hautproces), mit dem Wasser, (Durst) und mit der individualisirten Erde, nemlich besondern Gebilden derselben ( Hunger §. 275.) Das Leben, das Subject dieser Momente der Totalität, spannt sich in sich Begriff und tät als in die Momente als ihm äusserliche Realis 1, und ist der fortdauernde Conflict welchem, in es diese Neusserlichkeit überwindet Weil das Thier als we-. sentlich Einzelnes, dieß nur im Einzelnen vermag, ist diese Objectivirung seiner, seinem Begriffe nicht anges messen und geht daher aus der Befriedigung fortdauernd in den Zustand des Bedürfnisses zurück. §. 284.
 
 Need and excitation are directed to the relationship of the universal and particular *mechanism*, (sleeping and waking), to the process with *air*, (respiratory and cutaneous process), with *water*, (thirst) and with individualized *earth*, namely particular formations of it (hunger, § 275). Life, the subject of these moments of the totality, tenses itself within itself as Concept and into the moments as a reality external to it, and is the continuing conflict in which it overcomes this externality. Because the animal, as essentially a singular, can do this only in the singular, this objectification of itself is not adequate to its Concept, and therefore continually goes back out of satisfaction into the state of need.
 
-> solches diese Angemessenheit ist seiner Gattung in eine nicht äusserliche angemessen Reflexion; noch; fällt das
+> Die mechanische Bemächtigung des äussern Objects nur der Anfang der Einung desselben mit dem
 
 §. 284.
 
-> Individuum ist in seiner Beschränkung der Gattung zugleich deren identische Beziehung auf sich in Einer Einheit; es hat somit das Gefühl dieses Mangels und ist in natürlicher Differenz des Geschlechts.  §. 290. 3) Der Gattungsproces hat, wie im unorgani schen der Chemismus, den allgemeinen Begriff, als Wesen der Individuen zum allgemeinen Extreme; die Span =
+> ist thierisch Lebendigen Da dieses ein Subject hiemit die., einfache Negativität des punctuellen Eins kann die ist, so Assimilation weder mechanischer eben so wenig als chemischer Natur seyn, da in diesen Processen sowohl die Stoffe als die Bedingungen und die Thätigkeit äusserlie che gegeneinander bleiben, und der lebendigen absoluten Einheit entbehren. §. 285. Sie ist erstlich, weil das Lebendige die allgemei
 
 The *mechanical mastering* of the external Object is only the beginning of the uniting of it with the animal living being. Since this is thereby a subject, the simple negativity of the punctual one, *assimilation* can be of neither a mechanical nor, just as little, of a chemical nature, since in these processes the stuffs as well as the conditions and the activity remain external to one another, and lack the living absolute unity.
 
-> nung desselben gegen die Unangemessenheit ihrer einzel-
+> ne Macht seiner äusserlichen, ihm entgegengesekten Nadas unmittelbare
 
 §. 285.
 
-> Gattung nen Wirklichkeit Selbstgefühl treibt, sie zu jedes nur im Andern seiner Ei sein haben und sich durch die nung mit ihm zu integriren; durch diese Vermittelung wird das concrete Allgemeine mit sich zusammengeschlos sen und gibt sich einzelne Wirklichkeit. §. 291. Dieß Product ist die negative Identität welche gewordene Gattung ist, ein geschlechtsloses [p. 194] Leben; aber nach der natürlichen Seite nur an sich diese Gattung und auseinanderfallend gegen die Einzelnen, die in ihm untergegangen sind, und daher selbst ein Einzelnes, welches die Bestimmung der gleichen Differenz und Bergänglichkeit in sich hat. Aber zugleich ist in diesem neuen Leben, worin die Einzelnheit aufgehoben, dieselbe Subjectivität positiv erhalten und in dieser ihrer Rückkehr in sich ist die Gattung als solche für sich in die Realität getreten, und ein
+> ist Zusammengehen des inwen tur,. dig aufgenommenen mit der Animalität; eine Infection mit dieser und einfache Verwandlung S.278 (). Zweytens indem die Macht des Lebendigen die Beziehung auf sich selbst durch Vermittlung tion Verdauungdie Assimila- Entgegenſekung des Subjects ge-; ist, so ist 15 [p. 194] gen sein unmittelbares Assimiliren, so daß jenes als Negatives sich dagegen erregt, und als Proceß des Gegensakes, Process des animalischen Wassers ( des Magenund pankreatischen =Safts, animalischer Lymphe überhaupt) und Feuers ( der Galle, in des animalischen welcher das In sich gekehrtseyn des Organismus von seiner Concentration aus, die es in der Milz hat, zum Fürsüchseyn und zur thätigen Verzehrung bestimmt ist, au ftritt. §. 286.
 
 It is, first, because the living being is the *universal* power over its external nature opposed to it, the *immediate* going-together of what is taken up inwardly with animality; an infection with this and *simple transformation* (§ 278). Second, since the power of the living being is the relation to itself through mediation, assimilation is *digestion*; — opposition of the subject against [p. 194] its immediate assimilating, so that the former, as negative, excites itself against it, and appears as the process of opposition, process of the animal *water* (of the gastric and pancreatic juice, of animal lymph in general) and of the animal *fire* (of the *bile*, in which the *being-turned-back-into-itself* of the organism, from its concentration, which it has in the spleen, is determined to *being-for-itself* and to active consumption).
 
-> Höheres, als die Natur, geworden. 1
+> Diese thierische Erregung ist zunächst gegen die äu s-
 
 §. 286.
 
-> §. 292. Die unterschiedenen Gebilde und Orde nungen der Thiere haben den allgemeinen, durch den Begriff bestimmten Typus des Thiers zu Grunde liegen, welchen die Natur theils in den verschiedenen Stuffen seiner Entwicklung von der einfachsten Organisation an bis zur vollendetsten, in welcher sie Werkzeug des Gei- ſtes ist, theils unter den verschiedenen Umständen und 1 Bedingungen der elementarischen Natur darstellt Begriff. zu seinem Der Begriff Wesen, des weil Thiers es die hat Wirklichkeit den der Idee selbst
+> sere Potenz gekehrt, welche aber durch die Infection (§.277.) unmittelbar auf die Seite des Organismus gestelt ist. Aber jene Erregung hat als der Gegensaß und das Fürsichseyn des Processes gegen die Allgemeinheit und einfache Beziehung des Lebendigen auf sich gleichfalls die Bestimmung der Aeusserlichkeit Bey-. des zusammen zunächst auf der Seite des Subjects als Mittel erscheinend macht also eigentlich das Object, und das Negative gegen den Organismus aus, das er zu überwinden und verdauen hat. 4 §. 287. Diese Verkehrung der Ansicht die Reflexion des ist
 
 This animal excitation is at first turned against the *external* potency, which, however, through the infection (§ 277) has been placed immediately on the side of the organism. But that excitation, as the opposition and the being-for-itself of the process *against* the *universality* and *simple* relation of the living being to itself, likewise has the determination of *externality*. Both together, appearing at first on the side of the *subject* as *means*, therefore actually constitute the Object and the negative against the organism, which it has to overcome and digest.
 
-> des Lebens ist. Die Natur seiner Allgemeinheit
+> Organismus sich die
 
 §. 287.
 
-> macht es möglich, daß er ein einfacheres und entwikkelteres, so wie ein ihm mehr oder weniger entsprechendes Daseyn hat. Aus dem Daseyn selbst kann daher der Begriff in seiner Bestimmtheit nicht aufgefaßt werden. Die Claſſen, in welcher er entwickelt und in seinen Momenten vollständig dargestelt auftritt, erscheinen als ein besonderes Daseyn gegen die Uebrigen, und auch in jenen kann er ein schlech tes Daseyn haben. Ob aber das Daseyn schlecht ist, zu diesem Urtheil wird der Begriff schon vorausgefe sest. Wenn, wie gewöhnlich, das Daseyn vorausgesezt seine wesentlichen wurde, um Bestimmungen daraus die Natur, oder des die Thieres wesentli und
+> Negation seiner eigenen Negain, tivität oder nach Aussen gerichteten Thätigkeit. Als natürliches Seyn schließt sich die Einzelnheit, die er hierin erreicht mit seiner Allgemeinheit als disjungirend, so zusammen daß, die erste Negation er die Neusserlichkeit des Objects und seine eigene Thätigkeit,, von sich einerseits excernirt, andererseits als unmittelbar identisch mit dieser seine Negation in diesem Mittel sich reproducirt hat; indem so der nach aussen gehende Proces in den ersten Formellen der Reproduction aus sich selbst sich verwandelt und übergegangen ist..
 
 This inversion of the view is the reflection of the organism into itself, the negation of its own negativity or outwardly directed activity. As natural being, the singularity that it attains herein closes together with its universality as *disjunctive* in such a way that it, on the one hand, excretes from itself the first negation, the externality of the Object and its own activity, and, on the other hand, as immediately identical with this, has reproduced for itself its negation in this means; in that the process going outward is thus transformed out of itself and has passed over into the first formal elements of reproduction.
 
 [p. 195]
 
-> mung auf diesem, und empirischen alle besondere Wege Eigenschaften zu keiner festen zeigen Bestim sich auch so, daß sie mangeln können; z. B. die Acepha len sind als Instanz angeführt worden -, daß der Mensch auch ohne Gehirn leben könne. Es ist in der Zoologie, wie in den Naturwissenschaften überhaupt, mehr darum zu thun gewesen, für das subjec tive Erkennen sichere und einfache Merkmahle aufs zufinden. Erst seitdem man diesen Zweck sogenannter künstlicher Systeme bey der Erkenntniß der Thiere mehr aus den Augen gesekt hat, hat sich eine größere Ansicht eröffnet, und unter den empirischen Wissenschaften ist wohl schwerlich eine, welche in neuern Zeiten so große Erweiterungen, nicht vorzugsweise in der Masse von Beobachtungen, denn daran hat es in keiner Wissenschaft gefehlt, sondern nach der Seite erlangt hat, daß ihr Material sich gegen Vernünftigkeit hin gearbeitet hat, als die Zoologie durch ihre Hülfswissenschaft, die vergleichende Anatomie. Theils ist an den einzelnen Gebilden der Habitus, als ein die Construction aller Theile bestimmender Zusammenhang zur Hauptsache gemacht * worden, so daß der große Stifter dieser Wissenschaft, Cuvier, sich rühmen konnte, aus einem einzelnen Knochen die wesentliche Natur des ganzen Thieres er- 1 kennen zu können. 1 Theils ist der allgemeine Typus des Thiers durch die verschiedenen, noch so unvollkommen und disparat erscheinenden Gebilde verfolgt und in der kaum beginnenden Andeutung, so wie in 1 der Vermischung der Organe und Functionen ihre Bedeutung erkannt, und eben dadurch über und aus der Besonderheit in seine Allgemeinheit erhoben wor den. Eine Hauptseite dieser Betrachtung ist die Erkenntniß, wie die Natur diesen Organismus an das besondere Element, in das sie ihn wirft, an Klima, Kreis der Ernährung, überhaupt an die Welt, in [p. 196] andere der er aufgeht Thiergattung - ( die auch seyn eine kann einzelne) anbildet Pflanzen undoder anschmiegt. - Die Unmittelbarkeit der Idee des Lebens ist es, daß der Begriff, ob gleich nur er das an und für sich bestimmte ist, nicht als solches im Leben existirt, sein Daseyn daher sich den vielfachen Bedingungen und Umständen der äussern Natur unterwirst, und in den ärmlichsten Formen ers scheinen kann, und die Fruchtbarkeit der Erde läßt es allenthalben ausschlagen Die Thierwelt kann darum fast weniger als die. andern Sphären der Natur, ein in sich unabhängiges vernünftiges Sys stem von Organisation darstellen, an den Formen, die durch den Begriff bestimmt wären, festhalten und sie gegen die Unvollkommenheit und Vermischung der Bedingungen vor Vermengung, Verkümmerung und Uebergängen bewahren. - Diese Schwäche des Begriffs, der im Thiere nicht in seiner festen, selbst = ſtändigen Freyheit existirt, unterwirft auch die bestehende Gattung ganz den Veränderungen des äussern allgemeinen Naturlebens, dessen Wechsel es mit durchlebt, und das in seiner einzelnen Existenz als eine fortdauernde Gewaltsamkeit gegen das einzelne Thier ist. Das Thierleben zeigt sich daher überhaupt als ein krankes; so wie sein Gefühl, als ein unsicheres, angstvolles, und unglückliches. §. 293. Der einzelne Organismus kann wegen der Aeusserlichkeit seines Daseyns seiner Bestimmung auch nichtentsprechend werden. Er befindet sich im Zustande der Krankheit, insofern eines seiner Systeme oder Organe im Conflict mit einer unorganischen Potenz erregt, sich für sich festsekt und in seiner besondern Thätigkeit gegen die Thätigkeit des Ganzen beharrt, dessen Flüssigkeit
+> Das Hauptmoment in der Verdauung die un istmittelbare Wirkung des Lebens als der Macht, seines unorganischen Objects, das es sich entgegens sest, und nur und insofern als seinen erregenden Reik voraussekt als an sich identisch mit ihm, es.ist Diese Wirkung Infection und unmittelbare ist Verwandlung Spallanzani's und andere Ver-. suche,und die neuere Physiologie hat diese Unmit telbarkeit mit der sich das Lebendige als allge, = meines ohne weitere Vermittlung durch seine bloße Berührung und Aufnehmen des Nahrungsmittels in seine Wärme und Sphäre überhaupt sich dass, in, erselbe continuirt, gegen die, als ein mechanisches, dichtetes Ausund Absondern schon homogener brauchbarer Theile, wie gegen die als chemischen so Proceß vorgestellte Vermittlung auch empirischer, Weise, erwiesen, und dem Begriffe gemäß aufge zeigt. Die Untersuchungen dagegen der vermittelnden Actionen haben bestimmtere Momente dieser Verwandlung wie sich, ( B. bey.vegetabilischen z. Stoffen eine Reihe von Gährungen darstellt) nicht ergeben; im Gegentheil B. gezeigt daß z., schon vom Magen aus vieles in die Masse der Säfte übergeht, ohne die übrigen Stuffen der Vermittlung durchzugehen zu haben, daß der pankreatische Saft weiter nichts als Speichel ist und die Pankreas,,, sehr wohl entbehrt werden kann u..s f. Das lekte Product, der Chylus, den der Brustgang aufnimmt und ins Blut ergist dieselbe Lymphe, ist, welche jedes einzelne Eingeweide und Organ excernirt, die Haut und das lymphatische System im unmittebarem Processe der Verwandlung allenthalben gewinntund der alenthalben schon bereitet Die niedrigen ist. - Thierorganisationen die ohnehin nichts als eine zum, häutigen Punkte oder Röhrchen einem einfachen Darmkanal geronnene Lymphe sind gehen nicht, [p. 196] über diese unmittelbare_Verwandlung hinaus. Der vermittelte Verdauungs Proces, in den höheru Thierorganisationen, Rücksicht auf sein eigen ist inthümliches Productein eben solcher Ueberfluß, als bey Pflanzen ihre durch sogenannte Ge schlechts Differenz vermittelte Saamen Erzeugung =,. - Die Faeces zeigen besonders bey Kindern, bey denen die Vermehrung der Materie doch am meis sten hervorsticht, häufig den größten Theil der Nahrungsmittel unverändert vornehmlich mit thierischen, Stoffen der Galle Phosphor und dergleichen ver-,, - und als die Hauptwirkung des Organismus mischt,, seine eigenen Productionen zu überwinden und wegzuschaffen. Der Schluß des Organismus darum ist nicht der Schluß der äussern 3 weckmäßigkeit, weil er nicht dabey stehen bleibt, seine Thätigkeit und Form gegen das äussere Object zu richten, sondern diesen Proceß, der wegen seiner Aeusserlichkeie auf dem Sprunge steht, mechanisch und chemisch zu wer den, selbst zum Object macht, und da er Natur ist, im Zusammengehen seiner darin mit sich selbst, disjunctive Thätigkeit ist, welche diesen Proces von sich Zorne gegen das Objectwegschaft, von seinem, dieser einseitigen durch das für sich wird was Subjectivität sich abstrahirt er an, und ist -- da-,,, Identität seines Begriffs und seiner Realität so das Ende und Product seiner Thätigkeit als das schon von Anfang und ursprünglich ist findet, was er. Hiedurch ist die Befriedigung vernünftig; der in die äussere Differenz gehende Processes schlägt in den Proceß des Organismus mit sich selbst um und, das Resultat nicht die bloße Hervorbringung eines ist Mittels, sondern des Zwecks.(
 
 The main moment in digestion is the *immediate* effect of life, as the *power* over its inorganic Object, which it opposes to itself, and presupposes as its exciting stimulus only and insofar as it is *in itself* identical with it. This effect is *infection* and immediate transformation. *Spallanzani’s* and other experiments, and recent physiology, have proved, also in an empirical manner, and shown in accordance with the Concept, this immediacy, with which the living being as *universal*, without further mediation, through its mere contact and taking up of the foodstuff into its heat and sphere in general, continues itself into the same, against the mediation represented as a mechanical, fictitious *sorting out and separating off* of already *homogeneous*, usable parts, as well as against the mediation represented as a *chemical* process. The investigations, on the other hand, of the mediating actions have not yielded *more determinate* moments of this transformation (such as a series of *fermentations* presents itself, e.g., in vegetable stuffs); on the contrary they have shown, e.g., that already from the stomach onward much passes over into the mass of the juices without having had to go through the remaining stages of mediation, that the pancreatic juice is nothing further than saliva, and the pancreas can very well be dispensed with, etc. The last product, the chyle, which the *thoracic duct* takes up and *pours* into the blood, is the same lymph that each single viscus and organ excretes, that the skin and the lymphatic system everywhere obtain in the immediate process of transformation, and which is everywhere already prepared. The lowly animal organizations, which anyway are nothing but a lymph coagulated into a membranous point or little tube — a simple intestinal canal — do not go [p. 196] beyond this immediate transformation. The mediated digestive process, in the higher animal organizations, is, with regard to its *peculiar product*, just such a *superfluity* as, in plants, their seed-production mediated through so-called sexual difference. — The *faeces* show, especially in children, in whom the increase of matter nevertheless stands out most, frequently the greatest part of the foodstuffs unchanged, mixed chiefly with animal stuffs, the *bile*, phosphorus and the like, and as the principal effect of the organism, to overcome and remove its own productions. — The syllogism of the organism is therefore not the syllogism of *external purposiveness*, because it does not stop at directing its activity and form against the external Object, but makes this process itself, which because of its externality is on the point of becoming mechanical and chemical, into the Object, and, since it is nature, in the coming together of itself therein with itself, is disjunctive activity, which removes this process from itself, abstracts from its *anger* against the Object, this one-sided subjectivity, and thereby becomes *for itself* what it is in itself, — identity of its Concept and its reality, — thus finds the end and product of its activity as that which it already is from the beginning and originally. Hereby *satisfaction* is *rational*; the process going into external difference turns over into the process of the organism with itself, and the result is not the mere production of a means, but of the end.
 
 [p. 197]
 
-> 5. 294.
+> Durch den Proces mit der äussern Natur gibt das Thier der Gewißheit seiner selbst, seinem subjectiven Be
 
 §. 288.
 
-> Die eigenthümliche Erscheinung der Krankheit ist daher, daß die Identität des ganzen organischen Begriffs sich als successiver Verlauf der Lebensbewegung durch seine unterschiedenen Momente, die Sensibilität, Irritabilität und Reproduction, als Fie ber darstellt, welches gegen die vereinzelnte Thätigkeit als Verlauf der Totalität ebensosehr der Versuch und Beginn der Hei lung ist. §. 295. Organismus organische Das Potenz Mittel wegzuschaffen erregt den, mit welcher dazu die, die Thätigun
+> griff, die Wahrheit, Objectivitat, als einzelnes In dividuum; und Production seiner eben sowohl als ist Selbsterhaltung oder Reproduction als Production seis, nes ersten Begriffs Damit geht dieser mit sich selbst zusam. men, und als concretes Allgemeines Gatist, tung. Die Disjunction der sich selbst findenden Einzelnheit der Gattung in Geschlechts ist die - Dif ferenz die Beziehung, des Subjects auf ein Object, das selbst ein solches Subject.ist
 
 Through the process with the external nature the animal gives to the certainty of itself, to its subjective Concept, truth, objectivity, as *singular* individual; and is *production* of itself as much as self-preservation, or *reproduction* as production of its first Concept. Thereby the latter goes together with itself, and is as *concrete universal*, *genus*. The *disjunction* of the singularity that finds itself in the genus is the *sexual difference*, the relation of the subject to an Object that is itself such a subject.
 
-> keit des einzelnen Organsoder Systems verwickelt und
+> §. 289.
 
 §. 289.
 
-> hiedurch vereinzelt ist, wesentlich aber die Erregung, in der die formelle Flüssigkeit Thätigkeit des Ganzen fixirt ist, aufzuheben, und die in das Ganze herzustellen. Dieß bewirkt das Mittel dadurch, daß es ein Reik aber ein noch schwerer zu Organismus assimilirender und überwindender ist, gegen ge welchen der seine ganze Kraft aufzubietentet nöthigt, ist ist er. aus Indem der er mit sich ihm so gegen identisch ein Aeusserliches gewordenen riche Be-
+> Diese Beziehung ist Trieb; das Einzelne als solches ist seiner Gattung nicht angemessen; noch fällt diese Angemessenheit in eine äusserliche Reflexion das; Individuum ist in seiner Beschränkung der Gattung zugleich deren identische Beziehung auf sich in Einer Einheit es hat somit das Gefühl dieses Mangels und ist in; natürlicher Differenz des Geschlechts. §. 290. 3) Der Gattungsproces hat wie
 
 This relation is *drive*; the *singular* as such is not adequate to its genus; nor does this adequacy fall into an external reflection; the individual, in its limitation of the genus, is at the same time the genus’s identical relation to itself in one unity; it thus has the *feeling* of this *lack* and is in natural difference of sex.
 
-> schränktheit, in welcher er befangen war, getreten.
+> , im unorgani schen den allgemeinen Begriff
 
 §. 290.
 
 3) The *process of the genus* has, as chemism does in the inorganic, the universal Concept, as the essence of the individuals, as the universal extreme; the tension of the same against the inadequacy of their singular actuality drives them, each only in the other of its genus to have its self-feeling and to integrate itself through union with it; through this mediation the concrete universal is closed together with itself and gives itself singular actuality.
 
-> Arzneymittel, müssen überhaupt als ein Unverdauliches betrachtet werden. Aber die Bestimmung von Unverdaulichkeit ist nur relativ, jedoch nicht in dem unbestimmten Sinne, in dem sie genommen zu werden pflegt, nach welchem leicht verdaulich heißt, was schwächere Constitutionen vertragen können. Solches leicht Verdauliche ist für die kräftigere Indi vidualität vielmehr unverdaulich. Die wahrhafte R elativität, die des Begriffes, welche quantitativer im Le
+> der Chemismus, als We-, sen der Individuen zum allgemeinen Extreme die Span; = nung desselben gegen die Unangemessenheit ihrer einzelnen Wirklichkeit treibt sie jedes nur im Andern seiner, Gattung sein Selbstgefühl haben und sich durch die zu Ei nung mit ihm integriren zu durch diese Vermittelung; wird das concrete Allgemeine mit sich zusammengeschlos sen und gibt sich einzelne Wirklichkeit. §. 291.
 
 §. 291.
 
-> Rücksicht ben ihre Wirklichkeit ausgedrückt, hat die, hier besteht gilt,, - in in einer um so
+> Dieß Product die negative Identität
 
 This product is the *negative identity* which is the *genus that has become*, a sexless
 
-> höhern Homogeneität, als höher und selbst ständiger die Entgegensehung ist; die höchste qua
+> ist welche gewordene Gattung ein geschlechtsist,
 
 [p. 198]
 
-> litative Form derselben im Lebendigen hat sich als das Geschlechtsverhältniß gezeigt, in welchem selbst- -: ständige Individualitäten sich als identische sind. Für die niedrigern, zu keiner Differenz in sich gekommenen animalischen Gebilde, ist das Individualitätslose Neutrale, das - Wasser, wie für die Pflanze, das Verdauliche; für Kinder ist das Verdauliche theils die ganz homogene animalie sche Lymphe, die Muttermilch, ein schon verdautes oder vielmehr nur in Animalität unmittelbar und
+> an sich diese Gattung und auseinanderfallend gegen die Einzelnen, die in ihm untergegangen sind, und daher selbst ein Einzelnes, welches die Bestimmung der gleichen Differenz und Bergänglichkeit in sich hat. Aber zugleich ist, in diesem neuen Leben worin die Einzelnheit, aufgehoben dieselbe Subjectivität positiv erhalten und in dieser ihrer Rückkehr in sich die Gattung ist als solche für sich in die Realität getreten und ein, Höheres, als die Natur, geworden. 1 §. 292.
 
 life; but according to the *natural* side only *in itself* this genus and falling asunder against the individuals who have perished in it, and therefore itself a *singular*, which has in itself the determination of such difference and transience. But at the same time in this new life, in which singularity is sublated, the same subjectivity is *positively* preserved, and in this its return into itself the *genus as such* has stepped *for itself* into reality, and has become something higher than nature.
 
-> überhaupt umgewandeltesund in ihr selbst weiter
+> Die unterschiedenen Gebilde und Orde nungen der Thiere haben den allgemeinen durch den,
 
 §. 292.
 
-> nicht differentiirtes; theis wenigsten von differenten Subs stanzen gereift solche, die noch am zur Individuahinge gen lität sind. für Substanzen dieser Naturen Art sind Die. unverdaulich dagegen die erstarkten. indivisen sind thierische Substanzen zu als kräftigeren das dualisirte gezeitigten, oder die vom deswegen Lichte geistig einem genannten vegetabilischen Selbst Säfte und B die vegetabilischen, noch, ein in Verdaulicheres der bloß neutralen, als z Farbe.,
+> Begriff bestimmten Typus des Thiers zu Grunde liegen, welchen die Natur theils in den verschiedenen Stuffen seiner Entwicklung von der einfachsten Organisation an bis zur vollendetsten, in welcher sie Werkzeug des Gei- ſtes theils unter den verschiedenen Umständen ist, und 1 Bedingungen der elementarischen Natur darstellt. Der Begriff des Thiers hat den Begriff selbst zu seinem Wesen, weil es die Wirklichkeit der Idee
 
 The *different formations and orders of the animals* have as their ground the universal *type of the animal*, determined through the Concept, which nature presents partly in the various stages of its development, from the simplest organization up to the most perfect, in which it is the tool of spirit, partly under the various circumstances and conditions of elemental nature.
 
-> und dem eigenthümlichen Chemismus näher stehenden Productionen. Durch ihre intensivere Selbſtigkeit machen jene Substanzen einen um so stärkern Gegen- - sak; aber eben dadurch sind sie homogenere Reiße. Die Arzneymittel sind insgesammt insofern negati ve Reiße, Gifte, ein Erregendes und zugleich Unverdauliches, als der sich in der Krankheit entfremdete Organismus den Trieb hat, sich gegen ein ihm aufserliches Fremdes zu richten, und dadurch zum Selbst- Gefuhl seiner Individualität wieder zu gelangen..- So ein leerer Formalismus der Brownianismus gewesen ist, wenn er das ganze System der Medicin seyn soll, und die Bestimmung der Krankheiten und der Wirksamkeit der Mittel, jene auf Sthenie und Asthenie und etwa noch auf directe und indirecte Asthenie, diese auf Stärken und Schwächen, - beydes [p. 199] gar auf Kohlen und Stickstoff, noch mit Sauerund Wasserstoff, oder magnetisches elektrisches und chemisches Moment, und dergleichen ihn naturphilos sophisch machen sollende Formeln beschränkt,, so hat er doch, wohl die zwey wichtigen Folgen gehabt erst. lich daß durch ihn die Ansicht des bloß Particu lären und Specisischen sowohl der Krankheiten als Allgemeine der Mittel erweitert und in demselben vielmehr das als das Wesentliche erkannt worden ist; zweytens, daß er im sowohl durch seinen Gegensak gegen die vorherige Ganzen mehr asthenische eignen und asthenisirende Weise, als auch durch seine späterhin Organismus erfolgten Uebergänge, gezeigt hat, handlungsart daß der gegen die entgegengesekteste Behäufig nicht auf eine so entgegengesekte, sondern auf eine allgemeine wenigstens in den Endresultaten reagirt, gleiche, und daher Identität Weise und seine einfache mit sich als sein wahrs haftes Wesen gegen eine particulare Befangenheit einzelner seiner Systeme in specifischen Reißen, bez weißt. § 296.. 1 Die Ueberwindung aber und das Vorübergehen einzelner Unangemessenheit des thierischen Individuums gegen seinen Begriffs hebt die allgemeine Unangemessenheit nicht auf, welche es dadurch hat, daß seine Idee die u nmittelbare ist, oder daß das Thier innerhalb der Natur steht, seine Subjectivität an sich der Begriff aber nicht für sich selbst ist, und nur als unmittelbare Einzelnheit existirt. Jene innere Allgemeinheit ist daher gegen diese Wirklichkeit eine negative Macht, von welcher es Gewalt leidet und untergeht, weil sein Daseyn nicht selbst dieselbe in sich hat. [p. 200] §. 297. Dieß negative Allgemeine als das Abstracte ist eine äussere Wirklichkeit, die gegen das Thier mechanische Gewalt ausübt und es zerstöhrt. Als seine eigene concrete Allgemeinheit ist sie die Gattung, in deren Proces theils, der Begattung, das Lebendige seine differente Einzelnheit versenkt; theils aber unmittel bar seine Unangemessenheit mit derselben, die seine ure sprüngliche Krankheit und der angebohrne Keim des Todes ist, aufhebt, indem es seine Einzelnheit demselben einbildet, aber weil diese unmittelbar ist, hiemit nur eine abstracte Objectivität erreicht, die Thätigkeit abstumpft, verknöchert, und sich so aus sich selbsttödtet. §. 298. Aber die Subjectivität des Lebendigen ist eben so wesentlich an sich mit dem concreten Allgemeinen, der Gattung identisch. Ihre Identität mit dieser ist daher nur das Aufheben des formellen Gegensaßes, der Unmittelbarkeit und der Allgemeinheit der Individualität. Indem diese Subjectivität ferner in der Idee des Lebens der Begriff ist, so ist sie an sich das absolute In sich seyn der Wirklichkeit, und durch das aufgezeigte Aufheben ihrer Unmittelbarkeit, ist sie mit sich selbst absolut zusammengegangen und das lekte
+> des Lebens Die Natur seiner Allgemeinheit.ist macht möglich es daß ein einfacheres und entwik-, er kelteres, so wie ein ihm mehr oder weniger entsprechendes Daseyn hat Aus dem Daseyn selbst kann. daher der Begriff in seiner Bestimmtheit nicht aufgefaßt werden. Die Claſſen, in welcher er entwickelt und in seinen Momenten vollständig dargestelt auftritt erscheinen als ein besonderes Daseyn gegen, die Uebrigen und auch, jenen kann ein schlech in er tes Daseyn haben Ob aber das Daseyn schlecht. zu diesem Urtheil wird der Begriff schon vorausgefe ist, sest. Wenn, wie gewöhnlich, das Daseyn vorausgesezt wurde, um daraus die Natur des Thieres und seine wesentlichen Bestimmungen, oder die wesentli chen Organe einer Classe zu erkennen, so kommt es [p. 199] mung, und alle besondere Eigenschaften zeigen sichauch so, mangeln können daß sie B.;.z die Acepha len sind als Instanz angeführt worden, daß der Mensch auch ohne Gehirn leben könne Es ist. in der Zoologie zu in wie den Naturwissenschaften, überhaupt mehr darum, thun gewesen für das subjec, tive Erkennen sichere und einfache Merkmahle aufs zufinden Erst seitdem man diesen Zweck sogenannter. künstlicher Systeme bey der Erkenntniß der Thiere mehr aus den Augen gesekt hat, hat sich eine größere Ansicht eröffnet, und unter den empirischen Wissenschaften ist wohl schwerlich eine welche neuern, in Zeiten so große Erweiterungen nicht vorzugsweise, der Masse von Beobachtungen denn daran hat in in, es keiner Wissenschaft gefehlt, sondern nach der Seite erlangt hat, daß ihr Material sich gegen Vernünftigkeit hin gearbeitet hat, als die Zoologie durch ihre Hülfswissenschaft, die vergleichende Anatomie. Theils ist an den einzelnen Gebilden der Habitus, als ein die Construction aller Theile bestimmender Zusammenhang zur Hauptsache gemacht * worden, so daß der große Stifter dieser Wissenschaft, Cuvier, sich rühmenaus einem einzelnen konnte, Knochen die wesentliche Natur des ganzen Thieres er- 1 kennen zu können Theils der allgemeine Typus. 1 ist des Thiers durch die verschiedenen noch, so unvollkommen und disparat erscheinenden Gebilde verfolgt und in der kaum beginnenden Andeutung, so wie in 1 der Vermischung der Organe und Functionen ihre Bedeutung erkannt, und eben dadurch über und aus der Besonderheit in seine Allgemeinheit erhoben wor den. Eine Hauptseite dieser Betrachtung die Erist kenntniß wie die Natur diesen Organismus an das, besondere Element ihn wirft Klima sie an, in das,, die in, Kreis der Ernährung überhaupt Welt an, [p. 200] 1 -- der er aufgeht ( die auch eine einzelne Pflanzenoder andere Thiergattung seyn kann) anbildet und anschmiegt. Die Unmittelbarkeit der Idee des Lebens ist es, daß der Begriff, ob gleich nur er das an und für sich bestimmte ist, nicht als solches im Leben existirt, sein Daseyn daher sich den vielfachen Bedingungen und Umständen der äussern Natur unterwirst und in den ärmlichsten Formen ers, scheinen kann und die Fruchtbarkeit der Erde, läßt es allenthalben ausschlagen Die Thierwelt. kann darum fast weniger als die andern Sphären der Natur, ein in sich unabhängiges vernünftiges Sys stem von Organisation darstellen, an den Formen, die durch den Begriff bestimmt wären festhalten und, - sie gegen die Unvollkommenheit und Vermischung der Bedingungen vor Vermengung Verkümmerung und, Uebergängen bewahren Diese Schwäche des Be-. griffs der, Thiere nicht im in seiner festen, selbst = ſtändigen Freyheit existirt unterwirft auch die, bestehende Gattung ganz den Veränderungen des äussern allgemeinen Naturlebens, dessen Wechsel es mit durchlebt, und das in seiner einzelnen Existenz als eine fortdauernde Gewaltsamkeit gegen das einzelne Thier ist. Das Thierleben zeigt sich daher überhaupt als ein krankes wie sein Gefühl als ein
 
 The Concept of the animal has the *Concept* itself as its essence, because it is the actuality of the Idea of life. The nature of its *universality* makes it possible that it has a simpler and more developed determinate being, as well as one more or less corresponding to it. From determinate being itself, therefore, the Concept cannot be grasped in its determinacy. The classes in which it appears developed and completely presented in its moments appear as a particular *determinate being* against the rest, and also in those it can have a *bad* determinate being. But whether determinate being is *bad*, to this judgment the Concept is already presupposed. If, as is usual, determinate being was presupposed in order to cognize from it the nature of the animal and its essential determinations, or the essential organs of a class, then it comes [p. 199] on this empirical path to no firm determination, and all particular properties show themselves also in such a way that they can be lacking; e.g., the acephala have been cited as an instance that the human being could live even without a brain. — In *zoology*, as in the natural sciences in general, it has been more a matter of finding secure and simple *marks* for subjective cognition. Only since this end of so-called artificial systems has been lost sight of more in the cognition of animals has a larger view opened up, and among the empirical sciences there is hardly one that in recent times has gained such great expansions — not preeminently in the mass of observations, for no science has lacked that, but in respect of its material having worked itself toward rationality — as zoology, through its auxiliary science, *comparative anatomy*. Partly, in the individual formations, the *habitus*, as a connection determining the construction of all parts, has been made the main matter, so that the great founder of this science, *Cuvier*, could boast of being able to cognize the essential nature of the whole animal from a single bone. Partly the universal type of the animal has been followed through the various formations, however imperfect and disparate they appear, and in the scarcely beginning indication, as well as in the intermixture of organs and functions, their significance has been recognized, and by this very means it has been raised above and out of particularity into its universality. A main aspect of this consideration is the cognition of how nature forms this organism onto, and fits it snugly to, the particular element into which it throws it, to climate, circle of nourishment, in general to the world in [p. 200] which it is absorbed (which can also be a single plant genus or other animal genus). — It is the *immediacy* of the Idea of life that the Concept, although it alone is that which is determined in and for itself, does not as such *exist in life*, its determinate being therefore submits itself to the manifold conditions and circumstances of external nature, and can appear in the most meager forms, and the *fertility* of the earth lets it sprout *everywhere*. The animal world can therefore, almost less than the other spheres of nature, present a rational system of organization independent in itself, adhere to the *forms* that would be determined by the Concept, and preserve them against the imperfection and intermixture of conditions from mingling, stunting and transitions. — This weakness of the Concept, which in the animal does not exist in its firm, independent *freedom*, also subjects the existing genus entirely to the changes of the external universal life of nature, whose alternation it lives through along with it, and which in its singular existence is a continual violence against the single animal. Animal life therefore shows itself in general as a *sick* one; as also its feeling, as an *insecure*, *anxious*, and *unhappy* one.
 
-> Aussersich seyn der Natur aufgehoben. Die Natur
+> ; so, unsicheres, angstvolles, und unglückliches.
 
 §. 293.
 
-> ist hiemit in ihre Wahrheit übergegangen, in die Subjectivität des Begriffs, deren Objectivität selbstdie aufgehobene Unmittelbarkeit der Einzelnheit, die concrete Allgemeinheit ist, der - Begriff welcher den Begriff zu sei nem Daseyn hat, in den Geist.
+> 293 §.. Der einzelne Organismus kann wegen der Aeusserlichkeit seines Daseyns seiner Bestimmung auch nichtentsprechend werden Er befindet sich im Zustande der. Krankheit, insofern eines seiner Systeme oder Organeim Conflict mit einer unorganischen Potenz erregt sich, für sich festsekt und seiner besondern Thätigkeit gegen in die Thätigkeit des Ganzen beharrt, dessen Flüssigkeit und durch alle Momente hiedurch gehender Proceß hiewit gehemmt ist.
 
 The single organism can, because of the externality of its determinate being, also become non-corresponding to its determination. It finds itself in the state of *disease*, insofar as one of its systems or organs, excited into conflict with an inorganic potency, establishes itself for itself and persists in its particular activity against the activity of the whole, whose fluidity and process passing through all the moments is thereby inhibited.
 
 [p. 201]
 
-> C.   Die Philosophie des Geistes.
+> Die eigenthümliche Erscheinung der Krankheit ist
 
 §. 294.
 
-> §. 299.
+> daher, daß die Identität des ganzen organischen Begriffs sich als successiver Verlauf der Lebensbewegung durch seine unterschiedenen Momente die Sensibilität Irri-,, tabilität und Reproduction als Fie ber darstellt welches,, gegen die vereinzelnte Thätigkeit als Verlauf der Totalität ebensosehr der Versuch und Beginn der Hei lung ist. §. 295. Das Mittel erregt den Organismus dazu, die un organische Potenz wegzuschaffen mit welcher die Thätig- -,
 
 The peculiar appearance of disease is therefore that the identity of the whole organic Concept presents itself as *successive* course of the vital motion through its different moments, sensibility, irritability and reproduction, as *fever*, which, against the *isolated* activity, as the course of the totality, is just as much the attempt at and the beginning of *healing*.
 
-> Der Geist hat für uns die Natur zu seiner Voraus sehung, deren Wahrheit er ist. In dieser Wahr heit, seinem Begriffe ist die Natur verschwunden, und er hat sich als die Idee ergeben, deren Object ebenso wohl als das Subject der Begriff ist. Diese Identität ist absolute Negativität, weil in der Natur der Begriff seine vollkommene äusserliche Objectivität hat, diese seine Entäusserung aber aufgehoben, und er in dieser sich identisch mit sich geworden ist. Er ist diese Identität somit nur, als Zurückkommen aus der Natur.  §. 300.
+> keit des einzelnen Organs oder Systems verwickelt und hiedurch vereinzelt wesentlich aber die Erregung
 
 §. 295.
 
-> Das Wesen des Geistes ist deswegen die Freyheit, die Identität der absoluten Negativität des Begriffesmit sich. Er kann von allem Aeusserlichen und von seiner eigenen Seusserlichkeit, seinem Seyn abstrac hiren, und die Negation seiner individuellen Unmittelbarkeit, den unendlichen Schmerz ertragen, d. i. in dieser Negativität identisch für sich seyn. Diese Möglichkeit ist sein selbstisches Ansich seyn, sein einfacher Begriff oder die absolute Allgemeinheit selbst.  §. 301. Diese Allgemeinheit ist aber auch sein Daseyn. Der Begriff ist das Augemeine, als sich besonderno
+> ist,, in der die formelle Thätigkeit des Ganzen fixirt aufzuist, heben, und die Flüssigkeit in das Ganze herzustellen. Dieß bewirkt das Mittel dadurch, daß es ein Reik aber ein noch schwerer zu assimilirender und überwindender ist, gegen welchen der Organismus seine ganze Kraft aufzubieten genöthigt ist. Indem er sich gegen ein Aeusserliches riche so ist aus der mit ihm identisch gewordenen Be-, er tet, schränktheit in welcher er befangen war, getreten. Arzneymittel, müssen überhaupt als ein Unver-
 
 The remedy excites the organism to remove the inorganic potency with which the activity of the single organ or system is entangled and thereby isolated, — but essentially to sublate the excitation in which the formal activity of the *whole* is fixed, and to restore fluidity into the whole. The remedy effects this by being a stimulus, but one still harder to assimilate and to overcome, against which the organism is compelled to summon up its whole force. In that it thus directs itself against something external, it has stepped out of the limitedness that had become identical with it, in which it had been caught up.
 
-Medicines must in general be regarded as something *indigestible*. But the determination of indigestibility is only relative, though not in the indeterminate sense in which it is accustomed to be taken, according to which easily digestible means what weaker constitutions can tolerate. Such easily digestible matter is, for the more vigorous individuality, rather indigestible. The true *relativity*, that of the *Concept*, which has its actuality in life, consists, expressed in the quantitative regard that holds here, — in a *homogeneity* all the higher the *higher and more independent* the opposition is; the highest *qualitative*
+> dauliches betrachtet werden. Aber die Bestimmung nur relativ zu in von Unverdaulichkeit ist, jedoch nicht dem unbestimmten Sinne, in dem sie genommen werden pflegt, nach welchem leicht verdaulich heißt, was schwächere Constitutionen vertragen können. Solches leicht Verdauliche für die kräftigere Indi ist vidualität vielmehr unverdaulich. Die wahrhafte R Le elativität Begriffes -, die des, welche im ben ihre Wirklichkeit hat besteht in quantitativer,,, Rücksicht ausgedrückt, die hier gilt in einer um so höhernHomogeneität als höher und selbst, ständiger die Entgegensehung die höchste qua ist; 1 [p. 202] litative Form derselben im Lebendigen hat sich als gezeigt, in welchem selbst-: das Geschlechtsverhältniß ständige Individualitäten sich als identische sind. Für die niedrigern, zu keiner Differenz in In- - sich gekommenen animalischen Gebilde, ist das dividualitätslose Neutrale, das Wasser, wie für die Pflanze, das Verdauliche; für Kinder ist das Verdauliche theils die ganz homogene animalie sche Lymphe, die Muttermilch, ein schon verdautesoder vielmehr nur Animalität in unmittelbar und überhaupt umgewandeltes und in ihr selbst weiter nicht differentiirtes; theis von differenten Subs stanzen solche, die noch am wenigsten zur Individualität gereift sind. Substanzen dieser Art sind hinge. gen unverdaulich für die erstarkten Naturen. Die sen sind dagegen thierische Substanzen als das individualisirte, oder die vom Lichte zu einem kräftigeren Selbst gezeitigten und deswegen geistig genannten vegetabilischen Säfte ein Verdaulicheres, als, z. B, die vegetabilischen, noch in der bloß neutralen Farbe und dem eigenthümlichen Chemismus näher stehenden - Productionen Durch ihre intensivere Selbſtigkeit. machen jene Substanzen einen um stärkern Gegenso sak; aber eben dadurch sind sie homogenere Reiße. Die Arzneymittel sind insgesammt insofern negati ve Reiße, Gifte, ein Erregendes und zugleich Unverdauliches, als der sich in der Krankheit entfremdete Organismus den Trieb hat, sich gegen ein ihm aufzu und dadurch zum Selbst-..- serliches Fremdes richten, Gefuhl seiner Individualität wieder zu gelangen So ein leerer Formalismus der Brownianismus gewesen ist, wenn er das ganze System der Medicin seyn soll, und die Bestimmung der Krankheiten und der Wirksamkeit der Mittel jene auf Sthenie und -, Asthenie und etwa noch auf directe und indirecte Ast-, henie diese auf Stärken und Schwächen, bey- [p. 203] und Wasserstoff, oder magnetisches, elektrisches und chemischesMoment, und dergleichen ihn naturphilos sophisch Formeln beschränkt, so hat machen sollende er doch wohl die zwey wichtigen Folgen gehabt, erst. lich,daß durch ihn die Ansicht des bloß Particu lären und Specisischen sowohl der Krankheiten als der Mittel erweitert und in demselben vielmehr das Allgemeine als das Wesentliche erkannt worden ist zweytens sowohl durch seinen Gegensak im er;, daß gegen die vorherige Ganzen mehr asthenische und asthenisirende Weise als auch durch seine, eignen späterhin erfolgten Uebergänge gezeigt hat,, daß der Organismus gegen die entgegengesekteste Behandlungsart nicht auf eine entgegengesekte so son-, dern häufig auf eine wenigstens den Endresultaten in gleiche und daher allgemeine Weise reagirt und,, seine einfache Identität mit sich als sein wahrs haftes Wesen gegen eine particulare Befangenheit einzelner seiner Systeme specifischen Reißen bezin, weißt..§ 296. 1
 
-[p. 202]
+Medicines must in general be regarded as something *indigestible*. But the determination of indigestibility is only relative, though not in the indeterminate sense in which it is accustomed to be taken, according to which easily digestible means what weaker constitutions can tolerate. Such easily digestible matter is, for the more vigorous individuality, rather indigestible. The true *relativity*, that of the *Concept*, which has its actuality in life, consists, expressed in the quantitative regard that holds here, — in a *homogeneity* all the higher the *higher and more independent* the opposition is; the highest *qualitative* [p. 202] form of it in the living being has shown itself to be the relationship of the sexes, in which independent individualities are as identical. — For the lower animal formations, which have come to no *difference* within themselves, the *neutral* that is without individuality, water, is the digestible, as it is for the plant; — for children the digestible is partly the wholly *homogeneous* animal lymph, mother’s milk, something already digested, or rather only immediately and in general transformed into animality and not further differentiated within it itself; — partly, of different substances, those that have matured least toward individuality. Substances of this kind are, on the other hand, indigestible for natures that have grown strong. For these, by contrast, animal substances, as the individualized, or the vegetable juices ripened by light to a more vigorous self and called *spiritual* for that reason, are something more digestible than, e.g., the vegetable products, which are still in the merely neutral color and stand closer to the peculiar chemism. Through their more intensive selfhood those substances make an opposition all the stronger; but precisely thereby they are more homogeneous stimuli. — The medicines are, all of them, *negative* stimuli, poisons, something exciting and at the same time indigestible, insofar as the organism that has become estranged from itself in disease has the drive to direct itself against something foreign external to it, and thereby to attain once more the self-feeling of its individuality. — However empty a formalism *Brownianism* has been, if it is supposed to be the whole system of medicine, and restricts the determination of diseases and of the efficacy of remedies, the former to sthenia and asthenia and perhaps also to direct and indirect asthenia, the latter to strengthenings and weakenings, — both [p. 203] even to carbon and nitrogen and also with oxygen and hydrogen, or to a magnetic, electrical and chemical moment, and suchlike formulas that are supposed to make it natural-philosophical, it has nevertheless surely had the two important consequences: first, that through it the view of the merely particular and specific, of diseases as well as of remedies, has been broadened, and in it the *universal* has rather been cognized as the essential; second, that it has shown, both through its opposition to the previous, on the whole more *asthenic and asthenizing* manner, and through its own later transitions, that the organism does not react to the most opposed kind of treatment in so opposed a way, but frequently in a way that is at least the same in the final results, and therefore in a *general* way, and proves its *simple identity* with itself as its true essence against a particular entanglement of individual ones of its systems in specific stimuli.
 
-> und Identität in dieser Bestimmtheit mit sich; die Natur des Geistes ist daher die Manifestation. Er ist nicht eine Bestimmtheit in sich gegen seine Neusserlichkeit, so daß er nicht Etwas offenbart, sondern seine Bestimmte. heit und Inhalt ist dieses Offenbaren selbst. Seine Möglichkeit ist daher unmittelbar unendliche, absolute Wirklichkeit. §. 302.  Das Offenbaren ist das Seßen seiner Objectivität, welches in der abstracten Idee als unmittelbarer Uebergang Werden der Natur ist. Aber das Offenbaren als des Geistes, der frey ist, ist Seken der Natur als seiner Welt; ein Sehen, das als Reflexion zugleich Voraussehen der Welt als selbstständiger Natur ist. Aber das wahrhafte Offenbaren das Offenbaren im Begriffe, ist Erschaffen derselben als seines Seyns, in welchem er die Positivität und Wahrheit seiner Freyheit hat. Das Absolute ist der Geist; - dieß ist dieß die hbchste Definition des Absoluten. Diese Definition zu finden und ihren Inhalt zu begreifen, dieß kann man sagen, war die absolute Tendenz aller Bildung und Philosophie, auf diesen Punkt hat sich alle Religion und Wissenschaft gedrängt -; aus ihm allein ist die Weltgeschichte zu begreifen. Aber das Wesen des Geistes ist der Begriff. Das Wort und die Vorstellung des Geistes ist früh gefunden, und der Inhalt der christlichen Religion Dist, Gott als Geist zu offenbaren. Diess was hier der Vorstellung gegeben, und was an sich das Wesen ist, in seinem eigenen Elemente, dem Begriffe, zu fassen, ist die Aufgabe der Philosophie, welche so lange nicht wahrhaft und immanent gelöst ist, als der Begriff und die Freyheit nicht ihr Gegenstand und ihre Seele ist. [p. 203] §. 303. ist Begriff er ist Diese an Idee der Allgemeines des Geistes er ist; oder dieß, sich insofern, als er für. Aber schlechthin Begriff nur Geist ist und für sich ist er oder als Einzelnheit nur der er sich,; Begriff sich wesentlich Voraussetzung als besondert seinen zur hat, und sich ist darauf als, auf Seyn seine Unmittelbarkeit Geistes bezieht. Diese die Anfang Natur ist als des, welches daher sein. §. 304. Dieser Anfang ist das erste Moment seines concre ten Begriffes, der in seiner Totalität a) den subjecti ven Geist in sich fast; b) Als objectiver Geist realisirt er diesen Begriff, und c) als absoluter Geist ist er sich die Einheit seines Begriffes und seiner Objec tivität. § 305.. Die zwey ersten Theile der Geisteslehre befassen den endlichen Geist. Der Geist Bedeutung ist die unendliche
-
-form of it in the living being has shown itself to be the relationship of the sexes, in which independent individualities are as identical. — For the lower animal formations, which have come to no *difference* within themselves, the *neutral* that is without individuality, water, is the digestible, as it is for the plant; — for children the digestible is partly the wholly *homogeneous* animal lymph, mother’s milk, something already digested, or rather only immediately and in general transformed into animality and not further differentiated within it itself; — partly, of different substances, those that have matured least toward individuality. Substances of this kind are, on the other hand, indigestible for natures that have grown strong. For these, by contrast, animal substances, as the individualized, or the vegetable juices ripened by light to a more vigorous self and called *spiritual* for that reason, are something more digestible than, e.g., the vegetable products, which are still in the merely neutral color and stand closer to the peculiar chemism. Through their more intensive selfhood those substances make an opposition all the stronger; but precisely thereby they are more homogeneous stimuli. — The medicines are, all of them, *negative* stimuli, poisons, something exciting and at the same time indigestible, insofar as the organism that has become estranged from itself in disease has the drive to direct itself against something foreign external to it, and thereby to attain once more the self-feeling of its individuality. — However empty a formalism *Brownianism* has been, if it is supposed to be the whole system of medicine, and restricts the determination of diseases and of the efficacy of remedies, the former to sthenia and asthenia and perhaps also to direct and indirect asthenia, the latter to strengthenings and weakenings, — both [p. 203] even to carbon and nitrogen and also with oxygen and hydrogen, or to a magnetic, electrical and chemical moment, and suchlike formulas that are supposed to make it natural-philosophical, it has nevertheless surely had the two important consequences: first, that through it the view of the merely particular and specific, of diseases as well as of remedies, has been broadened, and in it the *universal* has rather been cognized as the essential; second, that it has shown, both through its opposition to the previous, on the whole more *asthenic and asthenizing* manner, and through its own later transitions, that the organism does not react to the most opposed kind of treatment in so opposed a way, but frequently in a way that is at least the same in the final results, and therefore in a *general* way, and proves its *simple identity* with itself as its true essence against a particular entanglement of individual ones of its systems in specific stimuli.
-
-> gemessenheit des sie Begriffs und der Realität mit der ist Be- -
+> Die Ueberwindung aber und das Vorübergehen einzelner Unangemessenheit des thierischen Individuums ge-
 
 §. 296.
 
-> ein stimmung Schein,, daß den er ein sich Scheinen selbst als innerhalb eine Schranke seiner, sekt, um durch Aufhehen derselben für sich die Freyheit als sein Wesen zu haben und zu wissen. Die verschiedenen Stussen der Thätigkeit des Geistes sind Stuffen seiner Befreyung, in deren absoluten Wahrheit das Vorfinden seiner Welt als einer vorausgesekten, das Erzeu =) gen derselben als eines von ihm gesekten, und die Be freyung von ihr eins und dasselbe sind. Die Bestimmung der Endlichkeit wird vornemlich vom Verstande in der Beziehung auf den Geist und die Vernunft firirt; es gilt dabey nicht
+> gen seinen Begriffs hebt die allgemeine Unangemessenheit nicht auf, welche es dadurch hat, daß seine Idee die u nmittelbare ist, innerhalb der oder daß das Thier Natur steht,Subjectivität an sich der Begriff seine aber nicht für sich selbst ist und nur als unmittelbare, Einzelnheit existirt. Jene innere Allgemeinheit ist daher gegen diese Wirklichkeit eine negative Macht, von welcher es Gewalt leidet und untergeht, weil sein Daseyn nicht selbst dieselbe in sich hat.
 
 The overcoming, however, and the passing off of individual inadequacies of the animal individual to its Concept does not sublate the universal inadequacy which it has thereby, that its Idea is the *immediate* one, or that the animal stands *within nature*, its subjectivity *in itself* the Concept but not *for itself*, and exists only as immediate singularity. That inner universality is therefore, against this actuality, a *negative* power, by which it suffers violence and perishes, because its determinate being does not itself have the same within itself.
 
 [p. 204]
 
-> für eine moralische und religiöse Angelegenheit, die
+> Dieß negative Allgemeine als das Abstracte ist
 
 §. 297.
 
-> sen Standpunkt der Bescheidenheit anzuerkennen und als einen lekten festzuhalten, so wie dagegen für eine Vermessenheit des Denkens, ja für eine Verrücktheit desselben, über ihn hinausgehen zu wollen. Es ist aber wohl vielmehr die schlechteste der Lugenden, eine solche Bescheidenheit des Denkens, welche das Endliche zu einem Absoluten macht, und die ungründlichste der Erkenntnisse, im Unwahren stehen zu bleiben. Die Bestimmung der Endlichkeit ist nicht nur hier und da ( vergl. §. 15. 34. 45 ff. u. f. f.) beleuchtet und erörtert worden, sondern die Logik ist für die einfachen Ges dankenformen der Endlichkeit, wie die übrige Philo-
+> eine äussere Wirklichkeit, die gegen das Thier mechanische Gewalt ausübt und zerstöhrt es. Als seine eigene concrete Allgemeinheit die ist sie Gattung, in deren Proces theils, der Begattung, das Lebendige seine differente Einzelnheit versenkt; theils aber unmittel bar seine Unangemessenheit mit derselben die seine ure, sprüngliche Krankheit und der angebohrne Keim des Todes ist, aufhebt, indem es seine Einzelnheit demselben einbildet, aber weil diese unmittelbar ist, hiemit nur eine abstracte Objectivität erreicht, die Thätigkeit abstumpft, verknöchert, und sich so aus sich selbsttödtet. §. 298. Aber die Subjectivität des Lebendigen eben ist so wesentlichan sich mit dem concreten Allgemeinen der,
 
 This negative universal, as the *abstract*, is an external actuality, which exercises mechanical violence against the animal and destroys it. As its own *concrete* universality it is the *genus*, in whose *process* the living being, on the one hand, in *copulation*, sinks its different singularity; but on the other hand *immediately* sublates its inadequacy with the same, which is its *original disease* and the innate *germ* of death, in that it forms its singularity into the same, but because this is immediate, thereby attains only an *abstract objectivity*, dulls the activity, ossifies, and so kills itself out of itself.
 
-> sophie für die concreten Formen derselben nur dieß
+> Gattung identisch Ihre Identität mit dieser
 
 §. 298.
 
-> Aufzeigen, daß das Uebergehen Endliche nicht ist, sondern schlechthin nur ein ist. Am wenige sten kann darum von der Vernunft und gibt vom Geiste gesagt werden -, daß sie endlich sind. Es endliche Geister, ist der Ausdruck der Vorstellung,, die bey der Unwahrheit der unmittelbaren - Erscheinung Seyn des Gemeinten, stehen bleibt, einem, das der Allgemeinheit abstracte Verstand durch die Form der abstracten ist oder wenig Identität fixirt. Aber der endliche Geist so, Seyn als irgend etwas anderes Endliches weniger, und da als das selbst, Vergehen und unendlich, anderes Endliche sein Begriff durch Ewige ein Anderes, es der Geist aber, Vernichtigen der und Nichtigen das, selbst ist, der dieses vollbringt des -, das Vereiteln der Eitelkeit dagegen. Die diese erwähnte Eitelkeit Bescheidenheit selbst, sondern die ist höhere Eitelkeit nicht nur,
+> . daher ist nur das Aufheben des formellen Gegensaßes, der Unmittelbarkeit und der Allgemeinheit der Individualität. Indem diese Subjectivität ferner in der Idee des Lebens der Begriff ist, so ist sie an sich das absolute In sich seyn der Wirklichkeit, und durch das aufgezeigte Aufheben ihrer Unmittelbarkeit, ist sie mit sich selbst absolut zusammengegangen und das lekte Aussersich seyn der Natur aufgehoben. Die Natur ist hiemit in ihre Wahrheit übergegangen, in die Subjectivität des Begriffs, deren Objectivität selbstdie auf- - gehobene Unmittelbarkeit der Einzelnheit die concrete, Allgemeinheit der Begriff welcher den Begriff ist, sei zu nem Daseyn hat, in den Geist.
 
 But the subjectivity of the living being is just as essentially *in itself* identical with the concrete universal, the genus. Its identity with this is therefore only the sublating of the *formal opposition*, of the *immediacy* and of the *universality* of individuality. Since this subjectivity, further, is in the Idea of life the Concept, it is in itself the absolute *being-within-itself* of *actuality*, and through the demonstrated sublating of its *immediacy* it has absolutely gone together with itself and the last *being-outside-itself* of nature is sublated. Nature has thereby passed over into its truth, into the subjectivity of the Concept, whose *objectivity* itself is the sublated immediacy of singularity, the concrete universality, the Concept which has the Concept as its *determinate being*, — into *spirit*.
 
 [p. 205]
 
-> Der subjective. Geist.
+> Der Geist hat für uns Natur die zu seiner Voraus
 
 C.
 
 ### The Philosophy of Spirit.
 
-> §. 307. Subjectiv kann der Geist genannt werden, insofern er in seinem Begriffe ist. Da nun der Begriff die Reflexion seiner Algemeinheit aus seiner Besonderung in sich ist, so ist der subjective - Geist a) der Unmittelbare, der Naturgeist, der Gegenstand der gewöhnlich so genannten Athropologie oder die Seele; b) der Geist als identische Reflexion in sich und in Anderes, Verhält niß oder Besonderung; - Bewußtseyn, der Ges genstand der Phänomenologie des Geistes; c) der -
+> sehung, deren Wahrheit er ist
 
 §. 299.
 
-> der für Gegenstand sich seyende der Geist sonst sogenannten, oder er als Psychologie.- Subject;
+> . In dieser Wahr heit, seinem Begriffe ist die Natur verschwunden, und er hat sich als die Idee ergeben, deren Object ebenso wohl als das Subject der Begriff Diese Iden ist. = tität absolute Negativität weil ist der Natur, in der Begriff seine vollkommene äusserliche Objectivität hat diese seine Entäusserung aber aufgehoben und, er in, dieser sich identisch mit sich geworden ist. Er ist diese Identität somit nur, als Zurückkommen aus der Natur.
 
 Spirit has *for us nature* as its *presupposition*, of which it is the *truth*. In this truth, its Concept, nature has disappeared, and spirit has resulted as the Idea whose *Object* as well as whose *subject is the Concept*. This identity is *absolute negativity*, because in nature the Concept has its complete external objectivity, but this its externalization is sublated, and in it the Concept has become identical with itself. Spirit is this identity, therefore, only as a return out of nature.
 
-> In der Seele erwacht das Bewußtseyn; das Bewußtseyn seht sich als Vernunft; und die subjective Vernunft befreyt sich durch ihre Thätigkeit zur Objectie vität. A.  Die Seele.  §. 308.
+> §. 300.
 
 §. 300.
 
-> Der Geist ist als die Wahrheit der Natur, welche
+> Das Wesen des Geistes deswegen die Frey istheit die Identität der absoluten Negativität des Be-, griffesmit sich Er kann von allem Aeusserlichen und. von seiner eigenen Seusserlichkeit, seinem Seyn abstrac hiren, und die Negation seiner individuellen Unmittelbarkeit, den unendlichen Schmerz ertragen, d.i. in dieser Negativität identisch für sich seyn. Diese Möglichkeit ist Ansich seyn sein selbstisches, sein einfa-
 
 The *essence* of spirit is therefore *freedom*, the identity of the absolute negativity of the Concept with itself. It *can* abstract from everything external and from its own externality, its *being*, and can endure the negation of its individual immediacy, infinite *pain*, i.e., be identical for itself in this negativity. This possibility is its self-like *being-in-itself*, its simple Concept, or absolute universality itself.
 
-> sich in ihm übergesekt und sien aufgehoben hat, geworden. Aber im Begriff ist das wicht 14 nur Reflexion,
+> cher Begriff oder die absolute Allgemeinheit selbst.
 
 §. 301.
 
-But this universality is also its *determinate being*. The Concept is the universal as *particularizing itself*
+> §. 301. Diese Allgemeinheit ist aber auch sein Daseyn. Der Begriff ist das Augemeine, als sich besonderno [p. 206] des Geistes ist daher die Manifestation. Er ist nicht eine Bestimmtheit in sich gegen seine Neusserlichkeit, so daß er nicht Etwas offenbart, sondern seine Bestimmte. heit und Inhalt ist dieses Offenbaren selbst. Seine Möglichkeit ist daher unmittelbar unendliche, absolute Wirklichkeit. §. 302. Das Offenbaren ist das Seßen seiner Objectivität, welches in der abstracten Idee als unmittelbarer Uebergang Werden der Natur ist
 
-[p. 206]
+But this universality is also its *determinate being*. The Concept is the universal as *particularizing itself* [p. 206] and identity with itself in this determinacy; the nature of spirit is therefore *manifestation*. It is not a determinacy *within itself* against its externality, so that it does not reveal *Something*, but its determinacy and content is this revealing itself. Its possibility is therefore immediately infinite, absolute *actuality*.
 
-> in = Anderes, welche Reflexionin =sich ist, sondern freye es Urtheil; der gewordene Geist hat daher den Sinn, daß die Natur an ihr selbst als das Unwahre sich aufhebt, und der Geist sich als diese nicht mehr in leiblicher Einzelnheit aussersich seyende, sondern allgemeine und in ihrer Concretion einfache Unmittelbarkeit voraussekt, in welcher er Seele ist.
-
-and identity with itself in this determinacy; the nature of spirit is therefore *manifestation*. It is not a determinacy *within itself* against its externality, so that it does not reveal *Something*, but its determinacy and content is this revealing itself. Its possibility is therefore immediately infinite, absolute *actuality*.
-
-> 1 1 $. 309.
+> . Aber das Offenba-
 
 §. 302.
 
-> Die Seele ist nicht nur für sich immateriell, sondern die allgemeine Immaterialität der Natur, und deren einfaches ideelles Leben; die absolute Substanz, als unmittelbare Identität der in sich seyenden Subjectivität und der Leiblichkeit, welche Identität als allgemeines Wesen die absolute Grundlage seiner Besonderung und Vereinzelung bleibt, aber in dieser abstracten Bestimmung nur der Schlaf des Geistes ist. Die Frage um die Immaterialität der Seele 1 kann nur dann noch ein Interesse haben, wenn die
+> ren als des Geistes, der frey ist, ist Seken der Natur als seiner Welt; ein Sehen, das als Reflexion zugleich Voraussehen der Welt als selbstständiger Natur.ist Aber das wahrhafte Offenbaren das Offenbaren im Begriffe Erschaffen derselben als seines Seyns, ist, in welchem er die Positivität und Wahrheit seiner Freyheit hat -. Das Absolute ist der Geist; dieß ist dieß die hbchste Definition des Absoluten. Diese De-
 
 The *revealing* is the positing of its objectivity, which in the *abstract* Idea, as immediate transition, is *becoming* of nature. But the revealing as that of spirit, which is *free*, is the *positing* of nature as *its* world; a positing that, as reflection, is at the same time the *presupposing* of the world as independent nature. But the true revealing, the revealing in the Concept, is the creating of it as its being, in which it has the *positivity* and *truth* of its freedom.
 
-> Materie als ein Wahres einerseits, und der Geist als ein Ding andererseits vorgestellt wird. Segar die Physiker sind aber in neuern Zeiten auf imponderable Stoffe als Wärme, Licht u. s. f gekommen, wozu sie leicht auch Raum und Zeit rechnen könnten. 1 Diese Imponderabilien haben jedoch noch sonst ein sinnliches Daseyn, ein Aussersichseyn; der Lebensmaterie aber, die man auch darunter gezählt finden kann, fehlt nicht nur die Schwere, sondern auch jedes andere Daseyn, wornach sie sich noch zum M ateriellen rechnen liesse. In der That ist in der Idee des Lebens schon an sich das Aussersichseyn der Natur aufgehoben und der Begriff seine Substanz; aber im Geiste, dem Begriffe, dessen Existenz nicht die Einzelnheit als die unmittelbare, sondern als absolute Negativitat, Freyheit ist, ist dieß Aussersichseyn ganz zur subject Fealität des Begriffs, zur 1
+> finition zu finden und ihren Inhalt zu begreifen, dieß kann man sagen war die absolute Tendenz al-, - ler Bildung und Philosophie auf diesen Punkt hat, sich alle Religion und Wissenschaft gedrängt aus; ihm allein ist die Weltgeschichte zu begreifen. Aber das Wesen des Geistes ist der Begriff. Das Wort und die Vorstellung des Geistes früh ist gefunden, und der Inhalt der christlichen Religion Dist, Gott als Geist offenbaren zu Diess was hier. der Vorstellung gegeben und was an sich das, Wesen in eigenen Bezu ist seinem Elemente, dem griffe,, fassen, ist die Aufgabe der Philosophie, welche so lange nicht wahrhaft und immanent gelöst ist, als der Begriff und die Freyheit nicht ihr Gegenstand und ihre Seele ist.
 
 The *absolute* is *spirit*; this is the highest definition of the absolute. — To find this definition and to comprehend its content, this one may say, was the absolute tendency of all culture and philosophy, to this point all religion and science have pressed; from it alone is world history to be comprehended. — But the essence of *spirit* is the *Concept*. The word and the *representation* of spirit was found early, and the content of the Christian religion is to reveal God as spirit. To grasp this, what is here *given* to representation, and what is *in itself* the essence, in its own element, the Concept, is the task of philosophy, which is not truly and immanently solved as long as the Concept and freedom are not its object and its soul.
 
 [p. 207]
 
-> hängende Allgemeinheit versüchtigt Frage ist. Eine Gemeinschaft damit zusammen-
+> Diese Idee ist der Begriff des Geistes; oder er, an
 
 §. 303.
 
-> der Seele andere und des Körpers nach der. Sie war als Factum angenommen, und es handelte sich daher allein darum, wie sie zu begreiffen sey? Für die gewöhnliche Antwort kann angesehen werden, daß sie ein unbegreifliches Geheimnis sey. Denn in der That, wenn beyde als absolut Selbstständige gegen ein ander vorausgeseket werden, so sind sie einander eben so undurchdringlich, als jede Materie gegen eis
+> ist dieß sich, als Allgemeines. Aber er ist schlechthin nur Geist insofern er für sich oder als Einzelnheit der Begriff ist; und für sich ist er wesentlich nur als er sich besondert, seinen Begriff zur Voraussetzung hat, und sich darauf als auf seine Unmittelbarkeit bezieht. Diese ist die Natur als Seyn des Geistes,, welches daher sein Anfang ist.
 
 This Idea is the *Concept* of spirit; or it is this *in itself*, as a universal. But it is absolutely only spirit insofar as it is, *for itself* or as singularity, the *Concept*; and *for itself* it is essentially only insofar as it particularizes itself, has its *Concept* as presupposition, and relates itself to this as to its immediacy. This is nature, as the *being of spirit*, which is therefore its *beginning*.
 
-> ne andere undurchdringlich und nur in ihrem gegen
+> §. 304.
 
 §. 304.
 
-> men seitigen wird Nichtseyn Aber, für ihren gleichbedeutend Poren, befindlich mit dieser angenom Ant- =. angesehen, Philosophen wort kann die gegeben nicht werden welche alle niß zur Frage gekommen haben ist, Descartes seitdem dieses Malebran Verhält = = che Spinoza., Gott diese, Beziehung, angegeben Leibnik,, haben und sämmtlich zwar in dem Sinne als,
+> Dieser Anfang ist das erste Moment seines concre ten Begriffes, der in seiner Totalität a) den subjecti ven Geist in sich fast; b) Als objectiver Geist realisirt er diesen Begriff und als absoluter Geist,)c ist er sich die Einheit seines Begriffes und seiner Objec
 
 This beginning is the first moment of its concrete Concept, which in its totality comprehends within itself a) *subjective spirit*; b) as *objective spirit* it realizes this Concept, and c) as *absolute spirit* it is for itself the unity of its Concept and its *Objectivity*.
 
-> daß die endliche Seele und die Materie keine Wahr-
+> tivität. §. 305.
 
 §. 305.
 
-> 1 heit haben, so daß Gott nicht bloß ein anderes Wort für jene Unbegreiflichkeit, sondernvielmehr die wahrhafte Identität derselben ist. Diese Identis tät ist jedoch hier noch nicht unmittelbar als Gott zu fassen, denn sie hat diese Bestimmung noch nicht, sondern nur erst die des Naturgeistes, oder der Seele selbst als allgemeiner Seele, in welcher die Materie in ihrer Wahrheit, als ein einfacher Gedanke oder als Allgemeines ist. Diese Seele muß jedoch selbst nicht wieder als Weltseele etwa fixirt werden, denn sie ist nur die allgemeine Substanz, welche nur wirkliche Wahrheit als Einzeln heit hat. §. 310.
+> Die zwey ersten Theile der Geisteslehre befassen den endlichen Geist. Der Geist ist die unendliche und die Endlichkeit hat ihre Bedeutung der Unan- - Idee, gemessenheit des Begriffs und der Realität mit der Bestimmung, daß sie ein Scheinen innerhalb seiner ist, ein Schein, den als eine Schranke sekt er sich selbst, um durch Aufhehen derselben für sich die Freyheit als sein Wesen zu haben und zu wissen. Die verschiedenen Stussen der Thätigkeit Geistes sind Stuffen seiner des Befreyung, in deren absoluten Wahrheit das Vorfinden seiner Welt als einer vorausgesekten, das Erzeu =) gen derselben als eines von ihm gesekten, und die Be
 
 The first two parts of the *doctrine of spirit* comprehend *finite* spirit. Spirit is the infinite Idea, and finitude has the significance of the inadequacy of the Concept and of reality, with the determination that it is a shining within it, — a semblance that it posits for itself as a limitation, in order, through the sublation of it, to have and to know freedom *for itself* as *its* essence. The various stages of the activity of spirit are stages of its liberation, in whose absolute truth the *finding* of its world as one presupposed, the *generating* of it as one posited by it, and the liberation from it are one and the same.
 
-> ist seyn in Der Geist zuerst dieses unmittelbare in Naturbe Versenkte die Natur b, a) die sie Seele ihrer in. stimmtheit;) tritt aber als besonderes den [p. 208] Gegensak gegen diese ihre Bewußtlosigkeit; c) ist sie in derselben als ihrer Leiblichkeit wirklich.. a 1 Die Naturbestimmtheit der Seele. §. 311.  Der Geist als abstracte Naturseeleist das einfache ſiderische und terrestrische Leben; der Nus der Alten, der einfache bewußtlose Gedanke, der z) als dieß allgemeine Wesen an, die innre Idee ist und seine 4 Wirklichkeit der hinter ihm liegenden Neusser, lichkeit der Natur hätte. Aber ist wie Daseyn er als Seele die unmittelbare sonderung Substanz ist, Seyns sein die Bes ihres natürlichen, eine unmittelbare Naturbestimmtheit an, welche ihre vorausgesekte Wirklichkeit der individuellen Erde hat. 9.312. Das allgemeine planetarische Leben des Naturgei ftes hat den Unterschied der Erde als unmittelbare Verschiedenheit an ihm; er zerfällt daher in die beson dern Naturgeister, die im Ganzen die Natur der geographischen Welttheile ausdrücken, und die Racenverschiedenheit ausmachen. Der Gegensak der terrestrischen Polarität, durch welchen das Land gegen Norden zusammengedrängter ist und das Uebergewicht gegen das Meer hat, gegen die südliche Hemisphäre aber getrennt in Zuſpikun. gen auseinander läuft, bringt in den Unterschied der Welttheile zugleich eine Modification, die Stevis ranus ( Biolog. II Th.) in Ansehung der Pflanzen und Thiere aufgezeigt hat. §. 313.  Dieser Unterschied geht in die Zufälligkeit der Nas tur und in Particularitäten hinaus, die man Localgei =
+> freyung von ihr eins und dasselbe sind. Die Bestimmung der Endlichkeit wird vornemlich vom Verstande der Beziehung auf den in Geist und die Vernunft firirt gilt dabey nicht; es ' nur für eine Sache des Verstandes, sondern auch [p. 208] F 208 für eine moralische und religiöse Angelegenheit, die sen Standpunkt der Bescheidenheit anzuerkennen und als einen lekten festzuhalten, so wie dagegen für eine Vermessenheit des Denkens, ja für eine Verrücktheit desselben, über ihn hinausgehen zu wollen. Es aber wohl vielmehr die schlechteste ist der Lugenden eine solche Bescheidenheit des, Denkens welche das Endliche zu einem Absolu, =, ten macht, und die ungründlichste der Erkenntnisse im Unwahren stehen bleiben zu Die Bestimmung. der Endlichkeit nicht nur hier und da.u ist vergl (..§ 15. 34. 45 ff. f. f). beleuchtet und erörtert worden, sondern die Logik ist für die einfachen Ges dankenformen der Endlichkeit, wie die übrige Philosophie für die concreten Formen derselben nur dieß Aufzeigen, daß das Endliche nicht ist, sondern schlechthin nur ein Uebergehen Am wenige.iststen kann darum von der Vernunft und vom Geiste gesagt werden, daß Es gibt endlisie endlich sind. Vorstellungche Geister ist der Ausdruck der, die, bey der Unwahrheit der unmittelbaren Erscheinung, des Gemeinten, stehen bleibt, einem Seyn, Verstand durch die Form der abstrac das der abstracteten Allgemeinheit oder Identität fixirt Aber der. endliche Geist ist so wenig, als irgend etwas anderesEndliches und als das Seyn selbst, und un-, endlich weniger anderes Endliche sein Vergehen, dadurch ein Anderes der Geist aber, der Begriff und, das Ewige, selbst es ist, der dieses Vernichtigen des Nichtigen, das Vereiteln der Eitelkeit vollbringt. Die erwähnte Bescheidenheit ist dagegen nicht nur dieseEitelkeit selbst sondern die höhere Eitelkeit,, das Festhalten der Eitelkeit gegen das Wahre Sie. seiner Entwicklung in in wird sich am Geiste selbst, als senie höchste Vertiefung sich und innerster Wendepunkt, als das Böse ergeben.
 
 The determination of *finitude* is fixed chiefly by the *understanding* in relation to *spirit* and *reason*; it counts here not only as a matter of the understanding, but also [p. 208] as a moral and religious concern, to acknowledge this *standpoint* of modesty and to hold it fast as a final one, just as, on the other hand, it counts as a presumption of thinking, indeed as a madness of it, to want to go beyond it. — But it is, surely, rather the worst of the virtues, such a *modesty* of thinking as makes the *finite* into an *absolute*, and the most superficial of cognitions, to remain standing in the *untrue*. The determination of *finitude* has been illuminated and discussed not only here and there (cf. §§ 15, 34, 45 ff. etc.), but logic is, for the simple forms of thought of finitude, as the rest of philosophy is for the concrete forms of the same, only this showing that the finite *is* not, but is absolutely only a *passing-over*. Least of all, therefore, can it be said of reason and of spirit that they *are* finite. There *are* finite spirits — is the expression of the representation that remains standing at the untruth of immediate appearance, of what is *meant*, — at a *being* that the abstract understanding fixes through the form of abstract universality or identity. But finite spirit is as little as anything else finite, and as *being* itself, and infinitely less so, since another finite thing has its passing-away through an other, whereas it is spirit, the Concept and the eternal, itself that accomplishes this nullifying of the nugatory, this thwarting of vanity. — The modesty mentioned is, on the contrary, not only this vanity itself, but the higher vanity, the holding fast to vanity against the true. It will show itself in spirit itself in its development, as its highest deepening into itself and innermost turning point, as *evil*.
 
 [p. 209]
 
-> einzelt Die sich Seele zum als individuellen überhaupt an sich Subject der Begriff., Diese ver-
+> §. 307. Subjectiv kann der Geist genannt werden, insofern er
 
 #### Part One.
 
-> Naturbestimmtheit Subjectivität kommt aber in hier Betracht nur als; Vereinzelung sie ist als der Moder
+> in seinem Begriffe.ist Da nun der Begriff die Re- -, in
 
 ### Subjective Spirit.
 
-> dus siognomie des verschiedenen und anderer Temperaments Dispositionen, von Charakters Familien, Phyoder
+> flexion seiner Algemeinheit aus seiner Besonderung
 
 §. 307.
 
-> den singulären Individuen. §. 315. B) Das unmittelbare Urtheilist das Erwachen der einzelnen Seele, welches ihrem bewußtlosen Naturleben zunächst als Naturbestimmtheit, und Zustand einem Zustande, dem Schlafe, gegenübertritt. Dieser Uebergang der Individualität hängt mit dem allgemeinen Körper der Individualität, der Erde, zusammen..  §. 316. Das Erwachen ist nicht für uns oder äusserlich vom Schlafe unterschieden; sondern das Erwachen ist selbst das Urtheil der individuellen Seele, und somit das Unterscheiden ihrer selbst von ihrer ununterschiedenen Auge-
+> sich ist, ist der subjective Geist so der Unmittelbare a) der Naturgeist der Gegenstand der gewöhnlich, so Athropologie oder der in die genannten Seele b Geist -;) als identische Reflexion in sich und Anderes, Verhältniß oder Besonderung; Bewußtseyn, der Ges genstand der Phänomenologie des Geistes; c) der für sich seyende Geist oder, als Subject er; der Gegenstand der sonst sogenannten Psychologie.- In der Seele erwacht das Bewußtseyn; das Bewußtseyn seht sich als Vernunft und die subjective; Vernunft befreyt sich durch ihre Thätigkeit zur Objectie
 
 Spirit can be called subjective insofar as it is in its *Concept*. Since now the Concept is the reflection of its universality out of its particularization into itself, subjective spirit is a) the immediate, the *natural spirit*, — the object of what is commonly so called, *anthropology*, or the *soul*; b) spirit as identical reflection in itself and in an other, *relationship* or particularization; — *consciousness*, the object of the *phenomenology* of spirit; c) *the spirit that is for itself*, or it as *subject*; — the object of what is otherwise called *psychology*. — In the *soul awakens* the *consciousness*; consciousness *posits* itself as *reason*; and subjective reason liberates itself through its activity to objectivity.
 
-> meinheit. In vernünftige das Wachseyn Thätigkeit fällt überhaupt alleselbstbe-
+> vität. A.
 
 A.
 
-> Ruhe Schlaf von ist Bekräftigung derselben, ( die dieser lebendige Thätigkeit Mangel Thätigkeit nicht als als Kraft eine
+> Die Seele.
 
 #### The Soul.
 
-> rung betrachtet) sondern erschlafft als Rükkehr vielmehr aus in dem der Welt der ihrer Bestimmt Neusse
+> §. 308. Der Geist ist als die Wahrheit der Natur, welche
 
 §. 308.
 
-> heiten, der Zerstreuung und aus dem Festwerden in den Einzelnheiten, in das allgemeine Wesen der Subjectivität, welche die absolute Macht ist. [p. 210] §. 317.  Insofern aber das ganze Seyn des Indivi duums ein Erwachtseyn ist, ist die Besonderung dessel 1 ben der natürliche Verlauf der Lebensalter. §. 318. y
+> in ihm übergesekt und aufgehoben hat geworden sien sich,. Aber im Begriff ist das wicht nur Reflexion, 14 [p. 210] es Urtheil der gewordene Geist hat daher den Sinn,,; daß die Natur an ihr selbst als das Unwahre sich aufhebt und der Geist sich als diese nicht mehr in leiblicher Einzelnheit aussersich seyende sondern allgemei, = ne und ihrer Concretion einfache Unmittelbarin keit voraussekt welcher
 
 Spirit has *become* as the truth of nature, which has transposed itself into it and sublated itself. But in the Concept the becoming is not merely *reflection*-in-another, [p. 210] which is reflection-in-itself, but *free judgment*; spirit that has become therefore has the sense that nature sublates itself in itself as the untrue, and that spirit presupposes itself as this immediacy, no longer *being-outside-itself* in corporeal singularity, but *universal* and, in its concretion, *simple immediacy*, in which it is *soul*.
 
-> Seele) in. Die sich wirkliche ist ihr wachendes Einzelnheit Für sich als seyn Reflexion in abge der =
+> , Seele
 
 §. 309.
 
-> schlossener, organischer Leiblichkeit; das an und für bes stimmte mit der Körperlichkeit noch identische Selbstges fühl, die äusserliche und innerliche Empfindung. i Der Fortgang der allgemeinen Seele zu der noch unmittelbaren Einzelnheit ist überhaupt der Fortgang der natürlichen Idee, von der ideellen Allgemeinheit zur Lebendigkeit, welche organische Individualität ist. Diese hat noch weiter keine Bedeutung, als
+> in er ist. 1 1.$ 309. Die Seele ist nicht nur für sich immateriell son-, dern die allgemeine Immaterialität der Natur und de-, ren einfaches ideelles Leben die absolute Substanz;, als unmittelbare Identität der sich seyenden Subjectiviin tät und der Leiblichkeit welche Identität als allgemeines, Wesen die absolute Grundlage seiner Besonderung und Vereinzelung bleibt aber in dieser abstracten Bestim-
 
 The soul is not only immaterial for itself, but the universal immateriality of nature, and its simple ideal life; the absolute *substance*, as the immediate identity of the subjectivity that is within itself and of corporeity, which identity, as universal essence, remains the absolute foundation of its particularization and individuation, but in this abstract determination is only the *sleep* of spirit.
 
-> dass sie an sich den Geist in sich inwohnen hat, und dessen einzelnes und natürliches Daseyn ist, der aber hier deßwegen nur erst in der äussern Vorstellung ist. Was daher, wie vorhin, Näheres von dem Wachseyn als einem specifischen Wachseyn des Geistes, und dem Verlaufe der Lebensalter in der eigenthümlichen Bedeutung geistiger Entwickelung gesagt werden kann, muß als anticipirt eder aus der Vorstellung genommen angesehen werden, In die natürliche Seite dieser Immanenz des einzelnen Geistes in seiner Leiblichkeit fällt überhaupt das gesunde sympathiz ſche Mitleben desselben mit ihr. Es gehören darunter nicht nur die äussern Gefuhle der oben ( §. 279.) betrachteten Sinne, sondern näher die unmittelbar symbolisirenden bestimmtern Empfindun gen, daß Farben, Gerüche, Töne unmittelbar angenehm oder widrig, in allgemeinerer oder in idiosynkrasistischer Weise, sind. Zur innern Sympathie " gehört, daß Begierde überhaupt im Reproductionssys [p. 211] stem, Zorn, und Muth in der Brust, dem Sike des irritabeln und Nachdenken, geistige Beschaftigung im Kopfe, dem Size des sensibeln Systemes em = * pfunden wird. b 1. Gegensaß der subjectiven Seele gegen ihre Substantialität.  §. 319. Die Seele, die zunächst unmittelbar in ihrer substantieller Identität lebt, ist in ihrer Individualität die negative Beziehung auf, Theilung ihrer Subjectivität gegen ihr sich und die, Begriffe unangemessen substantielles ist Diese Leben Reflexion welches ihrem in ist zugleich Reflexion in. Anderes erste; siesich im Verhältniß zu steht das her zunächst nur ihrer Naturbestimmtheit. § 320.. Das Subject ist a) in abstractem allgemeinem Verhältniß zu seinem Naturleben; die Seele ist zwar in diesem Urtheil Subject, aber ihr Prädicat in dieser allgemeinen Beziehung ist noch ihre Substanz und sie ein unmächtiges, bloß formelles Für sich seyn, das Ahnden und Träumen ihres allgemeinern Naturlebens, das Fühlen des Naturgeistes. Dieses Verhältniß steht auf dem Scheidewege des Geistes von sich als Seele. Der Geist als solcher hat das Allgemeine zu seinem Gegenstand als Gedachtes, d. h. als rein mit seiner abstracten Subjectivität, der Ichheit, identisches, und seine
+> , mung nur der Schlaf des Geistes ist. Die Frage um die Immaterialität der Seele 1 kannnur dann noch ein Interesse haben wenn die, Materie als ein Wahres einerseits und der Geist, als ein Ding andererseits vorgestellt wird Segar. die Physiker sind aber neuern Zeiten auf impondein rable Stoffe als Wärme, Licht u..s f gekommen, wozu sie leicht auch Raum und Zeit rechnen könnten. 1 Diese Imponderabilien haben jedoch noch sonst ein sinnliches Daseyn ein Aussersichseyn, der Lebens-; materie aber, die man auch darunter gezählt finden kann fehlt nicht nur die Schwere, sondern auch, jedes andere Daseyn wornach, sich noch zum M sie ateriellen rechnen liesse. In der That ist in der Idee des Lebens schon an sich das Aussersichseyn der Natur aufgehoben und der Begriff seine Substanz; aber im Geiste, dem Begriffe, dessen Existenz nicht die Einzelnheit als die unmittelbare, sondern als absolute Negativitat Freyheit, ist, ist dieß Aussersichseyn ganz zur subject Fealität des Begriffs, zur 1 [p. 211] . istnach Eine damit zusammender Gemeinschaft der Seele und des Körpers Sie war als. Factum angenommen und handelte sich daher, es allein darum, wie begreiffen sey sie zu? Für die gewöhnliche Antwort kann angesehen werden, daß sie ein unbegreifliches Geheimnis sey. Denn in der That, wenn beyde als absolut Selbstständige gegen ein ander vorausgeseket werden, so sind sie einander eben so undurchdringlich, als jede Materie gegen eis ne andere undurchdringlich und nur ihrem gegen in seitigen Nichtseyn ihren Poren befindlich angenom,, = men wird. Aber für gleichbedeutend mit dieser Antwort kann die nicht angesehen werden welche alle, Philosophen gegeben haben seitdem dieses Verhältist, niß zur Frage gekommen Descartes Malebran., = che, Spinoza Leibnik haben sämmtlich Gott als,, diese Beziehung angegeben und zwar dem Sinne, in, daß die endliche Seele und die Materie keine Wahrdaß Gott nicht bloß ein anderes Wort - 1 heit haben, so für jene Unbegreiflichkeit, sondern vielmehr die wahrhafte Identität derselben ist. Diese Identis tät ist hier noch nicht unmittelbar als Gott jedoch zu fassen, hat diese Bestimmung noch nicht denn sie, sondern nur erst die des Naturgeistes oder der Seele, selbst als allgemeiner Seele, in welcher die Materie inihrer Wahrheit, als ein einfacher Gedanke oder als Allgemeines.ist Diese Seele muß jedoch selbst nicht wieder als Weltseele etwa fixirt werden, denn sie ist nur die allgemeine Substanz welche,
 
 The question concerning the immateriality of the soul can still have an interest only if matter is represented as something true on the one hand, and spirit as a *thing* on the other. Even the physicists, however, have in recent times come upon imponderable stuffs such as heat, light, etc., to which they could easily reckon space and time as well. These imponderables, however, still have otherwise a sensuous determinate being, a being-outside-itself; but for the *life-matter*, which one can also find counted among them, there is lacking not only gravity but also every other determinate being by virtue of which it could still be reckoned among the *material*. In fact, in the Idea of life the being-outside-itself of nature is already sublated *in itself* and the Concept is its substance; but in spirit, the Concept, whose existence is not singularity as the immediate, but as absolute negativity, freedom, this being-outside-itself is entirely volatilized into the subjective reality of the Concept, into [p. 211] universality. — Another question connected with this is that concerning the *community of the soul and the body*. It was assumed as a fact, and the only point at issue was therefore how it is to be *comprehended*? What can be regarded as the usual answer is that it is an *incomprehensible* mystery. For in fact, if both are presupposed as absolutely independent of one another, they are just as impenetrable to one another as any matter is assumed to be impenetrable to another and to be found only in their reciprocal non-being, their pores. But the answer that all philosophers have given, since this relationship became a question, cannot be regarded as equivalent to this answer. Descartes, Malebranche, Spinoza, Leibniz have all alike given *God* as this relation, and indeed in the sense that the finite soul and matter have no truth, so that God is not merely another word for that incomprehensibility, but rather the true *identity* of them. — This *identity*, however, is not yet to be grasped here immediately as God, for it does not yet have this determination, but as yet only that of natural spirit, or of the soul itself as universal soul, in which matter is in its truth, as a simple thought or as a universal. — This soul, however, must not itself be *fixed* again, say, as *world-soul*, for it is only the universal *substance*, which has actual truth only as *singularity*.
 
-> Beziehung darauf ist selbst ist dieß Freyheit Denken. Diese hö-
+> nur wirkliche Wahrheit als Einzeln heit hat.
 
 §. 310.
 
-> Negativität here Substantialität aller Unmittelbarkeit die. Die, Substandie reine tialität der allgemeinen Seele aber ist die unmittelbare nur positive Identität, nicht die freye, die [p. 212] schon das Selbstbewußtseyn und rein der wirkliche Geist ist daher hat. eine Die Herabsehung gegenwärtige, des nicht freyen freye Selbste Stuffe
+> §. 310. Der Geist ist zuerst dieses unmittelbare Versenkte seyn in die Natur, a) die Seele in ihrer Naturbe. stimmtheit; b) tritt sie aber als besonderes in den [p. 212] .a 1 Die Naturbestimmtheit der Seele.
 
 Spirit is at first this immediate being-immersed in nature, a) the soul in its *natural determinacy*; b) it enters, however, as particular into the [p. 212] *opposition* against this its unconsciousness; c) it is actual in the latter as its corporeity.
 
-> Seele bewußtseyns, nach, Plato eine als Krankheit prophezeyend, in welcher in die Les die
+> §. 311.
 
 a.
 
 ##### The Natural Determinacy of the Soul.
 
-> ber, bestimmter in die Ganglien überhaupt als in das Gehirn Natur-
+> Der Geist als abstracte einfache ſiderische und terrestrische
 
 §. 311.
 
-> 1 geist des Unterleibs zurückgesunken, der Geist ist. - In der Geschichte den macht dieses magische Verhältniß, das an einzelnen Individuen als Zustand der Krankheit vorkommen kann, eine Stuffe des Ueberganges aus der substantiellen Geistigkeit zur Selbstbewußten und Verständigen aus, Ahndungen, Prophezeyungen, vieles Wunderbare. des Traums und anderes, Somnambulismus und thierischer Magnetismus, gehören mehr oder weniger in diese Sphäre des Traums überhaupt, auf welcher der Geist zwischen seinem Natur-
+> der Alten, der einfache bewußtlose Naturseele Leben Gedanke; -, der Nus der z) ist das als dieß allgemeine Wesen, die innre Idee ist und seine 4 Wirklichkeit an der hinter ihm liegenden Neusser lichkeit der Natur hätte. Aber wie als Seele er die,
 
 Spirit as *abstract natural soul* is the simple sidereal and terrestrial life; — the *Nus* of the ancients, the simple unconscious thought, which α) as this universal *essence* is the inner *Idea* and would have its *actuality* in the *externality* of nature lying behind it. But as it is, as *soul*, the immediate *substance*, its *determinate being* is the *particularization* of its natural being, an immediate natural determinacy, which has its presupposed actuality in the individual earth.
 
-> geiste und zwischen seiner vernünftigen Wirklichkeit
+> unmittelbare Substanz ist
 
 §. 312.
 
-> - schwankt, und seinen allgemeinern Zusammenhang in einer grössern Naturbreite zur Vorstellung bringt, als das übersich verständigte und vernünftige Bewußtseyn. Aber da nur diesem die eigentliche Allgemeinheit nemlich die des Denkens zukommt, so ist jene Ausdehnung des sympathischen
+> , sein Daseyn die Bes ist sonderung ihres natürlichen Seyns, eine unmittelbare Naturbestimmtheit, welche ihre vorausgesekte Wirklichkeit an der individuellen Erde hat. 9.312. Das allgemeine planetarische Leben des Naturgei ftes hat den Unterschied der Erde als unmittelbare Ver =
 
 The universal planetary life of natural spirit has the difference of the earth, as immediate diversity, within it; it therefore falls apart into the *particular natural spirits*, which on the whole express the nature of the geographic continents, and constitute the *diversity of races*.
 
-> Lebens, welche particulären zur Vorstellung kommt, schlechthin auf einen Kreis beschränkt, und was diese Seele sieht und ahndet, nur ihre besons dere Innerlichkeit, nicht die des allgemeinen Wesens; ingleichen weil die Seele aus ihrer freyen Allgemeinheit in die Besonderheit herabgesekt, ist ist dieser magische Kreiseine Gebundenheit, Abhängigkeit primitiven, Verzauberung. Die Vorstellung
+> schiedenheit an ihm; er zerfällt daher die beson in dern Naturgeister, die im Ganzen die Natur der geographischen Welttheile ausdrücken, und die Racenverschiedenheit ausmachen. Der Gegensak der terrestrischen Polarität, durch welchen das Land gegen Norden zusammengedrängter ist und das Uebergewicht gegen das Meer hat ge-, gen die südliche Hemisphäre aber getrennt Zuſpikun in. gen auseinander läuft, bringt in den Unterschied der Welttheile zugleich eine Modification, die Stevis ranus ( Biolog II
 
 The opposition of the terrestrial polarity, through which the land is more compressed toward the north and has the preponderance over the sea, but toward the southern hemisphere runs apart, separated, into tapering points, brings into the difference of the continents at the same time a modification, which *Treviranus* (*Biolog.* Part II) has pointed out with regard to plants and animals.
 
-> von schen, einem in welchem vor seiner Zustande innern des Anschauung Men-
+> ..Th) in Ansehung der Pflanzen und Thiere aufgezeigt hat.
 
 §. 313.
 
-> die Natur und der Geist nicht in ausserlicher Unmittelbarkeit, sondern in ihren Gesezen und Ideen ge- [p. 213] , ist, wenigen standen habe darum, wie an die gedeutet Um, stände täglich der zu größerer Tradition Dürftigkeit die dahin worden, eine leere Annahme, bey welcher zusammenschwinden die allgemeine
+> §. 313. Dieser Unterschied geht in die Zufälligkeit der Nas tur und in Particularitäten hinaus, die man Localgei = [p. 213] Beschäftigung, körperlicher Bildung und Disposition, aber noch mehr in innerer Tendenz und Befähigung des intel. ligenten und ſittlichen Charakters zeigt. §. 314. Die Seele als überhaupt an sich der Begriff, vereinzelt sich zum individuellen Subject. Diese
 
 This difference goes out into the contingency of nature and into particularities, which one can call *local spirits*, [p. 213] and shows itself in the external way of life, occupation, bodily formation and disposition, but still more in the inner tendency and aptitude of the intelligent and ethical character.
 
-> Natur der Idee, vernünftiger Gedanke ( zu seyn,
+> Subjectivität kommt aber hier nur als Vereinzelung der
 
 §. 314.
 
-> der nur, dem Geist in seiner freyen Subjectivität > angehört nicht beachtet ist. 1 §. 321 B) Die subjective Seele bricht aber als solche, diese unmittelbare substantielle Identität Seyn des Verhältgegenseßung niſſes mit ihrem, aber besondern als eine natürlichen Identitat zugleich,. Ihre ist ein Vere Ente
+> Naturbestimmtheit in Betracht; als der Mosie ist dus des verschiedenen Temperaments Charakters Phy-,, siognomie und anderer Dispositionen von Familien oder den singulären Individuen §.. 315. B) Das unmittelbare Urtheilist das Erwachen der einzelnen Seele welches ihrem bewußtlosen Natur-, leben zunächst als Naturbestimmtheit und Zustand, ei-
 
 The soul, as in general *in itself* the Concept, individuates itself into the *individual subject*. This subjectivity, however, comes into consideration here only as individuation of the *natural determinacy*; it is, as the *mode* of the different temperament, character, physiognomy and other dispositions of families or of the singular individuals.
 
-> hältniß des Widerspruchs; - ein Zustand der Zer = -
+> nem Zustande dem Schlafe
 
 §. 315.
 
-> tuttung, in welchem, da in diesem Verhältnisse die beyden unterschiedenen als Wirkliche gegeneinander sind, die leibliche Wirklichkeit zur Wirklichkeit der Seele wird, oder umgekehrt die Seele ihre eigene Wirklichkeit zur leiblichen macht. Diß Verhältniß ist der Zustand der Verrückte -
+> , gegenübertritt, Dieser. Uebergang der Individualität hängt mit dem allgemeinen Körper der Individualität, der Erde, zusammen.. §. 316. für uns oder äusserlich vom; ist Das Erwachen nicht Schlafe unterschieden sondern das Erwachen ist selbst
 
 β) The immediate *judgment* is the *awakening* of the individual soul, which, at first as natural determinacy and *state*, confronts its unconscious natural life, a state, *sleep*. This transition of individuality is connected with the universal body of individuality, the earth.
 
-> heit dieses, überhaupt fo wie. das Es magische ist hiebei Verhältniß 1) zu bemerken bloß, ideelle daß
+> das Urtheil der individuellen Seele, und somit das
 
 §. 316.
 
-> Momente, unwahre Verhältnisse, daher nur als Zuständeund als Krankheiten des Geistes Daseyn haben. Gerade so wie alles Endliche überhaupt und näher z. B. das formelle Urtheil und der formelle Schluß ohne Wahrheit und nur die abstracten ansich feyenden Momente des objectiven Begriffes sind; daher sie nur ein gewaltsames Daseynhaben, das in einer Zerstörung gegründet ist, einer Zerstörung, die hier der Verstand bewirkt, weil er das Concrete in Abstractionenverwandelt und allein deren Wirklichkeit ist, so sind die ikt hers vorgetretenen Verhältnisse nur die ideellen Momente Wahrheit des im Seyn ist Sie freyen sind die Geistes individuelle, der allein Seele, deren in =
+> - Unterscheiden ihrer selbst von ihrer ununterschiedenen Augemeinheit. In das Wachseyn fällt überhaupt alle selbstbewußte und vernünftige Thätigkeit des Geistes, Der Schlaf Bekräftigung dieser Thätigkeit nicht als eine ist Ruhe von derselben, die lebendige Thätigkeit als Kraft ( betrachtet erschlafft vielmehr dem Mangel ihrer Neusse in rung) sondern als Rükkehr aus der Welt der Bestimmt heiten, der Zerstreuung und aus dem Festwerden in den Einzelnheiten in das allgemeine, Wesen der Subjectivität welche die absolute Macht,.ist
 
 Awakening is not distinguished from sleep *for us* or externally; rather, awakening is itself the *judgment* of the individual soul, and thus the distinguishing of itself from its undifferentiated universality. Into wakefulness falls, in general, all self-conscious and rational *activity* of spirit. — Sleep is a strengthening of this activity, not as a rest from it (living activity, considered as force, rather slackens in the lack of its expression), but as a return from the world of *determinacies*, of dispersion, and from the becoming fixed in the singularities, into the universal essence of subjectivity, which is the absolute power.
 
 [p. 214]
 
-> hypothetischen Subjectivität Urtheils, noch in ihrer sich unter Sub- =
+> Insofern aber das ganze Seyn des Indivi duums ein Erwachtseyn ist
 
 §. 317.
 
-> scheidenden stanz bezogen, und eben substantiell so wesentlich auf der ihre Widerspruch in dieser Beziehung, ihr Seyn vielmehr nicht ihr Seyn, sondern das Seyn ihres Andern ist.
+> , ist die Besonderung dessel 1 ben der natürliche Verlauf der Lebensalter. §. 318. y Die wirkliche Einzelnheit als Reflexion der
 
 But insofar as *the whole being of the individual* is a being-awakened, the particularization of it is *the natural course of the ages of life*.
 
-> 2) als Der Geist Ding ist auf dieser Stuffe des Verhältnisses eigentlich,
-
-> das, ein was unter bestimmt Seele, verstanden und näher wird. Bey als den Alten, wo der Gegensaß des Denkens und Seyns noch nicht diese Bestimmung der Wirklichkeit erlangt hatte, hatte die Seele die unbestimmtere Bedeutung der Geistigkeit. In neuerer Vorstellung und Mes
+> Seele in)
 
 §. 318.
 
-> taphysik ist dagegen der Geist als Seele überhaupt zu einem Dinge von vielen Eigenschaften und Kräften geworden, das im Gespenst, in Engeln näher fixirt, und als ein sinnliches sogar mit Farbe ausgestattet worden ist. Die Metaphysik hat an der abstracten Bestimmung Ding festgehalten, und die Seele daher an undfür sich den Bestimmungen des Seyns, der Qualität und Quantität, und den Reflexionsbestimmungen von einzelner Substanz, Ursache u. s. f. unterworfen; hier hat die Frage nach dem Sik der Seele, der Gemeinschaft dieses Dings mit dem andern - Dinge, dem Körper, Intereſſe gehabt. Es ist als ein Verdienst Kants zu rechnen, die Metaphysik von dem Geist als Dinge, somit von der Seele, und, was dasselbe ist, den Geist von dieser Metaphysik und von der Vorstellung befreyt und I ch an die Stelle gesekt zu haben. Von dem Geiste als Dinge kann nur in dem Verhältnisse, d. i. auf der Stuffe der Reflexion gesprochen worden, wo er zwar seine unmittelbare Substantialität oder seine seyende Algemeinheit dirimirt, und sich zur Unterscheidung von ihr und als Subject bestimmt, aber noch mit diesem Seyn befangen und darum seine
+> . sich ihr wachendes Für sich seyn ist abge inschlossener, organischer Leiblichkeit; das an und für bes stimmte mit der Körperlichkeit noch identische Selbstges fühl, die äusserliche und innerliche Empfindung. i Der Fortgang der allgemeinen Seele zu der noch
 
 γ). The actual *singularity*, as reflection of the soul into itself, is its waking *being-for-itself* in closed, organic corporeity; the *self-feeling* that is determined in and for itself, still identical with corporeality, the outer and inner *sensation*.
 
-The progression of the universal soul to the still immediate singularity is in general the progression of the natural Idea, from ideal universality to vitality, which is organic individuality. This has no further significance than that it has spirit indwelling within it *in itself*, and is the singular and natural determinate being of spirit, which, however, is therefore here as yet only in outer representation. Whatever more specific things can therefore be said, as before, of wakefulness as a specific wakefulness *of spirit*, and of the course of the ages of life in the peculiar significance of *spiritual* development, must be regarded as anticipated or as taken from representation. — Into the natural side of this immanence of the singular spirit in its corporeity there falls, in general, its healthy *sympathetic co-living* with it. Included under this are not only the outer feelings of the senses considered above (§ 279), but more specifically the more determinate, immediately symbolizing sensations, that colors, smells, tones are immediately agreeable or repugnant, in a more universal or in an idiosyncratic manner. To inner sympathy it belongs that desire in general is felt in the system of reproduction,
+> unmittelbaren Einzelnheit ist überhaupt der Fortgang der natürlichen Idee, von der ideellen Allgemeinheit zur Lebendigkeit, welche organische Individualität.ist Diese hat noch weiter keine Bedeutung, als dass sie an sich den Geist in sich inwohnen hat, und dessen einzelnes und natürliches Daseyn ist, der aber hier deßwegen nur erst, in der äussern Vorstellung ist. Was daher wie vorhin, Näheres von dem Wachseyn als einem specifischen Wachseyn des Geistes, und dem Verlaufe der Lebensalter der eigenthümlichen in Bedeutung geistiger Entwickelung gesagt werden kann, muß als anticipirt eder aus der Vorstellung genommen angesehen werden die natürliche, In Seite dieser Immanenz des einzelnen Geistes in seiner Leiblichkeit fällt überhaupt das gesunde sympathiz ſche Mitleben desselben mit ihr. Es gehören darunter nicht nur die äussern Gefuhle der oben (§. 279. betrachteten Sinne) sondern näher die un-, mittelbar symbolisirenden bestimmtern Empfindun gen, daß Farben, Gerüche, Töne unmittelbar angenehm oder widrig, in allgemeinerer oder in idiosynkrasistischer Weise, sind. Zur innern Sympathie gehört, daß Begierde überhaupt im Reproductionssys " 1 [p. 215] stem, Zorn und Muth in der Brust, dem Sike des irritabeln, und Nachdenken, geistige Beschaftigung im Kopfe, dem Size des sensibeln Systemes em = * pfunden wird. 1 b.
 
-[p. 215]
+The progression of the universal soul to the still immediate singularity is in general the progression of the natural Idea, from ideal universality to vitality, which is organic individuality. This has no further significance than that it has spirit indwelling within it *in itself*, and is the singular and natural determinate being of spirit, which, however, is therefore here as yet only in outer representation. Whatever more specific things can therefore be said, as before, of wakefulness as a specific wakefulness *of spirit*, and of the course of the ages of life in the peculiar significance of *spiritual* development, must be regarded as anticipated or as taken from representation. — Into the natural side of this immanence of the singular spirit in its corporeity there falls, in general, its healthy *sympathetic co-living* with it. Included under this are not only the outer feelings of the senses considered above (§ 279), but more specifically the more determinate, immediately symbolizing sensations, that colors, smells, tones are immediately agreeable or repugnant, in a more universal or in an idiosyncratic manner. To inner sympathy it belongs that desire in general is felt in the system of reproduction, [p. 215] anger and courage in the breast, the seat of the irritable, and reflective thinking, spiritual occupation, in the head, the seat of the sensible system.
 
-> 219 wahrhafte Wirklichkeit noch nicht erlangthat. 3) Die Verschiedenheiten der Verrücktheit, Wahnsinn,
-
-anger and courage in the breast, the seat of the irritable, and reflective thinking, spiritual occupation, in the head, the seat of the sensible system.
-
-> Touheit, Raserey, Blödsinn, sie sind Schattirungen, die
+> Gegensaß der subjectiven Seele gegen
 
 b.
 
-> viel Unbestimmtes behalten, so wie selbst gegen Zustän passiren de, die läßt man. für So Zustände sehr ihre Unterscheidung eines gesunden für Verstandes die Be
+> ihre Substantialität. §. 319. Die Seele, die zunächst unmittelbar in ihrer sub-
 
 ##### Opposition of the Subjective Soul to Its Substantiality.
 
-> Handlung dieser Krankheiten wichtig ist, so sehr ist
+> stantieller Identität lebt, ihrer Individualität die ist in
 
 §. 319.
 
-> den es selbst Verbrechen eine Verkehrtheit und sonstiger, aus Hefe ihnen und wie Verdorben auch ausheit der Menschen, vornehmlich die Kenntniß des Menschen schöpfen zu wollen. Jene Verirrungen zu erkennen sekt vielmehr den Begriff -, d. i, was der Mensch seyn soll, schon veraus. Uebrigens ist in allen jenen Formen die Krankheit nicht sowohl als ein Verlust des Verstandes zu betrachten, son's dern vielmehr eigentlich als das, was die Verrückt
+> negative Beziehung auf sich, und die Theilung ihrer Subjectivität gegen ihr substantielles Leben, welches ihrem Begriffe unangemessen in.ist Diese erste Reflexionin sich zugleich Reflexion ist Anderes; sie steht das her zunächst nur im Verhältniß zu ihrer Naturbestimmtheit. §. 320. Das Subject abstractem allgemei-
 
 The soul, which at first lives immediately in its substantial identity, is in its individuality the negative relation to itself, and the division of its subjectivity against its substantial life, which is inadequate to its Concept. This first reflection-into-itself is at the same time reflection-into-another; it therefore stands at first only in *relationship* to its natural determinacy.
 
-> heit besagt, als das absolute Unglück desWider =
+> )a
 
 §. 320.
 
-> spruchs, daß der Geist, der die freye Identität 1 des Subjectiven und Objectiven ist, in seiner Ichheit nicht als die absolute Idealität, sondern als wirkliches Ding, und eben so das Objective gegen ihm existirt, und er deren reine Identität zugleich ist. Er ist so das Verhältniß der Nothwendigkeit oder der Verwechslung endlichen Wechselwirkung, der,
+> ist in nem Verhältniß zu seinem Naturleben Seele; die ist zwar diesem Urtheil Subject in aber ihr Prädicat die-, in Substanz sie ser allgemeinen Beziehung ist noch ihre und ein unmächtiges, bloß formelles sich seyn das Für, Ahnden und Träumen ihres allgemeinern Naturle =
 
 The *subject* is α) in *abstract universal* relationship to its natural life; the soul is indeed subject in this judgment, but its predicate in this universal relation is still its *substance*, and it is an impotent, merely formal *being-for-itself*, the *intimating and dreaming* of its more universal natural life, the feeling of the natural spirit.
 
-> Schicksal unmittelbaren als blindes und Verkehrung,; das als rein Fremdheit gegen Schicksal Begriff fassen und d. als h. solches absolute es doch identisch mit sich den, in Einem als Seinige als Seinige, ist das Verrücktheit undnicht Die das Zerstreutheit wissen kann als diese Beginn. Verrücktheit angesehen der in ihr ist der Geist in in werden; der Gegenwart sich, und und hat indem seisie ner Leiblichkeit in ihm ist, keine verkehrt er, in seine besondere Wirklichkeit doch und umgekehrt. Die diese höchste Stuffe ist die [p. 216] , die Willkühr in ge heit gen objective Idee zu ihrer reinen unflüssigen Abstraction Wirklichdie prirt und mit dem einer reinen Willen verwechseltkeit Die psychische sich Behandlung auf Ein-., daß die Verrücktheit nicht Verlust beruht der der Versicht, Intelligenz Willens nunft, sowohl sondern nach nur der Verrücktheit Seite der ist die Behandals des lung daher den Kranken als Vernünftiges, vorausund hieran Halt hat, an sie ihn sekt erfassen kann. den festen -1 dem  §. 322. y) Die Seele ist jedoch als der für sich allgemeine Begriff die Substantialität, die übergreiffende Macht und das Schicksal der andern Wirklichkeit, die wes fentlich ihre eigene Unmittelbarkeit ist. Ihr Verhältniß im Urtheit ist daher, deren Form aufzuheben und sie als die ihrige zu sehen. 5. 323. Weil sie ursprüngliche Identität mit dieser Leiblichkeit, ist und in ihr ihre Realität hat, so ist ihre Thätig keit auf sie nicht als gegen ein äusserliches Object feindgerichtet Eine Verlegung des organischen Lebens lich und eine feindliche., verwüstende Behandlung der Leibwürde vielmehr zu einer gegen das Subject negativen lichkeit Objectivitat diese, und dadurch zu einer Macht und einem Schicksal machen, und den Standpunkt des Geistes perrücken. 1 §. 324.  Die Thätigkeit der Seele gegen den Leib ist vielmehr, ihre an sich seyende Identität mit ihrer Leiblichkeit zu sehen, nur die Form der Unmittelbarkeit dieser Einheit aufzuheben, und als allgemeine durch dringende Seele in ihrem Leibe für sich, Subject in demselben als dem Prädicate zu seyn. [p. 217] §. 325.09 Sie bildet sich also in den Körper, den sie ( § 318.), von Natur hat, ein Sie bringt in diesem. unmittelbarem Seyn ihre Allgemeinheit. durch Wieders hohlung Handlungen, 1 durch Induction der durch, ihren hervor Zweck So bestimmten erinnert sie sich einerseits in ihm so, daß diese. ihre Identität mit ihm von
+> bens, das Fühlen des Naturgeistes. Dieses Verhältniß steht auf dem Scheidewege des Geistes von als Seele sich Der Geist als sol-. cher hat das Allgemeine zu seinem Gegenstand als Gedachtes,.d h. als rein mit seiner abstracten Subjectivität, der Ichheit, identisches, und seine Beziehung darauf ist selbst dieß Denken. Diese höhere Substantialität ist die Freyheit, die reine Negativität aller Unmittelbarkeit. Die Substantialität der allgemeinen Seele aber ist die unmittelbare nur positive Identität, nicht die freye, die [p. 216] schon das Selbstbewußtseyn und rein der wirkliche Die gegenwärtige, freye Stuffe - Geist hat. nicht ist Herabsehung des freyen Selbste daher eine bewußtseyns eine Krankheit, welcher die, in Seele nach Plato als prophezeyend, die Les in die Ganglien als dasber, bestimmter in Gehirn des Unterleibs, der Geist überhaupt in den Natur- 1 geist zurückgesunken ist. In der Geschichte macht dieses magische Verhältniß, das an einzelnen Individuen als Zustand der Krankheit vorkommen kann, eine Stuffe des Ueberganges aus der substantiellen Geistigkeit zur Selbstbewußten und Verständigen aus,. Ahndungen, Prophezeyungen, vieles Wunderbare des Traums und anderes, Somnambulismus und thierischer Magnetismus gehören mehr, oder weniger diese Sphäre des Traums in überhaupt auf welcher der Geist zwischen seinem Natur-, geiste und zwischen seiner vernünftigen Wirklichkeitschwankt, und seinen allgemeinern Zusammenhangin einer grössern Naturbreite zur Vorstellung bringt, als das über sich verständigte und vernünftige Bewußtseyn. Aber da nur diesem die eigentliche Allgemeinheit nemlich die des Denkens zukommt so jene Ausdehnung des sympathischen ist Lebens,, welche zur Vorstellung kommt schlechthin, auf einen particulären Kreis beschränkt, und was diese Seele sieht und ahndet nur ihre besons, dere Innerlichkeit nicht die des allgemeinen, Wesens ingleichen weil die Seele aus ihrer freyen; - Allgemeinheit die Besonderheit herabgesekt in ist, ist dieser magische Kreis eine Gebundenheit, Abhängigkeit, Verzauberung. Die Vorstellung von einem primitiven Zustandedes Menschen, in vor seiner innern Anschauung welchem die Natur und der Geist nicht ausserlicher Unmit-in telbarkeit, sondern in ihren Gesezen und Ideen gestände [p. 217] täglich zu, größerer Dürftigkeit zusammenschwinden,, eine leere Annahme bey welcher die allgemeine, Natur der Idee vernünftiger Gedanke, seyn ( zu, der nur dem Geist in seiner freyen Subjectivität > angehört, nicht beachtet ist.
 
 This relationship stands at the parting of the ways of spirit from itself as soul. Spirit as such has the universal for its object as something *thought*, i.e., as something purely identical with its abstract subjectivity, *I-hood*, and its relation to it is itself this thinking. This higher substantiality is *freedom*, the pure negativity of all immediacy. But the *substantiality* of the universal soul is the immediate, merely positive identity, not the *free* one, which [p. 216] self-consciousness and purely actual spirit already have. The present, not free stage is therefore a *lowering* of free self-consciousness, — a *disease*, in which the soul, according to Plato as *prophesying*, into the liver, more precisely into the *ganglia* as the brain of the abdomen, spirit in general into natural spirit, has sunk back. — In history this *magical* relationship, which can occur in single individuals as a state of disease, constitutes a stage of the transition from substantial spirituality to what is self-conscious and of the understanding. — Intimations, prophecies, much of the wondrous in dreaming and other things, somnambulism and animal magnetism, belong more or less in this sphere of *dreaming* in general, on which spirit wavers between its natural spirit and its rational actuality, and brings its more universal connection, in a greater breadth of nature, to representation than does the consciousness that has come to understand itself and is rational. — But since only to this consciousness the proper *universality*, namely that of *thinking*, belongs, that extension of sympathetic life which comes to representation is absolutely restricted to a *particular* circle, and what this soul sees and has intimations of is only its *particular* inwardness, not that of the *universal* essence; likewise, because the soul has been lowered from its free universality to *particularity*, this magic circle is a being-bound, a dependence, an enchantment. — The representation of a *primitive state of man*, in which, before his inner intuition, nature and spirit had stood not in external immediacy but in their laws and Ideas, [p. 217] is therefore, as with the few circumstances of tradition which have been interpreted in that sense and which dwindle together daily to ever greater meagerness, an empty assumption, in which the *universal* nature of the Idea, of being rational *thought*, which belongs only to spirit in its free *subjectivity*, is not heeded.
 
-> ihr bestimmt und Seynin ihre subjective Einheit mit sich ist. Andes 1
+> 1 §. 321
 
 §. 321.
 
-> rerseits allgemeines hat sie ihm, ein Seyn ist, das als das ihrige,, Gewohnheit, und bestimmte Gewohnheit durchgebildete, Geschicklichkeit. sie Als dieß Körper von ihr Instrument beherrscht den. C. Die Wirklichkeit der Seele. §. 326.  Die Seele ist in ihrer durchgebildeten Leiblichkeit als einzelnes Subject, und diese die Aeusserlich-
+> B) Die subjective Seele bricht aber als solche diese unmittelbare, substantielle Identität des Verhältniſſes mit ihrem besondern natürlichen Seyn Ihre Entegegenseßung, aber als eine Identitat zugleich,. ist ein Vere hältniß des Widerspruchs ein Zustand der Zer = - da; tuttung, in welchem, in diesem Verhältnisse die beyden unterschiedenen als Wirkliche gegeneinander,, sind die leibliche Wirklichkeit zur Wirklichkeit der Seele wird oder umgekehrt die Seele ihre eigene Wirklichkeit zur leiblichen macht. Diß Verhältniß der Verrückte
 
 β) The *subjective* soul, however, as such breaks this immediate, substantial identity of the relationship with its particular natural being. Its opposition, but at the same time as an identity, is a relationship of *contradiction*; — a state of *disruption*, in which, since in this relationship the two that are distinguished are, as actual ones, against one another, corporeal actuality becomes the actuality of the soul, or conversely the soul makes its own actuality into the corporeal one.
 
-> bezieht keit als Diese Prädicat Neusserlichkeit deſſelben, stellt das darin so nicht nur sich sich vor, auf sonsich dern die. Seele, und ist deren Zeichen. Die Seele ist als diese Identität des Innern und Neussern wirklich, - und hat nur an ihrer Leiblichkeit ihre freye Gestalt, und menschlichen, pathognomischen und physiognomischen Ausdruck.  Zum ersten Bildung gehört z. B. die aufrechte Gestalt überhaupt, die insbesondere der Hand, als des absoluten Werkzeugs, des Mundes, das Lachen, Weinen ne geistige u. s. w. und der über Körper das Ganze ausgegosse. Ton, welcher den unmittelbar als Neusserlichkeit einer höhern Natur kund gibt. Dies ser Ton ist eine so leichte, unbestimmte und unsagbare Modification Allgemeines, weil der Geist identisch mit seiner Neusserlichkeit und darum eben so fren darin ist, dieses aber zugleich die Unvollkommenheit [p. 218] hat, ein unmittelbares und natürliches zu seyn, und darum Zeichen ist, den Geist hiemit zwar, aber zugleich als ein Anderes, nicht wie er für sich selbst als allgemeines, ist, vorstellt. Fur das Thier ist daher die menschliche Gestalt das Höchste, wie der Geist demselben erscheint. Oder für den Geist ist sie die erste Erscheinung desselben, weil sie seine erste, noch in der Sphäreder Unmittelbarkeit versenkte Wirklichkeit ist. Der Geist ist also in diesem seis nem Zeichen schlechthin endlicher und einzelner; es ist zwar seine Eristenz, aber sie ist zugleich in ihrer physiognomischen und pathognomischen Bestimmtheit Zufälliges für ihn, und die Physiognomik, vollends aber die Cranioskopie zu Wissenschaften erheben zu wollen, ist einer der leersten Einfälle, die es ge ben konnte, noch leerer als eine signatura rerum, wenn aus der Gestalt der Pflanzen ihre Heilkräft ers kannt werden sollte. §. 327. i  An und für sich hat die Materie keine Wahrheit im Geiste, als der allgemeinen Seele; die Leiblichkeit, welche zunächst nichts als die Form der Unmittelbarkeit, ist kann darum seinem Einbilden in sie überhaupt keinen Widerstand leisten. Durch diese erste Einbildung des Seyns in sich hat der Geist, da er es sich entgegengesekt, es aufgehoben und als das seinige bestimmt hat, die Bedeutung der Seele verloren, und ist Ich. 1 §. 328.  Diese Unendlichkeit des Geistes als Beziehung feinerselbst auf sich in seiner Unmittelbarkeit, deren Aufheben, das sich ergeben hat, das Erste, welche also noch Moment, aber gegen und in dieser Unendlichkeit als Anderes bestimmt ist, ist ein höheres Ers wachen desselben; 1 mit sich selbst im Andersseyn zus [p. 219] sammengeschlossen ist er als die Einzeln heit bestimmt, welche Subject für sich ist, und sich als diese Negativität 1 entschließt. Das Urtheil, in welchem das Subject Ich ist, gegen ein Object, als eine ihm äussere Welt, so daß es aber in derselben unmittelbar in sich reflectirt, ist ist das Bewußtseyn. 1 B. 1 1 Das Bewußt seyn. §. 329. Das Bewußtseyn macht die Stuffe der Reflexion oder des Verhälnisses des Geistes, seiner als Er- ſcheinung, aus. Ich ist die unendliche Beziehung des Geistes auf sich, aber als subjective, als Gewißheit seiner selbst Als diese absolute Negativität A ist sie die Identität in ihrem Andersseyn; Ich ist es selbst und greift uber das Object uber, ist Eine Seitedes Verhältnisses und das ganze Verhältniß; das Licht, das sich und noch Anderes manifestirt.  §. 330. Aber die Identität ist nur die formelle. Der Geist, der als Seele in der Form substantieller Augemeinheit, der in sich seyenden Schwere ist, ist als die subjective Reflexion in sich auf ein Dunkles bezogen, und das Bewußtseyn, ist wie das Verhältniß überhaupt, der Widerspruch der Selbstständigkeit der Seiten, und ihrer Identität, in welcher sie aufgehoben sind. § 331.. des Das Object hat in, als aus der unendlichen Reflexion Geistes in sich seinem Urtheil entlassen, diese un endliche Beziehung Gegebenes auf sich zu seinem Wesen, und ist als Seyendes und gegen das Fürsich seyn des Ich bestimmt. 1 [p. 220] 5. 332 Da Ich nicht als der Begriff, sondern als formelle Identität ist so ist die dialektische Bewegung Bewußtseyns, Thätigkeit des sie ist en, ihm für nicht als seine Veränderung des, sondern Objects Das Bewußtseyn sich d. i. dasselbe. gegebenen erscheint daher Gegenstandes verschieden nach der Verschie dung denheit des Fortbildung Objects, und die seine Betrachtung Fortbilals eine Veränderung des;, Begriff, von fält, dessen weil nothwendiger er als solcher innerlich aber, ist der in uns
+> ist ist der Zustand Esheit überhaupt. hiebei) 1 zu bemerken, daß dieses, fo wie das magische Verhältniß bloß ideelle - Momente unwahre Verhältnisse daher nur als,, Zustände und als Krankheiten des Geistes Daseyn haben.Gerade wie alles Endliche überhaupt so und näher.z B. das formelle Urtheil und der formelle Schluß ohne Wahrheit und nur die abstracten ansichfeyenden Momente des objectiven Begriffes sind; daher sie ein nur gewaltsames Daseyn haben, das einer Zerstörung gegründet in einer ist, Zerstörung die hier der Verstand bewirkt weil -,, er das Concrete in Abstractionen verwandelt und allein deren Wirklichkeit die ikt hers ist so, sind Verhältnisse nur die ideellen Momente vorgetretenen des im Seyn freyen Geistes der allein deren, Wahrheit ist. Sie sind die individuelle Seele, insofern sie im Verhältnisse des kategorischen und des [p. 218] - 218 ♪ hypothetischenUrtheils, noch in ihrer sich unterscheidenden Subjectivität auf ihre Subsubstantiell stanz bezogen, und eben so wesentlich der Widerspruch in dieser Beziehung, ihr Seyn vielmehr nicht ihr Seyn, sondern das Seyn ihres Andern, ist. 2 Der Geist ist auf dieser Stuffe des Verhältnisses als) ein Ding bestimmt, und näher eigentlich als das was, unter Seele verstanden wird. Bey den Alten, wo der Gegensaß des Denkens und Seyns noch nicht diese Bestimmung der Wirklichkeit erlangt hatte hatte die Seele die unbestimmtere Bedeutung, der Geistigkeit In neuerer Vorstellung und Mes. taphysik ist dagegen der Geist als Seele überhaupt zu einem Dinge von vielen Eigenschaften und Kräften geworden, das im Gespenst, in Engeln näher fixirt und als ein sinnliches sogar mit, Farbe ausgestattet worden Die Metaphysik hat ist. der abstracten Bestimmung Ding festgehalten an, und die Seele daher an undfür sich den Bestimmungen des Seyns der Qualität und Quantität,, und den Reflexionsbestimmungen von einzelner Substanz Ursache, u..s f. unterworfen; hier hat die Frage nach dem Sik der Seele der Ge- -, meinschaft Dings mit dem andern dieses Dinge, Körper Intereſſe gehabt dem, Es. ist als ein Verdienst Kants rechnen Metazu, die physik von dem Geist als Dinge, somit von der Seele, und, was dasselbe ist, den Geist von dieser Metaphysik und von der Vorstellung befreyt und I ch die in zu Von dem Geiste an Stelle gesekt haben. als Dinge kann nur dem Verhältnisse, d. i. auf der Stuffe der Reflexion gesprochen worden, wo zwar seine unmittelbare Substantialität oder er seine seyende Algemeinheit dirimirt und sich zur, Unterscheidung von ihr und als Subject bestimmt, aber noch mit diesem Seyn befangen und darum seine 1 [p. 219] Touheit, Raserey, Blödsinn, sind Schattirungen, die -, bey der Bestimmtheit, welche sie gegen einander haben, viel Unbestimmtes behalten, wie selbst gegen Zustän so de, die man für Zustände eines gesunden Verstandes passiren läßt So sehr ihre Unterscheidung. für die Be Handlung dieser Krankheiten wichtig ist, so sehr ist es selbst eine Verkehrtheit, aus ihnen wie auch aus den Verbrechen und sonstiger Hefe und Verdorbenheit der Menschen vornehmlich die Kenntniß des, - Menschen schöpfen wollen zuJene Verirrungen. zu sekt vielmehr den Begriff erkennen was, d.i, der Mensch seyn soll schon veraus Uebrigens,. ist allen jenen Formen die Krankheit nicht sowohl in als ein Verlust des Verstandes zu betrachten, son's dern vielmehr eigentlich als das, was die Verrückt heit besagt als das absolute Unglück desWider, = spruchs daß der Geist, der die freye Identität, seiner Ich- 1 des Subjectiven und Objectiven ist, in heit nicht als die absolute Idealität sondern als, wirkliches Ding und eben,das Objective gegen so ihm existirt und er deren reine Identität zugleich ist. Er ist, so das Verhältniß der Nothwendigkeit oder der endlichen Wechselwirkung, der, unmittelbaren Verwechslung und Verkehrung; das Schicksal rein als blindes Schicksal fassen, d. h. als absolute Fremdheit gegen den Begriff und als es identisch mit sich in Einem alssolches doch, das Seinige und als nicht das Seinige wissen, ist diese Verrücktheit. Die Zerstreutheit kann als der Beginn der Verrücktheit angesehen werden; in ihr ist der Geist in sich, und hat in seiner Leiblichkeit keine Gegenwart, und indem sie doch ihm in verkehrt ist, er diese in seine besondere Wirklichkeit und umgekehrt. Die höchste Stuffe ist die Bosheit, indem sich die Singularität der Ichzu [p. 220] in heit ihrer reinen Abstractiongen die objective Idee einer unflüssigen Wirklichkeit prirt und sich mit dem reinenWillen verwechselt. Die psychische Behandlung beruht auf der Einsicht, daß die Verrücktheit nicht Verlust der Vernunft, sowohl nach der Seite der Intelligenz als des Willens sondern nur Verrücktheit, die Behandist, lung daher den Kranken als Vernünftiges voraussekt und hieran den festen Halt hat, an dem sie
 
 This relationship is the state of *madness* in general. In this connection it is 1) to be noted that this, as well as the magical relationship, are merely ideal moments, untrue relationships, and therefore have determinate being only as states and as diseases of spirit. — Just as everything finite in general, and more specifically, e.g., the formal judgment and the formal syllogism, are without truth and only the abstract moments of the objective Concept that are in themselves; hence they have only a violent determinate being, which is grounded in a destruction, — a destruction which here the understanding effects, because it transforms the concrete into abstractions and is alone their actuality, — so the relationships that have now emerged are only the ideal moments of spirit *free in being*, which alone is their truth. They are the individual soul, insofar as it is in the relationship of the categorical and of the [p. 218] hypothetical judgment, — still related substantially to its substance in its self-differentiating subjectivity, and just as essentially the contradiction in this relation, its being rather *not its being*, but the being *of its other*. 2) Spirit is determined at this stage of the relationship as a *thing*, and more precisely actually as that which is understood by *soul*. Among the ancients, where the opposition of thinking and being had not yet attained this determination of actuality, the soul had the more indeterminate significance of *spirituality*. In more recent representation and metaphysics, on the other hand, spirit as soul in general has become a *thing* of many properties and forces, which has been fixed more precisely in the *ghost*, in *angels*, and even furnished with color as a *sensuous* thing. Metaphysics has held fast to the abstract determination *thing*, and has therefore subjected the soul *in and for itself* to the determinations of being, of quality and quantity, and to the determinations of reflection of single substance, cause, etc.; here the question of the *seat* of the *soul*, of the community of *this thing with the other thing*, the *body*, has been of interest. — It is to be counted as a merit of *Kant* to have freed metaphysics from spirit as a *thing*, thus from the soul, and, what is the same, spirit from this metaphysics and from representation, and to have put the *I* in its place. Of spirit as a thing one can speak only in the *relationship*, i.e., at the stage of reflection, where it indeed dirempts its immediate substantiality or its *existent* universality, and determines itself for differentiation from it and as subject, but is still entangled with this being and therefore has not yet attained its [p. 219] true actuality. 3) The differences of madness — insanity, folly, raving, imbecility — are shadings which, given the determinacy that they have against one another, retain much that is indeterminate, as even against states that are allowed to pass for states of a healthy understanding. As important as their distinction is for the treatment of these diseases, it is itself just as perverse to want to draw from them, as also from the crimes and the other dregs and depravity of human beings, above all the *knowledge of man*. To cognize those aberrations presupposes, rather, the *Concept*, i.e., what man *ought to be*, already. — Moreover, in all those forms the disease is to be regarded not so much as a *loss* of understanding, but rather properly as what *madness* declares, as the absolute misfortune of the *contradiction*, that spirit, which is the free identity of the subjective and the objective, does not exist in its I-hood as absolute ideality, but as an actual thing, and just so the objective exists over against it, and it is at the same time the pure identity of these. It is thus the relationship of necessity or of finite reciprocal action, of immediate confusion and inversion; to grasp *fate* purely as blind fate, i.e., as absolute foreignness to the Concept, and yet to know it as such, as identical with itself, *in one* as its own and as not its own, is this madness. — *Distraction* can be regarded as the beginning of *madness*; in it spirit is within itself, and has no presence in its corporeity, and since this is nevertheless in it, it inverts this into its particular actuality and conversely. The highest stage is *malice*, in that the *singularity* of I-hood, [p. 220] *arbitrary will* in its pure abstraction, fixes itself against the objective Idea into an unfluid actuality and confuses itself with the pure will. — *Psychical* treatment rests on the insight that madness is not *loss* of reason, either on the side of intelligence or of the will, but only madness, that the treatment therefore presupposes the sick person as something rational and has in this the firm hold by which it can grasp him.
 
-> noch Philosophie.
+> ihn erfassen kann. -1
 
 §. 322.
 
-> ften Die so betrachtet Kantische werden, daß sie kann den am Geist bestimmte als Be- = wußtseyn aufgefaßt ganz nur Phänomenologie hat, und Philosophie Bestimmungen der, Sie, nicht der Ich Beziehung defauf selben enthält jenseitsliege. betrachtet 2s Ding an als, so die Intelligenz ein,: als den Willen =, sich und wenn sowohl sie
+> §. 322.)y Die Seele ist jedoch als der für sich allgemeine Begriff die Substantialität, die übergreiffende Macht und das Schicksal der andern Wirklichkeit, die wes fentlich ihre eigene Unmittelbarkeit.ist Ihr Verhältniß im sie als zu ist Urtheit daher deren Form aufzuheben und die ihrige sehen
 
 γ) The soul, however, as the *Concept* universal for itself, is the substantiality, the overarching *power* and the *fate* of the *other* actuality, which is essentially its own immediacy. Its relationship in the judgment is therefore to sublate the form of this and to posit it as its own.
 
-> im Begriffe der reflectirenden Urtheilskraft zwar
+> ., 5. 323.
 
 §. 323.
 
-> auf die Idee des Geistes, die Subject = Objectivität, einen anschauenden Verstand u. s. f. wie auch auf die Idee der Natur, zu sprechen kommt, so wird diese Idee selbst wieder zu einer Erscheinung, nemlich einer subjectiven Maxime, herabgesekt. Es ist daher für einen richtigen Sinn dieser Philosophie anzusehen, daß sie von Reinhold als eine Theorie des Bewußtseyns, unter dem Nahmen Vors ſtellungsvermögen, aufgefaßt worden. Die
+> Weil sie ursprüngliche Identität mit dieser Leiblichist in ihr ihre Realität hat ihre Thätig ist keit, und, so keit auf sie nicht als gegen ein äusserliches Object feindlich gerichtet. Eine Verlegung des organischen Lebens und eine feindliche, verwüstende Behandlung der Leiblichkeit würde diese vielmehr zu einer gegen das Subject negativen Objectivitat und dadurch, zu einer Macht und einem Schicksal machen, und den Standpunkt des Geistes perrücken. 1
 
 Because it is original identity with this corporeity, and has its reality in it, its activity on it is not directed hostilely as against an external Object. An injury to organic life and a hostile, devastating treatment of corporeity would rather make the latter into an objectivity negative toward the subject, and thereby into a power and a fate, and would displace the standpoint of spirit.
 
-> Fichtesche Philosophie hat denselben Standpunkt,
+> §. 324.
 
 §. 324.
 
-> und Nicht Bewußtseyn Ich ist nur als Gegenstand es des Ich, nur im, bestimmt Ding; an bleibt als un- Philosophien endlicher Anstoß zeigen d. i. alssiesich. Bende griffe Geiste daher, daß er nicht zum für Be-, oder zum, wie Beziehung an und sich deres ist sondern ist, gekommen nur, wie sind er. in auf ein An-
+> Die Thätigkeit der Seele gegen den Leib ist viel-, an mehr ihre sich seyende Identität mit ihrer Leiblichkeit zu, sehen nur die Form der Unmittelbarkeit dieser Einheit aufzuheben und allgemeine durch, als dringende Seele ihrem Leibe für sich in Subject, in demselben als dem Prädicate seyn zu.
 
 The activity of the soul against the body is rather to *posit* its identity *in itself* with its corporeity, to sublate only the *form* of immediacy of this unity, and, as *universal* pervading soul, to be *for itself* in its body, subject in it as in the predicate.
 
 [p. 221]
 
-> §. 333.
+> (§.
 
 §. 325.
 
-> Das Ziel des Geistes als Bewußtseyns, ist diese seine Erscheinung mit seinem Wesen identisch zu machen, die Gewißheit seiner selbst zur Wahrheit zu erheben. Die Existenz, die er im Bewußtseyn hat, ist die formelle oder allgemeine als solche; weil das Object nur abstract als das Seinige bestimmt oder er in dem-, selben nur in sich als abstractes Ich reflectirt ist, so hat diese Existenz noch einen Inhalt, der nicht als der seinige ist. §. 334. Die Stuffen dieser Erhebung der Gewißheit zur
+> 318. von Natur hat), ein Sie bringt,. in diesem unmittelbarem Seyn ihre Allgemeinheit durch Wieders 1 hohlung der durch ihren Zweck bestimmten Handlungen, durch Induction, hervor. So erinnert sie sich einerseits in ihm so, daß diese ihre Identität mit ihm von ihr bestimmt und ihre subjective Einheit mit sich ist. Andes rerseits hat sie Seynin ihm, ein Seyn, das als das 1 ihrige allgemeines, Gewohnheit und bestimmte, ist, Gewohnheit Geschicklichkeit, Als dieß von ihr. durchgebildete Instrument beherrscht sie den Körper. C.
 
 It therefore *forms* itself into the body, which it has by *nature* (§ 318). In this immediate being it brings forth its universality through *repetition* of the actions determined by its end, through *induction*. Thus it *recollects* itself in it, on the one hand, in such a way that this its identity with it is determined by it and is its subjective unity with itself. On the other hand, it has *being* in it, a being that, as its own, as *universal*, is habit, and determinate habit, *skill*. It masters the body as this instrument thoroughly formed by it.
 
-> welches bewußtseyn einen Gegenstand als solchen hat, b) Selbsts,
+> Die Wirklichkeit der Seele. §. 326.
 
 c.
 
 ##### The Actuality of the Soul.
 
-> c) Einheit des, Bewußtseyns für welches und Ich Selbstbewußtseyns der Gegenstand, daß ist
+> Die Seele ist in ihrer durchgebildeten Leiblichkeit
 
 §. 326.
 
-> der Geist den Inhalt des Gegenstands als sich selbstund sich selbst als an und für sich bestimmt anschaut; Ver nunft, der Begriff des Geistes.  a. Das Bewußtseyn, als solches. § 335.. Das Bewußtseyn ist) 1 zunächst das unmittel-
+> als einzelnes Subject, und diese die Aeusserlichkeit als Prädicat deſſelben, das darin nur sich auf sich bezieht Diese Neusserlichkeit stellt. nicht sich vor sonso, dern die Seele und, deren Zeichen Die Seele ist. ist als diese Identität des Innern und Neussern wirklich, - und hat nur an ihrer Leiblichkeit ihre freye Gestalt und, menschlichen, pathognomischen und physiognomischen Ausdruck. Zum ersten gehört B. die aufrechte Gestalt z. überhaupt die Bildung insbesondere der Hand
 
 In its thoroughly formed corporeity the soul is as *singular* subject, and this corporeity is the *externality* as predicate of it, which therein relates only itself to itself. This externality thus does not represent itself, but the soul, and is its *sign*. The soul is *actual* as this identity of the inner and the outer, and has its free shape, and *human*, pathognomic and physiognomic expression, only in its corporeity.
 
-> bare, unvermittelte seine Beziehung Gewißheit auf den Gegenstand daherdie Gegenstand ein fache ist als seyender, aber als desselben in; reflectirter der, weiselbst ter als unmittelbar Einzelner bestimmt sichsinnli Bewußtseyn; ches Sinnlichkeit.. gehören Inhalt Gefühlsbestimmungen Zur, zwar als innerli die che, Form äusserliche oder Aber und als gehört, das Räumliche Geist in und Zeitliche cons. creten dieses Form bendes an, dem Gefühle Anschauung seiner Das Bewußtseyn als seinem Verhältniß enthält und nur diezum. [p. 229] Ich Verhältniß Beabstracten als Objects solchem, in tretende stimmung des seyende, die erste oder unmittelbare als daher nurals, und Etwas die Unmittelbarkeit, exstirendes Ding an und, für Einzelnes sich bestimmt Object ist. geht Was das an sonst Ich in seis ner Concretion, den Geist; als concretes ist der Geist die. Auch die Gefühlsbestimmun gen sind ihr nur durch Form der Unmittelbarkeit si seyn n ns liche; ist im Inhalt Bewußtseyn kann von ganz anderer Natur Denken. Ich in das noch abstracte jene und hat daher seinem Gegenstande zunächst abstracte Denkbestimmungen. Die Ikt räumliche ich und in zeitliche Phänomenologie Einzelnheit ist Hier und, wie Bamberg meiner S. Gegenstand des Geistes ( 1807.) 25 ff. den des sinnlichen er Be- 1 wustseyns bestimmt habe. Wesentlicher wird nur durch nach der welche Identität er seine des Bestimmung Verhältnisses hat; genommen durch die-,
+> , als, des absoluten Werkzeugs, des Mundes, das Lachen, Weinen.u s. w. und der über das Ganze ausgegosse. ne geistige Ton, welcher den Körper unmittelbar als Neusserlichkeit einer höhern Natur kund gibt. Dies ser Ton eine ist leichte unbestimmte und unsagso, bare Modification weil der Geist identisch mit seiner, Neusserlichkeit Allgemeines und darum eben fren so darin ist, dieses aber zugleich die Unvollkommenheit [p. 222] den Geist hiemit zwar, aber, zugleich als ein Anderes nicht wie für sich selbst, er als allgemeines, ist, vorstellt. Fur das Thier ist daher die menschliche Gestalt das Höchste wie der, Oder für den Geist, sie Geist demselben erscheint. istdie erste Erscheinung desselben weil seine erste, sie noch in der Sphäre der Unmittelbarkeit versenkte Wirklichkeit ist. Der Geist ist also in diesem seis nem Zeichen schlechthin endlicher und einzelner; es ist zwar seine Eristenz, aber sie ist zugleich in ihrer physiognomischen und pathognomischen Bestimmtheit Zufälliges für ihn, und die Physiognomik, vollends aber die Cranioskopie zu Wissenschaften erheben zu wollen, ist einer der leersten Einfälle, die es ge ben konnte, noch leerer als eine signatura rerum ers, wenn aus der Gestalt der Pflanzen ihre Heilkräft kannt werden sollte. §. 327.
 
-To the first belongs, e.g., the upright shape in general, the formation, in particular, of the hand, as the absolute tool, of the mouth, laughing, weeping, etc., and the spiritual tone poured out over the whole, which makes the body immediately known as the externality of a higher nature. This tone is such a slight, indeterminate and unsayable modification because spirit, identical with its externality, is universal and therefore just as free in it, but this at the same time has the imperfection [p. 229] of being an immediate and natural one, and is therefore a *sign*, which represents spirit thereby indeed, but at the same time as an *other*, not as it is for itself, as *universal*. For the animal, therefore, the human shape is the highest, as spirit appears to it. Or for spirit it is the *first* appearance of the same, because it is its first actuality, still immersed in the sphere of immediacy. — Spirit is therefore, in this its sign, absolutely finite and singular; it is indeed *its* existence, but at the same time, in its physiognomic and pathognomic determinacy, it is something *contingent* for it, and to want to raise physiognomy, and still more cranioscopy, to sciences is one of the emptiest notions there could be, still emptier than a *signatura rerum* [signature of things], if from the shape of plants their healing powers were to be cognized.
+To the first belongs, e.g., the upright shape in general, the formation, in particular, of the hand, as the absolute tool, of the mouth, laughing, weeping, etc., and the spiritual tone poured out over the whole, which makes the body immediately known as the externality of a higher nature. This tone is such a slight, indeterminate and unsayable modification because spirit, identical with its externality, is universal and therefore just as free in it, but this at the same time has the imperfection [p. 222] of being an immediate and natural one, and is therefore a *sign*, which represents spirit thereby indeed, but at the same time as an *other*, not as it is for itself, as *universal*. For the animal, therefore, the human shape is the highest, as spirit appears to it. Or for spirit it is the *first* appearance of the same, because it is its first actuality, still immersed in the sphere of immediacy. — Spirit is therefore, in this its sign, absolutely finite and singular; it is indeed *its* existence, but at the same time, in its physiognomic and pathognomic determinacy, it is something *contingent* for it, and to want to raise physiognomy, and still more cranioscopy, to sciences is one of the emptiest notions there could be, still emptier than a *signatura rerum* [signature of things], if from the shape of plants their healing powers were to be cognized.
 
-> selbe ist er nur dem Bewußtseyn als Aesserli
+> i
 
 §. 327.
 
-> ches, nicht für sich Neusserliches oder selbst ein Aufsersichseyn. Diese Freyheit kann das Andere erst durch die Freiheit des Geistes erhalten. §. 336. Das Sinnliche als Etwas wird ein Anderes; die Reflexion des Etwas in sich, das Ding hat viele Eigenschaften, und das Einzelne in seiner Unmittelbarkeit mannichfaltige Prädicate. Das viele
+> An und für sich hat die Materie keine Wahrheit im Geiste, als der allgemeinen Seele Leiblichkeit; die, welche zunächst nichts als die Form der Unmittelbarkeit ist, kann darum seinem Einbilden überhaupt keinen in sie Widerstand leisten. Durch diese erste Einbildung des Seyns in sich hat der Geist, da er es sich entgegengesekt, es aufgehoben und als das seinige bestimmt hat, die Bedeutung der Seele verloren und Ich 1, ist. §. 328.
 
 In and for itself matter has no truth in spirit, as the universal soul; corporeity, which is at first nothing but the form of immediacy, can therefore offer no resistance at all to its forming itself into it. Through this first forming-into-itself of *being*, spirit, since it has opposed it to itself, sublated it and determined it as its own, has lost the significance of *soul*, and is I.
 
-> - Einzelne Mannichfaltigkeit der Sinnlichkeit, von wird Beziehungen daher ein Breites, Re,
+> Diese Unendlichkeit des Geistes als Beziehung feinerselbst auf sich in seiner Unmittelbarkeit,
 
 §. 328.
 
-> flexionsbestimmungen eine, und Allgemeinhei ten. Da der Gegenstand so verändert ist, so ist das sinnliche Bewußtseyn zum Wahrnehmen geworden. §. 337., die hinausgegangen 2) Das Bewußtseyn, will den Gegenstand das über in seiner Sinnlichkeit Wahr [p. 223] , heitnehmen nicht, als bloß unmittelbaren, sondern in sich vermittelten Verbindung und in sich reflectirten. Er ist somit eine von sinnlichen Bewußtseyn und in von Gedankens bestimmungen; so wie das seinem sinnlis Damit chen Verhalten ist seine Identität hier zugleich mit dem Reflexion Gegenstandinnicht sich mehr ist.
+> deren Aufheben, das sich ergeben hat, das Erste, welche also noch Moment, aber gegen und in dieser Unendlichkeit als Anderes bestimmt im ist ist, ein höheres Ers wachen desselben; mit sich selbst Andersseyn zus 1: [p. 223] welche Subject für sich und sich als diese Negativität ist, 1 entschließt. Das Urtheil welchem das Subject Ich, in ist gegen ein Object als eine ihm Welt, so,, äussere, daß es aber in derselben unmittelbar in sich reflectirt ist ist das Bewußtseyn.
 
 This infinity of spirit as *relation of itself to itself* in its *immediacy*, whose sublation, which has resulted, the first, which is thus still a moment, but is determined *against* and in this infinity as an *other*, is a higher *awakening* of it; closed together *with itself* in otherness, [p. 223] it is determined as *singularity*, which is subject for itself, and *resolves* itself as this negativity. The judgment in which the subject is I, against an Object, as a world external to it, but in such a way that it is nevertheless immediately reflected into itself in the latter, is *consciousness*.
 
-> ein die abstracte Wissen der Gewißheit, sondern die bestimmte,
+> 1
 
 B.
 
-> Die. nähere Stuffe des Bewußtseyns, auf welcher
+> B. 1 1
 
 #### Consciousness.
 
-> die Kantische Philosophie den Geist auffast, ist
+> Das Bewußt seyn.
 
 §. 329.
 
-> das Wahrnehmen, welches überhaupt der Standpunkt unsers gewöhnlichen Bewußtseyns und mehr oder weniger der Wissenschaften ist. Es wird von sinnlichen Gewißheiten einzelner Upperceptionen oder Beobachtungen ausgegangen, die dadurch zur Wahrheit erhoben werden sollen, daß sie in ihrer Beziehung betrachtet, über sie reflectirt, überhaupt daß sie nach Verstandesbestimmungen zugleich zu etwas allgemeinem, zu Erfahrungen werden.
+> §. 329. Das Bewußtseyn macht die Stuffe der Reflexion oder des Verhälnisses des Geistes, seiner als Er- ſcheinung, aus. Ich ist die unendliche Beziehung des Geistes auf sich, aber als subjective als Gewiß-, A heit seiner selbst Als diese absolute Negativitätist sie die Identität ihrem Andersseyn in; Ich ist es selbst und greift uber das Object uber Eine Seite des, ist Verhältnisses und das ganze Verhältniß das;
 
 *Consciousness* constitutes the stage of the reflection or of the *relationship* of spirit, of it as *appearance*. The I is the infinite relation of spirit to itself, but as *subjective*, as *certainty of itself*. As this absolute negativity it is the identity in its otherness; the I is it itself and reaches over the Object, is *one* side of the relationship and the *whole* relationship; — the *light* that manifests itself and something else besides.
 
-> §. 338.
+> Licht, das sich und noch Anderes manifestirt. §. 330.
 
 §. 330.
 
-> Diese Verknüpfung des Einzelnen und Allgemeinen ist Vermischung, weil das Einzelne zum Grunde liegendes Seyn, aber das Allgemeine dagegen in sich reflectirt ist. Sie ist daher der vielseitige Widerspruch; überhaupt der einzelnen Dinge der sinnlichen Apperception, die den Grund der allgemeinen Erfahrung ausmachen sollen, und der Allgemeinheit, - die viel =
+> Aber die Identität ist nur die formelle. Der Geist, der als Seele in der Form substantieller Auge in sich seyenden ist ist als diemeinheit, der Schwere, Reflexion subjective auf ein Dunkles bezogen in sich, und das Bewußtseyn wie das Verhältniß überhaupt ist,, der Widerspruch der Selbstständigkeit der Seiten und,
 
 But the identity is only the formal one. Spirit, which as *soul* is in the form of *substantial* universality, of the gravity that is within itself, is related, as subjective reflection into itself, to something dark, and consciousness is, like the relationship in general, the contradiction of the independence of the sides, and of their identity, in which they are sublated.
 
-> mehr Einzelnheit das Wesen und der der Dinge Grund seyn, soll, welche und deren die
+> ihrer Identität, in welcher sie aufgehoben sind.
 
 §. 331.
 
-> Selbstständigkeit der ausmacht, und selbst der mannichfalti gen Eigenschaften, die vielmehr frey von diesem negativen Bande und, von einander, selbstständige allge. meine Materien sind.
+> §. 331. Das Object hat, als aus der unendlichen Reflexion des Geistes in sich in seinem Urtheil entlassen diese un, endliche Beziehung auf sich zu seinem Wesen, und ist als Seyendes und Gegebenes gegen das Fürsich seyn des Ich bestimmt. 1 1
 
 The Object, as released in its judgment out of the infinite reflection of spirit into itself, has this infinite relation to itself as its essence, and is determined as *something existent and given* against the *being-for-itself* of the I.
 
 [p. 224]
 
-> §. 339.
+> Identität ist
 
 §. 332.
 
-> Die Wahrheit Wahrnehmens, der Identität des einzelnen des Objects und der welches Allgemein statt: Bewußtseyns, Einzelnheit Objects heit des und seiner Allgemeinheit oder der, vielmehr der Widerspruch des selbst ist, ist daher daß der Gegenstand vielmehr Erschei nung und seine, Reflexion in sich ein dagegen für sich seyendes Inneresist Das Bewußtseyn, welches die- Gegenstand erhält,. in Object Wahrneh mung sen übergegangen ist, ist den der das Verstand. der
+> , so dialektische Bewegung des Beist die wußtseyns ihm nicht als seine Thätigkeit sondern, sie ist en sich, d. i. für dasselbe Veränderung des Objects Das. Bewußtseyn erscheint daher verschieden nach der Verschie denheit des gegebenen Gegenstandes und seine Fortbil-, dung als eine Fortbildung des Objects die Betrachtung; von dessen nothwendiger Veränderung aber der Begriff, fält, weil er noch als solcher innerlich,, ist in uns. Die Kantische Philosophie kann am bestimmte =
 
 Since the I is not as the Concept, but as formal identity, the *dialectical* movement of consciousness is for it not as *its* activity, but is *in itself*, i.e., for it an alteration of the Object. Consciousness therefore appears different according to the diversity of the given object, and its further formation as a further formation of the Object; the consideration of the necessary alteration of this, however, the Concept, falls within us, since it is still inner as such.
 
-> 9.340. 3) Dem Verstand gelten die Dinge det, Wahrnehmung als Erscheinungen; das Innere derselben, das er zum Gegenstande faltigkeit hat, ist einerseits die aufgehobene Mannich derselben, und auf diese Weise die abstracte Identität, aber andererseits enthält es deßwegen auch die Mannichfaltigkeit, aber als innern einfachen Unterschied, welcher in dem Wechsel der Er scheinung mit sich identisch bleibt. Dieser einfache Untersschied ist zunächst das Reich der Geseke der Erschei nung, ihr ruhiges allgemeines Abbild. §. 341. Das Verhältniß allgemeiner, Bestimmungen Geseß zunächst, das, der bleibender innere ist, Nothwendigkeit hat insofern an sein Unterschied; die eine der Bestimmungen seine, als nicht äusserlich ihm von selbst der ans dern unterschieden, liegt unmittelbar selbst in der Ans dern Der innre Unterschied ist aber auf Weise,. er in ist an diese was oder der Unterschied Wahrheit,, der der Unterschied keiner ist ihm selbst,. §. 342. Das Bewußtseyn, das als Verstand zunächst nur das abstracte Innre und dann den allgemeinen Unterschied
+> ften so betrachtet werden, daß sieden Geist als Bewußtseyn aufgefaßt hat, und ganz nur Bestimmungen der Phänomenologie, nicht der Philosophie defselben enthält, Sie betrachtet Ich als Beziehung. auf ein jenseitsliege Ding sich: 2s sowohlan, so die Intelligenz als den Willen, und wenn, sie im Begriffe der reflectirenden Urtheilskraft zwar auf die Idee des Geistes die Subject Objectivität, =, einen anschauenden Verstand.uwie auch f..s auf die Idee der Natur, zu sprechen wird kommt, so diese Idee selbst wieder zu einer Erscheinung nem-, lich einer subjectiven Maxime, herabgesekt. Es ist daher für einen richtigen Sinn dieser Philosophie anzusehen, daß sie von Reinhold als eine Theorie Bewußtseyns des, unter dem Nahmen Vors ſtellungsvermögen, aufgefaßt worden Die. Fichtesche Philosophie hat denselben Standpunkt, und Nicht Ich nur als Gegenstand des Ich ist, nur im Bewußtseyn bestimmt bleibt als unan es; endlicher Anstoß, d. als Dingsich Bende siei.. Philosophien zeigen daher, daß nicht zum Begriffe oder zum Geiste, wie an und für sich er ist, sondern nur wie, er inBeziehung auf ein Anderes ist,gekommen sind.
 
 The Kantian philosophy can be regarded most determinately in this way: that it has grasped spirit as consciousness, and contains, entirely, only determinations of the phenomenology, not of the philosophy of it. It regards the *I* as relation to a thing-in-itself lying beyond, so both intelligence and the will, and when, in the concept of the *reflecting* power of judgment, it does come to speak of the *Idea* of spirit, subject-objectivity, an *intuitive understanding*, etc., as also of the Idea of nature, this Idea itself is again reduced to an appearance, namely to a subjective maxim. It is therefore to be regarded as a correct sense of this philosophy that it was grasped by *Reinhold* as a theory of *consciousness*, under the name *faculty of representation*. The *Fichtean* philosophy has the same standpoint, and the not-I is only as *object* of the I, only determined in *consciousness*; it remains as infinite check, i.e., as *thing-in-itself*. Both philosophies therefore show that they have come not to the *Concept* or to *spirit* as it is *in and for itself*, but only as it is in relation to an other.
 
 [p. 225]
 
-> als Gesek zum Gegenstande hat, hat nun den Begriff
+> Erscheinung mit seinem Wesen identisch zu
 
 §. 333.
 
-> zu solchem. Aber insofern es noch Bewußtseyn und ihm der Gegenstand ein - Gegebener ist, schaut es ihn als ein Lebendigesan, eine Innerlichkeit, welche an und für sich bestimmte Allgemeinheit, Wahrheit ist. § 343.. Am Bewußtseyn des Lebens aber zündet sich das Selbstbewußt Gegenstand seyn an; denn als Bewußtseyn hat es einen gerade im, als, ein von ihm unterschiedenes;
+> , zu, seine machen die Gewißheit seiner selbst zur Wahrheit erheben Die Existenz. Bewußtseyn hat, die er im ist die formelle oder allgemeine als solche; weil das Object nur abstract als das Seinige bestimmt oder in, ist er demselben nur in sich als abstractes Ich reflectirt, so hat diese Existenz noch einen Inhalt, der nicht als der seinige ist. §. 334. Die Stuffen dieser Erhebung der Gewißheit zur
 
 The goal of spirit as consciousness is to make this its appearance identical with its essence, to raise the *certainty of itself* to *truth*. The *existence* that it has in consciousness is the formal or universal one as such; because the Object is determined only abstractly as *its own*, or because it is reflected in the object only into itself as abstract I, this existence still has a content that is not as its own.
 
-> aber, ist dies Die Unmittelbarkeit Leben daß der Unterschied, in der kein das Un le
+> Wahrheit sind, daß er a
 
 §. 334.
 
-> terschied bendige Object. des Bewußtseyns ist, ist eben dieß zur Erscheinung oder zur Negation herabgesekte Moment, dje nun als innerer Unterschied, oder Begriff, die Ne gation ihrer gegen das Bewußtseyn ist selbst. b. Das Selbstbewußtseyn. §. 344.
+> ) Bewußtseyn überhaupt ist, welches einen Gegenstand als solchen hat, b) Selbsts bewußtseyn für welches Ich der Gegenstand, ist, c Einheit des Bewußtseyns und Selbstbewußtseyns, daß -) der Geist den Inhalt des Gegenstands als sich selbst und sich selbst als an und für sich bestimmt anschaut; Ver nunft der Begriff des Geistes
 
 The stages of this raising of certainty to truth are that it is a) *consciousness* in general, which has an object as such, b) *self-consciousness*, for which the I is the object, c) unity of consciousness and self-consciousness, in that spirit intuits the content of the object as itself and itself as determined in and for itself; — *reason, the Concept of spirit*.
 
-> wußtseyn Die Wahrheit, und dieses des Bewußtseyns der Grund von ist das jenem Selbst, so be daß 1
+> ,. a
 
 a.
 
 ##### Consciousness as Such.
 
-> auch alles Bewußtseyn eines andern Gegenstandes zu-
+> . Das Bewußtseyn, als solches.
 
 §. 335.
 
-> Ich gleich Ich Selbstbewußtseyn ist. Der Ausdruck von diesem ist =. § 345.. So aber ist es noch ohne Realität, denn es selbst, das Gegenstand seiner ist, ist nicht ein solcher, denn es hat keinen Unterschied; Ich aber, der Begriff selbst,
+> §. 335. Das Bewußtseyn ist) 1 zunächst das unmittelbare, seine Beziehung auf den Gegenstand daherdie einfache unvermittelte Gewißheit desselben; der Gegenstand selbst ist als seyender, aber als in sich reflectirter, weiter als unmittelbar Einzelner bestimmt; sinnli ches Bewußtseyn..
 
 Consciousness is 1) at first the *immediate* one, its relation to the object therefore the simple unmediated certainty of it; the object itself is, as *existent*, but as reflected into itself, further determined as immediately *singular*; — *sensuous* consciousness.
 
-> ist die absolute Diremtion des Urtheils; hiemit ist das Selbstbewußtseyn für sich der Trieb, seine Subjectivität aufzuheben und sich zu realisiren. §. 346. Da das abstracte Selbstbewußtseyn das Unmittel bare und die erste Negation des Bewußtseyns ist, so [p. 226] ist es an ihm selbst seyendes und sinnlich concre tes. Die Selbstbestimmung ist daher einestheils die Negation als sein von ihm in sich gesektes Moment, anderntheils als ein äusserliches Object. Over das Ganze, was sein Gegenstand ist, ist die vorhergehende Stuffe, das Bewußtseyn, und es selbst ist dieß noch §. 347. Der Trieb des Selbstbewußtseyns ist daher übers haupt seine Subjectivität aufzuheben; näher demabstrac ten Wissen von sich Inhalt und Objectivität zu geben, und umgekehrt sich von seiner Sinnlichkeit zu befreyen, die Objectivität als gegebene, aufzuheben und mit sich identisch zu sehen, oder sein Bewußtseynseinem Selbstbes wußtseyn gleich zu machen. Bendes ist ein und dafselbe. 1 §. 348.  1) Das Selbstbewußtseyn Begierde in seiner Unmittelbarkeit ist Einzelnes und, der Widerspruch seiner Abstraction, welche objectiv, oder seiner Unmittelbarkeit Begriff,, welche der an subjectiv die Idee seyn, Einheit soll, gegen seiner Ich = Ich und,
+> Zur Sinnlichkeit gehören zwar als Inhalt die Gefühlsbestimmungen äusserliche oder innerli, cheund als Form, das Räumliche und Zeitliche,. Aber dieses bendes gehört dem Geist seiner cons in creten Form an seinem Gefühle und Anschauung,. Das Bewußtseyn als Verhältniß enthält nur diezum 15 [p. 226] stimmung des Objects, die erste oder unmittelbare daher nurals seyende, und die Unmittelbarkeit als an und für sich bestimmt, Etwas, exstirendes Ding, Einzelnes. Was das Object sonst in seis ner Concretion ist, geht den Geist an; Ich als concretes ist der Geist Auch die Gefühlsbestimmun gen sind nur durch die. ns Form der Unmittelbarkeit si n liche im ihr Inhalt kann von ganz anderer Natur seyn ist;. Ich Bewußtseyn das noch abstracte Denken und hat daher in seinem Gegenstande zunächst jene abstracte Denkbestimmungen Die räumliche und. zeitliche Einzelnheit Hier und ist wie Ikt, ich in meiner Phänomenologie des Geistes Bamberg ( 1807. S. 25) den Gegenstand des sinnlichen Be-.ff wustseyns bestimmt habe Wesentlicher wird nur er 1. nach der Identität des Verhältnisses genommen, durch welche er seine Bestimmung hat; durch dieselbe ist er nur dem Bewußtseyn als Aesserli ches, nicht für sich Neusserliches oder selbst ein Aufsersichseyn. Diese Freyheit kann das Andere erst durch die Freiheit des Geistes erhalten. §. 336.
 
 To *sensuousness* belong, indeed, as *content* the determinations of feeling, outer or inner, and as *form*, the spatial and the temporal. But both of these belong to spirit in its *concrete* form, its feeling and intuition. Consciousness as relationship contains only the [p. 226] determination of the Object that enters into relationship with the abstract I as such, the first or immediate one, therefore only as *existent*, and immediacy as determined in and for itself, *something, existing thing, singular*. What the Object otherwise is in its concretion concerns spirit; the I as concrete is spirit. Also the determinations of feeling are *sensuous* only through the form of immediacy; their content can be of quite another nature. The I is in consciousness still abstract *thinking*, and therefore has in its object at first those abstract determinations of thought. Spatial and temporal singularity is *Here* and *Now*, as in my *Phenomenology of Spirit* (Bamberg 1807), p. 25 ff., I have determined the object of sensuous consciousness. It is taken more essentially only according to the identity of the relationship, through which it has its determination; through this same identity it is only for *consciousness* as an external, not *for itself* external or itself a being-outside-itself. This freedom the other can obtain only through the freedom of spirit.
 
-> der den Realität ist. - sich Seine Unmittelbarkeit, die selbst als das
+> Das Sinnliche als Etwas wird ein Anderes;
 
 §. 336.
 
-> aufzuhebende bestimmt ist, hat zugleich die Gestalt eines äuſſern Objects, nach welcher das Selbstbewußtseyn Be wußtseyn ist. Aber das Object ist als an sich Nichtis ges für die aus dem Aufheben des Bewußtseyns hervorgegangene Gewißheit seiner selbst bestimmt; das Selbsts bewußtseyn ist sich daher an sich im Gegenstande, der auf diese Weise dem Triebe gemäß, und in der Negativität, als der eigenen Thätigkeit des Ich, wird für dasselbe diese Identität.
+> die Reflexion des Etwas in sich, das Ding hat viele Eigenschaften, und das Einzelne in seiner Unmittelbarkeit mannichfaltige Prädicate - Das viele. Einzelne der Sinnlichkeit wird daher ein Breites,, eine Mannichfaltigkeit von Beziehungen Re, flexionsbestimmungen und Allgemeinhei, ten Da der Gegenstand. verändert das so ist, so ist sinnliche Bewußtseyn zum Wahrnehmen geworden. §. 337.
 
 The *sensuous* as something becomes an *other*; the reflection of something into itself, *the thing has many* properties, and the singular in its immediacy *manifold predicates*. The *many singulars* of sensuousness thus become *something broad*, — a manifold of *relations*, *determinations of reflection*, and *universalities*. Since the object is thus altered, sensuous consciousness has become *perceiving*.
 
-> §. 349.
+> 2) Das Bewußtseyn das über
 
-§. 337.
+> , die Sinnlichkeit hinausgegangen will den Gegenstand, in seiner Wahr [p. 227] heitnehmen, nicht als bloß unmittelbaren, sondern in sich vermittelten, und in sich reflectirten. Er soist mit eine Verbindung von sinnlichen und von Gedankens bestimmungen wie das Bewußtseyn; so seinem sinnlis in chenVerhalten hier zugleich Reflexioninsich ist. Damit seine Identität mit dem Gegenstand ist nicht mehr die abstracte der Gewißheit, sondern die bestimmte, ein Wissen.
+
+§. 337. [p. 227] not as merely immediate, but as mediated within itself, and as reflected into itself. It is thus a combination of sensuous determinations and of determinations of thought; just as consciousness here, in its sensuous behavior, is at the same time reflection-into-itself. Hence its identity with the object is no longer the abstract identity of *certainty*, but the *determinate* one, a *knowing*.
 
 2) Consciousness, which has gone beyond sensuousness, wants to *take* the object in its *truth*,
 
-> Der Gegenstand kann dieser Thätigkeit keinen Widerstand leisten, weil er an sich und für dasselbe das
-
-[p. 227]
-
-> Selbstlose ist; die Dialektik, welche seine Natur ist, sich aufzuheben, ist hier als jene Thätgkeit, die Ich hies mit zugleich als äusserliche anschaut. Das gegebene, Object wird hierin eben so subjectiv, als die Subjectivi tät sich entäussert und sich objectiv wird. §. 350.  Das Product dieses Processes ist, daß Ich in dies
-
-not as merely immediate, but as mediated within itself, and as reflected into itself. It is thus a combination of sensuous determinations and of determinations of thought; just as consciousness here, in its sensuous behavior, is at the same time reflection-into-itself. Hence its identity with the object is no longer the abstract identity of *certainty*, but the *determinate* one, a *knowing*.
-
-> ser dieser Realität Rückkehr sich sich mit zunächst sich selbst nur zusammenschließt als Einzelnes; Daseyn aber in giebt, weil es sich auf das selbstlose Object nur negativ bezieht, und daß dieses nur aufgezehrt wird; die Bes gierde ist daher in ihrer Befriedigung überhaupt zerstörend, und selbst süchtig.  §. 351. Aber das Selbstbewußtseyn hat an sich schon die Gewißheit seiner in dem unmittelbaren Gegenstande; das Selbstgefühl, das ihm in der Befriedigung wird, ist daher nicht das abstracte seines Fürsüchseyns oder
+> Die nähere Stuffe des Bewußtseyns auf welcher, die Kantische Philosophie den Geist auffast, ist das Wahrnehmen welches überhaupt der Stand-, punkt unsers gewöhnlichen Bewußtseyns und mehr oder weniger der Wissenschaften ist. Es wird von sinnlichen Gewißheiten einzelner Upperceptionen oder Beobachtungen ausgegangen, die dadurch zur Wahrheit erhoben werden sollen daß, sie inihrer Beziehung betrachtet über reflectirt, übersie, haupt daß sie nach Verstandesbestimmungen zugleich zu etwas allgemeinem, zu Erfahrungen werden. §. 338
 
 The closer stage of consciousness, at which the *Kantian philosophy* grasps spirit, is *perceiving*, which is in general the standpoint of our *ordinary consciousness* and, more or less, of the *sciences*. One starts from sensuous certainties of individual apperceptions or observations, which are supposed to be raised to truth in that they are considered in their relationship, reflected upon, in general in that they, according to determinations of the understanding, become at the same time something universal, *experiences*.
 
-> Befriedigung nur seiner Einzelnheit ist Negation, sondern ein Objectives eigenen; die
+> . Diese Verknüpfung des Einzelnen und Allgemeinen
 
 §. 338.
 
-> barkeit, und die die Diremtion derselben seiner daher in Unmitteldas Bewußtsenn eines freyen Objects, in welchem Ich das Wissen seiner als Ich hat. §. 352. 2) Es ist ein Selbstbewußtseyn für ein Selbstbewußtseyn, zunächst unmittelbar, als ein Anderes für ein Anderes. Ich schaue im Ich unmittelbar mich selbst an, aber auch darin ein unmittelbar daseyendes, als Ich absolut selbstständiges anderes Object. Dieser Widere spruch, daß Ich nur Ich als Negativität des unmittele baren Daseyns bin, gibt den Proceß des Aner kennens.
+> - istVermischung weil das Einzelne zum Grunde lie-, gendes Seyn aber das Allgemeine dagegen, sich reflec in tirt ist. Sie ist daher der vielseitige Widerspruch; überhaupt der einzelnen Dinge der sinnlichen Apper- - ception, die den Grund der allgemeinen Erfahrung ausmachen sollen, und der Allgemeinheit, die vielmehr das Wesen und der Grund seyn soll, und die der Einzelnheit der Dinge, selbst welche deren Selbstständigkeit ausmacht,und der mannichfalti gen Eigenschaften, die vielmehr frey von diesem negativen Bande und von, einander, selbstständige allge. meine Materien sind.
 
 This connection of the singular and the universal is a mixture, because the singular is the being that lies at the *ground*, but the universal, by contrast, is *reflected* into itself. It is therefore the many-sided contradiction; — in general, of the *singular* things of sensuous apperception, which are supposed to make up *the ground* of universal experience, and of *universality*, which is rather supposed to be the essence and the ground, — and that of the *singularity* of the *things* themselves, which constitutes their *independence*, and of the manifold *properties*, which are rather, free from this negative bond and from one another, independent *universal matters*.
 
 [p. 228]
 
-> 5. 353.
+> Die Wahrheit des Wahrnehmens, welches statt der Identität des einzelnen Objects und der Allgemein:
 
 §. 339.
 
-> Er ist ein Kampf; denn Ich kann mich im Andern nicht als mich selbst wissen, insofern das Andre ein unmittelbares anderes Daseyn für mich ist. Ich bin daher auf die Aufhebung dieser Unmittelbarkeit gerichtet. Aber sie ist zugleich das Daseyn des Selbstbewußtseyns, in welchen Selbstgefühl es als in seinem Zeichen Seyn und Werkzeug, sein eignes und sein für Andere, und seine es mit ihnen vermittelnde Allgemeinheit hat. Ebensosehr werden, sondern kann nurinsofern Ich als unmittelbares Ich an mir selbst nicht die anerkannt Unmit-
+> heit des Bewußtseyns, oder der Einzelnheit des Objects selbst und seiner Allgemeinheit, vielmehr der Widerspruch ist, ist daher, daß der Gegenstand vielmehr Erschei nung und seine Reflexion inein dagegen für sich sich seyendes Inneresist Das Bewußtseyn welches die-,,,. sen Gegenstand erhält in den das Object der Wahrneh mung übergegangen ist ist der Verstand. 9.340. 3) Dem Verstand gelten die Dinge det Wahr-,
 
 The *truth* of perceiving, which instead of the identity of the singular Object and the universality of consciousness, or of the singularity of the Object itself and its universality, is rather the contradiction, is therefore that the object is rather *appearance*, and its reflection-into-itself, by contrast, an *inner* that is for itself. The consciousness that obtains this object, into which the Object of perception has passed over, is the *understanding*.
 
-> telbarkeit aufhebe, und dadurch meiner Freyheit Daseyn
+> nehmung als Erscheinungen; das Innere derselben,
 
 §. 340.
 
 3) For the *understanding* the things of perception count as appearances; the *inner* of these, which it has as its object, is on the one hand the sublated *manifoldness* of these, and in this way the abstract identity, but on the other hand it therefore also contains the manifoldness, but as *inner simple difference*, which remains identical with itself in the alternation of appearance. This simple difference is at first the realm *of the laws* of appearance, its tranquil universal image.
 
-> gebe. §. 354. Der Kampf des Anerkennens geht also auf Leben und Tod; jedes der beyden Selbstbewußtseyn bringt das Lebendes Andern in Gefahr und begiebt sich selbst darein, aber nur als in Gefahr, denn eben so ist jes des auf die Erhaltung seines Lebens, als wesentlichen Moments, gerichtet. Der Tod des einen, der den Widerspruch nach einer Seite auslöst, durch die abstracte, da- Her rohe Negation der Unmittelbarkeit, ist nach der wesent-
+> das er zum Gegenstande hat, ist einerseits die aufgehobene Mannich faltigkeit derselben, und auf diese Weise die abstracte Identität, aber andererseits enthält deßwees gen auch die Mannichfaltigkeit aber als innern ein-, fachen Unterschied welcher dem Wechsel der, in Er scheinung mit sich identisch bleibt Dieser einfache Unters-. schied ist zunächst das Reich der Geseke der Erschei nung, ihr ruhiges allgemeines Abbild. §. 341. Das Geseß zunächst das Verhältniß allgemeiner, bleibender Bestimmungen hat insofern sein Unterschied
 
 §. 341.
 
-> grössere lichen Seite Widerspruch, dem Daseyn des Anerkennens J, somit der
+> ,,
 
 The law, at first the relationship of universal, abiding determinations, has, insofar as its difference is the inner one, its necessity in itself; the one of the determinations, as not externally distinguished from the other, lies immediately itself in the other. The inner difference, however, is in this way what it is in truth, the difference in itself, or the *difference that is none*.
 
-> . §. 355. Indem das Leben so wesentlich als die Freyheit, ist so endigt sich der Kampf, da in dieser Sphäre die unmittekbare Einzelnheit der beyden Selbstbewußtseyn vorausgesekt ist, zunächst mit der Ungleichheit, daß das eine der Kämpfenden das Leben vorzieht und sich als abstractes seyn oder einzelnes aufgiebt Selbstbewußtseyn erhält an, sein Anerkannt- Allgemein-
+> der innere seine Nothwendigkeit ist, ihm selbst die an; eine der Bestimmungen als nicht äusserlich von der ans, dern unterschieden, liegt unmittelbar selbst in der Ans dern. Der innre Unterschied ist aber auf diese Weise, was er in Wahrheit ist, der Unterschied an ihm selbst, oder der Unterschied, der keiner ist
 
 §. 342.
 
-> heit aber hält -, und vom, das Ersten Andere als Unterworfenen aber dieser anerkannt
+> .
 
 The consciousness which, as *understanding*, has at first only the abstract inner and then the universal difference
 
-> wird: das Verhältniß der Herrschaft und Knechtschaft.
+> §. 342. Das Bewußtseyn, das als Verstand zunächst nur das abstracte Innre und dann den allgemeinen Unterschied
 
 [p. 229]
 
-> Der Kampf des Anerkennens und die Unterwerfung unter einen Herrn ist die Erscheinung, in welcher das Zusammenleben der Menschen, als ein Beginnen der Staaten, hervorgegangen ist Die Gewalt, welche in dieser Erscheinung Grund. ist,
+> eszu solchem Aber insofern. der Gegenstand ein Gegebener schaut ihn als ein ist, es Lebendigesan, eine Innerlichkeit, welche an und
 
 as law as its object, now has the *Concept* as such an object. But insofar as it is still consciousness and for it the object is something given, it intuits it as a *living being* — an inwardness, which is universality determinate in and for itself, truth.
 
-> ist darum nicht Grund des Rechts; obgleich das
+> für sich bestimmte Allgemeinheit, Wahrheit.ist §. 343.
 
 §. 343.
 
-> nothwendige und berechtigte Moment im Uebergange des Zustandes des in die Begierde und Einzelnheit versenkten Selbstbewußtseyns in den Zustand des allgemeinen Selbstbewußtseyns. §. 356.  Dieß Verhältniß ist erstlich nach seiner Identität eine Gemeinsamkeit des Bedürfnisses der Begierde
+> Am Bewußtseyn des Lebens aber zündet sich das Selbstbewußt seyn denn als Bewußtseyn hat an; es einen Gegenstand als ein von ihm unterschiedenes,; aber, gerade dies im Leben, daß der Unterschied kein Un terschied ist. Die Unmittelbarkeit, in der das le bendige Object des Bewußtseyns ist, ist eben dieß zur
 
 On the consciousness of life, however, *self-consciousness* is kindled; for as consciousness it has an *object*, as something distinguished from it; but precisely this in life, that the difference is no difference. The *immediacy* in which the living Object of consciousness is, is precisely this moment reduced to appearance or to negation, which now, as inner difference, or Concept, is the negation of itself over against consciousness.
 
-> und der rohen der Sorge Zerstöhrung für ihre des Befriedigung unmittelbaren, und Objects an die, Stelle tritt
+> Erscheinung oder zur Negation herabgesekte Moment, dje nun als innerer Unterschied, oder Begriff, die Ne
 
 b.
 
-> des Vermittelnden,, worin die und beyden Formiren Extreme desselben der Selbst als.
+> gation ihrer selbst gegen das Bewußtseyn ist
 
 ##### Self-Consciousness.
 
-> ständigkeit und Unselbstständigkeit sich zusammenschließen.
+> . b
 
 §. 344.
 
-> §. 357. Nach seinem Unterschiede hat der Herr in dem Knechte und dessen Dienste die Anschauung der Objectivität seines einzelnen Fürsichseyns, in der Aufhebungdessels ben, aber insofern es einem Andern angehört. Der
+> . Das Selbstbewußtseyn. §. 344. Die Wahrheit des Bewußtseyns das Selbst be ist wußtseyn und dieses der Grund von jenem, daß, so 1 auch alles Bewußtseyn eines andern Gegenstandes zugleich Selbstbewußtseyn ist
 
 The truth of consciousness is *self-consciousness*, and the latter the ground of the former, so that all consciousness of another object is also at the same time self-consciousness. The expression of this is I = I.
 
-> Knecht aber arbeitet sich im Dienste des Herrn seinen Ein-
+> . Der Ausdruck von diesem ist
 
 §. 345.
 
-> feloder Eigenwillen ab, hebt seine innere Unmittelbarkeit auf; und macht durch diese Entäusserungden und Ue die Furcht des Herrn allgemeinen den Anfang Selbstbewußtseyn der Weisheit, = bergang zum. §. 358. Dasalt meine Selbstbewußtseyn ist
+> Ich Ich =. §. 345. So aber ist es noch ohne Realität, denn, es selbst, das Gegenstand seiner ist, ist nicht ein solcher denn es hat keinen Unterschied; Ich aber, der Begriff selbst, istdie absolute Diremtion des Urtheils hiemit das; ist
 
 But thus it is still without reality, for it itself, which is *object* of itself, is not such an object, for it has no difference; but the I, the Concept itself, is the absolute diremption of judgment; hence self-consciousness for itself is the drive to sublate its subjectivity and to realize itself.
 
-> das positive 3) Wiſſen r selbst im andern Selbst, deren
+> Selbstbewußtseyn für sich der Trieb seine Subjectivität, aufzuheben und sich zu realisiren.
 
 §. 346.
 
-> jedes als freye Einzelnheit absolute Selbstständigkeit hat, aber durch die Negation seiner Unmittelbarkeit [p. 230] sich nicht vom andern unterscheidet, allgemeines und objectiv ist und die reelle Allgemeinheit so hat, als es im freyen Andern sich anerkannt weiß, und dieß weiß, info fern es das andere anerkennt und es frey weiß. Dieß allgemeine Wiederscheinen des Selbstbe wußtseyn, der Begriff, der sich in seiner Objectivi
+> §. 346. Da das abstracte Selbstbewußtseyn das Unmittel bare und die erste Negation des Bewußtseyns ist, so [p. 230] ist es an ihm selbst seyendes und sinnlich concre tes. Die Selbstbestimmung ist daher einestheils die Negation als sein von ihm in sich gesektes Moment anderntheils als ein äusserliches Object Over das Ganze.,, was sein Gegenstand die vorhergehende Stuffe ist, ist, das Bewußtseyn und selbst
 
 Since abstract self-consciousness is the *immediate* and the *first* negation of consciousness, so [p. 230] it is, in itself, something *that is* and *sensuously concrete*. *Self-determination* is therefore, on the one hand, the negation as its moment posited by it within itself, on the other hand as an external Object. Or the whole that is its object is the preceding stage, consciousness, and it itself is still this.
 
-> tät als mit sich identische Subjectivität und darum
+> , dieß noch es ist §. 347.
 
 §. 347.
 
-> allgemein weiß, ist die Substanz jeder wesentlic chen Geistigkeit, der Familie, des Vaterlandes -, des Stacts; so wie aller Tugenden, der Liebe, Freundschaft, Tapferkeit, der Ehre, des Ruhms. §. 359.  Diese Einheit des Bewußtseyns und Selbstbewußte seyns hat zunächst die Einzelnen als für sich seyende ge
+> Der Trieb des Selbstbewußtseyns daher übers ist haupt seine Subjectivität aufzuheben näher demabstrac; ten Wissen von sich Inhalt und Objectivität zu geben, und umgekehrtsich von seiner Sinnlichkeit zu befreyen, die Objectivität als gegebene aufzuheben und mit sich iden- -, tisch zu sehen oder sein Bewußtseyn seinem Selbstbes, wußtseyn gleich zu machen. Bendes ist ein und daf-
 
 The drive of self-consciousness is therefore in general to sublate its subjectivity; more precisely, to give content and objectivity to the abstract knowing of itself, and conversely to free itself from its sensuousness, to sublate objectivity as given and posit it as identical with itself, or to make its consciousness equal to its self-consciousness. — Both are one and the same.
 
-> Identität geneinander die bestehen ganz. unbestimmte Aber ihr Unterschied Verschiedenheit ist in, dieser oder
+> selbe. 1
 
 §. 348.
 
 1) Self-consciousness in its immediacy is a *singular* and *desire*, the contradiction of its abstraction, which ought to be objective, or of its immediacy, which ought to be subjective, against I = I, the Concept, which in itself is the Idea, the unity of itself and of reality. — Its immediacy, which is determined as what is to be sublated, has at the same time the shape of an external Object, according to which self-consciousness is consciousness. But the Object is determined as something *null in itself* for the certainty of itself that has proceeded from the sublation of consciousness; self-consciousness is therefore to itself *in itself* in the object, which in this way, in accordance with the drive, and in negativity, as the I’s own activity, becomes *for it* this identity.
 
-> vielmehr ein Unterschied, der keiner ist. Ihre Wahrheit ist daher die an und für sich seyende, unvermittelte Algesmeinheit und Objectivität des Selbstbewußtseyns, die Vernunft. c. A Die Vernunft. §. 360.  Die an und für sich seyende Wahrheit Subjectivität, welche die Vernunft ist, ist die einfache Identität der des Begriffs und seiner Objectivität und Allgemeinheit Die Allgemeinheit der Vernunst hat daher ebensosehr die Bedeutung des im Bewußtseyn gegebenen Objects, als des Ich im Selbstbewußtseyn. (
+> §. 348.) Das Selbstbewußtseyn in seiner Unmittelbarist 1 keit Einzelnes und Begierde, der Widerspruch seiner Abstraction, welche objectiv, oder seiner Unmit- - telbarkeit, welche subjectiv seyn soll gegen Ich Ich, =, den Begriff, der an sich die Idee Einheit seiner selbst und, der Realität ist. Seine Unmittelbarkeit, die als das aufzuhebende bestimmt hat zugleich die Gestalt eines ist, äuſſern Objects, nach welcher das Selbstbewußtseyn Be wußtseyn.ist Aber das Object ist als an sich Nichtis ges für die aus dem Aufheben des Bewußtseyns hervorgegangene Gewißheit seiner selbst bestimmt; das Selbsts bewußtseyn ist sich daher an sich im Gegenstande, der auf diese Weise dem Triebe gemäß, und in der Negativität, als der eigenen Thätigkeit des Ich, wird für dasselbe
 
 §. 349.
 
-> §. 361.
+> diese Identität.
 
 The object can offer no resistance to this activity, because it is in itself and for it the
 
-> Die Vernunft ist daher als reine Einzelnheit der Subjectivität an und für sich bestimmt, und daher die
+> §. 349. Der Gegenstand kann dieser Thätigkeit keinen Widerstand leisten, weil er an sich und für dasselbe das
 
 [p. 231]
 
-> , Bestimmungen des Selbstbewusitſeyns Gewißheit gegenständlich daß die, Bestimmungen Wesense eben der Dinge so sehr, als seine eigenen Gedanken sind des. §. 362. CA
+> ; die Dialektik, welche seine Natur ist, sich aufzuheben, ist hier als jene Thätgkeit, die Ich hies mit zugleich als äusserliche anschaut. Das gegebene, Object wird hierin eben als die Subjectivi so subjectiv,
 
 self-less; the dialectic, which is its nature, to sublate itself, is here as that activity, which the I thereby at the same time intuits as external. The given Object becomes herein just as subjective as subjectivity externalizes itself and becomes objective to itself.
 
-> Die Vernunft ist als diese Identität die absolute
+> tät sich entäussert und sich objectiv wird.
 
 §. 350.
 
-> Substanz, welche die Wahrheit sie ist. Die hat eigenthümliche Bestimmtheit vorausgesekte, welche Object, hier so wie, nachdem gegen das, gegen Ich Ich Einseitigkeit aufgehoben das, das - Object ist die selbstische Wahrheit seine deren Bestimmtheit hat der für sich substantielle seyende reine Begriff,, Ich, - die Gewißheit 1 selbst als Allgemeinheit, ist Diese seiner sende Wahrheit selbst unendliche ist der Geist.. wis-
+> §. 350. Das Product dieses Processes ist, daß Ich in dies ser Realität sich mit sich selbst zusammenschließt; aber in dieser Rückkehr sich zunächst nur als Einzelnes Daseyn giebt, weil es sich auf das selbstlose Object nur negativ bezieht, und daß dieses nur aufgezehrt wird; die Bes gierde ist daher in ihrer Befriedigung überhaupt zer=
 
 The product of this process is that the I joins together with itself in this reality; but in this return it gives itself, at first only as a *singular*, determinate being, because it relates itself only negatively to the self-less Object, and that this is only consumed; desire is therefore in its satisfaction in general *destructive*, and *selfish*.
 
-> 1
+> störend, und selbst süchtig.
 
 §. 351.
 
-> C. Der Gei ft.  §. 363.  Der Ge ist hat sich alsdie Einheit der Seele und des Bewußtseyns gezeigt, jener einfachen unmittelbaren Totalitat, und dieses Wissens, welches von keinem Gegenstand beschränkt, nicht mehr im subjectiven Verhältnisse steht,
+> .§ 351. Aber das Selbstbewußtseyn hat an sich schon die Gewißheit seiner in dem unmittelbaren Gegenstande; das Selbstgefühl, das ihm in der Befriedigung wird, ist daher nicht das abstracte seines Fürsüchseyns oder nur seiner Einzelnheit, sondern ein Objectives; die Befriedigung ist die Negation seiner eigenen Unmittelbarkeit, und die Diremtion derselben daher in das Bewußtsenn eines freyen Objects, in welchem Ich das Wissen seiner als Ich hat. §. 352.
 
 But self-consciousness has *in itself* already the certainty of itself in the immediate object; the self-feeling that comes to it in satisfaction is therefore not the abstract self-feeling of its *being-for-itself* or only of its singularity, but an *objective* one; satisfaction is the negation of its own immediacy, and the diremption of this, therefore, into the consciousness of a *free* Object, in which the I has the knowing of itself as I.
 
-> jectiven sondern Wissen Totalität der ist einfachen. Der, Geist weder fängt daher nur noch von obe =
+> 2) Es ist ein Selbstbewußtseyn für ein Selbstbe =
+
+> wußtseyn, zunächst unmittelbar,als ein Anderes für ein Anderes. Ich schaue im Ich unmittelbar mich selbst an, aber auch darin ein unmittelbar daseyendes, als Ich absolut selbstständiges anderes Object. Dieser Widere spruch, daß Ich nur Ich als Negativität des unmittele baren Daseyns bin, gibt den Proceß des Aner kennens. 1
 
 §. 352.
 
 2) It is a self-consciousness for a self-consciousness, at first *immediately*, as an other for an *other*. I intuit in the I immediately myself, but also therein an immediately existent other Object, absolutely independent as I. This contradiction, that I am I only as negativity of immediate determinate being, gives the process of *recognition*.
 
-> seinem eigenen Seyn an, und verhält sich nur zu seinen eigenen Bestimmungen. §. 364. ist sie Die Natur Seele endlich ist, insofern Bewußtseyn unmittelbar, insofern oder von Gegenstand bestimmt; das insofern er unmite es einen hat; in der Geist hat, sie eine telbar von eine ihm Bestimmtheit gesekte ist. sich An und, oder für sich insofern ist er die
-
 [p. 232]
 
-> Begriff und deren Realität das Wissen, oder die
+> Er ist ein Kampf; denn Ich kann mich im Andern nicht als mich selbst wissen, insofern das Andre ein
 
 §. 353.
 
-> Intelligenz ist. Die Endlichkeit des Geistes besteht daher näher darin, daß das Wissen das Anundfürsichseyn der Vernunft nicht erfaßt hat. Diese ist aber nur insofern die unendliche, als sie die absolute Freyheit ist, daher sich als unmittelbares Bestimmtseyn ihrem Wissen voraussekt und sich dadurch verendlicht, und die ewige Bewegung ist, diese Unmittelbarkeit aufzuheben und sich selbst zu begreiffen.  §. 365. 1 Das Fortschreiten des Geistes ist Entwicklung, weil seine Eristenz, das Wissen, das an und für sich
+> unmittelbares anderes Daseyn für mich Ich bin ist. daher auf die Aufhebung dieser Unmittelbarkeit gerichtet Aber zugleich das Daseyn des Selbstbewußtseyns sie ist,. in welchen es als in seinem Zeichen und Werkzeug, sein eignes Selbstgefühl und sein Seyn für Andere, und seine mit ihnen vermittelnde Allgemeinheit hat es. Ebensosehr kann Ich als unmittelbares nicht anerkannt werden sondern nurinsofern Ich an mir selbst die Unmit-, telbarkeit aufhebe und dadurch meiner Freyheit Daseyn, gebe. §. 354. Der Kampf des Anerkennens geht also auf Leben
 
 It is a *struggle*; for I cannot know myself as myself in the other, insofar as the other is an immediate other determinate being for me. I am therefore directed toward the sublation of this immediacy. But it is at the same time the determinate being of self-consciousness, in which it has, as in its sign and tool, its own *self-feeling* and its being *for others*, and its universality that mediates it with them. Equally, I cannot be recognized as immediate, but only insofar as I sublate immediacy in myself and thereby give determinate being to my freedom.
 
-> Bestimmtseyn, der Zweck oder das Vernünftige, und das
+> -
 
 §. 354.
 
-> Ueberseken rein nur dieser formelle Uebergang in die Manifestation ist. Insofern das Wissen die unendliche Ne gativität ist, so ist dieses Uebersehen im Begriffe die Er- ſchaffung überhaupt. Insofern das Wissen nur erst abstractes oder formelles ist, so ist der Geist in ihm seinem Begriffe nicht gemäß, und sein Ziel ist, die absolute Erfüllung und die absolute Freyheit seines Wissens Hervorzubringen. § 366..
+> und Tod; jedes der beyden Selbstbewußtseyn bringt das Leben des Andern Gefahr und begiebt sich selbst dar inein aber nur als in Gefahr, denn eben jes, so ist des auf die Erhaltung seines Lebens als wesentlichen, Moments gerichtet Der Tod des einen der den Widerdie,,. spruch nach einer Seite auslöst durch abstracte da-,, Her rohe Negation der Unmittelbarkeit nach der wesent-, ist lichen Seite dem Daseyn des Anerkennens, somit der, J
 
 The struggle of recognition therefore goes for life and death; each of the two self-consciousnesses puts the life of the other in *danger* and itself goes into it, — but only as *in danger*, for each is just as much directed toward the preservation of its life, as an essential moment. The death of the one, which resolves the contradiction on one side, through the abstract, hence crude negation of immediacy, is on the essential side, the determinate being of recognition, thus the greater contradiction.
 
-> Der Weg des Geistes ista) theoretischzu zu zu seyn, es
+> grössere Widerspruch.
 
 §. 355.
 
-> mit und seiner sie als unmittelbaren Seinige zu Bestimmtheit; oder thun das Wissen haben Voraussetzung die sehen damit von Abstraction von zu befreyen der, und subjectiv seiner zu Indem das Wissen und die in Bestimmtheit an und für bestimmt machen oder. als freye Intelligenz sich ist, ist sich es unmittelbar, b Willen, praktischer Geist, welcher zunächst unmits) Willensbestimmung jectivität telbar will, befreyt und seine freyer von Willen ihrer Sub-, und objectiver, Geist so daß ist er als.
+> §. 355. Indem das Leben so wesentlich als die Freyheit ist, so endigt sich der Kampf, da in dieser Sphäre die unmittekbare Einzelnheit der beyden Selbstbewußtseyn vorausgesekt zunächst mit der Ungleichheit ist, daß das eine, der Kämpfenden das Leben vorzieht und sich als abstractes oder einzelnes Selbstbewußtseyn erhält sein Anerkannt-, - seyn aber aufgiebt das Andere aber, dieser Allgemeinan heit hält, und vom Ersten als Unterworfenen anerkannt wird: das Verhältniß der Herrschaft und Knechtschaft.
 
 Since life is as essential as freedom, the struggle ends — since in this sphere the immediate singularity of the two self-consciousnesses is presupposed — at first with the inequality that the one of the combatants prefers life and preserves itself as abstract or singular self-consciousness, but gives up its being-recognized, while the other, however, holds fast to this universality, and is recognized by the first as by one subjected: — the *relationship* of *mastery* and *servitude*.
 
 [p. 233]
 
-> 5. 367. Der theoretische sowohl als praktische Geist sind noch in der Sphäre des subjectiven Geistes über = 1 haupt; dieß Wissen und Wollen ist noch formell Aber als Geist ist er überhaupt die Einheit der Subjectivität. Objectivität; als subjectiver Geist ist er daher ebenund hervorbringend; aber seine Productionen sind forsosehr mel; die Production des theoretischen ist der ideelle Boden seiner Welt, des praktischen ein formeller Stoff und Inhalt derselben.
+> fung unter einen Herrn Erscheinung ist die, in welcher das Zusammenleben der Menschen als ein, Beginnen der Staaten, hervorgegangen ist. Die Gewalt, welche in dieser Erscheinung Grund ist, ist darum nicht Grund des Rechts; obgleich das nothwendige und berechtigte Moment Ueim bergange des Zustandes des die Begierde und in Einzelnheit versenkten Selbstbewußtseyns in den Zustand des allgemeinen Selbstbewußtseyns. §. 356. Dieß Verhältniß ist erstlich nach seiner Identität eine Gemeinsamkeit Bedürfnisses der Begierde
 
 The struggle of recognition and the subjection under a master is the *appearance* in which the living together of human beings, as a commencement of states, has proceeded. The *violence* which in this appearance is ground is therefore not ground of *right*; although the *necessary* and *legitimate* moment in the transition of the *state* of the self-consciousness sunk into desire and singularity into the state of universal self-consciousness.
 
-> Die Lehre vom Geiste wird gewöhnlich als 1 em
+> des
 
 §. 356.
 
-> pirische Psychologie behandelt, und der Geist als eine Sammlung von Kräften und Vermö gen betrachtet, die sich zufälligerweise bey einander befinden, so daß eines und das andere unbeschadet der Uebrigen eben so gut auch nicht da seyn könnte; wie man der Physik nicht sieht, daß der Natur eben viel abgehen würde, wenn z. B. ein solches Anhänge
+> und der Sorge für ihre Befriedigung und die Stelle, an des die der rohen Zerstöhrung des unmittelbaren Objects tritt, Erwerbung Erhaltung und Formiren desselben als, Vermittelnden, worin die beyden Extreme der Selbst. ständigkeit und Unselbstständigkeit sich zusammenschließen. §. 357. Nach seinem Unterschiede hat der Herr dem in
 
 This relationship is, first, according to its identity, a *commonality* of the need of desire and of the care for its satisfaction, and in the place of the crude destruction of the immediate Object there steps the acquisition, preservation and forming of the same as of the mediating, in which the two extremes of independence and dependence join together.
 
-> ihr sel, nicht wie vorfände der Magnetismus. - Die vorgestellt Beziehung wird, der sich Ver in =
+> -
 
 §. 357.
 
-> mögen auf einander wird übrigens als eine äussere Nothwendigkeit oder Zweckmäßigkeit angesehen, und diese Nußlichkeit der Vermögen erscheint damit oft als eine sehr entfernte, ja sogar zuweilen abgeschmackte. Die Psychologie gehört, wie die Logik, zu denjenigen Wissenschaften, die in neuern Zeiten von der allgemeinern Bildung des Geistes und dem tieffern Begriffe der Vernunft noch am wenigsten Nuken gezogen haben, und befindet sich in einem
+> Knechte und dessen Dienste die Anschauung der Objectivität seines einzelnen Fürsichseyns, in der Aufhebung dessels ben, aber insofern es einem Andern angehört. Der Knecht aber arbeitet sich im Dienste des Herrn seinen Ein- - feloder Eigenwillen hebt seine innere Unmittelab, barkeit auf und macht durch diese Entäusserung und die; Furcht des Herrn den Anfang der Weisheit den Ue, = bergang zum allgemeinen Selbstbewußtseyn.
 
 In accordance with its difference, the master has in the servant and in his service the intuition of the objectivity of his singular being-for-itself, in the sublation of the same, but insofar as it belongs to an other. — The servant, however, works off his singular- or self-will in the service of the master, sublates his inner immediacy; and, through this externalization and the fear of the master, makes the beginning of wisdom, — the transition to *universal self-consciousness*.
 
-> höchst Seite schlechten zwar durch Zustande die Wendung. Es der ist ihr Kantischen von der andern Philo-
+> §. 358. 3) Dasalt meine Selbstbewußtseyn ist
 
 §. 358.
 
 3) *Universal self-consciousness* is the positive knowing of itself in the other self, each of which, as free singularity, has *absolute independence*, but through the negation of its immediacy
 
-> sophie eine grössere Wichtigkeit beygelegt worden, sogar daß sie, und zwar in ihrem empirischen Zustan de die Grundlage der Metaphysik ausmachen solle, als welche in nichts anders bestehe, als die Thatsa
+> das positive Wiſſen r selbst im andern Selbst, deren jedesals freye Einzelnheit absolute Selbstständigkeit hat aber durch die Negation seiner Unmittelbarkeit, 1
 
 [p. 234]
 
-> chen des menschlichen Bewußt seyns, und zwar als Thatsachen, wie sie gegeben sind, empirisch aufzufassen und sie zu zergliedern. Mit dieser Stellung der Psychologie, welche zugleich mit dem Standpunkte
+> sich nicht vom andern unterscheidet, allgemeines und objectiv ist und die reelle Allgemeinheit so hat, als es im freyen Andern sich anerkannt weiß, und dieß weiß, info fern es das andere anerkennt und es frey weiß. Dieß allgemeine Wiederscheinen des Selbstbe
 
 does not distinguish itself from the other, is universal and objective and has the real universality to the extent that it knows itself recognized in the free other, and knows this insofar as it recognizes the other and knows it free.
 
-> des Bewußtseyns und mit Anthropologie vermischt wird, hat sich für ihren Zustand selbst nichts verändert, sondern nur dieß hinzugefügt, daß auch für die Metaphysik und die Philosophie überhaupt, wie für den Nothwendigkeit Geist als solchen, auf die Erkenntniß der Begriff dessen, was an und für sich ist geleistet, auf den worden ist und die Wahrheit Vers
+> wußtseyn, der Begriff, der sich in seiner Objectivi tät als mit sich identische Subjectivität und darumallgemein weiß die Substanz jeder wesentlic, ist chen Geistigkeit der Familie des Vaterlandes, des,, Stacts wie aller Tugenden; so der Liebe,, Freundschaft Tapferkeit, der Ehre des Ruhms,,.
 
 This universal re-shining of self-consciousness, the Concept, which in its objectivity knows itself as subjectivity identical with itself and therefore as universal, is the *substance* of every essential spirituality, of the family, of the fatherland, of the state; as well as of all virtues, — of love, friendship, bravery, of honor, of fame.
 
-> zicht.
+> §. 359.
 
 §. 359.
 
-> a). Der theoretische Geist.  §. 368. Die Intelligenz findet sich bestimmt; als W i s sen aber ist sie dieß, das Gefundene als ihr eigenes zu haben, weil sie an sich Vernunft ist, es für sich zu seyn, und ihre an und für sich seyende Objectivität sub-
+> Diese Einheit des Bewußtseyns und Selbstbewußte seyns hat zunächst die Einzelnen als für sich seyende ge, in geneinander bestehen. Aber ihr Unterschied ist dieser Identität die ganz unbestimmte Verschiedenheit odervielmehr ein Unterschied der keiner Ihre Wahrheit, ist. istdaher die und für sich seyende unvermittelte Alges
 
 This unity of consciousness and self-consciousness at first has the individuals subsist against one another as being for themselves. But their difference in this identity is the wholly indeterminate diversity, or rather a difference that is none. Their truth is therefore the unmediated universality, which is in and for itself, and the objectivity of self-consciousness, — *reason*.
 
-> jectiv zu machen. Die Intelligenz ist darum nicht auf.
+> an, meinheit und Objectivität des Selbstbewußtseyns,
 
 c.
 
-> formelle ihre Vernunft Wissen, zu welches finden, sie als aufzuheben Sich, finden oder das der Verrein
+> die Vernunft
 
 ##### Reason.
 
-> nunft ist, zum bestimmten Wissen ihrer selbst zu erheben.
+> c.
 
 §. 360.
 
-> Die Art ist, und Weise vernünftig dieser Erhebung, ist, weil sie die Begriff Vers bestimmter nunft, selbst nothwendiger Uebergang und ein einer durch Bestimmung den Thätigkeit in Andere ihrer die.) 1 Die Unterscheidung der Intelligenz von dem Willen hat oft den unrichtigen Sinn, daß
+> . A Die Vernunft. §. 360. Die ist an und für sich seyende Wahrheit, welche die Vernunft, ist die einfache Identität der Subjectivität des Begriffs und seiner Objectivität und Allgemeinheit Die Allgemeinheit der Vernunst hat daher ebensosehr die Bedeutung des im Bewußtseyn gegebenen Ob-
 
 The truth that is in and for itself, which is reason, is the simple identity of the subjectivity of the Concept and its objectivity and universality. The universality of reason therefore has just as much the meaning of the *Object* given in consciousness as of the I in self-consciousness.
 
-> genommen bende als eine werden sixe, von so daß einander das Wollen getrennte ohne Existenz Intelli-
+> jects, als des Ich im Selbstbewußtseyn. (
 
 §. 361.
 
-> genz, oder die Thätigkeit des Intelligenz willenlos seyn könne. So wesentlich aber ist die Intelligenz [p. 235] Willen, denn nur die freye Selbstbestimmung ist Willen, als der Willen Intelligenz ist, denn die Freyheit ist nur als die an Gewißheit meiner Bestimmung selbst,
+> §. 361. Die Vernunft ist daher als reine Einzelnheit der Subjectivität an und für sich bestimmt, und daher die [p. 235] der Dinge, als seine eigenen Gedanken sind. 362 CA §.. Die Vernunft Identität
 
 Reason is therefore determined in and for itself as pure singularity of subjectivity, and therefore the [p. 235] certainty that the determinations of self-consciousness are just as much objective, determinations of the essence of things, as its own thoughts.
 
-> So in der wird unmittelbaren sich als die, Wahrheit sich seyenden der Intelligenz der.
+> die ist als diese die absolute
 
 §. 362.
 
-> Willen oder vielmehr sie wird ihn selbst als ihre Wahrs heit zeigen. Der Willen des Geistes, als Intelligenz zu seyn, ist seine Selbstbestimmung, von sei nen durch ihn gesetzten Zwecken, Interessen zu abstrahiren, und sich nicht als Willen zu verhalten. Die trivialste Form jener falschen Trennung ist die eingebildete Möglichkeit, daß, wie es genannt wird, der Verstand ohne das Herz und das Herz ohne Meynung den Verstand ist die gebildet Abstraction werden des betrachtenden könne. Eine Verstan solche
+> Substanz, welche Wahrheit.ist Die eigenthümhatliche Bestimmtheit, hier welche sie nachdem das, gegen Ich vorausgesekte Object wie das gegen das, so, - Object selbstische Ich seine Einseitigkeit aufgehoben hat, ist die Wahrheit substantielle deren Bestimmtheit der für, sich 1 selbst seyende reine Begriff Ich die Gewißheit
 
 Reason, as this identity, is the absolute *substance*, which is the *truth*. The peculiar *determinacy* that it has here, after the Object presupposed over against the I, as well as the I that is self-like over against the Object, has sublated its one-sidedness, — is the substantial truth, whose determinacy is the pure Concept that is for itself, the I, — the certainty of itself as infinite universality. This knowing truth is *spirit*.
 
-> hält ist,; der so wie es auf es Daseyns der diese wirkliche Weise bringt trennt Verstand, in im die Individuum Unwahrz -
+> ,, seiner selbst als unendliche Allgemeinheit, ist
 
 C.
 
 #### Spirit.
 
-> heit ein Verstand geistigen, der eben so sehr und darin Willen festsept ist., Aber
+> . Diese wis-
 
 §. 363.
 
-> die Philosophie Daseyns ist es nicht Vorstellung, welche solche Unwahrhei ten des undder Menge für die Wahrheit nehmen soll Intelligenz. Eine gebraucht anderer Formen, sie die von der werden sie, daß Eindrücke Vorstellungen von Aussen empfange Einwirkungen, aufnehme, daß die Dinge durch äusserlicher Standpunkte als den Ursachen enstehen u. f. f. gehören mischung dem sinnlicher des und Wahrnehmens verständiger Bestimmungen, der Vers,
+> sende Wahrheit ist der Geist. C. 1 Der Gei.ft §. 363 -. Der Ge ist hat sich als die Einheit der Seele und des Bewußtseyns gezeigt, jener einfachen unmittelbaren Totalitat, und dieses Wissens, welches von keinem Gegenstand beschränkt, nicht mehr im Verhältnisse steht, sondern Wissen der einfachen, weder subjectiven noch obe jectiven Totalität ist. Der Geist fängt daher nur vonseinem eigenen Seyn an, und verhält sich nur seinen zu eigenen Bestimmungen.
 
 *Spirit* has shown itself to be the unity of the soul and of consciousness, — of that simple immediate totality, and of this knowing, which, limited by no object, no longer stands in relationship, but is knowing of the simple totality, neither subjective nor objective. Spirit therefore begins only from its own being, and relates itself only to its own determinations.
 
-> ( §. 336.) an, einem Standpunkte, der dem Geist
+> §. 364. Die Seele endlich insofern
 
 §. 364.
 
-> nicht zukommt -, noch weniger aber dem Philssophiren. Daß die Intelligenz auf unendlich mannichfaltige, zufällige Weise bestimmt erscheint, ist gleichfalls Standpunkt der ganz endlichen Einzelnheit und der äussersten Unwahrheit des empirischen Naturlebens der einzelnen Seele. 2) Eine beson [p. 236] ders beliebte Reflexionsform ist die der Kräfte und Vermögender Seele, der Intelligenz oder des Geistes. Was das Vermögen betrifft, so hat, die Dynamis -, bey Aristoteles eine ganz ande re Bedeutung, sie bezeichnet das An sich seyn und wird von der Entelechie, als der Thätigkeit, dem Fürsichseyn, der Wirklichkeit, unterschieden. Das Vermögen aber ist wie die Kraft die fixirte Bestimmtheit vorgestellt Die des Inhalts Kraft, als 85. Reflexion ist, ins
+> ist unmittelbar, sie oder von Natur bestimmt das Bewußtseyn insofern ist;, es einen Gegenstand hat; der Geist, insofern er unmite telbar eine Bestimmtheit in sich hat oder insofern, sie eine von ihm gesekte ist. An und für sich ist er die schlechthin unendliche, objective Vernunft, die sein [p. 236] ist. daher näher darin daß das Wissen das Anund für sichist =, = seyn der Vernunft nicht erfaßt hat. Diese aber nur insofern die unendliche, als sie die absolute Freyheit ist, daher sich als unmittelbares Bestimmtseyn ihrem Wissen voraussekt und sich dadurch verendlicht,und die ewige Bewegung ist, diese Unmittelbarkeit aufzuheben und sich selbst zu begreiffen.
 
 The soul is *finite* insofar as it is determined immediately or by nature; consciousness insofar as it has an object; spirit, insofar as it has immediately a determinacy *within itself*, or insofar as it is one *posited by it*. In and for itself it is the absolutely infinite, objective *reason*, which is its [p. 236] *Concept* and whose reality is *knowing*, or *intelligence*. The finitude of spirit therefore consists, more precisely, in this, that knowing has not grasped the being-in-and-for-itself of reason. But this is infinite only insofar as it is absolute freedom, and therefore *presupposes* itself to its knowing as immediate being-determined and thereby makes itself finite, and is the eternal motion to sublate this immediacy and to comprehend itself.
 
-> Unendlichkeit sich. der Form, ( des §. Innern) und zwar Neusdie
+> §. 365. 1
 
 §. 365.
 
-> sern; aber ihre wesentliche Endlichkeit macht die Gleichgultigkeit des Inhalts gegen die Form aus ( ebend. Anm.) Hierin liegt das Vernunftlose, was durch diese Reflexionsform, und die Betrachtung des Geistes als einer Menge von Kräften in denselben so wie auch in die Natur, gebracht wird. Was an seiner Thätigkeit unterschieden werden kann, wird als eine selbstständige Bestimmtheit festgehalten, und der Geist aus diese Weise zu einer ver- Enöcherten, mechanischen Sammlung gemacht. Wenn Inhalt eine Kraft des Geistes an und für sich, d.i.
+> Das Fortschreiten des Geistes ist Entwicklung, weil seine Eristenz, das Wissen, das an und für sich Bestimmtseyn, der Zweck oder das Vernünftige, und das Ueberseken rein nur dieser formelle Uebergang die Main nifestation.istInsofern das Wissen die unendliche Ne gativität ist, so ist dieses Uebersehen im Begriffe die Er- ſchaffung überhaupt. Insofern das Wissen nur erst abstractes oder formelles ist, so ist der Geist in ihm seinem Begriffe nicht gemäß, und sein Ziel ist, die absolute Erfüllung und die absolute Freyheit seines Wissens Hervorzubringen. §. 366. - Der Weg des Geistes ista theoretisch seyn) zu, es mit seiner unmittelbaren Bestimmtheit thun haben zu zu
 
 The progression of spirit is *development*, because its existence, *knowing*, the being-determined in and for itself, the end or the rational, and the translating is purely only this formal transition into manifestation. Insofar as *knowing* is infinite negativity, this translating in the Concept is *creation* in general. Insofar as knowing is as yet only *abstract* or *formal*, spirit in it is not in accordance with its Concept, and its goal is to bring forth the absolute fulfillment and the absolute freedom of its knowing.
 
-> ihr sie enthält,, betrachtet die besondere wird, so erweißt Bestimmtheit dieselbe, sich die
+> und als die Seinige
 
 §. 366.
 
-> als Bestimmtheit, d. i. als dialektisch und übergehend, nicht als selbstständig; somit hebt sich eben die gebrauchte Form einer Kraft auf, welche die Reflexioninsich vielmehr der Bestimmtheit seyn soll und sie zur Selbstständigkeit fixirt. Es tritt damit der Begriffein, in welchem die Kräfte verschwinden. Dieser Begriff und die 1 Dialektik ist die Intelligenz selbst, die reine Subjectivität des Ich, in welcher die Bestimmtheis ten ale flussige Momente, und welche das absolut- Concrete, die Nacht Vorstellungen des Selbst, ist, welche in welcher jede
+> sie sehen oder das Wissen zu; von der Voraussetzung und damit von seiner Abstraction zu befreyen, und die Bestimmtheit subjectiv zu machen. Indem das Wissen sich an und für sich bestimmt in oder, alsfreye Intelligenz unmittelbar ist, ist es b) Willen praktischer Geist welcher zunächst unmits,, telbar will und seine Willensbestimmung von ihrer Sub-, jectivität befreyt daß, als freyer Willen so er, und objectiver Geist ist.
 
 The way of spirit is a) to be *theoretical*, to have to do with its immediate determinacy and to posit it as its own; — or to free knowing from the presupposition and thereby from its abstraction, and to make the determinacy subjective. Since knowing is determined within itself in and for itself, or is as *free intelligence*, it is immediately b) *will, practical spirit*, which at first wills immediately, and frees its determination of will from its subjectivity, so that it is as *free will*, and *objective spirit*.
 
 [p. 237]
 
-> Intelligenz, ist so die eigene Bestimmungen
+> Der theoretische sowohl als praktische Geist sind noch in der Sphäre des subjectiven Geistes über = 1
 
 §. 367.
 
-> ihrer Thätigkeit, welche wie als Kräfte genommen wor den, aufgehoben sind. Als das einfache Identi sche dieser Mannichfaltigkeit bestimmt sie sich zu dieser Einfachheit einer Bestimmtheit, zum Verstan de, zur Form einer Kraft, einer isolirten Thätig keit, und fast sich als Anschauung, Vorstellungs kraft, Verstandesvermögen u. s. f. auf. Aber die ses Isoliren und die Abstractionen von Thätigkeiten und diese Meynungen von ihnen sind nicht der Ber
+> haupt; dieß Wissen und Wollen ist noch formell. Aber als Geist ist er überhaupt die Einheit der Subjectivität und Objectivität; als subjectiver Geist ist er daher ebensosehr hervorbringend; aber seine Productionen sind formel; die Production des theoretischen ist der ideelle Boden seiner Welt, des praktischen ein formeller Stoff und Inhalt derselben. 1 Die Lehre vom Geiste wird gewöhnlich als em pirische Psychologie behandelt und der Geist, als eine Sammlung von Kräften und Vermö
 
 Theoretical spirit as well as practical spirit are still in the sphere of *subjective spirit* in general; this knowing and willing is still formal. But as spirit it is in general the unity of subjectivity and objectivity; as subjective spirit it is therefore just as much producing; but its productions are formal; the production of the theoretical is the ideal soil of its world, that of the practical a formal material and content of the same.
 
-> griff und die vernünftige Wahrheit ihrer selbst. §. 369. Die Intelligenz ist s Seele be Bewußtseyn als ist sie im unmittelbar zustimmt fer, als zu Verhältnis Objecte; In die telligenz Bestimmtheit sie als einem äussern ist sie Gefuhl alsdas dumpfe findet Weben sich so bestimmt in; so,) 1 worin er stoffartig ist des Geistes ganzen Stoff sich selbst sich, Unmittelbarkeit und den seines, in Wissens hat. Um der empfindend willen ist, ist er welcher ' 1 der Geist als fühlend einzelner oder subjectiver. darin schlechthin nur als und. §. 370- 3 Die Form Empfindung ist, sie bestimmte Affection der Bestimmtheit daß zwar eine ein und in ihr die Unterscheidung, aber diese sowohl ihres Inhalts fach gegen Inhalt, gegen die andern Subjectivitat als noch der nicht Aeusserlichkeit gesekt ist desselben. Daß der Geist in seiner Empfindung den Stoff seiner Vorstellungen hat, ist eine sehr allgemeine Vorausseßung, aber gewöhnlicher in dem entgegengesekten Sinne, den dieser Saß hier hat. Denn obgleich das Urtheil überhaupt und die Unterscheidung des ist, Bewußtseyns als die einfache in Empfindung ein Subject, und so Object wird es später doch [p. 238] 1 als das frühere genommen, und die Bestimmtheit der Empfindung von einem selbstständigen äusserlichen oder innerlichen Gegenstande abgeleitet. Hier in der Sphäre des Geistes ist dieser dem Idealismus entgegengesekte Standpunkt des Bewußtseyns untergegangen. Das Gefühl oder die Empfindung ist durch ihre Form das Stoffartige, indem sie dieß unmittelbare, noch in sichununterschiedene, dumpfe Wissen des Geistes ist. Auch Aristoteles hat die Bestimmung der Empfindung erkannt, indem ject er das in empfindende Subject Bewußtseyn und das sie empfundene Ob-
+> gen betrachtet die sich zufälligerweise bey einander, befinden daß eines und das andere unbeschadet, so der Uebrigen eben gut auch nicht seyn könnte so da; wie man der Physik nicht sieht daß der Natur eben, - viel abgehen würde wenn, z. B. ein solches Anhänge sel, wie der Magnetismus vorgestellt wird, sich in ihr nicht vorfände Die Beziehung der Ver. = mögen auf einander wird übrigens als eine äussere Nothwendigkeit oder Zweckmäßigkeit angesehen und, diese Nußlichkeit der Vermögen erscheint damit oft als eine sehr entfernte sogar zuweilen abge, jaschmackte Die Psychologie gehört wie Logik die, in,. zu denjenigen Wissenschaften, die neuern Zeiten von der allgemeinern Bildung des Geistes und dem tieffern Begriffe der Vernunft noch am wenigsten Nuken gezogen haben, und befindet sich einem in höchst schlechten Zustande. Es ist ihr von der andern Seite zwar durch die Wendung der Kantischen Philosophie eine grössere Wichtigkeit beygelegt worden, sogar daß sie, und zwar in ihrem empirischen Zustan de die Grundlage der Metaphysik ausmachen solle, als welche in nichts anders bestehe, als die Thatsa [p. 238] aufzufassen und sie zu zergliedern. Mit dieser Stellung der Psychologie welche zugleich mit dem Standpunkte, des Bewußtseyns und mit Anthropologie vermischt wird hat sich für ihren Zustand selbst nichts verän =,, dert sondern nur dieß hinzugefügt, daß auch für die Metaphysik und die Philosophie überhaupt, wie für den Geist als solchen, auf die Erkenntniß der Nothwendigkeit dessen was an und für, sich ist, auf den Begriff und die Wahrheit Vers zicht geleistet worden ist. a). Der theoretische Geist. §. 368.
 
 The doctrine of spirit is usually treated as *empirical psychology*, and spirit regarded as a collection of *forces* and *faculties*, which are contingently found alongside one another, so that one and the other, without detriment to the rest, could just as well not be there; just as one does not see in physics that much indeed would be lacking to nature if, e.g., such an appendage as magnetism is represented to be were not found in it. — The *relation* of the faculties to one another is moreover regarded as an *external* necessity or purposiveness, and this *usefulness* of the faculties thereby often appears as a very remote, indeed even sometimes tasteless one. Psychology belongs, like logic, to those sciences which in more recent times have drawn the least benefit from the more general cultivation of spirit and the deeper Concept of reason, and is in a most wretched state. On the other side, a greater importance has indeed been attached to it by the turn of the Kantian philosophy, so much so that it, and indeed in its *empirical* state, *is supposed to make up* the foundation of metaphysics, which is said to consist in nothing other than the *facts* [p. 238] of human *consciousness*, and indeed as *facts*, as they are *given*, *empirically* to apprehend and to analyze them. With this position of psychology, which is at the same time mixed up with the standpoint of consciousness and with anthropology, nothing has changed for its state itself, but only this has been added, that also for metaphysics and for philosophy in general, as for spirit as such, renunciation has been made of the *cognition* of the *necessity* of that which is in and for itself, of the *Concept* and of the *truth*.
 
-> das, Empfinden welches das Empfindung der Möglichkeit trennt nach,, nur als er-
+> Die Intelligenz findet sich bestimmt; als W zu zu s
 
 ##### a). Theoretical Spirit.
 
-> Entelechie kannte, von des der Empfindendenaber und sagte des, Empfunde daß die =
+> i
 
 §. 368.
 
-> nen Eine und dieselbe ist. Kein Vorurtheil ist auch wohl falscher als daß der Sak, daß im Denken nichts sey -, was nichtin den Sinnen gewesen sey, und zwar in dem oben erwähnten gewöhnlichen Sinne, dem Aristoteles zugeschrieben wird. Seine ganze Philosophieist vielmehr das gerade Gegentheil davon. Ein gleich gewöhnliches Vorurtheil, als dies historische, ist es, daßim Gefühl sogar mehr sey, als im Denken; inse besondere wird dieß in Ansehungder moralischen und religiösen Gefühle statuirt. Es hat sich ergeben, daß der Stoff, der sich der Geist als fühlend ist, das An und Form für sich seiner bestimmt Einfachheit seyn der ist Vernunft die unterste ist. Aber und
+> sen aber ist sie dieß, das Gefundene als ihr eigenes haben, weil sie an sich Vernunft ist, es für sich seyn, und ihre an und für sich seyende Objectivität sub- Die Intelligenz darum nicht auf, ist jectiv zu machen.. nehmend sondern wesentlich thätig, die leere Form, ihre Vernunft finden zu aufzuheben oder das rein, formelle Wissen welches als Sich finden der Ver-, sie, sie zu nunft ist, zum bestimmten Wissen ihrer selbst erheben. Die Art und Weise dieser Erhebung ist, weil die Vers nunft ist, selbst vernünftig, und ein durch den Begriff bestimmter, nothwendiger Uebergang einer Bestimmung ihrer Thätigkeit in die Andere. 1
 
 Intelligence *finds* itself *determined*; but as *knowing* it is this: to have what is found as its own, because it is *in itself* reason, to be it *for itself*, and to make its objectivity, which is in and for itself, subjective. Intelligence is therefore not *receptive*, but essentially active, in sublating the empty form of *finding* its reason, or in elevating the purely formal knowing, which it is as the *finding-itself* of reason, to determinate knowing of itself. The manner of this elevation is, because it is reason, itself rational, and a necessary transition, determined by the Concept, of one determination of its activity into the other.
 
 1) The distinction of *intelligence* from *the will* often has the incorrect sense that both are taken as a fixed existence separated from one another, so that willing could be without intelligence, or the activity of intelligence will-less. But intelligence is so essentially
 
-> schlechteste diese, in der er nicht als Geist, als Freyes, als unendliche Allgemeinheit, was sein Wesen ist, seyn kann. Er muß vielmehr schlechthin über diese unwahrste Weise seines Seyns hinausgehen, weil er in dieser Unmittelbarkeit, in der er bestimmt ist, weil er nur ist, vernüftiges ein zufälliges, subjectives, - particu Dar = =
+> ) Die Unterscheidung der Intelligenz von dem Willen hat oft den unrichtigen Sinn, daß bende von einander getrennte Existenz als eine sixe genommen werden daß das Wollen ohne Intelli-, so genz oder die Thätigkeit des Intelligenz willenlos, seyn könne. So wesentlich aber ist die Intelligenz
 
 [p. 239]
 
-> um auch, wenn ein Mensch sich über Etwas nicht auf die Natur und den Begriff der Sache, oder wenigstens auf Grunde, die Verstandesalgemeinheit, sondern auf sein Gefühl beruft, nichts anders zu thun ist, als ihn stehen zu lassen, weil er sich dadurch der Gemeinschaft der Vernünftigkeit verweis gert, und sich in seine isolirte Subjectivität die Particularitat abschließt. §. 371. Die abstracte identische Richtung des Geistes in der Empfindung, wie in allen andern seiner weitern Bestimmungen, ist die Aufmerksamkeit; das Moment der formellen Selbstbestimmung der Intelligenz. § 372.. Diese Selbstbestimmung ist aber wesentlich nicht diese abstracte; als Unendliche dirimirt sie die Einfachheit ihres Bestimmtseyns, und hebt damit seine Unmittelbarkeit auf. So sekt sie dasselbe als ein Negatives, das Gefuhlte, unterschieden von der Intelligenz als in sich reflectirt, dem Subject, worin das Gefühl ein aufgehobenes ist. Diese Stuffe der Reflexion ist die Vorstellung. § 373.. 2) Die vorstellende Thätigkeit der Intelligenz ist a) Erinnerung. Ihre einfache Empfindung dirimirend und sie als das gegen ihre Reflexioninsich negati ve Extrem bestimmend, sest sie den Inhalt der Empfindung als ausser sich seyende's; so wirft sie ihn in Raum und Zeit hinaus; und ist anschauend. Unmittelbar ist die Anschauung, insofern sie die abstracte Entäusserung und die Intelligenz nicht als Reflexion ist in sich und Subject gegen diese Neusserlichkeit gesekt [p. 240] $. 374. Dieses Seken aber ist das ander Extrem der Diremtion; die Intelligenz sekt in derselben eben so den Inhalt des Gefühls in ihre Innerlichkeit, in ihren eige nen Raum und ihre eigene Zeit. So ist er Bild und Vorstellung überhaupt, von seiner ersten Unmittelbarkeitund abstracten Einzelnheit gegen anderes befreyt, und damit in die Form der Algemeinheit des Ich, zunächst dieser abstracten, ideellen aufgenommen. § 375 Erinnerung.. 1 Die ist die Beziehung beyder, die Subsumtion der unmittelbaren einzelnen - Anschauung unter lung diese der Form nach allgemeine, die Vorstel, die derselbe Inhalt ist; so daß die Intelligenz in der bestimmten Empfindung und deren Anschauung sich innerlich ist, und sich selbst darin erkennt die, der Anschauung nicht mehr bedarf und sie ist als ihrige besikt. §. 376. B) Die nun in diesem ihrem Besik thätige Intelli genz ist die reproductive Einbildungskraft, das Hervorrufen der Bilder aus der eigenen Innerlichkeit des Ich Die Beziehung der concreten Bilder ist zue nächst die. ihres mit aufbewahrten äusserlichen unmittelbaren Raums und Zeit. Aber indem das Bild im Subjecte, worin es aufbewahrt ist, allein die negati ve Einheit hat, in der es getragen und seine Concretion erhalten ist, so ist seine unmittelbare, in welcheres als Eines im Empfinden und Anschauen oder vielmehr im Bewußtseyn bestimmt ist, dagegen aufgelöst. Der reproducirte Inhalt, als der mit sich identischen Einheit der Intelligenz angehörend, und aus deren Innerem in die Vorstellung hervortretend, ist eine allgemeine Vorstellung, welche die associirende Beziehung 1 der concreten Vorstellungen ist. [p. 241] Die sogenannten Geseze der Ideen = Asso A ciation haben besonders in der mit dem Verfall der Philosophie gleichzeitigen Bluthe der empirischen Psychologie ein großes Interesse gehabt. Fürs erste sind es keine Ideen, welche associirt werden. Fürs andere sind diese Beziehungsweisen keine Ges seke, eben darum schon, weil so viele Geseze über dieselbe Sache sind, wodurch Willkühr und Zufälligkeit, das Gegentheil eines Gesekes, vielmehr Statt hat. Das Fortgehen an Bildern und Vorstel lungen nach Spiel der associirenden Einbildung ist über
+> die Willen als der Willen Intelligenz ist denn die ist, Freyheit ist, nur als die Gewißheit meiner selbst, in der unmittelbaren, an sich seyenden Bestimmung. So wird sich als die Wahrheit der Intelligenz der Willen oder vielmehr sie wird ihn selbst als ihre Wahrs heit zeigen Der Willen des Geistes. als Intelli-, genz zu seyn, ist seine Selbstbestimmung, von sei nen durch ihn gesetzten Zwecken, Interessen zu abstrahiren, und sich nicht als Willen zu verhalten. Die trivialste Form jener falschen Trennung die ist eingebildete Möglichkeit daß wie, genannt wird, es, der Verstand ohne das Herz und das Herz ohne den Verstand gebildet werden könne Eine solche. Meynung ist die Abstraction des betrachtenden Verstan des, welcher an dergleichen Unterscheidungen festin imhält; so wie es der wirkliche Verstand Individuum ist, der auf diese Weise trennt es die Unwahrz, heit geistigen Daseyns bringt und darin festsept, ein Verstand, der eben so sehr Willen.ist Aber die Philosophieist es nicht, welche solche Unwahrhei ten des Daseyns und der Vorstellung für die Wahrheit nehmen soll Eine Menge anderer Formen sie,. die von der Intelligenz gebraucht werden, daß Eindrücke von Aussen empfange, sie aufnehme, daß die Vorstellungen durch Einwirkungen äusserlicher Dinge als den Ursachen enstehen u gehören, f.. dem Standpunkte des Wahrnehmens.f der Vers mischung sinnlicher und verständiger Bestimmungen, - (§. 336.) an, einem Standpunkte, der dem Geist nicht zukommt, noch weniger aber dem Philssophiren. Daß die Intelligenz auf unendlich mannichfaltige zufällige Weise bestimmt erscheint,, ist gleichfalls Standpunkt der ganz endlichen Einzelnheit und der äussersten Unwahrheit des empirischen Naturlebens der einzelnen Seele Eine beson. 2) [p. 240] - ders beliebte Reflexionsform ist die der Vermögen der Seele, der Intelligenz oder des Was das Vermögen - Geistes. betrifft, so hat, die Dynamis Aristoteles eine ganz ande, bey reBedeutung bezeichnet das An sich seyn und, sie wird von der Entelechie als der Thätigkeit dem,, Fürsichseyn der Wirklichkeit unterschieden, Das,. Vermögen aber wie die Kraft fixirte ist die Bestimmtheit des Inhalts als Reflexion ins,, sich vorgestellt. Die Kraft ( §. 85.) ist zwar die Unendlichkeit der Form, Innern und Neusdes sern; aber ihre wesentliche Endlichkeit macht die Gleichgultigkeit des Inhalts gegen die Form aus ( ebend. Anm.) Hierin liegt das Vernunftlose, was durch diese Reflexions form und die Betrachtung =, des Geistes als einer Menge von Kräften denselin ben so wie auch die Naturingebracht wird,. Was an seiner Thätigkeit unterschieden werden kann, wird als eine selbstständige Bestimmtheit festgehalten und der Geist aus diese Weise, einer verzu Enöcherten, mechanischen Sammlung gemacht. Wenn eine Kraft des Geistes an und für sich, d.i. ihr Inhalt die besondere, Bestimmtheit, die sie enthält, betrachtet wird, so erweißt dieselbe sich als Bestimmtheit,.d i. als dialektisch und übergehend nicht, als selbstständig somit; hebt sich eben die gebrauchte Form einer Kraft auf, welche die Reflexioninsich vielmehr der Be- - stimmtheit seyn soll und sie zur Selbstständigkeit fixirt. Es tritt damit Begriff ein welchem die der, in Kräfte verschwinden Dieser Begriff und die. Dialektik ist die Intelligenz selbst, die reine Sub- 1 jectivität Ich welcher die Bestimmtheis, in des, ten ale flussige Momente und welche das absolut- Concrete, die Nacht des Selbst ist, in welcher die unendliche Welt der Vorstellungen, welche jede [p. 241] den, aufgehoben sind. Als das einfache Identi sche dieser Mannichfaltigkeit bestimmt sie sich zu dieser Einfachheit einer Bestimmtheit, zum Verstan de zur Form einer Kraft einer isolirten Thätig,,, keit und fast sich als Anschauung Vorstellungs, kraft,Verstandesvermögen auf Aber die u. s. f.. ses Isoliren und die Abstractionen von Thätigkeiten und diese Meynungen von ihnen sind nicht der Ber griff und die vernünftige Wahrheit ihrer selbst. §. 369. Die Intelligenz als Seele unmittelbar ist s be
 
 will, for only free *self-determination* is will, as the will is intelligence, for freedom is only as the *certainty* of myself, in the immediate, in-itself-being determination. Thus the will will show itself as the truth of intelligence, or rather intelligence will show the will itself as its truth. The will of spirit to be as intelligence is its self-determination, to abstract from its ends, interests, posited by it, and not to behave as will. — The most trivial form of that false separation is the imagined possibility that, as it is called, the *understanding* could be cultivated without the *heart* and the *heart* without the *understanding*. Such an opinion is the abstraction of the contemplative understanding, which holds fast to such distinctions; just as it is the actual understanding in the individual that separates it in this way, brings it into the untruth of spiritual determinate being and fixes it therein, — an understanding that is just as much will. But it is not philosophy that is supposed to take such untruths of determinate being and of representation for the truth. — A multitude of other forms, which are used of intelligence, that it receives *impressions* from outside, *takes them up*, that representations arise through *effects* of external things as the causes, etc., belong to the standpoint of *perceiving*, of the mixture of sensuous determinations and determinations of the understanding (§ 336), a standpoint that does not befit spirit, still less philosophizing. — That intelligence appears determined in an infinitely manifold, contingent manner is likewise the standpoint of the *wholly finite* singularity and of the extreme untruth of the empirical natural life of the individual soul. 2) A particularly [p. 240] favored form of reflection is that of the *forces* and *faculties* of the *soul*, of intelligence or of spirit. — As regards the *faculty*, the *dynamis* has in *Aristotle* a quite different meaning, — it designates the *in-itself-being* and is distinguished from *entelechy*, as activity, being-for-itself, actuality. The *faculty*, however, like *force*, is represented as the fixed *determinacy* of the content, as reflection-into-itself. *Force* (§ 85) is indeed the *infinity* of form, of the inner and the outer; but its essential *finitude* constitutes the *indifference* of the *content* toward the *form* (ibid. Remark). Herein lies the reasonless, which is brought by this form of reflection and by the consideration of spirit as a multitude of *forces* into it, as also into nature. What can be *distinguished* in its activity is held fast as an independent *determinacy*, and spirit is in this way made into an ossified, mechanical *collection*. If a *force* of spirit is considered in and for itself, i.e., its *content*, the *particular* determinacy which it contains, then it proves itself as *determinacy*, i.e., as *dialectical* and *passing over*, not as independent; thus the very form used, of a *force*, which is supposed rather to be the reflection-into-itself of the determinacy and fixes it into independence, sublates itself. With this the *Concept* enters, in which the forces vanish. — This *Concept* and the dialectic is intelligence itself, the *pure subjectivity* of the I, in which the determinacies are as fluid moments, and which is the absolutely *concrete*, the *night* of the self, in which the infinite world of representations, which each [p. 241] intelligence is, as well as the own *determinations* of its activity, which have been taken as forces, are *sublated*. As the simple identical of this manifoldness it determines itself to this *simplicity* of a determinacy, to the *understanding*, to the form of a force, of an isolated activity, and grasps itself as intuition, force of representation, faculty of the understanding, etc. But this isolating and the abstractions from activities and these opinions about them are not the Concept and the rational truth of themselves.
 
-> haupt welchem das die Bestimmung eines gedankenlosen der Intelligenz Vorstellens noch die, ganz in
+> = stimmt als
 
 §. 369.
 
-> formelle Allgemeinheit, - der Inhalt aber der in den Bildern gegebene ist. Uebrigens ist Bild und Vorstellung nur dadurch unterschieden, daß jenes das concretere ist; Vorstellung, der Inhalt mag ein bilda liches oder Begriff und Idee seyn, hat überhaupt den Charakter, ob zwar ein der Intelligenz angehöri ges doch ihrem Inhaltenach für sie gegebenes und unmittelbares zu seyn. Sonst erhellt, daß, da die Anschauung unmmittelbare Beziehung in,
+> , Bewußtseyn Verhältnis die ist sie im zu fer Bestimmtheit als zu einem äussern Objecte, 1 als Intelligenz findet sie sich so bestimmt so ist sie); Gefuhl das in; dumpfe Weben des Geistes sich selbst worin er sich stoffartig ist, und den ganzen Stoff seines Wissens hat. Um der Unmittelbarkeit willen, in welcher ' 1 der Geist als fühlend oder empfindend. ist, ist er darin schlechthin nur als einzelner und subjectiver. §. 370-
 
 Intelligence is, as *soul*, immediately determined; as *consciousness* it is in relationship to this determinacy as to an external Object; as intelligence it finds itself so determined; thus it is 1) *feeling*, the dull weaving of spirit within itself, in which it is *material-like* to itself, and has the whole *material* of its knowing. On account of the *immediacy* in which spirit is as feeling or sensing, it is therein absolutely only as *singular* and *subjective*.
 
-> Ich serliche als Allgemeinheit ideelle, damit seiner, welche Reflexion nochnichtsich als aus Be-
+> 3
 
 §. 370.
 
-> stimmung des Inhalts, die Vorstellung und deren Reproductionaber eine bestimmte Allgemeinheit ist, daß Anschauen, Vorstellen und Einbildungskraft, daher wesentlich Denken sind, ob sie gleich ein noch Gedanke nicht befrentes ist - Denken, und der Inhalt nicht in
+> Die Form der Empfindung ist, daß sie zwar eine bestimmte Affection aber diese Bestimmtheit ein, fach und ihr die Unterscheidung sowohl ihres Inhalts in gegen andern Inhalt als der Aeusserlichkeit desselben ge-, gen die Subjectivitat noch nicht gesekt ist
 
 The *form* of sensation is that it is indeed a *determinate* affection, but that this *determinacy* is simple, and in it the distinction, both of its content from other content and of the externality of the same from subjectivity, is not yet posited.
 
-> der vorstellenden Thätigkeit. Die ist, Abstraction wodurch, allgemeine welche Vorstellungen producirt werden, wird gewöhnlich als ein Aufeinanderfallen vieler ähnlicher Bilder Ausgedrückt und soll auf diese Weise begreiflich Werdeu. Damit dies Aufeinanderfallen nicht ganz der Zufall, das Begrifflose jey, mußte ene [p. 242] gleichen Attractionskraft angenommen der ähnlichen, Bilder zugleich oder des-, werden welche die negative Macht wäre das noch Ungleiche ist in derselben an Intelligenz einander abzureiben. Diese Kraft allgemeines der, That die selbst Erinnerung, das Ich'als Allge welches durch giebt seine ihnen unmittelbarmeinheit. §. 377. Die Association der Vorstellungen ist daher eine Subsumtion der einzelnen unter eine Allgemeine. Diese Allgemeinheit ist zunächst Form der Intelligenz. Aber diese ist ebenso in sich bestimmte, concrete Subjectivität, und ihr eigner Inhalt kann ein Gedanke, Begriff oder Idee seyn. Als Subsumiren der Bilder unter den eigenthümlichen Inhalt, ist die Intelligenz in jenen in sich bestimmt erinnert, und bildet sie diesem ihrem Inhalt ein. So ist sie Phantasie, symbolisirende, allegorisirende oder dichtende Einbildungskraft. §. 378.  Die Intelligenz ist in der bestimmten Erinnerung der Phantasie insoweit vollendet, als ihr aus ihr selbst genommener Inhalt eine bildliche Existenz hat. Aber der Stoff des Bildlichen ist gegeben, und das Product hat nicht die Unmittelbarkeit der Existenz. Sie muß ihm diese geben, weil sie in ihm Totalität des Vorstellens, aus die ihrer Besonderung in die subjective Vorstellung, und äusserliche Anschauung zur freyen, identis schen Beziehung auf sich zurückgekehrt ist. Diese Erinnerung der Anschauung ist Gedächtniß. §. 379. y). Das selbstständiger Gedächtnis ( Mnemosyne Vorstellung, Muse) ist Anschauung die Einheit zu jene und der, welcher als freye Phantasie sich [p. 243] äussert. Diese Unmittelbarkeit ist, weil die Intellis ge genz noch nicht praktisch Anschauung ist, eine gilt unmittelbare in odergebene; aber positiv die dieser Identität nicht als und sie sich ist selbst Bild sondern als etwas an dige deres Vorstellung vorstellend; Intelligenz ein, das eine selbststän inder Bedeutung als Seele Anschauung sich em. pfangen ist hat, seine. Diese das Zeichen. ist irgend
+> . Daß der Geist in seiner Empfindung den Stoff seiner Vorstellungen hat eine sehr allgemeine, ist Vorausseßung aber gewöhnlicher, dem entgegen ingesekten Sinne, den dieser Saß hier hat. Denn obgleich das Urtheil überhaupt und die Unterscheidung des Bewußtseyns ein Subject und Object später in ist, als die einfache Empfindung, so wird es doch 16 1 [p. 242] 1 als das frühere genommen, und Bestimmtheit der die Empfindung von einem selbstständigen äusserlichen oder innerlichen Gegenstande abgeleitet. Hier in der Sphäre des Geistes ist dieser dem Idealismus entgegengesekte Standpunkt des Bewußtseyns untergegangen. Das Gefühl oder die Empfindung ist ihre Form das Stoffartige siedurch, indem dieß unmittelbare, noch in sich ununterschiedene, dumpfe Wissen Geistes des Auch Aristoteles.ist hat die Bestimmung der Empfindung erkannt indem, erdas empfindende Subject und das empfundene Object, in welches das Bewußtseyn trennt nur als sie, das der Möglichkeit nach Empfinden er-, kannte von der Empfindung aber sagte daß die -,, Entelechie des Empfindenden und des Empfunde nen Eine und dieselbe istist. Kein Vorurtheil wohl falscher als daß der Sak daß im Den- - auch, ken nichts sey was nichtin den Sinnen, gewesen sey, und zwar in dem oben erwähnten gewöhnlichen Sinne dem Aristoteles zuge- -, schrieben wird. Seine ganze Philosophie vielmehr ist das gerade Gegentheil davon Ein gleich gewöhn. = liches Vorurtheil als dies historische, daßim, ist es, Gefühl sogar mehr sey als im Denken inse -,; besondere wird dieß in Ansehung der moralischen und religiösen Gefühle statuirt. Es hat sich ergeben, daß der Stoff der sich der Geist als fühlend, ist, das. An und für sich bestimmt seyn der Vernunft ist Aber diese Form seiner Einfachheit ist die unterste und schlechteste, in der er nicht als Geist, als Freyes, als unendliche Allgemeinheit, was sein Wesen ist, seyn kann. Er muß vielmehr schlechthin über diese unwahrste Weise seines Seyns hinausgehen weil, er, indieser Unmittelbarkeit ist, in, der er bestimmt ist weil, er nur, ein zufälliges subjectives, particuläres nicht als vernüftiges wirklich ist. Dar = } [p. 243] auf die Natur und den Begriff der Sache, oder wenigstens auf Grunde, die Verstandesalgemeinheit, sondern auf sein Gefühl beruft, nichts anders zu thun ist, als ihn stehen zu lassen, weil er sich dadurch der Gemeinschaft der Vernünftigkeit verweis gert, und sich in seine isolirte Subjectivität die Particularitat abschließt. §. 371. Die abstracte identische Richtung des Geistes in
 
 That spirit has in its sensation the *material* of its representations is a very general presupposition, but more usually in the opposite sense to the one that this proposition has here. For although judgment in general and the distinction of consciousness into a subject and an Object is later than simple sensation, it is nevertheless [p. 242] taken as the earlier one, and the determinacy of sensation derived from an *independent*, external or internal *object*. Here, in the sphere of spirit, this standpoint of consciousness, opposed to idealism, has perished. Feeling or sensation is, through its *form*, the *material-like*, in that it is this immediate, still within itself undifferentiated, dull knowing of spirit. — *Aristotle*, too, has recognized the determination of sensation, in that he recognized the sensing subject and the sensed Object, into which consciousness separates it, only as *the sensing in accordance with possibility*, but said of sensation that the *entelechy* of the sensing and of the sensed is one and the same. — No prejudice is indeed more false than that the proposition that *there is nothing in thinking that has not been in the senses* — and indeed in the ordinary sense mentioned above — is ascribed to *Aristotle*. His whole philosophy is rather the very opposite of it. — An equally common prejudice, like this historical one, is that *there is even more in feeling than in thinking*; this is laid down especially with regard to moral and religious feelings. — It has turned out that the material that spirit is to itself as feeling is the being-determined in and for itself of reason. But this form of its simplicity is the lowest and the worst, in which it cannot be as spirit, as something free, as infinite universality, which is its essence. It must rather absolutely go beyond this most untrue manner of its being, because, in this immediacy in which it *is* determined, because it only *is*, it is actual as something contingent, subjective, particular, not as something *rational*. — Therefore [p. 243] also, when a human being appeals, concerning something, not to the nature and the Concept of the matter, or at least to grounds, the universality of the understanding, but to his *feeling*, there is nothing else to do than to leave him standing, because he thereby withholds himself from the community of rationality, and shuts himself up in his isolated subjectivity, *particularity*.
 
-> : schauung Das, Zeichen aber die eine Vorstellung eine unmittelbare von ganzande- An-
+> der Empfindung, wie in allen andern seiner weitern Be-
 
 §. 371.
 
-> rem Inhalt vorstellt, als sie für sich hat; die Pyramide, in welche eine fremde Seele versekt und aufbewahrt ist. Das Zeichen ist vom Sy m bol verschieden, einer Anschauung, deren eigene
+> stimmungen, ist die Aufmerksamkeit; das Moment der formellen Selbstbestimmung der Intelligenz. §. 372. Diese Selbstbestimmung ist aber wesentlich nicht die-
 
 The abstract, *identical* direction of spirit in sensation, as in all the other of its further determinations, is *attention*; the moment of the *formal* self-determination of intelligence.
 
-> Bestimmtheit oder weniger der ihrem Gedanke Wesen ist und, den Begriffe sie als nach Symbol mehr
+> se abstracte; als Unendliche dirimirt sie die Einfachheit ihres Bestimmtseyns, und hebt damit seine Unmittel-
 
 §. 372.
 
-> ausdrückt. Als Bezeichend beweist daher die Intelligenz eine freyere Willkühr und Herrschaft im Ge- - brauch der Anschauung, dann als symbolisirend. Gewöhnlich wird das Zeichen und die Sprache, irgendwo als Anhang in der Psychologie oder auch in Logik eingeschobeu, ohne daß an die Nothwendigkeit und Zusammenhang desselben in dem Systeme der Thätigkeit der Intelligenz gedacht würde. Seine wahr-
+> barkeit auf. So sekt sie dasselbe als ein Negatives, das Gefuhlte, unterschieden von der Intelligenz als in sich reflectirt, dem Subject, worin das Gefühl ein aufgehobenes ist. Diese Stuffe der Reflexion ist die Vorstellung. §. 373.) 2 Die vorstellende Thätigkeit der Intelligenz ist
 
 This self-determination is, however, essentially not this abstract one; as infinite it dirempts the simplicity of its being-determined, and thereby sublates its immediacy. Thus it posits the same as *a negative*, the *felt*, distinguished from intelligence as reflected into itself, the *subject*, in which feeling is a sublated one. This stage of reflection is *representation*.
 
-> hafte welche Stelle als anschauend ist die aufgezeigte Zeit und, Raum daß erzeugt die Intelligenz, nen ih, =
+> a
 
 §. 373.
 
 2) The representing activity of intelligence is α) *recollection*. Dirempting its simple sensation and determining it as the extreme that is negative against its reflection-into-itself, it posits the content of sensation as *being outside itself*; thus it throws it out into *space and time*; and is *intuiting*. Immediate is intuition, insofar as it is the abstract *externalization* and intelligence is not posited as reflection-into-itself and subject against this externality.
 
-> ren selbstständigen Vorstellungen ein bestimmtes Daseyn giebt, den erfüllten Raum und Zeit, die Aufschauung in der Bestimmtheit, die sie vom Stoffe der Empfindung hat, als die ihrige gebraucht, deren unmittelbare und eigenthümliche Vorstellung tilgt, - und ihr eine andere zur Bedeutung und Seele giebt. Diese Zeichen erschaffende Thätigkeit wird mit Recht Gedächtniß, und zwar das produc tive Gedächtniß genannt; indem das Gedächtniß, das freylich im gemeinen Leben oft mit Erinnerung,
+> ) Erinnerung. Ihre einfache Empfindung dirimirend und sie als das gegen ihre Reflexion sich negatiinve Extrem bestimmend sest sie den Inhalt der Empfin in =, dung als ausser sich seyende's; so wirft sie ihn Raum und Zeit hinaus; und ist anschauend. Unmittelbar ist die Anschauung, insofern sie die abstracte Entäusserung und die Intelligenz nicht als Reflexion in sich und Subject gegen diese Neusserlichkeit gesekt ist.
 
 [p. 244]
 
-> und auch gleichbedeutend Vorstellung und gebraucht Einbildungskraft wird, es verwechselt überhaupt
+> tion; die Intelligenz sekt in derselben eben so den In-
 
 §. 374.
 
-> nur mit Zeichen zu thun hat. Wenn es aber auch in dieser seiner nähern Bestimmung gemeynt, ist fo wird sonst nur an das reproductive Gedächtniß gedacht; die Intelligenz producirt aber wesentlich das, was sie reproducirt.  S. 380. Die Anschauung, die für ein Zeichen gebraucht
+> halt des Gefühls ihre Innerlichkeit inihren eige, in nen Raum und ihre eigene Zeit So Bild. ist erund Vorstellung überhaupt von seiner ersten Un-, mittelbarkeit und abstracten Einzelnheit gegen anderes befreyt, und damit die Form der Algemeinheit des in Ich, zunächst dieser abstracten, ideellen aufgenommen. §. 375. Die Erinnerung Beziehung beyder die die - 1 ist, Subsumtion der unmittelbaren einzelnen Anschauung
 
 But this positing is the other extreme of the diremption; intelligence posits in it, just so, the content of *feeling* into its inwardness, into its *own space and its own time*. Thus it is *image* and *representation* in general, freed from its first immediacy and abstract singularity against another, — and thereby taken up into the form of the universality of the I, at first of this abstract, ideal one.
 
-> wird, ist als unmittelbare sie zunächst eine gegebene, und
+> unter diese der Form nach allgemeine die Vorstel,
 
 §. 375.
 
-> räumliche Intelligenz. Aber indem Negativität nur als ist aufgehobene, so istwahr und Die diese Daseyns ihre, die die ein = Haftere Form des es ist, des Zeichens Ton ist Zeit, die Aeusserung Verschwinden, indem gebenden und der erfüllte 279 Der für der sich kund Vorstellungen Innerlichkeit weiter ( §. articuli) - Ton die, bestimmten Rede und ihr System sich, Sprachegiebt rende den Empfindungen die, Anschauungen die ein zweytes
+> lung die derselbe Inhalt, daß die Intelligenz ist; so in der bestimmten Empfindung und deren Anschauung sich innerlich ist, selbst darin erkennt der Anund sich, schauung nicht mehr bedarf und ist als ihrige besikt sie die. §. 376. B) Die nun diesem ihrem Besik thätige Intelli
 
 *Recollection* is the relationship of both, the *subsumption* of the immediate singular intuition under this one that is universal according to form, — the *representation*, which is the same content; so that intelligence, in determinate sensation and its intuition, is inward to itself, and cognizes *itself* in it, no longer needs the intuition and now possesses it as its own.
 
-> Höheres, als ihr unmittelbares und den Vorstellungen,
+> in genz ist die reproductive Einbildungskraft das,
 
 §. 376.
 
-> überhaupt ein Daseyn, das im; Reiche des Vorftellens gilt. §. 381.  Die Identität der Anschauung im Zeichen und seiner Bedeutung ist zunächst die einzelne Production; aber als Einheit der Intelligenz ist sie eben so wesentlich Allgemeine. Die Thätigkeit, sie zu erinnern und, dadurch allgemein machen, so wie auch sie zu reproduciren ist das auswendig behaltende und reproducti ve Gedächtniß. 5. 382.  Die Zeichen Zufällige sind viele überhaupt, und als solche schlechthin gegeneinander. Das leere Band, welches solche Reihen 1 befestigt und in dieser festen Ord-
+> Hervorrufen der Bilder aus der eigenen Innerlichkeit des Ich. Die Beziehung der concreten Bilder zueist nächst die ihres mit aufbewahrten äusserlichen unmittelbaren Raums und Zeit. Aber indem das Bild im Subjecte worin ist allein die negati in es, aufbewahrt, ve Einheit hat der es getragen und seine Concre-,, tion erhalten ist seine unmittelbare so ist welcheres, in als Eines im Empfinden und Anschauen oder vielmehr im Bewußtseyn bestimmt dagegen aufgelöst Der ist,. reproducirte Inhalt, als der mit sich identischen Einheit der Intelligenz angehörend und aus deren Innerem, in die Vorstellung hervortretend allgemeine, ist eine Vorstellung, welche die associirende Beziehung 1 der concreten Vorstellungen.ist
 
 β) Intelligence, now active in this its possession, is the *reproductive imagination*, the calling forth of the images out of the own inwardness of the I. The *relationship* of the concrete images is at first that of their external, immediate space and time, preserved along with them. — But since the image in the subject, in which it is preserved, has only the *negative* unity in which it is carried and its *concretion* is maintained, its immediate one, in which it is determined as *one* in sensing and intuiting, or rather in consciousness, is by contrast dissolved. The reproduced content, as belonging to the self-identical unity of intelligence, and emerging out of its inner into representation, is a *universal* representation, which is the *associating relationship* of the concrete representations.
 
 [p. 245]
 
-> nung behält, ist die ganzabstracte, reine Mach t der Subjectivität, das Gedächtniß, das um der gänzlichen Veusserlichkeit, in der die Glieder solcher Reihen gegeneinader sind, mechaniſch genannt wird.  §. 283. Der Nahme ist die Sache, wie sie im Reiche der Vorstellung vorhanden ist und Gültigkeit hat. Aber ev hat eine von der Intelligenz hervorgebrachte Neusserlichkeit, und ist die als fur sich unwesentliche, im Gebrauche der Intelligenz stehende und fubjectip ge machte Anschauung, so daß er durch die von dieser ihr gegebene Bedeutung allein Werth hat, welche die an und für sich bestimmte Vorstellung, und die Sache oder das Objective ist Das mechanische Gedächtniß ist das formelle Aufheben. jener Subjectivität, wodurch der Widerspruch wegfällt die Intelligenz 1 für in der des Gewohnheit Zeichens zur und Sache, als unmit sich telbarer sich Objectivität macht Sie macht auf diese Weise durch das Gedächtniß den. Uebergang zum Denken 1. §. 384- 3 Durch die Erinnerung ihres unmittelbaren Bestimmtseyns) und die Entäusserung ihres fubjectiven Bestimmens ist deren Einheit und Wahrheit geworden; der Der Gedanke ist Identität Gedanke. Subjectiven und Objectiven die Sache; Was einfache gez dachtist, des ist; und was ist, ist nur, insofern. es Gedanke ist. §. 385. Das Denken ist zunächst formell; die Allge meinheit als die Allgemeinheit, und das Seyn eben so die einfache Subjectivität der Intelligenz Es ist so nicht als an und für sich bestimmt; die zum. Denken erinnerten Vorstellungen sind insofern noch der Inhalt, - ein In [p. 246] halt, der an sich nur Anund für sichbestimmt seyn der Vernunft ist, §. 386.  Das Denken aber als diese freye Algemeinheit, welche dieß nur ist als reine Negativität, ist somit nicht a) nur der formell identische Verstand, sondern - B)
+> A Philosophie gleichzeitigen Bluthe der empirischen Psychologie ein großes Interesse gehabt. Fürs erste sind es keine Ideen, welche associirt werden. Fürs andere sind diese Beziehungsweisen keine Ges seke, eben darum schon, weil so viele Geseze über dieselbe Sache sind wodurch Willkühr und Zu-, fälligkeit Gegentheil eines Gesekes, das vielmehr, Statt hat Das Fortgehen. Bildern und Vorstel an lungen nach der associirenden Einbildung über ist haupt das Spiel eines gedankenlosen Vorstellens, inwelchem Bestimmung der Intelligenz noch die ganz die formelle Allgemeinheit der Inhalt aber der, den in Bildern gegebene Uebrigens Bild und.ist ist Vorstellung nur dadurch unterschieden daß jenes das, concretere Vorstellung der Inhalt mag ein bilda ist;, liches oder Begriff und Idee seyn hat überhaupt, zwar ein der Intelligenz angehöriden Charakter, ob ges doch ihrem Inhalte nach für sie gegebenes und unmittelbares die Anschauung zu seyn. unmmittelbare Sonst erhellt daß, Beziehung,, da Ich als ideelle, damit seiner Reflexioninsich aus serliche Allgemeinheit welche noch nicht als Be-, - stimmung des Inhalts die Vorstellung und deren, Reproduction aber eine bestimmte Allgemeinheit ist, daß Anschauen Vorstellen und Einbildungs-, - kraft, daher wesentlich Denken sind, ob sie gleich noch nicht befrentes Denken, und der Inhalt nicht ein Gedanke.ist Die Abstraction, welche in Thätigkeit der vorstellenden ist, wodurch allgemeine Vorstellungen producirt werden, wird gewöhnlich als ein Aufeinanderfallen vieler ähnlicher Bilder Ausgedrückt und soll auf diese Weise begreiflich Werdeu. Damit dies Aufeinanderfallen nicht ganz der Zufall das Begrifflose jey, mußte ene, [p. 246] Attractionskraft der ähnlichen Bilder oder desgleichen angenommen werden, welche zugleich die negative Macht wäre, das noch Ungleiche derselben an einander abzureiben. Diese Kraft ist in der That die Intelligenz selbst, das Ich'als allgemeines, welches durch seine Erinnerung ihnen unmittelbar Allgemeinheit giebt. §. 377. Die Association der Vorstellungen daher eine Subist
 
 The so-called *laws* of the *association of ideas* have had great interest, especially in the flourishing of empirical psychology contemporaneous with the decline of philosophy. In the first place, it is no *ideas* that are associated. In the second place, these modes of relating are no *laws*, for the very reason alone that there are so *many* laws concerning the same matter, whereby arbitrariness and contingency, the opposite of a law, rather obtain. The progression through images and representations according to associating imagination is in general the play of a thoughtless representing, in which the determination of intelligence is as yet the wholly formal universality, but the content is the one given in the images. — Incidentally, image and representation are distinguished only in that the former is the more concrete; representation, whether the content be a pictorial one or Concept and Idea, has in general the character of being, though something belonging to intelligence, yet according to its content something given for it and immediate. — Otherwise it is evident that, since intuition is *immediate relation*, the I as ideal, thereby a *universality* external to its reflection-into-itself, which is not yet a determination of the content, whereas representation and its reproduction is a *determinate* universality, — that intuiting, representing and imagination are therefore essentially *thinking*, though not yet liberated thinking, and the content is not a *thought*. — The abstraction that is in the representing activity, by which universal representations are produced, is usually expressed as a *falling upon one another* of many *similar* images and is supposed in this way to become comprehensible. In order that this *falling upon one another* not be wholly *chance*, the conceptless, there would have to be assumed an [p. 246] *attractive force* of the similar images or the like, which would at the same time be the negative power to rub off against one another what is still unlike in them. This force is in fact intelligence itself, the I as universal, which through its recollection immediately gives them universality.
 
-> wesentlich Diremtion und Bestimmung, Ur
+> sumtion der einzelnen unter eine Allgemeine Diese.
 
 §. 377.
 
-> dende theil, Identität und 2); die der aus Begriff dieser Besonderung und die sich Vernunft selbst fin Die Intelligenz hat als begreiffend das Be-. stimmtseyn, welche in ihrer Empfindung zunächst als unmittelbarer Stoff war, in sich selbst als ihr schlechthin eigenes, und dadurch nicht als Bestimmtseyn, son. dern als Bestimmen.. In der Logik ist das Denken, wie es erst an sich ist, dann wie es für sich und wie es an und für sich, als Seyn, Reflexion und Begriff und dann als Idee betrachtet worden. In Bewußtseyn der Seele istes die
+> Allgemeinheit zunächst Form der Intelligenz Aber in ist. diese istebenso sich bestimmte concrete Sub, =, jectivität, und ihr eigner Inhalt kann ein Gedanke Begriff oder Idee seyn Als Subsumiren der Bilder. unter den eigenthümlichen Inhalt die Intelligenz, ist in jenen in sich bestimmt erinnert, und bildet sie diesem ihrem Inhalt ein So. Phantasieist symbosie,
 
 The association of representations is therefore a *subsumption* of the singular ones under a *universal* one. This universality is at first *form* of intelligence. But this is just as much *within itself determinate*, *concrete* subjectivity, and its own content can be a thought, Concept or Idea. As subsuming the images under the peculiar content, intelligence is recollected in those as *determinate* within itself, and forms them into this its content. Thus it is *phantasy*, *symbolizing, allegorizing or poetizing* imagination.
 
-> wache es ebenso Besonnenheit als eine Stuffe; vor im. Es tritt in kommt diesen
+> lisirende, allegorisirende oder dichtende Einbildungskraft.
 
 §. 378.
 
-> verschiedenen Theilen der Wissenschaft deßwegen immer wieder hervor, weil sie nur durch das Element und die Form des Gegensakes verschieden, das Denken aber dieses eine und dasselbe Centrum ist, in welches als in ihre Wahrheit die Gegensäke zurückgehen. §. 387. 1 Das Denken, weil es der freye Begriff, ist ist auch dem Inhalte eigene nach frey subjectiven; die Bestimmtheit Intelligenz, der Ver-
+> §. 378. Die Intelligenz ist in der bestimmten Erinnerung der Phantasie insoweit vollendet als ihr aus ihr selbst, genommener Inhalt eine bildliche Existenz hat Aber. der Stoff des Bildlichen ist gegeben, und das Product hat nicht die Unmittelbarkeit der Existenz. Sie muß ihm diese geben weil,ihm Totalität des Vorsie in stellens,aus ihrer Besonderung die subjective Vorstelin lung und, die äusserliche Anschauung zur freyen identis, schen Beziehung auf sich zurückgekehrt Diese Erinne-.ist
 
 Intelligence is completed, in the determinate recollection of phantasy, insofar as its content, taken from itself, has a pictorial existence. But the material of the *pictorial* is given, and the product does not have the *immediacy* of existence. It must give it this, because in it, totality of representing, it has returned, out of its particularization into subjective representation, and external intuition, to free, identical relation to itself. This recollection of intuition is *memory*.
 
-> bestimmt nunft ist die ist sie ihr Inhalt der und Daseyn. Die denkende und als
+> rung der Anschauung ist Gedächtniß.
 
 §. 379.
 
-> Subjectivität, ist somit wirklich; ihre Bestimmungen sind Zwecke; sie ist freyer Willen. [p. 247] b  Der praktische Gei ſt.  §. 388. Der Geist als Intelligenz ist für sich; als freyer Willen ist er erfullt zunächst, aber weil abstract er als Begriff, als sich bestimmend, ist Dies erfüllte Für =
+> §. 379.). y Das Gedächtnis ( Mnemosyne, Muse) ist die Einheit selbstständiger Vorstellung und der Anschauung, zu welcher jene als freye Phantasie sich [p. 247] genz noch nicht praktisch ist, eine unmittelbare oder gegebene; aber die Anschauung gilt in dieser Identität nicht als positiv und sich selbst sondern als etwas an deres vorstellend; sie ist ein Bild, das eine selbstständige Vorstellung der Intelligenz als Seele in sich em. pfangen hat, seine Bedeutung. Diese Anschauung ist das Zeichen. Das Zeichen ist eine unmittelbare An- -
 
 γ). *Memory* (Mnemosyne, Muse) is the unity of *independent representation* and of the *intuition*, to which the former, as free phantasy, [p. 247] expresses itself. — This immediacy is, because intelligence is not yet practical, an immediate or given one; but *intuition* in this identity does not count as positive and as itself, but as representing *something other*; it is an image that has received within itself an *independent* representation of intelligence as soul, its *meaning*. This intuition is the sign.
 
-> sich seyn oder Einzelnheit macht. die Seite der Eristenz oder Realitat, der Idee des Geistes aus, dessen Begriff die Vernunst ist. § 389.. Diese Existenz der Selbstbestimmung des Geistes ist zunächst die unmittelbare, daß der Geist sich fin det, als innerlich in sich selbst oder durch die Natur sich bestimmende Einzelnheit. Er ist somit) 1 praktisches Gefühl. §. 390.  Der freye Wille ist die Einzelnheit oder reine Negativitat des sich selbst bestimmenden Fürsichseyns, als die mit der Vernunft einfach identische und dadurch selbst ligenz allgemeine Subjectivität, der Wille als Intel-. Die unmittelbare Einzelnheit des Willens im praktischen Gefühle hat daher wohl jenen Inhalt, aber als unmittelbar subjectiven einzelnen, somit zufälligen und. Wenn an das Gefühl von Recht und Moralität, das der Mensch in sich habe, an seine wohlwollenden Neigungen u. s. f. an sein Herz überhaupt, d. i. das Subject, insofern in ihm alle die verschiedenen praktischen Gefühle vereinigt sind, appellirt wird, so hat dieß 1) den richtigen Sinn, daß diese Bestimmungen seine eignen immanenten sind, 2) und dann, insofern das Gefühl dem Verstande [p. 248] entgegengeseßt wird, daß es gegen dessen einseitige Abstraction die Totalität seyn kann. Abereben so kann das Gefühl einseitig, unwesentlich, schlecht seyn; durch die Form der Unmittelbarkeit ist es wesentlich das Zufällige, und Subjective. Das Vernünftige in der Gestalt der Vernünftig =
+> irgend: schauung, aber die eine Vorstellung von ganz anderem Inhalt vorstellt, als sie für sich hat; die Pyramide ist in, welche eine fremde Seele versekt und aufbewahrt. Das Zeichen ist vom Sy m bol verschieden, einer Anschauung deren eigene, Bestimmtheit ihrem Wesen und Begriffe nach mehr oder weniger der Gedanke ist, den sie als Symbol ausdrückt Als Bezeichend beweist daher die In- -. telligenz eine freyere Willkühr und Herrschaft Geim brauch der Anschauung dann als symbolisirend,. Gewöhnlich wird das Zeichen und die Sprache, irgendwo als Anhang der Psychologie oder auch in Logik eingeschobeu die Nothwendigin an in ohne daß, keit und Zusammenhang desselben dem Systeme der Thätigkeit der Intelligenz gedacht würde. Seine wahrhafte Stelle ist die aufgezeigte, daß die Intelligenz, welche als anschauend Zeit und Raum erzeugt nen, ihren selbstständigen Vorstellungen ein bestimmtes Daseyn giebt den erfüllten Raum und Zeit die Aufin,, schauung der Bestimmtheit, die sie vom Stoffe der Empfindung hat, als die ihrige gebraucht, - deren unmittelbare und eigenthümliche Vorstellung tilgt, und ihr eine andere zur Bedeutung und Seele giebt. Diese Zeichen erschaffende Thätigkeit wird mit Recht Gedächtniß, und zwar das produc tive Gedächtniß genannt indem das Gedächtniß,,; das freylich im gemeinen Leben oft mit Erinnerung [p. 248] nur mit Zeichen zu thun hat.Wenn es aber auch in dieser seinernähern Bestimmung gemeynt ist, fo wird sonst nur an das reproductive Gedächtniß Intelligenz producirt aber wesentlich sie die gedacht;, das was reproducirt. S. 380. Die Anschauung die für ein Zeichen gebraucht
 
 The *sign* is some immediate intuition, but one that represents a representation of quite another content than it has for itself; — the *pyramid*, into which a foreign soul is transposed and preserved. The *sign* is different from the *symbol*, an intuition whose *own* determinacy is, according to its essence and Concept, more or less the thought that it expresses as symbol. As *designating*, therefore, intelligence proves a freer arbitrary will and mastery in the use of intuition than as symbolizing. — Usually the *sign* and *language* are inserted somewhere as an *appendix* in psychology or also in logic, without any thought being given to the necessity and connection of it in the system of the activity of intelligence. Its true place is the one indicated: that intelligence, which as intuiting generates time and space, now gives its independent representations a definite determinate being, the filled space and time, *uses* the intuition, in the determinacy which it has from the material of sensation, *as its own*, effaces its immediate and peculiar representation, and gives it another one as meaning and soul. — This sign-creating activity is rightly called *memory*, and indeed *productive* memory; since memory, which admittedly in common life is often confused with recollection, [p. 248] also with representation and imagination, and used synonymously, has altogether to do only with signs. But even if it is meant in this its closer determination, usually only the *reproductive* memory is thought of; but intelligence essentially produces what it reproduces.
 
-> > keit den, das das als praktische Gedachtes Gefuhl dagegen hat, ist, aber ist derselbe in seiner Inhalt Allge, =
+> ,,
 
 §. 380.
 
-> meinheit und Nothwendigkeit, in seiner Objectivität und Wahrheit. Deswegen ist es einerseits thöricht, zu meinen, als ob im Uebergange vom Gefühle z. B. zum Recht und der Pflicht an Inhalt und Vertrefflichkeit verlohren werde; dieser Uebergangbringt erst das Gefühl zu seiner Wahrheit; ingleichen die Intelligenz dem Gefuhle, Herzen und Willen für überflüssig ja schädlich zu halten; die Wahrheit und was dasselbe ist, die Vernünftigkeit des Herzens und Willens kann allein in der Allgemeinheit der Intelligenz, nichtin der Einzelnheit des Gefühles Statt finden. Andererseits ist es aber verdächtig, und sehr wohl mehr als Vernünftigkeit dies, am Ge-
+> wird ist als unmittelbare zunächst eine gegebene undräumliche. Aber indem sie nur als aufgehobene, und Die Intelligenz diese ihre Negativität ist ist die wahr,, die so = Haftere Form des Daseyns des Zeichens Zeit ein Verschwinden indem, und der Ton es erfüllte ist, ist (§ die, Aeusserung der sich kund gebenden Innerlichkeit 279.)- Der für die bestimmten Vorstellungen sich weiter articulirende Ton die Rede und ihr System, die Sprache, giebt den Empfindungen Anschauungen ein zweytes, Höheres als ihr unmittelbares und den, Vorstellungen, überhaupt ein Daseyn, das im Reiche des Vorftellens gilt;
 
 The intuition that is used for a sign is, as immediate, at first a given and spatial one. But since it is only as sublated, and intelligence is this its negativity, the truer form of the determinate being of the sign is time, — a vanishing in that it is, and the *tone* is the filled expression of the inwardness that makes itself known (§ 279). The tone, articulating itself further for the determinate representations, *speech* and its system, *language*, gives to sensations and intuitions a second, higher one than their immediate one, and to representations in general a *determinate being* that holds in the *realm of representing*.
 
-> fühle festzuhalten und Herzen, weil gegen das, was die gedachte Mehr in jenen als in
+> .
 
 §. 381.
 
-> dieser ist, nur die besondere - Subjectivität, das Eitle und die Wilkuhr ist. Aus demselben Grunde ist es ungeschickt, sich bey der Betrachtung der Gefühle auf mehr, als auf ihre Form einzulassen, und ihren Inhalt zu betrachten, da dieser als gedacht, vielmehr die Selbstbestimmungen des Geistes in ihrer Allgemeinheit und Nothwendigkeit, Rechte und
+> .§ 381. Die Identität der Anschauung im Zeichen und seiner Bedeutung zunächst die einzelne Production ist; aber als Einheit der Intelligenz sie ist zu sie eben so wesentlich Allgemeine Die Thätigkeit., erinnern und dadurch allgemein machen, so wie auch sie zu reproduciren, ist das auswendig behaltende und reproducti ve Gedächtniß.
 
 The identity of the intuition in the sign and its meaning is at first the *singular* production; but as unity of intelligence it is just as essentially something universal. The activity of recollecting it and thereby making it universal, as well as of reproducing it, is the *retaining-by-heart* and *reproductive* memory.
 
-> Pflichten sind.
+> 5. 382.
 
 §. 382.
 
-> §. 391. Das praktische Gefuht, als Selbstbestimmung des denkenden die concrete Subjects freye Allgemeinheit überhaupt, als enthält an sich das seyend Sollen aber, [p. 249] als bezogen au eine seyende Einzelnheit, die als an sich nichtig, und nur in der Identitat mit der Allgemeinheit als für sich seyendes Wahres bestimmt ist. Das praktische Gefühl in seiner unmittelbaren Einzeln =
+> Die Zeichen sind viele überhaupt, und als solche schlechthin Zufällige gegeneinander Das leere Band, in. welches solche Reihen befestigt und dieser festen Ord- 1 [p. 249] ist die, - ganz abstracte das Gedächtniß, reine Mach das um,
 
 The signs are, in general, *many*, and as such absolutely *contingent* ones in relation to one another. The empty bond, which fixes such series and in this fixed order [p. 249] keeps them, is the *quite abstract*, pure *power* of *subjectivity*, — memory, which, on account of the complete externality in which the members of such series stand toward one another, is called *mechanical*.
 
-> heit nur mit ist, seinem bezogen Sollen, giebt, auf da die sie in Bestimmtheit dieser Unmittelbar, welche =
+> t
 
 §. 283.
 
-> keit noch keine nothwendige Identität haben, das Ge fühl des Angenehmen oder Unangenehmen.  1) Vergnügen, Freude, Schmerz u. f. f. Schaam, Reue, Zufriedenheit u. s. w. sind theils nur Modificationen des formellen praktischen Gefühls überhaupt, theils aber durch ihren Inhalt, den die Bestimmtheit des Sollens ausmacht, verschieden. 2) Die berühmte Frage nach dem Ursprunge des Uebels in der Welt, erhält in ihrer Allgemeinheit, näher aber insofern unter dem Uebel zunächst nur das Unangenehme und der Schmerz verstanden wird, hier ihre Beantwortung. Das Uebel ist nichts anders als die Unangemessenheit des Seyns
+> der gänzlichen Veusserlichkeit, in der die Glieder solcher Reihen gegeneinader sind, mechaniſch genannt wird. §. 283. Der Nahme ist die Sache, wie sie im Reiche der Vorstellung vorhanden ist und Gültigkeit hat. Aber ev hat eine von der Intelligenz hervorgebrachte Neusserlichkeit, und ist die als fur sich unwesentliche, im Gebrauche der Intelligenz stehende und fubjectip ge machte Anschauung daß, durch die von dieser ihr so er gegebene Bedeutung allein Werth hat, welche die an und für sich bestimmte Vorstellung, und die Sache oder das Objective.ist Das mechanische Gedächtniß ist das formelle Aufheben jener Subjectivität wodurch der, Widerspruch des Zeichens wegfällt und Intelligenz sich die der Gewohnheit als unmit 1 für sich in zur Sache, telbarer Objectivität macht Sie macht auf diese Weise. durch das Gedächtniß den Uebergang zum Denken. 1
 
 The *name* is the *matter* as it is *present* in the *realm* of *representation* and has *validity*. But it has an externality produced by intelligence, and is the intuition, as inessential for itself, standing in the use of intelligence and made *subjective*, so that it has value only through the *meaning* given to it by the latter, which is the representation determinate in and for itself, and the *matter* or the *objective*. Mechanical memory is the *formal* sublation of that subjectivity, whereby the contradiction of the sign drops away and intelligence makes itself for itself, in *habit*, into the *matter*, as *immediate* objectivity. In this way it makes, through *memory*, the transition to *thinking*.
 
-> tungen zu dem, Sollen und da. die Dieses zufälligen Sollen aber 3 wecke hat viele gleichfalls Bedeu
+> §. 384- 3
 
 §. 384.
 
 3) Through the *recollection* of its immediate being-determined and the externalization of its subjective determining, their unity and truth has come to be; the thought. The *thought* is the matter; simple identity of the subjective and the objective. What is *thought*, *is*; and what is, is only insofar as it is a thought.
 
-> die Form des Sollens haben, unendlich viele. In Ansehung ihrer ist das Uebel nur das Recht, das an der Eitelkeit und Nichtigkeit ihrer Einbildung ausgeübt wird. Sie selbst sind schon das Uebel; und daß es solche und alle andere der Idee unangemessene Einzelnheiten giebt, liegt in der nothwendigen Gleichgültigkeit des Begriffs gegen das unmit
+> ) Durch die Erinnerung ihres unmittelbaren Bestimmtseyns und die Entäusserung ihres fubjectiven Bestimmens ist deren Einheit und Wahrheit geworden; der Gedanke. Der Gedanke ist die Sache; einfache Identität des Subjectiven und Objectiven. Was gez ist ist dachtist; und was ist nur, insofern es Ge-.,, danke ist
 
 §. 385.
 
-> eine telbare freye Seyn Wirklichkeit überhaupt, ist, welches gegenüber ihm,, und insofern durch ihn er
+> §. 385.
 
 *Thinking* is at first *formal*; universality as universality, and being just as much the simple subjectivity of intelligence. It is thus not as determinate in and for itself; the representations recollected into thinking are to that extent still the content, — a content
 
-> gleichfalls zur freyen Wirklichkeit entlassen ist, aber eben so auf ihnbezogen und als das an sich Nichtige bestimmt ist; ein Widerspruch, der dasUebel heißt. Im Todten ist kein Uebel noch Schmerz, weil der Be * griff nicht in ihm existirt, oder weil er in der unor
+> Das Denken ist zunächst formell; die Allge meinheit als die Allgemeinheit und das Seyn eben, so die einfache Subjectivität der Intelligenz Es - In. ist so nicht als an und für sich bestimmt die zum Denken erinnerten; Vorstellungen sind insofern noch der Inhalt ein,
 
 [p. 250]
 
-> ganischen Natur seinem Daseyn nicht gegenüber tritt. Im Leben schon und noch mehr im Geiste ist diese
+> , §. 386. Das Denken aber als diese freye Algemeinheit,
 
 that is *in itself* only the being-determinate-in-and-for-itself of reason.
 
-> Unterscheidung vorhanden; und diese Negativität,
+> welche dieß nur ist als reine Negativität
 
 §. 386.
 
-> Thätigkeit, Ich, die Freyheit, - sind die Principien des Uebels die und des als Schmerzens die Pein. Jacob Böhm als hat Ichheit und Qual und die Quelle der Natur und des Geistes gefaßt. §. 392. praktische Sollen ist Unmittelbarkeit Das Gefühls ist für 2) reelles Selbstbestimmung Urtheil. Die Willens, des Negation sie die Subjectivität des eine,; macht aufgehoben daher die, desselben Wille aus für welche sey Da werden Thätigkeit soll damit von der der Form noch sich nicht identisch befreyt., und daher diese
+> -, ist somit nicht)a nur der formell identische Verstand, sondern B) wesentlich Diremtion und Bestimmung, Ur theil, und 2) die aus dieser Besonderung sich selbst fin dende Identität; der Begriff und die Vernunft. Die Intelligenz hat als begreiffend das Bestimmtseyn, welche ihrer Empfindung zunächst als in unmittelbarer Stoff war, sich selbst als ihr schlechthin in. eigenes, und dadurch nicht als Bestimmtseyn, son. dern als Bestimmen. In der Logik ist das Denken, wie an es
 
 But thinking, as this free universality, which is this only as pure negativity, is thus not α) only the formally identical *understanding*, but β) essentially *diremption* and *determination*, — *judgment*, and γ) the identity finding itself out of this particularization; the *Concept* and *reason*. As *comprehending*, *intelligence* has the *being-determined*, which in its sensation was at first as immediate *material*, within itself as absolutely its own, and thereby not as *being-determined*, but as *determining*.
 
-> formell ist, ist der Wille noch natürlicher Wille, Trieb und Neigung, und mit der nähern Bestimmtheit, daß die Totalität des praktischen Geistes sich in eine einzelne der beschränkten Bestimmungen legt, Leidenschaft.  §. 393. Die Neigungen und Leidenschaften haben dieselben Selbstbestimmungen zu ihrem Inhalte, als die praktischen Gefuhle. Weil die einen wie die andern unmittelbare Selbstbestimmungen sind, welche die Form der Vernünftigkeit noch nicht haben, so sind sie mannichfaltige besondere. Sie haben die vernünftige Na-
+> erst an sich ist, dann wie es für sich und wie es und für sich, als Seyn Reflexion und Begriff und dann, als Idee betrachtet worden der Seele istes die. In wache Besonnenheit; im Bewußtseyn kommt es ebenso als eine Stuffe vor. Es tritt diesen in verschiedenen Theilen der Wissenschaft imdeßwegen mer wieder hervor, weil sie nur durch das Element und die Form des Gegensakes verschieden das Den in =, ken aber dieses eine und dasselbe Centrum ist, welches als in ihre Wahrheit die Gegensäke zurückgehen.
 
 In *logic*, thinking has been considered as it is at first *in itself*, then as it is *for itself* and as it is in and for itself, — as being, reflection and Concept and then as Idea. In the soul it is the *wakeful self-possession*; in *consciousness* it likewise occurs as a stage. It therefore emerges again and again in these different parts of the science, because they are different only through the element and the form of opposition, but thinking is this one and the same center, into which, as into their truth, the oppositions return.
 
-> tur des Geistes einerseits subjectiven zu ihrer Grundlage, anderer-
+> §. 387. 1
 
 §. 387.
 
-> seits angehörig aber als sind dem sie eben noch so wesentlich, mit einzelnen Zufälligkeit Willen behaftet, und verhalten sich zum Individuum, wie zu einander, nach einer äusserlichen, unfreyen Nothwendigkeit. Neigungen gilt Von den ganz dasselbe, was an von sich den freyen Gefühlen Willens; sie, sind der Selbstbestimmungen aber noch nicht im Indes
+> Das Denken, weil es der freye Begriff, ist ist auch dem Inhalte nach frey; die Bestimmtheit der Vernunft ist die eigene der subjectiven Intelligenz, und als bestimmt ist sie ihr Inhalt und Daseyn. Die denkende Subjectivität wirklich ihre Bestimmungen sie ist, somit; sind Zwecke; ist freyer Willen.
 
 Thinking, because it is the free Concept, is also free as to *content*; the *determinacy* of reason is the proper one of subjective intelligence, and as determinate it is its content and determinate being. Thinking subjectivity is thus *actual*; its determinations are *ends*; it is *free will*.
 
 [p. 251]
 
-> sich frey, noch nicht allgemein und objectiv ist. Die
+> Der praktische Gei ſt. §. 388.
 
 b
 
-> Leidenschaft mung, daß sie auf enthält eine schon Besonderheit dieß in ihrer der Bestim Wil-
+> Der Geist als Intelligenz ist zunächst aber abstract
 
 ##### Practical Spirit.
 
-> heit lensbestimmung beschränkt ist und, ihr die Inhalt subjective mag Einzeln seyn, wel- =
+> für sich als freyer Willen ist erfullt weil als
 
 §. 388.
 
-> cher er mill. Aber von den Neigungen sonst wird mehr die Frage gemacht, welche gut und böse, ingleichen bis zu welchem Grade die Guten gut blei ben, und da sie Besondere gegen einander und ihrer Viele sind, wie sie, da sie sich doch in Einem Subjecte befinden, und sich nach der Erfahrung nicht
+> er er ist;, Begriff, als sich bestimmend,. Dies erfüllte Fürsich seyn oder Einzelnheit macht die Seite der Eristenz oder Realitat, der Idee des Geistes aus, dessen Begriff die Vernunst ist
 
 Spirit as intelligence is at first, however, abstractly *for itself*; as free will it is *fulfilled*, because it is, as Concept, as self-determining. This fulfilled *being-for-itself* or *singularity* constitutes the side of existence or reality, of the Idea of spirit, whose Concept is reason.
 
-> wohl alle befriedigen lassen, gegen einander wenig-
+> .
 
 §. 389.
 
-> Trieben stens einschränken und Neigungen müssen. zunächst Es hat dieselbe mit diesen Bewandvielen niß, wie mit den Seelenkräften, deren Sammlung der theoretische Geist ist; - eine Sammlung, welche nun mit der Menge von Trieben vermehrt wird Die formelle Vernünftigkeit des Triebes und der.
+> §. 389. Diese Existenz der Selbstbestimmung des Geistes ist zunächst die unmittelbare, daß der Geist sich fin det, als innerlich in sich selbst oder durch die Natur Einzelnheit sich bestimmende. Er ist somit) 1 prak =
 
 This existence of the self-determination of spirit is at first the *immediate* one, that spirit *finds itself* as *singularity* determining itself inwardly within itself or through *nature*. It is thus 1) *practical feeling*.
 
-> Neigung besteht nur in ihrem allgemeinen Triebe,
+> tisches Gefühl. §. 390.
 
 §. 390.
 
-> darin, nicht als subjectives zu seyn, sondern realisirt zu werden. Aber ihre wahrhafte Betrachtung Vernünftigkeit kann sich nicht in einer der äussern Reflexion ergeben, theils bey der Voraussezzung nicht, daß sie als selbstständige Naturbestimmungen und unmittelbare Triebe angenommen die und festgesekt sind, theils ist es vielmehr immanente Reflexion des Geistes hinauszugehen selbst, über ihre Besonderheit
+> Der freye Wille die Einzelnheit oder reine Ne istgativitat des sich selbst bestimmenden Fürsichseyns als die, mit der Vernunft einfach identische und dadurch selbst allgemeine Subjectivität der Wille als, Intelligenz. Die unmittelbare Einzelnheit des Willens im praktischen Gefühle hat daher wohl jenen Inhalt, aber als unmittelbar einzelnen, somit zufälligen und subjectiven. Wenn an das Gefühl von Recht und Moralität, das der Mensch in sich habe, an seine wohlwollenden
 
 The free will is the singularity or pure negativity of the self-determining being-for-itself, as the subjectivity simply identical with reason and thereby itself *universal*, *the will as intelligence*. The *immediate* singularity of the will in practical feeling therefore has indeed that content, but as *immediately singular*, thus *contingent and subjective*.
 
-> Form und Unmittelbarkeit der Vernünftigkeit und Objectivität, und ihnen zu geben die, worin sie als nothwendige Verhältnisse und Rechte und Pflichten sind. Diese Objectivirung ist es denn selbst, welche ihren Gehalt, so wie ihr Verhältniß: zu einander, überhaupt ihre Wahrheit aufzeigt Wie Plato, was die Gerechtigkeit an und für. sich sey mit wahrhaftem Sinne, auch insofern er unter dem Rechte des Geistes seine ganze Na [p. 252] tur befaßte, nur in der objectiven Gestalt der Gerechtigkeit, nemlich der Construction des Staates, als dessittlichen Lebens, darstellen zu kön nen zeigte. Welches also die guten, vernünftigen Reigungen und deren Unterordnung sen, ver wandelt sich in die Darstellung, welche Verhältnisse der Geist hervorbringt, indem er seine - Subjectivi tät aufhebt und sich realisirt; eine Objectivität, in welcher eben seine Selbstbestimmungen überhaupt die Form von Neigungen, so wie der Ine halt die Subjectivitat, Zufälligkeit oder Willkühr verlieren. 5. 394.  Das Allgemeine in diesen Trieben ist das einzelne Subject, die Thätigkeit ihrer Befriedigungtoder formellen Vernünftigkeit, nemlich der Uebersehung aus der Subjectivität in die Objectivität. In dieser ist jene in sich zurückgekehrt; daß die Sache, welche zu Stande gekommen ist, das Moment dersubjectiven Einzelnheit enthält, ist das Interesse. Weil die Thatigkeit die einzelne Subjectivität in jener dialektischen Bewegung ist, so kommt nichts ohne Interesse zu Stande. §. 395. Das Interesse ist aber hier noch nichtals die nur formelle Thätigkeit oder reine Subjectivitat, sondern hat als Trieb odor Neigung einen vom unmittelbaren Willen bestimmten Inhalt. Die Dialektik dieses mannichfaltigen besondern Inhalts ist aber die einfache Subjectivis tät des Willens selbst, der den Widerspruch der Triebe
+> Neigungen u. s. f. an sein Herz überhaupt,.d.i das Subject, insofern in ihm alle die verschiedenen praktischen Gefühle vereinigt sind appellirt, wird hat dieß, so den richtigen Sinn) 1 daß diese, Bestimmungen seine eignen immanenten sind, 2) und dann, insofern das Gefühl dem Verstande [p. 252] Abstraction die Totalität seyn kann. Abereben so kann das Gefühl einseitig, unwesentlich, schlecht seyn; durch die Form der Unmittelbarkeit ist es wesentlich das Zufällige, und Subjective. Das Vernünftige in der Gestalt der Vernünftig = > keit, das als Gedachtes dagegen ist, ist derselbe Inhalt, den das praktische Gefuhl hat, aber in seiner Allgemeinheit und Nothwendigkeit, in seiner Objectivität und Wahrheit. Deswegen einerseits thöricht ist es, zu meinen, als ob im Uebergange vom Gefühle B. z. zum Recht und der Pflicht an Inhalt und Vertrefflichkeit verlohren werde erst Gefühl das zu seiner Wahrheit die Intelligenz dem Gefuhle Herzen; dieser Uebergang,; - und bringt ingleichen Willen für überflüssig ja schädlich zu halten; die Wahrheit und was dasselbe ist, die Vernünftigkeit des Her = - zens und Willens kann allein in der Allgemeinheit der Intelligenz, nicht in der Einzelnheit des Gefühles Statt finden. Andererseits ist es aber verdächtig und sehr wohl mehr als dies, am Ge-, fühle und Herzen gegen die gedachte Vernünftigkeit weil das was Mehr in infestzuhalten,,jenen als dieser nur die besondere Subjectivität das Eitle ist,, und die Wilkuhr ist. Aus demselben Grunde ist es ungeschickt, sich bey der Betrachtung der Gefühle auf mehr, als auf ihre Form einzulassen, und ihren Inhalt zu betrachten da dieser als gedacht vielin,, mehr die Selbstbestimmungen des Geistes ihrer
 
 If appeal is made to the *feeling* of right and morality that the human being has in himself, to his benevolent inclinations, etc., to his *heart* in general, i.e., the subject, insofar as all the different practical feelings are united in it, this has 1) the correct sense, that these determinations are his *own immanent* ones, 2) and then, insofar as feeling is opposed to the *understanding*, [p. 252] that against its one-sided abstraction it *can* be the *totality*. But feeling *can* just as well be *one-sided*, inessential, bad; through the form of immediacy it is essentially the *contingent* and *subjective*. The *rational* in the shape of rationality, which, on the other hand, is as something thought, is the same content that practical feeling has, but in its universality and necessity, in its objectivity and truth. For this reason it is, on the one hand, *foolish* to suppose that, in the transition from feeling, e.g., to right and duty, anything is lost in content and excellence; — this transition first brings feeling to its truth; — likewise, to hold intelligence to be superfluous, indeed harmful, for feeling, heart and will; the truth, and, what is the same, the rationality of the heart and will can take place only in the universality of intelligence, not in the singularity of feeling. — On the other hand, however, it is *suspect*, and very well more than this, to hold fast to feeling and heart against rationality as thought, because what is *more* in the former than in the latter is only particular subjectivity, the vain, and arbitrary will. — For the same reason it is inept, in the consideration of feelings, to go into anything more than their *form*, and to consider their content, since this, as thought, consists rather of the self-determinations of spirit in their universality and necessity, rights and duties.
 
-> gemeinheit zunächst als reflectirender erhebt, und sich Wille 3) in die die Glückselige formelle Alle
+> Allgemeinheit und Nothwendigkeit, Rechte und
 
 §. 391.
 
-> keit zum Zwecke macht.: [p. 253] 5.396.  Die Glückseligkeit ist die verworrene Vorstellung der Befriedigung aller Triebe, deren einer dem andern aber ganz oder zum Theil aufgeopfert, vorgezogen und vorgesekt werden soll. Die Begränzung derselben durch einander als Senender ist einerseits eine Vermischung seits von qualitativer da die Neigung und quantitativer ein subjectiver Bestimmung und unmittelbarer; anderer-
+> Pflichten sind. §. 391. Das praktische Gefuht, als Selbstbestimmung des denkenden Subjects überhaupt, enthält das Sollen, die concrete freye Allgemeinheit als an sich seyend aber [p. 253] meinheit als für sich seyendes Wahres bestimmt ist. Das praktische Gefühl in seiner unmittelbaren Einzelnheit mit seinem Sollen auf die Bestimmtheit, welche nur ist, bezogen, giebt, da sie in dieser Unmittelbarkeit noch keine nothwendige Identität haben, das Ge fühl des Angenehmen oder Unangenehmen.) 1 Vergnügen, Freude Schmerz, u. f.f.
 
 Practical feeling, as self-determination of the thinking subject in general, contains the *ought*, the concrete free universality as being *in itself* but [p. 253] as *related* to a singularity that is, which, as *in itself* null, and only in the identity with universality, is determined as something true that is for itself. Practical feeling, in its *immediate* singularity, related with its *ought* to the determinacy that only is, gives, since they do not yet have in this immediacy a necessary identity, the *feeling* of the *agreeable or disagreeable*.
 
 1) Pleasure, joy, pain, etc., shame, remorse, contentment, etc., are partly only modifications of formal practical feeling in general, partly however differentiated by their content, which the determinacy of the ought constitutes. 2) The famous question as to the *origin of ill* in the world receives, in its universality, but more closely insofar as by ill is understood at first only the disagreeable and *pain*, its answer here. Ill is nothing other than the inadequacy of *being* to the *ought*. This ought, however, has many meanings, and, since the contingent *ends* likewise have the form of the ought, infinitely many. In regard to them, ill is only the right that is exercised on the vanity and nullity of their conceit. They themselves are already ill; and that there are such, and all other, singularities inadequate to the Idea lies in the necessary *indifference* of the Concept toward immediate being in general, which, insofar as the Concept is a free actuality, is over against it, and through it is likewise released into free actuality, but is just as much related to it and determined as what is *in itself* null; — a contradiction that is called ill. In the dead there is neither ill nor pain, because the Concept does not exist in it, or because in the inorganic
 
-> Bestimmungsgrund ist, ist es das subjective Gefühl und Belieben, was den Ausschlag geben muß. §. 397.  Der Wille, welcher als Leidenschaft abstracter Vers stand ist und sich in Eine seiner Bestimmtheiten einschließt, ist in dem allgemeinen Zwecke der Gluckseligkeit von dies ser Vereinzelung befrent; die vielen besondern Neigun. gen aber, noch als unmittelbare, selbstständige Bestimmungen geltend, sind zugleich in der Einheit des Zweckes, der Glückseligkeit, aufgehoben und als una ſelſtſtändige. Der Wille steht als diese unbestimmte AUgemeinheit in sich reflectirt über der einzelnen Neigung; sie ist erst die seinige, indem er sich mit ihr zusammen- 1 schließt und sichdadurch bestimmte Einzelnheit und Wirklichkeit giebt; er ist so auf dem Standpunkt, zwischen Neigungen zu wählen zu haben, und ist Willkühr. k  §. 398. Der Wille ist auf diese Weise für sich frey, indem er als die Negativität seines unmittelbaren Bestimmtseyns in sich reflectirt ist; jedoch insofern der Inhalt, in wel chem er sich zu dieser Einzelnheit und Wirklichkeit bes [ chließt, noch eine Besonderheit ist, ist er nur als subjectiver und zufälliger Wille wirklich. Als der Widerspruch, sich in einer Besonderheit zu verwirklichen, welche zugleich für ihn eine Nichtigkeit ist, und eine Be-
+> Schaam, Reue, Zufriedenheit sind theils.u.s w. nur Modificationen des formellen praktischen Gefühls überhaupt, theils aber durch ihren Inhalt, den die Bestimmtheit des Sollens ausmacht, verschieden. 2) Die berühmte Frage nach dem Ursprunge des Uebels in der Welt, erhält in ihrer Allgemeinheit, näher aber insofern unter dem Uebel zunächst nur das Unangenehme und der Schmerz verstan istden wird, hier ihre Beantwortung. Das Uebel nichts anders als die Unangemessenheit des Seyns zu dem Sollen Dieses Sollen aber hat viele Bedeu tungen, und da. die zufälligen wecke gleichfalls 3 die Form des Sollens haben unendlich viele,. In Ansehung ihrer das Uebel nur das Recht ist das, an der Eitelkeit und Nichtigkeit ihrer Einbildung ausgeübt wird. Sie selbst sind schon das Uebel; und daß es solche und alle andere der Idee unangemessene Einzelnheiten giebt,liegt der nothwendigen in Gleichgültigkeit des Begriffs gegen das unmit telbare Seyn überhaupt, welches ihm, insofern er eine freye Wirklichkeit gegenüber und durch ihn ist,, gleichfalls zur freyen Wirklichkeit entlassen aber ist -, eben so auf ihn bezogen und als das an sich Nichtige bestimmt ist; ein Widerspruch, der dasUebel heißt. Im Todten ist kein Uebel noch Schmerz, weil der Be * griff nicht in ihm existirt, oder weil er in der unor
 
 [p. 254]
 
-> friedigung in ihr zu haben, aus der er zugleich heraus ist, ist er zunächst der Proceß der Zerstreuung und des Aufhebens einer Neigung durch die Andere, der Befriedigung, ist, ins Unendliche die dieß eben sosehr nicht durch eine andere. §. 399.
+> Im Leben schon und noch mehr im Geiste ist diese Unterscheidung Negativitätvorhanden; und diese, Thätigkeit, Ich, die Freyheit, sind die Principien des Uebels und des Schmerzens. Jacob Böhm hat die Ichheit als die Pein und Qual und als die Quelle der Natur und des Geistes gefaßt. §. 392.
 
 nature it does not confront its determinate being. In life already, and still more in spirit, this distinction is present; and this negativity, activity, I, freedom, are the principles of ill and of pain. — Jakob *Böhme* conceived *I-hood* as the *torment* and *anguish* and as the *source* of nature and of spirit.
 
-> Die Wahrheit aber des besondern Zwecks des
+> Das praktische Sollen Die ist
 
 §. 392.
 
-> Willens, der ist, Besonderheit aufgehoben, welcher ist, ebensosehr abstrac Beten stimmtheit Einzelnheit als Willkühr und der in, der einen Inhalt, welche giebt, sich selchem giebt, Zwecke ist die Einheit ebensosehr, in beydes nur als nicht ist; die absolute Einzelnheit des welcher Willens, seine reine Moment Freyheit, die für sich selbst sich an und für sich bestimmt Der Geist in Wahrheit Selbstbestimmung,. als die dieser reine Reflexion seinerinsich der Zweck ist, die ist sich somit als allgemeiner, objectiver Wille, objectiver Geist überhaupt.
+> 2 reelles Urtheil). Unmittelbarkeit des Gefühls ist für die Selbstbestimmung des Willens eine Negation,; sie macht daher die Subjectivität desselben aus, welche aufgehoben werden soll, damit der Wille für sich identisch sey. Da diese Thätigkeit von der Form noch nicht befreyt, und daher formell ist, ist der Wille noch natürlicher Wille, Trieb und Neigung, und mit der nähern Bestimmtheit, daß die Totalität des praktischen Geistes sich in eine einzelne
 
 Practical *ought* is 2) real judgment. The immediacy of feeling is, for the self-determination of the will, a negation; it therefore constitutes the subjectivity of the latter, which is to be sublated so that the will may be identical for itself. Since this activity is not yet freed from the *form*, and is therefore formal, the will is still natural will, *drive* and *inclination*, and, with the closer determinacy that the totality of practical spirit lays itself into a single one of the restricted determinations, *passion*.
 
+> der beschränkten Bestimmungen legt, Leidenschaft. §. 393.
+
 §. 393.
+
+> Die Neigungen und Leidenschaften haben dieselben Selbstbestimmungen zu ihrem Inhalte prakti, als dieschen Gefuhle. Weil die einen wie die andern unmittelbare Selbstbestimmungen sind, Form der welche die Vernünftigkeit noch nicht haben, mannichso sind sie faltige besondere. Sie haben die vernünftige Natur des Geistes einerseits zu ihrer Grundlage, andererseits aber als dem noch subjectiven, einzelnen Willen angehörig sind sie eben so wesentlich mit Zufälligkeit behaftet und verhalten sich zum Individuum wie ein-, zu ander
 
 Inclinations and passions have the same self-determinations for their content as the practical feelings. Because the one like the other are immediate self-determinations, which do not yet have the *form* of rationality, they are *manifold, particular* ones. On the one hand they have the rational nature of spirit as their foundation, but on the other hand, belonging to the still subjective, singular will, they are just as essentially afflicted with contingency, and relate to the individual, as to one another, according to an external, unfree necessity.
 
-What holds of the *inclinations* is quite the same as what holds of the feelings; they are self-determinations of the will that is *in itself* free, but that is not yet, in the *content* of its self-determination as intelligence, free *for itself*,
+> ,, nach einer äusserlichen, unfreyen Nothwendigkeit. Von den Neigungen gilt ganz dasselbe, was von den Gefühlen sind Selbstbestimmungen des; sie an sich freyen Willens der aber noch nicht im, Inhalte seiner Selbstbestimmung als Intelligenz für [p. 255] Leidenschaft enthält schon dieß ihrer Bestim in mung daß, auf eine Besonderheit der Wilsie lensbestimmung und die subjective Einzelnheit beschränkt ihr Inhalt mag sonst seyn welist,, cher mill Aber von den Neigungen wird mehr er. die Frage gemacht welche gut und böse, inglei-, chen bis welchem Grade die Guten gut blei zu ben, und Besondere gegen einander und da sie ihrer Viele sind, wie sie, da sie sich doch in Einem Subjecte befinden, und sich nach der Erfahrung nicht wohl alle befriedigen lassen, gegen einander wenigstens einschränken müssen. Es hat mit diesen vielen Trieben und Neigungen zunächst dieselbe Bewandniß, wie mit den Seelenkräften der theoretische Geist che deren Sammlung eine Sammlung ist; nun mit der Menge von Trieben vermehrt wird wel- -,,. Die formelle Vernünftigkeit des Triebes und der Neigung besteht nur in ihrem allgemeinen Triebe, darin nicht als subjectives realizu seyn sondern zu,, sirt werden Aber ihre wahrhafte. Vernünftigkeit kann sich nicht einer Betrachtung der äusin sern Reflexion ergeben theils bey der Voraussez-, zung nicht, daß sie als selbstständige Naturbestimmungen und unmittelbare Triebe angenommen und festgesekt sind, theils ist es vielmehr die immanente Reflexion des Geistes selbst, über ihre Besonderheit und Unmittelbarkeit hinauszugehen und ihnen die, Form der Vernünftigkeit und Objectivität geben zu, worin sie als nothwendige Verhältnisse und Rechte und Pflichten sind Diese Objectivirung. denn ist es selbst, welche ihren Gehalt, so wie ihr Verhältniß: zu einander, überhaupt ihre Wahrheit aufzeigt. Wie Plato, was die Gerechtigkeit und für an sich sey mit wahrhaftem Sinne, auch insofern er unter dem Rechte des Geistes seine ganze Na [p. 256] Gerechtigkeit nemlich der Construction des Staa = -, tes, als des sittlichen Lebens, darstellen zu kön nen zeigte. Welches also die guten, vernünftigen Reigungen und deren Unterordnung sen, ver wandelt sich in die Darstellung, welche Verhältnisse der Geist hervorbringt, indem er seine Subjectivi tät aufhebt und sich realisirt; tät eine Objectivi-, in welcher eben seine Selbstbestimmungen über- - die Form von haupt Neigungen, so wie der Ine halt die Subjectivitat, Zufälligkeit oder Willkühr
 
-[p. 255]
+What holds of the *inclinations* is quite the same as what holds of the feelings; they are self-determinations of the will that is *in itself* free, but that is not yet, in the *content* of its self-determination as intelligence, free *for itself*, [p. 255] not yet universal and objective. *Passion* already contains this in its determination: that it is restricted to a *particularity* of the determination of the will and to the *subjective singularity*, whatever its content may otherwise be. But with regard to the *inclinations* the question raised is rather which of them are *good and evil*, likewise to what *degree* the good ones remain good, and, since they are *particular* ones against one another and *many* in number, how they, since they are after all found in one subject, and according to experience cannot very well *all* be satisfied, must at least restrict one another. It is the same with these many drives and inclinations at first as with the powers of the soul, whose collection theoretical spirit is; — a collection that is now augmented by the multitude of drives. The *formal* rationality of the drive and of the inclination consists only in their universal drive, in this: not to be as something subjective, but to be realized. But their true rationality cannot result in a consideration of *external* reflection, partly not under the presupposition that they are assumed and fixed as independent natural determinations and immediate drives, partly it is rather the immanent reflection of spirit itself to go beyond their particularity and immediacy, and to give them the form of rationality and objectivity, in which they are as necessary relationships and rights and duties. It is this objectivation itself, then, that shows their import, as well as their relationship to one another, in general their truth. As *Plato*, what *justice* is in and for itself, with true sense, also insofar as he comprehended *under the right of spirit* its whole nature, [p. 256] showed that he could present only in the *objective* shape of justice, namely the construction of the *state*, as of the *ethical life*. — What, then, the *good*, rational inclinations and their subordination are changes into the presentation of what relationships spirit brings forth in that it *sublates its subjectivity* and realizes itself; — an objectivity in which precisely its self-determinations in general lose the *form* of inclinations, just as the *content* loses subjectivity, contingency or arbitrary will.
 
-> weyter 3 Theil  Der objective Gei st.   1 §. 400.  Der objective Geist ist die Einheit des theoretischen und praktischen; freyer Wille, der für sich als freyer Wille ist, indem der Formalismus, Zufälligkeit und Subjectivität seiner praktischen Thätigkeit sich aufgehoben hat. Durch das Aufheben dieser Vermittlung ist er die durch sich gesekte unmittelbare Einzelnheit, welche eben so allgemeine, die Freyheit selbst ist. Der Wille ist nur so für sich, indem er sich denkt, Wille als freye Intelligenz ist.  §. 401. Der Geist, auf diese Weise die Idee der an und für sich seyenden Vernunft, welche für sich als solche ist, ist der Begriff des absoluten Geistes. Die Seite des Daseyns der subjectiven Vernunft ist der einzelne Wille als Wissen dieses seines Begriffs, der seinen Inhalt und Zweck ausmacht, und dessen nur formelle Thätigkeit er ist. --- ✓ Diese Identität) 1 als einfacher unmit elbarer Begriff ist das Recht; 2) als Reflexion oder Urtheil die Moralität; 3) als ihrem Begriffe gemäße [p. 256] , die Schlusses Sitte Realität lichkeit oder Totalitat des, die. A.  Das Recht). §. 402.  Der Geist in der Unmittelbarkeit seiner absoluten Freyheit ist Einzelner, aber der seine Einzelnheit als absolut freyen Willen weiß subjective; er ist 1) Person; dasab- Freyheit strakte und 1 insofern Sich - Wissen dieser
-
-not yet universal and objective. *Passion* already contains this in its determination: that it is restricted to a *particularity* of the determination of the will and to the *subjective singularity*, whatever its content may otherwise be. But with regard to the *inclinations* the question raised is rather which of them are *good and evil*, likewise to what *degree* the good ones remain good, and, since they are *particular* ones against one another and *many* in number, how they, since they are after all found in one subject, and according to experience cannot very well *all* be satisfied, must at least restrict one another. It is the same with these many drives and inclinations at first as with the powers of the soul, whose collection theoretical spirit is; — a collection that is now augmented by the multitude of drives. The *formal* rationality of the drive and of the inclination consists only in their universal drive, in this: not to be as something subjective, but to be realized. But their true rationality cannot result in a consideration of *external* reflection, partly not under the presupposition that they are assumed and fixed as independent natural determinations and immediate drives, partly it is rather the immanent reflection of spirit itself to go beyond their particularity and immediacy, and to give them the form of rationality and objectivity, in which they are as necessary relationships and rights and duties. It is this objectivation itself, then, that shows their import, as well as their relationship to one another, in general their truth. As *Plato*, what *justice* is in and for itself, with true sense, also insofar as he comprehended *under the right of spirit* its whole nature, [p. 256] showed that he could present only in the *objective* shape of justice, namely the construction of the *state*, as of the *ethical life*. — What, then, the *good*, rational inclinations and their subordination are changes into the presentation of what relationships spirit brings forth in that it *sublates its subjectivity* and realizes itself; — an objectivity in which precisely its self-determinations in general lose the *form* of inclinations, just as the *content* loses subjectivity, contingency or arbitrary will.
-
-> . §. 403.
+> verlieren. 5. 394.
 
 §. 394.
 
-> 2) Für die Persönlichkeit, weil sie subjectiv und darum als unmittelbare Person ist, ist die Negation oder die Realität in ihrer Abstraction ein äusserliches Daseyn, welches von ihr vorgefunden wird. Aber als uns mittelbar ist diese Realität willenlos, und die Sache, die gegen die Subjectivität der Intelligenz und der Willkühr das Objective ist, ist gegen die Subjectivitat, insofern sie Person ist, ein an und für sich nichtiges, dasdie Person zu ihrem Accidens, der äusserlichen Sphäre
-
-> ihrer Freyheit macht -; Be sik.
+> Das Allgemeine in diesen Trieben das einzelne ist Subject die Thätigkeit ihrer Befriedigungtoder for, = mellen Vernünftigkeit, nemlich der Uebersehung aus der Subjectivität in die Objectivität. In dieser ist jene sich zurückgekehrt zuin; daß die Sache, welche Stande gekommen ist, das Moment der subjectiven Einzelnheit enthält, ist das Interesse. Weil die Thatigkeit die einzelne Subjectivität in jener dialektischen Bewegung ist
 
 The universal in these drives is the singular subject, the *activity* of their satisfaction or formal rationality, namely of the translation from subjectivity into objectivity. In this the former has returned into itself; that the matter which has come about contains the moment of subjective singularity, is *interest*. — Because activity is the singular subjectivity in that dialectical movement, nothing comes about without interest.
 
-> §. 404. 1 Das Prädicat des Meinigen, welches die Sache durch das Urtheil des Besikes, zunächst der äusserlichen Bemächtigung erhält, hat hier die Bedeutung, daß Ich meinen persönlichen Willen hineinlege, der absolut ist; durch diese Bedeutung ist der Besik Eigenthum, der als Besik Mittel, als Daseyn der Persönlichkeit aber 3weck ist. §. 405.
+> , so kommt nichts ohne Interesse zu Stande.
 
 §. 395.
+
+> §. 395. Das Interesse ist aber hier noch nichtals nur for diemelle Thätigkeit oder reine Subjectivitat sondern hat, als Trieb odor Neigung einen vom unmittelbaren Willen bestimmten Inhalt. Die Dialektik dieses mannichfaltigen besondern Inhalts ist aber die einfache Subjectivis tät des Willens selbst, der den Widerspruch der Triebe zunächst als reflectirender Wille in die formelle Alle gemeinheit erhebt, und sich 3) die Glückselige keit zum Zwecke macht.:
 
 Interest, however, is here not yet as the merely formal activity or pure subjectivity, but, as drive or inclination, has a content determined by the immediate will. The dialectic of this manifold, *particular* content is, however, the simple subjectivity of the will itself, which at first, as *reflecting* will, raises the contradiction of the drives into formal *universality*, and makes 3) *happiness* its end.
 
 [p. 257]
 
-> Hung meiner auf mich bin, bin ich die absolute Repul
+> Die Glückseligkeit die verworrene ist Vorstellung
 
 §. 396.
 
-> nur sion in meiner dem Seyn von mir anderer selbst, habe Personen meine Realisirung, und bin darin erst eine wirkliche Person für mich.  §. 406. Die Sache ist die Mitte, durch welche die Extres me der in dem Wissen ihrer Identität mit den andern, zugleich selbstständigen Personen sich zusammenschliessen. Mein Wille hat für sie sein bestimmtes erkennbares Daseyn darin, durch die unmittelbare körperliche Ergrei
+> der Befriedigung aller Triebe deren einer dem andern, aber ganz oder zum Theil aufgeopfert vorgezogen und, vorgesekt werden soll. Die Begränzung derselben durch einander als Senender einerseits ist eine Vermischung von qualitativer und quantitativer Bestimmung anderer-; seits da die Neigung ein subjectiver und unmittelbarer Bestimmungsgrund ist, ist es das subjective Gefühl und Belieben, was den Ausschlag geben muß. §. 397. Der Wille, welcher als Leidenschaft abstracter Vers
 
 Happiness is the confused representation of the satisfaction of *all* drives, of which one, however, is to be sacrificed to another, wholly or in part, preferred to it, and put before it. The limiting of them by one another, as beings, is on the one hand a mixture of qualitative and quantitative determination; on the other hand, since inclination is a subjective and immediate determining ground, it is subjective feeling and liking that must decide the issue.
 
-> fung die bloße des Besikes Bezeichnung oder durch der Sache die Formirung oder auch durch
+> stand ist und sich in Eine seiner Bestimmtheiten,
 
 §. 397.
 
-> §.. 407. 3) Die subjective und zufällige Seite am Eigenthum ist die Sache, die überhaupteine äusserliche, unmittelbare ist, und daß ich in diese Sache meinen Willen lege. Die Seite des Prädicats des Meinigen, das ich ihr gegeben, ist das Interesse, und mein Wille ist nach derselben Willkühr, so dass ich ihn eben so gut darein legenkann, oder nicht, und herausziehen kann oder nicht; das Recht ist in seiner Absolutheit, zugleich von Seiten der Realität, ein formelles. §. 408..! Insofern aber mein Wille in einer Sache liegt,
+> einschließt ist in dem allgemeinen Zwecke der Gluckseligkeit von dies ser Vereinzelung befrent die vielen besondern Neigun;. gen aber noch als unmittelbare selbstständige Be-,, stimmungen geltend sind zugleich der Einheit des, in Zweckes, der Glückseligkeit, aufgehoben und als una ſelſtſtändige. Der Wille steht als diese unbestimmte AUgemeinheit in sich reflectirt über der einzelnen Neigung; erst die seinigesie ist, indem er sich mit ihr zusammen- 1 schließt und sich dadurch bestimmte Einzelnheit und Wirklichkeit giebt; auf dem Standpunkt er ist so zwischen, Neigungen zu wählen zu haben, und ist Willkühr k.
 
 The will, which as passion is abstract understanding and shuts itself up in one of its determinacies, is freed in the universal end of happiness from this individuation; the many particular inclinations, however, still holding as immediate, *independent* determinations, are at the same time sublated in the *unity* of the end, happiness, and as *dependent*. The will stands, as this indeterminate universality reflected into itself, above the single inclination; it is only *its own* insofar as the will joins itself together with it and thereby gives itself determinate singularity and actuality; — it is thus at the standpoint of having to *choose* between inclinations, and is *arbitrary will*.
 
-> kann nur Ich selbst ihn herausziehen, und sie kann nur
+> §. 398.
 
 §. 398.
 
-> Eigenthum mit meinem sie Willen eben so an nur einen mit andern seinem übergehen Willen, wird dessen; - A Vertrag. §. 409.  Die zwey Willen, die im Vertrage sind, sind als innerliches verschieden von dessen Realisirung, der Lei stung; wie ( §. 406.) der einzelne Willen von der Besibergreiffung; der Vertrag in der Form der ideellen 1 [p. 258] Aufgeben Veusserung eines der Eigenthums von dem, enthält einen zwar, den schon Ueberdas gang und die Aufnahme in den andern Willen; er ist daher an und für sich gultig und wird es nicht erst durch die wirkliche Leistung des einen oder des andern, was eis nen unendlichen Regress oder unendliche Theilung
+> Der Wille ist auf diese Weise für sich frey, indem als die Negativität seines unmittelbaren Bestimmtseyns in er sich reflectirt ist; jedoch insofern der Inhalt, in wel chem er sich zu dieser Einzelnheit und Wirklichkeit bes [ chließt, noch eine Besonderheit ist, ist er nur als subjectiver und zufälliger Wille wirklich. Als der, zu Widerspruch, sich in einer Besonderheit verwirklichen, welche zugleich für ihn eine Nichtigkeit ist und eine Be- 17 [p. 258] ist zunächst der Proceß der Zerstreuung und des Aufer hebens einer Neigung durch die Andere der Befriedi-, gung, die dieß eben sosehr nicht ist, durch eine andere ins Unendliche. §. 399
 
 The will is in this way free *for itself*, in that it is reflected into itself as the negativity of its immediate being-determined; yet insofar as the content in which it *resolves* itself to this singularity and actuality is still a particularity, it is *actual* only as a *subjective and contingent will*. As the contradiction of actualizing itself in a particularity which is at the same time a nullity for it, and a satisfaction [p. 258] to have in it, which it is at the same time outside of, it is at first the *process* of the dispersion and sublation of one inclination by the other, of the satisfaction, which is just as much not this, by another, *into the infinite*.
 
-> Aber der Sache da der, Wille der Arbeit in, und Sphäre der Zeit zugleich in sich schlösse.
+> . Die Wahrheit aber des besondern Zwecks des
 
 §. 399.
 
-> und Willkühr ist ( §. 407. dieser) so kann er seinem noch Begriffe formell entsprechend oder auch nicht, seyn.  §. 410.: Nur um der Neusserlichkeit des Besikes willen kann Ich verleht und gezwungen werden; aber da er ge gen Mich als Person, selbst wesentlich als ein Aeusserliches, ist so kann an und für sich keine Verlezzung meiner Persönlichkeit und kein Zwang, und soll ( §. 390.) nicht Statt finden.  §. 411.
+> Willens, der Besonderheit, welcher ebensosehr Bestimmtheit ist, als aufgehoben ist, und der abstrac ten Einzelnheit, der Willkühr, welche sich in selchem Zwecke ebensosehr einen Inhalt giebt, als nicht giebt ist die Einheit in welcher beydes nur Moment, ist;,, die absolute Einzelnheit des Willens, seine reine Freyheit die für sich selbst sich an und für sich bestimmt. Der Geist in dieser Wahrheit seiner Selbstbestimmung die sich als die reine Reflexion sich derin = Zweck,, ist ist somit als allgemeiner objectiver, Wille, objectiver Geist überhaupt.
 
 The truth, however, of the *particular end* of the will, of particularity, which is just as much determinacy as it is *sublated*, and of *abstract singularity*, of arbitrary will, which in such an end just as much gives itself a content as it does not give it, is the unity in which both are only moments; the absolute singularity of the will, its pure freedom, which for itself determines itself in and for itself. Spirit, in this truth of its self-determination, which is the end to itself as pure reflection-into-itself, is thus, as universal, objective will, *objective* spirit in general.
 
 [p. 259]
 
-> Rechts Zweytens die Personen aber selbst verhalten als unmittelbare sich in dem, Schlusse in sich des res
+> 1
 
 #### Part Two.
 
-> eines kennen flectirte jeden Extreme ist durch nur durch seine zu einander freye das Aufheben Selbstbestimmung, und ihr der wirkliches Unmittelbarkeit, nichtdurch Anete
+> §. 400. Der objective Geist ist die Einheit des theoretischen und
 
 ### Objective Spirit.
 
-> tive nen Unmittelbarkeit Seite an dem Prädicate und die des Negation Seinigen der allgemei, nemlich
+> praktischen; freyer Wille, der für sich als freyer
 
 §. 400.
 
-> unendliches die Negation der Urtheil freyen, Persönlichkeit welches als des Handlung andern ist das ein Verbrechen ist.  §. 414. Diese Handlung, worin sich die abstracte für sich gesekte Einzelnheit der Person verwirklicht, ist an und für sich nichtig Aber in ihr stellt der Handelnde als vernünftiges ein,. aber formelles und nur von ihm anerkanntes Gesek auf, und hat durch sie sich selbst zugleich
+> Wille ist, indem der Formalismus, Zufälligkeit und Subjectivität seiner praktischen Thätigkeit sich aufgehoben hat. Durch das Aufheben dieser Vermittlung die ist er durch sich gesekte unmittelbare Einzelnheit welche eben, allgemeine Freyheit selbst ist Der Wille ist so, die. nur so für sich, indem er sich denkt, Wille als freye Intelligenz ist. §. 401.
 
 Objective spirit is the unity of the theoretical and practical; *free will*, which is for itself as *free will*, in that the formalism, contingency and subjectivity of its practical activity have sublated themselves. Through the sublation of this mediation it is the immediate singularity posited through itself, which, just as much *universal*, is *freedom* itself. The will is for itself only in this way, in that it *thinks* itself, is *will as free intelligence*.
 
-> Handlung darunter subsumirt. Die dargestellte Nichtigkeit dieser
+> Der Geist, auf diese Weise die Idee der an und
 
 §. 401.
 
-> und einen darin subjectiven die Ausführung einzelnen dieses Willen formellen, ist Ges die Rache sekes durch, welche, weil sie von dem Interesse unmittelba rer, subjectiver ausgeht, zugleich nur eine neue Verlegung, Persönlichkeit ins unendliche fort ist Dieser Progreß hebt sich gleichfalls in einem dritten Urtheil., das Interesse ist, der Strafe, auf ohne. וי T [p. 260] §. 415. Die Realität des Rechts, welche sich der persönliche
+> für sich seyenden Vernunft, welche für sich als solche ist, ist der Begriff des absoluten Geistes. Die Seite des Daseyns der subjectiven Vernunft ist der einzelne Wille als Wissen dieses seines Begriffs der seinen In-, halt und Zweck ausmacht und dessen nur formelle Thätig-, keit --- Diese Identität er ist. ✓ als einfacher unmit) 1 elbarer Begriff das Recht ist als Reflexion oder; 2) Urtheil die Moralität; 3) als ihrem Begriffe gemäße [p. 260] A. Das Recht.)
 
 Spirit, in this way the Idea of reason that is in and for itself, which is *for itself* as such, is the *Concept* of absolute spirit. The side of the *determinate being* of subjective reason is the *singular* will as knowing of this its Concept, which constitutes its content and end, and whose merely formal activity it is. — This identity 1) as simple immediate *Concept* is *right*; 2) as reflection or judgment, *morality*; 3) as adequate to its Concept [p. 260] reality, or the totality of the *syllogism*, *ethical life*.
 
-> Wille als auf Zufälligkeit unmittelbare Weise giebt; sie, zeigt hat sich überhaupt
+> §. 402.
 
 A.
 
-> subjective Willkühr vermittelt, und diese als wesentliches
+> Der Geist in der Unmittelbarkeit seiner absoluten Freyheit ist Einzelner, aber der seine Einzelnheit als abso =
 
 #### Right.
 
-> Moment ist, andererseits, welche aber so in einerseits ihre Abstraction die Macht für über sich ein das Nichtis Recht
+> lut freyen Willen weiß; er ist)
 
 §. 402.
 
-> ges und wesentlich nur in der Identität mit dem allgetat meinen Willen Wahrheit und Realitat hat; Morali. Der Ausdruck Naturrecht, der bisher für die philosophische Rechtslehre gewöhnlich gewesen, ente
+> 1 Person; dasabstrakte und insofern subjective Sich - Wissen dieser 1 Freyheit. §. 403. Für die subjectiv ist sie 2
 
 Spirit in the immediacy of its absolute freedom is an individual, but one that knows its singularity as absolutely free will; it is 1) person; the abstract and, to that extent, *subjective* self-knowing of this freedom.
 
-> hält die Zwendeutigkeit, ob das Recht als ein durch
+> ) Persönlichkeit, weil und darum als unmittelbare Person ist
 
 §. 403.
 
 2) For personality, because it is *subjective* and therefore is as immediate person, the negation or reality in its abstraction is an external determinate being, which is found by it. But as immediate, this reality is without will, and the *thing*, which against the subjectivity of intelligence and arbitrary will is the objective, is, against subjectivity insofar as it is person, something in and for itself null, which the person makes its accident, the external sphere of its freedom; — *possession*.
 
-> die unmittelbare Natur gleichsam einges pflanztes, oder ob es so gemeynt Begriff sey, wie es durch die Natur der Sache d. i. den, sich bestimme. Jener Sinn ist aber der vormals gewöhnlich gemeynte; so daß zugleich ein Naturzustand erdichtet worden ist, in welchem das Naturrecht gel ten solle, der Zustand der Gesellschaft und des Staates fordere dagegen vielmehr eine Beschränkung der Freyheit und eine Aufopferung naturlicher Rechte. In ne Bestimmungen der That aber gründet allein auf sich das die Recht freye und Persönalle sei-
+> , die Negation oder die Realität in ihrer Abstraction ein äusserliches Daseyn, ihr vorgefunden wird welches von Aber als uns. diese Realität willenlos ist und die Sache mittelbar,, die gegen die Subjectivität der Intelligenz und der Willkühr das Objective ist, ist gegen die Subjectivitat, insofern sie Person ist, ein an und für sich nichtiges das-,
 
 §. 404.
 
-> lichkeit, eine Selbstbestimmung, welche viel-
+> die Person zu ihrem Accidens, der äusserlichen Sphäre ihrer Freyheit macht -; Be sik.
 
 The predicate of the *mine*, which the thing receives through the judgment of possession, at first of external seizure, here has the meaning that I put my personal will into it, which is absolute; through this meaning possession is *property*, which as possession is a *means*, but as the determinate being of personality is an *end*.
 
-> mehr das Gegentheil der Naturbeſtimmung ist. Ein Naturzustand ist deßwegen ein Zustand der Gewaltthätigkeit und des Unrechts, von welchem nichts Wahreres gesagt werden kann, als daß aus ihm Herauszugehen ist. Die Gesellschaft ist dagegen der Zustand, in welchem allein das Recht seine Wirklichkeit hat; was zu beschränken und aufzuepfern
+> §. 404. 1 Das Prädicat des Meinigen, welches die Sache durch das Urtheil des Besikes, zunächst der äusserlichen Bemächtigung erhält hat hier Bedeutung, daß Ich die, meinen persönlichen Willen hineinlege der absolut ist,; durch diese Bedeutung der Besik Eigenthum der ist, als Besik Mittel, als Daseyn der Persönlichkeit aber 3weck ist
 
 §. 405.
 
-> ist, ist eben die Willkührund Gewaltthätigkeit des
+> . §. 405.
 
 My will is thereby at first external and for others. Since I am person, the *infinite* relation
 
-> Naturzustandes Rechts. darin, Der es Formalismus eben des besteht daß die abstracte und
+> Mein Willen ist damit zunächst äusserlich und für andere. Indem ich Person, die unendliche Beziet
 
 [p. 261]
 
-> damit unmittelbare Bestimmung der freyen Persön lichkeit ist; die Subsumtion der besondern Existenz darunter ist daher etwas zufälliges, und welche Ges: genstände mein Eigenthumsind, ist Sache der Will-
+> nur dem Seyn anderer Personen in und bin, darin erst eine wirkliche Person für mich. §. 406. Die Sache ist die Mitte, durch welche die Extres me der in dem Wissen ihrer Identität mit den andern zu-,
 
 of myself to myself, I am the absolute repulsion of myself from myself, have my realization only in the *being* of *other persons*, and am therein first an *actual* person *for me*.
 
-> kühr in die und Moralität des Zufalls macht. daher Den die Uebergang Nothwendigkeit des Rechts der
+> gleich selbstständigen Personen sich zusammenschliessen.
 
 §. 406.
 
-> Subjectivitat, aber zugleich des Aufhebens ihrer Zu fälligkeit, wodurch sie als allgemeines an und für sich bestimmtes wird.  B. Moralität Die.
+> Mein Wille hat für sie sein bestimmtes erkennbares Daseyn darin durch die unmittelbare körperliche Ergrei, fung des Besikes oder durch die Formirung oder auch durch die bloße Bezeichnung der Sache. §. 407. 3) Die subjectiveund zufällige Seite am Eigenthum ist die Sache die überhaupteine, äusserliche unmit-, telbare ist, und daß ich
 
 The thing is the *middle term*, through which the extremes of the persons who, in the knowing of their identity with the others, are at the same time independent, join together. My will has for them its *determinate*, cognizable determinate being therein, through the immediate bodily seizure of possession, or through the forming, or also through the mere designation of the thing.
 
-> §. 416. 1
+> diese Sache meinen Willen in
 
 §. 407.
 
 3) The subjective and contingent side of property is the thing, which is in general an external, immediate one, and that I put my will into *this* thing. The side of the predicate of the *mine*, which I have given to it, is *interest*, and my will is, in accordance with the latter, *arbitrary will*, so that I can just as well put it into it, or not, and draw it out, or not; — right in its absoluteness is, at the same time from the side of reality, a *formal* one.
 
-> Die Besonderheit der Person wird durch das \ Urtheil subjective der freyen Interesse Persönlichkeit wesentliches Moment Wohl. Das und das besondere gemeine wird dadurch einerseits Zweck; andererseits hat der alls an Subjectivitat und für sich seyende Wille sie seine Aufgeben Wirklichkeit durch die, insofern Gesinnung durch ih rer Unmittelbarkeit, die, Einsicht und Absicht des Guten hat.
+> lege Die Seite des Prädicats des Meinigen ist ich., das ihr gegeben, ist das Interesse, und mein Wille Willkühr ich gutnach derselben, so dass ihn eben so darein legen kann, oder nicht und herausziehen kann oder nicht; das Recht istin, seiner Absolutheit zu-, gleich von Seiten der Realität, ein formelles. § 408..!. Insofern aber mein Wille einer Sache liegt in,
 
 §. 408.
 
-> §. 417.
+> nur Ich selbst ihn herausziehen kann nur sie
 
 But insofar as my will lies in a thing, only I myself can draw it out, and it can pass to another only with my will, whose property it just so becomes only with his will; — *contract*.
 
-> Der moralische Standpunkt ist dadurch das Refle xions = Urtheil der Freyheit, oder das Verhält niß, worin die persönliche Subjectivität sich absolut selbstständig sekt, und daher die Momentedes Willens zu selbstständigen vernünftigen Extremen abstößt, dem allgemei
+> - kann und, mit meinem Willen an einen andern übergehen dessen, Eigenthum eben sie nur mit seinem Willen wird so; A Vertrag.
 
 §. 409.
 
-> nen selbstständigen Willen Welt, und Die einer Subjectivität äusserlis ist
+> .§ 409. Die zwey Willen, die im Vertrage sind, sind als
 
 The two wills that are in the contract are, as something inner, different from its realization, the *performance*; as (§ 406) the singular will is from the taking of possession; the contract, in the form of the ideal
 
-> chen deren Mitte, und ist eben so. unmittelbar identisch mit ihnen, als sie, weil sie selbstständig sind, sich mit ihnen und sie miteinander in nur relative Beziehung sekt.
+> innerliches verschieden von dessen Realisirung, der Lei stung; wie (§. 406. der einzelne Willen von der Be-) sibergreiffung; der Vertrag der Form der ideellen in 1
 
 [p. 262]
 
-> 418- Der allgemeine ist ject, seyende Schluß, daß das Gegensaßes moralische, Subso als in die für sich selbstständig Einheit des ist der eben Widerspruch den Extremen als Identität Thätigkeit, dieser und innere Trieb ist, und, die zu handeln der, in Einem denselben aufzuheben zu, d. i. Welt den Zweck gemäß zu realisiren und die äusserliche dem Zweck machen. 5. 419.
+> 162 i Veusserung, der Stipulation, enthält zwar schon das Aufgeben eines Eigenthums von dem einen, den Uebergang und die Aufnahme in den andern Willen er da-; ist her an und für sich gultig und wird es nicht erst durch die wirkliche Leistung des einen oder des andern was, eis nen unendlichen Regress oder unendliche Theilung der Sache der Arbeit, und der Zeit,sich schlösse in. Aber der Wille da dieser Sphäre zugleich noch formell in und Willkühr ist( §. 407.) so kann er seinem Begriffe entsprechend oder auch nicht, seyn.
 
 expression, the *stipulation*, indeed already contains the giving up of a property by the one, the transition and the reception into the other will; it is therefore *valid* in and for itself, and does not first become so through the actual performance of the one or the other, which would involve an *infinite regress* or infinite division of the thing, of labor, and of time. But since the will in this sphere is at the same time still formal and arbitrary will (§ 407), it can be corresponding to its Concept or also not.
 
-> Die Handlung ist zwar die absolute Bestimmung
+> §. 410.
 
 §. 410.
 
-> der gegen das freye Subject da selbstlosen selbstständig Objectivität durch seinen Zweck. Handlung Aber diese auch ist, so kann sie die des Individuums verkeh ren und Anderes zum Vorschein bringen, als in dieser gelegen hat. Obgleich alle Veränderung als solche That welche desselben durch die ist, Thätigkeit so erkennt des es Subjects dieselbe darum gesekt nicht wird als,
+> : Nur um der Neusserlichkeit des Besikes willen kann Ich verleht und gezwungen werden aber; da er ge gen Mich als Person selbst wesentlich als ein Aeus, = serliches kann an und für sich keine Verlezist, so zung meiner Persönlichkeit und kein Zwang, und soll
 
 Only for the sake of the externality of possession can I be *violated* and *coerced*; but since it, over against *me* as *person*, is itself essentially something *external*, there can, *in and for itself*, be no violation of my personality and no coercion, and *ought* not (§ 390) to take place.
 
-> seine Handlung, sondern nur dasjenige in der That,
+> (§. 390.) nicht Statt finden.
 
 §. 411.
 
-> nige was in; seinem - Wissen und Willenlag, als das Seian als seine Schuld; weil es sich nur als absolut subjectiver und fürsichseyender Wille gilt. §. 420.  Aber dieser allgemeine Uebergang, welcher das Han deln überhaupt ist, enthält noch mannichfaltige andere relative Identitäten, a) der allgemeine, an und für sich seyende Wille, ist das Gesek und die heit Substanz des, Subjects in welchem so wie die die unmittelbare äussere Realität Einzeln =
+> §. 411. - Das Eigenthum Vieler ist einerseits die schlechthin identische Beziehung der Personen in dem Anerkennen; andererseits ist es durch das willkührliche Urtheil je- 1 des Einzelnen welches diese Sache, seinem Eigenzu thume gegen die anderen macht vermittelt Das Aner,. = kennen Anerkennen nicht nur der abstracten sondern ist der reellen Persönlichkeit der andern dieses ihres, d.i. Urtheils, und was mein Eigenthum seyn und seyn könne, sowohl von dem ihrigen als von ihrem Urtheile über das
 
 The property of many is, on the one hand, the absolutely identical relation of the persons in recognition; — on the other hand, it is mediated by the arbitrary judgment of each individual, which makes *this* thing his property against the others. Recognition is recognition not only of the abstract but of the real personality of the others, i.e., of this their judgment, and what my property is and can be is dependent as much on theirs as on their judgment about the mine.
 
-> haupt aufgehoben ist; es ist daher der absolute über-
+> Meinige abhängig.
 
 §. 412.
 
-> Endzweck, das an und für sich Gute; die Welt Pflicht für das Subject, und der letzte Zweck der. [p. 263] §. 421. i & Aber 3 () das Gute enthält in seinem Begriff, als Allgemeines des Willens, das Moment der Realität, welche aber in der von dieser Algemeinheit verschies denen Einzelnheit, der in sich reflectirten Subjectis
+> §. 412. Der äusserlichen Beziehung wegen, die in diesem Urtheile ist, hat es Zufälligkeit, erstens so, daß zwar die allgemeine Substanz des Prädicats nemlich der, freye Willen der Persönlichkeit anerkannt aber, [p. 263] in der Subsumtion Willen dieser dieser Sache unter den besondern Personabgewichen negatives Urtheil, welches den bürgerlichen wird; - ein einfaches Rechtsstreit ausdrückt, zu dessen Schlichtung ein drittes Urtheil, das ohne Interesse bey der Sache ist
 
 Because of the external relation that is in this judgment, it has contingency, *first* in such a way that although the *universal* substance of the predicate, namely the *free will of personality*, is recognized, but [p. 263] is deviated from in the subsumption of *this* thing under the *particular* will of *this* person; — a simple *negative judgment*, which expresses the *civil legal dispute*, for the settlement of which a *third* judgment, which is without interest in the thing, is required.
 
-> keit vität des liegt Ich; - und das seiner Subject sich selbst soll bestimmenden die Einsicht Thätigin das
+> ,
 
 §. 413.
 
-> Gute haben, und dasselbe sich zur Absicht machen, und soll es durch seine Thätigkeit hervorbringen. §. 422. y es ist) Das Gute ist zunächst als abstract in -a llgemeines negatives; aber als Wesentliches des Willens Es giebt deswegen sich und cherley daher ein besonderes vielerley. Pflichten man- Gutes und gegen ist,, deren sie Verin Collision schiedenheit dialektisch bringt einander und 1. Sie sollen §. in Uebereinstimmung 423., da
+> erfodert wird. - §. 413. 1 1 Zweytens aber verhalten sich in dem Schlusse des Rechts die Personen selbst als unmittelbare, in sich res flectirte Extreme zu einander, und ihr wirkliches Anete kennen nur durch das Aufheben der Unmittelbarkeit ist eines jeden durch seine freye Selbstbestimmung nichtdurch, Zwang. Die Reflexion des Einzelnen in seine subjec tive Unmittelbarkeit und die Negation der allgemei nen Seite an dem Prädicate des Seinigen, nemlich die Negation der freyen Persönlichkeit des andern ist ein unendliches Urtheil, welches als Handlung das Verbrechen.ist §. 414.
 
 *Second*, however, in the syllogism of right the persons themselves relate to one another as immediate extremes reflected into themselves, and their actual recognition is only through the sublation of the immediacy of each by his free self-determination, not through *coercion*. The reflection of the individual into his subjective immediacy and the negation of the *universal* side in the predicate of the *his*, namely the negation of the free personality of the other, is an *infinite* judgment, which as action is *crime*.
 
-> jede als Pflicht und aber als Gut absolut, ist weil stehen sie den
+> Diese Handlung, worin sich die abstracte für sich gesekte Einzelnheit der Person verwirklicht, ist an
 
 §. 414.
 
-> allgemeinen Willen zum Handlung Wesen hat. Thätigkeit Eben so soll das Individuum jects, die da die die Princip des sie Subist und Einzelnheit zum die hat, selbst in ihrer Subject Verschiedenheit, so vorausgesekten wie vielerley Seiten Objecti der vom Falles als einzelnen in nichfaltiger vität, des, der ein concreter mancherley und sich man. ist, wissen; eben so die Pflichten, die sich auf diese mancherley Seiten seyn beziehen. Es Unterordnung soll ferner die wahrhafte Dialektik,, welche ihre Verbindung untereinander kennt Ausschliessung und eine einzige oder eine derselben mit der andern oder ihres absoluten Geltens, beschliessen. Subject §. 424.
+> und für sich nichtig. Aber in ihr stellt der Handelnde als vernünftiges ein, aber formelles und nur von ihm anerkanntes Gesek auf, und hat durch sie sich selbst zugleich darunter subsumirt. Die dargestellte Nichtigkeit dieser Handlung und darin die Ausführung dieses formellen Ges sekes durch einen subjectiven einzelnen Willen die, ist Rache, welche, weil sie von dem Interesse unmittelba rer, subjectiver Persönlichkeit ausgeht, zugleich nur eine neue Verlegung, ins unendliche fort.ist Dieser Progreß hebt sich gleichfalls in einem dritten Urtheil, das ohne Interesse ist, der Strafe, auf. ‫יו‬ T
 
 This action, in which the abstract singularity of the person, posited for itself, actualizes itself, is in and for itself null. But in it the agent sets up, as a rational, but formal and only by him recognized, law, and has through it at the same time subsumed himself under it. The presented nullity of this action, and therein the realization of this formal law by a subjective singular will, is *revenge*, which, because it proceeds from the interest of immediate, subjective personality, is at the same time only a new violation, *on into the infinite*. This progress likewise sublates itself in a third judgment, which is without interest, *punishment*.
 
 [p. 264]
 
-> licher Zweck und deswegen Pflicht seyn. Zugleich aber
+> §. 415. Die Realität des Rechts, welche sich der persönliche
 
 §. 415.
 
-> im Zwecke des Guten, welches der nicht besondere, sondern nur allgemeine Wille ist, soll das besondere Interesse kein Moment seyn. Um dieser Selbstständigkeit willen ist es zufällig, ob sie harmoniren. Aber sie sollen harmoniren, weil das Subject als Einzelnes und Allgemeines an sich Eine Identität ist. §. 425.  Handlung) 8 Diese innerliche Objectivität Seite soll überhaupt Thätigkeit durch die
+> Wille auf unmittelbare Weise giebt, hat sich überhaupt als eine Zufälligkeit entwickelt; zeigt sich durch die sie subjective Willkühr vermittelt und diese als wesentliches, Moment, welche so einerseits die Macht über das Recht ist, in andererseits aber ihre Abstraction für sich ein Nichtis ges und wesentlich nur Identität mit dem allgein der meinen Willen Wahrheit und Realitat hat Morali; tat. Der Ausdruck Naturrecht, der bisher für die
 
 The reality of right, which the personal will gives itself in an immediate way, has developed in general as a contingency; it shows itself mediated by subjective arbitrary will, and this as an essential moment, which thus is, on the one hand, the power over right, but, on the other hand, in its abstraction is for itself something null and essentially has truth and reality only in the identity with the universal will; *morality*.
 
-> Subjects zusammengeschlossen mit der, werden durch. die Da die Objectides vität aber als das andere selbstständige Extrem eine eigenthumliche Welt für sich ausmacht, so ist es zufällig, ob sie zu den subjectiven Zwecken zusammenstimmt; ob das Gute sich in ihr realisirt und das Böse, - der an und für sich nichtige Zweck, in ihr nichtig ist; ferner ob das Subject sein Wohl in ihr findet; und näher ob das gute Subject inihr glücklich, und das Böse unglücklich wird. Aber die Welt soll die gute Handlung in sich ausführen lassen, wiedem guten Subjecte die Befriedigung seines besondern Interesse gewähren, dem bösen aber versagen, so wie das Böse selbst zu nichte machen.  §. 426. Der allseitige Widerspruch, welchen dieses vielfache Sollen ausdrückt, ist die abstrakteste Analyse des Geistes, fein tiefstes Insichgehen. Die reine Beziehung der sich widersprechenden Bestimmungen ist die abstracte Gewißheit seiner selbst, die Unendlichkeit der Subjectivität, für welche der allgemeine Willen, das Gute, Recht und Pflicht ebensowohl ist, als nicht ist, und welche sich als das Wählende und Entscheidende weiß. [p. 265] 5. 427.  Da diese wählende Gewißheit seiner selbst die Reflexion des abstracten, in seiner unmittelbaren Einzelnheit sich unendlichen Willens ist, so giebt sie die zwey unmittelbar in einander übergehende Formen, des Gez wissens und des Bösen. Jenes ist der Wille des Guten, welcher aber als in dieser reinen Subjectivität das ist, nicht und worüber objective das, Subject nicht allgemeine in seiner, das Einzeln unsagbare
+> philosophische Rechtslehre gewöhnlich gewesen, ente hält die Zwendeutigkeit, ob das Recht als ein durch die unmittelbare Natur gleichsam einges pflanztes, oder ob es so gemeynt sey, wie es durch die Natur der Sache d. i. den Begriff, sich bestimme. Jener Sinn ist aber der vormals gewöhnlich gemeynte; so daß zugleich ein Naturzustand erdichtet worden ist, in welchem das Naturrecht gel ten solle, der Zustand der Gesellschaft und des Staates fordere dagegen vielmehr eine Beschränkung der Freyheit und eine Aufopferung naturlicher Rechte In. der That aber gründet sich das Recht und alle seine Bestimmungen allein auf die freye Persönlichkeit, eine Selbstbestimmung, welche vielmehr das Gegentheil der Naturbeſtimmung ist. Ein Naturzustand ist deßwegen ein Zustand der Gewaltthätigkeit und des Unrechts, von welchem nichts Wahreres gesagt werden kann, als daß aus ihm Herauszugehen ist. Die Gesellschaft ist dagegen der Zustand, in allein das Recht seine welchem - Wirklichkeit hat was beschränken und aufzuepfern; zu ist, eben die Willkühr und Gewaltthätigkeit des ist Naturzustandes. Der Formalismus des Rechts besteht darin, daß es die abstracte und eben [p. 265] damit unmittelbare Bestimmung der freyen Persön lichkeit die Subsumtion ist; der besondern Existenzdarunter daher etwas zufälliges ist und welche Ges,: genstände mein Eigenthum sind, ist Sache der Willkühr und des Zufalls. Den Uebergang des Rechts in die Moralität macht daher die Nothwendigkeit der Subjectivitat, aber zugleich des Aufhebens ihrer Zu fälligkeit, wodurch sie als allgemeines an und für
 
 The expression *natural right*, which has hitherto been customary for the philosophical doctrine of right, contains the ambiguity whether right is meant as something *implanted*, as it were, by *immediate nature*, or whether it is meant as it determines itself through the nature of the thing, i.e., the *Concept*. That sense, however, is the one formerly customarily meant; so that at the same time a *state of nature* has been invented, in which natural right is supposed to hold, while the state of society and of the state demands, by contrast, rather a restriction of freedom and a sacrifice of natural rights. In fact, however, right and all its determinations are grounded solely on *free personality*, a *self-determination*, which is rather the opposite of *natural determination*. A state of nature is therefore a state of violence and of wrong, of which nothing truer can be said than that *one is to go out of it*. Society, by contrast, is the state in which alone right has its actuality; what is to be restricted and sacrificed is precisely the arbitrary will and violence of the state of nature. — The *formalism of right* consists in this, that it is the abstract and precisely [p. 265] thereby immediate determination of free personality; the subsumption of the particular existence under it is therefore something contingent, and which objects are my property is a matter of arbitrary will and of chance. — The transition of right into morality is therefore made by the necessity of subjectivity, but at the same time of the sublation of its contingency, whereby it becomes something universal determinate in and for itself.
 
-> heit entscheidend weiß, und seine besondere Vortreflich =
+> sich bestimmtes wird. B.
 
 B.
 
-> keit dieses hiemit selbe Wissen anschaut seiner und Einzelnheit genießt. als Das des Bö Entscheidense aber ist
+> Die Moralität.
 
 #### Morality.
 
-> dern den, gegen insofern das sie Gute nicht den in dieser Inhalt Abstraction eines subjectiven bleibt, Inson =
+> 1
 
 §. 416.
 
-> tereſſes hat. §. 428. Diese höchste Spike des Phänomens des Willens, der bis zu dieser absoluten Eitelkeit, - einem nichtobjectiven, sondern rein nur seiner selbst gewissen Gutseyn, und einer Gewißheit seiner selbst in der Nichtige keit des Algemeinenverflüchtigt ist, sinkt unmittelbar in sich zusammen. Das Böse als die reine Re-
+> §. 416. Die Besonderheit der Person wird durch das \ Urtheil der freyen Persönlichkeit wesentliches Moment. Das subjective Interesse und das besondere Wohl wird dadurch einerseits Zweck andererseits hat der alls; gemeine an und für sich seyende Wille seine Wirklichkeit durch die Subjectivitat insofern durch Aufgeben, sie ih rer Unmittelbarkeit, die Gesinnung, Einsicht und Absicht des Guten hat §.. 417
 
 The *particularity* of the person becomes, through the judgment of free personality, an essential moment. The subjective *interest* and the *particular welfare* thereby become an end on the one hand; on the other hand, the universal will that is in and for itself has its actuality through subjectivity, insofar as it, by giving up its immediacy, has the *disposition*, insight and intention of the *good*.
 
-> flexion der Subjectivität in sich gegen das Objective und
+> . Der moralische Standpunkt ist dadurch das Refle
 
 §. 417.
 
-> Algemeine, ist der ganz abstracte Schein,; das unmits sie telbare ist Verkehren und Vernichten seiner selbst denndie Handlung vi.lmehr unmittelbar Bösen die reine Identität ist mit sich 414.; Darstellung des Verkehrung, das Verbrechen in ( §.) die Begriffs dieser Gestalt, welcher die Mos gegen mente des dieäusserlicher Wirklichkeit einander haben. §. 429. Die gute Gesinnung ist ihrer selbst rein das abstracte Aufheben der Vermittlung dieser innerhalb Refle
+> xions Urtheil der Freyheit =, oder das Verhält niß Subjectivität -, worin die persönliche sich absolut selbstständig sekt und daher die Momente des Willens, zu selbstständigen Extremen abstößt dem allgemei, nen vernünftigen Willen, und einer äusserlis chen selbstständigen Welt. Die Subjectivität ist deren Mitte, und ist eben so unmittelbar identisch mit ihnen, als sie, weil sie selbstständig sind, sich mit ihnen und sie miteinander in nur relative Beziehung sekt.
 
 The moral standpoint is thereby the *judgment of reflection* of freedom, or the *relationship* in which personal subjectivity posits itself as absolutely independent, and therefore repels the moments of the will into independent extremes, — the *universal rational will* and an *external independent world*. Subjectivity is their middle term, and is just as immediately identical with them as it, because they are independent, posits itself with them and them with one another in only *relative* relation.
 
 [p. 266]
 
-> , -
+> 418- Der allgemeine Schluß ist
 
 §. 418.
 
-> Allgemeine des Guten zugleich der Nichtigkeit des Begriffe Nichtigen. in Dieß Bewußtseyn hat Bedeutung in seinem Unsagbaren und diesem unmittelbaren die desoder des jectiven schlechthin Die Subjectivität Guten, damit des eigenen Ob- Identität. mit in dieser Standpunkt ihrer Verhältnisses demselben aufgehoben hat damit, den ist Sittlich des keit übergegangen. und zur.
+> , daß das moralische Subject, als die für sich seyende Einheit des Gegensaßes, der eben so in den Extremen selbstständig ist, dieser innere Widerspruch und als Identität die Thätigkeit und der Trieb ist, denselben aufzuheben, d. i. zu handeln,
 
 The universal syllogism is that the moral subject, as the unity, being for itself, of the opposition, which is likewise independent in the extremes, is this inner contradiction and, as identity, the activity and the drive to sublate it, i.e., *to act*, to realize the end in one, and to make the external world accord with the end.
 
-> C.
+> inEinem den Zweck zu realisiren, und die äusserliche Welt dem Zweck gemäß zu machen.
 
 §. 419.
 
-> Die Sittlichkeit. 1 §. 430. 1 Sittlichkeit Vollendung objectk- Die ist die des ven Geistes, nicht nur die Wahrheit des Rechts subjectiven und der Moralität objectiven, als ihre Einheit, Sie sondern ist des Freyheit und allgemeine Geistes selbst vernünftige. nemlich die er in als der Subjectivität Willen, wie Gegensay dem reinen Gedanken aufgelöst der einzelnen deren Gesinnung,, seine sich Bethätigung, sein Wissen und unmittelbare von sich und, die allge =
+> 5. 419. Die Handlung zwar ist absolute Bestimmung die der gegen das freye Subject selbstlosen Objectivität durch seinen Zweck. Aber da diese auch selbstständig ist, so kann sie die Handlung des Individuums verkeh ren und Anderes zum Vorschein bringen als dieser, in gelegen hat Obgleich. alle Veränderung als solche welche durch die Thätigkeit des Subjects gesekt wird, That desselben ist, so erkennt es dieselbe darum nicht als seine Handlungsondern nur dasjenige in der That -,,
 
 The *action* is indeed the absolute determination, through its end, of the objectivity that is *selfless* in relation to the free subject. But since this is also *independent*, it can invert the action of the individual and bring to light something other than lay in the latter. Although every alteration *as such* that is posited by the activity of the subject is the *deed* of the latter, it does not on that account recognize it as its *action*, but recognizes as *its own* only that in the deed which lay in its *knowing* and *will*; — as its *guilt*; — because it counts itself only as absolutely subjective and for-itself-being will.
 
-> meine Wirklichkeit Freyheit zugleich als Sitte hat, die
+> was in seinem Wissen und Willen lag, als das Seinige an; als seine Schuld weil sich nur; es
 
 §. 420.
 
-> selbstbewußte zur Natur geworden ist. §. 431.. Die freye Substanz in Sollen so Seyn, ist welcher ist als Volk das Wirklichabsolute eben sehr, Negativität keit. Die ist abstracte Vereinzelung Diremtion in ihrer Personen zur Exis unmittelbarer stenz die Selbstständigkeit sie die innere, Macht von deren und Nothwendigkeit ist Die Person aber erkennt als den- Intelligenz. eigenes kende und hört in dieser, Gesinnung die Substanz auf als Accidens ihr derselben Wesen, zu
+> als absolut subjectiver und fürsichseyender Wille gilt. §. 420. Aber dieser allgemeine Uebergang, welcher das Han deln überhaupt ist enthält noch mannichfaltige, andere relative Identitäten der,allgemeine)a an, und für sich seyende Wille, ist das Gesek und die Substanz, in welchem die unmittelbare Einzelnheit des Subjects so wie die äussere Realität überhaupt aufgehoben ist; es ist daher der absolute Endzweck, das an und für sich Gute; die Pflicht für das Subject, und der letzte Zweck der Welt.
 
 But this universal transition, which is acting in general, still contains manifold other *relative* identities, α) *the universal will that is in and for itself* is the law and the substance, in which the *immediate singularity* of the subject, as well as *external reality* in general, is sublated; it is therefore the *absolute final end*, *the good in and for itself*; *duty* for the subject, and the *ultimate end* of the world.
 
 [p. 267]
 
-> Thätigkeit
+> i §. 421. &
 
 §. 421.
 
-> durch ihre ist hervorbringt, aber als etwas, das ebensosehr als, Ihrige hiemit ohne die wählende Seyendes Reflexion vollbringt ihre und Pflicht in das Nothwendigkeit und als Freyheit dieser sich selbst und ihre hat. §. 432. Weil die Substanz die absolute Einheit der Eine zelnheit und der Allgemeinheit der Freyheit ist, so ist
+> () Aber 3 das Gute enthält in seinem Begriff, als Allgemeines des Willens, das Moment der Realität, welche aber in der von dieser Algemeinheit verschies Einzelnheit, der in sich reflectirten Subjectisdenen vität des Ich und seiner sich selbst bestimmenden Thätigkeit liegt; das Subject soll die Einsicht in das Gute haben, zur Absicht machen, und dasselbe sich
 
 But β) the *good* contains in its Concept, as the universal of the *will*, the moment of reality, which however lies in the *singularity* distinct from this universality, in the subjectivity of the I reflected into itself and its self-determining *activity*; — the subject *is to* have *insight* into the *good*, and make it its *intention*, and is to bring it forth through its activity.
 
-> die Wirklichkeit und Thätigkeit jedes Einzels
+> und soll es durch seine Thätigkeit hervorbringen. §. 422.
 
 §. 422.
 
-> nen, für sich zu seyn und zu sorgen, bedingt sowohl durch das vorausgesekte Ganze, in dessen Zusammenhang allein vorhanden, - als auch ein Uebergehen in ein allgemeines Product. Ebenso ist die Substanz und das allgemeine Werk, die Selbstständigkeitder Einzelnen, welche dadurch hervorgebracht wird. Die Gesin =
+> y) Das Gute ist zunächst als abstract -a llgemeines; es ist aber als Wesentliches des Willens in sich negatives und daher ein besonderes giebt deswegen man-. Es cherley Gutes und vielerley Pflichten deren Ver-, schiedenheit dialektisch gegen einander ist, und sie in Collision bringt. 1.§ 423.
 
 γ) The *good* is at first as abstract-universal; but as the essential of the will it is within itself negative and therefore a *particular*. There are accordingly *many kinds* of good and *many sorts of duties*, whose diversity is dialectical against one another, and brings them into *collision*.
 
-> nung der Individuen, ist das Wissen dieser Identität
+> Sie sollen aber in Uebereinstimmung stehen, da jede als Pflicht und als Gut absolut
 
 §. 423.
 
-> aller ihrer Interesse mit dem Ganzen, und daß die andern Einzelnen gegenseitig sich nur Vertrauen in dieser Identitätdie wissen und wirklich sind, das, wahrhafte, substantielle Gesinnung. §. 433. allgemeine ist, besondert Das Werk, welches die Substanz in selbst Unsich und Stände die Arbeit desselben allgemei die terschiede, welche Bethätigung die sind; den nen, die der Substanz als solcher; der besondern Daseyns, dessen Werk die Bedürfnisse des beson- 1 dern jectivität ist und dessen nächster Erreichung Zweck die besondre Sub-, aber dessen in sie eingreift die Arbeit aller ander dern Einzelnheit vorausseßt, und ist die Individualität ebenso,. insofern Der Stand sie
+> ,ist weil sie den allgemeinen Willen zum Wesen hat Eben soll das. so Individuum, da die Handlung die Thätigkeit des Subjects und ist die Einzelnheit zum Princip hat selbst, sie in ihrer Verschiedenheit wie,vielerley Seiten der so die vom Subject als einzelnen vorausgesekten Objecti vität des Falles, der ein concreter und, sich man in. nichfaltiger wissenist, eben die mancherley Pflich-; so ten, die sich auf diese mancherley Seiten beziehen. Es soll ferner die wahrhafte Dialektik seyn, welche ihre Unterordnung untereinander kennt, und eine einzige oder eine Verbindung derselben mit Ausschliessung der andern oder ihres absoluten Geltens, beschliessen.
 
 They *are to* stand in agreement, however, since each, as duty and as good, is absolute, because it has the universal will as its essence. Just so the individual, since the action is the activity of the subject and has singularity as its principle, *is to know* them themselves in their diversity, as well as the many sides of the objectivity *presupposed* by the subject as singular, of the *case*, which is a concrete and within itself manifold one; just so the various duties that relate to these various sides. There *is to* be, further, the true dialectic, which knows their subordination among one another, and *resolves* upon a single one or a combination of them with exclusion of the others or of their absolute validity.
 
-> für sich eine Totalität, zwar ein natürliches, aber durch
+> §. 424.
 
 §. 424.
 
-> die Geistigkeit gleichfalls in die Sittlichkeit erhobenes Ganzes ist, die Familie. [p. 268] §. 434.  Diese Beziehungen des Einzelnen im Verhältnisse zu seiner Substanz machen seine sittliche Pflichten aus. Als Einzelnen Familie ist ihm einerseits die Identität mit dem Ganzen der die natürliche Möglichkeit Substantialität machen., Andererseits in der ganzen aber soll Substanz er sich zur einen Stand und
+> d) Dem Subject als in seiner Besonderheit absolut für sich seyend, soll sein Interesse und Wohl wesente [p. 268] dern nur allgemeine Wille ist, soll das besondere Interesse kein Moment seyn Um dieser Selbstständigkeit willen ist eszufällig, ob. sie harmoniren. Aber sie sollen harmoniren weil das Subject als Einzelnes und, Allgemeines an sich Eine Identität ist. §. 425. Diese innerliche Seite soll überhaupt durch die)
 
 δ) For the subject, as being absolutely for itself in its particularity, its *interest* and welfare are to be an essential [p. 268] end and therefore duty. At the same time, however, in the end of the *good*, which is the will not particular but only universal, the particular interest *is to* be no moment. On account of this independence it is contingent whether they harmonize. But they *are to* harmonize, because the subject, as singular and universal, is *in itself* one identity.
 
-> Stelle zu haben; er soll sich überhaupt bilden, und
+> 8 Handlung mit der Objectivität durch die Thätigkeit des,
 
 §. 425.
 
-> rer ist nur insoweit wirklich an allgemeinen Etwas, als er als besonde, ist und Mitarbeiter daran wirklich dem arbeitet Werke anerkannt. §. 435. Die Persönlichkeit Subjectivitat, ganze sittliche, d. i. die deren durchdrungen Besonderheit ist ist Tugend von ihrem in Beziehung substantiellen Leben,,; Schicksal, auf äusser liche Unmittelbarkeit zu Seyn auf, ein Negativen ein Verhalten als ruhiges einem in einem nichtin Beziehung und dadurch Beruhen Objectivität sich selbst,; Ganze sittli auf die Wirklichkeit substantielle, Vertrauen, absichtliches das Wirken der fürchen Fähigkeit für aufzuopfern; dieselbe in, Beziehung und -, Zufälligkeit dieselbe sich mit andern, zuerst auf Gerechtigkeit die und der dann Verhältnisse wohlwol-
+> Subjects zusammengeschlossen werden Da die Objecti-. vität aber als das andere selbstständige Extrem eine eigenthumliche Welt für sich ausmacht zufällig ob, so ist es, - sie zu an ob den subjectiven Zwecken zusammenstimmt; das Gute sich in ihr realisirt und das Böse, der und ist für sich nichtige Zweck ihr nichtig in in ferner ob,; - das Subject sein Wohl ihr findet und näher das; ob gute Subject ihr glücklich in und das Böse un-, glücklich wird Aber die Welt soll die gute Hand-. lung sich ausführen lassen in wiedem guten Subjecte, die Befriedigung Interesse gewähren seines besondern, dem bösen aber versagen, so wie das Böse selbst zu nichte machen.
 
 ε) This inner side is, in general, to be joined together with objectivity through the action, through the activity of the subject. But since objectivity, as the other independent extreme, constitutes a peculiar world for itself, it is contingent whether it agrees with the subjective ends; whether the *good* realizes itself in it and *evil*, the end null in and for itself, is null in it; — further whether the subject finds its welfare in it; and more precisely whether the *good* subject becomes *happy* in it, and the *evil* one *unhappy*. — But the world *is to* let the good action be carried out within itself, as well as grant the *good* subject the satisfaction of its particular interest, but deny it to the *evil* one, and likewise bring evil itself to nothing.
 
-> lende Neigung; in welcher Sphäre die Subjectivität ih-
+> .§ 426. Der allseitige Widerspruch, welchen dieses vielfache
 
 §. 426.
 
-> genden ren besondern Charakter, Temperament u. f. f. als Tuausdrückt. §. 436. allgemeine in Das Werk der Substanz besteht Be ziehung auf das einmal Extrem sie der Einzelnheit in zu der gedoppel. ten Arbeit Recht, nothwendigen als Personen erhalten, so- Rache mit das der unendlichen zur Verlekung derselben Wirklichkeit zur und Strafe die
+> Sollen ausdrückt, die abstrakteste Analyse des Geistes ist, fein tiefstes Insich gehen = Die reine Beziehung der sich. widersprechenden Bestimmungen ist die abstracte Gewißheit seiner selbst, die Unendlichkeit der Subjectivität, für welche der allgemeine Willen das Gute, Recht und Pflicht ebensowohl ist, als nicht ist,, und welche sich als das Wählende und Entscheidende weiß.
 
 The all-sided contradiction which this manifold ought expresses is the most abstract analysis of spirit, its deepest going-within-itself. The pure relation of the self-contradicting determinations is the abstract certainty of itself, the *infinity* of subjectivity, for which the universal will, the good, right and duty both are and are not, and which knows itself as the choosing and deciding.
 
 [p. 269]
 
-> zu ze Gesinnung befördern, und das Thätigkeit andremal des aber Einzelnen beydes, und die gans ein Centrum zu seyn strebt, in das Leben der für sich Substanz zurückzuführen, und in der allgemeinen Macht jenen ersten Sphären auch diesem Sinne zu als freye Abbruch thun. §. 437. Die Geseke sprechen die Natur und die Bestim mungen der allgemeinen Substanz aus; sie sind erstens als unmittelbar, so sind sie Schranken der selbstständigen Willkühr und des besondern Interesses; aber sie sind zweytens absoluter Endzweck und das allgemeine Werk, so werden sie durch die Functionen der verschiedenen sich aus ihrer allgemeinen Besonderung ( § 432.) weiter vereinzelnden Stände, und durch alle. Thätig.
+> flexion des abstracten, in seiner unmittelbaren Einzelnheit sich unendlichen Willens giebt ist
 
 §. 427.
 
-> keit und Privat = Sorge der Einzelnen hervor gebracht
+> , so sie die zwey unmittelbar in einander übergehende Formen, des Gez wissens und des Bösen Jenes ist der Wille des Guten, welcher aber als in. dieser reinen Subjectivität das nicht objective, nicht allgemeine, das unsagbare ist, und worüber das Subject sich in seiner Einzeln heit entscheidend weiß und seine besondere Vortreflich ist =, keit hiemit anschaut und genießt. Das Bö se aber dieses selbe Wissen seiner Einzelnheit als des Entscheidenden, insofern nicht sie in dieser Abstraction bleibt, sondern gegen das Gute den Inhalt eines subjectiven Intereſſes hat. §. 428. der bis jectiven Diese höchste Spike des Phänomens des Willens, zu dieser absoluten Eitelkeit rein nur seiner
 
 Since this choosing certainty of itself is the reflection of the abstract will, infinite to itself in its immediate singularity, it yields the two forms, passing immediately over into one another, of *conscience* and of *evil*. The former is the will of the *good*, which, however, as in this pure subjectivity, is the *not objective*, not universal, the unsayable, and over which the subject knows itself, in its *singularity*, as deciding, and thereby intuits and enjoys its particular excellence. *Evil*, however, is this same knowing of its singularity as the deciding one, insofar as it does not remain in this abstraction but has against the good the content of a subjective interest.
 
-> und als geltende Sitte dargestellt. S. 438. Das abstracte Wesen der Geseke ist allge meine an und für sich seyende, derlichkeit aber die lebendige Sitte Wille ihre Wirk- Extrem der Einzelnheit theils. Insofern aber das keit des Willens, Trieb unmittelbare und Neigung Natürlich-, zur Willkühr überhaupt, theils Abstraction der veinen Subjectivität aber auch und zur für moralischen seyen-: \ den Eitelkeit in sich reflectirt ist, so ist hiegegen sich an dere Extrem, nemlich der an und für das seyende, = ebenso zur individuellen Wirklichkeit sich, derthä Wille 1 tigen Subjectivität des Allgemeinendie Regierung, und deren persönliche, bestimmt beschließende;
+> , - einem nicht gewissen
 
 §. 428.
 
-> und entscheidende 1. Spike, der Fürst.
+> - Gut-, ob = - sondern selbst seyn,und einer Gewißheit seiner selbst der Nichtige in keit des Algemeinen verflüchtigt sinkt unmittelist, bar in sich zusammen. Das Böse als die reine Reder Subjectivität flexion sich gegen das Objective und in Algemeine der ganz abstracte Schein ist das unmits -,, telbare Verkehren und Vernichten seiner selbst; denn sie istvi.lmehr unmittelbar die reine Identität mit sich; die Handlung des Bösen das Verbrechen, 414. ist (§.) die Darstellung dieser Verkehrung welcher die Mos in -
 
 This highest peak of the *phenomenon* of the will, which has been volatilized up to this absolute vanity — a being-good not objective but purely only certain of itself, and a certainty of itself in the nullity of the universal — collapses immediately in on itself. *Evil*, as the pure reflection of subjectivity within itself against the objective and universal, is the entirely abstract *semblance*, the immediate perverting and annihilating of itself; for it is rather immediately the pure identity with itself; — the action of evil, crime, is (§ 414) the presentation of this perversion, in which the moments of the Concept have the shape of external actuality against one another. —
 
-> §. 439. 1 Die Verfassung enthält die Bestimmungen, welche Weise der vernünftige Wille, insofern er nur auf an
+> , mente des Begriffs die Gestalt äusserlicher Wirklichkeit
 
 §. 429.
 
-The purely abstract *good disposition* is, within itself, the sublation of the mediation of this reflection and of choosing in the simple universality
+> gegen einander haben. §. 429. Die rein abstracte gute Gesinnung ist innerhalb ihrer selbst das Aufheben der Vermittlung dieser Refle xion und des Wählens in der einfachen Allgemeinheit [p. 270] des Guten, der Nichtigkeit des Nichtigen. Dieß Allgemeine hat zugleich in seinem Begriffe und in diesem Bewußtseyn die Bedeutung des Unsagbaren schlechthin jectiven. unmittelbaren Guten, Die Subjectivität oder desin dieser ihrer damit des Obeigenen
 
-[p. 270]
+The purely abstract *good disposition* is, within itself, the sublation of the mediation of this reflection and of choosing in the simple universality [p. 270] of the good, — of the nullity of the null. This universal has at the same time in its Concept and in this consciousness the meaning of the unsayable or of the absolutely *immediate* good, — hence of the *objective*. Subjectivity, in this its own identity with it, has thereby sublated the standpoint of the *relationship*, and has passed over into *ethical life*.
 
-> sich der allgemeine der Individuen ist, verstanden und gefunden, und durch die Wirksamkeit der Regierung und ihrer besonderer Zweige in Wirklichkeit erhalten und ebenso gegen deren zufällige Individualität als gegen die der Einzelnen geschußt werde. §. 440. Das äusserliche Moment, daß die Regierung als
-
-of the good, — of the nullity of the null. This universal has at the same time in its Concept and in this consciousness the meaning of the unsayable or of the absolutely *immediate* good, — hence of the *objective*. Subjectivity, in this its own identity with it, has thereby sublated the standpoint of the *relationship*, and has passed over into *ethical life*.
-
-> Aggregats gen stracten das Extrem Bestimmung der Einzelnheit die bloß collective, das in Form seiner eines ab =
+> Identität mit demselben hat damit den Standpunkt des Verhältnisses aufgehoben, und ist zur Sittlich.
 
 C.
 
 #### Ethical Life.
 
-> schen Nahmen von Volk Vielen führt, hat steht und, giebt so zuweilen die falsche den Befal-
+> keit übergegangen. C.
 
 §. 430.
 
-> stimmung die, als ob die Verfassung ein Vertrag, nemlich willkührliche Ueberstimmung unterschiedener zufällige Perfonen sey über eine willkührliche und Sache. Der Zusammenhang ist vielmehr ein substantiel ler und absoluter; aus ihm gehen Verfassung erst alle Rechte ist und deren Wirklichkeit hervor; und Begreiffen die vielmehr dieß, daß das Sichselbstund Bethätis gen der Substanz, der Wilkühr entnommen sey. S. 441. Daß der sittliche Geist, der hier als Substanz ist,
+> Die Sittlichkeit. 1 §. 430. 1 Die Sittlichkeit ist die Vollendung des objectkven Geistes, nicht nur die Wahrheit des Rechts und der Moralität, als ihre Einheit, sondern des subjectiven und objectiven Geistes selbst. Sie ist nemlich die Freyheit als der allgemeine vernünftige Willen, wie er in dem reinen Gedanken der einzelnen Subjectivität deren Gegensay, sich aufgelöst, sein Wissen von sich und die Gesinnung, seine Bethätigung und unmittelbare, allgemeine Wirklichkeit zugleich Sitte hat als, die selbstbewußte Freyheit zur Natur geworden ist. §. 431.. Die freye Substanz, in welcher das absolute
 
 *Ethical life* is the completion of objective spirit, not only the truth of right and of morality, as their unity, but of subjective and objective spirit itself. It is, namely, *freedom* as the universal rational will, as it, in the pure thought of singular subjectivity, whose opposition has dissolved itself, has its knowing of itself and the disposition, its enactment and immediate, universal *actuality*, at the same time as *custom*, the self-conscious *freedom* that has become *nature*.
 
-> sich begreift, und sein allgemeines Wesen und
+> Sollen eben so sehr Seyn ist, als Volk Wirklich-
 
 §. 431.
 
-> Weisheit seine Gegliederung und Wissenschaft erfasst und, verfaßt allgemeinen, gehört der, überhaupt Sphäre dem, Stande substantiellen Seynsan einer, höhern worin die Gesinnung als der der seines In = Sittlichkeit Beziehung zu der Wirkdividuen und ihre und Reflexion lichkeit der unterschiedenen Substanz als einem das Vertrauen von ihrer Einzelnheit ( § 431.) ist. Insofern sie aber als abstracte moralische. Personen ihren ausdrücklichen einzelnen Willen ( S.435) in dem allgemeinen erkennen sollen, so ist diese Theilnah-. me, weil sie theils Schein theils wirklich und garantirend [p. 271] , ist so zu reguliren, daß die Erkenntniß, Festsekung und Bethätigung des allgemeinen Willens vornemlich gegen die eigene Besonderheit und Richtung der Eins zelnen aufdas Privatinteresse gesichert werde. §. 442. L
+> ist keit. Die abstracte Diremtion ihrer Negativität zur Exis stenz die Vereinzelung ist Personen in von deren, unmittelbarer Selbstständigkeit die innere Macht und sie Nothwendigkeit Die Person aber erkennt als denist. kende Intelligenz,die Substanz als ihr eigenes Wesen und hört in dieser Gesinnung auf Accidens derselben zu, seyn sie schaut ihren absoluten Wirk- Endzweck, in der; lichkeit eben so als erreichtes Disseits an als sie ihm [p. 271] ist, flexion ihre Pflicht alsdas Ihrige und als Seyendes vollbringt und in dieser Nothwendigkeit sich selbst und ihre Freyheit hat. §. 432. Weil die Substanz die absolute Einheit der Eine zelnheit und der Allgemeinheit der Freyheit ist
 
 The *free substance*, in which the absolute *ought* is just as much *being*, is, as a nation, actuality. The abstract diremption of its negativity into existence is the individuation *into persons*, of whose immediate independence it is the inner power and necessity. The person, however, cognizes, as thinking intelligence, the substance as its own essence, and in this disposition ceases to be an accident of it; it beholds its absolute final end in actuality just as much as an attained *this world*, as it [p. 271] brings it forth through its *activity*, but as something that just as much is, it thereby fulfills, without the choosing reflection, its duty as *its own* and as *what is*, and in this necessity has itself and its freedom.
 
-> Der sittliche Geist ist selbst) 1 ein 1 einzelner,
+> , so ist die Wirklichkeit und Thätigkeit jedes Einzels
 
 §. 432.
 
-> der in einem besonders bestimmten Volke seine Wirklichkeit hat. Als solches Daseyn stelltseine Totalität die unmittelbare Natürlichkeit her, die geographische und klimatische Bestimmtheit; vornemlich ist er auch in einer besondern Entwicklungs = Stuffe seines geistigen Les bens, und nur in dieser begreift, erfaßt und vers faßt er sich. 2 443.) 2 Als solches einzelnes Individuum ist er aus schliessend gegen andere eben solche Individuen. In ihrem Verhältnisse zu einander hat die Willkühr und Zufälligkeit Statt, weil das Allgemeine um der avtonomischen Selbstständigkeit dieser Personen willen,
+> zu nen für sich, zu, und seyn sorgen, bedingt sowohldurch das vorausgesekte Ganze in dessen Zusammenhang allein vorhanden, als auch ein Uebergehen ein allgeinmeines Product. Ebenso ist die Substanz und das allgemeine Werk, die Selbstständigkeit der Einzelnen, welche dadurch hervorgebracht wird. Die Gesinnung der Individuen, ist das Wissen dieser Identität aller ihrer Interesse mit dem Ganzen und daß die anin, dern Einzelnen wissen und wirklich sind wahrhafte, gegenseitig substantielle, sich Gesinnung nur das Vertrauen
 
 Because the substance is the absolute unity of the singularity and of the universality of freedom, the *actuality* and *activity* of every *individual*, to be for himself and to care, is conditioned both by the presupposed whole, in whose connection alone it is present, as well as being a passing over into a universal product. — Equally the substance and the universal work is the independence of the individuals, which is thereby brought forth. — The *disposition* of the individuals is the *knowing* of this identity of all their interests with the whole, and that the other individuals reciprocally know themselves, and are actual, only in this identity, — *trust*, — the true, substantial disposition.
 
-> die ter haben in sich, reelle nur Totalität seyn soll, sind, nicht und wirklich kein Bedürfniß ist, es weis
+> . dieser
 
 §. 433.
 
-> § 444 *.. Diese Unabhängigkeit macht den Streit zwischen ihnen zueinem Verhältnisse der Gewalt, einem 3 ustand des Krieges, für welchen der allgemeine Stand sich zu dem besondern Zwecke der Erhaltung der Selbstständigkeit des Staats gegen andere, zum Stand der Tapferkeit bestimmt. §. 445.  Dieser Zustand zeigt die Substanz in dem nothwendigen Henden Momente Individualität seiner, zur in absoluten welcher sich Negativität als in der Macht fortge.
+> , - Identität die §. 433. Das allgemeine Werk, welches die Substanz selbst ist, besondert sich und die Arbeit desselben in die Unterschiede, Stände sind den allgemei welche die; nen, die Bethätigung der Substanz als solcher; der besondern, dessen Werk die Bedürfnisse des beson- 1 dern Daseyns und dessen nächster Zweck die besondre Subjectivität aber dessen Erreichung die Arbeit aller anist, dern vorausseßt, und in sie ebenso eingreift. Der Stand der Einzelnheit ist die Individualität, insofern sie für sich eine Totalität zwar ein natürliches,, aber durch die Geistigkeit gleichfalls die Sittlichkeit in erhobenes Ganzes ist, die Familie.
 
 The universal work, which is the substance itself, *particularizes* itself and the labor of the same into the differences which are the *estates*: the *universal* one, the *enactment* of the substance as such; the *particular* one, whose work is the needs of particular determinate being and whose nearest end is particular subjectivity, but whose attainment presupposes the labor of all others, and likewise reaches into it. The estate of *singularity* is individuality, insofar as it is for itself a totality, a whole that is indeed natural but, through spirituality, equally raised into ethical life, the *family*.
 
 [p. 272]
 
-> , Selbstständigkeit
+> Diese Beziehungen des Einzelnen im Verhältnisse
 
 §. 434.
 
-> und über der die Einzelnen Zustand ihres deren Versenckitseyns besondere in das äusser Daseyn des Besikes und in das natürliche Leben als liche Nichtiges fühlt, und die Erhaltung der allgemeinen ein Substanz durch die Aufopferung dieses natürlichen und besondern Daseyns, in der Gesinnung der Freyheit und, Vereitlung des Eiteln sich mit sich selbst vermittelt.  5. 446. Durch den Zustand des Krieges aber wird die gegen
+> zu seiner Substanz machen seine sittliche Pflichten aus. Als Einzelnen ihm einerseits die Identität mit ist dem Ganzen der Familie die natürliche Substantialität. Andererseits aber soll er sich zur Möglichkeit machen in der ganzen Substanz einen Stand und, Stelle zu haben soll sich überhaupt; er bilden, und istnur insoweit wirklich Etwas als, er als besonde rer Mitarbeiter an dem allgemeinen Werke anerkannt, ist und daran wirklich arbeitet. §. 435. Die sittliche Persönlichkeit, d. i. die Subjectivitat,
 
 These relations of the individual in the relationship to his substance constitute his *ethical duties*. As an individual, identity with the whole of the *family* is, for him, on the one hand, the *natural* substantiality. On the other hand, however, he is to make for himself the *possibility* of having a station and place in the whole substance; he is in general to *educate* himself, and is actually *something* only insofar as he is recognized as a *particular* co-worker on the universal work, and actually works on it.
 
-> seitige Anerkenung der, freyen Völkerindividuen Ehre bewirkt der,
+> deren ganze Besonderheit von ihrem substantiellen Leben durchdrungen Tugend ist
 
 §. 435.
 
-> Freyheit oder auch und dasjenige Tapferkeit welches das endliche der unendlichen Bestehen des besondern Daseyns vorzieht, erhält, was es gewollt, seine Unterwerfung und das Aufhören seiner Selbstständigkeit. Ju jenem Falle aber tritt der Frieden durch einen Ver gleich ein, der ewig dauern soll.  S. 447 Das äussere Staatsrecht beruht daher theils aus, positiven Tractaten welche die Befugnisse der Völker gegeneinander festseken, Rechte, denen aber die wahrhafte Wirklichkeit abgeht; ( §. 443.) theils auf dem sogenannten Völkerrechte, dessen allgemeines Prinzip, einerseits das vorausgesekte Anerkanntseyn der Staaten ist, und daher die sonst ungebundenen Hande
+> , Beziehung auf äusser ist; in liche Unmittelbarkeit auf ein Schicksal ein Verhal- -,, ten als einem Seyn einem nicht Negativen und dazu durch ruhiges Beruhen sich selbst in, Beziehung; in auf die substantielle Objectivität das Ganze der sittli, - chen Wirklichkeit Vertrauen, absichtliches Wirken für, - dieselbe, und Fähigkeit für dieselbe sich aufzuopfern,; in Beziehung auf die Zufälligkeit der Verhältnisse mit andern, zuerst Gerechtigkeit und dann wohlwollende Neigung; in welcher Sphäre die Subjectivität ihren besondern Charakter Temperament, als Tuu. f. f. genden ausdrückt.
 
 Ethical personality, i.e. subjectivity whose entire particularity is permeated by its substantial life, is *virtue*; in relation to external immediacy, to a *fate*, a comportment as to a *being*, to a not negative, and thereby a calm resting within itself; — in relation to the substantial objectivity, the whole of ethical actuality, trust, intentional working for it, and ability to sacrifice oneself for it; — in relation to the contingency of the relationships with others, — first justice and then benevolent inclination; in which sphere subjectivity expresses its particular character, temperament, etc., as *virtues*.
 
-> Jungen Friedens gegen einander bleibt so beschränkt andererseits, daß die die Individuen Möglichkeit -
+> §. 436. Das allgemeine Werk der Substanz besteht in Be
 
 §. 436.
 
-> des als Privatpersonen vom Staate, unterscheidet; und überhaupt auf den Sitten beruht. § 448 1.. 3) Der bestimmte Volksgeist, da er wirklich und seine Freyheit als Natur ist, ist zuleht auch in der Zeit und hat eine durch sein besonderes Princip bestimmte [p. 273] Entwicklung seiner Wirklichkeit in derselben, eine Geschichte. Als beschränkter Geist aber geht er in die allgemeine Weltgeschichte über, deren Begebenhei ten die Dialektik der besondern Völkergeister, das Weltgericht, darstellt.
+> zu in ziehung auf das Extrem der Einzelnheit der gedoppel. ten Arbeit einmal, als Personen sie erhalten, somit das Recht zur nothwendigen Wirklichkeit und die Rache der unendlichen Verlekung derselben zur Strafe und dann ihr Wohl sich zu machen das zunächst jeder für,, besorgt, aber schlechthin die allgemeine Seite hat, zu ‫و‬ T [p. 273] Einzelnen der für sich, ein Centrum zu seyn strebt in das Leben der allgemeinen, Substanz zurückzuführen und diesem Sinne als freye, in Macht jenen ersten Sphären auch Abbruch zu
 
 The universal work of the substance consists, in relation to the extreme of singularity, in the twofold labor, *on the one occasion* to maintain them as persons, thus to make *right* into necessary actuality and the revenge for the infinite violation of the same into punishment, and then to promote their *welfare*, which at first each looks after for himself but which absolutely has the universal side, [p. 273] *on the other occasion*, however, to lead back both, and the entire disposition and activity of the individual, who strives to be a center for himself, into the life of the universal substance, and in this sense, as free power, to impair also those first spheres.
 
-> §. 449.
+> thun. §. 437.
 
 §. 437.
 
-> Diese Bewegung ist die Befreyung der sittlichen Substanz von ihren Besondernheiten, in denen sie in den einzelnen Völkern wirklich ist, die That, wodurch sich der Geist zum allgemeinen, zum Weltgeist wird. Indem sie die Entwicklung seines Selbstbewußtseyns in der Zeit ist, so sind deren einzelne Momente und Stuffen die Völkergeister, deren jeder aber als Einzelner und Natürlicher nur Eine Stuffe ausfüllen und nur Ein Geschäft der ganzen That vollbringen kann.
+> DieGeseke sprechen die Natur und die Bestim mungen der allgemeinen Substanz sie aus sind erstens; als unmittelbar sind, so sie Schranken der selbstständigen Willkühr und des besondern Interesses aber sind; sie zweytens absoluter Endzweck und das allgemeine Werk werden, so sie durch die Functionen der verschie denen sich aus ihrer allgemeinen Besonderung 432. (.§) = weiter vereinzelnden Stände und durch alle Thätig,. keit und Privat Sorge der
 
 The *laws* express the nature and the determinations of the universal substance; insofar as they *are*, first, immediate, they are limitations of independent arbitrary will and of particular interest; but insofar as they are, *second*, absolute final end and the universal *work*, they are brought forth by the functions of the different *estates*, which individuate themselves further out of their universal particularization (§ 432), and by all activity and private care of the *individuals*, and presented as valid custom.
 
-> §. 450.
+> =
 
 §. 438.
 
-> Diese Freyheit und das Geschäft derselben ist das: höchste und absolute Recht. Das Selbstbewußtseyn eines besondern Volks ist Träger der dießmaligen Entwicklungsstuffe des allgemeinen Geistes in seinem Daseyn, und die objective Wirklichkeit, in welche er seinen Willen legt. Gegen diesen absoluten Willen ist der Willen der andern besondern Volksgeister rechtlos; eben so aber schreitet er über sein jedesmaliges Eigenthum. als über eine besondere Stuffe hinaus, und übergiebt es dann seinem Zus fall und Gericht. 1 § 451.. Indem aber ein solches Geschäft als Handlung,
+> Einzelnen hervor gebracht und als geltende Sitte dargestellt. S. 438. Das abstracte Wesen der Geseke der allge istmeine an und für sich seyende Wille ihre Wirk-, lichkeit aber die lebendige Sitte Insofern aber das. Extrem der Einzelnheit theils unmittelbare Natürlichkeit des Willens, Trieb und Neigung theils, zur Willkühr überhaupt, aber auch zur moralischen: \ Abstraction der veinen Subjectivität und für sich seyenden Eitelkeit in sich reflectirt ist, so ist das hiegegen andere Extrem an und für sich seyendenemlich der, Wille, 1 ebenso zur individuellen Wirklichkeit, derthä tigen Subjectivität des Allgemeinen bestimmt; die Regierung und deren persönliche
 
 The abstract *essence* of the *laws* is the universal will *that is in and for itself*, their actuality, however, the *living custom*. But insofar as the extreme of singularity is reflected into itself, partly as immediate *naturalness* of the will, *drive* and *inclination*, partly toward *arbitrary will* in general, but also toward the moral abstraction of pure subjectivity and of vanity that is for itself, the other extreme standing over against this, namely the will that is in and for itself, is likewise determined toward *individual actuality*, the *active subjectivity* of the universal; — the *government*, and its personal, resolving and deciding apex, the *prince*.
 
-> Beschluß erscheint, so ist sind und diese damit in als Rücksicht ein Werk auf das Einzelner Substan-
+> ,, beschließende und entscheidende Spike, der Fürst.
 
 §. 439.
 
-> tielle ihrer Arbeit Werkzeuge, und ihre Subjectivität ist die leere Form der Thätigkeit. Was sie daher [p. 274] durch den individuellen Antheil, den sie an dem substan tiellen Geschäfte, genommen, für sich erlangt haben, ist der Ruhm, der ihre Belohnung ist. §. 452. geistige,, so
+> 1. §. 439. 1 Die Verfassung enthält die Bestimmungen auf, welche Weise der vernünftige Wille insofern nur an, er 18 [p. 274] gefunden, und durch die Wirksamkeit der Regierung und ihrer besonderer Zweige Wirklichkeit erhalten und in ebenso gegen deren zufällige Individualität als gegen die der Einzelnen geschußt werde. §. 440. Das äusserliche Moment, daß die Regierung als
 
 The *constitution* contains the determinations as to the manner in which the rational will, insofar as it is only in [p. 274] itself the universal one of the individuals, is understood and found, and through the efficacy of the government and its particular branches is maintained in actuality, and is protected just as much against their contingent individuality as against that of the individuals.
 
-> wie ihre Die einzelne Substanz Wirklichkeit welche oder ihr ihren Selbstbewußt Inhalt =
+> Allgemeine individueller Wirklichkeit ab ge
 
 §. 440.
 
-> seyn von seiner Beschränktheit in der Furcht des Todes befreyt, hat dasselbe zur Unendlichkeit erhoben und ist sich darin als allgemeiner Geist Gegenstand, welchen das Selbstbewußtseyn als seine Substanz weiß, damit von der Furcht ebenso befrent, und die ihrem Begriffe gemäße Wirklichkeit ist.
+> das in gen das Extrem der Einzelnheit das seiner, instracten Bestimmung die bloß collective Form eines Aggregats von Vielen hat, und so zuweilen den falschen Nahmen Volk führt steht giebt die falsche Be-,, stimmung,als die Verfassung ein Vertrag ob nemlich, diewillkührliche Ueberstimmung unterschiedener Perfonen über eine willkührliche und zufällige Sache.sey Der Zusammenhang ist vielmehr ein substantiel ler und absoluter; aus ihm gehen erst alle Rechte und deren Wirklichkeit hervor; und die Verfassung ist vielmehr dieß, daß das Sichselbst = Begreiffen und Bethätis gen der Substanz, der Wilkühr entnommen sey. S. 441. Daß der sittliche Geist, der hier als Substanz ist, sich begreift, allgemeines Wesen und
 
 The *external* moment that the government, as the *universal* in *individual* actuality, stands against the extreme of *singularity* — which in its abstract determination has the merely collective form of an *aggregate* of many, and so sometimes bears the false name of *nation* — gives the false determination as if the constitution were a *contract*, namely the *arbitrary* agreement of different persons about an *arbitrary and contingent* thing. The connection is rather a *substantial and absolute* one; from it first proceed all rights and their actuality; and the constitution is rather this: that the self-comprehending and enacting of the substance be withdrawn from arbitrary will.
 
+> und sein seine Gegliederung erfasst und verfaßt gehört der,
+
 §. 441.
 
-That the ethical spirit, which here is as substance, *comprehends* itself, and *grasps* and *frames* its *universal* essence and its articulation, belongs to *wisdom* and *science*, to the *universal* estate, in general to a higher sphere than that of its substantial *being*, in which the disposition of the individuals is *ethical life* and their relation to the actuality of the substance, as to something distinct from their singularity and reflection, is *trust* (§ 431). But insofar as they, as abstract *moral* persons, are to cognize their express singular will (§ 435) in the universal, this participation, because it is partly semblance, partly actual and guaranteeing,
+> Weisheit und Wissenschaft dem allgemeinen, Stande, überhaupt einer höhern Sphäre als der seines, substantiellen Seynsan worin die Gesinnung der, Individuen Sittlichkeit und ihre Beziehung der Wirkzu lichkeit der Substanz als einem von ihrer Einzelnheit und Reflexion unterschiedenen das Vertrauen 431. ().§ ist Insofern sie aber als abstracte moralische Per in =). sonen ihren ausdrücklichen einzelnen Willen ( S.435. dem allgemeinen erkennen sollen, so ist diese Theilnahme, weil sie theils Schein theils wirklich und garantirend [p. 275] reguliren daß die Erkenntniß Festsekung und,, Bethätigung des allgemeinen Willens vornemlich gegen die eigene Besonderheit und Richtung der Eins zelnen aufdas Privatinteresse gesichert werde.
 
-[p. 275]
+That the ethical spirit, which here is as substance, *comprehends* itself, and *grasps* and *frames* its *universal* essence and its articulation, belongs to *wisdom* and *science*, to the *universal* estate, in general to a higher sphere than that of its substantial *being*, in which the disposition of the individuals is *ethical life* and their relation to the actuality of the substance, as to something distinct from their singularity and reflection, is *trust* (§ 431). But insofar as they, as abstract *moral* persons, are to cognize their express singular will (§ 435) in the universal, this participation, because it is partly semblance, partly actual and guaranteeing, [p. 275] is to be so regulated that the cognition, establishment and enactment of the universal will be secured chiefly *against* the *own particularity and direction of the individuals toward private interest*.
 
-> Dritter Theil.  Der absolute Geist.
-
-is to be so regulated that the cognition, establishment and enactment of the universal will be secured chiefly *against* the *own particularity and direction of the individuals toward private interest*.
-
-> §. 453.
+> L §. 442.
 
 §. 442.
 
-> : Der Begriff des Geistes hat seine Realität im Geiste. Daß diese in vollendeter Identität mit jenem als das Wissen der absoluten Idee sey, hierin ist die nothwendige Seite, daß die an sich freye Intelligenz sich zu ihrem Begriffe befrene, um die dessen würdige Gestalt zu seyn. Der subjective und der objective Geist
+> 1 Der sittliche Geist ist selbst)1 ein einzelner, in Volke seine Wirk- - der einem besonders bestimmten lichkeit hat. Als solches Daseyn stellt seine Totalität die unmittelbare Natürlichkeit her die geographische, und klimatische Bestimmtheit vornemlich; auch ist er in einer besondern Entwicklungs Stuffe seines geistigen Lesbens, und nur in dieser begreift, erfaßt und vers
 
 The ethical spirit is itself 1) a *singular*, which has its actuality in a particularly determined *nation*. As such a determinate being its totality produces the immediate naturalness, — the geographical and climatic determinacy; chiefly it is also at a particular stage of development of its spiritual life, and only in this does it comprehend, grasp and *frame* itself.
 
-> können daher Seite als der Weg Realität angesehen werden, auf wel chem sich diese der oder der Existenz aus-
+> faßt er sich.
 
 §. 443.
 
 2) As such a singular individual it is *exclusive* toward *other* individuals of just this kind. In their *relationship* to one another arbitrary will and contingency take place, because the *universal*, for the sake of the autonomous independence of these persons, who are a totality real within itself and have no further need, only *is to* be, is not *actual*.
 
-> bildet. ( §. 304.) Umgekehrt hat dieser Weg ebenso die Bedeutung, daß der subjective Geist als Erstes an gesehen wird, welches in seiner Unmittelbarkeit begrifflos ist, sein Wesen erfaßt und herausbildet, und hiedurch sich seine freye Identität mit demselben, hiemit seine absolute Realität giebt.
+> 2 443.) 2 Als solches einzelnes Individuum ist er aus schliessend gegen andere eben solche Individuen. In ihrem Verhältnisse zu einander hat die Willkühr und Zufälligkeit Statt weil das Allgemeine um der, avtonomischen Selbstständigkeit dieser Personen willen, in
 
 §. 444.
 
-> §. 454.
+> es die sich reelle Totalität sind, und kein Bedürfniß weis ter haben, nur seyn soll, nicht wirklich ist
 
 This independence makes the dispute between them into a relationship of force, a *condition* of *war*, for which the universal estate determines itself, for the particular end of the preservation of the independence of the state against others, into the *estate of bravery*.
 
-> Indem sich die subjective Einzelnheit in ihrer frey. en Entäusserung, nemlich der das Bestehen der ſittlichen Substanz vermittelnden Negation des einzelnen
+> , * §. 444. Diese Unabhängigkeit macht den Streit zwischen ihnen zueinem Verhältnisse der Gewalt, einem 3 ustand des Krieges für welchen der allgemeine Stand sich, zu dem besondern Zwecke der Erhaltung der Selbstständigkeit des Staats gegen andere, zum Stand der Tapferkeit
 
 §. 445.
 
+> bestimmt.
+
 This condition shows the substance in the necessary moment of its individuality proceeding to absolute negativity, in which, as in the power
+
+> §. 445. Dieser Zustand zeigt Substanz die dem nothwen indigen Momente seiner zur absoluten Negativität fortge. Henden Individualität, in welcher sich als in der Macht
 
 [p. 276]
 
-> unmittelbaren Seyn Lebens, die höchste Intensität, welche das hat, und damit alles Daseyn einer Welt als 1 ein Nichtiges und Aufzuopferndes betrachtet, hat die sittliche Substanz die Bedeutung der absoluten Macht und absoluten Seele, und des Wesens der Natur ebenjowohl als des Geistes erhalten. §. 455. Die Diremtion dieser allgemeinen und reinen Sub-
+> liche Daseyn des Besikes und in das natürliche Leben als ein Nichtiges fühlt, und die Erhaltung der allgemeinen Substanz durch die Aufopferung dieses natürlichen Freyheit und besondern Daseyns, in der Gesinnung der und, Vereitlung des Eiteln sich mit sich selbst vermittelt. 5. 446. Durch den Zustand des Krieges aber wird die gegen seitige Anerkenung der freyen Völkerindividuen bewirkt, oder auch dasjenige,
 
 over the individuals, their particular independence and the condition of their being sunk into the external determinate being of possession and into natural life feels itself as a *nullity*, and the preservation of the universal substance through the sacrifice of this natural and particular determinate being, in the disposition of freedom and the frustration of the vain, mediates itself with itself.
 
-> tanz des, Geistes ist daher sie das Urtheil in sich und in ein
+> welches der unendlichen Ehre der
 
 §. 446.
 
-> Wissen sür welches als solche ist. a.  Die Religion der Kunst. §. 456. Die unmittelbare Gestalt dieses Wissens ist die der Anschauung und Vorstellung des absoluten Geistes
+> Freyheit und Tapferkeit das endliche Bestehen des besondern Daseyns vorzieht, erhält, was es gewollt, seine Unterwerfung und das Aufhören seiner Selbstständigkeit. Ju jenem Falle aber tritt der Frieden durch einen Ver gleich ein, der ewig dauern soll. S. 447 Das äussere Staatsrecht beruht daher theils, positiven Tractaten welche Befugnisse der die aus Völker gegeneinander festseken, Rechte, denen aber die wahrhafte Wirklichkeit abgeht 443. theils auf, ();
 
 But through the condition of war the mutual recognition of the free national individuals is brought about, or else that one which prefers the finite subsistence of particular determinate being to the infinite honor of freedom and bravery receives what it has willed, its subjugation and the ceasing of its independence. In the former case, however, peace sets in through a *settlement* that is to last forever.
 
-> als des Ideals. §. 457.
+> §.
 
 §. 447.
 
-> Bedeutung 12 Die des Ideals ist die Substantialität als, das identische und concrete Wesen der Natur und des Geistes welches concrete Wesen Gott genannt wird. Der Beweis, daß diese, Bedeutung die absolute Wahr = Heit, ist ist die Vermittlung, durch welche die Natur sich zum Geiste, und der Geist seine Subjectivität, durch seine Thätigkeit zum absoluten Geiste aufgehoben und damit denselben als feinen Lesten Grund, hiemit, weil diese Vermittlung an ihr selbst ebensosehr das Aufheben der 105. Vermittlung u f f) als, sein des absolut Gegensakes, Erstes, ist weiß ( S. 72, 74-
+> dem sogenannten Völkerrechte dessen allgemeines Prinzip, einerseits das vorausgesekte Anerkanntseyn der Staaten und daher die sonst ungebundenen Hande ist, - Jungen gegen einander so beschränkt daß die Möglichkeit, des Friedens bleibt andererseits die Individuen Privatpersonen vom Staate, unterscheidet und als; überhaupt auf den Sitten beruht. 1 §. 448
 
 *External public law* therefore rests partly on *positive* treaties, which fix the entitlements of the nations against one another, — rights, however, to which true actuality is lacking (§ 443); partly on the so-called *law of nations*, whose universal principle, on the one hand, is the presupposed *being-recognized* of the states, and therefore so restricts the otherwise unbound actions against one another that the possibility of peace remains; — on the other hand distinguishes the individuals, as private persons, from the state; — and rests in general on *customs*.
 
-> ... §. 458. 4
+> . 3
 
 §. 448.
 
 3) The determinate national spirit, since it is actual and its freedom is as nature, is finally also in *time*, and has a development determined by its *particular* principle
 
-> . 9 Weil dieses Wissen zunächst selbst ein unmittelbares, ist und insofern es sich in dieser Bestimmtheit der Une
+> ) Der bestimmte Volksgeist, da er wirklich und seine Freyheit als Natur ist, ist zuleht auch in der Zeit und hat eine durch sein besonderes Princip bestimmte
 
 [p. 277]
 
-> mittelbarkeit hält, ist auch die bestimmte Gestalt des Gottes für dasselbe zunächst die abstracte eines unmittelbaren Daseyns, eines elementarischen oder concre = 1 tern Natur- Seyns, oder des entgegengesekten, des reinen Denkens.
+> schichte. Als beschränkter Geist aber geht er in die allgemeine Weltgeschichte über, deren Begebenhei ten die Dialektik der besondern Völkergeister, das Weltgericht, darstellt. §. 449. Diese Bewegung ist die Befreyung der sittlichen
 
 of its actuality in it, — a *history*. As a limited spirit, however, it passes over into *universal world history*, whose events the dialectic of the particular national spirits — the *world's court of judgment* — presents.
 
-> $. 459.
+> Substanz von ihren Besondernheiten, in denen sie in
 
 §. 449.
 
-> Die Wahrheit aber jener unmittelbaren Gestalt und dieser gestaltlosen Negativität, des Disseits und des Jenseits, ist die aus dem Geiste geborne concrete Gestalt, in welcher die natürliche Unmittelbarkeit nur als Zeichen des Gedankens, von ihrer Zufälligkeit befrent und zu seinem Ausdruck so durch ihn selbst verklärtist, daß die Gestalt sonst nichts anderes an ihr zeigt; die Gestalt der Schönheit. P §. 460.
+> den einzelnen Völkern wirklich ist, die That, wodurch sich der Geist zum allgemeinen, zum Weltgeist wird. Indem sie die Entwicklung seines Selbstbewußtseyns inder Zeit ist, so sind deren einzelne Momente und Stuffen die Völkergeister, deren jeder aber als Einzelner und Natürlicher nur Eine Stuffe ausfüllen und nur Ein Geschäft der ganzen That vollbringen kann. §. 450.
 
 This movement is the liberation of the ethical substance from its particularities, in which it is actual in the individual nations, — the deed whereby spirit becomes, for itself, the *universal*, the *world-spirit*. Since it is the development of its self-consciousness in time, its individual moments and stages are the national spirits, of which each, however, as a singular and natural one, can fill out only *one stage* and accomplish only one task of the whole deed.
 
-> gung Insofern der Anschauung die Schönheit oder des überhaupt Bildes durch die den Durchdrin- Gedan- 1
+> Diese Freyheit und das Geschäft derselben ist das
 
 §. 450.
 
-> ken, und der vorbildliche Gedanke ist, ist sie etwas Formelles, und der Inhalt des Gedankens eben so wie der Stoff, den er zu seiner Einbildung gebraucht, kann zunächst von der verschiedensten Art seyn. § 461.. Insofern aber die Form ihren wahrhaften Inhalt, jene Durchdringung selbst, die geistige Substanz in ihrer absoluten Bedeutung, ( §.457.) in sich hat, so ift jedoch um der Unmittelbarkeit willen, in welcher dieses
+> : höchste und absolute Recht Das Selbstbewußtseyn eines. besondern Volks ist Träger der dießmaligen Entwicklungsstuffe des allgemeinen Geistes seinem Daseyn in und die, objective Wirklichkeit welche, seinen Willen legt in er. Gegen diesen absoluten Willen ist der Willen der andern besondern Volksgeister rechtlos; eben so aber schreitet er über sein jedesmaliges Eigenthum als über eine beson-.
 
 This freedom and the task of the same is the highest and absolute *right*. The self-consciousness of a particular nation is the bearer of the current stage of development of the universal spirit in its determinate being, and the objective actuality in which it lays its will. Against this absolute will the will of the other particular national spirits is without right; but just so it strides beyond its respective property, as beyond a particular stage, and then hands it over to its chance and judgment.
 
-> Wissen die Gestalt Anschauen theils insofern oder bildliches endlich, Vorstellen als das Seyn ein ist,
+> dere Stuffe hinaus, und übergiebt es dann seinem Zus fall und Gericht. 1
 
 §. 451.
 
-> unmittelbares und damit ein äusserlicher Stoff ist, theils weil damit der Inhalt nur ein besonderer Volksgeist ist. " [p. 278] §. 462. Product. den und Daß zur diese äusserlichen Existenz Darstellung bringenden des die Idee Subjects erfassen
+> §. 451. Indem aber ein solches Geschäft als Handlung, Beschluß ist und damit als ein Werk Einzelner erscheint, so sind diese in Rücksicht auf das Substantielle ihrer Arbeit Werkzeuge, und ihre Subjectivität ist die leere Form der Thätigkeit. Was sie daher [p. 278] tiellen Geschäfte, genommen, für sich erlangt haben, ist der Ruhm, der ihre Belohnung ist. §. 452
 
 But since such a task is, as action, *resolution*, and thereby appears as a work of *individuals*, these are, in regard to the substantial of their labor, *instruments*, and their subjectivity is the empty form of activity. What they therefore [p. 278] have attained for themselves through the individual share that they have taken in the substantial task is *fame*, which is their reward.
 
-> , ist gehört nicht zu ihrer Endlichkeit; Thätigkeit denn das Subject
+> .
 
 §. 452.
 
-> Kunstwerk ist nur das rein ist nur Formelle dann Ausdruck der des Gottes,, und wenn das kein Zeichen von subjectiver Besonderheit darin, sondern der inwohnende Geist des Volkes sich ohne solche Benmischung und von deren Zufälligkeit unbefleckt empfangen und herausgebohren hat - Die Vermittlung, durch den Schmerz und die Thätigkeit. eines Subjects hindurchgegangen und zur Gestalt gekommen zu seyn, ist unmittelbar aufgehoben; das Werk stellt die Sub-
+> Die geistige Substanz, welche ihren Inhalt, so wie ihre einzelne Wirklichkeit oder ihr Selbstbewußtseyn von seiner Beschränktheit in der Furcht des Todes befreyt, hat dasselbe zur Unendlichkeit erhoben und ist sich darin als allgemeiner Geist Gegenstand, welchen das Selbstbewußtseyn als seine Substanz weiß, damit von der Furcht ebenso befrent, und die ihrem Begriffe gemäße Wirklichkeit ist.
 
 The spiritual substance, which frees its content, as well as its singular actuality or its self-consciousness, from its limitedness in the fear of death, has raised the same to infinity, and is therein an object to itself as *universal* spirit, which self-consciousness knows as its substance; thereby it is likewise freed from fear, and is the actuality that corresponds to its Concept.
 
 [p. 279]
 
-> Der absolute Geist §. in dieser 465. Stuffe der aufgehobe =
+> Der absolute Geist. §. 453.
 
 #### Part Three.
 
-> nen somit Unmittelbarkeit auf der Stuffe seiner allgemeiner der Reflexion Gestalt, und, seines ist einerseits Wissens, an
+> :
 
 ### Absolute Spirit.
 
-> Geistes die Subjectivität, aber andererseits des Wissens ist, er weil für die sie Reflexion ist,;
+> Der Begriff des Geistes hat seine Realität im Geiste. Daß diese in vollendeter Identität mit jenem
 
 §. 453.
 
-> giebt wesentlich den Momenten, ist Selbstständigkeit seines Lebens,, und deren macht Totalität sie gegen er einander zu Voraussetzungen und aufeinander folgenden Erscheinungen, und einem Zusammenhang des Geschehens nach endlichen Reflexionsbestim mungen. §. 466.  In ihrem Trennen scheidet die Reflexion die Form von dem Inhalte, und in jener die unterschiedenen Momente des Begriffes als besondere Sphären oder Elemente, ab in deren jeder sich der absolure Inhalt darstellt. §. 467. 1 In Momente Allgemeinheit, der
+> als das Wissen der absoluten Idee sey hierin die, ist nothwendige Seite daß an sich freye Intelligenz, die sich zu ihrem Begriffe befrene, um die dessen würdige Gestalt zu Der subjective und der objective Geist seyn. können daher als der Weg angesehen werden auf wel, chem sich diese Seite der Realität oder der Existenz ausbildet. (§ 304.. Umgekehrt hat dieser Weg ebenso die) Bedeutung, daß der subjective Geist als Erstes an gesehen wird, welches in seiner Unmittelbarkeit begrifflos ist, sein Wesen erfaßt und herausbildet und hiedurch sich seine Identität freye mit demselben,, hiemit seine
 
 The *Concept* of spirit has its *reality* in spirit. That this, in perfected identity with that, be as the *knowing* of the absolute Idea: herein lies the necessary side, that the intelligence free *in itself* free itself to its Concept, in order to be the *shape* worthy of it. Subjective and objective spirit can therefore be regarded as the path on which this side of *reality* or of existence develops. (§ 304.) Conversely, this path equally has the meaning that subjective spirit is regarded as the first, which in its immediacy is conceptless, grasps and forms out its essence, and thereby gives itself its free identity with it, hence its absolute reality.
 
-> Sphäre 1) des reinen dem Gedanken der s oder dem abstracten Ele-
+> absolute Realität giebt. §. 454.
 
 §. 454.
 
-> mente des Wesens ist es also der absolute Geist, welcher zuerst das Vorausgesekte, als substantielle Macht Schöpfer in Himmels der Reflexionsbestimmung und der Erde ist, der aber Causalität in P dieser, [p. 280] ewigen Sphäre vielmehr sich selbst nur als seinen Sohn erzeugt, dessen Erzeugt oder Gesektwerden aber ebenfo schlechthin aufgehoben und ewiges Seyn des Begriffes, ist fo wie dessen Bestimmung, das von dem allgemeinen Wesen unterschiedene Vermittlung zu seyn, sich ewig aufhebt, und
+> Indem sich die subjective ihrer frey Einzelnheit in. en Entäusserung, nemlich der das Bestehen der ſittlichen Substanz vermittelnden Negation des einzelnen [p. 280] Intensität welche höchste, das Seyn hat, und damit alles Daseyn einer Welt als 1 ein Nichtiges und Aufzuopferndes betrachtet, hat die sittliche Substanz die Bedeutung der absoluten Macht und absoluten Seele, und des Wesens der Natur ebenjowohl als des Geistes erhalten. §. 455.
 
 Since subjective singularity regards itself, in its free externalization, namely the negation, mediating the subsistence of the ethical substance, of the singular [p. 280] immediate life — the highest intensity that being has — and thereby all determinate being of a world, as a nullity and something to be sacrificed, the ethical substance has received the meaning of absolute power and absolute soul, and of the essence of nature as well as of spirit.
 
-> lung durch, diese die erste Substanz der nur sich als aufhebenden concrete Einzeln Vermitte- =
+> Die Diremtion dieser allgemeinen und reinen Subtanz des Geistes ist daher das Urtheil in sich und in ein
 
 §. 455.
 
-> heit, der Geist ist. § 468. Im. Besonderheit als
+> Wissen, sür welches sie als solche ist. a. Die Religion der Kunst.
 
 The diremption of this universal and pure substance of spirit is therefore the judgment *into itself and into a knowing*, for which it is as such.
 
-> dem Urtheil 2), zu dem die der Einzelnheit überhaupt aber sich ent-
+> §. 456.
 
 a.
 
-> flexion schließt,, ist oder dieß selbst concrete wieder ewige in Wesen dem Momente das Vorausgesekte der Re-,
+> Die unmittelbare Gestalt dieses Wissens ist die der Anschauung und Vorstellung des absoluten Geistes
 
 ##### The Religion of Art.
 
-> und seine Zerfallen Bewegung ewigen ist, die Moments wirkliche Erschaffung Vermittlung, oder,
+> als des Ideals.
 
 §. 456.
 
-> das des einigen Sohnes des, in den selbstständigen der Gegensak, nemlich einerseits des Himmels und der Erde, der ele mentarischen und concreten Natur, andererseits des
+> 457 §.. 12 Die Bedeutung des Ideals ist die Substantialität als das identische und concrete Wesen der Natur und,
 
 The immediate shape of this knowing is that of the *intuition* and *representation* of absolute spirit as the *ideal*.
 
-> Geistes als mit ihr im Verhältniß stehend, somit
+> des Geistes welches concrete Wesen Gott genannt wird. Der Beweis, daß diese Bedeutung
 
 §. 457.
 
-> des endlichen Geistes, welcher als das Extrem der in sich seyenden Regativität sich zum Bösen verselbstständigt, und unmittelbar solches Extrem durch seine Beziehung auf eine gegenüberstehende Natur und seine damit gesekte eigene Natürlichkeit ist.. §. 469.  1 3) Im Momente der Einzelnheit als solcher, nemlich der Subjectivitat und des Begriffes selbst, als des in seinen identischen Grund zurückgekehrten Gegensakes a der Allgemeinheit Voraussetzung und Besonderheit allgemeine, tellt sich Subal-
+> , die absolute Wahr = Heit ist die Vermittlung welche die Natur sich, ist,, durch zum Geiste und der Geist seine Subjectivität durch seine Thätigkeit zum absoluten Geiste aufgehoben und da-, mit denselben als feinen Lesten Grund, hiemit, weil diese Vermittlung an ihr selbst ebensosehr das Aufheben der Vermittlung des Gegensakes 72 74-,. S.,, ist (, 105..uf..f) als sein absolut Erstes weiß 4.§ 458.
 
 The *meaning* of the ideal is substantiality as the identical and concrete essence of nature and of spirit, which concrete essence is called *God*. The *proof* that this meaning is the absolute truth is the mediation through which nature has sublated itself to spirit, and spirit its subjectivity through its activity to absolute spirit, and thereby knows the latter as its *last* ground, hence, since this mediation is in itself just as much the sublating of the mediation, of the opposition (§§ 72, 74–105, etc.), as its *absolutely first*.
 
-> ſtanz so) aus die ihrer Abstraction als zum die einzelnen Selbstbe =
+> 9
 
 §. 458.
 
-> wußtseyn verwircklicht dar, so wie dieses als unmittelund bar für identisch sich aufgehoben mit dem; Wesen aber, ferner das Böse diese unmittelbare somit als an [p. 281] Concretion in den absoluten Schmerz der Negativi tät ersterbend, und als in derselben identisch mit sich, somit aus derselben als absolute Rükkehr und allgemeine Einheit der allgemeinen und einzelnen Wesene heit für sich geworden, die Idee des als ewigen
+> Weil dieses Wissen zunächst selbst ein unmittelbares ist, und insofern es sich in dieser Bestimmtheit der Une [p. 281] mittelbaren Daseyns eines elementarischen oder concre, = 1 tern Natur- Seyns, oder des entgegengesekten, des reinen Denkens..$ 459. Die Wahrheit aber jener unmittelbaren Gestalt und dieser gestaltlosen Negativität des Disseits und
 
 Because this knowing is at first itself an immediate one, and insofar as it holds itself in this determinacy of immediacy, [p. 281] the *determinate shape* of God too is, for it, at first the *abstract* one of an immediate determinate being, of an elemental or more concrete *natural being*, or of the opposite, of pure *thinking*.
 
-> aber lebendigen und wirklichen Geistes.
+> , des Jenseits, ist die
 
 §. 459.
 
-> §. 470. B) Diese Totalität ist, weil sie selbst noch in der Sphäre der Reflexion ist, die an sich seyende oder Voraussebung, und ihr steht die Trennung und endliche Unmittelbarkeit der einzelnen Subjectivität gegen über. Für diese ist jene erste Voraussekung und deren Bewegung zunächst ein anderes und angeschautes aber die Anschauung seiner an sich seyenden Wahrheit,
+> aus dem Geiste geborne concrete Gestalt, in welcher Unmittelbarkeit nur die natürliche als Zeichen des von ihrer Zufälligkeit be- - Gedankens, frent und die zu ihn seinem Ausdruck so durch selbst verklärt an ihr zeigt die ist daß Gestalt sonst nichts anderes,;
 
 The truth, however, of that immediate shape and of this shapeless negativity, of *this world* and of the *beyond*, is the concrete shape born of spirit, in which natural immediacy is, only as a *sign* of the thought, freed from its contingency and so transfigured, through the thought itself, into its expression that the shape shows nothing else in it; — the shape of *beauty*.
 
-> wodurch ren Natur dieses sich endliche für sich Subject als das wegen Nichtige seiner und unmittelba Böse be-
+> Gestalt der Schönheit. P
 
 §. 460.
 
-> stimmt. Es ist darum, nach dem Beyspiel seiner Wahr heit, die Bewegung, seiner unmittelbaren Naturbestimmtheit und des eignen Willens sich zu entäussern, und mit jenem in dem Schmerze der Negativität, in der allgemeinen Abstraction, sich zu vereinigen, und so als identisch mit dem Wesen sich zu erkennen, welches y) durch
+> §. 460. Insofern die Schönheit überhaupt die Durchdrin- 1 gung der Anschauung oder des Bildes durch den Gedanken, und der vorbildliche Gedanke ist, ist sie etwas Formelles, und der Inhalt des Gedankens eben so wie der Stoff den, er zu seiner Einbildung gebraucht, kann zunächst von der verschiedensten Art seyn. §. 461. Insofern aber die Form ihren wahrhaften Inhalt,
 
 Insofar as beauty is, in general, the penetration of the intuition or of the image by the thought, and is the archetypal thought, it is something *formal*, and the content of the thought, just like the material that it uses for its imaging, can at first be of the most various kinds.
 
-> diese seyn bewirkt Vermittlung und sich als inwohnend allgemeine im. Geist Selbstbewußtist
+> jene Durchdringung selbst, die geistige Substanz in ihrer absoluten Bedeutung §.457 ift
 
 §. 461.
 
-> der wirkliche. §. 471. Die Offenbahrung des Absoluten, welche dessen Leben in einem Kreislauf concreter Gestalten der Vorstellung darstellt, nimmt dieselben aus ihrer auseinander tretenden Selbstständigkeit, und zeitlichen und äus serlichen Aufeinanderfolge in diesem ihrem lekten Resultat als dem Wahren und Wirklichen, in den allge meinen ser, einfachen und ewigen ist die Geist zusammen Gegenstand; in die-
+> in in sich hat, so,), (. jedoch um der Unmittelbarkeit willen welcher dieses Wissen Anschauen oder bildliches Vorstellen ist, die Gestalt theils insofern endlich, als das Seyn ein unmittelbares und damit ein äusserlicher Stoff theils ist, weil damit der Inhalt nur ein besonderer Volksgeist ist. "
 
 Insofar, however, as the form has within itself its true content, that penetration itself, the spiritual substance in its absolute meaning (§ 457), the *shape* is nevertheless, for the sake of the immediacy in which this knowing is *intuiting* or *pictorial representing*, partly *finite* insofar as being is an immediate and thereby an external material, partly because the content is thereby only a *particular national spirit*.
 
 [p. 282]
 
-> Die Philosophie. §. 472.  Sie ist insofern die Einheit der Kunst und der Religion, als die einfache Anschauung und substantielle Production der Erstern durch das Auseinandergehen und die Vermittlung der Zweyten, zum selbstbewußten Dens ken erhoben ist. In diesem Elemente reinigt sich die selbstbewußte Idee ebensosehr von ihrer ersten Unmittele barkeit als auch von dem Scheine des Geschehens, der Zufälligkeit und des Ausserund Nacheinanderseyns, den ihr Inhalt im zweyten hat. Dieß Wissen ist somit der Begriff der Kunst und Religion, in welchem das dieß in Nothwendige jenem Inhalte und Verschiedene das Unmittelbare als nothwendig als frey, und er
+> Daß diese Existenz Product des die Idee erfassen. den und zur äusserlichen Darstellung bringenden Subjects
 
 §. 462.
 
-> kannt ist.
+> gehört nicht zu ihrer Endlichkeit denn das Subject ist ist,; nur das rein Formelle der Thätigkeit, und das Kunstwerk ist nur dann Ausdruck des Gottes, wenn kein Zeichen von subjectiver Besonderheit darin, son- - dern Geist des Volkes sich ohne solche der inwohnende Benmischung und von deren Zufälligkeit unbefleckt empfangen und herausgebohren hat Die Vermittlung., durch den Schmerz und die Thätigkeit eines Subjects hindurchgegangen und zur Gestalt gekommen zu seyn, ist unmittelbar aufgehoben; das Werk stellt die Substanz des Subjects dar, und der Geburtsschmerz ist eben diese absolute Entäusserung und Negativität der subjectiven Besonderheit. t 1 §. 463.
 
 That this existence is the *product* of the subject that grasps the Idea and brings it to external presentation does not belong to its finitude; for the subject is only the *purely formal* element of the activity, and the *work of art* is expression of God only if no sign of subjective *particularity* is in it, but the indwelling spirit of the nation has conceived and given birth to itself without such admixture and unstained by its contingency. — The mediation, of having passed through the pain and the activity of a subject and come to shape, is immediately sublated; the work presents the *substance* of the subject, and the birth-pain is precisely this absolute externalization and negativity of subjective particularity.
 
-> J. 473. af Dieß Erkennen von der Nothwendigkeit des Inhalts der absoluten Vorstellung, so wie von der Nothwendigkeit der beyden Formen, der unmittelbaren Anschauung und ihrer Poesie einerseits, und andererseits der voraussehenden Vorstellung, der objectiven und ausserlichen Ofsenbarung, und der subjectiven Hinbe- 1 wegung und innern Identificirens des Glaubens mit derselben, das Anerkennen des Inhalts und der Form, und die Befreyung von diesen Formen findet sich schon vollbracht, indem die Philosophie am ihr Schluß
+> Insofern nun aber das Bild des Gottes als unmit
 
 §. 463.
 
-> zurück ihren eigenen sieht. Begriff erfaßt, d. i. nur auf Wissen
+> telbar vorhandenes ist das Verhältniß der Andern, so ist, = getrieben von ihrem ansichsenenden Wesen Cultus, im durch die Andacht der Versenkung, den Gedanken in, ihrer eigenen Subjectivitat sich entäussern von ihrer be-, sondern Wirklichkeit symbolisch aufzuopfern und der, in Begeisterung und im Genusse sich ihrer Identität mit der Substanz bewußt werdenzu welche dadurch ihre äusser-, J liche Gestalt verliert und ebenso ihre der Substantialiin tät nur innerliche Subjectivitat als ein allgemei
 
 Insofar as the image of God is now, however, as an immediately present one, then the relationship of the others, driven by their essence that is in itself, is, in the *cult*, through *devotion*, the immersion in the thought, to divest themselves of their own subjectivity, to sacrifice of their particular actuality symbolically, and in enthusiasm and in enjoyment to become conscious of their identity with the substance, which thereby loses its external shape and just as much puts its subjectivity, only *inner* in substantiality, out into determinate being as a *universal knowing*.
 
-> D. 474. Dieser ihr Begriff ist die sich denkende Idee, die wissende Wahrheit ( §. 183.) oder das Logische mit
+> nes Wissen heraus ins Daseyn versest. t §. 464.: ١١٠
 
 §. 464.
 
-But in world history absolute spirit sublates this finitude of its knowing actuality, the limited determinate being of its Idea, which in and for itself passes over into
+> In der Weltgeschichte hebt aber der absolute Geist 1 be diese Endlichkeit seiner wissenden Wirklichkeit, dasschränkte Daseyn seiner Idee auf, das an und für sich in [p. 283] unmittelbaren Wissens und Daseyns, in das sich vermittelnde Wissen, in ein Daseyn, das selbst Wissen ist, in das Offenbaren übergeht.: b.
 
-[p. 283]
+But in world history absolute spirit sublates this finitude of its knowing actuality, the limited determinate being of its Idea, which in and for itself passes over into [p. 283] universality, just as the form of intuition, of immediate knowing and determinate being, passes over into the self-mediating knowing, into a determinate being that is itself knowing, into the *revealing*.
 
-> der Bedeutung, daß es die im concreten Inhalte b'es währte Allgemeinheit ist Die Wissenschaft ist auf diese Weise in ihren Anfang. zurückgegangen, und das A Logische ihr Resultat; die Voraussetzung ihres 1
-
-universality, just as the form of intuition, of immediate knowing and determinate being, passes over into the self-mediating knowing, into a determinate being that is itself knowing, into the *revealing*.
-
-> aufgehoben Seite der., sie darin an ihr hatte, ist
+> Die geoffenbarte Religion.
 
 b.
 
 ##### The Revealed Religion.
 
-> §. 475.
+> §. 465. Der absolute Geist in dieser Stuffe der aufgehobe
 
 §. 465.
 
-> Diese Erscheinung macht zuerst der Schluß aus, welcher das Logische zum Grunde als ersten Ausgangspunkte, und die Natur zur Mitte hat, die den Geist mit demselben zusammenschließt. Das Logische wird zur Natur, und die Natur zum Geiste. Die Natur, die zwischen dem Geiste und seinem Wesen steht, trennt sie zwar nicht zu Extremen endlicher, Abstraction; denn der Schluß ist in der Idee, und die Natur wesentlich nur als Durchgangspunkt und negatives Moment bestimmt; aber die Vermittlung des Begriffs hat die äusserliche Erscheinung der Form des Uebergehens, und Wissenschaft die eines Senns.
+> nen Unmittelbarkeit seiner Gestalt und seines Wissens,,= somit auf der Stuffe der Reflexion einerseits an, ist und für sich senender allgemeiner Geist der Natur und Geistes für die Vorstellug ist, aber andererseits, er; die Subjectivität des Wissens weil Reflexion sie ist, giebt den Momenten seines Lebens deren Totalität, er wesentlich,Selbstständigkeit ist und macht gegen, sie einander zu Voraussetzungen und aufeinander folgenden Erscheinungen, und einem Zusammenhang des Geschehens nach endlichen Reflexionsbestim mungen. §. 466. In ihrem Trennen scheidet die Reflexion die Form
 
 Absolute spirit in this stage of the sublated immediacy of its shape and of its knowing, thus at the stage of *reflection*, is on the one hand *universal* spirit of nature and of spirit, being in and for itself, but on the other hand it is for *representation*; the subjectivity of knowing, because it is reflection, gives to the moments of spirit's life, whose totality spirit essentially is, independence, and makes them, against one another, into presuppositions and *successive* appearances, and into a connection *of occurrence according to finite determinations of reflection*.
 
-> §. 476.
+> von dem Inhalte, und in jener die unterschiedenen
 
 §. 466.
 
-> Diese Erscheinung ist im zweyten Schlusseaufgehoben, in welchem der Geist das Vermittelnde ist; ein Schluß, der bereits der Standpunkt des Geistes selbst ist, welcher die Natur voraussekt und sie mit dem Logischen zusammenschließt. Es ist der Schluß
+> Momente des Begriffes als besondere Sphären oder abderen jeder sich der absolure Inhalt in Elemente, darstellt. 1 §. 467.
 
 In its separating, reflection separates the *form* from the *content*, and in the former the distinct moments of the Concept off, as *particular spheres* or elements, in each of which the absolute content presents itself.
 
-> als der Reflexion ein subjectives in Erkennen der Idee;. die Wissenschaft erscheint
+> 1) In dem Momente der Allgemeinheit, der
 
-§. 467.
+> Sphäre des reinen Gedanken oder dem abstracten Eles mente des Wesens ist es also der absolute Geist wel-, cher zuerst das Vorausgesekte, als substantielle Macht in der Reflexionsbestimmung der Causalität P, Schöpfer Himmels und der Erde ist, aber in dieser [p. 284] erzeugt, dessen Erzeugt oder Gesektwerden aber ebenfo schlechthin aufgehoben und ewiges Seyn des Begriffes ist, fo wie dessen Bestimmung das von dem allgemeinen, Wesen unterschiedene zu seyn, sich ewig aufhebt, und durch diese Vermittlung der sich aufhebenden Vermittelung die erste Substanz nur als concrete Einzeln =,, heit der Geist ist. §. 468.
+
+§. 467. [p. 284] eternal sphere rather generates itself only as its *Son*, whose being-generated or being-posited, however, is just as much absolutely sublated and eternal being of the Concept, just as its determination, to be what is distinct from the universal essence, eternally sublates itself, and through this mediation of the self-sublating mediation the first substance only as *concrete singularity*, — is *spirit*.
+
+> 2) Im Momente der Besonderheit aber als
 
 1) In the moment of *universality*, the sphere of pure *thought* or the abstract element of *essence*, it is therefore absolute spirit that is at first the *presupposed*, as *substantial power* in the determination of reflection of causality, *creator* of heaven and earth, but in this
 
-> §. 477. Diese Erscheinungen sind in der Idee der Philosophie aufgehoben, welche die sich wissende Vernunft, das, absolut = Algemeine zu ihrer Mitte hat, die sich in Geist und Natur entzweyt, 1 jenen
-
-[p. 284]
-
-> zur Voraussekung, und diese zum allgemeinen Extre me macht. Als solches ist die Natur unmittelbar nur ein Gesektes, so wie der Geist eben dieß an ihm selbst, nicht die Voraussekung sondern die in sich zurückgekehrte Totalität zu seyn. Auf diese Weise hat die Mitte, der wissende Begriff, schlechthin solche, welche als Begriffsmomente sind, zu seiner Realität und ist als das allgemeine in seiner Bestimmtheit un-
-
-eternal sphere rather generates itself only as its *Son*, whose being-generated or being-posited, however, is just as much absolutely sublated and eternal being of the Concept, just as its determination, to be what is distinct from the universal essence, eternally sublates itself, and through this mediation of the self-sublating mediation the first substance only as *concrete singularity*, — is *spirit*.
-
-> mittelbar bey sich bleibende Wissen.
+> dem Urtheil, zu dem die Einzelnheit überhaupt sich entschließt,, oder selbst wieder in dem Momente der Reflexion ist dieß concrete ewige Wesen das Vorausgesekte, und seine Bewegung ist die wirkliche Erschaffung, oder, das Zerfallen des ewigen Moments der Vermittlung des einigen Sohnes den selbstständigen Gegensak, in,, nemlich einerseits des Himmels und der Erde, der ele mentarischen und concreten Natur, andererseits des Geistes als mit ihr im Verhältniß stehend, somit des endlichen Geistes, welcher als das Extrem der in sich seyenden Regativität sich zum Bösen verselbstständigt, und unmittelbar solches Extrem durch seine Beziehung auf eine gegenüberstehende Natur und seine damit gesekte eigene Natürlichkeit.. ist §. 469. 1 3
 
 §. 468.
 
 2) In the moment of *particularity*, however, as the judgment to which singularity in general resolves itself, or itself again in the moment of reflection, this concrete eternal essence is the presupposed, and its movement is the actual creation, or the falling apart of the eternal moment of mediation, of the one Son, into the independent opposition, namely, on the one hand, of heaven and earth, of elemental and concrete nature, on the other hand, of spirit as standing in *relationship* with it, thus of finite spirit, which, as the extreme of negativity that is within itself, makes itself independent into *evil*, and is immediately such an extreme through its relation to an opposed nature and its own naturalness thereby posited.
 
-> LIBRARY OF THE UNIVERSITY C. CALIFORNIA
+> ) Im Momente der Einzelnheit als solcher,
 
 §. 469.
 
 3) In the moment of *singularity* as such, namely, of subjectivity and of the Concept itself, as the opposition of universality and particularity returned into its *identical ground*, there presents itself thus α) the *presupposition* as the *universal* substance realized out of its abstraction to *singular* self-consciousness, just as this as *immediately identical* with the essence, evil thus as sublated in and for itself; but further this immediate
 
-> Druck und Papier von C. E. Brede in Offenbach.
+> nemlich der Subjectivitat und des Begriffes selbst als des, in seinen identischen Grund zurückgekehrten Gegensakes der Allgemeinheit und Besonderheit, tellt sich ala so) Voraussetzung als die allgemeine Subdie ſtanz aus ihrer Abstraction zum einzelnen Selbstbewußtseyn verwircklicht dar, so wie dieses als unmittelbar identisch mit dem Wesen das Böse somit als an, und für sich aufgehoben aber ferner diese unmittelbare;
 
 [p. 285]
 
@@ -5638,57 +5594,59 @@ The revelation of the absolute, which presents its life in a cycle of concrete s
 
 [p. 286]
 
-> WILL AN INITIAL BE ASSESSED FINE FOR FAILURE OF 25 TO CENTS RETURN
+> §. 472. Sie insofern die Einheit der Kunst und der Re-
 
 c.
 
 ##### Philosophy.
 
-> THIS WILL BOOK INCREASE ON THE TO 50 DATE CENTS DUE ON. THE THE PENALTY FOURTH
+> ist
 
 §. 472.
 
-> DAY OVERDUE AND. TO $ 1.00 ON THE SEVENTH DAY  MAR LD CLF AND  3/26/3 SEP 2363-6 PM FEB 23 1967 88 NOV 24 1937 23 March   RECEIVED OCT 25 1988
+> ligion,als die einfache Anschauung und substantielle Production der Erstern durch das Auseinandergehen und die Vermittlung der Zweyten zum selbstbewußten Dens, ken erhoben In diesem Elemente reinigt sich die ist. selbstbewußte Idee ebensosehr von ihrer ersten Unmittele barkeit als auch von dem Scheine des Geschehens der, Zufälligkeit und des Ausserund Nacheinanderseyns den ihr Inhalt zweyten hat imDieß Wissen ist so-, mit der Begriff der Kunst und Religion. welchem, in das in jenem Inhalte Verschiedene als nothwendig und, dieß Nothwendige und das Unmittelbare als frey er
 
 It is the unity of art and religion insofar as the simple intuition and substantial production of the former, through the diverging and the mediation of the latter, has been raised to self-conscious thinking. In this element the self-conscious Idea purifies itself just as much of its first immediacy as also of the semblance of occurrence, of contingency and of being outside and after one another, which its content has in the second. This knowing is thus the *Concept* of art and religion, in which what is different in that content is cognized as necessary, and this necessary and the immediate as free.
 
-> MAR 2167-3 PM
+> kannt ist
 
 §. 473.
 
-> 8Apr 59 CG DEPT. REC'D LD LOAN   APR 22 1959 APR 4 1967  1 May 23 Mar 61 MW LD PM REC'D MAY 1667-10, REGO LO
+> . J. 473. af Dieß Erkennen von der Nothwendigkeit des Inhalts der absoluten Vorstellung, so wie von der Nothwendigkeit der beyden Formen, der unmittelbaren Anschauung und ihrer Poesie einerseits, und andererseits der voraussehenden Vorstellung der objectiven und aus-, serlichen Ofsenbarung, und der subjectiven Hinbe- 1 wegung und innern Identificirens des Glaubens mit derselben, das Anerkennen des Inhalts und der Form, und die Befreyung von diesen Formen findet sich schon vollbracht, indem die Philosophie am Schluß ihren eigenen Begriff erfaßt, d. i. nur auf ihr Wissen
 
 This cognition of the necessity of the *content* of absolute representation, as well as of the necessity of the two *forms*, of immediate intuition and its *poetry* on the one hand, and on the other of presupposing representation, of objective and external *revelation*, and of the subjective movement toward and inner identifying of *faith* with it, the *recognition* of the content and of the form, and the *liberation* from these forms, finds itself already accomplished, in that philosophy at the close grasps its own Concept, i.e. only *looks back* on its knowing.
 
-> MAY Apr 630B
+> zurück sieht.
 
 §. 474.
 
-> 27 LD 21-100m - 8, '34 [p. 287] B2915  1817 33135
+> D. 474. Dieser ihr Begriff ist die sich denkende Idee, die wissende Wahrheit ( §. 183.) oder das Logische mit [p. 287] währte Allgemeinheit Die Wissenschaft ist.auf A ist diese Weise ihren Anfang zurückgegangen in und das 1, Logische ihr Resultat die Voraussetzung ihres; Begriffs oder die Unmittelbarkeit ihres Anfangs und die, Seite der Erscheinung, die sie darin an ihr hatte, ist aufgehoben.
 
 This its Concept is the Idea *thinking* itself, the knowing truth (§ 183) or the logical with [p. 287] the meaning that it is the universality *verified* in the concrete content. Science has in this way returned into its beginning, and the logical is its *result*; the *presupposition* of its Concept or the immediacy of its beginning, and the side of *appearance* which it had in it, is sublated.
 
-> UNIVERSITY CALIFORNIA LIBRARY
+> §. 475. Diese Erscheinung macht zuerst der Schluß aus
 
 §. 475.
 
-> OF
+> , welcher das Logische zum Grunde als ersten Ausgangspunkte, und die Natur zur Mitte hat, die den Geist mit demselben zusammenschließt Das Logische. wird zur Natur und die Natur zum Geiste, Die. Natur die zwischen dem Geiste und seinem Wesen steht;,, trennt sie zwar nicht zu Extremen endlicher Abstraction, denn der Schluß ist in der Idee, und die Natur wesentlich nur als Durchgangspunkt und negatives Moment, die bestimmt; aber die Vermittlung des Begriffs hat äusserliche Erscheinung der Form des Uebergehens
 
 This appearance is constituted first by the *syllogism* which has the *logical* as ground, as first point of departure, and *nature* as middle term, which joins *spirit* together with it. The logical *becomes* nature, and nature spirit. Nature, which stands between spirit and its essence, does indeed not separate them into extremes of finite abstraction; for the syllogism is *in the Idea*, and nature is determined essentially only as point of passage and negative moment; but the mediation of the Concept has the external appearance of the form of *passing over*, and science that of a *being*.
 
+> und Wissenschaft die eines Senns.
+
 §. 476.
+
+> §. 476. - Diese Erscheinung ist im zweyten Schlusse aufgehoben, in welchem der Geist das Vermittelnde ist; ein Schluß, der bereits der Standpunkt des Geistes selbst ist, welcher die Natur voraussekt und sie mit dem Logischen zusammenschließt. Es ist der Schluß der Reflexion in der Idee; die Wissenschaft erscheint als ein subjectives Erkennen.
 
 This appearance is sublated in the *second syllogism*, in which spirit is the mediating; — a syllogism that is already the standpoint of spirit itself, which *presupposes* nature and joins it together with the *logical*. It is the syllogism of *reflection* in the Idea; science appears as a subjective *cognition*.
 
+> §. 477.
+
 §. 477.
 
-These appearances are sublated in the Idea of philosophy, which has as its *middle term* the *self-knowing reason*, the absolutely universal, which divides itself into *spirit* and *nature*, and makes the former
+> Diese Erscheinungen sind in der Idee der Philosophie aufgehoben, welche die sich wissende Vernunft, das, absolut = Algemeine zu ihrer Mitte hat, die sich in Geist und Natur entzweyt 1, jenen [p. 288] me macht. Als solches ist die Natur unmittelbar nur ein Gesektes, wie der Geist eben dieß so ihm an selbst nicht die Voraussekung sondern die, sich zuin rückgekehrte Totalität zu seyn. Auf diese Weise hat die Mitte, der wissende Begriff, schlechthin solche, welche als Begriffsmomente sind, zu seiner Realität und ist als das allgemeine in seiner Bestimmtheit unmittelbar bey sich bleibende Wissen. LIBRARYOF THE UNIVERSITY C.
 
-[p. 288]
-
-> me macht. Als solches ist die Natur unmittelbar nur ein Gesektes, wie der Geist eben dieß so ihm an selbst nicht die Voraussekung sondern die, sich zuin rückgekehrte Totalität zu seyn. Auf diese Weise hat die Mitte, der wissende Begriff, schlechthin solche, welche als Begriffsmomente sind, zu seiner Realität und ist als das allgemeine in seiner Bestimmtheit unmittelbar bey sich bleibende Wissen. LIBRARYOF THE UNIVERSITY C.
-
-its presupposition and the latter the universal extreme. As such, nature is immediately only something posited, just as spirit, in its own self, is precisely this: to be not the presupposition but the totality returned into itself. In this way the middle, the knowing Concept, has as its reality simply those which are as moments of the Concept, and is the knowing that, as the universal, remains immediately with itself in its determinacy.
+These appearances are sublated in the Idea of philosophy, which has as its *middle term* the *self-knowing reason*, the absolutely universal, which divides itself into *spirit* and *nature*, and makes the former [p. 288] its presupposition and the latter the universal extreme. As such, nature is immediately only something posited, just as spirit, in its own self, is precisely this: to be not the presupposition but the totality returned into itself. In this way the middle, the knowing Concept, has as its reality simply those which are as moments of the Concept, and is the knowing that, as the universal, remains immediately with itself in its determinacy.
 
 > CALIFORNIA Druck und Papier von C. E. Brede in Offenbach.
 

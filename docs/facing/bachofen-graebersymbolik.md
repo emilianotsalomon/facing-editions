@@ -2,11 +2,12 @@
 title: Versuch über die Gräbersymbolik der Alten
 title_en: Essay on the Tomb Symbolism of the Ancients
 author: J. J. Bachofen
-year: 1859 (2nd ed. 1925)
+year: 1859
+edition: 2nd ed., Basel 1925
 original_language: de
 translation_language: en
 edition_layout: photocopy (scan beside the English)
-source: recovered from the PDF ‘Bachofen - Versuch über die Gräbersymbolik der Alten (DE-EN facing).pdf’ (the page files were not kept) — THIS FILE IS THE SOURCE, corrections go here
+source: recovered from the PDF ‘Bachofen - Versuch über die Gräbersymbolik der Alten (DE-EN facing).pdf’ (the page files were not kept)
 original_text: not in this file (scan only — see the PDF edition)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 450
@@ -14,9 +15,9 @@ genre: Myth and symbolism
 generated: 2026-10-24 by corpus.py
 ---
 
-# J. J. Bachofen, *Versuch über die Gräbersymbolik der Alten* (1859 (2nd ed. 1925)) — *Essay on the Tomb Symbolism of the Ancients*
+# J. J. Bachofen, *Versuch über die Gräbersymbolik der Alten* (1859) — *Essay on the Tomb Symbolism of the Ancients*
 
-Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong.
+Conventions: `[p. N]` marks where a printed page begins (its folio as printed); `[PDF N]` a page of the source PDF with no printed number; the English only; the original is not in this edition (see the scan in the PDF edition); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml.
 
 [PDF 1]
 
@@ -26,17 +27,13 @@ Ancient Mortuary Symbolism
 
 An Essay on
 
-Ancient Mortuary Symbolism
-
-by
+Ancient Mortuary Symbolism by
 
 J. J. Bachofen
 
 Second, unaltered edition
 
-With a foreword by C. A. Bernoulli
-
-and an appreciation by Ludwig Klages
+With a foreword by C. A. Bernoulli and an appreciation by Ludwig Klages
 
 Basel, 1925
 
@@ -124,9 +121,7 @@ Columella R. R. 8, 5. med. makes mention. Cum deinde quis volet quam plurimos ma
 
 1) The round end is the female, the pointed the male. Hence the belief of which
 
-[PDF 19]
-
-—5—
+[p. 5]
 
 a quite small round body, which repeats itself on the topmost step in a pair. A certain determination is not readily possible. But I scarcely doubt that we have before us here nuts, whose natural significance is indeed generally known. However that may be, as to the egg and its double dark and light coloring the evidence of the eye admits of no doubt. — What the monuments represent pictorially, written testimonies also mention. Mercury was represented in pictures with a half-black, half-white pileus. This is attested by Albericus Philosophus, de Deorum imagin. 6., who, though he belongs to the Middle Ages, nevertheless draws on a good older source. — de viro in fœminam et de fœmina in masculum se mutabat, cum volebat: et ideo pingebatur cum utroque sexu. De albis vero nigra et de nigris alba faciebat, quod ostenditur per eius pileum semialbum et seminigrum.1) The same idea is transferred to Mercury’s son Autolycus, whose art of turning black into white and white into black is emphasized by Ovid Met. 11, 314, Nat. 5, 5, Hygin. f. 201. Philostratus tells in the Life of Apollonius 3, 3 that in the swamps of the Hyphasis that philosopher found a woman who from the head to the breast had been black, from the breast to the feet quite white. She was consecrated to the Indian Aphrodite, and as to Apis in Egypt, so to this goddess a variegated woman is born. Particularly significant is what Hyginus f. 4 reports of the Ino of Euripides. She bears twins to Athamas, as does Themisto. Jealousy drives the latter to consecrate Ino’s children to destruction. The twins destined for death are to be covered with black garments, Themisto’s children with white. But Ino chooses the white garments for her own offspring, and puts the black ones on Themisto’s children. So Themisto slaughters her own sons, and then kills herself in despair. The meaning of the double color emerges in this narrative with full certainty. Black belongs to the realm of shadow, white to that of light. The significance continues in the ficus nigra and ficus alba, and here it is all the more noteworthy the higher the position that the fig tree occupies in the ancient nature religions, especially in the phallic cult of Dionysus. According to Veranius de verbis pontificalibus the ficus alba belongs to the felices arbores, the ficus nigra, according to the ostentarium Thuscum or arborarium, to the infelices.2) The opposition of white and black can be traced on a great number of funerary vases, in the most various
 
@@ -136,9 +131,7 @@ right egg. Gori p. 143. thinks of the globus terrestris, which according to the 
 
 2) Macrob. Sat. 2, 16; 3, 7.
 
-[PDF 20]
-
-—6—
+[p. 6]
 
 most various applications. On a vase picture in Passeri, Picturæ Etruscor. in vascul. 3, 217, the genius of death, who appears behind the deathbed, shows the black color on the tunic, the shoes, and the wings, while the body itself is white.1) Elsewhere it is the fillets with which the funerary column is bound that appear alternately white and black.2) No less do white and black dolphins occur in connection with the κύματα, which show the same alternation of colors.3) The alternation of life and death, which forms the fundamental law of tellurian creation, has found its expression in this combination of colors. Hence it suits the Dioscuri in particular, who, precisely in this sense, ever relieving one another, lead day and night up into the sky.4) White and red appear the two horses on a funerary vase of the Cabinet Pourtalès-Gorgier, which Raoul-Rochette, monuments inédits p. 96, n. 1 mentions. The same appearance repeats itself in the hypogea of the Monterozzi of Corneto, the necropolis of ancient Tarquinii. We see here red and black, blue and light-yellow horses combined with one another.5) On another wall painting of the same city of tombs the two genii escorting the dead man to the underworld appear alternately black and white, as indeed the garment of the dead man himself shows the same combination of the two colors.6) This recalls the representation of Hypnos and Thanatos on the chest of Cypselus, where Thanatos appeared black, but Hypnos white.7) Aurora, who belongs to the realm of day, has white wings,8) as does the
 
@@ -166,9 +159,7 @@ fork-divided fillet of the above-mentioned vase of the Vienna Cabinet, with whic
 
 8) Euripid. Troad. 848–855.
 
-[PDF 21]
-
-—7—
+[p. 7]
 
 morning star,1) while night and Hesperus are represented with black ones.2) The same distinction extends also into the auguries. Two eagles appear to Agamemnon, the one in front in black plumage, the one following him in snow-white pinion.3) The white raven Apollo changes into a black one because it did not watch over Coronis.4) Artemidorus tells of two ravens that appear on the Samnite women’s island at the outflow of the Liger and there fight with one another. They have the right wing half white.5) Significant is the feature of their myth that the one that is defeated wins.6) That is to say, death is the precondition of life; the loser gains, as in the game of dice that the temple servant offers Heracles, where the one who loses is enriched.7) The distribution of white and black over life and death repeats itself in many individual phenomena. White garments are put on at birthday festivals,8) the aged priestess who serves the cult of the Elean Sosipolis veils head and face with a white veil. With his cult that of Eileithyia is connected, for she has borne him into the light.9) As here the white color indicates life and birth, so black is that of death and mourning. Paulus, Receptæ sententiæ 1, 21, 14: Qui luget, abstinere debet a conviviis, ornamentis, purpura et alba veste.10) As the color of mourning black appears in Lactant. de mortib. persecutor. 39. Particularly instructive on this is the funerary banquet of Domitian, at which, according to the description of Dio Cassius 67, 9, not only the equipment and the hall itself but also the genii of death appeared clothed in black. The atratus senex is for Galba a messenger of death,11) and with this one may compare the vision of Brutus before the battle at Philippi.12) Black is therefore the genius of death whom Lucian describes in Philopseud. 31. 32. V. 7, 283–285. Ed. Bipont., on which the scholiast remarks that the dead were enveloped in black garments. Black-robed
 
@@ -198,9 +189,7 @@ morning star,1) while night and Hesperus are represented with black ones.2) The 
 
 12) Plutarch, Brut. 36, 48.
 
-[PDF 22]
-
-—8—
+[p. 8]
 
 is the king of the dead called in Euripid. Alcest. 843., and with this Orest. 457, Hecub. 705,1) as well as Aeschyl. Coëphoren 9, agree. Black is the mourning sail of the Theseian ship in Pausan. 1, 22, 5. The underworld Osiris, whom the Egyptians worshiped under the name of Serapis, is painted with black colors as king of the realm of the dead.2) To the dark gods of the underworld is consecrated the atra cupressus, which, once cut down, never greens again, whose shade brings death, and which is planted before the houses of the dead.3) Cæruleus Cato calls the color of mourning, which Servius explains by ater. Black are the funerary vessels; so they appear, bound about with white fillets, on a vase picture in Raoul-Rochette monum. t. 30; so the Apollonian omphalos, adorned with black and white fillets, ibid. t. 37. In an inscription in Fornerius, rer. quotid. 2, 27 we read: mortuum me quoque funerari jussi rebus lugubribus quibus vivos paravi lecto stragulis forensi penula, nigris omnibus. Hence the black ground color of so many funerary vases, and the black funerary ware of the Chiusine tombs, which adorns our museums in such great number. In other places white is raised to the color of mourning. Of Spartans, Messenians, Romans the ancients attest that the women wear white garments for mourning and that the body of the deceased is dressed in white.4) To Aristodemus his daughter appears clothed in black, and brings him white garments with a golden crown. In this he recognizes the foreboding of his destruction. When here the color of light is brought into connection with death, it is not the destruction of the body but the passage of the soul to life in the realm of light that is the guiding conception. “The corpse is adorned in this way,” says Plutarch, “because one cannot do so with the soul, and yet would gladly send it forth pure and shining, since it is now, after hard and manifold struggle endured, released from its bonds.”
 
@@ -230,9 +219,7 @@ Endymion amasse dicitur lunam: qui spretus pavit pecora candidissima et sic eam 
 
 5) Strabo 5, p. 244.
 
-[PDF 24]
-
-— 10 —
+[p. 10]
 
 unattainable to exhaust in words. May we not assume that the conversation which stirs the five ephebes of our tomb painting to such lofty earnestness and such lively participation was concerned precisely to unveil this side of the egg symbol? Certainly no subject is so fitting to the earnestness of the tomb as this one. Certainly no question is brought so near by death as that about the relation of the two poles between which all tellurian existence moves. Certainly, however, no symbol is more suited to raise the spirit beyond the limits of corporeal existence to the intimation of its own rebirth than that of the egg, which encloses life and death within itself, joins them both into an inseparable unity, and lets everything that has become invisible step forth anew into the light.1) That is indeed the lofty dignity and the fullness, rich in intimation, of the symbol, that it admits and even itself stimulates different stages of conception, and leads on from the truths of physical life to those of a higher spiritual order. Yet I do not wish to set up fictions, nor to let myself be carried further away in lending to our tomb company thoughts to which it has perhaps always remained a stranger.2) — I shall deserve better thanks if I here communicate, in its main outlines at least, a conversation that is handed down to us by an ancient author. As on our picture the egg forms the center of the conversation, so in Plutarch Senecio, Alexander, Sulla, and Firmus also make the egg again the subject of a conversation that touches upon the highest questions concerning the origination of the cosmos, as well as of material creation. I am far from the assumption that the artist to whom we owe our picture had precisely that conversation before his mind, and that he sought to depict that symposium pictorially with his brush.
 
@@ -244,9 +231,7 @@ the two-colored egg as the image of the law ruling the whole, even the lower, cr
 
 2) Although we are here first of all concerned with the nature of material life, and regard
 
-[PDF 25]
-
-— 11 —
+[p. 11]
 
 Yet no one will deny me this: that such a task, if it were set, could hardly have been solved more fittingly than in the present manner.
 
@@ -278,9 +263,7 @@ egg-mother, is called Volucrum parens in Lactant on Theb. 4, 226.
 
 4) Aves 699. with the Schol. The whole cosmogony, lines 693–704, is important. Venus, the
 
-[PDF 27]
-
-— 13 —
+[p. 13]
 
 flying and swimming animals, land animals like the lizards, amphibians like the crocodiles, two-footed ones like the hen, animals without feet, like the serpent, and many-footed ones too, like the locust.1) Ὅθεν οὐκ ἀπὸ τρόπου τοῖς περὶ τὸν Διόνυσον ὀργιασμοῖς, ὡς μίμημα τοῦ τὰ πάντα γεννῶντος καὶ περιέχοντος ἐν ἑαυτῷ, συγκαθωσίωται.”
 
@@ -298,9 +281,7 @@ close it. Horat. Sat. 1, 3, 6. Si collibuisset, ab ovo usque ad mala citaret, Io
 
 3) Plutarch Is. et Os. 29. Quæst. rom. 98. Pausan. 7, 26, 4; 8, 39, 4. Creuzer Symb. 4,
 
-[PDF 28]
-
-— 14 —
+[p. 14]
 
 symbolism and mythology such manifold expression as this. We recognize it in the rope of Ocnus-Aucnus, which the she-ass again and again devours; in the web of Penelope and of Tarchetius’s daughter,1) which is unraveled again every night; in the unoutwittable thieves of the Egyptian legend of Rhampsinitus, and in the game of dice with Demeter, in which the king alternately wins and loses:2) pictures of the eternally vain labor of nature, which knows how to bring about an eternal rejuvenation of the race only with the help of eternal destruction. We find it again in the ring of Gyges, which makes the unity of the two opposing potencies of natural force quite vivid through the unity of the ring, turned now inward, now outward.3) The same thing recurs in the conceptions of two contending horses and ravens mentioned above; in the ἑτερημερία4) of the Dioscuri, who have sprung from the same egg and in their antithetical union repeat the significance of the alternation of colors. On a line with them stands the Elean pair of brothers, the Molionidae. Sprung from one egg, they drive united the same two-horse team, inseparable as death and life, flying along unattainably swift as eternal becoming and passing away.
 
@@ -322,9 +303,7 @@ Aelian. V. H. 13, 38. Ilias 1, 302.
 
 6) Plutarch Qu. gr. 28.
 
-[PDF 29]
-
-— 15 —
+[p. 15]
 
 Σεμνοὺς παλίκους Ζεὺς ἐφίεται καλεῖν,
 
@@ -344,9 +323,7 @@ parentaretur, etsi ventus vehemens esset, tamen fumus se nunquam in unam partem 
 
 4) In Hutten 7, 329. ὁ τῆς γενέσεως ποταμός — ὁ τῆς φθορᾶς.
 
-[PDF 30]
-
-— 16 —
+[p. 16]
 
 et Os. 45, that there must be two distinct fundamental beings and opposed forces, of which the one leads to the right hand and straight on, while the other turns aside and drives back again.” Both are equally essential for the progress of generation. Therefore Isis grants freedom to the captive Typhon. She knows that the constant mixture of the two potencies is indispensable. Typhon may indeed be overcome, but not cleared out of the way. The struggle goes on eternally, and as often as Typhon is taken captive, he tears himself loose again and fights with Horus. “Horus, however, is the world surrounding the earth, in which origination and destruction alternate with one another.”1)
 
@@ -376,9 +353,7 @@ winged genius figures, which represent with great fidelity to nature the moment 
 
 5) Il. 16, 673.
 
-[PDF 31]
-
-— 17 —
+[p. 17]
 
 the best image of likeness. — So, too, that saying of the poet who calls sleep the lesser mysteries of death does not seem absurd.”1) Thus the twin pair of Death and Sleep has on sepulchral stelae, as on that of the Villa Albani, no other significance than the reciprocal murder of the Theban brothers, so often represented on Etruscan cinerary chests. They are the two forces that govern creation, devour one another, yet ever lead life back from the darkness to the light. The two Attines, on many gravestones, which Dr. Haak2) has so beautifully elucidated, attach themselves to the same idea, which also reemerges in the double scourge of the two Keres of death.3)
 
@@ -406,9 +381,7 @@ Two sayings which have all the more significance because the images of the wheel
 
 4) Similarly pp. 774–776.
 
-[PDF 32]
-
-— 18 —
+[p. 18]
 
 Orestes: Παῖδες γὰρ ἀνδρὶ κληδόνες σωτήριοι
 
@@ -458,9 +431,7 @@ one must remember the dwellers below at that time, when the earth is stirred up 
 
 4) Plutarch Qu. ro. 31. on the celebration of the offerings to the dead in December, “because
 
-[PDF 34]
-
-— 20 —
+[p. 20]
 
 This conception, then, which belongs to so many symbols and myths, underlies all ancient religion, and from which one learns less about the nature of the gods than about the physical relations of creation,1) to see this conception so greatly pushed into the foreground in the Bacchic mysteries cannot be surprising, if we keep in view the nature of this cult, resting wholly in matter, and the high position that the female-material principle of nature occupies in it in its tendency toward fecundation. The two-colored egg as the center of the Dionysian religion shows us the highest law that governs the transient world as a fate inborn in female matter. Plutarch’s dialogue is repeated by Macrob. Sat. 7, 16. We give the most important part of it here. Et ne videar plus nimio extulisse ovum elementi vocabulo, consule initiatos sacris Liberi Patris, in quibus hac veneratione ovum colitur, ut ex forma tereti ac paene sphærali atque undiqueversum clausa et includente intra se vitam, mundi simulacrum vocetur. Mundum autem consensu omnium constat universitatis esse principium. The comparison of the egg form with the shape of the universe is often emphasized. From the two halves of the egg heaven and earth have come forth. According to the Indian cosmogony Brahma dwells hidden for a long time in the primal egg, then divides it into two equal halves, and makes of the one half heaven, of the other the earth.2) According to Egyptian doctrine Kneph begets from his mouth the primal egg, which was conceived as an image of the world.3) Phthas, who in Suidas, Ἀφθάς, is called Dionysus, opens it; from the one half heaven arises, from the other the earth.4) According to the Sidonian cosmogony5) Χουσωρός is the opener (ἀνοιγεὺς πρῶτος). The egg, bursting in two parts, forms heaven and earth. Among the Chaldaeans Bel, the demiurge, cuts the Omoroka or Omorka in two; the upper half is heaven, the lower the earth.6) According to this conception the egg must
 
@@ -498,9 +469,7 @@ be thought of as divided not along its length but across its breadth into the tw
 
 5) This in the Persian histories in Athenæus 11, 503. (Fr. hist. græc. 2, 92 Müller) οἶνος
 
-[PDF 36]
-
-— 22 —
+[p. 22]
 
 still unseparated and actually joined side by side. In both relations the egg is preeminently the elementum of the material world, the principium universitatis, or Moth,1) the maternal primal slime, destined, at a further stage of development, to bring its whole content, still hidden now, to the light. In this unfolding the black half becomes earth, the white half heaven, the former the female-material, the latter the male-incorporeal potency. But as they once rested within one another, so now in their separation they long for constant reunion. “Hence the love of human beings for one another is inborn, in order to restore the original nature, to make one out of two, and to heal human nature.”2) In this longing of the two halves of the egg for reunion is rooted the origination of all things, and the stream of becoming that begins with it, against which the equally strong stream of passing away flows eternally. The power that leads back together what was cut apart is that god born from the egg whom the Orphic doctrines call Metis, Phanes,3) Ericapaeus, Protogonos,4) Heracles-Chronos,5) Eros,6) the Lesbians Enorches,7) the Egyptians Osiris,8) the cock that is hatched from the egg, like the birds in Aristophanes, the serpent-shaped Asclepius, whom the impostor Alexander in Lucian represents as born of an egg, Dionysus, who, as a vase painting depicts him, in unbridled lust of becoming breaks through the shell, and brings to its first revelation that which was hitherto hidden, (ἔτι κνόμενον ἐν τῷ ᾠῷ) the mystery of generative masculinity. Thus the egg is in every relation the ἀρχὴ γενέσεως. It encloses within itself all parts of the material world, heaven and earth, light and darkness, the male and the female potency of nature, the stream of becoming and of passing away, the
 
@@ -526,9 +495,7 @@ Brandis, Geschichte der griechisch-römischen Philosophie 1, 52–74. and the wo
 
 8) Diodor 1, 27. Here Osiris calls himself: εἰμὶ δὲ υἱὸς Κρόνου πρεσβύτατος καὶ ἔβλαστον ἐκ
 
-[PDF 37]
-
-— 23 —
+[p. 23]
 
 germ of all tellurian organisms, of the higher and the lower creation,1) and the whole world of the gods, which, being of material origin, has, like all tellurian life, with human beings, animals, plants, one and the same mother: the dark egg, which is itself only the corresponding image of the female χώρα γενέσεως,2) in which Isis and Osiris already embrace one another lovingly before birth. According to the Persian doctrine the 24 good and the 24 evil beings issue from the same egg. According to the Indian doctrine the tree that bears three suns, out of which the lotus and Trimurti with the other gods grow up, springs from the egg of the primal waters, which that very primal mother carries on her lap in the number three.3) Likewise the Syrian goddess,4) likewise Leda-Nemesis, likewise Helen,5) no less Demeter, is born from the egg, or is herself the
 
@@ -590,9 +557,7 @@ L. 4, 32. Paus. 5, 13, 4. Georg. 1, 28. materna myrto.
 
 5) Apollod. 3, 4, 3.
 
-[PDF 40]
-
-— 26 —
+[p. 26]
 
 of the maternal womb into the light; he stands to female matter in the relation of a son, and, after breaking through the shell of the egg, reveals the mystery of phallic masculinity hitherto hidden there, at the sight of which even the mother rejoices as at her daemon.1) On this rests the high position that woman occupies in the Bacchic religion, which expresses itself in the adoption of women’s clothing by men as well,2) attested of the Dionysian mysteries, as also in the redemption of his mother Semele-Thyone from the underworld,3) and in the 14 Γεραῖραι.4) One might well often have had occasion to put to oneself the question how it comes about that in the religion of the generative god, bull-shaped and phallic in his innermost nature (πολύσπορος ζωοδοτήρ), not so much the male as rather the female principle of nature stands so much in the foreground, and that in his mysteries not, as at his festival,5) the phallus, whose cult he founds, but the female egg, the female myrtle, and, I add, Minerva’s gift the oil, as well as Demeter’s animal the pig,6) appears as the center of cult and symbolism. The reason is no longer doubtful to us. Of the two sides of nature, the female-material and the male-generative, the former is the one originally and alone present, the one given in principle. Matter harbors the force in its womb, and as sons of the egg (ᾠογενεῖς)7) the gods of phallic nature step forth into the light out of its enclosure. At the head of things stands, then, material woman, and Dionysus like Osiris trace their own origin back to matter, conceived as tellurian or lunar, as primal mother of all things, the Rerum naturæ prisca parens. Precisely for this reason the mystery attaches to the motherhood that it harbors within itself, a connection which
 
@@ -614,9 +579,7 @@ et Siebel. — θηλυμίτρης. Creuzer, Symb. 4, 143. θηλύμορφος
 
 7) Zoega, Abhandl. p. 226. p. 230 f.
 
-[PDF 41]
-
-— 27 —
+[p. 27]
 
 Macrob. Somn. Scip. 1, 2. p. 10 Zeune beautifully brings out. The man veiled in woman’s garb repeats this relation, no differently from the cista, which harbors the phallus made of fig wood, the tacita secreta cistarum. The force is hidden in darkness, as it performs its work in darkness. What meets the eye is the female matter that carries the phallus within it, whose existence is proclaimed by the generation emerging from the lap of the earth. So Achilles dwells among the Scyrian maidens in women’s clothes until the Tyrrhenian trumpet, which calls the generative bull forth from the waves,1) brings him too and his masculinity to appearance.
 
@@ -646,9 +609,7 @@ priestess with Dionysus according to Athenian cult, with which that of the Ilian
 
 7) Creuzer, Symb. 4, 112.
 
-[PDF 43]
-
-— 29 —
+[p. 29]
 
 tellurian and uranian.1) Woman follows all the stages of the Bacchic nature. Inseparably bound to him, she becomes both his chthonian and his uranian consort. The sexual union is always the Dionysian fundamental law, γάμος its realization. Conceived in a more sensual way on the tellurian stage, it attains on the uranian the higher purity of exclusive marriage, to which Psyche, after her mating with the dragon, the dweller in lightless spaces, at last breaks through. The lawless sexual mingling in the moist depths of the earth, as swamp life presents it, rises to the chastity of conjugal union, which has a cosmic model in the exclusive relation of the sun to the moon that follows it.2) The former now appears only as a point of passage for woman to the higher condition, in which alone she finds her peace. Thus the fable of Psyche, which likewise belongs to the mysteries, presents the relation of the two stages to us. Thus we see it again in our two funerary monuments. The grossly sensual representation of the Pamphili painting, which is repeated in still more lascivious fashion on two others, presents that lower stage of the sexual union conceived in a purely Aphroditean way, while Liber and Libera bring to view the life that has broken through to the purity of marriage. In this elevation the egg becomes the symbol of conjugal consecration, and of that τέλος which every γάμος bears within itself.3) From this the number five is explained, which appears in the company of the ephebes on our third plate. I have already pointed out above that the number five of the youths cannot rest on artistic caprice, since this would rather have led to the omission of the figure on the right side. Its addition shows that what was at stake here was the representation of a sacred number. The five is designated by the ancients as marriage. It has proceeded from the male Trias and the female Duas, and therefore counts as the representation of the conjugal union of the two sexes. It is the numerical expression of that ἱερὸς
 
@@ -664,9 +625,7 @@ the two children, the man and the woman, and their marriage as a Cerealian insti
 
 3) In Italy Liber, Libera, and Ceres are joined together. Here we see the mother joined with
 
-[PDF 44]
-
-— 30 —
+[p. 30]
 
 γάμος, which joins Liber and Libera. Since we shall return to the significance of the quincunx at a later place in this work, it suffices to document it here with a single testimony. In treating the question why the Romans burn five cerei at their weddings, neither more nor fewer, Plutarch Q. R. 2 expresses himself as follows: “Among all the odd numbers the five is best suited to the wedding celebration. For the three is the first odd number, but the two the first even number; and from both, as from man and woman, the five arises through union.”1) The newly married therefore need five gods, just as the Cerealian aediles carry five cerei, and five children count as the highest female birth, and five worlds as the highest conceivable number of worlds. That the Pythagoreans held the odd number to be male and the even to be female is attested by Plutarch Q. R. 102, and this conception certainly came to them from the Orphic doctrine, which attained new currency in their school. In all of nature the most depends on the five, so that even the wise themselves call counting πεμπάζειν.2) The number five of the youths can accordingly no longer appear enigmatic or without meaning. It shows us the female egg in that higher significance as the symbol of the sexual community consecrated by conjugal union, and thus forms the counterpart to the three other representations on the same tomb, which with the greatest emphasis bring to view the lower, Aphroditean and lawless fecundation, condemned by the mysteries.
 
@@ -680,9 +639,7 @@ the bridegroom and five women friends of the bride, no more, are to be invited, 
 
 2) Plut. Ei ap. Delph. 7.
 
-[PDF 45]
-
-— 31 —
+[p. 31]
 
 to the effect of the whole. The beauty of the countenance is heightened and ennobled beyond human measure by the deep seriousness which the possession of the initiations alone is able to impart. Between the thumb and the other fingers the right hand, held forward, carries an egg. What the closed fingers of the left hand may have held can no longer be made out with certainty on the lower half, which is still preserved. A torch is the most likely thing to think of. That we have before us the image of the personified Τελετή seems to me beyond doubt. The Victoria-like formation of the wings is not rare on initiation vases and tomb paintings—one need only think of the winged genii hovering amid garlands in one of the Campana tombs at the Porta Latina. It seems to have had its origin precisely in the connection of the mysteries with the female egg principle. In Aristophanes, aves 693–704, the birds issue from the egg as the oldest birth, a representation that belongs to the mystery doctrine and not to free poetic invention. Nemesis, the egg mother, is called by Hygin Poet. Astr. 8 avium generi iuncta. Her Smyrnaean image was formed with wings, a remnant of animal shape that Phidias, when he made his Rhamnusian Mother Upis,1) rejected.2) Aphrodite-Syria,3) so closely akin to Nemesis, issues, according to the Asiatic conception, from an egg that doves hatch. She too could therefore be conceived in the form of a bird, as indeed Semiramis-Aphrodite, the Bacchic daughters of Anius, and the Aphrodito-Julian Ctesylla take on the form of a dove.4) Especially instructive are the Lycian egg mothers, who on the so-called Harpy Monument of Xanthus5) appear not only winged and with bird’s feet, but very distinctly with the egg-shaped body, with strongly prominent maternity in the formation of the breast and in the expression of their virginal countenance. Here the connection of the egg with the wings, the origin of the winged form from the nature of the egg, and the relation of both to the Bacchic mysteries come clearly to light. From this is explained the connection of the wings with Telete, and her special relation to the initiations, whose center is the egg, and whose foundation is the female principle of nature.6) In Telete the mystery mother herself is brought to representation. The
 
@@ -704,9 +661,7 @@ appears
 
 6) On an unedited vase painting of the Vienna collection, designated there as 3, 192, there
 
-[PDF 46]
-
-— 32 —
+[p. 32]
 
 goddess of the initiations becomes the personified initiation itself, Demeter becomes Τελετή,1) the egg the symbol of the mysteries and of the better hope given through them, the pair of wings an intimation of the life rising to a higher existence, of the soul freed from the burden of matter and of that immortality which is allotted to the spirit in the regions of light, to which the initiate lifts himself on his pinions, like the winged Pegasus, like Psyche, likewise provided with wings.
 
@@ -742,9 +697,7 @@ on the neck of the vessel a being composed of a virginal upper body and the form
 
 4) Above, p. 10, note 2.
 
-[PDF 47]
-
-— 33 —
+[p. 33]
 
 This idea, which has been rightly recognized in the famous marble fragment from Thurea and its inscriptions,1) finds its application in the Munich relief as well, and is here especially emphasized in the egg, the wings, and the frontal crown.
 
@@ -764,9 +717,7 @@ ments to Bachofen, Mutterrecht. Stuttgart 1859.
 
 4) A frequently recurring formation of candelabra. Mus. Gregoriano. 1842. vol. 1. tav. 48, 5.
 
-[PDF 48]
-
-— 34 —
+[p. 34]
 
 , which sing their hymns eternally to the Lycian egg mother Leda-Latona in the Lycian swamp lake, and which finally in the Batrachomyomachia appear as Peleiads (from πηλός), just as Achilles the Peleiad, formed like them from the water-soaked swamp earth. The more precise account of this I give in the treatment of the Ocnus symbol, which forms the subject of the following tomb painting. There the religious significance of the swamp reed, the veneration consecrated to it, and its relation to the female principle of nature will also be discussed. By the sprouting lotus Isis recognizes the adultery of Osiris, her brother and consort, with Nephthys. The Ioxids have retained the maternal custom of venerating reed and wild asparagus as sacred. Sari, the Nile reed, is called the hair of Isis. With long-flowing hair, like swamp plants, the thighs of Homer, begotten in adultery, are covered in Heliodorus. For swamp generation is the image of the lawless, extramarital sexual mingling, as agriculture is that of the Cerealian-conjugal life.1) Thus the idea of tellurian generation from the waters rests in reed and duck, and therefore they form a fitting accompaniment of the primal egg, which bears within itself the germ of all life. For this reason they also share with it the Bacchic relation to the mysteries, which the tomb paintings preserved by Santi Bartoli bring out in the most varied ways through the inclusion of nymphs, reed tufts, reed crowns, and swamp waters. In swamps Dionysus is preeminently worshipped. In the Lernaean swamp the phallus is erected to him. Ἐν Λίμναις his service was celebrated, like that of Osiris at Sais. Hence he himself is called Λιμναῖος, Προσύμνος in the nocturnal celebration at the Alcyonian Lake with phallic rites.1) The frogs in Aristophanes 210 f. sing to him thus:
 
@@ -794,9 +745,7 @@ Ducks, tortoises, frogs belong to the swamp, from which the reed shoots up as th
 
 1) Thucyd. 2, 15 Paus. 2, 37, 5. Clemens Protr. p. 22. Potter. Cf. Paus. 4, 36, 5; 3,
 
-[PDF 49]
-
-— 35 —
+[p. 35]
 
 with the egg. In the swamp and its hetaeric generation the motherhood of nature prevails. Maternal is the cult of the Ioxids; with Isis and Latona the frog is connected, with Aphrodite the tortoise, with the weaving Penelope the duck, as whose name hieroglyph (Πηνέλοψ) it has been recognized on vase paintings of evidently Bacchic reference. The male force dwells invisibly in the swamp. It is hidden from the eye of men, which perceives only the maternal matter and its birth from rushes. As Λιμναῖος and Προσύμνος Dionysus is arcanus or Αἰσυμνήτης. For so is called the god enclosed in the Arca at Patrae in Achaea, the invisible ruler dwelling in the moist depths of the earth, whose larnax is carried about in procession by night, while boys and girls bathe in the Milichus.1) As Aisymnetes is here subordinated to Artemis Triclaria as her magna vis et potentia,2) so among the Arcadians Dionysus-Mystes is subordinated to the great mother Demeter-Corythensis.3) Mystes too, like Aisymnetes, is the hidden, secret god, who as bearer of force invisibly permeates female matter until, breaking through the shell of the egg, he steps into the light and reveals the phallus. In this nature of the Deus arcanus lies a special relation to the mysteries and to the secret that rules them,4) and for this very reason the emphasis on the Bacchic swamp nature, as it is present in ducks and reed, is preeminently suited to indicate initiation received. For that the Karlsruhe tomb candelabrum, too, had no other purpose than the Pamphili painting and the Munich marble fragment, namely, to represent the reception of the initiations and the hope of a happy future grounded in them, cannot be doubted. Here the transference of Bacchic symbolism to all parts of the tomb furnishings deserves special attention. The less it was permitted to mention the mysteries in words, the more varied is the turn which the language of art lent them. Not only the walls and their paintings, not only the sarcophagi and their sculptures, the bases and
 
@@ -812,9 +761,7 @@ material mother Thetis, from whom Prometheus learns it, as men learn it from Car
 
 4) The primal woman possesses the mystery that is revealed in her son. So stands the
 
-[PDF 50]
-
-— 36 —
+[p. 36]
 
 their images are used to bring out the mysteries, their symbols and the better hopes resting in them; lamps and candelabra, too, serve the same purpose, and even ornamentation, its κύματα, dolphins, and egg-and-dart moldings, is governed by it. Art has a higher, religious content, from which it draws its inspirations and motifs, and to which in turn it devotes all its endeavors. With beauty is joined depth of thought, and each lends the other a higher nobility.
 
@@ -832,9 +779,7 @@ A gem image which Gori communicates in Mus. Florent. 2, 100 is to be compared wi
 
 3) Before the egg that encloses the boy stands, sunk in deep contemplation, a female figure.
 
-[PDF 52]
-
-— 38 —
+[p. 38]
 
 that the figure he calls Enorches is shown wholly enclosed by the egg yolk, the vitellum ovi. This agrees with the view that recognizes in the yolk the force of the seed, and hence the real seat of life. Clearchus (in Suidas and Photius s.v. Νεοττός) ἐν τῷ περὶ ὠῶν (so it is probably to be read instead of οἴνων) opposes this view, and conversely declares the white to be σπέρμα, the yolk (νεοττός, ὠχρόν) to be περίττωμα τοῦ σπέρματος or luteum seminis; yet he presents the opinion he combats at the same time as the original one, and this also underlies the dream vision mentioned above; for the interpreter of dreams sees in the yolk the gold, in the white fluid the silver, in the eggshell the bronze vessel that guards the treasure. Indeed νεοσσός unites both meanings in itself. It designates at once the yolk and the young offspring, just as these two are represented in unity in our vase painting. In Euripides Helen says, 256: γυνὴ γὰρ οὐδ᾽ Ἑλληνὶς οὔτε βάρβαρος — τεῦχος νεοσσῶν λευκὸν ἐκλοχεύεται, — ἐν ᾧ με Λήδαν φασὶν ἐκ Διὸς τεκεῖν. Here too the yolk of the white egg appears as the real seat of birth.
 
@@ -854,9 +799,7 @@ Protr. p. 15. Potter, and Euseb. Pr. Ev. 2, 3.
 
 1) The volubiles rotulæ among the Bacchic symbols: Arnob. 5, 19, after Clemens
 
-[PDF 54]
-
-— 40 —
+[p. 40]
 
 it appears in the wheel stepped forth into the visible world and ruling it: there the law of alternation as such, here alternation itself in its appearance. The same significance belongs to the discus, which, thrown by a strong and practiced hand, rolls swiftly away over the plain. Hence its connection with the lotus by a chain, such as the tomb finds from Praeneste brought to light, cannot surprise. The lotus, the image of creation from the waters of the earth, the swamp lily that opens its calyx to the first ray of the sun and with the last, like Helios himself, dips down into the moist depths, joins itself to the meaning of the discus, and the connecting chain, which is also mentioned elsewhere in the cult of the great nature mother Isis,1) shows us the indissoluble connection of the tellurian world with the law of movement and alternation, as the religions of Osiris and of Bacchus alike bear it within themselves. If the Bacchic relation of the Protesilaus sarcophagus is already suggested by these remarks, it appears raised to certainty in other details of the Vatican sarcophagus. The sacellum that rises above Laodamia’s couch, the mask that is set up in it, the double thyrsus that peers out crossed behind it, leave no doubt, and give to the egg of the work at St. Chiara, too, its definite Bacchic character. Laodamia herself becomes a Bacchante, as which she also appears in the myth. Philostratus the Elder inserts into the description of the painting Anthia (Im. 2, 9) the remark: Ἄπεισι δέ, οὐχ ὥσπερ ἡ τοῦ Πρωτεσίλεω καταστεφθεῖσα οἷς ἐβάκχευσεν. Thus simulato numine Bacchi (Serv. Aen. 6. 517; 7, 385) Laodamia seeks to kill herself. Unable to bear the pain of the renewed separation, she finds her death in the flames of the funeral pyre.2)
 
@@ -876,9 +819,7 @@ dextra sistro cohærentem gestabit coronam.
 
 4) Plut. Qu. gr. 38. Aelian V. H. 3, 42.
 
-[PDF 55]
-
-— 41 —
+[p. 41]
 
 and mountains. Restless, like Io stung by Hera’s gadfly, they celebrate in grove and field the orgies of the god, the sight of whom has seized their innermost being and stirred it. For the Amazonian spear and bow they exchange the thyrsus, the eloquent image of generative masculinity, at once their weapon and their wedding symbol. From warlike, man-hating maidens they become Bacchae eager for generation. At first hostile to the god and fighting against him, they now enter his following, and show for the spread of his sensually exciting cult the same bravery that was earlier devoted to combating it. The servants of the chaste moon goddess become the orgiastic band of heroes of the phallic god. It is they who contribute most to the spread of the Bacchic cult in field and house. They therefore also occupy a prominent place in the Bacchic religion. It is women’s collegia that preside over his cult, like the 16 Elean matrons.1) To the Amazonian-chaste there follows the sensually excited Dionysian women’s life; to the sober offering of milk and honey of the old time, the sensually intoxicating service of wine, a hateful abomination to the deities of the old discipline and sobriety. What the maiden fled, she now seeks. What aroused her abhorrence, the awakened desire now heightens to the highest sensual frenzy. The whole life takes on a different form. The Elean and Argive women sing hymns to the god of masculinity, who bears the fecundating bull’s foot, praying that he emerge from the waves of the sea and mate with them.2) What was formerly veiled is now everywhere set up for veneration in sensual nakedness. Fascino territoria cuncta florescunt.3) The world has never experienced a transformation like that which was bound up with the general spread of the worship of Bacchus. None has intervened more deeply in the life of the ancient world than this emancipation of material sexual life, wholly absorbed in the desire for generation and in sensual excitement. None has attained dominion more irresistibly. From the farthest East to the farthest West it established its dominion, overcoming, transforming, and absorbing all peoples, religions, and customs with dance and thyrsus, and subordinating them to the phallus of material force. An equal predominance it attained in mythology. As
 
@@ -890,9 +831,7 @@ lacris virilium fascinorum territoria cuncta florescunt. 29: totam interrogat Gr
 
 3) Arnob. 5, 28. Mysteria quibus in Liberi honorem patris ithyphallos subrigit Græcia, et simu‐
 
-[PDF 56]
-
-— 42 —
+[p. 42]
 
 all cults now enter into closer or more distant relation with the Dionysian, and a general striving of them is manifest to bring their traditional meaning into harmony with the fundamental idea and the tendency of the Bacchic religion, so too a Bacchic relation has been ascribed to all myths and a place in the Bacchic religious system assigned to them: a task whose solution was made easier by the fact that all the religions of antiquity share with the Bacchic the materiality of their foundation, and differ from it only in the degree of development, or in that of metaphysical spiritualization and purification, like the Apollonian worship of light.1) For this entry of the old world of myths into the service of the Bacchic religion the Protesilaus sarcophagi, which we are now considering, offer a very instructive example. Even if Iolaus-Protesilaus originally had no Dionysian significance, he has nevertheless received it in those funerary scenes. If Laodamia’s pain, longing, and renewed mourning were originally composed without the influence of Bacchic conceptions, on those tomb paintings she appears in a Bacchic bearing, consumed by Bacchic longing for the repetition of the male embrace, her rapture as fleeting as it is high. Masks and thyrsus on the one sarcophagus, the egg on the other, symbolize this admission into the Bacchic circle. From such a connection that trait of the myth which Philostratus indicates has then emerged. Laodamia becomes a Bacchante, who simulato numine Bacchi seeks to deceive her entourage about her intention of death. Indeed, in another version the mask appears transformed into the image of Protesilaus, Laodamia as a worshiper of her husband, embracing a simulacrum instead of reality, and therefore suspected of profanation of religion and of adultery, and called to account by her father Acastus. So Hygin. f. 1042) tells the end of the unhappy wife, who appeared to antiquity as the model of faithful woman’s love conquering death. How strangely the suspicion of adultery attaches itself to the whole myth. How greatly it needs a special occasion. Wherein this lies is not doubtful to me. It is rooted in the Bacchic connection which Laodamia entered. The fiction of the making and worship of an æneum simulacrum has emerged from the Bacchic mask and from the admission of the whole myth into the Bacchic circle, and to the same connection also the Dido-like fiery death of Acastus’s daughter in the
 
@@ -902,9 +841,7 @@ id est in diurno hemisphærio est, Apollo vocitetur, cum in infero, id est noctu
 
 2) Ovid Her. 13. Serv. Aen. 6, 447.
 
-[PDF 57]
-
-— 43 —
+[p. 43]
 
 purifying flames of the Dionysian pyre owes its origin. To a similar expansion of the original myth the egg, too, of the sarcophagus of St. Chiara could have given occasion. It did not happen. In the traditions that have been preserved, to which also belong Tzetzes Chil. 1, 52, Lucian M. D. 23, Scholia Arist. T. I. p. 288 Jebb., no mention is made of the egg. It has therefore found admission into the tomb only as a Bacchic symbol; in the myth itself it plays no role. Its significance is thereby heightened. It calls up the mystery idea in its whole scope before the soul, and sets against the pain that life’s fleeting illusion produces in Laodamia’s soul the consolation of the higher hope that the mortal draws from initiation, the Ovidian (Her. 13, 155) crede mihi, plus est, quam quod videatur imago, as a reassurance. How uplifting is this contrast. Material life is only appearance and deception, death its destination, pain and despair the lot of him who surrenders himself to its enchantment. Like a fleeting dream image it passes by, like a mask it is worn today by this one, tomorrow by that one,1) the highest enjoyment is followed by still greater pain. Whoever looks around after it has already lost it again, like Orpheus his Eurydice;2) a mask Laodamia adores. While thus the sinking into the world of the senses leaves behind only deception and despair, the initia and the egg that indicates their reception lift the spirit out of the world of becoming and passing away into the higher world of being, which the initiation promises. Lifted now is the melancholy that the contemplation of material transitoriness produces, abandoned to which Bellerophon wanders lonely paths in the Aleian plain; dissolved the pain that follows the illusions of the world of the senses. For the egg gives the certainty that above the world, ever hastening to death, an eternal one exists, to which the initiate, cleansed of the dross of matter, will raise himself as a winged soul. Now all the emphasis that is laid on the deceptiveness of material appearance serves precisely to bring out all the more emphatically the benefit of initiation and of its better hope. This is the purpose of Laodamia’s representation on our sarcophagi. If they set the swift swing of becoming and passing away so urgently before our eyes, this is not done in order, by an allusion to that hoc idem magni perpessi
 
@@ -916,9 +853,7 @@ the appearance of the woman, and did not give her herself to him.
 
 2) Of which Plato says in the Sympos. p. 179, the gods showed the son of Oeagrus only
 
-[PDF 58]
-
-— 44 —
+[p. 44]
 
 sunt reges,1) to make the sad lot of death still sadder. Rather, the happiness and necessity of initiation are thereby to be brought out all the more powerfully; the reminder of the destruction of purely material life appears as a warning against a hopeless surrender to the deception of the senses. This idea is recognizable on many initiation vases. It shows us the Dionysian religion in its higher content, which has overcome sensuality, to which it too owes its origin. It assigns the eternally futile labor of the self-consuming force of nature to a lower stage of life, and opens the view into a higher region, where illusion is raised to truth, alternation to permanence, unrest and constant movement to the repose of being. The futile labor, as it falls to the Danaids, to Ocnus, to Sisyphus, is the lot of those who perish in matter, the uninitiated,2) a punishment for their life, given over to sensual deception, vain and hopeless, into which the initiates do not fall. For these an unchanging higher existence is allotted, in which they rest from labor. In the Pamphili tomb Ocnus, too, is represented, but not plaiting the rope; he rests instead in the evening peace of a quiet landscape. “For the god was his leader.” The veil that surrounds his head attests the initiation received. This, however, has joined him to that host which now enjoys an eternally blessed life beneath the stars. The deception remains behind in the lower world of the senses, in which everything that a day weaves is dissolved again by the following night, in which everything is only appearance, and white is ever turned into black, one sex ever into the other.3) To it belong the Apaturia, the Dionysian festival of deception, whose origin is traced back to that victory which Melanthus won over Xanthus, the black over the white, by telling him that the man with the black goatskin (Dionysus Μελαναίγις) stood behind him.4) In Nonnus Dionys. 24, 234–330 the Lesbian Leucus sings, at the feast of the triumphant Bacchus, a song of how Aphrodite, supported by the Charites,
 
@@ -934,9 +869,7 @@ from ἀπάτη (Mythol. § 452, 6.), I cannot share, although the civic-politi
 
 4) For the evidence see Creuzer Symb. 4, 152. Gerhard’s explanation as ὁμοπατούρια, not
 
-[PDF 59]
-
-— 45 —
+[p. 45]
 
 steps to the loom and weaves a garment that consists of coarser threads than the finer one of Pallas Athena. That is that deceptive garment of wild earth generation, after which the primal mother at Phanagoria is herself called Ἀπάτουρος. By deception she knows how to lead the Giants to destruction.1) The thread of death she plaits into the rough fabric of the material body, as the oldest of the Moirai, as the herm-shaped Aphrodite ἐν κήποις was called at Athens, the great Adrasteia Ananke, the nurse of the human race.2) Through the thread of death the fabric of the body becomes a deceptive garment; the gods of material life, who surround the soul with such a garment, become Apaturii, deceiving gods, so Aphrodite, so her force, the male Dionysus.3) By guile they bring about death, by deception they attain victory, as indeed the Apaturia are always represented as victory festivals. Deceptive by its splendid exterior, the bodily matter is nevertheless steeped in poison, like Deianira’s garment, which encloses an unknown fullness of pains. As a garment the body is represented in the mysteries, as in Plato the earth is called the last covering, stoning a stone garment. For this reason the veiled mantle figures on the Bacchic initiation vases play so prominent a role. But for the initiate the succumbing itself becomes victory. Deception, illusion, vain, purposeless existence is the portion of the profane. They who surrender to the world of the senses as the highest and only existence find in it their destruction, like Narcissus, who sinks into contemplation of his own body. Higher is the hope of the initiates. They know that everything corporeal is only a mirror image, that it is only a mask that is worn for a short time. They know the higher destiny of the soul, and regard death as a liberation from the coarse garment of the body, which must be cast off in order to be replaced by the finer one that Pallas Athena has woven. Mirror and mask now become symbols of the higher destiny for them. As signs of initiation received they appear on many sarcophagi and funerary vases. The Apaturia themselves are now a festival of joy, of redemption, of victory in succumbing. Xanthus, outwitted by Melanthus, is the initiate who has broken through to divinity in the realm of light. The deceased has now become a simple, unmixed, wholly pure being, a being that is freed from the body as from a coloring matter
 
@@ -948,9 +881,7 @@ Petron. Satyr. 128.
 
 3) Orph. H. 55, 7. Paus. Corinth. 23, 8.
 
-[PDF 60]
-
-— 46 —
+[p. 46]
 
 is freed. “White is inimitable to the dyer, but of black one can say, as of purple: O deceptive garments, O deceptive colors.”1) The same relation is contained in Laodamia’s sorrowful lot. All the deception that the cheating world of the senses contains has come over her. All the misery that surrender to the deception of matter leaves behind she has borne. But now she herself makes use of deception in order to break through, by the purifying fire, to a higher existence free of deception.2) Surrender to the Bacchic service, whose cult she follows, enables her to do this. All these traits her myth, as it is represented on our sarcophagi, has taken up into itself. The deception of the world of the senses, its overcoming by the higher component of the mysteries; the despair that follows from the former, the better hope that follows from the latter; the veneration of matter as criminal idolatry, of which Acastus accuses her, the death by fire as purifying passage from the lower, coarse world of deceptive matter into the higher one, which Dionysus, transfigured into solar power, inhabits: this is the double content of a myth that must be counted among the most beautiful mystery images. The connection in which it is brought with the egg secures to this symbol its whole high significance. All that this myth presents lies also in the egg. We may designate the Protesilaus representation as an elucidation of the egg. The myth is the exegesis of the symbol. It unrolls, in a series of externally connected actions, what the latter bears within itself in unity. It resembles discursive philosophical exposition in so far as it, like the latter, resolves the idea into a series of connected images, and then leaves it to the beholder to draw the final conclusion from their connection. The combination of the symbol with the elucidating myth is a very remarkable phenomenon. If for the Pamphili tomb painting the symbol sufficed by itself, on the sarcophagus the supporting addition of the myth seemed expedient. In this union the symbol finds the guarantee of its continuance. Through the myth the old dignity of Orphic symbolism comes again to significance. To set forth the content of the mystery doctrine in words would be a sin against the supreme law; to present it through myths is the only permitted way. In this is rooted the use of the treasure of myths as the language of the tombs. While inscriptions are, as a rule, used only for subordinate
 
@@ -960,9 +891,7 @@ turn around, as in temples at the veneration of the gods, and, if at the burning
 
 2) In Plutarch Qu. r. 10 Varro says of sons that at the tombs of their parents they
 
-[PDF 61]
-
-— 47 —
+[p. 47]
 
 statements,1) the higher thoughts that death and the tomb awaken have found expression in the form of myth with the aid of art. More and more the pure symbol is pushed into the background. Myth attains undisputed dominion. Gradually the entire world of myth of the ancients enters into their tombs. A spectacle is in preparation that deserves the highest attention. The very same treasury of myth in which the ancient world had deposited the earliest memories of its history, the whole sum of its physical knowledge, the remembrance of earlier periods of creation and of mighty transformations of the earth,2) now becomes the representation of religious truths, the illustration of great natural laws, the expression of ethical and moral truths, and the awakening of consoling intimations that lead beyond the sad boundary of material fate. The content of the mysteries in its twofold physical and metaphysical significance is brought before the soul of the beholder in the garment of mythic images. If through the anthropomorphic shaping of the divine heaven descended to earth, then now, through the entry of myths into the mystery, earth is led back to heaven, the human back to the divine, and in the fates of the heroes excellence and virtue are presented as the only path to the overcoming of matter and to the final reward of immortality. Myth, which no longer held as belief, receives the highest esteem again through its connection with mystery and tomb. The old simple symbolic faith, as Orpheus and the great teachers of religion of the earliest age partly created and partly received it by tradition, rises again in the tomb myth in another form. Later times create no new symbols and no new myths. They lack for that the youthful freshness of first existence. But the later human race, turned more toward its inner life, knows how to lay a new spiritualized meaning beneath the treasury of inherited representations. Thus the myths become, to speak with Plutarch about the genius of Socrates, images and shadows of higher thoughts, which impress a deeper reverence precisely through their enigmatic quality. They resemble those mimic κατάδειξεις in which the initiate beheld the loftier truths of the mysteries as in a mirror. In their entire composition they are myths put on the stage, and many particulars still permit the model
 
@@ -972,9 +901,7 @@ statements,1) the higher thoughts that death and the tomb awaken have found expr
 
 2) See the remarkable observation of Strabo 10, 474. init.
 
-[PDF 62]
-
-— 48 —
+[p. 48]
 
 of scenic performance of tragic works to be clearly recognized. The resting symbol and the mythic unfolding of it take the place, in the tombs, of language and writing. They are themselves the language of the tombs. All the higher reflections to which the riddle of death gives occasion, the expression of grief and of consolation, of hope, of fear, of the gloomy and of the joyful intimation, remain reserved for representation by the hand of the artist. This phenomenon has a deeper ground. Human language is too poor to clothe in words the fullness of the intimations that the alternation of death and life calls forth, and those higher hopes that the initiate possesses. Only the symbol and the myth that joins itself to it can satisfy this nobler need. The symbol awakens intimation; language can only explain. The symbol strikes all the strings of the human spirit at once; language is compelled to give itself always to one single thought only. The symbol sends its root down into the most secret depths of the soul; language touches the surface of the understanding like a gentle breath of wind. The former is directed inward, the latter outward. Only the symbol succeeds in uniting the most diverse things into a unified total impression. Language strings one thing after another, and brings to consciousness only piecemeal what, in order to grip with all-powerful force, must necessarily be set before the soul in a single glance. Words make the infinite finite; symbols carry the spirit away beyond the boundaries of the finite world of becoming into the realm of the infinite world of being. They arouse intimations; they are signs of the unsayable, inexhaustible like it, mysterious as every religion necessarily and by its very nature is, a mute discourse, and as such particularly suited to the quiet of the grave, inaccessible to mockery and doubt, those unripe fruits of wisdom. Therein rests the mysterious dignity of the symbol, which contributes especially to the heightening of the lofty seriousness of the ancient world of the tombs. Therein lies the gripping power of the mythic representations, which place before our eyes the great deeds of the primeval age in the calmed light of distant, wistful remembrance, and thus share in that consecration with which the ancient world knew how to surround its burial places in an especially high degree.
 
@@ -988,9 +915,7 @@ a new light. They have been assigned, in an indefinitely general way, the signif
 
 1) Ostrich eggs, Aelian, H. A. 4, 37.
 
-[PDF 64]
-
-— 50 —
+[p. 50]
 
 attaches to several other Etruscan, especially Vulcian, tomb finds, and to the entire contents of the Grotta d’Iside there. An ostrich egg from Vulci adorned with fantastic animal figures is reproduced by George Dennis, The Cities and Cemeteries of Etruria (London, J. Murray 1848). On these Vulcian finds Mrs. Hamilton-Gray gives more precise information, from her own observation, in her work on Etruria, p. 281. The ostrich eggs themselves, with many other objects of Egyptian provenance, reached Etruria through trade. Chinese vessels, after all, were discovered by Rosellini in Egyptian tombs and brought from there to the Egyptian Museum at Florence, where Hamilton-Gray (p. 267) saw them. Concerning the eggs of the Vulcian Grotta d’Iside, Dennis reports the following further details: there were six of them in all. Winged sphinxes adorned one of them, a two-horse chariot manned by a warrior another. All showed a hollow, probably intended to make suspension possible. — I add that bronze vessels of the Praenestine tomb finds, on which E. Braun gives a brief report in the Bulletino of the year 1855, show the ostrich among their ornaments as well. In Fellows’s travel work on Lycia the Mohammedan custom of hanging ostrich eggs in the mosques is mentioned. They were explained to him as symbols of maternal love. By the mere warmth of its gaze, the ostrich is said to hatch its eggs. — From the work of Mrs. Hamilton (p. 315) I take the further report that the museum of the Campanari family at Toscanella contained a whole little basket of eggs, all of which had been gathered in the same tomb. That remarkable find I myself did not get to see when I visited Toscanella in the autumn of 1851.
 
@@ -1022,9 +947,7 @@ The famous amber dragon from a tomb at Ruvo in the Musée Pourtalès-Gorgier. Pa
 
 6) Macrob. Sat. 1, 12. p. 268. Zeune. Plut. Qu. r. 17.
 
-[PDF 67]
-
-— 53 —
+[p. 53]
 
 a sacred legend, in which the contrast of the former sobriety with Bacchic- Aphroditean lasciviousness and unchastity emerges as significantly and instructively as in the legend of the Pelasgian prince Piasus’s assault upon the chastity of his daughter Larisa, and of his death in the wine cask, such as the Gallic Brennus suffered, in Strabo 13, p. 621, or in the account of Diodorus (5, 62) concerning the temple legend, connected with the sanctuary of Hemithea on the Chersonese, of the enmity of swine toward the wine destined for the cult. This simulation, which keeps the name but sacrifices the thing, and applies the sacral rule ἀκίνητον μὴ κινεῖν to the name alone, has attained special significance in law, and in the many fictions through which law mediates its further formation and development. In the world of the tombs it has procured for the imitation of the rei veritas by the simulacrum a quite general diffusion.
 
@@ -1036,17 +959,13 @@ dently connected with their Bacchus religion. Creuzer 1, 63.
 
 2) Paus. 1, 2. 4. ἀγάλματα ἐκ πηλοῦ. — The fictiles statuæ of the Etruscans are evi‐
 
-[PDF 68]
-
-— 54 —
+[p. 54]
 
 representation, a true embodiment of the femininity joined with the force of Bacchus. Baked clay is Aphrodite-Ariadne, or Semele-Libera in her relation to Dionysus-Liber himself. The correctness of this idea is confirmed by another report of the same Pausanias, 8, 28. When the Roman emperor had a new bed dug for the Syrian Orontes, there came to light on the bottom of the old one a clay coffin eleven cubits long, containing a perfect human corpse of the same size. The Clarian oracle declared it to be that of the Indian Orontes. Pausanias supports this assumption by the consideration that, according to the general view, man had received his origin from the moist earth, made pregnant with water, being warmed by the sun, and that no land fulfilled these presuppositions of mighty births in a higher degree than India, which even now produces the largest animals. The same view of the origination of all births from the twofold action of the force of water and the force of fire upon the female receptive matter of the earth is set forth in that conversation on the greater antiquity of the egg or of the hen that Plutarch and Macrobius relate, and, in agreement with it, by Ovid at the opening of the Metamorphoses. The union of the moist and the warming potency for the bringing forth of all tellurian creation also forms, however, the physical foundation of the whole Bacchic religious idea. What intimate kinship Bacchus has with water is clear from several of the traits already reported. I recall his relation to the swamps and to swamp animals, in particular to serpents and water birds. I recall further the god with the bull’s foot whom the Elean women call forth from the sea, that he may come and mate with them; the juxtaposition with Osiris, whose phallus the floods of the Melo roll away; his kinship with Poseidon Phytalmius, on which the courtship of the two gods for the beautiful Beroë in Nonnus, books 41 and 42, gives so much information; his relation as lord of all moisture; the description in Nonnus, repeated on Sicilian coins, in which the Dionysian Achelous bull pours the fecundating jet of water from his mouth;1) his rearing by the nymphs, his veneration in moist caves, his relation to the dolphin, into which fish he transforms the Tyrrhenians who followed his cult, a myth that we see preserved to this day on an Athenian funerary monument known under the name of the Lantern of Diogenes; his intimate connection with Poseidon; his fish offering, as it is depicted on the walls of a tomb at Corneto.
 
 1) Ἡβητὴν ἐδίηνε κατάῤῥυτας ἰκμὰς ἐέρσης. Avellino, opuscoli. 1, 92. 137 f.
 
-[PDF 69]
-
-— 55 —
+[p. 55]
 
 And has not the myth as well, in which the newborn boy is rescued from the water, in which the god with the thyrsus coaxes the clear spring from the earth,1) in which he drinks water,2) in which he flees into the depths of the Red Sea,3) and have not the many tomb representations of evidently Bacchic relation, which Santi Bartoli has preserved for us in his Sepolcri, and on which representations of water and swamp appear in connection with Hylas, the nymphs, even with horses, whose aquatic significance is well enough known,4) and with Pegasus,5) their ground in the connection of the god with the moisture of the earth, as generative potency?
 
@@ -1082,9 +1001,7 @@ Junxerunt elementa patres, aptumque putarunt
 
 10) Liv. 39, 13. matronas Baccharum habitu crinibus passis cum ardentibus facibus decurrere ad
 
-[PDF 70]
-
-— 56 —
+[p. 56]
 
 one force, which precisely in this possesses its generative power. The same significance attaches to the union of aqua et ignis in the basin of warm water that must not be lacking among the wedding festivities, and that is also represented, in a very ingenious manner, on the Aldobrandini painting. Fire and water, Festus remarks,1) are the co-operating forces of every generation. In every sexual mingling fire and water mate, as the egg of the Dea Syria, rolled by fishes from the Euphrates onto the shore, is hatched by doves. The same two unite in the interior of the earth. Where the sun dips into the sea in the land of the Ethiopians, the same union is brought forth. Thither Prometheus in Aeschylus directs the inquiring Io. The same union recurs in the divine nature of Achilles. He, who already in his name expresses the nature of water, a nature that is confirmed in many traits, but especially in the river beds designated as Ἀχίλεως δρόμοι. He, the Thetis-born, a Peleiad like the frog, child of the swamp, as men and animals generally are, whom, like Dionysus, the sound of the trumpet calls forth from his hiding place, bore nevertheless also the name Prometheus, like Bellerophon, and was thus conceived as bringer of fire, was snatched away amid lightning and sheet lightning, was united with Helen-Luna, as the circling Lunus, on the lunar island of Leuce, was venerated on Crete as Pemptus in the nature of an Idaean Dactyl, and, in an ever advancing development of his luminous nature, was raised to Apollonian solar power.2) In bronze work the fluid and the warm state of matter appear again in intimate union. It too shows the union of the force of water and the force of fire. Therein rests the sanctity of bronze, for which Macrob. Sat. 5, 19 adduces so rich a collection of examples that it seems almost superfluous to increase it further.3) Therein rests also its connection with the deities of the generative force of the earth
 
@@ -1124,9 +1041,7 @@ Tarquinian tomb (Vermiglioli opuscoli 4, p. 7), Abeken, Mittelitalien p. 387. 38
 
 4) In Macedonia the lion is called χάρων according to Tzetzes on Lycophr. 475. χάρωνος
 
-[PDF 72]
-
-— 58 —
+[p. 58]
 
 dead man’s mouth,1) in the pieces of aes rude, which has often been found in larger quantities, most recently again in the Praenestine necropolis,2) and finally even in the idea of a great mother of earth and tomb, under the name of Juno Moneta.3) Purer than tellurian fire is the heavenly, and to this too Bacchus, like Osiris, is raised. In his highest development he appears himself as the shining Helios. In his foundation tellurian, a union of the moisture and warmth that permeate the matter of the earth, and for that reason also lord of darkness and of death, a true Aidoneus, he is nevertheless already as a boy lifted up to heaven by Mercury,4) where he now, removed from the boundaries of the sublunary, perishable world, united with Demeter as solar power, leads the year upward,5) as choragus directs the round dance of the heavenly hosts, maintains the song of the spheres in eternal harmony, and secures for the mystic lyre, which Orpheus already ascribes to him, the symbolic significance of the great cosmic concentus that unites the earthly and the uranian world.6) Uniting now in peace with the luminous power of Perseus, whom at first he fought,7) he places his cult alongside the Apollonian and receives at the Delphic oracle an equal share with Apollo himself.8) His kinship with Achilles he shows especially in this relation to the Apollonian luminous nature as well. Like the son of Thetis, Semele’s offspring finds admission into the Apollonian sanctuary, even though he is obliged to subordinate his generative nature, still conceived as more material, to the greater purity of the Apollonian, metaphysically spiritualized being,9) and remained joined to the Aphroditean
 
@@ -1156,9 +1071,7 @@ of initiation is frequent in the tombs. To this belongs the one above the entran
 
 9) Macrob. Sat. 1, 18. p. 310. Zeune.
 
-[PDF 73]
-
-— 59 —
+[p. 59]
 
 Ariadne, whom Theseus, at the command of Apollo, in order to press on to higher clarity, must leave behind on Naxos. Thus in Dionysus we have before us the lower and the higher stages of material generative force joined into unity. With his feet rooted in the depths of the earth, the seat of moisture and warmth, he reaches with his head up to the sun. Uniting all these powers in himself, he is the great phallus, the male-generative god of nature, to whom every creature owes its existence and growth. If one wishes to give this phallus a physical basis, any exclusive placing of it in the one or the other of the great generative potencies, in water or in fire, or in sunlight, would be one-sided and therefore incorrect. The union of all constitutes his true nature, and whoever sees the Dionysian Fascinus on works of sculpture must embrace in one thought all the stages of force: water, fire, sunlight. None has wholly displaced and overcome the other; they all step forth beside one another with equal validity, even though the solar potency shows a higher stage of development than the nature of water. Precisely in this Dionysus reveals his more material nature; in this he recedes behind Apollo. The latter, through his luminous nature, has placed wholly in shadow the tellurian foundation on which he too rests, and has almost consigned to oblivion his chthonian relation, in which he builds with Poseidon the walls of Troy, has the dolphin as his attribute, lives in springs, is venerated in caves, and receives the χρυσοῦν θέρος as a votive offering; and so, laying aside material nature, he has put on metaphysical incorporeality. Dionysus is essentially generative, material, and this he has remained even as solar force. The fire that penetrates the wine expresses his nature most tellingly. Through the material force of fire he transforms, on the shore of the Achelous, the water in the vine into sparkling wine.1) In the juice of the grape the highest expression of his divine force, working through the union of wetness and fire, is beheld, and the spiritual qualities that the new drink given to mortals contains within itself constitute, as they do the nature of the god, so also the character of his sensual-supersensible orgiastic cult. The weeping eye of the sculptures points to the conception of wine as a tear of the softly beautiful god. If the impure salt sea is a tear of old Cronus,2) then from the eye of Dionysus there pours the sweet wine, whose enjoyment calls forth all those states of soul to which the tear also owes its origin.3) From weeping [PDF 74] — 60 —
 
@@ -1194,9 +1107,7 @@ Euboea, of the peoples of the Po plain, and of the wines of Gallic Vienna, from 
 
 7) The pitching of wine, as it is customary in Greece today, is reported especially of
 
-[PDF 75]
-
-— 61 —
+[p. 61]
 
 of the rope-twisting Ocnus is at home.1) In the number of the priests the solar service enters into connection with water. The perforated, bellied vessel is the image of the earth, which takes moisture into itself and thereby comes to fecundation: a symbol that sheds light on the significance of the Danaid cask and of the sieve in the service of Vesta. Among the mourning ceremonies over the death of Osiris, Plutarch Is. et Os. 40 describes the following. “The priests and the stolistae carry the holy chest to the sea. In it stands a golden little casket, into which they pour drinkable water. At the same time all those present raise a great cry, as if Osiris had been found. This water they mix with fertile earth, add costly spice and incense, and make a little moon-shaped image, which they clothe and adorn, thereby indicating that by Isis and Osiris they understand the earth and the water.” Here too we have again the power of water and the power of the sun acting in united force, generatively, upon the female earth, and the latter represented on the one hand by the bringing in of the incense, distinguished by its sharp fragrance, on the other by the moon, which, through its twofold kinship with the swamp waters and with the sun, whose light enters into it, and through its own nature as earth, as ἑτέρη γῆ οὐρανίη, represents in itself the union of the entire material force of nature. The same idea is contemplated corporeally in baked clay. Into the solid matter moisture first enters. That is the mating of Isis with Osiris as lord of the waters. When the Nile floods the land, the earth takes up its waters, retains them, and is thereby made fit for generation. That is, according to Plutarch c. 31, the religious expression of that physical phenomenon, which repeats itself also in the lands of the Indus. According to Tzetzes on Lycophron 1378–1387, Neleus receives the oracle to settle ἔνθα ἂν πάρθενος αὐτῷ δῷ γῆν ὕδατι βεβρυγμένην. When a potter’s daughter now hands him earth for sealing, he recognizes the fulfillment of the oracle, takes Miletus, and founds three cities. According to others the oracle ran: his daughter would show him the place. Then he came upon her by chance as she bared her thighs, struck her private parts, and said: τίς μοι θέλει συνουσιάσαι;2) there he proceeded to the founding. Both narratives are only versions of the same idea. Water fecundates the earth as the man the woman, as the newcomer the foreign Mother Earth. The moist πηλός of the potter is, of this mating, conceived still wholly in Poseidonian terms,
 
@@ -1206,9 +1117,7 @@ adv. gent. 5, 28. — On the significance of baked clay one may also consult the
 
 2) Baubo’s propudiosi facinoris obscœnitas, as part of the Eleusinian mysteries in Arnob.
 
-[PDF 76]
-
-— 62 —
+[p. 62]
 
 the corporeal expression. If the water-heavy corporeal matter is given over to the sun or to fire, then to the force of moisture that of warmth is added, and all natural potencies unite in the terracotta. In this union the earth always appears as the materially female principle, as receptive potency; fire always as male force, which immaterially awakens life in the former, as, to make use likewise of an ancient comparison, steel coaxes the spark from the stone. Water, on the other hand, is thought of now as male, now as female: male when it stands alone over against the earth; female when, united with the earth, it undergoes, as moist matter, the action of the light of the sun. Then the wet potter’s earth is female, the sun alone male. This explains conceptions such as that of Dionysus’s deed upon Prosymnus.1) The receptive matter is conceived as male because water predominates in it. But for its part it again demands mating by the force of fire that Dionysus bears within himself.
 
@@ -1222,9 +1131,7 @@ a
 
 2) Klemm, Die Frauen, describes the ceremonies that the Chinese observe at the birth of
 
-[PDF 77]
-
-— 63 —
+[p. 63]
 
 And when at Argos Pyrrhus the Epirote, struck by a falling roof tile, ends his heroic career, he is brought to the sanctuary of Demeter and interred there, for in baked clay the hand of the goddess has struck him.1) According to Paus. 2, 18 Demeter has at Corinth a chapel ὀπτῆς πλίνθου, in which wooden statues of Kore, Pluto, and Demeter are erected. From this the special relation of the tegula to the Manes and to the tomb cult is also explained. Tegula porrectis satis est velata coronis (Ovid, F. 2, 535.) A roof tile, wreathed with garlands of flowers, is a gift dear to the dead. The dead, however, become Demetrians, and are also so called. Their souls return to union with the great earth soul Demeter, as the body is taken up again by the same maternal womb that bore it.2) Whoever has accorded closer attention to the tomb finds, especially the Etruscan, will know how to appreciate the value of Ovid’s report. For nothing is more frequent in the tombs than the tegula, from which at times the image of the deceased, sometimes also that of the great mother of the tomb, by whatever name we may call her, emerges.3) The sanctity of the tegula recurs in those ἡμιπλίνθια with which Croesus endows the Apollonian sanctuary so highly honored by him. In Asia Minor Apollo appears in a more materially chthonian nature, and in the house of the Mermnadae, whose ancestor Gyges derives his rule from Aphrodite-Tydo, the attachment to female tellurian conceptions cannot surprise. But in the choice of gold for the making of those ἡμιπλίνθια the idea of solar force emerges again in its whole significance.4) The daughter observe. They betake themselves into the hall of the ancestors, each carrying a brick in his hands. The idea of this symbolic act can only be the one developed in the text.
 
@@ -1242,9 +1149,7 @@ Mana Genita and Mania mater Larum. We can place with this χρηστοί, the go
 
 4) Herod. 1, 50.
 
-[PDF 78]
-
-— 64 —
+[p. 64]
 
 Demetrian tegulae have an unmistakably erotic significance. They are an image of sexual mating, which in German too, applying a quite natural image, we call “covering.” The account in Strabo 4, 198 of a custom of the Samnite Bacchae, who lead an Amazonian, manless life on the sacred island at the mouth of the Liger, long called Ile des Saints, rests on the same idea. Once every year the sanctuary is unroofed, but on the same day, before sunset, it is closed again. Each takes part in the work, each carries her burden to the spot; she who shows herself slack and lets her stone fall is seized by the fury of the others and torn to pieces. The purpose of this unroofing is to let the fecundating sun fall into the sanctuary; that of the roofing over, to shut it out for the rest of the year, and so to represent the image of Amazonian life in the cult itself. For, manless on the island, the women cross over to the mainland on the day of the Bacchic revel, and there, according to Amazonian practice, fulfill the commandment of the Dionysian religion. Thus the clay tegula is the sign of femininity itself, and we recognize once more the connection of terracotta with the motherhood of the earth, which takes back again into its lap all that it receives from Dionysus.
 
@@ -1252,9 +1157,7 @@ Demetrian tegulae have an unmistakably erotic significance. They are an image of
 
 The practice of laying eggs of baked clay in the tombs as a sign of Bacchic initiation has led us to the consideration of terracotta and of its connection with the physical foundations of the Dionysian religion. We have recognized in it the union of all the potencies of natural force, but at the same time also the subordination of the man to the female receptive matter. In the emphasis on the maternal principle, baked clay agrees not only with the materna myrtus but above all with the egg. Even if the egg owes its origination to the activity of male force, it is nevertheless the birth of the maternal body, indeed, in image, the maternal body itself, the uterus expositus, as Harvey puts it. Thus the proposition meets us anew that we already intimated above: in the mysteries of the eminently male-phallic god female materiality predominates. The receptive principle stands at the head of nature. The egg is the first visible ground of creation. Everything is traced back to woman. For this reason women come so much to the fore in the Bacchic cult. For this reason the priestly service of the male god rests preferably in their hands.
 
-[PDF 79]
-
-— 65 —
+[p. 65]
 
 Therefore, at Dionysian festivals, the man himself appears in women’s clothes, just as the hermaphroditic form, in which Achilles again meets him, is likewise not foreign to the god. Therefore Dionysus does not appear, like Apollo, who dwells in a higher purity of light, solitary and without sex, but always in union with female beings, in whom he is directed to work by his phallic nature: above all with all the great nature mothers, with Demeter and Kore, with Aphrodite and Hebe, with Athena and Artemis, with Ariadne-Aridela, with Semele-Libera, a generally conceived consort of Dionysus comprising the most various personifications of the female side of nature, with Dea Syria and the γυνὴ ἐπιχωρία of Patrae,1) but then also with the Charites, Horae, nymphs, Muses, and likewise with the Bacchae and Maenads, Thyiads and Lenae, Clodones, Mimallones, and Amazons, united into a female retinue, stirred in the innermost core of psychic life by the frenzy of an overexcited sensuality, and swept away now to festive, now to martial enthusiasm. What a contrast to Heracles, whose highest spiritual luminous nature stands in enmity to material woman, by whom no woman swears, to whose altar no woman has access, who for this reason bears at Phocis the surname μισόγυνος,2) at whose side stands no female complement, who prefers to destroy the Amazons rather than to inspire them to his own cause, who is angry with the Argonauts because they consort with the man-hating Lemnian women, and who alone of all remains behind on the ship; who knows how to combat and subdue the dog, the image of female matter that receives all things into itself (κύων-κύειν-κύαμος),3) who finally, holding fast to his higher nature, seeks in fire the redemption from the sufferings of the body that woman’s poison-soaked garment brought upon him. He has freed mankind from the dominion of matter, and has likewise broken the power of woman; in Prometheus he has led the higher spiritual principle to victory, and has thereby brought to its final fulfillment the promise given to his ancestress Io, who had awakened from childlike, unconscious dreaming to the torments of love, that from her womb, after 13 generations, after the lapse of a great generation-year, the
 
@@ -1270,9 +1173,7 @@ his office. See the remarkable account in Pausan. 7, 5, 3.
 
 3) Plut. Qu. rom. 87.
 
-[PDF 80]
-
-— 66 —
+[p. 66]
 
 Savior of men would come forth, and through woman’s suffering redemption would come, just as through a woman’s charms the first corruption had arisen. What a contrast also to Theseus, who in Attica bears the name of the second Heracles, drives the Amazons out of Attica, and at the bidding of the motherless Athena renounces the charms of Ariadne.1) While these heroes of light overcome matter and press through it to Apollonian spirituality, Dionysus sinks wholly into it; in that he binds woman to himself by the splendor of his sensuously beautiful appearance and inspires her to follow him, he is himself subjected by her, and from its master becomes its ever-serving instrument. He descends to it while seeking to raise it to himself; he gives up the blessedness and repose of the supramaterial existence, ever the same, to the fleeting enjoyment of sexual pleasure, of the material urge to generation, of flowing abundance. He therefore falls prey to all the sufferings and pains of visible, becoming creation, hovers with it eternally between origination and passing away, pleasure and sorrow, light and darkness, and thereby shows how wisely Zeus acted when he knew how to renounce the charms of Thetis and the material nature of Demeter. All these ideas lie in the two-colored Bacchic egg, which lends special expression to the preponderance of female matter in that it sets generation and fecundation as the highest and essential task of man, and places the power and vocation of woman wholly in the power of those sensual charms with which Pandora was once endowed by all the goddesses, to the misfortune of mortals. The image of the Dionysian woman is that Stimula,2) the Pandora-Eve who rouses to the satisfaction of sensual pleasure, and who may be thought of as Libera. In that name Aphrodite appears as the alluring and seductive courtesan, as Peitho Suadela, enticing man and so leading Penia ever to new satisfaction of her insatiable desire. To this one purpose the whole of women’s life henceforth serves. All its spiritual strivings take the same direction. The Dionysian formation of woman is the perfection of higher sensuality at all stages of human nature. Thereby woman rules in daily life, and still more in the mysteries. Of this Dionysian way of thinking, directed to the apotheosis of matter, the vase paintings give the most perfect view, and the impression that the sight of them leaves behind is doubled by the contrast that the sepulchral purpose
 
@@ -1284,9 +1185,7 @@ ing remains in any case beyond doubt; the word is telling.
 
 2) Liv. 39, 12. Ovid. F. 6, 497. Some would see in it a corruption of Semela! The mean‐
 
-[PDF 81]
-
-— 67 —
+[p. 67]
 
 of all these vessels forms to the sensuously beautiful representations that they give. Indeed, what offends the conceptions of a spiritually purified religion more than the connection of tomb and death with the artistic tendency of Dionysian tomb adornment, which advances as far as the most naked representations of sexual life? The solemn idea of inevitable destruction is sacrificed to the joyful remembrance of the most rapturous life. Not the contemplation of death, but the summons to the full enjoyment of the sensual pleasure that luxuriant youth offers, appears to be the guiding idea that rules these places of decay. The Aphroditean conception of life is set against the terrors of death, and the sorrow over swiftly fleeting pleasure is overcome by the charm of consummate sensual beauty. To be sure, the representation of skeletons and similar images of our bodily nothingness is not wholly foreign to the old world of the tombs — one need only think of the sceletri cumani, on which Jorio and von Olfers have written, and of the well-known Pompeian tomb painting1) — but the Dionysian conception of life has driven it out by the representation of erotic pleasure, and has adorned the abode of death with images of laughing life. Of the Aphroditean development and sensual refinement of existence as it took shape under the influence of the Bacchic religion, nothing gives us so perfect a view as the furnishing of the world of the tombs, which through a more deeply penetrating contrast has become the chief source of our knowledge of ancient life.
 
@@ -1296,9 +1195,7 @@ dently modeled on the shadows lengthened in the evening light, and thus render t
 
 1) I observe here that the long and slender bronze figures so often found are evi‐
 
-[PDF 82]
-
-— 68 —
+[p. 68]
 
 woman’s duty and religious commandment. Only in the most beautiful form can she please the softly luxuriant god, her lord, to whom she has been wedded in the mysteries and with whom she attains union in death; only so can she captivate man, only so further the work of nature. Only so is she a true Stimula, only so a consummate Aphrodite-Helen or Ariadne or Pandora. As the latter is represented on many a funerary monument in the act of female adornment, so similar scenes are very often repeated as signs of Bacchic initiation.1) As the immortals endow all the Pandoras with the highest charms, in order to prepare secret pains for mortals in Aphrodite’s net, and so to further the right and destiny of matter: so we see on funerary vessels winged genii engaged in the same task, and, as servants of the god reveling in the joy of becoming, furthering his work by adorning a new Pandora. As women have contributed most to the spread of the Dionysian cult, so it is they above all through whom the work of natural generation is furthered. To seduce man, nature has adorned them with all the charms with which matter is able to shine. Through these man has been roused to the first sexual act and inspired to the production of a mortal race. Through them it must also be preserved, death conquered, and eternal youth, such as Dionysus enjoys, secured to all earthly life. In this idea are united all those Aphroditean funerary representations in which the use of Coan transparent garments, of the Isiac pellucidæ vestes, of which Horace’s metiri possis oculis latus holds good, alternates with the representation of wholly unveiled female beauty, and in whose varied reproduction ancient art develops a wealth of invention that itself has its root in its absorption into the Dionysian view of life. In the same idea lies the source of many representations which, through the shattering contrasts they offer, seem to widen still further that abyss of opposition which we have designated as the general character of the Dionysian world of the tomb. What a contrast is offered by the bridal rapture of the maiden adorning herself for the first enjoyment of love, and the sad lot of suffering that inescapably awaits her births. The greatest poets have achieved the mightiest effects by seizing on this idea. “In the night of your conception, milord, things went merrier than now.” What Shakespeare compresses into these few words, Aeschylus sets down in that choral song which in
 
@@ -1306,9 +1203,7 @@ Antiquités du Bosphore Cimmerien pl. 49.
 
 1) To cite one example from the rich store, I call attention to the illustration in the
 
-[PDF 83]
-
-— 69 —
+[p. 69]
 
 the moment of highest suffering and wholly broken strength reaches the ears of Prometheus, and finds its echo in the breast of every human being:
 
@@ -1362,9 +1257,7 @@ Sueton Galba 18.
 
 6) Herod. 5, 82, 83. Athen. 11, p. 502. A fictilis calix in the service of Fortuna in
 
-[PDF 85]
-
-— 71 —
+[p. 71]
 
 in connection with the baccatum monile, Helen’s bridal veil, which her mother Leda gave her and which Achates, as Aeneas’s envoy, is charged with delivering to Dido. Helen, Dido, Leda all bear the same erotic character, which rests on the veil as on the necklace of Eriphyle. Its meaning on funerary scenes is now clear. To the charm of bridal ornament woman sacrifices all her happiness, and the terrible lot of death that attends births cannot suppress in her the voice of nature. Thereby she fulfills the commandment of the Dionysian religion. Amphiaraus returns to the earth, Polynices takes his place and becomes the fecundator of Harmonia. Only of bridal rapture shall the woman think; no thought of fate and the future, no pity, no sorrow may deter her from the fulfillment of her material destiny. Let Niobe’s grief, let Thetis’s deception be reserved for her, let her recognize too late that no beauty and no maternal care can give immortality to the perishable child of the womb, whom Isis and Demeter seek in vain to deify in the fire, and let a song quite other now reach her ears than that which resounded in the laughing joy of the wedding, when, adorned with Harmonia’s necklace, she received the good wishes of her companions: yet she must adorn herself with the loveliness of the Charites and yield to the whisperings of Peitho. She is to cast off the Amazonian life of the man-hating maiden, and through union with man fulfill the τέλος θαλεροῖο γάμοιο, the goal and crown of female upbringing. As Ariadne from Dionysus, so she is to receive the crown from the hands of man, through which, as one initiated into the god’s rites, she attains a higher existence. I have often asked myself what meaning those Amazons can have who are represented as guardians on both sides of the entrance of a Lycian rock tomb. Now the deeper relation of this scene has become clear to me. Overcome by the higher force of Bellerophon, they renounce their man-murdering wild martial ardor and return to woman’s natural vocation. Well disposed to everything male, they now gladly bear the rapture and pain of motherhood. From the virginal, sorrowless time they pass over to marriage, and gird their brows with the band of suffering. From their womb ever new nourishment is born for all-consuming death. Full of grief over the destruction of what is generated, they now stand at the threshold of the tomb, an embodiment of the idea of death, and seem to dwell on the thought of how the man-hating Amazon life would have spared them all this grief. Felices, si sine prole fuissent. But the destiny of woman demands otherwise; she must not shun even grief, if the Aphroditean commandment of Dionysus is to be fulfilled. With death [PDF 86] — 72 —
 
@@ -1378,9 +1271,7 @@ Asander are telling. The latter we may compare with Arsaphes-Bianor, the designa
 
 2) Arnob. 5, 22. ad mulieris nomen properat.
 
-[PDF 87]
-
-— 73 —
+[p. 73]
 
 she gave herself on earth. Through him she reaches the regions of the stars, where Ariadne’s crown never again withers.1) From this point of view those scenes of bridal adornment that so frequently appear on initiation vases acquire a higher meaning. They no longer concern the mortal man alone, but the god himself, to whose embrace the mother now attains.2) The beauty of the dying Amazon is recognized in its full sublimity only now by Achilles, her conqueror,3) and likewise Perseus marvels at the charms of the beheaded Gorgon.4) The girl is destined to be a mother, not an Amazon. In marriage she fulfills her higher vocation, and whatever sufferings she and her race may fall prey to, as a mother she will nevertheless press through in death to the fullest development of her beauty. In this sense those sarcophagus representations are to be understood which show us man and woman under the image of Achilles and Penthesilea. In the same sense, Harmonia’s necklace. Marriage preserves woman from both degenerations of her sex, from man-hating warlike passion and from unregulated hetaeric love of men. Marriage alone brings her repose; in it alone can woman unfold the whole beauty of her nature, and at last in higher regions attain lasting union with the male god, as Psyche, after the wanderings of sensual-tellurian life have been endured, is united with Eros, and Helen at last, joined with Achilles on the lunar island of Leuke, leads a rapturous existence raised above all unrest and mutability. Through marriage Dionysus becomes the redeemer of the woman consecrated to him. Nor may the lot of death that attends her children keep her from fulfilling her destiny. If Thetis at first laments the destruction of her glorious son, her sorrow is at last turned to joy by the posthumous fame that his virtue has won for him. If she has vainly tried everything to adorn Achilles’s body with the same immortality that she herself enjoys, she now realizes that this is allotted not to the body but to the soul alone, and can be won only through virtue. To the islands of the blessed Achilles has attained, “because this man, since
 
@@ -1400,9 +1291,7 @@ of Ariadne appear wholly of the same nature as Harmonia’s necklace. Ovid. F. 3
 
 4) Paus. 2, 21. 6.: καὶ τὸν Περσέα τὸ κάλλος ἔτι καὶ ἐπὶ νεκρῷ θαυμάζοντα.
 
-[PDF 88]
-
-— 74 —
+[p. 74]
 
 he had learned from his mother that he would die if he killed Hector, but if he did not do so would return home and end his days in old age, nevertheless dared, choosing rather to help and avenge his lover Patroclus, not only to die for him, but also to follow the dead man in death.”1) These are the καλαὶ ἐλπίδες of those ὅσοις τὸν βίον σωφρόνως διελθεῖν ὑπῆρξεν,2) these the conceptions which made Achilles and his circle of myth the center of a whole large class of funerary scenes. Through the virtue of the heroic life death is overcome and eternally blessed life is won. Immortality falls to the excellent. Blessedness is the reward of toil. To the ignoble it does not fall. Death indeed is the lot of all, and mournfully Homer laments that the idle man dies the same as he who has accomplished much; but virtue leads the noble to immortality in the realm of light.
 
@@ -1434,9 +1323,7 @@ himself, woman the dignity of her husband.”
 
 2) Paul to the Corinthians 1, 11, 7: “Man bears the image and dignity of God in
 
-[PDF 90]
-
-— 76 —
+[p. 76]
 
 clay in the tombs back to that earthen coffin in which Dionysus lays to rest on Naxos the Ariadne whom Theseus had yielded to him, and in connection with this we demonstrated in the terracotta the union of all those physical elements that form the material basis of the Bacchic idea. In this, too, it appeared to us as the perfect expression of the Dionysian religion: in uniting female matter with the male force it leaves the preponderance to the former. The same relation now recurs in the moon, and Dionysus belongs to the lunar region as well. Hitherto we have found him on two levels of the cosmos: first in his union with tellurian matter, which, as the bearer of the male force, he permeates in the form of the chthonian waters and the chthonian fire; then again as the shining sun, as the heavenly phallus, akin to the Apollonian luminous nature, yet, as the materially generating Helios, subordinate to the metaphysically pure nature of Apollo. Now he presents himself to us in a third form. He reappears as Lunus Deus, as νυκτοφαής and σύνδρομος μήνης, who leads the nocturnal round dance of the shining stars of heaven,1) and who, like Ariadne’s crown, takes up among the stars those initiated into his rites. In this Lunus nature he leads the tellurian and the solar potency back to unity. All the components of his physical being are united in the moon, as they are in burnt clay. According to the ancient, and especially the Orphic, view, the moon occupies a middle position between earth and sun. Material like the earth, and therefore designated as ἑτέρη γῆ οὐρανίη or as the Olympian earth,2) it is called the purest of the earthly bodies and the most impure of the heavenly ones. It lies on the boundary of two worlds, the tellurian, in which Becoming dwells, and the solar, in which Being dwells, and unites in itself the nature of both. From the sun it borrows its light; with the earth it shares its material nature. Like the earth, it is a true γῆ; mountains, rivers, and cities are to be found on it,3) but it is not an
 
@@ -1452,9 +1339,7 @@ clay in the tombs back to that earthen coffin in which Dionysus lays to rest on 
 
 3) Plut. de fac. in orbe lunæ 21. Jablonski, Panth. Aegypt. Pars 2, p. 55 sq.
 
-[PDF 91]
-
-— 77 —
+[p. 77]
 
 earth that is tellurian, but a uranian earth, of purer matter than that, yet more impure than the sun, the purest of the earthly, the most impure of the heavenly bodies. For this reason it also forms the boundary between the world of being and the world of becoming. Beneath the moon everything is perishable, caught up in eternal waxing and waning, like the moon itself; above it everything is imperishable, incorporeal like the light of the sun, and subject to no change. Thus the lunar region divides the ὁδὸς ἄνω καὶ κάτω; in it the incorporeal assumes body, the corporeal incorporeality. There the descending and the ascending beings meet; there dwells ψυχή, as σῶμα corresponds to the earth, νοῦς to the pure light. For the nature of man is composed of three constituents, like the κόσμος. ψυχή is the middle stage, purer than σῶμα, more impure than νοῦς; through a first separation σῶμα, through a second ψυχή is stripped away, and only then does νοῦς partake of its spiritual purity of light.1) In this union of two natures, the tellurian and the solar, lies the origin of the hermaphroditic lunar nature. The heavenly earth unites both sexes in itself. Man and woman at once, it is the former in its luminous nature, the latter in its materiality: female receptive in relation to the sun, and sending forth what it has received, in rays of fecundating light, male toward the earth. In this union of both sexes the male appears indeed as the higher, because it springs from the sun, but the female, through materiality itself, as the preponderant. Therefore Luna is more frequent than Lunus, and even Deus Luna2) is in use; therefore ψυχή is female, νοῦς male, σῶμα without sex; therefore in the Thespian mysteries of Eros, in whose mimic representations the fable of Psyche and Amor, as Apuleius relates it, has its root,3) Psyche is always conceived in woman’s form; therefore also in the mystery doctrine of the palingenesis of man the proposition was adopted that the male soul always rises again first in a female body. In the Carrhaean sanctuary of the θεὸς Μήν the teaching was preserved even under the Roman emperors that in the house of him who invokes the moon as Lunus the man will rule, while conversely with Luna is bound up the rule of women.4) We derive
 
@@ -1468,9 +1353,7 @@ id memoria traditum, atque ita nunc quoque a Carrenis præcipue haberi, ut qui L
 
 4) Spart. in Carac. 7. Et quoniam Dei Luni fecimus mentionem, sciendum doctissimis quibusque
 
-[PDF 92]
-
-— 78 —
+[p. 78]
 
 from this a confirmation of the assertion that the designation Selene and Luna also expresses the preponderance of female materiality in the double sex of the lunar world. This conception of the lunar world intervenes, guiding and explaining, in all parts of ancient mythology.1) But it corresponds so perfectly to the physical foundations of the Dionysian religion that we are entitled to grasp the latter itself as the cultic expression of the developed conceptions of the lunar world. The three constituents of the Dionysian being, earth, water, light, recur in the moon too, united into one. As the moon occupies between earth and sun a middle stage joining the two, so Dionysus also has an equal share in tellurian and solar nature; purer than the earth, he is yet more impure than Apollo, a material Helios. The moon unites both sexes in itself, and so does Dionysus, who joins to a male-phallic nature the female softness of bodily forms.2) In the moon female materiality rules over male nature, and so in the Dionysian mysteries and the Oschophoria the men also assume women’s clothing.3) Hidden, the phallus rests beneath the exterior of woman. But wherein the moon displays the Dionysian nature most clearly is the intimate union of both sexual potencies, whose longing for union attains in the heavenly earth a never-ending fulfillment. Dionysus’s
 
@@ -1484,9 +1367,7 @@ Clarac, musée de sculptures Pl. 666. F. no. 1554. D. It shows a hermaphroditic 
 
 3) Nonn. Dion. 46, 87. Plut. Thes. 30.
 
-[PDF 93]
-
-— 79 —
+[p. 79]
 
 love for woman, his desire for generation and fecundation, woman’s longing for the god, from whose masculinity she expects the fulfillment of her destiny, the aversion to solitary life that expresses itself in the female festal retinue and in the ever united appearance of generation-hungry fauns and satyrs with Bacchae reeling in their senses: all this is realized in the moon. Into the moon Osiris enters,1) longing for female matter, to which he descends as the ray of the sun falls down upon the moon. Following the phallic trait of his nature, he gladly renounces the solitary majesty in which Apollo, like the sun, is best pleased. Through Luna he becomes Lunus. He does not wish, alone on an unapproachable height, to enjoy his own majesty and to perish in barren, Narcissus-like self-contemplation. Mene he seeks, to her he descends, sinks into her material nature, circles about her constantly, an inseparable companion, σύνδρομος Μήνης. In this nature his being, subordinate to Apollonian purity, reveals itself most clearly. No desire for generation can draw the Apollonian god down from the solar height in which he sits enthroned forever in metaphysical clarity. Apollo never becomes Lunus. He belongs to the world of being and has no part in that of becoming. He does not enter into its change, but looks from an unapproachable height upon the ever-rising, ever-sinking waves of creation, ruled by the fate of nature, which Phaethon and Bellerophon are unable to escape. To the Dionysian stage belongs Achilles also, belongs the Cretan Talos. As in his double nature of fire and water, so Achilles corresponds to the Dionysian idea of the deity also in his elevation to Lunus and in his kinship with Apollo, in whose sanctuary he, like Dionysus, finds admission in a subordinate position. An enemy of the Amazons, against whom he renews the combat even on Leuke, drawn by irresistible longing toward woman, and, against his mother’s warning, wrestling for Hemithea on Tenedos, he first attains his wishes on the shining lunar island. There, as Philostratus, Heroica 19 describes it, the most beautiful of men, united with the most glorious woman, leads an eternally blessed life of rapture, and satisfies that love which on earth the dying queen aroused in him in a moment when death frustrated its fulfillment. As Lunus he now circles his beloved, swift-footed in the heavens, as on earth the hurrying stream of the never-resting water. So vase paintings represent him. As Lunus he is related to the fire phenomena of the material aether, like Dionysus. As Lunus he is also hermaphroditic [PDF 94] — 80 —
 
@@ -1506,9 +1387,7 @@ her statues, which are provided with horns to represent the changes of the moon.
 
 4) Cf. Pindar. Ol. 11, 78.
 
-[PDF 95]
-
-— 81 —
+[p. 81]
 
 best at the full moon,1) when the udæ ignes2) of the heavenly queen further the work. So near is the moon in kinship to woman that it becomes possible for woman alone to draw it down to the earth,3) and already in Joseph’s dream the appearance of the moon is interpreted as the mother.4) The father is the sun. His incorporeally awakening force falls from above on the female χώρα γενέσεως,5) as (according to Plato) a perpendicular line on the horizontal base. The action of man, like that of the sun, is a mere ἐγείρειν, and was compared by the ancients to the action of the steel on the flint. The lunar nature of woman, on the other hand, is of a material kind. Therefore the Apis bull bears the lunar sign on its body,6) therefore the Roman patrician the lunula on his shoes.7) According to his higher paternal nature he is one consecrated to the sun, according to the materially maternal nature a child of the moon. To the moon is consecrated the biga, the female two, to the sun the four-horse chariot, the male Tetractys. To the swamps the moon has a closer relation. From their moist exhalations it draws its nourishment. The swamps, however, show the image of the spontaneous generation from the earth that proceeds from the intimate interpenetration of water and earth. Hence swamp islands bear the lunar nature above all. On the island that arose from an accumulation of mud, like the Echinades of Alcmaeon, at the mouth of the Liger, the Samnite women, inspired in Bacchic fashion, lead their Amazonian life. The shining island of Pontus, which Philostratus describes to us as an island of mud, is the abode of the lunar woman Helen and of the Amazons.8) As the moon in the
 
@@ -1540,9 +1419,7 @@ one, nevertheless deserve attention.
 
 8) Aen. 6, 640, places the fortunatæ insulæ in the circulus lunaris.
 
-[PDF 96]
-
-— 82 —
+[p. 82]
 
 moist night sky, so Leuke is enthroned alone in the sea, whose waves splashing gird it round. The force of water and of fire embrace each other in the nocturnally moist light of the queen of heaven, whose ray, when it falls on a cow in heat, gives the god Apis his origin. The idea of female fertility has found its highest expression in the egg-birth of the lunar women, and this idea of the σεληνίτιδες γυναῖκες is doubly important to us because we have recognized the lunar nature of the women of Dionysus. Neocles of Croton says that the Helen egg fell from the moon; from a silver egg, the image of the moon, the Molionidae, λευκίππους κούρους, ἰσοκεφάλους, ἐνιγυίους, came forth, writes Ibycus, and quite generally that Neocles adds: τὰς γὰρ σεληνίτιδας γυναῖκας ᾠοτοκεῖν ἁπάσας. Athenæus 2, 50. Eustath. Od. 11, 298. Herodotus of Heraclea adds that the moon-men who come forth from those eggs are fifteen times larger, a number whose significance we shall return to later. Plut. Pl. phil. 2, 30. In these eggs the moon reveals its material maternal nature, in which it appears as ἑτέρη γῆ οὐρανίη. It is itself Aphrodite’s womb, itself the egg, which like Luna, hermaphroditic, unites in itself the force of both sexes and encloses the germ of all visible creation. When the myth relates that the egg from which Aphrodite-Syria- Semiramis comes forth fell from heaven into the Euphrates, was rolled ashore by fishes, and hatched by doves, here too we must think first of the moon, and the connection of fishes and doves is to be taken as an indication of the double force of moisture and warmth, necessary for generation and united in the udæ ignes of the moon.1) So the lion that the solar hero Heracles slew at Nemea, where the egg-born Molionidae too, the Eleans named after their mother, were struck by the same arrows, fell from the moon into the Peloponnese, as Aelian H. A. 12. 7 and Plutarch de facie in orbe lunæ c. 23 report. The lion, however, unites in itself the same double potency of fire and water, so that, like so many other symbolic animals, notably the horse and the ox, it belongs not only to the sun but equally to the tellurian waters and their generative force, and bears the phallus, with which a Florentine terracotta represents it,2) in this double relation. Lions’ heads pour from their mouths the fecundating jet of water,
 
@@ -1552,9 +1429,7 @@ the island of Kos, whose illustration Brönsted gives, is certainly also related
 
 2) Bulletino 1843, p. 58. O. Jahn, Leipziger Berichte 1855, 77–79. — The lion of
 
-[PDF 97]
-
-— 83 —
+[p. 83]
 
 and Charon designates the water lion, who is enthroned in the swamps of the underworld and dwells in the sutilis cymba, and therefore, as a guardian of tombs, occurs often in Etruria especially,1) and at Sardis is connected with hetaeric generation.2) The old name of the Peloponnese, Apia, agrees with the Nemean cave lion and his relation to tellurian moisture. For that it goes back equally to aqua, like Eporedia, Epona, Epidius, Aper the animal of the moist grounds, Apium the spring plant of ever-green flourishing, like Epus itself, which forms one word with Apa just as it designates one thing with it, can be subject to no doubt. The fall of the moon egg from heaven may have led to that custom, which the Turks still keep today, of not laying the egg on the ground in sanctuaries, but of hanging it up. In the temple of the Leucippides at Sparta there hangs down from the tholus, which often shows the same purpose, held by taeniae, an egg;3) that it was thought of as the primal egg from which Hilaira and Phoebe themselves came forth, is obvious. If it was therefore referred to the Leda egg, to which the lunar woman Helen owes her origin, the fundamental idea, with all the arbitrariness of the reference, was yet quite correctly rendered, and as Helen, so also the pair of sisters Hilaira and Phoebe bear the lunar character in their names as in their descent from Apollo, and in the silphium that covers the sacred trapeza display clearly the relation to tellurian fertility. On taeniae hang the eggs of the dream vision mentioned above, from the bedstead, and the six ostrich eggs of the Grotta d’Iside at Vulci show hollows, evidently destined for hanging on threaded ribbons. On this rests the custom of adorning the Bacchic initiation egg too with ribbons. Santi Bartoli communicates in his Pitture, on plate 4, a wall painting found in the baths of Titus, whose center is formed by the youthfully beautiful god with all the signs by which art traditionally is accustomed to express the posture of repose, with the thyrsus in his right hand and a garment thrown wholly apart in front. From the right a female figure approaches the god, presenting on the palm of her right hand the large egg richly wound about with taeniae. On the left, turned away, a second blows the double flute. The relation of the taeniae to the tomb cult is well known. It has its ground in their connection with the female side of nature.
 
@@ -1566,15 +1441,11 @@ tract special attention through their technique. They are formed of small wooden
 
 3) Paus. 3, 16, 2.
 
-[PDF 98]
-
-— 84 —
+[p. 84]
 
 At Megalopolis, beside the sanctuary of the mother goddesses, in which the initiations are celebrated, stands another, of Demeter and Kore, which only the women may enter throughout the year. The base on which the images of the gods stand is surrounded on all sides by the rich adornment of taeniae. A taenia winds around the pair of horns of Io on a funerary terracotta from Sicily, now in the Karlsruhe Museum, which I publish from a new drawing in the appendices to my Mutterrecht. Io’s lunar nature, inclined to love, which receives the many-eyed starry heaven as its guardian, is expressed plainly in her horns and no less in her name, which in Argive signifies the light. Thus the connection of the taenia with the egg acquires a deeper meaning. It meets us on vase paintings in the following form as well. A Vienna vessel shows a funerary column resting on a base; the wave ornament, τὰ κύματα, adorns the base, the column a double taenia, white above and black below, which is wound around the stele at a height of two thirds of the whole. On the top of the column lie four white, ovoid bodies, in which, with more certainty than in similar vase scenes, three smaller eggs and one of double size are unmistakable. The Bacchic character of the whole representation is plainly recognizable in the attributes of the figures distributed on both sides: the radiate crown of the woman, the sphere, the weaving implement furnished with rungs like a ladder, the mirror, the patella. The picture is unpublished. It bears the number 5,255 in the Vienna Cabinet. What idea we are to recognize in this binding with ribbons cannot be said with certainty. Most to be recommended is the connection with the conception of the weaving of the great nature mother. Above we cited the Egyptian χειρόμακτρον of Demeter and the laciniæ mentioned by Apuleius, and in Juno Lacinia too we must recognize such a weaving Hera. The veil of Helen has the same significance; as a woven piece it bears within it the tellurian-Aphroditean nature. To these are joined the fillets, which, precisely as products of weaving, belong to the mother goddesses, and which, through their combination of the alternate appearing and receding of the threads, acquire a special relation to the tombs. Hence, too, their significance in the mysteries. As signs of initiation they appear in countless scenes; among the mystery symbols they occupy a high rank, and they are joined in this especially to the egg and the myrtle, that like these they stand in the closest relation to the female side of nature.
 
-[PDF 99]
-
-— 85 —
+[p. 85]
 
 8.
 
@@ -1604,9 +1475,7 @@ of Heracles among the Coans, among whom the bridegroom greets the bride in femal
 
 3) Athenæus 12, c. 14.
 
-[PDF 102]
-
-— 88 —
+[p. 88]
 
 combined with the condemnations that the Church Fathers pronounce on the mysteries, form a strange contrast to that warning of the Eleusinia, ut nemo ingrediatur, nisi qui se innocentem novit.1) Xenophon relates at the end of his Symposium (c. 9) that the love of Bacchus and Ariadne, represented by skillful dancers, produced so powerful an impression on the guests of Callias that the unmarried swore to take wives before long, while the married straightway mounted their horses and hastened away to their wives. The processions themselves advanced, in ever greater departure from the old simplicity, as Plutarch describes it, to the pomp of an ever-growing sensuality, and so contributed not a little to excluding more and more the ennobling influence that might have been expected from the union of Apollonian with Dionysian religion.2) In place of the elevation above matter there set in an ever deeper sinking into it, and while men believed they were conquering the lust of matter, they succumbed to it beyond all rescue.
 
@@ -1626,9 +1495,7 @@ tères du paganisme c. 2. p. 96.
 
 4) Herod. 2, 62. τὰ δὲ λύχνα ἐστὶ ἐμβάφια ἔμπλεα ἁλὸς καὶ ἐλαίου· ἐπιπολῆς δὲ ἔπεστι
 
-[PDF 103]
-
-— 89 —
+[p. 89]
 
 fire at the Prytaneum is often mentioned: Τὸ δὲ λύχνιον ἐν πρυτανείῳ in Theocrit, Id. 21, 36, a passage whose various explanations Kiessling, pp. 560– 564, brings together; especially Schol. on Pindar Nem. 11, 1. p. 510. Boeckh: Τὸ ἱερὸν λεγόμενον πῦρ. Not only at Athens, but likewise at Syracuse and in other Greek cities,1) this eternal lamp stood at the Hestia altar of the Prytaneum.2) “In Greece,” relates Plutarch in Numa 9, “where likewise (as at Rome) such a sacred fire is maintained, as e.g. at Delphi and at Athens, not virgins but widows who no longer wish to marry have the charge of it. If this sacred fire ever goes out, as the sacred lamp is said once to have gone out at Athens under the tyrant Aristion, and at Delphi when the temple was burned by the Persians, and at Rome in the Mithridatic and civil war the fire vanished together with the altar,3) then, it is said, no new fire must be kindled from another, but an entirely new and pure one must be caught from the rays of the sun.” It was also fetched, however, from Delphi, or from Delos, whence the ship brought it to the Lemnians every year. After the battle of Plataea the Delphian god gave the Greeks the instruction “that a temple should be built to Zeus the Liberator, but no sacrifice made until all the fire in the temples of that region, which had been desecrated by the Persians, had been extinguished and pure sacred fire kindled anew from the common hearth of Greece at Delphi.” Thereupon the Greek generals went around and had all fire extinguished. To Plataea, however, it was brought by Euchidas, who completed the way there and back in a single day and had covered the thousand stadia before sunset. When he sank down dead, the citizens of Plataea buried him in the sanctuary of Artemis Eucleia.4) — Plutarch gives in Numa 10 and Qu. rom. 96 the description of the cave in which the unchaste Vestals ended their lives. It was dug out in a hill near the Colline Gate: “In this cave stands a prepared bed, a burning lamp, and a few provisions, bread, water, a vessel full of milk and oil, as though it were a sacrilege to kill by hunger that body which had been consecrated to the most sacred service.” This last remark recalls the Roman custom of extinguishing no lamp, but always
 
@@ -1644,9 +1511,7 @@ Casaubon. on Athen. 15, 19. Meursius, Athenæ atticæ 2, c. 8.
 
 4) Plut. Aristid. 31.
 
-[PDF 104]
-
-— 90 —
+[p. 90]
 
 letting it go out of itself. Plutarch gives his thoughts on this in the 75th Roman Question. “Is this done perhaps because the Romans honored light as related and akin to the eternal, inextinguishable fire? Or is this too a symbol that nothing animate, if it is not harmful, may be killed or destroyed? For fire is like an animal, since it needs nourishment, moves of itself, and in being extinguished, as if it were being killed, utters a voice. Or is this custom meant to teach us that we must destroy neither fire nor water nor other necessary things of which we have enough, but, when we have used them, must leave them also to others who need them for use?” — Isis joins the series of the great nature mothers who bear the lamp among their attributes. In her procession the lucerna ardens is carried in front. Apuleius met. 11, p. 261. Quorum (sc. antistitum sacrorum) primus lucernam præmicantem claro porrigebat lumine, non adeo nostris illis consimilem, quæ vespertinas illuminant epulas, sed aureum cymbium, medio sui patore flammulam suscitans largiorem. And further: Magnus præterea sexus utriusque numerus, lucernis, tædis, cereis, et alio genere ficti luminis siderum cœlestium stirpem propitiantes. It can therefore not be surprising that in the mythical narratives centered on the Egyptian king Mycerinus, the builder of the so-called pyramid of Rhodopis, the lamp plays a very prominent role. At Sais, where the great lamp festival was celebrated in honor of Athenaia, Herodot (I, 129–134) saw in the royal palace, in an ornamented chapel, the life-size image, made of wood, of a cow lying on its knees, whose body was covered with a purple cloth, while its neck and head were thickly gilded. Between the pair of horns rests the sun disk, likewise of gold. Every day perfumes of the most various kinds are offered to it, and throughout the night a παννύχος λύχνος is set before it. In an adjoining chamber there stood twenty female statues, likewise of wood, whose hands had fallen off from age. Herodotus saw them lying at the feet of the statues. Once a year the cow is led out of the sacred chamber into the light; this takes place at the festival when they mourn the death of Osiris. Works of art confirm the Herodotean description. A Venetian relief, whose illustration Gronovius and Wesseling add to their editions, shows the recumbent cow, the body cover, the image of the sun, the incense vessels, and, carried by two boys, the burning lamp, adorned at the end opposite the flame with the head of Isis covered by the ox-scalp. From the tombs of the Theban necropolis the authors of the description de l’Egypte, antiquités 2, p. 169, communicate a corresponding [PDF 105] — 91 —
 
@@ -1668,9 +1533,7 @@ obducitur. — 2, 25: ut sinus et gremium quasi matris mortuo tribueretur. Liv. 
 
 6) Known for its cult of Latona, Herod. 2, 59.
 
-[PDF 106]
-
-— 92 —
+[p. 92]
 
 lived, and he, who was after all a God-fearing man, should die so soon. Then he received a second oracle: precisely on this account his life would be shortened, for he had not done what he should have done. For Egypt was to be unfortunate for 150 years, and the two who had been kings before him had noticed this, but he had not. When Mycerinus learned what was now once for all irrevocably decreed for him, he had a great number of lamps made, and when night came he lit them, and drank and was of good cheer, continued this day and night, and roamed about in the swamp lands and in the woods wherever he could find a place suited to pleasure and joy. This he did to give the oracle the lie, by making twelve years out of six, since the nights had become days.” The religious idea of this second Mycerinus myth lies plainly in the open. All its individual features are explained by the cult of a nature mother conceived as hetaeric, whether we call her Latona or Isis, and by the opposition of this cult to the religion of the shepherd kings, hated by the native Egyptian population. The service of the great material mother appears restored, who rules in the swamps around Buto, crosses the waters in the papyrus boat, is held sacred by the animals of the watery depth, out of innate generative desire seeks everywhere the vanished phallus of Osiris, is crowned by Horus with the ox-scalp on account of her wanton nature, and in the form of a swallow, on the swampy shore of Byblus, circles longingly the Osiris column in the palace of Malcander and Astarte.1) As priestly king of this goddess Mycerinus appears. In swamps and in moist forest thickets he roams about. There he has his pleasure and joy. Here the work of tellurian generation thrives most luxuriantly. But the most vigorous life consumes itself most quickly. Not a long existence, as he expected it as the reward of his εὐσέβεια, does Isis grant him; rather the goddess of swampy Buto announces to him a swifter destruction of it. In six years he will live through twelve; with the seventh a new generation begins. In this religious system the night side of nature comes especially to the fore. Swifter and more violent is the annihilation in hetaeric swamp generation, where the natural force continues its work of generation without interruption day and night. In the fate of Mycerinus death reigns all-powerful. Isis appears in it preeminently as the destroyer of life. As she did the daughter, so she consigns the father to swift destruction. Her cult image becomes a coffin. In hetaeric life both lie so close together, the highest enjoyment of material existence and its highest transience. The swiftly fading [PDF 107] — 93 —
 
@@ -1686,9 +1549,7 @@ contested, in my opinion without success, by O. Jahn in the Archäologische Beit
 
 2) As this has been definitely stated, following Buonarroti’s lead, by Böttiger, and
 
-[PDF 108]
-
-— 94 —
+[p. 94]
 
 Psyche is raised to the heavenly one. We recognize that Helen who, yielding to Aphrodite’s natural law, finds no end of sufferings and wanderings until at last, on the luminous lunar island, the most glorious of women, united in eternal union with the most glorious of heroes, she finds the repose that not the tellurian but only the heavenly Eros is able to give. Down there all is unrest, suffering, deceptions as unexpected as solutions are inexplicable: here repose, eternity, and security of enjoyment, the magic of transfiguration, such as the stillness of the moonlit night pours over the dwellings of men, noisily astir by day. There the impurity of tellurian matter, the serpent and the reed, which find their origin in the mire of dark depths, the witnesses and symbols of the unregulated mating of water and earth; here the butterfly that has broken through from the chrysalis of matter to the light, seeking light and having become a partaker of the light; there the purely material, here the uranian Aphrodite; there hetaeric, here conjugal union; there σῶμα, here ψυχή; there the lightless matter of earth, here the purified heavenly earth, the moon, the purest of the tellurian bodies. In Psyche Aphrodite herself ascends to the lunar stage, the highest that the materiality of woman can attain. At her side appears Eros as Lunus. Amor and Psyche are united by the same bond that encircles Lunus and Luna, Achilles and Helen. The kiss that unites them is the basium, which the husband gives the wife, not the suavium, which the friend gives the hetaera.1) The purity and chastity of love that has attained its final fulfillment is expressed in the group of the figures embracing for the kiss with a perfection that no lyric depiction can attain. And yet it would be altogether contrary to the ancient artistic idea to think here of a depiction of purely spiritual love. We have before us not this but earthly love raised to the highest purity. As the moon is the purest of earthly, the most impure of heavenly bodies, so Psyche too takes the same middle position on the boundary of two worlds. She joins the materiality of the one with the purity and tranquil clarity of the other, compels the body to participation in the light, the light to connection with the body, and so holds herself equally far from the immateriality of the one as from the impurity of the other. σῶμα and νοῦς come in Psyche into indissoluble union, and so give origin to a being that raises matter to the farthest limit of ennoblement of which it is capable. To this stage the idea of sexual love is not foreign. But it has put off the Aphroditean-hetaeric character and taken on that [PDF 109] — 95 —
 
@@ -1702,17 +1563,13 @@ by Gerhard, Arch. Zeit. N. F. 6, pl. 23. The relation to the mysteries is unmist
 
 2) Psyche and Eros appear as part of a Bacchic thiasus on the sarcophagus published
 
-[PDF 110]
-
-— 96 —
+[p. 96]
 
 trembling at the outermost tips, and carelessly scratches her thumb with the arrowhead. Then from the lamp itself a drop of burning oil drips onto the right shoulder of the god, as though it itself were driven by longing to mingle with the lord of all fire. But Eros, awakening from deep sleep, avenges the girl’s disobedience by flight. Sinking exhausted to the ground, she sees the beloved torn from her at the very moment when she had recognized his glory. So the incident with the burning lamp forms the true turning point in the course of the trials which Aphrodite imposes on Psyche, who rivals her in beauty. In place of the sexual enjoyment covered with darkness there appears the longing for the possession of the god recognized in all his glory. To the bodily wound is joined the deeper suffering of psychic pain. For wounding is the principle of love, as Plutarch profoundly emphasizes. As the plowshare opens the earth, and the force of man opens woman’s maternal womb by wounding it, so too in the psychic domain the arrow of Eros pierces the girl’s heart by wounding it, and her whole being is flooded by the painful, ever-growing longing for union with the heavenly bridegroom once beheld and ever present before her eyes. In the restlessly flickering flame, in the glowing oil that strives to join itself with Eros, Psyche herself is prefigured. The nocturnally dark mingling with the dragon1) forms the content of a lower stage of sexual life. It is tellurian swamp mating, which rules in the moist depth of the earth. It is the mingling of Isis and Osiris in the lightless maternal womb of Rhea. Under the bushel stands the burning light, as the great courtesan Lamia reveals her purely tellurian hetaeric character by putting her eyes in a bag. The removal of the modius, the seizing of the burning lamp, denotes the break of a new day, the transition to a new state, the beginning of new sufferings that bring about the final redemption. Psyche seeks the light, as the moth, whose wings she bears, is drawn by an irresistible urge to the flame. In place of tellurian moisture there appears the higher stage of fire, in place of darkness and chaos that of light and order, in place of unregulated hetaerism the longing for elevation to conjugal union. The tellurian stage of pure materiality is followed by the lunar, on which matter itself takes on the nature of light and thereby penetrates to a higher purification. In the oil-filled burning lamp this lunar-psychic stage of the female being has come to symbolic representation.
 
 1) Cf. Aelian, H. A. 4, 54; 6, 63; 6, 17; 8, 11.
 
-[PDF 111]
-
-— 97 —
+[p. 97]
 
 It corresponds to it perfectly. As the moon is purer than the earth but less pure than the sun, so too the burning oil is a combination of materially tellurian matter with the light, and thereby a union of the purely tellurian and the purely solar principle into an intermediate stage of existence mixed of both potencies. As, further, in the moon the material nature of woman predominates over the immaterial force of the sun and draws this down to itself for entry into matter, so also the fire in combination with the oil takes on a preponderantly material nature. The oil itself, like the olive tree from which it comes, is brought into connection with the female natural principle. Thus Athena,1) thus Damia and Auxesia are recognized in the olive tree.2) Olive tree and palm make possible Latona’s delivery;3) petroleum is ascribed to Medea. When Codrus had died, and his sons Neleus and Codrus were contending for the rule, the oracle promised the rule to him who should first sacrifice ἔνθα ὁ σίαλος τὸν σίαλον τρίβει. Neleus recognized the fulfillment of the oracle when he saw two olive trees move and rub against one another. He brings the sacrifice and rules over Attica.4) The relation of the pig to Demeter and to material earth, however, belongs to the best-known remnants of the old animal symbolism, for which I cite only Ovid’s saying terræ plenæ victima plena datur. In Vesta’s sacred flame lies a similar connection of the oil with the female natural principle, and the preeminent purity of this liquid, which the ancients emphasize,5) as well as the calming influence to which even the wild waves of the sea submit, may well have seemed to many a special expression of the calmly chaste nature of that deity who unites in herself the concepts of motherhood and virginal chastity. In keeping with this significance of the oil, the living sensibility that Apuleius ascribes to it, as well as the prohibition against extinguishing the flame, seems wholly to correspond to the spirit of the old nature religion.6) The same desire for union with the beautiful Eros, the lord of all fire, whose sting drives Psyche, penetrates also the hot liquid. Psyche appears herein herself as a great nature mother, attesting her fertility in the gift of oil, no
 
@@ -1734,9 +1591,7 @@ oil.
 
 6) Plutarch de garrulit. gives the line of a poet in which Bacchis calls the little lamp a god.
 
-[PDF 112]
-
-— 98 —
+[p. 98]
 
 less than Athena, Auxesia, and Damia, the goddesses of marriage of tellurian-lunar nature, to whom the maidens dedicate hair, cloak clasps, and small earthen drinking bowls. Proofs of this relation to the fertility of the earth are laid down in individual, very essential features of the Psyche myth. As her kinship with the river reed assigns to her the lowest stage of tellurian generative desire, so she appears, in that labor which she performs in Demeter’s temple, in the sorting of the seeds which the ants, omniparentis terræ agiles alumni, undertake for her, finally in the fetching of the golden sheep’s wool, as the all-bearing Ceres, as the giver of the higher blessing of agriculture, and in the sleep of death from which the touch of Eros awakens her the fate of the seed grain is represented, and the resurrection, mediated by its death, to a new, fairer life. Thus Psyche’s whole being is dominated by the idea of material fertility. She shares with Aphrodite, with Ceres, with Juno the maternal nature that longs for ever new mating with the all-awakening Eros. But she rises above this tellurian stage, on which she is able to give origin only to the plants of the land, to the unwept lower creation, to the higher maternity to which man, the crown of earthly creation, traces back his origin and his continuance. In comparison with this higher perfection of femininity, her relation to the swamp plants and to the golden fruits of the fields appears as a lower region of materiality, as a subordinate function of the female sporium, which first in human marriage and in the begetting of true children (hence joined with Eros in confarreatis nuptiis) fulfills its highest vocation. Thus Psyche is indeed at all stages of her existence the material mother, never divested of the material character, always tellurian-lunar, never penetrated beyond the lunar region to solar-spiritual existence; but yet she has risen above purely tellurian life and the pain of the eternal alternation of becoming and passing away that rules in it, to the heavenly life, where she now, on the boundary of two worlds and uniting both in herself, wedded to the light-bringing Eros, leads in never-ending bliss a sensual-supersensible existence. In the burning oil, which suddenly lights up the darkness hitherto prevailing and, by the unveiling of the higher human beauty, never before beheld, in man and woman, awakens the longing for eternal possession, this pairing of matter with the light, of the tellurian with the solar potency, of moisture with warmth, in a word that union of two worlds recognized in the moon, is brought to pictorial presentation.
 
@@ -1748,9 +1603,7 @@ Athena, of Demeter, Themis, Isis, Psyche-Aphrodite puts us in a position to appr
 
 1) Paul to the Corinthians 1, 15. 44. ἀλλ᾽ οὐ πρῶτον τὸ πνευματικὸν, ἀλλὰ τὸ ψυχικόν,
 
-[PDF 114]
-
-— 100 —
+[p. 100]
 
 of force, a succession of becoming has taken place that stands in definite opposition to the doctrine of emanation, combated by Paul with all emphasis,1) but put forward by Aristotle, in a well-known passage of his Metaphysics, as the distinguishing mark of the old Orphic theology.2) This course of development from below upward, which has found pictorial expression in the stepwise receding pyramid of so many funerary monuments, finds application also in the mystery lamp. Hidden under the bushel3) it shows us material warmth working invisibly in tellurian matter and, joined with the moisture of the depth, developing germ in the darkness of the maternal womb of the lower creation of earth. To this lowest stage corresponds the lightless mating with the dragon, to which female matter surrenders itself purely somatically. But the modius is lifted away, and illuminating, the rays of the lamp fall into the deep darkness that hitherto covered matter. With this man steps out of the harmony of creation in which he had lived before unconsciously. He has beheld the forbidden, and has carried away restless longing for the denied enjoyment instead of the former unconscious pairing. Without enjoyment, but also without suffering, is the sexual embrace with the dragon in the lightless spaces of the earth. Had woman never renounced this, never lifted away the lid that hid the lamp, she would never have lost the freedom from care of the lower creation. But Psyche is seduced to seeing; she wants light instead of darkness. The forbidden deed becomes the source of unspeakable sufferings, but also the beginning of a higher existence in which the lower creation has no share. To the first material awakening corresponds the burning lamp that emerges from the covering of the modius. At this stage it still has a purely material meaning. It shows us woman in her sensual-erotic excitement, given over to the pain of a not yet purified desire for satisfaction of bodily pleasure. It calls to mind the Aphroditean unregulated sexual love with all its aberrations. It is here the lamp of the wanton Latona, which
 
@@ -1764,9 +1617,7 @@ nation corresponds to the implement used in the scenic representations of the my
 
 3) Apuleius makes use of the expression modius, and it is hardly to be doubted that this desig‐
 
-[PDF 115]
-
-— 101 —
+[p. 101]
 
 shines upon Mycerinus’s nightly unrestrained lust, and reduces to half the time that it seems to double. It is she from whom those glowing drops of oil, the beginning of the greatest sufferings, trickle down; she, too, who shines at Baubo’s deed in the Eleusinian mysteries,1) by whose light the veneration of the female κτεὶς, joined with the Themis orgies, is performed;2) she who draws into the light all that was formerly hidden, and who, kindling desire, unveils to the eyes of the initiates, as a mystery made manifest, what the darkness of night was meant to cover; she, then, the image of that burning craving of the flesh which seeks the phallus, which gave Aphrodite the epithet φιλομηδέα, veretri virilis amantem, attested by Eusebius, Pr. Ev. 2, 12, which conceives the excesses of the nocturnal lamp festivals as a religious commandment, as a cult offered to the female κτεὶς,3) and which in the union of the male-generative salt with the female oil4) beholds the image of the intimate union of the two natural potencies. But this purely material flame, which represents the whole glow of the awakened sensuality of woman, is to press on to a higher purification. In Psyche’s sufferings and trials it is shown how unrestrained Aphroditean sensual desire leads back in the end into the night of matter, and lets the awakened flame die away in the swamp depths of matter. The light shut up with the unchaste Vestal in the damp cavern of the earth shows this return under the sheltering bushel in an image. Only through
 
@@ -1784,9 +1635,7 @@ salis plays a part in the mysteries. Euseb. Pr. Ev. 2, 3. in fine gives as the c
 
 4) Herod. 2, 62. As a representation of the male force, “the salt of the earth,” the grana
 
-[PDF 116]
-
-— 102 —
+[p. 102]
 
 conquest of sensual desire can woman press on to repose and to lasting happiness. Only when purified does Psyche attain eternal union with the god who had withdrawn himself from her purely sensual glow. In the place of the restless, eternally seeking, never fulfilled desire there now enters the blessedness of lasting possession, freed from every torment; in the place of Aphroditean unchastity, that of Cerealian chastity and maternity. Tellurism yields to uranian existence, the somatic to the psychic, the swiftly fleeting pleasure to the certainty of untroubled duration. In calm evenness burns the lamp that before, flickering restlessly, let the glowing drop of oil fall to the earth. At this height the oil flame is the image of Psyche raised to lunar nature, of womanhood that has pressed through to luminous nature. Material, like the moon, she has nevertheless attained the highest degree of purification of which matter is capable. As such a pure flame the eternally burning fire of Vesta-Hestia is conceived. Every unchastity destroys its higher nature and leads it back into the dark depths of impure matter. Marriage, on the other hand, does not violate it. Virginity and maternity stand in exact connection, while hetaerism negates both. Hence the guardians of the pure fire of Vesta are at the same time servants of the phallus, from which the chaste, virginal nature mother awaits her fecundation;1) hence the fire of the Greek prytaneia likewise becomes generative, and every hearth of the state is conceived as the center of material prosperity on the foundation of the chaste, Cerealian-conjugal life.
 
@@ -1806,9 +1655,7 @@ Femineos
 
 3) For this Silius Italic. Punic. 3, 22 also gives a testimony that is mostly overlooked.
 
-[PDF 118]
-
-— 104 —
+[p. 104]
 
 of matter that clings to him, he is freed. At this solar fire, the purest flame, the dying lamp of Vesta must be kindled anew. At Delphi, at the Apollonian hearth, the Greek cities fetched it after the defeat of the Persians. From Delos it comes every year to the island of Lemnos, as Philostratus, Her. 19, attests. For in contact with matter it has lost the purity that it always preserves at the primal source of light. The three stages of the cosmos, earth, moon, sun, are repeated in fire as well. Materially impure as the Vulcanian-chthonian flame, purer in the moon, but even here still perishing in matter, it attains in the sun its greatest clarity and complete incorporeality.1) If Prometheus stole the spark in the fennel stalk from the Vulcanian flame of Mosychlus, Sappho on the contrary has him kindle the torch at the wheels of the sun’s chariot, and thus designates the highest elevation to which it is man’s task to press through.2) The material flame is to be purified; through a second death the pure νοῦς, which dwells in the solar region, is to emerge from Psyche’s mixed nature.3) Of the three means of purification of the Dionysian cult, water, fire, air,4) fire, if conceived materially, is the middle one; lower is water, which belongs to the dark tellurian region, higher the air, which belongs to the ethereal region, the dwelling place of Bellerophon, Phaethon, and Achilles. But when raised to immaterial nature and the highest purity, fire is the most effective of all means of purgation.5) We can therefore no longer be in doubt prohibent gressus, ac limine curant sætigeros arcere sues: nec discolor ulli ante aras cultus. — Pes nudus, tonsæque comæ, castumque cubile, Irrestincta facis servant altaria flammis. Fire in its highest purity excludes the approach of women, every unchastity, and the swine consecrated to the earth, which are admitted at a lower stage of force (Sext. Empir. Pyrrhi Hyp. p. 155, Phædrus 5, 4.). Discolor cultus designates the change of color between white and black, which is incompatible with the fire nature of Heracles. His priests wear white linen. Pes nudus shows what significance of light the bare feet of our Pamphili painting have. Silius speaks of the cult of the Gaditane Heracles, whom Arrian, Exped. Alex. 2, 16, calls the Tyrian. Cf. Paus. 7, 5, 3.
 
@@ -1828,17 +1675,13 @@ phure Liv. 39, 13. Aristoph. Ranæ 447.
 
 5) On this threefold stage of purification see especially Serv. Aen. 6, 741. Georg. 2, 389,
 
-[PDF 119]
-
-— 105 —
+[p. 105]
 
 as to what last and highest idea attaches to the mystery lamp. It is the same that lies before us in the resolution of the Prometheis, in which the ancients themselves wished to recognize the revelation of the mystery doctrine. Here and there the same progress from materiality to immateriality, from impurity to the state of highest purification. Here and there the transition from motherhood into the father right of light. Here and there the unrest of the awakening consciousness as the beginning of a struggle that leads, through the severest trials, to the victory of the spiritual solar principle over the power of matter, and raises to communion with the gods the man wrested, in hard struggle, from the maternal principle of matter. The undertaking of this struggle and its carrying through is the goal of human existence. To the mystes who attains the highest degrees of initiation, it is brought near as the highest spiritualization of the idea of initiation. Through darkness to light, through matter to spirit, from earth to heaven, through the motherhood of matter to the fatherhood of the sun: that is the consummation of the Dionysian religion, to which it presses through in its union with the Apollonian cult.
 
 The male solar nature now seizes the female-material egg as well. I remarked above that it is not granted to maternal matter to press through beyond lunar nature into the immaterial-solar. To divest herself wholly of matter she cannot. She remains, like Helen, like Psyche, like all the great nature mothers, behind on the lunar stage, and returns as the nocturnally shining Luna, as the uranian earth, in the heavens. All the more noteworthy is it, then, that in some conceptions of the ancient religions the maternal principle too draws to itself the solar nature and appears divested of that materiality on which, in its innermost being, it rests. Athena, the maternal principle, which as chthonian and as uranian earth forms the material foundation of material life, which by the light of the nocturnal lamp weaves with consummate artist’s hand the coarser garment of tellurian bodies and the finer one of uranian bodies, she comes forth in spiritual nature from the head of Zeus, complete which passages are to be read in their whole context. In sacris Liberi omnibus tres sunt istæ purgationes: nam aut tæda purgantur, aut sulphure, aut aqua abluuntur, aut aëre ventilantur: quod erat in sacris Liberi. This lustration, at first conceived wholly materially, is raised to the image of the spiritual one. Prudentioribus tamen aliud placet, qui dicunt sacra Liberi patris ad purgationem animæ pertinere: omnis autem purgatio aut per aquam fit, aut per ignem, aut per aërem etc. As the highest lustration fire appears in the Isis mysteries. Apulej. 11. p. 260. (Isidis navem) summus sacerdos tæda lucida et ovo et sulphure, solemnissimas preces de casto præfatus ore, quam purissime purificatam, Deæ nuncupavit, dedicavitque. On the lustration of the nest before the brooding of eggs, Columella, R. R. 8, 5. p. 332. Bip. Sulfure atque bitumine atque ardente tæda perlustrant.
 
-[PDF 120]
-
-— 106 —
+[p. 106]
 
 like the word from the mouth. Not from the thigh of the highest god is she born, like Dionysus, not διμήτωρ like him, but motherless, resting exclusively on spiritual fatherhood. A like transfiguration is shown by the female principle in the Delphic cult. Themis-Gaea, the material primal mother, first holds the oracle. Apollo himself is the mother’s son, and in Aeschylus is reminded by the Erinyes of this material origin when he rises to overthrow their ancient mother right. But he ascends to the highest stage of metaphysical-solar being, and so clothes the primal egg, maternal-material in its origin, with pure luminous nature. In egg form the Delphic omphalos appears on a vase painting in R. Rochette, mon. inédits. planche 35, which gains such particular significance precisely in that it raises beyond all doubt the true shape of the much-disputed temple stone, and explains the origin of the other formations, which now arise from the halving of the egg, now approach the pyramidal form.1) On a base of two steps stands the omphalos, represented in perfect egg form, set upright on the broader or female end. By it Orestes seeks protection against the attack of the Erinyes, whom the Delphic god, seated on the tripod and provided with the laurel branch, repels.2) According to Strabo’s report the omphalos was bound round about with fillets,3) as we see it on the other monuments named, e.g. on the vase painting in R. Rochette, plate 37. The bands show here the alternation of the black and white color, whose meaning and whose relation to the egg idea cannot, after the remarks made earlier, be doubtful. The alternation of life and death in tellurian creation, by which it is precisely preserved in eternal youth, repeats itself in the myth of the two ravens or eagles which, flying in opposite directions from the rising and the setting of the sun, meet at Delphi, and were represented on the omphalos itself. They correspond to the two ever counterflowing streams of becoming and passing away,
 
@@ -1852,9 +1695,7 @@ the Berlin Museum. On the omphalos cf. Brönsted, Reisen und Forschungen in Grie
 
 3) Strabo 9, 419: τῆς γὰρ Ἑλλάδος ἐν μέσῳ πώς ἐστι τῆς συμπάσης, τῆς τε ἐντὸς Ἰσθμοῦ
 
-[PDF 121]
-
-— 107 —
+[p. 107]
 
 and recall those two combating birds of the sacred island of the Liger, likewise the Corvus, whose plumage Apollo changes from white into black. Thereby the omphalos itself receives the significance of the two-colored egg of our Pamphili tomb painting. The light side and the night side of nature, death and life, are contained in it. Both sexes, too, it encloses in itself. Undivided there rest in it Omphalos and Omphale, the natural potencies which, by constant change of sex, pass reciprocally into one another. From this is explained the number five of the likewise egg-shaped black bodies that cover the surface of the omphalos on the Ruvo vase. For the relation of the five to the union of the two sexes, to marriage and material mingling, can, according to the testimonies cited above, be subject to no doubt.1) Thus everything combines to restore the female-material idea of the primal egg for the Delphic omphalos as well, and to raise its egg-shaped form, as an expression of its religious significance, above all doubt. In this nature it attaches itself to the cult of Themis-Gaea, and traces its origin back to the time when the Delphic oracle was still in the possession of the material, maternal earth, and belonged to that Themis in whose mysteries the female κτεὶς found its veneration to the last. Ὀμφαλὸς Γῆς gains from this point of view a significance that differs essentially from the one later connected with it. It designates originally the egg-shaped cult stone of Mother Earth, and receives only later, under the dominion of the Apollonian religion, that interpretation of a geographical nature according to which Delphi, as the center not only of
 
@@ -1862,9 +1703,7 @@ relation to Apollo through the fact that it denotes the number five. This number
 
 1) According to Plutarch, Ei ap. Delph. 7., the E was supposed to stand in a special
 
-[PDF 122]
-
-— 108 —
+[p. 108]
 
 Hellas, but of the whole οἰκουμένη, the omphalos was in this sense to be the navel of the earth. From Themis-Gaea the egg passes with the oracle to Apollo, and ascends to the same height of significance to which the male god of light presses through. With Apollo himself it is more and more removed from the material nature of which it was originally the expression. In the image of the primal mother Earth, Orestes finds his protection, although he himself had violated the law of the earth, like Alcmaeon, whose foot Gaea could no longer endure upon herself. In union with Apollo the egg takes on Apollonian nature and significance. It becomes the representative of the paternal principle that rests in the sun, and the expression of that highest lustration by which Apollo purifies the soul of the dross of bodily existence and leads it back to the quiet clarity of his own highest luminous nature. In this transfiguration the Delphic omphalos-egg appears on the Ruvo vase painting. All the components of the painting emphasize quite deliberately its relation to initiation. The highest Apollonian development of the Bacchus idea emerges with particular significance in the representation of the matricide who grasps the omphalos, taken under protection by the god of the laurel against the punishment of the Erinyes.
 
@@ -1874,9 +1713,7 @@ Taciti annal. 6, 28; Solinus c. 33; Philostr. vita Apollon. 3, 49; Tzetzes, Chil
 
 1) So Herod. 2, 73. The most important remaining testimonies are in Plin. 10, 2;
 
-[PDF 123]
-
-— 109 —
+[p. 109]
 
 the father alone, the phoenix has come forth.1) The egg is not its birthplace, but rather the shroud of death which, consumed by fire, returns to the light to which the father belongs. The egg thus appears here not as the foundation of bodily birth, in which significance both the Indian and the Egyptian mythology knew it, hence also not as a representation of the material maternal womb; it is rather destined to be consumed by fire and itself united with the primal principle of all light. Material and perishable is what the maternal-tellurian egg brings forth out of itself, immaterial and partaking of immortality what proceeds from the myrrh egg. With matter the mother shares the property of heaviness, with light the father that of weightlessness. The material egg leads the life born from it to death, the sun egg conversely death to life. There white is changed into black, here black into white. Thereby the idea of rebirth from death links itself with the phoenix egg, and it is shown how near the Christian conception of the phoenix myth, as a prototype of the doctrine of the resurrection of the flesh, lay to the pagan idea itself.2) The interpreters of the Egyptian-Indian legend hitherto have confined themselves to emphasizing its astronomical-chronological relation to the idea of a great world year, and of time returning eternally, in fixed periods, to self-rejuvenation. Now if this is entirely incontestable on the express testimony of the ancients, it nevertheless shows only a particular development of the general solar fundamental idea that dominates the phoenix myth. On its connection with the conceptions of the ancients concerning the primal egg, on the other hand, it throws no light. This question has never yet been answered, and yet it was so obvious to raise it. From the female primal egg all creation has proceeded; it is ascribed to the great material nature mothers, it belongs to all the lunar women; from the two halves of the egg heaven and earth, from its content has
 
@@ -1892,9 +1729,7 @@ p. 320). That even non-Christians connected the same meaning with the phoenix is
 
 2) On the use made of it by the teachers of the Church, Larcher on Herod. 2, 73. (T. 2,
 
-[PDF 124]
-
-— 110 —
+[p. 110]
 
 everything that lives and moves in the light come into being. The egg appears in each of these connections as material. As a representation of the maternal natural principle it stands at the head of the development of the material world. In the phoenix myth, on the other hand, we see it in a wholly different nature: not female but male, not tellurian and not lunar but solar, not material but incorporeal, not as beginning but as end, not entering into the change and movement of the world of becoming, but removed from it, and through fire given back to the primal source of pure light and to the harmony of the Apollonian world of being, into which the deified bird ascends amid the sound of the death songs that it sings to itself. The egg appears here in its highest elevation. But this is at the same time its dissolution. In union with the solar potency it loses its egg nature. The consummation is at the same time a passage into a new form. The transformation into fire the mystics call, according to Plutarch’s passage communicated above, Apollo, on account of aloneness, whereby fire is conceived as simplicis auraï ignis.1) Consumed by fire on the altar of Helios, the myrrh egg lets the incorporeal force of fatherhood enclosed in it, purified of every burden of matter, ascend to heaven and return to the primal seat of the purest light. In the sun egg of Helios the Aphroditean-material primal egg attains its consummation. If the primal egg falls from the moon to the earth, the sun egg returns as pure flame to the sun. If the primal egg enters downward into the lower world of becoming and passing away, the sun egg, after the great generation year is completed, takes the upward direction, in order, leaving behind every material covering, to exchange the boundaries of the lunar world of becoming for the eternity of the solar world of being. In connection with matter, which moves between two poles, the egg becomes a representation of time; for Chronos is the necessary form of all becoming, of all material development; he is creation itself in motion. In this sense Heracles-Chronos, whom the Orphics call Χρόνος ἀγήρατος, carries the material world egg, which here too is traced back to the πατρικὴ δύναμις; he is winged, like all movement of the world of becoming, hastening swiftly along, like all life in time.2) With becoming its form, time, also ceases. Above the lunar region of transience and of material origination there is no time any more. There is no matter, hence also no origination and no
 
@@ -1904,9 +1739,7 @@ swiftly along; on others he holds it quietly in his arms. The more exact later.
 
 2) Damasc. principia p. 380–384 Kopp. On Cilician coins he carries it, hastening
 
-[PDF 125]
-
-— 111 —
+[p. 111]
 
 passing away, hence no time. The Chronos egg can therefore find no admission there. Into the solar world the force enters, divested of the egg’s covering. Laid aside is the tellurian materiality of the maternal egg, consumed the myrrh ball of the phoenix; freed of every material nature, as pure fire the paternal principle returns to the realm of light, completed time to the timeless world of solar being. Thus, progressing from below upward, the egg has by stages divested itself of its corporeality, and has found its dissolution at last in the highest principle of light. With the successive development of what is created, the creative principle itself too has arrived at an ever purer representation. At last every materiality appears overcome, the female egg nature wholly laid aside. The light ascends from the chrysalis of matter, and presents the divine force, the νοῦς, the νοητόν of the creating potency, in full purity. What was first comes last to representation and to human consciousness. There takes place what Aristotle states in On the Parts of Animals 2, 1 thus: “What follows in becoming is first by nature, and what is last in origination is first. — — Accordingly, in the order of time matter and origination must be first, but in the order of concept the essence and form of each thing.” — What is materially first is no longer the principial; as in the second Orphic cosmogony, purely intellectual ἀρχαί take precedence over the materially comprehensible.
 
@@ -1930,9 +1763,7 @@ blandientis. Isis herself is described as follows: Isis iuncta religione celebra
 
 5) Nonn. Dion. 16, 185; 24, 343.
 
-[PDF 127]
-
-— 113 —
+[p. 113]
 
 love adventures. It is merely a consequence of this connection with material fertility that the same dog now represents also the shadow side of nature. For as it appears in Diana’s retinue as an animal of destruction, is joined especially with Hecate,1) guards the underworld three-headed, receiving the arrivals amiably but closing the return to everyone, so it now appears on many sarcophagi, in the later time perhaps only as a representation of faithful love reaching beyond death, and of unfailing guardianship, but in its origin as a representation of the thought of death resting in life itself. The ape, too, owes its admission into the tombs to the relation to Lunus, which comes out especially clearly in Egyptian symbolism.2) An ape is shown by the wall painting of a tomb at Corneto. Another I saw among the terracottas of the Louvre. The wreath that surrounds its head, and the lyre that it plays, crouching, leave no doubt about the Bacchic relation to the mysteries of this sculpture, which without doubt likewise comes from a tomb.3) For the designation of lunar nature the ape is suited by the middle position that it occupies between the animal world and the world of men, and which expresses itself even in its name, simia, quam similis turpissima bestia nobis (Ennius).4) For the moon too lies on
 
@@ -1952,9 +1783,7 @@ and Carthaginian veneration of apes and the taming of the Cercopes or ape-demons
 
 4) Their teasings, pranks, and sports, which Plutarch in the treatise on how the flatterer
 
-[PDF 128]
-
-— 114 —
+[p. 114]
 
 the boundary of two worlds, whose lower and higher nature it unites in its existence mixed of both. As the moon imitates the sun, so the ape imitates man, and as in the former the material character retains the upper hand, so too in the ape, which, as the story of the ape soldiers of King Ptolemy, applied by Alciato to Italian students, vividly shows, is unable to resist the allure of nuts. I do not doubt that Horapollo’s statement, that the urinating ape designates a man concealing his missteps, because it is accustomed to cover its excrement, originally rests on the animal’s relation to the night that buries everything in its darkness. — Its relation to death and destruction is shown by the moon, which otherwise is represented preeminently as the life-giving, growth-promoting mother Aphrodite, in its designation as the region of Proserpina;1) in its identification with Kore, who is now in heaven and light, now in darkness and night;2) in its division into two halves, of which the one turned toward heaven is called the Elysian plain, the one directed toward the earth the plain of Persephone, or Antichthon;3) in the sojourn of the demons on the moon;4) in the belief that moonlight promotes putrefaction and spoiling in trees, flesh, and grain;5) in the significance that the Egyptians give to the crescent at the burial festival of Osiris;6) in the designation of Luna as Τύχη, who leads the life of men around in constant change;7) in the representation of the moon as the beginning of the corruptible world, subject to constant destruction; in the myth that Typhon found the corpse of Osiris at the full moon. The same thought has received the following expression in Hesiod and Virgil, Georg. 1, 276: Of the five days that Luna grants, the first four are fortunate and favorable to every undertaking. The fifth is an unlucky day; on it Orcus, the Eumenides, and the Giants were born. The number five belongs to the moon in its conjugal union of is to be distinguished from the friend, sets, as an object of laughter, against the gravity of the working animals, correspond wholly to the character of the Bacchic festivals, as Servius Georg. 2, 389 describes these on the occasion of the oscillatio and the jests practiced in connection with it, ad risum populo movendum.
 
@@ -1974,9 +1803,7 @@ the boundary of two worlds, whose lower and higher nature it unites in its exist
 
 7) Macrob. S. 1, 19.
 
-[PDF 129]
-
-— 115 —
+[p. 115]
 
 man and woman, of matter and force of light. For the five comes about through the union of the female two with the male three. It is therefore itself called marriage, and is ascribed to Achilles-Lunus, who on Crete bears from it the name Pemptus,1) as well as to Athena-Luna. In these five days fortune and misfortune, death and life are joined. For according to Heraclitus the world is just like a lyre or a bow, where the strings are now drawn tight, now loosened, and Euripides says:
 
@@ -1994,9 +1821,7 @@ Idaean Dactyl, whence the report of Ptolemaeus Hephaistio Nov. Hist. 1, p. 183 e
 
 4) Paus. 2, 21, 6.
 
-[PDF 130]
-
-— 116 —
+[p. 116]
 
 of sisters only Medusa, the youngest, is mortal. Only One eye, only One tooth have the Graeae-Gorgons, who are also listed in the singular,1) just so the Amazons only One descent, the maternal, after which alone they are named.2) Persephone is called Mounogeneia, the only-begotten.3) In all these phenomena the same idea expresses itself. Material creation knows only one origin, the maternal. The children are all unilateres, not διφυεῖς, as, according to Athenaeus and Justin, the Athenians were only since Cecrops. They have only a mother, no father. This system rules also on the lunar stage, on which woman has so much the upper hand over man that the invocation of Luna joins of itself with gynecocracy, and Plutarch, de facie in orbe lunæ, ascribes to the moon quite generally the effecting of moisture and femininity. But if the predominance of the one-sidedly maternal nature is proper to the life side and the light side of creation, it stands in still closer relation to the night side and the death side. Here matter emerges completely in its exclusive dominion. To the matter from which it sprang the soulless corpse returns. The same maternal womb that bore it into the light takes it back again into its darkness. If already in generation the activity of the father is one that loses itself in the darkness of matter, withdrawn from sight, the father therefore never natura certus et verus, but only fictione iuris pro vero habitus: so in death too this his cooperation falls away. Here the mother alone stands at the side of the corpse, whether it be Mother Earth or the earthly woman who takes the other’s place, and in all respects, in birth and in death, appears as true γῆ (γυνή from γῆ). Therefore the dead are called not Plutonii but Demetrians, and from Mana-Geneta, Manes; therefore in the Ocnus fable it is a θήλεια ὄνος that unravels the rope; therefore the mother follows the corpse,4) the mother stands at the pyre, women, the φιλοθρῆνοι γυναῖκες, take over the lament for the dead; therefore the Lycians, when they take part in mourning, dress in women’s clothing, on which I have compiled a good deal in my Mutterrecht. This Lycian custom is doubly noteworthy because it is joined with the Lycian gynecocracy, the χρηματίζειν ἀπὸ μητέρων, and with the Lycian winged egg mothers who take the dead into their keeping, as the monument of Xanthus represents them. For here we see [PDF 131] — 117 —
 
@@ -2046,9 +1871,7 @@ the starry heaven. By the one relation the other is not refuted. Enough that the
 
 6) Festus. v. Damium. p. 68. Müller.
 
-[PDF 133]
-
-— 119 —
+[p. 119]
 
 Damascus, represented on coins by the hero Ascus nourished by a doe, to the German Damm, and to δῆμος and δῆ, equivalent to γῆ. As the moon cries out for water, so the stag cries out for the spring, a property that even in Christian antiquity lends it a relation to baptisteries.1) As an accompaniment of the earth it appears on a cameo of the Museum Florentinum, which Stark in his de tellure Dea chose as the central point of his account.2) By its connection with night the moon is, moreover, the star of death. It brings sleep and repose and that stillness which is attributed to primal chaos, as to the grave that leads back to it, and to the mysteries; which makes the solemn still more solemn and the terrible still more terrible, lets the very face of the lunar disk appear as a grinning mask that threatens destruction, corresponds to the Manes and the silentia regna, and has found a moving expression in the tombs through the many representations of those scenes designated in art as still lifes. As the sun each morning awakens life and movement, and thus with its rays draws from Memnon’s column its first sound, so conversely the moon leads all things back to rest and silence.3) It is the star of ruins, by the same property also that of tombs, and is often depicted on funerary lamps, as e.g. also on a Tarsian one. At night the lemuria are celebrated, at night the funera are held.4) The moon yields to the sun, as night to day. The ancients conceive this phenomenon as a birth of light out of darkness,5) and recognize in it the daily repetition of a great act of cosmogony. Here too the female-material principle maintains its primacy in creation. It is the first, the originally given. Helios stands to Nox in the relation of a son; he is the mystery of the male solar force revealed through birth, he is the Dionysus-Enorches who breaks through from the egg to the light, the visible creation that steps into day from the dark maternal womb. Accordingly night shows an inner kinship with the dark egg. Like it, it is the female natural principle, like it the ἀρχὴ γενέσεως. So it appears in the first Orphic cosmogony, which Damascius, principia pp. 380–384 Kopp, designates as the common doctrine, shrouded by a
 
@@ -2064,9 +1887,7 @@ Ovid. F. 2, 607.
 
 5) Apul. Met. 11, p. 257. Diem, qui dies ex ista nocte nascetur, æterna mihi nuncupavit religio.
 
-[PDF 134]
-
-— 120 —
+[p. 120]
 
 cloud, and Aristophanes follows it in the Birds, lines 693–704, in that he lets an egg come forth out of Night in Erebus, from which then the birds, those winged creatures surpassing gods and men in age and nobility, arise. In the cosmogony of Acusilaus Nox is joined, as the female principle, with Erebus, the male; in that of Epimenides, with Aer. Here too one recognizes the foundation of Orphic doctrine, which forms the chief content of the Bacchic mysteries, and of that gradual succession of becoming, already emphasized above, which takes as its basis an unfolding of creation and of the creator out of the formless into form, out of chaos into definite configuration, out of darkness into light, out of matter into the νοητόν, out of materiality into a being comprehensible only to the spirit, thus in everything a progress from below upward, in contrast to emanation in descending embodiment. On this female-material fundamental principle rests the reckoning of time by a twenty-four-hour period beginning at midnight, in which the male day appears enclosed by two female nights. On it rests also the lunar year, which expresses in the reckoning of time the lunar-material stage of religion. From it, too, the idea of the Roman Mater Matuta receives its explanation. She is at once the great nature mother and the goddess of the early light, at once Leucothea, the shining moon, and Ino, who seeks her death in the waves of the sea. All this by virtue of her significance as the female-material natural principle, which has its physical basis in the earth and its waters, but also in the moon, and which as such comprehends within itself life and death, light and darkness, and, as Aurora, gives birth to the day out of itself. In the abduction of Cephalus the significance of death in maternal nature emerges again. In the same moment origination and destruction unite. Minerva carries both attributes at once, the golden lamp and the cock. In the former she shows her kinship with the night and the nocturnal moon; in the latter she stands before us as Matuta, who gives birth to the early light. In both relations she is the material mother who, as Gorgon-bearer, as Amazon hostile to marriage, as barren Pempta, represents the side of night and death in the maternal nature of matter.
 
@@ -2088,9 +1909,7 @@ Among the scholars of today there may now be many who ask mockingly, with the Cy
 
 1) Plut. de fac. in orbe lun. c. 28. εἶτα, οἷον ἐξ ἀποδημίας ἀνακομιζόμεναι φυγαδικῆς ὡς
 
-[PDF 136]
-
-— 122 —
+[p. 122]
 
 this one to the sun. From the former a second death leads the pure νοῦς into the realm of light of the sun; from the Elysian they descend again, and sink anew into the abyss of matter. This conception, which for the most part follows word for word the statements of Plutarch on the face that appears in the lunar disk, c. 28–29, gives the moon, for the world of spirits, the same significance that it has for the corporeal-material world and for the cosmos in general. It is the connection of two worlds, a higher and a lower, the point of passage where the two currents, the ὁδὸς ἄνω καὶ κάτω, meet; thus it maintains the connection of the tellurian with the solar, of the corporeal with the incorporeal sphere, whose constant passage into one another constitutes the highest harmony of the cosmos, and at the same time the joyful hope of the initiate.1)
 
@@ -2116,9 +1935,7 @@ Sideris in numerum, atque alto succedere cœlo. Cf. Manilius, Astron. 2, 60 ff. 
 
 1) Of special bearing on this subject and on the Orphic doctrines is the fourth Georgica of
 
-[PDF 137]
-
-— 123 —
+[p. 123]
 
 the same object on the palm of the outstretched left hand. The sphere leaves no doubt about the Bacchic relation. — On a vessel of the Vienna collection, designated there IV, 167, a pillar appears, surrounded by a goose and a laurel branch. On the top of the stone lie two eggs. The ephebe approaching, adorned with a radiate crown, carries on his outstretched right hand the patella, on which likewise three white egg-shaped objects lie. This patella is repeated on the reverse of the vase. A dove flying toward the scene, the mirror in the right hand of the seated female figure, and the taenia combine into a totality of Bacchic-Aphroditean emblems that stands close to the significance of the egg. — On another vase painting (III, 81) the egg in the left hand corresponds to the cista on the right hand of the woman. Raoul-Rochette communicates on plate 44, 4, p. 222 of his Monuments inédits a picture that accompanies the abduction of a woman by Thanatos with a base on which three eggs stand, with the convolvulus and the myrtle branch. The same writer draws attention, p. 97 n. 1, to an unpublished vessel of the Museum Charles X. (n. 1261) on which an altar with the egg is depicted, with a horse before it. Thus we find the Bacchic egg symbol in the most various positions, now on the altar, now on the funerary pillar or the steps of the base, now on the patella, now in the hands of the so-called mystery genius or of the initiate himself, and equally various in number, now one, now two, especially in the number three and the number five; and for all this the vase paintings in Tischbein, vases Hamilton 1, 32. 40. 41. 44, Caylus recueil 4, 40. 1, 41. 1; especially 6. 35. 4. 5. Millin vases peints 2, 8, Laborde, vases du comte Lamberg 1, 12. 13. Museo Chiusino t. 11. 97, Panofka, musée Pourtales-Gorgier table 17, Gorlaeus, cabinet de pierres antiques tome 2. pl. 178. n. 272; pl. 187. n. 285; pl. 256. n. 579, Antiquités du Bosphore cimmérien. pl. 58, n. 3. 4, with which Dubois de Montpéreux, voyage autour du Caucase, Atlas, ser. 4, pl. 11, n. 3 is to be compared, Mus. florentin. Gorii, V. 1. tab. 94, 7, Munich collection 1162, 834, 261, 298, Berlin collection 892, 1789 (Gerhard, Zuwachs p. 61) can furnish still further contributions.1) After this general diffusion of the representation of the egg in tombs, it cannot be surprising to encounter the use of the ovoid form not infrequently elsewhere too in funerary monuments. In the Berlin Antiquarium there is a small three-sided marble stele, whose summit
 
@@ -2126,9 +1943,7 @@ tab. 35, p. 24. On the connection of the egg with the ass, Plutarch, Qu. gr. 2. 
 
 1) I draw attention in particular to a relief in the Marmora Taurinensia, pars altera
 
-[PDF 138]
-
-— 124 —
+[p. 124]
 
 is crowned by an egg likewise worked in marble. The whole reaches about the height of a meter. The funerary significance emerges from the inscription that adorns one side of the base. GENIO | T. MVTILI | MARVLII | VIX. ANN. | XVII. This monument can shed light on the egg-crowned grave stelae discovered in the Praenestine tombs, which Braun describes in the Bulletino 1855. The great number of them shows how generally current the egg symbol was. Similar monuments are known from the Museo Guarnacci. On a square base rises the egg, whose form reproduces the truth of nature. Great kinship with it is shown by the stone monuments of the united collections at Munich, which are said to come from Salzburg. From these may have proceeded those variously modified representations on other funerary monuments of Etruria. See Inghirami, mon. Etrusci ser. 1. tav. 100. Canina, Etruria maritima 2, 31. In this use the egg alternates with other equivalent symbols, with the pomegranate, with the pyramid, the palmette, but especially with the ball and the flat disk-like circular section, as these not infrequently occur on the tops of funerary pillars. On monuments of unambiguous significance the circle appears as the sign of apotheosis.1) The circle derives this symbolic use from the property of the circular line, which, like all life of the tellurian creation, returns ever again to itself and, in its progress, to its point of departure. Like the egg, therefore, it encloses both poles between which creation moves eternally to and fro, and which, like white and black, constantly pass over into one another. It thereby becomes itself a sign of the natural force that encloses life and death within itself. This significance recurs intensified in those concentric circles that are so frequent on funerary monuments. They correspond to the plurality of eggs, the three circles of Praenestine discs to the 3 eggs of our tomb painting. On this also rests the significance of the discus. The swiftness with which it flies along the course is equal to that of the two-horse team, a representation of the swiftness with which the united forces of death and of life bring about the revolution of visible creation and that eternal alternation of generations. Thereby ball, discus, and circle gain a definite relation to the physical bearers of natural force, to the tellurian water as well as to the heavenly sunlight. Likewise the
 
@@ -2136,9 +1951,7 @@ racotta.) Cf. Lajard, Note sur l’emploi et la signification du cercle ou de la
 
 1) R. Rochette, mon. inéd. pl. 70. Antiquités du bosphore cimmérien, pl. 67, 2. (ter‐
 
-[PDF 139]
-
-— 125 —
+[p. 125]
 
 symbol has, like the force, lower and higher stages, the plurality of which it unites in itself. As a designation of the force of water the sphere appears in the hand of the nymphs;1) as solar power the invention of the discus is traced back to Perseus.2) From this is explained the combination of the discus with the lotus, which first came to light in the Praenestine tomb. It is the combination of the solar and the aquatic force, whose cooperation is required for every tellurian generation, so that Plutarch’s inquiry as to which is more useful, water or fire, does not particularly correspond to the ideas of the ancient religion. Now the round of the discus itself seems to correspond to the disk of the sun and the moon, and the ball to be a representation of the vault of earth and heaven. All these relations of the circle and of its various representations have truth and legitimacy side by side. The original relation, however, to which the others and finally the significance for the mysteries attach, is none other than that eternal return of creation upon itself that comes to view in the circular line, that resting of end and beginning in one another, which also lends the two-colored egg its significance. Thereby the circle becomes the expression of Fate, or of the highest law of nature governing all life, before which even the gods bow;3) thereby likewise the representation of immortality, which issues from the eternal rejuvenation of life by the aid of death. It makes, therefore, little difference for the idea itself whether an egg-shaped or a perfectly round body, or other figures composed of both forms, crown the funerary pillars and the metae. The artist followed the old sepulchral tradition, and, since he let himself be guided less by the content of the idea than by a feeling for harmony of form, could take refuge in the most various modifications and embellishments of the pure egg form and the perfected circular form. Thus these two symbols, like the κύματα and the many kinds of climbing plants, have finally become the basic components of an extremely rich ornamentation, which, like individual architectural pieces, such as especially the Ionic column, has passed out of the tombs into the dwellings of men. Images of profound ideas that formed the fundamental content of religion itself, and in which the whole fullness of the higher intimations connected with death and the tomb
 
@@ -2150,9 +1963,7 @@ symbol has, like the force, lower and higher stages, the plurality of which it u
 
 3) See the picture in R. Rochette, mon. inéd. pl. 44, 1.
 
-[PDF 140]
-
-— 126 —
+[p. 126]
 
 found expression, finally become components of an entirely external technique, whose forms still today continue to have effect through their beauty, while their symbolism is no longer understood.
 
@@ -2168,9 +1979,7 @@ de Vénus, pl. 1, nr. 1, 2, 8. and Recherches sur le culte de Vénus, second mé
 
 4) Gerhard, etruskische Spiegel. p. 14. ff.
 
-[PDF 141]
-
-— 127 —
+[p. 127]
 
 little chests that we often see represented on vases and terracottas. The cista is attributed especially to Demeter;1) the surviving bronze vessels come for the most part from Praeneste and stand, beyond doubt, in the closest connection with the cult of the Fortuna preeminently venerated there, of Bacchic- Cerealian nature, a representation of the female-material natural principle. On a terracotta of the Vogelberg collection at Munich the cista appears on the arm of one of those earnest tomb mothers whom we may with equal right call Ceres, Aphrodite, Fortuna, Pherephatta. In connection with initiation the same little chest appears very often on vase paintings, always as an accompaniment of female beings. The meaning, therefore, cannot be doubtful. The cista is the representation of the maternal womb, of the locality in which all life is conceived and developed to birth, of the χώρα καὶ δεξαμένη γενέσεως, as Plato calls femininity in contrast to masculinity conceived as the vertical line, of the Varronian locus genitalis, in quo vitæ primordia consistunt, of the female chamber, which German usage has retained, and which many a myth, such as the one mentioned above of the Dioscuri’s penetration into the maidens’ chamber in Phormio’s house, has in part made the subject of its representation. To male force every idea of locality and spatiality is alien and opposed; in the materiality of woman, on the other hand, it is necessarily contained, woman by her nature χώρα καὶ δεξαμένη, a locus, a chamber, a spatiality,2) which only matter, not force, admits. Thus the cista corresponds perfectly to the female nature. It is the attribute, or better the representation, of maternity in its natural determination, of fecundation, of the seminis immissio in monetam, of the conception, cherishing, and sheltering of the seed and of every young life. Dark is its space, like that of the gloomy maternal womb. In it, shut off from the light, the male phallus develops its work. It is therefore also enclosed in the mystic cista, as it penetrates, invisible as generative force, the maternal matter of the earth and of the moon. When in so many myths the newborn child is shut up in a chest and entrusted with it to the sea, the idea of the sheltering maternal womb is repeated therein, whose image the ancients also recognized in the shells,3)
 
@@ -2184,17 +1993,13 @@ little chests that we often see represented on vases and terracottas. The cista 
 
 3) From the Stosch collection a paste has passed into the Berlin Museum, which
 
-[PDF 142]
-
-— 128 —
+[p. 128]
 
 the nuts, the legumes, such as peas and beans, which owe their tellurian significance precisely to this property. From the chest Cypselus received his name, that is, he is named after the mother. Of illegitimate birth, he has no father, but only a mother. He is called Cypselus from the female locus genitalis, as spurius is named from the female sporium the one sown in it by an unknown sower. We now recognize, then, the inner kinship of the egg with the cista, and the relation of both to Luna and to the pair of Dioscuri born from the moon egg, who, like death and life, bring up light and darkness in the sky, one day after the other. But at the same time we recognize also the connection of the various meanings of Mundus. The opened Mundus, into which the founders of cities throw the first fruits of all produce and of all riches, is the maternal locus genitalis from which all blessing proceeds. Its opening stands in the nearest relation to the Cerealian egg and to the funerary significance of the circus games. But as the egg becomes the image of the universe, so the tellurian Mundus becomes the representation of that which the Pythagoreans first called κόσμος. As finally in the fable of Psyche Proserpina’s pyxis holds all the means of beauty required for Aphrodite’s adornment, so too the Mundus changes into the toilette and the container of everything that can give Aphroditean charm. By the same combination of concepts the cista becomes the jewel box of woman, and it is entirely understandable why most of the surviving ones held within them female toilet articles, perhaps also mixed with male ones. They may have served the living for actual use, and thus justify the name of jewel boxes. Their religious significance, however, which corresponds to the nature of the Praenestine mother, is entirely independent of the question of practical purpose.
 
 I turn to other monuments that still leave some doubts as to the occurrence of the egg. On the Xanthian tomb, which in the British Museum, in the hall of Lycian antiquities, under the gloomy clouded sky of England proclaims the laughing splendor of Asia, the egg that forms the womb of the Harpies is beyond doubt; but less certain is it on the scenes that adorn its west and south sides. I unfortunately neglected, on my last visit to London, to give that detail the proper attention, and must therefore leave it to others to make good what I represents the winged phallus penetrating an opened shell. Tölken, Verzeichniß 1170. Cf. Böttiger, Ideen zur Kunstmythologie 1, 55. n. 1. Compare also the examples of the female κτείς in O. Jahn, Leipziger Berichte, pl. 4. fig. 7. 8. Bruckner, Augst. p. 2, 956. Plato, Tim. p. 344. b. Bip.
 
-[PDF 143]
-
-— 129 —
+[p. 129]
 
 neglected. According to Fellows’s drawings the matter admits of no doubt. On the west side the egg appears twice, namely in the left hand of the female seated figure, in whom an Aphroditean earth mother is unmistakable, and likewise in that of the last figure, which closes the procession of women. The position that the cow suckling the calf occupies precisely in this picture seems not only to explain the thought of the offering of the egg, but even to require it. For the egg is, like that cow symbol so generally diffused in the ancient world, omniparentis terræ fœcundum simulacrum, and by this significance a symbol that expresses the whole Aphroditean nature in its twofold aspect. In the representation of the south side the egg enters into a similar combination with the dove, whose connection with the Aphroditean nature and with Aphrodite’s egg is already clear from the above. Such a predominance of the egg symbol cannot in the least surprise on a funerary monument of Lycia, which was devoted to gynecocracy. The predominance of maternity emerges clearly enough also in the fables of Bellerophon’s reverence before the sight of the female κτείς, of the meaning of Leda in the Lycian language, and in the myth of the Lycian frog lake of Latona-Leda, the great primal mother. All this has in a certain measure found its total expression in the egg. On the tomb especially, where maternity always emerges as alone ruling, the egg symbol is doubly justified in its twofold significance, embracing life and death equally.1)
 
@@ -2208,9 +2013,7 @@ Mercury’s hand. I ascribe it to the slight attention that representations of t
 
 1) An Etruscan mirror, which Gerhard communicates on plate 189, shows the egg in
 
-[PDF 144]
-
-— 130 —
+[p. 130]
 
 coin belongs to Metapontum in Lucania, and has been communicated, after Magnan, Lucania Numismatica tab. 34, 3, by Böttiger on the same pl. 5, 2. The form that this coin gives the object excludes the thought of an apple, and there remains only the question whether we have before us a circle or an egg. Both assumptions would in the end yield the same idea, and agree with the total significance of the Minotaur. For the egg, several reasons seem to me to speak. First, the special prominence of the female natural principle in the Cretan religion. In Ariadne, Pasiphaëssa, Artemis, Dictynna, Britomartis it appears with the physical foundation of the tellurian and the heavenly earth, the male generative potency standing over against it preeminently still as Poseidonian force of water, conceived in a chthonian manner. As Ariadne’s labyrinth represents the inextricable passages of the maternal womb of earth, so too the Minotaur shows force on the lowest stage of the Dionysian nature, as chthonian potency of water, with the bull’s head, διὰ τὸ γόνιμον τοῦ ὕδατος, and therefore with special emphasis on the dark, destroying side of life, in which significance he recommended himself especially to the usage of the legions as a victory-bringing standard.1) On this tellurian-lunar stage of religion female materiality has the preponderance over male potency. Therefore Ariadne appears as ruler of Crete. Therefore the Cretans say even later, as Plato and Plutarch testify, not “fatherland” but “dear motherland,”2) and therefore the egg also would be quite eminently suited as a symbol of this Aphroditean-female religious principle, which encloses earth and moon, death and life. Given the close kinship that connects Crete with Lycia, the community of the symbol too cannot surprise, and when we recall the inner relation that connects the Minotaur with the bull-bodied Bacchus-Hebon, the Cretan egg of the Minotaur leads back in the end to the Bacchic one of the Dionysian-Orphic mysteries. By just this kinship with Dionysus the occurrence of the Minotaur in Magna Graecia is explained, where he enters into the closest relation with the bull-shaped Bacchus. His defeat by Theseus stands on a line with the destruction of the Amazons. Both deeds prepare the transition from a lower, more material stage of religion to a higher one, more akin to the Apollonian luminous nature; it is the progress from the stage of earth and moon to the solar region, which in Dionysus is still more phallic and directed to fecundation, in Theseus, on the other hand, ever since [PDF 145] — 131 —
 
@@ -2234,9 +2037,7 @@ The egg has indeed a deeply grounded inner kinship with Hygieia’s divine natur
 
 1) Pausan. 1, 23, 5; 2, 11, 7.
 
-[PDF 147]
-
-— 133 —
+[p. 133]
 
 a means of averting misfortune and harm from one’s house. The egg thus appears here too as a means bestowing salvation and prosperity, as a true fundamentum salutis. The superstition of the time grasped the process quite externally. It was believed that the misfortune threatening the person was now diverted into the egg, as Juvenal 6, 520 puts the purpose of another purification ceremony in the words ut quicquid subiti et magni discriminis instet, in tunicas eat. Clement of Alexandria, Strom. 7, p. 844 Potter, follows this conception in order to bring the nonsense of egg lustration fully to light. People are said to believe that the egg takes upon itself all the evils of the one purified with it; but this is already refuted, he says, by the fact that one can see how those lustration eggs, supposedly afflicted with misfortune, when hatched, bring living chicks into the world.1) Here one sees quite clearly how the purifying force of the egg itself is only an expression of its nature, which bears life and salvation within it, and hence attaches itself to the fundamental significance of the ἀρχὴ γενέσεως. The same connection holds also for the other καθάρματα, torch and sulfur, which emphasize the generative element of fire, and water, which bears within it the generative force of tellurian moisture. As they give life, so they are able also to rejuvenate it, and to take from it every blemish and sickness. Therefore it is preeminently woman who performs the purification ceremonies. As Ovid speaks of an old woman who carries sulfur and eggs before her with trembling hand, so Clement, op. cit., quite generally entrusts women with the lustration, and by the same thought the ἐγχυτρίστριαι appear at Athens, of whom Plato, Minos p. 315 D speaks. Female is the natural principle that rules over life and death; a woman must therefore perform the ceremonies that are to check destruction and promote welfare. Only the primal mother Earth is able to banish misfortune, because from her proceed all blessing and all plague.2) Thus the lustration egg must appear in the hand of woman. If, therefore, a trembling old woman is preeminently chosen, this corresponds to the same conception of the maternal principle of earth that reappears in the representation of the friendly, beneficent nymph of the Numicius, Anna Perenna, who nourished the hungry people with warm loaves even during the leanest months of the year, as a busy, trembling anus, canens sæclis innumerabilibus.3) Countless centuries have turned her hair
 
@@ -2250,9 +2051,7 @@ meis pedibus). Hoc ter novies cantare jubet, terram tangere, despuere, jejunum c
 
 3) Ovid. F. 3, 647 ff.
 
-[PDF 148]
-
-— 134 —
+[p. 134]
 
 white, ever since she has been developing in the depths of the earth the nourishing germ of fruit and letting ever new life grow up from the primal egg. In a trembling hand the ᾠὸν ἐκ καθαρσίου has a double significance. In connection with the anus it appears quite properly as a leading back of life to that primal ground from which, aeons ago, the development of the κόσμος and of every individual life took its departure.1)
 
@@ -2264,9 +2063,7 @@ priest. Apul. M. 11, p. 266. Ibidem, simulacris rite dispositis, navem faberrime
 
 1) The lustration of the ship of Isis, on the other hand, is performed by a male
 
-[PDF 149]
-
-— 135 —
+[p. 135]
 
 covering, in the belief that it possesses the power to secure for him who carries it on his person victory in lawsuits and success in petitions to kings and princes there always shows itself an outflow of the idea that the egg bears within it the Agathodaemon, and with him the security of prosperity, the power that averts misfortune. Ad victorias litium ac regum aditus mire laudatur, tantæ vanitatis, ut habentem id in lite in sinu equitem Romanum e Vocontiis a divo Claudio principe interemptum non ob aliud sciam. The agreement of this Gallic conception with that of the classical peoples is completed by the fact that here as there the salus bound up with the egg has an entirely material content, and is conceived as the preservation of personal and material well-being.1)
 
@@ -2276,9 +2073,7 @@ hand depicted in Pignorius, magnæ Deum matris Idææ et Attidis initia, p. 4., 
 
 1) A monument of Gallic origin that shows the egg and the serpent is that bronze
 
-[PDF 150]
-
-— 136 —
+[p. 136]
 
 demonstrates:1) but, in connection with the cock that comes forth from it, a perfect repetition of that Orphic-Bacchic primal egg from which the phallic god, as revelation of the male force hitherto concealed in maternal matter, steps forth into the light in the form of Enorches, Phanes, Metis, Ericapaeus.
 
@@ -2300,9 +2095,7 @@ in Aelian. V. H. 13, 33.
 
 7) Paus. 2, 33, 4.
 
-[PDF 151]
-
-— 137 —
+[p. 137]
 
 text 2, pp. 312–315.1) From this connection of Hygieia with Aesculapius it follows that the egg-birth of the latter corresponds to the nature of Hygieia as well. That Aesculapius, the life-giving god who calls back from death to existence, was conceived, no differently from Dionysus-Enorches, as the son of the materially maternal primal egg as well, is shown by Lucian’s account in the Pseudomant. 12–16 of the frauds of the charlatan Alexander. For in order to secure success for his arts, this man was obliged to take as his starting point religious ideas that were familiar, and in particular related to the mystery cult. How closely he adhered to them is shown by the circumstance that he fetched out of the muddy waters of the earth, with the phiale, the egg from which the new Aesculapius was to emerge as a mighty dragon: a connection of water with the egg such as recurs in the story of the egg of the Euphrates, in the egg-bearing moon women, who stand in such close relation to swamp waters that Helen-Aphrodite herself is called after ἕλος, and in the general conceptions of the primal generative force of tellurian moisture. In the egg-born Asclepian dragon Glycon2) female materiality appears once again as the natural principle at the head of things, the male force in the relation of son as the revealed mystery, the former as egg, the latter as the egg-born dragon. Accordingly it could not contradict the ancient manner of viewing things to conceive Hygieia as well in the same way. The dragon belongs to her no less than to Aesculapius. On the numerous works of art of antiquity, of which a rich selection is to be found in Clarac, nos. 1145–1182 B, it is her constant companion, and for the most part, as on the Capitoline relief, it is represented in connection with the water bowl, whose related contents it thirstily longs for. It is therefore Hygieia herself, and sank from the independently venerated fetish to a mere attribute only with the progress of anthropomorphic formation of the gods. Hygieia and Aesculapius are accordingly originally to be thought of as a pair of serpents, the egg as ἀρχὴ γενέσεως, from which they, in their duality representing the duality of the sexual potencies, have issued. It would therefore correspond perfectly to the spirit of the ancient nature religion were we to represent the said divine pair itself by the image of two dragons in connection with an egg set upright in their midst. This group is in fact to be found. On a cameo of the Museum Florentinum, depicted
 
@@ -2312,9 +2105,7 @@ batis aliisve (vol. 1, pp. 211–224, London 1717), the coin types relating to L
 
 2) Spanheim, de usu et præstant. num. gives, in the chapter de draconibus alatis bar‐
 
-[PDF 152]
-
-— 138 —
+[p. 138]
 
 in Gori 2, 23. 4 and again by Passeri, thesaurus gemmarum astriferarum vol. 3, pl. 123, vol. 2, pp. 158–159, there appears between two upright dragons an egg, which both seem to hold with their opened jaws. Above it is the sign of the crescent moon, and on both sides, corresponding to the two serpents, two stars. Below the egg, set upright between the dragons’ bodies, is the winged staff, which a third serpent encircles in three coils. Distributed equally to the right and left in the field are four letters, which form the word ΥΓΙΑ. The same representation is repeated on gems of the Berlin collection. Tölken, Verzeichniß der antiken, vertieft geschnittenen Steine, Berlin 1835, p. 217, gives the following descriptions:
 
@@ -2346,9 +2137,7 @@ holy table and the altars of the god. ll. 677 f., 710 f.
 
 2) In the Plutus of Aristophanes, cakes and figs are laid in the temple of Asclepius on the
 
-[PDF 155]
-
-— 141 —
+[p. 141]
 
 have already communicated above the passage of Pliny. It recurs in a story of Lucian’s, Dipsades 5. By the great Syrtis there stands on the seashore, washed by the waves, a tomb, a column on a broad base. On this is found the following picture: in the swamp stands, comparable to Tantalus, a man, drawing water as if he wished to drink. Around his foot a serpent coils, the poisonous dipsas. Women carry water in vessels and pour it over the thirsting man. Nearby lie some ostrich eggs. An epigram, which we must imagine engraved on the base, compares the sufferings of the man with the never-quenched thirst of Tantalus, the water carriers with the eternally vain labor of the Danaids. Four other verses, which Lucian does not communicate, mentioned the eggs and told how the poor man, while he was occupied in gathering them, was bitten by the dangerous serpent.1)— The connection of egg and serpent is met with further in the second Orphic theogony, which Damascius, principia p. 581, Kopp, traces back to Hieronymus and Hellanicus. Threefold in form is the dragon. Between the head of the lion and that of the bull, in the middle, appears the divine countenance of Heracles, who is called Χρόνος ἀγήρατος, and is joined with Ananke-Adrasteia, who spreads herself through the All. From the force of the dragon-shaped Heracles an egg proceeds, and from this Protogonus Zeus, who shows wings on his shoulders, bulls’ heads in his flanks, and a serpent on his head, and assumes manifold animal shape. From the Orphic conception certain Sicilian and Cilician coin types become intelligible. The bearded double head on a coin of Camarina points to that Heracles-Chronos of the Orphic
 
@@ -2356,9 +2145,7 @@ Müll. Here an Etruscan work of art deserves mention, which seems to receive its
 
 1) Daedalus bitten by the serpent in Strabo 14, 664. Fragm. hist. gr. 3, 235, ed.
 
-[PDF 156]
-
-— 142 —
+[p. 142]
 
 theology.1) On his shoulders and flanks he bears wings; on his hands rests, directly beneath the double head, the mighty egg to which the god, as πατρικὴ δύναμις, has given origin. On the ground lies Dionysus Hebon, the bull with the bearded countenance of a man. The reverse shows a swan lifting its wings, with the inscription ΜΑΡΑ above it.2) On Cilician coins the winged Chronos is again represented in another manner. Shown in swift running, he carries the egg, which is held at half the height of the whole figure by both hands.3) In these representations the egg does not stand at the head of things. It is traced back rather to a paternal origin. The relation is thus the reverse. The dragon, which first came forth from the egg, now appears as the father of the egg. In this lies an advance from the materially maternal origin, the ἀρχή perceptible to the senses, to a higher, paternal-creative principle, to a first ἀρχή, in relation to which matter enters a subordinate position. Above matter appears the male force, no longer conceived merely as a tellurian potency of water, as in the swan of the swamps of Camarina, but raised to the highest stage, to the heavenly power of light. Bull and lion, the signs of the generative potency resting in the
 
@@ -2372,9 +2159,7 @@ mas-ἄρρην, and mare, the generating κύματα (from κύω). On this sa
 
 3) From a coin of the Berlin collection. See, moreover, Museum Hunterianum, tab. 66.
 
-[PDF 157]
-
-— 143 —
+[p. 143]
 
 sun, surround the divine countenance of the light hero Heracles. Immortality is his attribute; the principle of transience and of death lies wholly on the side of the femininity assigned to him, Ananke-Adrasteia, who pervades all matter. As a power of the sun, Heracles bears the principle of time within himself. But in him it never ages; he is not Chronos, who always and necessarily belongs to the world of becoming as its temporal form; he is rather Χρόνος ἀγήρατος, the never-aging principle of time itself. From this solar nature is explained the connection of the egg-generating Heracles with Dionysus-Hebon, as it appears on the Camarinian coin. As the highest power of light, even if still conceived as material, Bacchus himself becomes Heracles-Chronos, the son of the maternal egg becomes its solar father. The same meaning belongs to the egg encircled three times by the dragon on a coin of Antoninus Heliogabalus, the representation of which Felix Lajard communicates in the recherches sur le culte de Vénus Pl. 14. H. no. 11. The original, of bronze, lies in the collection of the Bibliothèque nationale at Paris. Beside the egg stands a fruit-bearing palm. The inscription shows the Phoenician Tyre as the place of minting.1) The relation to the sun cult cannot be doubtful here. The egg is subordinated to the highest male force of light, and is itself represented as its creation. So there appeared to us above the Delphic omphalos-egg, so the myrrh egg of the Egyptian phoenix, itself represented as a generation of light, so the great egg that on a vase from Panticapaeum the Bacchante offers to the initiate riding on the sun-griffin.2) With this conception is connected the report of Porphyry in Eusebius Præp. Evang. 3, 11. According to Egyptian doctrine Kneph causes an egg to proceed from his mouth. It is the world egg; the father is the demiurge, who lets it go forth complete from his mouth, like the word, as the highest λόγος. The creative act is here conceived as νοητὴ ἀρχή, as that first unspeakable causality which the Orphic cosmogonies passed over as ἄρρητον. Passeri gives in his Atlas Farnesianus etc. p. 180 the representation of a bronze serpent which in his time was in the museo Gori. In the opened mouth rests an egg. Here the dragon appears, as Kneph does among the Egyptians, as demiurge. And that the Egyptians thought of and represented Kneph, the father of the egg, as a serpent god is definitely attested by Euseb. Pr. Ev. 1, 10. In this elevation the serpent appears at the highest stage of spiritualization. In its lowest materiality a representation of tellurian waters and of their generative force working in the dark [PDF 158] — 144 —
 
@@ -2396,9 +2181,7 @@ certain divinity to the nature of serpents and dragons. His opinion is adopted b
 
 3) Euseb. Pr. Ev. 1, 10. According to Sanchuniathon Philo writes: “Taautus attributed a
 
-[PDF 159]
-
-— 145 —
+[p. 145]
 
 of motifs, all of which find their explanation and resolution in the idea of initiation. The story that Lucian has connected with it appears only as an attempt to lay a historical event at the foundation of the symbolic representation, and to transform the mystical content into the death story of the one buried. But even in this dress the religious idea is still clearly enough present. Egg and serpent lead through to life only by way of death. Only out of destruction does a higher existence bloom. Passing away as the precondition of new becoming, darkness as the passage to light, the terrors of the underworld as the ground of a more vigorous revival, through suffering and affliction to joy: this is the mystery idea that governs the fable of Psyche, which is also the innermost kernel of Lucian’s story and of the Vulcian candelabrum. The search for the egg, the plucking of the mushroom, becomes the occasion of death, the serpent brings destruction. But both prepare the fulfillment of the higher hopes of the mysteries. The harmful animal of the swamps is not only the destroyer but also the redeemer of the initiate, the egg not only the bearer of death but, through death, the giver of salvation, of the renatio ad nova salutis curricula.1) On the candelabrum this is indicated by the female figure issuing from the opened flower calyx at the upper end of the candelabrum’s shaft. A pair of serpents serves her instead of feet. Here the life-giving side of the Bacchic animal comes forth, as at the lower part of the candelabrum its life-destroying side.2) We see anew the union of the light side and the shadow side in the same force. What wounds heals at the same time; what brings death bears within itself also the force of life. From the serpent’s bite the serpent heals. So the Mosaic story represents it, of the serpent set up at Jehovah’s command.3) The dragon is to
 
@@ -2414,9 +2197,7 @@ assumption seems to me by no means certain. On these funerary implements everyth
 
 3) Moses 4, 21.
 
-[PDF 160]
-
-— 146 —
+[p. 146]
 
 heal the dragon’s bite. ὁ τρώσας καὶ ἰάσεται. Among the manifold applications that antiquity already made of this natural proposition, the healing lance of Achilles deserves special emphasis. It not only wounds, it also brings healing. The same force necessarily embraces both potencies. The serpent is at one and the same time ἀγαθοδαίμων and κακοδαίμων, as the water, to which it belongs in its lowest stage, is at one and the same time the origin of life and the seat of death. On a coin of the elder Faustina in Spanheim de usu et præstant. numism. 1, p. 415 it bears side by side an ear of grain and a poppy, the symbols of the life-bringing and of the death-bringing power, just as two dragons are assigned to Demeter, and the two serpents that hold the Hygieia egg are represented, by the stars set above their heads, in the nature of the Dioscuri, who bring up life and death, day and night.1) Egyptian mythology clothes not only the good but equally the evil principle in the form of a serpent. So appear Serapis, so Python, so the great serpent Ahriman, who girds and combats the realm of light. This identity of both forces, by virtue of which Marsyas first blows the double flute with a single breath, holds first of all for the domain of physical life; through the mysteries, however, it is transferred to a higher domain; here the serpent, like the egg, appears not only as the preserver of life in material creation, but as the image of the higher existence of the individual that issues from death. It is the idea of the palingenesis of the individual life that attaches itself equally to the egg and the serpent. It is this spiritualized meaning that we must recognize above all on so many funerary monuments: in the serpent of the sarcophagus of Bomarzo, now in the British Museum, in a gravestone of the Louvre that shows nothing but an upright dragon, in the bronze serpents, some of which are preserved in the museum of the Collegio romano at Rome, in the remarkable amber fragment from a tomb at Ruvo in the Pourtalès-Gorgier collection,2) in the serpent of the rock sarcophagus of Thera,3) and on many similar funerary monuments. Not the physical significance of material generation, but the mystical one resting upon it, that of the higher existence mediated through death, is what was to be expressed pictorially by the serpent symbol on the tombs of the initiates, and has also found its representation in Lucian’s account of the gravestone at the Syrtes.4) [PDF 161] — 147 —
 
@@ -2432,9 +2213,7 @@ heal the dragon’s bite. ὁ τρώσας καὶ ἰάσεται. Among the ma
 
 To the egg monuments considered thus far is joined a group of three Pompeian wall paintings, all of which go back to the same type. We see the serpent once more in the closest connection with the egg. On the first of the monuments belonging here, the representation of which is also to be found in Gargiulo’s Raccolta, two mighty dragons approach an altar in powerful coils from the right and from the left, in opposite directions; on its top, surrounded by smaller fruits, lie two eggs. The head is adorned by the cock’s comb. From the opened jaws the tongue springs forth, formed as a fine line, its double curled tips touching the two eggs. The plants shooting high up indicate the luxuriantly fertile meadow ground which the serpents traverse before they halt their mighty movement all at once before the egg altar. This whole representation forms the lower part of a picture whose upper half, separated from it by a dark line, sets before the eyes the preparation for a sacrifice of a pig to be performed at a rustic altar. The same division appears on two other Pompeian wall paintings, of which one was found in the so-called casa di Castore e Poluce, the other in the casa del Labirinto. The former is reproduced in the Museo Borbonico vol. 8. t. 24, the second in the same work vol. 11. t. 38, both together in the monumenti dell’ Instituto. 1839. vol. 3, t. 6. On these two paintings a strip is set apart at the lowest place, on which the same altar with two eggs and the dragon is represented. The only difference of the last two pictures from the first consists in this, that here we find only one serpent in each, which on the one picture approaches the altar from the right, on the other from the left. I do not rate this deviation highly, and see in the singular number of the serpent not so much a conscious intention as rather merely one of those abbreviations which ancient art often permitted itself, especially in the execution of such accessories. The dual number of the eggs shows that we are to add in thought to the one dragon a second, approaching the altar from the opposite side: a supplement which presents itself to the eye of the modern, but especially of the ancient beholder, from the composition of the whole and from familiarity with other more fully executed recognized, since hardly any of the ancient animal symbols, from crude fetish worship to the highest spiritualization, has passed through so many stages of development, and appropriated so manifold interpretations, physical and mystical relations, as the serpent.
 
-[PDF 162]
-
-— 148 —
+[p. 148]
 
 representations. We have to do here, then, with a thoroughly typical conception, and are entitled to assume that besides the three surviving pictures many a similar one may have adorned the dwellings of Campanian cities.1) The content of the two scenes that are placed above the serpent as the main representation forms the subject of a very instructive exposition with which the late H. W. Schulz enriched the Annali of the year 1839 (vol. 11, pp. 101–127) under the title “rappresentazione della Fortuna sopra tre dipinti Pompeiani ed una carniola intagliata.” That an exact relation must obtain between the main picture and the representation of the serpents is clear enough already from the external union of the two scenes into one whole. The idea that the sight of the upper half calls forth finds necessarily its echo in the lower. This connection does in fact emerge clearly enough. We are now sufficiently familiar with the significance of the egg to recognize, in the representation of the female, veiled figure, distinguished by high majesty and the expression of commanding power, one of those great nature mothers whom the ancient religion places at the head of the material world, identifies with the fecundating moon, and sets in the closest union with a demon of male force, whom she has given birth to from herself into the light as Primigenia, as the night does the becoming day. On both scenes, however different they are in other respects, all the characteristic traits are repeated which lend such a mother goddess her unmistakable stamp. We see the goddess in connection with that paredros who is assigned, as Sosipolis, to the Tyche of Elis,2) as Jacchus to Demeter, as Cupid to the Erycinian Venus, as Plutus to Pallas Ergane and Eirene,3) as Telesphorus-Euamerion-Eros to Hygieia, as Jupiter Arcanus4) and Κτήσιος, or as Genius Jovialis to the Praenestine Fortuna, as δαίμων ἀγαθός to the Tyche of Lebadea,5) and who on works of art appears as a small, often winged figure, in the most various postures, now as an Eros flying toward her, now standing on the ground or on a column, now also sitting on the knees or on the shoulders of the primal mother.6) On
 
@@ -2452,9 +2231,7 @@ lower the serpents with the altar (here, however, the eggs are missing, if the r
 
 6) Special emphasis is deserved by the group communicated by Becker, Augusteum 2, 66
 
-[PDF 163]
-
-— 149 —
+[p. 149]
 
 our paintings the goddess stands beside the little Eros, wrapped in a garment which on one of the pictures is covered with stars. On this one she carries in her raised right hand an olive branch,1) while the left rests on a rudder and holds a scepter staff. If on the second picture the starry garment and scepter are lacking, the Cerealian relation of the goddess is on the other hand put beyond doubt by the particulars with which the offering of the sacrifice is accompanied. It is more difficult to determine more closely her unmistakable maternal nature. For Aphrodite, Leda-Nemesis, Demeter, Hygieia, Fortuna would not only agree with both representations in respect of the general fundamental idea, but would also meet with no significant difficulties in the particulars. Most closely, perhaps, to the native Italic cult will correspond Fortuna Primigenia, who in a wholly Cerealian conception formed the center of religion at Praeneste, but was also venerated in all Latium, at Rome, at Antium, and under various names in Etruria, as a representation of the great female principle of nature, as giver of all blessing of the earth, of all wealth, as mistress over the light and shadow side of life,2) as bearer and announcer of all good and evil fortune. Like the Praenestine, so too the Pompeian Tyche appears as the material primal ground of all life, of all tellurian creation in general, at once as chthonian and heavenly earth, endowed through the olive and the nocturnal starry garment with the nature of Aphrodite-Astarte, or of the lunar woman Athena, related in the rudder to the Rhamnusian Leda-Nemesis, in the scepter as ruler over all material creation, uniting in her hand the physical ground of life and death, and so also of the Dresden Gallery, which shows us Aphrodite leaning on a small figure of Priapus. The idea of fecundation cannot be mistaken here. To a certain extent the counterpart to it is formed by the statue of the Louvre in Clarac musée de sculptures pl. 341, no. 1293. Aphrodite, leaning on a column on which Eros, robbed of his wings, sits, treads with her right foot on an embryo lying in its envelope: thus the idea of fecundation, combined with that of hostility to the begetting of offspring.
 
@@ -2466,9 +2243,7 @@ which originally belonged to the Borgia collection at Velletri. Schulz, p. 123.
 
 2) From tombs there come without doubt those heads of baked clay with the mural crown
 
-[PDF 164]
-
-— 150 —
+[p. 150]
 
 the power over both. She shows us, then, in human form what the egg on the lower picture represents symbolically. A complete correspondence governs the two. We found the egg earlier in connection with Leda-Nemesis, with Hygieia, with Demeter, with Isis, with Aphrodite-Syria. We see it here united in the same way with Fortuna-Tyche. In all these combinations it appears constantly in the same character: as ἀρχὴ γενέσεως τῶν πάντων, as the content of all material life, in general as a representation of the great female principle of nature, which has received its human form in all those primal mothers. But it is older than all anthropomorphization, and has no part in the individual developments which the common idea of material primal motherhood has taken among the single peoples of antiquity under the combined influences of national disposition, occupation, political fortunes, and the character of the land, and the result of which appears deposited in the differing individual coloring of those mother goddesses. Whether Demeter, whether Aphrodite, whether Leda-Nemesis, and Hygieia with all those lunar women to whom egg-birth is ascribed, each have developed in a different direction, and so the common fundamental idea finally appears in a plurality of different local nuances: the physical foundation on which they rest is the same in all, and only this foundation comes to representation in the mother egg.1) For this reason the egg can also appear by itself alone, and without the accompaniment of a personally formed mother goddess. So we find it in the Orphic-Bacchic doctrine. So it is represented on the Pamphili tomb painting, so on the Fabretti stone. If, then, for the Pompeian wall paintings the connection of the upper and lower halves is established in relation
 
@@ -2476,9 +2251,7 @@ nomine multijugo totus veneratur orbis. Me primigenii Phryges Pessinunticam nomi
 
 1) In Apul. Met. 11, p. 257, Isis says: cuius numen unicum, multiformi specie, ritu vario,
 
-[PDF 165]
-
-— 151 —
+[p. 151]
 
 to Fortuna and the egg, then the same correspondence continues for Eros- Sosipolis and the serpent. When I designate the genius who stands on the column in boyish form on both pictures as Eros-Sosipolis, I claim for this individualization no other value than that of a designation correctly rendering the general idea. A more far-reaching determination will hardly be possible, and every attempt to establish the ancient name under which Pompeii may have venerated the dwarf demon or genius of those pictures is met at once by doubts and misgivings. The general idea, on the other hand, is quite clear. Beside the mother stands a son: beside the Cretan Adrastea, Zeus; beside Proserpina πρωτογενής, Dionysus; beside Demeter, Jacchus; beside Pallas, Erichthonius or Plutus.1) From the dark womb of matter there issues a Protogonus, in whom the mystery of the male force attains corporeal representation. What hitherto worked invisibly hidden in female matter, that now comes forth into the light. Originally given is only the female birth-giving principle: the male-active comes to visible representation with the first birth of a son.2) In the child the mother herself now recognizes the fecundating phallus, to which her materiality owes the awakening of the life resting within it. With delight her gaze rests on the revealed mystery. With tender love she embraces the fruit of her womb. The son now becomes her own fecundator, her beloved, for whose embrace, like Penia, she longs eternally. He is the most beautiful of all gods, he now becomes himself the great father of all generated, perishable creation. As Adonis he is called Papas. He is also called Eros, the god of generative force, the principle of sexual union. So too Jacchus, whom the nymphs tend, whom the faun rocks in his arms and regards with a gaze of delighted inquiry, as if he now beheld for the first time the salvation of the world, the mystery of generation, in bodily form. He is for the Orphics Phanes, Ericapaeus, Metis, beside Hygieia Telesphorus, Acesius, Euamerion-Eros, for the Etruscans Tages, who is plowed up out of the furrow of the tellurian maternal body, child and bald-headed old man at once, the former according to his appearance in the light, the latter according to the aeons he has spent in the dark maternal body, unbeheld by mortals. He is Telephus and Ascus, whom the hind, image of the earth, suckles; he is Plutus, who through his fecundation becomes the founder of all tellurian wealth; he is the virile Hippolytus-Virbius; he is Endymion, whom Ops-Diana loves; he returns again in [PDF 166] — 152 —
 
@@ -2498,9 +2271,7 @@ darum?) Aufustius: Genius, inquit, est Deorum filius et parens hominum, ex quo h
 
 3) Festus v. Genium appellabant Deum, qui vim obtineret rerum omnium gerendarum. (gignen‐
 
-[PDF 167]
-
-— 153 —
+[p. 153]
 
 forth. Stillness and rest prevail in the egg; but when, driven by the desire of becoming, the male god breaks through the shell and begins his work as Enorches, then all becomes movement, all restless haste, all impelling force, all a never-ending cycle. The male generative principle appears, then, itself as the representative and bearer of movement in visible earthly creation. As it gives the impulse thereto by the first act, so it renews it without cease through constant repetition of the same. The natural principle of action appears at the same time as the moving one. It is necessarily joined with the law of swiftness, and therefore winged, like Eros, like the phallus itself,1) like Pegasus, the horse of the tellurian waters, like Heracles-Chronos, like Mercury, distinguished by agility of running, like water,2) like Achilles’ δρόμοι,3) like Scythius-Scyphius, the first horse that the earth bore from its womb.4) Storming, it bursts forth from the maternal body, marking the first moment of its existence by unrest and hasty speed, like the spring that wells forth with inborn mobility and acknowledges restlessness itself as its highest law. Stare loco nequit, micat auribus et tremit artus Ingentemque vomens volvit sub naribus ignem. Thus the male potency enters into a new opposition to the female, the serpent to the egg. Winged is the phallus, resting the woman; the principle of movement is man, the principle of rest woman; the cause of eternal change is force, the image of eternal rest woman, which is why the earth mothers are mostly represented seated. For this reason woman’s nature is so closely akin to the rest of death, while the funeral games always attach themselves to the cult of a male hero. For the movement that is furthered by death proceeds from the activity of man, while the rest of the tomb is akin to the female principle. We can now conceive the connection of the serpent with the egg also as a union of the two, of the resting and of the moving principle of things. On the altar the egg rests immovably. The cock-dragon
 
@@ -2516,9 +2287,7 @@ jecture that a similar connection links Mara, Marca (palus in Aelian H. A. 6, 32
 
 4) Serv. Georg. 1, 12; 3, 122. The identity of equus and aqua I have already noted. I con‐
 
-[PDF 168]
-
-— 154 —
+[p. 154]
 
 on the other hand shows by the coils of its body that movement pervades it. The former is the ἕδος ἀσφαλὲς ἀεί, the ἀκίνητον or sanctum, which no one may move from its place, which the earth itself holds fast, like the immovable terminus, the funerary column set on a level with it, the meta, and the walls, which, like the tree, are rooted in the maternal womb of the earth and, like them, have come forth into visible existence from the slumber in which they lay. The dragon, on the other hand, is visible creation that has attained the development of life. It can itself be regarded as the egg set in motion. In this significance, however, it must always be thought of as two, as the first of the Pompeian pictures represents it, as it is repeated in the pair of the Fortuna and Nemesis at Antium and Smyrna, and emerges in the pair of the genii.1) For movement is the result of two streams rolling against one another with equal force. In order that it may continue always with equal swiftness, the destroying force must perform its work as well as the life-generating one. Two horses, therefore, tear the chariot along with united power. Two brothers guide the team, like Actor’s sons, the egg-born Molionids:
 
@@ -2536,9 +2305,7 @@ mæ astriferæ 3, 90 f., with which the two of Ceres agree.
 
 3) Compare with this the Isis entwined by two serpents in Passeri Isis Goriana, in the gem‐
 
-[PDF 169]
-
-— 155 —
+[p. 155]
 
 resting primal ground, the latter the continued development of all tellurian creation; the former is matter, the latter the moving force in its double pole. The dragons bring to outward representation what the egg encloses within itself. They develop from it ever new life, call forth from it ever fresh blessing. By this very fact they are the givers of all wealth, of all nourishing fruit, of all bodily well-being. The material foundation of prosperity lies in the egg; it is called forth and brought to ever new development by the serpents. We now see quite clearly how the Cerealian relation of the upper half of our two Pompeian paintings is continued in the lower strip, with its eggs and serpents. If above the sacrifice is offered which is to implore from Fortuna the blessing of the earth, of the marriage bed, and every prosperity of the house in goods and in body, then below, in the egg and the dragon, we see represented the natural potencies by whose force the seed of all life is laid and ever renewed. From the connection of the two pictures the idea of domestic well-being and of the salus spread over all parts of family life emerges with doubled strength. It is therefore also significant that at least one of those pictures, namely that of the casa del Labirinto, was set above the household altar. Here at the domestic hearth, in the center of the dwelling, Fortuna has her seat. Here she appears as interna,1) as the protecting mother of the whole house, which has everything to thank her good will for: the full granaries, the blessing of children, bodily prosperity, protection against enemies, in short everything that we are accustomed to designate as earthly welfare. If she has in this the significance of a protectress in the most comprehensive sense, then the dragon too takes on the nature of a protecting genius, to whose vigilance the welfare of the place in which he has taken up his dwelling is entrusted. He shares with the great mother the significance of a numen tutelare, to whose vigilance the egg, as the symbol of plenty and wealth, is committed. Here too he appears as the representative of the active, energetic principle, to which femininity, whether in the form of Fortuna or in the form of the egg, stands opposed as the resting principle, in need of tending, care, and protection. By his very mobility the dragon is suited to the defense of the place consecrated to him. Friendly toward the natives, he shows himself, according to Aristotle, terrible to strangers. Wherever the former follow him, he carries fear and terror, and borne ahead as a standard he brings destruction among the enemy.2) Thus he also establishes external power,
 
@@ -2548,9 +2315,7 @@ olog. gent. 9, 29.
 
 2) See the rich collections on serpent cult in Spanheim, de usu 1, 211 f. Vossius, the‐
 
-[PDF 170]
-
-— 156 —
+[p. 156]
 
 as he circles protectively around the home hearth. But all the fruits of his activity he brings to the household altar, as Mercury lays the purse of the gold he has won in Fortuna’s lap.1) The relation of the two potencies is always the same. From primal matter the force of the man calls forth every blessing; at its feet he lays down again what he has gathered. If Fortuna has her immovable seat at the hearth, the task of the man is activity and movement without rest or respite, defense today, attack tomorrow. By this quality the dragon becomes the holder of power. The source of kingship and of all dominion lies in the material primal mother, but the crown is worn by the man. We find the serpent as a symbol of dominion. So the Egyptian king carries it,2) and to this significance the cock-dragon owes its name βασιλίσκος.3) One might ask why the crown does not rest on the head of the primal mother, since she stands at the head of all material creation, while the male principle stands to her in the subordinate relation of a son? The answer, after what has been said above, cannot be doubtful. The visible creation, to which alone all earthly dominion can extend, is the work of the male force that has stepped into the light, before whose appearance there exists as yet no creature at all, but only the material primal egg that holds within itself the seeds of all things. As life on earth therefore begins with the activity of the man, and through it first that which is to be ruled is called into existence, so he alone can wield dominion. This belongs to the son, not to the mother, to the pair of serpents, not to the egg. Thus Horus rightly tears the diadem from the head of his mother Isis, in order to set it upon himself, the vigorous lord of the generated creation.4) Thus Aphrodite too gives dominion to the man. So we see her, on a bas-relief from Basili-Kaia published by Texier, investing the king with the insignia of power; so Tydo raises her favorite Gyges to the throne; as Fortuna brevis she was in one night the consort of two kings. So Croesus is born ἐν ἑορτῇ Ἀφροδίτης; Fortuna-Tanaquil, in a wholly Lydian manner of conception, raises Tarquin and Servius in succession to the throne. The Aphroditean doves were for the same
 
@@ -2566,9 +2331,7 @@ ples had for the law of inheritance in the royal families of Egypt I have discus
 
 4) Plut. Is. et Os. c. 19. What consequence this position of the male and female princi‐
 
-[PDF 171]
-
-— 157 —
+[p. 157]
 
 reason regarded by the ancients as regium augurium.1) The source of power is the female primal mother, just as all tellurian generation likewise proceeds from her materiality. But dominion is wielded not by her but by the man, whose force awakens life in matter, and who by his deed calls into being what is to be ruled. We find this idea again in the myth of Tarutius and Larentia.2) Tarutius is rich, a true Plutus; Larentia is poor, the material Penia, in whom first the man awakens the seed of creation. But Tarutius lays everything in Larentia’s lap, as Hermes lays the filled purse in Fortuna’s. She in turn appoints the Roman people her heir. The same idea lies in the property law of the gynecocratic peoples. The man acquires. But everything is given to the woman and inherited exclusively by the daughters, so that even the duty of maintenance among the Egyptians rests exclusively on these, not on the sons. Yet, indeed by virtue of the same principle, it is the man who rules with the scepter of power, not the woman. To him belongs the right over life and death, since it is he, through his action upon matter, and not the receptive woman, who has introduced into the world the movement of life and death. Therefore we also have no indication that the egg ever became a symbol of dominion. The sign of force is the serpent, the sign of material plenty the egg. So too in that dream in Chrysippus, wealth and hidden treasure are foretold from the egg, not power and dominion, and Scribonius promises the latter to Julia Augusta only when a pullus insigniter cristatus came to light. So the Persian king drinks from a gilded eggcup the generative, salutary water, but as a symbol of dominion no king, no ruler on earth bears it. The relation of egg and serpent is always the same: there the woman, here the man; there the material primal ground, here developed life; there the concept of material plenty, here that of energy and dominion; there that of rest and preserving, here that of acquiring, struggling, increasing, of fighting in attack and defense; there Fortuna at the hearth, here the serpent genius, wholly given over to life, generating, sustaining, and ruling it. On this is founded the duality of kingship, as it reveals itself at Rome in Romulus and Remus,3) then again in the consulate and in the duumvirate of so many magistracies, and as it appears at Sparta. Were the female natural principle the model of dominion, it could rest only on one
 
@@ -2580,9 +2343,7 @@ bly connected.
 
 3) Serv. Aen. 6, 780 on the words: Viden’ ut geminæ stant vertice cristæ.
 
-[PDF 172]
-
-— 158 —
+[p. 158]
 
 head. For primal matter is in itself necessarily a unity; only the life that has proceeded from it is twofold, a life that a twofold male force, that of becoming and that of passing away, keeps in motion and ever rejuvenates anew.1) In Romulus and Remus this nature of duality emerges with particular clarity. For that Remus represents the dark side of life, Romulus the luminous half of force, is evident from all the features of their myth. The twin pair of Rhea is comparable to that of the Molionidae and the Dioscuri, and the hetaeric swamp as mother could, without in the least doing violence to the idea of the ancient conception, quite properly be conceived as an egg. But it can also be set beside the two Lares and Mania, the mother of the Lares, and likewise beside the genius-dragons and the mother egg. The fundamental idea of all these mythological formations is the same: woman stands as material primal principle and as a unity, whereas developed life is the result of a double male force, which appears as generating and sustaining, and therefore also as ruling. Only in the union of two holders of power lies the guarantee of welfare. Therefore the death of one is a particular misfortune, and for the censors the dissolution of the rule of both. Therefore they are to be chosen iisdem auspiciis and bound by a relation of colleagues in which each bears the whole right in himself, and in which, as in the case of the partes pro indiviso, the restriction of each individual comes into play only concursu.2) The duality of the male force passes likewise to the insigne imperii. It is the double ax, the Albanæ secures,3) of Asiatic origin, as we find it in the hands of the Zeus of Labranda, in those of the Lydian rulers,4) and, above all, surrounded by very significant myths, on Tenedos.5) The bipennis too shows the duality of force, the power over life and death. It corresponds to the double dragon, which rules all mortal life, and as with the latter the significance of dominion rests on the significance of physical generation, so too with the former. Proof of this
 
@@ -2600,9 +2361,7 @@ contains more exact information on this.
 
 5) Suidas, τενέδιος ἄνθρωπος and ξυνήγορος.
 
-[PDF 173]
-
-— 159 —
+[p. 159]
 
 are the bundles of brushwood that surround it, as Hera’s Carian image, and likewise at times Isis,1) is wound about with willow twigs, the expression of generated life.2) To this are joined so many other insignia imperii which, like the scepter of the Atreidae and the Theban spear,3) unite the physical and the political significance, and present the former as the foundation of the latter.
 
@@ -2654,9 +2413,7 @@ solvere, quo colligatum est; ideo verborum obligatio verbis tollitur, nudi conse
 
 2) Fr. 35. De div. reg. iur. ant. (50, 17.) Nihil tam naturale est, quam eo genere quidque dis‐
 
-[PDF 176]
-
-— 162 —
+[p. 162]
 
 innocence, they are sawn through with a file.1) What force has bound, opposite force looses. What the tuba destroys, the tuba has also built. How this is to be understood the myth of the walls of Thebes teaches, which, stirred by the lyre tones of Amphion, build themselves of their own accord.2) The bronze trumpet, however, stands in the closest relation to phallic generation. It calls the bull Dionysus forth from the generative waves of the sea,3) it also brings Achilles out of his Scyrian hiding place among the women, where his masculinity lay hidden and unknown beneath womanly dress, until it, like the son from the maternal womb, stepped forth into the light.4) The Platonic and the Roman expressions receive their full significance only if we think of the excitatio as brought about by the sound of trumpets. By noise the sleeper is awakened; by the mighty taratantara of the tuba the wall is brought to rise from its subterranean slumber. Here too, then, there appears once more the idea of a generative deed of man, to which the murus, like the tree, owes its origination. It is the creation of the tellurian phallus, which in it, as in a male birth, attains visible existence. Its material primal ground it has from the earth, which is why the mural crown adorns the head of the great nature mothers, its origination from the male force. It therefore also stands to these two potencies in a consecrated relation: to the female-material principle in that of the sanctum, to the male principle of force in
 
@@ -2674,9 +2431,7 @@ fair that Josephus be freed not only from chains but also from disgrace; it will
 
 4) Apollod. 3, 13, 8: Ὀδυσσεὺς δὲ μηνυθέντα παρὰ Λυκομήδει ζητῶν Ἀχιλλέα σάλπιγγι
 
-[PDF 177]
-
-— 163 —
+[p. 163]
 
 that of the sacrum. Joined firmly to the maternal womb of the earth, it is immovable, and this ἀκίνητον forms the real fundamental meaning of sanctum.1) Projecting above the earth, it is the phallus-birth that has come into the light, and, now consecrated to the gods of light, is in this relation sacer. Sacrum means everything consecrated to the gods above. It refers, then, just as much to the luminous nature of masculinity as the sanctum does to the relation to the earth. As sancta res the wall is inseparable from the matter with which it stands firmly joined, as sacra it is committed to the protection of the higher force of light, into whose realm it was born. If the ἀκίνητον rests in the former quality, the latter carries within it the assurance of divine protection. In the former the wall has the quality of the earth itself, immovable rest and innate divinity; in the latter it is protected and defended against every hostile attack, as by the phallus, so by the serpents. Persius, Sat. 1, 112, gives an example. Hic, inquis, veto quisquam faxit oletum? Pinge duos angues; pueri, sacer est locus, extra meiite! discedo. No one is to relieve himself at the wall. Against this the image of the serpent protects. By it one makes the place sacer; it is now consecrated to the gods of light and under their protection; given over to them, it is defended by them. So there stands on the gate of Mycenae the sun pillar held by the sun lions, the sign of the highest shelter through the highest potency of divine force. The heavenly ones watch over what man transfers to them as property. Sanctitas expresses only a quality, even if one grounded in the religious views of tellurism; the concept of protection and defense it does not carry in itself. This lies in the consecration and the duty of protection that arises from it for the deity. As sancta res the walls share in the holiness of earth matter, in whose realm they rest; they are not so much divini iuris as themselves bearers of a deeper stage of divine force; as sacræ, on the other hand, they enter objectively into the right of the powers of light, who now undertake their defense. So the sacrum stands to the sanctum as the guarding dragon to the egg. The former designates the sacrum and the protection it enjoys; the latter the object which, as res sancta, carries within itself the divinity of tellurian matter itself, but has need of a
 
@@ -2684,9 +2439,7 @@ ipso solo est, quod nulla vi moveri neque deleri potest, atque ut cetera extingu
 
 1) Cic. de legg. 2, 9: Deorum Manium jura sancta sunto. Phil. 9, 6: sanctitas sepulcri in
 
-[PDF 178]
-
-— 164 —
+[p. 164]
 
 higher protection. The true concept of the sanctum as ἀκίνητον μὴ κινεῖν emerges clearly in the importance of the pomœrii prolatio,1) in the holiness of the terminus, in the myth of the immovable Terminus of the Capitol,2) in the immovability of funerary columns and boundary markers, likewise in the sanctio legis, the penal clause contained in the last chapter of the law, which carries with it the idea of firmness and unalterable validity, as well as in many applications at whose foundation lies always the sense of immovable steadfastness, unshakable firmness.3) Again, the concept of the sanctum finds application to the holiness of the treasure hidden in the earth. Plato speaks of the belief of the ancients that the raising of a discovered treasure brings misfortune into the marriage bed. Whoever, then, raises such a hoard is punished by the barrenness of his wife. Here we see once more the ἀκίνητον in its connection with the female-material natural principle. Whoever lays hands on this calls down upon himself the vengeance of Mother Earth. From him woman withholds her fertility; for him no blessing will any longer bloom forth from the egg. After his fashion Plato has spiritualized the old belief into a proposition of truly Christian sublimity. “If you leave the treasure lying, you will gain more in your soul than in your goods if you raise it.” Wholly material in nature is the old popular conception, wholly ideal-spiritual Plato’s
 
@@ -2700,9 +2453,7 @@ irrogatione pœnæ ab injuria defendere, sic et leges sanctæ, et muri sancti es
 
 3) Isidor. Or. 15, 4, 2. Sanctum, quod constat esse sancitum. Sancire autem est confirmare et
 
-[PDF 179]
-
-— 165 —
+[p. 165]
 
 interpretation.1) The example becomes all the more instructive since we know from Chrysippus’s interpretation of dreams what inner affinity binds the treasure to the egg. By this very fact we are entitled to place the sanctum in closer relation to the material primal egg, as the sacrum to the cock-dragons akin to light, and to recognize in those Pompeian paintings an allusion to the character, doubly consecrated by sanctum and sacrum, of the space surrounding the household altar.
 
@@ -2714,9 +2465,7 @@ here in full. “Let us first cite a treasure that someone has carefully laid aw
 
 1) Plato, Legg. 11 from the beginning. I cannot resist communicating this passage
 
-[PDF 180]
-
-— 166 —
+[p. 166]
 
 female natural principle all material life and all material wealth proceed, in respect of their material ground, so too the idea and the origin of law attach to it. Law orders the relations of economic life on earth. It belongs wholly to matter, refers exclusively to matter. It is therefore itself wholly material in nature, and for that reason in its innermost essence female. In this quality it meets us in the ancient world of myth. The founders and bearers of law are the same nature mothers who also let the goods to which it refers proceed from their womb. The idea of maternity thereby receives a new addition. The disposition favorable to mortals lies now no longer merely in this, that she sends all good gifts to men, and, like the primal mother Anna Perenna, feeds the hungry people with warm loaves even in the poorest months of the year; it lies notably also in this, that with truly maternal love she apportions equally to all her children and gives each his own. Aphrodite thereby becomes Nemesis, she who distributes justly. For herein lies, as in Ἰσοδαίτης, the idea of just νέμειν, the idea of giving joined with that of equal distribution, hence the idea of a true Justitia. As such she is the judge over every dispute, causarum et arbitra regum, as Ammianus Marcellinus 14, 11 calls her.1) The same nature is shown by Aphrodite Syria, the virgo cœlestis. Especially noteworthy is an inscription found in England in Orelli-Henzen vol. 3, no. 5863. Imminet. Leoni. virgo. cœlesti. situ | spicifera. iusti inventrix. urbium. conditrix | ex quis muneribus. nosse contigit deos | ergo eadem mater divum pax virtus. Ceres | dea Syria lance vitam et iura et pensitans | in cœlo visum syria sidus edidit | Lybiæ etc.2) We see here the two tendencies of maternity, the one that bestows wealth and the one that devises, administers, and apportions law, joined and derived from the same fundamental idea. Caesar therefore attached himself to a view rooted equally deep in the Aphroditean religion and in the nature of law when he built his forum, destined for the administration of justice, around the temple of Aphrodite.3) The goddess who gave origin to the Julian lineage, whose name Ἰουλώ, as it gave its name to the Coan-Aphroditean city Ἰουλίς, so also gave to the Trojan lineage of Anchises the maternal name Julia
 
@@ -2728,9 +2477,7 @@ memor fuerit. — Pervigilium Veneris l. 7. Cras Dione jura dicit fulta sublimi 
 
 3) Dio Cass. 43, 21.
 
-[PDF 181]
-
-— 167 —
+[p. 167]
 
 gens,1) which stands in such close relation to the Aphroditean Bovillae,2) and whose star did not forsake even the latest descendants:3) she appears in Caesar’s design as causarum arbitra, as the highest source of law, vitam et jura pensitans, the in cœlo visum sidus, and precisely in the administration of law justifies her nature as regina cœli, as director of the heavenly harmony.
 
@@ -2752,9 +2499,7 @@ censib. (50, 15) Sciendum est, esse quasdam colonias juris Italici, ut est in Sy
 
 5) Nonn. 41, 129 f.
 
-[PDF 182]
-
-— 168 —
+[p. 168]
 
 in the renewal of legislation rejuvenation again and again, as the serpent puts off its henceforth useless skin and returns from age to youth. At the birth all nature is in joyful movement. Peace reigns in creation, and joins the wild animals with the tame in harmonious union. Astraea, the nurse of men versed in law (line 334), nourishes the child with Attic honey; law and eloquence are its first utterances. So Beroë thrives to the beauty of Aphrodite, which stirs even the desire of the Olympian. The mother, delighted by the splendor of her daughter, wishes to found in her memory a city that would surpass Athens itself in the fame of its laws. For Zeus had once, when Aphrodite united him with Hera, given the goddess the promise that to one of her cities the statutes of justice (θεσμὰ Δίκης) should be granted. To learn to which such fame is allotted, she hastens to Harmonia, whom she finds at the loom, busy adorning the garment with the artful images of the earth, the starry heaven, the ocean, and the river-bull with human countenance. Now, at the appearance of the troubled mother, the mistress, nurse of mortals and immortals, lays the weaving implements aside, and shows Aphrodite, on the seven tablets of destiny that bear the names of the seven planets, Beroë’s name as the first, to whom the promise applies. Highly delighted, the fortunate Cypris hastens to her son Eros, and persuades him to fill Dionysus, who happens to be staying on Lebanon, and Poseidon with love for the beautiful Beroë. Chance brings the two gods together. They are inflamed with a common love. Combat is to decide the possession of the bride. In fearful strife the powers of water and of fire wrestle with each other. In five hosts the army of Dionysus is drawn up. All the gods look on at the combat. But at Psamathe’s entreaties Zeus decides for Poseidon. To him the child of the sea-born Aphrodite is wedded in solemn marriage; Dionysus is consoled by the promise of Ariadne, Aura, and Pallene. In keeping with the promise he gave before the battle, he too is well disposed to the newly founded city. These are the main features of the younger myth, whose elaboration extends to the end of the 43rd book. However much of this we may now regard as Nonnus’s own invention, the myth is nonetheless what the poet himself gives it out to be, a native Berytian legend. On coins the city appears now joined with Poseidon, now with Dionysus, and Sanchuniathon too relates that Cronus gave to Poseidon (so closely related to him) the dominion over Berytus.1) The praise of the law school, which has little connection with the combat of the [PDF 183] — 169 —
 
@@ -2788,9 +2533,7 @@ In the hymn to Isis found in 1841 on the island of Andros by Ross, published by 
 
 3) Δηώ attaches itself likewise to the stem Δη, γη, like Δημήτηρ, δαίμων, Damium,
 
-[PDF 185]
-
-— 171 —
+[p. 171]
 
 goddess’s relation to law and legislation is likewise emphasized: l. 19: αἰπυνόῳ βασιλῆϊ δ᾽ ὅσον μένος ἐν φρεσὶ[ν ἔγνω] θεσμοθέτις μερόπων . . . οὐδ᾽ ἀπαμαυρώσει . . . i.e. “what the mind of the high-minded king perceives in his spirit, that comes from me, the lawgiver of mortals, and no length of time will be able to obscure it.” l. 34: ἀδὲ θαλάσσας πρᾶτον ἐν ἀνθρώποισι περάσιμον ἦνεσα μόχθον, ἀδὲ δικασπολίᾳ ῥώμαν πόρον, ἀδὲ — γενέθλας ἀρχάν, — ἀνδρὶ γυναῖκα συνάγαγον ἔν τε σελάνας ἐς δεκάταν ἀψίδα τεθαλότος ἄρτιον ἔργου φέγγος ἐπ᾽ ἀρτίγονον βρέφος ἄγαγον, ἀδὲ γονήων ἀζομένως τιμὰν ἔτι νηπιάχως ὑπὸ μαζῷ δωρησμοῖς ἐδίδαξα μελίφροσι. etc. That is: To men I first recommended the venture of sailing over the sea, and gave force to the administration of justice, and as the beginning of generation gave woman to man, in the tenfold revolution of the moon led the work to perfection, gave the young offspring to the light, and through sweet gifts impressed upon the infant reverence for its parents. l. 53: ὑπάταν βασιλήϊδ᾽ ἀτε[ιρῆ] πτήσσονθ᾽ ἀμετέραν, δεσμῶν δ᾽ ἀέκουσαν ἀ[νάγκην] ἀλλύω. That is: Before our highest royal power they tremble, but the constraint of fetters not agreeable to me I loose. l. 69: Ἶσις ἐγὼ πολέμῳ κρυερὸν νέφος ἕρκεσι μόχθων ἀμφέβαλον, κλήζοισα πολυκτέανον βασιλείαν θεσμοφόρον. That is: the sufferings and distress of war I have banished, and the royal power, the enriching, law-founding, I have raised to fame.
 
@@ -2802,17 +2545,13 @@ From this conception a cult practice in the service of the great Egyptian primal
 
 2) Macrob. Sat. 7, 13. reports from the writings of Ateius Capito on the Jus pontificium a
 
-[PDF 186]
-
-— 172 —
+[p. 172]
 
 The left is therefore the female, the right the male side of nature. The maternal natural principle accordingly stands in a natural connection with the left side of man. This emerges in that Keraton erected by Theseus on Delos, which is built entirely of left horns. Around the horn altar the youths dance the so-called crane dance, as Dicaearchus calls it, which is danced round in a circle and back again, over and over.1) If in this, as in the turning about of the Romans at the grave of their parents, the idea of the circular movement and of the returning into itself of all life emerges, then the connection with Ariadne’s Venus pillar shows that the female-material view of nature led to the choice of the left horns. In the exchange of left horns for right, which the same Plutarch reports in another passage, namely in the treatise on land and water animals, the transition from the female to the male view of nature, from the Aphroditean to the Apollonian principle, emerges. A further recognition of the connection of the left side with the female natural principle lies in the following report of Pliny 7, 7: Supra Nasamonas confinisque illis Machlyas Androgynos esse utriusque naturæ inter se vicibus coeuntis, Calliphanes tradit. Aristoteles adiicit dextram mammam iis virilem, lævam muliebrem esse. Plut. Symp. 8, 8, especially 5, 7. (The boys from the right, the girls from the left testicle.) Thus femininity was assigned to the left side. Very remarkable, further, is the legend cited by the scholiast on Pindar Ol. 1, 37 Boeckh. p. 30. The Pelopidae are said to have shown on the right shoulder the Neptunian trident, on the left upper arm the Gorgon’s head. In the former their male descent from Poseidon genesios, with whose help Pelops won Hippodamia, is emphasized, in the latter the female. From the idea of femininity the left side derives the significance attributed to it in the doctrine of augury. passage on the religious significance of wearing rings; in this it is said: Hinc factum est, ut usus anulorum exemtus dexteræ, quæ multum negotiorum gerit, in lævam relegaretur, quæ otiosior est: ne crebro motu et officio manus dextræ pretiosi lapides frangerentur. — The Bacchantes carry the thyrsus in the left hand, Pentheus in the right, Euripid. in Bacchis 937. On this Marmora Taurinensia 1, p. 58. According to Philostrat. Her. 19, p. 322 Asteropaeus has two right hands: δεξιὸς ἄμφω τὼ χεῖρε, an emphatic highlighting of his male-active nature. — On right and left compare also Grimm, Geschichte der deutschen Sprache, p. 981. On the connection of Hecate and of the soul with the left side of man, Selden, de Diis Syriis Synt. 2, 2. Finally I recall that the hot drop of oil from the Psyche lamp falls on the right shoulder of Eros (above, p. 95), that Jason wears the sandal that alone remained to him on the right foot (Pindar, Pyth. 4, 133. 165, with the scholia), that, on the other hand, Charicleia has on the left arm the black mark, the sign of her birth from the Ethiopian queen Persina. Heliodor, Aethiop. 10, 15.
 
 1) Plutarch Thes. 22.
 
-[PDF 187]
-
-— 173 —
+[p. 173]
 
 For here the left side is the auspicious one, both with regard to the appearance of birds and to that of lightning.1) In εὐώνυμος and ἀριστερός the view of the ancients expresses itself linguistically as well. Woman is the ground of all blessing, and therefore the left or female side is the good one. When among the Greeks the left announces misfortune, as in Homer, Od. 20, 242 f., this rests on another property of femininity. Woman consumes all life, so that the Gorgon is conceived as the source of death, Ocnus’s rope is gnawed by a θήλεια ὄνος, and the moon is credited with the orbandi potestas and the quality of sterility. Thus the two conflicting interpretations are nevertheless only two sides of the same fundamental concept, of which now the one, now the other comes to the fore. I hold the auspicious one to be the older meaning, the inauspicious one the newer, and I trace the latter back to the victory of the paternal over the maternal natural principle.2) — The Romans say sinister avis, and the connection of this word with sinere, asserted by the ancients, seems to me beyond doubt. Here the left side shows its passivity once more, just as the right hand expresses the active principle. To permit is a passive, to hinder an active mode of conduct. The former is therefore associated with the left or female side, which Plutarch too calls the naturally weaker. The same idea recurs in the identification of the sinistræ partes with the septentrionales, which is cited as a fixed tenet of augural doctrine. For since in these the sluggishness of cold prevails, they are the weaker, female parts of the earth, just as the generatively powerful southern regions are its stronger, male parts.
 
@@ -2824,9 +2563,7 @@ the second rank, and the parts of the left side shall be offered to the gods of 
 
 2) In Plato, Laws 4, p. 717, it is ordained that sacrificial animals of even number, of
 
-[PDF 188]
-
-— 174 —
+[p. 174]
 
 natural side of matter. We find all the great nature mothers conceived as weaving deities. I recall Harmonia, who finds Aphrodite at the loom, and add Penelope, the dædala Circe, the tres anus textrices of the Eros mysteries, the spinning Parcae, the spindle of Athena and of Tanaquil,1) the acus as one of the septem pignora imperii, the golden χειρόμακτρον of Rhampsinitus, which Demeter gives him, and the many examples in which priestly matrons, in imitation of the goddesses, weave a peplos. Here the hand appears as the seat of all skill. Deep in the depths of matter the artful web is plaited with which the earth adorns itself as with a beautiful carpet, and which earns for the creative mother herself the epithet dædala or Πλαστήνη (from Πλάσσειν).2) It is the hand by which this work is performed, the hand therefore is the symbol of all work of nature; hence Hermes the shaper is called Εὐπάλαμος,3) and Εὔχειρ is the name of the companion of Demaratus, but also of the artist of a Vulcian vessel, and in Egyptian hieroglyphics, according to Horapollo, one fond of building is indicated by a hand.4) Insofar, then, as the shaping work of nature proceeds from the female-material principle, the hand becomes the image of maternity, which bestows upon all things in the depths of the earth the artful development with which they come forth. For this reason the Palici appear on well-known vase paintings as a birth from fingers; for this reason Persephone herself is called Χειρογονία, the finger-born, and accordingly also, in turn, she who gives birth from her fingers. For this reason Hera-Aphrodite, whom mothers invoke at the betrothal of their daughters, is Ὑπερχειρία.5) For this reason the Sirens are depicted on Hera’s hand.6) For this reason the mother of the Lares is a Mania; for this reason the concepts of Mana and Geneta are joined. For this reason the dead who reunite themselves with Mana are called Manes, as from Demeter Demetrii. Now the connection, too, of manus equal to bonus and manus equal to χείρ, and of both with Mania and Mana geneta, from which they differ only by the difference in the quantity of the vowel, as populus and populus do, is explained. The hand of the mother who forms all life is that through which she becomes Bona Dea, and the same concept of maternal goodness lies in Mania and Mana geneta. With all these various but inwardly unified relations the hand appears on tomb stelae, so on one depicted in Raoul-Rochette, mon.
 
@@ -2842,9 +2579,7 @@ natural side of matter. We find all the great nature mothers conceived as weavin
 
 6) Pausan 9, 34, 2.
 
-[PDF 189]
-
-— 175 —
+[p. 175]
 
 inéd. pl. 47, 2. This example is all the more instructive because the Greek inscription forbids us to think of mere word symbolism, manus as Manes. Among the recent Praenestine tomb finds, of which E. Braun reports some in the Bulletino dell’ Instit. 1845, p. 46, hands too are mentioned.1) They are not, as on the tomb stelae, cut off at the wrist, but joined with a piece of the forearm. This shows several rows of bas-reliefs on which appear the representations of centaurs and various fantastic animals so familiar from archaic, especially Chiusine, vases. Since these gain their upright position only when the hand itself is turned downward, I do not doubt that all those pieces, like the others, were meant to be hung up. A single one of these hands came to light undamaged. Others were found only in shards. The place of discovery, Praeneste, permits us to connect them with the cult of Fortuna and the Praenestine Digitii, whereby the relation of the symbol to the Cerealian, all-birth-giving maternal nature is confirmed anew. Now the votive hands too, still preserved in considerable number, with which O. Jahn in the Reports of the Leipzig Society, H. Meyer in the Communications of the Zurich Antiquarian Society, and Pignorius in his work de manu ænea deal, have found their explanation. The one that comes from the ruins of Aventicum and belongs to Herr von Bonstetten shows on its lower edge the picture of a woman in childbed, which raises beyond all doubt the relation of the hand itself to motherhood and birth. We have to recognize in it the vow for fertility and happy delivery, and see therefore how the choice of the hand for this purpose is wholly grounded in the general views about its relation to the artfully shaping activity of Mother Earth. The many attributes placed on the hand itself, which vividly present the religious syncretism of later times, all show a very definite relation to generation, fertility, and the flourishing of all life on earth, and thus attach themselves to the fundamental idea of the hand itself.
 
@@ -2852,9 +2587,7 @@ Oberflacht. Beside them were found shoes and a violin-like instrument. Remarkabl
 
 1) Symbolic hands also came to light in the Alemannic tombs at the Lupfen near
 
-[PDF 190]
-
-— 176 —
+[p. 176]
 
 If in the examples of the hand symbol enumerated so far its connection with the female side of natural force emerges especially, in other cases the male active generative principle too is traced back to it. It is the hand that gave its name to the artful, wise centaur Chiron, the teacher of Aesculapius and of Achilles.1) In the Ocnus pictures we see the man plaiting, an activity that rests on the same fundamental view as the weaving and spinning of the nature mothers. The activity that creates is the artful work of the hands; the destructive one, on the other hand, is artless, and is therefore performed without their aid, by animal gnawing. The hand appears, further, as an expression of male natural force in the name of those hundred springs that gush forth from the burial mound of Briareus-Aegaeon, and which Eustath. Il. p. 123, 35. Eudocia. p. 144. Aen. 10. 566. calls Βριαρέω παλάμας. So too in the practice of the Greeks of honoring the rising sun by kissing the hand, as Lucian de saltat. 17 reports. By this, then, the meaning of the hand is established. It designates the creative activity of natural force, and in doing so brings out more the idea of skill, of beautiful shaping and forming, than that of crude force,2) and therefore more the maternal πλάσσειν than the paternal ἐγείρειν.
 
@@ -2870,9 +2603,7 @@ slew the cupbearer boy Cyathus with a single finger. Paus. 2, 13, 18.
 
 3) Festus v. lacrimæ and Müller’s note.
 
-[PDF 191]
-
-— 177 —
+[p. 177]
 
 and richest of all primal foods,1) to that one in which the earth displays most clearly its birth-giving and sustaining maternal nature. We now understand the meaning of that myth according to which Isis at Byblos nourished the infant entrusted to her, the child of Astarte and Malcander, by laying her finger in its mouth instead of the breast.2) The finger-birth of the Palici, the fruit of the genii on the middle fingers of the votive hands named above, and Apuleius’s expression per frugiferam tuam dextram now first gain their full significance. Intelligible now, too, becomes the Egyptian cult practice of which Macrob. Sat. 7, 13 informs us. The finger next to the smallest (the so-called digitus medicinalis) of the left hand of the images of the gods is anointed with artfully prepared perfumes. Hence, according to Egyptian doctrine, only this finger could wear the ring, whereas according to Ateius Capito the jus pontificium left the Romans of the earlier period free to put on the annulus quacunque manu, quolibet digito.3) As the ground of the special cult of that finger, certain anatomical and numerical peculiarities were adduced, as Macrobius intimates. However that may be, so much is certain, that the left or female side of nature had special significance and enjoyed higher honor than the right, which stands in the closest connection with the Nile religion and the precedence of the maternal principle in it. Having thus found the finger in its general meaning as the bearer of the natural force conceived in the first instance as female, we meet in Greece an example that connects it with death and destruction. Pausan. 8, 34, 2 mentions the Δακτύλου μνῆμα near Megalopolis in Arcadia. A conical mound of earth bore on its summit a finger hewn from stone. Nearby lay the sanctuary of the Μανίαι θεαί. The myths of Orestes’s madness, of the appearance of the Erinyes, of the change of their black color into white after the matricide had gnawed off the finger of one of his hands, allow the connection of the δάκτυλος with the maternal natural principle, and the connection lying in it of the two sides of life, the black and the white, to be recognized with sufficient clarity. The finger replaces on the summit of the tomb monument the phallus,
 
@@ -2890,9 +2621,7 @@ Mélanges d’épigraphie ancienne, Paris 1856, 1 cahier, p. 10.
 
 3) On the Asiatic custom of wearing the ring on the right hand: Raphael Garrucci,
 
-[PDF 192]
-
-— 178 —
+[p. 178]
 
 which is so often found in tombs — recall the examples assembled above — and which also crowned the summit of the tomb of Alyattes, as we see it described in Herodotus and have it confirmed by more recent travelers, Herr von Prokesch, Welcker, and Hamilton. For the connection of the meaning of life and the meaning of death in the same symbol, which we have already emphasized above as an outflow of a fundamental view governing all parts of the ancient world of the gods, the hand too supplies a very instructive analogy. A symbol of life, it becomes a symbol of death. With this funerary meaning it plays a remarkable role in the Rhampsinitus myth that Herodotus tells us in 2, 121. 122. For the thief severs the arm from the corpse of his brother, hides it under his garment, and so enters the presence of the king’s daughter, who at her father’s command had given herself over to hetaerism. When she now sought to hold him fast, he extends to her the hand of the dead man instead of his own, and so, under the protection of darkness, contrives to escape the woman’s designs. The alternation of the living and the dead hand corresponds to the two sides of the life of nature, which emerge in all parts of that Egyptian myth in their interaction and inner identity. I need not go into this more closely now, since my treatise in the Annali dell’ Instituto 1858 on the meaning of the dice in the tombs of the ancients deals with it more precisely. Only one feature may still be mentioned. The drunken guards have the right cheek shaved bald by the cunning deceiver, as an insult. Here the right side appears once more in connection with the idea of activity and force, the left as female passivity.
 
@@ -2914,9 +2643,7 @@ and Schol. Apoll. 2, 972, Pollux, 2, 156 are also cited.
 
 4) Welcker, Trilogie Prometheus, p. 182, where for the meaning of πεμπάζειν Odyss. 4, 412
 
-[PDF 194]
-
-— 180 —
+[p. 180]
 
 just as Achilles-Pemptus too, the bearer of the united force of water and fire,1) stands in the closest relation to metalwork, to the power of the two elements mating in it, and to Euboean Chalcis. Hence they are also the fathers of the Eteocretans dwelling on Ida,2) whose name indicates legitimate birth in the sense that, like the Athenians since Cecrops, they possess not only a mother but also a definite father given by marriage, and so from unilateres become διφυεῖς. It is precisely this male descent that is brought out by the number three, the διφυές by the number five, more perfectly by ten, and most developed by the hundred that prevails on Crete. Marriage, which the number five represents, is conceived wholly in material terms, and therefore in the union of the two sexes femininity has the preponderance. As Luna encloses Lunus, so here the mother encloses the father. Thereby the five again receives a predominantly material-female significance. In this sense the ten and the five stand opposed to the male solar number twelve. Wherever in the Roman state the five comes into use, the material plebeian standpoint lies at its base. In his account of the progress of the Twelve Tables Livy uses a turn of phrase that deserves full attention. Instead of the expression postquam animadverterunt, duas deesse tabulas, one would rather expect quasdam deesse leges. But the sense would thereby receive a different nuance. It is the number ten that appears questionable to the decemvirs, and that they wish to replace by twelve. This alone corresponds to the consecration to the sun, whose bearers are the patricians, and to the paternal principle on which they rest. Ten is the material plebeian number, as at first it seemed to correspond better to the material-female principle of law, and to the no less material principle of the plebeians (τὸ πλῆθος). — As a lunar number we have already found the five earlier. The ten-month lunar year shows it to us in contrast to the twelve-month year of the sun. As a woman of the moon Minerva-Athena receives a special relation to the five. We found her above as Pempta, and Achilles- Lunus as Pemptus. Now, however, the five fingers of the hand are also consecrated to Minerva, as we are informed by Servius Ecl. 6, 3, and with this a still further relation of the fingers is connected. In Nonnus Dionys. 41, 379 the wise
 
@@ -2926,9 +2653,7 @@ On this, Plato in the Timæus, p. 383 Bip. Πῦρ μὲν καὶ ὕδωρ. �
 
 2) Diodor, 5, 64.
 
-[PDF 195]
-
-— 181 —
+[p. 181]
 
 Endymion reckons the courses of the moon by the bending of the fingers: ἑτερόπροπα δάκτυλα κάμψας.1) Here we have the fingers as the foundation and expression of the number system, and indeed as a consequence of their connection with material force in general. This finds its confirmation in the statement that this same Minerva is the inventor of number. This has been explained by saying that Athena, the expression of the highest spirituality, could alone have given men number and all the higher science resting on it. But the ground of that connection is a wholly different one, not so much an abstractly spiritual one as rather a wholly sensual-material one. We are not to think of that Athena who has risen to the highest spirituality and comes forth motherless from the head of Zeus, but rather of the nature mother conceived as wholly material herself, the lunar woman Minerva, to whom the fingers are consecrated. Number appears in its connection with Athena as ἀριθμὸς σωματικός. It is innate in matter,2) like law, hence connected with the female side of nature like law, and itself only the expression of the highest law that governs all parts of the material world and at the same time appears as earthly and heavenly Harmonia. In this significance precisely, number enters into closer relation to the moon and the lunar gods. In this significance the fingers are consecrated to Minerva; in it they are Endymion’s means of reckoning the moon; in it, for Aurora-Matuta, the light-radiating, day-bearing attribute; in it, like the moon itself, the bearer of all reckoning of time and of the whole number system, which did not go beyond the five and was so closely akin to πέντε that counting in general was designated by πεμπάσασθαι. With the temples of female deities the reckoning of time was bound up. In Nortia’s Volsinian sanctuary the year’s nail was driven in. Nortia has the nature of a great nature mother, identified at once with earth and
 
@@ -2940,9 +2665,7 @@ vers. physic. 2, 249 f.
 
 2) On this view Aristot. Metaph. 1, 5; 13, 3. Sextus Empir. Pyrrhi Hypotyp. 3, 152 f. ad‐
 
-[PDF 196]
-
-— 182 —
+[p. 182]
 
 moon, Fortuna-Nemesis,1) and the nail itself has a lunar relation clearly emerging in its connection with Diana and in its use against the putrefaction promoted by moonlight. Through all these remarks the fundamental meaning of the fingers is placed beyond doubt. They show us material natural force as a life-shaping power in the unattainable skill that distinguishes all creatures, hence first female, then also male, and therefore lengthened on images with generative force, always articulated into the conjugal five, and in number, reckoning of time, and harmony outwardly representing the immanent law innate in matter. Hence precisely the tracing back of lyre-playing to the Dactyls and Chiron, as Plutarch attests in de musica, is of deeper significance. Hence the hand is the sign of the mysteries, which are traced back precisely to the Dactyls; for that reason it appears on tombs, like the lyre so closely akin to it,2) as a symbol of initiation into the Bacchic-Orphic orgies; for that reason, finally, it is the expression of all law and of all Aequitas, which Nonnus 41, 344 designates ὄργια θεσμῶν. If we now look back to that Manus Aequitatis,3) which the priest carried in the Isis procession, it gains new significance for us. Only now does its inner connection with the vasculum in formam pupillæ rotundatum,
 
@@ -2956,9 +2679,7 @@ also Aecetiæ poculum? The Pentas is called Dikaiosyne in Jamblichus 3, 18.
 
 3) Personification of Aequitas as a special deity is mentioned by Arnob. 4, 1. Whether
 
-[PDF 197]
-
-— 183 —
+[p. 183]
 
 de quo lacte libat, appear in its full justification. The round, milk-giving breast,1) which seemed to have so little connection with the left hand and to be set beside it so enigmatically, now joins it as an expression of the same idea of the mother. One thought governs both symbols. The five fingers of the opened hand can themselves be conceived as milk-giving, as in the myth of Malcander. Hand and breast show us the female natural principle in its creative, forming, shaping, but also maternally nourishing character, and on this physical foundation the higher character of Justitia- Fortuna, who administers right and equity, builds itself up of its own accord. What Isis gives she also distributes justly, with maternal exactness, without deceit or guile, to each his own, and this relation is now attached preeminently to the left hand. She is thus, like Syria Dea, justitia et æquitate insignis, and thereby again preeminently mother. The agreement of the two deities becomes all the more noteworthy when we consider that both, like Leda-Nemesis, stand in connection with the material primal egg. For Isis too is egg-born, and on the Florentine Canopus is herself represented in the shape of an egg and adorned with manifold egg ornament.2) The
 
@@ -2974,9 +2695,7 @@ idea of æquitas can therefore be traced back to the egg as well. Like the femal
 
 In its connection with the female natural principle, law itself can have only the character of a natural law. What significance attaches to this expression which come from Assyria, and before the great discoveries of the last decade belonged to the few antiquities of the Euphrates lands known in Europe. Bonomi, Nineveh and its palaces, London 1857, p. 6. To all the examples of the egg symbol that India, Assyria, Western Asia, Egypt, Greece, and Italy have furnished us, America is finally added. According to the belief of the Peruvians, three eggs fell from heaven, a golden one, a silver one, a copper one. From the first came forth the Curacas or princes, from the second the nobles, from the third the common people. Ternaux Compans. 15, 6. Müller, amerikanische Urreligionen, p. 327. — The cutting of the egg with the hair is found also in Plutarch in the liber amatorius; the egg figure of the world, Placita philos. 2, 2.
 
-[PDF 199]
-
-— 185 —
+[p. 185]
 
 will emerge most clearly from the contrast. Opposed to natural law stand the positive determinations that form the content of a particular civil legal order. We have before us the contrast of jus naturale and jus civile.1) The first and most thoroughgoing difference in which it expresses itself lies in the fact that positive civil law stands hostile and obstructive to the law of purely material life. Serving the higher destiny of man, positive law breaks at many points the law of material life, and withdraws from its dominion more than one domain, which now belongs no longer to the jus naturale but to the jus civile.2) An example will set the idea in its full light. Invincible love drives Myrrha to her father Cinyras. According to the law of matter, which forms the content of the jus naturale, such a union is permitted. But to the jus civile it is repugnant. Lamenting this, the girl speaks thus in Ovid. Met. 10, 321:
 
@@ -2998,9 +2717,7 @@ It is the law of the material-animal world, as it is recognized by Ulpian in Fr.
 
 2) In what sense jus naturale is taken here emerges sufficiently from the exposition in the text.
 
-[PDF 200]
-
-— 186 —
+[p. 186]
 
 Quasque creavit, init pecudes caper: ipsaque cuius
 
@@ -3030,9 +2747,7 @@ Veneris: Cras amet, qui numquam amavit, quique amavit, cras amet.
 
 2) Plutarch de amore 20. Hymn. in Isidem. 37: ἀνδρὶ γυναῖκα συνάγαγον. Pervigilium
 
-[PDF 202]
-
-— 188 —
+[p. 188]
 
 myth, and at Corinth and in other seats of the cult of Aphrodite assumes the form of the dedication of hetaeric hierodules.1) Nonnus remains wholly faithful to this conception when in 41, 335 he has Aphrodite censure Augustus’s penalties for celibacy in the following words:
 
@@ -3054,9 +2769,7 @@ we can understand by this the δεσμοὶ γάμου, unless we prefer to reco
 
 4) Aelian v. h. 4, 12.
 
-[PDF 203]
-
-— 189 —
+[p. 189]
 
 forms the strength of a commonwealth. This itself, however, he traces back to the common origin of all from one maternal womb, from the earth, that is, which for this very reason the Cretans designate not as fatherland but call “dear motherland.” According to their material nature, therefore from the maternal side, all men are equal, all free. The Roman jurists pronounce the principle definitely. Jure naturali omnes homines liberi sunt, servitus venit ex jure gentium. For this reason manumission takes place in the temple of the great nature mother Feronia. Servius Aen. 7, 799; 8, 564 gives information about this. On Virgil’s words: quis Jupiter Anxurus arvis Præsidet, et viridi gaudens Feronia luco he remarks: Circa hunc tractum Campaniæ colebatur puer Jupiter, qui Anxurus dicebatur, quasi ἄνευ ξυροῦ, id est, sine novacula, quia barbam numquam rasisset: et Juno virgo, quæ Feronia dicebatur. Est autem fons in Campania juxta Terracinam, quæ aliquando Anxur est dicta. On the words: Feronia Mater: Nympha Campaniæ, quam etiam supra diximus. Hæc etiam libertorum Dea est, in cuius templo raso capite pileum accipiebant. Huius rei etiam Plautus in Amphitryone facit mentionem: Quod utinam ille faxit Jupiter, uti ego hodie raso capite calvus capiam pileum. In hujus templo Terracinæ sedile lapideum fuit, in quo hic versus incisus erat: Benemeriti servi sedeant, surgent liberi. Quam Varro libertorum Deam dicit Feroniam, quasi Fidoniam.1) From the combination of these two testimonies Feronia’s nature results with full certainty. She is the great material nature mother who sends all life into the light from her womb, hence mater and virgo at once, returning every year from perfected maternity to perfected virginity, and for that very reason called Feronia. For Feronia derives, as Perpherees and Medea’s son Pheres derive from fero, to bear, as the ancients (though incorrectly) derive Ceres from gerendis frugibus. It is the concept of physical bearing that is present in ferre and Feronia, as in the Hyperborean Perpherees. The mother bears the birth in her womb, afterward seed and fruit on her body. In a similar way the perfect and participial forms tuli, latum combine the concept of bearing and of material fertility. For tuli attaches itself to that stem τύλος whose meaning we have already brought out above. Latum, however, goes back to lar, las, the designation of the force of natural generation, which, originally resting wholly in matter and conceived preeminently as double, as Lares grundules, underlies so many names such as Larisus and lacus Larius, Larisa, Pe-lasgi, Lastini and Latini, lacus, λάκκος,
 
@@ -3064,9 +2777,7 @@ ferrent. — Feronia at Praeneste birth-mother: Aen. 8, 564.
 
 1) Liv. 22, 1. Libertinæ ipsæ, unde Feroniæ donum daretur, pecuniam pro facultatibus suis con‐
 
-[PDF 204]
-
-— 190 —
+[p. 190]
 
 lac, lacrimæ, Lacinium, dactylus. Beside Feronia mater stands Anxurus as male dwarf demon, as Iacchus beside Demeter, Eros-Adonis-Papas beside Aphrodite, Euamerion beside Hygieia. He is the fecundating Plutus who awakens all life in the lap of the earth, the phallic Jupiter Arcanus, who invisibly performs his work in the depths of matter, at Anxur still conceived preeminently as fecundating force of water, and therefore ruling in the swamp lake named after him. With the tellurian maternal nature the sedile lapideum agrees. To the female natural principle, the ἔδος ἀσφαλὲς ἀεί, the repose of the seated posture corresponds. Hence it is said: Opi sedentes vota concipiunt terramque de industria tangunt in Macrob. Sat. 1, 12. Seated we find, on so many preserved monuments, the mothers of the tomb, in whom the female natural principle has come to expression in its whole significance, embracing life and death. Hence also the stone seat is preserved in tombs, as in the well-known one at Tarquinii, and connected with the Lydian tomb of Geryon seen by Pausanias.1) Hence, finally, woman is called domiseda on inscriptions, and by Luther is even said to be prefigured by nature for a quiet domestic abode. If in all these features Feronia’s material primal-maternal nature cannot be mistaken, it is now of the highest importance for our question that this same mater assumes the significance of a deity upholding freedom and equality among men. In this relation she is called Dea libertorum by Varro, and is brought, correctly in substance, though falsely in etymology, into connection with Fidonia, Fides. In this significance her sedile, which from the outset has a much more general meaning, becomes the thronos libertatis, the asylum that grants freedom. The idea is clear. Whoever seats himself on the goddess’s chair returns to that natural freedom which is inherent in Feronia’s material maternal nature, and which forms an essential part of the jus naturale, of the law governing purely material life. This fundamental idea received its most striking expression in the shearing of the head and in the use of the pileus. The shorn hair is offered to the great mother, who lets it sprout from man’s head as the growths of the earth from her own womb. As the earth-matter in constant self-embrace brings forth the plants, so the same union of both natural potencies brings forth on the human head the hair, on the body of the sheep the wool — hence lana is named from las, ἐρίνεον from ἔρα, terra. It is dedicated preeminently to the generative force of water, the rivers, but is also offered at the tomb to the life-giving chthonian gods [PDF 205] — 191 —
 
@@ -3084,9 +2795,7 @@ studiously avoid . . that family which has thick hair on the body. — The equat
 
 3) Jones, institutes of Hindu law. ch. 3, 6. In connecting himself with a wife, let him
 
-[PDF 206]
-
-— 192 —
+[p. 192]
 
 of the egg from which they sprang. From this halving the two caps have arisen which the twins, who set all material creation in motion, wear, and which are sometimes also represented by themselves, joined with the cross, the symbol of tellurian fecundation.1) Thereby the cap becomes the sign of birth from the egg, and thus of the freedom necessarily bound up with it: a significance that it shows also on the head of Olyseus-Nanos, and again in the Bacchic mysteries. The shaven head covered with the egg cap2) shows us man, as it were, reposing in the maternal womb of matter and, like a birth, emerging from it, and therefore also partaking of the freedom that on the side of maternal materiality falls to every creature. Whoever abolishes this breaks the law of Feronia as of Isis, and diminishes the domain of the jus naturale by establishing a positive law hostile to it. From Feronia the slave receives back what human ordinance, those invida jura, had taken from him, the primordial state of material life.3) The same goddess now protects also what she has bestowed. The freedom of the libertus has no protection of the state, any more than a political character, as the older Roman law, too, which as yet grants the freedman no share in citizenship, clearly demonstrates: its protection is a purely religious one, regard for the right of Feronia. In this protective significance she becomes Fidonia, the mother becomes Fides, who keeps faith with her child and, as avenger of all wrong, transfers the respect of men beyond the limits of positive law to that which finds its security only in dread of divine vengeance.4) Thus the maternal principle of nature shapes itself not only into justitia but also into fides, for which, according to Plutarch, Numa erected the first temple, and the material jus naturale into the æquum, and into that fides,
 
@@ -3106,9 +2815,7 @@ Liv. 38, 31.
 
 4) Hence fides is joined with tutela, amicitia, clientela: Terent. Eun. 5, 9, 9; Cic. Rosc. Am. 37;
 
-[PDF 207]
-
-— 193 —
+[p. 193]
 
 which reaches far beyond the bounds of positive legal compulsion, and of which Cicero rightly boasts that on it all human society, all peaceful prosperity rests.1) We indicated above the relation of the circus and the circus games to the natural force and to the phenomena of material life, and shall turn special attention to this subject further on. It is now clear why an ædes Jovis liberatoris also came to be connected with it and with all its sanctuaries already named. The place that is dedicated to the cult of the great powers of nature must necessarily also be a place of freedom. The reports of the ancients on this deserve a closer examination. With the Aedes matris Deum the Notitia connects another, Jovis Arboratoris, whereas the Curiosum urbis says simply: Aedes matris Deum et Jovis. Instead of Arboratoris, Preller, Regionen der Stadt Rom, p. 192, proposes Jovis Liberatoris, to whom, according to the Calendarium vindobonense, games were celebrated repeatedly in the month of October. Tacitus, Ann. 15, 64 and 16, 35, gives us closer information on Jupiter Liberator. In the first passage the death of Seneca is described. Adlatum venenum hausit frustra frigidus jam artus et cluso corpore adversum vim veneni. Postremo stagnum calidæ aquæ introiit respergens proximos servorum addita voce: libare se liquorem illum Jovi Liberatori. Exin balneo inlatus et vapore eius exanimatus sine ullo funeris solemni crematur. The second passage deals with the death of Thrasea. He has Helvidius and Demetrius summoned, and opens his veins. Postquam cruorem effudit, humum superspargens propius vocato quæstore, Libamus, inquit, Jovi Liberatori. Specta, juvenis. In Ammianus Marcell. 22, 7 the following statement is found. Mamertino consule ludos edente Circenses, manumittendis ex more introductis per admissionum proximum, ipsa lege agi dixerat, ut solebat, etc. To this is joined the story in Cicero, div. 1, 26; 2, 66: Servus per circum, cum virgis cæderetur, furcam ferens, ductus est: Exin cuidam rustico Romano dormienti visus est venire, qui diceret, præsulem sibi non placuisse ludis, etc. Likewise Macrob. Sat. 1, 11, p. 254 Zeune. One sees how near at hand lay the idea of erecting to Jupiter Liberator a temple precisely in the circus. Seneca’s procedure at the manumission of his slaves is especially noteworthy. The warm water contains a union of those two elements that bear all natural force within them, and whose union calls forth all generation from the earth. Water and fire enter into an indissoluble connection with each other, and are represented also in the painting of the Aldobrandini Wedding by the water basin into which the
 
@@ -3116,9 +2823,7 @@ which reaches far beyond the bounds of positive legal compulsion, and of which C
 
 1) Cicero, Off. 1, 7; 3, 17.
 
-[PDF 208]
-
-— 194 —
+[p. 194]
 
 maidservant dips her hand. By the sprinkling the slaves regain their natural freedom. Although there is here no solennis manumissio, it is yet one that the praetor recognizes.1) As Seneca pours out the warm water in libation, so Thrasea pours out his own blood. Here it is death that brings freedom. Always, however, the deliverance is traced back to the highest god. Therefore he is called Liberator. Therefore he himself is also designated as Libertas. In the Monumentum Ancyranum Augustus lists among his new buildings the following temples: Aedes Minervæ et Junonis Reginæ et Jovis Libertatis in Aventino. The Greek version gives: Διὸς Ἐλευθερίου. Jupiter Libertas appears, further, on an inscription from Bagnacavallo in Muratori 10, 5; he corresponds to Jupiter Inventus in Marini, atti dei fratelli Arv. p. 696, no. 101. Finally Jupiter Liber, too, occurs. So on the Fursonensian stone in Muratori 578, 1. Here Jupiter himself appears as that which he gives, as the Free One. On an Oscan inscription in Mommsen, Unteritalische Dialekte, p. 170: Juveis Luvfreis. Ζεὺς ἐλευθέριος in Pausan. 9, 2, 4. From the same idea that makes the circus a place of freedom there has proceeded the prohibition which closes many sanctuaries to slaves and takes them under protection, even by force, against their entering. “With us at Chaeronea it is the custom,” writes Plutarch, Quæst. rom. 13, “that the ædituus of the temple of Leucothea comes to the door with a whip and proclaims that no male slave and no female slave, no Aetolian man and no Aetolian woman, shall enter it.” At Rome, too, the temple of Matuta is closed to female slaves. Only a single one do the Roman women take in with them, and they give her blows on the cheek, evidently in order to indicate thereby, as Plutarch adds in explanation, that entrance is denied her. Matuta- Leucothea shares with the deities named earlier the same material maternal nature. In her honor the Matralia are celebrated. Melicertes Palaemon stands at her side, in the nature of a fecundating Eros-Plutus, as a phallic daimon. What is born from Matuta’s womb partakes of the freedom of material life. By entering her sanctuary the slave, too, would become free. To keep him from doing so is the purpose of the violence that is exercised at Chaeronea as at Rome. To the Megalensia magnæ matris slaves have no access, as appears from Cicero, de haruspic. responsis 11. 12. At Diana’s Aricine sanctuary runaway slaves hold the priestly office.2) In the service of Ops-Tellus all inequality
 
@@ -3128,9 +2833,7 @@ transitu manumittantur, velut cum prætor aut proconsul aut præses in balneum v
 
 2) Pausan. 2, 27, 4. Ovid. F. 2, 571; 3, 271.
 
-[PDF 209]
-
-— 195 —
+[p. 195]
 
 ceases; the status of slavery is here no blemish. In the festival of Juno Caprotina free women and female slaves take part. The festival practices, the arbor caprifica, which enjoys divine honor, the milk with which libations are made, show on what religious domain we find ourselves here.1) To the same fundamental idea certain provisions concerning the Vestal virgins attach. If by chance they meet one who is being led to death, the life of the condemned man is granted him. But the virgin must swear that she met him by chance and not by design. It is further permitted them to make a will even during their father’s lifetime, and to administer their property without a guardian. So Plutarch in Numa 10. Gellius N. A. 1, 12 adds, probably after Ateius Capito: virgo autem vestalis simul est capta atque in atrium Vestæ deducta et pontificibus tradita, eo statim tempore sine emancipatione ac sine capitis minutione e patris potestate exit, ac jus testamenti faciendi adipiscitur. The dissolution of paternal power is confirmed by Ulpian 16, 5, Gaius 1, 130. 145. Ambros. de virgin. 1, 4, 15; Epist. ad Valentinian. 1, 18, 11. (p. 836. ed. Benedict.) On the similar right of the Flamen Dialis, Tacit. Ann. 4, 16. These privileges are not arbitrary provisions in honorem sacerdotii, but emanations of the divine nature of Vesta. With entry into the atrium Vestæ all restrictions to which positive law subjects women are dissolved of themselves. It is now just as if the girl had never stood in any dependence. The patria potestas dissolves without the mediation of a capitis minutio. The Vestal is as such libera.2) Præterea in commentariis Labeonis, quæ ad XII tabulas composuit, ita scriptum est: virgo vestalis neque heres est cuiquam intestato, neque intestatæ quisquam: sed bona eius in publicum redigi aiunt; id quo jure fiat, quæritur.3) The reason for this provision is clear. Since intestate succession rests on the civil institution of potestas and suitas, it must at the same time fall away entirely with it; if, therefore, the Vestal has made no use of her right to make a will, her property falls to the people, who derive from the primal mother Vesta all their prosperity. To the religious name Amata,4) which belongs to every Vestal in her priestly capacity
 
@@ -3146,9 +2849,7 @@ larum cautum est.
 
 4) Syncellus Chron. p. 324. Dindorf: Ἀδμάτα θυγάτηρ Εὐρυσθέως ἐν Ἄργει ἱεράτευσεν.
 
-[PDF 210]
-
-— 196 —
+[p. 196]
 
 the Roman tradition attaches a definite expression of mother right, which likewise belongs to the jus naturale. Amata claims against her husband Latinus the right to dispose of Lavinia’s hand. She destines her for her sister’s son Turnus.1) According to mother right it is, after all, the children of the sister for whom the woman implores blessing.2) If this happens in the temple of Leucothea-Matuta, then Venilia, too, is conceived as Salacia, Neptune’s consort.3) There lies, then, in Amata the concept of motherhood in its original loftiness, as bearer at once of the greatest right and of the highest benevolence, and precisely this content is continued in the transference of the word to the Vestal, who in it appears herself as the mortal image of the immortal primal mother Vesta.4)
 
@@ -3172,9 +2873,7 @@ Latin arbor the tree. Child and tree are products of the male force. The word it
 
 6) Apollodor. ὠνόμασεν Ἀχιλλέα· πρότερον μὲν ἦν ὄνομα αὐτῷ Λιγύρων· ὅτι τὰ χείλη
 
-[PDF 211]
-
-— 197 —
+[p. 197]
 
 the earth breaks forth. In the river name Liger, and, as I do not doubt, in the name of the people of the Ligurians, the same stem is present, with the same consonant form. Lichas is the name of that rock projecting in the sea;1) Lipara has received from its sea-surrounded position its name, palpably related to liquor, liquesco, and likewise Lilybaeum, Limera, Lixus,2) and others. Of the many relations that offer themselves here in abundance, I wish to point only to the name of the country Libya, which stands in connection with the Ammonian spring god, to λίβερνα, εἶδος πλοίου, to Λίβερνος, the name of the chasm of the earth into which Curtius plunged, to λείβηθρον ὀχετὸς ὑδραγωγικός, to the expression λείβεται and καταλείβεται τοῖς δακρύοις, to the Thracian Λείβηθρα of Orpheus and the Λειβηθρίδες, as nymphs and Muses are called,3) and finally to lichor, and to recall Plato’s connection of the Μοῦσαι λίγειαι with the γένος μουσικὸν τὸ Λιγύων.4) I am convinced that lignum, λίμνη, limus go back to the same stem. This is especially the case with Λικνίτης, a designation of Dionysus himself. The ancients explain the name from the fact that the god at his birth is said to have been laid in the λίκνον, a basket plaited of willows, which served the child as a cradle. Servius, in his scholion on Georg. 1, 166: Arbuteæ crates, et mystica vannus Jacchi, calls the basket a cribrum, and traces that tradition back to the cribrum of the mother Isis, in which she laid down the torn limbs of her consort. From this the original cultic significance of the λίκνον results with certainty. It is, like Vesta’s sieve, like the cask of the Danaids, the earth itself, which takes into itself the generating moisture, and precisely for that reason is conceived as a perforated vessel, now as dolium, now as cribrum, now as vannus. Thus from the perforated willow basket there comes to be the cradle of the god, then the mystic receptacle that holds the mystery of natural generation, on monuments mostly in the form of a serpent, and finally the fruit receptacle, or the winnowing shovel of the farmer that separates grain and chaff.5) In all these turns the λίκνον has an unmistakable relation to the phallic, fruit-generating nature of Dionysus. In its original significance, however, it shows us the god as the fecundating force of water, which
 
@@ -3192,9 +2891,7 @@ alius ferebat amphoram (in pompa Isidis). Hesych. λικνίτης. Staveren on 
 
 5) Apuleius Met. 11, p. 262. Ed. Bipont. Quintus auream vannum aureis congestam ramulis, et
 
-[PDF 212]
-
-— 198 —
+[p. 198]
 
 on the bank of the brook begets and nourishes the willow, and precisely for this reason it cannot be doubted that Λικνίτης and λίκνον rest on the same stem to which lignum also belongs, and which in its basic physical meaning designates the generating moisture.
 
@@ -3210,9 +2907,7 @@ the ὕδωρ ἐλευθέριον, Pausan. 2, 17, 1; at Athens Ἐλευθερ
 
 3) Plutarch. Symp. 7, 10 in fine. Cf. Qu. gr. 39. Parall. min. 30. At the Argive Heraeum
 
-[PDF 213]
-
-— 199 —
+[p. 199]
 
 classes so greatly, gave to women in particular a significance that stood in such contradiction to the civil institutions, and allied itself so closely with the tyranny of a Pisistratus1) and a Caesar,2) grounded on the freedom and equality of the whole mass of the people. The life of the state and of politics brings distinctions of station, restriction, and complete abolition of freedom. Over against this the Dionysian religion contains a reduction of existence to the domain of pure materiality and of merely bodily existence, which is the same for all members of the great human society, free and equal by its nature. When the civil standpoint of the state everywhere erects barriers, separates peoples and individuals, and develops the principle of individuality to the most consummate egoism, Dionysus on the contrary leads everything back to union, everything to peace and to the φιλία of primordial life. In his mysteries slaves and free persons have an equal share, and before the god of material pleasure all those barriers fall which the life of the state with time raises to ever greater height. The consciousness of unitary descent from one matter wins the victory over positive differences, and at the same time the material development, and the love of enjoyment and splendor that rests on it, which the Dionysian religion favored so especially, prospers to the highest cultivation. In all these tendencies Dionysus confirms his significance as Lyæus. As, in the role of generative Liber, he awakens the life sleeping in matter and frees it from the bonds that hold it captive, like the chick from the egg, so he also abolishes all differences, puts an end to enmity even among the animals, and leads back into creation that peace, that joy, that universal equality which appeared to the ancients as the original golden age, and which found its expression, its temporary return, in the festal practices of the Saturnalia, of the Dionysian Χόες, and of so many Sacaean festivals, as a recollection of prepolitical, purely material existence. In wine and its influence on man this very side of the Dionysian nature seemed to reveal itself most clearly. When it promotes friendly union, awakens sexual life, puts an end to enmities, abolishes distinctions, and breaks cares, one might recognize in all this the expression of the force of Dionysus, refer the names Liber and Lyæus to this as well, and explain them from the effects of wine.
 
@@ -3222,9 +2917,7 @@ Cæsarem pertinet; quem constat primum sacra Liberi patris transtulisse Romam.
 
 2) Serv. Ecl. 5, 29. Daphnis et Armenias curro subjungere tigres instituit. Hoc aperte ad
 
-[PDF 214]
-
-— 200 —
+[p. 200]
 
 But if one went further, left the domain of material life in order to celebrate the god who brings freedom as a redeemer from the bondage of passion and of the flesh, one climbed to a height of spiritualization and idealization similar to that on which the mystica vannus Jacchi was conceived as the image of the purgatio animæ through the mysteries, the egg as an assurance of a higher spiritual rebirth, and the Bacchic-Orphic doctrine in general as a melioris spei initium. With that, however, one had overstepped the outermost limits of the religion of Dionysus, and in the midst of the moral decay to which that religion necessarily had to lead, had pointed to Him who was called, by the word of the spirit, to break the dominion of matter and to transfigure the freedom of material life into a higher, divine one.
 
@@ -3246,9 +2939,7 @@ would they stand to battle; cities and fixed dwellings they otherwise had none. 
 
 5) Augustin. C. D. 6, 9.
 
-[PDF 216]
-
-— 202 —
+[p. 202]
 
 at the moment when Aphrodite ascends to heaven to beg of Zeus for them the τέλος θαλεροῖο γάμοιο, the crown of female upbringing.1) For marriage, and the Cerealian mystery into which it introduces, is hateful to the primal powers of matter. These, although egg-mothers like Demeter, and like the Cerealian powers containing the life-giving force no less than the annihilating one, fall back, over against the new life, into the position of sinister powers hostile to conjugal consecration. Thus the human race steps out of the community of the rest of material creation. A mighty elevation takes place, which at first disturbs the harmony of earthly life. The jus naturale is abandoned in order to come to validity again in ennobled form. In agriculture maternity receives a new significance, a higher development. In place of wild swamp generation, which in eternal self-embrace eternally rejuvenates matter, which brings forth only reeds and rushes or the λιμναῖα κρηνῶν τέκνα, and shoots up uselessly without the contrivance of man, there now steps the deed of the plowman, who opens the maternal womb of the earth with the plow, entrusts the seed to the furrow, and reaps nourishing fruit, the food of Demeter,
 
@@ -3262,9 +2953,7 @@ sam numinum, quod Eleusinia sacra interpretando vulgaverit, somnia prodiderunt, 
 
 1) Macrob. Somn. Scip. 2. Numerio denique inter philosophos occultorum curiosiori offen‐
 
-[PDF 218]
-
-— 204 —
+[p. 204]
 
 by Plato the proposition, which Plutarch also repeats: it is not the earth that imitates woman, but woman the earth; woman is in general the mortal image of the earth, destined to continue among men, in her place, the work that the earth performed first. In this fundamental conception is rooted the transference of the whole terminology of agriculture to the sexual relations of men. When the deed of the man is called ἀροῦν, σπείρειν, φυτεύειν, γεωργεῖν, the man himself Σπερμώ, φυτουργός, the woman Δαμοννώ,1) the female sown field in Sabine sporium, the offspring sprung from it Spurius, of the same meaning as Σπαρτός, this is not merely a figurative language resting on external comparison, but the expression of that fundamental idea which traces the conjugal union of the sexes back to agriculture and the fecundation of Demeter as to its archetype.2) A remarkable application of the same principle is related by Macrobius, Sat. 1, 15. Verrium Flaccum juris pontificii peritissimum dicere solitum refert Varro, quia feriis tergere veteres fossas liceret, novas facere jus non esset, ideo magis viduis quam virginibus idoneas esse ferias ad nubendum. Here the decision of a question of marriage law is taken from the provisions of agrarian legislation. Demeter serves earthly woman, agriculture marriage, as the model. Here again nature has taken law into her lap. The comparison of the female sporium with a fossa serving the purposes of agriculture here too has more than the significance of a mere image. Both are rather regarded as inwardly of the same meaning. The cultic significance of the fossa emerges from the deed of the Cumaean Malakos,3) and likewise from the tale of the charlatan Alexander’s Asclepius egg. I do not doubt that the underground labyrinthine passages connected with so many hypogea, that the subterraneum rotundum mentioned by Apuleius, Met. 11, that the dark passages of the Cimmerians at Cumae, that finally Ariadne’s labyrinth itself stand in connection with the same sexual conceptions, and I see also in Venus Cloacina or Cluacina the double relation to woman and to the earth, to every fossa purgatoria.4) On such conceptions
 
@@ -3296,9 +2985,7 @@ Metroon at Athens. Phot. v. Μητρῷον. τὸ ἱερὸν τῆς Μητρ
 
 5) Serv. Aen. 4, 58. in æde Cereris ære incisæ positæ leges fuere. The same is reported of the
 
-[PDF 220]
-
-— 206 —
+[p. 206]
 
 be treated as a philosophical abstraction, if the ancients not only make manifold use of the designation legifera, but also emphasize ownership of land quite especially as a component of Cerealian law.1) For the same connection recurs in many features, now more openly present, now more hidden. In Servius, Aen. 4, 58, Calvus writes: leges sanctas invenit, et cara jugavit corpora connubiis et magnas condidit urbes. I lay particular weight on the expression sanctæ leges. The connection of the sanctum with tellurism, and the idea of the ἀκίνητον lying in it, have already been set forth above. Through both relations sanctitas enters into a more intimate union with the nature of Demeter and her legislation. The laws themselves partake of the goddess’s inviolable being. They are sanctæ like her. The whole of Cerealian law bears the character of religious ordinances, over whose observance the great primal mother herself keeps watch.2) It is therefore in the proper sense θεσμός, an ordinance of divine law, ἐκ θεῶν δοθείς, as Aeschylus, Eumen. 392, adds in explanation. It is not only jus but fas, a pronouncement (from fari) of the primal mother herself, and hence, like the fatum, like the λόγος—for so Lactantius and Tertullian explain the λόγος at the opening of the Gospel of John—eternally unalterable. This character is borne by all those laws kept in the sanctuary of Ceres. They are held to be unalterable and not to be annulled. From the religious protection follows the inviolability of civil institutions. If for the patrician commonwealth that protection lies in obtaining the divine approval through the auguries, as I have shown in my work on the foundations of Roman constitutional law, then for the plebeian community it rests in its relation to the material primal mother Ceres, who at Athens stands in the closest connection with the popular assemblies, to whom at Rome the plebs preeminently belongs, and whose nature has found its expression both in the principle of the old constitutional law: ut quod primum populus jusserit, id ratum esset, and in the provision: actus legitimi nec diem nec conditionem recipiunt. Under the protection of Ceres the community sits in assembly. To the higher consecration that the patriciate possesses, it opposes the inviolability of the material nourishing mother, to the male principle of the former the female principle of the latter. To her temple it entrusts the community treasury, the laws, and the senatus consulta, which are here safe against falsification.3) With
 
@@ -3310,9 +2997,7 @@ pillar in Diodor 1, 27: καὶ ὅσα ἐγὼ ἐνομοθέτησα, οὐ�
 
 3) Livius 3, 55.
 
-[PDF 221]
-
-— 207 —
+[p. 207]
 
 custom and ordinance there is joined the founding of fixed dwelling places. Ceres is the founder of cities. So Calvus calls her. As she is the mother of customs and laws, so she is also the mother of fixed seats, and through the union of all these qualities a true Ἀστυνόμη. In her relation to the founding of cities, too, she shows herself true to that character of the sanctum and ἀκίνητον which forms her innermost nature. The walls founded with the use of Cerealian rites stand under the protection of the goddess, from whose womb they ascend into the light like the plants. On account of this relation the walls in Nonnus 41, 360. 370 become the bearers of the great law of fate that Aphrodite learns from Harmonia. She shows her the ἀγλαὰ θέσφατα τοίχου. On the walls the great fatum of the world is written down. They proclaim the law of matter in which they themselves are grounded. Here the same connection of fixed buildings with law is present which is also found again in Ceres. The custom of writing laws down on walls, which African discoveries confirm to us, has thus its deeper ground in ancient religious ideas. On the temple wall of Apollo Ptous at Lake Copais stood, according to Plutarch in the Gryllus, the words “the beautiful Achilles,” and in Lucian, in the Dialogues of the Courtesans, the shipowner Hermotimus writes his declaration of love to a beautiful courtesan on the wall by the city gate. Here, too, Cerealian ideas come to light. To what protection could such expressions of affection be better entrusted than to that of the goddess quæ cara corpora connubiis jungit, and whose being is formed by immovable firmness and unalterable fidelity? In Apuleius we find the speaking tower, which knows all the secrets of the underworld and betrays them to Psyche. It is the announcer of the great Cerealian secrets, like Harmonia’s wall. In a similar relation to Ceres stands Terminus. Issuing from the earth, as the son from the maternal womb, he reveals the male force, is therefore called male, and on the well-known Etruscan mirror is represented with Juventas in phallic form. But, resting in the mother’s womb, he partakes of her sanctitas, and is therefore called preeminently sanctus.1) The ἀκίνητον is what distinguishes him. Thereby he becomes the guardian of the Cerealian laws and is propitiated with the porca lactens. In him all parts of the Cerealian nature come to representation. He is the revelation of the mystery that the mother bears locked within her. He fecundates the field, separates and protects landed property, and defends the immovability that forms the foundation of Cerealian life even against the gods of a newer, more political order [PDF 222] — 208 —
 
@@ -3328,9 +3013,7 @@ over, like Remus, the wall of the newly founded Poimandria, for so, according to
 
 2) Creuzer, Symbol. 4, 380. Abriß der römischen Antiquitäten, p. 196–202. Second edition.
 
-[PDF 223]
-
-— 209 —
+[p. 209]
 
 The same Romans are, in their whole extent, Populus Romanus, and in their whole extent Quirites: the former as state, the latter as people; the former according to the male-political, the latter according to the maternal-material side; the former as bearer of the state’s imperium, the latter in their bodily existence. Law belongs to this latter side of existence; it is the emanation of the female natural principle, and therefore, from Juno Quiris, Quiritary. For this very reason it extends also to the plebeians, the πλῆθος, to whom the formula ex jure Quiritium belongs just as fully as to the patrician; for on the materially female side the plebeians are in no way distinguished from the Quirites; they share with them the maternal origin, which stands out predominantly in the relation to Ceres, to Anna Perenna, to the Veientine Juno; whereas the patricians raise the male-solar paternal principle above it, set themselves up alone as those qui patrem ciere possunt, and relegate the lunar sign of material, bodily birth, the symbol of natural generation, to their shoes, as it reveals itself in the shoe of Rhodopis-Nitocris, in that of the Delphic Charila, in that of Tanaquil-Fortuna, in the crepida of Perseus and of Jason. The whole stock of the Opicans, to which the plebeians preeminently belonged, bears, like the Quirites, a name that has maternal descent for its foundation. They are named after the great mother Ops-Tellus, who is placed alongside Bona Dea. The temple of Ops- Diana is raised by Servius Tullius to be the central point of the Latin confederation.1) For all these peoples have in common the maternal-material origin. From this side they enter into community with Rome, while the political side of the imperium remains closed to them. — A further relation of law to the materially female natural principle emerges in the connection of the praetor with Bona Dea. In the account of the event that took place during the festival of the
 
@@ -3340,9 +3023,7 @@ stag antlers but ox horns, Plutarch Qu. rom. 4 tells what Juba and Varro reporte
 
 1) On the temple of Diana on the Aventine hill, and the custom of nailing up there not
 
-[PDF 224]
-
-— 210 —
+[p. 210]
 
 Bona Dea in Caesar’s house, Plutarch, Cæsar 9, reports definitely that it was always the custom for it to be celebrated in the house of a consul or praetor. In this a particular relation of that goddess, whom the Greeks simply designate as γυναικεία θεός, to the welfare of the state is revealed. But this is conceived here not according to its political-male side, but according to the materially female. Bona Dea is the maternal natural principle that gives to all material life its origination and its nourishment, that bestows all prosperity and all wealth, and promotes every bodily well-being. She belongs, then, to the Quiritary or Cerealian side of life; she is herself conceived as the Junonis potentia, identified with Ops and Ceres, worshiped as Murcia, equipped as Salus-Medea with the nature of Hygieia, and represented under the name of Maia as magna mater. She appears, then, as the materially maternal foundation of the welfare of the state, the praetor and consul in connection with her as the representatives of this material side of the existence of the people. To this relation to Bona Dea their administration of justice is tied. The ordering of the life of property, which constitutes the content of law, rests as natural law in the same goddess who forms the ultimate material foundation of all those goods. To recognize this law, to pronounce it, is the praetor’s calling. Bona Dea as Fauna-Fatua proclaims it to him; he himself is her organ, her viva vox, the enactment itself an Edictum. This female-tellurian origin of law makes it possible for the praetor to turn his attention more to the substantive æquum than to the formal strictum jus, and to lead the civil law of the patrician state back to the jus naturale of the æquum et bonum, and to that Justitia, identified with the left hand, which excludes all dolus, all calliditas and astutia, and sees the highest Elegantia juris in the highest maternal æquitas. Law itself is a material law; it inheres, therefore, in woman. Bona Dea is θεσμοφόρος like the Eleusinian Demeter; law itself is always a female mystery, like the origination of all material life. The secret service of Orphic nature that the women alone celebrate in the praetor’s house for the good mother embraces law also. According to the scholion on Theocritus 4, 25, the women and maidens on the Eleusinian ἡμέρᾳ τῆς τελετῆς carry the holy books of laws in procession to Eleusis. All law is the enactment of Demeter or of Bona Dea, whose material law is laid down in it. For this reason both deities bear the scepter, and indeed in the left, preserving female hand, both also the scroll, which in its enclosure conceals the highest law of matter, fate in its widest extent. Thus appears [PDF 225] — 211 —
 
@@ -3356,9 +3037,7 @@ sacris adjungi dicunt, quia vox nascenti homini terræ contactu datur. Scimus au
 
 2) Macrob. Sat. 1, 12. Mercurium ideo illi (Maiæ, sicut et Magna mater in sacris vocatur) in
 
-[PDF 226]
-
-— 212 —
+[p. 212]
 
 him the one who recognized and shaped their names, and Eusebius, in the Præparatio Evangelica 11, 6, has developed this primal idea of mankind further, and has shown it also to be a Platonic doctrine. The same idea is taken into account by Lucretius, de nat. rer. 5, 1040, when, in a highly noteworthy discussion of the origin of speech, not brought out by Grimm in his Geschichte der Sprache, he sets up the proposition: aliquem tum nomina distribuisse rebus, et inde homines didicisse vocabula prima, Desipere est, and, instead of a single individual, assigns to the whole race the task, Pro vario sensu varias res voce notare. This self-speaking of things has a last echo in the custom of letting the funerary monuments, like the column of Isis, speak in the first person like living beings. From Plato’s Phaedrus p. 264 the inscription is known that is said to have been made for Midas the Phrygian. It has all the higher significance here because, according to Macrob. Sat. 1, 12, Bona Dea herself was identified with the mother of Midas.
 
@@ -3372,9 +3051,7 @@ That the traveler too may know where Midas lies buried.” “Of bronze” the m
 
 1) Macrob. S. 5, 18, p. 554.
 
-[PDF 227]
-
-— 213 —
+[p. 213]
 
 If here the bronze is introduced as speaking, this connects with the sanctity of the bronze tone, which for the ancients counts as a revelation of the natural law sleeping in matter. The χαλκὸς ἠχοῦν of the Corcyraean votive figure at Dodona, the æra crepitantia of the Curetes, to whose clangor the child Zeus steps into the light, the sound of the Tyrrhenian tuba, of the Isiac sistrum, of the Salian shields, every tone that a vessel of bronze gives forth, proclaims as mute speech the latent mystery of matter, as the bronze maiden at Midas’s tomb pronounces it in words, as the bronze tablets of law also set it forth. In bronze, then, all sides of the maternal natural principle, conceived above all as Cerealian, come to representation: we see in it matter in its life-giving and equally in its life-reclaiming potency; we see it, moreover, proclaiming the law that pervades it. Bronze is what Ceres herself is, at once wealth and the law that orders and guards its distribution on earth. For this reason æs et libra have acquired so high a significance in commercial life that all nexum rests on it, and all legal force depends on it. The scale, too, must be of bronze, and be touched with the piece of bronze. When it rings under the blow, everything that the parties say to it acquires the significance of a Cerealian enactment, of a lex, the violation of which would amount to a violation of the material nature mother herself and of her will, made known in the sound of bronze. The ænea libra shows us the nature mother as giver, as just distributor, and thereby also as director and mediator of all traffic in goods. Upon this, if I may say so, material significance of the scale is built the higher one, in which it designates abstract justice and becomes the attribute of justitia. In the scale, then, we see the same connection of the concepts of law and justice with the material natural principle that confronted us in the primal mothers, in Ceres, Syria, and Aphrodite herself.
 
@@ -3386,9 +3063,7 @@ relation similar to that of Bona Dea. The concept of law and of its administrati
 
 2) Lucan. 1, 380.
 
-[PDF 229]
-
-— 215 —
+[p. 215]
 
 A second remark is furnished me by the conception of Bona Dea as Murtia. Gellius N. A. 5, 6 reports that the lesser triumph, the so-called ovatio, was dedicated to Murtia, and that the corona ovalis worn by the victor consisted of myrtle foliage.1) Here we see the celebration of victory, and hence victory itself, brought into connection with the female natural principle and the material side of the state. This finds its confirmation in the sacrifice of a sheep that gave the ovatio its name.2) Precisely on account of its religious linkage with Murtia we may call this lesser triumph the plebeian one, and thereby distinguish it from the great or patrician one, in which the victor, as sun god and equipped with all the attributes of this highest paternal power of light, drives up to the Capitoline temple. Murtia preserves here too her character, so intimately akin to the jus naturale. This is shown by the individual cases in which the ovatio is to be applied. Ovandi autem, writes Gellius 5, 6, ac non triumphandi causa est, quum aut bella non rite indicta, neque cum justo hoste gesta sunt; aut hostium nomen humile et non idoneum est, ut servorum piratarumque3) aut, deditione repente facta, impulverea, ut dici solet, incruentaque victoria obvenit. cui facilitati aptam esse Veneris frondem crediderunt, quod non Martius, sed quasi Venerius quidam triumphus esset. With this Festus v. ovalis corona agrees. The provisions of positive law are repugnant to the female natural principle. It unites with the natural side of material life, and therefore comes to the fore whenever the war, for want of observance of the positive fecial law or because of other similar defects, cannot lay claim to the character of a justum et legitimum bellum. In such a case only the order of the plebeians and the equestrian order belonging to it take part in the victory celebration, whereas the whole state attends the ox sacrifice of the triumph. Plebeiandom stands, precisely on account of its purely material character, in closer connection with the female natural principle; the patriciate has a higher character. It possesses the higher solar initiation, and unites with the paternal principle of heavenly light, by virtue of which the imperium of the state rests in it. Bona Dea-Murtia bears, according to Festus, also the name Damia, her priestess is called Damiatrix, her sacrifice Damium. Here we see her as Tellus. For Damia has, as we remarked above, the meaning of the fruitful earth. Damia and Auxesia are joined at Troezen like Demeter and Kore, [PDF 230] — 216 —
 
@@ -3416,9 +3091,7 @@ child, entirely. In this physical truth lies the foundation of that whole mother
 
 refinement of life, attach themselves preeminently to the Aphroditean- Dionysian cult; is, in uncorrupted times, a mighty lever of valor, which finds in the encouraging love of woman its highest spur and the greatest reward of chivalry; carries also a very vigorous element of political conservatism within itself, so that gynecocratic peoples in particular are praised and extolled as εὔνομοι: but with all these qualities, in part excellent, it nevertheless remains always in matter, and entangled in a development of material, natural life that is now more refined, now more material: whereas the Roman principle, in the paternal imperium on which family, state, and world dominion are founded, raises to the throne a political idea of wholly incorporeal nature, and subordinates to it the female-material side of the existence of the people. Thereby its private law too acquires more and more spiritual content. Whoever follows its progress will recognize the elevation from the material-maternal character to the immateriality of the paternal principle in all its parts, in the development of adoption, in the doctrine of inheritance, in the fiction of a personality reaching beyond death, holding the property together, as it were animating matter, in the ever-advancing legal shaping of merely factual relations, and in a great number of particulars. In the political idea of the imperium lies that higher spiritual content which Rome possesses beyond all the peoples of the ancient world. When this faded more and more toward the end of the Republic, that inclination to the material-female side of life emerged with unbridled force. Now those Asiatic-Egyptian cults in which the maternal natural principle predominates found so rapid an entry and so powerful a diffusion. Now Rome had to live through the spectacle to which she had never been accustomed, feminam præsidere signis romanis. What a contrast to the earlier time, which excluded women even from representation in court, which promoted subjection through the guardianship of the sex and through the restriction of their right of inheritance, to which it counted as an ill-omened event when once a woman had appeared speaking in the Forum, and which allowed woman so little connection with the state that even the taxation of woman’s property counted as a sacrilege. Whoever does not conceive the patria potestas and the patrem ciere of the patricians in contrast to the material mother right and the wholly material formation of the other peoples will never be able to appreciate their whole significance; nor will it come to his consciousness what special difficulties the spread of the Christian doctrine was bound to meet precisely in the Roman idea of the state.
 
-[PDF 235]
-
-— 221 —
+[p. 221]
 
 18.
 
@@ -3444,9 +3117,7 @@ An saga vendenti nubat, caupone relicto.
 
 4) So it is probably to be read, instead of the generally accepted Nudis.
 
-[PDF 237]
-
-— 223 —
+[p. 223]
 
 While the rich turn for divination to the Phrygian augur or to Indian Brahmans, and buy their oracles with money, the plebeian woman, whose neck no costly jewelry covers, goes to the circus, and there inquires of the eggs and dolphins the voice of fate concerning her future husband. Phale designates the ὠοειδῆ δημιουργήματα of Dio Cassius. If only eggs can be associated with the dolphins, then also everything that the ancients remark about Falæ proves a fundamental meaning that finds its full application in the ovoid form of those Demiurgemata. According to Nonnus 2, 114, Fala is turris lignea, according to Servius Aen. 9, 705 simply turris. Festus: Falæ dictæ ab altitudine, a falando, quod apud Etruscos significat cælum. Among the Greeks we find φάλαι, which Hesychius explains as ὄρη, σκοπιαί. Thus we arrive, for fala, at the meaning of a rounded elevation, at the top, of a body projecting above the surface of the earth, and this it is that enables the word also to designate those ὠοειδῆ δημιουργήματα. Unmistakable is its kinship with palus, stake, φαλλός, and the divus pater Falacer. The stake that rises out of the earth, the conical stone formed like an omphalos, is the image and expression of the generative natural force that penetrates the matter of the earth. In φαλλός both relations lie united: the external one of elevation, according to which the phallic Dionysus is called ὀρθός,1) and the internal one of the generative force, which finds its expression in that image. Falacer is accordingly a god of the generative natural force represented in phallus form, which is confirmed by his association with Pomona.2) A perfectly corresponding parallel is furnished by Τύλος; for in this word too the meanings of a bulging elevation, and of the male generative force represented by it, are united, concerning which I refer to a special section of my Mutterrecht. Accordingly I do not doubt that by his falæ Juvenal understood the scaffolds crowned with the seven egg-shaped rounded bodies, as we see them represented on the sarcophagi mentioned. Eggs and dolphins are to the poor plebeian woman the fate that she consults about
 
@@ -3456,9 +3127,7 @@ Falacres et Pomonales. — Flora, Falacer, pater pomorum. Muratori, Th. Inscr. 1
 
 2) Varro L. L. 5, 15: Sic Flamen Falacer a divo patre Falacre. 7, 3, p. 331. Spengel:
 
-[PDF 238]
-
-— 224 —
+[p. 224]
 
 her marriage, while the rich women buy by large payment the favorable pronouncement of a foreign charlatan. That precisely the eggs and the dolphins, the animals of the generative Neptunus, are used for such a divination is explained by itself in the light of what was remarked earlier. As ἀρχὴ γενέσεως the egg stands in the closest relation to marriage and generation. Among the superstitiones that Cassiodorus mentions, the practice of the women of the lower people alluded to by Juvenal may also be included. The ovi exemplo geniturum se avem shows that the original significance of the egg lived on still in popular tradition. It appears in the circus also as ἀρχὴ γενέσεως, and can for this very reason be brought into so close a connection with the egg of the Cerealian pompa. It is in the circus too a representation of the female natural principle, and older than the bird-birth that breaks forth from it, winged and swiftly flying onward, like the quadriga from the carceres, in unconquerable desire of becoming. This is the idea that Cassiodorus recognizes in the connection of the egg with the circuit of the chariots. The race itself, he says — for this is what is to be understood by actus — gives us to know that from each of the erected eggs a lightly winged bird-birth will emerge. The swiftly flying four-horse team appears here as the image of egg-birth. As the bird breaks through the shell of the egg and, freed from its enclosure, tries the force of its wings, so the four-horse team storms forth, impatiently and with winged course, from the carceres that enclose and restrain it, and thereby gives us to know what relation the erected and removed egg has to the race itself. If in this connection the original significance of the egg and its relation to the circus games have been preserved with remarkable purity, then, on the other hand, the relation of the swift flight of the quadriga, compared to the bird, to fickleness of customs is a continuation and development of the fundamental idea which does not belong to it at all, and had its occasion in the conditions of the later time. The effect of the circus games, that is Cassiodorus’s idea, consists in this, that they make the customs of the people like those of birds. Volitantes atque inconstantissimi inde mores nascuntur. In the words that follow, instead of avium maribus, avium moribus is to be read. The whole connection of this passage, so little understood hitherto, is now clear. Cassiodorus says in the context the following: the erection of the eggs, whose successive removal corresponds to the individual circuits, is as little without meaning as everything else that the circus and its games offer us. Manifold superstition attaches itself to the relation of the egg to the race. In my opinion the birth of a bird is indicated to us by the egg, and the [PDF 239] — 225 —
 
@@ -3470,9 +3139,7 @@ It is now our task to bring fully into the light the original idea that governs 
 
 15
 
-[PDF 240]
-
-— 226 —
+[p. 226]
 
 restless, eternal motion. The life of tellurian generation endures no standstill. In it everything comes to be and passes away. It was of this that Heraclitus, according to Aristotle, Metaphysics 4, 5, 26, used the image of the river, saying that one cannot step twice into the same river, to which Cratylus replied with censure that one cannot do so even once. Of this too the physicists asserted that, because of the eternal flux of the world of the senses, nothing at all could be said about it, and that existence in general must rather be denied it. Between two poles material life moves. Its realm is not that of being but of becoming and passing away, of the eternal alternation of two colors, the white of life and the black of death.1) Only through the equal mixture of the two is the continuance of the material world secured. Without death no rejuvenation is possible, and in the eternal labor of nature the destroying force is no less indispensable to the preservation of ever-young life than the creative and generative one. Indeed, at no moment can the positive force subsist without the negative. Only what the latter dissolves can the former restore. Death is therefore not the opposite but the helper of life, just as the negative pole of magnetism forms not the opposite of the positive but rather its necessary complement, without which the latter too would at once vanish, and life would have to yield to nothingness.2) Two forces, then, govern tellurian creation and by their cooperation assure the progress of things. Together they were born. As twin brothers they go forth from the same egg. At equal pace they run side by side. A two-horse team they have mounted; it is their doubled effort, directed to the same goal, that assures them invincible speed. Actor’s sons, the Molionidae, owe the victory of their team precisely to this united effort. Swift as an arrow it flies along. Swift as an arrow, too, is the course of the tellurian world of appearance. The rapidity with which the two united forces sweep creation onward has found its expression in the speed of the chariot that the Molionidae drive. In the progress of the motion the team always returns again to its point of departure, like the circular line, whose completion is lost in the
 
@@ -3482,9 +3149,7 @@ Euripides recalls in the Ion, 1007–1023. Pallas gives Erichthonius two drops o
 
 2) To the expressions of this idea already adduced earlier I add the myth that
 
-[PDF 241]
-
-— 227 —
+[p. 227]
 
 beginning. If one of the forces drives straight ahead, the other turns aside and leads back again. The completion of every existence is a return to its beginning, and in every distance from the point of departure there lies at the same time a renewed approach to it. Two directions are bound together in a manner just as inexplicable as the two forces themselves to which they correspond. The result of their combined force is the circular course in which all tellurian life eternally moves. The image of this circular course is the circuits of the chariots, which with the utmost speed fly around the metae in order to return to the point of departure, and then to traverse the same space anew. By this two things are now made clear: first, the connection of the egg with the chariot racing of the circus; second, the correspondence that connects the completion of each single circuit with the removal of one egg at a time. If the ἀρχὴ γενέσεως lies enclosed in the egg, the two-horse team shows the motion of the creation that has stepped into the light from the womb of matter. With each return to the point of departure the circuit of one existence is completed, and a new one is about to begin. Come into being, grown, vanished is the offspring of one egg; a new one takes the place of the one removed, and so in the unforeseeable series of the generations there follows always one after another, always the brood of one egg after that of the other, and always with that unattainable speed which is presented to us in the myth of the Molionidae as the result of the union of two forces, of two twin brothers uniting their effort. Now it is clear what we indicated above: how close Cassiodorus’s thought, actus ipse, ovi exemplo, geniturum se avem profitetur, is to the original and true significance of the circus egg. The team bursting forth from the carceres is rightly represented as an egg-birth. As the chick from the egg, so the team hastens winged out of the prison that until now set bounds to its lust for becoming. What was hidden becomes visible; what was motionless passes now into restless haste. With the first moment of existence begins that unrest which forms so decided a contrast to the stillness and immobility that formerly reigned in the egg. So Pegasus, the winged horse, breaks forth neighing from the Gorgon’s bleeding trunk; so the black horse of the Phigalians from the womb of Ceres,1) so the wild Scythius, whom the scholiast to Pindar, P. 4, 246 calls Σκύφιος, from the depths of the earth, like the water of the spring, which from its source onward, never resting, never pausing, rolls wave upon wave in hurrying haste.2) Not meaningless [PDF 242] — 228 —
 
@@ -3510,9 +3175,7 @@ August. C. D. 4, 8. On Pollentia, Liv. 39, 7. — On Magna mater, Tertull. spect
 
 3) On this see also Euripides Herc. fur. 918, 919.
 
-[PDF 244]
-
-— 230 —
+[p. 230]
 
 Neptunian and the solar stage of force side by side, and while some of the ancients declare Neptune to be the lord,1) others with equal decisiveness bring Sol into the foreground and perceive in the individual institutions of the circus a preeminently solar relation.2) Neither of these two conceptions may be denied or diminished in its significance. The tellurian-Neptunian element maintains its significance to the last, and is by no means displaced by the ever more decided emphasis on the solar. To the female primal egg there stands at the side, as the representation of the awakening potency, a chthonian male god, who rules and works in the moist depths of matter, hidden in the darkness of the earth, a true Zeus Arcanus, comparable to the Puer Jupiter Anxurus,3) a demon of the phallic force, from whom Murcia expects her fecundation, a god of hidden counsels. Subterranean is his altar, Neptunian his nature, his physical foundation the moisture that penetrates the depths of the earth, his consecrated animal the horse, the image of the generative waters, the games celebrated in his honor true Ἱπποκράτεια or Equiria.4) In the moist valley between the Aventine and the Palatine
 
@@ -3536,9 +3199,7 @@ earth the footsteps of God, so the footstep and the shoe are a symbol of the ble
 
 1) Gradivus from gradior, not from cresco. As the Psalmist recognizes in the fertility of the
 
-[PDF 246]
-
-— 232 —
+[p. 232]
 
 the Equiria were celebrated on his meadow in the lowland of the Tiber. The swampy, grassy plain, which the river fecundates with its yellowish waters and which it also often inundates with its floods, was assigned to the god preeminently as his property. Here his games were held. Within sight of the river the horses raced, the image of the water, the symbol of the god (ἵππιον ὕδωρ, Nonnus 41, 229). The river itself wreathed the course, while swords, the divine image of Mars, were planted as metae.1) According to the same idea Virgil, Georg. 3, 13–20, promises to hold games for the emperor on the green meadow on the bank of the Mincius, a hundred four-horse chariots. Greece will give up the Alpheus and hasten to Mantua.
 
@@ -3566,9 +3227,7 @@ utraque parte esset ignaviæ præsens periculum. Aen. 8, 636. Isidor. Etym. 17. 
 
 2) On this see Georg. 3, 180.
 
-[PDF 247]
-
-— 233 —
+[p. 233]
 
 looks on at the game.1) Horse, chariot, wheel have a Neptunian relation to water. The victorious right-hand horse falls to the god as a sacrifice. The bleeding trunk is fastened to the wall of the Regia and adorned with rings of bread, images of the blessing of the harvest, which one also provided with the sign of the wheel.2) The rivers and the chariot races were bound together by so close a relation that even such games as were held at a distance from water were nevertheless thought of in connection with it. At Anagnia there is a circus maritimus. Liv. 9, 42. Concilium populorum omnium habentibus Anagninis in Circo, quem maritimum vocant. But Anagnia is an inland town in the land of the Hernici; the designation of its circus as maritimus is therefore not geographical but sacral. It contains the acknowledgment that the circus games are dedicated to the generative element of water, whether it appear as Neptunus, as Consus, or as Mars. It is possible that a small body of water that lay nearby, or was purposely led thither for the purpose, was given the name mare. This would have fully accorded with ancient practice. So we find in Plutarch de virtt. mull. in fine an example in which a tomb was brought into connection with water by an artificial conduit, because it was customary to erect for the dead their resting place on the bank of the life-generating element. So too in Lydia, according to Pausanias 1, p. 87, a little stream bore the name Oceanus, and its connection with the tomb of Geryon shows that one actually saw in it the image of the great Ocean. In connection with the circus maritimus of the Anagnians I wish to point to a report about
 
@@ -3578,9 +3237,7 @@ the sign of the wheel: Festus, p. 348. Summanalia, liba farinacea in modum rotæ
 
 2) Plut. Qu. R. 94. On the right-hand horse, Salmasius, Plin. exercc. 2, p. 630. On
 
-[PDF 248]
-
-— 234 —
+[p. 234]
 
 Athens: Hesychius Ἐνεχελιδών. Ἔχελος ἥρως. ὡς δὲ ἔνιοι, ἐπίθετον ἥρωος, ἐπὶ τοῦ ἕλος παρακεῖσθαι τῷ ἥρῳ. ἔστιν δὲ ὁ Ἀθηναίων ἱππόδρομος Ἐνεχελιδών. ἐν ᾧ ἱππικοὶ ἤγοντο ἀγῶνες. καὶ ναὸς Ἴλου. — Etymol. magn. Ἐνεχελιδώ, τόπος Ἀθήνησι, σταδίων ὀκτώ, ἐν ᾧ αἱ ἱπποδρομίαι. ἀπό τινος Ἐχέλου. Cf. s. v. Ἔχελος. There was, then, a Heroon of Echelus, which lay on the shore of a swamp lake. The Heroon itself formed a part of the Athenian hippodrome, which accordingly bore the name Enechelidon. The chariot race thus took place in the neighborhood of a body of water, and was held in honor of the generative Consus-Echelus who rules in the swamp. The name itself is without doubt connected with ἕλος, as Ἴλος with ἰλύς. So too Euripides in the Hippolytus, 207–210, 213, joins lake and racecourse, and places both under the protection of Artemis. On the seashore Hippolytus drives his team of horses along, when Poseidon’s bull brought him destruction. For this reason Euripides, lines 1072–1074, has the chorus sing that henceforth the Amazon’s son will no longer guide the Enetian racers, no longer hold, on the lake, with the swift horse the circuit of the racecourses. In the beautiful description of the Greek camp that is found in the Iphigenia Aulidensis, Achilles is depicted as he, the fleet racer, on the sandy seashore leaves the four-horse team behind in the run. Lines 204–212. Indeed, in the Ἀχιλέως δρόμοι the river beds themselves appear as racecourses, as indeed the name and conception of Achilles demonstrate the complete identity of the course of the world and the motion of water. Now we shall also appreciate the whole weight of the remark of the scholiast on Pindar’s ἄριστον μὲν ὕδωρ, when he emphasizes that the poet’s thought runs thus: as water occupies the first place among the elements, so too the Olympian agon, consecrated to the water of the Alpheus, has greater dignity than all the other contests of the Hellenes.
 
@@ -3602,9 +3259,7 @@ Paus. 5, 15, 4.
 
 2) Pausan. 5, 10, 2; 5, 13, 5. Hence also in Elis the predominance of gods in horse form.
 
-[PDF 251]
-
-— 237 —
+[p. 237]
 
 games. This one is thereby traced back to Pelops. From this the female figure is explained who, on our glass pictures, is depicted at the side of the Capitoline victor, lovingly embracing him. To take her merely generally as the victor’s consort, and to explain her embrace as an expression of joy over the prize carried off, would by no means exhaust the idea. Rather we have here to recognize Hippodamia, won by Pelops in the race with Oenomaus, and thereby released from her father’s hands and restored to her higher female destiny. A youthful consort must stand at the victor’s side, if the model of the Olympian agon is to be completely recognized in the Capitoline games and their prize vessel.1) Thereby the games themselves appear as the foundation of the first higher culture, grounded in agriculture and marriage, and it gains heightened significance when the Capitolina are traced back to the founder of the Roman state and of marriage with the Sabine daughters, as the Olympia are to the union of Pelops with the daughter of Oenomaus. The Achaean Pelops for his part leads back again to Asia, especially to Lydia; for Pelops is called a Lydian.2) Now, that the chariot races were known to the Lydians is attested by a very remarkable proof preserved in the myth of the meeting of Gyges and Lixus.3) From the Lydian emigrants, moreover, the ancients derive the naturalization of the circus games in Etruria,4) and from there an Etruscan prince brought them to the Romans. Thus an immediate connection between Rome and Asia is established, and the tracing back of the Capitoline games to the Lydian Pelops and his victory in the plain of the Alpheus, the swampy Elean lowland, is explained also by the historical connection of the lands and peoples.
 
@@ -3624,9 +3279,7 @@ lected in Gori, Mus. Etrusc. 2, 375–378, and in Mus. Capitolinum 4, 48. 227. 2
 
 4) Tertull. de spectac. 5. Liv. 1, 35. The other numerous testimonies are found col‐
 
-[PDF 252]
-
-— 238 —
+[p. 238]
 
 explains itself. Delphinos Neptuno vovent, says Tertull. de spectac. 8. In the circus the god of the generative waters appears not in anthropomorphic form but in the shape of a fish, as indeed the cult practices and cult representations of the circus have remained faithful preeminently to an earlier, more ancient, more original stage of religion. With the dolphins Cassiodor 3, 51 connects the mention of the Euripus. Euripus maris vitrei reddit imaginem, unde illic delphini equorei aquas interfluunt. By Euripus is here understood not an actual water channel but rather the intermetium, the spina, which extended between the two metae in the middle of the circus and divided it lengthwise into two halves. One must conceive it as an agger held by two side walls, on whose height were set up the many objects required for the celebration of the sacred games, and the images of the gods, among them especially Cybele, præses Euripi, and the tres aræ.1) If now this earthen dam is nevertheless conceived as an image of the sea, and brought into connection with the dolphins, those inhabitants of the waters, well disposed to man and distinguished by the greatest speed, there lies in this again an idea corresponding to the original maritime nature of the circuses. In elaboration of the same thought the Euripus of the circus was compared with that Euripus which separates Euboea from the mainland of Boeotia. The sevenfold ebb and flow that drives the water of the strait up and down seemed to correspond to the sevenfold circuit of the teams, to the seven eggs and seven dolphins, and to express perfectly the thought of the waves of existence flowing eternally back into themselves. Εὔριπος ὠνομάσθη ἡ μέση τοῦ ἱπποδρόμου κρηπὶς ἐκ τοῦ θαλαττίου Εὐρίπου, καὶ τῆς ἑπτάκις αὐτοῦ διαυλοδρομίας· οὕτω γὰρ ἐπ᾽ ἐκείνου φασὶ συμβαίνειν. So Joannes Lydus, p. 4, Schow. οὐδὲ ἡ τῶν ὑδάτων φύσις ἔξω τῆς δυνάμεως τῆς ἑπτάδος ἀπολέλειπται· ὁ γοῦν Διονύσιος ἐν ταῖς Κτίσεσι φησί, τὸν χαλκιδικὸν Εὔριπον, ἑπτάκις καθ᾽ ἡμέραν στρεφόμενον, κατὰ μόνας τὰς ἑβδομάδας ἵστασθαι. p. 28 Schow. Other passages of like content are given by Salmasius p. 638. In fact Seneca in Hercule Oetæo sets up the sevenfold flood of the Euripus as the rule:
 
@@ -3646,9 +3299,7 @@ Lydus p. 4, Apuleius Metam. 6, p. 123. Of a sanctuary of Mercury the Regionaries
 
 2) I mention here also the connection of Mercury with the circus, as it emerges from Jo.
 
-[PDF 254]
-
-— 240 —
+[p. 240]
 
 are an echo of that original view which had assigned to the triad of mother goddesses Seia-Messia-Tutilina a preeminent position in the circus, and had united in it all the natural forces that cooperate in promoting the fertility of the earth.
 
@@ -3668,17 +3319,13 @@ Pythia placanda Delphi statuere draconi.
 
 4) Tantalidæ Pelopi mæstum dicat Elis honorem,
 
-[PDF 255]
-
-— 241 —
+[p. 241]
 
 circus games, the general funerary significance emerges especially in the laying bare of the subterranean altar of Consus, in the cult of Summanus and its wheel-shaped, Plutonian bread cakes, as well as in the Canicidium. Therein the admission of the circus races and of other games among the tomb representations, as it recurs in so manifold a form on the walls of Cornetan hypogea, in the aforementioned sarcophagus reliefs, and on Etruscan cinerary urns, finds its justification and explanation. Whatever sculptural representations of the circus games have come down to us derives wholly from the world of the tombs. The scenes in which the highest expression of force of fullest life, the highest enjoyment of existence, speaks itself out have taken on, in the place of death, a prevailing funerary significance. If eggs and dolphins form a prominent component of tomb ornamentation, their transference to the circus games seems incompatible with it. And yet these two applications are only two expressions of the same fundamental meaning. When I saw in the Vatican for the first time the sarcophagi adorned with circus reliefs, and put to an archaeologist who accompanied me, now deceased, the question in what relation, then, these representations stood to tomb and death, he was very embarrassed, and made the open confession that the interpretation of art had taken little pains to clarify this point, but rather directed all its effort to the explanation of the particulars, to recognizing the carceres, the column of the sun, the meta, the parabatæ, the many sanctuaries and symbols, and considered its task solved as soon as the agreement of the surviving testimonies with the representation on the monuments had been demonstrated. Should archaeological curiosity, however, extend still further, and beyond the limits of what is represented put to the mute monuments the question of their relation to the world of the tombs, and so to speak demand an accounting of their use for funerary purposes, one could think, to be sure, of all sorts of relations. Might not those interred in such sarcophagi perhaps themselves have been distinguished charioteers, or even have met their death in the circus games? Might not perhaps the thought suffice that the circus games were indeed the mightiest passion of the Romans, that they had often led to factions and bloody strife, and that for this very reason the wish had arisen to retain after death a memory of the joys so often enjoyed during life? And if one wished to go still further, life itself offered indeed the most beautiful comparison with such contests, with their exertions, their expectations, their deceived hopes. Might not the falling desultores, the shattered bigæ,
 
 16
 
-[PDF 256]
-
-— 242 —
+[p. 242]
 
 the overturned vessels recall the fortunes of human existence, which founds the victory of one on the ruin of many, which always leads only a few to the goal, which hurls quite a few into the abyss early on, one at the very beginning of the contest, another at the moment when the palm of victory seemed secured to him? I confess that among all the explanations proposed this last allegorical interpretation appealed to me most by its inner truth. Now, however, even it appears to me very secondary. “To decide larger, general questions one must, to avail myself of a wise saying uttered by Plutarch, take one’s standpoint higher.” As sarcophagus pictures the circus games have no other significance than the games actually celebrated; and these refer to material force, first of all to natural generation, conceived wholly in tellurian terms, which includes in itself all the factors that cooperate in the creation of the earth, and embraces life and death, matter and force, and which forms the content of the idea of deity itself. In this significance the games themselves have a predominantly funerary character; in this they take their place beside the great national games of the Hellenes, which through their connection with famous dead appear as true funeral rites. In this they recall those numerous funeral games of which myth makes mention, and which are so often represented on Etruscan cinerary chests. All the games have the character of funeral rites, those celebrated in the circus, in the Terentum of the Tiber, on the shore of the Mincio, no less than the Olympian ones in memory of Pelops, the Nemean around the tombstone of Archemorus, the Isthmian in honor of Palaemon, the Lydian around the monument of Lixus. The meta is always a tombstone and as such the monument of a tellurian Dameon, a λίθος ἔμψυχος, who as Taraxippus frightens the horses, as meta sudans proclaims his relation to the generative moisture of the depths. On this general religious significance rests the admission of the games into the world of the tombs, whether they adorn, as at Corneto, the walls as painting, or, as on our sarcophagi, the funeral chests themselves as reliefs. In the funeral rite, however, the whole of natural force is glorified in its twofold potency, bringing life and death. Death appears bound up with life, and even as its ground. Therefore the symbols of life are so frequent in the tombs; therefore the phallic Priapus on the inscription of the Campana columbarium calls himself at once mortis et vitai locus. Therefore the circus games, too, are a representation of the united force of both, and of the eternal cycle of tellurian creation brought forth by their union. That is the fundamental idea to which our sarcophagus representations attach; that the idea which the world of the tombs disclosed to them. And upon this a higher one is erected, that of deification, of apotheosis. Augustus’s admission [PDF 257] — 243 —
 
@@ -3696,9 +3343,7 @@ Varro in Nonnius: Nemini fortuna currum carcere emissum intimo — Labi inoffens
 
 2) The chariot races are often used by the ancients for comparisons with human life.
 
-[PDF 258]
-
-— 244 —
+[p. 244]
 
 felt. τοιαύτης δὲ πολυμαθίας κενότερον οὐδέν. Whoever examines the voluminous works of a Panvinius (de ludis circensibus, cum notis J. Argoli et additamentis N. Pinelli, Patavii 1761. fol.), of a Bulenger (de circo romano in thesauro Grævii V. 9. p. 576. ff.), of a Bianconi (descrizione dei Circhi, particolarmente di quello di Caracalla, oper. post. di G. L. Bianconi, publicata con note dall avvocato C. Fea, Roma 1789. fol.), of a Salmasius (in the Plinianæ exercitationes ad Solinum V. 2. p. 628–643 ed. Traject. ad Rhen. 1689), of a Buonarroti (osservazioni sopra alcuni frammenti di vasi antichi di vetro, Firenze 1716. spiegazione delle tavole 30, 31; medaglioni antichi, Roma 1698, p. 175. ff. 267 ff.), of a Visconti (in the Museo Pio-Clementino p. 234–257 ed. Milan 1820), of a Raoul-Rochette (Monuments inédits, p. 95– 102), of a Werther (in six programs of the Herford Gymnasium 1843. 44. 47. 50. 52. 55.), of a Laborde and an Artaud (in the descriptions of the mosaics of Italica and Lyon), of a Friedländer (in Becker’s Handbuch der römischen Alterthümer, vol. 4, p. 490 ff.), will set them aside wearied, as “richer indeed in knowledge, yet poor in understanding.” Our task neither requires nor permits us to enter into every detail. It is enough if the significance of the egg and its connection with the nature of the circus games and with the individual circus sanctuaries and cults has been brought to clarity. In closer connection with this stand the numerical relations that govern the circus and its games. To these a special consideration shall now be devoted. It is all the more justified because it gives us occasion to assign to the number of the eggs, three, on our Pamphili tomb painting its proper relation to the idea of the Bacchic cult, and finally to bring to consciousness in its whole fullness the higher content of the mysteries, the destiny of man to press through death to a higher existence.
 
@@ -3712,9 +3357,7 @@ Monum. inéd. planche 21, 2; 58. Montfaucon 3, 226. On the designations Τέρμ
 
 3) On this, Jo. Lydus, p. 4. Schow.
 
-[PDF 259]
-
-— 245 —
+[p. 245]
 
 of a third horse, the παρήορος ἵππος, ὁ ἐκτὸς ἅρματος τρέχων, to the two of the two-horse team.1) The five emerges in the five spatia of Domitian’s circuits;2) it also underlies the vigintiquinque missus that Varro mentions, the centum currus of Virgil, and the centum missus of the ludi seculares, and, together with the perfected ten, has found recognition on monuments.3) The seven governs the sum of the circuits, with which agree the number of the eggs, of the dolphins, of the tides of the Euripus, and in particular of the strings of the lyre used in the circus pompa. The testimonies are numerous and definite. Cassiodor 3, 51: Septem metis certamen omne peragitur, in similitudinem hebdomadis reciprocæ. — Gellius 3, 10: Curricula ludorum circensium solemnia septem esse. — Sueton, Domit. 4: In his circensium die, quo facilius centum missus peragerentur, singulos a septenis spatiis ad quina corripuit. — Xiphilin in Commodo: μελλόντων δὲ τὸ ἕβδομον τῶν ἵππων ἀγωνίζεσθαι πλῆθός τι παιδίων εἰς ἱππόδρομον εἰσέδραμε. Ovid. Halieut. 68: Seu septem spatiis circo meruere coronam. Seneca Epist. 30: Animi vigor sic crescebat Basso, quomodo manifestior notari solet agitatorum lætitia, cum septimo spatio palmæ appropinquant. Joannes Lydus de mensib. p. 4. Schow. οὐ πλέον δὲ τῶν ἑπτὰ κύκλων, ἤτοι σταδίων, περὶ τὴν πυραμίδα (ἣν νῦν ὀβελὸν καλοῦσι) διεπληκτίζοντο οἱ ἀγωνισταί, διὰ τὸ τοσούτους εἶναι τοὺς τῶν πλανήτων πόλους οὓς Χαλδαῖοι στερεώματα καλοῦσιν. The number seven recurs in the Septizonium erected by Severus beside the circus, on which cf. the Regionaries and Sueton Tit. 1, Spartian. Sever. 19. 35. Ammian. 15, 7. It is therefore also significant that the highest number of horses yoked together is seven (septejuges equi). On this see the remarkable inscription in Gruter 337, 1. 8. 21: atque amplius septem equis in se junctis, numquam ante hoc numero equorum spectato certamine victor eminuit. To the metæ murciæ, finally, are linked the septem savia suavia that Aphrodite promises to him who would bring back to her the runaway Psyche
 
@@ -3728,9 +3371,7 @@ Circenses ludos: quia, ut Varro dicit in libris de gente populi romani, olim vig
 
 3) Virgil. G. 3, 18. Centum quadrijugos agitabo ad flumina currus. Serv: Id est unius diei exhibebo
 
-[PDF 260]
-
-— 246 —
+[p. 246]
 
 (Apulei. Met. 6, p. 123), as well as the sevenfold flood tide and ebb tide of the Boeotian Euripus mentioned earlier. Let the following report of Dionysius Hal. 7, 27 on the games held after the end of the great Latin war be brought into connection with this. Παρηκολούθουν αὐληταὶ ἀρχαϊκοῖς ἐμφυσῶντες αὐλίσκοις βραχέσιν, ὡς καὶ εἰς τόδε χρόνου γίνεται, καὶ κιθαρισταὶ λύρας ἑπταχόρδους ἐλεφαντίνας, καὶ τὰ λεγόμενα βάρβιτα κέρκοντες· ὧν παρὰ μὲν Ἕλλησιν ἐκλέλοιπεν ἡ χρῆσις ἐπ᾽ ἐμοῦ, πάτριος οὖσα· παρὰ δὲ Ῥωμαίοις ἐν ἁπάσαις φυλάττεται ταῖς ἀρχαίαις θυηπολίαις. The seven-stringed lyre, formerly known to the Greeks as well, had fallen out of use in Hellas. Rome, then as now still ever faithful to what has been handed down in religious practices, retained it. Dionysius does not fail to emphasize this adherence to old usages especially in the case of the circus games. The nakedness of the athletes, the use of a third horse joined freely to the yoked pair, the race of the parabatae, all these practices, likewise known to the Hellenes but abandoned by them, continued unchanged in Rome, like the use of the seven-stringed lyre; from which it follows that the Romans did not first take all these things from the Hellenes, but rather retained them even after they had fallen out of practice among the latter.1)
 
@@ -3758,9 +3399,7 @@ numero multa loquimur, mensuram et pondus negligere judicemur.
 
 2) August. C. D. 7, 31: Habenda est igitur ratio moderationis atque gravitatis, ne forte, cum de
 
-[PDF 263]
-
-— 249 —
+[p. 249]
 
 “At the phallic festival of the Pamylia the Egyptians are accustomed to set up and carry about an image that is provided with a threefold generative member (αἰδοῖον τριπλάσιον).1) ἀρχὴ γάρ (Markland adds γενέσεως) ὁ θεός, ἀρχὴ δὲ πᾶσα τῷ γονίμῳ πολλαπλασιάζει τὸ ἐξ αὑτῆς. Instead of πολλάκις we, too, often make use of τρίς. So in the word τρισμάκαρες (Od. 6, 153) and in the verse Δεσμοὶ μὲν τρεῖς τόσσοι ἀπείρονες (Od. 8, 340). Yet it may also be that the τριπλάσιον is used by the ancients in its proper sense. ἡ γὰρ ὑγρὰ φύσις, ἀρχὴ καὶ γένεσις οὖσα πάντων ἐξ ἀρχῆς, τὰ πρῶτα τρία σώματα, γῆν, ἀέρα καὶ πῦρ, ἐποίησε.” Here the three appears as a necessary property of the force of natural generation, grounded in its drive toward multiplication, which forms its real being. It thereby itself becomes the designation of the ἀρχὴ καὶ γένεσις or ἀρχὴ τῆς γενέσεως, and is suited for that very reason quite especially to the representation of the phallic force of an Osiris-Dionysus and to connection with the egg, which is itself designated as ἀρχὴ γενέσεως. If in the Monas the divine force appears as the principle of the world of being, the Trias shows it as the origin of the world of becoming. The one becomes three through its entry into matter, whose animating and moving principle it henceforth forms. The Trias belongs wholly to the idea of natural generation. It is the ἀρχὴ καὶ δύναμις as γόνιμον; it is the material primal force in its direction toward generation. For this reason the Osiris-phallus is necessarily threefold, for this reason Dionysus, too, is threefold, for this reason the whole world of the material gods is in general triplex, that of the female no less than that of the male.2) At the head of things there always stands a threefold ἀρχή, whether
 
@@ -3772,9 +3411,7 @@ taria circum effigiem duco: Numero deus impare gaudet. On this Servius: Aut quic
 
 2) Virg. Ecl. 8, 73. Terna tibi hæc primum triplici diversa colore Licia circumdo, terque hæc al‐
 
-[PDF 264]
-
-— 250 —
+[p. 250]
 
 that place is assigned to the female receptive or to the male-active potency. The idea of multiplication through generation leads into the infinite and, strictly speaking, is subject to no limit that could be expressed by any number. Its being consists, indeed, in the infinity of progress, in a never-exhausted multiplication. If now the three is chosen preeminently before every other number to designate such infinity, the ancients base this significance on a particular property of it, and indeed on that which is emphasized by Aristotle right at the beginning of his four books on the structure of the heavens: “Of magnitude, that which extends in one direction is a line; that which extends in two directions, a plane; and that which extends in three, a body,1) and besides these there is no other magnitude, because the ‘three’ is as much as ‘all,’ and ‘thrice’ as much as ‘on all sides.’ For, as the Pythagoreans also say, the All and the Whole are bounded by the three, since in end and middle and beginning lies the number of the All, and end, middle, and beginning make three. In taking from nature, then, its laws, as it were, we apply that number also in the sacred observances relating to the gods.2)
 
@@ -3786,9 +3423,7 @@ Philo, de mundi opif. § 10. Müller p. 191; § 34. Müller p. 310. Especially S
 
 2) Plut. Symp. 5, 5. Especially Apuleius Met. 11, p. 278 Bip. Threefold is the initiation.
 
-[PDF 265]
-
-— 251 —
+[p. 251]
 
 We distribute, moreover, even the linguistic designations in just this way. For ‘two’ we also call ‘both,’ and ‘two men’ also ‘both men.’ But ‘all’ we do not call them; only with three do we pronounce this word for the first time. In these designations, as has been said, we have only followed nature, because nature itself leads to it.” In this passage Aristotle agrees completely with Plutarch as regards the significance of the three. The three, both say, has, besides the limited, purely arithmetical significance, also a second significance, in which it leaves behind every limitation, every number, and passes over into the sense of ‘All,’ ‘Everything,’ ‘Perfect.’ So it appears in the τρισμάκαρες, which means not thrice-blessed, but all-blessed, perfectly blessed. In this, however, Aristotle becomes more instructive than Plutarch, in that he traces the second significance of the three back to nature and a general natural law, thus presenting it not as an improper significance, but rather as an independent, material significance grounded ἐν φύσει. In what this procedure of nature consists, the Stagirite tells us clearly. The three creates the body, which indeed extends in three directions, and besides line, plane, body there is no other configuration. For this reason the three is perfection, the All and Everything. The Pythagoreans arrive at the same result from another side. For they say that to the All belongs the union of end, middle, beginning, and this yields in turn the number three. Accordingly the three appears as a somatic number, which nature itself has made it. In this significance it designates the All, Everything, perfection; in it the number itself becomes perfect, the first odd number the first completed number. In the same significance it unfolds into the triangle, and indeed into that most perfect of all triangles under whose form the Egyptians and the Pythagoreans conceive the nature of the universe, in which the lowest side contains 4 parts, the side standing at right angles to it 3, and the side opposite the right angle 5, and in which, according to the Pythagorean theorem, the squares of the first two taken together have as much area as the square of the last alone.1) In the same significance the triangle appears on that image of the phallic Poseidon whose It is noteworthy that the ter beatus is here placed together precisely with the triplex telete and the expression felix, faustum, salutare.
 
@@ -3796,9 +3431,7 @@ mensib. 2, 7. ἐν δὲ σχήμασι τὸ ὀρθογώνιον τρίγω�
 
 1) Plut. Is. Os. 55. 56. 66. Sympos. 9, 3. Timæus Platonis 53. D. Joannes Lydus de
 
-[PDF 266]
-
-— 252 —
+[p. 252]
 
 cubic base bears the inscription ἀρχὴ τῶν πάντων, as one sees from the illustration in the appendix to my Mutterrecht.1) The same is to be recognized again in the proverb mentioned by Plato, Laws 3, p. 602: “the third helps,” for here too what is meant is not the third among many, but the third as ὁ τέλειος. When the same number three is elsewhere referred to father, mother, child, to spirit, matter, and that which descends from both,2) to underworld, earth, heaven, to three siblings, where a sister stands beside two brothers, to σῶμα, ψυχή, νοῦς, to the three parts of the human soul, to earth, air, fire, to the three phases of the turn of the year, to the threefold beginning of the month,3) to the three stages of agriculture, and to much else of the kind; when the Trias is then in general made by the Platonists the basis of their expositions of the Orphic cosmogonies,4) as it has from of old formed the supreme articulation of peoples, states, and cities, and has found manifold admission even into the names of peoples and the names of gods (Tritaea, Triptolemus): in all these applications there emerges always not the mathematical significance but the somatic one, to be grasped as that of a primal number,5) the significance of material all-sidedness and completion. If we now combine this property with that first emphasized, which the generative tendency of natural force bears within itself in its primordiality and in the infinity of its multiplication, then it appears now for the first time truly as the perfect expression of the material world, subject to eternal motion, such as underlies the Dionysian divine nature and is celebrated in the games of the circus.6) For now there combines in it the idea of generation and that of motion with that
 
@@ -3820,9 +3453,7 @@ Plutarch, de Is. et Osir. 47, cites the belief that Horomazes, the one sprung fr
 
 6) The idea of material growth emerges often quite definitely. From Persian mythology
 
-[PDF 267]
-
-— 253 —
+[p. 253]
 
 of the All, and all these relations appear not in ideal abstraction but as properties of matter, as manifestations and forms of material life. The idea of infinity combines with that of limitation; the ἀρχή is confronted by a τελευτή, and both move around a μέσον, which as the enduring element amid the change of the two poles,1) and therefore in pictorial representations, as on the Canopus described above, appears prominent through its size. Precisely thereby the number three becomes the mystery number. Even if it is correct, what Jahn urges against Böttiger, that the number three alone does not suffice to demonstrate a mystery significance, because it has found a far more extensive application, it is nevertheless indisputable that of all numbers only the three can express the fundamental idea of the mysteries, the eternal continued working of force in visible creation, and the hope of a higher rebirth tied to its perfection. For the three receives the significance of completion and of divinity. August. de Civ. Dei 7, 9 cites, probably from Varro, the sentence: Penes Janum sunt prima, penes Jovem summa. Now Zeus is designated as the third, that is, the greatest: Aeschylus suppl. 27: σωτὴρ τρίτος. Choeph. 242: τρίτος πάντων Ζῆν. Eumen. 751: τοῦ πάντα κραίνοντος τρίτου σωτῆρος. Likewise in Suppl. 678 the commandment of reverence toward parents is called τρίτον, that is, the greatest. Thus tertius is synonymous with summus, the number three directly a designation of the divine is lacking. On the decision given by Mucius Scaevola in Gellius, see Bachofen, Die civile Berechnung der Zeit, in the Zeitschrift für Civilrecht und Civilproceß 18, 2 (1842). — Gell. 10, 15: pedes lecti, in quo cubat (flamen Dialis) luto tenui circumlitos esse oportet, et de eo lecto trinoctium continuum non decubat. Lutum here has the same relation to natural generation as in the Elean custom of smearing the altar of Olympian Zeus with Alpheus mud. Paus. 5, 13, 5. For the flamen Dialis there also holds the rule quod scalas, nisi quæ Græcæ appellantur, eas ascendere ei plus tribus gradibus religiosum est, whose sense we shall determine further on. Among the wedding customs the three patrimi et matrimi are named; one carries the wedding torch, the other two lead the bride by the arms. Roßbach, p. 138. In the verses of the Aeschylean Prometheis translated by Cicero, Tuscul. 2, 10, Prometheus laments how the ever-regrowing liver is torn by the eagle every third day. For three myriads, so it ran in the play. Schol. Prom. 94. Hygin. P. Astr. 2, 15. By contrast Fab. 54, 144 thirty years. Welcker, Trilogie, p. 31. — On the threefold division of the day, the night, the month: Welcker, Trilogie pp. 283, 500, 501. Three penitents in the ancient Nekyia, p. 552. Three commandments, p. 101. Müller, Dorier, 1, 135. — Virgil. G. 1, 15. Ter centum nivei juvenci — Ovid. F. 1, 47 tria verba (sc. do, dico, addico, in which the fullness of authority is expressed). — F. 2, 571 (digitis tria thura tribus.) The jus trium liberorum. Plutarch, Numa 9.
 
@@ -3830,9 +3461,7 @@ ternario contigit numero, ut inter duo summa medium, quo vinciretur, acciperet.
 
 1) Plato Timæus p. 307. Ed. Bip. Macrob. Somn. Scip. 1, 6. p. 32 Zeune: Primo ergo
 
-[PDF 268]
-
-— 254 —
+[p. 254]
 
 nature, which as the abiding element in motion towers over the material world and its constant revolution. This property belongs preeminently to the heavenly powers of light, which are enthroned high above the change of tellurian matter, where it does not reach. In this sense the three is so preeminently ascribed to Apollo and Dionysus. In this sense the former is also called Hecatos,1) a designation meant to emphasize the remoteness in place, the summum. In this sense the Flamen Dialis is not to climb beyond the third rung of the ladder; he would otherwise raise himself above the height of the god of light. Now the application of the three in the Bacchic mysteries appears in its higher spiritual significance. It proclaims to the initiate the participation allotted to him in the eternal power of the Lord, to whom he has given himself through initiation. The number three of the eggs especially bears this meaning in itself. It shows the mysteries as the means of pressing through to divinity. The initiate will be raised through death to the completion of the Trias. Thus the number three is the number of salvation, of σωτηρία, as it makes itself known especially also in the proverb: the third helps. It is therefore called the number of the upper, the Olympian gods, while the two belongs to the chthonian powers.2) It passes itself into the significance of light, becomes like light the paternal number, and is called pater.3) Female materiality recedes entirely into the background. Thus the Trias in its highest development designates the perfected paternal luminous nature, the eternal force of creating, in which Dionysus and Apollo appear as the saviors and healers of the human race, as conquerors of tellurism and its transience. In this significance the three is the mystery number, in this significance the triquetra, as it also appears on funerary vessels, e.g. on a bowl of the Vienna Cabinet, is a sign of Bacchic initiation.
 
@@ -3848,9 +3477,7 @@ parem patris et parem matris appellatione venerantur. Plut. in the question why 
 
 3) Macrob. Somn. Scip. 1, 6. Impar numerus mas et par femina vocatur; item arithmetici im‐
 
-[PDF 269]
-
-— 255 —
+[p. 255]
 
 21.
 
@@ -3872,9 +3499,7 @@ two and three, but here multiplicative, that justifies the concept. Plut. de ani
 
 3) Plutarch qu. rom. 2.
 
-[PDF 271]
-
-— 257 —
+[p. 257]
 
 The same in that quinta pars sui nectaris which in Horace Aphrodite herself mixes into the first kiss of Psyche and Amor. Therefore children who have father and mother in common stand in the relation of the five. So Joseph and Benjamin, the sons of Jacob by Rachel. In recognition of this significance it says in Moses 1, 43, 34: “and Joseph had dishes of honor brought from himself to them (his brothers), and the dish of honor of Benjamin was greater than the dishes of honor of them all, fivefold. And they drank, and became drunk with him.” For Jacob’s ten other sons were by three other mothers, Leah, Bilhah, Zilpah (1, 35, 23–25). According to Moses 1, 45, 21 the same Benjamin receives five festal garments. The significance of sexual union lies also at the basis of the five days of the Sacaean festivals,1) of the five classes of the Roman people, which appears in them united like man and wife, of the Censura quinquennalis,2) in particular also of the number five of the Idaean Dactyls, to whom Achilles belongs as Pemptus, and, through the mediation of Hercules Idaeus, of the five-year period of the Olympic games.3) On the monument of Alyattes on the shore of the Gygaean swamp lake, which the Lydian hetaerae had for the most part erected, stood five phallic cones. As many pyramids were shown by the Porsenna tomb at Clusium, and the same number by the still preserved tomb by the road near Albano.4) With the birth of Minerva the Argive-Faliscan Quinquatria are connected.5) They are the festival of the consecration of the trumpets, whose significance for generation and fecundation we have already emphasized above,6) also a matrons’ festival celebrated in spring, of a Saturnalian-natural character.7) Five is therefore preeminently consecrated to the moon, for in the moon the double formation of nature appears in indissoluble hermaphroditic union. On the quinta Luna Orcus, the Furies,
 
@@ -3900,9 +3525,7 @@ Plut. de animæ procreat. e Timæo 12. Τούτων γὰρ τῶν ἀριθμ�
 
 7) Macrob, Sat. 1, 12. p. 264 Zeune.
 
-[PDF 272]
-
-— 258 —
+[p. 258]
 
 the Giants were born. With the fifth number, then, the idea of material generation is connected, and this is not canceled but rather confirmed by the transfer of the dark side of material force onto it.1) According to Egyptian mythology Mercury played at draughts with the moon, won from it the seventieth part of each light, and composed from these the five intercalary days which the Egyptians celebrate as the birthdays of their five gods, Osiris, Arveris, Typhon, Isis, Nephthys, who is also called τελευτή, Ἀφροδίτη, and Νίκη. — Fifteen times (3×5) greater than earthly births are the offspring of the moon women, who come forth from the moon eggs. — According to Mosaic teaching the creation of the animals was begun on the fifth day, on which Müller on Philo, de mundi opificio § 20, p. 236 is to be compared. — The same idea of generation belonging to the five continues in the thirteen, which is explained from the union of two and three, both raised to the square. By addition, says Plutarch de animæ procreatione e Timæo 12, the following remarkable combinations result: 2 and 3 make 5; 4 and 9 make 13; 8 and 27 (namely 2×4 and 3×9) make 35,2) which are especially distinguished by the Pythagoreans in the theory of tones. From the roots 2 and 3 arises the square 13, the cube 35. Since therefore 13 and 35 rest on the same basic numbers 2 and 3, which form marriage, the basic significance of the five must repeat itself also in thirteen and thirty-five. The 13 appears as the expression of the great year of generation in the myth of Io, to whom Prometheus in Aeschylus foretells the birth of the redeemer Heracles in the 13th generation, and to this attach themselves many other similar applications of the same number, which I compile in my Mutterrecht.3)
 
@@ -3914,9 +3537,7 @@ age, is added. This 14 finds its significance in the story of Jesus’s descent.
 
 3) Thirteen generations yield fourteen successors, if the last-born, who opens the new
 
-[PDF 273]
-
-— 259 —
+[p. 259]
 
 The 35, as the highest development of 2 and 3, underlies the number of the Roman tribes, which as the highest limit could not be exceeded, and those 35 children of Rhegium in Pausanias. Like the number of the five classes, it has a purely material significance, comprehending in itself the two potencies of the Roman commonwealth, and thus attaches itself confirmingly to the developed idea of the Pempas. — Once more the basic significance of marriage returns in the following conception: Plutarch Is. et Os. 56: “The Egyptians have in all likelihood imagined the nature of the universe chiefly under the image of the most beautiful of all triangles. So Plato too seems to have made use of this symbol in his books on the State, where he sketches the picture of the married state. This triangle consists of three such sides, where the lowest contains four parts, the one standing at right angles on it three, and the one lying opposite the right angle five, and where the squares of the first two taken together have exactly as much area as the square of the last alone. (4² + 3² = 5².) Here one must imagine the side standing perpendicularly on the base line as the man, the base line itself as the woman, and the one lying between the ends of those two as the child begotten by the two.”1) Here, then, the five appears once more as marriage, namely as the child representing the union of father and mother, in whom the materially separated sexual potencies return ever again to original unity; and from this is explained why the Elean matrons, who otherwise appear in the number sixteen, celebrate their games in every fifth year and weave the splendid Junonian garment in every fifth year.2)
 
@@ -3930,9 +3551,7 @@ From the basic significance of the five it follows now that this second odd numb
 
 3) Quæst. rom. 2. The number five has in Roman public and private law preeminently
 
-[PDF 274]
-
-— 260 —
+[p. 260]
 
 female nature, as is revealed in its connection with Minerva,1) with Hera, with Rhea, with Nephthys-Aphrodite, and in the birth-giving force of the fingers. It thereby becomes the basis of the female series of numbers, which proceeds from 5 to 10,2) 50, 100,3) and enters into a decisive opposition with the male series 3, 6, 12. From the material significance of generation there now emerges that significance, appearing in many applications, of the limitation of the material world by the five. If the generating force consists of five parts, which now present themselves as five elements, then what is generated itself cannot possibly exceed the number five. This significance of the five is especially emphasized by the ancients. Most noteworthy on this are the expositions in Plutarch de defectu oraculorum c. 35–37, de Ei apud Delphos c. 7– 16, and in Macrob. Somn. Scip. 1, 6. p. 31. 32 Zeune, Philo, de mundi opificio § 20. To single out particulars, it is found application. A relation to the conjugal sexual significance is shown by the following provisions: Dotem deductis quintis singulorum liberorum nomine repetere posse. Vaticana fragm. § 108. Ulpian 6, 4. — De inspiciendo ventre custodiendoque partu sic Prætor ait: Mittantur autem mulieres liberæ duntaxat quinque, hæque simul omnes inspiciant. — — Ante ostium eius conclavis liberi tres et tres liberæ cum quinis comitibus custodiant. — — Mittantur mulieres liberæ duntaxat quinque, ita ut, præter obstetrices duas, in eo conclavi ne plures mulieres liberæ sint, quam decem, ancillæ quam sex. — — Tria lumina nec minus ibi sint. — — Fr. 1 de inspic. ventre (25, 6.) The quinquennii præscriptio is applied in the crimen adulterii and in the querela non numeratæ dotis, and before the lapse of five years the woman who is charged with the divortium may not marry again. On these and many other applications Cuiac. Op. t. 1, p. 543. — On quinque testes: Gaius 1, 119; 2, 104. Ulpian. 19, 3. 20, 2. On the patrimonium quinque millium æris Gai 2, 225. — A Cerealian relation is shown by the provision that excludes prescription intra quinque pedes. Theodos. Cod. 2, 26. c. 4. 5 with Gothofredus’s notes. How deeply the quinary number had entered civil life is shown by the application of the five-year cycle in leases, extensions of payment, etc. Compare on the diffusion of the system of the number five in Italy Pfund, Altitalische Rechtsalterthümer in der römischen Sage, p. 9, Die Pontifices und die Verfassungszahlen, p. 207 ff. I recommend this exposition, without thereby sharing in the least the many fancies that emerge in it.
 
@@ -3946,9 +3565,7 @@ Danaus, on Athena’s advice, made the first πεντηκόντορος ναῦ�
 
 3) Very often fifty daughters occur. So the fifty Nereids and the fifty Danaids, for whom
 
-[PDF 275]
-
-— 261 —
+[p. 261]
 
 especially remarked that the five is that number which nature preeminently employs in all things, according to which it creates everything, divides everything, orders everything. “So we have in ourselves five senses, and just as many powers of the soul, and on each hand five fingers; the most fertile seed is divided fivefold, for one has never heard that a woman has borne more than five children at once.1) Egyptian mythology says that Rhea bore five gods, and thereby it is meant to be indicated that from one matter five worlds arose. In the universe the earth is divided by five zones, and the heaven by five circles. — Also the revolution of the planets is fivefold, since the sun, Venus, and Mercury have only one. In general there prevails in the arrangement of the world the same harmony that we notice in the positions of the five tetrachords, the highest, the middle, the conjoined, the disjoined, and the superior. And so in singing, too, there are only five intervals, namely the diesis, the half tone, the tone, the tone and a half, and the double tone. In this way nature seems to wish, in all its arrangements,
 
@@ -3956,9 +3573,7 @@ reb. dubiis (34, 5) and Julian in Fr. 36 De Solut. (46, 3) Si pater meus prægna
 
 1) The legal consequences of this quintuple birth are treated by Gaius in Fr. 8 D. de
 
-[PDF 276]
-
-— 262 —
+[p. 262]
 
 far rather to employ the number five than, as Aristotle (de cœlo 2, 4) maintains,1) the spherical form.” — In agreement with this, Eustrophus remarks: “In the whole of nature the five matters most of all, which is why the wise call counting πεμπάζειν.”2) Macrob.: Illa vero quinario numero proprietas excepta potentiæ ultra ceteras eminentis evenit, quod solus omnia quæque sunt, quæque videntur esse, complexus est. Pursuing the same idea, πάντα and πέντε are declared identical, and of this etymology what holds of so infinitely many others holds: it is derived from the thing, not the thing from it, and therefore, the more forced it seems, so much the more probative for the idea itself. With the five the whole series of numbers is closed; it designates, then, the All, and furnishes the terms πεμπάζειν and πεμπάσασθαι, whereby counting in general, and not merely counting up to five, is expressed. “Passing over many other such matters,” Eustrophus continues, “I wish only to cite Plato, who, at the place where he maintains that there is but one world, adds that if this world is not the only one, there can certainly in all be no more than five worlds.”3) Since the perfect force, composed of masculinity and femininity, contains five elements, what these create cannot possibly exceed the number five. From this follows the relation of the Trias and the Pempas. Both designate the material All, but the three presents it in its infinite extension, the five in its limitation, the former in its divinity, the latter in its material articulation.4) He is called thrice blessed whose perfect blessedness is to be expressed in its whole fullness. He cannot be called five times blessed, because that would express perfection in its finitude and limitation.5) “It is the five, says
 
@@ -3976,9 +3591,7 @@ Somn. Scip. 1, 16, p. 37: Virgilius nullius disciplinæ expers, plene et per omn
 
 5) Four times blessed, however, he can be called, as in Virgil according to Macrob.
 
-[PDF 277]
-
-— 263 —
+[p. 263]
 
 the same Eustrophus, that does not let the species of animate creatures rise to infinity, but has limited all living beings to only five kinds.” This very relation of the five and the three is to be observed on our tomb painting. Three eggs we see here, and beside them five ephebes.1) The reverse, five eggs and three ephebes, is inadmissible. In the three eggs the divine perfection of the material force is represented according to its inner infinity; in the five ephebes, what it creates, in its limitation and formation. Thus the five fingers of the creative hand show the force not in its infinite plenitude of power, but in its subjection to a finite limit, which it does not exceed. The same idea lies in the Greek ἢ πέντε πίν᾽, ἢ τρὶς πίν᾽, ἢ μὴ τέτταρα. This Plautus in the Stichus expressly traces back to the five fingers of the hand: Quot cyathos hos bibimus? St. tot quot digiti sunt in manu. Pliny 28, 6 mentions the same law: Numerum quoque quaternarium prodidit Demetrius condito volumine, et quare quaterni cyathi sextariive non essent bibendi. In the πέντε πίν᾽ there lie at once fullness and measure, limitation within multiplicity. Four cups it may not be, because otherwise perfection is not attained; six, too, it may not be, because otherwise the boundary that nature has set for herself, as in the fingers, in the five senses, in the five zones, and according to which she has created and ordered the All, would be overstepped, and the necessary harmony of things thereby disturbed.2) Therefore Plato, too, says expressly: five wedding guests, none more and none fewer. The five, then, is that finis, quem intra citraque nequit consistere rectum, and hence the πεντάγραμμον was for the Pythagoreans the representation of ὑγιαίνειν, which they used in their letters.3) Therefore Domitian reduced the rounds to five, not to six and not to four. Therefore, too, the missus had to be fixed at 24, so that for the ærarius
 
@@ -3992,9 +3605,7 @@ auctio 4. The idea of perfection is shared by the three and the four, as by the 
 
 3) Lucian, Pro lapsu int. salutand. 5.
 
-[PDF 278]
-
-— 264 —
+[p. 264]
 
 a 25th might remain over, and one would not be compelled to exceed this insurmountable basic number or its square. For this very reason the number of the elements, too, must be limited to four, so that the fifth place, that of the soul, which is to set the dead body in motion, may remain open. “For the five has as many advantages over the four as the animal has over the lifeless body.”1) Now by the fact that the five limits infinity, it acquires a preeminent kinship with the idea of form, of articulation, and of the harmony lying therein. Infinity is by its nature formless and unregulated. The imparting of form always contains a limitation, and conversely every limitation necessarily contains articulation and form. This may also be put thus: through clothing in a definite number the formlessness of the infinite is overcome. The ancients say to the same effect: the odd number overcomes the even to which it is added. The view on which this rests is set forth with great clarity, precisely for the five, by Plutarch in his work on the decline of the oracles, c. 35: “But now I ask you to consider attentively with me this circumstance also, that of the two highest principles, I mean the one and the indefinite two, the latter is the primal matter of all shapelessness and disorder, and is therefore called infinity;2) the former, however, by its nature defines and limits the empty, groundless, and indeterminate element of infinity, gives it a shape, and brings it about that it can at least in some measure bear and accept the designation proper to sensible things. These principles become visible first in number, or, to speak more properly, multitude is not a number at all unless, like the form to matter, it is added to the indefinite infinity and now more, now less is separated from it. Only then, determined by the one, does every multitude become a number; but if one takes the
 
@@ -4006,9 +3617,7 @@ Mosaic story of creation. After heaven and earth have been created on the first 
 
 2) De placit. philos. 1, 3. Πάλιν δὲ τὴν μονάδα καὶ τὴν ἀόριστον δυάδα ἐν ταῖς ἀρχαῖς
 
-[PDF 279]
-
-— 265 —
+[p. 265]
 
 one away, the indefinite two confounds everything again and abolishes relation, measure, and limits altogether. Since, then, form is not a destruction of matter but rather imparts shape and order to every subject, both principles must necessarily be present in number, from which the first difference or inequality arises. For the indefinite principle brings forth the even number, the better one, however, the odd. The two is the first even number, and the three the first odd. From these two arises the five, which by its composition is common to both, but with regard to its force is odd. Since the sensible and the corporeal, on account of their composition, are divided into several parts by the might of difference, their number could be neither the first even nor the first odd, but had to be a third, composed of these, so that it might receive its origin from both principles, from the one that generates the even as well as from the one that generates the odd. For it was not possible for the one to be separated from the other, since both have the nature and force of a principle. As soon as both were united with each other, the better principle retained the upper hand over the indefiniteness that divides the corporeal, set limits to it, and, since matter was once divided between the two, placed unity in the middle, to prevent the All from being split into two parts. Thus the multitude of the worlds arose through the difference and inequality of the indefinite; but the force of that which is ever the same and determinate made this multitude odd. The odd, now, is of such a kind that it does not let nature extend further than is good and useful. For were the one pure and unmixed, there would be no division at all in matter; but since the one has been mixed with the dividing force of the two, matter has thereby received division and cutting apart, yet it had to stop there, because the even number was overpowered by the odd.” However one may judge this deduction, the proposition that is to be established by it is clear, and older than the halting explanation. The five imposes limitation on the infinite, form on the formless, articulation on the unarticulated; it checks the unbounded extension of the material world and sets limits to it. It is the five that, by the union of the odd with the even, prevents the division of the All into two halves. It shows us, then, matter in its tendency toward the bringing together of the severed and the opposed, in its inclination toward shaping, delimitation, and a harmonious regulation ever remaining the same. By this very fact it proves itself the most perfect expression of material creation. For it shows us now [PDF 280] — 266 —
 
@@ -4028,9 +3637,7 @@ eighth? At the end it says: “One must add this also, that just as the eight is
 
 2) Plut. Qu. rom. 102. Why is the name given to boys on the ninth day, to girls on the
 
-[PDF 283]
-
-— 269 —
+[p. 269]
 
 brings about indivisibility. In the three the Duas returns to materially developed unity, as the child unites the natures of father and mother and overcomes their separation. Thus the three, over against the two, becomes the good, creative number. It is therefore assigned to the Olympian gods, as the two to the chthonian. It is the Osirian, Bacchic principle over against the Typhonian, which appears in the fable of Ocnus given a female form. Connected with this is the fact that the even number corresponds to the principle of rest, the odd three to that of motion. It is the generative potency to which all κίνησις of the visible world goes back, while the female receptive matter is mirrored in its properties, that of locality, of space, and hence of material rest. For this very reason only the odd numbers are numbers of motion, the even conversely numbers of rest, as the four represents both the dead body and the perfected source of the material All reposing in itself. Thus the two is opposed to the three, the four to the five, the cube to the circle. When the four appears dedicated to the phallic Mercury, the eight to the generating Neptune and to Poseidon’s son Theseus, these two male gods are in such a nature of number still conceived as dominated by matter and as themselves in the motionlessness of tellurism: a conception that receives perfect confirmation from the cube of the picture of Poseidon mentioned above. On the resting cube the triangle that represents the generative and moving force of the phallus is depicted, like the Bacchic triquetra in motion. From this contrast of the even and the odd number the exclusive connection of the latter with the circus games first becomes clear in its whole significance. For since here the motion of the phenomenal world, as it proceeds from the fecundation of matter, is to be represented, it is precisely the generative and moving odd that must predominate in the circus games.
 
@@ -4048,9 +3655,7 @@ custom mentioned by Plut. de Is. et Os. 52, according to which the sacred cow is
 
 back to the Chaldeans, Philostrat in vita Apoll. 3, 13 to the Indians, which more recent travel reports and researches confirm also for other peoples of eastern Asia. If, then, no probative force can be conceded to the account of Dio Cassius for a late introduction of the number seven into the circus games, and no connection at all can be assumed between the designation of days by the names of the heavenly bodies and the sanctity of the number seven in general, then on the other hand Cassiodorus’s expression septem metis certamen omne peragitur ad similitudinem hebdomadis reciprocæ is likewise unable to raise a serious difficulty. By this Hebdomas the number of seven days is not to be understood, and Cassiodorus is by no means to be interpreted as though the seven laps had been introduced after the model of the custom, spread from Egypt, of dividing the week into seven days. Rather the whole context of the passage shows that the Hebdomas or number seven can refer only to the seven planets and the spheres corresponding to them. For Cassiodorus undertakes to demonstrate for the individual parts of the circus games a decidedly uranian-sidereal significance. The seasons, the twelve signs of the heavens, the moon, the sun, the morning star and the first light, the three zones, the rising and the setting receive their determination and representation, and in such surroundings the Hebdomas, too, can Stellung in der Weltgeschichte 5, 198 f. 336; 6, 4 f., Mainardus, Studien über den Zusammenhang der ägyptischen und griechischen Religion, p. 37, 38. The number seven is represented here too as a planetary solar number, and as a uranian symbolism originating in Phoenicia. Earlier, with great thoroughness, Jablonski, Panth. Aeg. Proleg. p. LIII. LIV. — Clemens Alex. Str. 5, p. 600. — I use this passage to add the following remarks to what was adduced earlier on the diffusion of the egg symbol. On its position in the Babylonian religion Bunsen speaks, 5, 227. 235 ff. On its occurrence in China, the same, 6, 274. For Egypt it is still to be noted: Ptah-Esmun is depicted forming the egg on a potter’s wheel, Bunsen 1, 450 f., 5, 209 f. 290. 317 f. On the hieroglyphic inscription in the Rhamesseion at Abydus 1, 445; 5, 217. 333. On the world egg also Junius Hadrianus Animadv. 3, 4. De similitudine mundi cum ovo et cum litera Ω mega. — On the egg of the Orphic cosmogony Auctor recognitionum Clementinarum 10, 30; in Cotelerii patribus apostolicis T. 1, p. 589. Eschenbach, Epigenes Orphicus and Jablonski, Panth. Aegypt. Pars 1, p. 42. — To the finds of eggs in tombs I add the Berlin vase 1808, in Gerhard, Neuer Zuwachs, p. 66. “A vessel of graceful kantharos form, with high handles and somewhat flat proportions, is furnished with a well-fitting lid, adorned with engraved ornaments. As its contents there have been preserved the remains of three eggs, which — have not easily been made so visible in the same way.” — Finally an Etruscan bronze figurine with the egg in the outstretched left hand in Caylus recueil. 2, 13, 1. — On Fr. Pind. 35 Boeckh remarks, p. 635, that Οἷον Ἀλέρας ὠσόν must be emended to ὠόν, so that Tityus would be called the egg of his mother Elara. But since only the mother, and impossibly the son, can be compared to the egg, I keep to Sylburg’s emendation υἱόν.
 
-[PDF 286]
-
-— 272 —
+[p. 272]
 
 have no other relation than the planetary one indicated. In the added word reciproca the nature of the planetary orbits and the corresponding property of the circuits of the circus are emphasized. Both the former and the latter always return to their point of departure, like the waves of the Euripus, which the flood drives forward and the ebb draws back again. So reciprocus stands in Plinius 2, 97: æstus amnis reciproci; 9, 57: amnis reciprocus; Varro L. L. 6, 5: tela reciproca, i.e. such arrows as fly back as they were shot off.
 
@@ -4062,9 +3667,7 @@ tions that of the Peripatetic Hermippus. Varro’s Hebdomades are used by Gelliu
 
 2) Cf. Polit. 7, 14, 11.
 
-[PDF 287]
-
-— 273 —
+[p. 273]
 
 equally at home among the different tribes.1) Any attempt to assign a definite local home to the Hebdomas, which appears everywhere, and to recognize this perhaps in Egypt, or in Palestine, or in India, would be untenable, although Jewish authors, misled by the vanity of their patriotism, have often fallen into such an error. For since it did not escape them that Greeks and Romans too paid manifold homage to the number seven, they recognized therein a homage rendered to the divinity of the Mosaic law by the whole rest of the world; indeed, to make the agreement still greater than it really was, even forgery of ancient Greek texts seems not to have been disdained. Well known and much discussed are the accounts of Josephus and Philo. In the second book against Apion the former expresses himself thus: Οὐ μὴν ἀλλὰ καὶ πλήθεσιν ἤδη πολὺς ζῆλος γέγονεν ἐκ μακροῦ τῆς ἡμετέρας εὐσεβείας· οὐδ᾽ ἔστιν οὐ πόλις Ἑλλήνων οὐδ᾽ ἡτισοῦν, οὐδὲ βάρβαρον οὐδὲ ἓν ἔθνος, ἔνθα μὴ τὸ τῆς ἑβδομάδος, ἣν ἀργοῦμεν ἡμεῖς, τὸ ἔθος οὐ διαπεφοίτηκεν. Philo in the book on the creation of the world seems nevertheless to attach a similar meaning to his more vaguely held words: Τιμᾶται δὲ (ἡ ἑβδομάς) καὶ παρὰ τοῖς δοκιμωτάτοις τῶν Ἑλλήνων καὶ βαρβάρων, οἳ τὴν μαθηματικὴν ἐπιστήμην διαπονοῦσιν. While these two authors are content to bring the manifold recognition
 
@@ -4074,9 +3677,7 @@ finitely much else, belongs to the Semitic tribes of the East, and goes back to 
 
 1) By this it is not to be denied that the first observance of the number seven, like so in‐
 
-[PDF 288]
-
-— 274 —
+[p. 274]
 
 of the religious significance which the number seven found among Greeks and non-Greeks into a general connection with the Jewish hallowing of the seventh day, the Jew Aristobulus directed his effort to demonstrating a far more extensive agreement between Hebraism and Graecism. According to him, the religious significance of the seven was supposed to have found its expression among the Greeks too, from of old, in the same hallowing of the seventh day that underlay the Jewish sabbatism. What he adduced for this is in Clemens Stromata 5, p. 513. Oxon., and from there passed into Eusebius, Præpar. Evang. 13, 12. 13. They are verses of Hesiod, Homer, Linus, Callimachus, whose forgery is in part obvious, as in the following, ascribed to Homer and Linus: Ἕβδομον ἦμαρ ἔην, καὶ τῷ τετέλεστο ἅπαντα. — Ἑβδομάτῃ δή οἱ τετελεσμένα πάντα τέτυκται — in part, though hard to detect, nevertheless demonstrated by Valckenaer de Aristobulo Judæo, Philosopho Peripatetico, § 38. p. 116 ff. ed. Luzac. Lugduni Batav. 1806.1) To the Greeks and Romans the hallowing of the seventh day in the Jewish manner was wholly foreign, as many utterances show, e.g. Juvenal Sat. 6, 158; 14, 105, Rutilius, Itinerar. 1, 391, Ovid, Ars am. 1, 416. Rem. amor. 219, Horat. Sat. 1, 9, 69, (the much discussed tricesima sabbata, on which Acro and the opinions of more recent writers collected by Orelli), Persius Sat. 5, 18, Sueton. Aug. 76, Seneca Ep. 95 medio, Tacit. Hist. 6, 4. Cf. Plutarch, Sympos. 4, 5, and de superstit. 3 (Hutten 8, 59), especially Tertullian ad nationes 1, 13, Apologet. 16. If, then, we are compelled to oppose the Jewish authors cited and their accounts called forth by national-religious interest, it must on the other hand be conceded that their statements about the general diffusion
 
@@ -4084,9 +3685,7 @@ sumption of conscious forgery. Nevertheless I openly confess that precisely this
 
 1) After examining the grounds advanced by Valckenaer, I cannot escape the as‐
 
-[PDF 289]
-
-— 275 —
+[p. 275]
 
 of the sacral character of the number seven are in perfect agreement with what has already been adduced of Greek and Roman custom. The sanctity of the number seven is the same among all the peoples of antiquity. In this there is no difference between Greeks, Romans, Egyptians, Jews, Indians. Where they differ from one another is only in the significance that they attached to the Hebdomas in their cult practices. The transfer to the number of days, and the hallowing of every seventh day connected with it, as well as the naming of the days after the planets, is not original with the Romans and Greeks, but a custom that penetrated from outside only late.1) But even this was not without all foothold. On the contrary, among the Hellenes too an application of the seven to the seventh day appears, and indeed one that, like all the Jewish festivals, is brought into connection with the revolution of the moon. The seventh day of the month is consecrated to Apollo, as the eighth to Poseidon.2) The testimonies of the ancients are perfectly definite on this. In Plutarch’s Table Talk 8, 1 Florus says that on Plato’s birthday one must not pass over in silence Carneades, one of the most worthy heads of the Academy. Both, he says, were born at a festival of Apollo: the former at the Thargelia in Athens, the latter during the Carneian festival at Cyrene.3) “The one as well as the other,” he adds, “is celebrated on the seventh day, and you prophets and priests call the god himself, because he was born on this very day, Hebdomagetes (as Valckenaer de Aristobulo 37, p. 115 emends the usual Ἑβδομαγένην). Therefore, it seems to me, those who ascribe Plato’s begetting to Apollo do this god no insult at all, who by means of Socrates, as of another Chiron, has formed for us in this man a physician against the gravest diseases, I mean the passions.”4) Ἑβδομαγέτας the god is called also in Aeschylus, Seven against Thebes, line 780: καλῶς ἔχει τὰ πλεῖστ᾽ ἐν ἓξ πυλώμασιν,
 
@@ -4106,9 +3705,7 @@ physician of souls, as Aesculapius of bodies. Plato Resp. 3, p. 408. Euripides A
 
 4) Here Plato is represented as a second Aesculapius, Socrates as a second Chiron: a
 
-[PDF 290]
-
-— 276 —
+[p. 276]
 
 τὰς δ᾽ ἑβδόμας ὁ σεμνὸς ἑβδομαγέτας ἄναξ Ἀπόλλων εἵλετ᾽. The connection of the number seven with Apollo’s Delian birth is celebrated by Callimachus in the Hymn to Delos 249–255. For seven times the song-rich swans of the Pactolus circle the island, and they had not yet begun the eighth song when the youthful god stepped forth into the light. The boy then strung the divine lyre with as many strings as the number of times the swans had raised their song at his mother’s birth pangs. — Compare with this what Ptolemæus Hephæstio lib. 7 in the Fr. h. gr. 4, 513 reports of the birth of Zeus: Θεόδωρος ὁ Σαμοθρᾷξ τὸν Δία φησὶ γεννηθέντα ἐπὶ ἑπτὰ ἡμέρας ἀκατάπαυστον γελάσαι, καὶ διὰ τοῦτο τέλειος ἐνομίσθη ὁ ἕβδομος ἀριθμός. The hallowing of the seventh day applies to every month, as appears from the scholion on Aristophanes Plutus 426. ἡ τετρὰς ἐνομίζετο τοῦ Ἑρμοῦ, καὶ καθ᾽ ἕκαστον μῆνα ταύτῃ τῇ ἡμέρᾳ ἀπετίθεντο τῷ Ἑρμῇ.1) ἔξω γὰρ τῶν ἑορτῶν ἱεραί τινες τοῦ μηνὸς ἡμέραι νομίζονται Ἀθήνησι θεοῖς τισίν, οἷον νουμηνία καὶ ἑβδόμη Ἀπόλλωνι, τετρὰς Ἑρμῇ, καὶ ὀγδόη Θησεῖ.2) Gellius 15, 2 and Lucian Pseudologista 16 give information on the manner of observing this seventh Apollonian day. Gellius: Is (ex Creta homo) in conviviis juvenum, quæ agitare Athenis hebdomadibus lunæ solemne nobis fuit, simulatque modus epulis factus, et utiles delectabilesque sermones cœperant, tum silentio ad audiendum petito loqui cœptabat.3) Lucian says that the name Ἑβδόμη suits a man who likes to turn everything into a jest. ὁ δὲ Ἑβδόμην (εἶπεν), ὅτι ὥσπερ οἱ παῖδες ἐν ταῖς ἑβδόμαις, κἀκεῖνος ἐν ταῖς ἐκκλησίαις ἔπαιζε, καὶ διεγέλα, καὶ παιδιὰν ἐποιεῖτο τὴν σπουδὴν τοῦ δήμου. Without mention of the day’s celebration, the seven is more often ascribed to Apollo. Plutarch Symp. 9, 3: Ἡ δὲ ἑβδομὰς τῷ Μουσηγέτῃ προσκεκλήρωται. Censorin. de die nat. 14. Fuerunt etiam, qui utrumque reciperent numerum (sc. κλιμακτῆρα vitæ humanæ) et undequinquagesimum (7 × 7) et octogesimum unum (9 × 9); et minorem nocturnis genesibus, majorem diurnis adscriberent. Plerique aliter moti, duos istos numeros subtiliter discreverunt, dicentes septenarium ad corpus, novenarium ad animum pertinere. hunc medicinæ corporis et Apollini attributum; illum Musis; quia morbos animi, quos adpellant πάθη, musica lenire ac sanare consueverit. Particular attention is deserved also by the following statement in Plutarch’s letter of consolation to Apollonius, in Hutten 7, 335: “Agamedes and Trophonius had built the temple at Delphi, and now asked Apollo for a reward. He promised to give it to them on the seventh day, and admonished them that they should meanwhile [PDF 291] — 277 —
 
@@ -4134,9 +3731,7 @@ in Mercur. 51. Plutarch de musica, see Macrob. Sat. 1, 19. Philo de mundi opific
 
 2) Welcker on Philostrat Imag. 2, 17. p. 486. Strabo 14, 652: ἑπτάκις δέκα Χάρης ἐποίει
 
-[PDF 292]
-
-— 278 —
+[p. 278]
 
 numeris septem discrimina vocum. Serv: Reliqui (circuli) septem sunt, quorum sonum deprehendit Orpheus: unde utique septem fingitur chordis. Finally the following statements also come into consideration: Diogenes Laërt. Plato 2: καὶ γίνεται Πλάτων, ὥς φησιν Ἀπολλόδωρος ἐν χρονικοῖς, ὀγδόῃ καὶ ὀγδοηκοστῇ ὀλυμπιάδι Θαργηλιῶνος ἑβδόμῃ, καθ᾽ ἣν Δήλιοι τὸν Ἀπόλλωνα γενέσθαι φασίν. Boeckh. C. J. 1, p. 465. The Antiochenes, according to Libanius Declam. T. 1, 236, venerated Apollo and Artemis on the same day, namely the seventh, whereas otherwise, as the scholion on Aristophanes Plutus and Iamblich. 5, 152 attest, Artemis had the sixth, Apollo alone the seventh day.1) These two are also joined in Theophrast. char. 14 and in Dionys. Art. 3, 243: ἑβδόμῃ καὶ ἕκτῃ ὅτι ἱεραὶ τοῖν θεοῖν.2) The Apollonian seven is repeated in Orestes and in the solar hero Heracles. To both the stature of seven cubits is ascribed. Of this we possess the testimonies of Herodot 1, 68. 69. Gellius 3, 10, Solinus c. 1, p. 7, Philostrat Her. 1, 2, p. 28. Boiss., as indeed the perfect measure of the body was generally fixed at this height, on which Plautus Curcul. 3, 70 (statua septempedalis) and the septipedes Burgundiones in Sidonius Apollinaris, as well as other passages collected by Salmasius on Solinus p. 31, give information. Finally I call attention to Pausan. 2, 7, 7. Apollo and Artemis are propitiated by the offering of seven boys and seven girls. By all these testimonies the sanctity of the number seven and its connection with Apollo, as well as with the seventh day of every month, is raised above all challenge, and at the same time demonstrated in its originality.
 
@@ -4164,9 +3759,7 @@ is repeated in Plato Timæus p. 386, Bipont. and Plut. Sympos. 3, 1.
 
 6) Ovid. F. 3, 811. 837. Turneb. Advers. 2, 17. Lobeck, Aglaoph. p. 436.
 
-[PDF 294]
-
-— 280 —
+[p. 280]
 
 cœptus pro completo habetur,1) it is τελεσφόρος, not γεννητικός. This meaning of the ἑβδόμη, and consequently of the ἑβδομάς, recurs in all those applications by which the ancients carry through the physical-natural meaning of the number seven. The Hebdomas of the stages of age in human life is especially emphasized. So by the physician Hippocrates2) according to Censorin Dies Nat. 14, Macrob. Somn. Scip. 1, 6. p. 44. Philo, de opif. mundi § 36. Aristot. Polit. 7, 14, 11. In the presentation of the Solonian elegies, too, the seven plays a great part. These distichs, which one recognizes in Herodot. 1, 32, have been preserved for us by Philo § 35, are mentioned by Censorin, Dies Nat. 14, Eusebius 12, 12. 13, Ambrosius Epist. 6, 39,3) and are discussed more fully by Müller on Philo, pp. 313–318. In place of the septies decem, decies septem anni appear here as the εὐκταῖον τοῦ βίου τέλος, as in Psalm 90, 10. In this application to the development of human life the τελεσφόρος δύναμις ἑβδομάδος lies quite clearly before us. In seven cycles existence is completed; the last brings the desirable end of life. The Hebdomas thereby passes over into the meaning of the measure of earthly things. Thus we have already found it above as the limit of bodily length; thus it appears further in the number seven of births: the seven daughters of Deidamia,4) the seven children of Niobe,5) the seven boys and seven girls whom the earth brought forth in the third birth,6) the seven Cynosures,7) the seven Cyclopes (Strabo 8, 372), the seven daughters of Amphion and the seven gates of Thebes corresponding to them (Hygin. f. 68), the seven gates of Mithras (Beyer on Selden 1, 6), the seven offspring of Thetis,8) among whom Achilles, the most perfect, is called Septimus; so too in the seven boys and girls who every ninth year go as tribute to Crete,9) in the seven islands, the seven Centaurines, the seven Achaean heroes, the seven persons involved in Agamemnon’s murder;10) again in the septemplex clypeus
 
@@ -4192,9 +3785,7 @@ Apollod. 3; in the commentary of Meursius on Lycophron in Müller’s Lycophron,
 
 10) Philostrat 1, 17. Welcker, p. 486.
 
-[PDF 295]
-
-— 281 —
+[p. 281]
 
 in Virgil Aen. 12, 925,1) in the seven mouths of the Nile,2) of the Ister,3) of the Padus,4) which, like the septem aræ of Lusitania, the septem aquæ in the Ager Reatinus, the septem fratres of Mauritania,5) the septimontium, the septem pignora imperii, the septemgemina Roma,6) the septem tabernæ, septem ventus, septem Cæsares, the septembona brassica in Cato R. R. 157, the septenus chorus in Auson. Ecl. de rat. puerper. 4, the septenus circuitus in Plin. 28, 16, 66, the seven months during which Orpheus bewails Eurydice in Virgil G. 4, 507, the seven years in which Menelaus wanders with Helen, Euripid. Hel. 775, show the number seven only in its general meaning as τέλειος, completus, absolutus numerus. If, further, the seventh day is decisive in all illnesses and is therefore called κριτικός or κρίσιμος; if the halcyonic brooding days are seven; if in the cycle of seven larger or smaller periods of time all growth, all bodily change, even female purification and death from hunger, attains a definite completion: then here too we see the Hebdomas again as τελεσφόρος, so that the six, as in the Mosaic story of creation, creates and leads toward ripeness what the seven then presents completed in all its parts. The applications emphasized are all the more instructive for the number seven of the circus laps, since they bring the idea of completion into connection with that of motion and of material growth, and belong wholly to the domain of material becoming and passing away. We see from this that the seven, which differs so essentially from the three and the five, nevertheless agrees with these first two odd numbers in this, that, like them, it belongs to the realm of the creation that appears, advancing in eternal motion and eternal growth, and therefore, like them, is a somatic number, existing in things, not outside them.
 
@@ -4214,9 +3805,7 @@ in Rufum 1, 185.
 
 6) Stat. Silv. 1, 2, 191; 4, 1, 6.
 
-[PDF 296]
-
-— 282 —
+[p. 282]
 
 is an astronomical one. In the sevenfold number of the planets and in the seven spheres in which they complete their course, the motion of the tellurian creation, which follows the same law and measure, is prefigured. From heaven the harmony of the seven has descended into the things of a deeper, more material region. From above it governs the tellurian world, whose motion is guided and harmoniously developed by that of the uranian. “It is impossible that any motion should exist that does not agree with the motion of some star.” “The revolution of the planets brings forth all phenomena.” These utterances of Aristotle (in the Metaphysics 12, 8, 9. 15) contain a primal thought of humanity that wholly governs the mode of contemplation of the ancient world.1) In its highest uranian revelation the seven is now less material than in the tellurian, and indeed less so in the same proportion in which the stars are purer than earthly beings and stand closer to the perfect immateriality of God than the earth does. True, the stars too still belong to the sensually perceptible world, but they have a greater kinship with eternal substance than the tellurian has, to which the world of sensuality surrounding us belongs.2) They are themselves divine bodies, and the science that occupies itself with them is the one best suited to lead the spirit to the unmoved source of all motion, to the Aristotelian primal circle. Between this purely intellectual being and full materiality the stars stand in the middle. More material than the former, less material than the latter, they partake of the nature of both, act by virtue of their materiality upon matter, and indeed with the greater force the nearer their spheres approach the earth, but at the same time, by virtue of their immateriality, lead upward to the highest source of light.3) In the double nature of the stars the number seven too shares, in consequence of its astronomical origin. Without stripping off materiality, it nevertheless penetrates to its farthest boundary, and so mediates the transition from the sensual into the supersensible
 
@@ -4230,9 +3819,7 @@ is an astronomical one. In the sevenfold number of the planets and in the seven 
 
 3) Philo, § 38. med. Οἵγε μὴν πλάνητες ἑπτὰ διακοσμοῦνται τάξεσι, πλείστην ἐπιδεικνύμενοι
 
-[PDF 297]
-
-— 283 —
+[p. 283]
 
 world. Belonging to earthly things and to heavenly appearances alike, it unites in itself both boundaries of the universe and thus forms the nodus omnium rerum. The middle position between the ἐπίγεια and the ἀσώματα καὶ νοητά that belongs to the uranian seven may be compared with that which, according to Plato’s views, falls to the mathematical domain between the sensual and the ideal.1) Here greater purity is ascribed to the mathematical that appears in the heavenly bodies than to that in the tellurian ones. The same idea leads to the proposition that in the stars form outweighs matter. When it is said in Aristotle, Metaphysics 12, 8, 25, that the highest form has no matter, then, conversely, tellurian things are matter without form, a thought which the Bithynian Ares myth cited above makes quite vivid. In the stars both meet, matter and form; the former they have in common with the tellurian creation, and on this community rests the sympathy2) that binds the two spheres of the universe; the latter, on the other hand, derives from that highest form to which no matter clings. Thus the sidereal seven appears now, preeminently before the other numbers, as the expression of perfected form, and, inasmuch as harmony and beauty are grounded in form, the Hebdomas itself now becomes καλλίστη and ἁρμονικωτάτη,3) the rhythmic motion of the heavenly bodies the expression of the most beautiful form and of perfected harmony. Revealed in the stars and their dance, it is destined to guide every motion of the lower creation, to bring it into accord with itself, descending from stage to stage to pervade all matter, and to subject its wild force to the law of beauty, of rhythm, and of perfected proportion. So there is confirmed in the most perfect way what we set forth above as the distinguishing feature of the seven over against the three and the five: that, namely, alongside the common idea of motion in
 
@@ -4246,9 +3833,7 @@ cœli, quam vocant συμπάθειαν. Müller on Philo, p. 327.
 
 3) Philo § 37. Müller, p. 320. Hymn. Orph. in Apoll. χρυσολύρῃ, κόσμου τὸν ἁρμόνιον
 
-[PDF 298]
-
-— 284 —
+[p. 284]
 
 the world of sensual appearance, which underlies all the numbers considered, the seven nevertheless, by virtue of its higher uranian origin, takes the lead of the other two numbers, ruling and guiding them, as the supreme law revealed in the stars.1) If the Trias and the Pempas present force in the fullness of its content, in the seven it appears obedient to a higher law. It is Pegasus, whom Athena teaches to rein and to guide, Ares, who subjects his overflowing male force to the rules of orchestics. In participation in the seven, the motion that forms the essence of life in the earthly creation appears traced back to the divine model of the stars, and by that alone partakes of order and of regulated progress. For this reason the Ἑπτὰ enjoys that Σεβασμός which is ascribed to it alone.2) It is the highest visible expression of the divine law, revealed in the purest of the perceptible bodies, the stars, which themselves partake of divinity. It can therefore be regarded as the expression of the highest sovereignty, according to Macrobius as the numerus qui omnia gubernat. In this meaning the seven is the number of the sun. Among the seven spheres, in whose orbits the seven planets move, that of the sun stands out as ruling. Helios is the king of heaven, as the Homeric Hymn 17 greets him; the stars are his retinue, which grows pale at the appearance of the prince. He alone is as much as the whole remaining host; alone he strides on, in undivided and uncontested greatness.3) In the sun the seven unites with its source, the Monas. Sol himself follows in his motions the law of the seven,4) according to which he guides, as himself, so also the moon.5) For Luna, like everything uranian, like Pleiades and Atlantides and everything tellurian, is wholly governed by the septenarius numerus. In this highest tracing back the seven meets the Monas, as indeed the sayings of the ancients already communicated above declare that no number has so intimate a kinship with the one as the seven, which in Apollo also takes its place beside that one. The
 
@@ -4266,9 +3851,7 @@ Nicomachus in Excerptis ap. Phot. ἡ δὲ ἑβδομὰς τί ἄν τις �
 
 5) Philo M. O. § 34. Macrob. S. Sc. l. l.
 
-[PDF 299]
-
-— 285 —
+[p. 285]
 
 solar Hebdomas bears all the attributes that belong to the eternal, unchangeable source of light. Like light itself it is immaterial, wholly of an incorrupt and incorruptible nature. Not directed toward generation, it appears as the representation of the pure masculinity that stems from the sun and of its spiritual luminous nature. In this meaning it is joined with Pallas-Athena and is itself called πάρθενος, ἀμήτωρ, ἁγνεία. It is, like the virgin who is said to be well disposed toward everything male, πλὴν γάμου τυχεῖν, sprung in unitary nature from the head of Zeus, perfect as the word from the mouth.1) In this wholly spiritualized meaning it belongs especially to the metaphysical purity of the Apollonian nature. In this meaning it becomes the number of joy, the Apollonian seventh day of the month and the birthday of a Carneades and a Plato. In this meaning it finds application to speech, to sight, to the head, to the noblest forces and parts of the human being.2) Indeed, in an ever advancing height of conception it is now itself called anima mundi, the world soul, in which all things share, or νοῦς, ὑγιεία in the spiritual sense, φῶς τὸ κατὰ νοῦν (Philo Theolog. arithm. p. 56), and in Tertullian adversus Marcionem 4, 128 the Holy Spirit itself, septemplex spiritus, qui in tenebris lucet.4) Now the seven has passed over from motion to the unmoved origin
 
@@ -4290,9 +3873,7 @@ rich lands one king alone should always judge, invested with the staff of power.
 
 1) In Aeschyl. Persians Darius says that Zeus himself has decreed that over Asia’s herd-
 
-[PDF 301]
-
-— 287 —
+[p. 287]
 
 destruction, consecrated at Olympia,1) all of which evidently place the solar number in the foreground in its meaning directed toward rule and political hegemony. In many applications that private law offers, especially in the septem signa testamentorum,2) the same idea of sovereignty is recognizable clearly enough, notably in contrast to the application of the number five.
 
@@ -4312,9 +3893,7 @@ stars is told by Plutarch de Placit. phil. 2, 13. In the Orphic mysteries it is 
 
 3) Ovid. F. 3, 112. Constabat sed tamen esse Deos (sidera.) What Orpheus thought of the
 
-[PDF 302]
-
-— 288 —
+[p. 288]
 
 image of the revolution of the seven heavenly spheres, whose harmony is repeated in the seven-stringed lyre of the circus pompa and in its tones. The four-horse team is brought into connection with the nature of the sun by virtue of the perfected incorporeality of the tetractys, as already in the triumph of Camillus, while the two-horse team is assigned to the maternal lunar nature, which is related to the disunion of matter. The solar rises above the lunar, so that even the team of mules, as it was originally in use according to the testimony of Festus, has everywhere disappeared, except at the Consualia. For mules stand in a close relation to the moon. Between the ass and the horse, the animal of unregulated material force, and the noble winged steed guided by Athena, the mule occupies an intermediate position, just as the moon, which unites a higher and a lower nature in itself, stands between sun and earth, and the sterility of both seems to have offered a further point of comparison.1) Now, however, natural force is raised to its highest stage. The paternal principle of the sun stands there ruling, and whereas on the tellurian stage Consus appeared in a subordinate position as the πάρεδρος of Murcia, female materiality in the moon now recedes into the background before the greater power of the sun. — If the general solar significance of the number seven is thus to be recognized in the seven circuits, the seven eggs, the seven dolphins, and the seven-stringed lyre, then that side of its nature in which it appears as τελεσφόρος becomes especially important. In this quality it gives the circus games a quite special consecration, the correct conception of which is of the highest importance. We have come to know the solemnity of the great races as funeral games, and have recognized in them the idea of a cult offered to the highest lord of life. Now this double relation to death and life receives its closer determination. As τελεσφόρος, the number seven that rules in the circus shows tellurian life as the time of birth of a higher existence. The completion that it brings lies in the passage to a higher sidereal existence. As, according to Varro in Plutarch Qu. rom. 11,2) the Roman who turns around at his father’s grave connects with this the thought of the elevation of the dead to divinity
 
@@ -4326,9 +3905,7 @@ that would be apt to secure for them greater attention, in particular a new revi
 
 2) The Quæstiones romanæ are probably drawn for the most part from Varro, a remark
 
-[PDF 303]
-
-— 289 —
+[p. 289]
 
 so too the completion of the seven circuits expresses the passage of earthly existence to a higher sidereal existence. The life of the body itself takes on the meaning of a time of birth, death that of an act of birth which lets a new being of divine nature come forth. As after six birth pangs Apollo steps into the light in the seventh circuit of the swans, so the sevenfold circling shows that the seven ages of man are themselves only the birth pangs of a divine being. When the seventh circuit begins, the dead man has come into being as Hebdomagetes in the realm of light.1) Thus it is not the sad lot of death of everything that has become that governs the circus games as their final thought; rather, above it there rises, consoling, the certainty of an immortality prepared by it. The words of a fragment of Euripides find their place here: “Who knows, remarks the poet, whether life is not what is called dying, and living death? Unhappy are the living, but nothing torments the dead; their woe has departed.” The same holds for the egg. It is not the downward-going birth into material life, but the upward-leading one, from the material into an immaterial existence, that is recognized as the highest idea in its setting up and its removal. If at birth the genius leads the soul of man into the change of matter and into all its deceit, then death, through the annihilation of the coarse garment, conducts it back to the stars and raises it to a uranian existence in which, united with the heavenly lord of the pure stars, it shares in the glory of the prince of light.2) The hope of such an elevation to sidereal life is expressed in many ways by the initiates on their epitaphs, of which we have already adduced several examples earlier. “I am joined to the heavenly host, for the god was my guide,” we read on that epitaph of the fisherman of Marseilles.3) The same thought is shown by the circus sarcophagi, which we therefore without hesitation
 
@@ -4346,9 +3923,7 @@ the world of the stars, the uranian sowing, and the elevation to the stars and t
 
 3) Cf. Plato Timæus p. 326–328, where the mixture of the mortal and the immortal in
 
-[PDF 304]
-
-— 290 —
+[p. 290]
 
 place among the initiation scenes. They are, like the games of Augustus of which Virgil speaks, intended to bring out the apotheosis of the deceased. If the tomb of Siena shows a syllabarium on its walls, then there is represented in this that concentus of the heavenly spheres to whose number seven the seven vowels correspond, and consequently once again that admission of the initiate into the chorus of the heavenly host is indicated, which probably also lends their higher and true relation to the starry adornment of the Cornetan hypogea and to the lyre as it appears above the entrance of the tomb of Canosa explained by Millin. The most perfect agreement now binds together all the individual phenomena in whose setting we have found the egg. The number seven of the circuits, the thought of an admission among the stars, the relation of the circus games to the cult of the sun and of the heavenly bodies of light
 
@@ -4374,9 +3949,7 @@ about the beautiful picture in Stackelberg, Gräber der Hellenen 2. Here too the
 
 3) The number seven in this uranian, purifying meaning, leading to immortality
 
-[PDF 306]
-
-— 292 —
+[p. 292]
 
 the ἀριθμὸς τέλειος, thereby for admission into the tombs. Here it now proclaims the connection of the sensually palpable with the supersensible world of light, of corporeal existence with that which follows it, of death with life, of the tellurian with the uranian sphere. The two worlds and existences that in the tomb join hands, and whose inner relation forms the object of all those riddles that the entering of the place of death suggests, these appear also joined in the egg; and in the relation of the chick to it the correspondence of corporeal and heavenly existence is recognized. As the egg must perish in order to give origin to a being that wings bear aloft to heaven: so the life of the body is consecrated to death, if the initiate is to be raised to sidereal existence in the train of his heavenly god.1)
 
@@ -4394,9 +3967,7 @@ Timæus, p. 382. Bip. — Plut. de plac. philos. 1, 15.
 
 2) Virgil. Ecl. 8, 73: triplici diversa colore. Ciris 371–373. Voss, Eclogen 1, p. 126. — Plato
 
-[PDF 307]
-
-— 293 —
+[p. 293]
 
 that color must stand in the closest relation to the highest solar divine nature of Dionysus. Its symbolic application, moreover, seems to agree admirably with the purely symbolic significance of the Pamphili painting. Among the colors predominantly ascribed to the sun the red takes the first place. In the work on the tenets of the philosophers 3, 5 Plutarch remarks that among the colors of the rainbow the red always takes the first place, and that it comes from the bright and brilliant ray of the sun falling on the raindrops and being refracted in them. In the triumph of Camillus, Livius 5, 23 emphasizes at one and the same time the team of the sun and the complexion of the victor painted with red ocher. From Plutarch Qu. rom. 98 there emerges the custom of the Romans of painting the Capitoline image of Jupiter red. The same color is attested especially for Dionysus. With red ocher the wooden carved image of him at Phelloë in Achaia was painted, and likewise the one at Phigalia in Arcadia.1) According to Macrob. Sat. 1, 18 the image of Dionysus at the festivals of the god wore πέπλον φοινίκεον πυρὶ ἴκελον, and if this garment is traced back to Orpheus, then the use of the red color in the mysteries is certainly expressed in this. In a red garment Bacchus appears also on a Herculanean painting (Pitture d’Ercolano T. 2. tab. 13. 16), and likewise on another that Philostrat Imag. 1, 15 describes, and for which Welcker p. 299 adduces the similar statements of Hymn. Homeric. 7, 5, Proclus in An. V. P. T. 2, p. 446, Nonnus Dionys. 20, 228, Lucian Bacchus C. 1. Ovid met. 3, 554. Typhon, who according to Firmic. Matern. de errore prof. relig. p. 3 ed. Bursian was conceived as force of fire, is called red in color in Plutarch Is. et Os. 29, and likewise gold, on account of its reddish color, is put in close relation to the sun. — For the determination of the blue color there serves a statement of Macrob. Sat. 1, 19 on the Egyptian representations of the sun. The images of the sun god the Egyptians paint now with a blue color, now gleaming white. The white sun they call Sol superus, the blue Sol inferus. Inferus, however, the sun is called in inferiore hemisphærio, hence as Dionysus in contrast to Apollo, as Macrob. Sat. 1, 18 designates that distinction. Blue appears also among the colors of the rainbow, and indeed after the red, because the ray of the sun that produces it is already more clouded and darkened. According to Eusebius Præpar. Evang. 3, 12, at Philae and Elephantine the god with the ram’s head is painted blue, and the Sabaean planetary god Saturn is represented as ruler of the deepest Ethiopian zone and of the winter sun, the Sol inferus,
 
@@ -4404,9 +3975,7 @@ Tibull. 2, 1, 55; Plin. 33, 7, 40.
 
 1) Paus. 7, 26, 4; 8, 39, 4. Serv. Ecl. 6, 22; 10, 27; Ovid. Trist. 1, 1, 7; Arnob. 6, 10;
 
-[PDF 308]
-
-— 294 —
+[p. 294]
 
 in blue and black.1) — On the relation of the yellow color to the sun the yellow veil of the Flaminica gives information. Festus: Flammeo vestimento flaminica utebatur, id est Dialis uxor et Jovis sacerdos, cui telum fulminis eodem erat colore. p. 89: Flammeo amicitur nubens ominis boni causa, quod eo assidue utebatur flaminica, id est flaminis uxor, cui non licebat facere divortium. The color of the flammeum is rendered by Plinius 21, 8, 22 and Lucan 3, 361 as luteus color, but this is said of sulphur (Ovid. met. 5, 351), of egg yolk, of the saffron yellow of the early light. If we put together these statements of the ancients about the three colors named, which were applied on the Pamphili tomb painting, a definite relation of them to the fiery nature proper to Dionysus results. If in the red the highest force and purity of light is recognized, then in blue and sulphur yellow a deeper, more material stage of its embodiment is brought to representation. In all three, however, lies the idea of the earthly generation called forth by the sinking of light into matter. The highest degree of this power of light resting in the sun is shown by the red color, which for that very reason was applied, as to Dionysus, so also to other gods of generative natural force, to Priapus,2) to Pan and the Satyrs, and indeed, according to Plutarch3) and Servius Virg. Ecl. 6, 22, was customary for the gods in general. In this meaning red is preeminently the phallic color, the attribute of male-generative natural force at its highest, the solar stage. From this a peculiarity of the Pamphili painting is now explained, the discussion of which we have intentionally put off until here. To indicate the contrast of the dark and the light color in the representation of the three eggs, it is not the two outermost limits of the whole world of color, the absolute contrasts of black and white, that have been chosen, but rather dark red and white. Thereby the alternation of death and life, which that contrast is destined to bring out, is raised from the limits of sensual-material life into a higher domain, and not only the motion of tellurian organisms between the poles of bodily becoming and passing away, but beyond this the transition from somatic to higher existence of light is indicated. It is not the tellurian but the sidereal egg-birth that is to be brought out by the combination of red and white. Red shows the fullness of natural force in the mortal body, white that which out of it in death [PDF 309] — 295 —
 
@@ -4422,9 +3991,7 @@ The red funeral garment of the Lacedaemonians in Plut. Instit. Lacon. in Hutt. 8
 
 1) With this connect the red Taraxippus at Olympia according to Paus. 6, 20, 9. —
 
-[PDF 310]
-
-— 296 —
+[p. 296]
 
 surrounds us, another, otherworldly one stands in indissoluble connection, and that the eternal becoming and passing away that forms the essence of material life has its purpose not in itself but above itself, so that eternal motion itself may be regarded only as a birth into eternally motionless being. In this combination of becoming with being, of the tellurian world with the uranian, of motion with immutability, of the this-worldly with the otherworldly, of the sensual with the supersensible world lies the highest spiritual content of the ancient nature religion, and this spiritualization is to be credited to it the more highly, the more closely related to matter it itself was. Always in danger of succumbing to the weight of matter and of granting sole existence to the appearances of the this-worldly world, it nevertheless knew how to escape the one-sidedness of those physicists to whom Aristotle in the Metaphysics 4, 5, 22 points out that eternal becoming and passing away, which they made the last and only principle of all things, belongs after all only to the this-worldly sensual world that surrounds us, and that, if of the two spheres, the this-worldly and the otherworldly, one had to be sacrificed, it would obviously have been better to have acquitted this world for the sake of the beyond than to have condemned the beyond along with it for the sake of this world. In all of antiquity there emerges an effort toward the overcoming of matter, toward personal sanctification,1) and toward the spiritualization of a religion material and sensual in its innermost core, which redounds to its credit the more, as it found in the foundations and in all forms and expressions of cult not only no support, but the greatest hindrance and the most dangerous adversary. Such a striving toward dematerialization deserves recognition even when the masses, unable to grasp and hold fast the higher content of the mysteries, remains at the purely sensual basis of the doctrine, and so become ever more completely the prey of matter and its lust. To the Bacchic mystery egg, which in the midst of all this corruption attests the continuance of the belief in a sidereal birth issuing from the decaying tellurian organism, and presents this view through the picture of the Vulcian lecythus as an object of the deepest meditation, there applies what Aristotle remarks in the Metaphysics 12, 9 on the star cult that leads to the contemplation of the highest moving, yet itself unmoved, divine principle. “From the ancients and from hoary antiquity it has been handed down to posterity in the garment of myth that the stars are deities, and that the divine encompasses
 
@@ -4432,9 +3999,7 @@ surrounds us, another, otherworldly one stands in indissoluble connection, and t
 
 1) Euripides in Bacchis: ὦ μάκαρ, ὅς τις εὐδαίμων τελετὰς θεῶν — Εἰδώς, βιοτὰν
 
-[PDF 311]
-
-— 297 —
+[p. 297]
 
 the whole of nature. The rest is mythical addition for the persuasion of the multitude, for the benefit of the laws and for the sake of expediency. Namely, that the gods are of human likeness and resemble the other creatures, and other such things. If one now separates the latter, and holds only to the former, to the view that the first substances are gods, one will probably have to regard this doctrine as divine revelation. And since every art and philosophy has presumably been discovered more than once, as far as was possible, and then lost again, those views may well be remnants of an ancient lost wisdom that have saved themselves down to the present. Only so far are the conception of our fathers and the tradition of primeval times intelligible to us.”1) [PDF 312] Ocnus the Rope Plaiter.
 
@@ -4470,9 +4035,7 @@ scribes in Gerhard’s Archäologische Zeitung 6, 281, I must withhold judgment,
 
 2) Brunn, Geschichte der griechischen Künstler 2, 154.
 
-[PDF 318]
-
-— 306 —
+[p. 306]
 
 comedy, too, did Ocnus appear as a penitent in Hades. Thus Cratinus had brought him on the stage. Photius Lex. p. 338. 8. Ὄνου πόκαι. ἐπὶ τῶν ἀνηνύτων καὶ μὴ ὄντων λέγεται ἡ παροιμία ὑπὸ τῶν Ἀττικῶν, ὥσπερ αἱ τοιαῦται, πλίνθον πλύνειν, ἀσκὸν τίλλειν, χύτραν ποικίλλειν, εἰς κοπρῶνα θυμιᾶν. Ἀρίσταρχος δὲ διὰ τὸ Κρατῖνον ὑποθέσθαι ἐν Ἅιδου σχοινίον πλέκοντα, ὄνον δὲ τὸ πλεκόμενον ἀπεσθίοντα. The same in Suidas s. v. ὄνου πόκαι, and Proverbia Coisl. 372. Aristarchus had therefore sought to explain the proverbial expression ὄνου πόκαι, which is also found in Aristophanes in the Frogs 187, with the help of the Ocnus picture, and either confused that with Ὄκνου πλοκαί or deliberately put the two together, since indeed both, the shearing of the ass and the rope of Ocnus, yield a somewhat similar meaning.1) Lastly Ocnus appears in Propertius 4, 3, 21. He who first invented the art of fortifying a camp with a rampart, he says, deserves the punishment of Ocnus:
 
@@ -4508,9 +4071,7 @@ entes, manus paulisper accommodes.
 
 7) Lucian, dea Syria. p. 117. Bip.
 
-[PDF 321]
-
-— 309 —
+[p. 309]
 
 who in this sense is represented with the spindle.1) No less is the Saitic goddess inventor and protector of weaving,2) the veil that shrouds her of one meaning with that of Helen, of Vesta, and of Charis, who in the Iliad is therefore called the finely veiled, with the golden χειρόμακτρον that Demeter gives to Rhampsinitus when he visits her in the underworld,3) with the laciniæ that are offered to Ceres as votive gifts in Apuleius, with the fillets that are especially related to Ceres and in the tomb cult are brought into preeminent connection with the chthonian powers. From the deity, weaving passes to her priestesses. In the making of the great robe of state which the women of Athens weave for Pallas Athena, the Elean matrons for Juno, the women of Amyclae for Apollo, there lies a sacred act that corresponds to the divine nature itself and imitates it.4) Hence weaving is also so often tied to the cult of great mother goddesses: to that of the Coan Aphrodite the making of the famous transparent Coan garments, of which Horace says: metiri possis oculis latus, (Plin. 11, 26.) to that of Isis the making of the pellucidæ vestes e bysso tenui which Apuleius mentions, metam. 11, p. 256 Bip., to that of the Patraean γυνὴ ἐπιχωρία the weaving of byssus garments.5) A similar relation is borne by the Lydian Arachne, who in the making of artful garments competes with Pallas herself,6) a similar one by the yarn of Diana Dictynna, by the fine web in which Hephaestus ensnares Aphrodite’s amorous intercourse with Ares,7) and finally by that netting with which the Delphic omphalos and similar divine stones appear surrounded on monuments, as in Pausan. 7, 23, p. 582 the ancient wooden cult image of Eileithyia at Aegium was covered from head to toe ὑφάσματι λεπτῷ.8) Under
 
@@ -4544,9 +4105,7 @@ the image of spinning and weaving is represented the activity of the shaping, fo
 
 2) In addition, Heliodor. Aeth. 10, 25: μετὰ τοῦτον καὶ οἱ Σηρῶν προσήγοντο πρεσβευταί, τῶν
 
-[PDF 323]
-
-— 311 —
+[p. 311]
 
 human form, the destroying one under the image of an animal, the significance of the hand emerges still more sharply in this contrast. Creating is skill, annihilating a work of crude force. The former rests in the human hand, the latter is assigned to the demonic animal nature. If, then, in spinning, plaiting, and weaving the activity of the force of nature, its artful forming and shaping, came to representation, one recognized in that labor still other connections with the work of tellurian creation. In the working together of two threads one could recognize the duality of force, and the interpenetration of the two sexual potencies required for every generation. Still more clearly this union emerged in the technique of the loom. The crossing of the threads, their alternate emerging and vanishing,1) seemed to offer a perfectly corresponding image of the eternally continuing labor of the life of nature. When in his underground game of dice with Demeter Rhampsinitus now loses, now wins, and then on his return is presented by the goddess with the golden hand towel, this is itself a representation of the web of nature, in which light and shadow, emerging and vanishing appear as equally necessary factors. When, further, Arachne on her web represents preeminently the amorous adventures of the gods and their mingling with mortal women, when Hephaestus’s net entangles Aphrodite’s bed with Ares, when especially Eileithyia, the good weaver, appears as midwife, lets herself be moved by a cord nine ells long to assist Leto in labor, and receives from the Delian maidens before the wedding spindles wound round with locks of hair as a gift:2) then it is shown most clearly here what erotic significance belongs to the work of weaving and to the crossed interlacing of the threads. As a crossing, as we showed earlier, the meeting of the two sexes is conceived, and by the hieroglyph of the cross sexual mingling was represented in many ways by the ancients, so that not only the Dioscuri, but especially the Ephesian Diana too, frequently carry the cross. On this rests the significance of the Egyptian tau, that of the cloak clasps, — in the myth of Damia and Auxesia and in that of Oedipus, — which women present to the great mothers and goddesses of marriage, on this that of the Dokana and of the sororium tigillum corresponding to them, on this no less the significance of the crossroads and their relation to the chthonian Hecate. In
 
@@ -4556,9 +4115,7 @@ human form, the destroying one under the image of an animal, the significance of
 
 2) References in Gataker on Antonin. 4, 26, p. 112 f. Creuzer, Symbol. 4, 132.
 
-[PDF 324]
-
-— 312 —
+[p. 312]
 
 like manner meet the geminæ telæ of the woman weaver; from their union arises the spun fabric whose many-colored images represent the variegated carpet of the earth’s surface. In continuation of the same fundamental view, a single word designates the μορίον γυναικεῖον and the weaver’s comb, whose teeth separate the individual threads. Κτείς unites these two meanings, and in the name Circe (from κέρκις, pecten)1) the concepts of weaver and nature mother likewise converge. It is highly probable to me that the ladder-like implement furnished with rungs, which appears on so many initiation vases, derives its mystic meaning from the same foundation. Originally intended for lanificium, it comes, according to Eusebius, to be taken into the Bacchic mysteries, and can have here no other relation than the one that belongs to wool working and weaving in general, the physical-erotic one of mating and of natural generation generally. In this rests, further, the idea of Fatum and πεπρωμένη. Into the web of which every tellurian organism consists, the thread of death is woven as well. Destruction is the supreme natural law, the Fatum of material life, before which even the gods bow, and which they cannot boast of mastering. Thus the web of tellurian creation becomes the spun thread of fate, the thread the bearer of the human lot, Eileithyia, the midwife, the good spinner, the great Moira, who surpasses even Cronus in age.2) The thread appears as saving in its connection with the Dionysian Ariadne-Aphrodite, as destructive the one that breaks in two at the sanctuary of the Erinyes and delivers to the fury of the people those who after the Cylonian disturbance had entrusted themselves to its protection. On this view is founded that which recognizes in the veil of Helen and Eriphyle, no differently than in their necklace, likewise in the poison-soaked garment with which the woman brings destruction to the woman-hating Heracles, the destructive cloth of fate, which dedicates the fillets preeminently to the tombs and the subterranean powers, which ascribes to the uranian deities in their sidereal nature the loom, the bearer of the supreme law of creation written in the stars, and finally presents, as the structure of the world generally, so especially human life as a great web of fate.3) All these conceptions go back to one fundamental view, namely to that first, purely physical idea of spinning and weaving birth-giving mothers. From this now the [PDF 325] — 313 —
 
@@ -4574,9 +4131,7 @@ in the Trojan Women, at the beginning, where the plaited ship cables are called 
 
 1) For the practice of this art in Egypt we have a remarkable testimony of Euripides
 
-[PDF 326]
-
-— 314 —
+[p. 314]
 
 work arouse Athena’s mockery. With her work unfinished Aphrodite hastens back to Cyprus, and under her influence the work of tellurian generation begins anew. Nonnus, Dionys. 23, 234–334. It is clear that two stages of the creative activity of nature are distinguished here. Aphrodite weaves from the cruder matter of tellurian formations a coarse plaiting, Athena finer garments of perfected beauty. The former belong to the earth, are a likeness of Aphroditean generation of the earth, as it presents itself in the sappy willow thickets of the moist depths; the latter attain a higher stage of perfection, the heavenly. The former remain unfinished, and are dissolved again (l. 255: ἔργον παλίλλυτον), whereas what proceeds from Athena’s hands is perfect. There material fecundation, joined with the pains of birth, lies at the foundation of the work (ll. 295. 306. 328.). On Pallas’s side is purely Olympian existence, free from all material desire (ll. 287–295), free from the pains of birth, as the goddess herself knows only one father, her Zeus. In this whole representation the significance of the rope plaiting emerges quite clearly. Aphrodite’s work resembles an artless rope. In connection with the primal mothers of tellurian generation the rope becomes the representation of material birth, a symbol of the fertility of the earth, a symbol of the chthonian formations put together out of the coarse matter of the earth. In such a significance it could with equal right be ascribed to all primal mothers of Aphrodite’s kind and nature. If these are instead mostly represented as weaving, there is nevertheless by no means any lack of examples of the rope as attribute. Key and rope we see in the hands of a three-formed Hecate,1) whose illustration Causseus communicates in the Museum romanum sectio secunda tav. 20–22. Both symbols find their explanation and justification in Hecate’s well-known tellurian maternal nature, through which she enters into the closest relation to birth, care of children, and every material blessing, and into the most intimate connection with Artemis, Eileithyia, and Hestia.2) The pairing of key and rope in the hands of the same figure is well founded. Though results of two different views, they are nevertheless designations of the same property, namely the maternity proved in the fruitful opening of the female womb. In this sense more than one of the material primal mothers bears the key. So, besides the nymph in Pausanias 5, 20, 1, also Artemis, from whom the expression κληδουχεῖν has passed to the [PDF 327] — 315 —
 
@@ -4600,9 +4155,7 @@ manische Mythen, Berlin 1858, where in the index under the word Schicksalsseil t
 
 4) On the significance of the rope in Germanic mythology I refer to: Mannhardt, ger‐
 
-[PDF 328]
-
-— 316 —
+[p. 316]
 
 doubt. We may regard it as completely assured that in that hieroglyph the creative and shaping activity of material force found its expression. Thereby an inconspicuous detail of the Campana picture attains great significance. The illustration given on plate 1 shows that the old man performs his never-ending labor in the midst of tall-shooting swamp plants. One might recognize in this detail an allusion to the swampy depths of the Acherontic stream. For Ocnus is, after all, associated on that tomb frieze with the great sufferers of the underworld, and thus himself represented as an inhabitant of the terror-filled Hades. In the Lesche at Delphi, indeed, Polygnotus, according to Pausan. 10, 28, 1, had sought to make the Acheron recognizable likewise by the reed thicket shooting up abundantly from its muddy waters,1) and by the shadow fish. But with this the significance of that accessory for the representation of Ocnus is not yet exhausted. For this, the proximity of the subterranean muddy depths and their swamp vegetation has quite special importance. It shows us the material from which the rope is plaited, and in this way brings the crude plaiting of the rope into a necessary inner connection with the lowest stage of natural generation. Pausanias calls the plaited thing σχοινίον, Pliny spartum. Σχοινίον is a rope plaited from the σχοῖνος (ὁ and ἡ). Σχοῖνος itself bears the epithet ἐλεία. Dioscorides Περὶ ὕλης ἰατρικῆς 4, 52 Περὶ σχοίνου ἐλείας divides the whole genus into two main kinds: the one ὀξύσχοινος, which runs to a point at the top, the other ὁλόσχοινος, fleshier and thicker than the former. As the corresponding Latin name for the whole genus Dioscorides gives Juncus marinus. The working of this Juncus into ropes is attested by Pliny 19, 2, 19: Junco Græcos ad funis usos, nomini credamus, quo herbam eam appellant, oxyschœnon, holoschœnon. As σχοῖνος and σχοινίον belong together, so they stand beside each other on the tomb painting. — The material and the work made from it are embraced in a single glance. Indeed, in the Latin word Juncus a further relation of the two objects shows itself. The jungere in which the work of the rope-plaiting Ocnus consists has given the swamp plant its name. Juncus is derived from jungere. The view out of which this linguistic connection has arisen rests, now, not on the fact that Juncus is vinciendo jungendoque utilis; still less on the fact that excellent rope work can be made from it. Rather it is the conception of the activity of nature itself that gave to the σχοῖνος ἐλεία the name
 
@@ -4610,9 +4163,7 @@ painting τὰ ἕλη. Imag. 1, 9.
 
 1) Paus. 5, 14. 4. Asopus supplies the best σχοῖνοι. Virgil. Ecl. 6, 72. Philostratus’s
 
-[PDF 329]
-
-— 317 —
+[p. 317]
 
 juncus. To this the Ocnus symbol bears witness, to this the general assumption of plaiting, spinning, weaving powers of nature. As the old man produces the rope by plaiting together and joining two cords, so the swamp plant has come into being through an activity of nature conceived in like manner. The expression Juncus rests on the same conception which has found its artistic and pictorial representation in the rope-plaiting old man, and which recurs also in ἄνθη τὰ πλεκτά in Aeschylus, Persians 719. — Instead of σχοινίον Pliny uses spartum. This word too designates not only the rope but equally the material from which it is made. Spartum occurs as the name of a rush-like reed plant. Dioscorides 4, 158 gives a description which corresponds particularly to the appearance of the plant on our tomb painting: θάμνος φέρων ῥάβδους μακράς, ἀφύλλους, στερεάς, δυστραύστους. Pliny 19, 2, 7 devotes to spartum a detailed description. Herba et hæc sponte nascens et quæ non queat seri juncusque proprie aridi soli, uni terræ dato vitio; namque id malum telluris est, nec aliud ibi seri aut nasci potest. Its use came into practice first among the Carthaginians. Spain supplied it in excellent quality. The Romans followed the example of the Carthaginians.1) The expression spartum too deserves attention. It rests on σπείρειν, just as much as Σπαρτοί, sporium and spurii, Spercheios, Spermo, the name of the Lydian adulterer. But what connection of ideas links spartum and σπείρειν? Have we not just learned from Pliny’s statement that the kind of juncus called spartum belongs to those plants that are not sown, that shoot up out of the earth without man’s contribution, ultro, injussa, ἄσπαρτα, expressions by which Virgil distinguishes this lower stage of the generation of the earth from the laborata Ceres.2) Are plants that sprout freely without plow and without sowing supposed to be named sparta from σπείρειν? The surprising element that lies in this may already have been removed by individual hints laid down in the first treatise. In the reed cult of the Ioxids we recognized the connection of swamp generation with the exclusive emergence of motherhood.3) The sexual mingling of the two great natural potencies, to which rushes and reed thickets owe their origin, is that hetaeric mating in which the fruit knows only a mother, whereas the active male potency, as an individually indeterminate sower, has its activity conceived quite generally as σπείρειν. Swamp generation [PDF 330] — 318 —
 
@@ -4634,9 +4185,7 @@ Carm. 14, 14.
 
 1) Ovid. Trist. 2, 399. Met. 10, 609. Her. 16, 263. Am. 1, 7, 13. Sidonius Apoll.
 
-[PDF 332]
-
-— 320 —
+[p. 320]
 
 physical nature of the Nile land had to promote precisely this conception and the symbolism that issued from it is obvious. Under the influence of those phenomena to which Egypt owes its existence and all its fertility,1) there took shape there that view which sees in the chthonian waters the bearer of the phallic force, in the earth the female receptive matter, and in the union of the two, as the annual inundation brings it about, the act of generative sexual mingling.2) The testimonies of the ancients are so numerous that we content ourselves with singling out a few. On Virgil’s words Speluncisque lacus clausos (G. 4, 364) Servius remarks: Hæc autem non sunt per poeticam licentiam dicta, sed ex Aegyptiis tracta sunt sacris: nam certis diebus in sacris Nili, pueri, de sacris parentibus nati, a sacerdotibus Nymphis dabantur: qui cum adolevissent, redditi narrabant lucos esse sub terris, et immensam aquam omnia continentem, ex qua cuncta procreantur. Unde est illud secundum Thaleta: Oceanumque patrem rerum.3) The same tracing back of the Ionian doctrine to Egyptian belief is met with in Plutarch, de Placit. phil. 1, 3, and de Iside et Osiride 34. The priests, we read here, maintain that Homer as well as Thales took over from the Egyptians the principle that water is the origin and beginning of all things, for Oceanus is Osiris and Tethys is Isis, who nourishes and sustains all things. Dionysus, it is said, is called Hyes by the Greeks, as the lord of the moist nature, who coincides with Osiris. Instead of Osiris, Hellanicus writes Hysiris, a designation which, according to Reiske, is doubtless derived from ὕεις or ὑγρεύς, and which certainly also stems from the Egyptian priests.4) Accordingly the Nile in its fecundating force appears as itself the physical foundation of Osiris (c. 33). Its waves roll along with them the generative phallus of the male god (c. 17),5) just as on the Mannheim bronze figure the Ionian Poseidon is represented as phallic and is designated as Ἀρχὴ τῶν πάντων.
 
@@ -4658,9 +4207,7 @@ Creuzer, Symb. 2, p. 31. Jamblich. de myst. 1, 11. p. 38. Parthey.
 
 5) Phallic representations at Karnak, Antiquités de l’Egypte. vol. 2, pl. 64. A. Ill.
 
-[PDF 333]
-
-— 321 —
+[p. 321]
 
 As Osiris is recognized in the river Nile, so Isis is recognized in that part of the land which is fecundated by the overflowing waters (c. 30, 53).1) In the union of the two lies the act of tellurian mating, which is completed when the moisture has been taken up into the womb of matter and has vanished. In imitation of this natural process the priests mix earth with water in a golden casket; at Acanthus, too, they pour out the waves of the Nile every day from 360 urns into a perforated vessel (Diodor. 1, 97), a cult act which symbolically represents the filling and fecundation of the womb of the earth with the generative liquid, and so corresponds in idea entirely to the myth of Iphimedea’s love for Poseidon and the use she made of the waves of the sea.2) If in these views tellurian water appears as the principle of creation, so that even the power of the sun enters into a relation of subordination and dependence to it,3) and, according to Cicero, de nat. deorum 3, 16, the whole world of the gods itself issues from the river, then, in a consistent development of the idea, the swamp mud is raised to be the seat and bearer of all earthly fertility. In the swamp mud appears that intimate union of earth and water which also gives to the moist sealing earth, such as the potter’s daughter offers to Neleus, the significance of the fecundation of woman by man. The ancients stress the high significance of the muddy waters in many ways. Philostratus, in the Life of Apollonius 6, 6, traces the high veneration of the Nile back to the fact that the Egyptians regard it as a mixture of water and earth. Cf. 6, 23. The Indus shares the same nature with the Nile, 6, 1; 2, 18. Like it, it inundates the land every year, carries earth along with it, produces similar animals and plants, and appears as the cause of every blessing of the earth, so that when it begins to rise, bulls and black horses are sacrificed to it and a golden grain measure is delivered over to its floods. 2, 19. Heliodorus 9, 9 follows Philostratus’s statement. In his description of the Νειλῶα, which sets out the view of the Egyptians with particular clarity, special weight is laid on the intimate union of the moist and the dry element realized in that river. In
 
@@ -4676,9 +4223,7 @@ As Osiris is recognized in the river Nile, so Isis is recognized in that part of
 
 3) Plinius 2, 68. de Pythiæ oracul. p. 400. Euseb. Præpar Ev. 3, 11. Clem. Alex. 5, p.
 
-[PDF 334]
-
-— 322 —
+[p. 322]
 
 this rests the ground of all life, in it the divinity of the river, to which the remaining elements of natural generation, too, are made subservient. Very characteristic is the myth reported by Laurentius Lydus, de mensib. 4, 40, p. 204. Röther, p. 84 Schow. Τοῦ Νείλου τὴν ἐτήσιον ἐπίδοσιν τῶν ὑδάτων ἀρνουμένου ποτέ, καὶ ταύτῃ τῶν Αἰγυπτίων ἀπολλυμένων, δαίμων τις ἀγαθὸς1) εἰς ἄνθρωπον φανείς, ὅλον τὸ σῶμα πεπηλωμένος, ἐξεβόα τοῖς Αἰγυπτίοις ἀναβλῦσαι τὸν Νεῖλον, καὶ αὐτὸν ἐμπεσεῖν τοῖς ὕδασι· τῶν δὲ ἀπιστησάντων, ἔργῳ δὲ τἀληθὲς εὑρόντων, ἑορτὴ παρ᾽ αὐτοῖς τε καὶ παρὰ τοῖς Ἕλλησιν ὡρίσθη, λεγομένη πηλούσιος. Μικρὰς Ἀθήνας ἐκάλουν τὴν Φιλαδέλφειαν διὰ τὰς ἑορτὰς καὶ τὰ ἱερὰ τῶν εἰδώλων. Covered with mud, the Nile god presents himself to the gaze of mortals. From this there blossoms forth anew for the land a fullness of fertility. Πηλός is the designation of this lutum, whence Pelusium, and ἑορτὴ πηλούσιος. In the πηλός lies the whole force of natural generation.2) In the Elean and Thessalian Πηνειός and in Πηλεύς, the mortal fecundator of the immortal Thetis, the same stem and the same religious conception are present. The river, and the Achilles-begetter conceived after its model, is the mating phallus of the Thessalian lowland, which, filled with swamps and stagnant waters, shows the greatest fertility in the regions along its banks. Where earth and water interpenetrate in the mud, frogs arise, which in their amphibian nature repeat the twofold component of the swamp, and as λιμναῖα κρηνῶν τέκνα (Aristoph. Ranæ 211) take their place beside the fairest of the Hellenes as Pelides: an idea which, springing from the original chthonian-Poseidonian religion, recurs as parody in the Batrachomyomachia (v. 19, 111). The Nile demon covered with mud recalls Odysseus, who in similar disfigurement appears before Nausicaa after his shipwreck:
 
@@ -4694,9 +4239,7 @@ the demon who governs the course of the Nile. On ἀγαθοδαίμων as the 
 
 3) Od. 6, 137. Plut. Symp. 1, 9 at the end.
 
-[PDF 335]
-
-— 323 —
+[p. 323]
 
 correspond.1) Indeed, in Odysseus no less than in Laertes lies the same idea of generative masculinity resting in the water. For as Laertes goes back to Las (think of the Elean Larisus, of the lacus Larius), so Odysseus, in the form Olyscus given by monuments, is unmistakably connected with the words uligo and with volana, the name of one of the seven swampy mouths of the Po,2) just as, according to Plutarch’s testimony, he bears the dolphin on his shield: a circle of ideas that finds its confirmation and its conclusion in Penelope, the weaving all-mother, and in the hieroglyph of her name, the many-colored duck πηνέλοψ. A no less noteworthy parallel to the mud-covered Nile god is furnished by the cycle of myths of the Elean Alpheus, so closely related to Egyptian views, whose name recurs in the Plautine eques Aleus as well as in Altis, and which, by its kinship with alere and ἄλφιτα, yields, like Almo, the sense of nourishing stream and explains the name of the people Alfaterni. Artemis, pursued by the god inflamed with love, smears her face, and those of the nymphs accompanying her, with mud, and so knows how to deceive the god who leads the nocturnal round dance with her. Here the Earth Mother, so closely akin to swamp and moist lowlands, appears as the representation of the mud formed by the stream, which bears within it the germ of all generation. Therefore she shares with Alpheus the honor of the same altar.3) As the bearer of material force the fecundating river itself appears as Zeus. In February the ash of the Prytaneum is mixed with water from the Alpheus, and with the mass of mud thus produced the altar of the highest god is smeared. Paus. 5, 13, 5. Therefore Alpheus is united with the highest Zeus by the bond of the closest kinship and everywhere set at his side. Pausan. 5, 34, 1. The river forms the physical foundation of the highest god, who thereby takes on wholly the nature of a Zeus-Achelous. Herein is revealed the most complete agreement of the Nile religion and the Alpheus religion. Like the Elean, so the Egyptian river is identified with Zeus. Νείλοιο πῖον τέμενος Κρονίδα is what Pindar, Pyth. 4, 56, calls the Libyan land. The scholiast sets beside this the expression of Parmeno: Αἰγύπτιε Ζεῦ Νεῖλε (Athen. 5, p. 203. C.) and the Homeric Αἰγύπτοιο διιπετέος ποταμοῖο (Od. 4, 581), and adds:
 
@@ -4710,9 +4253,7 @@ which Volaterræ receives its explanation.
 
 3) Pausan. 6, 22, 5; 5, 14, 5. Schol. Pind. Ol. 5, 10. Nem. 1, init.
 
-[PDF 336]
-
-— 324 —
+[p. 324]
 
 Ἀναλογεῖ γὰρ τοῖς τοῦ Διὸς ὄμβροις τὸ τοῦ Νείλου ὕδωρ· καὶ ὥσπερ ἀντίστροφόν τινα τοῦτον (τὸν Νεῖλον) τῷ Διὶ εἶναι. To the same thought Heliodorus 9, 9 gives the following expression: θεοπλαστοῦσι τὸν Νεῖλον Αἰγύπτιοι, καὶ κρειττόνων τὸν μέγιστον ἄγουσιν, ἀντίμιμον οὐρανοῦ τὸν ποταμὸν σεμνηγοροῦντες, οἷα δὴ δίχα νεφώσεων καὶ ὑετῶν ἀερίων τὴν ἀρουμένην αὐτοῖς ἄρδοντος, καὶ εἰς ἔτος ἀεὶ τεταγμένως ἐπομβρίζοντος. The same expression, ἀντίμιμον τοῦ οὐρανοῦ γεγονότα τὸν Νεῖλον, is used by Philo, vita Moysis 3, p. 682, and by Apuleius in the Hermes Trismegistus p. 90 Elmenhorst: Aegyptus imago cæli. The fundamental idea is clear. For Egypt tellurian water has the same significance as, for other regions of the earth, the liquid streaming from heaven. The fecundating force rests there in the river, not in the downpours of the rain; it has a thoroughly chthonian, not a uranian, foundation. The ancients not infrequently bring out this circumstance. In the work on the face that appears in the disk of the moon, 26, Plutarch has Theon say: Elsewhere trees and fruits are nourished by rain, but in the region of Thebes and Syene the soil drinks no rainwater, only such as comes out of the earth, whereby the expressions φυσίζωον and γονιμώτατον ὕδωρ1) and the attribute of the cornucopia from which a child emerges receive their pregnant meaning. For religion this purely Poseidonian character of the male generating element, which comes to the fore in the name Eridanus, is of great significance. As the Egyptian religion attaches itself closely to the natural character of the land, so that Cicero’s remark, that the oldest mythologies contain the expression not so much of the gods as of the physical phenomena (non tam Deorum quam rerum natura cognoscitur), has its particular significance precisely for the Nile land, so too the chthonian origin of the fecundating moisture was bound to contribute much to the dominion of that tellurism which finds expression in the idea of an origination of all things, even of the sun and the gods, from the moist element, and in the placing first of the swamp mud as the bearer of all generation from the earth. It is a further representation of the same natural phenomenon when the god celebrated at the Νειλῶα is conceived as androgynous and surrounded with all those cult practices which have their origin in the conceptions of a hermaphroditic divine nature. Eudocia violar. p. 305. v. Νεῖλος uses the expression ἀνδρογύνων τιμαί; her description of the sexual excesses is confirmed by Herod. 2, 90, and by numerous reports which Jablonski, Pars 2, p. 170–174, brings together. In the swamp water and earth appear
 
@@ -4720,9 +4261,7 @@ Mela 1, 9. Horap. 1, 25. Jablonski Pars 2, p. 164–167.
 
 1) Schol. Apoll. Rhod. 4, 262. Aelian. H. A. 3, 33. Plin. 7, 3. Solin. c. 1. p. 4. Salmas.
 
-[PDF 337]
-
-— 325 —
+[p. 325]
 
 in a union of so indissoluble a kind that the conception of androgynous sexual union arises of itself. It repeats itself in the nature of the moon, which, as we saw earlier, appears at once as Lunus and Luna, and which the Egyptian religion in particular brings into close connection with the swamps.1) In the swamps tellurian matter seems to mate with itself, and to realize that κύειν ἐν ἑαυτῷ which, according to Philostratus, vita Apoll. 3, 34, makes one and the same matter at once father and mother, and which also underlies the myth of the embrace of Isis and Osiris in the dark maternal womb of Rhea.2)
 
@@ -4736,9 +4275,7 @@ Having thus recognized the divine nature which the Nile land ascribes to the riv
 
 2) Gaia and Gaios, like Aphrodite and Aphroditus, Pausan. 7, p. 591. — Macrob. Sat. 5,
 
-[PDF 338]
-
-— 326 —
+[p. 326]
 
 hetaeric sexual union. The two stand on the same line. Thereby what was adduced above to explain the expression spartum receives its full confirmation. The births of Nephthys are designated as bastards. They are illegitimate generations which have only a mother, but were sown by an unknown father, and are therefore called σπαρτοί or spurii. From Heliodorus’s Aethiopica 3, 14 we cited above, p. 191, the myth of Homer’s illegitimate birth in support of the same conception. As the lotus shooting up betrays the deed of Nephthys, so one recognizes from the long hair that covers the poet’s thigh the infidelity of his mother. Hair and swamp plant are set equal to one another. The likeness of the two lies precisely in that peculiarity in which the ancient religion recognizes the particular holiness of swamp plants. By the mere force of matter, without any human intervention, the hair, like the lotus, comes forth into the light from birth-giving matter, a generation of the moisture that pervades the human body, and consequently a seat of force, as with Samson, Nisus, Pterelaus,1) and therefore to rivers, the bearers of the phallic nature, a particularly welcome gift. The name of Isis-hair, which the ancients gave to a species of plant,2) thus rests not merely on a comparison clinging to the surface of the appearance, but rather on a deeper idea of nature, whose expression we recognize also in the shearing of the hair of the priests of Isis, in Rhea of Hierapolis, in the lock of Harpocrates,3) and in the practice of certain African tribes of shaving bare the left side of the head. From the hair of free Thracian women the Erythraeans plaited that rope with whose aid the ship carrying the Tyrian Heracles was drawn victoriously into the harbor of their city. The details which Pausan. 7, 5, 3 reports about this myth are the more noteworthy for us because they throw light on the religious significance of the rope plaited of women’s hair that was still preserved in Pausanias’s time in the temple of Heracles at Erythrae. The offering of women’s hair ornament to Heracles stands on the same line as that which attaches to the service of Venus Calva, of Hera and Isis, and of the Hyperborean-Delian Apollo.4) To the great powers of natural generation the fairest product of it is brought as sacrifice. The Erythraean myth indicates the relation to the phallic force of water by the feature
 
@@ -4754,9 +4291,7 @@ Winckelmann, mon. ined. tab. 77, p. 102. Left side: Jul. Valer. R. G. Al. 3, 20.
 
 4) Serv. Aen. 1, 724.
 
-[PDF 339]
-
-— 327 —
+[p. 327]
 
 that Phormio, to whom the god announces in a dream the demand for the offering of hair, is assigned to the class of fishermen, who win their livelihood from the sea. The conception of the hair as the seat of force shows itself in the fact that the god’s boat, which would yield to no human exertion, followed without resistance the pull of the women’s hair. If the relation to natural generation is thus not to be mistaken,1) on the other hand the hetaeric stage of the same also emerges clearly, so that the equation of hair and swamp plants is confirmed everywhere. From woman Aphrodite demands the sacrifice of chastity. Exclusive conjugal union is hateful to the goddess of all erotic impulse, the φιλομειδής, who pervades matter. To reconcile her with marriage, a temporary practice of hetaerism is made a religious duty for woman. The surrender of the Babylonian women is described to us in detail by Herodotus, and similar views emerge in similar practices of European tribes. In times of threatening servitude the women of Locri, according to the testimony of Justin, have recourse to the vow of hetaerism. Through extramarital sexual union they seek to win the protection and favor of the hetaeric nature mother. But the place of this highest of all female sacrifices is sometimes taken by others. Thus hetaeric girls are offered to the Corinthian Aphrodite, so that the duty may be discharged through them. The offering of hair by women attaches to this. It appears as the equivalent of female chastity. Thus the Roman women, to escape Gallic servitude, offer their hair ornament to Venus. The highest danger demands the heaviest gift. The matrons of Locri vow their bodies, the Roman matrons their hair. Both correspond in the same way to the hetaeric nature of Aphrodite.2) The offering of hair by the Thracian girls at Erythrae has no other meaning. The Ionian matrons refuse it, the Thracian women, on the other hand, offer it gladly. Pausanias stresses that the women from Thrace, although of free birth, had nevertheless sustained their lives in Ionian land by servile labor. Who does not recognize here the fundamental idea explained above, in § 16, in its context, according to which the powers of material natural generation are regarded also as the bearers and promoters of freedom and equality among men? Dionysus and Aphrodite bring elevation and a better lot to the serving classes of the people. So in the Erythraean myth Heracles to the Thracian slave women, who reward him for it with the offering of their hair. To the natural
 
@@ -4768,9 +4303,7 @@ mother right.
 
 2) More exact information on this, with all the evidence, is to be found in my work on
 
-[PDF 340]
-
-— 328 —
+[p. 328]
 
 freedom of purely material life corresponds the equally natural yield of the human head. Phormio, too, to whom the god has revealed his will in a dream, is assigned to the lowest stratum of the population. The blindness with which he was formerly afflicted now departs from him. As Helen avenged herself on Stesichorus by inflicting the same,1) so Heracles rewards the pious fisherman by the restoration of his sight. All these features unite in the fundamental idea of the generative and healing natural force, whose symbolic representation is the wonder-working rope plaited of women’s hair in the temple at Erythrae. We now recognize how exactly this attaches itself to the rope of Ocnus. Both rest on the conception of a plaiting divinity of nature that bears within it all the force of tellurian generation. The material of which the fabric consists is the free gift of matter, whose primal force alone brings it forth: there the plant of the swamp, here the hair. Through this we are also introduced to the understanding of a phenomenon which Babylonian hetaerism presents. With a rope around the head the Babylonian women sit in the enclosed space, awaiting their being led away. Herod. 1, 199. ἐν τεμένεϊ Ἀφροδίτης κατέαται στέφανον περὶ τῇσι κεφαλῇσι ἔχουσαι θώμιγγος πολλαὶ γυναῖκες. — Epistola Hieronymi v. 42 in Breitinger, Vet. testam. T. 3. p. 200: αἱ δὲ γυναῖκες περιτιθέμεναι σχοινία ἐν ταῖς ὁδοῖς ἐγκάθηνται, θυμιῶντες τὰ πίτυρα. There can be no doubt that this wreathing is meant to express symbolically the woman’s obligation to discharge her vow, and so corresponds to the verbal meaning of obligatio. The choice of the θῶμιγξ for such a purpose2) is not yet explained thereby. It has its ground in the relation of the rope plaited of swamp plants to hetaeric sexual mingling, which in the same way governs both the lower and the higher domain in which Aphrodite holds sway.
 
@@ -4784,9 +4317,7 @@ without insight Jhering treats of this and other parts of the ancient symbolism,
 
 2) Festus: Thomices p. 356. Hesych. θῶμιγξ, σπαρτία καννάβινα. Vitruv. 7, 3. Wholly
 
-[PDF 341]
-
-— 329 —
+[p. 329]
 
 appearance as a ὑδρογονικὸν σημεῖον proclaims the fullness of the year’s blessing.1) However much the melilotum has risen to a preponderant significance in the religion, life, and art of the Nile land, the remaining swamp plants nevertheless take their place beside it with equal holiness. The papyrus in particular comes forward significantly. In a vessel made of papyrus Isis sails over the swamps,2) to seek out the body of her consort, torn to pieces by Typhon. Hence it is said to come about, Plutarch reports, Is. et Os. 17, that no crocodile does harm to those who travel on the Nile in such vessels made of papyrus, whether from fear or from reverence for the goddess. In this account the close connection of the primal mother Isis with swamps and swamp generation emerges most clearly. With right, therefore, the adornment of the lotus is ascribed to her. On a relief published by Caylus in the Recueil she appears seated in the midst of a thicket of reeds, as Horus too is sometimes shown not only resting on the lotus cup but even wholly overshadowed by such cups,3) and the body of Osiris resting on a crocodile and being carried to a region marked as swampland by reeds.4) If papyrus vessels are considered inviolable by the crocodile, this view can have its origin only in the holiness of that water reed. So too the Ioxids hold inviolable those plants in which the fair daughter of Perigune sought protection, reeds and wild asparagus: an ordinance handed down to them from the maternal side, because hetaeric sexual union knows only the material connection. With the papyrus vessel of Isis is to be compared the head of Adonis, formed of the same reed, which swims every year from Egypt, in Lucian, de dea Syria 7, and likewise the sutilis cymba of Charon, the ferryman of the underworld. The swamp nature of the primal water of the underworld, to which all life returns, corresponds perfectly to the idea of a skiff plaited of reeds.5) The holiness which the ancient religion ascribed to the material is revealed in this feature as well. Charon, who sails it, is the lion of the swampy deep, who bears within himself all the generative force of
 
@@ -4802,9 +4333,7 @@ tuum — sutili cymba deducit commeantes. In Lucian’s veræ historiæ a skiff 
 
 5) Aen. 6, 414. — Plin. 24, 9, 40. Varro ap. Gellium 17, 5. — Apulei. in Psyche: flumen mor‐
 
-[PDF 342]
-
-— 330 —
+[p. 330]
 
 the mud. For Charon, whose connection with the stem Ar we have already pointed out above, is expressly attested as the Macedonian name of the lion; the lion, however, as a representation of the phallic force, and therefore sometimes also formed phallically, is brought into an entirely natural connection with the tellurian waters, especially according to Egyptian conception,1) and is therefore placed together with the horse by Horus: a comparison in which the difference between the stagnant, motionless swamp ground (tarda palus Virg. G. 4, 478) and the flowing stream, distinguished by restless haste, is expressly stressed.2) In Charon and his chink-ridden reed skiff we have, then, a new expression of the significance of swamp mud, of the swamp plants that spring up in it, and of the relation of both to the natural force that holds equal sway in generation and destruction. These Charontic conceptions, too, doubtless originate in the reedy Nile land, to which Ocnus, the Danaids, and so much else belong. — The relation of swamp life to the generative force of nature leads to the assumption of certain water plants endowed with prophecy. Thus in the fable of Psyche the green reed appears speaking. In human fashion it shows the much-tried girl the way to the golden sheep’s wool for which Venus has sent her out.3) With this one may compare the speaking calamus that betrays Midas’s ass’s ears, as well as the report of Julius Valerius (Res gestæ Alexandri 3, 40) about Indian wondrous and oracular trees, of which the male prophesy by day, the female by night. The significance attributed in many legends to the soft whispering of the reed beds attaches to the same conception. In the beautiful myth of Pan’s love for the Nonacrian Syrinx in Ovid, Met. 2, 689–712, there emerge at the same time, in a most instructive way, the divinity attributed to the swamp reeds, the significance of the sounds called forth by the gentle breath of air, and the connection of the double-reed pipe, as it is given as an attribute to Pan, Marsyas, and the great swamp mother Neith-Athena, the goddess of the Tritonia palus, with the ancient view of nature concerning the holiness of swamps. No less attention is deserved by the myth of the love of Priapus, mighty in generative force, for the fair Lotis,4) and of
 
@@ -4820,9 +4349,7 @@ arundo viridis.
 
 4) Ovid. Met. 8, 625 f.
 
-[PDF 343]
-
-— 331 —
+[p. 331]
 
 that of Acis for Galatea.1) Both receive their full explanation only through their connection with the ancient swamp cult. To pluck the swamp flower appears as an outrage against its holiness, which the Ioxids therefore carefully avoid, and for which Dryope pays with a heavy punishment. Acis is wholly covered by the clod of earth that Polyphemus hurls after him. But the water dissolves the ground, and from the chinks of the burst mass reeds grow forth. As a horned river god Acis, too, rises from the waves. Reeds wreathe the pair of horns that adorns his brow, like that of Epidius Nuncionus.2) As in his name, which is related to Acca, Achelous, Achileus, Acheron, Inachus, and others, so too in the horns is revealed the force of the tellurian waters that call forth the reeds out of the matter of the earth. It is very significant that in all these mythic formations hetaeric sexual love forms the center. Thereby the equation of the latter with swamp life is confirmed anew, and the Egyptian myth of Mycerinus’s sojourn in the swamps, of Typhon’s hiding place in the mud grounds, of the mighty footprints of Perseus in the soft earth, likewise the Egyptian mourning custom of smearing the face with moist earth,3) become intelligible. The luxuriant vegetation of moist depths shows matter in its invincible, never-satisfied longing for mating and ever-fresh generation. Hetaerism thus emerges here not only in its lawlessness, but no less in the inexhaustibility of its erotic impulse to union. The work of material force never rests. Already in Rhea’s womb Isis and Osiris embrace. Without respite Penia strives for the favor of ever new men. Life seems doubled. In seven years the Egyptian king passes the double span of time. But with the greatest development of force goes hand in hand the swiftest consumption of it. Mycerinus, who thought to deceive the oracle, now himself brings about its fulfillment. This is the expression of hetaerism as it presents itself in the swamp world and in every lawless mating. The rose, quick to lose its scent, is its Aphroditean symbol. But all those myths, too, of the mingling of son with mother, of daughter with father, of Dionysus with Prosymnus, and of the exposure of the newborn in stagnant waters, belong to swamp life and to that stage of religion which chooses the former as the measure of its conception of the generative force of nature. The mating [PDF 344] — 332 —
 
@@ -4856,9 +4383,7 @@ idea of the significance of the moist ὕλη in ever new forms and guises, poin
 
 2) Parthey p. 201. Creuzer, Symb. 2, 62. 63. Epiphan. in Exp. fid. cathol. § 5. p. 1092.
 
-[PDF 346]
-
-— 334 —
+[p. 334]
 
 as a representation of the creative and nourishing generative force. For this reason it has become no less significant for Harpocrates than for Angerona-Volupia.1) The tongue, however, is regarded by the Egyptians as a representation of the moist deep, because, according to Horapollo’s explanation, it always rests in moisture and in the dark enclosure of the cavity of the mouth. The Latin designation lingua, which rests on the root Li, established by numerous formations as the designation of moisture, proves how original and widespread precisely that view of nature must have been. When, then, in the month of Mesore the firstlings of the legumes are offered to the god Harpocrates and it is said at the same time: γλῶσσα τύχη, γλῶσσα δαίμων,2) this cult act has at first a physical-natural meaning. It shows the god in the significance of the great natural phallus, which has its seat in the tellurian moisture of muddy grounds. In this material sense he is called δαίμων, the god who holds sway in the earth, in this also τύχη, the primal mother attending the birth, as Egypt conceives the moon as τύχη nascentium.3) In the union of τύχη and δαίμων the tongue is represented as androgynous, as the bearer of both sexual potencies, just as we have found the swamp, and the moon, which is set equal to the swamps, in the same hermaphroditic nature. The significance that the ancients give to the finger and the tongue for Harpocrates is not the original one, but one derived from it. The finger laid on the mouth now stamps the god as the god of silence, who by his own bearing recommends to men too discretion and the prudent use of the tongue, because on this the fortune and fate of the individual depend.4) Of the thoughts combined in this conception, that of the silent Harpocrates-Sigalion likewise has a physical-natural truth. Wherein this lies emerges from another feature of Egyptian mythology. At Abydus Osiris is buried, and this site is so much distinguished above the other burial places of the god that the richest and most distinguished Egyptians especially liked to have themselves buried there, in order to share one burial place with their lord. Plutarch Is. et Os. 20. In that same city it was forbidden
 
@@ -4874,9 +4399,7 @@ as a representation of the creative and nourishing generative force. For this re
 
 4) Plut. Is. et Os. 68. Varro L. L. 5, p. 63. Catull. 74. Jablonski, Panth. Aeg. 2, 6. Suidas, v.
 
-[PDF 347]
-
-— 335 —
+[p. 335]
 
 to let the sounds of music resound in the temple of Osiris. ἐν δὲ τῷ ἱερῷ τοῦ Ὀσίριδος οὐκ ἔξεστιν οὔτε ᾠδὸν οὔτε αὐλητὴν οὔτε ψάλτην ἀπάρχεσθαι τῷ θεῷ, καθάπερ τοῖς ἄλλοις θεοῖς ἔθος. At the burial place of the lord of all tellurian generation soundless stillness reigns. The noise of life has died away, everything has returned to the repose of first nature. Mute is Memnon, the great giver of sound, who possesses in the same Abydos his most famous Memnonium, and who is called by the Egyptians Ismandes-Osymandyas, the speaking, sounding stone. Strabo 17, 813. Creuzer, Symb. 2, 38. 39. Parthey 201. Wilkinson 4, p. 346. Here silence appears synonymous with grave and death. It is the night side of nature, and stands with sound and noise in the same antithetical relation in which we have found darkness and light, night and day, black and white. According to this connection Harpocrates appears not only as the phallic god of life, but equally as lord of death, as Sigalion,1) as he indeed was begotten by the dead, subterranean Osiris, and, like Hecate, takes delight in the legumes that enclose their kernel in a dark husk. Indeed, through the darker side of his nature the relation to the swamps gains new significance. The luxuriance of hetaeric generation, which prevails in them, lets death and destruction emerge, through an antithetical interaction well intelligible to us, with a double significance precisely here. The most luxuriant life consumes itself most quickly. If it knows how to make fourteen years out of seven, it thereby promotes swift destruction, and plays into the hands of death. Thus through his phallic swamp nature Harpocrates and his finger become also a representation of the night side of life, the soundless Sigalion, who sees the plants that sprout in rapid succession sink back with equal swiftness into the soundless, dark2) swamp depths, or also that Priapus whom the gate inscription of the Campana tomb designates as pene destricto Deus mortis et vitai locus. All these ideas recur in the Roman Angerona, who by her connection with Volupia, her worship ad navalia (Varro L. L. 5, 3), and her finger laid on her mouth, makes herself known as a hetaeric swamp mother like Acca Larentia,3) worshiped in the Velabrum, but reveals this nature preeminently in the stress on the dark death side of life on earth. Inwardly identical with Volupia, she
 
@@ -4888,9 +4411,7 @@ to let the sounds of music resound in the temple of Osiris. ἐν δὲ τῷ �
 
 3) Plut. Qu. rom. 31. 32. Macrob. 1, 10. Gell. 6, 7.
 
-[PDF 348]
-
-— 336 —
+[p. 336]
 
 stands opposed to her as silentii et mortis Dea, as black to white, as Aphrodite- Epitymbia-Libitina to Venus genetrix, and shows death in a shape the more terrifying, the more luxuriantly and beautifully the light side of the life of nature emerges in Volupia. In tellurism the idea of death prevails over that of generating and giving life. At this stage of religion destruction, perishing, and mourning over the swift fading of all existence predominate. Acca Larentia, the blooming hetaera, receives in her tomb in the swamps of the Velabrum the cult of the dead. The cruel Sphinx holds sway over the race of the Σπαρτοί sprung from the teeth of the swamp dragon, whose fate the famous riddle represents in all the desolation of the existence of the lower, unwept creation. In vain Mycerinus seeks to escape the death lot that threatens him, and as Isis ever anew bewails the death of Osiris, so in Egypt the melancholy Linus song first arose, and a trait of melancholy contemplation of nature is noticeable, which emerges in the Egyptian memento mori, the passing around of the dead Maneros-Pelusius at banquets, in the cry Maneroti, and in the myth of the early death of the young favorite of Isis.1) The serpent bite as cause of death, the unforeseen destruction in gathering truffles or ostrich eggs on the shore of the Syrtes, the fall into the water when plucking an onion,2) the mourning song of the reeds gently stirred by the wind, and many similar images show us how closely the thought of death and early destruction is connected with the contemplation of swamps and of swamp life. If Harpocrates-Sigalion’s twofold relation to life and death has developed according to precisely this view of nature, and so has given divine expression and personal shape to that mightiest but lowest stage of tellurian generation, as it comes before the eyes in reeds and rushes, so that the name Pelusius or Palaistinus, the swamp man, would suit him too, then the idea of weakness and incomplete formation of the lower parts of the body receives its natural explanation. In this idea lies the same thought that has also received its artistic expression in the incompletely formed legs of Erichthonius and of other earth-born beings. It is the lower parts of the body that mediate the connection of tellurian creatures with the maternal
 
@@ -4902,9 +4423,7 @@ Ciampi’s illustration. Herodot. 2, 79.
 
 2) Above, p. 141. Plut. Is. et Os. 8. Cf. Diod. 1, 25. On the holiness of the onion Plin.
 
-[PDF 349]
-
-— 337 —
+[p. 337]
 
 matter of the earth. By them, consequently, the degree of tellurism of such beings is recognized. Through his serpent feet Erichthonius proclaims his origination from the moist depths to which the dragon belongs. The same significance attaches to the incomplete figure that is stressed in the lower parts of the body of Harpocrates. Like those animals which emerge incompletely from the Nile mud and, according to Ovid’s description,1) show a union of animate and crude earthy parts, the moist deep has produced in Harpocrates a being that has reached full development only in its upper half, and in its lower half retains the nature of the ὕλη2) and material connection with it. If this accords with the origination of the god from the self-embrace of the moist dark matter of the earth, it finds in the nature of the swamp plants, in the lotus especially, so exact a correspondence that the religious representation appears to have followed the natural model as that swamp growth presents it. But in the weakness and incomplete formation of the lower limbs yet another property of tellurian natural powers is to be recognized. They share with the matter to which they belong the repose and immobility that has been recognized in the ἀκίνητον of the Camarinian swamp lake as in the lion of the subterranean waters, unsuited to swift pursuit, and that constitutes the content of the Sanctum or ὅσιον in its real, original meaning. For Harpocrates this thought finds its full confirmation in the closely joined legs with which he is represented in some works of art,3) as well as in the seated posture that others give him. The δύο πόδες συνημμένοι (Horap. 2, 3) are an expression of tellurism precisely by stressing the incapacity for self-movement. Their release, as it is stressed in individual myths and in the history of sculpture,4)
 
@@ -4928,9 +4447,7 @@ Altera pars vivit: rudis est pars altera tellus. Diodor. 1, 10. Plutarch, Symp. 
 
 4) Lucian, Lover of Lies c. 18–21. Pausan. 9, 3, 2.
 
-[PDF 350]
-
-— 338 —
+[p. 338]
 
 signifies progress in religion; it rests on the contemplation of the heavenly luminaries, to which eternal motion is as peculiar as immovability and firm attachment to the clod are to the tellurian hyle and its plant world. According to this conception, Harpocrates appears as a wholly corresponding, true-to-nature representation of the natural force that holds sway in the swamps and of its products, the swamp plants. In the lower, unwept creation, that separation of birth from the maternal womb of birth-giving matter, which distinguishes the animal world, has not yet taken place. Generation from the earth has not yet pressed forward to mobility. The κίνησις of the higher creation is denied to the plant world as a deeper, more primal stage of natural generation. Heaviness and immobility belong to the muddy hyle. The vegetation to which it gives origin shares the same property. From this it passes to those divine figures which correspond to that stage of the life of nature and which shape the generative force after its model. Accordingly, the weakness of the lower limbs is by no means in contradiction with the phallic force of Harpocrates. Rather it now becomes evident how both properties meet in the same being. Force of generation and local boundness go hand in hand in the swamp as well, and in the luxuriantly shooting lotus there is revealed at one and the same time the still untamed fullness of the primal force of matter, the imperfect formation of the lower parts of the body bound up with matter, and the sluggish repose conditioned thereby, which distinguishes the lowest stage of spontaneous generation from the earth. By this consideration we are put in a position to appreciate the significance of a peculiarity of the various representations of Ocnus. The old man plaiting rope is everywhere shown in a posture of rest. Seated or kneeling on the ground, he performs his work. Every thought of movement is excluded. Fettered to the same spot, he performs through aeons the work that never ends. Thereby his tellurian swamp nature is indicated in the same way as that of Harpocrates is by the weakness and infirmity of the lower limbs. The chthonian nature has driven artistic representation to many other equivalent modes of expression as well. Seated or reclining are the earth deities represented, above all the great mothers of the tomb.1) At the Thesmophoria the women rest on the bare earth.2) To the Dea Tellus a vow can
 
@@ -4942,9 +4459,7 @@ Virgil. Aen. 11, 787. Strabo 12, 2, 7.
 
 2) Plut. Is. et Os. 69. With this the Selli are to be compared, χαμαιεῦναι Il. 16. 234.
 
-[PDF 351]
-
-— 339 —
+[p. 339]
 
 be made only while seated.1) With the knee pressed to the earth, in Euripides’ Troades 1296–1299 the chorus with Hecuba calls upon the dead husbands in the underworld.2) According to Pausan. 8, 48, 5, the Tegeans had an image of Eileithyia with the epithet Ἐν γόνασι, with which an altar of the earth was connected. In this position the daughter of Alces was said to have endured the pains of birth. On her knees the earth herself implores Zeus for rain.3) In the constellation Engonasin,4) which is connected with Ariadne’s crown, the same idea has been transferred from the earth to the heavens. At Latona’s giving birth the island, hitherto floating, receives its firmness; with fettered legs the generative ass is shown on the Egyptian festival cakes, and the earth mothers Damia and Auxesia are shown kneeling.5) Everywhere the seated, reclining, kneeling posture appears as the artistic expression of the same idea, of the local boundness, firmness, and immobility grounded in tellurism, in a word of that ἀκίνητον which is proper to stagnant waters and their plant world, and which is declared inviolable by the oracle. Therefore the kneeling Ocnus agrees completely with the surroundings of swamp plants in which we see him in the Campana painting. More and more, all the particulars of the remarkable representation shape themselves into a unified idea. In the swamp, out of swamp plants, the old man plaits his rope, and thus sets before our eyes in pictorial expression the work of natural generation, as it has been accomplished without cessation in the dark depth of the mud for aeons. In this conception Ocnus appears as a true Pelusius, Peleus, Palaistinus. We could also call him Schoeneus: a speaking name, which in the Greek world of legend enters into connection with mythic formations of physical-material generative significance,6) and which gives us the key to understanding the Roman rush men,7) the choice of swamp plants for the preparation of the couch,8)
 
@@ -4972,9 +4487,7 @@ is missing here.
 
 8) Böttiger, Baumkult p. 332. A comprehensive account of the sanctity of swamp plants
 
-[PDF 352]
-
-— 340 —
+[p. 340]
 
 and those mother goddesses of Aphroditean nature who, venerated ἐν ἕλει and ἐν καλάμοις, are thereby set beside the reed-covered Isis and Helen,1) and who in their nature present that double relation, already pointed out, to swamp vegetation and to hetaeric sexual union. By the combination of all the examples named so far, not only the religious significance of the swamps and swamp plants but in particular also the Egyptian origin of the representation of Ocnus is raised above all doubt.2) The idea that gave this natural symbol its origination agrees so completely with the fundamental view of the Egyptian religion, with the nature of the land, and with the prominent role that swamp and swamp plants play in the life and cult of the Nile valley, that the representation of the panegyris at Acanthus, as Diodorus describes it, can to a certain extent be designated as a summation of the Egyptian conception of the life of nature, of its origination and its continuance. If this result is in itself already worthy of notice, it becomes still more significant in that it carries the origination of the natural symbol that concerns us back into the earliest antiquity, one may say into the primeval ages of human culture. To these alone the simplicity of the representation and the crudeness of the plaiting of a coarse rope seem to correspond, as against the conception of an artful weaving by the powers of nature. The rope crudely twisted together from swamp plants shows tellurism in all its nakedness. The generative force of nature still appears wholly in the chthonian-Poseidonian conception. The dark powers of the depth alone come forward. An elevation of material force from the moisture of the soil to the heavenly light, a progress from the earth to the sun, has not taken place. If in the number of the priests who daily pour the Nile flood into the perforated cask of Acanthus there is a connection of the power of water and of the sun, of the Poseidonian and the uranian conception of natural force,
 
@@ -4986,9 +4499,7 @@ Herod. 2, 35; 4, 127; Diodor. 1, 51. My Mutterrecht, pp. 99, 100.
 
 2) Weaving is, especially among the Egyptians, the work of men: Sophocles, Oed. Col. 339;
 
-[PDF 353]
-
-— 341 —
+[p. 341]
 
 and a clear reference to the revolution of the sun is present, then every such connection falls away for the swamp rope. It shows us only the phallus borne by the Nile floods, not the Osiris sheltered in the arms of the sun,1) only the resting swamp lion. It grasps the life of nature at the stage of its greatest wildness and primitiveness, not at that of orderly agriculture, which heeds the movement of the sun and the stars and depends on the course of the seasons. By this very fact it enters into connection with those conditions of culture that precede the transition to agriculture, its cultivation, and the regulation of life conditioned by it. Fishermen, who eke out their lives in the lowlands of the Nile land, rich in swamps and morasses, that form gradually from the river mud, must have been the first to devise the symbol of the plaited and again unraveled rope and to represent it pictorially at their festivals. From them it was transmitted to future generations, without ever becoming the subject of a myth. No narrative attaches to Ocnus and his rope. At all times the representation of Acanthus has preserved in full purity the character that it had from the first: among Greeks and Romans too it shows itself without any unfolding in mythical narrative, as a pure symbol.
 
@@ -5002,9 +4513,7 @@ as Alberti, Palmer, Voss prefer Βέδεγκος, Βόδεγκος. Likewise Β�
 
 2) Plin. 3, 16, 20; 17, 21. Polyb. 2, 16; Hesych. Βεβέηκος I alter to Βέβεγκος, where‐
 
-[PDF 354]
-
-— 342 —
+[p. 342]
 
 Po plain we meet Ocnus again, and indeed in a divine nature that corresponds in every respect to the one recognized in the old rope plaiter. Among the heroes who come to the aid of Aeneas in the war against Turnus, Ocnus too is named. Aen. 10, 198:
 
@@ -5026,9 +4535,7 @@ that the two city names Mantua and Mantinea belong to one stock.
 
 3) Serv. Aen. 11, 785. August. C. D. 7, 9.
 
-[PDF 355]
-
-— 343 —
+[p. 343]
 
 is drawn. He has beheld the swamp mother Athena unveiled. To him alone is it given to preserve his νοῦς even in the depths of the earth. His seat is in springs; the serpent whose shape he assumes is inwardly akin to him.1) As the son of Udaeus, the Moist One, he belongs to the race of the Σπαρτοί, who arose fatherless from serpents’ teeth and in the necklace of the pair of dragons proclaim their descent from the maternal womb of the earth. To the Cadmeans he prophesies victory if the last of the draconteum genus will devote himself to death. But when the Epigoni avenged the defeat of their fathers, and the hard-pressed Cadmean Σπαρτοί at last succumbed to their fate, he too met his destruction. The maternal race of the sown men vanishes from Boeotia. Thus there declares itself in Tiresias that conception of tellurian generative force which takes hetaeric swamp mating as its model. In the race of the Σπαρτοί the children, like the swamp reed, have only one mother, the earth. The sower (Semo Sancus) who scattered the seed steps forward as little as the father does in relation to the spurius. In the Oedipus myth this stage of religion appears joined with all that lutea voluptas which we emphasized above as a necessary property of swamp life. For Oedipus, who does not know his father, who fecundates his mother and loses his sight, himself belongs to that fatherless race of the Σπαρτοί, and in his swollen foot, in the legend of his finding on the seashore, and in the father’s name Laius, he makes himself known as a representation of the tellurian primal force of generation. As the prototype of the draconteum genus and of the stage of religion belonging to it stands Tiresias. In him we recognize the same divine nature that confronted us in the swamp man Ocnus. There can therefore be no doubt that the Mantuan Ocnus represents the same deity as the old rope plaiter. Now the derivation of Bianor from the daughter of Tiresias, in the sense of the mother right of the chthonian Σπαρτοί, and the naming of the city after the mother’s name become significant, and the bringing in of the Pelasgian-Tyrrhenian Dis-Mantus intelligible, who in his Plutonian Hades nature unites both sides of tellurian force, the giving and the taking,2) and through his Charontic significance leads back again to the aged Ocnus. If the identity of the divine nature of both Ocni has thus emerged, then
 
@@ -5040,9 +4547,7 @@ the connection of the cult of Hades with the great fertility of Elis, which seem
 
 2) Plut. Is. 29 calls Amenthes-Hades τὸν λαμβάνοντα καὶ διδόντα. Hence is explained
 
-[PDF 356]
-
-— 344 —
+[p. 344]
 
 the situation of Mantua in the midst of swamps and morasses becomes doubly noteworthy. Thereby Ocnus-Bianor enters here too into the closest connection with the nature of the land, with swamp and swamp generation. The ship that carries the king bears the image of the Mincius, whom green river reed wreathes, and Ocnus has a stream, like the Thracian Rhesus, for his father. With Protomantis Gaea, the primal mother Earth, the Tuscan stream unites. From their mingling springs Ocnus-Bianor, who accordingly, like the reed, stands there as the son of the moist πηλός, as Pelusius-Schoeneus. Hence Bianor is an interpretation that perfectly designates the nature of Ocnus. The force that the name emphasizes is the generative primal power of matter, to which the phallic formation of a Priapus, a Harpocrates, a Dionysus corresponds. The same conception underlies also the centaur name Bianor, which is cited together with Chthonius. In a similar sense we find Valens,1) Valesius,2) Andraemon, Virbius, Iphis, Kratos,3) Σθένεια,4) and many others. Especially instructive is what Plutarch, de Is. et Os. 37. 42, reports on the name of Osiris. Ἀρίστων τοίνυν ὁ γεγραφὼς Ἀθηναίων ἀποικίαν ἐπιστολῇ τινι Ἀλεξάρχου περιέπεσεν, ἐν ᾗ Διὸς ἱστορεῖται καὶ Ἴσιδος υἱὸς ὢν ὁ Διόνυσος ὑπὸ Αἰγυπτίων, οὐκ Ὄσιρις, ἀλλὰ Ἀρσαφὴς (ἐν τῷ ἄλφα γράμματι) λέγεσθαι, δηλοῦντος τὸ ἀνδρεῖον τοῦ ὀνόματος. ἐμφαίνει δὲ τοῦτο καὶ ὁ Ἑρμαῖος, ἐν τῇ πρώτῃ περὶ τῶν Αἰγυπτίων. ὄμβριμον γάρ φησι μεθερμηνευόμενον εἶναι τὸν Ὄσιριν. — 42: Ὁ γὰρ Ὄσιρις ἀγαθοποιός, καὶ τοὔνομα πολλὰ φράζει, οὐχ ἥκιστα δὲ κράτος ἐνεργοῦν καὶ ἀγαθοποιόν, ὃ λέγουσι· τὸ δ᾽ ἕτερον ὄνομα τοῦ θεοῦ τὸν Ὄμφιν εὐεργέτην ὁ Ἑρμαῖος φησὶν δηλοῦν ἑρμηνευόμενον. The weight of these remarks is wholly independent of their linguistic correctness. Yet the present state of hieroglyphic studies by no means entitles us to call such definite statements into doubt, and to reject the designations Ἀρσαφής and Ὄμφις “because at present not interpretable hieroglyphically.” Both are firmly established in the manuscripts. Hence Ἀρσαφής is retained by Jablonski, Panth. P, 1, p. 289, Wyttenbach, Hutten, and Parthey, p. 231, just as the addition ἐν τῷ ἄλφα γράμματι may be neither struck out as a gloss, with Reiske, nor made meaningless, with Parthey, by the reference to the alphabetical order of Ariston’s work. All the interpretations, now, that are given for Osiris, Arsaphes, Omphis in the passages cited place in the foreground the phallic masculinity, and the beneficent, wealth-giving force lying in it, of the Egyptian Zeus-Neilos. The expressions τὸ ἀνδρεῖον, τὸ ὄμβριμον, κράτος ἐνεργοῦν καὶ [PDF 357] — 345 —
 
@@ -5074,9 +4579,7 @@ Denkschriften der Münchner Akademie der Wissenschaften.
 
 2) Lobeck on Phrynich. p. 42.
 
-[PDF 360]
-
-— 348 —
+[p. 348]
 
 northward, partly to the Thessalian Homole, partly as far as Illyria (Paus. 9, 5, 1; Apollod. 3, 5, 4. Steph. Byzant. Ἰλλυρία. Skylax. p. 4. Strabo 7, p. 326, Gieseke, thrakisch-pelasgische Stämme, p. 59), and so form a chain of settlements that mediates the passage to northern Italy. If the Phoenician colony in Mantua thereby gains every probability, there are added in confirmation the presence of the Cinyras myth and of Asiatic cult practices at the innermost Hadria, the connection of the Ligurians with the inhabitants of the Po country as well as with Boeotia, and finally the prominence of the number seven, on the one hand in the Boeotian Tiresias myth, on the other in the remarkable Ligurian legend already touched upon. The morasses formed by the Mincio and the Po gave the fugitive, homeless Thebans a position secured against attack, the possession of which has always been of the greatest importance to all subsequent immigrants and conquerors down to the present day. In the series of peoples who crowded here, and whose considerable number led Virgil, the Mantuan, to the expression Mantua dives avis, sed non genus omnibus unum, the Thebans are named in the first place. Servius: Bene dives avis, quia non ab Ocno, sed ab aliis quoque condita fuit: primum namque a Thebanis; deinde a Tuscis; novissime a Gallis, vel ut alii dicunt a Sarsinatibus, qui Perusiæ consederant. Sed non genus omnibus unum. Quia origo Mantuanorum et a Tuscis venit, qui in Mantua regnabant, et a Venetis, nam in Venetia posita est, quæ et Gallia Cisalpina dicitur. Through this whole series of peoples the worship of the Theban-Cadmean Ocnus- Bianor was maintained. Even in Virgil’s time his tomb was still extant, as at Ilium that of Ilus, at Sardis that of Lixus,1) whom, after the fall of the Assyrian Heraclids, the native Mermnads surrounded with equal veneration. It may seem striking that the Tuscan Tiber is woven into the genealogy of this Theban-Mantuan god. For that the Mantuan poet reports the native legend incorrectly, or that Servius referred the Tuscus amnis to the Tiber without reason, is equally unacceptable. I see in this a confirmation of that assumption which follows the Cadmean-Phoenician Gephyraeans as far as Latium, and which, appealing to J. Lydus de mensib. p. 45 ed. Schow, emphasizes in particular for this the identity of the priestly character and of the river cult as it was practiced by the Phoenician Gephyraeans at Athens and by the Pontifices at Rome. If in this passage the water on whose bridge the Athenian Gephyraeans offer their cult to the Palladium is called Σπερχειός, then by it the Thessalian river of this name is certainly [PDF 361] — 349 —
 
@@ -5120,9 +4623,7 @@ p. 412. Schol. Pind. Ol. 10, 30. The equation with Stercutus in Plin. 17, 9, 6. 
 
 3) Apollod. 2, 5, 5. Diodor. 4, 13. Pausan. 5, p. 377. Theocrit. Eid. 25, 164. Athen. 10, 1.
 
-[PDF 364]
-
-— 352 —
+[p. 352]
 
 fœcundus, the son of the nourishing father Aleus, a true Trophonius (from τρέφειν), who hides in subterranean chambers the fullness of the tellurian treasures. This nature finds its eloquent expression in the designation Augeas. The name of the Elean Stercutus thus joins, in a very significant way, the others already known to us, Aleus, Peneus, Alpheus, Larisus, which all occur in that swampy, luxuriantly fertile coastal strip. So we have found the stem on which Aucnus-Ocnus rests in a great number of divine names, always with the same basic meaning. The sense of the word agrees completely with the content of the divine nature. Therein lies the greatest proof for the correctness of the etymology. The auctare finds, moreover, an exactly corresponding embodiment in sensible form in the pictorial representation of the rope plaiter. Without interrupting his labor, Ocnus ceaselessly advances his work. Under his hands the rope grows. Without end it is augmented. Even in the relation of the picture to a diligent, industrious father of the household the idea of the αὔξησις is retained, and is brought out all the more emphatically by the contrast of the prodigal wife who always diminishes what has been won. Picture and name coincide perfectly. Both are equally eloquent. Hence it cannot be surprising that Egypt seems to have contented itself with the representation of the action. Diodorus at least gives no name, and the actual representation of the action argues that at Acanthus none was in use. It can have arisen only after the living representation had become a dead picture. The symbol itself is far older than the name Ocnus, which under the influence of popular pronunciation received the form in which it was last fixed in writing and handed down.
 
@@ -5134,9 +4635,7 @@ laziness, but may also lie in external causes, such as the exhaustion of the war
 
 1) On this, Eustath. on Il. 5, 255. Ed. Lips. p. 546. 611.
 
-[PDF 366]
-
-— 354 —
+[p. 354]
 
 stand in no connection. The explanation that the Delphic guides gave Pausanias takes the picture as a whole, and attaches itself especially to the contrast of sex between the male Ocnus and the female she-ass. It becomes remarkable by showing us what fate was finally prepared for the profound symbolic images of earlier times by a generation wholly estranged from ancient wisdom. Yet more recent writers have declared themselves in agreement with this childish trifling, and have spun it out still further by the assumption of a concealed allusion of the painter to his own domestic circumstances. The proverbial saying of the Ionians, ὁ ἀνὴρ οὗτος συνάγει τοῦ Ὄκνου τὴν θώμιγγα, with which they designate as contemptible every labor that brings neither gain nor profit, gives more information about the tendency of mind of that tribe, which had at last fallen victim to the most luxuriant materialism, than about the inner content of the representation, and furnishes an example of those likewise proverbial Ἰωνικαὶ ῥήσεις.
 
@@ -5174,9 +4673,7 @@ Dionysus, 3, 22, 2. — In Martianus Capella Neptune is called: lar omnium cunct
 
 4) Pausan. 3, 24, 7: Τάφος Λᾶ, city Λᾶς Paus. 3, 21, 6; 3, 24, 5. — Λαρύσιον ὄρος, sacred to
 
-[PDF 370]
-
-— 358 —
+[p. 358]
 
 first founding of the celebrated Samian sanctuary of Hera by Leleges and nymphs acquires a new meaning. The wonder of the founding becomes perfect only when we understand by Leleges not men but the divine bird itself.1) Storks, united with the nymphs, carried out the oldest building, as bees put together the little Delphic temple from wax and feathers, doves the sanctuary at Dodona, herons that of Diomedes in Apulia.2) The nymphs join the storks, and to both, as a complement, attach themselves the Samian cult of a hetaeric Aphrodite venerated ἐν ἕλει and ἐν καλάμοις, and the significance of the succulent willow nourished by water. Swamp and swamp plants appear in the same religious significance as among the Pelasgians, and Hesychius’s statement Λελεγίες, κόχλακες ἢ κοχλώδεις τόποι is no longer unintelligible. The Leleges lead us to the Aetolians3) and to the birds of the Aetolian Diomedes. The kinship of the Leleges and Aetolians emerges from Dionys. Arch. 1, 13. Thereby the Aves Diomedeae too are drawn into the circle of the Pelasgian phallic religion, and placed on a line with the swamp herons of Ardea, the storks of the Pelasgians and Leleges. They are called in Solin. p. 13. Salm. fulicæ; forma illis pæne quæ fulicis. Stephanus Byz., Antigonus, Servius call them outright ἐρῳδιοί; Lycophron and Ovid compare them to swans. The swamp nature is thus beyond doubt for these also, and λάρος, which the ancients equate with fulica, brings us back once more to the root word of the Pelasgians and Leleges.4) Their dwelling place on the island by Garganum, their dripping wings, with which they moisten the interior of the sanctuary, are features of the myth in which one recognizes the same Poseidonian nature, and which recur in perfect correspondence in the birds of Achilles on the lunar island of Leuke in Philostrat her. c. 19. As now the Pelasgians and Leleges appeared to the ancients themselves under the image of those animals that clothe their religion with divinity, as the Ardeates and Rutulians bear the name of the heron, and Cupavo, the Ligurian prince on the lower Po, bears on his head swan plumage as a sign of his descent (Aen. 10, 188), so the companions of Diomedes also receive the form of the swamp herons, which prove hostile to all non-Greeks. In all the features cited there is revealed the same view of nature that gave the king heron its name Ὄκνος, and the whole race of birds to which it belongs its religious significance. We can designate this conception as the Pelasgian, and in [PDF 371] — 359 —
 
@@ -5200,9 +4697,7 @@ swamp mother Marica by Serv. Aen. 12, 164.
 
 3) Dionys. Arch. rom. 1, 72. Steph. Byz. Ἀρδέα. Circe is placed together with the
 
-[PDF 372]
-
-— 360 —
+[p. 360]
 
 Odysseus’s Πηνελόπη joins Circe-Medea in the significance of a weaving nature mother. What she weaves by day the following night undoes again. The Aphroditean nature emerging here has left an echo in that myth of the surrender of Ulysses’ consort to the whole row of suitors, of her union with the chthonian Hermes, and of the birth of Pan. It is repeated, however, also in her equation with the many-colored golden duck, which the ancients call πηνέλοψ. She is said to have been raised by birds of this kind when Periboea, her mother, exposed her. In their company she appears on vase paintings.1) Thereby the Penelops receives the same religious significance as Penelope, and the name of the spring, πηνελοπεία, its explanation. The one shows in the form of a duck what the other shows in human representation. The identity of the name of both is no accident, πηνέλοψ not merely joined quite externally with πηνελόπη as a name hieroglyph, even if in the end no other relation might any longer be intelligible. In Penel there emerges the stem πέος, penis, as we find it, with varying quantity of the vowel, in a great number of formations in Peneus, Penus, Penates, Peneleus, Pales, Pelops, in πέλις, πελώρια,2) πέλανα, πηλός, παλίκοι, palus, Pallas, παμύλια3) πέλαγος, the Palaemonids, the Peleiades, πελάγων in Pausan. 6, 21, 7, and the earlier name Arnea (ἐν τῷ ἄλφα γράμματι), which Penelope bore at first, will now no longer appear so remote. If the scholiast on Od. 4, 797 in Creuzer 2, 520 derives Penelope from πένεσθαι τὸ λῶπος, this much is certainly correct in it, that πένεσθαι belongs to the same stem as Penelope. From the never-resting activity of the force of nature the idea of toiling, as it lies in πένεσθαι, arises quite of itself. The picture of the rope-plaiting Ocnus sets the connection of the two thoughts vividly before our eyes. The highest exertion distinguishes him. He appears himself as πενέστης or πένης, and the poverty of his attire supports the thought of the harassed life of the ἐγχειρογάστορες. Were we to give the consideration of the swamp life revealed in the animals, and of its religious significance, still further development, there would offer itself, for ever greater confirmation of the ideas put forward, the swan, the goose, the duck, as they unite with Dionysus, the lord of the moist
 
@@ -5214,9 +4709,7 @@ Lycophr. Cass. 772. (Arnaia.) Paus. 3, p. 263 (Αἰδὼ in Laconia). Cicero, a
 
 3) Plut. Is. 12, 36. Hesych. Παμύλης.
 
-[PDF 373]
-
-— 361 —
+[p. 361]
 
 nature in a wholly phallic-erotic sense; and these would then be joined, as a complement, by the frog, the serpents, the eel, the tortoise, crabs, the polyp, snails, all of them in the most manifold connection with male and female deities of natural generation.1) In this way we should bring the great scope of the fundamental idea developed ever more completely to consciousness, and should be in a position to win a meaningful fundamental idea also from the Batrachomyomachia, from the fable of the frogs who receive the stork as king instead of the log, from the juxtaposition of homo and humus, of Achilles and Physignathus, and from much else of the kind.2) But our task calls us away to other considerations and allows no longer lingering. Enough that the conjunction of the king heron Ὄκνος with the rope-plaiting man of the swamp, as it meets us in Pausanias, has been recognized in its correctness, we may now say in its inner necessity.
 
@@ -5232,9 +4725,7 @@ man being formed by Prometheus, so Peleus is πηλοπλαστός. Aesch. Fr. 
 
 2) Homo, humus Hygin f. 220. Ovid. M. 1, 28; 11, 1. Serv. G. 2, 341. Aen. 1, 747. As the hu‐
 
-[PDF 374]
-
-— 362 —
+[p. 362]
 
 not inconsiderable number of particulars into a whole of internally connected phenomena. Thereby so firm a standpoint has been created that the peculiarities of our painting not yet considered offer their solution quite of themselves. The old age of the chief figure seems indeed to correspond little to the idea of a Bianor; nevertheless the religious significance of the rope plaiter presents a side to which it attaches itself pre-eminently. We cited above that the older founding legend of Phoenician Berytus calls the Aphroditean Beroë coeval with the earth and of one origin with Aion. This conception recurs in the beneficent nymph of the Numicius, who dispenses warm loaves, in Anna Perenna, whose name has been preserved in those regions as Anna Petronella, just as in the Volscian regions Camilla is still given to children today as a baptismal name. The myth portrays her as a wrinkled old woman, which becomes especially significant for us in that it belongs to Bovillae, the city of the Julian cult of Aphrodite. Anna, the material primal mother who holds sway in the Numicius, whose festival is called by Ovid, very significantly, geniale,1) is as old as the earth, in which she, from the beginning of things, well disposed toward mortals, performs her work.2) Like Aphrodite-Beroë she has the same origin as Aion; like the Moira Eileithyia she is older than Cronus. The idea of the highest old age lies in her innermost nature. But as nature combines in itself the seemingly most irreconcilable opposites, so here too the thought of age does not exclude that of youth and its bloom. By her beauty Beroë arouses the strife of the gods, and yet she is not inferior to Aion in age. Like the earth she is ancient and eternally young, fresh and glorious like creation, no otherwise than on the first day. In the same way the concepts of motherhood and of perfect virginity, to which it returns in its yearly rejuvenation, unite in the earth. Pausan. 2, 38, 2. In this domain all opposites vanish. What is most irreconcilable always passes over into its opposite. As the two poles of existence, as the two sexual potencies, combine into unity, so the highest old age and the most blooming youth, maternal fertility and virginal chastity enter into the closest union, so that Penelope’s double conception, and the phallus cult in the service of chaste Vesta, can give no offense. They are properties of the same being, present in and with each other. The creative force of Juventas has, through the centuries that have furrowed Perenna’s
 
@@ -5244,9 +4735,7 @@ Silius 8, 50 f. Macrob. S. 1, 12.
 
 2) Cf. Plut. de def. oracc. 19. 29. 47.
 
-[PDF 375]
-
-— 363 —
+[p. 363]
 
 brow, suffered no diminution. Still, as before, she feeds with equal diligence the waiting people. Still she arouses the amorous desire of Mars, eager to beget,, who suspects behind the mask of youth no such gray old age. (Ovid. F. 3, 657 f.)1) In all these features she is the faithful counterpart of Ocnus. To him also the aeons, with which he keeps pace, have, like bald Nereus, like the subterranean longævus Terentus,2) impressed the unmistakable stamp of the highest old age. And yet he performs always with the same diligence and the same success the work that has an origin contemporaneous with the earth itself. The idea of the highest force and of the highest age go hand in hand. We find the same combination of both qualities in the Celtic Ogmius-Heracles, whose representation Lucian has preserved in his προσλαλιά (Ed. Bip. 7, 312). The comparison of Ocnus and Ogmius is instructive in several respects. In the picture that Lucian describes, Ogmius was represented with the signs of the highest old age. His Charontic look, and the remark γέρων ἐς τὸ ἔσχατον, are features that correspond also to our conceptions of Ocnus. But the highest old age did not exclude the highest force. The lion skin, the club, and the band of captives recall the invincible Heracles, whose name Lucian also chooses as the most fitting Greek designation. With bodily strength the picture seemed to bring into connection the force of eloquence. The chain by which the old man drew the band of captives behind him was fastened at one end to the tip of his tongue, at the opposite end to the ears of his companions, a very graspable intimation of the omnipotence of the word, which hands over the hearers to the speaker, as it were, as will-less captives, for his possession. In this way the Celt in Lucian grasps the allegory of the representation, and that he was not thereby setting up some wholly arbitrary explanation, but was adhering to a native Gallic conception, is proved by the Ogham script, which evidently derives its name from Ogmius, the god of eloquence. This attribution now has an inner connection with that first one, of bodily force and strength. We need not think here of the mighty influence by virtue of which the power of speech often accomplishes more than bodily athleticism. Good words are better than bad strokes, Octavius. The connection of word and force lies much deeper. Most clearly it meets us in Hermes- Mercury, who, precisely in his relation to word and speech, is compared by Lucian to the Gallic Ogmius. The phallic god of the tellurian generative [PDF 376] — 364 —
 
@@ -5266,9 +4755,7 @@ ative nymph (above, p. 211) becomes Dea muta and Tacita, Ovid. F. 2, 572; Lactan
 
 3) Ovid. F. 2, 583–616 shows in what interaction speaking and silence stand. The talk‐
 
-[PDF 377]
-
-— 365 —
+[p. 365]
 
 Heracles, the role that the tongue plays here appears first in its full significance. The force of speech here too attaches itself to the physical foundation of the bodily strength displayed in generative fullness. The comparison with the Greek Hermes becomes a thoroughgoing one, governing all stages of his divine nature. Ogmius is first of all the representation of the generative force of nature, such as both the lion and the Greco-Italic Heracles- Italus bear within them, with the green club and the cornucopia of the blessing of harvest. The extreme old age and the Charontic look that Lucian emphasizes form, precisely in union with that physical significance in nature, a parallel perfectly corresponding to the rope-plaiting Ocnus. In both, the inexhaustibility of generative force enters into connection with the idea of the highest old age. The aeons, by which the old man’s age is reckoned, show the fullness of life diminished by no lapse of time. Charon himself is in his foundation nothing other than the generative water lion of the tellurian swamps, into whose chaos all life returns, as it has its origin from the moisture; his hammer is the bearer not only of destroying but equally of creative, healing force.1) But, coeval with matter, he assumes the appearance of a primeval origination, and, akin to the dark depths of mud, his appearance receives the wild look of those thickets to which man never turns his tending care. — If we wish to search for further analogies, Orphic theology in particular offers one. It is all the more noteworthy since it goes back precisely to that primeval age to which the Ocnus symbol belongs. I have earlier, pp. 110, 141, mentioned the Orphic Heracles, who is called Χρόνος ἀγήρατος and is joined with Ananke-Adrasteia, who spreads through the All. The coin of Camarina represents him as a bearded old man with the primal egg, which owes its origination to his πατρικὴ δύναμις. He is represented through his attributes as the content of the primal generative force, but at the same time is formed as an old man. The swan with the inscription MAPA, whose meaning we explained above, and the bearded human head of Dionysus-Hebon lead us here too back to the swamps and their relation to creation from moisture. What gives the Orphic representation special significance, however, is the identification of the creative Heracles with Chronos.2) In this, time appears as an attribute of becoming, moving creation: a conception whose inner correctness Aristotle too recognizes in the Metaphysics, in that he sets up the proposition
 
@@ -5278,9 +4765,7 @@ mysteries of Juno of Falerii.
 
 2) Damasc. princ. p. 380 Kopp: ἀντὶ τῆς μιᾶς τῶν ὅλων ἀρχῆς τὸν χρόνον τιθέντες.
 
-[PDF 378]
-
-— 366 —
+[p. 366]
 
 that for the world of becoming the idea of time is as indispensable as that of timeless eternity is for the world of being.1) The former is an attribute of becoming; it is becoming’s necessary companion, the form in which it appears. Chronos therefore appears as the representation of matter in development, set in motion. Only where there is becoming and passing away is there also time. Where the former does not reach, there is no time either. Where there is no movement, there is no development, and hence no time, which Plato aptly calls the movable image of eternity. “The human race and all time together are of one nature: the former runs on with the latter, and will endure alongside it, and is in this way immortal, in that it always leaves behind children and the children of those same children, whereby all time remains one and the very same, and through constant becoming has a share in immortality.” (Plato, Laws 4, p. 721, on which the eighth of Plutarch’s Platonic Questions must be consulted.) According to this conception the force that generates, and through generation sets matter in motion, appears as Chronos. If, then, the dragon-shaped Heracles, surrounded by a lion’s head and an ox’s head, receives the name of time, he is thereby most emphatically represented as the originator of material life, as the fecundating natural phallus that calls everything into existence. The generative force takes shape as time. Heracles, who by his first phallic deed gives the impulse to the movement of becoming, appears as Χρόνος, πατὴρ χρόνου,2) and is therefore winged, like all movement of the world of becoming, hastening swiftly on, like all life in time. The same transition of the material idea of generation into that of χρόνος recurs in the name of the compassionate nymph of the Numicius. Anna attaches herself to Annus. The ancients emphasize this unmistakable etymological connection; but the way in which they conceive it is not suited to exhaust the whole fullness of the thought. Perenna forms a significant complement to Anna, also in the phrase Anna et Perenna (Gell. N. A. 13, 22). If the former designates the division of time, Perenna emphasizes the duration extending over all the parts, and the repetition proceeding in eternally uniform sections. If Anna gives the unity, Perenna gives its unlimited multiplication. We can compare with this the Elean μήτηρ ἰσοδρόμη. In the designation ἰσοδρόμη the primal mother appears as an Anna Perenna who accompanies at equal pace the movement of the life that has proceeded from her womb. Strabo 9, 440. With
 
@@ -5292,9 +4777,7 @@ Rochette, Hercule p. 15, 2; 94–96. — Soph. Antig. 608.
 
 2) Hymn. Orph. 12, 3. Nicomachus ap. Jo. Lydum de mensib. 4, 46. Macrob. 1, 20. Raoul-
 
-[PDF 379]
-
-— 367 —
+[p. 367]
 
 the first becoming she began her course, with the progressing one she has continued it. She too can therefore be conceived as winged time, as Σάρδαν recurs as Σάρδις, Ἰάρδαν, year.1) However long the movement has already lasted, the swiftness has nevertheless not slackened, and no weariness has set in. Sedula in old age as in youth, Anna gladly hears the good wishes of many years of life, for which, at her festival, an equal number of cups is emptied, as if the idea of the ἰσοδρομεῖν were to receive a pictorial expression. As Χρόνος ἀγήρατος Heracles too is a never-tiring Isodromos- Perennus, and is therefore represented on Cilician coins as Δρομεύς, carrying the material egg away in swift course. Ageless time shows once more the combination of old age and youthful bloom that we found in the assumption of an ancient and yet eternally fresh force of nature. Indeed, in the garb of time, which always keeps equal pace with material life, the intimate kinship of those two seemingly mutually exclusive opposites steps forth first in its full truth and justification. For Ocnus, however, there results from the consideration of the Orphic Χρόνος ἀγήρατος a meaning that attaches itself most closely to his conception as πατρικὴ δύναμις, and shows us this in the garb of the oldest religious ideas. Γέρων ἐς τὸ ἔσχατον, he is yet ἀγήρατος, primeval and Bianor at once, sedulus like the wrinkled nymph of the Numicius, a true γραῖα, Isodromos-Perennus as she is Perenna, keeping equal pace with the movement of life, and never tiring. How intimately this nature is connected with the work assigned to him is plain. Like creation, moving onward in eternal becoming, eternal passing away, the rope, too, that issues from Ocnus’s hands is at no moment the same. As the river there pours its waters into the sea and here receives a replacing inflow from the spring, no otherwise the rope diminishes at one end while it grows at the other. Under this double influence river and rope stand in never-ending movement. They thereby become the image of becoming creation, whose eternal change Heraclitus compares to that of flowing water. As movement has time as its necessary companion, so Ocnus, who incites and sustains it, becomes Χρόνος, and in this nature Ἰσοδρόμος, who always keeps equal pace with the movement of life, and in every coil of his cord, as ἀγήρατος, with the deceptive mask of youth
 
@@ -5302,9 +4785,7 @@ the first becoming she began her course, with the progressing one she has contin
 
 1) Joannes Lyd. de mens. p. 42 Schow. Σάρδιν γὰρ αὐτὴν καὶ Ξοῦριν ὁ Ξάνθος καλεῖ …
 
-[PDF 380]
-
-— 368 —
+[p. 368]
 
 steps again before the eyes of men. Himself imperishable, he is the originator and witness of the perishability of the work that issues from his hands. If he creates on untiringly, yet it falls to his lot to suffer the pain of giving, with all his generation, nothing but ever new nourishment to death. According to this connection the concept of mourning joins that of time. The destruction of all his children fills the father with deep pain. We find this thought in moving expression on a Roman funerary monument that Raoul-Rochette first made known, Monuments inédits Pl. 77. 4. p. 407. Here Cornutus, mourning the destruction of his eight children, appears in the figure and bearing of aged Saturn, and corresponds to those words that the chorus addresses to Peleus in Euripides, Andromache 1185:
 
@@ -5320,9 +4801,7 @@ The inscription Hic ego sum Cornutus doliens cum filiis dulcissimis octo agrees 
 
 2) Serv. Aen. 3, 80. Ovid. M. 13, 632. — Il. 16, 200. — Ovid. M. 10, 298. Mutterrecht, p. 3.
 
-[PDF 381]
-
-— 369 —
+[p. 369]
 
 an element of death and an expression of pain, into which in the end all the bliss of the earthly creation dissolves.1) On the height of the Sipylian rock face Niobe mourns, in eternally trickling springs, the destruction of all her births: an image of primal mother Earth, of whose many children in the end not one is left to her. Quite otherwise sounds now that song which once announced bridal, laughing joy:
 
@@ -5388,9 +4867,7 @@ tiful daughter Salia, threw himself into the river. So Aristides and Alexander P
 
 6) Euripid. Suppl. 759.
 
-[PDF 382]
-
-— 370 —
+[p. 370]
 
 Surrounded by the bones of the dead, of decaying men, Homer (Od. 12, 41 f.) shows us the song-rich Sirens. The blooming daughters of Achelous see everything that the water generates transformed into mold and dust. Their song becomes a lament for the dead, like the roar of the ocean that reaches their ears, an ever uniform moaning of grief (Euripid. Suppl. 80– 87). They themselves, in the youthful bloom of perfected beauty, appear as a representation of the thought of the tomb, as they are so beautifully described in Euripides, Helena 169–178, and as guardians of the Plutonian laws according to Plutarch’s (Symp. 9, 13) highly remarkable account. The most luxuriant life is dominated by death. What Ocnus weaves through the aeons is all doomed to destruction. His diligence profits him nothing. With the joy of creating he combines the deep seriousness that the contemplation of the fate of all tellurian creation produces in the soul of the old man. Euripid. Hippol. 1104–1106. Medea 1096–1104.
 
@@ -5416,9 +4893,7 @@ tion, Jamblich. de myster. 2, 3, p. 185 ed. Parthey. Serv. G. 2, 389.
 
 1) On the connection of the doctrine of the double principle and its struggle with genera‐
 
-[PDF 386]
-
-— 374 —
+[p. 374]
 
 irrational creature, to lend a more emphatic and more striking expression to the distinction between the good divine and the evil demonic being. To the artistic activity of human hands there would then be opposed the crude impulse to destruction of bestial nature in its most repellent form, and the myth of those Diomedean horses, whose teeth crush human bones, might seem to have been transferred into the artistic representation. But why then prefer the ass to the horse furnished by so familiar a tradition? For this too some points of connection could be found. Did not the ass stand so high in the use and esteem of the oldest generations that he is present in pictorial representations of the first formation of man,1) and is counted, as res mancipi, among the most necessary agricultural basic capital? Or should the artist have been guided by the thought of contempt for the animal? Proverbial expressions such as ὄνος ἐν πιθήκοις, to designate the ugliest among the ugly, ὄνος πρὸς λύραν or πρὸς αὐλόν as an expression of crude disposition, and further comparisons such as inepta et asinina cogitatio (Plut. Symp. 9, 5) and many similar ones2) are surely sufficient proof that mockery and scorn have at all times repaid that unhappy animal’s heavy services badly. All the attempts at explanation indicated, far from solving the riddle, only bring the need for a deeper conception closer. To satisfy this it is necessary to choose a comprehensive standpoint, and with the use of the whole material at our disposal to determine the religious significance that antiquity attached to the ass. Once this is done, it will also become possible, finally, to determine the significance of the female sex, which is expressly attributed to the gnawing animal and first occasioned its relation to the spendthrift wife.
 
@@ -5434,9 +4909,7 @@ Cf. Caylus, recueil 2, 34, 3; 3, 59, 1.
 
 2) Nazianz. Carm. 49. 52. A rich collection is found in Suidas, from ὄνον ὄρνιν to ὄνου
 
-[PDF 387]
-
-— 375 —
+[p. 375]
 
 Ass, c. 56. The deceived lover complains bitterly about the animal’s transformation: Ἐγὼ δέ, ἔφη, μὰ Δία, οὐχὶ σοῦ, ἀλλὰ τοῦ ὄνου τοῦ σοῦ ἐρῶσα τότε, ἐκείνῳ καὶ οὐχὶ σοὶ συνεκάθευδον, καὶ ᾤμην σε καὶ νῦν κἂν ἐκεῖνό γε μόνον τὸ μέγα τοῦ ὄνου σύμβολον διασώζειν καὶ φέρειν· σὺ δέ μοι ἐλήλυθας ἐξ ἐκείνου τοῦ καλοῦ καὶ χρησίμου ζῴου ἐς πίθηκον μεταμορφωθείς. From this the Cumaean Onobatis receives its explanation. Plutarch Qu. gr. 2 relates that at Cumae in Aeolis the custom prevailed of setting the adulteress on an ass and leading her thus from the market through the whole city. Here not only the phallic force in general, but especially the wild, lawless natural generation is brought out as the content of the ass symbol. Plinius 8, 43 mentions a popular belief that likewise issues from that fundamental view. Asino moriente viso, celerrime id genus deficit. The race of him to whom a dying ass comes into sight goes toward destruction. Ignorance of the fundamental idea has here, as so often, led to the most daring emendations. With reference to the custom introduced by Maecenas of slaughtering ass foals as dainties for the table, Bochartus, Hierozoïcon 2, 13. p. 191, alters it as follows: lalisionum oriente usu, celerrime id genus deficit. And yet that μέγα τοῦ ὄνου σύμβολον offered so obvious an explanation. — Erotic relation has that relief of the Marmora Taurinensia tav. 35, which is also depicted, though smaller and less distinct, in the Museum Veronense p. 213 (Veronæ 1749). In its connection with the egg the ass shows the πατρικὴ δύναμις to which the latter owes its origination. — Particularly instructive, and also perfectly intelligible in connection with the natural significance indicated, is the role assigned to the ass in the Midas myth. For when Midas awards the prize to the reed pipe of Pan or of Marsyas over Apollo’s cithara, the god lets movable ass’s ears grow on him as a punishment. In vain the king seeks to hide them. At the cutting of his hair they are discovered. The servant, not daring to proclaim his master’s animal shape, yet at the same time unable to keep wholly silent, digs a pit, and entrusts his secret to the opened womb of the earth. But reeds grow up from the depths, and, moved by the wind, proclaim that Midas has ass’s ears.
 
@@ -5452,9 +4925,7 @@ Schol. Aristoph. Plut. 287. Tzetzes on Cassandra 1401. Philostrat. Im. 32, see a
 
 1) Ovid. Met. 11, 154 f. Hygini f. 191. Fulgent. Myth. 3, 9. Lactant. Met. 11, 5. Athen. 12, 2.
 
-[PDF 388]
-
-— 376 —
+[p. 376]
 
 the moist depths of the earth dwells the phallic god, withdrawn from the eyes of mortals. But the reed bed shooting up out of the ground bears witness to his existence and his force. In this conception we find confirmed the relation of the ass to the wild hetaeric swamp generation, as it was emphasized earlier. If in other parts of the myth Midas enters into the closest relation with agriculture and with the laborata Ceres,1) yet his shape as an ass is brought precisely and exclusively into connection with the free swamp vegetation. To the swamp belongs the reed pipe, to which he gives the preference; to the swamp that thicket of reeds shooting up, which conceals the animal form of his ears. In the swamp religion, furthermore, is rooted the comparison of the reed bed with the equally spontaneous growth of the hair of the human head;2) in it, the idea of the calami loquentes, which proclaim in the soft whispering of the wind the secrets of that supreme natural force from which they have sprung.3) To this mightiest yet deepest stage of tellurian life corresponds that trait of the myth which traces back to Midas the invention of white and black lead.4) If the relation of lead to tomb and death, probably a consequence of the corpse-like color of that metal, emerges from individual tomb finds,5) then the change of color between white and black is an image of the great natural force which, like Autolycus and Mercury, turns everything bright back into darkness, and which in the luxuriance of swamp life sets before our eyes this constant transition of color with the terrifying significance of an inescapable material law. Hence Lityerses, the bastard son of Midas, was held to be a greedy, insatiable glutton, as he is portrayed by the poet Sositheus in Athenaeus 10, p. 415. Three times three ὄνους κανθηλίους he devours daily. The myth therefore conceived him himself as a κάνθων, like Erysichthon, whose voracity is emphasized by Aelian, V. H. 1, 27. As a spurius, Λιτυέρσης corresponds to wild swamp mating. His very name reveals him as the rope-plaiting man of the swamp. For εἴρω, aor.
 
@@ -5474,9 +4945,7 @@ Cassiod. 3, 31. Aes Jonos, Thessaliæ rex, plumbum Midas, regnator Phrygius, rep
 
 5) Pausan. 9, 31. Bulletino dell’ Inst. 1832, p. 171.
 
-[PDF 389]
-
-— 377 —
+[p. 377]
 
 ἔρσα, whence ἔρσις, the Latin sero, designates joining, plaiting together, every kind of nectere; λιτός, on the other hand, as the opposite of δαίδαλος, ποικίλος, the simple, artless work, such as we emphasized above in the plaiting of crude ropes as against the rich and fine work of weaving. Through these manifold relations to swamp and swamp generation the fable of Midas acquires a special significance for the two components of the depiction of Ocnus.1) For determining the meaning, above all, that the ancient nature religion attached to the ass, it is altogether decisive. Everywhere the animal appears as a representation of the primal generative force of tellurian matter.
 
@@ -5494,9 +4963,7 @@ Virgil. Ecl. 7, 33. G. 4, 110. Anthol. Pal. 6, 102; 10, 7. 8; 1, 6. 14. Tibull. 
 
 3) Herod. 7, 73; 8, 138. Justin. 7, 11. Conon. narr. 1.
 
-[PDF 390]
-
-— 378 —
+[p. 378]
 
 his way to the Dodonaean Zeus-Achelous, arrives at its bank.1) A second myth ascribes to the ass yet another service to the god. On asses ride Liber, Vulcan, the Sileni and Satyrs into battle against the audacious, heaven-storming race of the Giants.2) The sound of their braying breaks all resistance. The braying of the animal, to which the force of victory is here ascribed, stands, according to the Egyptian view, on a line with the sound of the trumpet. Plut. Is. et Os. 29. This, however, we have already recognized above in its relation to the generative natural force of the chthonian waters. So in that second turn of the myth, too, the idea of the phallic force of the divine animal has found its expression. Vulcan, whose physical kinship with Dionysus emerges so often precisely on monuments as well, appears on vases, as on a very remarkable one in the Vienna Cabinet, in the company of the phallic animal, and of such appearances in which that μέγα τοῦ ὄνου σύμβολον is quite deliberately emphasized. It is only a single confirmation of the general connection when the ass is now brought into relation preferentially with figs,3) wine, and viticulture. In the sweet liquid the generative force of Dionysus emerges in its highest fullness and power; indeed, in the lascivious sensuality of the ass the lust of generation aroused by the gift of Bacchus seemed to have found its wholly corresponding expression. That this connection was resolved into some outward mythical relations, and that particular services to the art of pruning the vine were conceded to the ass, accords entirely with the procedure of the ancient peoples, which sought to make up for the lack of deeper understanding by such wonder stories. One such legend is reported especially of Nauplia. It attached itself to the image of the ass, which one saw there hewn out of a rock face, and which, as I scarcely doubt, derived from Phoenician antiquity.4) It recurs, however, also in the following report of Hyginus, f. 274. Antiqui autem nostri in lectis tricliniaribus in fulcris capita asellorum vite adligata habuerunt, significantes suavitatem (adde: vini) invenisse. The adornment of the couch intended for the meal with the head of the ass places this animal in a causal relation to the fullness of the table, which is regarded as its gift. That in this no thought was given to an
 
@@ -5512,9 +4979,7 @@ Cilicia laughed himself to death when he saw an ass eating figs. The Bacchic rel
 
 4) Pausan. 2, 38, 3. Millin, gallerie mythol. t. 13. no. 337.
 
-[PDF 391]
-
-— 379 —
+[p. 379]
 
 exclusive relation to wine or to the fruits of Bacchus is evident from Juvenal 11, 96, whose description does not emphasize such a connection. Ancient Rome gave the ass an equally definite relation to the Demetrian yield of the harvest and to Vesta, the primal mother, from whom all the abundance and all the happiness of the hearth proceeds. On a Pompeian wall painting, which we mentioned earlier, the ass is represented beside the goddess.1) At her festival wreathed asses walked at the head of the procession. Rings of bread adorned their necks.2) The animal appears here as the very fecundator of Vesta, as the male causality of the blessing of the harvest. It stands at the side of the mother goddess as daimon, as Virbius does beside Diana: a comparison whose exact aptness will emerge still more definitely in the consideration of Diana and of the ass connected with her as well. The cult of the Vestals is described to us as a phallus cult,3) whereby the significance of the ass receives its determination. When Lydus cites the services of the animal in the mill, and Ovid the rescue of Vesta from the assault of the lustful Priapus through the untimely braying of the ass of Silenus, as the ground of the animal’s significance in the cult of Vesta, these are turns designed to justify, after the fact, the transmitted and established connection by a definite external occasion, such as popular belief offered almost alone to the mythographers.
 
@@ -5532,9 +4997,7 @@ If we inquire into further connections of the ass, the Hyperborean Apollo and th
 
 4) Gerhard’s Archäolog. Zeitung 1847. p. 17.
 
-[PDF 392]
-
-— 380 —
+[p. 380]
 
 figure of phallic significance, and it gains added weight that, according to Lycophron’s account, the Phrygian Midas on his expedition against that land himself puts on the ass’s ears, which the myth reported earlier traces back to Apollo’s punishment. Cassandra v. 1397–1408: “He cut off the ears of the ass and put them on himself.” In this guise he undertakes the campaign of vengeance against the land that nourishes the judge of the dead, Minos, the dwelling place of the Sithonian Giants, against Thrace, into whose mysteries Orpheus initiated him. Phrygia and Thrace appear here united in the cult of the ass as the highest representation of natural force, in such a way that the chthonian stage of religion, too, emerges clearly for both countries.
 
@@ -5560,9 +5023,7 @@ Strabo 380. 393.
 
 5) Clemens, cohort. ad gent. p. 24. Porphyr. vita Pythag. 16.
 
-[PDF 394]
-
-— 382 —
+[p. 382]
 
 cave cult, in the Κιλλαῖος ποταμός, in the connection with the Sibyl.1) The relation of the Κίλλου μνῆμα to the charioteer of the Achaean Pelops, to whom the Troezenians gave the name Σφαῖρος, is therefore not so wholly without a point of attachment. The connection of the Elean chariot races with the generative element of water recurs in Κίλλος, and it is this agreement that may have led to the transfer of the name of the ass to the charioteer who decided the victory on the shore of the Alpheus. Pelops himself, however, leads in turn to Western Asia, where the ass symbol was so generally diffused that now even the Cumaean custom mentioned above, and the hymn composed by Melanopus of Cumae to the Hyperborean Apollo, and finally even the Cilician name of the people, fall into line within the chain of general phenomena. We see the veneration of the ass reach over from the lands of Western Asia into Thrace, spread from there with Artemis and Apollo over the Dorian states, and extend northward to the distant Hyperboreans, from whose happy, song-rich fields Heracles brings the wild olive to Elean Olympia, to the Scythians and Carmanians.2)
 
@@ -5580,9 +5041,7 @@ No less is the cult of the ass attested for the Semitic tribes and the people of
 
 4) Gen. 36, 24.
 
-[PDF 395]
-
-— 383 —
+[p. 383]
 
 threw it down sees water well from the earth,1) when finally Plutarch, Symp. 4, 5, quite generally ascribes to the ass the merit of the discovery of springs, then here too there meets us again that relation of the animal to the generative moisture of the earth which we have already had frequent occasion to observe,2) which in Samson combines with the corresponding conception of the hair of the head, and which underlies the designation of vigorous masculinity by comparison with a “strong ass.” Ezek. 23, 20. To this significance of the animal among the Semitic tribes there attach themselves, on the one hand, the ass hewn out in the rock face at Nauplia, which I already earlier traced back to the Phoenicians, and, on the other, the legend of the ass worship of the Jews.3) For this, however one may otherwise judge it, could not have been invented without a corresponding religious significance of the animal. In the accounts relating to it the connection of the ass with springs and waters emerges once more. In Plutarch’s account, however, the lewdness of the animal is especially stressed. “It seems to me,” says Lamprias, “that the Jews abstain from the hare on account of its likeness to the ass, which is of all animals the one most venerated by them. In size and swiftness, to be sure, the hare has nothing at all in common with the ass; but the color, the ears, the gleam of the eyes, and the lewdness make the two extraordinarily like each other, so that no other small animal has so complete a likeness of form to a large one.” On account of its generative drive and its great fertility the hare has entered into a very close relation to Dionysus, to which so many vase paintings bear witness. For this very reason it has also received its name λάγως from the stem la (consonantized like lacus, λάκκος, Lacinia, lac). In this it agrees entirely with the Priapus nature of the ass, which is called asinus from the stem Ar.
 
@@ -5602,9 +5061,7 @@ quite decidedly a symbol of Typhon-Seth, who is represented at Karnak ass-headed
 
 4) C. 30. 31. 50. On pictorial representations Parthey remarks, p. 219: “The ass was
 
-[PDF 396]
-
-— 384 —
+[p. 384]
 
 primal significance also a representation of the force of natural generation, and indeed in an entirely Poseidonian conception, so that in this connection too the ass remains wholly true to its phallic Priapus significance. Despite the complete transformation to which the god and his animal fell victim as a consequence of the victorious development of the Osiris cult, the phallic nature of the god, who belongs to an earlier and deeper religious system, is nonetheless still perfectly recognizable. As the physical foundation of Typhon there appears the sea, especially sea salt, whose generative significance has already been established on an earlier occasion through the testimonies of the ancients. Likewise there are assigned to him the depth of the swamps, the hippopotamus, the full moon, the pig. His divine symbol is the phallus; with his ass, on which he too rides out to battle,1) bread cakes are marked.2) So Typhon shares with Osiris the same physical foundation, as the Nephthys joined to him wholly corresponds to the mother Isis (c. 63). We have side by side two pairs of gods equivalent in their foundation: a phenomenon that stands entirely firm, even if the reasons that produced it are not easily determined, and may be sought equally in a progress of religious development and, in the opinion of Jablonski and Bunsen, in an opposition between the parts of the country, Lower and Upper Egypt, which were given over to different foreign influences. Whatever one may think of this, the end of the struggle that developed between the two religions is unmistakable. The two systems attained to fusion. A unified cult, in which now the whole land appears united, took shape. In this Typhon shows all those peculiarities that mark such gods thrust from the throne by victorious later formations. He is preserved as a representation of the evil demonic principle (c. 30. δαιμονικὴ δύναμις) and lends it an expression the gloomier, the more powerfully the luminous side of the life of nature had earlier emerged in him. Now everything that originally belonged to the latter passes over into the opposite significance. The sea, originally conceived as the all-begetting primal father, is now grasped from the side of its destructive nature, hostile to all growth, and abhorred as unclean. Its salt waves are Typhon’s foam of rage, as they are conceived by the Pythagoreans as a tear
 
@@ -5614,9 +5071,7 @@ and that when he had escaped he begot the sons Hierosolymus and Judaeus, evident
 
 2) Plut. Is. 30.
 
-[PDF 397]
-
-— 385 —
+[p. 385]
 
 of Kronos overthrown by Zeus. All evil influences of nature, the parching winds and the scorching heat of the sun, are sent over the land by Typhon. To the beneficent Osiris he opposes himself everywhere as a hindrance in his path. Rage and frenzy distinguish him. However often he is overcome, so often he tears himself loose again and begins the struggle anew. All harmful herbs and animals, as well as all destructive phenomena (c. 33. 32. 44 and often), are acts and effects of Typhon. Destruction is his principle, gloomy Tartarus his dwelling (c. 57), sterility the consequence of his union with Nephthys (c. 12. 44. 59. 38). He is the destroyer and annihilator of the holy doctrine which the goddess Isis gathers and hands down to the initiated (c. 2). Into the same nature all attributes necessarily pass over. The mighty phallus is made harmless by the victory of Horus. The red color, originally the expression of the most highly potentiated natural generation, as Priapus rubicundus and ver rubens (Virgil. G. 2, 219. Arnob. 6, 10.) show us, now counts as an attribute of the destructive force that proceeds from the glowing sun, hence as hateful and as a property of the demonic power hostile to man.1) The ass itself exchanges its priapic significance for that of a Typhonically destructive animal. The more emphatically the former originally emerged, the more glaringly the latter now appears. No animal has so completely embodied the demonic character of the god as that in which the earlier age saw the fullness of the force of natural generation most clearly represented. If animal nature is now regarded in general as demonic,2) and therefore every species of animal is brought into connection with Typhon, then in the ass in particular the red color, the stupidity, the lewdness, and all the bizarreness of its nature3) are emphasized, in order to justify the new significance. With bound feet it is represented on the bread cakes. The hurling from the rock (c. 30), originally an offering pleasing to the god, now appears as an act of vengeance and abhorrence; the braying, formerly an expression of generative force like the sound of the trumpet, as demonic roaring.4) The epithet Σήθ (c. 41), which according to the concordant explanation of Jablonski, Silvestre de Sacy, and Birch (Gallery 1, p. 48) signifies the ass’s foal (Coptic:
 
@@ -5634,9 +5089,7 @@ sage the use of flutes made from ass’s bones is also attested, and the story o
 
 4) Plutarch emphasizes this both in the work de Iside and in the Banquet. In the latter pas‐
 
-[PDF 398]
-
-— 386 —
+[p. 386]
 
 sedsch), is now conceived as an expression of violent hindrance and opposition, and so the preponderance of the generative force is transformed into the preponderance of the hindering demonic force (καταδυναστεῦον ἢ καταβιαζόμενον). All these features lead back, by their very contrast, to the primal priapic nature of the ass, and prove for Egypt the same view that the other peoples of antiquity connected with the same animal and its veneration.
 
@@ -5660,9 +5113,7 @@ years ago. Tertull. in Apologet. c. 16. Sed nova jam Dei nostri in ista proxime 
 
 4) Schol. on Aristoph. Eccles. 1056 (1048.) Ranæ 294 (296) with the Schol. Eustath. p.
 
-[PDF 400]
-
-— 388 —
+[p. 388]
 
 with one leg of bronze, the other of ass’s dung.1) These remains of the animal form are hers from an ass that the Ephesian Aristonymus fecundated.2) She dwells in the underworld and, obedient to Hecate’s command, terrifies by her spectral appearance the traveler, and in particular also those who offer sacrifices to the dead. She is therefore called φάντασμα δαιμονιῶδες ὑπὸ Ἑκάτης ἐπιπεμπόμενον, but is also identified with Hecate herself.3) In the land beyond the Caucasus she appeared to Apollonius of Tyana, who drove her away by calling out insults, as Philostratus 2, 4 relates. In the encounter at Corinth, of which the same author reports at 4, 25, Empusa is equated with Lamia, and her vampire nature, which thirsts for the warm blood and flesh of handsome youths, is emphasized. For the Asiatic diffusion of the ass symbol it is not without significance that the Corinthian specter calls herself a Phoenician, as indeed the Lamia4) placed together with her is called, in Euripides, according to the testimony of Diodorus 20, 41, princess of Libya. That the transfer of the ass’s form to Empusa did not arise from wholly groundless poetic caprice, and therefore may not be regarded as the worthless embellishment of a fantastic ghostly apparition, is for him who has followed the foregoing exposition established without further proof. As Empusa the ass appears wholly in that demonic significance which it bears in itself as a Typhonian animal. As the latter is banished to Tartarus, so Onoscelis too has the gloomy depths of the underworld as her dwelling. All the terrors that Hades inflicts on the race of the living have attained in her a spectral development. But beneath such demonic significance there lies here too an originally wholly opposite one. The connection of the ass with Hecate is probably a very ancient one. For this the Thracian homeland of the Titan goddess vouches, for which we have already demonstrated the same symbol above; for this also her connection with the Hyperborean Apollo, who joins her as Hecatos,5) and who in his love for the Achaean Βολίνη, as well as in the Ionic nickname Βολίτινος
 
@@ -5680,9 +5131,7 @@ mous βόλβιτος see Schol. on Aristoph. Ranæ 294. Festus v. Bobinare p. 3
 
 5) Strabo 13, 1, 61; 13, 2, 5.
 
-[PDF 401]
-
-— 389 —
+[p. 389]
 
 his relation to the fecundating force of dung, in the same way as Hecate makes known hers by her βολίτινον σκέλος. That Ionic exclamation Νὴ τὸν Ποσειδῶ καὶ Βολίτινον might later have been used by iambic poets as a mocking conjunction of the native god with the filthy and despised dung of animals; by its origin, however, it rests on a wholly serious idea, namely on the connection of Neptune and Apollo, who in their tellurian significance build the walls of Troy and are called the Ilian Penates.1) As Βολίτινος Apollo is the priapic Deus Stercutus, equivalent to the Elean Augeas. In the βολίτινον σκέλος of Hecate the same significance lies. The fecundating force of the earth is preferentially attached to the foot and the leg. To the proofs already communicated above may be added the legend of the Egyptian Bubastis.2) To this conception the idea of a leg of animal dung attaches itself quite naturally. What originally had its serious meaning, however, appears in the end as an expression of mockery and as a heightening of the spectral hideousness of an Empusa. The same transformation of meaning which debased the ass to a demon seized also the attribute of the ass’s leg. The kinship of the animal with fecundating dung lies in the phallic nature of both. To find ass and dung combined in the manner indicated can astonish neither in Apollo nor in Hecate. For both bear within them the whole fullness of natural force. Just as intelligible, however, is it that those two attributes later were preserved only in a wholly demonic significance, as was the case with Hecate, or else vanished entirely, even sank to the expression of a crude mockery, as occurred with Apollo.
 
@@ -5698,9 +5147,7 @@ We have now arrived, in the pursuit of the religious significance of the ass, at
 
 2) Etym. m. s. v. ἐπιβᾶσα τὶ βροχθώδους τόπου τοῦ Νείλου, τῶν χηλῶν ἴχνη τῷ πηλῷ
 
-[PDF 402]
-
-— 390 —
+[p. 390]
 
 any caprice whatever. It attaches itself rather to the religious significance of the animal, and with Ocnus reaches back into those earliest times out of whose religious conception the sanctity of the ass proceeded. For Egypt in particular, the role of the ass in the Ocnus paintings shows so perfect an agreement with the Typhonian significance that the land of the Nile assigns to it that the assumption of a Libyan origin of the whole receives confirmation. The distribution of human and animal form between the two sides of the symbol repeats that Egyptian conception which already as such brings animal nature into connection with the evil principle of Typhon, and which, according to Plutarch’s remark, of the divine pair Isis-Osiris presents only the female potency in animal form, never the male. This phenomenon shows that between the dissolving principle and femininity there exists an inner connection, which has found its pictorial representation in the θήλεια ὄνος. This is confirmed by the fact that Typhon, the evil ass Seth, whose phallus is mentioned (Plut. Is. 55), appears on the monuments under the name Tipo as a female being, whom Wilkinson (4, p. 418) places beside the male Typhon as an independent evil being conceived as female.1) We now stand, then, before that peculiarity of the Ocnus paintings whose consideration we earlier postponed and reserved for this place. Its elucidation is most closely connected with the views of the ancients on nature and on the difference of the two sexual potencies. Since I have devoted greater care to this point in my work on mother right, only that shall be adduced here which has immediate application to the purpose at hand. Aristotle reproduces the general idea of antiquity when in various places in his works, most significantly in the Metaphysics 5, 28 (with Schwegler’s parallel passages, vol. 3, p. 239), he presents the male generative principle as the form-giving, the female receptive principle as the material, the former as εἶδος, the latter as ὕλη.2) It is in complete accord with this when the activity of man is regarded as an incorporeal ἐγείρειν, maternity on the other hand as χώρα καὶ δεξαμένη γενέσεως, as τόπος and locus, while figuratively the union of the two is conceived in the form of a vertical line falling upon the horizontal, and is therefore correspondingly
 
@@ -5712,9 +5159,7 @@ dant one in Euripides, Orest. 539–549. The deed of Orestes led to the question
 
 2) On this see the exposition in Aeschylus, Eumenid. v. 627 f., and the entirely concor‐
 
-[PDF 403]
-
-— 391 —
+[p. 391]
 
 represented by the figure of the cross. Only the ὕλη offers locality and space for the reception and development of birth; to the εἶδος it is wholly foreign. According to this conception the wholly material spiritual tendency of the earliest age holds exclusively to the maternal origin of birth. The awakening, form-giving principle finds no consideration. Man is placed on a line with the rest of tellurian creation. The same law governs everything, that of the material maternal womb. In relation to it man takes no other position than that of the sower who scatters the seed and then disappears. If this relation governs the origination of life, it attains still higher significance in its destruction. With death the male potency stands in no connection. Destruction is the negation of the εἶδος, the dissolution anew of the given form. Woman, on the other hand, reveals precisely then the nature of the ὕλη to which she belongs. As for generation coming into being, so for dead generation too she serves as χώρα, as locus and τόπος. All birth sinks back again into the maternal womb out of which it once, awakened by the deed of man, stepped forth into the realm of light. Indeed the ancients recognize precisely in the taking back of the dead the highest expression of maternal love, which keeps faith with its offspring at the moment when it stands forsaken by all others.1) And so intimate does this relation appear that only woman mourns, man himself puts on women’s clothing,2) and the dead in their reunion with the earth mother are called Demetrians after Demeter, Manes after Mana Geneta, and Dani after Δᾶ.3) The truth of all these relations emerges still more clearly in the consideration of the lower creation, which sprouts up without the contribution of man, ultro et injussa. Invisible here is the male potency, a Jupiter arcanus, a true Androgeos. Unnoticed by the human eye, it performs in the depth of matter the work of the awakening of life. Noticeable is only the maternal matter, its connection with the reed in birth and in destruction. Thus here
 
@@ -5728,9 +5173,7 @@ be found in my Mutterrecht. — Hence the fines for violation of a tomb are assi
 
 3) Wyttenbach on Plutarch Moral. 1, 227 f. Scheiffele, Danaïden, p. 28.
 
-[PDF 404]
-
-— 392 —
+[p. 392]
 
 ὕλη emerges in exclusive validity. Here, however, the significance of woman in relation to death becomes all the more predominant, the more mightily in the swamp the creative force performs its work, the more luxuriant the generation, the swifter the passage from death to life. If we take all these aspects of the female nature into common consideration, three inwardly connected relations of it to the dissolving principle result. Standing as ὕλη over against the paternal εἶδος, the mother forms the representation of purely material nature, stripped of every form, such as alone remains after the dissolution of life. As χώρα καὶ δεξαμένη she offers the locality out of which the dead man emerged at birth, and into which he returns at death. Filled with love, she hides the forsaken one in the darkness of the same womb, quasi sinu et gremio matris, in which she once enfolded protectingly the life that was becoming. As Aphroditean swamp mother, finally, she now becomes Libitina or Epitymbia, the representation of the life that rapidly consumes itself through its own fullness, and of that Ananke-Adrasteia who, according to the Orphic conception, as supreme, all-ruling law of death pervades the whole of matter. Thus the idea of destruction lies wholly on the side of the female ὕλη, as that of becoming combines with the male εἶδος. The opposition of the active principle of movement to the female principle of rest appears completed in death. We see how this way of viewing absolutely required a θήλεια ὄνος and a female Typho, and recognize the inner connection that binds the she-ass most closely with the egg-shaped mothers of death on the Lycian Harpy monument, with the interment of the Egyptian king’s daughter in the body of the specially made cow,1) with the Gorgonian Minerva of sterile, deathly nature, with the idea of great tomb mothers, and with the Demetrian naming of the deceased. Everywhere woman appears as bearer of the law of death, and in this identification at once as a loving and as a gloomily threatening power, full of the highest affection, but also of the highest seriousness, like the maternally formed Harpies and the Egyptian-Phoenician sphinx, which bears in itself the law of all material life.2)
 
@@ -5744,9 +5187,7 @@ sepulchral lamps that an ass’s head adorns, with reference to Vesta. Bohlen, I
 
 2) The loving mourning of the earth for the dead, in that ἐλεοῦσα τὸ πάθος ἄνθος ἀνῆκε,
 
-[PDF 405]
-
-— 393 —
+[p. 393]
 
 account has been confirmed on all sides. The opposed activity of the rope-plaiting old man and the gnawing she-ass is the representation of a symbol of nature whose content can now no longer be enigmatic. What heightens its significance lies in this, that not some single aspect of tellurian life was grasped and embodied symbolically, but that rather the fundamental law that governs all life of nature and prevails over the whole visible creation has received its simple and perfectly intelligible expression. The life of the earth appears here in its eternal transformation, comparable to a stream that bursts restlessly from its source, has movement as its innermost principle, and by every step is led onward toward the ocean in which it is to vanish. The transience of all sublunary existence is the highest idea that confronts us. It is that flux of things that caused Heraclitus to utter the saying that the phenomenal world is like a water into which one cannot set the foot twice in such a way that it be still the same; but that led the physicists to the assertion that no existence at all can be ascribed to it, and nothing definite can be said, since it possesses no reality. Firm and unchangeable are only the two poles between which life moves to and fro in an eternal cycle. If the rope is at no moment wholly the same, Ocnus and the she-ass, by contrast, remain through all aeons wholly alike. In generating, the former is as indefatigable as the latter in devouring. Plut. Cons. ad Appoll. in Hutt. 7, 322. 339.
 
@@ -5760,9 +5201,7 @@ lo usus, gladio loramenta cædit, atque ita resolutis nexibus, latentia in nodis
 
 1) Justin. 2, 7: cum capita loramentorum inter nodos abscondita reperire non posset, violentius oracu‐
 
-[PDF 406]
-
-— 394 —
+[p. 394]
 
 of such frail and perishable material, while on the tombs of the dead they lavished such extraordinary care and art, pointed out that the former serve only a short time and are destined as a temporary lodging for the wanderers, who at last reach in the tomb the goal of their journey.1) What is here so emphatically stressed for times of settled habitation holds a truth still more striking for peoples of a nomadic way of life. For them the tomb is the only fixed abode, life eternal movement, death rest. With good reason the Scythians answered the Persian king who demanded their submission: their wandering life meant that they would nowhere make a stand; the living had no fixed seats, only the dead. Should it occur to the king to approach these, then the army of the Scythians would already stand ready for battle and for the protection of the tombs. Herod. 4, 127. The same idea emerges movingly in the custom of erecting for the dead their æterna domus along the highways. It may itself stem from the times of nomadic life, as indeed the shepherds of the Tuscan Maremma to this day prepare the grave by the wayside for their traveling companions and mark the place of final rest by a heap of earth and stones. Thus the oldest cities may have grown up around burial places, just as later the streets of tombs formed the approach to the cities. The farther we ascend into those primeval times to which the artless Ocnus symbol belongs, the greater appears the agreement of the custom of life with that natural law which raises movement and eternal passing away to the principle of visible creation, and ascribes firmness, rest, and eternal duration to death alone. How well the ancients succeeded in giving reality to this idea in the layout of their tombs is shown by the continued existence of their necropolises, to which today we owe almost alone our knowledge of ancient life, which show it to us from its fairest side, and which will still arouse the loving sympathy of the most distant generations when the cheerless sobriety of Christian burial places has long since won no heart. The eternity that antiquity knew how to give to death sets the idea of transience, as it emerges so overwhelmingly from the Ocnus symbol, in still sharper relief. The whole effort seems directed at giving to that cry of anguish: ματαιότης τῶν ματαιοτήτων καὶ πάντα ματαιότης a most melancholy expression, and at proclaiming, in the place of the death that annihilates what is dearest, that lesson that too great an attachment is not fitting for man. Φεῦ φεῦ· βροτοῖς ἔρωτες ὡς κακὸν μέγα.2) [PDF 407] — 395 —
 
@@ -5778,9 +5217,7 @@ And yet this is not the last idea that called forth the admission of the Ocnus p
 
 1) Pausan. 2, p. 198–200. ὁ Ποντῖνος οὐκ ἐᾷ τὸ ὕδωρ ἀπορρεῖν τὸ ἐκ τοῦ θεοῦ ἀλλὰ ἐς
 
-[PDF 408]
-
-— 396 —
+[p. 396]
 
 who walks daily to the seashore and pours Poseidon’s wave, yearning for the embrace of the beloved god, into her bosom, the same idea has put on another symbolic expression, as it were another garment.1) But beside the original natural meaning there now stands a second, an ethical one. The perforated vessel becomes the center of a myth wholly dominated by the idea of eternal punishment, and made to serve for an impressive depiction of the terrors of the underworld and of judgment in the beyond. In this turn of conception rope and vessel meet. Their fate is the same, and their correspondence all the more noteworthy because both have their home in Egypt, are still connected there in later times by local proximity, and preserve their kinship even in the funerary scenes. Beside the similarity in principle, there shows itself, on the other hand, a remarkable difference. With the perforated vessel the myth of the Danaids enters into connection, whereas every similar relation has remained foreign to the Ocnus rope. Through that coming together of symbol and myth in the vessel of the Danaids, the fact of a definite crime is laid at the foundation of the punishment, and the torment after death is thus justified by the bloody deed done in life: a supplement that is wholly lacking in the case of Ocnus. In the Danaid myth it now becomes possible for us to observe the course that the simple natural symbol followed in its transformation into the image of eternal punishment. The story of the Danaids falls into two halves. The one comprises the great drama of their struggle against the forced union with the sons of Aegyptus, which ends on the shore of Inachus with the bloody murder of the wedding night; the other, the judgment of punishment to which the maidens fall victim in the realm of the dead. The two components bear a wholly different character. The struggle and bloody deed of the Danaids belong to history, as indeed the fathers Danaus and Aegyptus are listed in the excerpts of the royal lists and exactly fixed as to time and descent.2) No less is the nature of the struggle that divided the two related lines wholly clear, and in full accord with the gynecocratic
 
@@ -5792,9 +5229,7 @@ tails on the gynecocracy of the Danaids may be found in my Mutterrecht.
 
 2) Manetho in Josephus contra Apionem. 1, 55. Fr. h. gr. 2, 573. Cf. Diodor 40, 3. The de‐
 
-[PDF 409]
-
-— 397 —
+[p. 397]
 
 Amazonian nature of the daughters of Danaus. According to all versions of the legend, the right lies on the side of the fleeing maidens, who seek to escape the impiety, hateful to the gods, of their violent cousins. According to the principle of gynecocracy, the last and highest decision was theirs, theirs the dominion over themselves and over the man. When Hypermnestra spared her bridegroom, she thereby made herself guilty of a crime against her sex. With good reason she was brought to trial by her bloody sisters. For to uphold the right of woman against the violent cousins, and to atone for its breach in their blood, that was not only their right but their highest duty. From the standpoint of gynecocracy, which is established for the Nile valley, no one was blameworthy but the sparing Hypermnestra, who preferred to serve her heart rather than her right. The idea of punishment could not belong to this standpoint. To conceive the deed of the maidens in the light of crime required the destruction of the law and of the whole mode of conception of the oldest time. Only when this had been completed did abhorrence strike the wicked blood-deed of the husband-murdering women. Only now did Hypermnestra alone appear free of guilt, all the others monsters dripping with murder. The imposition of eternal penance in the realm of darkness thus rests on presuppositions that were fulfilled only in the course of time, and so the second mythic half of the story cannot be held to be as original as the historical event that underlies it. But the conception, too, of the nature of the punishment to which the Danaids fall victim is anything but arbitrary. On the contrary, there shows itself between it and the deed itself the most perfect agreement, and a correspondence that keeps the two halves of the whole story in harmony. In following the command of Amazonian gynecocracy, the Danaids broke the Aphroditean law that imposes on woman surrender and love of motherhood. Hypermnestra alone remained obedient to it, and therefore the goddess takes over her defense. In the splendid fragment of the Aeschylean Danaids (Herrmann Vol. 1, p. 320; compare Euripid. Hippol. 445–452; 1257–1271) that has been preserved for us in Athenaeus, Aphrodite stresses material union and generative embrace as her highest law and that of woman, and thereby gives most clearly to understand wherein she finds the guilt of the bloody sisters. This very natural law that was broken, however, has its representation in the perforated vessel, which again and again takes in the generative moisture; and so the myth, in assigning to the transgressors the work of drawing water, follows the principle that crime and punishment must correspond to each other. Bloody, man-hating Amazons [PDF 410] — 398 —
 
@@ -5804,9 +5239,7 @@ profane, read Plato T. 6. p. 218. T. 1, p. 157. Bip. Diodor 1, 96. Stobæus, Ges
 
 1) On the doctrine of the blessedness of the initiated and the punishments of the
 
-[PDF 411]
-
-— 399 —
+[p. 399]
 
 the mysteries he chooses as his portion the better hopes that they offer; for ill, if by scorning them he surrenders himself wholly to matter and to the law of matter, to passing away and to the eternal change of the sublunary world of becoming. The life of such a man is vain toil and sheer delusion, like drawing water into a perforated vessel; his future never-ending torment, such as the Danaids suffer. The initiate, by contrast, does not fall prey to the sad lot of a purely material life; his existence is not lost and not in vain, no drawing of water into a running sieve; for him death is the fulfillment of better hopes, the νέος θάνατος, the beginning of those nova salutis curricula that lead him across the boundaries of the material world of becoming into the immaterial, timeless world of being. Τέλος and τελετή coincide for him.1) The end of bodily life becomes the fulfillment of the hope that initiation gave. Out of the destruction of matter he presses through to communion with his god, as from the darkness of the egg the bird flies off on light wings toward the light.
 
@@ -5826,9 +5259,7 @@ come to knowledge (of the fate allotted to it), and then there takes place in it
 
 3) In a fragment attributed to Phrixus; on the Orphic τίς οἶδεν εἰ τὸ ζῆν μέν ἐστι κατθανεῖν,
 
-[PDF 412]
-
-— 400 —
+[p. 400]
 
 Who knows whether our life is not only a death, and being dead, by contrast, life? and whether we are perhaps in truth dead. What I have also heard before from one of the wise, that we are now dead, and our bodies are only our tombs, but that the part of the soul in which the desires are is a constant inclining and repelling upward and downward, which a distinguished man who composes symbols, a Sicilian perhaps or an Italian, playing on the word, called a jar, because of its filling and its wanting to hold, and the unrestrained he called the shut out; and in these shut out ones the part of the soul where the desires are, precisely because of its unboundedness and lack of hold, could not close, like a leaky jar, to which he compared it on account of its insatiability. And in complete opposition to you, Callicles, this man shows that in the world of shades, by which he meant the world of spirits, those shut out ones would be the most wretched, and would carry water into the leaky jar with an equally leaky sieve. By the sieve, however, he understood, as he said who told it to me, the soul, and the soul of the unrestrained he compared to a sieve, because it is leaky and can hold nothing fast, from uncertainty and forgetfulness. This is, to be sure, rather strange, but it makes clear what I should like, if I could show it in any way, to persuade you to change: and instead of the insatiable and unbridled life, to choose the temperate one that contents itself with whatever is at hand.” That the life of the initiated and that of the profane are here set against each other is sufficiently clear. In this connection the leaky jar takes shape as the image of the soul of the profane, the world of shades to which it belongs as the realm of spirits, the whole symbol as a recommendation of that sanctification which was also impressed upon the mystae, as the highest commandment, by the call: ne intret nisi qui se innocentem noverit.1) Although Plato, then, calls the image of the leaky jar a strange one, which will hardly convince Callicles, one nevertheless recognizes that it did not originate in Socrates’ own invention but was offered to him by the mysteries,2) and thus linked up with familiar conceptions. Thereby it loses its strangeness, and the supporting word plays (ἀνόητος-ἀμύητος; πείθω, πιθανός-πίθος; ᾅδης-ἀειδής; σῶμα-σῆμα) lose everything offensive that would weigh upon them if the sole occasion of the comparison employed lay in them.
 
@@ -5836,9 +5267,7 @@ Who knows whether our life is not only a death, and being dead, by contrast, lif
 
 2) Julian. Or. 7. 216. (Lob. p. 811.)
 
-[PDF 413]
-
-— 401 —
+[p. 401]
 
 22.
 
@@ -5846,9 +5275,7 @@ We have endeavored to set forth, for the perforated vessel, the whole series of 
 
 26
 
-[PDF 414]
-
-— 402 —
+[p. 402]
 
 already said. It is that higher mystery idea to which the representation of the underworld torments and terrors is subordinated. There is a deliverance from the hands of those dark powers who terrify mortals with never-ending pain. He who through the initiation of the mysteries chooses the god as his guide1) has won the victory over them not only on the stormy sea but also in death, like Heracles over the hound of Hades, Oedipus over the Sphinx, Orpheus over the Sirens, against whose death-bringing song he sings the saving song of his higher wisdom. Not what the dead man awaits, but what he has overcome, is what the Campana frieze shows. Τῶν μὴ μεμνημένων, that is the consoling explanation that must be read above Ocnus and above the heads of the Danaids. What is expressed in words in the Lesche at Delphi, the picture of the pediment represents in the tomb at the Porta Latina.2) Achilles, instructed by the wise Chiron in lyre playing, forms the higher member of that antithesis which, above the night side of the human lot, opens the view into the realm of light. With pleasure the eye rises from the penitents of the dark depth to the wise centaur and his pupil listening with satisfaction, to rest, after the sight of the terrors, on the picture of the hero who has pressed through to the enjoyment of the highest eternal bliss. If in the lyre the reference to Orpheus, the founder of all higher mystery wisdom, is not to be mistaken, as in the world of the tombs initiation received is often symbolically indicated by it alone, then Achilles’ attentive devotion to the instructing word of the wise teacher corresponds wholly to that principle of initiation already stressed above, which demands of the initiates a purely passive receptivity (παθεῖν), no examining and investigating activity of the spirit (μαθεῖν), and which recognizes in the childlike subordination of the one to be received under the higher wisdom of the mystagogue, raised to spiritual father through the conferring
 
@@ -5858,9 +5285,7 @@ p. 408. Staphyl. Naucrat. in the fr. h. gr. 4, 505, 2. Müll. Schol. Apollon. Rh
 
 2) Picturæ Herculan. T. 1. t. 8, Pausan. 3, 18. p. 255. Welcker on Philostr. Im. 2, 2.
 
-[PDF 415]
-
-— 403 —
+[p. 403]
 
 of initiation,1) the first and indispensable condition of an initiation that brings blessing. (Above, p. 211, note 1.) No representation could bring this mystery idea before the soul with equal vividness and truth as that of the wise centaur and the seven-year-old Ligyron entrusted to him, to whom the artist knew how to lend the most eloquent expression of attentive devotion to the teacher’s instructing word. No representation, further, corresponds so exactly to that other fundamental idea of the mysteries, that immortality is bestowed not on matter but only on spirit. In vain did the mother strive to equip her offspring with that imperishability which she herself enjoys. She is unable to shield the bloom of the body against the inescapable lot of death. But by entrusting the boy to Chiron’s teaching (cf. Eurip. Suppl. 914–919) she attains on a higher plane what on the lower stage of material life is not possible even for the immortal mother. Instructed in all that benefits the heart by the holiest of men, the Philyrid, and above all enjoined always to be of simple custom,2) the son of Peleus overcomes the bitter lot of death that is allotted to him like the humblest product of perishable creation. If the mother, with the whole chorus of the Nereids, mourns the splendid youth’s early destruction, if the mothers all3) weep in him the most poignant expression of that inescapable transience to which everything falls victim that their womb bears, yet in Achilles’ fate it is set before their eyes that spiritual excellence, heedless of bodily perishability, is able to win eternal fame. Led by Chiron already as a boy to everything great, Thetis’s son acquires through the glory of his works that immortality which the anxious mother could not give to his body. On Leuke, united in eternal bliss with the fairest of women — he, the greatest of heroes — Achilles comes to share in all that he sought in vain on earth and could not win lastingly. “Blessed as ever a man was, I should have become, had I won your hand, daughter of Agamemnon.”4) This he owes to Chiron’s teaching,
 
@@ -5876,9 +5301,7 @@ Fabretti, Inscr. c. 10 n. 442. p. 723; especially the description Il. 9, 393 f. 
 
 4) Euripid. Iphig. Aulid. 1404. Consider also the Amazon dying in Achilles’ arms.
 
-[PDF 416]
-
-— 404 —
+[p. 404]
 
 which implanted in his soul what Thetis had falsely regarded as an inheritance of matter. Achilles sets before our eyes both sides of human existence in their most shattering contrast. To the excellent as to the most cowardly the same lot of death is allotted. Indeed, it snatches the noble away with double greed, as though Hades looked more covetously to the possession of the good than of the bad. But over spiritual sublimity death has no power. “For brave men are not hateful to the gods, and only the lot of the ignoble is endless woe.”1) Never-ending bliss of a higher, blessed existence is allotted to virtue after the destruction of the body. Thus Achilles is man’s consolation and model at once. He resolves the mother’s grief over the annihilation of matter into joy over the spirit that, through the excellence of its striving, has pressed through to the enjoyment of eternal bliss.2) If Peleus, the swamp man, begot the boy with Thetis, the mother of moist matter, as perishable as rushes and frogs, those Peleids of the muddy shallows,3) then Chiron, his spiritual father, has prepared for him the way to Apollonian luminous nature, in which he, risen out of the material world of becoming, associates himself with the timeless world of being.4) For Achilles shares in Apollonian nature. In Apollo’s Delphic sanctuary he has found admission. There he rests, united with the god,5) to whose luminous nature he aspired in life, and his descendant too presides protectingly over the holy place.6) Chiron’s wisdom is Apollo’s gift, his lyre Apollo’s instrument, whose soothing, beautiful harmony has carried off the victory over the shrill tones of the tellurian reed pipe.7) In this eternally serene, Apollonian luminous nature Bacchus’s related yet more material
 
@@ -5904,9 +5327,7 @@ Aen. 6, 57. Ov. M. 12, 606. Aeschyl. in Plut. de legend. poët. in. — Paus. 10
 
 7) Xenoph. Cyneg. 1. Philostr. Her. 9. Icon. 2, 2. Pind. Pyth. 9, 65. — Paus. 5, 14, 6; 8, 31,
 
-[PDF 417]
-
-— 405 —
+[p. 405]
 
 being has also climbed to its highest stage of purity, as in the wise Chiron the Dionysian centaur puts on perfected Apollonian luminous nature. Now the meaning of the representation in the pediment of the Roman tomb, and its relation to that on the lower-lying frieze, is presented in all its fullness and beauty. The antithesis appears moving through its simplicity and depth. Below, the dark abyss of Acheron filled with reeds; above, the eternal clarity of the realm of light. There the idea of death and destruction, here that of life. There penance and torment, here the prospect of the reward of a blessed existence. Below, purposeless life and vain toil; above, higher striving with the prospect of the fairest reward. Below, tellurism with all its terrors; above, the Apollonian height of light with all its calming clarity. What overcomes the terrors of Tartarus is represented by Chiron’s Apollonian cithara. If we beheld there the hopeless future of uninitiated human beings given over to a purely material life, then Achilles, listening to the instruction of the wise teacher, shows what is able to surround death with better hopes and to break the dark power of the tellurian forces. Chiron stands beside the penitents as the higher resolution, in contrast to them, just as in the Pamphili tomb Niobe’s grief is set in parallel with the deliverance of Prometheus.1) The tones of anguish of those who suffer have found their resolution in the harmonious sounds of the heavenly lyre. In the representation of Hades and its torments we recognize, then, the intention of setting the benefit of the initiations emphatically before the eyes, and of making visible in a picture the so often repeated doctrine of the ancients about their blessing. The sight of so many hopelessly penitent souls is meant to recommend the choice of the higher life, as the mysteries demand it, as the better portion. With this intention the torments of Tartarus were depicted by the ancients no less frequently than the fire-torment of the damned is in Italy today.2)
 
@@ -5918,9 +5339,7 @@ c. Aristog. 52, p. 786. Ovid. M. 4, 448. Plato Pol. 10, 615. 616. — Raoul-Roch
 
 2) Plaut. Capt. 998. Vidi ego multa sæpe picta quæ Acherunti fierent cruciamenta. Demosth.
 
-[PDF 418]
-
-— 406 —
+[p. 406]
 
 Tales of terror avail
 
@@ -5942,9 +5361,7 @@ Slay your husband, co-begetter of noble children.1) Not without struggle is the 
 
 6) Above, pp. 56, 115.
 
-[PDF 419]
-
-— 407 —
+[p. 407]
 
 To him all good fortune comes through the favor of the gods. As εὐδαίμων θεῶν γάμβρος he gathers in a long life a fullness of goods, as Il. 9, 393 f., Hesiod in the Epitalium Pelei et Thetidis (Tzetz. Prol. in Lycophr. p. 261) present it. Neither Acastus nor the ravening beasts of Pelion can do anything against him. Achilles, on the contrary, has won everything himself, and has preferred the multa vita to the longa. Always to be the first and to strive ahead of the others, that is the watchword of a race whose late scion weeps over the multitude of worlds because he has not yet subdued even one. Precisely in this significance Achilles reveals his highest Samothracian mystery nature, by virtue of which he also possesses the power of expiation and ranges himself with the saving Corybantes, the lyre-playing Dactyls.1) In this he enters the world of the tombs, in this he appears on the pediment of the Roman columbarium as the great conqueror of Hades and its terrors, as the embodiment of the mystery idea in its highest perfection.
 
@@ -5960,9 +5377,7 @@ Parthey: κατὰ δὲ τὴν τῶν ἱερέων τέχνην ἄρχεσ�
 
 ever greater perfection of the created, the creative principle too comes to revelation in ever-growing beauty. Like that stepped pyramid joined to so many funerary monuments, the religious development of our race builds itself up on the broad base of the purely material conception in such a way that, in gradual elevation out of matter, it strives ever more heavenward. Tellurism with its materiality yields to the higher solar principle, the chthonian conception of force to the recognition of its uranian nature. Above the Poseidonian-Plutonian rises the Apollonian principle of light. Over against this, the former appears not only as a more impure and lower stage of divinity; it also often takes on the meaning of a demonic power hostile to man, which can be turned again to blessing for the mortal only through its subordination under the new, higher law of light. Thus the bloody law of the Erinyes has yielded to Apollo’s atoning divinity and in the end been reconciled. Tellurism with all its dark violence has bowed before the higher heavenly law of light of the Pythian, and subordinated its older claims to those of the new god. In a similar position Ocnus, too, and the Danaids, and everything that belongs to the tellurism of the draconteum genus, fall back. If all these figures banish the generative force of nature into the dark depths of the moist matter of the earth, then above them Apollo rises in the purer incorporeality of heavenly light. Over against him those appear as conquered powers, whose Delphic connection is destined to glorify the power and glory of the victorious god. To Apollo are traced back Oedipus and the destruction of the Sphinx completed through him, and likewise the overcoming of the dark, hopeless existence of the dragon seed. Through him Orestes escapes the pursuit of the Erinyes, and the law of fatherhood is led to victory over the bloody one of the maternal earth law. To his sanctuary, as to that of the Gaditan Heracles, woman may not approach. With his principle of light the predominance of maternal matter is incompatible. If the Danaids nevertheless find admission into the Delphic Lesche, they are meant here to set off still more brilliantly the benefit of the Apollonian nature, which brought destruction to that dark time of hopeless tellurism. The same idea is joined with all those pictures which Polygnotus emphasis that the Egyptian religion indeed has a physical foundation, but that it was the effort of the priests to lead from it to the immaterial divinity, as fire always flames upward toward heaven. 5, 11, 12. p. 214–216. The contrast of heavenly being and of tellurian becoming, caught in constant flux, is developed very beautifully 10, 5, p. 291, the ψυχῆς κάθαρσις as the last goal of religion 10, 7, p. 293.
 
-[PDF 421]
-
-— 409 —
+[p. 409]
 
 transferred from the Greek world of Hades into the Delphic hall. Above them the beneficent, purer nature of the Pythian god shines forth all the brighter. Ocnus and the she-ass take up over against him the same position that is assigned to them in the Roman tomb by their subordination to Chiron’s lyre playing. The sight of them shows the victorious power of the Pythian, who rescued the human race from the cheerlessness of earlier views, such as the Sphinx represents and Silenus laments, and raised its gaze from the figures of suffering in subterranean spaces to the calm clarity of his eternally youthful, changeless heavenly being.1) In connection with Ocnus the ass, too, now appears as an animal hateful to the god of light and banished to Hades. Formerly the joy and delight of the Hyperborean, it is now little agreeable to the purer nature to which the Delphian has risen. Belonging wholly to the phallic nature of tellurian matter and bearing within it its unregulated sensual lust, the ass now represents the nature of impure matter, hostile to Apollonian purity. It is the negation of everything that initiation gives and demands of man. With this significance it forms the center of the mystery tale presented by Apuleius. It appears here as the embodiment of the purely sensual life, of all the errors and sufferings into which that life leads. With the reception of the initiations the animal form vanishes. Risen from the chrysalis of matter, man recognizes his beauty and the conditions of an untroubled happiness. To the nature of the ass the initiations form so deep a contrast that the proverb Asinus mysteria vehens can represent, in this sense too, the incompatibility of the two things.2)
 
@@ -5976,9 +5391,7 @@ If we have thus recognized in the picture of the Delphic Lesche the same idea th
 
 2) Suidas. ὄνος ἄγων μυστήρια. Pausan. 10, 17.
 
-[PDF 422]
-
-— 410 —
+[p. 410]
 
 that it lends the old man. Given up here is that labor of rope plaiting which we found to be the most essential feature of the Ocnus representation. The deep rest to which the old man abandons himself brings out quite deliberately the contrast with the traditional conception. It has received in the reclining posture of the animal a no less conscious continuation. Vanished from the surroundings are all those penitents of the underworld who lead the beholder into the terrors of Hades. As Ocnus himself by his inactivity excludes every thought of torment and punishment, so too the landscape, in whose midst he has settled down, breathes only rest and peace. The stillness of the evening seems to have lured the old man out before his farmstead. Here he rests from the labor of the day, and grants the animal, which shared his rural toils, the play with the rope. Thus the Delphic model is wholly given up, and everything deliberately turned to its opposite. What idea could have determined the painter to this procedure? It would be impossible to find any explanation or justification for it if we were to take our departure from the natural-symbolic meaning of the Ocnus picture. For this, the act of rope plaiting is so indispensable that rather everything else could be given up, if only it found its expression. Thereby we are compelled to betake ourselves to an entirely different field of explanation, and to bear in mind the meaning that Ocnus assumed in relation to the mysteries. Now everything receives a satisfying solution. The idea of the Pamphili picture appears in all its beauty. By the simplest means a turn of ideas is brought forth such as would be unattainable for written expression in equal brevity and concise clarity. Out of the penitent Ocnus the liberated Ocnus has come. Where the idea of punishment and eternal torment reigned, rest steps forth, and an equally eternal peace. If the former is the lot of the uninitiated, the latter forms the hope of the initiated. Both parts of the great contrast lie here united in one representation, whereas the picture of the Campana tomb brings them to representation separately. The resting Ocnus arouses at one stroke two ideas: that of the lot of the uninitiated, and that of the liberation which initiation brings. The curse of profane life and the blessing of the life consecrated to god is the double language of a single pictorial expression. In this turn the identification of the deceased with the image of Ocnus has its occasion and its justification. The bearded old man shows us the initiate himself. The figure has the same double reference as the whole representation. It calls before the soul at once the mythological Ocnus and the owner, nameless to us, of that farmstead which he left in dying, and sets before the eyes, for the former, the final liberation from his torment, for the latter the [PDF 423] — 411 —
 
@@ -6006,9 +5419,7 @@ subject because the Echinades, those swamp islands of Alcmaeon, the Egyptian Tha
 
 2) This legend is told by Plutarch de def. orac. 17. It stands in closer connection with our
 
-[PDF 424]
-
-— 412 —
+[p. 412]
 
 That is what lends the ancient world of the tombs so high a significance and makes its contemplation so fruitful on every side: that in it the inner unity of the ancient world of thought emerges more strikingly and tangibly than elsewhere, and hastening centuries are unable to carry through their transforming power. Unchanging as death is the world of the tomb. Every innovation passes it by without a trace. The oldest symbols and conceptions of mankind find here their last but secure place of refuge. A wealth of spiritual treasures lies hidden in the necropolises. The earth gives back what it received thousands of years ago. Most of it is still unintelligible; the study of the ancient world of the tombs has hardly been introduced at all into the circle of our research. If the present attempts have been able to awaken even only an intimation of its importance and significance, then surprising successes will not be long in coming, the tomb finds of our century will be recognized in their true value, and Sigalion, like the mute son of Croesus, will at last find his speech.
 
@@ -6024,9 +5435,7 @@ preserved. Beside black, red appears as the higher, beside white as the lower si
 
 113) in especially remarkable prominence: Cl. I, ser. 9. Sala G, nr. 110, 248. Sala H. 101. Moreover very frequent in connection with the Amazons, whose battles with Heracles and Theseus, and whose connection with Bacchus, are met with on a considerable number of vessels. Frog: Cl. I, ser. 9. Sala G. 165: Sala H. 148. Above, p. 361, 1. — Mule: Cl. I, ser. 9. Sala G. 16, 21, 31, 65, 132. Sala H. 109, 123, 132 always in Dionysian connection. — Ass phallic and as a sign of tellurian fertility: Cl. I, ser. 4, 1069. Oggetti di bronzo p. 11. nr. 85. Above, p. 377. Nicol. Damasc. on the Pisidians in Stobæus Vol. 2, 186. Meineke. — Wheel: Cl. I, ser. 9, Sala H. 215. Cl. I, ser. 4, 765. Above, p. 39, 1. — Key: Cl. I, ser. 9, Sala F. 4, 10 (Pythia and Hecuba). Above, p. 314. — Dionysian women’s adornment, especially Cl. I, ser. 9, Sala L. 25. Specchi, 3. Above, p. 68. — White wool: Cl. I, ser. 9, Sala H. 97. Above, p. 9, 1. — Winged phalluses: Cl. III, 348, nr. 14, 21. Above, p. 153, 1. — Movable mask on the face of an Etruscan tomb-lid figure: Cl. IV, ser. 8, 417. Above, p. 42. — Psyche and Eros in connection with Aphrodite Urania: Pitture romane p. 7. Above, p. 93 f. On the lamp Lucian. veræ
 
-[PDF 428]
-
-— 416 —
+[p. 416]
 
 hist. 1, 29. — Different spellings of the name Odysseus: OLVTEVS (Cl. I, ser. 4, 877), OLVTTEV. (vasi Nolani, Sala K. 84), OLTEVS (Cl. I, ser. 9, Sala J. nr. 134). Above, p. 323. — Beans: Cl. III, ori argenti glittica Etrusca e Romana 1, 14, 33. The last piece is described as follows: Corona di foglie di fava e d’ellera, con bacche stampate e fermagli con figure e rosette riportate in rilievo: il tutto costruito sovra una sottilissima lamina di oro. Above, p. 128. — Finally the significant and especially frequent emergence of the number five deserves attention. Thus we meet five warriors, five dancing figures, five horses’ heads, five Ionic columns, five winged sphinxes, five flowers, and objects of various kinds too are combined with one another in the number five. For the application of the Pentas, moreover, Alexandria quinquevertex is significant. The city of the united cult of Sarapis and Isis (Arr. 3, 1.) is the city of five hills, as Rome is septemplex. Above, p. 281. Jul. Val. Res gestæ Al. M. 1, 18. 29. To the five hills correspond the first five letters of the alphabet, which bear the walls of the newly founded city and its five quarters (Philo in Flaccum ed. Mangey T. 2, p. 525), and to which later writers gave the interpretation: Ἀλέξανδρος Βασιλεὺς Γένος Διὸς Ἐποίησεν (Ἔκτισεν). Here we have again the E of Delphi as the highest number, and this agrees with the Pythian oracle, which calls the god of Sinope Apollo- Father. Tacit. Ann. 4, 83. 84. It is the Hyperborean god in whose stations the Pontus city is also listed. His phallic nature is matched by the Dionysian Pentas, not by the perfect seven of uranian-spiritual nature. — With the number five Alexander’s ἑτεροφθαλμία, corresponding to the ἑτερημερία of the Dioscuri, whom Alexander also especially venerated (Itinerar Al. 90), stands in connection. Pseudo-Callisth. 1, 13 with Müller’s n. 10. Tzetz. hist. 11, p. 268. — At Alexandria the serpent cult occupies a prominent place. Jul. Valerius or his source, which bears on its brow the mysterious name of Callisthenes, famous for his learning no less than for his unhappy death, contains on this a statement which casts new light on the feeding of serpents discussed above, pp. 131, 140. At 1, 29 the Sepulcrum draconis is mentioned and it is added: Ejusque mos vivit et adhuc Alexandriæ religiosus est sub Penatium Deorum honore, et æstatis diebus suetus coli more religionis ejusmodi. Polentam ex tritico quod sit esui anguibus jaciunt, et coronatis optimatium mos est templum Herois scandere, cui talia scilicet anguina obsequio famulentur. Cf. Herod. 1, 78. Serv. Aen. 5, 85. The same Jul. Valerius furnishes a valuable contribution for the significance of the left side, 3, 20: Quærit etiam (Al. a Gymnosophistis) quasnam in homine partes honoratiores esse existimarent? Lævas esse responsum est, quod [PDF 429] — 417 —
 
@@ -6034,9 +5443,7 @@ sol etiam oriens ex lævo dextrorsum curriculum exsequatur: tunc quod promixtio 
 
 27
 
-[PDF 430]
-
-— 418 —
+[p. 418]
 
 of the phallic formation with old age (p. 367), Origenes, philosophum. ed. Miller p. 144. On the myrtle wreath in the mysteries Tzetzes on Cass. v. 1328, p. 1006 Müller. — Wieseler treats the Delphic omphalos in the Ann. dell’ Instit. 1857, p. 160–180. This essay gives me occasion for some remarks. The omphalos is referred in it to Hestia and called the symbol of this deity. Two concessions lie in this. First, the Delphic omphalos is detached from Apollo, and moreover the female connection with the material primal motherhood is substituted for the male bond with the θεὸς πατρῷος. These two propositions agree completely with the conception carried out above, pp. 106–108. The divergence of our views begins only with the further question, in what personification we are to conceive that motherhood? W. decides for Hestia, the above consideration for Themis- Gaea; to the latter opinion I still hold fast. It is supported by various circumstances already indicated by Ulrichs, Reisen und Forschungen in Griechenland, pp. 78, 93. Orestes’ atonement at the omphalos, over which the blood of the piglet runs off, shows that the latter belongs to the earth, for through the matricide the earth is violated, hence the atonement and consequently the omphalus can apply only to the earth. Further, it is said in Euripides, Ion 5, Plato, Republic 4, 5, that, seated on the omphalos, Apollo proclaims his oracles; since now, according to Aeschylus’s Eumenides, the oracle passed from Themis-Gaea to the male god, the conclusion is inescapable that the Apollonian omphalos must originally have belonged to the great mother Themis-Gaea, and not to Hestia. Third, the expression Γῆς ὀμφαλός is entirely constant, as the passages in Ulrichs, p. 93, n. 61 show, Ἑστίας ὀμφαλός without example, although Hestia’s connection with Delphi cannot be denied, but is rather as firmly established for the Pythian sanctuary as for any other whatever. Hymn. Hom. in Vest. et Mercur. 1. 3. Γῆς ὀμφαλός is, to be sure, finally used as a designation of the center of the earth. But this meaning presupposes an older one, from which it was derived. In the original sense Γῆς ὀμφαλός designated the cult image of Mother Earth. From this the idea of the center of the earth develops in the following way. In motherhood lies the generative significance. The female κτείς belongs in this sense to the symbols of the Themis mysteries. But the generative forms the center, and takes this place locally as well. Varro. L. L. 7, p. 303 Spengel: Neque hic locus est terrarum medius, neque noster umbilicus est hominis medius. Itaque pingitur qui vocatur ἡ χθὼν Πυθαγόρα, ut media cœli ac terræ linea ducatur infra umbilicum per id quo discernitur, homo mas an femina sit, ubi ortus humanus similis ut in mundo; ubi enim omnia nascuntur in medio, quod terra mundi [PDF 431] — 419 —
 
@@ -6050,47 +5457,25 @@ itself receives a higher Jovian relation. Schol. Pind. Pyth. 4, 6. Schol. Soph. 
 
 Descriptions of the Plates.
 
-Plate 1. Ground plan of the columbarium on the Via Latina. Front view of the
-
-aedicula. — Ocnus representation of the frieze. — After the illustration pub‐
-
-lished by Campana, Illustrazione di due sepolcri Romani, Roma 1841. — See
-
-above, p. 303. Plate 2. The resting Ocnus from the columbarium of the Villa Pamphili. After
-
-the illustration by Carlo Ruspi in the united collections at Munich. — See
-
-above, p. 301. — The rope-plaiting Ocnus on the marble round altar of the
+Plate 1. Ground plan of the columbarium on the Via Latina. Front view of the aedicula. — Ocnus representation of the frieze. — After the illustration published by Campana, Illustrazione di due sepolcri Romani, Roma 1841. — See above, p. 303. Plate 2. The resting Ocnus from the columbarium of the Villa Pamphili. After the illustration by Carlo Ruspi in the united collections at Munich. — See above, p. 301. — The rope-plaiting Ocnus on the marble round altar of the
 
 Museo Pio-Clementino. After Visconti, Museo Pio-Clementino. Vol. 4, tav.
 
-36. a. — See above, p. 303. — Cameo of the Museum Florentinum, the egg
+36. a. — See above, p. 303. — Cameo of the Museum Florentinum, the egg held by two upright dragons, with the inscription ΥΓΙΑ. After Gori, Museum
 
-held by two upright dragons, with the inscription ΥΓΙΑ. After Gori, Museum
-
-Florentinum, vol. 2, tab. 23, fig. 4. — See above, p. 138. — Canopus on a
-
-gem of the Museum Florentinum. After Gori, Museum Florentinum, Vol. 1.
+Florentinum, vol. 2, tab. 23, fig. 4. — See above, p. 138. — Canopus on a gem of the Museum Florentinum. After Gori, Museum Florentinum, Vol. 1.
 
 tav. 59. fig. 2. — See above, p. 183. Plate 3. Tomb painting from the columbarium of the Villa Pamphili. The three
 
 mystery eggs. After the illustration by Carlo Ruspi in the united collections at
 
-Munich. — See above, p. 3. — The great penitents of the underworld, from
-
-the Codex Pighianus. After Otto Jahn, Die Wandgemälde des Columbarium in der
+Munich. — See above, p. 3. — The great penitents of the underworld, from the Codex Pighianus. After Otto Jahn, Die Wandgemälde des Columbarium in der
 
 Villa Pamphili, Munich 1857, plate 7, fig. 21. — See above, p. 304. — Plate 4. Vase painting of a Vulcian balsamarium. Birth from the egg. After the
 
 illustration in the Annali dell’ Instituto di correspondenza archeologica, Vol.
 
-22, tavola d’aggiunta 4. — See above, p. 36. — Fragment of a glass vessel, the
-
-victor of the Capitoline games as Alfeius. After Buonarroti, osservazioni so‐
-
-pra alcuni frammenti di vasi antichi di vetro ornati di figure, trovati nei cimi‐
-
-teri di Roma. Firenze, 1716. See above, p. 234.
+22, tavola d’aggiunta 4. — See above, p. 36. — Fragment of a glass vessel, the victor of the Capitoline games as Alfeius. After Buonarroti, osservazioni sopra alcuni frammenti di vasi antichi di vetro ornati di figure, trovati nei cimiteri di Roma. Firenze, 1716. See above, p. 234.
 
 [PDF 435]
 
@@ -6100,15 +5485,11 @@ First Treatise. pp. 1–297.
 
 The Three Mystery Eggs. § 1. pp. 1–27. Description of the tomb painting on pl. 3. — The eggs and their double color. — Examples of the same combination on monuments and in authors. — Its significance. — The two-colored egg and the wreath in the Bacchic mysteries. § 2. pp. 27–38. The egg as a sign of Bacchic initiation on funerary monuments. Consideration of the individual monuments, in particular of a still unpublished marble fragment from Munich, of a tomb candelabrum of the Karlsruhe Museum, of a Vulcian balsamarium. § 3. pp. 38–48. Consideration of the sarcophagus of Santa Chiara. — Significance of the egg in the myth of Protesilaus and Laodamia. § 4. pp. 48–64. Enumeration of the egg finds in ancient tombs. — Eggs of burnt clay. — Determination of the significance of the terracotta and of its relation to the physical foundation of the Bacchic divine nature. — Consideration of bronze in its relation to Dionysus, Achilles, and as tomb material. § 5 and 6. pp. 64–75. Dionysian women’s life. — Its significance in funerary scenes. — In particular veils, monile, cloak clasps. § 7. pp. 75–85. Significance of the moon. — Its relation to the Bacchic egg, to the mother goddesses, and to woman in general. § 8. pp. 85–114. Significance of the lamp on the Pamphili tomb painting. — Its relation to the nocturnal festivals of Dionysus and to the moon. — Oil and salt in their cultic significance. — Consideration of the individual monuments and myths in which the lamp emerges significantly, in particular the fable of Psyche. — Fire and light in the various stages of their purity. — Mystery significance. — Connection of the egg with the principle of light. — Omphalos and phoenix egg. — Progress from materiality to immateriality, the principle of human and of religious development. § 9. pp. 114–122. The moon in its relation to death, especially in the world of the tombs. — The union of becoming and passing away in the moon and in the lunar sphere. The heavenly earth as a link between two worlds in the mysteries and the tombs. — Lunar animals, especially the ape in its sepulchral meaning.
 
-[PDF 436]
-
-— 424 —
+[p. 424]
 
 § 10. pp. 122–129. Compilation and discussion of still further egg monuments. — The Lycian egg mothers. § 11. pp. 129–146. Continued. — The connection of the egg with Hygieia, with the serpent, with Aesculapius. Consideration of the egg on several funerary monuments. — The egg of Heracles-Chronos. — Mystery and lustration significance. — Palingenesis. § 12. pp. 147–159. The egg on three Pompeian wall paintings. — Its relation to Fortuna and to the guardian pair of serpents. — Position of the male-generative to the female-receptive principle. Antithesis of rest and motion. § 13. pp. 159–165. Demonstration of the same antithesis in the concepts sanctum — sacrum, ἱερόν — ὅσιον. § 14. pp. 165–184. Connection of law with the female natural principle and with the motherhood of matter. — Demonstration of this connection for a series of mother goddesses, especially for Isis, Dea Syria, Aphrodite. — Significance of the hand, the fingers, the dice, the left and the right side. § 15. pp. 184–200. Continuation of the consideration of law in its connection with the female natural principle. — Law as material natural law. — Jus naturale of the Aphroditean stage of nature. In particular of libertas as law of material life, of the hylic gods, of the Dionysian religion. § 16. pp. 200–216. Continuation of the consideration of the maternal principle of law. — Law as Cerealian law. — Its connection with Ceres, Demeter, Moneta, Bona Dea. — Nature of praetorian and aedilician law. § 17. pp. 216–220. Continuation of the consideration of the maternal principle of law. Gynecocracy presented in its fundamental features and in contrast to the potestas of the Roman father and to the state imperium. § 18. pp. 221–228. The eggs of the circus. Elucidation of their connection with the significance of the games. Cassiodor, Var. 3, 51. § 19. pp. 228–243. Continued. — The sanctuaries and the cults of the circus in their connection with the significance of the eggs. Especially of the connection of the games with water and with funeral rites. — Significance of their representation on the sarcophagi. § 20. pp. 243–254. Continuation of the consideration of the circus games. — In particular the odd numbers prevailing in them: three, five, seven. Elucidation of the number three. — Application of the result obtained to the Pamphili tomb painting. § 21. pp. 255–269. Continuation of the consideration of the circus numbers. Significance of the number five. — Application to the funerary scene. § 22. pp. 269–278. Continuation of the consideration of the circus numbers. The antiquity of the introduction of the Hebdomas into the circus games. — Its sanctity, its connection with Apollo, its application to the celebration of the day.
 
-[PDF 437]
-
-— 425 —
+[p. 425]
 
 § 23. pp. 278–287. Continuation of the consideration of the circus numbers. — Development of the Hebdomas in its various meanings. § 24. pp. 287–292. Application of the results obtained to the number seven of the circus eggs, and to the funerary significance of the games in general. § 25. pp. 292–297. Significance of the colors of the Pamphili tomb painting. — In particular the combination of white and red in its relation to white and black and in its validity in the mysteries.
 
@@ -6126,51 +5507,31 @@ of the Ocnus representation, the gnawing she-ass. — Antithesis of the creative
 
 Dionysus, Vulcan, Midas, Vesta.
 
-§ 16. pp. 379–382. Continued. — Connection of the ass with Apollo Hyperboreus
-
-and with Artemis. — The ass among Scythians, Carmanians, Indians.
+§ 16. pp. 379–382. Continued. — Connection of the ass with Apollo Hyperboreus and with Artemis. — The ass among Scythians, Carmanians, Indians.
 
 § 17. pp. 382–386. Continued. — The religious significance of the ass among
 
 Phoenicians, Jews, Assyrians, Egyptians. — Its Typhonian-evil nature.
 
-§ 18. pp. 386–389. Continued. — The Typhonian significance of the ass demon‐
-
-strated in a series of mythological formations.
+§ 18. pp. 386–389. Continued. — The Typhonian significance of the ass demonstrated in a series of mythological formations.
 
 § 19. pp. 389–392. Application of the view obtained to the Ocnus symbol. —
 
 Significance of the female sex of the gnawing she-ass.
 
-§ 20. pp. 392–394. Antithesis of the plaiting and the devouring principle. — The
+§ 20. pp. 392–394. Antithesis of the plaiting and the devouring principle. — The eternal flux of the phenomenal world brought forth by the united labor of both.
 
-eternal flux of the phenomenal world brought forth by the united labor of both.
+§ 21. pp. 395–400. Admission of the Ocnus symbol into the tombs. — Sepulchral meaning of the same. — Ocnus as penitent of the underworld. — His connection with the Danaids. — Elucidation of the myth of the Danaids and of the mystery idea contained in it.
 
-§ 21. pp. 395–400. Admission of the Ocnus symbol into the tombs. — Sepulchral
-
-meaning of the same. — Ocnus as penitent of the underworld. — His connection
-
-with the Danaids. — Elucidation of the myth of the Danaids and of the mystery
-
-idea contained in it.
-
-§ 22. pp. 401–407. Antithesis of the scene of the tomb frieze with that of the
-
-pediment of the aedicula, of Ocnus doing penance in the underworld with the boy
+§ 22. pp. 401–407. Antithesis of the scene of the tomb frieze with that of the pediment of the aedicula, of Ocnus doing penance in the underworld with the boy
 
 Achilles instructed by Chiron in lyre playing, of uninitiated with initiated life.
 
 Sepulchral meaning of Achilles.
 
-§ 23. pp. 407–409. Further development of this antithesis. — The subjugation of
+§ 23. pp. 407–409. Further development of this antithesis. — The subjugation of tellurism by the Apollonian luminous nature.
 
-tellurism by the Apollonian luminous nature.
-
-§ 24. pp. 409–412. The resting Ocnus of the Pamphili tomb. — Antithesis of the
-
-penitent and the liberated old man. — Juxtaposition of the original physical signifi‐
-
-cance and the highest spiritualization of the Ocnus symbol.
+§ 24. pp. 409–412. The resting Ocnus of the Pamphili tomb. — Antithesis of the penitent and the liberated old man. — Juxtaposition of the original physical significance and the highest spiritualization of the Ocnus symbol.
 
 Addenda. Emphasis on some funerary vessels described in the Museo Campana. —
 
@@ -6552,11 +5913,7 @@ Helioplan print (legally protected) by F. A. Brockhaus, Leipzig [PDF 447] Ocnus.
 
 [PDF 448]
 
-Plate II
-
 [PDF 449]
-
-Plate III
 
 [PDF 450]
 

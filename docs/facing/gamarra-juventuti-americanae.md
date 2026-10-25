@@ -6,7 +6,7 @@ year: 1774
 original_language: la
 translation_language: en
 edition_layout: photocopy (scan beside the English)
-source: recovered from the PDF ‘Gamarra - Juventuti Americanae (Latin-English facing edition).pdf’ (the page files were not kept) — THIS FILE IS THE SOURCE, corrections go here
+source: recovered from the PDF ‘Gamarra - Juventuti Americanae (Latin-English facing edition).pdf’ (the page files were not kept)
 original_text: not in this file (scan only — see the PDF edition)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 15
@@ -16,15 +16,13 @@ generated: 2026-10-24 by corpus.py
 
 # Juan Benito Díaz de Gamarra, *Juventuti Americanae (preface to the Elementa)* (1774) — *To the Youth of America*
 
-Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong.
+Conventions: `[p. N]` marks where a printed page begins (its folio as printed); `[PDF N]` a page of the source PDF with no printed number; the English only; the original is not in this edition (see the scan in the PDF edition); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml.
 
 [PDF 1]
 
 Juan Benito Díaz de Gamarra sends greetings and his lucubrations.
 
-Y    our cause, all of you, is at stake, young men of most
-
-excellent talent, fitted beyond other nations for the Sciences. It is your cause that is now at stake. For I did not wish these pages to be written for, or dedicated to, learned Men who think they have attained Philosophy, such as it is, by the labor of two years (and not very strenuous labor at that); nor to those who all day long pronounce from the School’s lectern, as from a tripod, on matters exceedingly difficult and not equally well known to themselves (*). But to you, young men, who are now for the first time approaching these sacred rites, and who are about to enter, when at length it may be allowed, the citadel of human Philosophy, than which nothing can be more delightful.
+Your cause, all of you, is at stake, young men of most excellent talent, fitted beyond other nations for the Sciences. It is your cause that is now at stake. For I did not wish these pages to be written for, or dedicated to, learned Men who think they have attained Philosophy, such as it is, by the labor of two years (and not very strenuous labor at that); nor to those who all day long pronounce from the School’s lectern, as from a tripod, on matters exceedingly difficult and not equally well known to themselves (*). But to you, young men, who are now for the first time approaching these sacred rites, and who are about to enter, when at length it may be allowed, the citadel of human Philosophy, than which nothing can be more delightful.
 
 To you, great hope of our Country, I submit these Institutions of the Newer Philosophy, excerpted, very briefly indeed, from here and there; and I would give you far other things, and a good many of them, were the course of the Schools not so short, which by custom you must run through. But come, and since it was for your
 
@@ -36,25 +34,21 @@ First of all, then, I commend to you again and again the History of the Philosop
 
 Others, however, and indeed very many in these times, are so delighted both by Aristotle and, above all, by what, under the name of so great
 
-¶¶¶                           a [PDF 3] a Man (for we freely admit that he was certainly a very great man), is commonly peddled in the Schools, that they seriously affirm that nothing fitter or more convenient could ever be found for sharpening the little wits of boys, and for teaching Sacred Theology eloquently and learnedly, than those everlasting exercises, the disputes and logomachies On Universals, On the Being of Reason, On Substantial Forms, On the Union and the Whole Composite, and six hundred others of that kind, by which minds are indeed tortured and worn down; but I fear they grow no sharper for the pursuit of wisdom and for the best disciplines, at which all our strength and thought ought to aim, as at a target. And what profit, pray, will those utterly empty interpretations of the Mahometans Avicenna, Averroes, Alfarabi, and the rest of the Arab throng be able to bring to the true religion, to the Church of Christ, and finally to Sacred Theology? No doubt the venerable Fathers of the Church, our forebears, now Fathers Conscript among the dwellers in heaven, Dionysius the Areopagite, Ephrem, Irenaeus, Cyprian, Athanasius, Epiphanius, both Gregories, Chrysostom,
-
-Basil,
+¶¶¶ [PDF 3] a Man (for we freely admit that he was certainly a very great man), is commonly peddled in the Schools, that they seriously affirm that nothing fitter or more convenient could ever be found for sharpening the little wits of boys, and for teaching Sacred Theology eloquently and learnedly, than those everlasting exercises, the disputes and logomachies On Universals, On the Being of Reason, On Substantial Forms, On the Union and the Whole Composite, and six hundred others of that kind, by which minds are indeed tortured and worn down; but I fear they grow no sharper for the pursuit of wisdom and for the best disciplines, at which all our strength and thought ought to aim, as at a target. And what profit, pray, will those utterly empty interpretations of the Mahometans Avicenna, Averroes, Alfarabi, and the rest of the Arab throng be able to bring to the true religion, to the Church of Christ, and finally to Sacred Theology? No doubt the venerable Fathers of the Church, our forebears, now Fathers Conscript among the dwellers in heaven, Dionysius the Areopagite, Ephrem, Irenaeus, Cyprian, Athanasius, Epiphanius, both Gregories, Chrysostom,
 
 [PDF 4]
 
 Basil, Leo, Hilary, Prosper, Ambrose, Jerome, Augustine, did not themselves also either defend the Church, or discourse on Theological matters, or rout the profane innovators, the Heretics. On the contrary, they did so above all: for their golden volumes bear witness to it. And yet one would look for Aristotle there in vain. Not that these very great men were ignorant of dialectic and syllogisms, or ordered them banished altogether when matters of the very gravest weight were to be treated or debated: a thing which, had it been done, would have been done quite rashly and heedlessly (yet it was not done by them), and which we would by no means imitate, since the subtleties of syllogisms do not so greatly displease us. But, as I judge, admonished by the saying of Paul, where he says: Beware lest any man cheat you by philosophy, and vain deceit, these most Holy Men resolved, in holiness, to treat all those things which pertain, by God’s revelation, to holiness of life and to everlasting beatitude: from which, assuredly, the whole Philosophy of the Heathen is all but alien. Let them cease, therefore, to deafen our ears, and even to tear us and ours to pieces with abuse, who think they cannot approach Sacred Theology
 
-¶¶¶2                          until [PDF 5] until they have called whole hundreds of petty questions into contest. Unless perhaps these men (as I strongly suspect, and grieve) are pursuing not, after all, Sacred Theology, which is an altogether divine science, but the smoke and shadow of Theology, having embraced a cloud for Juno, as the proverb has it.
+¶¶¶2 [PDF 5] until they have called whole hundreds of petty questions into contest. Unless perhaps these men (as I strongly suspect, and grieve) are pursuing not, after all, Sacred Theology, which is an altogether divine science, but the smoke and shadow of Theology, having embraced a cloud for Juno, as the proverb has it.
 
 But surely, you will say, St. Albert, surnamed the Great, St. Thomas Aquinas (to say nothing for the moment of St. John Damascene), St. Bonaventure too, and the other Theologians of the more recent age, Most Wise Men, admirable for counsel, maturity and character, Peter Lombard, Scotus, Alexander of Hales, were much given to disputation, and did not disdain laborious questions, nor syllogisms, nor Aristotle: and because they often attributed very great authority to this Philosopher, no one could rightly reproach such great Men on that account, as though they were Philosophers of a lower bench and Theologians of little eloquence. Are not these things most certain, and set before the eyes of all, clearer than noonday itself? I grant it. But since mention of this matter
 
-has [PDF 6] has come up, and it calls for circumspect and well-considered speech, let us, if you please, pursue the matter in order.
+[PDF 6] has come up, and it calls for circumspect and well-considered speech, let us, if you please, pursue the matter in order.
 
 As for St. Thomas (for of all the others I must speak afterwards), no mortal ever embraced more, none more skillfully, more learnedly, more temperately, none more briefly, all the things that seemed to bear upon Sacred Theology, or could in any way be referred to it. Immortal God! what genius the Man had! what abundance in disputation! how constant, how great his diligence in unrolling the volumes of the Sacred Page! how he revered the Holy Fathers of the Church! how incredible and almost divine that acumen of his altogether Angelic mind in discerning the most difficult things! what candor in writing, what method in teaching, what severity in judging! You might truly say (as Cicero had said before, in a matter not very unlike) that the books of St. Thomas Aquinas, and especially that Theological Summa, though all should roar against it, far and greatly surpass the libraries of all the Theologians, both in the abundance of the greatest matters and in the strength of authority. For St. Thomas
 
-brought [PDF 7] brought into Theology, with his immortal and more than Sallustian brevity, more things, exceedingly learned and most worth knowing, than most others even desired. And this outstanding praise of St. Thomas as a Theologian remains, and will remain as long as learning is held in honor. But if at times (for I return to the point from which I had digressed) he is wont in disputing to attribute authority to Aristotle, he did so unwillingly indeed, where Sacred Doctrine was in question. Unless you would have it that so great a Man was so dull of wit, so inept too and heedless, that what he had deliberately laid down in the preceding pages, namely in Art. VIII of Quest. I, about diminishing the authority of all save that of divine revelation, made to the Apostles and Prophets who wrote the Canonical Books, he himself afterwards weakened on purpose by his own example. But if the question concerns St. Thomas not as Theologian but plainly as Philosopher, remember that it is not now that Thomas Aquinas, the light and ornament of the Church, but a Heathen Philosopher (lately made pious from impious), Aristotle by name, who is making trouble for you, a trouble which will amount to next to nothing.
-
-For
+[PDF 7] brought into Theology, with his immortal and more than Sallustian brevity, more things, exceedingly learned and most worth knowing, than most others even desired. And this outstanding praise of St. Thomas as a Theologian remains, and will remain as long as learning is held in honor. But if at times (for I return to the point from which I had digressed) he is wont in disputing to attribute authority to Aristotle, he did so unwillingly indeed, where Sacred Doctrine was in question. Unless you would have it that so great a Man was so dull of wit, so inept too and heedless, that what he had deliberately laid down in the preceding pages, namely in Art. VIII of Quest. I, about diminishing the authority of all save that of divine revelation, made to the Apostles and Prophets who wrote the Canonical Books, he himself afterwards weakened on purpose by his own example. But if the question concerns St. Thomas not as Theologian but plainly as Philosopher, remember that it is not now that Thomas Aquinas, the light and ornament of the Church, but a Heathen Philosopher (lately made pious from impious), Aristotle by name, who is making trouble for you, a trouble which will amount to next to nothing.
 
 [PDF 8]
 
@@ -62,11 +56,9 @@ For how few do not know that the Angelic Doctor did indeed purge the Peripatetic
 
 I come now to the rest: namely Sts. John Damascene, Antoninus, Albert, Bonaventure, Doctors most illustrious within the memory of man, Scotus, Hales (for the Bishop of Paris had been of another mind), do not spurn questions, that is, those doubtful controversies much agitated in the Schools, nor syllogisms, nor Aristotle. And do we, then, spurn them, or declare war on the disputations of the School? Assuredly
 
-the [PDF 9] the thing speaks for itself: we too have humored our age, and our Masters, who are held in great esteem among our countrymen, embracing questions, syllogisms, and finally Aristotle himself, where he seemed to judge rightly; but all of it, as far as our strength and our want of skill allowed, soberly, prudently, temperately. For the very pursuit of brevity, which ought to have been our whole care and concern, would have compelled us to restrain the pen, even had it otherwise been worth the trouble to write much more, lest we overwhelm our young recruits.
+[PDF 9] the thing speaks for itself: we too have humored our age, and our Masters, who are held in great esteem among our countrymen, embracing questions, syllogisms, and finally Aristotle himself, where he seemed to judge rightly; but all of it, as far as our strength and our want of skill allowed, soberly, prudently, temperately. For the very pursuit of brevity, which ought to have been our whole care and concern, would have compelled us to restrain the pen, even had it otherwise been worth the trouble to write much more, lest we overwhelm our young recruits.
 
 And since we have set forth enough so far, by way of our defense, lest anyone (as usually happens) should take our silence for a bad conscience, it remains for us to add briefly something about the plan of our work. And first, we present to you a philosophy that is not the common one, set down in a style a little more polished than that in which it is commonly taught, and that both as concisely as could be done and also as plainly as possible, and complete in every respect: so that I would be persuaded that I had done something like a marvel, had not nearly everything come from all the best
-
-Philosophers
 
 [PDF 10]
 
@@ -74,7 +66,7 @@ Philosophers of the newer age, culled with great labor and likewise with the utm
 
 But in truth, it is a newer philosophy that I myself
 
-¶¶*¶                      bring [PDF 11] bring forward. And why should I not bring it forward? But it is wholly heretical, they say, and was long ago raised up from the lowest seats of Erebus and Orcus, such, namely, as is found among foreign nations, where
+¶¶*¶ [PDF 11] bring forward. And why should I not bring it forward? But it is wholly heretical, they say, and was long ago raised up from the lowest seats of Erebus and Orcus, such, namely, as is found among foreign nations, where
 
 The guilds of flute-girls, the quack-druggists,
 
@@ -84,7 +76,7 @@ Is it so indeed? O splendid, watchful, excellent guardians of the Church! Of cou
 
 I warn and adjure you, therefore, young men, that none of you, from the course once begun of these Institutions and of the newer Philosophy,
 
-be [PDF 12] be willing to draw back his foot, nor let himself be imposed upon by the ignorant, who dread the right way of teaching and learning worse than a dog or a snake, shun it, turn away from it, not daring to depart a nail’s breadth from the ancient custom of the School: as though it were a point of religion with them to prefer erring, by prejudgment, with the ancients to thinking the truth with others [*], or, in short, to acquiesce in the most probable
+[PDF 12] be willing to draw back his foot, nor let himself be imposed upon by the ignorant, who dread the right way of teaching and learning worse than a dog or a snake, shun it, turn away from it, not daring to depart a nail’s breadth from the ancient custom of the School: as though it were a point of religion with them to prefer erring, by prejudgment, with the ancients to thinking the truth with others [*], or, in short, to acquiesce in the most probable
 
 ¶¶*¶2                           where
 
@@ -102,7 +94,7 @@ It grieves me, though, that these Institutions of mine are to be printed in type
 
 Go on, then, young men, as you have begun, and together with me render the greatest thanks you can to our most illustrious Lord Prelate of Michoacán, Don Luis Fernando de Hoyos y Mier: because, with most munificent benevolence toward us, he, a Man to be looked up to, brought his mind, lofty indeed and most ready for every good thing, to take singular and ever more diligent care of the order of studies in this Most Illustrious College of St. Francis de Sales; because he not only approved the Institutions of the newer philosophy, long since delivered to you by me from our Academic chair, but even celebrated them with praise; and because, most kindly
 
-received [PDF 15] received me and you as his clients, or, by a sweeter name, his sons, he attends us with fatherly charity and with a blessing ever most earnestly to be sought. May God, Best and Greatest, grant that he preside over our Church, for its good and its ornament, as long as may be. Given at Mexico, where I was wholly taken up with seeing the Institutions through the press, on the —— day before the Kalends of September, in the year of the Lord
+[PDF 15] received me and you as his clients, or, by a sweeter name, his sons, he attends us with fatherly charity and with a blessing ever most earnestly to be sought. May God, Best and Greatest, grant that he preside over our Church, for its good and its ornament, as long as may be. Given at Mexico, where I was wholly taken up with seeing the Institutions through the press, on the —— day before the Kalends of September, in the year of the Lord
 
 ciↄ iↄ cclxxiv.
 

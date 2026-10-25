@@ -6,7 +6,7 @@ year: 1867
 original_language: de
 translation_language: en
 edition_layout: clean text (both columns typeset)
-source: page files of _facing-pipeline/brentano (generated — edit the page files, not this file)
+source: exported from the page files of _facing-pipeline/brentano
 original_text: corrected transcription of the print (by the translators, checked by the reviewers)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 258
@@ -16,7 +16,7 @@ generated: 2026-10-24 by corpus.py
 
 # Franz Brentano, *Die Psychologie des Aristoteles* (1867) — *The Psychology of Aristotle*
 
-Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong.
+Conventions: `[p. N]` marks where a printed page begins (its folio as printed); `[scan N]` a page of the scan with no printed number; original and English are paired paragraph by paragraph within each page (in the facing text: original in quoted blocks, English in plain paragraphs); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml.
 
 > [scan 24] Die Psychologie des Aristoteles / insbesondere seine Lehre / vom / ΝΟΥΣ ΠΟΙΗΤΙΚΟΣ.
 
@@ -284,7 +284,7 @@ The undertaking is a difficult one, and the difficulty has its ground partly, no
 
 > 4) De Anim. III, 4. §. 5. p. 429, b, 5. ebend. 5. §. 1. p. 430, a, 17.; und De Anim. III, 5. §. 2. p. 430, a, 22. ebend. II, 2. §. 9. p. 413, b, 26. I, 1. §. 10. p. 403, a, 11. s. auch III, 7. §. 8. p. 431, b, 18. Vgl. I, 1. §. 10. p. 403, a, 14., wo das οὐχ ἅψεται χωρισθὲν τὸ εὐθύ geschlossen wird aus ἀχώριστον γάρ.
 
-4) De Anim. III, 4. §. 5. p. 429, b, 5. ibid. 5. §. 1. p. 430, a, 17.; and De Anim. III, 5. §. 2. p. 430, a, 22. ibid. II, 2. §. 9. p. 413, b, 26. I, 1. §. 10. p. 403, a, 11. see also III, 7. §. 8. p. 431, b, 18. Cf. I, 1. §. 10. p. 403, a, 14., where the οὐχ ἅψεται χωρισθὲν τὸ εὐθύ is inferred from ἀχώριστον γάρ. — Just as he speaks of a being-separate, Aristotle also speaks of a being-mixed (μεμῖχθαι τῷ σώματι) in more than one sense (De Anim. I, 3. §. 19. p. 407, b, 2.; and De Anim. III, 4. §. 4. p. 429, a, 24.), and to this is added the double meaning of ἀμιγής: unmixed with another inner principle, and unmixed with bodily matter. (De Anim. III, 4. §. 3. p. 429, a, 18. ibid. 5. §. 1. p. 430, a, 18.; and De Anim. III, 4. §. 4. p. 429, a, 24.)
+4) De Anim. III, 4. §. 5. p. 429, b, 5. ibid. 5. §. 1. p. 430, a, 17.; and De Anim. III, 5. §. 2. p. 430, a, 22. ibid. II, 2. §. 9. p. 413, b, 26. I, 1. §. 10. p. 403, a, 11. see also III, 7. §. 8. p. 431, b, 18. Cf. I, 1. §. 10. p. 403, a, 14., where the οὐχ ἅψεται χωρισθὲν τὸ εὐθύ is inferred from ἀχώριστον γάρ.
 
 > 5) De Anim. III, 4. §. 3. p. 429, a, 15. ebend. §. 9. p. 429, b, 23.; und De Anim. III, 4. §. 2. p. 429, a, 14. ebend. §. 9. p. 429, b, 25.
 
@@ -292,7 +292,7 @@ The undertaking is a difficult one, and the difficulty has its ground partly, no
 
 > 6) De Anim. III, 4. §. 12. p. 430, a, 7.; und De Anim. III, 5. §. 1. p. 430, a, 10. 13. ebend. §. 2. p. 430, a, 19. — Aehnlich wie von einem Getrenntsein spricht Aristoteles auch von einem Vermischtsein (μεμῖχθαι τῷ σώματι) in mehrfachem Sinne (De Anim. I, 3. §. 19. p. 407, b, 2.; und De Anim. III, 4. §. 4. p. 429, a, 24.), und hiezu kommt noch die Doppelsinnigkeit des ἀμιγής, als unvermischt mit einem anderen inneren Principe und als unvermischt mit der körperlichen Materie. (De Anim. III, 4. §. 3. p. 429, a, 18. ebend. 5. §. 1. p. 430, a, 18.; und De Anim. III, 4. §. 4. p. 429, a, 24.)
 
-6) De Anim. III, 4. §. 12. p. 430, a, 7.; and De Anim. III, 5. §. 1. p. 430, a, 10. 13. ibid. §. 2. p. 430, a, 19.
+6) De Anim. III, 4. §. 12. p. 430, a, 7.; and De Anim. III, 5. §. 1. p. 430, a, 10. 13. ibid. §. 2. p. 430, a, 19. — Just as he speaks of a being-separate, Aristotle also speaks of a being-mixed (μεμῖχθαι τῷ σώματι) in more than one sense (De Anim. I, 3. §. 19. p. 407, b, 2.; and De Anim. III, 4. §. 4. p. 429, a, 24.), and to this is added the double meaning of ἀμιγής: unmixed with another inner principle, and unmixed with bodily matter. (De Anim. III, 4. §. 3. p. 429, a, 18. ibid. 5. §. 1. p. 430, a, 18.; and De Anim. III, 4. §. 4. p. 429, a, 24.)
 
 > 7) De Anim. III, 3. §. 6. p. 428, a, 5. ebend. §. 8. p. 428, a, 18. Anal. Post. I, 33. p. 89, a, 1. b, 7. ebend. II, 19. p. 100, b, 8. Nic. VI, 3. p. 1139, b, 17. ebend. 6. p. 1141, a, 5.; und De Anim. III, 4. §. 3. p. 429, a, 17. 22. u. a. a. O.
 

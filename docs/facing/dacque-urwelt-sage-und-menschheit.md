@@ -6,7 +6,7 @@ year: 1924
 original_language: de
 translation_language: none
 edition_layout: original text only (no translation)
-source: ‘Edgar_Dacqué_Urwelt_Sage_und_Menschheit.pdf’ — THIS FILE IS THE SOURCE, corrections go here
+source: ‘Edgar_Dacqué_Urwelt_Sage_und_Menschheit.pdf’
 original_text: text layer of the PDF — uncorrected where it is OCR
 translation: none
 pages: 383
@@ -16,59 +16,11 @@ generated: 2026-10-24 by corpus.py
 
 # Edgar Dacqué, *Urwelt, Sage und Menschheit* (1924) — *Primeval World, Saga and Humanity — German text*
 
-Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong.
-
-[PDF 1]
-
-This is a reproduction of a library book that was digitized by Google as part of an ongoing effort to preserve the information in books and make it universally accessible.
-
-https://books.google.com
-
-[PDF 2]
-
-Über dieses Buch
-
-Dies ist ein digitales Exemplar eines Buches, das seit Generationen in den Regalen der Bi Rahmen eines Projekts, mit dem die Bücher dieser Welt online verfügbar gemacht werden s Das Buch hat das Urheberrecht überdauert und kann nun öffentlich zugänglich gemacht w das niemals Urheberrechten unterlag oder bei dem die Schutzfrist des Urheberrechts abge von Land zu Land unterschiedlich sein. Öffentlich zugängliche Bücher sind unser Tor zur V und wissenschaftliches Vermögen dar, das häufig nur schwierig zu entdecken ist. Gebrauchsspuren, Anmerkungen und andere Randbemerkungen, die im Originalband enth nerung an die lange Reise, die das Buch vom Verleger zu einer Bibliothek und weiter zu Ih
-
-Nutzungsrichtlinien
-
-Google ist stolz, mit Bibliotheken in partnerschaftlicher Zusammenarbeit öffentlich zugängl zugänglich zu machen. Öffentlich zugängliche Bücher gehören der Öffentlichkeit, und Arbeit kostspielig. Um diese Ressource weiterhin zur Verfügung stellen zu können, haben kommerzielle Parteien zu verhindern. Dazu gehören technische Einschränkungen für autom Wir bitten Sie um Einhaltung folgender Richtlinien:
-
-+ Nutzung der Dateien zu nichtkommerziellen Zwecken Wir haben Google Buchsuche f
-
-Dateien nur für persönliche, nichtkommerzielle Zwecke verwenden.
-
-+ Keine automatisierten Abfragen Senden Sie keine automatisierten Abfragen irgendwe
-
-über maschinelle Übersetzung, optische Zeichenerkennung oder andere Bereiche durc
-
-nützlich ist, wenden Sie sich bitte an uns. Wir fördern die Nutzung des öffentlich zugä
-
-unter Umständen helfen.
-
-+ Beibehaltung von Google-Markenelementen Das "Wasserzeichen" von Google, das S
-
-dieses Projekt und hilft den Anwendern weiteres Material über Google Buchsuche zu
-
-+ Bewegen Sie sich innerhalb der Legalität Unabhängig von Ihrem Verwendungszwe
-
-sicherzustellen, dass Ihre Nutzung legal ist. Gehen Sie nicht davon aus, dass ein Buch
-
-öffentlich zugänglich ist, auch für Nutzer in anderen Ländern öffentlich zugänglich i
-
-von Land zu Land verschieden. Wir können keine Beratung leisten, ob eine bestimmt
-
-ist. Gehen Sie nicht davon aus, dass das Erscheinen eines Buchs in Google Buchsuc
-
-Welt verwendet werden kann. Eine Urheberrechtsverletzung kann schwerwiegende F
-
-Über Google Buchsuche
+Conventions: `[p. N]` marks where a printed page begins (its folio as printed); `[PDF N]` a page of the source PDF with no printed number; the text is the original only (no translation); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml.
 
 [PDF 3]
 
-UrweltSage
-
-und Menschheit
+UrweltSage und Menschheit
 
 [PDF 4]
 
@@ -120,9 +72,7 @@ Urwelt Sage und Menschheit
 
 Eine naturhistorisch - metaphysische
 
-Studie
-
-von
+Studie von
 
 Edgar Dacqué
 
@@ -140,9 +90,7 @@ D115
 
 1924
 
-Alle Rechte ,
-
-insbesondere das der übersehung , vorbehalten
+Alle Rechte , insbesondere das der übersehung , vorbehalten
 
 Copyright 1924 by R. Oldenbourg , München und Berlin
 
@@ -260,9 +208,7 @@ I Dacqué , Urwelt, Sage und Menschheit .
 
 Theorie und Wissenschaft
 
-NDeue Wege des Wissens werden erschaut, nicht begrifflich ers
-
-wiesen. Sie selbst erweisen sich gangbar, wenn man auf ihnen dieDinge sinnvoll in neuer Aufreihung sieht. Dann spricht man von neuen Tatsachen, die man gefunden habe ; und von da aus tun sich wieder neue Wege auf. So bleiben wir ewig Wandernde. Die selbst neue Wege suchen, das sind „die Träumenden mit dem großen Glauben". Wir sind Alle Glaubende, aber jeder von einer anderen Geburtsstunde seines geistigen Lebens her, unter einem anderen Stern im Zenith, mit einem anderen Akkord und mit anderer Stärke. So mag es kommen, daß wir uns in neuen Gedanken nie ganz gemeinsam finden und in alten gemeinsam gewordenen nicht beisammen stehen bleiben können. Aber das Ziel ahnen wir Alle, wie eine in uns liegende Verheißung.
+NDeue Wege des Wissens werden erschaut, nicht begrifflich ers wiesen. Sie selbst erweisen sich gangbar, wenn man auf ihnen dieDinge sinnvoll in neuer Aufreihung sieht. Dann spricht man von neuen Tatsachen, die man gefunden habe ; und von da aus tun sich wieder neue Wege auf. So bleiben wir ewig Wandernde. Die selbst neue Wege suchen, das sind „die Träumenden mit dem großen Glauben". Wir sind Alle Glaubende, aber jeder von einer anderen Geburtsstunde seines geistigen Lebens her, unter einem anderen Stern im Zenith, mit einem anderen Akkord und mit anderer Stärke. So mag es kommen, daß wir uns in neuen Gedanken nie ganz gemeinsam finden und in alten gemeinsam gewordenen nicht beisammen stehen bleiben können. Aber das Ziel ahnen wir Alle, wie eine in uns liegende Verheißung.
 
 Der Glaube, wenn vom Einzelnen ausgehend, ist in dieser Form einzig und einsam. Ist er stark, so überträgt er seine Schwingungen auf die, die von sich aus nicht glauben, erweckt ihnen ihre Akkorde, ihre Weisen. „Die Gefahr, die von der Wissenschaft gefürchtet wird - sagt ein feinsinniger Interpret Bachofens, der auch ein Einsamer war —daß jeder Unberufene seine Phantasie für sachliche Intuition ausgebe und ein willkürliches Chaos an die Stelle methodischer Forschung trete, ist viel geringer als man glaubt. Die Algemeinheit übt hier stete Korrektur, denn nur das wirklich Bedeutende kann von Dauerwirkung sein. Das bloß Subjektive sinkt in sich zusammen." Wenn es anders wäre, könnte die Wissenschaft überhaupt nicht bes stehen ; denn sie hat kein anderes Mittel zu ihrer Erhaltung als eben dieses angedeutete. Sie lebt vom Glauben - oder sie vegetiert nur und häuft an, oder stirbt. Man könnte heute noch nicht mit Atomen und Quanten rechnen oder von der Entwicklungsgeschichte des Lebens reden, wenn man nicht daran glaubte und zuvor eine Theorie gehabt hätte, ehe man neue, tiefer reichende Tatsachen dazu fand .
 
@@ -428,9 +374,7 @@ abendländischer Forschung wie eine abgemessene Säulenhalle hin zustellen, in d
 
 Wirklichkeitswert der Sagen und Mythen
 
-Nochspielkönnen wir kaum ahnen, wie lange das große Trauer-
-
-mit der großen Verheißung währt, das wir Geschichte der Menschheit nennen. Frommer Sinn, unterſtükt von oft miß-verstandener Tradition, spricht von ein paar Jahrtausenden. In der babylonischen Überlieferung ist aber berichtet, wie nach Erschaf fung der Welt Urväter das Land beherrschten, deren Regierungs-zeiten sich über einige Jahrhunderttausende erstreckten ; die Übers lieferung der Japaner kennt eine Urbevölkerung vom Alter einiger Jahrmillionen. Die Naturwissenschaft, allzusehr festgerannt in die nachgerade zu einem banalen Philosophem gewordene forz malistische Abstammungslehre, spricht von ein paar Jahrhundert tausenden ; sie erfüllt diese Zeit mit dem Bild des Steinzeitmenschen und sucht krampfhaft bei ein paar alttertiärzeitlichen³) Affen den Ahnen des Menschen. Sie zeigt uns einige eiszeitliche Skelette auf und findet an ihnen „primitivere" Merkmale als an dem Europäer unserer Tage. Aber je mehr sie die Skelette betrachtet, umso mehr gleiche Züge gewinnen sie mit jektzeitlichen Menschen und umso mehr Rassenverschiedenheit gewinnen sie untereinander, umso mehr Stammesverschiedenheit von den pithekoiden tierischen Brüs dern. Sie sieht dann die Menschenspur verschwinden in der frühes sten Phase der Eiszeit, wo nur noch primitive, zulekt unsichere Feuersteinsplitter eine kaum in den Anfängen stehende Werkzeug-kultur zu verraten scheinen ; und dann verschwindet, auf dieser Bahn bisher nicht mehr zu verfolgen, das Menschenwesen, der Mensch-heitsstamm im Dunkel einer Vorzeit, durch die wir nur die Ketten der tertiärzeitlichen Säugetiere paläontologisch einigermaßen verz folgen können bis zurück in das noch ältere, mesozoische Erdzeits alter, wo das Reptil in ebenso bunter Mannigfaltigkeit den Plan der Erde beherrschte, wie später das Säugetier und scheinbar zulekt der Mensch .
+Nochspielkönnen wir kaum ahnen, wie lange das große Trauer-mit der großen Verheißung währt, das wir Geschichte der Menschheit nennen. Frommer Sinn, unterſtükt von oft miß-verstandener Tradition, spricht von ein paar Jahrtausenden. In der babylonischen Überlieferung ist aber berichtet, wie nach Erschaf fung der Welt Urväter das Land beherrschten, deren Regierungs-zeiten sich über einige Jahrhunderttausende erstreckten ; die Übers lieferung der Japaner kennt eine Urbevölkerung vom Alter einiger Jahrmillionen. Die Naturwissenschaft, allzusehr festgerannt in die nachgerade zu einem banalen Philosophem gewordene forz malistische Abstammungslehre, spricht von ein paar Jahrhundert tausenden ; sie erfüllt diese Zeit mit dem Bild des Steinzeitmenschen und sucht krampfhaft bei ein paar alttertiärzeitlichen³) Affen den Ahnen des Menschen. Sie zeigt uns einige eiszeitliche Skelette auf und findet an ihnen „primitivere" Merkmale als an dem Europäer unserer Tage. Aber je mehr sie die Skelette betrachtet, umso mehr gleiche Züge gewinnen sie mit jektzeitlichen Menschen und umso mehr Rassenverschiedenheit gewinnen sie untereinander, umso mehr Stammesverschiedenheit von den pithekoiden tierischen Brüs dern. Sie sieht dann die Menschenspur verschwinden in der frühes sten Phase der Eiszeit, wo nur noch primitive, zulekt unsichere Feuersteinsplitter eine kaum in den Anfängen stehende Werkzeug-kultur zu verraten scheinen ; und dann verschwindet, auf dieser Bahn bisher nicht mehr zu verfolgen, das Menschenwesen, der Mensch-heitsstamm im Dunkel einer Vorzeit, durch die wir nur die Ketten der tertiärzeitlichen Säugetiere paläontologisch einigermaßen verz folgen können bis zurück in das noch ältere, mesozoische Erdzeits alter, wo das Reptil in ebenso bunter Mannigfaltigkeit den Plan der Erde beherrschte, wie später das Säugetier und scheinbar zulekt der Mensch .
 
 Neben den beiden Gesichten unseres halb Ahnens, halb Wissens vom Alter unseres Geschlechts - Religion und Naturwissenschaft
 
@@ -494,9 +438,7 @@ Was sollen aber alle diese und jene Auslegungen fördern ? Geben sie uns irgend 
 
 ‫فيك‬
 
-27   -
-
-dem es längst nicht mehr unmittelbares Erleben geblieben war, son-dern aus alter Tradition vielfach umgedichtet, umphantasiert werden mußte, um überhaupt noch einigermaßen verständlich und genießbar gemacht zu werden für Zeiten, die selbst kein unmittelbares Schauen in die Vergangenheit, aber doch noch eine Ahnung hatten von dem, was ursprünglich vom naturverbundenen und naturſichtigen Mens schenwesen mit schrecklicher oder herrlicher und überwältigender Un-mittelbarkeit und Wahrhaftigkeit gesehen und erlebt worden war ?
+27   -dem es längst nicht mehr unmittelbares Erleben geblieben war, son-dern aus alter Tradition vielfach umgedichtet, umphantasiert werden mußte, um überhaupt noch einigermaßen verständlich und genießbar gemacht zu werden für Zeiten, die selbst kein unmittelbares Schauen in die Vergangenheit, aber doch noch eine Ahnung hatten von dem, was ursprünglich vom naturverbundenen und naturſichtigen Mens schenwesen mit schrecklicher oder herrlicher und überwältigender Un-mittelbarkeit und Wahrhaftigkeit gesehen und erlebt worden war ?
 
 Aber Extreme können sich berühren. In einer Abhandlung über das Symbol der Schlange im Hellenentums), wo schließlich die Mythologie nichts weiter mehr sein soll als „die Einhüllung eines Begriffes, einer Erfahrung, einer Erfindung in das farbige Ges wand einer phantasiereichen Bildlichkeit“, streift doch der Verfasser ganz nahe an die lebenswarme ursprüngliche Wahrheit, wenn er sagt : die Mythenbildung sei eine oft üppig wuchernde Symbolik dessen, was die Sprache noch unvermögend war, als einfaches nacktes Abstraktum zu fassen, oder auch , was sie verschmähte, als konkrete Tatsache einfach in ihr großes Repertorium einzutragen. Hätte er statt dessen nur noch gesagt : die Sprache reicht gar nicht aus, um die ins Tiefste der Natur vorstoßenden und die aus diesen überindividuellen Tiefen schöpfenden ungeheueren Impulse und Gesichte ins Wachbewußtsein herüberzubringen, so würde er das Wesen getroffen haben.
 
@@ -508,9 +450,7 @@ Der Sinn der Mythen hat sich zweifellos geändert, und das berechtigte Streben d
 
 -
 
-28   -
-
-die Überschichtungen und Entstellungen der Mythen und Sagen zu entwirren. Wie weit solche gehen und wie sehr sich einzelne Züge bis zum Verwechseln miteinander mischen oder pseudomorphosen-artig ersehen können, lehrt sehr klar eine Darstellung am Kypselos-kasten, einer bei Pausanias beschriebenen Kleinodienlade des Kö-nigs Kypselos von Korinth, die den Baum der Hesperiden als Apfelbaum mit der darum gewundenen Schlange zeigt - das Bild im Alten Testament. Oder ein anderes Beispiel : In China und Indien ist der Tiger das Symbol des Bösen geworden, das Reptil dagegen das des Guten, auch das des Wassers. Aber ursprünglich war das Reptil, die Schlange, der Lindwurm ganz allgemein das Symbol des Bösen ; die Schlange hat dann im klassischen Alters tum, in der vollen Lichtwelt, ihre in den uralten Mythen lebende dämonische Feindseligkeit verloren und ist geradezu als Hüterin der Helden symbolisch verwendet worden. Sie war Hüterin im Heilig tum der Athene; sie war auch Hüterin des Grabes geworden und auf Aschenurnen viel verwendet. Um das Haupt des erschlagenen Helden Kleomenes wand sich die Schlange, den Leichnam vor dem Angriff der Aasgeier zu schüßen (Roscher). Hier dürfen wir wirks lich von Versinnbildlichung reden und allegorische Deutungen fast rein künstlerischer Art in diesem Symbol sehen. Denn hier ist die Schlange längst nicht mehr, was sie im Mythus der Urzeit des Menschengeschlechts gewesen war, weder in der Natur selbst als Lebewesen, noch im Metaphysischen als reale Verkörperung tief dämonischer Seelenzustände des Menschen und der ihn damals um-gebenden lebenden Natur. Gerade daran aber zeigt sich umso klarer, wie verkehrt es ist, zu glauben, mit dem stets leicht erkenn baren allegorischen Sinn einer spätzeitlichen Sagenfassung irgend etwas Wesenhaftes über die darin erscheinenden Tiere, Pflanzen, Helden- und Göttergestalten gewonnen zu haben, wenn es nicht gelingt, hinter diesem äußerlichen Sinn das innere glutvolle Leben urältester Zeit zu erschauen.
+28   -die Überschichtungen und Entstellungen der Mythen und Sagen zu entwirren. Wie weit solche gehen und wie sehr sich einzelne Züge bis zum Verwechseln miteinander mischen oder pseudomorphosen-artig ersehen können, lehrt sehr klar eine Darstellung am Kypselos-kasten, einer bei Pausanias beschriebenen Kleinodienlade des Kö-nigs Kypselos von Korinth, die den Baum der Hesperiden als Apfelbaum mit der darum gewundenen Schlange zeigt - das Bild im Alten Testament. Oder ein anderes Beispiel : In China und Indien ist der Tiger das Symbol des Bösen geworden, das Reptil dagegen das des Guten, auch das des Wassers. Aber ursprünglich war das Reptil, die Schlange, der Lindwurm ganz allgemein das Symbol des Bösen ; die Schlange hat dann im klassischen Alters tum, in der vollen Lichtwelt, ihre in den uralten Mythen lebende dämonische Feindseligkeit verloren und ist geradezu als Hüterin der Helden symbolisch verwendet worden. Sie war Hüterin im Heilig tum der Athene; sie war auch Hüterin des Grabes geworden und auf Aschenurnen viel verwendet. Um das Haupt des erschlagenen Helden Kleomenes wand sich die Schlange, den Leichnam vor dem Angriff der Aasgeier zu schüßen (Roscher). Hier dürfen wir wirks lich von Versinnbildlichung reden und allegorische Deutungen fast rein künstlerischer Art in diesem Symbol sehen. Denn hier ist die Schlange längst nicht mehr, was sie im Mythus der Urzeit des Menschengeschlechts gewesen war, weder in der Natur selbst als Lebewesen, noch im Metaphysischen als reale Verkörperung tief dämonischer Seelenzustände des Menschen und der ihn damals um-gebenden lebenden Natur. Gerade daran aber zeigt sich umso klarer, wie verkehrt es ist, zu glauben, mit dem stets leicht erkenn baren allegorischen Sinn einer spätzeitlichen Sagenfassung irgend etwas Wesenhaftes über die darin erscheinenden Tiere, Pflanzen, Helden- und Göttergestalten gewonnen zu haben, wenn es nicht gelingt, hinter diesem äußerlichen Sinn das innere glutvolle Leben urältester Zeit zu erschauen.
 
 Wie ist uns doch der lebendig metaphysische Sinn, das unmittelbar innere Anschauen mythischer Gegenstände und Gestalten, mythischer Kulte, Beschwörungen und Offenbarungen abhanden gekommen ! In jener Abhandlung über die Schlange im Mythus der Alten heißt es, der natürliche Mensch sei ein besonders feiner Beobachter für diejenigen Seiten und Äußerungen des organischen Lebens ges
 
@@ -528,9 +468,7 @@ In einem Buch : „Mythus, Sage und Märchen“, wo das Wesen dieser Gattungen e
 
 -
 
-30-
-
-stürzt vom Berg und erschlägt einige Menschen : die glücklich Ents kommenen verehren ihn, da sie seine Macht erfahren. Dem Wedda auf Ceylon verschafft sein Pfeil, sein einziger Besik, Lebensunter-halt und schüßt ihn vor Feinden ; ob er trifft oder fehlt, davon hängt des Schüßen Wohl und Wehe ab, und oft genug fliegt er anders als der Schüße gewollt : deshalb sucht er dies Wesen, von dem er abhängt, sich freundlich zu stimmen, er steckt ihn in den Boden und umtanzt ihn.... Es kann sich ein Mythos aus dem Fetischismus kaum bilden, aber die Vorstellung, auf der er beruht, daß Stein und Pfeil lebendige Wesen seien, kann man eine mys thische nennen.... Von den Naturerscheinungen endlich, aus denen man so gern die Masse der Sagen erklärte, sind zunächst doch wohl gerade die abnormen der Anlaß zu religiöser Verehrung geworden, wie Gewitter und Blikschlag, Sonnen- und Mondfinsternisse, Bes ben der Erde und Feuerspeien. Der Blik hat als solcher religiösen Kult gefunden und ist in mehr als einem mythischen Bilde als Wurfgeschoß, Hammer, springendes Roß für primitive Anschauung verständlich gemacht ; Gewitterwolke ist doch wohl die Ägis ; Sonne und Mond werden von bösen Untieren bedroht, der Sommer kämpft wider den Winter. Solche mythischen Vorstellungen sind primitive Erklärungsversuche, die ersten Anfänge der Wissenschaft. Sie sind vielfach Veranlassung zu Kulthandlungen geworden.... Durch solche Veranschaulichung ist das Naturereignis erklärt und die Kulthandlung erläutert ; was bedarf es da noch weiterer Verz knüpfung und Begründung ?"
+30-stürzt vom Berg und erschlägt einige Menschen : die glücklich Ents kommenen verehren ihn, da sie seine Macht erfahren. Dem Wedda auf Ceylon verschafft sein Pfeil, sein einziger Besik, Lebensunter-halt und schüßt ihn vor Feinden ; ob er trifft oder fehlt, davon hängt des Schüßen Wohl und Wehe ab, und oft genug fliegt er anders als der Schüße gewollt : deshalb sucht er dies Wesen, von dem er abhängt, sich freundlich zu stimmen, er steckt ihn in den Boden und umtanzt ihn.... Es kann sich ein Mythos aus dem Fetischismus kaum bilden, aber die Vorstellung, auf der er beruht, daß Stein und Pfeil lebendige Wesen seien, kann man eine mys thische nennen.... Von den Naturerscheinungen endlich, aus denen man so gern die Masse der Sagen erklärte, sind zunächst doch wohl gerade die abnormen der Anlaß zu religiöser Verehrung geworden, wie Gewitter und Blikschlag, Sonnen- und Mondfinsternisse, Bes ben der Erde und Feuerspeien. Der Blik hat als solcher religiösen Kult gefunden und ist in mehr als einem mythischen Bilde als Wurfgeschoß, Hammer, springendes Roß für primitive Anschauung verständlich gemacht ; Gewitterwolke ist doch wohl die Ägis ; Sonne und Mond werden von bösen Untieren bedroht, der Sommer kämpft wider den Winter. Solche mythischen Vorstellungen sind primitive Erklärungsversuche, die ersten Anfänge der Wissenschaft. Sie sind vielfach Veranlassung zu Kulthandlungen geworden.... Durch solche Veranschaulichung ist das Naturereignis erklärt und die Kulthandlung erläutert ; was bedarf es da noch weiterer Verz knüpfung und Begründung ?"
 
 Immer wieder dieses zu Wenig, dieses viel zu Wenig ! Was hätte das Menschengemüt, auch in der Urzeit, veranlaßt, den niederz fallenden Stein furchthaft zu verehren und ihn zu beschwören ; was, dem Blik einen religiösen Kult darzubringen ; was, den Sterz nen Macht zuzutrauen auf das Menschengeschick - wenn nicht das Lebendig-Dämonische in der Natur und in seiner Seele ? Dem Urmensch war diese Dämonie eine ebensolche Realität, er sah und verstand den Stein und den Blik, die Sternstrahlen ebenso von ihr bewegt und geschleudert, wie wir unsere Straßenbahn von der „Elektrizität", die Lawine von der „Schwerkraft" bewegt sehen. Wenn kommenden Geschlechtern mit anderem Geist, mit anderen Einsichten in die Zusammenhänge des Daseins unsere „Kräfte" eins mal Gegenstand mitleidigen Herabblickens oder doch leere Begriffe
 
@@ -557,8 +495,6 @@ Auch dem modernen hellenistischen Menschen ist es ja schließlich verständlich,
 kein Zweifel ; er gibt ja auch zu, daß der Glaube an den Arzt, ja auch der Glaube in Lourdes ohne Zweifel nervöse" Leiden bes sern oder heilen könne. Er gibt aber nicht mehr zu, daß „organische" Leiden, ja körperliche Krankheiten gleich oder nachwirkend so ges heilt oder auch hervorgerufen würden und zu bestimmten Zeiten von Menschen mit entsprechender Verfassung geheilt worden sind. Er wird gar nicht zugeben, daß die seelische Versenkung etwa in die Leiden Christi den Körper des Anbetenden stigmatisieren könnte 10). Für alles das hat er außer dem Kopfschütteln und der aus intel lektueller Ratlosigkeit entspringenden Verächtlichmachung noch einige rationalistische oder pseudonaturwissenschaftliche Erklärungen zur hand, in denen die Worte Zufall, Aberglauben, Autosuggestion und Sinnestäuschung die Hauptrolle spielen, und zieht sich lekten Endes auf die vielen Entlarvungen nachweisbarer Schwindler und Hysterischer bei spiritistischen Sikungen zurück. Es ist aber immer ein Zeichen verslachter Wissenschaft, wenn man Probleme, die sich dem Menschengeist, so alt er ist, immer aufgedrängt und ihm oft furchtbar vor Augen gestanden haben, einfach als Probleme leugs net, sich mit Scheinerklärungen zufrieden gibt und ihnen damit aus dem Wege geht, statt ihnen ins Angesicht zu sehen. Menschen und Zeiten, die so ausweichen, wissen allerdings, um mit Spengler zu reden, nicht mehr, was ein Mythus oder auch nur eine dämonische Beschwörung ist.
 
 Aber wir wollen nicht mit den Klugen, den allzu klugen Alles-beurteilern nur reden, deren Welt- und Lebensanschauung stets fertig ist und um so fertiger, je flacher sie ist; sondern mit denen, die den Willen haben, den Dingen ernsthaft ins Angesicht zu sehen, auch wenn sie erwarten oder fürchten müssen, mehr noch zwischen Himmel und Erde zu entdecken, als ihre wissenschaftliche Weltanschauung verträgt. Wenn also die Bedeutung und Wirs kung von Mythen- und Sageninhalten oder Beschwörungsformeln dem Bewußtsein der Spätgeborenen verloren ging, wenn Auf-fassung und Anwendung entarteten, wenn sie unecht, unwahrs haftig oder zu ſinnlosem Aberglauben wurden, indem sie nicht mehr aus dem Leben und der naturverbundenen Seele des Mens schen flossen, sondern nur noch traditionelles, wenn auch da und dort noch schwach wirksames Verstehen und Anwendung fanden, so kann das nie zum Beweis werden gegen die gewaltige zentrale
-
-Dacqué , Urwelt, Sage und Menschheit.                      3
 
 [PDF 52]
 
@@ -622,9 +558,7 @@ Schelling.
 
 Typenkreise und biologischer Zeitcharakter
 
-Wenig
-
-enig von dem Wissen über die vorweltlichen Zeitalter der
+Wenig enig von dem Wissen über die vorweltlichen Zeitalter der
 
 Erde ist allgemeines Bildungsgut geworden. Nicht Viele von denen, die sonst in Künsten und Wissenschaften wie im Leben Bescheid wissen, haben auch eine fest umrissene Vorz stellung von der Geschichte des Lebens und der Erde, von den Umwandlungen und Umwälzungen , welche die Oberfläche unseres Heimsternes und seine Lebewesen im Lauf der Jahrz millionen durchmachen mußten. Sie erstaunen fast, wenn sie hören, wie klar in vielen Zügen sich das Bild vorweltlicher Erds und Lebensepochen schon abhebt von einer noch weit älteren Erds urzeit, in die wir noch nicht hineinzuleuchten vermögen. Sie ers staunen noch mehr, wenn sie hören, daß die geschichtliche und die urgeschichtliche Menschenzeit, soweit sie uns bisher überhaupt bis zu den roh zugehauenen Steinsplittern des Eiszeitmenschen ers schlossen wurde, vergleichsweise doch nur ein lekter Augenblick in der Wandlung der Erdoberfläche und des darüber gebreiteten Lebensteppichs ist. Sie haben vielleicht auch durch allerlei popus läre Bücher erfahren, daß der Mensch sich aus niederen Tieren „entwickelte" und daß die Geschlechter der Tiere und Pflanzen in vormenschlicher Zeit in reicher Zahl und Mannigfaltigkeit schon die Erde bevölkerten und auch fossil in den losen und festen Ges steinsschichten der Erdrinde gefunden werden. Das alles hat in ihrer Vorstellung aber doch mehr oder weniger den Charakter einer nicht weiter in ihr Bildungsstreben eingreifenden Kurio-sität, und sie bleiben im allgemeinen weit davon entfernt, es ernsthaft durchzudenken, sich einen plastischen Zeitbegriff an Hand urweltlicher Vergangenheit zu schaffen und sich zu fragen, was eine solche Perspektive für unsere ganze Daseinsauffassung bes deuten könnte.
 
@@ -646,13 +580,9 @@ uarters                                        Tiers
 
 der
 
-Keine
+Keine wesentliche
 
-wesentliche
-
-Änderung
-
-iluvialzeit
+Änderung iluvialzeit
 
 D+         zeit            Steinzeiten
 
@@ -670,15 +600,11 @@ ertiärzeit                                               Blütenpflanzen
 
 Säugetierherſchaft
 
-Beltalter
-
-und
+Beltalter und
 
 der                                                 der
 
-Säugetiere
-
-der
+Säugetiere der
 
 Hauptzeit
 
@@ -690,19 +616,13 @@ Mesozoikum                 Kreidezeit                                        Bl�
 
 Laubbäume
 
-Erste
-
-und
+Erste und
 
 S(ekundärs           Jurazeit                                                                       .Eder
 
 Vogeltypus
 
-Nadelhölzer
-
-tannenartigen
-
-rscheinen
+Nadelhölzer tannenartigen rscheinen
 
 rster )zeit                        Triaszeit                                      Sichere
 
@@ -714,9 +634,7 @@ Spuren                                                 Hauptzeit                
 
 der
 
-Hauptzeit
-
-der
+Hauptzeit der
 
 Nadelhölzer
 
@@ -756,9 +674,7 @@ D
 
 Vevonzeit                                             Vermutlich
 
-von
-
-erste
+von erste
 
 Bildung
 
@@ -770,9 +686,7 @@ Silurzeit                                Nur
 
 niedere
 
-Fische
-
-und
+Fische und
 
 Tiere                                                                               Panzerfischzeit
 
@@ -780,15 +694,11 @@ Zeit
 
 K+ambrische                                         Ülteste
 
-,nsicher
-
-deutbare
+,nsicher deutbare
 
 Formen
 
-Tierwelt
-
-iedere
+Tierwelt iedere
 
 Eozoikum
 
@@ -796,35 +706,17 @@ Zeit
 
 Leben
 
-Spuren
-
-nachgewiesen
-
-nur
-
-in
+Spuren nachgewiesen nur in
 
 VP+räkambrische
 
-Sehr
+Sehr lange
 
-lange
+Zeiträume zu den
 
-Zeiträume
+Vergleich im
 
-zu
-
-den
-
-Vergleich
-
-im
-
-Epochen
-
-oberen
-
-lebensgeschichtlichen
+Epochen oberen lebensgeschichtlichen
 
 AV
 
@@ -836,31 +728,15 @@ Azoikum                                                          Urzeit
 
 nachgewiesen
 
-Erdkruste
+Erdkruste festen sicher nicht
 
-festen
+.Lder eben
 
-sicher
-
-nicht
-
-.Lder
-
-eben
-
-Faltengebirgsbildungen
-
-starke
-
-b▲
+Faltengebirgsbildungen starke b▲
 
 edeutet                                                                 + ulkanismus
 
-Eiszeiten
-
-starken
-
-bVedeutet
+Eiszeiten starken bVedeutet
 
 [PDF 61]
 
@@ -932,29 +808,11 @@ Umgrenzung der lebendig in sich geschlossenen Typenkreise nicht sehen. Es seien 
 
 Im pa äozoischen Zeitalter, der ältestbekannten Epoche vorz weltlicher Lebensentwicklung, tritt bei verschiedenen, genetisch nicht unmittelbar verbundenen Gruppen in der Schädelkapsel ein
 
-Scheitelauge (Parietalorgan) auf. Zus
+Scheitelauge (Parietalorgan) auf. Zus erst erscheint eine Stirnöffnung bei einis gen altpälaozoischen Fischen ; bei ans deren, die hierin wohl ursprünglicher sind (Fig. 2), zugleich hinter den vers einigten Normalaugen auch noch eine
 
-erst erscheint eine Stirnöffnung bei einis
+Scheitelöffnung; später bei den Am-phibien nur ein Scheitelloch, welche damit vollendet auf den Plan treten.
 
-gen altpälaozoischen Fischen ; bei ans
-
-deren, die hierin wohl ursprünglicher
-
-sind (Fig. 2), zugleich hinter den vers
-
-einigten Normalaugen auch noch eine
-
-Scheitelöffnung; später bei den Am-
-
-phibien nur ein Scheitelloch, welche
-
-damit vollendet auf den Plan treten.
-
-Eie behalten es bis in die Triaszeit
-
-hinein, wo es mehr und mehr rudis
-
-mentär wird . In der Permzeit kommen
+Eie behalten es bis in die Triaszeit hinein, wo es mehr und mehr rudis mentär wird . In der Permzeit kommen
 
 Fig. 2.                   die Reptilien hinzu, und diese besiken Panzer des Vorderkörpers einespalão-     es stets in voller Entwicklung (Fig. 3), zoischen Fisches mit zwei verschmol-zenen Normalaugen ; davor und da-        ebenfalls bis in die Triaszeit, wo es hinter je eine Stirns und Scheitelöff-nung. Verkl. (Nach W. Patten.
 
@@ -976,8 +834,6 @@ S.W. Williston . Americ. Perm . Verte-
 
 Es sei weiter auf die Molch              brat . Chicago 1911.) gestalthingewiesen, die sich äußers lich auszeichnet durch breit ausladende Extremitäten nach Art des Salamanders. Die typische Molchenzeit aber ist die lekte Hälfte des paläozoischen Zeitalters. Da finden wir nicht nur „Molche" oder, besser gesagt, Uramphibien mit den habituellen Merkmalen solcher, sondern zur selben Zeit, zum Teil vergesellschaftet mit ihnen, echte Reptilien, welche aber durch ihren breiten Kopf, ihre Körperhaltung, kurz durch ihre ganze Tracht den Molch nach-ahmen, ohne zu seinem Stamm zu gehören. Wieder eine andere Zeitepoche bringt die Schildkrötengestalt hervor. Wie das späts paläozoische Zeitalter eine Molchgestalt, so schafft die Triaszeit die
 
-Dacqué , Urwelt, Sage und Menschheit.                                            4
-
 [p. 50]
 
 Schildkröte. Denn nicht nur die echten, heute noch als solche bezeichneten Schildkröten erschienen damals zuerst, um sich von da an weiter zu gestalten, sondern auch in einer ganz anderen Gruppe kommen Schildkrötengestalten zum Vorschein, die eben keine sind, sondern sich deren Kleid borgen. Oder wir sehen seit der Alttertiärzeit in sehr verschiedenen Säugetiergruppen, die man deshalb unter dem Namen Huftiere zusammenfaßte, den fünf- und vierzehigen Fuß unter Rückbildung seiner äußeren Zehen in den zweihufigen der Rinder und Hirsche einerseits und in den einhufigen der Pferde andererseits übergehen. Kein ein- oder zweizehiger Unpaarhufer ist älter als die Mitte der Tertiärzeit ; und obwohl jene Rückentwicklung auf den verschiedensten Stamm-linien unabhängig und parallel verlaufend sich vollzog, so blieben doch die sich gleichenden Stadien an gleiche Zeitperioden gebunden und erlauben daher bei Einzelfunden der Skelette eine sehr genaue Bestimmung des geologischen Alters ihrer Lebenszeit. Die mesos zoische Epoche hinwiederum ist jenes Zeitalter der Lebensentfals tung, wo unter den Landtieren der mehr oder minder aufrechte Gang (Fig. 4) auf den beiden Hinterfüßen angestrebt wird , im Gegensak zu dem ursprünglich gleichmäßigen Gang auf allen Vieren, wie ihn in primitivster Weise der „Molchtypus“ des ſpätpaläozoischen Zeitalters hatte. Bei den Landtieren des mesozoischen Zeitalters haben viele Gruppen lange, kräftige Hins terbeine und kürzere Vorderbeine, wodurch sie mit Unterſtükung ihres kräftigen Schwanzes aufrecht gehen konnten. Ja einige von ihnen haben hohle Knochen wie Vögel, wobei schließlich in der Jurazeit auch vogelähnliche Geschöpfe selbst erscheinen, vielleicht gefiederte Reptilien mit langen Hinter- und kürzeren Vorderextre mitäten. Diese ganze Formengesellschaft verrät also während des mesozoischen Zeitalters die Tendenz zu jener Erhebung des Körz pers auf den Hinterbeinen, wodurch das mehr und mehr aufs rechtgehende und das durch hohle Knochen erleichterte, schließ-lich vogelähnliche Tier, mit zunehmender Befreiung der Vorders extremität vom Boden, hervorgebracht wird .
@@ -998,25 +854,15 @@ Raubtiercharakter
 
 Reptilskelett
 
-Fossiles
-
-von
-
-verlängerten
+Fossiles von verlängerten
 
 sehr stark      yrannosaurus
 
 it
 
-Hinterbeinen
+Hinterbeinen bzw.
 
-bzw.
-
-Vorderbeinen
-
-verkürzten
-
-halb
+Vorderbeinen verkürzten halb
 
 (,)mTund
 
@@ -1024,43 +870,17 @@ aufrechtem 4                                     F.
 
 York    * reidezeit
 
-ang
-
-ordamerika
-
-ach
+ang ordamerika ach
 
 Osborn
 
 A
 
-.,K(BNHGM  ull
-
-at
-
-us
-
-m
-
-ist
-
-ew
+.,K(BNHGM  ull at us m ist ew
 
 1917.
 
-)Z rößenvergleich
-
-um
-
-ausgewachsenes
-
-stark
-
-ein
-
-ist
-
-jektweltliches
+)Z rößenvergleich um ausgewachsenes stark ein ist jektweltliches
 
 Menschenſkelett
 
@@ -1118,9 +938,7 @@ Es erschlossen sich der bisherigen Abstammungslehre statt wirks licher Stammbäu
 
 [PDF 76]
 
-Das erdgeschichtliche Alter des Menschen-
-
-stammes
+Das erdgeschichtliche Alter des Menschen-stammes
 
 ossile Menschenreste, seien es Skeletteile oder nur Artefakte, F    sind , wie schon erwähnt, bisher mit Sicherheit nur in den Ablagerungen der Quartärzeit, dem lekten kurzen Abschnitt der Erdgeschichte, nachgewiesen. Die lekte Phase dieser Quartärperiode ist die Zeit der historischen Menschengeschichte, zurück bis zur jün geren Steinzeit. Diese selbst ist eine prähistorische Epoche, aus der man geschliffene und polierte, also gut ausgearbeitete Steinwerk-zeuge hat. Dieser Periode voraus geht das Diluvium mit einer Eiss zeit als Hauptabschnitt der Quartärepoche (S. 42). Damals waren größere Flächen der Nordhalbkugel und die meisten Hochgebirge bis in ihr Vorland hinaus vergletschert ; die durchschnittliche Jahres temperatur war vermutlich nur um 5° C kühler als jekt. Diese Diluvialzeit mit ihren wärmeren Zwischeneiszeiten ist nun die Periode der altsteinzeitlichen Kulturen und fossiler Menschenrassen. Kurz zuvor sollte sich, nach der gangbaren Lehre, der Mensch aus ſpättertiärzeitlichen affenartigen Säugetieren entwickelt haben ; der Steinzeitmensch soll diesen Urformen noch näher stehen.
 
@@ -1138,13 +956,7 @@ Bisher haben es nur wenige Naturforscher gewagt, das Alter des kulturfähigen Me
 
 g                                                                                          h
 
-f e
-
-d C
-
-a
-
-b
+f e d C a b
 
 Fig. 5. Unterkiefer von Affen und Menschen des kinozoischen Zeitalters . a) Propliopithecus. Ülteste Affenform aus der Frühtertiärzeit (Oligozan). Ägypten. Eckzahns
 
@@ -1214,27 +1026,17 @@ Buntsandstein. Die Hinters Sie gehören sehr alten Landtieren extremitat        
 
 kleiner. 1. nat. Gr. (Nach R. Owen aus an, die man nur aus diesen Spuren, Zittels Broili , Grundzüge der Paläs nicht nach Skelettreſten kennt (Fig. 6).              ontologie II . 1923.) Sie fallen auf durch ihre große Ähnlichkeit mit Menschenhänden, wenn sie auch solchen gewiß nicht zugehörten . Die älteren, aus
 
-Dacqué , Urwelt, Sage und Menschheit.                                 5
-
 [p. 66]
 
 der Permzeit, zeichnen sich dadurch aus, daß die gegenseitigen Größenverhältnisse der vorderen und hinteren Extremitäten sich noch mehr angleichen als die der etwas jüngeren aus der Triass zeit, wo die hinteren Extremitäten die vorderen an Größe wesent lich übertreffen. Aus der Form der Abdrücke kann man den Schluß ziehen, daß das zugehörige „Handtier" (Chirotherium), wenn auch nicht ganz aufrecht, so doch zuerst weniger, später ents schiedener auf der Hinterextremität lief. Besonders die älteren Fährten seien deshalb bedeutungsvoll, weil gerade sie große Ähns lichkeit mit Kinderhänden haben. Man kann sie, sagt Klaatsch,
 
 in der Tat nicht besser beschreiben als durch einen
 
-Vergleich mit solchen oder auch mit Embryonals
+Vergleich mit solchen oder auch mit Embryonals zuständen der Menschenhand (Fig. 7), worin die
 
-zuständen der Menschenhand (Fig. 7), worin die
+Plumpheit und Derbheit der Kinderhand noch aufs fälliger erscheint. Ein solches embryonales Merks mal der Menschenhand, wie es auch den Thüringer
 
-Plumpheit und Derbheit der Kinderhand noch aufs
-
-fälliger erscheint. Ein solches embryonales Merks
-
-mal der Menschenhand, wie es auch den Thüringer
-
-Fährten eignet, ist die wenig ausgedehnte Fläche
-
-zwischen dem Daumenballen und den übrigen
+Fährten eignet, ist die wenig ausgedehnte Fläche zwischen dem Daumenballen und den übrigen
 
 Fig. 7. Embryonalhand des
 
@@ -1262,15 +1064,7 @@ reptilien des Erdmittelalters mit ihrem aufrechten Gang und ihrer einfach gestre
 
 Im Spätpaläozoikum, in der Permzeit sich andeutend, bes sonders aber in der Triaszeit klar hervortretend, stoßen wir auf eine Erscheinung, die uns offenbart, wann der Säugetiertypus als Zeitsignatur erwachte und sich vollendete. Da gibt es auf einem großen, später untergegangenen Südkontinent, sowie teilweise in Nordamerika, etwas ſpäter auch in Rußland erscheinend, eine Reptil gruppe, die Theromorphen, denen auffallenderweise in vielen ihrer
 
-Geschlechter Organe und
-
-ein allgemeiner Habitus
-
-von Säugetiercharakter
-
-zuteil wird . Unter ihnen
-
-treten sogar Formen auf
+Geschlechter Organe und ein allgemeiner Habitus von Säugetiercharakter zuteil wird . Unter ihnen treten sogar Formen auf
 
 mit    ſäugetierartigem
 
@@ -1376,11 +1170,7 @@ Körpermerkmale des sagenhaften
 
 Urmenschen
 
-Sodaseins
-
-kann also unser Blick in weite Fernen des Urmenschen-
-
-schweifen. Es ist uns wahrscheinlich geworden, daß der Mensch in vielen wechselnden Gestalten immerhin so uralt sein kann, daß Sagengut von ihm, wenn auch noch so zusammenhangs-los, überliefert sein könnte aus Zeiten, die wir nach der landläus figen Lehre zwar als erds und lebensgeschichtlich, nicht aber als menschheitsgeschichtlich anzusehen hätten. Von der Art und dem Weg der „Überlieferung" sei hier noch abgesehen. Ist nach unserer Lehre der Mensch als Mensch so alt, wie wir es zu begründen verz suchten und es jekt annehmen wollen, und sind Mythen und Sagen vielfach oder vielleicht größtenteils vorweltliches, wenn auch längst nicht mehr ursprüngliches und vielfach entstelltes Wissensgut, dann dürfen wir auch zu dem Versuch fortschreiten, den die voraus-gehenden Abschnitte einleiten sollten : aus den Sagen und Mythen nun einmal ein Weltbild aufzubauen, wie es der vorweltliche Mensch um sich und in sich gehabt haben könnte, seine Umwelt und seine eigene Gestalt und Seele zu ermitteln, indem wir uns in die Mythen und Sagen und Kosmogonien einfühlen, ihren Kern zu gewinnen streben und sie naiv als naturhistorische Erz zählungen nehmen. So bekommen sie umgekehrt dokumentarischen Wert, indem wir ihre Inhalte nach jenen Urzeiten hin ausbreiten.
+Sodaseins kann also unser Blick in weite Fernen des Urmenschen-schweifen. Es ist uns wahrscheinlich geworden, daß der Mensch in vielen wechselnden Gestalten immerhin so uralt sein kann, daß Sagengut von ihm, wenn auch noch so zusammenhangs-los, überliefert sein könnte aus Zeiten, die wir nach der landläus figen Lehre zwar als erds und lebensgeschichtlich, nicht aber als menschheitsgeschichtlich anzusehen hätten. Von der Art und dem Weg der „Überlieferung" sei hier noch abgesehen. Ist nach unserer Lehre der Mensch als Mensch so alt, wie wir es zu begründen verz suchten und es jekt annehmen wollen, und sind Mythen und Sagen vielfach oder vielleicht größtenteils vorweltliches, wenn auch längst nicht mehr ursprüngliches und vielfach entstelltes Wissensgut, dann dürfen wir auch zu dem Versuch fortschreiten, den die voraus-gehenden Abschnitte einleiten sollten : aus den Sagen und Mythen nun einmal ein Weltbild aufzubauen, wie es der vorweltliche Mensch um sich und in sich gehabt haben könnte, seine Umwelt und seine eigene Gestalt und Seele zu ermitteln, indem wir uns in die Mythen und Sagen und Kosmogonien einfühlen, ihren Kern zu gewinnen streben und sie naiv als naturhistorische Erz zählungen nehmen. So bekommen sie umgekehrt dokumentarischen Wert, indem wir ihre Inhalte nach jenen Urzeiten hin ausbreiten.
 
 Daß man den älteren Menschen fossil noch nicht gefunden hat, liegt, wie schon einmal betont wurde, vermutlich daran, daß er in Gebieten lebte, die heute größtenteils verschwunden sind, wie etwa der große, von Südafrika und Madagaskar über Indien und Australien bis in die polynesische Jnselwelt hinein sich erstreckende Gondwanakontinent oder -archipel (Fig. 22) ; oder daß andere Ges bietsteile, die etwa noch den Schauplah seines Daseins bilden konn-ten, geologisch so gut wie nicht erforscht sind . In dieser Hinsicht ist von der dereinstigen gründlichen Untersuchung gewiſſer afrikanisch-indisch-australischer oder polynesischer Schichtsysteme des mesozoischen und ſpätpaläozoischen Erdzeitalters besonders viel zu erwarten. Wer also
 
@@ -1452,23 +1242,11 @@ Dacqué ,Urwelt, Sage und Menschheit.                              6
 
 in geschichtlicher Zeit gemacht wurden und dann zum Anlaß und zur Unterlage für eine Neuausgestaltung des uralten, urgeschichts lichen Kernes werden konnten. Abel hat so die homerische Aus-gestaltung und Lokalisierung der Polyphemsage auf Reste des Zwergelefanten in sizilischen Höhlen zurückzuführen vermocht25). Polyphem ist der einäugige Riese mit dem großen Kyklopenauge auf der Stirn, der die schiffbrüchigen Genossen des herumirrenden Odysseus, die in seine Höhle eingedrungen waren, erschlägt und dann von dem schlauen Odysseus geblendet wird . „Nach der Vorz stellung der homerischen Griechen", schreibt Abel, „hausten in Siz zilien riesenhafte Menschen mit einem einzigen großen Auge auf der Mitte der Stirne. Warum gerade Sizilien als das Kyklopens land gegolten habe ? In den unweit des Meeres liegenden Höhlen der Gegend um Messina und an vielen anderen Stellen, so bei Palermo und Trapani, finden sich auch heutigentags noch Skelett-reste des eiszeitlichen Zwergelefanten. Man hat sie auch früher gefunden. Sieht man den Schädel eines solchen Zwergelefanten
 
-mit den Augen des Laien an, so fällt sofort
-
-das riesige Stirnloch auf (Fig. 10). Es ist die
+mit den Augen des Laien an, so fällt sofort das riesige Stirnloch auf (Fig. 10). Es ist die
 
 Nasenöffnung ; die Augen stehen seitlich am
 
-Schädel. Die homerischen Irrfahrer kannten
-
-den Elefantenschädel als solchen nicht ; die ges
-
-wölbte Form ließ auch einen Vergleich mit
-
-einem Menschenschädel am ehesten zu, und
-
-daraus ergab sich die Vorstellung riesenhafter
-
-stirnäugiger Wesen. Seefahrer der homerischen
+Schädel. Die homerischen Irrfahrer kannten den Elefantenschädel als solchen nicht ; die ges wölbte Form ließ auch einen Vergleich mit einem Menschenschädel am ehesten zu, und daraus ergab sich die Vorstellung riesenhafter stirnäugiger Wesen. Seefahrer der homerischen
 
 Fig. 10.
 
@@ -1514,27 +1292,9 @@ Bei der schon einmal erwähnten Brückenechse von Neuseeland, jenem altertümlic
 
 rücktwährend der embryonalen Entwicklung immer mehr von außen nach innen. Ursprünglich waren die beiden in Verbindung stehenden
 
-Organe (Paraphyse und Zirbel) paarig und
+Organe (Paraphyse und Zirbel) paarig und erscheinen so in ihren frühesten erdgeschicht lichen Entwicklungsformen bei altpalão-zoischen Panzerfischen (Fig. 2, S. 48) und einigen merostomen Krebsen (Fig.9). Aber schon bei den Amphibien und Reptilien der Steinkohlen- und Permzeit erscheint äußerlich nur noch das unpaare Scheitel-organ und ist als solches für die in jener
 
-erscheinen so in ihren frühesten erdgeschicht
-
-lichen Entwicklungsformen bei altpalão-
-
-zoischen Panzerfischen (Fig. 2, S. 48) und
-
-einigen merostomen Krebsen (Fig.9). Aber
-
-schon bei den Amphibien und Reptilien
-
-der Steinkohlen- und Permzeit erscheint
-
-äußerlich nur noch das unpaare Scheitel-
-
-organ und ist als solches für die in jener
-
-Zeit lebenden höheren Tiere charakteris
-
-stisch. Daß es dann später, nach seiner
+Zeit lebenden höheren Tiere charakteris stisch. Daß es dann später, nach seiner
 
 Rückbildung, andere, besonders sexuale
 
@@ -1542,9 +1302,7 @@ Fig. 12.          Funktionen übernahm, ist eine bei rudis Scheitelauge   der ne
 
 10. Aufl . 1915.) Vergr.
 
-wie gesagt, auch das Längenwachstum
-
-der Knochen von Jrritierungen der Zirz beldrüse abhängig ist und daß ihre Sekrete das Größenwachstum beeinflussen, ebenso wie die Entwicklung des Intellektes ; und dies ist umso auffallender, als uns die alten „stirnäugigen" Menschen der Sage als Wesen von besonderer Körpergröße und geringem Intellekt geschildert werden ).
+wie gesagt, auch das Längenwachstum der Knochen von Jrritierungen der Zirz beldrüse abhängig ist und daß ihre Sekrete das Größenwachstum beeinflussen, ebenso wie die Entwicklung des Intellektes ; und dies ist umso auffallender, als uns die alten „stirnäugigen" Menschen der Sage als Wesen von besonderer Körpergröße und geringem Intellekt geschildert werden ).
 
 Haben wir also auch hier wieder guten Grund, einer so alten und vielseitig übermittelten und bei entsprechend vergleichender Naturbetrachtung ein so bestimmtes, lebensmögliches Bild liefern-den Sage, wie der von den „Stirnäugigen ", menschheitsgeschicht= lichen Wahrheitsgehalt zuzuerkennen, so verdanken wirdiesen Ausblick dem prinzipiellen Gegensak zu einer Deutungsweise, die von vorn-herein die Absicht hat, den realen naturhistorischen Wahrheitsgehalt zu leugnen, wodurch sie stets zu Resultaten gelangt, welche zwar scheinbar eine naturhafte Auslegung geben, aber sich dennoch in ganz naturfremder Allegorisierung erschöpfen. So heißt es über den Stirnäugigen in einer neueren Mythologie : „Die späteren Vorstellungen von den Kyklopen sind auf eigentümliche Weise zuz gleich von der Dichtung der Odyssee und von dem alten Bilde der Hesiodischen Feuerdämonen bestimmt worden, nur daß diese jekt
 
@@ -1562,9 +1320,7 @@ derten oder überraschten oder beobachtenden Schauens. Bewegung und Charakter de
 
 a                              b                               C
 
-Fig. 13. Dreigeteiltes Bildfeld aus der Dresdener Mayahandſchrift. (Die welligen Schrafflerungen
-
-sind Wasser, die schwarzen Punkte und Linien deuten wohl auf das Totenreich .)
+Fig. 13. Dreigeteiltes Bildfeld aus der Dresdener Mayahandſchrift. (Die welligen Schrafflerungen sind Wasser, die schwarzen Punkte und Linien deuten wohl auf das Totenreich .)
 
 über den Urmenschen fanden, gibt es vielleicht für dieses Feld eine gewisse Deutungsmöglichkeit. Entweder gehört es zu einer symbolischen Erzählung über die Stammesfolge des Menschen, worin der stirnäugige, dämonischer veranlagte Typus mit dem größeren brutaleren Körper und den verwachsenen Fingern eine Rolle spielt gegenüber dem noachitischen Typus mit der vollendeten Hand und dem jektmenschlichen Antlik; oder es ist gar eine ähnliche Erzählung wie die vom babylonischen Gilgamesch, der mit dem Schiffer und Stammesgenossen seines Ahns über das Meer oder in das Totenreich fährt und dort Visionen hat, wie sie das uns mittelbar links folgende Bild (Fig. 13 a) anzudeuten scheint ; also viels leicht ein uralter, zu junger Zeit in Bilders und Hieroglyphenschrift wiedergebrachter Bericht, daß - sie fahren von Osten her - einst
 
@@ -1696,8 +1452,6 @@ lekten modernisierten und symbolisierenden Ausklang noch in Herz ders „Ideen z
 
 Macht man sich klar, was das heißt, so war es nichts anderes als dies, daß der Menschenstamm einmal eine Amöbe, ein Fisch, ein Amphibium usw. war, daß also das Amöb, der Fisch, das Amphi-bium auch Formzustände des Menschen waren. Das ist hinwies derum gar nichts anderes als die von uns vertretene Vorstellung, daß der Mensch naturhistorisch ein uralter, auch die übrigen orgas nischen Formzustände mit umfassender Stamm ist. Denn auch die bisherige Form der Abstammungslehre, wie sie ja fast allgemein noch gültig ist oder bis vor kurzem es wenigstens noch war, ist ja nicht der Meinung gewesen, daß irgend ein heutiges Amöb oder Amphibium der Ahne des Menschen sei, sondern daß es eben andere, geologisch ältere waren, die entweder nur auf einer Linie oder auf mehreren, durch viele sonstige tierische Zwischenstadien, zum Men-schen wurden und von denen sich gelegentlich Seitenzweige ablösten und in entwicklungsgeschichtliche Sackgassen gerieten und Nicht-menschenhaftes hervorbrachten. In diesem Gedanken sind, das darf man wohl sagen, die biologischen Naturforscher wesentlich einig, wenn sie überhaupt eine Evolution zugeben42).
 
-Dacqué , Urwelt, Sage und Menschheit.                        7
-
 [p. 98]
 
 So haben wir auch in Konsequenz rein naturwissenschaftlichen Zus endedenkens den Beweis, daß eine andere Vorstellung vom Kom-men und Werden des Menschen gar nicht vorhanden und wahrs ſcheinlich überhaupt nicht möglich ist als die, welche uns als älteste und festgeschlossenste Lehre in allen Mythen und Religionen ents gegentritt : daß der Mensch ein eigenes Wesen, ein eigener Stamm ist, uranfänglich gewesen, was er sein und werden sollte, wenns gleich mit allerlei grundlegenden Veränderungen seiner Gestalt ; und daß er, körperlich und seelisch mit der Tierwelt stammesvers wandt, doch als die von Uranfang an höhere Potenz die anderen aus seinem Stamm entlassen haben muß, nicht umgekehrt. Die volle Entfaltung der reinen, jektweltlichen Menschenform trat dann ein, als zulekt auch die in ihm latente Affenform aus ihm entlassen war, ebenso wie er durch Entlassung früherer Formpotenzen immer jektweltmenschlicher schon geworden war - vom Faun zum Apoll. Und Apoll tötete dem Zeus seine Kyklopen und deren Söhne; so berichtet die wissende Sage43).
@@ -1728,11 +1482,7 @@ Wenn wir also jekt zusammenfassen, was wir den Überliefes rungen entnehmen konn
 
 [PDF 119]
 
-Urmensch und Sagentiere
-
-n allen Literaturen spielen Drachen- und Lindwurmsagen eine
-
-große Rolle. Auch sie sind als Ausgeburten unkultivierter Phantasie oder als Angstprodukte vor Naturerscheinungen erklärt oder bloß allegorisch gedeutet worden. So heißt es in der „ Ger manischen Mythologie“ von Golther :
+Urmensch und Sagentiere n allen Literaturen spielen Drachen- und Lindwurmsagen eine große Rolle. Auch sie sind als Ausgeburten unkultivierter Phantasie oder als Angstprodukte vor Naturerscheinungen erklärt oder bloß allegorisch gedeutet worden. So heißt es in der „ Ger manischen Mythologie“ von Golther :
 
 „Der gewaltige Giftwurm, dessen Flügelgestalt und Name Drache dem antiken Fabeltier nachgebildet sind, erscheint in der Volkssage unter dem Eindruck von Naturbegebnissen. Aus Wasser, Nebel, Meteorfeuer läßt die Phantasie diese Drachen hervorgehen. Das Weltmeer als Schlange wurde genannt, Grendel ist vielleicht ursprünglich eine Wasserschlange. Die Drachen liegen auf Gold und schädigen bei ihrer Ausfahrt Land und Leute. Vornehmste Aufgabe der Helden ist Bekämpfung dieser Ungetüme, Erlösung von der Landplage, Hebung des Hortes. Die Volkssage denkt bei den riesigen Würmern an Verwüstung durch die See, im Binnens lande an plöklichen Wassersturz anschwellender Ströme oder Bäche. Schüßt Kraft und Einsicht endlich das Land gegen solche Gefahren, so ist ein großer Schah, das Gedeihen der ganzen Gegend, damit erkämpft. Neben den Meeresdrachen ragen besonders die des Hochgebirges hervor, mit denen Dietrich von Bern wie auch mit allen andern Riesen der Bergwelt viel zu schaffen hat. Wo der Bach vom hohen Fels herabbricht, da springt der grimmige Drache, Schaum vor dem Rachen, fort und fort auf den Gegner los und sucht ihn zu verschlingen ; bei eines Brunnen Flusse vor dem Gebirge, das sich hoch in die Lüfte zieht, schießen große Würmer her und hin und trachten, die Helden zu verbrennen ; bei der Herans kunft eines solchen, der Roß und Mann zu verschlingen droht, wird ein Schall gehört, recht wie ein Donnerschlag, davon das ganze Gebirge ertost. Leicht erkennbar sind diese Ungetüme gleich bedeutend mit den siedenden donnernden Wasserstürzen selbst"45).
 
@@ -1742,9 +1492,7 @@ Bei aller schuldigen Achtung vor der Arbeit, worauf die philos logisch vergleich
 
 -
 
-102   -
-
-womit sie Zusammenhänge historisch-etymologischer Art erkennt und aufdeckt, kann es doch nicht zweifelhaft sein, daß mit solchen Erklärungen derselbe Fehler gemacht wird , den wir bei allen Sagenerklärungen dieser Art immer und immer wieder feststellen : daß man sich mit einer Aufdeckung der Allegorien und philos logischen Zusammenhänge begnügt, die nur eine späte Verwertung eines nach seinem lebendig ursprünglichen Inhalt längst verloren gegangenen Mythus oder Naturereignisses allenfalls dartun.
+102   -womit sie Zusammenhänge historisch-etymologischer Art erkennt und aufdeckt, kann es doch nicht zweifelhaft sein, daß mit solchen Erklärungen derselbe Fehler gemacht wird , den wir bei allen Sagenerklärungen dieser Art immer und immer wieder feststellen : daß man sich mit einer Aufdeckung der Allegorien und philos logischen Zusammenhänge begnügt, die nur eine späte Verwertung eines nach seinem lebendig ursprünglichen Inhalt längst verloren gegangenen Mythus oder Naturereignisses allenfalls dartun.
 
 Ich muß hier noch von der tief seelenhaft metaphysischen Bes deutung des Schlangen- und Drachenmythus absehen ; wohl aber ist darauf hinzuweisen, daß die Drachensagenerklärungen Abels da schon viel naturhafter sind und der Wirklichkeit grund-säklich näherkommen46) als solche allegorischen Deutungen. Auf seine Erklärung des stirnäugigen Riesen Polyphem wurde schon hingewiesen (S. 82), wie überhaupt nach seinen Darlegungen Funde fossiler Knochen, die im Mittelalter und in der Neuzeit ges macht wurden und zum Teil noch heute erhalten sind, immerzu Anlaß zur Neubelebung alter Riesen- und Drachensagen - nicht zur Entstehung, wie Abel sagt - gegeben haben. Er gibt da Vers schiedenes an: „Zur Zeit Ludwigs XIII. kamen in der Dauphiné im Chaumonter Feld, das noch heute ,le champ des géans heißt, gewaltige Knochen zum Vorschein, aus denen die Gelehrten der damaligen Zeit den König Teutobochus erstehen ließen ; am 11. Januar 1613 war in einer Sandgrube beim Schloſſe Chaus mont ein Skelett entdeckt worden, das ein Arzt von Beaurepaire namens Mazurier an sich brachte und zuerst in Paris, später auch an anderen Orten Frankreichs und Deutschlands für Geld zeigte. Nach Mazurier sollten es die Gebeine des im Kampfe gegen Marius gefallenen Cimbernkönigs Teutobochus sein. Er erzählte, daß er die Knochen in einem ausgemauerten, 30 Fuß langen Grabmal entdeckt hätte, auf dem der Namen des Cimbernherzogs geschrieben gewesen sei. Dieser Schwindel hielt die wissenschafts liche Welt seinerzeit fünf Jahre lang in Atem ; zahlreiche Streits schriften erschienen über diese Frage. Die Reste werden noch heute im Jardin des Plantes in Paris aufbewahrt ; sie gehören einem Dinotherium an. Wenn solche abenteuerlichen Ideen noch in der ersten Hälfte des 17. Jahrhunderts allen Ernstes von den Akas demien diskutiert wurden, darf man sich wohl nicht über Pau
 
@@ -1816,29 +1564,11 @@ Nicht nur von Landtieren, sondern auch von Wasser- und Luft tieren aus dem Repti
 
 viel Märchen und sind dämonischem „ Aberglauben" von jeher sehr zugänglich gewesen - wenn diese Leute in fernen Meeren hinters einander schwimmende Delphinrücken für Seeschlangen hielten, oder wenn ein Curtius Rufus mit so einer alten Sage die Belages rung Sidons durch Alexander den Großen ausschmückt, warum soll denn die uralte Sage, die hier wieder mit Falschem verjüngt wurde, nicht ihren dem Wortsinn entsprechenden Wahrheitskern haben, wo wir doch wissen, daß es solche Wesen wirklich einmal
 
-gegeben hat, vielleicht sogar noch
-
-in der Tertiärzeit, sicher aber in
-
-derlekten Phase des mesozoischen
+gegeben hat, vielleicht sogar noch in der Tertiärzeit, sicher aber in derlekten Phase des mesozoischen
 
 Zeitalters ? Wir haben nach all'
 
-den vorausgegangenen Dars
-
-legungen keinen Grund mehr,
-
-uns mit den gekünstelten Schein-
-
-erklärungen zufrieden zu geben,
-
-wo wir mit Fug und Recht an
-
-den mesozoischen Menschen und
-
-diese von ihm gesehene Tierwelt
-
-glauben dürfen und sie fossil
+den vorausgegangenen Dars legungen keinen Grund mehr, uns mit den gekünstelten Schein-erklärungen zufrieden zu geben, wo wir mit Fug und Recht an den mesozoischen Menschen und diese von ihm gesehene Tierwelt glauben dürfen und sie fossil
 
 に小
 
@@ -1846,9 +1576,7 @@ wirklich vor Augen haben.
 
 ப
 
-Indessen ist das Bild der
-
-eigentlichen Drachen, wie es etwa
+Indessen ist das Bild der eigentlichen Drachen, wie es etwa
 
 Fig. 16.                   Fig. 16 wiedergibt und wie es Assyrische dem Kampf mit dem Gott Marduk. Man vers auch in Beschreibungen und
 
@@ -1858,13 +1586,7 @@ ley, Dragons                Air,(Aus K. G.Sees
 
 London        wiederkehrt,
 
-1901.) sel geblieben,immerfort
-
-deshalb, ein
-
-weilRäts
-
-es eine anatomische Unmöglichkeit scheint und auch ist, daß vierz füßige Tiere noch einmal eigene Flügel, also gewissermaßen zwei Extremitäten zuviel an der Seite oder gar am Rücken gehabt haben könnten. Denn der Flügel, insbesondere auch bei den reptilhaften Flugdrachen des mesozoischen Zeitalters, ist ja keine überzählige Extremität, sondern hängt an der umgebildeten Vorderextremität, wie beim Vogel. Trokdem glaube ich , daß auch in jener Überlieferung gefiederter Drachentiere keine Phantasie, sondern unmittelbare Naturwahrheit zu uns redet. Wir haben nämlich fossil eine Gruppe von Dinosauriern, welche einen
+1901.) sel geblieben,immerfort deshalb, ein weilRäts es eine anatomische Unmöglichkeit scheint und auch ist, daß vierz füßige Tiere noch einmal eigene Flügel, also gewissermaßen zwei Extremitäten zuviel an der Seite oder gar am Rücken gehabt haben könnten. Denn der Flügel, insbesondere auch bei den reptilhaften Flugdrachen des mesozoischen Zeitalters, ist ja keine überzählige Extremität, sondern hängt an der umgebildeten Vorderextremität, wie beim Vogel. Trokdem glaube ich , daß auch in jener Überlieferung gefiederter Drachentiere keine Phantasie, sondern unmittelbare Naturwahrheit zu uns redet. Wir haben nämlich fossil eine Gruppe von Dinosauriern, welche einen
 
 [p. 109]
 
@@ -1900,9 +1622,7 @@ eine auf anatomischer Grundlage beruhende Eigentümlichkeit der doch zweifellos 
 
 -         -
 
-III
-
-so erinnert, daß auch derartige Formen existiert haben können und daß daher dieses Zusammentreffen wohl mehr als ein zufälliges Phantasiespiel ist. Daß man bei solchen oder ähnlichen fossilen Sauriern das Federkleid noch nicht hat nachweisen können, ist kein schwerwiegender Grund gegen unsere Folgerungen, weil solche Typen entweder noch nicht erkannt oder noch nicht gefunden, oder weil die Federn an sich verweslich und daher fossil nur unter ganz selten günstigen Umständen erhaltungsfähig sind ; sie fielen vielleicht auch nach dem Tode rasch ab, rascher als bei den echten Vögeln; und dies alles mag der Grund sein, weshalb bisher bei ents sprechenden Skeletten nie eine Spur des Gefieders entdeckt wers den konnte. Es ist also anzunehmen, daß einige Rekonstruktionen des äußeren Körpers einiger mesozoischer Schrecksaurier, wie sie uns die amerikanischen Forscher jekt geben, späterhin noch durch Funde mit Federkleid ergänzt werden können.
+III so erinnert, daß auch derartige Formen existiert haben können und daß daher dieses Zusammentreffen wohl mehr als ein zufälliges Phantasiespiel ist. Daß man bei solchen oder ähnlichen fossilen Sauriern das Federkleid noch nicht hat nachweisen können, ist kein schwerwiegender Grund gegen unsere Folgerungen, weil solche Typen entweder noch nicht erkannt oder noch nicht gefunden, oder weil die Federn an sich verweslich und daher fossil nur unter ganz selten günstigen Umständen erhaltungsfähig sind ; sie fielen vielleicht auch nach dem Tode rasch ab, rascher als bei den echten Vögeln; und dies alles mag der Grund sein, weshalb bisher bei ents sprechenden Skeletten nie eine Spur des Gefieders entdeckt wers den konnte. Es ist also anzunehmen, daß einige Rekonstruktionen des äußeren Körpers einiger mesozoischer Schrecksaurier, wie sie uns die amerikanischen Forscher jekt geben, späterhin noch durch Funde mit Federkleid ergänzt werden können.
 
 Die schon zuvor einmal erwähnte Dres-dener Mayahandschrift weist einen unvers kennbaren Einschlag mesozoischer Tiervorz stellungen auf. Immerfort erscheinen dort Reptil- und Schlangengestalten, die mehr ein urweltliches als ein jektweltliches Aussehen haben. Schon auf Seite 88 find herausgegrif-fene Probestücke wiedergegeben, von denen das rechte (c) ein Zusammentreffen zwischen einem Vogel und einem schlangenartigen Lindwurm zeigt, wobei der Vogel das Rep-
 
@@ -1937,8 +1657,6 @@ Was aber das Maß dieses auffallenden und kaum mehr als zufällig anzusehenden Z
 Wenn dies die Sagen schon wissen, so können auch hier nicht Fossilfunde der Anlaß zu diesem merkwürdig richtigen Wissen sein, und wahrscheinlich auch keine vergleichend anatomischen Untersuchungen. Freilich kann der Naturwissenschafter oder Phis lologe behaupten wollen, daß die anatomische Untersuchung von Schlangenbälgen auch den alten Ärzten gelegentlich schon die rudis mentären Extremitäten verraten habe, was dann mittels der ſatts sam bekannten „phantastischen Ausmalung“ zur Sage der ehemals auf Beinen laufenden, dann von Gott kriechend gemachten Schlange geworden sei. Wir hätten so wieder dieselbe Erklärungs-art, wie wir sie entsprechend überhaupt für die Drachen und Lind-würmer oder für den Polyphem bekamen - und gerade die halte ich für gründlich falsch.
 
 Es ist ferner bei Namens- und Vorstellungsübertragungen von sagenhaften alten Ungeheuern oder Tieren auf jüngere, jekts
-
-Dacqué , Urwelt, Sage und Menschheit.                       8
 
 [PDF 132]
 
@@ -2044,9 +1762,7 @@ Die Atlantissage
 
 Dreiüber
 
-Auffassungen sind es, soweit ich sehe, die im wesentlichen
-
-den untergegangenen Westkontinent Atlantis in Sage und Forschung beachtenswert sind.
+Auffassungen sind es, soweit ich sehe, die im wesentlichen den untergegangenen Westkontinent Atlantis in Sage und Forschung beachtenswert sind.
 
 Die älteste und bekannteste ist die aus der griechischen Literatur, überliefert von Platon, auch von vielen anderen Schriftstellern, wie Herodot, Hellanikos, Diodor, Strabo, Plinius nacherzählt oder erweitert, und die nach Platon54) folgende wesentliche Züge hat : In uralter Zeit brach eine gewaltige Kriegsmacht von Westen her in den mittelländischen Kulturkreis ein und fand hier ihr Ende. Damals konnte man das Atlantische Meer noch befahren ; denn es lag vor dem Tor des Herakles eine Insel, größer als Asien und Libyen zusammen. Von ihr konnte man damals noch nach anderen Inseln hinüberfahren und so an das jenseits liegende Festland gelangen, das jenes Meer abschließt. Auf dieser Insel Atlantis bestand eine große Königsherrschaft, die auch noch vielen anderen Inseln und Teilen des Festlandes gebot und auch über Libyen bis nach Ägypten und Tyrrhenien herrschte. Später kamen ges waltige Erdbeben und Überschwemmungen, und im Verlauf eines schlimmen Tages und einer schlimmen Nacht verschwand die Insel Atlantis im Meer. Darum kann man auch das Meer dort jekt nicht mehr befahren, weil hoch aufgehäufte Massen von Schlamm, entstanden beim Untergang der Insel, vorhanden sind.
 
@@ -2090,8 +1806,6 @@ Termier schließt mit einem lebendigen Ausblick : Es ist nach den Anhaltspunkten
 
 Die Termierschen Schlußfolgerungen sind, wie sich im Folgenden noch zeigen wird, nicht ganz die unseren. Die noachitische Sintflut ist für uns mit dem Untergang der älteren Lemuria und vielleicht noch mehr östlich liegender Teile des Gondwanakontinents, eines im Indischen Ozean ehemals gelegenen Landes, verknüpft, und die Auswanderung von der zirkumindischen Gegend erklärt auch viel besser, warum die eigentliche Sintflutſage nicht, wie Termier meint, im oſtatlantischen, sondern im malayisch - polynesischen Gebiet verbreitet gewesen ist. Der Untergang der Atlantis das gegen ist auch für uns ein ſpätzeitliches, jedenfalls quartärzeit-liches Ereignis gewesen und hat, nach den geradezu geschichtlich anmutenden Berichten aus dem Altertum, jedenfalls entwickelte Kulturen mit in den Abgrund gerissen, während zu gleicher Zeit auf europäischem Boden vielleicht der Steinzeitmensch sein eins sames Dasein geführt hat. Tatsache ist jedenfalls, daß wir noch in sehr naheliegender geologischer Zeit atlantische Landkomplexe nachweisen können, auch ohne die sagenhaften und halbhistorischen Berichte aus dem griechischen Altertum. Abgesehen von sonstigen erdgeschichtlichen Wahrscheinlichkeitsbeweisen, genügt hierfür schon die Tatsache, daß das erdgeschichtlich sehr junge Atlasgebirge auf
 
-Dacqué , Urwelt, Sage und Menschheit .                     9
-
 [p. 130]
 
 den Atlantik zuſtreicht und unvermittelt dort abbricht, so daß der Abbruch also erst nach der Gebirgsaufsfaltung geschehen sein kann.
@@ -2112,9 +1826,7 @@ Was wir aus der Geologie des nordwestafrikanischen Kontinen-talrandes (Fig. 21) 
 
 malige Fortsekung des Atlasgebirges unter Abbrüchen und Vers senkungen in den Atlantischen Ozean hinein - das bestätigt uns die Sage. Ja wir erfahren aus ihr noch mehr, was sich auch geologisch rechtfertigen läßt : daß diese Gebirgsfortsekung nicht so
 
-er
-
-ch
+er ch
 
 is            n
 
@@ -2124,9 +1836,7 @@ la
 
 At             Oz          Madeira
 
-Kanaren
-
-ara
+Kanaren ara
 
 Sah
 
@@ -2146,9 +1856,7 @@ Landrest                    Derzeitige untermeerischeFeshands-
 
 grenze.
 
-Fig. 21. Schematische Kartenſkizze des Atlasgebietes und des nordwestafrikanischen Kontinentalrandes
-
-und Inselgebietes. (Nach P. Lemoine in Handb. d. Region. Geologie VII . 1913.)
+Fig. 21. Schematische Kartenſkizze des Atlasgebietes und des nordwestafrikanischen Kontinentalrandes und Inselgebietes. (Nach P. Lemoine in Handb. d. Region. Geologie VII . 1913.)
 
 hoch und nicht so einheitlich geschlossen war wie der festländische Atlaskörper, sondern daß sie vermutlich in einzelne Züge und Stränge von geringerer Höhe aufgelöst war, die plejadenhaft beiſammenſtehende Höhenzüge und Berge bildeten. Der ozeanische Teil der tertiärzeitlichen Atlasfaltung ist bei der schon alsbald einsehenden Senkung wohl überhaupt niemals zu den bedeuten-den Höhen des afrikanischen Atlas emporgediehen, sondern war mehr ein Anhang, vielleicht ein ausklingendes Faltenteil und daher niedriger, zerstreuter, aufgelöster. Das waren die Töchter des Riesen Atlas, die Plejaden. Wie später dieser Gebirgsteil vers hältnismäßig bald verſank und am Rand sogar noch innerhalb des jezigen afrikanischen Festlandes versunken ist, wie die Karten
 
@@ -2218,11 +1926,7 @@ Die Betrachtung müßte, wie gesagt, den umgekehrten Weg gehen ; sie dürfte nic
 
 [PDF 157]
 
-Die geologische Erklärung der
-
-noachitischen Sintflut
-
-ekannter als alle die anderen Sagen ist uns von Kindheit an
+Die geologische Erklärung der noachitischen Sintflut ekannter als alle die anderen Sagen ist uns von Kindheit an
 
 "
 
@@ -2288,9 +1992,7 @@ Dacqué ,Urwelt, Sage und Menschheit.
 
 [PDF 164]
 
-Der Wesenskern des Sintflutereignisses
-
-us dieser großen, von E. Sueß unternommenen und scheins Ausbar eine Lösung des uralten Problems bringenden Erz läuterung des Gilgameschepos können wir im Grunde nur wieder entnehmen, wie in den verschiedensten Ländern infolge späterer örtlicher Katastrophen ein uralter, traditionell überkommener Sas genstoff oder ein auf weite Flächen von kontinentalem Ausmaß sich erstreckendes Weltereignis verschieden ausgestaltet wird. Wir haben solches schon bei den alten Tiersagen, den Basilisken und Lindwürmern gefunden, es trat uns beim Kyklopenmythus ents gegen, und nun treffen wir es wieder bei der Sintslut.
+Der Wesenskern des Sintflutereignisses us dieser großen, von E. Sueß unternommenen und scheins Ausbar eine Lösung des uralten Problems bringenden Erz läuterung des Gilgameschepos können wir im Grunde nur wieder entnehmen, wie in den verschiedensten Ländern infolge späterer örtlicher Katastrophen ein uralter, traditionell überkommener Sas genstoff oder ein auf weite Flächen von kontinentalem Ausmaß sich erstreckendes Weltereignis verschieden ausgestaltet wird. Wir haben solches schon bei den alten Tiersagen, den Basilisken und Lindwürmern gefunden, es trat uns beim Kyklopenmythus ents gegen, und nun treffen wir es wieder bei der Sintslut.
 
 Eine Lösung des Sintflutproblems hat Sueß nicht gebracht. Es erscheint mir, worauf Sueß so großen Wert legt, ganz nebens sächlich, ob im mosaischen Text oder im babylonischen zwei oder noch mehr Überlieferungen oder Grundberichte ineinander vers arbeitet sind ; denn sie sind in einem bestimmten Kern einheitlich, und diesen wollen und müssen wir herausholen - auch bei ähns lichen Sagen anderer Gegenden und Völkerstämme - und müssen vom Gewand absehen, in dem sie auftreten. Das aber ist der umgekehrte Weg, den Sueß einschlug : er bemüht sich, gerade das Einheitliche in der Überlieferung aufzulösen zugunsten der den Kern umkleidenden Ausgestaltungen.
 
@@ -2368,11 +2070,7 @@ Alpin-himalayisches Meer
 
 D
 
-Go
-
-nd
-
-wa
+Go nd wa
 
 0
 
@@ -2402,15 +2100,11 @@ an denen sowohl vertikale wie horizontale Kontinentalverschies bungen in erdgesc
 
 him0a
 
-Alpin- layische Mee
-
-s Anrgara
+Alpin- layische Mee s Anrgara
 
 -
 
-Süd
-
-ntis
+Süd ntis
 
 Atla
 
@@ -2420,17 +2114,13 @@ Atla
 
 Le
 
-Afrika
-
-er  D
+Afrika er  D
 
 mu       ch        n
 
 ri           ea
 
-In
-
-di:
+In di:
 
 a
 
@@ -2450,9 +2140,7 @@ ElwaigeLagederalten Landkomplexe
 
 Fig. 23.
 
-Schematische Skizze der Inselflächen nach dem Zerfall des Gondwanalandes am Ende
-
-der Kreidezeit. Die heutigen Landgrenzen existierten noch nicht. (Original.)
+Schematische Skizze der Inselflächen nach dem Zerfall des Gondwanalandes am Ende der Kreidezeit. Die heutigen Landgrenzen existierten noch nicht. (Original.)
 
 zu paläozoischer Zeit einnehmenden Kontinentes, des Gondwana-kontinentes (Fig. 22) folgte und der im Spätmesozoikum ends gültig zerfiel (Fig. 23), sei es, daß er durch Niederbrüche zu ozes anischer Tiefe, wie es Sueß meinte, oder durch Auseinandertriften der indischen, australischen und madagassischen Scholle oder durch eine Kombination beider Vorgänge verschwand ..
 
@@ -2488,11 +2176,7 @@ Ob diese Deutung angängig ist, wird die Zukunft lehren, wenn die hier behandelt
 
 Die kosmische Erklärung der noachitischen
 
-Sintflut
-
-in großer, vielleicht das wohlgeprägte System einer Wissens
-
-schaft oder die Philosophie und Weltanschauung einer Zeit umschmelzender Gedanke tritt im Geiste eines Forschers fast immer mit einem Schlag ins Licht. Mag es auch da und dort, in anderem Zusammenhang oder verdeckt und unverstanden sich geregt haben, was der Gedanke bringt : dort, wo er Leben und Bewegung ges winnend ausstrahlt, ist er in einem Augenblick geboren. So bez richten alle Forscher, die ihren Genius bei der Arbeit belauscht haben. Oft ist es, freilich von langer Arbeit vorbereitet, nur ein kleiner wie zufälliger Anlaß, der über die Geburt des Gedankens entscheidet. Er erfaßt den Denker unmittelbar, ohne daß er es in diesem Augenblick gewußt, gewollt, geahnt hat. Es fällt ihm wie Schuppen von den Augen". All' sein Einzelwissen, alle da und dort schon in ihm aufgetauchten, erwogenen, wieder als ungereift oder ihm noch unprägbar, oft ihm scheinbar wieder verlorens gegangenen oder freiwillig wieder beiseite gelassenen Bilder schießen plöklich zu einem neuen, unerhörten Schauen zusammen. In diesem ganz erhobenen Augenblick sieht er in eine endlose helle Weite, wo Totes ihm lebendig, Fernes ihm nah und greifbar, nie Verstandenes ihm vertraut wird und eine große Gewißheit ihn erfüllt. Er weiß". Dann muß er zur Alltagsarbeit zurück ;
+Sintflut in großer, vielleicht das wohlgeprägte System einer Wissens schaft oder die Philosophie und Weltanschauung einer Zeit umschmelzender Gedanke tritt im Geiste eines Forschers fast immer mit einem Schlag ins Licht. Mag es auch da und dort, in anderem Zusammenhang oder verdeckt und unverstanden sich geregt haben, was der Gedanke bringt : dort, wo er Leben und Bewegung ges winnend ausstrahlt, ist er in einem Augenblick geboren. So bez richten alle Forscher, die ihren Genius bei der Arbeit belauscht haben. Oft ist es, freilich von langer Arbeit vorbereitet, nur ein kleiner wie zufälliger Anlaß, der über die Geburt des Gedankens entscheidet. Er erfaßt den Denker unmittelbar, ohne daß er es in diesem Augenblick gewußt, gewollt, geahnt hat. Es fällt ihm wie Schuppen von den Augen". All' sein Einzelwissen, alle da und dort schon in ihm aufgetauchten, erwogenen, wieder als ungereift oder ihm noch unprägbar, oft ihm scheinbar wieder verlorens gegangenen oder freiwillig wieder beiseite gelassenen Bilder schießen plöklich zu einem neuen, unerhörten Schauen zusammen. In diesem ganz erhobenen Augenblick sieht er in eine endlose helle Weite, wo Totes ihm lebendig, Fernes ihm nah und greifbar, nie Verstandenes ihm vertraut wird und eine große Gewißheit ihn erfüllt. Er weiß". Dann muß er zur Alltagsarbeit zurück ;
 
 "
 
@@ -2525,8 +2209,6 @@ bestimmter Bahn durch den Raum nach unbekannten Zielen eilen, wenn unser Sonnens
 Wie die Planeten ihre Monde, wie die Sonne ihre Planeten, so saugen auch die in einem System vereinigten hellen und erloschenen Sonnen und ihre Riesenplaneten sich gegenseitig an. Wir wissen, daß viele leuchtende Fixsternsonnen ihre dunkeln Begleiter haben. Diese mögen früher selbständige, aber nun erloschene Sonnen sein, die sich bei ihrem Lauf in der Bahn einer noch weißglühenden Riesensonne verfingen und ihr von da ab folgen mußten. Der dunkle Begleiter kann auf seiner Oberfläche Eis oder Wasser haben als Niederschlag des einst glühenden Wasserstoffes, der beim Erkalten des Körpers sich mit seinem Sauerstoff zu Wasser vers dichtete ; aber das Wasser kann auch chemisch gebunden in den Gesteinen seiner Rinde und seines Inneren enthalten sein.
 
 Je größer ein Weltkörper ist und je dichter sein Material, umso mehr innere Festigkeit hat er, die schon bei unserer wenig dichten Erde dreimal die des Stahles übertrifft. Wird ein größerer Welts körper von einer Riesensonne eingefangen und streicht er in den Zentralkörper rasch ein, so braucht er keineswegs auseinanders gezogen und verteilt zu werden wie ein kleiner Mond, sondern er kann bei der großen Schnelligkeit, mit der solches geschehen muß, und bei seiner erheblichen Festigkeit als Ganzes hineinstürzen. Wenn man ein Eisstück in die Glut eines Hochofens bringt, so verpufft es nicht augenblicklich und wird auch nicht unmittelbar ganz zu Wasserdampf aufgelöst, sondern es umgibt sich nach kurzem Auf-zischen mit einer Schlackenkruste, die es isoliert und das Hindurch-dringen der Hike in den Eiskörper wesentlich hintanhält. So schmilzt es langsam erst zu Wasser aus ; aber auch das Wasser wird in dem Glutmantel nicht sofort zu Dampf, sondern tritt in den Siedes verzug ein. Danach, bei der geringsten Druck- und Gleichgewichts-störung in der umgebenden Masse, explodiert es mit ungeheuerer Spannung und richtet die größten Zerstörungen an.
-
-Dacqué , Urwelt, Sage und Menschheit.                      II
 
 [p. 162]
 
@@ -2636,13 +2318,9 @@ Wir sehen es als ausgemacht an, daß die altbabylonische Stern-seher- und Sternb
 
 [PDF 190]
 
-Datierung und Raumbegrenzung der
+Datierung und Raumbegrenzung der noachitischen Sintflut
 
-noachitischen Sintflut
-
-Es ist uns zuvor schon klar geworden, wohin wir nach unserer
-
-vergleichenden Methode den noachitischen Menschen zu stellen haben, sowohl in der Evolutionsstufe des Menschenstammes selbst, wie in der erdgeschichtlichen Zeitskala. Dieser Noahtypus - man darf ja nicht an eine Person, auch nicht bloß an einzelne Genes rationen denken, sondern muß ganz frei aus der Höhe den Men-ſchentypus in allen möglichen Spezialstämmen und Ausgestaltun-gen seiner Körpergestalt und Kulturfähigkeit, doch innerhalb ge wiſſer Grenzen als denselben begreifen - dieser von uns so ges nannte noachitische Menschentypus ist, wie wir versuchten darzu-tun, vielleicht schon frühmesozoischen Alters . Nicht sofort mit dem Entstehen dieses noachitischen Menschenstammes trat die Sintflut ein. Denn Noah selbst, wie er als Menschenfigur im Sintslut-bericht auftritt, lebte ja schon länger unter entarteten Menschen. Er ist ein schon höher entwickelter Repräsentant des mesozoisch säugetierhaften Intellektualmenschen gewesen.
+Es ist uns zuvor schon klar geworden, wohin wir nach unserer vergleichenden Methode den noachitischen Menschen zu stellen haben, sowohl in der Evolutionsstufe des Menschenstammes selbst, wie in der erdgeschichtlichen Zeitskala. Dieser Noahtypus - man darf ja nicht an eine Person, auch nicht bloß an einzelne Genes rationen denken, sondern muß ganz frei aus der Höhe den Men-ſchentypus in allen möglichen Spezialstämmen und Ausgestaltun-gen seiner Körpergestalt und Kulturfähigkeit, doch innerhalb ge wiſſer Grenzen als denselben begreifen - dieser von uns so ges nannte noachitische Menschentypus ist, wie wir versuchten darzu-tun, vielleicht schon frühmesozoischen Alters . Nicht sofort mit dem Entstehen dieses noachitischen Menschenstammes trat die Sintflut ein. Denn Noah selbst, wie er als Menschenfigur im Sintslut-bericht auftritt, lebte ja schon länger unter entarteten Menschen. Er ist ein schon höher entwickelter Repräsentant des mesozoisch säugetierhaften Intellektualmenschen gewesen.
 
 Ein Merkmal, wonach man zunächst versuchen kann, das Sint-fluterlebnis Noahs erdgeschichtlich einzuordnen, ist die Pflanzen-welt, die ihn umgibt. Es wird der Ölbaum genannt, den er zu-erst nach der Flut wiederfand. Sodann die Züchtung des Weins stockes, die ihm nach der Sintslut gelang. Der Ölbaum, wie der Weinstock gehören zu den Blütenpflanzen, denen wir in der Erd-geschichte zum erstenmal in der lekten Hälfte der Kreidezeit, also am Ende des mesozoischen Zeitalters begegnen. Da der Weins stock als solcher nicht wild vorkommt, sondern als Züchtungsprodukt angesehen werden muß, so kann er jedenfalls nicht früher als in dem oberen Teil der Kreidezeit vom Vorweltmenschen gezüchtet worden sein. Da er nach der Sage erst nach der Sintslut in den neu besiedelten Gebieten hervorgebracht wurde, so kann diese Neubesiedelung nicht viel vor dem Ende der Kreidezeit ſtatt gefunden haben. Damit ist eine älteste Zeitgrenze gegeben.
 
@@ -2680,9 +2358,7 @@ Schon im vorigen Abschnitt wurde im Anschluß an Hörbigers Sintfluttheorie dara
 
 -
 
-176   -
-
-gefangenen Fremdkörpers zuvor schon eine, wenn auch nur kurze fristige äquatoriale Flut hervorgerufen haben mußte. Sodann mußten im Zusammenhang damit Erdbeben entstehen, Spalten sich bilden und Brunnen der Tiefe aufbrechen. Wenn es ein größerer kosmischer Körper war, der hereingezogen wurde, so mußte bei seiner Annäherung auch eine Beeinflussung der Form des Erds körpers, also in der Äquatorialzone innerhalb der Wasserhebung auch die attraktive Tendenz zu einer Landhebung hervorgerufen werden, wie jekt bei der gewöhnlichen Mondslut und -ebbe. Nun ist aber jede Kontinentalfläche immer in gewissen regionalen Spans nungszuständen, welche im gegebenen Augenblick zum Ausgleich schreiten und dann Auf- oder Abwärtsbewegungen, Horizontals und Vertikalverschiebungen hervorbringen, sei es, daß solche an älteren, vorgebildeten und zuvor schon öfters im gleichen Sinne benükten Unstetigkeitslinien und Verwerfungsspalten im Ges steinsgerüst der Kontinente sich ausleben, oder daß neue Spaltens linien sich bei solcher Gelegenheit bilden. Solche Spannungen werden wohl bei gewissen astronomischen Änderungen, also etwa bei Erzentrizitätsschwankungen der Erdbahn oder allenfalls bei Änderungen der Ekliptikschiefe, am ehesten ausgelöst und könnten natürlich in mehr katastrophaler Weise bei einer solchen Gelegen-heit, wie sie das Herantreten eines kosmischen Körpers bietet, ausgelöst werden. Bei derartigen Kontinentbewegungen und dem dabei einsehenden Aufreißen von Spalten und Bruchsystemen treten dann auch Quellen, heiße Thermen oder Vulkane zutage. Das sind gewöhnliche geologische Erscheinungen, die hier nicht erst begründet zu werden brauchen und deren Heranziehung nichts Besonderes ist.
+176   -gefangenen Fremdkörpers zuvor schon eine, wenn auch nur kurze fristige äquatoriale Flut hervorgerufen haben mußte. Sodann mußten im Zusammenhang damit Erdbeben entstehen, Spalten sich bilden und Brunnen der Tiefe aufbrechen. Wenn es ein größerer kosmischer Körper war, der hereingezogen wurde, so mußte bei seiner Annäherung auch eine Beeinflussung der Form des Erds körpers, also in der Äquatorialzone innerhalb der Wasserhebung auch die attraktive Tendenz zu einer Landhebung hervorgerufen werden, wie jekt bei der gewöhnlichen Mondslut und -ebbe. Nun ist aber jede Kontinentalfläche immer in gewissen regionalen Spans nungszuständen, welche im gegebenen Augenblick zum Ausgleich schreiten und dann Auf- oder Abwärtsbewegungen, Horizontals und Vertikalverschiebungen hervorbringen, sei es, daß solche an älteren, vorgebildeten und zuvor schon öfters im gleichen Sinne benükten Unstetigkeitslinien und Verwerfungsspalten im Ges steinsgerüst der Kontinente sich ausleben, oder daß neue Spaltens linien sich bei solcher Gelegenheit bilden. Solche Spannungen werden wohl bei gewissen astronomischen Änderungen, also etwa bei Erzentrizitätsschwankungen der Erdbahn oder allenfalls bei Änderungen der Ekliptikschiefe, am ehesten ausgelöst und könnten natürlich in mehr katastrophaler Weise bei einer solchen Gelegen-heit, wie sie das Herantreten eines kosmischen Körpers bietet, ausgelöst werden. Bei derartigen Kontinentbewegungen und dem dabei einsehenden Aufreißen von Spalten und Bruchsystemen treten dann auch Quellen, heiße Thermen oder Vulkane zutage. Das sind gewöhnliche geologische Erscheinungen, die hier nicht erst begründet zu werden brauchen und deren Heranziehung nichts Besonderes ist.
 
 Wir wissen nun aus der Erdgeschichte, daß mit dem Ende des mesozoischen und am Beginn des Tertiärzeitalters der große, schon öfters erwähnte Gondwanakontinent zwiſchen Polynesien, Austras lien, Indien, Madagaskar und Afrika zerfiel, sei es, daß er zu ozeanischen Tiefen niederbrach oder daß unter geringeren Nieders brüchen seine Teile im Sinne der Wegenerschen Kontinentalverſchies bungslehre74) auseinandertraten. Jedenfalls ist dieser Kontinens talzerfall eine erdgeschichtliche Tatsache und hat sich in der Juras zeit zum erstenmal stark bemerkbar gemacht. Wenn dieser Vorgang auch über längere Zeit sich erstreckte, so kann er stellenweise und
 
@@ -2702,39 +2378,15 @@ Dacqué , Urwelt, Sage und Menschheit.
 
 Südindien gelangen und auch Australien halten. Endlich ist an= zunehmen, daß damals, selbst nach dem Untergang des größten Teiles von Gondwanaland, noch im Pazifik ein polynesischer Lands komplex sich hielt, der ebenfalls dem noachitischen, sintslutverz triebenen Menschen erreichbar war, von wo er ebenfalls durch Inselguirlanden nach Süd- oder Mittelamerika gelangen konnte. Und überall dahin nahm er die originale, wenn auch regional von
 
-Anfang an verschiedene, aber im Kern
+Anfang an verschiedene, aber im Kern übereinstimmende Sintslutsage mit, was ganz derunserer Sagenforschung ursprüng-lich scheinenden Verbreitung entspricht.
 
-übereinstimmende Sintslutsage mit, was
+Daß die Sintslutsage in Mittelamerika ursprünglich ist, d.h., dort vorhanden war, ehe die Spanier ins Land kamen, ist heute wohl ausgemacht. Umso wichtiger scheint mir daher ein Stück aus der schon wieders holt zitierten aztekischen Mayahandschrift, auf dem vielleicht eine Anspielung auf die
 
-ganz derunserer Sagenforschung ursprüng-
-
-lich scheinenden Verbreitung entspricht.
-
-Daß die Sintslutsage in Mittelamerika
-
-ursprünglich ist, d.h., dort vorhanden war,
-
-ehe die Spanier ins Land kamen, ist heute
-
-wohl ausgemacht. Umso wichtiger scheint
-
-mir daher ein Stück aus der schon wieders
-
-holt zitierten aztekischen Mayahandschrift,
-
-auf dem vielleicht eine Anspielung auf die
-
-Sintslut zu erkennen ist (Fig. 24). Der
-
-mit dem Menschendämon über das Wasser
-
-gefahrene Mensch sikt dort in der Flut, am
+Sintslut zu erkennen ist (Fig. 24). Der mit dem Menschendämon über das Wasser gefahrene Mensch sikt dort in der Flut, am
 
 Grund des Wassers, das ihm über dem
 
-Haupt steht. Jhm gegenüber ein Lier, das
-
-jedoch keine Schlange ist, denn es fehlen
+Haupt steht. Jhm gegenüber ein Lier, das jedoch keine Schlange ist, denn es fehlen
 
 Fig. 24.               ihm alle zu einer solchen gehörigen Merks Bildfelder der Mayahandschrift,   male. Eher ist es mit einem Wurm verz vielleicht mit Andeu ungen der
 
@@ -2790,9 +2442,7 @@ Die Vermischung der kosmogonischen Ymirslutsage, wie wir sie ganz allgemein nenn
 
 -
 
-183   -
-
-lautet ungefähr so : Einst zogen einige Dajakweiber aus und ſekten sich im Dschungel auf einen umgestürzten Baum. Auf einmal bes gann der Baum zu bluten, und einige hinzukommende Männer sahen, daß es kein Baum war, sondern eine große Schlange, die erstarrt dalag. Sie töteten das Tier, ſchnitten es auf, nahmen das Fleisch mit nach Hause und brieten es. Da erhob sich ein Lärm, es begann heftig zu regnen, bis alle Berge außer den höchsten unter Wasser standen. Alle Menschen gingen zugrunde, nur ein Weib wurde gerettet, aus dem später die feuerbohrenden Menschen hervorgingen ).
+183   -lautet ungefähr so : Einst zogen einige Dajakweiber aus und ſekten sich im Dschungel auf einen umgestürzten Baum. Auf einmal bes gann der Baum zu bluten, und einige hinzukommende Männer sahen, daß es kein Baum war, sondern eine große Schlange, die erstarrt dalag. Sie töteten das Tier, ſchnitten es auf, nahmen das Fleisch mit nach Hause und brieten es. Da erhob sich ein Lärm, es begann heftig zu regnen, bis alle Berge außer den höchsten unter Wasser standen. Alle Menschen gingen zugrunde, nur ein Weib wurde gerettet, aus dem später die feuerbohrenden Menschen hervorgingen ).
 
 Für die Sintslutsage noachitischer Natur haben wir als Mittels punkt einen südöstlichen Erdkomplex, in den z. B. Griechenland schon nicht mehr ursprünglich gehört, sondern der vielmehr mit Babylonien und Chaldäa nach Westen und Nordwesten abgrenzt. Dagegen erstreckte er sich auf das Gebiet am und im Indischen Dzean bis hinüber nach Polynesien und von dort wohl - also nicht von Westen und nicht von Nordasien her - auf Süd- und Mittels amerika. China, Tibet und Zentralasien, ebenso wie der germanischs nordische und der mediterran-atlantische Kreis gehörten zum nords westlichen Flächenkomplex. Unsere heutige, von Europa auss gehende Orientierung in eine westliche Erdhalbkugel, unter der man die beiden Amerika mit dem Atlantik versteht, und in eine östliche, worunter man den Orient und Asien mit Australien und Polynesien versteht, legt die Grenznaht mitten durch Europa hindurch . Die Ureinwohner beider Amerika sind aber für unsere Betrachtungsweise hier Ostvölker.
 
@@ -2832,9 +2482,7 @@ Hier, in der Sage der nördlichen Dindje-Indianer, wo es heißt, daß die Wasser
 
 lische Bericht gerade auf diesen Ablauf kein Wort verwendet, so daß das Motiv ursprünglich aus der Sintslutzeit selbst stammen muß, wo mit dem Zusammenbrechen des Gondwanakontinentes eine so riesige, zur Aufnahme großer Wassermengen und zu ihrer Hinausleitung ins Meer geeignete Spalte sich bilden konnte. Weil dieser Zug an zwei so ganz entgegengesekten Punkten der Erde nun ursprünglicherweise in der gleichen Überlieferung wieders kehrt, so muß er von den Urbewohnern Nordamerikas wahrscheins lich von Polynesien her und nicht über das die noachitische Sint-
 
-nk
-
-ba
+nk ba
 
 g er                            0
 
@@ -2846,9 +2494,7 @@ Nordsee
 
 Norwich.
 
-Amsterdam
-
-f
+Amsterdam f
 
 Rheinlau
 
@@ -2878,21 +2524,13 @@ Es sei noch auf eine Überlieferung hingewiesen, welche möglicher weise dazu f�
 
 ihnen also Bekanntes wagen durften. Nun wissen wir aber, daß vor der Eiszeit und wohl auch in der Eiszeit selbst, solange die Nords see noch nicht vereist war, die Rheinmündung (Fig. 25) gar nicht
 
-nd
-
-la
-
-ön
+nd la ön
 
 Gr
 
 8
 
-e
-
-ck t
-
-b rürzei
+e ck t b rürzei
 
 nd iä                                                      pa
 
@@ -2962,8 +2600,6 @@ Mediumwiderstand ausgesekt sind, der, wenn man allenfalls von dem seiner Natur n
 
 Ebenso, wie dieses Ziel einem Mondkörper bevorstehe, so ſtehe es allen Planeten bevor, die in die Sonne gezogen werden. Immer enger werde, auch von intermittierenden Änderungen abs gesehen, ihre Bahn um den zentralen Schwerpunkt des ganzen Systems. Die Planeten laufen aber in Ellipsen um die Sonne, und zwar verschieden rasch. Im einen Brennpunkt ihrer Ellipsen steht die Sonne selbst, also nicht im idealen Mittelpunkt der Bahn. Infolgedessen befindet sich jeder Planet einmal während seines Umlaufes in Sonnennähe (Perihel) und einmal in Sonnenferne (Aphel). Seine Umlaufszeit ist sein Jahr" ; für die Erde beträgt es 365 Tage, für den Mars 687 Erdentage, für den Merkur als nächsten an der Sonne und daher mit einem raschen Umlauf eilend, 88 Erdentage. Da die Planeten nicht alle gleichzeitig in ihr Aphel und in ihr Perihel treten, so kommt es, daß benach-barte und verschieden große unter ihnen sich einander so ans nähern, daß der größere auf den kleineren eine schwach ablenkende
 
-Dacqué , Urwelt, Sage und Menschheit .                     13
-
 [PDF 212]
 
 -         -
@@ -3008,9 +2644,7 @@ Es erübrigt sich wohl, das Bild weiter zu erklären, so einfach und natürlich 
 
 -
 
-198   -
-
-gewisse Störungen in der Stellung der Planetenkörper zu ihrer Bahn um die Sonne hervorrufen. Es ist ferner klar, daß nicht überall auf der Erde die Erscheinung in gleicher Weise zu beobachten war, wie ja auch eine gewöhnliche Sonnenfinsternis nicht überall dieselbe Bedeckung der Scheibe zeigt und an vielen Stellen übers haupt nicht sichtbar wird. So konnte auch eine vorübergehende Änderung im Bahnlauf der Erde und eine größere Annäherung und dann Wiederentfernung von der Sonne in den verschiedenen Quadranten oder Zonen der Erde geradezu ein gegensäßliches Bild hervorrufen und in der einen Gegend eine lang dauernde totale Finsternis, in der anderen Gegend weiter nichts als einen vor-übergehenden scheinbaren Stillstand oder eine scheinbare Vers langsamung des Laufes von Sonne und Mond vortäuschen. Damit wäre auch die Erzählung Josuas erklärt und geradezu eine Identität der Kerne dieser und jener Sage wahrscheinlich gemacht.
+198   -gewisse Störungen in der Stellung der Planetenkörper zu ihrer Bahn um die Sonne hervorrufen. Es ist ferner klar, daß nicht überall auf der Erde die Erscheinung in gleicher Weise zu beobachten war, wie ja auch eine gewöhnliche Sonnenfinsternis nicht überall dieselbe Bedeckung der Scheibe zeigt und an vielen Stellen übers haupt nicht sichtbar wird. So konnte auch eine vorübergehende Änderung im Bahnlauf der Erde und eine größere Annäherung und dann Wiederentfernung von der Sonne in den verschiedenen Quadranten oder Zonen der Erde geradezu ein gegensäßliches Bild hervorrufen und in der einen Gegend eine lang dauernde totale Finsternis, in der anderen Gegend weiter nichts als einen vor-übergehenden scheinbaren Stillstand oder eine scheinbare Vers langsamung des Laufes von Sonne und Mond vortäuschen. Damit wäre auch die Erzählung Josuas erklärt und geradezu eine Identität der Kerne dieser und jener Sage wahrscheinlich gemacht.
 
 Das in den Überlieferungen wie auch in der gewöhnlichen, ſpätmythologischen Sprache häufig angewandte Bild des Vers schlungenwerdens von Sonne und Mond bei Finsternissen sollte man also bei der Auslegung der Sagen nicht in einem flach allegorischen Sinne nehmen. Man hat allerdings noch in griechis scher Zeit und auch bei den späteren Babyloniern vom Bedrohen des Mondes und der Sonne durch Ungeheuer gefabelt und dies jedesmal allegorisch gemeint, wenn Finsternisse eintraten. Aber die Ausdrucks- und Vorstellungsweise selbst nimmt doch wohl ihren Ausgangspunkt von anderen und wahrscheinlich sehr alten, vielleicht sogar nur mythisch übermittelten Naturvorgängen, astro-physikalischen Vorgängen oder Katastrophen, oder gelegentlicher und wieder vorübergegangener Bedrohung der bekannten hims melskörper durch fremde Eindringlinge oder bahngestörte Ges stirne, wie es die Sage von der Sonnenverheiratung erzählt.
 
@@ -3046,9 +2680,7 @@ ling des Sonnengottes ehedem eine wohlbekannte und lange Zeit ungefährlich sche
 
 Sternsagen
 
-K&inſtmitſtahl der Teufel dem Herrn die himmlischeKraft und erschuf
-
-ihrer Hilfe einen Kristallhimmel. Der Erzengel Michael wollte sie ihm wieder nehmen. Der Teufel tauchte unter das Meer. Unterdessen bedeckte Gott das Meer mit Eis und der Teufel hatte Mühe wieder herauszukommen. Eine serbische Überlieferung malt es etwas anders aus und berichtet, daß der Teufel nicht heraus-konnte und daraufhin noch einmal hinuntertauchte und einen Stein holte, mit dem er das Eis durchbrach und hinter dem Erz-engel drein jagte, durch dessen Blasen sich das Meer mit dem dicken Eis bedeckt hatte. Doch Michael drehte sich um, riß dem Satan die Fittiche ab, daß er ins Meer fiel ; nach anderer Version : daß er in Stücke zerschellte, die vier Tage lang herniederregneten93).
+K&inſtmitſtahl der Teufel dem Herrn die himmlischeKraft und erschuf ihrer Hilfe einen Kristallhimmel. Der Erzengel Michael wollte sie ihm wieder nehmen. Der Teufel tauchte unter das Meer. Unterdessen bedeckte Gott das Meer mit Eis und der Teufel hatte Mühe wieder herauszukommen. Eine serbische Überlieferung malt es etwas anders aus und berichtet, daß der Teufel nicht heraus-konnte und daraufhin noch einmal hinuntertauchte und einen Stein holte, mit dem er das Eis durchbrach und hinter dem Erz-engel drein jagte, durch dessen Blasen sich das Meer mit dem dicken Eis bedeckt hatte. Doch Michael drehte sich um, riß dem Satan die Fittiche ab, daß er ins Meer fiel ; nach anderer Version : daß er in Stücke zerschellte, die vier Tage lang herniederregneten93).
 
 Man sieht der Sage auf den ersten Blick an, wenn man übers haupt einmal naturhistorisch auf die Sache eingestellt ist, daß hier in einer nicht einmal sehr undurchsichtigen Verhüllung eine Einwirkung aus dem kosmischen Raum auf die Erde darz gestellt wird, in deren Gefolge eine große Eisbildung einsekte. Die auch das Meer bedeckende Eismasse wurde von vulkanischen Ausbrüchen durchschlagen, die sehr stark waren und weit in die Atmosphäre hinausgingen. Später scheint dann ein ungeheuerer, mehrere Tage währender Meteorfall dem Schauspiel den Abschluß gegeben zu haben - und aus alledem wird wieder der Zusammen-hang von Kälte oder Wassereinwirkung aus dem Weltall, Eiss bildung auf der Erde, vulkanischen Paroxysmen und Zerlegung eines herumirrenden kosmischen Körpers in Meteore und ihr Niedergehen auf die Erde ersichtlich, womit dann die Eisdecke ihr Ende findet und wieder Erwärmung eintritt. Gerade bei dieser Sage kann man, wenn man bei Dähnhardt nachliest, wieder die spätere und nach Gegenden verschiedene Gestalt verfolgen, die sich schließlich auch wieder biblischer Personen bedient, ſpäter nacherzählt und umgegossen wird, aber einen wirklichen uralten kosmologischen Kern bewahrt. Auch hier spielt übrigens
 
@@ -3126,8 +2758,6 @@ Erde, schlinge deine Wasser ein98).
 
 Immer und immer wieder die Einwirkung von Gestirnen, also von kosmischen und vielleicht vor ihrem Hereinkommen in die Bahn der Erde von der Sonne beleuchteten und daher als bewegte Fixsterne erscheinenden Körpern und seien es auch ausschließlich nur Eiskörper gewesen. Ein Teil mag sich ja wieder dem Banns kreis der Erde entzogen und sich dann allmählich entfernt haben, so daß nach der Sintslut am Himmel noch lange das Schauspiel sich bewegender fixsternartiger Punkte vor sich gegangen sein mag, was dann die Tradition von wieder festgebannten Fixsternen geschaffen haben mag. Jedenfalls tritt auch da wieder die Hilf losigkeit anderer als naturhistorischer Erklärungen, wie sie uns mit Hörbigers Theorie an die Hand gegeben sind, hervor, wenn
 
-Dacqué , Urwelt, Sage und Menschheit.                    14
-
 [PDF 228]
 
 -
@@ -3198,9 +2828,7 @@ Hierdurch ist offenkundig Okeanos nicht nur das irdische Welt meer, sondern viel
 
 Gondwanaland
 
-Diedortigen
-
-mythische Überlieferung der Japaner führt das Alter der
+Diedortigen mythische Überlieferung der Japaner führt das Alter der
 
 Bevölkerung auf so unabsehbare ferne Zeiträume zurück, daß davor selbst die kühnste Phantasie verblaßt. Und wenn auch die Millionen von Jahren", heißt es in Helmolts Weltgeschichte weiter, „ auf die der Sohn des fernen Inselreiches stolz herabblicken zu können vermeint, vor der Kritik nicht standzus halten vermögen, so liegt doch anderseits stets ein Körnchen Wahrheit unter der Spreu der nationalen Eitelkeit".
 
@@ -3258,17 +2886,11 @@ Goethe.
 
 [PDF 243]
 
-Das Metaphysische in Natur
+Das Metaphysische in Natur und Mythus
 
-und Mythus
-
-Vergleicht man jekt nach all' dem Vorgetragenen unsere natur-
-
-historische Deutung der kernhaften, vielfach so überraschend gleichlautenden Überlieferungen des Menschengeschlechtes mit der bisher wohl allgemein üblichen, so tritt die ganze wirklichkeits-kräftige Wesensart der Ursagen und -mythen in das volle Licht. Zunächst rechtfertigt sich also die naiv-naturhistorische Deutung unmittelbar. Diese aber wird möglich, wenn man die ältere Ab-stammungslehre verläßt, die Typentheorie und das Gesek der Zeitcharaktere auf die Herkunft des Menschen folgerichtig anwendet und damit das hohe erdgeschichtliche Alter des Menschenstammes als solchen anerkennt. Das neue, wenn auch noch nicht durch gereifte Weltbild der Glazialkosmogonie vollendete erst die naturs historische Ausdeutung jener sagenhaften Vorgänge, denen die irdische Natur und in ihr die vorweltliche Menschheit ausgesekt war. Damit konnten wir den Sagen und Mytheninhalten eine zeitliche Weite und Tiefe geben, die sie in der Vorstellung der Forscher noch nicht besaßen. Und was man bisher in einen engen prähistorischen Zeitraum drängte, bekommt so, nach der erdges ſchichtlichen Vorzeit hin ausgebreitet, ein wahrhaft welthistorisches Gesicht.
+Vergleicht man jekt nach all' dem Vorgetragenen unsere natur-historische Deutung der kernhaften, vielfach so überraschend gleichlautenden Überlieferungen des Menschengeschlechtes mit der bisher wohl allgemein üblichen, so tritt die ganze wirklichkeits-kräftige Wesensart der Ursagen und -mythen in das volle Licht. Zunächst rechtfertigt sich also die naiv-naturhistorische Deutung unmittelbar. Diese aber wird möglich, wenn man die ältere Ab-stammungslehre verläßt, die Typentheorie und das Gesek der Zeitcharaktere auf die Herkunft des Menschen folgerichtig anwendet und damit das hohe erdgeschichtliche Alter des Menschenstammes als solchen anerkennt. Das neue, wenn auch noch nicht durch gereifte Weltbild der Glazialkosmogonie vollendete erst die naturs historische Ausdeutung jener sagenhaften Vorgänge, denen die irdische Natur und in ihr die vorweltliche Menschheit ausgesekt war. Damit konnten wir den Sagen und Mytheninhalten eine zeitliche Weite und Tiefe geben, die sie in der Vorstellung der Forscher noch nicht besaßen. Und was man bisher in einen engen prähistorischen Zeitraum drängte, bekommt so, nach der erdges ſchichtlichen Vorzeit hin ausgebreitet, ein wahrhaft welthistorisches Gesicht.
 
 Es soll aber diese Anschauung nicht dahin mißverstanden wers den, als ob wir meinten, es sei in den kernhaften uralten Sagen und Mythen bloß eine naturhistorische Seite zu enthüllen. Sie sind in ihrem Wesen gewiß ebenso sehr symbolisch bestimmt. Alles Äußere, alles Trivial-Wirkliche ist Erscheinung und als solche Gleichnis ; Gleichnis aber nicht im Sinne einer von außen herangebrachten Allegorie, sondern Gleichnis des ihm selbst Jm-manenten. Wie unser Körper der lebendige Ausdruck der ihm immanenten Seele ist und beides miteinander von uns erlebt wird als Ausdruck einer nicht aussprechbaren höheren Einheit, so ist auch der naturhistorische Sagen- und Mythenkörper zugleich
-
-Dacqué , Urwelt, Sage und Menschheit.                       15
 
 [p. 226]
 
@@ -3368,11 +2990,7 @@ Wir wenden uns darum jekt mit einer anderen als der nur naturwissenschaftlichen 
 
 Natursichtigkeit als ältester
 
-Seelenzustand
-
-on den vorigen Abschnitten haben wir gelegentlich den Aus-
-
-druck „naturſichtig" gebraucht, ohne ihn erklärt zu haben. Er konnte einstweilen zu denken geben, und der Zusammenhang ließ wohl durchblicken, was damit gemeint sei. Er soll nun in den Mittelgrund der Betrachtung rücken und uns den Angelpunkt für das Verständnis der mythenbildenden Kraft urältester Menschen und ihrer Seele liefern.
+Seelenzustand on den vorigen Abschnitten haben wir gelegentlich den Aus-druck „naturſichtig" gebraucht, ohne ihn erklärt zu haben. Er konnte einstweilen zu denken geben, und der Zusammenhang ließ wohl durchblicken, was damit gemeint sei. Er soll nun in den Mittelgrund der Betrachtung rücken und uns den Angelpunkt für das Verständnis der mythenbildenden Kraft urältester Menschen und ihrer Seele liefern.
 
 Auf eine uns heute verständliche Formel gebracht, bedeutet Natursichtigkeit jenen sich mit der Dämonie nahe berührenden seelisch geistigen Zustand, vermöge dessen ein lebendes Wesen -nicht nur der Mensch - einer Kenntnis, eines Schauens, Fühlens oder Ahnens der in, zwischen und über den Dingen und Wesen der physischen Natur waltenden und webenden Beziehungen teil-haftig ist. Beispielsweise die Fähigkeit, kommende Naturereignisse auch unbedeutendster Art, oder etwa die Ankunft eines Freundes vorauszufühlen, oder in einem Antlik, einer Augenbewegung eines Menschen unmittelbare Sicherheit über seinen Charakter oder über den bis dahin verhüllten Sachverhalt eines Geschehniſſes zu erlangen, womit er verknüpft ist, wie es so überwältigend Dostojewski im „Raskolnikow“ darbietet      -
 
@@ -3436,8 +3054,6 @@ Gab es aber nicht am Ende auch Zeitalter und Menschenwesen, bei denen die Natur�
 
 Es sei an das Gesek erinnert, daß schwache Abbilder des Verz gangenen sich in späteren Entwicklungsläufen des Organischen wiederholen. So mag auch im Seelischen das von Tischner so klar umschriebene Übergreifen des überindividuell Seelischen und sein spärliches Herausdringen ins Bewußtsein des Individuums ein embryonischer Rest, ein schwacher Abglanz eines älteren Dauerzustandes sein, der als wesentlich und als der beständig ges
 
-Dacqué , Urwelt, Sage und Menschheit.                       16
-
 [PDF 260]
 
 -         -
@@ -3464,9 +3080,7 @@ Wir erinnern uns der Körpergestalten, die es unter den Urz menschen gab . Da wa
 
 16*
 
-[PDF 262]
-
--244-
+[p. 244]
 
 mutlich hierin rückgebildete Steinzeitmensch, obwohl auch dieser, wie die tertiärzeitlichen Säugetiere, noch ein „ Gehirnriese" ist. Bei jenen uralten Tieren mit dem vollendeten Scheitelauge ist aber das Gehirn besonders klein dagegen gewesen. Ist also das Großhirn der Sik des Intellektes, mit dessen Erwerbung und Entfaltung mehr und mehr das Dämonisch-Naturſichtige abhanden kam, so muß das völlige Zurücktreten des Großhirns und die Vollent wicklung des unter ihm jekt erloschenen parietalen Organs eben die physische Betätigung jenes Sinnes bedeuten, der uns am meisten zugunsten des reflektierenden Intellektes fehlt - des Natursichtigen. Zu diesem verlorengegangenen naturſichtigen Innenwesen ist das Scheitel- oder Stirnauge vermutlich das phy-sisch wirksame, schauende und ausübende Organ gewesen115). Fernsehen und Fernbannen der Beute oder des Gegners möge eine seiner von uns nicht mehr empfindbaren Aufgaben und Fähigkeiten gewesen sein, also das Naturſichtige und Magische in größerem Maßstab.
 
@@ -3482,9 +3096,7 @@ Der nachadamitische Mensch hatte also noch nicht das Groß-hirn, worin die über
 
 Noah, wie ihn uns das Alte Testament schildert, ist der voll-endetere Repräsentant des , noachitischen Menschenstammes ', dem wir noch angehören, wenn er sich auch in viele Linien gespalten und vollendet haben mag. Er ist nach den wenigen, aber außers ordentlich vielſagenden Andeutungen der Menschentypus mit der vollkommen spreizbaren fünffingerigen Hand, mit der stark entz wickelten Großhirnsphäre, dem rudimentär gewordenen Parietal-organ, mit einem schon vergeistigteren Gottesglauben, der schon fern gerückt ist der nur dämonisch-naturſichtigen Verfassung, die
 
-[PDF 264]
-
-- 246 -
+[p. 246]
 
 in ihrem ungezügelten, verstandlosen Urzustand ein rein trieb-haftes Naturleben führte und in ihrer lichteren Seite gewiß auf nichts weniger als auf das ökonomisch Praktische gerichtet gewesen war. Das lektere aber ist nach allen Schilderungen schon in Noahs Wesen deutlich zu erkennen. Immerhin hat er noch die naturſichtige Fähigkeit des Vorauserkennens der Naturzusammenhänge und der physischen Zukunft : er weiß wann die Sintslut kommt. Auch versteht er die Natur noch stark zu beeinflussen, denn er züchtet den Weinstock. So etwas, wie den Weinstock züchten, können wir mit aller unserer Naturforschung und Erblichkeitslehre noch immer nicht ; wir können zwar vorhandene Obst- und Getreidesorten verbessern und bodenbeständig machen, ebenso auch Blumen. Aber aus einer wilden, ungenießbaren Frucht ein dem Weinstock vergleichbares Pflanzenwesen zu züchten, ist uns verschlossen. So ist Noah selbst nicht mehr bloß unbewußt naturſichtig eingestellt; er ist stark individualisiert, er ist Persönlichkeit und Charakter. Er redet mit Gott, wobei er deutlich reflektiert, nicht mehr un-bewußt nur schaut und handelt, und ist damit deutlich als Ges hirnwesen gekennzeichnet im Gegensak zum Stirnaugenwesen älterer Herkunft mit seinem vermutlich naturhaft-somnambulen Zustand.
 
@@ -3506,9 +3118,7 @@ Menschenähnlichkeit auftrat.       Das Merkwürdige ist, daß sich nun erst die
 
 Kulturseele und Urwelt
 
-WiesichSpengler  so eindringlich und anschaulich es darstellt, um
-
-sein Weltbild zu ordnen, hat jeder der geschichtlich bes kannten Kulturkreise seine heroisch-mythische Frühzeit, dann seine Kulturzeit und zulekt seine intellektualisierte Spätzeit. In der ersten dieser drei Epochen ist ein ungeheueres heldenhaftes und apokas lyptisches Drängen und Kämpfen da. Dann wird die Kultur geboren, wobei landverwachsenes Dasein und bodenständiger Besik das wesentliche äußere Merkmal ; Priestertum und Adel, Geist und Rittertum das sozialpsychologische; Formung der Relis giosität und des Volkstums das wesentliche innere Merkmal sind. Alles ist „in Form", bis sich die dritte Epoche bemerkbar macht und mit der Intellektualisierung auch die Mechanisierung des Daseins, die Loslösung vom Boden mit allen ihren Folgen bringt, mit der Massenherrschaft, mit einem individuellen oder gruppenhaften Zäsarismus im Staatsleben, mit der Herrschaft des reinen „Geistes" im Denken endend ; worauf späterhin bei normalem Ablauf diese zur Zivilisation gewordene Kultur in ein Fellachentum ausläuft. Allen Kulturen voran aber gehe das formlose Dasein des Urmenschen116)
+WiesichSpengler  so eindringlich und anschaulich es darstellt, um sein Weltbild zu ordnen, hat jeder der geschichtlich bes kannten Kulturkreise seine heroisch-mythische Frühzeit, dann seine Kulturzeit und zulekt seine intellektualisierte Spätzeit. In der ersten dieser drei Epochen ist ein ungeheueres heldenhaftes und apokas lyptisches Drängen und Kämpfen da. Dann wird die Kultur geboren, wobei landverwachsenes Dasein und bodenständiger Besik das wesentliche äußere Merkmal ; Priestertum und Adel, Geist und Rittertum das sozialpsychologische; Formung der Relis giosität und des Volkstums das wesentliche innere Merkmal sind. Alles ist „in Form", bis sich die dritte Epoche bemerkbar macht und mit der Intellektualisierung auch die Mechanisierung des Daseins, die Loslösung vom Boden mit allen ihren Folgen bringt, mit der Massenherrschaft, mit einem individuellen oder gruppenhaften Zäsarismus im Staatsleben, mit der Herrschaft des reinen „Geistes" im Denken endend ; worauf späterhin bei normalem Ablauf diese zur Zivilisation gewordene Kultur in ein Fellachentum ausläuft. Allen Kulturen voran aber gehe das formlose Dasein des Urmenschen116)
 
 Frobenius117) beanstandet, daß für Spengler das Paideuma des Urmenschen ein Chaos sei, die Steinzeit ohne Stil, die Um-welt des primitiven Menschen ohne Physiognomie und kausale Ordnung. Das primitive, dämonische Menschentum habe auch seine geordnete Physiognomie, ja es lebe in den späteren Kultur-gehäusen und -formen noch mit fort. Menschen des gleichen Volkes und der gleichen Sprache seien es, von denen die einen die städtische Kultur, die anderen die ländliche Flachkultur leben. Die lekteren leben noch wesentlich mehr in einer naturhaft dämonischen Welt; die ersteren in der idealistischen und mechanistischen ; nur individuell und generell ströme beides oft ineinander über. Die Menschen der Städte und die Menschen des Landes sind bildungsmäßig ges
 
@@ -3582,17 +3192,7 @@ Diese Gedankengänge sollen noch ihre weitere Ausgestaltung erfahren. Doch wird 
 
 [PDF 274]
 
-erdgeschichtlichen
-
-in
-
-zu
-
-der
-
-den
-
-einer
+erdgeschichtlichen in zu der den einer
 
 Tabelle
 
@@ -3606,47 +3206,25 @@ Zeitdauer
 
 Höhe
 
-Rubriken
-
-bedeutet
-
-relative
-
-nicht
-
-der  ie
+Rubriken bedeutet relative nicht der  ie
 
 .()Ddie
 
 Alluvialzeit                                                 Apollischer
 
-Menschentypus
-
-istorische
+Menschentypus istorische
 
 .HKulturen                                                                Epoche
 
-des
+des reinen
 
-reinen
-
-Intellektuals
-
-denkens
-
-u
+Intellektuals denkens u
 
 .M onotheismus
 
 Rest
 
-Fossil
-
-bekannter
-
-kulturloser
-
-degenerierter
+Fossil bekannter kulturloser degenerierter
 
 Eiszeitmensch
 
@@ -3658,29 +3236,19 @@ Flut
 
 Kulturen
 
-Ogygische
-
-historischer
-
-dardanische
+Ogygische historischer dardanische
 
 urzeln                                                      Zeitalter
 
 geistigen
 
-Religios
+Religios der
 
-der
-
-Atlantis
-
-als
+Atlantis als
 
 Alterer
 
-Periöke
-
-unkultivierter
+Periöke unkultivierter
 
 Diluvialmensch
 
@@ -3688,15 +3256,11 @@ Diluvialmensch
 
 nen
 
-,bmit
-
-eginnend
+,bmit eginnend
 
 Untergang
 
-.und
-
-der
+.und der
 
 Atlantische
 
@@ -3704,49 +3268,31 @@ Atlantis
 
 Spätkultur                                                             Astrologie
 
-Sonnens
-
-und
+Sonnens und
 
 .kultus
 
 Körperhabitus
 
-,Ader
-
-des
+,Ader des
 
 Zeit
 
-Menschens
-
-pithekoiden
-
-bspaltung Immer
-
-mehr
+Menschens pithekoiden bspaltung Immer mehr
 
 Jungs                                                            aufrechter
 
 Affenmenschen
 
-.Vund
-
-affen
-
-oll
+.Vund affen oll
 
 Gang                                   zunehmende                          Wachsendes
 
 Intellektualdenken
 
-Seelenresten
+Seelenresten mit
 
-mit
-
-Atlantis
-
-naturſichtigen
+Atlantis naturſichtigen
 
 Intellektualkulturen
 
@@ -3766,9 +3312,7 @@ Tertiärzeit                                                                    
 
 entfaltung                       Stärkerer
 
-Individualismus
-
-und
+Individualismus und
 
 .BEder
 
@@ -3776,9 +3320,7 @@ Lemuria
 
 Atlantis
 
-Untergang
-
-estedelung
+Untergang estedelung
 
 ntwicklungsbeginn                       Gedankenreflexion
 
@@ -3796,9 +3338,7 @@ Intellektualkulturendes
 
 .Zder üchtung
 
-Alimähliches
-
-der
+Alimähliches der
 
 Zurücktreten
 
@@ -3814,41 +3354,23 @@ Untergang
 
 ndgültiger                                 Natursichtigkeit
 
-Nachadamiten
+Nachadamiten stirnaugetragenden und
 
-stirnaugetragenden
-
-und
-
-.Lder
-
-lehren
-
-emuria
+.Lder lehren emuria
 
 Kreidezeit                                                                   ,fmit
 
-ſpreizbarer
-
-aufrechtem
+ſpreizbarer aufrechtem
 
 Noachitischer
 
-Menschentypus
-
-hand
-
-ast
+Menschentypus hand ast
 
 Gang
 
 Säugetierkörper
 
-.,Apdes
-
-llmähliches
-
-ussterben
+.,Apdes llmähliches ussterben
 
 lagentalem                                        Vollnaturſichtigsdämon
 
@@ -3856,25 +3378,17 @@ lagentalem                                        Vollnaturſichtigsdämon
 
 Mythen
 
-Zeitalter
-
-mythenhaften
-
-und
+Zeitalter mythenhaften und
 
 Helden
 
 Jurazeit
 
-Gondwanalandes
-
-aufrechten
+Gondwanalandes aufrechten
 
 Ganges
 
-.Zdes
-
-erfallsbeginn
+.Zdes erfallsbeginn
 
 unahme                                    .Magierkönige
 
@@ -3896,13 +3410,7 @@ Lindwurmkämpfe
 
 Entstehung
 
-,ides
-
-veranlagten
-
-beuteltierhaften
-
-ntellektuell
+,ides veranlagten beuteltierhaften ntellektuell
 
 Vornoachiten beimentfaltung
 
@@ -3910,15 +3418,7 @@ Triaszeit                                                                      ,
 
 verwachsener
 
-Gang
-
-halb
-
-dem
-
-und
-
-it rechtem
+Gang halb dem und it rechtem
 
 Gondwanaland Vornoachiten
 
@@ -3926,27 +3426,15 @@ Gondwanaland Vornoachiten
 
 Permzeit                                                                                          Nachadamiten
 
-Entstehung
-
-reptilhaftem
-
-von
-
-stirnaugetragenden
-
-naturfomnambulen
+Entstehung reptilhaftem von stirnaugetragenden naturfomnambulen
 
 des                            der
 
-Zeitalter
-
-reinen
+Zeitalter reinen
 
 Säugetierhabitus
 
-Beginn
-
-des
+Beginn des
 
 Erhebung
 
@@ -3956,13 +3444,9 @@ Körpers                                                           ,Naturfomnamb
 
 ohne
 
-Individualismus
+Individualismus horngepangerten
 
-horngepangerten
-
-Zeitalter
-
-des
+Zeitalter des
 
 U
 
@@ -3980,29 +3464,19 @@ Extremitaten
 
 Habitus
 
-Gang
+Gang vier
 
-vier
-
-.Aauf
-
-mphibischer Spătpaläozoikum
+.Aauf mphibischer Spătpaläozoikum
 
 [p. 257]
 
 innen heraus bereit ist, in einen dunkeln Gang mit hinabzu-steigen, wo ein anderes Licht herrscht als das der Aufklärungs-sonne eben verflossener Jahrzehnte.          Vielleicht findet er dabei Dinge, die ihm aus seiner eigenen Natur, wenn auch nur halb bewußt, schon bekannt sind .         Daran mag er ihren Wirklichkeits-wert ermessen. Er muß fortgesekt bereit sein, dem Fabelhaften auch in seiner eigenen Innenwelt als einem Wirklichen zu folgen. Dann mag er, mit verändertem Blick auf die Dinge der Ums welt und Vorwelt, zur gewohnten Kritik zurückkehren. Bis dahin ist von ihm geduldiges Schweigen, Hinhorchen und Schauen ges fordert, damit das innere Gesicht, das uns bevorsteht, nicht ges stört werde. Denn wir gehen in die Tiefe, zu den Müttern. Ob es uns gelingt, den Doppelfaden von Naturhistorie und Meta-physik, der uns hinabgeleiten soll, unverwirrt wiederzubringen ?
 
-Dacqué , Urwelt, Sage und Menschheit.                           17
-
 [PDF 276]
 
 Naturdämonie und Paradies
 
-Esgelegentlich
-
-wurde im Vorhergehenden gezeigt, daß die zu unserer Zeit
-
-ausgeübten naturſsichtigen Fähigkeiten niederen Grades Reste sein könnten jener natürlichen Fähigkeit, welche die unverdorbenen Naturvölker und die Steinzeitmenschen noch stärker als wir besiken und besaßen. Diese Fähigkeit geht nur in ihrem äußersten Grade so weit, daß körperliche Wandlungen, also etwa beschleunigte und sicherere Heilung von Wunden, stattfinden. In den großmagischen Erscheinungen, von denen die Rede war, und denen man wohl gelegentlich in der Geschichte noch begegnet, und auf die das Schopenhauersche Zitat abzielt, liegen nun Rudimente einer noch älteren Zeit, eines noch ursprünglicheren Menschentypus, weit vor dem uns doch noch ziemlich verständlichen Steinzeits menschen; also Seelenrudimente eines ganz anderen Grunds stammes des Menschenwesens, der wohl auch ebenso, wie der historisch-prähistorische Mensch, seine kulturellen oder seelischen Ent-wicklungsstufen hatte.
+Esgelegentlich wurde im Vorhergehenden gezeigt, daß die zu unserer Zeit ausgeübten naturſsichtigen Fähigkeiten niederen Grades Reste sein könnten jener natürlichen Fähigkeit, welche die unverdorbenen Naturvölker und die Steinzeitmenschen noch stärker als wir besiken und besaßen. Diese Fähigkeit geht nur in ihrem äußersten Grade so weit, daß körperliche Wandlungen, also etwa beschleunigte und sicherere Heilung von Wunden, stattfinden. In den großmagischen Erscheinungen, von denen die Rede war, und denen man wohl gelegentlich in der Geschichte noch begegnet, und auf die das Schopenhauersche Zitat abzielt, liegen nun Rudimente einer noch älteren Zeit, eines noch ursprünglicheren Menschentypus, weit vor dem uns doch noch ziemlich verständlichen Steinzeits menschen; also Seelenrudimente eines ganz anderen Grunds stammes des Menschenwesens, der wohl auch ebenso, wie der historisch-prähistorische Mensch, seine kulturellen oder seelischen Ent-wicklungsstufen hatte.
 
 Wenn im Folgenden vom Dämonischen die Rede ist, so ist damit das Naturhafte, nicht das Geniale Goethe'scher Art, auch nicht das Daimonion sokratischer Voraussicht gemeint. Jeder Mensch hat von Natur aus bestimmte Grundbilder des Dämos nisch-Naturhaften in sich . Dämonisches kann nun von zweierlei Art sein : einschmeichelnd oder schreckhaft, lieblich oder düster und schwarz. Auf keinen Fall ist es zu verwechseln mit bösartig im sittlichen Sinn. Es kann durch und durch naiv sein und ist es auch, solange es nicht mit dem Intellekt gepaart ist und dann erst bösartig oder rücksichtslos genannt zu werden verdient. Sonst ist es eben, wie ein Kind, grausam und schuldlos, oder lieblich und schuldlos. Die Natur ist durch und durch dämonisch, und weil sie es ist, geht in der Welt das Liebliche neben dem Schrecklichen innig verbunden einher. In demselben Maß als des Menschen Geist die naturhafte naive Dämonie überwindet, ideal und phys sisch, verwirklicht sich das Göttliche in ihm. Das Teussische ist
 
@@ -4022,27 +3496,9 @@ Fig
 
 .2 7
 
-Lindwurmlands
+Lindwurmlands schaft des späts
 
-schaft
-
-des
-
-späts
-
-Zeits
-
-mesozoischen
-
-alters
-
-der
-
-mit
-
-sumpfbewohnens
-
-den
+Zeits mesozoischen alters der mit sumpfbewohnens den
 
 Riesenform
 
@@ -4050,29 +3506,15 @@ Riesenform
 
 Der
 
-Jektmensch
-
-reicht
-
-dem
+Jektmensch reicht dem
 
 Tier
 
 .bis
 
-Knie
+Knie zum einer ach
 
-zum
-
-einer
-
-ach
-
-(NRes
-
-von
-
-konstruktion
+(NRes von konstruktion
 
 19
 
@@ -4080,19 +3522,13 @@ H.
 
 F.
 
-Osborn
-
-und
+Osborn und
 
 ,C.
 
 R.
 
-Knight
-
-abgeändert
-
-aus
+Knight abgeändert aus
 
 ,W.D.
 
@@ -4116,9 +3552,7 @@ Eine andere Art der Dämonie, jedoch im Wesen dieser vorigen gleich, ist die Ver
 
 Ein anmutiges Gegenstück als Beispiel lieblicher Naturdämonie bietet uns Weismann119) in seinen „Vorlesungen über Deszendenzs theorie", wo er von einem Insekt berichtet, das glänzende farbige Steinchen zusammenträgt, sie in bestimmter Weise anordnet und
 
-[PDF 280]
-
-- 262   -
+[p. 262]
 
 so ein Liebesgärtlein baut, in dem es auf sein Weibchen wartet, das, von dem Glanz und der Gestaltung angelockt, alsbald zu ihm kommt. Was ist das, von innen besehen, anderes als Zauberei und Bannung in der gefälligsten Form, wie es das Tun der Schlange in der düstersten ist ?
 
@@ -4160,13 +3594,9 @@ unter einem andersartigen Raumzeitzustand gebunden erscheint, wo eben eine Bezie
 
 So könnte auch in allerältester Zeit, ehe er in der Wirbeltier-gestalt grob physisch in Erscheinung trat, der Mensch schon mit der niederen Tierwelt verknüpft gewesen sein, sie aus sich entlassen haben, ehe er selbst für ein grob physisch sehendes Auge in die
 
-[PDF 285]
+[p. 267]
 
-- 267 -
-
--
-
-irdische Natur trat   und hiermit knüpfen wir den Gedanken-gang wieder an das Naturhistorische an und haben die Frage bes antwortet, inwiefern auch die im gewöhnlichen Sinn vormensch-liche niedere Tierwelt im Dasein des Menschenstammes verankert war. Nur darf jenes Unsichtbar-Physische nicht erkenntniskritisch falsch mit dem Platonisch-Jdeenhaften und schließlich Transzen-denten verwechselt werden ; der Zusammenhang bleibt dem dis-kursiv verfahrenden Verstand aber unauflösbar.
+-irdische Natur trat   und hiermit knüpfen wir den Gedanken-gang wieder an das Naturhistorische an und haben die Frage bes antwortet, inwiefern auch die im gewöhnlichen Sinn vormensch-liche niedere Tierwelt im Dasein des Menschenstammes verankert war. Nur darf jenes Unsichtbar-Physische nicht erkenntniskritisch falsch mit dem Platonisch-Jdeenhaften und schließlich Transzen-denten verwechselt werden ; der Zusammenhang bleibt dem dis-kursiv verfahrenden Verstand aber unauflösbar.
 
 Es liegt in der jedem Denkenden nur allzu bekannten Natur der Sache, daß solcherlei Erfassen von inneren Zusammenhängen eigentlich unaussprechbar ist. Die Sprache, der Gedankenbau in vernünftigen Säken ist hervorgebracht und daher adaptiv ein-gestellt auf Vermittlung rein physischer Daseinsbilder. Das Seelische oder gar das Geistige kann durch Worte und Säke nur vermittelt werden, wenn auf der Empfangsseite dieselbe innere Struktur besteht, durch deren Berühren mittels der Wort symbole dasselbe eigene Schauen aufgeht. So sind wir, jeder von uns, doch in unserem physischen Körper eingeschlossen, wie in einem Kerker. Durch die Wände kann nichts zum anderen Ges fangenen hinaus und hinüberdringen, wenn nicht der Weg jen seits der groben Sinnenvorstellung und Sinnensprache geöffnet ist. Nur wenn man sich diese vermittelnde Sprechweise umzugestalten vermag zu einem entsprechenden und nicht grob gegenständlichen Schauen, wird man verstehen, was diese unsere Darlegungen beim Leser zu lebendigem Wissen erwecken möchten. Das älteste Menschenwerden spielte sich in einem für unser Leben und Verstehen längst transzendent gewordenen Zustand ab, der zuerst nicht unbedingt an eine Körperlichkeit im streng sichtbar physischen Sinn geknüpft zu sein brauchte. Im Menschenwesen lag zuvor mit beschlossen das Dämonische, Lichtes sowohl wie Düsteres . Die düstere Seite begann sich zu regen; es trat in seinem Geist ein erstes Aufleuchten tierisch-physischen Bewußtseins ein - das Flüstern der Schlange, die um den Lebensbaum gewunden war. Der Sündenfall und die Vertreibung aus dem Paradies geschah. Dies kann daher nichts anderes gewesen sein als die physisch-körperliche Auswirkung und Umgestaltung des Menschen-wesens aus jener transzendenten seelisch-geistigen Veränderung heraus . Die Entzweiung zwischen Mann und Weib trat ein.
 
@@ -4240,8 +3670,6 @@ sind beide einander gleich, weil aus Erde geschaffen. Mit einer geheimnisvollen 
 
 Eine wunderbare Verſinnbildlichung jenes tief innersten Zus ſammenhanges zwischen tierhafter Dämonie beim Menschen, Sün-denfall und Objektivierung der Dämonie in der Tierwelt, die dem Menschenwesen als solche nun physisch-organisch gegenübertrat, gibt ein äthiopischer Text : Nach der Vertreibung aus dem Paradies war die Schlange verslucht und mußte auf dem Bauch im Staub kriechen. Sie, die vorher schön war vor allen Tieren, war nun häßlich und durch den Fluch Gottes giftig geworden. Als nun die versluchte Schlange Adam und Eva sah, ließ sie ihren Kopf aufschwellen und stellte sich auf ihren Schwanz, und ihre Augen wurden wie Blut ; und sie wollte sie töten. Sie kam zuerst auf Eva zu : die lief davon. Adam hatte keinen Stock, sie zu erschlagen, aber sein Herz entbrannte um Evas willen ; er ging auf die Schlange los und packte sie am Schwanze. Da kehrte sie sich gegen ihn und sprach zu ihm : „ Wegen deiner und wegen der Eva bin ich schlüpfrig geworden, daß ich auf meinem Bauch gehen muß". Durch ihre große Stärke warf sie Adam und Eva zu Boden und legte sich über sie her, sie zu töten. Da sandte Gott seinen Engel; der warf die Schlange von ihnen herab und richtete sie auf. Aber Gott sprach zu der Schlange : „Das erstemal habe ich dich nur schlüpfrig gemacht, daß du auf deinem Bauch gehen mußt ; aber die Sprache habe ich dir nicht genommen ; von nun an aber sollst du stumm sein und nicht mehr reden können, du und dein Geschlecht. Denn durch dich ist das Verderben meiner Diener zum erstenmal ges kommen, und nun hast du sie töten wollen". Und die Schlange ward zur Stunde stumm und konnte nicht wieder reden.
 
-Dacqué , Urwelt, Sage und Menschheit .                     18
-
 [PDF 292]
 
 -
@@ -4270,9 +3698,7 @@ das eben ist umgekehrt der Beweis für die Richtigkeit der Methode, für die Ric
 
 18*
 
-[PDF 294]
-
-- 276 -
+[p. 276]
 
 Ideen. Auch daß Sagen ganz offenkundig oft nur zu poetischem Zweck oder zur moralischen Belehrung ausgestaltet und weiterz gegeben wurden, darf, wie schon dargelegt, nicht dazu verleiten, in ihnen überhaupt bloß Symbole für solche Zwecke oder gar am Ende nur Allegorien zu sehen ; welcher irrtümlichen Auslegung man ja auf Schritt und Tritt begegnet, weil man so selten bez greifen will, welch' ein Wesensunterschied zwischen dem alten Innenmark und dem später jahresringhaft darübergeschichteten Holz- und Rindenkörper besteht. Behält man das im Sinn, dann scheidet sich deutlich das Kleid vom Wesen, und all' das Vielerlei wird ein Einziges, Einfaches, Weniges, das uns aber ein großes Geheimnis erschließt.
 
@@ -4286,9 +3712,7 @@ Wir sind hier an die fernsten Probleme der Philosophie und des religiösen Schau
 
 [PDF 296]
 
-Die Natur als Abbild des Menschen
-
-nit dem Vorstehenden ist eine Brücke geschlagen, die zu Mi  jenem anderen, für unsere Betrachtung zentral liegenden Problem hinüberführt : die Verbundenheit des Menschenwesens und seiner Entwicklung mit der erdgeschichtlichen Entwicklung des Tierlebens .
+Die Natur als Abbild des Menschen nit dem Vorstehenden ist eine Brücke geschlagen, die zu Mi  jenem anderen, für unsere Betrachtung zentral liegenden Problem hinüberführt : die Verbundenheit des Menschenwesens und seiner Entwicklung mit der erdgeschichtlichen Entwicklung des Tierlebens .
 
 Wir nehmen an, daß der Urmensch mit dämonisch-naturſich-tigem Wesen in sein physisches Dasein trat und das höhere Tiers reich noch in sich begriff, platonisch gesprochen : dessen lebendig metaphysische Urbilder, also die noch nicht in's physische Dasein getretenen Gattungen und Typen. Wenn man nicht metaphysisch denkt, wird man dem allem keinen Sinn abgewinnen können. Danach fand sich der Mensch in dieser Natur sichtbar einer Tiers welt gegenüber, die hervorgegangen war aus der Spaltung seines Wesens. Dem entsprach in der physischen Welt vor allem die Gegens säklichkeit zwischen Urmensch und Reptilwelt. Diese hatte eben jene seelisch-dämonischen Eigenschaften, die der Mensch nun als feindselig empfand, weil er sie selbst in seinem metaphysischen Wesen als katastrophal und verderbenbringend erlebt hatte, die er aus sich abstoßen sollte und die ihm nun verkörpert waren in dem dämonischen Charakter der reptilhaften Wesen, aus denen alsbald das ganze „Gewürm" der Drachen, Lindwürmer und Schlangen hervorging, von dem als etwas der Menschenwelt Feindseliges und daher von ihr andauernd physisch und seelisch Bekämpftes uns die Mythen bis auf diesen Tag reden, wo sogar noch das in den dunkeln Tiefen der Volksseele wurzelnde Kasperl-theater ein reptilhaftes „Tier Piep " als den Feind des Menschen kennt.
 
@@ -4332,9 +3756,7 @@ Den bildlichen Nachklang an eine solche Auffassung haben wir im babylonischen Gi
 
 -
 
-282-
-
-führte. Er ist der Repräsentant des uralt-nachadamitischen, vorz noachitischen Menschen, und diesem naturſichtigen Bedrückerheros wird Engidu, der noachitische Säugetiermensch, nachher zur Seite gestellt, der sich mit dem alten Typus vermischt - man nehme das Typenhafte an Stelle der Einzelgestalt. Wie in der Bibel die Erschaffung des Adam aus Erde, und mit seinem Sündenfall die Vertreibung aus dem Paradies und die Entfremdung von der Natur berichtet wird, so ist dasselbe Motiv im Gilgameschepos an das Werden des Säugetiermenschen Engidu geknüpft, von dem schon oben (S. 92) die Rede war126) und den wir nach unserer Chronologie als den noachitischen ansehen. Gilgamesch, der König, läßt gewaltige Bauten aufführen ; schwer lastet die Frohn auf den Bewohnern des Landes. Die Bedrückten rufen die Götter zu Hilfe, und Aruru, die Schöpferin, formt aus Lehm den Naturmenschen Engidu, mit gewaltiger Kraft begabt. Sein Körper ist mit Haaren bedeckt, sein Haupthaar lang und er ist bes kleidet mit Fellen. Mit dem Wild, dem Vieh - dem Säugetier, nicht dem Reptil - lebt er zusammen, geht mit ihnen zur Tränke, mit dem Gewimmel des Wassers freut sich sein Herz. Die Mens schen des von Gilgamesch beherrschten Landes kennen ihn noch nicht ; nur der naturſichtige Gilgamesch selbst hat ihn schon im Traume geschaut. Nun dringt Engidu in die Sphäre des Gilga mesch ein, und damit kommt die Verwandlung, die wie ein uns endlich trauriger, aber doch mit einer neuen Verheißung verz knüpfter Abschied von der bis dahin innig mit ihm verknüpften Natur, dem „ Vieh", klingt :
+282-führte. Er ist der Repräsentant des uralt-nachadamitischen, vorz noachitischen Menschen, und diesem naturſichtigen Bedrückerheros wird Engidu, der noachitische Säugetiermensch, nachher zur Seite gestellt, der sich mit dem alten Typus vermischt - man nehme das Typenhafte an Stelle der Einzelgestalt. Wie in der Bibel die Erschaffung des Adam aus Erde, und mit seinem Sündenfall die Vertreibung aus dem Paradies und die Entfremdung von der Natur berichtet wird, so ist dasselbe Motiv im Gilgameschepos an das Werden des Säugetiermenschen Engidu geknüpft, von dem schon oben (S. 92) die Rede war126) und den wir nach unserer Chronologie als den noachitischen ansehen. Gilgamesch, der König, läßt gewaltige Bauten aufführen ; schwer lastet die Frohn auf den Bewohnern des Landes. Die Bedrückten rufen die Götter zu Hilfe, und Aruru, die Schöpferin, formt aus Lehm den Naturmenschen Engidu, mit gewaltiger Kraft begabt. Sein Körper ist mit Haaren bedeckt, sein Haupthaar lang und er ist bes kleidet mit Fellen. Mit dem Wild, dem Vieh - dem Säugetier, nicht dem Reptil - lebt er zusammen, geht mit ihnen zur Tränke, mit dem Gewimmel des Wassers freut sich sein Herz. Die Mens schen des von Gilgamesch beherrschten Landes kennen ihn noch nicht ; nur der naturſichtige Gilgamesch selbst hat ihn schon im Traume geschaut. Nun dringt Engidu in die Sphäre des Gilga mesch ein, und damit kommt die Verwandlung, die wie ein uns endlich trauriger, aber doch mit einer neuen Verheißung verz knüpfter Abschied von der bis dahin innig mit ihm verknüpften Natur, dem „ Vieh", klingt :
 
 „Sechs Tage und sieben Nächte erhob sich Engidu, mit der Dirne der
 
@@ -4400,9 +3822,7 @@ So ist uns die Natur nicht nur ein Abbild des Menschenzu standes in körperliche
 
 Die Zweiheit, die Zerrissenheit, die mit des Menschen Fall metaphysisch und physisch durch die Natur geht, wo sich nun Göttliches und Dämonisches, Gottesgeschöpf und Teufelsgeschöpf
 
-[PDF 302]
-
-- 284-
+[p. 284]
 
 gegenübersteht, wovon schon die Rede war, findet in manchen Sagen ihren Widerhall. Bekannt ist die alte Bezeichnung der Fliegen, Läuse, Wanzen, Ratten und Mäuse als Kreaturen und Diener des Teufels. Aber zu mehr als dieser einfachen, schließlich bloß als Ausfluß des Alltagsärgers auffaßbaren Beschimpfung des Ungeziefers steigt diese Gegenüberstellung der zwei Typen in der öfters wiederkehrenden Sage von Biene und Wespe empor : die erstere ein Gottesgeschöpf, die lektere ein Teufelsgeschöpf. Hier finden wir schon tiefere Metaphysik. Während die Biene in jünger verarbeiteten Sagen viel mit dem Heiland zusammenges bracht wird, dem der Teufel neidisch mit der Wespenerschaffung entgegenarbeitet ; oder während die Wespen als unbotmäßige, von einer Mutter versluchte Kinder erscheinen, wird die Biene stets als heilig bezeichnet ; sie ist aus dem verlorenen Paradies übrig geblieben und hat es nur durch des Menschen Sünde verlassen müssen. Sie ist auch immer klug und hellsichtig und weiß manchen Rat für das, was der Teufel gegen Gott unternimmt. Zuerst soll sie weiß von Körper gewesen, danach durch Teufelswerk an ihr schwarzbraun geworden sein128). Ins Triviale gezogen kann man ja leicht der Sage den Sinn unterschieben, daß der von Natur nuk-süchtige Mensch die honigſpendende Biene leicht als ein Gottestier bezeichnen wird, wenn er die räuberische und ihm wertlose Wespe daneben sieht. Aber eben dieser Gegensak zwischen den beiden Tieren hat, wie seinen physischen, so eben als notwendige Gegens seite auch seinen metaphysischen Sinn, und der eben ist es, den die Sage , im Gegensak zu unserem Alltagsverstand , in sich trägt und dem auch wir nachgehen wollen.
 
@@ -4430,9 +3850,7 @@ Es wäre ja gewiß ein überhebliches, ja sittlich verwerfliches Handeln, wollte
 
 -
 
-288   -
-
-dem Volk gefährliche und ungefährliche Schlangen im Walde vernichten und dabei, wie ich es selbst einmal erlebte, in einer Art kultischen primitiven Ekstase lästerliche Verwünschungen auss stoßen, also nicht bloß pöbelhaft schelten - es liegt etwas ganz anderes darin - so wird man unseren vorhin angetretenen Ges dankenweg eher würdigen können. Erst auf einer befreiteren geistis gen Stufe, wo die Natur wie der Mitmensch selbst als das Tat twam asi  -
+288   -dem Volk gefährliche und ungefährliche Schlangen im Walde vernichten und dabei, wie ich es selbst einmal erlebte, in einer Art kultischen primitiven Ekstase lästerliche Verwünschungen auss stoßen, also nicht bloß pöbelhaft schelten - es liegt etwas ganz anderes darin - so wird man unseren vorhin angetretenen Ges dankenweg eher würdigen können. Erst auf einer befreiteren geistis gen Stufe, wo die Natur wie der Mitmensch selbst als das Tat twam asi  -
 
 das bist Du -
 
@@ -4450,15 +3868,11 @@ Sünde getan, aber warum sollte das unschuldige Vieh gestraft werden ? Darauf an
 
 Entsprechend diesem inneren Zusammenhang des Menschen-wesens mit der Tierwelt wird auch immer wieder in den Sagen dargestellt, wie die seelische Verfassung des Menschen, und gerade die sittliche, ihre Rückwirkung auf die organische und unorganische Natur zeigt. Algemein bekannt ist ja die Auslegung der Sintflut als eines Strafgerichtes, woher eben die Bezeichnung „Sündflut" stammt. Die zunehmende Verderbtheit des Menschengeschlechts machte sich aber auch zuvor schon in allerlei Veränderungen der himmlischen Konstellationen bemerkbar, vor allem aber auch auf der Erde . Dahin gehört die Sage von der Veränderng der Weizen-ähre, die wegen des Menschen Sündhaftigkeit kleiner geworden sei ; eine Sage, die allerdings variiert wird, indem das Geschehnis teils ſchon in das Paradies verlegt wird, teils erst als eine spätere Strafe Gottes über die vornoachitische Menschheit zugleich mit der Sintflut verhängt wird. Dem Wesen nach bleibt dies gleich , indem eben der innere Zustand des Menschen zum entscheidenden Motiv des Vorganges gemacht wird . Eine verkürzte polnische Fassung lautet : Am Anfang brauchte der Mensch nur eine Furche zu ziehen und Gott machte ihm die Halme so fruchtbar, daß sie von oben bis unten voll Körner waren.            Der erste Mensch begnügte sich mit seiner Furche und erntete davon genug zum Leben. Aber der Teufel gab ihm ein, mehr Furchen zu ziehen, um mehr zu haben. Der Mensch unterlag der Versuchung und die Strafe Gottes kam. Am Tag der Ernte, da der stolze Mensch gierig einheimſen wollte,
 
-Dacqué , Urwelt, Sage und Menschheit.                         19
-
 [PDF 308]
 
 -
 
-290-
-
-erschien Gott, nahm die Halme, rieb sie in den Händen und ließ nur oben die Körner eine Ähre lang stehen. Zum Mensch aber sprach er : Da du so unersättlich warst, habe ich dich gestraft ; von jekt an kannst du soviel bearbeiten wie du willst, ich werde dir nur soviel geben, wie mir gefällt131). Eine Parallele zur vorigen mag man in der griechischen Erzählung von den Aloaden finden. Sie stammen von Aloeus, dem Pflanzer, und der fruchttragenden Erde und lernen von ihr das Stampfen des Getreides und der Frucht. Anfangs waren sie winzig klein, wuchsen dann aber schnell und mächtig in die Höhe, so daß sie in kurzer Zeit zu Riesen wurden, denn es nährte sie das ſproſſende Kornfeld ; und sie wurden zu den größten und schönsten Menschen, die man je ges sehen. Sie fesselten den Kriegsgott, aber sie wurden auch so übermütig, daß sie zu den Göttern in den Olymp dringen wollten. Daran gingen sie zugrunde132).
+290-erschien Gott, nahm die Halme, rieb sie in den Händen und ließ nur oben die Körner eine Ähre lang stehen. Zum Mensch aber sprach er : Da du so unersättlich warst, habe ich dich gestraft ; von jekt an kannst du soviel bearbeiten wie du willst, ich werde dir nur soviel geben, wie mir gefällt131). Eine Parallele zur vorigen mag man in der griechischen Erzählung von den Aloaden finden. Sie stammen von Aloeus, dem Pflanzer, und der fruchttragenden Erde und lernen von ihr das Stampfen des Getreides und der Frucht. Anfangs waren sie winzig klein, wuchsen dann aber schnell und mächtig in die Höhe, so daß sie in kurzer Zeit zu Riesen wurden, denn es nährte sie das ſproſſende Kornfeld ; und sie wurden zu den größten und schönsten Menschen, die man je ges sehen. Sie fesselten den Kriegsgott, aber sie wurden auch so übermütig, daß sie zu den Göttern in den Olymp dringen wollten. Daran gingen sie zugrunde132).
 
 Die stete Wiederkehr der Behauptung von der Schlechtigkeit der Menschen zur Zeit der Sintslut fällt doch auf. In einer jüdischen Sage findet sie wohl ihren drastischsten Ausdruck, wie ja im jüdis schen Wesen am stärksten die Idee des stets zürnenden und strafens den Gottes auch sonst daliegt : Alles hatte seinen Weg verderbet zur Zeit der Sintslut, Mensch und Tier. Jeder nahm die zu Weibern, die schön waren und welche er wollte; sie tauschten ihre Weiber miteinander aus. Der Hund tat sich zur Wölfin, das Pferd zur Eselin, der Hahn zur Pfauin, der Esel zur Schlange, die Schlange zum Vogel. Selbst die Erde trieb dazumal Hurerei. Man warf in sie den Samen des Weizens und sie brachte Schwindelhafer hervor ; dies Gras, das noch heute wächst, stammt eben aus der Zeit vor der Flut133).
 
@@ -4470,9 +3884,7 @@ Die dämonischen, wesentlich großhirnloſenreptil- und schlangen-haften Tierfor
 
 -
 
-291-
-
-durch Spaltung und Entzweiung seiner Natur ins physische Das sein getreten, und sein noch durch und durch naturſichtiges, wie sein moralisches, wie sein physisches Wesen lebte, vielleicht wenig bewußt und individualisiert, ganz im inneren und äußeren Kons takt mit einer ihn psychisch und physisch packenden und von ihm rückwirkend wieder unmittelbar beeinflußten Umgebung, die ihm nun einen körperlichen und seelischen Kampf ums Dasein auf-nötigte, der sich , mit dämonischen somnambulen Kräften geführt, auch wesentlich im Mythischen abspielte. Soweit er aufs Körpers liche übergriff, war dieses Körperliche so durchdrungen vom Naturs sichtigen und Innerlich-Naturhaften, daß es auch den stärksten Beeinträchtigungen zu widerstehen und ohne weiteres zu reges nerieren vermochte.
+291-durch Spaltung und Entzweiung seiner Natur ins physische Das sein getreten, und sein noch durch und durch naturſichtiges, wie sein moralisches, wie sein physisches Wesen lebte, vielleicht wenig bewußt und individualisiert, ganz im inneren und äußeren Kons takt mit einer ihn psychisch und physisch packenden und von ihm rückwirkend wieder unmittelbar beeinflußten Umgebung, die ihm nun einen körperlichen und seelischen Kampf ums Dasein auf-nötigte, der sich , mit dämonischen somnambulen Kräften geführt, auch wesentlich im Mythischen abspielte. Soweit er aufs Körpers liche übergriff, war dieses Körperliche so durchdrungen vom Naturs sichtigen und Innerlich-Naturhaften, daß es auch den stärksten Beeinträchtigungen zu widerstehen und ohne weiteres zu reges nerieren vermochte.
 
 Dies nun war die Quelle, also die physische und seelische Grunds lage für die späteren Mythen von den großen Magiern und Weisen und Priesterkönigen, den großen unverwundbaren oder den Wun-den ohne Beeinträchtigung ausgesekten Heroen. Gotteskinder und Satanskinder, wie es in der Sage heißt, standen einander gegens über, und die nach dem Sündenfall mehr und mehr in die Ents wicklungsbahn der intellektualen Geistigkeit gedrängte Mensch-heit, deren Vollendung wir uns jekt vielleicht nähern, stand nicht nur der Tierwelt äußerlich physisch gegenüber und verlor mehr und mehr den inneren Zusammenhang mit ihr, verstand die Sprache der Tiere , der Natur nicht mehr, sondern war offenbar auch in sich in zwei seelische Lebensströme gespalten.
 
@@ -4530,9 +3942,7 @@ Nach der bisherigen Deſzendenzlehre ist es schwierig, wenn nicht unmöglich, zu
 
 -
 
-296   -
-
-und die Fernwirkung heutiger Menschen oder bekannter geschichts licher Zeiten mit Einschluß der Natur- und Diluvialmenschen wohl nur ein schwacher Rest sein müsse von einer ehemaligen Natur-verbundenheit in früheren Zeitaltern, wo diese Kräfte und Ges staltungsfähigkeiten eine so große Rolle spielten, daß daraus die Sagen entstanden vom zeitlichen und räumlichen Fernsehen und Fernwirken, magischem Geschehen, Umwandeln der äußeren Natur von innen her und unter Umständen, die alles Spätere hinter sich zurücklassen. Wir können uns somit denken, daß die schwachen heutigen Kräfte und Erscheinungen der Telekinese und Teleplastie - jekt nicht mehr zum Aberglauben, sondern zu den wissenschaftlich festgestellten und kritisch beobachteten Erscheinungen aus dem Grenzgebiet des Körpers und Seelenlebens gehörend — gleichfalls nur dürftige Überbleibsel sind einer dem individualiz sierten Wachintellekt unterlegenen, ehemals viel gewaltigeren nach haltigeren überindividuellen natursomnambulen Gestaltungskraft der Gattungsseele. So konnten und mußten aus ihr - gerades zu als physiologische Emanation des noch tierische Gestaltungs-potenzen in sich enthaltenden umfassenderen menschlichen Stammes - auf einem nicht grob physischen Weg Gestaltungen in der organis schen Natur entquellen, welche die psychophysischen Urformen der dann erst in die äußere Sichtbarkeit tretenden neuen tierischen Formenkreise wurden. Es gäbe somit einen Evolutionsprozeß von innen heraus, der das Erscheinen tierischer Grundformen wie aus dem Ungefähr, also wie durch Neuschöpfung erklären könnte, wenn erst einmal diese Dinge tiefer erforscht sein werden als es bis jekt gelungen ist.
+296   -und die Fernwirkung heutiger Menschen oder bekannter geschichts licher Zeiten mit Einschluß der Natur- und Diluvialmenschen wohl nur ein schwacher Rest sein müsse von einer ehemaligen Natur-verbundenheit in früheren Zeitaltern, wo diese Kräfte und Ges staltungsfähigkeiten eine so große Rolle spielten, daß daraus die Sagen entstanden vom zeitlichen und räumlichen Fernsehen und Fernwirken, magischem Geschehen, Umwandeln der äußeren Natur von innen her und unter Umständen, die alles Spätere hinter sich zurücklassen. Wir können uns somit denken, daß die schwachen heutigen Kräfte und Erscheinungen der Telekinese und Teleplastie - jekt nicht mehr zum Aberglauben, sondern zu den wissenschaftlich festgestellten und kritisch beobachteten Erscheinungen aus dem Grenzgebiet des Körpers und Seelenlebens gehörend — gleichfalls nur dürftige Überbleibsel sind einer dem individualiz sierten Wachintellekt unterlegenen, ehemals viel gewaltigeren nach haltigeren überindividuellen natursomnambulen Gestaltungskraft der Gattungsseele. So konnten und mußten aus ihr - gerades zu als physiologische Emanation des noch tierische Gestaltungs-potenzen in sich enthaltenden umfassenderen menschlichen Stammes - auf einem nicht grob physischen Weg Gestaltungen in der organis schen Natur entquellen, welche die psychophysischen Urformen der dann erst in die äußere Sichtbarkeit tretenden neuen tierischen Formenkreise wurden. Es gäbe somit einen Evolutionsprozeß von innen heraus, der das Erscheinen tierischer Grundformen wie aus dem Ungefähr, also wie durch Neuschöpfung erklären könnte, wenn erst einmal diese Dinge tiefer erforscht sein werden als es bis jekt gelungen ist.
 
 Ist es im Grunde etwas anderes, wenn die Sage erzählt, daß Gott bei der Schöpfung die Tiere zum Menschen brachte, daß er ihnen ihren „Namen" gäbe ? Im Hebräischen sowohl, wie im Gries chischen bedeutet das Onoma ohnehin nicht so sehr die äußere Nennung, sondern doch gerade das mit dem Namen nur äußers lich bezeichnete Wesen, das hinter dem Individuum lebt, aus dem es Leben und Odem empfängt, in dem es west". Gab also der Mensch den Tieren ihr Onoma - was soll das anderes sein als die Erkenntnis, daß sie aus ihm ihr Wesen haben137) ? So war der Mensch von je der Grundgedanke der lebenden Schöpfung, wie die ganze Welt aus dem Logos kommt, der doch auch nicht nur der
 
@@ -4592,69 +4002,23 @@ Weltuntergangssagen
 
 Wastrifftnun, sodiekönnte
 
-Weltschöpfungsmythen, die Kosmogonien bes
+Weltschöpfungsmythen, die Kosmogonien bes man nach dem allem, was dargelegt wurde, mit Recht fragen, ob auch in ihnen, neben dem nur Sym-bolhaften, ein geschichtlicher, insbesondere naturgeschichtlicher Kern stecke ? Und man könnte mit dieser Frage meine ganze übrige
 
-man nach dem allem, was dargelegt
-
-wurde, mit Recht fragen, ob auch in ihnen, neben dem nur Sym-
-
-bolhaften, ein geschichtlicher, insbesondere naturgeschichtlicher Kern
-
-stecke ? Und man könnte mit dieser Frage meine ganze übrige
-
-Theorie lächerlich machen, wenn man auf die Bejahung hin ers
-
-widerte, ob denn der Mensch schon bei Erschaffung des Weltalls
-
-und der Erde dabei gewesen sei? Wenn ich allerdings bei Bes
-
-jahung der Frage den Standpunkt hätte, daß der Mensch phy-
+Theorie lächerlich machen, wenn man auf die Bejahung hin ers widerte, ob denn der Mensch schon bei Erschaffung des Weltalls und der Erde dabei gewesen sei? Wenn ich allerdings bei Bes jahung der Frage den Standpunkt hätte, daß der Mensch phy-
 
 sisch-zeitlich und räumlich bei der Erschaffung der Welt    oder
 
--
+-sagen wir, um das Problem bestimmter zu packen, der Erde
 
-sagen wir, um das Problem bestimmter zu packen, der Erde
+-zugegen gewesen sei, so wäre das zweifellos ganz absurd und lächerlich und würde mit Recht die ganze übrige Theorie in ein schiefes Licht bringen. Trokdem glaube ich, an dem objektiv historischen Kern auch vieler, auf sehr alte Zeit zurückgehender
 
--
+Kosmogonien festhalten zu müssen, wenn auch selbstverständlich nicht in dem Sinn, daß der Mensch, dessen physischem Erscheinen als Wirbeltier allenfalls erst ein ſpätpaläozoisches Alter zuzu-schreiben ist, als Menschengestalt zugegen war.
 
-zugegen gewesen sei, so wäre das zweifellos ganz absurd und
+Ich verweise auf ein tiefsinniges Wort139) Schellings, das lautet : „Die Natur weiß nicht durch Wissenschaft, sondern durch ihr Wesen, oder auf magische Weise". .
 
-lächerlich und würde mit Recht die ganze übrige Theorie in ein
+Unsere intellektuell-mechanistische Spätzeit kann sich nicht denken, daß Erkenntnis und echtes Wissen auf andere als sinnlich empis rische Weise, also auf anderem als äußerem Weg erlangt werde.
 
-schiefes Licht bringen. Trokdem glaube ich, an dem objektiv
-
-historischen Kern auch vieler, auf sehr alte Zeit zurückgehender
-
-Kosmogonien festhalten zu müssen, wenn auch selbstverständlich
-
-nicht in dem Sinn, daß der Mensch, dessen physischem Erscheinen
-
-als Wirbeltier allenfalls erst ein ſpätpaläozoisches Alter zuzu-
-
-schreiben ist, als Menschengestalt zugegen war.
-
-Ich verweise auf ein tiefsinniges Wort139) Schellings, das
-
-lautet : „Die Natur weiß nicht durch Wissenschaft, sondern durch
-
-ihr Wesen, oder auf magische Weise". .
-
-Unsere intellektuell-mechanistische Spätzeit kann sich nicht denken,
-
-daß Erkenntnis und echtes Wissen auf andere als sinnlich empis
-
-rische Weise, also auf anderem als äußerem Weg erlangt werde.
-
-Sie hat im allgemeinen kein unmittelbar miterlebendes Verz
-
-stehen mehr für jene Art des Zusammenhanges, der zwischen
-
-dem Begreifenden und dem Begriffenen, dem Schauenden und
-
-dem Geschauten besteht. Und doch ist auch in uns Spätzeitmenschen
-
-noch allerlei von jener Fähigkeit des Wissens auf innere, auf
+Sie hat im allgemeinen kein unmittelbar miterlebendes Verz stehen mehr für jene Art des Zusammenhanges, der zwischen dem Begreifenden und dem Begriffenen, dem Schauenden und dem Geschauten besteht. Und doch ist auch in uns Spätzeitmenschen noch allerlei von jener Fähigkeit des Wissens auf innere, auf
 
 „magische" Weise vorhanden. Es braucht nur hingewiesen zu
 
@@ -4684,8 +4048,6 @@ So sind also die Erkenntnisse der Menschen im natursichtigen Weltalter, insbeson
 
 Was war es denn gerade in unserer eben verflossenen Zeit, was einem Mann wie Bismarck die ungeheuere Macht in die Hände gab, die fast aus dem Nichts geschaffen wurde, wenn nicht eben die intuitive, um nicht zu sagen naturhafte Sicherheit, womit er
 
-Dacqué , Urwelt, Sage und Menschheit .                     20
-
 [p. 306]
 
 instinktiv jede Lage in ihren realen Bedingungen, Zusammen-hängen und Lösungsmöglichkeiten durchschaute. Bismarcks Wesen hat etwas durchaus Dämonisches, und ebenso instinktiv hat ihn das deutsche Volk, dies ahnend und fühlend, immer den Recken uralter Sagenkreise verglichen. Ein Schriftsteller weist neuers dings darauf hin, daß sein Wirken das einzige ist, dem das deutsche Volk sofort in Denkmälern die Gestalt des Roland        -
@@ -4714,9 +4076,7 @@ Auf solchem Weg mag es auch sein, daß die urältesten naturs magischen Urzustä
 
 -
 
-308   -
-
-die Natur der Drachen- und Schlangenbrut rückschauend hell-sichtig in das schon entwickeltere Intellektualbewußtsein hers übergebracht und nun zu den frühesten verständlichen Kernen ältester Mythen und Sagen und Heldengestalten verarbeitet wurde, welche seitdem die Grundlage der ganzen Sagenwelt aller späteren Menschheitsgeschichten geblieben, wenn auch von Epoche zu Epoche, von Rasse zu Rasse immer wieder anders verz arbeitet, an anderes Eigenerleben angeknüpft und schließlich bis zur Verslachung mißverstanden und entstellt worden sind. So waren natürliche, urzeitliche Zusammenhänge und Geschehnisse ermittelt worden, indem die in große Zeitferne rückwärts dringende Seele Vergangenes aus dem überindividuellen Weltz oder Gattungsgedächtnis wieder erschloß - dem Wesen nach nicht ans ders als es das noch schwach hellsichtige Können unserer Tage an Gegenständen zu betätigen vermag.
+308   -die Natur der Drachen- und Schlangenbrut rückschauend hell-sichtig in das schon entwickeltere Intellektualbewußtsein hers übergebracht und nun zu den frühesten verständlichen Kernen ältester Mythen und Sagen und Heldengestalten verarbeitet wurde, welche seitdem die Grundlage der ganzen Sagenwelt aller späteren Menschheitsgeschichten geblieben, wenn auch von Epoche zu Epoche, von Rasse zu Rasse immer wieder anders verz arbeitet, an anderes Eigenerleben angeknüpft und schließlich bis zur Verslachung mißverstanden und entstellt worden sind. So waren natürliche, urzeitliche Zusammenhänge und Geschehnisse ermittelt worden, indem die in große Zeitferne rückwärts dringende Seele Vergangenes aus dem überindividuellen Weltz oder Gattungsgedächtnis wieder erschloß - dem Wesen nach nicht ans ders als es das noch schwach hellsichtige Können unserer Tage an Gegenständen zu betätigen vermag.
 
 Ein solches inneres Erkennen natürlicher, wenn auch verflossener Zusammenhänge - in alter Zeit und von naturſichtigen Menschen-wesen auch mit gewaltigerer Seelenkraft und in größerem räum-lichen und zeitlichen Umfang ausgeübt - ist ebenso auch die Quelle der echten Astrologie gewesen, die nicht minder entartet und ges chwächt, uns aus den babylonischen Tagen bloß noch wie ein flacher Zauber entgegentritt. Sagt doch auch Ptolemäus in seinem Werk über Astrologie : was sich aus der Natur der Dinge herauslesen läßt, entspringt aus der Betrachtung verwandter Bildungen und Stellungen. Diese innere Gemeinsamkeit oder besser gesagt: diese Homologie der Dinge, welche erlaubt, aus dem Dasein und der Wesenhaftigkeit und dem Verhalten des einen auf eben dasselbe beim anderen zu schließen, oder daran hellsichtig sich führen zu lassen, wem es möglich ist : das ist der Schlüssel für alle über die unmittelbare, grob sinnliche Empirik hinauss gehende, aber darum doch wahrlich nicht weniger fest gegründete Erfahrung. Konnte doch auch ein Geist wie Fechner diesen Weg einschlagen, um zu Erkenntnissen zu gelangen, die natürlich nicht so daliegen, wie die groben Pflastersteine auf der offenen Straße naiv realistischer Wissenschaft.
 
@@ -4812,9 +4172,7 @@ Wie nun die Welt, die Menschheit als Ganzes, ihre Apokalypse, ihre Götterdämme
 
 Seelenwanderung , Tod und Erlösung
 
-Diewiegeheimnisvolle  Beziehung der Menschenseele zum Tierreich,
-
-sie der vorlekte Abschnitt kenntlich zu machen suchte, ist genugsam ausgedrückt in der alten vielverbreiteten, ursprünglich wohl von allen Völkern geteilten Vorstellung einer Seelenwandes rung der Verstorbenen. Da kultivierte, in Wissenschaften bes wanderte Völker, wie die Ägypter und die weisheitsvollen Inder, diese Lehre immer bewahrten, danach handelten und lebten und sie erst mit dem Aufkommen des naiv realistischen und rationalis stischen Griechen- und Judentums verlorenging, so wird man auch hier gut daran tun, zu der Frage nicht den blutleeren Standpunkt des neuzeitlich Aufgeklärten unangreifbar einzunehmen, sondern eine ehrfürchtigere, das Problem in der Tiefe packende Lösung zu versuchen. Auch diese wird eine doppelte, eine physisch-meta-physische sein.
+Diewiegeheimnisvolle  Beziehung der Menschenseele zum Tierreich, sie der vorlekte Abschnitt kenntlich zu machen suchte, ist genugsam ausgedrückt in der alten vielverbreiteten, ursprünglich wohl von allen Völkern geteilten Vorstellung einer Seelenwandes rung der Verstorbenen. Da kultivierte, in Wissenschaften bes wanderte Völker, wie die Ägypter und die weisheitsvollen Inder, diese Lehre immer bewahrten, danach handelten und lebten und sie erst mit dem Aufkommen des naiv realistischen und rationalis stischen Griechen- und Judentums verlorenging, so wird man auch hier gut daran tun, zu der Frage nicht den blutleeren Standpunkt des neuzeitlich Aufgeklärten unangreifbar einzunehmen, sondern eine ehrfürchtigere, das Problem in der Tiefe packende Lösung zu versuchen. Auch diese wird eine doppelte, eine physisch-meta-physische sein.
 
 Ich erinnere an Fechner. Kein Naturgelehrter wußte so wie er das zu zeigen, was man das Wesen geistiger und seelischer Ges meinsamkeit nennen könnte. Versenke dich, sagt er etwa, in das Werk eines Philosophen, vergiß dich darin und schaue die Dinge um dich herum und die ewigen Ideen mit seinem Sinn. So wirst du teilhaben und leben in seinem Geist, in Gemeinschaft mit ihm. Ebenso trittst du auch in lebendige Gemeinschaft mit den großen Toten, wenn du ihre Gedanken lebendig faſſest, ihre Lehre aus dem Herzen heraus lebst. Oder du liebst dein Kind tief und innig. Und alles, womit du es umgibst, deine ganze Sorge und Güte und gütige Strenge tilgt nicht das furchtbare Gefühl, daß ihr getrennt seid, zwei Wesen seid, und du weit weg bist von der Macht, es halten, schüßen und gegen alles Elend feien zu können. Da stirbt das Kind. Und nun auf einmal erfährst du, wie innig du es hast, wie es in dir lebt und du in ihm, in ungehemmter, stets vollklingender Wechselwirkung, ungetrennt und mit dem Gefühl, daß sein Wesen in dir gesichert und gegen alles gefeit ist. Und trok des ungeheueren Schmerzes lebt in dir der verklärte Friede.
 
@@ -4930,9 +4288,7 @@ Der Schlafende und der Tote, wie gleichen sie einander !
 
 Nicht kann man wiedergeben des Todes Bild ...
 
-[PDF 344]
-
--326-
+[p. 326]
 
 Es versammeln sich .. die großen Götter ;
 
@@ -5066,9 +4422,7 @@ Joh. Walther, Entwicklungsgeschichte der Erde und des Lebens. Leipzig
 
 1908.
 
-M. Neumayr, Erdgeschichte. 3. Aufl. von F. E. Sueß . 2 Bände. Leipzig
-
-und Wien 1920.
+M. Neumayr, Erdgeschichte. 3. Aufl. von F. E. Sueß . 2 Bände. Leipzig und Wien 1920.
 
 Oth. Abel, Lebensbilder aus der Tierwelt der Vorzeit. Jena 1922.
 
@@ -5278,9 +4632,7 @@ Zu entsprechenden Ergebnissen führt die Betrachtung des Gebisses:
 
 -
 
-346   -
-
-was nicht der Fall ist, obwohl der Schädel durch seine etwas niedrigere Wölbung und seine Augenwülste affenähnlicher war. Da aber auch die Halbaffen wegen ihrer sonstigen Differenzierung in Schädel und Gebiß nicht Stammeltern des Menschen sein können, so ist für den Menschenstamm die Bahn außerhalb der Primaten und der Halbaffen zunächst bis in die Alttertiärstufe hinunter frei.
+346   -was nicht der Fall ist, obwohl der Schädel durch seine etwas niedrigere Wölbung und seine Augenwülste affenähnlicher war. Da aber auch die Halbaffen wegen ihrer sonstigen Differenzierung in Schädel und Gebiß nicht Stammeltern des Menschen sein können, so ist für den Menschenstamm die Bahn außerhalb der Primaten und der Halbaffen zunächst bis in die Alttertiärstufe hinunter frei.
 
 Auch die Schädelbildung liefert noch einige Anhaltspunkte, die kurz ers wähnt seien :
 
@@ -5324,9 +4676,7 @@ Die Gattungen dieses Stammbaumes treten auf weite Länder verteilt auf und sind 
 
 -
 
-348   -
-
-widerlegt, zumal auch der diluviale Primitivkiefer des Homo Heidelbergensis die Hypothese eines Tertiärmenschen überflüssig gemacht haben soll.
+348   -widerlegt, zumal auch der diluviale Primitivkiefer des Homo Heidelbergensis die Hypothese eines Tertiärmenschen überflüssig gemacht haben soll.
 
 W. K. Gregory , der mit Schloſſer an der Bedeutung des alttertiärzeits lichen ägyptischen Propliopithecus als unmittelbarem Menschens und Menschens affenahnen festhält, gibt folgenden, hier nur unwesentlich verkürzten Stammbaum (The origin and evolution of the human dentition. Journ. of Dental Rese-arch. Vol. II. S. 688. New Haven 1920. Ferner: Studies on the evolution of the Primates. Bullet. Americ. Mus. Nat. Hist. New York 1916, S. 313ff.):
 
@@ -5392,9 +4742,7 @@ Paläosimia
 
 Miozān                             2                     Dryopithecus Pliopithe-
 
-Alttertiär
-
-cus
+Alttertiär cus
 
 Oligozån           2        21         Propliopithecus Parapithecus 2
 
@@ -5493,8 +4841,6 @@ Diese indianische Bildererzählung ist wohl in jedem guten Konversations-lexikon
 41 ) Dähnhardt , ibid., S. 226.
 
 1. Der Mensch ist ein eigener persistenter Stamm, wenn auch mit allen mög lichen Verwandlungen, bis zur ältesten erdgeschichtlichen Zeit zurück. Das schließt zwei verschiedene Möglichkeiten der Entwicklung ein : Entweder ist dieser selb ständige Stamm im Mesozoikum ein primitives Säugetier und im Anfang des Mesozoikums oder im jüngsten Paläozoikum ein Reptil bzw. Amphibium ges wesen und hat sich durch diese Stadien zu einem Menschenaffen und zulekt zum Menschen hindurchentwickelt ; oder er war seit jener ältesten Zeit auch äußers lich schon ein eigener Formtypus, wenn auch in allerlei Formverwandlungen erscheinend, also doch eben entelechisch Mensch. Im ersteren Fall hätten wir nichts wesentlich anderes als den alten grotesken Stammbaum Haeckels, worin die Haie und Reptilien unsere Ahnen waren ; genau das. Aber eben das glaubt heute doch der das paläontologische Material beherrschende Forscher nicht mehr. Bleibt also nur das zweite noch : der Spätmensch stammt aus seiner eigenen Stammbahn her, nicht von Haien und Molchen.
-
-Dacqué , Urwelt, Sage und Menschheit.                                    23
 
 32) Die Dresdener Mayahandschrift (Codex Dresdenensis) ist veröffent licht in : „Antiquities of Mexico " von Lord Kingsborough . 9. Bd. London 1831-48 (Bd . 3, S. 74ff.). Ferner reproduziert von :
 
@@ -5638,9 +4984,7 @@ Dieses Argument ist für die Einfangslehre entscheidend . Jedoch ist weiter zu e
 
 -
 
-360   -
-
-nach außen die Priorität. Das ist im Text auch klar gekennzeichnet ; anderes habe ich aus ihr nicht geschöpft.
+360   -nach außen die Priorität. Das ist im Text auch klar gekennzeichnet ; anderes habe ich aus ihr nicht geschöpft.
 
 71 ) Andree , Flutsagen, S. 88/89.
 
@@ -5890,9 +5234,7 @@ Diese Bannfähigkeit mit allen näheren Umständen hat mir inzwischen auch ein i
 
 Vom gleichen Verfasser ist erschienen :
 
-Vergleichende biologische Formenkunde der fossilen
-
-niederen Tiere
+Vergleichende biologische Formenkunde der fossilen niederen Tiere
 
 1922.
 
@@ -5936,9 +5278,7 @@ Ein Beitrag zur magischen Weltlehre 2. Aufl. 202 S. 1927. In Leinen geb. M. 6.50
 
 geb. M. 12. - )
 
-Inhalt : Die Grundfrage - Mensch und Natur - Welt-
-
-anschauung - Magische Weltsicht - Der Mensch als Maß
+Inhalt : Die Grundfrage - Mensch und Natur - Welt-anschauung - Magische Weltsicht - Der Mensch als Maß
 
 - Außen und innen - Der magische Kreis - Das Leben
 
@@ -5952,11 +5292,7 @@ Leben - Aberglaube und Wirklichkeit - Gleich und Gleich
 
 -
 
-Das organische Gestalten - Verwandlung - Abbild
-
-und Urbild - Natursichtigkeit - Magie im Märchen - Ge-
-
-fahr der Magie - Die Tat - Der Urmythus - Die Wende
+Das organische Gestalten - Verwandlung - Abbild und Urbild - Natursichtigkeit - Magie im Märchen - Ge-fahr der Magie - Die Tat - Der Urmythus - Die Wende
 
 -Die Versenkung.
 
@@ -5978,21 +5314,15 @@ Entwicklungslehre : Die organische Zweckmäßigkeit
 
 DieIdee der Urzeugung - Die Idee der Vervollkommnung
 
-- Vervollkommnung und Stammbaum - Das Indivi-
+- Vervollkommnung und Stammbaum - Das Indivi-duum als Symbol - Die Entelechie der Art - Typus und
 
-duum als Symbol - Die Entelechie der Art - Typus und
-
-Urform - Form und Verwandtschaft - Sterben und Kom-
-
-men der Typen.
+Urform - Form und Verwandtschaft - Sterben und Kom-men der Typen.
 
 Natur und Menschenwesen: Natur und Kunstwerk -
 
 Der Tiermythus - Der Mensch als Urform - Totem als
 
-Symbol des Menschenwesens - Dämonie der Forment-
-
-wicklung - Dämonie der Menschennatur - Naturgesek und
+Symbol des Menschenwesens - Dämonie der Forment-wicklung - Dämonie der Menschennatur - Naturgesek und
 
 Menschenleben - Das astrologische Symbol - Urkunst und
 
@@ -6012,9 +5342,7 @@ Leben als Symbol dient dem Ausbau und der Vertiefung früher ausgesprochener Ged
 
 [PDF 389]
 
-Als in geistiger Verbundenheit mit den Werken Edgar Dacqués stehend,
-
-kann der Verlag noch die nachstehenden Werke anzeigen:
+Als in geistiger Verbundenheit mit den Werken Edgar Dacqués stehend, kann der Verlag noch die nachstehenden Werke anzeigen:
 
 Schellings sämtliche Werke Nach der Originalausgabe in neuer Anordnung herausgegeben von Manfred Schröter. 6 Hauptbände. 8 °.
 

@@ -1,6 +1,6 @@
 ---
 title: La filosofía como vocación y servicio
-title_en: 
+title_en: Philosophy as Vocation and Service
 author: José Vasconcelos
 year: 1949
 original_language: es
@@ -8,7 +8,7 @@ translation_language: none
 edition_layout: original text only (no translation)
 collection: Obras (vasconcelos-obras-v2)
 order: 99.1
-source: ‘99.1 La filosofía como vocación y servicio.html’ (HTML reader) — THIS FILE IS THE SOURCE, corrections go here
+source: ‘99.1 La filosofía como vocación y servicio.html’ (HTML reader)
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 5
@@ -16,9 +16,9 @@ genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
 ---
 
-# José Vasconcelos, *La filosofía como vocación y servicio* (1949)
+# José Vasconcelos, *La filosofía como vocación y servicio* (1949) — *Philosophy as Vocation and Service*
 
-Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong.
+Conventions: `[p. N]` marks where a printed page begins (its folio as printed); the text is the original only (no translation); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml.
 
 ## La filosofía como vocación y servicio
 
