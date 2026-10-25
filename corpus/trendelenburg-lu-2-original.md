@@ -6,7 +6,7 @@ year: 1870
 original_language: de
 translation_language: none
 edition_layout: original text only (no translation)
-source: ‘trendelenburg-lu-2.de.md’ — THIS FILE IS THE SOURCE, corrections go here
+source: ‘trendelenburg-lu-2.de.md’
 original_text: OCR text as supplied (Markdown/plain), uncorrected unless the file says otherwise
 translation: none
 pages: 538
@@ -16,7 +16,7 @@ generated: 2026-10-24 by corpus.py
 
 # F. A. Trendelenburg, *Logische Untersuchungen, Bd. II (3. Aufl.)* (1870) — *Logical Investigations, vol. II — German text*
 
-Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong.
+Conventions: `[p. N]` marks where a printed page begins (its folio as printed); the text is the original only (no translation); quoted blocks (`> …`) are its footnotes; `*…*` is emphasis as printed. This file is the source: correct it here.
 
 ## [p. 1] IX. DER ZWECK.
 

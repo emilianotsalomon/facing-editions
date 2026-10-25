@@ -6,9 +6,7 @@ by
 
 CARLOS VAZ FERREIRA
 
-Professor of Philosophy
-
-at the University of Montevideo
+Professor of Philosophy at the University of Montevideo
 
 General Depository: Librería Nacional de A. Barreiro y Ramos
 
@@ -56,55 +54,15 @@ Study of the habitual logic of certain professionals
 
 1
 
-(Diderot spoke of “moral idiotisms” in the professionals of
+(Diderot spoke of “moral idiotisms” in the professionals of the various arts; these others would be logical idiotisms).
 
-the various arts; these others would be logical idiotisms).
+Observations of a theoretical order concerning the relations of psychology and logic, of thought and language, etc., intended to correct the false concepts to which the schematism of logic has given rise. This is something that today is in the air. Perhaps there is being accomplished at this very moment (and we do not feel it, because we are breathing in it)
 
-Observations of a theoretical order concerning the rela‐
+the greatest revolution or evolution in the mental history of humanity; more momentous than any scientific or artistic transformation, because it concerns something still newer and more general than all that: the change in humanity’s way of thinking, through its becoming independent of words.
 
-tions of psychology and logic, of thought and language, etc.,
+Humanity, it would seem, has confused language with thought: it has applied to the latter properties and relations of the former. Various contemporary thinkers—I will name
 
-intended to correct the false concepts to which the schema‐
-
-tism of logic has given rise. This is something that today is in
-
-the air. Perhaps there is being accomplished at this very mo‐
-
-ment (and we do not feel it, because we are breathing in it)
-
-the greatest revolution or evolution in the mental history of
-
-humanity; more momentous than any scientific or artistic
-
-transformation, because it concerns something still newer
-
-and more general than all that: the change in humanity’s
-
-way of thinking, through its becoming independent of words.
-
-Humanity, it would seem, has confused language with
-
-thought: it has applied to the latter properties and relations
-
-of the former. Various contemporary thinkers—I will name
-
-Bergson, James, Höffding—are the ones who have the great‐
-
-est personal share in this movement. But the movement is in
-
-the air: I have a presentiment of some great practical discov‐
-
-ery, of unequaled consequence, which will teach us proce‐
-
-dures for thinking well. In any case, meanwhile, this kind of
-
-analysis ought today to be a preferred task, as should the es‐
-
-tablishment, even if partial and even provisional, of all the
-
-practical consequences that these analyses allow us usefully
-
-to ground.
+Bergson, James, Höffding—are the ones who have the greatest personal share in this movement. But the movement is in the air: I have a presentiment of some great practical discovery, of unequaled consequence, which will teach us procedures for thinking well. In any case, meanwhile, this kind of analysis ought today to be a preferred task, as should the establishment, even if partial and even provisional, of all the practical consequences that these analyses allow us usefully to ground.
 
 Logical monographs on some real questions under debate.
 
@@ -186,9 +144,7 @@ I am going to show you another case in which precisely the same error appears ap
 
 From the Revue Pédagogique:
 
-“Mr. D...... has not thought it possible, however, to leave us without
-
-the literal expression and not in the thought; at other times there is paralogism in the thought although there is none, properly speaking, in the literal expression; and, what is more: one must not even believe that, even in the same person (in the author, for example, or in one and the same reader), there would be identical states at every moment. From this result extremely complex things: changes, degrees, tendencies to paralogisms, which I have tried to suggest, although a deeper treatment of all this is not possible on the didactic plane.
+“Mr. D...... has not thought it possible, however, to leave us without the literal expression and not in the thought; at other times there is paralogism in the thought although there is none, properly speaking, in the literal expression; and, what is more: one must not even believe that, even in the same person (in the author, for example, or in one and the same reader), there would be identical states at every moment. From this result extremely complex things: changes, degrees, tendencies to paralogisms, which I have tried to suggest, although a deeper treatment of all this is not possible on the didactic plane.
 
 [p. 6]
 
@@ -266,11 +222,7 @@ In these two passages the false opposition ripples. Superiority “is not” in 
 
 A shadow of false opposition, too, when a poet tells us that, this world being
 
-“.... a garden.... in which we all plant
-
-now an action, now an idea, he does things better
-
-who, instead of lettuces, sows lilies and roses”; meaning to tell us by this that the man of letters and the artist are superior to the industrialist or the practical man. Even if it be granted that he is literally right when he tells us that he “does things better,” in reality, psychologically, one sees that a bit of opposition has been created here, that it has been felt that one must choose between poetry and industry, and
+“.... a garden.... in which we all plant now an action, now an idea, he does things better who, instead of lettuces, sows lilies and roses”; meaning to tell us by this that the man of letters and the artist are superior to the industrialist or the practical man. Even if it be granted that he is literally right when he tells us that he “does things better,” in reality, psychologically, one sees that a bit of opposition has been created here, that it has been felt that one must choose between poetry and industry, and
 
 [p. 13]
 

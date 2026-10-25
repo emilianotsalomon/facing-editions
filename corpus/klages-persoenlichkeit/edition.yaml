@@ -5,11 +5,11 @@ year: 1928
 original_language: de
 translation_language: none
 edition_layout: original text only (no translation)
-source: ‘klages-persoenlichkeit.md’ — THIS FILE IS THE SOURCE, corrections go here
+source: ‘klages-persoenlichkeit.md’
 original_text: OCR text as supplied (Markdown/plain), uncorrected unless the file says otherwise
 translation: none
 pages: 35
 genre: Lebensphilosophie
 generated: 2026-10-24 by corpus.py
 heading: "# Ludwig Klages, *Persönlichkeit. Einführung in die Charakterkunde* (1928) — *Personality. Introduction to Characterology — German text*"
-conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); `[PDF N]` a page of the source PDF with no printed number; the text is the original only (no translation); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml."

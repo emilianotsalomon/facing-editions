@@ -1,15 +1,16 @@
 title: Az ismerettan alapvetése
 title_en: Foundations of the Theory of Knowledge
 author: Menyhért Palágyi
+author_sort: Palágyi, Melchior (Menyhért)
 year: 1904
 original_language: hu
 translation_language: en
 edition_layout: photocopy (scan beside the English)
-source: recovered from the PDF ‘Palagyi_Ismerettan_alapvetese_facing.pdf’ (the page files were not kept) — THIS FILE IS THE SOURCE, corrections go here
+source: recovered from the PDF ‘Palagyi_Ismerettan_alapvetese_facing.pdf’ (the page files were not kept)
 original_text: not in this file (scan only — see the PDF edition)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 256
 genre: Logic
 generated: 2026-10-24 by corpus.py
 heading: "# Menyhért Palágyi, *Az ismerettan alapvetése* (1904) — *Foundations of the Theory of Knowledge*"
-conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); `[PDF N]` a page of the source PDF with no printed number; the English only; the original is not in this edition (see the scan in the PDF edition); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml."
