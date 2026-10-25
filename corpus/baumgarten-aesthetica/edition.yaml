@@ -1,0 +1,15 @@
+title: Aesthetica
+title_en: Aesthetics
+author: Alexander Gottlieb Baumgarten
+year: 1750–1758
+original_language: la
+translation_language: en
+edition_layout: clean text (both columns typeset)
+source: Baumgarten-Aesthetica-sources/whole/orig.la.md + trans.en.md (volume I, Frankfurt/Oder 1750, §§ 1–613, pp. 1–400; volume II, 1758, §§ 614–904, pp. 401–624; combined by whole/combine.py)
+original_text: "transcription of the 1750 and 1758 prints made page by page from the Google Books scan, checked against the scan images (by Claude agents, from a tesseract crib; no human proofreading); 1750/1758 spelling kept, obvious misprints retained and marked [sic: …]; Synopsis indentation levels not reproduced"
+translation: "machine-made (Claude), then read block by block against the Latin by Claude critic agents (three reports: vol. I §§ 1–325, §§ 326–613, vol. II), whose corrections were applied; no human review"
+pages: 624
+genre: Aesthetics
+generated: 2026-10-24 from the combined source files
+heading: "# Alexander Gottlieb Baumgarten, *Aesthetica* (1750–1758) — *Aesthetics*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."

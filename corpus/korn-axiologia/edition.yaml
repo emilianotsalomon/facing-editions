@@ -1,0 +1,15 @@
+title: Axiología
+title_en: Axiology
+author: Alejandro Korn
+year: 1930
+original_language: es
+translation_language: none
+edition_layout: original text only (no translation)
+source: "‘korn-axiologia.txt’ (plain-text OCR of the printed pages) — THIS FILE IS THE SOURCE, corrections go here"
+original_text: "OCR text of the print, uncorrected (the running heads ‘ALEJANDRO KORN’ / ‘OBRAS COMPLETAS’ give the folios 268–298 of the Obras completas; the first page, before folio 268, carries no printed number and so no marker). OCR errors stand: the section numbers read ‘11’ and ‘111’ for II and III, and the table ‘Cuadro de los valores’ (after section III) is garbled OCR, one row per paragraph. Lines are missing in the OCR at a few page tops and bottoms, so some paragraphs are cut where a page begins. Running heads were removed, line-end hyphens joined and lines joined into paragraphs; a page marker inside a paragraph stands at the first word of the new page."
+translation: none
+pages: 31
+genre: Latin American philosophy
+generated: 2026-10-24 from the plain-text file
+heading: "# Alejandro Korn, *Axiología* (1930)"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."

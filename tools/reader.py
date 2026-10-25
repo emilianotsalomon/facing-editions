@@ -76,6 +76,7 @@ body.noside .page{gap:0 0}body.noside main{padding-left:.2rem}
 .card h2,.card h3,.card h4,.card h5{grid-column:1/-1;font-weight:normal;text-align:center;margin:.3rem 0 .5rem;line-height:1.3}
 .card h2{font-size:1.3rem;letter-spacing:.02em}.card h3{font-size:1.1rem}.card h4{font-size:1rem;font-style:italic}
 .card .o{background:var(--orig);border-radius:7px;padding:.75rem .9rem;font-size:.96em}
+.card .fnrow .o,.card .fnrow .e{font-size:.84em}.card .fnrow .o p,.card .fnrow .e p{line-height:1.45}
 .card .o p,.card .e p{margin:0 0 .75em;text-align:justify;text-align-last:left;hyphens:auto;-webkit-hyphens:auto;hyphenate-limit-chars:6 3 3;overflow-wrap:anywhere;line-height:1.6}
 .card .o p:last-child,.card .e p:last-child{margin-bottom:0}.card .o,.card .e{min-width:0}
 .card .fn{margin-top:auto;padding-top:.5rem;border-top:1px solid var(--line);font-size:.84em;line-height:1.45;color:var(--muted)}
@@ -89,7 +90,12 @@ body.noside .page{gap:0 0}body.noside main{padding-left:.2rem}
 .notes h5{margin:0 0 .3rem;font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);font-weight:normal;text-align:left}
 .notes p{margin:0 0 .5em}.notes .who{color:var(--muted);font-size:.85em}
 .gnotes{background:var(--note);border:1px solid var(--line);border-radius:10px;padding:1rem 1.3rem;margin:0 0 1.2rem;font-size:.95em}.gnotes h3{margin:0 0 .4rem;font-weight:normal;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
-sup{font-size:.7em;line-height:0}.toolbar{display:flex;gap:.7rem;align-items:center;margin:0 0 1.2rem}.toolbar input{max-width:24rem}
+sup{font-size:.7em;line-height:0}.toolbar{display:flex;gap:.3rem;align-items:center;margin:0 0 .4rem}.toolbar input{max-width:24rem;min-width:0}
+.qb{font:inherit;font-size:.85rem;width:1.9rem;height:2rem;flex:none;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--muted);cursor:pointer}.qb:hover{color:var(--ink);background:var(--orig)}
+.qn{margin:0 0 .4rem;font-size:.76rem;color:var(--muted);min-height:1em}.qres{max-height:40vh;overflow:auto;margin:0 0 1rem;scrollbar-width:thin}.qres:empty{display:none}
+.side .qres a{display:block;font-size:.78rem;line-height:1.35;color:var(--muted);padding:.3rem .4rem;margin:0;border-left:0;border-radius:6px}.side .qres a:hover{background:var(--orig);text-decoration:none}.side .qres a.on{background:var(--orig);color:var(--ink)}
+.qres b{color:var(--ink);font-weight:normal;background:rgba(214,188,96,.4);border-radius:2px}.qres .ql{display:block;font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}.qmore{font-size:.74rem;color:var(--muted);margin:.4rem}
+::highlight(fe-hit){background-color:rgba(214,188,96,.45)}::highlight(fe-cur){background-color:#e39b2d;color:#000}.card.qcur{outline:2px solid var(--accent)}
 /* annotations */
 mark.an{background:transparent;color:inherit;border-radius:2px}mark.an.hl.straw{background:rgba(214,188,96,.28)}mark.an.hl.sage{background:rgba(120,160,120,.26)}mark.an.hl.rose{background:rgba(200,120,120,.24)}
 mark.an.ul{text-decoration:underline;text-decoration-color:rgba(122,42,34,.55);text-decoration-thickness:1.5px;text-underline-offset:3px}
@@ -145,7 +151,32 @@ JS_PAGE = """
   document.addEventListener('mousemove',mv);document.addEventListener('mouseup',up)})})})();
 const links=[...document.querySelectorAll('.side a[href^="#"]')];const map=new Map(links.map(a=>[a.getAttribute('href').slice(1),a]));
 if(links.length&&'IntersectionObserver' in window){let cur=null;const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){const a=map.get(e.target.id);if(a){if(cur)cur.classList.remove('on');a.classList.add('on');cur=a;a.scrollIntoView({block:'nearest'})}}})},{rootMargin:'-10% 0px -80% 0px'});map.forEach((a,id)=>{const el=document.getElementById(id);if(el)io.observe(el)})}
-const q=document.getElementById('q');if(q){q.addEventListener('input',()=>{const t=q.value.toLowerCase();document.querySelectorAll('.card').forEach(c=>{c.classList.toggle('hidden',t.length>1&&!c.textContent.toLowerCase().includes(t))})})}
+const q=document.getElementById('q');if(q){const main=document.querySelector('main'),info=document.getElementById('qn'),res=document.getElementById('qres');
+ const HL=window.CSS&&CSS.highlights&&window.Highlight,MAXHL=3000,MAXLIST=200;let hits=[],at=-1,tm=0;
+ const esc=x=>x.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+ const index=()=>[...main.querySelectorAll('.card')].map(c=>{const w=document.createTreeWalker(c,NodeFilter.SHOW_TEXT,{acceptNode:n=>n.parentElement.closest('.pg')?NodeFilter.FILTER_REJECT:NodeFilter.FILTER_ACCEPT});let s='',map=[],n;while((n=w.nextNode())){map.push([s.length,n]);s+=n.data}
+  const l=s.toLowerCase(),pg=c.querySelector('.pg'),h=c.querySelector('h2,h3,h4');return{c,s,l:l.length===s.length?l:s,map,lab:pg?pg.textContent:(h?h.textContent:'')}});
+ const pos=(map,k,end)=>{let lo=0,hi=map.length-1;while(lo<hi){const m=(lo+hi+1)>>1;if(end?map[m][0]<k:map[m][0]<=k)lo=m;else hi=m-1}return[map[lo][1],k-map[lo][0]]};
+ const range=h=>{const r=document.createRange(),a=pos(h.d.map,h.i,0),b=pos(h.d.map,h.i+h.n,1);r.setStart(a[0],a[1]);r.setEnd(b[0],b[1]);return r};
+ const clear=()=>{hits=[];at=-1;if(HL){CSS.highlights.delete('fe-hit');CSS.highlights.delete('fe-cur')}info.textContent='';res.innerHTML='';main.querySelectorAll('.qcur').forEach(c=>c.classList.remove('qcur'))};
+ function run(){clear();const t=q.value.trim().toLowerCase();if(t.length<2)return;const pages=new Set();
+  index().forEach(d=>{let i=d.l.indexOf(t);while(i>-1){hits.push({d,i,n:t.length});pages.add(d.c);i=d.l.indexOf(t,i+t.length)}});
+  if(!hits.length){info.textContent='no matches in this text';return}
+  if(HL&&hits.length<=MAXHL)CSS.highlights.set('fe-hit',new Highlight(...hits.map(range)));
+  res.innerHTML=hits.slice(0,MAXLIST).map((h,k)=>{const s=h.d.s,a=Math.max(0,h.i-45),b=Math.min(s.length,h.i+h.n+45);
+   return '<a href="#" data-k="'+k+'"><span class="ql">'+esc(h.d.lab)+'</span>'+(a?'…':'')+esc(s.slice(a,h.i))+'<b>'+esc(s.slice(h.i,h.i+h.n))+'</b>'+esc(s.slice(h.i+h.n,b))+(b<s.length?'…':'')+'</a>'}).join('')
+   +(hits.length>MAXLIST?'<p class="qmore">'+(hits.length-MAXLIST)+' more — use ↓ / Enter to step through them</p>':'');
+  go(0,pages.size)}
+ function go(k,np){if(!hits.length)return;at=(k+hits.length)%hits.length;const h=hits[at],r=range(h);
+  if(HL)CSS.highlights.set('fe-cur',new Highlight(r));main.querySelectorAll('.qcur').forEach(c=>c.classList.remove('qcur'));if(!HL)h.d.c.classList.add('qcur');
+  info.dataset.pages=np||info.dataset.pages;info.textContent=(at+1)+' of '+hits.length+' matches · '+info.dataset.pages+' page'+(info.dataset.pages==1?'':'s');
+  res.querySelectorAll('a.on').forEach(a=>a.classList.remove('on'));const a=res.querySelector('a[data-k="'+at+'"]');if(a){a.classList.add('on');res.scrollTop=a.offsetTop-res.offsetTop-res.clientHeight/2}
+  const y=r.getBoundingClientRect().top+window.scrollY-window.innerHeight/3;window.scrollTo({top:Math.max(0,y),behavior:'instant'})}  // smooth scrolling gets cut off on long texts
+ q.addEventListener('input',()=>{clearTimeout(tm);tm=setTimeout(run,250)});
+ q.addEventListener('keydown',e=>{if(e.key==='Enter'){e.preventDefault();clearTimeout(tm);if(!hits.length||at<0)run();else go(at+(e.shiftKey?-1:1))}else if(e.key==='Escape'){q.value='';clear()}});
+ document.getElementById('qprev').onclick=()=>go(at-1);document.getElementById('qnext').onclick=()=>go(at+1);
+ res.addEventListener('click',e=>{const a=e.target.closest('a[data-k]');if(a){e.preventDefault();go(+a.dataset.k)}});
+ document.addEventListener('keydown',e=>{if(e.key==='/'&&!e.metaKey&&!e.ctrlKey&&!e.altKey&&!/input|textarea/i.test(e.target.tagName)&&!e.target.isContentEditable){e.preventDefault();const tg=document.getElementById('tog');if(document.body.classList.contains('noside')&&tg)tg.click();q.focus();q.select()}})}
 """
 
 
@@ -392,7 +423,10 @@ def render(path, s):
            f'{(" — <i>" + html.escape(g("title_en")) + "</i>") if g("title_en") else ""}</h1>{chips}</div></div>'
            f'<div class="wrap"><div class="page"><aside class="side">'
            + (f'<p class="meta">{html.escape(g("original_text"))}.' + (f' Translation: {html.escape(g("translation"))}.' if not mono else '') + '</p>' if g('original_text') else '')
-           + f'<div class="toolbar"><input id="q" type="search" placeholder="find on this page"></div>']
+           + f'<div class="toolbar"><input id="q" type="search" placeholder="search the whole text (/)" aria-label="search the whole text">'
+             '<button id="qprev" class="qb" title="previous match (shift+enter)" aria-label="previous match">↑</button>'
+             '<button id="qnext" class="qb" title="next match (enter)" aria-label="next match">↓</button></div>'
+             '<p id="qn" class="qn" aria-live="polite"></p><div id="qres" class="qres"></div>']
     if toc:
         out.append('<h3>Contents</h3>' + ''.join(f'<a class="l{l}" href="#{cid}">{html.escape(t)}</a>' for l, t, cid in toc))
     out.append('</aside><div class="hdl l" data-for="side"></div><main>')

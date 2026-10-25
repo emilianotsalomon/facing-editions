@@ -1,0 +1,15 @@
+title: System der Wissenschaft
+title_en: System of Science. A Philosophical Encheiridion
+author: Karl Rosenkranz
+year: 1850
+original_language: de
+translation_language: en
+edition_layout: "clean text (both columns typeset); English alongside only for §§ 436–510, every other § original text only"
+source: "‘System_der_Wissenschaft.txt’ (German) and ‘rosenkranz-translation-1.txt’ (English, §§ 436–510) — THIS FILE IS THE SOURCE, corrections go here"
+original_text: "OCR text of the Königsberg 1850 print (plain text of a Google Books digital copy), uncorrected: OCR errors stand (e.g. ‘seht’ for ‘setzt’, ‘Eristenz’ for ‘Existenz’, ‘Per’/‘Pas’ for ‘Der’/‘Das’). Only layout debris was removed: running heads and sheet signatures, stray digits, the Google notice, line-end hyphens (‘ab= stracten’ → ‘abstracten’), and line/page breaks inside paragraphs were joined. The text has no printed page numbers, so there are no [p. N] markers; the unit is the §. Headings printed as ‘S.’ or ‘$.’ read as ‘§.’ and the § numbers were taken from the running sequence (three misread numbers repaired: 618→675, 731→713, 710→810). The headings of §§ 9, 171, 228, 250, 356, 399, 423, 622 and 644 were lost in the OCR; their text stands under the preceding §. The file begins at § 1 (no title page or preface) and ends with the author’s ‘Erläuterungen’ and ‘Errata’."
+translation: "machine-made, unrevised, not reviewed against the original; the English file does not record who or what made it, and it covers only §§ 436–510 (the closing summary notes of that file are not included). Of these 75 §§, 47 are paired paragraph by paragraph; 27 are matched as a whole § but the English divides the paragraphs differently (German paragraphs first, then the English paragraphs, in one block); § 510 is incomplete in English (it breaks off in the fourth German paragraph). Placeholder remarks inserted in the English file (‘the translation continues…’) were dropped."
+pages: 0
+genre: Hegel and his school
+generated: 2026-10-24 from the plain-text files
+heading: "# Karl Rosenkranz, *System der Wissenschaft* (1850) — *System of Science. A Philosophical Encheiridion*"
+conventions: "Conventions: this text carries no printed page numbers (the sections below stand in for pages); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong. Where no English follows a `>` block, the text is original only."

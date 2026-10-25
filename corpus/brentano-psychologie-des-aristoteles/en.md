@@ -136,11 +136,11 @@ The undertaking is a difficult one, and the difficulty has its ground partly, no
 
 3) De Anim. III, 5. p. 430, a, 10—19.
 
-4) De Anim. III, 4. §. 5. p. 429, b, 5. ibid. 5. §. 1. p. 430, a, 17.; and De Anim. III, 5. §. 2. p. 430, a, 22. ibid. II, 2. §. 9. p. 413, b, 26. I, 1. §. 10. p. 403, a, 11. see also III, 7. §. 8. p. 431, b, 18. Cf. I, 1. §. 10. p. 403, a, 14., where the οὐχ ἅψεται χωρισθὲν τὸ εὐθύ is inferred from ἀχώριστον γάρ. — Just as he speaks of a being-separate, Aristotle also speaks of a being-mixed (μεμῖχθαι τῷ σώματι) in more than one sense (De Anim. I, 3. §. 19. p. 407, b, 2.; and De Anim. III, 4. §. 4. p. 429, a, 24.), and to this is added the double meaning of ἀμιγής: unmixed with another inner principle, and unmixed with bodily matter. (De Anim. III, 4. §. 3. p. 429, a, 18. ibid. 5. §. 1. p. 430, a, 18.; and De Anim. III, 4. §. 4. p. 429, a, 24.)
+4) De Anim. III, 4. §. 5. p. 429, b, 5. ibid. 5. §. 1. p. 430, a, 17.; and De Anim. III, 5. §. 2. p. 430, a, 22. ibid. II, 2. §. 9. p. 413, b, 26. I, 1. §. 10. p. 403, a, 11. see also III, 7. §. 8. p. 431, b, 18. Cf. I, 1. §. 10. p. 403, a, 14., where the οὐχ ἅψεται χωρισθὲν τὸ εὐθύ is inferred from ἀχώριστον γάρ.
 
 5) De Anim. III, 4. §. 3. p. 429, a, 15. ibid. §. 9. p. 429, b, 23.; and De Anim. III, 4. §. 2. p. 429, a, 14. ibid. §. 9. p. 429, b, 25.
 
-6) De Anim. III, 4. §. 12. p. 430, a, 7.; and De Anim. III, 5. §. 1. p. 430, a, 10. 13. ibid. §. 2. p. 430, a, 19.
+6) De Anim. III, 4. §. 12. p. 430, a, 7.; and De Anim. III, 5. §. 1. p. 430, a, 10. 13. ibid. §. 2. p. 430, a, 19. — Just as he speaks of a being-separate, Aristotle also speaks of a being-mixed (μεμῖχθαι τῷ σώματι) in more than one sense (De Anim. I, 3. §. 19. p. 407, b, 2.; and De Anim. III, 4. §. 4. p. 429, a, 24.), and to this is added the double meaning of ἀμιγής: unmixed with another inner principle, and unmixed with bodily matter. (De Anim. III, 4. §. 3. p. 429, a, 18. ibid. 5. §. 1. p. 430, a, 18.; and De Anim. III, 4. §. 4. p. 429, a, 24.)
 
 7) De Anim. III, 3. §. 6. p. 428, a, 5. ibid. §. 8. p. 428, a, 18. Anal. Post. I, 33. p. 89, a, 1. b, 7. ibid. II, 19. p. 100, b, 8. Nic. VI, 3. p. 1139, b, 17. ibid. 6. p. 1141, a, 5.; and De Anim. III, 4. §. 3. p. 429, a, 17. 22. and elsewhere.
 

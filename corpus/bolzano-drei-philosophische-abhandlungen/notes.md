@@ -1,0 +1,2 @@
+## General remark — Provenance of the edition
+Source: Internet Archive/Google scan of the Bavarian State Library copy (148 pages, Fraktur); printed p = scan + 12 (preface iii–vi; pp. 78 and 80 are blank). The German was read from the page images, the 1851 spelling kept, the long s printed s, spaced type (gesperrt) in italics. The standard edition (Bolzano-Gesamtausgabe II A 12/3, 1978) reprints the treatises and dates them 1839. — prepared from the production records, Oct 2026
