@@ -180,11 +180,20 @@ const q=document.getElementById('q');if(q){const main=document.querySelector('ma
 """
 
 
+# Page marks the reader knows: `[p. 12]` (the edition's own pages) and `[AA 4:388]` (Akademie-Ausgabe volume:page). A further scheme
+# (Stephanus `[227a]`, Bekker `[1094a]`) is one more alternative here; the label of a card is the text inside the brackets.
+MARKS = r'p\. [^\]]+|AA \d+:\d+|scan \d+|PDF \d+'
+ANYMARK = re.compile(r'\[(' + MARKS + r')\]')
+FN = {}                       # footnote id -> its printed call (`*`, `**`, `†`), for texts that keep [^id] notes (set per text in render)
+
+
 def md_inline(t):
     t = html.escape(t, quote=False).replace('&lt;sup&gt;', '<sup>').replace('&lt;/sup&gt;', '</sup>')
     t = re.sub(r'\*\*(\S(?:[^*]*?\S)?)\*\*', r'<b>\1</b>', t)
     t = re.sub(r'\*(\S(?:[^*]*?\S)?)\*', r'<em>\1</em>', t)
-    t = re.sub(r'\[(p\. [^\]]+|scan \d+|PDF \d+)\]', r'<span class="pg-in">[\1]</span>', t)
+    t = ANYMARK.sub(r'<span class="pg-in">[\1]</span>', t)
+    if FN:
+        t = re.sub(r'\[\^([^\]]+)\]', lambda m: f'<sup class="fnc">{FN.get(m.group(1), "")}</sup>', t)
     return t
 
 
@@ -218,9 +227,9 @@ def load_notes(rel):
         if hm:
             flush(); cur = []
             t = hm.group(1).replace('\n', ' ')
-            pm = re.search(r'\[(?:p\. |scan |PDF )([^\]]+)\]', t)
-            label = 'p. ' + pm.group(1) if pm else None
-            rest = re.sub(r'\[p\. [^\]]+\]\s*', '', t).strip()
+            pm = re.search(r'\[(?:p\. |scan |PDF )([^\]]+)\]', t) or re.search(r'\[(AA \d+:\d+)\]', t)
+            label = (pm.group(1) if pm.group(1).startswith('AA ') else 'p. ' + pm.group(1)) if pm else None
+            rest = re.sub(r'\[(?:p\. [^\]]+|AA \d+:\d+)\]\s*', '', t).strip()
             if rest:
                 cur.append(f'**{rest}**')
         else:
@@ -229,7 +238,7 @@ def load_notes(rel):
     return general, by_page
 
 
-PGMARK = re.compile(r'\[p\. ([^\]]+)\]')
+PGMARK = re.compile(r'\[(p\. [^\]]+|AA \d+:\d+)\]')
 
 
 def cut_pair(o, e):
@@ -266,9 +275,11 @@ def render(path, s):
     pairs = g('edition_layout').startswith('clean text')
     mono = g('translation_language') in ('none', '')
     printed = g('paragraphs') == 'printed' and not mono
-    NOTE = re.compile(r'^\[\^[^\]]+\]:') if printed else facing.NOTE     # paragraphs: printed -> only a [^..]: definition is a footnote
+    printed_orig = g('paragraphs') == 'printed' and mono      # a printed original with no translation: paragraphs whole, cut at their inline marks for display, one card per page
+    NOTE = re.compile(r'^\[\^[^\]]+\]:') if (printed or printed_orig) else facing.NOTE     # paragraphs: printed -> only a [^..]: definition is a footnote
+    FN.clear()
     paras = [p.strip() for p in re.split(r'\n\s*\n', body) if p.strip()]
-    paged = bool(re.search(r'\[(p\. [^\]]+|scan \d+|PDF \d+)\]', body))      # texts without any page marks: boxes per section
+    paged = bool(ANYMARK.search(body))      # texts without any page marks: boxes per section
     cards, toc = [], []
     cur = None
 
@@ -284,12 +295,48 @@ def render(path, s):
         skip = 2
     noorig = not mono and not any(p.startswith('>') for p in paras[skip:])   # English-only edition: the English column carries the text
     cutstart, pnote = set(), {}                    # paragraphs: printed -> each pair is cut at the marks both sides carry
+    if printed_orig:
+        for q in paras:                            # the call of each note as the print sets it (`*`, `**`, `†`; else the note's number on its page)
+            m = re.match(r'\[\^([^\]]+)\]:\s*(\S+)', q)
+            if m:
+                tok = m.group(2).rstrip(')')
+                FN[m.group(1)] = tok if tok and all(c in '*†‡!' for c in tok) else m.group(1).rsplit('-', 1)[-1]
+
+        def cut_single(t):
+            at = [m.start() for m in PGMARK.finditer(t) if m.start() > 0]
+            res, carry = [], False
+            for q in (t[a:b].strip() for a, b in zip([0] + at, at + [len(t)])):
+                if carry:                          # a piece that ends inside an emphasis closes it and the next opens it again
+                    m = PGMARK.match(q)
+                    q = (q[:m.end()] + ' *' + q[m.end():].lstrip()) if m else '*' + q
+                carry = q.count('*') % 2 == 1
+                res.append(q + '*' if carry else q)
+            return res
+        out, i = paras[:skip], skip
+        while i < len(paras):
+            p = paras[i]
+            if p.startswith('#') or p == '⁂' or ANYMARK.fullmatch(p) or NOTE.match(p):
+                out.append(p); i += 1; continue
+            j, defs = i + 1, []                    # (call text, definition)
+            while j < len(paras) and NOTE.match(paras[j]):
+                defs.append(('[^' + re.match(r'\[\^([^\]]+)\]:', paras[j]).group(1) + ']', paras[j])); j += 1
+            pieces, used = cut_single(p), set()
+            for k, pc in enumerate(pieces):        # each note stands under the piece that holds its call, so it lands on its own page's card
+                if k:
+                    cutstart.add(len(out))
+                out.append(pc)
+                for n, (call, d) in enumerate(defs):
+                    if n not in used and call in pc:
+                        out.append(d); used.add(n)
+            out += [d for n, (_, d) in enumerate(defs) if n not in used]
+            i = j
+        paras = out
     if printed:
         out, i = paras[:skip], skip
         while i < len(paras):
             p, nxt = paras[i], (paras[i + 1] if i + 1 < len(paras) else None)
             if p.startswith('>') and nxt is not None and not nxt.startswith(('>', '#')) and nxt != '⁂' \
-                    and not re.fullmatch(r'\[(p\. [^\]]+|scan \d+|PDF \d+)\]', nxt):
+                    and not ANYMARK.fullmatch(nxt):
                 o = '\n'.join(l[2:] if l.startswith('> ') else l.lstrip('>') for l in p.split('\n'))
                 on, en = bool(NOTE.match(' '.join(l.lstrip('> ').strip() for l in p.split('\n')))), bool(NOTE.match(nxt))
                 for k, (a, b) in enumerate(cut_pair(o, nxt)):
@@ -303,12 +350,20 @@ def render(path, s):
     for ix, p in enumerate(paras):
         if ix < skip:
             continue
-        mk = re.fullmatch(r'\[(p\. [^\]]+|scan \d+|PDF \d+)\]', p)
+        mk = ANYMARK.fullmatch(p)
         if mk:
             new_card(mk.group(1)); continue
         hm = re.match(r'^(#{1,6}) (.*)$', p, re.S)
         if hm:
-            lvl = max(2, len(hm.group(1))); txt = md_inline(hm.group(2).replace('\n', ' '))
+            lvl = max(2, len(hm.group(1))); raw = hm.group(2).replace('\n', ' ')
+            lm = ANYMARK.match(raw) if (printed or printed_orig) else None
+            if lm:                                    # a heading that opens a page carries its mark: `## [AA 4:387] Vorrede.`
+                raw = raw[lm.end():].lstrip()
+                if cur['o'] or cur['e'] or cur['h'] or cur['on'] or cur['en']:
+                    new_card(lm.group(1))
+                else:
+                    cur['label'] = lm.group(1)
+            txt = md_inline(raw)
             if not paged and (cur['e'] or cur['o']):     # no page marks at all: a heading opens a new box (one per section)
                 new_card(cur['label'])
             toc.append((lvl, re.sub('<[^>]+>', '', txt), cur['id']))
@@ -317,7 +372,7 @@ def render(path, s):
             cur['e'].append('<p class="sep">⁂</p>'); continue
         if p.startswith('>'):
             txt = ' '.join(l.lstrip('> ').strip() for l in p.split('\n'))
-            m2 = re.search(r'\[(?:p\. |scan |PDF )([^\]]+)\]', txt)
+            m2 = ANYMARK.search(txt)
             note = pnote[ix] if ix in pnote else bool(NOTE.match(txt))
             if m2 and ix in cutstart and (cur['o'] or cur['e'] or cur['on'] or cur['en']):    # a piece cut at a page mark opens that page's card
                 new_card(m2.group(0)[1:-1])
@@ -332,20 +387,28 @@ def render(path, s):
             if txt:
                 cur['on' if note else 'o'].append(f'<p>{md_inline(txt)}</p>')
             continue
-        im = re.search(r'\[(?:p\. |scan |PDF )([^\]]+)\]', p)
-        if mono and im and (cur['e'] or cur['h']):
+        im = ANYMARK.search(p)
+        if printed_orig:
+            if im and im.start() == 0 and not NOTE.match(p):      # a piece cut at a mark opens that page's card
+                if cur['e'] or cur['h'] or cur['en']:
+                    new_card(im.group(1))
+                else:
+                    cur['label'] = im.group(1)
+        elif mono and im and (cur['e'] or cur['h']):
             new_card(im.group(0)[1:-1])
         elif noorig and im and not NOTE.match(p) and (cur['e'] or cur['h']):      # a paragraph holding a page mark opens that page's card; its first mark labels it
             new_card(im.group(0)[1:-1])
         elif im and not cur['label']:
             cur['label'] = im.group(0)[1:-1]
         etxt = p.replace(chr(10), ' ')
-        if printed and im and etxt.startswith(im.group(0)) and cur['label'] == im.group(0)[1:-1]:
+        if (printed or printed_orig) and im and etxt.startswith(im.group(0)) and cur['label'] == im.group(0)[1:-1]:
             etxt = etxt[len(im.group(0)):].lstrip()
+        if printed_orig and NOTE.match(p):
+            etxt = re.sub(r'^\[\^[^\]]+\]:\s*', '', etxt)
         cur['en' if pnote.get(ix, NOTE.match(p)) else 'e'].append(f'<p>{md_inline(etxt)}</p>')
     for c in cards:
         if not c['label']:
-            m2 = re.search(r'\[(?:p\. |scan |PDF )([^\]]+)\]', ' '.join(c['o'] + c['e']))
+            m2 = ANYMARK.search(' '.join(c['o'] + c['e']))
             c['label'] = m2.group(0)[1:-1] if m2 else ''
     general, by_page = load_notes(rel)
     ol = g('original_language') or 'de'

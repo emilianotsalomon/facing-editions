@@ -1,0 +1,16 @@
+title: Metaphysicae cum geometria iunctae usus in philosophia naturali, cuius specimen I. continet monadologiam physicam
+author: Immanuel Kant
+year: 1756
+original_language: la
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Bonner Kant-Korpus (korpora.org/Kant, Universität Duisburg-Essen), transcription of the Akademie-Ausgabe, vol. 1; this file is the source, corrections go here
+original_text: transcription of the Akademie-Ausgabe (Kants gesammelte Schriften, vol. 1) by the Bonner Kant-Korpus (korpora.org, Universität Duisburg-Essen); printed paragraphs, page breaks as [AA 1:p]
+translation: none
+canonical: "Akademie-Ausgabe 1:473-487: [AA 1:p] marks the start of each Akademie page"
+pages: 15
+genre: Kant and post-Kantian philosophy
+generated: 2026-10-25 by .scratch/idealisms-wg/kant_editions.py (library)
+heading: "# Immanuel Kant, *Metaphysicae cum geometria iunctae usus in philosophia naturali, cuius specimen I. continet monadologiam physicam* (1756)"
+conventions: "Conventions: `[AA N:p]` marks where page p of volume N of the Akademie-Ausgabe begins, at the exact word; paragraphs are the printed ones, whole across page turns; `*…*` is emphasis as printed; `[^id]` is a note of Kant's own, set under the paragraph it belongs to. Generated file — see the header for where corrections belong."

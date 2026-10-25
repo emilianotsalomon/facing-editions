@@ -1,0 +1,16 @@
+title: Recension von Gottlieb Huseland's Versuch über den Grundsatz des Naturrechts
+author: Immanuel Kant
+year: 1786
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Bonner Kant-Korpus (korpora.org/Kant, Universität Duisburg-Essen), transcription of the Akademie-Ausgabe, vol. 8; this file is the source, corrections go here
+original_text: transcription of the Akademie-Ausgabe (Kants gesammelte Schriften, vol. 8) by the Bonner Kant-Korpus (korpora.org, Universität Duisburg-Essen); printed paragraphs, page breaks as [AA 8:p]
+translation: none
+canonical: "Akademie-Ausgabe 8:125-130: [AA 8:p] marks the start of each Akademie page"
+pages: 6
+genre: Kant and post-Kantian philosophy
+generated: 2026-10-25 by .scratch/idealisms-wg/kant_editions.py (library)
+heading: "# Immanuel Kant, *Recension von Gottlieb Huseland's Versuch über den Grundsatz des Naturrechts* (1786)"
+conventions: "Conventions: `[AA N:p]` marks where page p of volume N of the Akademie-Ausgabe begins, at the exact word; paragraphs are the printed ones, whole across page turns; `*…*` is emphasis as printed; `[^id]` is a note of Kant's own, set under the paragraph it belongs to. Generated file — see the header for where corrections belong."

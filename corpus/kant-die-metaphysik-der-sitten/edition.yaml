@@ -1,0 +1,16 @@
+title: Die Metaphysik der Sitten
+author: Immanuel Kant
+year: 1797
+original_language: de
+translation_language: none
+edition_layout: original text only (no translation)
+paragraphs: printed
+source: Bonner Kant-Korpus (korpora.org/Kant, Universität Duisburg-Essen), transcription of the Akademie-Ausgabe, vol. 6; this file is the source, corrections go here
+original_text: transcription of the Akademie-Ausgabe (Kants gesammelte Schriften, vol. 6) by the Bonner Kant-Korpus (korpora.org, Universität Duisburg-Essen); printed paragraphs, page breaks as [AA 6:p]
+translation: none
+canonical: "Akademie-Ausgabe 6:203-493: [AA 6:p] marks the start of each Akademie page"
+pages: 291
+genre: Kant and post-Kantian philosophy
+generated: 2026-10-25 by .scratch/idealisms-wg/kant_editions.py (library)
+heading: "# Immanuel Kant, *Die Metaphysik der Sitten* (1797)"
+conventions: "Conventions: `[AA N:p]` marks where page p of volume N of the Akademie-Ausgabe begins, at the exact word; paragraphs are the printed ones, whole across page turns; `*…*` is emphasis as printed; `[^id]` is a note of Kant's own, set under the paragraph it belongs to. Generated file — see the header for where corrections belong."
