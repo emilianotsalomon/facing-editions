@@ -169,7 +169,7 @@ JS_PAGE = """
   const up=()=>{document.removeEventListener('mousemove',mv);document.removeEventListener('mouseup',up);h.classList.remove('on');document.body.classList.remove('resizing');sv(side?'fe-side-w':'fe-cm-w',parseFloat(getComputedStyle(pg).getPropertyValue(side?'--side-w':'--cm-w')));window.dispatchEvent(new Event('resize'))};
   document.addEventListener('mousemove',mv);document.addEventListener('mouseup',up)})})})();
 const links=[...document.querySelectorAll('.side a[href^="#"]')];const map=new Map(links.map(a=>[a.getAttribute('href').slice(1),a]));
-if(links.length&&'IntersectionObserver' in window){let cur=null;const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){const a=map.get(e.target.id);if(a){if(cur)cur.classList.remove('on');a.classList.add('on');cur=a;a.scrollIntoView({block:'nearest'})}}})},{rootMargin:'-10% 0px -80% 0px'});map.forEach((a,id)=>{const el=document.getElementById(id);if(el)io.observe(el)})}
+if(links.length&&'IntersectionObserver' in window){let cur=null;const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){const a=map.get(e.target.id);if(a){if(cur)cur.classList.remove('on');a.classList.add('on');cur=a;const sd=a.closest('.side'),t=a.offsetTop-sd.offsetTop;if(t<sd.scrollTop||t+a.offsetHeight>sd.scrollTop+sd.clientHeight)sd.scrollTop=t-sd.clientHeight/3}}})},{rootMargin:'-10% 0px -80% 0px'});map.forEach((a,id)=>{const el=document.getElementById(id);if(el)io.observe(el)})}
 const q=document.getElementById('q');if(q){const main=document.querySelector('main'),info=document.getElementById('qn'),res=document.getElementById('qres');
  const HL=window.CSS&&CSS.highlights&&window.Highlight,MAXHL=3000,MAXLIST=200;let hits=[],at=-1,tm=0;
  const esc=x=>x.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
@@ -351,7 +351,6 @@ def render(path, s):
     NOTE = re.compile(r'^\[\^[^\]]+\]:') if (printed or printed_orig) else facing.NOTE     # paragraphs: printed -> only a [^..]: definition is a footnote
     FN.clear()
     paras = [p.strip() for p in re.split(r'\n\s*\n', body) if p.strip()]
-    paged = bool(ANYMARK.search(body))      # texts without any page marks: boxes per section
     cards, toc = [], []
     cur = None
 
@@ -365,6 +364,7 @@ def render(path, s):
         skip = 1
     if len(paras) > 1 and paras[1].startswith('Conventions:'):
         skip = 2
+    paged = any(ANYMARK.search(p) for p in paras[skip:])   # texts without any page marks: boxes per section (the Conventions line's sample `[p. N]` is not one)
     noorig = not mono and not any(p.startswith('>') for p in paras[skip:])   # English-only edition: the English column carries the text
     cutstart, pnote = set(), {}                    # paragraphs: printed -> each pair is cut at the marks both sides carry
     if printed_orig:
