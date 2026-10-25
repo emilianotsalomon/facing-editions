@@ -1,0 +1,15 @@
+title: Der Geist als Widersacher der Seele
+title_en: Spirit as Adversary of the Soul
+author: Ludwig Klages
+year: 1929–1932
+original_language: de
+translation_language: en
+edition_layout: clean text (both columns typeset)
+source: ‘Klages-Geist-als-Widersacher-der-Seele.pdf’ (the 1960-page parallel edition, Bände I–III) — THIS FILE IS THE SOURCE, corrections go here
+original_text: "OCR of scans of the first edition (Leipzig: Barth, 1929–1932), pp. 1–1478, cleaned by script, uncorrected (the scans are the authority)"
+translation: "machine-made (Claude), unrevised: not reviewed against the original"
+pages: 1369
+genre: Lebensphilosophie
+generated: 2026-10-24 from the parallel-edition PDF (extract.py / assemble.py)
+heading: "# Ludwig Klages, *Der Geist als Widersacher der Seele* (1929–1932) — *Spirit as Adversary of the Soul*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed (Klages's letter-spaced Sperrsatz); `<sup>…</sup>` a footnote cue, the note following its paragraph. Klages printed his notes as endnotes at the end of each volume (Anmerkungen zum I. Band, pp. 477–512; zum II. Band, pp. 781–800; zum III. Band, pp. 1433–1478), numbered afresh in each volume; here each note stands below the paragraph that carries its cue, with its own “Zu Seite …” line, so cite a note as vol./note number. Page 70 (the opening of ch. 9) is missing from the scan; pp. 10, 77–78, 216, 514, 802 and 1250 are blank or title pages. The translation renders Geist = spirit, Seele = soul, Wirklichkeit = actuality, Schauen = beholding (see the glossary)."

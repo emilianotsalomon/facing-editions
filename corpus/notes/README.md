@@ -1,8 +1,8 @@
 # Notes and annotations
 
-One Markdown file per text, with the same name and sub-folder as the text it annotates:
-`corpus/notes/exner-psychologie-hegelsche-schule.md` annotates `corpus/exner-psychologie-hegelsche-schule.md`;
-`corpus/notes/vasconcelos/vasconcelos-1925-la-raza-cosmica.md` annotates the Vasconcelos file of that name.
+One `notes.md` per text, inside the text's folder: `corpus/exner-psychologie-hegelsche-schule/notes.md` annotates that edition;
+`corpus/vasconcelos/vasconcelos-1925-la-raza-cosmica/notes.md` annotates the Vasconcelos edition of that name.
+(For a text still kept as one interleaved file, `corpus/notes/<same name and sub-folder>.md` is read instead.)
 
 Inside the file, a heading opens each note. A heading that names a page attaches the note to that page in the reader:
 

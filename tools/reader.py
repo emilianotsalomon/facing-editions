@@ -8,6 +8,8 @@ import json, shutil
 C, O = os.path.abspath(sys.argv[1]), os.path.abspath(sys.argv[2])
 os.makedirs(O, exist_ok=True)
 HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
+import facing                                       # editions kept as folders of single-language files -> the interleaved text
 SITE = json.load(open(f'{HERE}/site.json')) if os.path.exists(f'{HERE}/site.json') else {}
 REPO = SITE.get('repo', '')                          # "owner/name": shared annotations are written to annotations/<text>.json there
 if os.path.exists(f'{HERE}/annot.js'):
@@ -155,8 +157,7 @@ def md_inline(t):
     return t
 
 
-def header(path):
-    s = open(path).read()
+def header(path, s):
     m = re.match(r'---\n(.*?)\n---\n', s, re.S)
     h = dict(re.findall(r'^(\w+): (.*)$', m.group(1), re.M)) if m else {}
     h = {k: v.strip('"') for k, v in h.items()}
@@ -169,7 +170,9 @@ def header(path):
 
 def load_notes(rel):
     """CORPUS/notes/<rel>.md -> (general: [html], by_page: {label: [html]}); a '## [p. N] …' heading opens a note"""
-    f = f'{C}/notes/{rel}.md'
+    f = f'{C}/{rel}/notes.md'
+    if not os.path.exists(f):
+        f = f'{C}/notes/{rel}.md'
     if not os.path.exists(f):
         return [], {}
     general, by_page = [], {}
@@ -195,13 +198,44 @@ def load_notes(rel):
     return general, by_page
 
 
-def render(path):
+PGMARK = re.compile(r'\[p\. ([^\]]+)\]')
+
+
+def cut_pair(o, e):
+    """A printed paragraph and its English, cut for display at the `[p. N]` marks both carry (not at offset 0), in order:
+    [(original piece, English piece)]. A mark found on one side only is no cut point. A piece that ends inside an
+    emphasis closes it and the next opens it again."""
+    om = [(m.group(1), m.start()) for m in PGMARK.finditer(o) if m.start() > 0]
+    em = [(m.group(1), m.start()) for m in PGMARK.finditer(e) if m.start() > 0]
+    cuts, j = [], 0
+    for lab, po in om:
+        k = next((k for k in range(j, len(em)) if em[k][0] == lab), None)
+        if k is not None:
+            cuts.append((po, em[k][1])); j = k + 1
+    if not cuts:
+        return [(o, e)]
+
+    def pieces(t, at):
+        out, carry = [], False
+        for q in (t[a:b].strip() for a, b in zip([0] + at, at + [len(t)])):
+            if carry:
+                m = PGMARK.match(q)
+                q = (q[:m.end()] + ' *' + q[m.end():].lstrip()) if m else '*' + q
+            carry = q.count('*') % 2 == 1
+            out.append(q + '*' if carry else q)
+        return out
+    return list(zip(pieces(o, [c[0] for c in cuts]), pieces(e, [c[1] for c in cuts])))
+
+
+def render(path, s):
+    """path: where the text lives (or would, for an edition kept as a folder); s: its interleaved Markdown"""
     rel = os.path.relpath(path, C)[:-3]
-    h, body = header(path)
+    h, body = header(path, s)
     g = lambda k: h.get(k, '')
     pairs = g('edition_layout').startswith('clean text')
     mono = g('translation_language') in ('none', '')
-    NOTE = re.compile(r'^(\d{1,3}\s?[a-c]?\)|\*+\)|\(\d{1,3}\)|[†‡]|<sup>[^<]*</sup>\s)')
+    printed = g('paragraphs') == 'printed' and not mono
+    NOTE = re.compile(r'^\[\^[^\]]+\]:') if printed else facing.NOTE     # paragraphs: printed -> only a [^..]: definition is a footnote
     paras = [p.strip() for p in re.split(r'\n\s*\n', body) if p.strip()]
     paged = bool(re.search(r'\[(p\. [^\]]+|scan \d+|PDF \d+)\]', body))      # texts without any page marks: boxes per section
     cards, toc = [], []
@@ -217,7 +251,27 @@ def render(path):
         skip = 1
     if len(paras) > 1 and paras[1].startswith('Conventions:'):
         skip = 2
-    for p in paras[skip:]:
+    noorig = not mono and not any(p.startswith('>') for p in paras[skip:])   # English-only edition: the English column carries the text
+    cutstart, pnote = set(), {}                    # paragraphs: printed -> each pair is cut at the marks both sides carry
+    if printed:
+        out, i = paras[:skip], skip
+        while i < len(paras):
+            p, nxt = paras[i], (paras[i + 1] if i + 1 < len(paras) else None)
+            if p.startswith('>') and nxt is not None and not nxt.startswith(('>', '#')) and nxt != '⁂' \
+                    and not re.fullmatch(r'\[(p\. [^\]]+|scan \d+|PDF \d+)\]', nxt):
+                o = '\n'.join(l[2:] if l.startswith('> ') else l.lstrip('>') for l in p.split('\n'))
+                on, en = bool(NOTE.match(' '.join(l.lstrip('> ').strip() for l in p.split('\n')))), bool(NOTE.match(nxt))
+                for k, (a, b) in enumerate(cut_pair(o, nxt)):
+                    if k:
+                        cutstart.add(len(out)); pnote[len(out)] = on; pnote[len(out) + 1] = en
+                    out += ['\n'.join('> ' + l for l in a.split('\n')), b]
+                i += 2
+            else:
+                out.append(p); i += 1
+        paras = out
+    for ix, p in enumerate(paras):
+        if ix < skip:
+            continue
         mk = re.fullmatch(r'\[(p\. [^\]]+|scan \d+|PDF \d+)\]', p)
         if mk:
             new_card(mk.group(1)); continue
@@ -233,19 +287,31 @@ def render(path):
         if p.startswith('>'):
             txt = ' '.join(l.lstrip('> ').strip() for l in p.split('\n'))
             m2 = re.search(r'\[(?:p\. |scan |PDF )([^\]]+)\]', txt)
-            if m2 and (cur['o'] or cur['e']) and not NOTE.match(txt):   # one box per page: the paragraph in which a page begins opens it
+            note = pnote[ix] if ix in pnote else bool(NOTE.match(txt))
+            if m2 and ix in cutstart and (cur['o'] or cur['e'] or cur['on'] or cur['en']):    # a piece cut at a page mark opens that page's card
+                new_card(m2.group(0)[1:-1])
+            elif m2 and (cur['o'] or cur['e'] or (printed and (cur['on'] or cur['en']))) and not note:   # one box per page: the paragraph in which a page begins opens it
                 new_card(m2.group(0)[1:-1])
             elif m2 and not cur['label']:
                 cur['label'] = m2.group(0)[1:-1]
+            elif m2 and printed and not (cur['o'] or cur['e'] or cur['on'] or cur['en'] or cur['h']):   # nothing on the page before: the mark names this page
+                cur['label'] = m2.group(0)[1:-1]
+            if printed and m2 and txt.startswith(m2.group(0)) and cur['label'] == m2.group(0)[1:-1]:
+                txt = txt[len(m2.group(0)):].lstrip()           # the card's label already carries the mark
             if txt:
-                cur['on' if NOTE.match(txt) else 'o'].append(f'<p>{md_inline(txt)}</p>')
+                cur['on' if note else 'o'].append(f'<p>{md_inline(txt)}</p>')
             continue
         im = re.search(r'\[(?:p\. |scan |PDF )([^\]]+)\]', p)
         if mono and im and (cur['e'] or cur['h']):
             new_card(im.group(0)[1:-1])
+        elif noorig and im and not NOTE.match(p) and (cur['e'] or cur['h']):      # a paragraph holding a page mark opens that page's card; its first mark labels it
+            new_card(im.group(0)[1:-1])
         elif im and not cur['label']:
             cur['label'] = im.group(0)[1:-1]
-        cur['en' if NOTE.match(p) else 'e'].append(f'<p>{md_inline(p.replace(chr(10), " "))}</p>')
+        etxt = p.replace(chr(10), ' ')
+        if printed and im and etxt.startswith(im.group(0)) and cur['label'] == im.group(0)[1:-1]:
+            etxt = etxt[len(im.group(0)):].lstrip()
+        cur['en' if pnote.get(ix, NOTE.match(p)) else 'e'].append(f'<p>{md_inline(etxt)}</p>')
     for c in cards:
         if not c['label']:
             m2 = re.search(r'\[(?:p\. |scan |PDF )([^\]]+)\]', ' '.join(c['o'] + c['e']))
@@ -307,16 +373,34 @@ def render(path):
     return rel, h, len(cards)
 
 
-def order_key(x):
-    m = re.search(r'^order: (.*)$', open(x).read(), re.M)
+def order_key(item):
+    x, folder = item
+    m = re.search(r'^order: (.*)$', open(f'{folder}/edition.yaml' if folder else x).read(), re.M)
     return (os.path.dirname(x), [float(t) if re.fullmatch(r'\d+(\.\d+)?', t) else 0 for t in (m.group(1).split('.') if m else [])], x)
 
 
+def sources():
+    """(path, folder) of every text: a plain <name>.md, or a folder with edition.yaml standing for <name>.md"""
+    def found(pattern):
+        files = [(f, None) for f in glob.glob(pattern + '.md')]
+        dirs = [d for d in glob.glob(pattern) if os.path.exists(f'{d}/edition.yaml')]
+        for f, _ in files:
+            if f[:-3] in dirs:                    # a stale interleaved file beside the edition's folder: the folder is the source
+                print(f'warning: {os.path.relpath(f, C)} and {os.path.relpath(f[:-3], C)}/ both exist; using the folder', file=sys.stderr)
+        return [(f, d) for f, d in files if not os.path.exists(f'{os.path.dirname(f)}/edition.yaml') and f[:-3] not in dirs] + \
+               [(d + '.md', d) for d in dirs]
+    return sorted(found(f'{C}/*')) + sorted(found(f'{C}/*/*'), key=order_key)
+
+
 entries, resources = [], []
-for f in sorted(glob.glob(f'{C}/*.md')) + sorted(glob.glob(f'{C}/*/*.md'), key=order_key):
+for f, folder in sources():
     if os.path.basename(f) in ('README.md', 'PROJECT-INSTRUCTIONS.md') or '/glossaries/' in f or '/notes/' in f:
         continue
-    rel, h, n = render(f)
+    text = facing.merge_dir(folder) if folder else open(f).read()
+    rel, h, n = render(f, text)
+    if '/resources/' not in f:                    # every merged edition, for uploading to a Claude Project
+        os.makedirs(os.path.dirname(f'{O}/facing/{rel}.md'), exist_ok=True)
+        open(f'{O}/facing/{rel}.md', 'w', encoding='utf-8').write(text)
     (resources if '/resources/' in f else entries).append((rel, h))
     print(rel, n, 'cards')
 resources.sort(key=lambda e: e[1].get('title', '').lower())

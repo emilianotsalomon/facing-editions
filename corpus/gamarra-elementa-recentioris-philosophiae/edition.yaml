@@ -1,0 +1,15 @@
+title: Elementa recentioris philosophiae, vol. I
+title_en: Elements of Modern Philosophy
+author: Juan Benito Díaz de Gamarra
+year: 1774
+original_language: la
+translation_language: en
+edition_layout: photocopy (scan beside the English)
+source: recovered from the PDF ‘Gamarra - Elementa recentioris philosophiae (Latin-English facing edition).pdf’ (the page files were not kept) — THIS FILE IS THE SOURCE, corrections go here
+original_text: not in this file (scan only — see the PDF edition)
+translation: machine-made (Claude), reviewed against the original by Claude; no human review
+pages: 544
+genre: Latin American philosophy
+generated: 2026-10-24 by corpus.py
+heading: "# Juan Benito Díaz de Gamarra, *Elementa recentioris philosophiae, vol. I* (1774) — *Elements of Modern Philosophy*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."

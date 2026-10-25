@@ -1,0 +1,16 @@
+title: Grundriß der Ersten Logik
+title_en: Outline of First Logic
+author: C. G. Bardili
+year: 1800
+original_language: de
+translation_language: en
+edition_layout: photocopy (scan beside the English)
+paragraphs: printed
+source: original.md shared from a member's library; en.md realigned to the printed paragraphs by tools/realign.py from the page-file translation (this folder is now the source)
+original_text: transcription of the print (Sonnet, from page images of a Google Books copy of the 1800 edition), printed paragraphs; page labels matched to this edition's scan
+translation: machine-made (Claude), reviewed against the original by Claude; no human review
+pages: 374
+genre: Logic
+generated: 2026-10-24 by corpus.py
+heading: "# C. G. Bardili, *Grundriß der Ersten Logik* (1800) — *Outline of First Logic*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."

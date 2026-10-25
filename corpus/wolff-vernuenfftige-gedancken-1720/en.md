@@ -1,0 +1,6331 @@
+[scan 2]
+
+Reasonable
+
+## Thoughts
+
+on
+
+## GOD,
+
+the
+
+## World,
+
+and the
+
+## Soul of Man,
+
+and on All Things in General,
+
+Communicated to the Lovers of Truth
+
+by
+
+## Christian Wolff,
+
+Royal Prussian Court Councillor and Professor Publicus Ordinarius of Mathematics and Natural Philosophy,
+
+Member of the Royal Society of Great Britain and of the Royal Prussian Society of Sciences.
+
+With Royal Polish and Electoral Saxon Most Gracious Privilege.
+
+HALLE, 1720.
+
+To be had at the Renger Bookshop.
+
+[scan 4]
+
+## Preface.
+
+Gentle Reader,
+
+Understanding, virtue and health are the three principal things after which men ought to strive in this world. Yet in general nothing is less regarded than these three. And whoever considers the present unhappy times sees how they arise from a lack of understanding and of virtue. People who are children in understanding but men in malice plunge [scan 5] many into great misfortune and ruin. Truly! I am astonished at the hideous picture in which I behold them when they are to uphold right and justice, or to give counsel for the good ordering of the commonwealth. Since from my youth I have felt in myself a great inclination towards the human race, so that I would have made everyone happy, if it had lain with me; I have also never let anything lie closer to my heart than to devote all my forces to this end, that understanding and virtue might increase among men; and since I have come to know these excellent specimens of the degenerate race not without acute pain, I have been fired the more in this zeal, indeed I shall not desist from it so long as [scan 6] a drop of blood stirs in my body. From this impulse too come the present thoughts on God, the world and the soul of man, and on all things in general, into the light of day, and they are now to be accompanied, in an unbroken series and by degrees, by others which shall set before the eyes the cognition of the happiness of the human race and of the wondrous works of God in nature. In the matter which I now treat there has hitherto been much darkness and disorder. There has been a lack of distinct concepts, thorough demonstrations and connection of the truths with one another, so that many truths have even been held for errors and rejected as contradicting others, which yet not only have their [scan 7] full correctness, but are to be counted among the most important and useful. I have accordingly endeavoured to remedy this deficiency, and above all have aimed at this, that I would speak of no thing of which I had not first advanced a distinct concept. In this, however, I have kept to the rules which are to be found partly in the first, partly in the second chapter of the *Reasonable Thoughts on the Powers of the Understanding*. Whoever therefore wishes to examine the definitions which I have given will first be pleased to go through the two chapters just mentioned with care, and then to hold my definitions given in the present work against the rules found there. Then am [scan 8] I assured that he will not only understand the matter well and rightly grasp my meaning, but will also be left with no doubt as to its correctness. I know well that this labour will seem far too burdensome to many, because they would gladly read this book as easily as they are accustomed to read others; but they must also be content that they do not understand everything, nor attain that insight into the truths set forth therein to which they would have come had they taken up the matter in right earnest. It is certainly no small thing if we have distinctness in the first general concepts: for hereby a light is kindled for us that shines upon us in all our cognition, be we either [scan 9] concerned with the sciences or with the occupations of human life. Besides this I have also taken pains to accept nothing without proof: for everything that I have asserted is either grounded in clear experiences or proved by sound inferences. What is grounded in experience one can examine by the rules of experience which I gave in the *Thoughts on the Powers of the Understanding*, in the fifth chapter; then one will, it is hoped, find nothing questionable in it. If one wishes to bring the proofs in due order into the syllogisms of which they consist, one will find that nothing has been assumed which had not already received its correctness. Whoever even merely glances over the proofs cursorily, to him will [scan 10] the *citationes* found everywhere show that everything is always taken from what precedes. But above all I have looked to this, that all truths should hang together with one another, and the whole work be like a chain, in which one link always hangs on the next, and in this way each hangs together with all. The *citationes* found everywhere will likewise show this sufficiently. And accordingly I think I have remedied the errors which have hitherto been made in the matters that are treated here. While I was writing the book, I constantly behaved as if I still knew nothing of all these things, but was first to bring them out by reflection. And therefore all [scan 11] matters are to be found in the order in which they can be discovered gradually from one another. Whoever attends to this will be able to show, for each article, the ground why it follows upon the other, and will find order in what might otherwise appear to him disorderly. Now as this book has been written in a constant connection of one truth with the other, so it must also be read in unbroken order from beginning to end. And since it will also be found demonstrated herein that nature makes no leap, it will be especially necessary that one read this book by degrees with due attention and reflection. Whoever does this will have the pleasure of it, that he comes to a distinct [scan 12] and thorough cognition of the most important truths, and in particular will also have the joy of being able to refute thoroughly the most harmful and dangerous errors of those who think themselves stronger in understanding than others and hold themselves unconquerable, and to answer with vigour the objections against natural and revealed religion. At first, to be sure, I had proposed to leave the question of the community of the body with the soul, and of the soul with the body, entirely undecided; but since the grounds laid in the second chapter led me, contrary to expectation, quite naturally to the pre-established harmony of Mr von Leibniz [scan 13] I have also retained it, and set it in such a light as this ingenious discovery has never had before. I have looked solely to the truth, and have therefore not troubled myself whether it is old or new; but have taken into my chain everything that could be connected with it as a link. For I can candidly confess that in what the ancients knew I find more thoroughness, on mature reflection, than is commonly to be met with in what is nowadays given out as new. Meanwhile I am no worshipper of antiquity; but accept just as willingly what the moderns add, and what my own reflection puts into my hand. How much the cognition of the truths which I [scan 14] have set forth here contributes to the promotion of virtue will soon appear, when I shall explain thoroughly their nature and constitution through the nature of the soul. Meanwhile I wish every one who shall read the present book patience and attention, so that he may thoroughly see into everything that is set forth here and apply it to the manifold use which can grow from the cognition of truths so important and so deeply hidden!
+
+Halle, the 23rd of December 1719.
+
+[scan 15]
+
+## Contents
+
+#### of the Whole Book.
+
+#### Chapter 1.
+
+#### How we know that we are, and what use this cognition is to us.
+
+#### Chapter 2.
+
+#### On the first principles of our cognition and of all things in general.
+
+#### Chapter 3.
+
+#### On the soul in general, namely what we perceive of it.
+
+#### Chapter 4.
+
+#### On the world.
+
+#### Chapter 5.
+
+#### On the essence of the soul and of a spirit in general.
+
+#### Chapter 6.
+
+#### On God.
+
+[scan 16]
+
+#### Christian Wolff’s,
+
+Royal Prussian Court Councillor and *Prof. Publ. Ordinarius*, Member of the Royal Society of Great Britain and of the Royal Prussian Society of Sciences,
+
+## Notice
+
+#### of how he intends in future
+
+#### to deal with the
+
+## Objections
+
+#### that are made against his
+
+#### writings.
+
+Halle in Magdeburg, in the year 1720.
+
+#### To be had at the Renger Bookshop.
+
+[scan 17]
+
+#### Prov. XVII. 28.
+
+Even a fool, when he holdeth his peace, is counted wise: and he that shutteth his lips is esteemed a man of understanding.
+
+[scan 18]
+
+## Notice
+
+#### concerning the Objections.
+
+§. 1.
+
+My intention is to bring the sciences into better order and greater certainty, so that understanding and virtue may increase, to the felicity of the human race. From this purpose has flowed what I have so far given to the public press, and what, if God preserves my life and health, I shall further contribute to that end. I have also had the pleasure so far that many have been edified by my writings, and have not only received them well, but even to this hour encourage me to continue in my undertaking.
+
+[margin: The author’s intention.]
+
+§. 2.
+
+Now although I have had the good fortune that those who have gained the greatest standing in the learned world have been pleased with my
+
+[margin: Why he does not find the objections] [p. 4] writings, I still cannot promise myself on that account that they will please everyone: for otherwise there would no longer be any difference to be found among those who are called learned. And for that reason I shall also not find it strange if some declare publicly that they are of another opinion than I, or even imagine that they could raise some objection with good ground against what I maintain, although they have not yet learned to understand what, according to their opinion, they undertake to refute. It has always been so in the learned world, and will probably always remain so, so long as there are people who think to attain by finding fault that fame which the intelligent set merely upon *making better*.
+
+[margin: strange.]
+
+§. 3.
+
+But the question now arises here whether, and how far, one is bound to answer objections that have been made. And this it is which I have now proposed to decide: so that it may be known in future for what causes I do not enter into dispute with people who have a taste for quarrelling, or even think to earn something by such controversial writings, and so that they may therefore not take
+
+[margin: The question to be treated here.] [p. 5] occasion to triumph, as if they could not have been answered. Yet since I care nothing for the judgement of the foolish, but hold it for no small praise when I am despised by them (for because everyone judges according to his own concept, I should be sorry if I were the man whom they regard as something), it can be all one to me if they esteem themselves great heroes and are pleased with this in their error. Since they are after all capable of no other happiness, I will very gladly grant them this joy.
+
+§. 4.
+
+I therefore declare myself once for all, and shall also constantly maintain, that I will, 1. answer with all modesty when objections are brought forward which serve to elucidate the propositions I have asserted, and through the examination of which a new light is kindled, which helps me as well as others to a deeper insight into the truth. And indeed it will be all the same to me whether the objections are communicated only in writing, or in public print. For since my principal purpose aims at nothing else than the truth, which has either been discovered by others or is added by me,
+
+[margin: The author undertakes to answer objections that give somewhat more light on the matter.] [p. 6] to put beyond all doubt: it must be agreeable to me if I find occasion to remove the doubts which may still arise in some on this, especially since this never goes off without use, but gives occasion for many thoughts which one would not otherwise have come upon by oneself for lack of occasion.
+
+§. 5.
+
+Meanwhile I also stipulate in this connection that he who makes an objection desire nothing other than that it be answered according to truth. For otherwise one does not attain the end which one ought to try to attain by the objections and their answers (§. 4.) Now since it is known that all objections arise from this, that one does not fully see into the matter and is therefore wont to ascribe to the other something that he does not maintain; so no one can take it as an affront or a gibe if he is shown that he has not fully understood the matter. For all answers to objections must come down to this, provided the matter is correct. Meanwhile this is done without coming too near the other’s honour: for even if he has not fully understood another’s opinion on some matter, he can nevertheless be an intelligent and
+
+[margin: Yet on a certain condition.] [p. 7] useful man. But should there be anyone who held this to be a disgrace, he must stay behind with his objections. For how can he demand that one say, to please him, that one has maintained what he alleges, when in fact it is not so? Whoever has love of truth cannot do this, even if he were ready to sacrifice his own honour to another who is greedy of vain honour. Truth suffers no respect of persons, and His Majesty the Tsar, in the letter most graciously sent to the Academy of Sciences at Paris, recognised very well that in the learned world there is quite another order of rank than in common life. Greater titles and offices give no precedence in the realm of truth. He who sits at the top in the realm of opinions must there very often count it an honour if he is permitted to sit below. To speak the truth in such words as the matter requires is not contrary to modesty: for otherwise modesty would have to do injury to truth, which can in no way be. One virtue cannot be contrary to another.
+
+§. 6.
+
+Since, then, I merely undertake to answer objections by which the
+
+[margin: He will pass over objections with] [p. 8] matter can be given somewhat more light (§. 4.), it follows of itself that I will, 2. pass over in silence those that flow from sheer lack of understanding, and whose incorrectness anyone who will look through them with care and hold them against my propositions can see at once without my reminding him. For since I have more necessary and more useful things to do in the world, no one will take it ill of me that I do not waste the time on such people as would have to be taught the first letters of the science, in order that they might become able to take the answer rightly. There is opportunity enough nowadays to learn something thorough, if one only has the desire and will apply diligence. But to him who has no patience for this, it will help little too if one enters into a dispute with him: for he will always want to stay with his five senses, and not comprehend what is said. Answers to objections cannot make the ignorant intelligent all at once, by a leap. One must begin at the right place if one wants to comprehend a thing, and understanding comes as little all at once as the body grows large from one meal.
+
+[margin: silence, those that flow from too great ignorance.]
+
+§. 7.
+
+Perhaps some will think here,
+
+[margin: It is replied to an] [p. 9] that one could under this pretext also pass over in silence objections which one does not know how to answer. Although I should indeed have to put up with it if someone placed in this matter a distrust in my sincerity (though one is not entitled to do so without sufficient reason), yet I am willing, for good measure, to give an account of my silence on demand at any time; and if anyone shall publicly produce the testimony of a man whom one holds to be knowledgeable in the matters, that he declares it necessary to answer them, also to refrain no longer from answering. I trust myself to maintain my cause against anyone, and I fear least of all those who do not understand it. Meanwhile it is not advisable to waste the time on useless controversial writings, which I can better apply to the carrying out of other matters. Besides, I have the maxim: when a fault is charged against a person by the ignorant, or even ignorance and lack of understanding are laid to his account, one ought to make it one’s concern to show the opposite by new proofs and thereby to refute in fact one’s slanderers or opponents, whatever they wish to be called. So let them come and do it better:
+
+[margin: objection.] [p. 10] then will there befall them, from the intelligent, the praise which they can never obtain with ungrounded charges. The rule stands firm in the realm of truth: One should not blame anything until one can do it better. But whoever can do it better will not desire to blame another. For who strives after a slight and often merely supposed renown, who can have a greater and well-grounded one? They are poor-spirited souls who think to gain praise by belittling the work of others! Each must be praised by his own work.
+
+§. 8.
+
+But I shall also take up with pleasure, in particular, the answering of objections that have been made, when they are put forward in a becoming manner, that is, without bitterness and with modesty, as befits intelligent and virtuous minds. For as understanding, learning and virtue ought to be joined together, so it is also no small disgrace when one wishes, in manners, to put oneself on a level with the lowest rabble, from whom one nevertheless supposes oneself to be distinguished by understanding. And in my judgement it is a greater praise to be able to moderate one’s affects and in one’s undertaking to show oneself virtuous
+
+[margin: He will answer objections that are put forward with modesty.] [p. 11] than to think that one knows ever so much. Knowledge which merely puffs up, and can subsist without virtue, at the same time indicates weakness of understanding. Indeed it is no lesser disgrace to be like the common rabble in manners than to have simple-mindedness in common with them. It is true that not all the learned, nor at all times, have recognised this truth: but this very fact shows that even their understanding does not reach the degree of perfection which they imagined they had attained. The more a scholar weighs his words in the goldsmith’s scales, so that they retain nothing of disagreeable affects, the more thorough the praise he will obtain from those to whose praise alone one has to attend. And certainly this demands no small degree of acuteness, and therefore indicates no little understanding.
+
+§. 9.
+
+And accordingly I must, 4. pass over in silence those objections which are put forward with immodesty and gibes. For if anyone has a taste for quarrelling, let him know that this is not my manner, and gladly leave him the honour that he can speak the language of the degenerate rabble better than I care to
+
+[margin: But not when they are put forward with immodesty.] [p. 12] speak. Indeed I will gladly leave him also the honour that he can use the tricks of this perverse race better than I desire to use them. To give room to one’s affects and thereby to forget one’s person, one’s rank and one’s dignity I hold to be nothing great: it takes very poor skill to put oneself in such a state. But when one is attacked without due cause by lesser people and sees what is good distorted and slandered, yet to be and remain master of one’s actions seems to me to be something more, which another must just as much leave undone as he must when he is to do better what he groundlessly censures out of lack of understanding. Certainly the ignorant and degenerate rabble can do neither of these two things; but to blame what one does not understand, and to become raving with mad affects so that one no longer knows what is becoming, are two things in which one will easily find a master among them, and one must therefore learn with sorrow that one has to acknowledge one’s master among the rabble, whom one could not endure among the better kind of the human race. It has also long since been recognised by the intelligent that commonly those who have a bad cause have [p. 13] and cannot defend themselves with sound grounds take to abuse. For my part I trust myself at all times to defend with sound grounds what I assert, and I need not put others in fear by any abusive words, so that they leave me untouched. Whoever must seize on this means, so as to make himself formidable by reviling and slander, his science and learning are, alas, in a very poor condition. Sound grounds are sharper goads than abusive words, before which an intelligent man firmly settled in virtue does not take fright. Those too are wont to counsel themselves very badly who consider it consonant with their honour to defend themselves against everyone, be he who he may. For by this very means worthless objections gain some standing with the ignorant, when they are thought worthy of an answer by the intelligent. No greater prank can be played on people who want to make themselves great by refutation than that they must remain standing before the door, with contempt for their worthless wares, and not be let in, however loudly they knock. Of this opinion was Kepler also, who had few above him in understanding. Let one read his [p. 14] writings to the famous mathematician Galileo, which is to be found among the letters written by him and to him, f. 98. & seqq., one will see how he seeks, by such representations, to dissuade this great man from answering a degenerate adversary who had neither renown in the learned world nor understanding on his side, but surpassed others merely in coarseness. “It is altogether the mark of a great mind (he says among other things) to value lightly and to despise even middling things: on the other hand, if you begin to wrangle with one, you will rouse the rest as well, and will give occasion everywhere for carping even to the trifling, if they have no hope concerning the aim itself. Besides, if you pass it over, you follow the custom of princes; but if you reply, you will descend again to the benches of the Scholastics. Yet you now have no one from whom to expect mad clamours: reply, reply, come down from the pulpit. Leave, therefore, to the School its own ways.” What a Kepler says counts for more with me than what a hundred cry out who are of feeble understanding. And who, in the end, does not know the proverb: the moon can well bear that the dogs bark at it?
+
+§. 10.
+
+But least of all shall I deem those worthy of a further answer who
+
+[margin: Those to whom he] [p. 15] wish to press opinions upon me by force, even when I have already explained how I wish my propositions to be understood; especially when it further happens that they begin to quarrel with unseemly words, because, in their opinion, not enough honour has been done them. For once for all it is certain that with such obstinate people one accomplishes nothing. Let one sing and say to them what one will, they remain with their accusations. Next to this, they are also not worth being instructed further, since they wish to pay the tuition fee in abusive words. Instruction deserves thanks and must be sought with good words. And whoever seeks thereby a standing among the learned, that one engages with him in a dispute, must not make himself unworthy of this benefit.
+
+[margin: will answer least of all.]
+
+§. 11.
+
+On this, now, I shall hold fast with God, and shall not let myself be disturbed, either in my reflection or in my virtuous conduct, by such low souls. Let one read my writings with care, and if one thinks it worth the trouble, hold the objections made against them beside them; then it will soon appear whether they have any ground,
+
+[margin: On this he will hold fast.] [p. 16] or not, and it will not be necessary for me to answer where the answer occurs of itself to everyone: but least of all will it be necessary to repeat the answer once given to repeated accusations. But should anyone conceive from this some suspicion against me, he is free to do so. I have always asked little after people who are only an echo of others, and shall not let grey hairs grow on me in future over this, that people who are not capable of looking into the matters themselves imagine something disagreeable of me. I can very well bear it if one despises what one does not understand, and I ask no one to be saddled with my opinions, any more than I let any be saddled upon me. Meanwhile I always reserve to myself the right to touch upon the objections and briefly to show what is to be thought of them, when occasion in my writings leads me to it. These remarks I have thought necessary, since I am beginning to publish the grounds of philosophy, because I know very well that philosophy is commonly regarded as the true *Pomum Eridos*.
+
+Halle, the 20th of December 1719.
+
+[scan 32]
+
+#### Reasonable Thoughts
+
+on
+
+## God and the Soul
+
+#### of Man.
+
+#### Chapter 1.
+
+### How we know that we are, and what use this cognition is to us.
+
+§. 1.
+
+We are conscious of ourselves. No one who is not wholly deprived of his senses can doubt this: and whoever would deny it would be professing with his mouth something other than what he finds within himself, and could soon be convinced that his pretence is absurd. For how could
+
+[margin: How we know that we are.] [p. 1] he deny me anything or call it in question, if he were not conscious of it? But whoever is conscious of himself, that man is. And accordingly it is clear that we are.
+
+§. 2. Perhaps some will wonder; but others, who because of their not very deep insight cannot well manage with definitions and demonstrations, will quite laugh that I should first prove that we are! For there has never yet been a man under the sun who denied it: and if one went so far astray, he would not be worth refuting, because he would either be deprived of his understanding and so not know what he was saying, or would have to be so obstinate that he denied everything deliberately against his better knowledge. Hence also the most singular sect of the Egoists, which arose not long ago in Paris, and which denied of all things that they are, yet granted that *I am*.
+
+[margin: Whether there is cause to ask about it.]
+
+§. 3. I hope they will soon cease to wonder, when I tell them the causes that moved me to do this. In the Introduction on Philosophy, which is found at the beginning of my *Reasonable Thoughts on the Powers of the Human Understanding*, it has been remarked (§. 5) that a philosopher must know not only that something is possible
+
+[margin: The first cause.] [p. 3] or happens, but also be able to indicate the ground why it is possible or happens. Since we now have such certainty that we are, that we cannot call it in question in any way whatever, it is incumbent upon us also to show whence this certainty comes, since we intend to treat of philosophy.
+
+§. 4. And (which is the other cause) this inquiry has its very great use. For if I know why we have such great certainty that we are, then I know how something must be constituted for me to know it as certainly as that I myself am. But it is something great if I can say of important truths without fear: They are as certain as I am, or also, I know that they are as certainly as I know that I am.
+
+[margin: The other cause.]
+
+§. 5. In order that we may obtain this use, we must consider somewhat more closely in what manner we know that we are. When we do this, we find that our cognition in this respect is constituted as follows. 1. We experience indisputably that we are conscious of ourselves. (§. 1. huj. & §. 1. c. 5. Log.) 2. It is clear to us that he is, who is conscious. And hence 3. it is certain to us that we are.
+
+[margin: Consideration of the manner in which we know that we are.]
+
+[p. 1]
+
+§. 6. If we wish to know distinctly how we are convinced by these grounds that we are, we shall find that the following syllogism lies in these thoughts:
+
+[margin: By what sort of syllogism this happens.]
+
+Whoever is conscious of himself, is.
+
+We are conscious of ourselves.
+
+Therefore we are.
+
+§. 7. In this syllogism the minor premise is an indubitable experience (§. 1. c. 5. Log.), but the major premise belongs among those that are granted without any proof, as soon as one merely understands the words that occur in it; that is, it is an axiom (§. 2. c. 6. Log.).
+
+[margin: What this syllogism is like.]
+
+§. 8. Such a proof is a demonstration (§. 20. c. 4. Log.), and accordingly it is evident that everything that is rightly demonstrated is just as certain as that we are.
+
+[margin: What certainty a demonstration has.]
+
+§. 9. I have remarked not only in my *Thoughts on the Powers of the Human Understanding* (§. 23. & 24. c. 4.), but everyone who sets himself to analyse closely the proofs in geometry will find for himself, that in geometry too the proof is led up to such inferences in which the premises are of indubitable certainty and require no further proof. One sees therefore
+
+[margin: How certainly the geometrical truths are demonstrated.] [p. 5] that the geometrical truths are demonstrated as certainly as that we ourselves are, and consequently that everything that is demonstrated in the geometrical manner is as certain as that we ourselves are.
+
+#### Chapter 2.
+
+### On the first principles of our cognition and of all things in general.
+
+§. 10.
+
+In that we know that we are conscious of ourselves, and accept it as certain, this happens in fact for this reason, that we cannot possibly think that we should at once be conscious and not be conscious. Just so we find in all other cases that it is impossible for us to think that something is not, while it is. And in this way we admit, without any hesitation, this general proposition: Something cannot at once be and also not be. This proposition we call the *principle of contradiction*; and from it not only have syllogisms their certainty (§. 5. c. 4. Log.), but also by it a proposition that we experience is placed beyond all doubt, as we have just
+
+[margin: Principle of contradiction.] [p. 2] experienced this in our case, that we are conscious of ourselves.
+
+§. 11. Accordingly, for a contradiction it is required that what is affirmed be at the same time also denied. And in this way it is necessary that the thing of which something is affirmed be not only the very one of which something is denied, but that this one thing also be taken both times under identical circumstances, or be regarded in an identical manner.
+
+[margin: Character of contradiction.]
+
+§. 12. Since nothing can at once be and not be (§. 10), one recognises that something is impossible if it contradicts that of which we already know that it is or can be, or also if, among the things that belong to it, one contradicts another. And in this way that is *impossible* which contains in itself something contradictory, as e.g. an iron wood. From which one further sees that that is *possible* which contains in itself nothing contradictory, that is, which not only can itself subsist beside other things that are or can be, but also contains in itself only such things as can subsist beside one another, as e.g. a wooden plate. For to be a plate and to be of wood do not contradict each other; but both can be at once.
+
+[margin: What is possible and impossible.]
+
+[p. 7]
+
+§. 13. For something to be, it is not enough that it contains nothing contradictory in itself. For if I am allowed, for the sake of distinctness, to give a quite common example, it is clear that a square table does not at once become round on that account, because to be square and to become round do not contradict one another, but both can very well subsist beside each other, in that we comprehend that the square thing gets a roundness when the corners are knocked off. Since now that which is possible contains nothing contradictory in itself (§. 12.), it is indeed more than clear that something is not yet on that account, because it is possible, and one cannot infer from possibility alone that it is or will be.
+
+[margin: What is possible, is not so on that account.]
+
+§. 14. Besides possibility, therefore, something more must be added if something is to be, whereby the possible receives its complement. And this complement of the possible is just what we call *actuality*. But wherein it consists, that is, how the possible comes to actuality, will be shown below in its place.
+
+[margin: What actuality is.]
+
+§. 15. Since nothing can become actual except what is possible (§. 14.), everything actual is therefore also possible, and from actuality to possibility one can always
+
+[margin: What is actual is possible.] [p. 2] infer without hindrance. Namely, if I see that something is, I can assume that it can be.
+
+§. 16. Everything that is possible, whether it be actual or not, we call a *thing*. If we therefore hold the impossible to be possible, we likewise call it a thing, but out of error, because it has in our view a semblance of possibility. And hence it happens that we are accustomed to call that which is in fact possible a possible thing, but that which has only the semblance of possibility an impossible thing. One could much rather call the former a *true* thing, but the latter an *imaginary thing* or an *apparent thing*.
+
+[margin: What a thing is.]
+
+§. 17. If I can put a thing B for the thing A, and everything remains as before, then A and B are *identical*: but if I put B for A and not everything remains as before, then A and B are *different* or diverse things.
+
+[margin: What is identical and what is different.]
+
+§. 18. Two things A and B are *similar* to one another if that by which one is to know them and distinguish them from one another is identical on both sides: on the other hand A and B are *dissimilar* things if that by which one is to know and distinguish them is different on both sides. In this way *similarity* is an
+
+[margin: What is similar and dissimilar.] [p. 9] agreement of that from which one is to know the things and distinguish them from one another.
+
+§. 19. Since it is of manifold use to comprehend distinctly what is similar, it will not be unserviceable if I elucidate it circumstantially by an example. Let us suppose that two houses had been built that are similar to one another in everything. We suppose further that someone is led blindfolded into the one house, so that he cannot see the district where it lies, and afterwards, when he looks around in the house, writes down with the greatest diligence everything one can perceive in it. Suppose finally that he, after the work is done, is led out again blindfolded and brought into the other, where he writes down with equal care everything he can perceive in it. If he now compares both, what he has noted down in the two houses, it will be identical, and he therefore could not know whether it was only one house, or whether it was two houses in which he had been.
+
+[margin: Example of similarity.]
+
+§. 20. Accordingly similar things cannot be distinguished from one another, except by bringing them together either actually, or by means of a third thing in thought, e.g. if one places
+
+[margin: How similar things are distinguished.] [p. 2] two similar clocks beside each other, or by representing to oneself two similar buildings in their different position: hence we also assumed in the example given that he who is to judge of the similarity is led blindfolded from one into the other. But if one brings together the things that have a similarity, one distinguishes them either by their magnitude or by their position: for although magnitude is indeed an internal difference, it cannot be counted among those things from which one knows and distinguishes things, because it cannot be comprehended by the understanding by itself but can only be given. For if I am to tell someone how great something is, I must tell him the ratio which it has to a certain measure known to him.
+
+§. 21. Since similar things can have in themselves, without detriment to their similarity, nothing except magnitude, by which they are distinguished, this can serve for a definition of magnitude, that it is the internal difference of similar things (§. 41. c. 1. Log.).
+
+[margin: What magnitude is.]
+
+§. 22. If I can put a thing B in the place of the other A without detriment to magnitude, then A and B are *equal* to one another. I say without detriment to magnitude: That
+
+[margin: Which things are equal.] [p. 11] is, that if B has been put for A, it is, in respect of magnitude, just as much as if I had kept A.
+
+§. 23. This definition is of great use in mathematics, especially in algebra, where one gets everything out by putting equal for equal. And in the same way it is with the definition that we gave above (§. 17.) of identical things, and this would appear still more throughout all the sciences, if one had already invented an art of resolution for them.
+
+[margin: Use of this definition.]
+
+§. 24. When many things together make one, that one is called a *whole*. The many things, however, are called, in respect of the whole, its *parts*.
+
+[margin: What a whole is. What parts are.]
+
+§. 25. Since now the parts taken together are the whole, the whole too must be equal to its parts taken together: for how could a thing not be equal to itself?
+
+[margin: The whole is equal to its parts taken together.]
+
+§. 26. That which is equal to a part of another is smaller; that, on the other hand, whose part is wholly equal to the other is greater.
+
+[margin: What is greater and smaller.]
+
+§. 27. Since therefore every part of the whole is equal to a part of the whole, that is, to itself, the whole must be greater than each of its parts.
+
+[margin: The whole is greater than its part.]
+
+[p. 2]
+
+§. 28. What neither is nor is possible is called *Nothing*, and therefore something cannot come from nothing. For otherwise the impossible would have to become possible, which runs counter to the principle of contradiction.
+
+[margin: What nothing is.]
+
+§. 29. If a thing A contains something in itself from which one can understand why B is, B may be either something in A or outside A; then that which is to be found in A is called the *ground* of B; A itself is called the *cause*, and of B one says it is *grounded* in A. I will elucidate it by an example. If I inquire how it came about that everything in the garden grew quickly, and find that this is to be ascribed to the warmth of the air, then the warmth is the ground of the quick growth, and the air, in so far as it is warm, the cause; but the quick growth is grounded in the warm air. Again, if I want to go out, because the weather is fine, then the representation of the fine weather is the ground of my willing, and the soul, which makes this representation for itself, the cause of the willing: the beauty of the weather is the ground of my going out, and the weather, in so far as it is fine, a cause of my going out.
+
+[margin: What the ground is, and what is called grounded.]
+
+[p. 13]
+
+§. 30. If in a thing something can be or happen without there being found, either in itself or in another, a ground why this happens, then this would have to arise from nothing. But since it is impossible that something can come from nothing (28.), everything that is must have its sufficient reason why it is. This proposition we will call the *principle of sufficient reason*. Mr von Leibniz has demonstrated the importance of this proposition, on which Archimedes already long ago founded his doctrine of equilibrium or the horizontal position of heavy bodies, only in our days, by splendid proofs, both in his *Theodicy* and in the letters which he exchanged with the Englishman Clarke on some disputed points. He assumed it as a proposition grounded in experience, against which one can produce no example, and therefore he gave no proof, although Clarke demanded one.
+
+[margin: Principle of sufficient reason.]
+
+§. 31. I demonstrate this proposition also in the following way. Take two things A and B that are identical. If something can be that has neither in the thing itself nor outside it a sufficient reason why it is, then in A there can
+
+[margin: Further proof of it.] [p. 2] occur a change that does not follow in B if one puts B for A in its place. In this way B is not identical with A (§. 22.). Since, then, from the very assumption that A is identical with B it follows that it is not identical with B, if one does not let the principle of sufficient reason hold; but since, on the other hand, it is impossible that something can at once be and not be (§. 10), that proposition must have indisputable correctness, that is, it is true: everything has its sufficient reason why it is.
+
+§. 32. If one accordingly can distinguish manifold things in one thing from one another, then one of them must contain the ground in itself why the rest belongs to it, and, because this again cannot have its ground, why it belongs to the same thing, in one of the rest (as it is very easily comprehended through the principle of contradiction (§. 10)), it must belong to it necessarily. For what is necessarily so needs no further ground why it is so.
+
+[margin: How that is constituted which belongs to a thing.]
+
+§. 33. That in which the ground is to be found of the rest of what belongs to a thing is called the *essence*. Whoever therefore knows the essence of a thing can indicate the ground of everything that belongs to it.
+
+[margin: What the essence is.]
+
+[p. 15]
+
+§. 34. That which contains the ground of the rest in itself is the first that can be thought of a thing. That which is grounded in it cannot be posited sooner: for with that the beginning must be made from which I can know why the other is. Thus the essence is the first that can be thought of a thing.
+
+[margin: The essence is the first in a thing.]
+
+§. 35. But nothing can be thought of a thing sooner than how it is possible: for just on that account it is a thing, because it is possible (§. 16). Hence the essence of a thing is its possibility, and he understands the essence who knows in what manner a thing is possible.
+
+[margin: In what it consists.]
+
+§. 36. If that which is opposed to a thing contains in itself something contradictory, then that same thing is *necessary*. Since now that which contains something contradictory in itself is impossible (§. 12), that is impossible which is opposed to something necessary; and if that which is opposed to a thing is impossible, then that same thing is necessary.
+
+[margin: What is necessary.]
+
+§. 37. In order that one may represent to oneself better what is necessary, because very much depends on it, as will sufficiently appear
+
+[margin: Illustrated by examples.] [p. 2] below, I will illustrate it with one example and another. E.g. if I say: twice two is four; then the opposed proposition is, twice two is not four, or twice two is more or even less than four. Since one can now demonstrate that the latter is impossible, the proposition, twice two is four, is necessary. And of such a kind are all propositions about numbers in arithmetic. Again, if I say: a triangle has three angles; then the opposed proposition is, a triangle has not three angles, that is, it has more or fewer than three angles. Since one can now demonstrate that the latter proposition, a triangle has more than three angles, is impossible, or contradicts the definition of the triangle, it is necessary that a triangle has three angles. And of such a character are all truths in geometry.
+
+§. 38. What is possible cannot at the same time be impossible (§. 10) and, if something is possible in a certain manner, it cannot at the same time be impossible in such a manner (§. cit.). Now the essence of a thing consists in this, that it is possible in a certain manner (§. 35) and therefore the essence is necessary (§. 36).
+
+[margin: The essence of things is necessary.]
+
+[p. 17]
+
+§. 39. What is necessary is also *eternal*, that is, it can have neither beginning nor end. For if something is necessary, it is impossible that it cannot be (§. 36). But if it had a beginning or an end, it could also not be.
+
+[margin: What is necessary is eternal.]
+
+§. 40. Since now the essence of things is necessary (§. 38), it is also eternal, that is, one can set no time at which a thing began to be possible, and at which it will cease to be possible.
+
+[margin: The essence is eternal.]
+
+§. 41. Again, what is necessary is *unchangeable*. For if it could be changed, it could also not be: which runs counter to necessity (§. 36).
+
+[margin: What is necessary is unchangeable.]
+
+§. 42. Therefore, since the essence of a thing is necessary (§. 38), it is also unchangeable. But if I can think a possible change in the essence of a thing, then thereby the essence of the thing has not been changed, but I have only through the cognition of it come to the cognition of the essence of another thing. E.g. the essence of a triangle consists in this, that the space is enclosed by three sides. It is possible that one can take four sides instead of three sides and enclose a space: but thereby the essence of the triangle is
+
+[margin: The essence is unchangeable.] [p. 2] not changed, for if four sides enclose a space, one has a quadrilateral, and therefore another thing.
+
+§. 43. Because the essence of a thing is unchangeable, and the thing no longer remains the same thing if something in its essence is changed (§. 42), it can be comprehended that the essence of one thing cannot be communicated to another, that is, it is not possible that a thing should, besides its own essence, also get the essence of another thing and yet remain the one thing. Indeed, because everything that belongs to a thing and is different from its essence must have its sufficient reason in its essence (§. 32. 33), so nothing can be attributed to a thing that is not grounded in its own essence, but in the essence of another thing.
+
+[margin: Nothing foreign can be communicated to an essence.]
+
+§. 44. What is grounded solely and alone in the essence of a thing is called an *attribute*. And so the attributes cannot be separated from a thing, and are, as well as the essence itself, unchangeable.
+
+[margin: What an attribute is.]
+
+§. 45. If we pay heed to ourselves, we shall find that we are conscious of many things as outside us. But we posit them outside us in that we know that they are distinguished from us:
+
+[margin: What is outside us and outside one another.] [p. 19] just as we also posit them outside one another, in that we know that they are distinguished from one another. Everyone will find in himself that, as soon as he assumes that different things are to be at once, he represents one to himself outside the other; and just for this reason, because it is impossible for him to think that two different things could be one alone (§. 10. 17), it is also impossible for him to represent one in the other.
+
+§. 46. In that now many things that are at once, and of which one is not the other (§. 17.), are represented as outside one another, there arises thereby among them a certain order, such that, if I take one of them as the first, then another becomes the second, yet another the third, and another the fourth, and so on. And as soon as we represent this order to ourselves, we represent *space* to ourselves. Hence if we wish to regard things in no other way than as we know them, we must take space for the order of those things that are at once.
+
+[margin: What space is.]
+
+§. 47. In this way every thing gets a certain manner of how it is at once with others, so that none among the rest is, in just the same manner, at once with the others.
+
+[margin: What place is.]
+
+[p. 2]
+
+And just this is what we are accustomed to call the *place* of a thing.
+
+§. 48. It would be possible to show here also what the position of one thing toward another, the distance of one from another, the regions and the like are: but since I fear that many of them, indeed most of them, would hold this for useless subtleties and be deterred thereby from the cognition of what follows, and the definitions of these things are not exactly necessary if one wants to understand what follows, I have for this time preferred to set it aside, and to reserve it for another occasion.
+
+[margin: Why position, distance and regions are not defined.]
+
+§. 47. But from what has been said about place it is easy to see that place changes nothing in a thing, since it has nothing at all to do with its interior; whereas it is nevertheless distinguished both from it and from the place of another thing, though from the latter merely in number and magnitude (§. 17).
+
+[margin: How place is constituted.]
+
+§. 50. And hence it is possible that every thing can take the place of another: for neither in the one nor in this other is it grounded why it must be in precisely this place. But since nothing can be that has not its sufficient reason why it is (§. 30), then
+
+[margin: Why a thing is in this place.] [p. 21] the ground must be found elsewhere; which is to be investigated in what follows.
+
+§. 51. All these things of which we are conscious as outside us consist of many parts: for we find in each many things which we can distinguish from one another: and these many things taken together make up yet only one thing, because the parts are connected with one another (§. 24). Such a thing consisting of many parts we call a *composite thing*.
+
+[margin: What composite things are.]
+
+§. 52. Every composite thing must necessarily fill a space. For it consists of parts, of which each is distinguished from the other (§. 51): since now one part is outside the other (§. 45), they are in a certain order with one another, such that, if one takes one part for the first, another becomes the second and yet another the third, and so on. Therefore they fill a space (§. 46), and each of them has its own particular place.
+
+[margin: Why they fill a space.]
+
+§. 53. If we represent to ourselves many things that are distinguished from one another in one, then we have a concept of extension in length, breadth and thickness. Since now every composite thing has many parts together in one,
+
+[margin: That they are extended in length, breadth and thickness, and what this extension is.] [p. 2] which are all distinguished from one another (§. 51), it must also be extended according to length, breadth and thickness: and conversely it is also clear that what is extended according to length, breadth and thickness must be a composite being.
+
+§. 54. In that limits are set to this extension, a figure arises from it. And so no thing can have a figure except what is extended according to length, breadth and thickness. Since now all composite things have such extension, all composite things have a figure.
+
+[margin: Why they have a figure and what this is.]
+
+§. 55. Since the parts in a composite thing do not necessarily occupy their place (§. 50), one can be separated from the other, and in this way such things can be divided, and indeed so long as they are composed of others.
+
+[margin: Why they can be divided.]
+
+§. 56. Just from this it is evident that one part can be put into the place of another, and the other in turn into the place of the first, that is, that the parts can be displaced.
+
+[margin: Why the parts can be displaced.]
+
+§. 57. The change of place we call *motion*. And if we pay heed to what we are conscious of, we find that, in the things that appear outside us, it also actually
+
+[margin: What motion is.] [p. 23] takes place. A thing is therefore moved in that it is at once with others in the manner in which others were formerly at once with them (§. 47).
+
+§. 58. If the parts follow one another in their order in such a way that one can put between them no others in a different order, one says it goes on without a break, and a thing composed in such a way is called a *continuous* thing. E.g. if on the surface of a polished glass the shining parts follow one another in such a way that one can put between them no others without shine, or of less shine, in a different order, then the glass has a continuous shine, or the shine goes on without a break. But if between the shining parts others that do not shine lie, then the shine is interrupted.
+
+[margin: What continuity is.]
+
+§. 59. A composite thing is possible by the fact that certain parts can be composed in a certain manner. And so its essence consists in the manner of composition (§. 35.), and whoever therefore can represent this to himself understands its essence.
+
+[margin: In what the essence of a composite thing consists.]
+
+§. 60. From this one sees that composite things are similar to one another when they have been composed in one and the same manner of similar parts (§. 8.).
+
+[margin: When composite things are similar to one another.]
+
+[p. 2]
+
+But the similarity of the parts is again judged from their composition.
+
+§. 61. A composite thing has its determinate magnitude. For magnitude is nothing other than the multitude of the parts. Since now every composite thing has its certain parts, and these are composed in a certain order, it must also thereby get a certain or determinate magnitude.
+
+[margin: That they have a determinate magnitude, and what this is.]
+
+§. 62. Everything that has its determinate magnitude can be measured. For one can take one among these things for a unit (which one is accustomed to call the *measure*) and examine by this the ratio of the rest of just the same kind, that is, how many times the magnitude of the measure is contained in the magnitude of the other things. From which one sees that the measure must be of one and the same kind with what is measured.
+
+[margin: What can be measured, and what measuring is.]
+
+§. 63. Because in the consideration of magnitude one looks merely at the multitude of the parts (§. 61.), by which a composite thing fills its space (§. 52.), one represents to oneself, in considering magnitude, as if the parts in the space went on uninterruptedly, and were equal and identical among themselves.
+
+[margin: How magnitude is considered.]
+
+§. 64. Composite things can arise and cease. Their essence consists
+
+[margin: That composite] [p. 25] solely in the composition of the parts (§. 59). Since now the parts do not necessarily occupy their place (§. 50), it is possible that some can come together in a manner in which they were not before beside one another, and in this way a composite thing arises. Just for that reason it is also possible that some that are beside one another in a certain manner can again come out of this order, and in this way a composite thing ceases.
+
+[margin: things arise and cease.]
+
+§. 65. A composite thing can become greater and smaller. For because the parts do not necessarily occupy their place (§. 50), more can be added to them, or some also depart from them. Since now magnitude consists in the multitude of the parts (§. 61.), a composite thing thereby becomes greater or smaller.
+
+[margin: How they become greater and smaller.]
+
+§. 66. This can happen without the essence of a thing being changed. For since magnitude does not remove similarity (§. 21), the parts in composite things can be enlarged without their similarity being altered. And because their magnitude does not hinder their still remaining composed in the same order as before, a composite thing remains, after its enlargement has taken place, similar to
+
+[margin: Without their essence being changed.] [p. 2] itself (§. 60.) and therefore the manner of composition as before, and consequently the essence unchangeable (§. 59.). In the same way one can comprehend that a composite thing can be made smaller without its essence being changed.
+
+§. 67. But it is well to note that in judging the composition one goes no further than until one comes to such parts as are not, in the present case, to be regarded further than that they continue uninterruptedly. E.g. in judging the composition of a clock one goes no further than until one comes to the matter of which the wheels and other parts are made. For what composition of the parts there is in the matter need not be examined here: because matter is chosen on no other ground than that its parts continue uninterruptedly.
+
+[margin: What caution is to be used in this.]
+
+§. 68. By parts being added and taken away, the figure of a composite thing can be changed. For unless the new parts are added all round in a similar manner, or taken away, the extension gets other limits, and the figure is accordingly changed (§. 54.). But one can very easily judge whether the parts all round in a similar
+
+[margin: A composite thing can change its figure.] [p. 27] manner added or taken away, or not. For if one takes a point within the circumference, and draws straight lines to other points on the circumference, then, accordingly, the points of the new circumference, which lie in the same regions as the former, must also have proportional distances from the middle point; as if, e.g., one point in the new circumference lies twice or three times as far from the middle one as before, then all the remaining points in the new circumference must also lie twice or three times as far from the middle one as before.
+
+§. 69. The figure of a composite thing can also be changed merely by the parts being put into another order. For thereby its extension gets other limits, and in this way another figure arises (§. 54).
+
+[margin: This is further confirmed.]
+
+§. 70. If the figure is changed in the parts that in the composition one regards no further than that they go on without a break, the essence is not thereby changed: which is evident from what was remarked above (§. 67.).
+
+[margin: When the change of the figure of the parts does not change the essence.]
+
+§. 71. Just from this it is clear that the essence of a composite thing is not changed when a continual change
+
+[margin: When the internal motion of the] [p. 2] of place goes on in the parts that in the composition one regards no further than that they go on without a break, that is, when an internal motion arises and is maintained (§. 57). From which one further comprehends that the essence remains unchanged when this internal motion ceases or is altered.
+
+[margin: parts does not change it.]
+
+§. 72. In a composite thing no changes can occur except in magnitude and figure, in the position of the parts, in internal motion, and in the place of the whole thing. For a thing that is composite has nothing further in itself than its parts, whose multitude makes up magnitude (§. 61), whose limits, however, make up figure (§. 54), whose order makes up space and extension (§. 64. 53), and so both each part and the whole thing has its particular place (§. 48). If accordingly a change is to occur, then either the magnitude, or the figure, or the place of the parts, or the place of the whole must be changed. But that such changes can occur has been proved in the foregoing (§. 65. 68. 57).
+
+[margin: What changes can occur in a composite thing.]
+
+§. 73. Because the magnitude, the figure, the filling of space and the internal motion in a composite
+
+[margin: Magnitude, figure, filling of] [p. 29] essence because it consists of many parts (§. 61. 54. 57.); they are therefore grounded in its essence (§. 59) and are hence attributes of composite things.
+
+[margin: space and internal motion are attri-]
+
+butes of composite things.
+
+§. 74. A composite thing has its essence through the composition of its parts (§. 44). Now since everything that can belong to it is grounded in its essence (§. 33), it has the ground of its changes in many things.
+
+[margin: Internal constitution of a composite thing.]
+
+§. 75. Since a composite thing is what we call that which has parts, we call, on the other hand, a *simple thing* that which has no parts. But we must now investigate what simple things are, and how they are distinguished from composite ones.
+
+[margin: What is called a simple thing.]
+
+§. 76. Where there are composite things, there must also be simple ones. If there were no simple things, then all parts, however small one might take them to be, even the inconceivably small parts, would have to consist of other parts. But since one could give no ground whence the composite parts finally came, any more than one could comprehend whence a composite number had arisen if it were to contain no units within itself, and yet without sufficient
+
+[margin: That there are simple things.] [p. 2] reason nothing can be (§. 30.); one must in the end admit simple things, from which the composite ones have arisen.
+
+§. 77. By the principle of sufficient reason one can comprehend still further that without simple or indivisible things one can have nothing composite. For if everything were composed of parts, one would have to admit things that had a figure and magnitude without there being a ground why such a figure and magnitude belonged to them: which also commonly happens with those who set aside the principle of sufficient reason and therefore assume something incomprehensible in its essence as possible. For as long as a thing has a ground why it is, one can know how it can be, that is, one can comprehend it, and, in telling it to others, explain it intelligibly. But as soon as one posits something that has no ground, it is clear from what has just been said that it is in itself incomprehensible and also cannot be explained intelligibly.
+
+[margin: This is further confirmed.]
+
+§. 78. One might indeed say that we ourselves assumed above (§. 32.) that what is necessary needs no further ground why it is so, and thus conceded that necessity is a suffi-
+
+[margin: Objection.] [p. 31] cient ground why something is so. Accordingly one need only posit that some things which had parts were necessarily indivisible, and that therefore they also necessarily had their figure and their magnitude: thus the whole trouble would be removed.
+
+§. 79. But whoever wished to make this objection would show that he did not rightly understand the principle of sufficient reason, for otherwise he would recognise that one may not assume a necessity without sufficient reason either. For that is necessary, if its opposite contains something contradictory in itself (§. 36). Before I prove, then, that what is opposed to a thing contains something contradictory in itself, I assume the necessity without a sufficient reason. Whoever, accordingly, wishes to maintain that some things consisting of parts are necessarily indivisible, and therefore also necessarily have a certain figure and magnitude, must first prove that something contradictory follows from it if they were to be composed of simple things. But it will soon be clear that this is not so, when I show how composite things can arise from simple things.
+
+[margin: Answer to it, and how necessity is proved.]
+
+[p. 2]
+
+§. 80. Perhaps others will imagine that the will and omnipotence of God are a sufficient reason why some things are indivisible and have their figure and magnitude. But, not to mention that it will be clear in its place that in such cases one cannot appeal to the will and omnipotence of God while upholding the principle of sufficient reason, it has already been shown above that nothing can come to actuality that is not possible (§. 14). Now since possibility constitutes the essence of things (§. 35) and this is necessary (§. 38), it also follows from this that nothing can be made possible by willing or by power.
+
+[margin: Another objection, together with its answer.]
+
+§. 81. It is therefore established that there must be simple things, through whose composition the parts of the others arise. But since these simple things have no parts (§. 75), and thus are not in turn composed of others (§. 51); and since magnitude, figure, filling of space, and internal motion are attributes of composite things (§. 73); simple things cannot have figure and magnitude, they cannot fill space, nor can any internal motion be found in them.
+
+[margin: Simple things have no figure, magnitude, or internal motion; nor do they fill any space.]
+
+[p. 33]
+
+§. 82. In this way simple things are entirely different from composite things, and since all things of which we are conscious as outside us are composite things, we can ascribe nothing of what we perceive in them to simple things.
+
+[margin: Simple things are entirely different from composite ones.]
+
+§. 83. It is indeed true that the simple is perceived together with it when we represent to ourselves the composite; but one can show clearly by the experiences afforded by magnifying glasses that composite things, to say nothing of simple ones, fall so much into one another that we can no longer distinguish them from one another. And when I explain below the difference of our concepts, one will also be able to comprehend why it is not possible for us to distinguish the simple in the composite. It is just the same as with large numbers: even if we can represent them to ourselves, it is nevertheless not possible to represent to ourselves all the units of which they consist.
+
+[margin: Why we cannot know them from experience.]
+
+§. 84. Since I appeal to the experiences which magnifying glasses afford, it will not be unhelpful if I cite some. Joh. Franz Griendel von Ach writes in his *Micro-*
+
+[margin: It is further elucidated:] [p. 2] *graphia nova* p. 58 that he had seen the point of a small and very sharp needle, which one cannot well distinguish with the naked eye, through his magnifying glass more than a quarter of an inch broad, and the lower part of the needle up to two inches thick; the upper surface of the point, though it seemed as fine as could be to the naked eye, was nevertheless uneven, full of fissures, hollows, holes, and rough places, and the strokes and thrusts of the file could be seen quite plainly. The Englishman *Robert Hooke* confirms the like in his *Micrographia* observ. 1. f. 1. & seq., and the former adds that a goldsmith's journeyman once engraved a troop of cavalry, together with the horses, recognizably on the point of a needle. To make this the more credible, he made an experiment himself, and by the help of a magnifying glass he drew on a paper the size of a penny a whole company of musketeers, which appeared quite recognisable through the glass, but to the naked eye only like little black points. From which it can be seen that in a space which we cannot distinguish with the naked eye, very many composite and mutually distinct things can be.
+
+[p. 35]
+
+§. 86. This becomes still clearer if we consider that in an almost unimaginably small space there are found animals composed of many organs. E.g. the learned Jesuit *Franciscus Tertius de Lanis* relates in his *Magisterio Naturæ & Artis* Tom. 1. f. 1. that, more than once, through a magnifying glass by which a body is magnified 27000000 times, he observed a little worm that looked no larger than a barley-corn and had 20 to 24 feet. Thus in a space that is the twenty-seven-millionth part of a barley-corn there can be an animal with 24 feet. Again, *Eustachius Divinus*, as he soon after reports on f. 2., saw through a magnifying glass by which a body is magnified 294207 times a many-footed little worm which in this magnification appeared no larger than the smallest little grain of sand. And so in the space of the smallest little grain of sand there can be two hundred and ninety-four thousand two hundred and seven many-footed animals. Who, then, could persuade himself that he would distinguish simple things by magnifying glasses, or indeed even with the naked eye? Still more of such experiences
+
+[margin: Still further elucidation.] [p. 2] can be met with here and there in *Leeuwenhoek's* letters.
+
+§. 86. With things so arranged, no hope remains that by mere attention to composite things we shall learn to distinguish the simple in them. It is therefore necessary that we see what can be brought out by reflection. Since we now know nothing further of simple things than that they have no parts (§. 75), and that the parts of composite things finally arise from them (§. 76. & seq.), we must reflect further on these two points.
+
+[margin: How simple things must be known.]
+
+§. 87. A simple thing cannot arise from composite ones. For what is to arise from a composite thing must come to be either through a dissolution of its parts, or through a new composition of the separated parts. In the second case it is clear that it must be a composite thing; in the first case either something composite or something simple comes forth. The composite can be something new, because the parts of which it consists are now in another manner with one another than before, at least in that the extension obtains other limits than it had before (§. 59. 42.). The
+
+[margin: They cannot arise from composite ones.] [p. 37] simple is nothing new. For it was already there before in the composite, and so cannot only now begin to be (§. 10).
+
+§. 88. A simple thing cannot arise from any other simple thing. For a simple thing is indivisible (§. 75), and so it can give off nothing of its own. But if it can give off nothing of its own, then nothing that has anything can come from it.
+
+[margin: Nor from simple ones.]
+
+§. 89. Therefore a simple thing is either without beginning, and so impossible that it could not be (§. 10), consequently necessary (§. 36): or it must have begun to be all at once, when it was not before. But since nothing can become something out of nothing (§. 28), there must be a thing by which something can arise all at once that was not before (§. 30).
+
+[margin: How a simple thing can arise.]
+
+§. 90. If something arises all at once, then in the kind and manner in which it arises there is not much to be met with that could be distinguished from one another; for where this is so, a thing arises gradually, namely something goes before and something follows upon it, which has the ground why it is in the preceding (§. 30), and so on, until the gradually arising thing is there. Since
+
+[margin: It cannot happen in any comprehensible way.] [p. 2] we comprehend nothing, however, except where we distinguish many things in one (§. 77); a simple thing, which must arise all at once if it is not necessary (§. 89), cannot arise in any comprehensible way.
+
+§. 91. What is not comprehensible cannot be explained intelligibly either (§. 77). And accordingly one cannot explain intelligibly how a simple thing can arise.
+
+[margin: It cannot be explained intelligibly either.]
+
+§. 92. Composite things, on the other hand, can arise gradually. For composite things arise when certain parts come together in a certain order (§. 59. 15). Since the parts are not necessarily together in such an order (§. 50), one can come to the other, and in this way they can arise gradually.
+
+[margin: How composite things arise.]
+
+§. 93. Since one can here distinguish many things from one another in the kind and manner in which they arise, it is comprehensible how composite things can arise (§. 77. 30), and for that very reason this can be explained intelligibly (§. 77).
+
+[margin: The way in which they can arise is comprehensible, and can be explained intelligibly.]
+
+§. 94. By knowing that something can arise gradually, and likewise by attending to the fact that our thoughts follow one another, we attain a concept of time. Whence
+
+[margin: What time is.] [p. 39] it is clear that if we are to represent time to ourselves no otherwise than as we find it in ourselves, it is nothing other than an order of what follows upon one another, such that, if one takes one thing as the first, another becomes the second, and yet another the third, and so on.
+
+§. 95. What space is, accordingly, in those things that are together beside one another, that is time in those that are one after another, or of which one follows upon the other (§. 46. 49).
+
+[margin: Similarity between time and space.]
+
+§. 96. Since we have the concept of time by means of the changes that occur in our thoughts, or in the things which we represent to ourselves (§. 93), we can distinguish and know all times in which a change takes place that we are able in some manner to distinguish from others.
+
+[margin: How we can distinguish small times.]
+
+§. 97. In like manner, since we have the concept of space through those things which we represent to ourselves at once as distinct from one another, we can know and distinguish every space, in which we find a thing that we know and are able in some manner to distinguish from others.
+
+[margin: How we can distinguish a small space.]
+
+[p. 2]
+
+§. 98. But from what has been said of time (§. 95) it is easy to see that it changes nothing in a thing, since it has nothing at all to do with its inner constitution, while yet being distinct from it (§. 17).
+
+[margin: What time is like.]
+
+§. 99. Everything that happens gradually happens in time. For since one can here distinguish many things from one another, of which one goes before and the other follows upon it (§. 89), one has a time (§. 43).
+
+[margin: What happens in time.]
+
+§. 100. Accordingly, since composite things can arise gradually (§. 91), they can also arise in a time, that is, while they arise, or come to actuality, a certain time passes.
+
+[margin: Composite things can arise in a time.]
+
+§. 101. On the other hand no time can pass while a simple thing arises, if one assumes that it is to arise, or come to actuality, when it was before merely possible. For since they must arise all at once if they are to arise (§. 89), nothing can be distinguished here that, while they arose, followed upon one another (§. 90). And so one has here no time (§. 94). And it is hence clear in general that nothing that happens all at once happens in a time;
+
+[margin: Simple ones not.] [p. 41] that is, that no time passes by while it happens.
+
+§. 102. If a simple thing that once is were to cease again, it would have to be reduced to nothing. For since it has no parts (§. 75), its essence cannot consist in composition (§. 59), and so it cannot be changed by dissolution or internal displacement; consequently its actuality cannot cease in such a way as in composite things (§. 64). But what can cease neither through dissolution nor through internal displacement must be reduced to nothing if it is to cease.
+
+[margin: How a simple thing can cease.]
+
+§. 103. Perhaps some will say that a simple thing could cease through a transformation, namely in that a thing would come out of it which had an essence distinct from it. It is not to be denied that this can have some appearance with those who accept words without definition: but if we consider what kind of constitution this transformation would have to have, we find that it says nothing other than that a simple thing would be changed all at once into nothing, and in its place another brought forth again all at once. This can
+
+[margin: Objection together with its answer.] [p. 2] very soon be shown. For either the transformation has its ground in the essence of the thing that is transformed, or not. If it has its ground therein, it is only a change of its state, in that it is to be regarded as an attribute that this change comes out (§. 44), and the thing does not thereby cease. But if it has no ground in the essence of the thing that is transformed, then it also does not come out of its essence. Since, further, the essence of a thing is in itself unchangeable (§. 42), nothing else can transform it into another thing either. Therefore, if a simple thing were to cease and another, which was not there before, were to come in its place, the first would have to be reduced to nothing, and in its stead the other brought forth again out of nothing. This confirms what we asserted before, namely that a simple thing cannot cease otherwise than by being annihilated.
+
+§. 104. When something is changed, the ground of the change is to be found either in it or outside it. One of the two is necessary (§. 30). A change whose ground is to be found in the thing that is changed is called an *action* or a *doing*:
+
+[margin: What a doing and a passion are.] [p. 43] on the other hand a change whose ground is to be found in another thing than the one that is changed is called a *passion*. E.g. while I am now writing, a change takes place in me. For something is now perceived in me that was not there before. But if I wish to comprehend how and why that which is now perceived in me, namely the writing, is possible, I must seek the ground of it in myself. And therefore I call my writing a doing, that is, I say that I do something when I write. On the other hand, when I squeeze a sponge together, a change takes place in the sponge. The ground of the change is to be sought not in the sponge but in me, who squeeze it together. Without my squeezing it together the change in the sponge would not happen. Therefore I reckon this change among the passions, that is, I say that the sponge is acted upon when it is squeezed together. On the other hand, it is clear from the foregoing that I do something when I squeeze the sponge together.
+
+§. 105. Although those changes which one is accustomed to reckon under being acted upon have a ground outside the things
+
+[margin: Why a thing can be acted upon.] [p. 2] in which they occur, there must yet be found in these things, besides, a ground why they can be subject to such changes through another's doing. E.g. there must be something in the sponge from which one can understand why it lets itself be squeezed together, although something distinct from it is required to squeeze it together. For since everything has its sufficient reason why it is (§. 30), there must also be one why one thing lets itself be changed in this way by another. And in such a manner it must be fitted for a certain change; but in what this aptitude consists must be settled in particular cases.
+
+§. 106. Simple things are actual (§. 76) and cannot cease by themselves (§. 102). Therefore something lasting must be found in them. This either has limits or not. Since it is in itself indivisible (§. 75), nothing other than a measured degree can arise through these limits, which one represents as if it were composed, so to speak, of other lesser degrees as of parts, and to which one therefore ascribes a magnitude (§. 61)
+
+[margin: Inner constitution of simple things.]
+
+[p. 45]
+
+So too, for this reason, in mathematics degrees are represented by lines and surfaces, if one wishes to determine them correctly. An example is given by the speed of motion. But if that which is lasting in a simple thing is unlimited, it must absolutely have the highest degree, with which the measured degrees are not to be compared at all.
+
+§. 107. All changes that can occur in a thing are variations of its limits. For we find in a thing nothing further than its essence and the restrictions of what it has lasting in the essence. The essence is in itself unchangeable (§. 42), and so nothing remains that can be changed but the limits of what is lasting in a thing. And accordingly in a change nothing else can take place than that that which was limited in this manner only obtains other limits. I will elucidate this by an example of a composite thing. The extension of the wax in length, breadth, and thickness obtains its limits through the figure that one gives it (§. 54). According as I
+
+[margin: What all changes are.] [p. 2] now alter these limits, the figure of the wax changes. The old one ceases and the new one arises, without anything coming to the matter or from it, and without anything distinct from the matter being taken from it or added to it. From which it is at the same time clear that in the changes of things nothing is annihilated, and nothing is brought forth anew.
+
+§. 108. In this way all changes that can occur in a simple thing must be nothing other than variations of degrees (§. 106). Yet since nothing can happen without sufficient reason (§. 30), one variation must be grounded in the other, namely the following in the preceding.
+
+[margin: What those in simple things are.]
+
+§. 109. But what has no limits can be subject to no change, because nothing can be changed except these (§. 107), and therefore an unlimited thing is all that it can be, all at once: whereas limited things, on account of the changes to which they are subject, are what they can be gradually.
+
+[margin: How unlimited things differ from limited ones.]
+
+§. 110. There arise accordingly here, concerning the simple things of which the composite consist, two questions which here
+
+[margin: Two questions on the limits] [p. 47] are to be decided: namely whether they are entirely without limits, and, if they have limits, whether these are changeable or unchangeable.
+
+[margin: of simple things.]
+
+§. 111. The latter question can very soon be answered: the limits must be changeable. For since they can be changed without that which is lasting in a thing suffering any change (§. 106), it does not necessarily have these limits, but can also have others. And in this way they are in themselves changeable. But whether they are also actually varied will have to be investigated further in what follows (§. 125. 126).
+
+[margin: Answer to the one.]
+
+§. 112. As for the other question, whether the simple things of which the composite which we represent to ourselves as outside us consist are without any limits, I say no. For if they were without limits, they would all be identical, and through them, one might displace them as one wished, no change could come out in the composite (§. 17). In this way the composite would be nothing but a mere lump, in which nothing could be distinguished: as the common people represent space to themselves.
+
+[margin: Answer to the other.]
+
+[p. 2]
+
+§. 113. Since we know that the changes which occur in a thing consist only in variations of limits (§. 106), we can comprehend why composite things can begin and cease, but simple ones not likewise. For if something is to begin, the essence of a thing must attain its actuality, when before it was found only among the number of merely possible things (§. 14. 35); on the other hand, if it is to cease, the actuality of the essence must vanish, so that it goes back again from the land of actual things to the possible, whence it had come (§. cit.). Now the essence of composite things consists in the manner of composition (§. 59), and this can be changed merely by variations of the limits which the parts as well as the whole have. Therefore when a composite thing arises or ceases, nothing is annihilated, and nothing is brought forth anew that had not already been there before. On the other hand, since a simple thing is in itself indivisible (§. 75), and this indivisible cannot be made into another thing by variations of the limits grounded in it, any more than
+
+[margin: The true cause why composite things can arise and cease, simple ones not.] [p. 49] wax ceases to be wax if one changes the limits of its extension in length, breadth, and thickness, that is, its figure (§. 54), it cannot be comprehended how a simple thing could attain its actuality or lose it again, without something being reduced to nothing, or being brought forth anew out of nothing, that had not been there before.
+
+§. 114. Now it can also be comprehended in what, properly speaking, things that subsist by themselves are distinct from those that subsist only through others. Namely, a thing subsisting by itself is that which has the source of its changes in itself; but a thing subsisting through another is nothing other than a limitation of the former.
+
+[margin: Difference of things that subsist by themselves and those that subsist through others.]
+
+§. 115. The source of changes is called a force; and thus in every thing subsisting by itself a force is found, the like of which is not to be met with in things that subsist through others.
+
+[margin: What force is, and in what things it is to be found.]
+
+§. 116. Since now by means of this force the changes which occur in a thing subsisting by itself are grounded in it (§. 29), they are acts of the same thing (§. 104), and in this way one sees that a thing by itself
+
+[margin: Things subsisting by themselves can do something.] [p. 2] subsisting can do something, and that one therefore knows it by this, and distinguishes it from other things; consequently this is its proper mark, as Mr von Leibniz (a) remarked long ago without proof.
+
+§. 117. But force must not be confused with a mere faculty: for a faculty is only a possibility of doing something; whereas, since force is a source of changes, there must be found in it an endeavour to do something.
+
+[margin: How force is distinguished from faculty.]
+
+§. 118. Therefore, since a force is to be found in a thing subsisting by itself, there must also be in it an endeavour to do something (116), that is, to change its limits (§. 106. 107).
+
+[margin: Things subsisting by themselves endeavour to do something.]
+
+§. 119. If this endeavour is continually kept up, doing arises from it. Now if nothing is there why it should not be kept up, that is, if nothing stands in its way, it is also kept up (§. 30), and consequently the doing always follows when there is no resistance.
+
+[margin: How doing is distinguished from endeavour.]
+
+§. 120. Through force, accordingly, that obtains its complement which was merely possible, that is, the possible is
+
+[margin: What effect and an]
+
+(a) In Actis Eruditor. A. 1695. p. [p. 51] brought to actuality (§. 14). But what attains its actuality through doing is called the *effect*. On the other hand, that thing which through its doing helps the possible to actuality, that is, brings something forth, is called an *efficient cause*. E.g. when the sun melts the wax, this happens through continued warming. And so the warming of the sun is its doing, the melting the effect, and the sun itself is the efficient cause by which it accomplishes this. But the warming arises from its repeated endeavour to warm, the constitution of which shall be explained intelligibly in its place.
+
+[margin: efficient cause is.]
+
+§. 121. The manner of the limitation is that which we call the *state* of a thing. If the limitation takes place in that through which the thing subsists, it is called the *inner state* of a thing; but if it concerns that which is outside a thing, that is, that through which it is related to other things, it is called its *outer state*.
+
+[margin: State of a thing.]
+
+§. 122. So long, accordingly, as the same limitation remains, so long the state of a thing is the same (§. 17): but as soon as
+
+[margin: How long it is unchanged.] [p. 2] this ceases and another begins to be, the state also changes at once.
+
+§. 123. Since the changes are altogether nothing other than variations of limits (§. 107), a thing is put into another state by every change that occurs in it or around it. And so the comparison of the present limits with the preceding ones is the means by which one can know the changes and the new state; likewise the means by which one can determine the difference of the present state from the preceding.
+
+[margin: How often a thing comes into another state, and how one knows it.]
+
+§. 124. A thing subsisting by itself is in constant endeavour to change its state. For it is in constant endeavour to change its limits (§. 118). But when the limits are varied, the state of a thing changes (§. 122).
+
+[margin: Manner of a thing subsisting by itself.]
+
+§. 125. Simple things cannot be limited otherwise than by degrees (§. 106). But what is in itself indivisible and is limited by degrees is a force: for in the indivisible it has more at once than another has, whereby the magnitude of the degree shows itself. Since now this manifoldness in the simple thing is grounded
+
+[margin: Simple things have a force.]
+
+[p. 53]
+
+(§. 32) and yet, as in itself changeable (§. 111), is not absolutely necessary (§. 41); it cannot attain its actuality otherwise than through the doing of the simple thing (§. 116). But doing arises through a continually kept-up endeavour (119), and so a simple thing must have a force.
+
+§. 126. Since, accordingly, every simple thing is in constant endeavour to change its limitation (§. 118), and so also actually changes it when nothing resists it (§. 119), but it itself cannot resist itself, since it would at the same time have to have an endeavour to change its limitation and not to change it, which is not possible in the simple, that is, in the indivisible (§. 75) (§. 10); the limitations must certainly be constantly varied, and in this way its state is continually changed (§. 121).
+
+[margin: Simple things change their limits.]
+
+§. 127. One sees, accordingly, that every simple thing has a source of changes in itself (§. 125. 126), and is therefore a thing subsisting by itself (§. 114).
+
+[margin: They are things subsisting by themselves.]
+
+§. 128. Since nothing can happen without sufficient reason (§. 30), and so at every time the preceding change must contain something in itself from which one can understand
+
+[margin: Effects are comprehensible and can be explained intelligibly.] [p. 2] why the other follows (§. 29); but the change, which is grounded in the force of the simple thing, is its effect; therefore the effects of the simple thing must in themselves be comprehensible and also be capable of being explained intelligibly (§. 77).
+
+§. 129. If we cannot comprehend them, nor explain them intelligibly, nothing further can be inferred from this than that we do not yet understand them, and so nothing but our ignorance is to blame for it.
+
+[margin: When we cannot explain them.]
+
+§. 130. But so long as one does not know a thing, he can say nothing of it. Therefore if someone were to put forward something incomprehensible about the inner constitution of simple things, which he could not explain intelligibly, this is a certain indication that he is only inventing what he says. And since it is true in general that nothing can be without sufficient reason (§. 30), consequently that everything is in itself comprehensible and can be explained intelligibly if one understands it, it is true in general that whoever puts forward something incomprehensible, and that he cannot explain intelligibly, puts forward nothing but invented stuff.
+
+[margin: When something is invented about them.]
+
+§. 131. Yet some caution is to be used in this, so that one also
+
+[margin: What caution] [p. 55] does not reject what is in itself grounded, although we do not know the ground. Namely, if one finds in experience that something is, although one does not comprehend how it can be, nor is able to explain it intelligibly, one has no reason on that account to reject it (§. 15), and can very well use it to show the ground of other things that are grounded in it. An example is given by gravity, which can be used to explain other things, even if one does not yet understand how and why it is possible.
+
+[margin: is to be used in this.]
+
+§. 132. When many things together are considered as one, and something similar is found in them, an *order* arises from this; so that order is nothing other than the similarity of the manifold in one.
+
+[margin: What order is.]
+
+§. 133. So that one may rightly understand this, since much depends on it, as will soon be shown at greater length, I will elucidate it by examples. One says: the people walk in a procession in order when they walk two and two, the more distinguished on the right, the less distinguished on the left, and likewise the more distinguished in the foregoing pairs, the less distinguished in the following ones. In what, then, does the order here consist? Certainly in that by which
+
+[margin: It is elucidated by examples.] [p. 2] the order is removed, if one takes it away. Now the order is removed if I no longer let them go two and two, nor beside and behind one another according to rank, that is, to speak of the matter in general, if I take away that in which the manifold things, which here let themselves be distinguished, are similar to one another (§. 18). Accordingly it is clear that order in general can be nothing other than the similarity of the manifold in one. This very thing is clear when one examines in what the order consists in which the guests sit beside one another at the table, or the order which one observes in one's affairs, and so on.
+
+§. 134. I said above that space is the order of things that are together (§. 46), but time the order of what follows upon one another (§. 94), and I was then content with the clear concept of order (§. 18. Log.). But since other matters, which are soon to follow, require that I explain distinctly what order is, it will not be unhelpful if I show here that such an order, as it is described (§. 132), is to be found both in time and in space.
+
+[margin: How the definition of order applies in space and in time.]
+
+[p. 57]
+
+In space I meet with manifold things, namely the different ways in which each among many things is simultaneous with the rest, and these we are accustomed to call places (§. 47). These ways agree with one another in this, that each thing is outside all the rest, and has from each its particular distance. And in these respects they are similar to one another (§. 18). Hence, since one takes all places together as a whole, the order of things that are simultaneous also consists in a similarity of the manifold. In an equal way one can show this of time too.
+
+§. 135. One sees at the same time that *disorder* is a defect of the similarity of the manifold in one. For, for example, when a crowd of people run among one another, so that from the preceding ones one can perceive nothing that is found also in the following ones (it is not now being looked at for anything further than their state in relation to one another and their going); then there is nothing similar in the going of these people (§. 18), and on account of this defect one says: they run disorderly among one another.
+
+[margin: What disorder is.]
+
+[p. 2]
+
+§. 136. If, then, I want to know whether something is orderly or not, I must 1. distinguish exactly everything that can be distinguished in that which is considered together as one (§. 17), and which one regards as parts of the whole (§. 24). Next I must 2. hold against one another what can be remarked in each of these parts, in so far as it is regarded as a part of the whole to be considered here; and it will then be found what is the same in them (§. 17). If now one meets with something the same in all these parts and in their variation; then a similarity is found in them (§. 18), and in this way one has discovered the order (§. 132), and can explain it to others (§. 136. c. 1. Log.), and also maintain it against those who call it in doubt, and defend it against all objections.
+
+[margin: How order is known.]
+
+§. 137. Sometimes it is hard to discover the order, namely when that which manifold things, that are regarded together as one, have in common is very much concealed, so that one cannot well perceive it for many others that show themselves more clearly. E.g. Many say that Euclid wrote his books disorderly, because they do not see in what respect the propositions are similar to one another that in his books one after another
+
+[margin: When it is hard to discover the order.] [p. 59] follow, and therefore suppose that nothing similar is to be perceived in them. But whoever looks into the matter more closely finds that every proposition of this kind has this in common with the other, that it can be demonstrated from those that precede, but would not be able to be demonstrated if one set it before others. Thus one finds in the books of Euclid an order. Since it now matters in the sciences that everything be thoroughly demonstrated and one proposition connected with another (§. 1. c. 7. Log.), he has chosen in his books the order that is fitting.
+
+§. 138. Perhaps some will also think that examples of order occur to which the given definition does not apply at all. E.g. I say that someone has set down a proof in order, when all the propositions required for the necessary syllogisms are written one after another as one must think them if one wants to represent the proof to oneself. Here some will think that the order does not consist in this, that the propositions have something similar, but rather in this, that what belongs first is set first, and each follows one after another as is fitting. But if they weigh the matter more closely, they will find
+
+[margin: Whether the definition of order suits all cases.] [p. 2] that the propositions here are certainly similar to one another (§. 18), in that the preceding one always contains within itself the ground why the following one occurs to me.
+
+§. 139. Since order consists in similarities of the manifold (§. 132), everything here has a ground why it takes this place and no other, or why upon this and nothing else it follows (§. 29.). And hence an order is comprehensible, and can also be explained intelligibly to others (§. 77).
+
+[margin: Order is comprehensible and can be explained intelligibly.]
+
+§. 140. If, then, one wants to know an order, one must investigate the ground why manifold things are beside one another in this way, or follow upon one another, and take note whether it is the same, or varies in one and the same manner.
+
+[margin: By what an order is known.]
+
+§. 141. In this way one finds general rules in every order, from which one judges it (§. 28. c. 1. Log.). And where one therefore proceeds in an orderly way, one conforms to rules.
+
+[margin: An order has rules.]
+
+§. 142. Since everything has its sufficient reason why it is (§. 30); so there must also constantly be a sufficient reason why in simple things the changes follow one another thus and not otherwise, and in composite things the parts thus and not otherwise
+
+[margin: What truth and dream are.] [p. 61] stand beside one another, and their change also follows one another thus and not otherwise. In this way there is here just such an order as is found in the orderly presentation of a proof (§. 135). Now since such an order is not found in a dream, where, by virtue of experience, no ground can be given why the things are together and so stand beside one another, and why their changes follow one another; one recognises clearly from this that truth is distinguished from dream by order. And *truth* is accordingly nothing other than the order of the changes of things; a *dream*, on the other hand, is disorder in the changes of things.
+
+§. 143. So that this may be understood the better, I find it necessary to elucidate the distinction between truth and dream with a clear and distinct example. Suppose a company to be together in good pleasure, and after some time to disperse again. If this is truth, one will be able to say why each person is present, and how they came there; why in the pleasure that is taken this or that happens; why they now again part
+
+[margin: The distinction between truth and dream is elucidated.] [p. 2] from one another. In a word, not the slightest changeable thing will occur in the company of which one could not say why it happened. If, on the other hand, it is a dream, I cannot say why each person is present, and how they can have come there: for if I am host, I shall see uninvited guests, and often strange ones too, indeed some among them whom I have seen at other times in far distant places, or who have perhaps even long since died and rotted under the earth. No one will be able to say why they are present. One person will be able to change into another in an instant, without one being able to say how it came about. Persons will be gone without having departed; others, on the other hand, will stand there without having come. The whole company will be in another place, without having risen and departed. In a word, the changes that occur here are not grounded in one another at all: and I can therefore never say how and why this happens. If one now compares truth with dream, and takes note of what they are distinguished in, one will be able to determine no other distinction than the one I gave before, [p. 63] namely, that in truth everything is grounded in one another, in a dream not, and hence in the first case the changes of things have an order, but in a dream there is sheer disorder.
+
+§. 144. Whoever weighs this well will recognise sufficiently that without the principle of sufficient reason there can be no truth.
+
+[margin: Origin of truth.]
+
+§. 145. Indeed it is clear further that one knows truth when one understands the ground why this or that can be, that is, the rules of order, which are to be met with in the things and their changes (§. 141. 129).
+
+[margin: When one knows it.]
+
+§. 146. Since, then, through the fact that everything, in simple as well as in composite things, is grounded in one another (§. 30), an order arises (§. 132); there is also truth in them. And accordingly every thing is something true.
+
+[margin: There is truth in all things.]
+
+§. 147. Hence general rules can also be perceived of those things, by which one can explain their changes (§. 141).
+
+[margin: All give general rules.]
+
+§. 148. But orders have their degrees, according as many or few similarities of the manifold are to be met with in one. Namely, every
+
+[margin: Orders have degrees.] [p. 2] similarity makes a degree. Any common example can elucidate the matter. As when a crowd of people walk in order; then there may be found in their walking much or little similarity. For in the one crowd one can look at nothing further than that they walk in pairs, and the similarity is found merely in the number. In another the more distinguished takes the uppermost place in each pair, and the more distinguished pair always goes before, and so there is a similarity both in the pairs and in their succession one upon another. In such a manner one has in this case three similarities, where in the first there was only one. If the crowd of people who go in a procession can be divided into different bodies; then it is a new similarity if the more distinguished always goes before. And there comes yet another to it, if the members of each body have the same dress, and so on.
+
+§. 149. The more degrees, therefore, there are in an order, the more rules one obtains. For every degree arises through a particular similarity (§. 136); but every similarity gives a particular rule.
+
+[margin: How many rules an order has.]
+
+§. 150. The more rules there are in an order, the more one finds in it to perceive
+
+[margin: When in an order] [p. 65] although the number of the manifold is the same: which sufficiently elucidates the example given before (§. 140).
+
+[margin: much is to be perceived.]
+
+§. 151. And since truth arises through order in the changes of things (§. 142); there is more truth where a greater order is, and on the other hand less truth where a smaller one is found.
+
+[margin: Where there is more truth.]
+
+§. 152. The agreement of the manifold constitutes the *perfection* of things. E.g. the perfection of a clock one judges from this, that it shows the hours and their parts correctly. But it is composed of many sorts of parts, and both these taken together and their composition aim at this, that the hand shows the hours and their parts correctly. In this way one finds in a clock manifold things, which all agree with one another. If, on the other hand, some parts are to be met with in the clock which prevent it from showing the time correctly; then the clock is imperfect. Namely the *imperfection* consists in this, that the manifold again runs against one another.
+
+[margin: What perfection and imperfection are.]
+
+§. 153. Since in an agreement there must be something in which the manifold
+
+[margin: Each has its ground.] [p. 2] comes together; so every perfection has its ground, from which it is known and judged (§. 29). Accordingly the ground of the perfection of a clock is the correct indication of the time.
+
+§. 154. If this ground has degrees, then degrees in perfection arise through it too, and hence one perfection becomes greater than another (§. 106). One can perceive it plainly in the example of the clock given before. For the correct indication of the time has degrees not only in that smaller parts of time can be indicated by one clock than by another; but also in that the parts which are indicated, such as the hours, are indicated down to a smaller part, e.g. down to minutes or seconds. Namely the first degree of perfection manifests itself in one revolution of the hand, the other in many repeated ones.
+
+[margin: Magnitude of perfection.]
+
+§. 155. One represents to oneself each degree as if it were composed of parts from other degrees, as already above (§. 106). Since now the magnitude of perfection grows through the magnitude of the degree (§. 154); one finds in a greater perfection more to perceive than in a smaller one.
+
+[margin: Greater perfection gives more to observe.]
+
+[p. 67]
+
+E.g. in a clock that shows minutes there is more to perceive than in another that shows only the hours. Again, in a clock that besides the hours and minutes shows seconds also, there is more to perceive than in another that besides the hours points out only minutes. Likewise, in a clock that shows the hours exactly there is more to perceive than in another that does not indicate the hours so exactly: for in the former case a quite different constitution of the parts and of their composition must be met with than in the latter, because everything must have its ground (§. 30). Since now in the first case the constitution of the parts and their composition agree together more than in the other; the ground can be given there of more things than here, and hence there is more to observe there than here.
+
+§. 156. In perfection there is sheer order. For where a perfection is, there everything refers to a common ground. And herein the manifold that is met with in one is similar to one another (§. 18). Therefore since order consists in the similarity of the manifold (§. 132); there is sheer order in perfection.
+
+[margin: In perfection there is sheer order]
+
+[p. 2]
+
+§. 157. Perfection can be known in two ways. In the one way it happens when I first discover the ground from which it is judged, and then investigate the constitution of the manifold and compare it with the ground of perfection. In the other manner I must first investigate the constitution of the manifold, and compare with one another everything that one remarks of it, in order to infer from it the ground of the agreement (§. 152. 153).
+
+[margin: How perfection is known.]
+
+§. 158. I will here only elucidate it by common examples, partly because more difficult ones will be shown in what follows, partly because a good method of teaching requires it. E.g. if I want to investigate the perfection of a window; this happens by the first manner. For the first inventors of buildings have either from deliberation or from experience known that one must make windows to light the rooms. And in time they have also found that they can serve for the view, partly when one wants to know what is going on at the house or in the street, partly when one desires, either alone or with another person at the same time, to give oneself a change. We have
+
+[margin: It is elucidated by common examples.] [p. 69] learned this through daily experience, after windows came to be made on buildings. Accordingly one finds here a double ground from which one must judge whether everything that occurs in the window agrees or not. If I now investigate the constitution of its figure, its height and breadth, its distance from the floor and the ceiling of the room, and find them to be such as the indicated double ground requires; then the window has its due perfection, and I know it. If, on the other hand, the perfection of the eye is to be investigated; this happens by the other manner. Namely, I dissect the eye, and make myself acquainted with the constitution of each member and of its connection with the rest. If I now find, when this is done in the proper way, that everything runs out upon this, that the things that stand opposite the eye are depicted distinctly at its bottom; then I know from this the ground of the composition of the eye and at the same time its perfection.
+
+§. 159. I have remarked in passing that a good method of teaching requires that one elucidate the rules with common examples. Since I now say nothing on my own account for which
+
+[margin: Why through common examples.]
+
+[p. 2]
+
+I do not think I have good ground; so I also do not require that anyone should accept something from me where he does not find sound ground for it. Therefore I shall be permitted to give an account of what I have said. The examples elucidate the rules, in that they make them more intelligible, give a proof of their correctness and at the same time show how the rules are applied in occurring cases. Therefore the examples must be better known than the rules. But such are the common examples, which daily experience puts into our hands and with which we have thereby become acquainted, because they often occur to us.
+
+§. 160. As many kinds of grounds as are met with from which the agreement is judged, so many perfections do we meet with. For in such a case the manifold agrees more than once; as in the example of the window given before we find a double ground, in which everything that is to be perceived in the window comes together, namely the lighting of the rooms and the convenient view. Therefore in the window one has to consider a double perfection. Indeed, since the convenient view can itself
+
+[margin: How many kinds of perfections are in a thing.] [p. 71] again be resolved into two grounds, namely that one can either learn what goes on in the street, or may also lie comfortably at it with another for a change; then the last perfection could be divided into two, and in such a way a threefold perfection would be found in the window as a window, from which, taken together, the whole perfection then grows.
+
+§. 161. It is also to be remarked that sometimes, besides the grounds that are taken from the essence of things, there can be other general ones, with which that which is perceived in a thing must likewise agree. As in the example of the window, a general ground of perfection is the proportion of the dimensions to one another: by this the kind of proportion of the breadth to the height is determined, which was not yet sufficiently restricted by the previous grounds.
+
+[margin: It is carried out further.]
+
+§. 162. If now there are different grounds of a perfection that grows together out of the particular ones; then the particular perfections must also agree with one another, for otherwise it would not be possible that a composite one could come out of them taken together (§. 152). Whoever accordingly
+
+[margin: What a composite perfection is.] [p. 2] wants to know the perfection of a thing exactly must not only weigh the particular perfections, but at the same time take into consideration how these particular perfections agree with one another, and so how the composite one grows out of them.
+
+§. 163. But it can happen that, when a composite perfection is to grow out of many simple perfections, the simple ones run counter to one another. E.g. in architecture the general perfection requires a proportion of breadth to height that can easily be known, that is, one that consists in not at all too great numbers. The ground of the proper perfection wants such a height and breadth that one can bring unhindered through the door what is to be brought through it. And here it may happen that one must have a height or a breadth, or also both a height and a breadth at once, that does not agree with the proportion one would otherwise choose. Hence the simple perfections run counter to one another. This can happen still more in composite things, where the different parts have different perfections, likewise when in simple things
+
+[margin: Simple perfections sometimes run counter to one another.] [p. 73] there is to be met with a great manifoldness, where each of the manifold can have a particular perfection.
+
+§. 164. Since each perfection has its particular ground, from which it is known and judged (§. 153. 157); so each perfection also has its rules, and, if the particular perfections from which the composite one is to grow run counter to one another, these rules conflict with one another. As in the example of the door given before there are two rules that can run counter to one another in particular cases. The first is this: the height to the breadth should have a proportion that can be expressed in small numbers. The other says: the door must be so high and so wide that one can go through unhindered and bring in the things that are to be brought into the building. If now, e.g., heavily laden loads of hay or grain are to be driven through a gateway; then the other rule can conflict with the first, that is, require another proportion of breadth to height than is prescribed by it.
+
+[margin: Each perfection has its rules. When they conflict with one another.]
+
+§. 165. Since now it is not possible that something can be and not be at the same time (§. 10); so too the rules which run counter to
+
+[margin: Whence the exception to the rule arises.] [p. 2] one another cannot take place at the same time in a composite perfection, and accordingly one must give way to the other. Thereby arises the *exception* to the rule, which in this way is nothing other than the conflict of many rules against one another, where one, so to speak, wants to drive out the other and hold the field. As in the preceding example the rule of the suitable proportion wants to drive out the rule of the convenient passage through, and this one in turn that. And since both cannot in this way take place, one must finally give way to the other: whence an exception to one arises.
+
+§. 166. The question arises here, when the rules conflict with one another, and so necessarily one must give way to the other, from which the exception is to be made, or how and in what manner the exception takes place from both. One sees easily that the exception is to be arranged so that the greatest agreement with the rules is retained, and so the greatest perfection arises that can be maintained in the conflict of the rules. For since the departure happens only out of necessity (§. 165); one must also depart as little as is possible.
+
+[margin: How it is to be arranged.]
+
+[p. 75]
+
+§. 167. In particular cases one sees more easily which rule suffers an exception: for it then shows which rule is more necessary than the other. E.g. if the proprietor of a building has more regard for show than for the convenience of the passage; then in our example the rule of the suitable proportion keeps the upper hand over the rule of the convenient passing through. If, on the other hand, the proprietor is more concerned that, since with the quantity of grain to be brought in, or also on account of the far distant fields, he must load heavy loads, than that the house looks handsomer; then the rule of the convenient passing through keeps the field, and the rule of the suitable proportion must then give way. From which one sees that the ground of the exception shows itself quite easily in particular cases.
+
+[margin: In particular cases this is easier to see.]
+
+§. 168. Since the rules arise from the ground of perfection (§. 164); that is more perfect which is more in conformity with the rules, and therefore the multitude of rules, which all agree together, make up degrees of perfection; but from the degrees grows a magnitude (§. 106).
+
+[margin: What conforms more to the rules is more perfect. Degrees of perfection.]
+
+§. 169. Since, therefore, the rules bring forth perfection (§. 168); so the exceptions to the rules must
+
+[margin: Whence imperfection comes.] [p. 2] make imperfection, and the ground of the exception is the source of imperfection.
+
+§. 170. Since simple perfections are sometimes against one another (§. 163), and therefore some exception must occur, there can be met with in a composite perfection what, if it were by itself, would belong among the imperfections (§. 169). Since now the composite perfection cannot subsist without this exception (§. 165); the imperfection that otherwise arises from it is to be taken for none, and what is accordingly an imperfection in the part belongs to the perfection of the whole.
+
+[margin: Imperfection in parts can belong to the perfection of the whole.]
+
+§. 171. If, then, the number of the manifold, which is to agree with one another, is very great, it is hard to judge of the perfection of the whole. But if the number is greater than we are able to reflect on; then it is not at all in our power to judge the perfection of the whole.
+
+[margin: When it is hard and impossible to judge of perfection.]
+
+§. 172. Since one perfection can be greater than another (§. 154), and in the composite ones too there can be a departure from the simple ones in more than one way (§. 165. 166); so can things of one
+
+[margin: Degrees of perfection set the difference between] [p. 77] kind be very greatly distinguished from another. For, e.g., on one plot quite different buildings can be erected, where the principal ground, namely the purpose of the building-owner with regard to the whole building, remains the same. But the difference arises from the different degrees of perfection that are to be met with in the whole building.
+
+[margin: things of one kind.]
+
+§. 173. But one sees from this at the same time whence the degrees of composite perfections spring, namely 1. from the degrees of the simple ones that are to be found in the parts, 2. from the kind of exception that is to be made in the composition.
+
+[margin: Whence the degrees in composite perfections spring.]
+
+§. 174. Whoever, then, wants to know the degree of perfection must 1. become acquainted with the simple perfections (§. 157), and 2. derive the rules from their grounds (§. 164). Next he must 3. compare the rules with one another, and from this judge the kinds of exception (§. 165). Finally he must 4. investigate from which rules the exception is to be made (§. 166). In such a way one will know whether the highest degree of perfection is met with in the given case or not. The example of a building can elucidate this sufficiently. But since here
+
+[margin: How the degree of perfection is known.] [p. 2] as many rules occur as are to be met with in the whole of architecture; the particular execution of the perfection of a building erected on a given plot according to the purpose of a building-owner would therefore require a whole extensive work. And one sees from this how extensive it proves when the things whose perfection one is to judge contain a great manifoldness in themselves, and also how much deliberation is necessary for it.
+
+§. 175. Since now, by virtue of the different degrees of perfection, things of one kind can be very different from one another (§. 172); it is clear that, if a thing of a certain kind has a certain degree of perfection, it could quite well also have had another. The one degree of perfection is as possible as the other, in that the one contradicts the essence of a thing as little as the other (§. 12). If, therefore, the thing could also be otherwise than it is; then the opposite contains nothing contradictory in itself (§. 11), and therefore it is not necessary (§. 36). Since now such a thing, which is not necessary, is accustomed to be called contingent; it is clear that that is *contingent* of which the opposite
+
+[margin: That there are contingent things and whence they come.] [p. 79] can also be, or with which the opposite does not conflict. E.g. the windows in a building may have whatever degree of perfection they will; it always remains possible that they could also have another, because others are as possible as this one. And therefore the windows are not necessarily so; but their constitution, which stems from the degree of perfection, is something contingent.
+
+§. 176. Since the essence of things is necessary (§. 36); so everything too that is grounded in it alone must be necessary. For what is grounded in another subsists as long as its ground subsists, and therefore cannot be changed so long as its ground is not changed. Now the essence of things is unchangeable (§. 42). Therefore that too which is grounded alone in the essence of a thing must be unchangeable. Since, then, it can be so and not otherwise, that which is opposed to it conflicts with what is grounded in the essence of the thing (§. 11), and therefore it is necessary. From which it is further clear that the essence of things is the source of the necessary.
+
+[margin: What is grounded in the essence is necessary.]
+
+§. 197. Since the necessary cannot be otherwise (§. 41); so this is common to all
+
+[margin: Constitution and origin] [p. 2] things that have the same essence, one with another (§. 178). And so far they are called *things of one kind*. Whence it is clear that the similarity of the essence is the ground of the species of things (§. 18. 29). E.g. what is necessary in a window is the opening in the wall or partition for the lighting of the building from within, and in most for the convenient view. Therefore all windows have this in common with one another, and because there can therefore be a window in that an opening suited to it can be made in walls and partitions; the essence of the window consists therein (§. 35).
+
+[margin: of things of the same kind.]
+
+§. 178. On the other hand, in what can be in more than one way, things of one kind can also differ from one another. Since now everything that is grounded in the essence alone is necessary (§. 176); this cannot be grounded in the essence alone; and so it must have its ground partly in the essence (§. 32. 33), partly in something else (§. 30). Namely what can be in different ways leaves the essence of a thing undetermined: yet if a thing is not to be imperfect, it must be so determined that it with the essence (as that from which the ground of perfection is taken
+
+[margin: In what they can be distinguished.] [p. 81] ) agrees (§. 152). I stay with the example of the window, because it is convenient for elucidating the otherwise difficult matter (§. 159). Through the fact that the window is to be an opening for the lighting of a room and for the view, neither the figure, the breadth and height, the proportion of the two to one another, their distance from the sides, from the walls and from one another, nor whatever more of the sort, is necessary. For if I want to determine the figure, it depends not only on the lighting of the room and on the view or the essence of the window; but also even upon the properties of the figures, upon the strength of the wall, upon the beauty of the building and so on. And in a like way it is with the remaining things that leave the essence undetermined.
+
+§. 179. Now one can comprehend whence things that have the same essence can nevertheless be distinguished into different species, indeed some of these species again into still other species. Namely of that which the essence leaves undetermined, some can be determined in one and the same way, and yet the rest in different ways. Since now through that which is determined in one and the same way
+
+[margin: Whence the subordinate species of things come.] [p. 2] the things become similar to one another (§. 18), but the similarity constitutes a subordinate species, as that which is the sole ground of the species of things; one obtains as many subordinate species as there can be similarities with dissimilarities still remaining over. But I call them subordinate species on purpose, so that they may be distinguished from the other species of things that arise from the similarity of the essence (§. 177). E.g. if in the window the figure is determined to be quadrangular, and the rest remains still different: one has a subordinate species of the quadrangular windows, among which, however, a great difference is still to be found, both when they are regarded simply as windows, and when they are regarded as parts of the building and as in connection with the remaining ones.
+
+§. 180. It can be comprehended no less what makes something an individual thing. Namely in individual things everything that is only to be perceived and distinguished from one another is determined in a certain way, whether by itself alone, or at the same time with regard to the remaining things with which it is simultaneous, and upon which it follows, or also those which follow upon it, is considered
+
+[margin: Constitution of individual things.]
+
+[p. 83]
+
+But since I have already treated of it in the *Thoughts on the Powers of the Understanding* (§. 27. c. 1.), it would be unnecessary to set down more about it here. Meanwhile each can for himself elucidate this ground of individual things, which was formerly called *thisness*, not only through our present example of the window, but also through others of his own choosing.
+
+§. 181. Finally everyone will also comprehend whence the genera take their origin, to which things of different species are reckoned. Namely since things of the same species have the same essence (§. 177), and hence things of different species must have different essences; things of different species, in so far as they are regarded as such, can agree with one another in nothing but in matters that belong to their essence. In such a way the ground of the genera is the similarity in different essences (§. 18), or that which in different essences is similar to one another. E.g. windows and doors both agree with one another in this, that they are openings in the wall or partition, and so far one can bring them under one genus.
+
+[margin: Whence the genera of things arise.]
+
+[p. 2]
+
+§. 182. The species of things, and likewise the genera, accordingly show how far things are similar to one another, and how far one can be regarded as equivalent to another, in such a way that one can put one in the place of the other, and yet there still follows what one requires should follow (§. 17. 18).
+
+[margin: What one sees from the genera and species.]
+
+§. 183. Since the distinction both of the genera and of the different species and of the individual things comprised under them consists in this, that that which is changeable can be determined in a different way, but this is nothing other than a limitation of the unlimited; the whole distinction of genera, species and individual things consists in the different limitation of that which is found in them as subsisting by itself. E.g. in a window that which subsists by itself is the wall or partition in which the opening is made, and the wood or the stone with which one is accustomed to frame the opening. To the changeable belongs the figure, the breadth, the height, the proportion of the two to one another. But the figure, the magnitude of the breadth and height, and the proportion of these dimensions to one another arising from it are mere limits of extension (§. 54. 61).
+
+[margin: Distinction of genera, species and individual things.]
+
+[p. 85]
+
+§. 184. A doubt could arise here: for if in our example of the window we consider that we seldom leave it open, but rather close it with such a matter, whereby the light falls in and one can see out no less; but such a matter can be of more than one kind, notwithstanding that with us glass is commonly used for it: then it seems as if in things too that subsist by themselves, and thus not merely in the different limitations, the difference were to be sought.
+
+[margin: Objection.]
+
+§. 185. This doubt certainly has a plausibility, so long as one does not know what matter is and whence its difference arises. Now I have indeed not yet defined what it is; this too can be done more fittingly below in another place: meanwhile one can show from the principles treated so far as much as is necessary to remove the present doubt. Namely, it is indisputable that matter belongs among composite things, as that which has many and mutually different parts at the same time (§. 51). But the essence of every composite thing, and thus also of matter, consists in the manner of composition (§. 59), and consequently its
+
+[margin: Reply.] [p. 2] difference can be sought in nothing other than this. For even if the simple things that are found in the composition can be different, it is yet certain that this difference is not reached by us in our judgement of matter, and accordingly is as good as if it were not there. Namely, the difference of matter would show itself to us just the same if the simple were not different: all of which shall be set forth more thoroughly in its own place. But since nothing but figures and measured magnitudes can arise through the manner of composition, the difference here too remains merely in limitations of the things that subsist by themselves.
+
+§. 186. But it is easy to see that the limitations in which the difference of the species of things and of their genera is to be sought must be constant, that is, must not change again immediately, for otherwise a thing would have to change its species continually: which, as we know by experience, does not happen. From this it is clear that as long as this kind of limitation lasts, so long the species of the thing is not changed; but as soon as it ceases, so soon the species of the same ceases.
+
+[margin: The difference of genera and species is further explained.]
+
+[p. 87]
+
+§. 187. But since different degrees of perfections and imperfections arise through these limitations (§. 154. 169); every genus and every species, indeed every individual thing too, has some constant degrees of perfection and imperfection, which cannot be changed so long as it remains of this genus, or of this species, or even the same thing. And these one can call *essential perfections and imperfections*, because they last in a thing as long as its essence. In fact they also belong to the essence of the individual things that are reckoned to a species and genus.
+
+[margin: Why things have some constant degrees of perfection and imperfection.]
+
+§. 188. If something is to be found in two things, of which one has the ground in the other, those things relate to one another, and are therefore called *things related to one another*. E.g. if I ask why Cain came into the world, the answer is, because Adam begot him. And thus Cain has the ground of his actuality in Adam (§. 29). In this way Cain relates in his actuality to Adam, and in respect of this Adam is called the father, Cain on the other hand the son. In like manner
+
+[margin: When things relate to one another.] [p. 2] are government and subjects things that relate to one another. For in the government I find authority and power to command; in the subjects, the obligation to obey. If one asks why the government has power and authority to command, the ground of it is to be sought in the subjects, namely because they have entrusted to it the care for the common welfare and security, which cannot subsist without power and authority to command. On the other hand, if I ask why the subjects are obliged to obey, the ground is found in the government, because it namely has power and authority to command, which cannot subsist if the subject is not bound to obey. From this it is to be seen that some things then relate to others when they have the ground of something outside themselves in something else.
+
+§. 189. Whoever, therefore, wishes to understand such things as relate to one another must look to the ground that the one has in the other. Thus, e.g., whoever wishes to understand what a father is must pay attention to begetting, as that which is the ground why one person is called father and another person son. Just so, whoever wishes to see what
+
+[margin: How one learns to understand them.] [p. 89] government and subjects are, must attend to the entrusting of the care for the common welfare and security, and to the power and authority to command that derives from it.
+
+§. 190. There are indeed still various other matters that could be brought forward about things in general: but since this will be able to be done more fittingly in what follows, I also wish to reserve each of them until the place where it can best be comprehended.
+
+[margin: Why no more is brought forward about things in general.]
+
+#### Chapter 3.
+
+### On the soul in general, namely what we perceive of it.
+
+§. 191.
+
+I do not yet seek here to show what the soul is, and how the changes occur in it: my design is now merely to recount what we perceive of it through daily experience. And I wish to adduce here nothing further than what everyone can know who pays attention to himself. This will serve us as a foundation for deriving from it other things that not everyone can see at once.
+
+[margin: Design.]
+
+[p. 3]
+
+§. 192. So that one may know what is to be perceived, it is to be noted that by the soul I understand that thing which is conscious of itself; and therefore we will here investigate what we perceive of ourselves, so far as we are conscious of ourselves.
+
+[margin: What is understood here by the soul.]
+
+§. 193. But far be it from anyone to suppose that I sought the essence of the soul in consciousness, and would maintain with the Cartesians that nothing could be in the soul of which it were not conscious: for the opposite will be shown below. For the present I can go upon nothing other than that of ourselves of which we are conscious, because I am minded to recount what we perceive of ourselves, but we can perceive nothing further than that of which we are conscious. For if there is more to be found in us than we are conscious of, we shall have to bring it out by inferences, and indeed from that of which we are conscious, because we otherwise have no ground for it. Namely, what I wish to attribute to the soul over and above that which is perceived of it must be done on account of what I have noted of it from experience (§. 30).
+
+[margin: Warning against misunderstanding.]
+
+[p. 91]
+
+§. 144. I have already recalled above (§. 45) what is the first thing that we perceive of our soul when we attend to it, namely that we are conscious of many things as outside us. While this happens, we say that we *think*, and accordingly call *thoughts* changes of the soul of which it is conscious (§. 2. c. 1. Log.). On the other hand, when we are conscious of nothing, as e.g. in sleep, or also at times when awake, we are accustomed to say that we do not think.
+
+[margin: When we think and when we do not think.]
+
+§. 195. In this way we set consciousness as a mark from which we know that we think. And thus custom brings with it that consciousness cannot be separated from a thought.
+
+[margin: Whereby we know thoughts.]
+
+§. 196. But we find a difference among thoughts, when we think of things outside us and in us, namely just that which I have pointed out in the *Thoughts on the Powers of the Understanding*, on concepts (§. 9. c. 1. ff.). Although I could now appeal to this, I yet do not consider it useless if I repeat this difference here in a few words.
+
+[margin: Difference of thoughts.]
+
+§. 197. But since I have said that this difference obtains whether we may think either
+
+[margin: Whence we know,] [p. 2] of things outside us or in us, it is necessary that I explain above all things from what we know that something is in us: for from what we gather that something is outside us has already been shown above (§. 45). Namely, in that we are conscious of some things, e.g. when we see buildings or persons, we recognise by virtue of the principle of contradiction adduced above (§. 10) that I, who am conscious of a thing, am not the thing of which I am conscious. And therefore I recognise it as distinct from me (§. 17). But because I find in myself nothing further than consciousness, that is, my thoughts (§. 194); I reckon to myself nothing further than thinking, and what accordingly belongs to it, that I regard as in me. In this way we regard as in ourselves what we find to be just that from which we know ourselves, just as we are accustomed in general to place *in a thing* that from which we know it. E.g. from the figure I know the sphere: but we place this too in the sphere. And so, when I say that something is *in a thing*, this has in general no other sense than this, that I recognise the thing from it and distinguish it from others.
+
+[margin: what is in us.]
+
+[p. 93]
+
+§. 198. Some thoughts are so constituted that we know very well what we think, and can distinguish them from others. Then we say they are *clear*. E.g. I now see buildings, men and other things. I am quite well conscious of what I see, and can know each thing and distinguish it from the others. Therefore I say that my present thoughts are clear.
+
+[margin: What clear thoughts are.]
+
+§. 199. On the other hand, when we ourselves do not rightly know what we are to make of what we think, our thoughts are *obscure*. E.g. I see in the field from afar something white, but do not know what I am to make of it, since I cannot rightly distinguish one part from another; then the thought that I have of it is obscure.
+
+[margin: What obscure thoughts are.]
+
+§. 200. The name has been taken from sight. For we call a sight clear when we can distinguish well what we see; and on the other hand an obscure sight when we can no longer distinguish rightly what we see. Since now in seeing we are conscious of what we see, and therefore also think of what we see (§. 194), and indeed judge from the character of our thoughts about the difference of seeing (for to distinguish from one another what we see belongs to
+
+[margin: Whence this name arose.] [p. 2] thinking); it may very well have happened that we use the same manners of speaking of sight and of thoughts. Therefore I have also given examples that are connected with seeing. Meanwhile, since this difference is found in all kinds of thoughts, which are explained later in particular, the occasion of the name can set no limits to the meaning of the word, and one need pay no further regard to it. But we shall find in future that still more manners of speaking are taken from seeing, whereby one gives to understand the constitution of thoughts.
+
+§. 201. Thus *clearness* arises from the observation of the difference in the manifold: but *obscurity* from the lack of this observation.
+
+[margin: Whence clearness comes.]
+
+§. 202. Hence we find that a thing becomes ever clearer to us the more we observe its difference from others: on the other hand it is so much the more obscure, the less we perceive it. This holds in the sciences as well as in common life.
+
+[margin: When things become clearer.]
+
+§. 203. When our thoughts are clear, we say that it is light or bright in our soul. But just as we are otherwise accustomed to call light in the world that which makes the surrounding bodies visible
+
+[margin: What the light of the soul is.] [p. 95] so that we namely see them and can know them by their difference from one another; so we also call that in our soul a light which makes our thoughts clear and enables us to know one from another through their difference, that is, which assures us of the difference. In what this light consists, however, it is not yet time to investigate.
+
+§. 204. Hence we now also understand what the manners of speaking mean when they say that it begins to become light in us, that it is still quite dark in me, and the like. Namely, we say that it becomes light when we perceive something in a thing by which we can distinguish it from others, and are fully assured of this difference. On the other hand, when I am not yet able to distinguish anything from others, I say that it is still quite dark in me. The more, now, the certainty increases of that which I distinguish in a thing, the lighter it also becomes. Experience shows that these manners of speaking are not taken otherwise (§. 16. c. 2. Log.).
+
+[margin: When it becomes light in the soul, when it is dark.]
+
+§. 295. But what is to be noted altogether of common words and manners of speaking, that we must also observe of
+
+[margin: How one tells others that it is becoming lighter.] [p. 2] these. Namely, if one says in particular cases that it is now becoming ever lighter in us, and one wishes to explain this to another, one must name that which one now learns to distinguish and was formerly not rightly able to distinguish. E.g. if someone has heard much good said of virtue, but has not yet been told that by which virtue is distinguished from other things, and from which one is able to recognise it; then it is still quite dark in our soul when we think of virtue. On the other hand, as soon as one gives us a definition of what it is, that is, recounts some marks by which we distinguish it from other things (§. 37. c. 1. Log.), then it becomes light. If I now wish to tell someone that it is becoming lighter in me than it was before, I must tell him, either with general words or with a particular example of virtue, what I now perceive in virtue, and how I distinguish it from other things. I say this deliberately: either with general words or with a particular example: for we shall soon hear that not all can recount in an orderly manner what they perceive in a thing and by what they distinguish it from others.
+
+[p. 97]
+
+§. 206. Sometimes it happens that we can determine the difference of that which we think, and thus also tell it to others on demand. And then our thoughts are *distinct*. E.g. when I think of a triangle and of a quadrilateral, I can determine the difference between the triangle and the quadrilateral, and if someone asks me by what I distinguish these figures from one another and both from all others, I can state the difference too. Namely, it depends here on the number of sides. In the triangle there are three lines, but in the quadrilateral four lines, which make up the perimeter. And hence I know that the thought of the triangle is different from the thought of the quadrilateral. But then the thoughts of the triangle and of the quadrilateral are distinct. So when I think of two written words, I distinguish them by the letters of which they are composed. And I can state this difference if someone asks me for it. Therefore my thoughts of the letters are distinct.
+
+[margin: When thoughts are distinct.]
+
+§. 207. It is to be noted, namely, that our thoughts always contain much in themselves. When we now think of a thing, and our thoughts are clear in regard
+
+[margin: Whence distinctness comes.] [p. 3] to its parts or to the manifold to be found in a thing; then distinctness arises from this clearness. Since we obtain clear thoughts of the parts, so that we can distinguish them from one another, although we are not able to determine the proper difference, we have a distinct thought of the whole. E.g. when I have a distinct thought of a triangle, the distinctness arises from this, that I know clearly the sides that make up the perimeter, and hence am able to count them, although I am not able to determine the difference of these sides from other lines, or even from one another.
+
+§. 208. Accordingly the distinctness of thoughts becomes ever greater the more parts in the parts, or also the greater manifold, we discover in a thing. And so the distinctness becomes greater the more degrees of clearness we obtain. We can therefore also say that a greater light dawns on us when we obtain distinct thoughts.
+
+[margin: Degrees of distinctness.]
+
+Since, however, distinctness increases by degrees, thoughts thereby obtain a depth; and one understands accordingly what "penetrating" is called, and what it is to mean when to someone a deep
+
+[margin: Depth of thoughts.]
+
+[margin: What is penetrating.] [p. 99] insight is ascribed. Namely, he is penetrating who attains a remote degree of distinctness in his thoughts.
+
+§. 210. We can represent this to ourselves better if we consider the degrees of distinctness. Namely, if we can determine the difference of that which we think, we have the first degree of distinctness. What we determine as the difference has again something in itself from which it is known and distinguished from other things. If we can now determine this difference further, we have the second degree of distinctness: and so on, until we have no more than clear thoughts of the difference. The deeper one can descend, the deeper is the insight that he has into the matter.
+
+[margin: It is further elaborated.]
+
+§. 211. It is clear from this at the same time that clearness always comes one degree lower than distinctness. The first degree of clearness has no distinctness (§. 189. 206); with the second degree of clearness the first degree of distinctness begins (§. 207), and so on.
+
+[margin: How the degrees of clearness and distinctness are distinguished.]
+
+§. 212. Since we always think much at once, as e.g. I see many things at once, the whole thought, which extends to everything at the same time, becomes distinct, even if the particular thoughts, which
+
+[margin: State of distinct thoughts.] [p. 3] only to one of the things of which we think at the same time, are related, are merely clear (§. 207). And if we can therefore merely distinguish from one another that of which we think at the same time, although we can determine no difference; then we are in the state of distinct thoughts.
+
+§. 213. On the other hand, if there is no clearness at all in the things of which we think at once, we can distinguish nothing at all from one another (§. 198.), and in the whole thought, which extends to everything of which we think at once, there is neither clearness nor distinctness. And so we are in the state of obscure thoughts.
+
+[margin: State of obscure thoughts.]
+
+§. 214. It happens very often, and with many men most of all, that they do not determine the difference of what they think, and therefore cannot tell it to others on demand. Then our thoughts are *indistinct*. E.g. when I see the colour red, I know very well how to distinguish it from green, yellow and other colours, and my thought which I have of it is accordingly clear. But I cannot determine the difference, nor therefore say, if someone asks me, in what the colour red from green or from another
+
+[margin: When our thoughts are indistinct.] [p. 101] is distinguished. And so my thought of it is indistinct.
+
+§. 215. It is clear accordingly that indistinctness is a lack of the further degrees of clearness, and accordingly arises when our thoughts are obscure in regard to the parts or to the manifold to be found in a thing.
+
+[margin: Whence indistinctness comes.]
+
+§. 216. But my thoughts represent to me either present or absent things, and these either outside me or in me. Whence we know whether something is outside us or in us has already been explained above (§. 45. 197). But by what we distinguish the present from the absent will become clear in more detail from what follows.
+
+[margin: Difference of thoughts in regard to what we think.]
+
+§. 217. The things which we represent to ourselves as outside us are wholly composite things, which we distinguish by magnitude, figures and colours, and whose position relative to one another and its change, as also that of their parts, we perceive in them through motion. These things we are accustomed to call bodies, and below, in its place, we shall investigate what they properly are.
+
+[margin: What we think of the body.]
+
+§. 218. Among these bodies we take one for our own body, because the thoughts of the others are directed according to it,
+
+[margin: Whence we know our body.] [p. 3] and it remains always present to us when all the others change.
+
+§. 219. I say that our thoughts which we have of present things outside us are directed according to our body: how this happens is to be noted somewhat more distinctly. It is a thing that we readily perceive when we attend to it. Bodies outside us cause a change in our organs, which we intend to explain in the *Thoughts on Nature and on the Changes Occurring in the World*, and as soon as this occurs, we are conscious of that which it causes as outside us. It serves for elucidation what I have taught of seeing in my *Elements of Optics* (§. 22 & seqq.). I have shown there, both from the structure of the eye and by unfailing tests, that the bodily things which are set opposite the eye in a straight line are painted at the back of the eye, and that we are conscious of the bodily things outside us in such a way as the painting in the eye is constituted. Namely, if the painting in the eye is obscure, our thoughts too are obscure. If that is clear, these too are clear. If that is distinct, these too are distinct. If it is indistinct, our thoughts too are indistinct.
+
+[margin: How our thoughts are directed according to it.]
+
+[p. 103]
+
+And from this ground all the rules are derived that are to be heeded in seeing. In a like manner it stands with the other changes that are occasioned in the organs of our body by other bodily things.
+
+§. 220. The thoughts which have their ground in the changes in the organs of our body, and are occasioned by the bodily things outside us, we are accustomed to call *sensations*, and the faculty to sense, the *senses*; but the organs in which these changes occur we call the *organs of the senses*.
+
+[margin: What sensations, senses and their organs are.]
+
+§. 221. Such organs we reckon in general five, namely the eye, the ear, the nose, the tongue, and the nerves through the whole body, and hence also as many kinds of sensations and as many senses, namely seeing, hearing, smelling, tasting, feeling, or sight, hearing, smell, taste, touch. The difference of these kinds of sensations, and of the senses resting on them, is quite easy to give. Namely, *seeing* means as much as to represent to oneself the changes which are occasioned by bodily things in the eye by means of light. *Hearing* means so
+
+[margin: How many organs of the senses, and how many senses there are, and how these are distinguished from one another.] [p. 3] much as to represent to oneself the changes which are occasioned by bodily things in the ear through sound. *Smelling* means as much as to represent to oneself the changes which are occasioned by bodily things in the nose through an invisible effluvium from them. *Tasting* means as much as to represent to oneself the changes that are caused in the tongue by bodily things which one chews or dissolves in another way. Finally, *feeling* means as much as to represent to oneself the changes that occur in our body when bodily things touch it, or it them.
+
+§. 222. Perhaps some will wonder that I reckon the sensations among the thoughts of the soul: for they will think that sensations belong to the body. We do indeed say: The eye sees, the ear hears, the nose smells, the tongue tastes, the body has a feeling. But it is to be seen from the foregoing that in every sensation a change occurs in our body as well as that we are conscious of those things which occasion this change (§. 219. & seqq.). Both must be together when we say that we sense. For e.g. even if in sleep the sound falls into the ears
+
+[margin: Objection and its reply.] [p. 105] falls, or also the smell rises into the nose, and hence just as well as when we are awake it occurs in the ear and the nose; we yet do not say that we hear or smell it, because we are not conscious of anything of it. And from this it is clear at the same time that we chiefly refer sensation to consciousness, which indisputably belongs among the thoughts (§. 195.). Meanwhile, since it is known to us that without the changes occurring in the organs of the senses we are conscious of nothing of the things that occasion them; one is accordingly accustomed also to call these changes sensations, but the meaning of the word is thereby somewhat altered. And it is no wonder if such a thing happens here, since one meets with such inconstancy in speaking no less in other cases: of which the cause shall be shown in its own place. And besides this it goes without saying that, since we treat here of the soul, we must explain what sensations are in respect of the soul; but not what one could call by this name in respect of the body. A greater light will dawn here below, when I shall prove that to all thoughts of the soul certain changes in the body [p. 3] are to be found, so that a constant agreement between body and soul may be maintained.
+
+§. 223. When we know how the kinds of sensations are distinguished from one another (§. 221), and what the senses are in general (§. 220); then it can also be shown in particular what each of the five senses is in respect of the soul. Namely, *sight* is a faculty of representing to oneself the changes which are occasioned in the eye by bodily things by means of light. *Hearing* is a faculty of representing to oneself the changes which are occasioned in the ear by bodily things through sound. *Smell* is a faculty of representing to oneself the changes which are occasioned in the nose by bodily things through an invisible effluvium. *Taste* is a faculty of representing to oneself the changes which are occasioned in the tongue by bodily things which we chew or dissolve in another way. Finally, *feeling* is a faculty of representing to oneself the changes that occur in our body when either bodily things touch it, or it them.
+
+[margin: What the five senses are in respect of the soul.]
+
+[p. 107]
+
+§. 224. But one sensation has more clearness than another, in such a way that on account of the other one cannot perceive the one, or perceives it very little. Experience gives us examples. The light of the stars makes a lesser sensation than the light of the sun, so that by day we cannot see the stars for the sun. When there is loud talking, I cannot well hear what someone says to me softly. When one has a taste, or also a smell, that is troublesome to one, one is accustomed to drive it away by a stronger one, and so on.
+
+[margin: Sensations have different clearness.]
+
+§. 224. Hence one is accustomed to say not only that a greater light obscures the lesser; but in general it is true that a stronger sensation obscures the weaker. The sense of this manner of speaking is to be taken from the foregoing. It means, namely, as much as to say: on account of the one we often cannot sense the other at all, or very little, although it occasions a change in the organs of our senses just as well as that one, and both changes are represented in our soul.
+
+[margin: A stronger sensation obscures the weaker.]
+
+§. 225. In sensations we can change nothing according to our pleasure; rather we must accept them,
+
+[margin: The constitution of sensations is] [p. 3] as they come. A tone may be pleasant or troublesome to me; it remains as it is, and I cannot make otherwise the sensation that I have of it. In just this way it stands with taste and smell, indeed with all the other senses. And accordingly the constitution of sensation is outside our power. For just that is outside our power which we cannot do: as, on the other hand, that is in our power which we do, or can bring about by our doing.
+
+[margin: not in this power.]
+
+§. 226. We find also that it is just as little in our power whether we wish to sense something or not. For as soon as external things cause the proper change in the organs of the senses, we must also represent them to ourselves. And hence sensations are necessary, as well in respect of their existence as in respect of their constitution (§. 36).
+
+[margin: Sensations are necessary.]
+
+§. 227. But since we can see nothing except what throws light into the eye; since we can hear nothing except that whereof the sound falls into our ears; since we can smell nothing except that whereof an effluvium comes into our noses; since we can taste and feel nothing except what touches our tongue and our body
+
+[margin: How far we have them in our power.]
+
+[p. 109]
+
+(§. 221); the sensations are therefore directed according to the position of our body relative to the others; so far as it is in our power to change this, and so far as we can prevent the changes in the organs of our senses, so far are they in our power.
+
+§. 229. How we can prevent the changes in the organs of our senses is known to us from daily experience; namely, we must prevent that which causes them from touching the organs of the senses. As when we do not wish to see something, we must prevent the light from the things that we do not wish to see from falling into our eyes: which happens when we either turn the eyes away or close them. When we do not wish to hear something, we must keep the sound from the ear, e.g. by stopping it. When we do not wish to smell something, we must not let the effluvium from the bodies into the nose, by either stopping it or holding something before it, and so on.
+
+[margin: How we can prevent the changes in the organs of the senses.]
+
+§. 230. What we have once sensed we can also represent to ourselves again, even when it is not present. E.g. if I have seen a man in a company
+
+[margin: Things once sensed we can again]
+
+[p. 3]
+
+I can represent him to myself as if he stood before me, although he is not there. In like manner, when I have heard someone speak, I can represent to myself as if I heard it again, although no one is present who is now speaking.
+
+[margin: represent to ourselves.]
+
+§. 231. Yet we find here a notable difference. One thing does not come to me so easily as another. Where there is distinctness in sensations, there we can represent something to ourselves again better than where it is indistinct. The sun gives an example. Its light has much clearness, but no distinctness: for we can distinguish nothing from one another in its light (§. 206). On the other hand, the figure and size can well be known and distinguished from other figures and sizes, and hence we have distinctness in respect of figure and size in the representation of the sun. If we accordingly wish to represent to ourselves the sun, when it is not present; this can well be done with its figure and size, but not well with the light.
+
+[margin: Yet better what we sense distinctly than what we sense indistinctly.]
+
+§. 232. Therefore, since in general in those things that we see nothing further is perceived than figures, sizes, positions and colours; but figures, sizes and positions distinctness
+
+[margin: What we best represent to ourselves of what we have seen.] [p. 111] have, the colours not: so one can in general of the things one has seen better represent to oneself again the figures, sizes and positions than the colours.
+
+§. 233. In words there is more distinctness than in any other sound, for we can distinguish one syllable from another very well, whereas in another sound we distinguish nothing. Hence we can also represent to ourselves better words and speeches that we have heard than another sound in which we knew nothing to distinguish. In just this way one will find that of a piece of music that one has heard one can represent to oneself no more than what has distinctness. Since now one who understands music sees more of it than another, he can also represent it to himself again better than another.
+
+[margin: What of that which we have heard.]
+
+§. 234. On the other hand, since in smell, taste and feeling there is seldom even a little distinctness; one can also of that which has been comprehended by these senses represent to oneself little or nothing again.
+
+[margin: What of smell, taste and feeling.]
+
+§. 235. The representations of such things as are not present one is accustomed to call *images of the imagination*. And the force of the
+
+[margin: What images of the imagination are.] [p. 3] soul to produce such representations is called the *imagination*.
+
+[margin: What the imagination is.]
+
+§. 236. Since the images of the imagination do not represent clearly all that was contained in the sensations (§. 231.), there is in them a great obscurity, and in this they are distinguished from the sensations; indeed by this we also are accustomed to distinguish the former from the latter. E.g. when I imagine a person whom I have seen elsewhere, and on the other hand see another before me; there appears between the two a great difference. For although I can very well represent to myself of the first what depends on figures and size, also the positions of the parts relative to one another; yet the colours remain almost wholly absent, and nearly everything becomes black. Whereas, on the other hand, my sensation represents the colours to me vividly. Thus with the imagined person everything looks dark; with the real one, on the other hand, everything looks bright and clear.
+
+[margin: How images of the imagination are distinguished from sensations.]
+
+§. 237. Meanwhile, when the images of the imagination are alone, they seem to us to have a greater clearness, so that they are then also taken for sensations, as we find this in dreams. Namely, because we then have no sensations, at least
+
+[margin: When we cannot distinguish them.] [p. 113] noticeable ones; so too the difference cannot be noticed, which depends on nothing distinct. For of that of which we have merely clear thoughts, the same things cannot well be distinguished otherwise than by comparing them with one another.
+
+§. 238. But one finds that the images of the imagination take their origin from the sensations, and in the following way. When our senses represent to us something that has something in common with a sensation which we had at another time, that same thing comes back to us. If this in turn has something in common with a sensation or image of the imagination which we had at another time, this also comes back to us in its turn. And in this fashion the images of the imagination keep succeeding one another. E.g. I have seen persons and glasses in a company where there was drinking. When I afterwards look at glasses, the persons come back to me too. If I have otherwise seen one of the persons in church, the church comes back to me. And so it goes on.
+
+[margin: Rule of the images of the imagination.]
+
+§. 239. Since dreams are nothing other than images of the imagination, we can state from this the ground of dreams.
+
+[margin: How dreams are to be explained.]
+
+[p. 3]
+
+Namely, these too take their origin from a sensation that does not wholly awaken us, and by it there is brought forth again what we otherwise sensed or imagined, but which has something in common with the present sensation. After this it goes on as was remarked of the images of the imagination.
+
+§. 240. Since now these things which we imagine one after another are not grounded in one another, nothing in a dream can be grounded in another. And since from the example given above (§. 238) it is clear that a place can occur to us in a dream where we have seen a thing, of a kind that seems to us to be present, but we can suppose ourselves to be nowhere other than in the place which we represent to ourselves (47); it is clear from this how by the leap we can come in a dream from one place to another in a moment, without moving through those that lie between. And it is the same when other things in a dream happen by a leap. In this way one now understands why in dreams no order is found, such as is found in truth (§. 142).
+
+[margin: Why there is no order in dreams.]
+
+[p. 115]
+
+§. 241. But the imagination goes not only to those things which we have already thought of at another time, but we can also represent to ourselves what we have never before sensed. We experience this in geometry when we represent to ourselves the course of a curved line, such as we have never yet seen, and then draw it on paper according to this representation, and thereby first bring it to sensation.
+
+[margin: Imagination goes also to things that we have never sensed.]
+
+§. 242. But this happens in two ways. The first manner consists in this, that we divide at will those things which we have either actually seen or only had before us in image, and put together at will the parts of different things: whereby something comes out of a kind that we have not yet seen. In this way one has brought out the figure of Melusina, who is half human and half fish; the figure of angels, when they are painted as winged men; the strange figures of the heathen gods, and the like. And herein consists the *force of invention*, by which we sometimes bring out something that is not possible, and which is therefore called an *empty fiction*.
+
+[margin: First way in which this happens. What the force of invention is.]
+
+[p. 3]
+
+§. 243. Sometimes it happens that when we want to invent something, something quite different from what we desire comes out. E.g. I want to represent to myself a monster that has a large head, short arms and feet, together with a high hump. While I am occupied with this, it happens that a large person occurs to me, with a large head indeed, but one proportioned to the rest of the body, who now turns into a rider, now into something else. The cause is to be taken from §. 238. When we think of a large head, and we have previously seen a person with a large head, the present thought has something in common with the earlier sensation, and that same person must therefore come back to me. If we have now at another time seen a person on horseback, who in other respects had a similarity with the large one of whom we are now thinking, this one comes to us in the place where the other was before. And so it appears no differently than if the large person had turned into the rider, because, namely, at the moment when the large person vanishes, the one on horseback stands in his place, without our seeing how that one went away and this one came.
+
+[margin: Images of the imagination are not wholly in our power.]
+
+[p. 117]
+
+§. 244. From this source spring the images of the imagination of painters, sculptors and other artists, which they represent through art when they bring all sorts of marvels to market.
+
+[margin: Whence the marvels of the artists come.]
+
+§. 245. The other manner in which the imagination produces things that it has never seen makes use of the principle of sufficient reason, and brings forth images in which there is truth (§. 142.). To this belongs the image under which a sculptor represents to himself a statue, and into which he has put everything beautiful that he has seen and, after careful investigation, remarked in the kind of human being of which it represents one. To this belongs the course of a curved line of which we have otherwise never yet thought (§. 240).
+
+[margin: Other way in which the imagination represents what we have not sensed.]
+
+§. 246. On this commonly rests the art of invention of architects. For they gather a good stock of all sorts of drawings and engravings, partly of such buildings as have actually been erected, partly of others that have only been projected by other architects. As soon as they are now to plan a building and make a drawing of it, they take up one drawing and one engraving after another, just as the imagination brings forth one after another of those things which, with the
+
+[margin: Art of invention of architects.] [p. 3] present one, of which we are thinking, have affinity; and what pleases them they then bring together into a new drawing. One can let this happen if the principle of sufficient reason is not forgotten, and one accordingly arranges the composition according to the rules of architecture, so that the building reaches its proper degree of perfection (§. 152. 153). But if one sets this aside and conducts oneself merely as happens in inventing (§. 241); then this art is the way to errors, and many imperfections must creep into the work.
+
+§. 247. This art of the architects who do not get far enough is used by other artists too; indeed the learned gentlemen likewise know how to make use of it. To this belong the preachers, who compose their sermons either from postils or also from the concordance. To this belong scholars in general, who make their books by putting together what they have gathered from many other books. To this belong also the beginners among the learned, who at school compose their verses and speeches from collected phrases, and sometimes
+
+[margin: Is also used by other artists and by scholars.] [p. 119] also have followers among those who no longer wish to be called beginners. What has been remarked of architects therefore holds for them too. Namely, if the principle of sufficient reason is not put out of sight, so that truth can arise (§. 144); then this art is not wholly to be rejected. But if this does not happen, and one conducts oneself as in inventing (§. 241); then much that is erroneous and imperfect will also come out: as experience with the great mass of our present-day book-writers shows more than enough.
+
+§. 248. The question arises here, whence we know that we have already had a thought before, e.g. have already seen a person before. Although at first it seems hard to answer, the ground nevertheless shows itself quite clearly if we attend to it properly. Namely, the thought is now in another order than before, both with regard to the others that are simultaneous with it, and to those on which it follows. E.g. when I see again a person whom I have seen before, I see him in another place than before, or beside other persons than before, or also somewhat differently clothed than before, and beforehand I have seen or
+
+[margin: Whence we know that we have already had a thought before.] [p. 3] imagined something other than at that time, when I saw her the first time. Therefore, if we cannot properly represent to ourselves, e.g., the place where we saw a person before, and notice something indistinct from which we know that we have already seen her, we become somewhat doubtful and say: I must have seen the person somewhere already, but I cannot recall where. But if it still occurs to us, or another tells it to us, then from the place we are certain that we had also seen this person before.
+
+§. 249. For this reason now, that we can know of the thoughts which we bring forth anew that we have already had them before, we ascribe a *memory* to the soul. Memory is therefore nothing other than the faculty of recognising again thoughts which we have had before, that we have already had them, when they recur to us.
+
+[margin: What memory is.]
+
+§. 250. This definition of memory may seem somewhat strange to one or another. For they will think that memory is a faculty of preserving the thoughts which we have, and of giving them out again at another time. But I will very soon show the correctness of my definition and the incorrectness of the others.
+
+[margin: Objection.]
+
+[p. 121]
+
+§. 251. Every thought represents something to us, either outside us or in us (§. 194. 197). If we therefore bring forth again in ourselves a thought which we have already had before, we represent to ourselves something that is not present. But this belongs to the imagination, and cannot be referred to memory; otherwise imagination and memory would not be sufficiently distinguished from each other. Accordingly nothing remains for memory but the cognition that we have already had a thought before. And that this is properly the work of memory, by which we know it and distinguish it from other forces of the soul, is clear enough from this, because we all say we have forgotten it, whether we have already seen a person or not, and the like that we represent to ourselves, when we cannot properly recall where or on what occasion we saw her. In the same way, when something occurs to one that he heard before, and he does not recognise that he heard it, he imagines it to be his own thoughts, on which he came of himself. And if one brings him so far that he recognises that another told him this, or that he read it in a book, he then ascribes this to memory, but the former inability, however, of such
+
+[margin: First answer.] [p. 3] recognition he ascribes to forgetfulness. Where we therefore know that we have had a thought before, there we grant a memory; but where this does not happen, there we will allow it no place.
+
+§. 252. I do not yet require here to show what memory properly is, so far as it belongs to the soul (for this can only be investigated in what follows;) but have wished merely to enclose the meaning of this word within right limits. But those who are not satisfied with my definition of this word wish to go further and show in what memory consists. Since they now understand nothing of the essence and nature of the soul, and therefore cannot explain how it is possible that the imagination brings forth thoughts which we have had before, and that they can be recognised through memory, they look to see whether their imagination may not represent something among the things which they formerly sensed, where one brings forth again things which one had before. Since it now occurs to them how they sometimes kept things in a receptacle, and thereby were in a position to bring them forth again when it was demanded
+
+[margin: Another answer.] [p. 123] so they likewise represented memory as a receptacle, in which the soul preserved the thoughts that it once had, and from which it brought them forth again when it was pleasing to it or when it was otherwise demanded by someone. Hence it has also happened that some are accustomed to call memory a receptacle of thoughts or concepts. But one finds very soon that these are empty words; because one can form no concept of this receptacle, of the preserving of thoughts in it and of the bringing forth from it, if one lets go those things from which the phrases were taken (§. 4. c. 2. Log.).
+
+§. 253. We find that we retain something well, or take it well into memory, when we either sense something for a long time or often, or also think of it often, of which, as of a known thing, I deem it unnecessary to give an example. But we say that we *retain something well, or take it well into memory*, when we can easily represent it to ourselves again and soon recognise it, even when we have not thought of it for a long time.
+
+[margin: When we take something well into memory.]
+
+§. 254. When we either cannot represent to ourselves again at all a thing which we knew at another time, or at least do not recognise it when it recurs to us
+
+[margin: What forgetfulness is.] [p. 3] or others remind us of it, that we already knew it at another time, we say: we have forgotten it. Accordingly *forgetfulness* is nothing other than an inability to think again of something of which we have thought before, and, if we do think of it, to recognise that we have already thought of it before.
+
+§. 255. From what has just been said (§. 253.) of how we easily retain a thing, it can be comprehended at the same time how we soon forget something, namely when one either pays little attention to it while it is present, or does not often think of it, or also falls soon from one thing to another.
+
+[margin: When we soon forget something.]
+
+§. 256. Sometimes it happens that we have only an obscure thought of something of which we had a clear one before. Since we now cannot recognise the thing from the obscure thought, we say that it will not occur to us. For we are accustomed in general to say of thoughts which neither have a ground in the organs of our body, and therefore do not belong among the sensations, nor arise in us at our desire, that they occur to us.
+
+[margin: When something will not occur to us.]
+
+[margin: When we say that something occurs to us.]
+
+§. 257. Since now nothing can occur to us except what has something with the present thought
+
+[margin: When we] [p. 125] in common, and this brings nothing further into memory than what has something in common with the first thing that occurs to us (§. 238); then the means by which one brings it about that something occurs to us is, if we diligently attend to everything that we can distinguish in our present thought, and thereby bring into memory what has either preceded, or been present at the same time, or also followed upon that of which we want to think, that is, of which we want to have a clear thought in place of the obscure one. While this happens, we say that we *recollect* something. The *faculty of recollection* is therefore nothing other than an endeavour to transform an obscure thought of a thing, which we knew clearly before, into a clear one.
+
+[margin: recollect something.]
+
+§. 258. And we use just this means when we want to bring others to recollect something: namely we represent to them what has preceded, or been present at the same time, or also followed upon that which is to come back to them into memory.
+
+[margin: How we make others recollect.]
+
+§. 259. But it is well to note that both our memory and recollection go not only to sensations but to all thoughts, they may
+
+[margin: How far memory and recollection extend.] [p. 3] have whatever names they will. Experience shows this sufficiently, and we shall soon learn more of it, when we come to infer the faculty of one from that of another.
+
+§. 260. But memory and imagination have different degrees. For we find that one can represent to himself again, together and one after another in unchanged order, more things of which he has thought at once or in a series one after another, than another can. And so one is accustomed to judge the goodness of memory from the multitude of the things which one represents to oneself again, and of which one can recognise again that one has recognised them before.
+
+[margin: Degrees of imagination and of memory.]
+
+§. 261. We also judge the goodness of memory from this, when one quickly retains something, having paid attention to it for only a short time, or having represented it to himself only a few times one after another, and yet is in a position to represent it to himself again when occasion offers (§. 238) and to recognise that he has already thought of it before.
+
+[margin: Further ground of the same.]
+
+§. 262. We find also, both of imagination and of memory, that both can be extended. For we see that some can bring it to this by practice, that they do far more through
+
+[margin: Imagination and memory can be extended.] [p. 127] the imagination represent to themselves, and can keep present longer what they represent to themselves than they were at first able. In the same way we find that it can be brought about by practice that one can also quickly retain more of what is beside one another at the same time, or follows in a series one after another, than one was able to before.
+
+§. 263. How greatly the imagination and memory can be extended is confirmed by the example of the celebrated mathematician John Wallis, who relates in his Algebra c. 103. §. 449. Vol. II. Oper. that he worked in the dark night greater sums in his head than one would think could be done by day. He cites a particular example of this, so that one may have the less cause to doubt its certainty. When, namely, in A. 1670, on the 18th of February, old calendar, Johann George Pelshover, from Königsberg in Prussia, visited him, and the conversation fell on this matter, he made a trial and merely in his memory extracted the square root of the number 2468. 3579 1012 1411 1315 1618 2017 1921 2224 2628 3023 2527 2931, which extended to 27 figures, namely 157103016871482805817152171. Indeed he adds, §. 450, that he could with the most subtle
+
+[margin: Is illustrated with examples.] [p. 3] most prolix and very intricate mathematical demonstrations manage no better than at night in the dark, when everything is still.
+
+§. 264. But it is easy to consider (as Wallis himself also remarks) that this extension does not take place all at once but little by little. One begins with something small and goes on ever further. I recall myself that, when I at the beginning learned mathematics and especially algebra, I brought it little by little to this, that in the evening, when I had lain down, I could solve some problems merely in thought and bring the whole calculation to an end: as likewise I represented the geometrical figures to myself, both in carrying out the final equation and in demonstrations, as distinctly as if I had painted them before me on the blackboard.
+
+[margin: This extension takes place little by little.]
+
+§. 265. But so that I may say honestly what was helpful to me in this, it contributed greatly that I accustomed myself from the very beginning to write the whole calculation down orderly before me, as one finds it set out both in my German and in my Latin *Elements of Algebra*; and in demonstrations I likewise had everything painted out for me in thought, just as I have it in
+
+[margin: What more is required.] [p. 129] my *Ratione Prælectionum* described. For in this way I have never had to represent to myself more than one line distinctly in order to continue the calculation.
+
+§. 266. From this one sees that distinctness contributes much when one wants to retain something well and to extend the forces of imagination and of memory. But I speak here of the distinctness of thoughts which I defined above (§. 206), when one represents things in such a way that they can easily be distinguished from one another. And experience confirms this also in other cases, of which it is not necessary to cite examples.
+
+[margin: What is distinct is better retained.]
+
+§. 267. Indeed, that one can extend the force of memory is attested by the *art of memory*, which some practise with good success: the rules of which can have their ground nowhere else than in the essence of memory (§. 32. 33.).
+
+[margin: Art of memory.]
+
+§. 268. We find in the soul a faculty, both in its sensations and images of the imagination and in all remaining thoughts, of which we shall speak hereafter, of directing itself to one among them in such a way that we are more conscious of it than of the rest, that is, of making one thought get more clearness than the others
+
+[margin: What attention is.] [p. 3] have: which we are accustomed to call *attention*.
+
+§. 269. And this attention contributes not a little to our extending our imagination and memory. Indeed it is generally true that we retain something more easily and better when we are attentive than when we do not attend to it properly.
+
+[margin: It is necessary for the extension of imagination and of memory.]
+
+§. 270. But we also find here that, just as attention has its degrees, so also by constant practice a higher degree can be attained than one could otherwise have. Hence one finds that those who occupy themselves much with profound matters and strive to bring lengthy demonstrations happily to an end attain a much higher degree of attention than others, who soon grow weary when they are to continue their thoughts in a series without interruption.
+
+[margin: How it is brought to a higher degree.]
+
+§. 271. On the other hand both the senses, and in particular imagination and memory, are accustomed to disturb it greatly. Hence in general those can least of all direct their thoughts for long on one thing who have many different things to do during the day; and at the time when the senses are strongly occupied by many things, attention
+
+[margin: How it is disturbed.] [p. 131] ceases soon, or at least it becomes hard for us to maintain it.
+
+§. 272. When we represent a thing to ourselves, whether we sense it or imagine it, and direct our thoughts on one part after another of which it consists, or on one after another of the manifold that is to be met with in it; then we *reflect* on the same thing, and through this continued attention to one part after another, or to one after another of the manifold, it becomes clear to us in its parts, or in the manifold (198), but in itself distinct (§. 206): unless, that is, we can determine no difference among the parts or the manifold, in which case the thing merely remains clear (§. 206).
+
+[margin: When we reflect on something.]
+
+§. 273. While we reflect on things and are assured by memory that we have already sensed or imagined the like before (§. 248.); we thereby recognise the similarity and the difference of things (§. 17. 18). And hereby we arrive at representations of the genera and species of things (§ 182), which one is properly accustomed to call *concepts*, and which are the ground of *general cognition*.
+
+[margin: How we arrive at concepts.]
+
+[p. 3]
+
+§. 274. How we reflect further on these concepts and take occasion from them to compose new ones (§. 242, 245); I have discussed at length in the first chapter of my *Reasonable Thoughts on the Powers of the Understanding*, and it is not necessary that it be repeated here.
+
+[margin: Where further information on this is to be found.]
+
+§. 275. I have also explained there that concepts have just such differences as I explained above of thoughts in general, namely that they are either clear or obscure, and the clear either distinct or indistinct, the distinct either complete or incomplete, and the complete either adequate or inadequate: which it would be unnecessary to repeat here.
+
+[margin: Difference of concepts.]
+
+§. 276. As soon as we have distinct thoughts or concepts of a thing, we *understand* it. And that is *intelligible* which we can know distinctly.
+
+[margin: When we understand something.]
+
+[margin: What is intelligible.]
+
+§. 277. The force of representing the possible distinctly is the *understanding*. And herein the understanding is distinguished from the senses and from imagination, that where these are alone the representations are at most clear but not distinct, whereas where the understanding, in addition,
+
+[margin: What the understanding is.] [p. 133] comes in, the same become distinct. Hence when someone can tell us nothing of a thing, although he can imagine it, that is, when he has no distinctness in his thoughts (§. 206.), we are accustomed to say: he has no understanding of it, or he does not understand it: whereas if he can tell us what he represents to himself of the thing, we say: he has understanding of it, or he understands it. And sometimes we quite plainly give the lack of distinctness as a ground that someone does not understand the thing, when, namely, we say: how is he to say it? He understands nothing of it, although it is known to us that he has sensed the thing and can imagine it again.
+
+§. 278. As soon as we can represent a thing to ourselves, we *know* it. And if the concepts are distinct, our cognition too is distinct: but if the former are indistinct, the cognition is also indistinct.
+
+[margin: When we know something.]
+
+§. 279. The more distinctness there is therefore in cognition, the better we understand the thing (§. 276) and the more we know how to say of it (§. 206). And from this arise the degrees of cognition (§. 155).
+
+[margin: Degrees of cognition.]
+
+§. 280. If therefore someone comprehends distinctly everything that can be known of a thing, he has the highest degree
+
+[margin: Which is the greatest cognition.] [p. 3] of cognition of this thing, and it is not possible to attain a greater cognition.
+
+§. 281. But where indistinctness and obscurity remain, there cognition is not yet brought to the highest degree, and according as much or little indistinctness and obscurity remains, it is far or not far from it. And so from indistinctness and obscurity arise the degrees of imperfect cognition.
+
+[margin: Whence the imperfection of cognition comes.]
+
+§. 282. Because distinctness of cognition belongs to the understanding, but indistinctness to the senses and imagination (§. 277): the understanding is separated from the senses and imagination when we have wholly distinct cognition; but united with the senses and imagination where indistinctness and obscurity are still to be met with in our cognition. In the first case the understanding is called *pure*, but in the other *impure*.
+
+[margin: When the understanding is pure, when it is impure.]
+
+§. 283. Since one can now give a distinct difference between the pure and the impure understanding, which one also finds grounded in experience (§. 282); those deceive themselves who pretend that pure understanding is an empty fiction of the mathematicians (§. 242). They
+
+[margin: Pure understanding is no empty fiction.] [p. 135] deceive themselves, however, because they have not recognised the difference between the pure and the impure understanding, indeed sometimes have hardly sensed it.
+
+§. 284. I know well that one sometimes takes the understanding in general for a force of representing the possible, whether it happens distinctly or indistinctly, indeed even obscurely: in which case the force of sensing and the imagination are comprehended along with it. But what need is there for us, without necessity, through an inconstancy in speech, to make a word ambiguous, when we have words enough by which we are able to distinguish all forces of the soul from one another, and indeed so that we keep the most usual meaning of the words which they once have.
+
+[margin: Why the understanding is not taken more broadly.]
+
+§. 285. Experience meanwhile shows it, and we shall prove it in its place, that our understanding is never wholly pure, but that along with distinctness much indistinctness and obscurity constantly remains. Notwithstanding this, one can ascribe to each faculty of the soul what is due to it, and thereby avoid giving occasion to misunderstanding through ambiguous speech.
+
+[margin: Our understanding is never pure.]
+
+[p. 3]
+
+§. 286. The understanding accordingly proves itself in concepts in this, that we distinguish from one another what is to be met with in a thing that we represent to ourselves, and, by comparing it with what is found different in other things, determine the difference of things from one another, whereby we arrive at definitions (§. 36. c. 1. Log.) and know the species and genera of things (§. 182). So it comes from the understanding that we have general concepts (§. 23. c. 1. Log.) and hence general cognition at all.
+
+[margin: Understanding brings us to general cognition.]
+
+§. 287. As soon as we distinguish the species of things and their genera, also the attributes and changes, and their relations to one another: we know that this or that thing has this or that in itself, or at least can have in itself, or also that something can proceed from it, that is, that one can find in it the ground of a change in something else; whereas another thing does not have this or that in itself, or also cannot have in itself, likewise that something cannot proceed from it. And this operation of the understanding we call *judging*.
+
+[margin: When the understanding judges.]
+
+§. 288. We see from this that for a judgement it is not enough if one
+
+[margin: On what judging] [p. 137] represents to oneself a thing with its attribute, or change, or also with its effects; but that besides this it is required that we distinguish the attribute, or change, or also the effect from the thing, and regard them as two different things which are together with one another, and indeed of which one is connected with the other. In this way judgement goes to the representation of the connection of two things with one another. And the like holds of the separation of two things.
+
+[margin: depends.]
+
+§. 289. I will illustrate it by an example, so that it may be better understood. When I represent to myself a glowing iron, I have both a concept of the iron and of being glowing, and I represent both to myself with one another, and the one in the other. But while this happens, I judge nothing yet of the iron; I have merely a concept of it. Hence if someone asks me what I am now thinking, I answer: I see glowing iron. On the other hand, as soon as I represent to myself being glowing as something distinct from the iron, and consider that it is now connected with the iron, I judge of the iron that it is glowing. Therefore if someone then asks me what I am thinking, so
+
+[margin: It is illustrated by an example.]
+
+[p. 3]
+
+I answer: I think that the iron is glowing. And in this way people also, in their ordinary speech, make the difference very distinctly known, when they judge or have a mere concept of something. And we also see from the example cited that by the judgement of the glowing iron we properly understand the representation of the connection of being glowing with the iron. The same holds when we represent to ourselves at the same time a glowing iron and another that is not glowing. For if it remains at the mere representation, there is no judgement yet. But as soon as we notice the difference of the glowing and the non-glowing iron and attend to this, that being glowing is not connected with the one; then we first begin to judge of the iron that it is not glowing. And we see accordingly from this example that we are properly accustomed to call the judgement of the non-glowing iron the representation of the separation of being glowing from the iron.
+
+§. 290. Since we now represent two things to ourselves in each judgement, namely first a thing, and then something that belongs to it or does not belong to it, and beyond this either the connection or
+
+[margin: How judgement is defined, and what is to be considered in it.] [p. 139] separation of the two things from one another; and so have three concepts (§ 9. c. 1. Log.): one is accustomed to define judgement by a connection or separation of different concepts. And whoever therefore wishes to consider a judgement has to attend to three things, namely 1. the thing of which judgement is made, 2. that which belongs to it or does not belong to it, 3. the connection or separation of the two preceding things.
+
+§. 291. But we are accustomed to name the species and genera of things, whether they be things subsisting by themselves or things subsisting through others, with particular names, which are formed from distinct sounds and altogether are called *words*. Words are accordingly nothing other than signs of thoughts.
+
+[margin: What words are.]
+
+§. 292. A *sign* is a thing from which I can know either the presence or the arrival of another thing, that is, from which I know that either something is actually present in a place, or that something will arise there. E.g. Where smoke rises, there is fire. Since now the former cannot be without the latter (for a rising vapour from warm dung, from a warm mountain wetted by rain, from a river that is about to freeze, and the like, is by error taken for
+
+[margin: What a sign is.] [p. 3] a smoke); then I can know from the former that the latter is there, namely that in a place there is fire. And in this way smoke is a sign of fire.
+
+§. 293. If therefore two things are constantly together with one another at the same time, or one constantly follows upon the other, then one is always a sign of the other. And such signs are called *natural signs*. E.g. Smoke is a natural sign of fire.
+
+[margin: What natural signs are.]
+
+§. 294. We are also accustomed to bring two things at will to one place, which otherwise would not of themselves come together, and to make the one a sign of the other. Such signs are called *arbitrary signs*. To this belong the signboards of craftsmen and artists, the particular dress for persons of a certain rank or sex, and the like.
+
+[margin: What arbitrary signs are.]
+
+§. 295. Words belong among the arbitrary signs: for that a word and a concept are present together with one another, or that one of the two follows upon the other, rests on our spontaneity.
+
+[margin: Words are arbitrary signs.]
+
+§. 296. Namely, those who first devised words have, at their pleasure, to the species and genera of the things subsisting by themselves and through others, names
+
+[margin: This is further explained.] [p. 141] imposed upon them. For although they must have had some ground for it (§. 34.); yet that ground was not necessary: which is sufficiently clear from this, that the words by which one and the same thing is signified differ in different languages. Now what can be otherwise is not necessary (§. 41). But since one often represents to oneself the word and the thing signified by it at the same time, one need only sense the thing or imagine it, and the word too comes to mind (§. 238), and one recognises that this word is the name of the thing (§. 249); or one need only hear the word, or see it written, or imagine it, and the thing that is signified by it comes to mind at the same time (§. 238), and we recognise that this is the thing to which this name belongs (§. 249).
+
+§. 297. From this we can understand how we learn the mother tongue, that is, the one that is spoken in the place where we are brought up. For we often sense the things and hear their names at the same time. Through this we become able, by the imagination, to represent the name again by representing to ourselves the thing signified by it, and conversely to represent this to ourselves when we
+
+[margin: How we learn the mother tongue.] [p. 3] hear that one or think of it (§. 238). Memory, on the other hand, assures us (§.249.) that this name is the one that we or others otherwise attached to the thing. Sometimes we also hear an absent thing named, and have it described or defined for us (§. 1. c. 5. Log.): in which case we connect the description or definition with the name. In other respects it remains as before.
+
+§. 298. When we live in a place where a language is spoken, we learn it in the same way as we learn the mother tongue: for here we find ourselves in entirely the same circumstances as before. But when we are in a place where it is not spoken, this must happen by means of the mother tongue, or of another that we have already learned. For here we often represent to ourselves two words, which in two languages signify one and the same thing, together, e.g. by often reciting both one with the other; the word in the mother tongue, or in the other that we already understand, then stands here as the thing signified by the word did before (§. 297). And when one notes this single difference, everything else remains as before (§. 297), so that it is accordingly unnecessary to add more here.
+
+[margin: How we learn other languages.]
+
+[p. 143]
+
+§. 299. One also sees why a child learns to understand the mother tongue sooner than to speak it. For nothing further is required for understanding than that we be able to represent to ourselves the thing along with the name, and the name along with the thing, and recall that this is the name of the thing (§. 297). But if we are to speak it, we must besides this also pronounce the words; this happens when we form, by the organs of speech, the simple sounds out of which the sound of the word is composed. For when one looks at the word by itself, it is a distinct sound, composed of other simple clear sounds: of which I shall speak in another place, namely in my *Reasonable Thoughts on Nature*. Since now, besides what is required for understanding a language, something more is needed if one wants to speak it, it is no wonder that a child can understand the mother tongue sooner than speak it. And we also find it sufficiently grounded in experience that the difficulties of forming the sounds necessary for words are the cause.
+
+[margin: Why a child can understand the mother tongue sooner than speak it.]
+
+§. 300. But we have at the outset words by which we signify the species and genera
+
+[margin: Difference of words.] [p. 3] both of things subsisting by themselves and of things subsisting through others; and these we are accustomed to call the *nouns* of things. Such are the words soul, spirit, perfection, understanding.
+
+[margin: What nouns are.]
+
+§. 301. Now we are accustomed to represent to ourselves things subsisting through others in two ways. First, we regard them by themselves, as things distinct from those through which they subsist: in which case the imagination, which notices no distinct difference between the things, does not distinguish them from things subsisting by themselves. And it is in accordance with the imagination that virtues, learning, science and other things subsisting through the soul are brought on stage as persons. And in this case there is no difference between the nouns of things subsisting by themselves and of those subsisting through others. For e.g. virtue is not a thing subsisting by itself, but one subsisting through the soul, or in general through a spirit. Without soul or spirit there can be no virtue: nor can it in fact be separated from the soul or the spirit; yet when one considers virtue by itself as a thing that is distinct from the soul or spirit in which it is found, one gives it a noun as to a thing subsisting by itself. For
+
+[margin: What noun substantives are.] [p. 145] the two nouns virtue and soul, of which the latter denotes the thing subsisting by itself and the former the thing subsisting through the soul, are of the same kind. And this is the one kind of nouns, namely the kind of *noun substantives*, by which things are signified by themselves without regard to others, whether they subsist by themselves or through others.
+
+§. 302. Next, things subsisting through others are also regarded insofar as they subsist through others. And hence the things through which they subsist receive from them a noun which denotes a thing subsisting by itself, insofar as something else subsists through it. And this is the other kind of nouns, namely the kind of *adjectives*. E.g. when I regard virtue as a thing that subsists through others, namely through the soul of man, or through a spirit; then the soul through which it subsists receives, besides its noun substantive soul, yet another, an adjective, virtuous. And hence these adjectives constantly relate to something else, and can never be used by themselves alone. For when one speaks of a virtuous one, there must always be a
+
+[margin: What adjectives are.] [p. 3] certain person either named along with it or understood by it, through whose soul the virtue subsists.
+
+§. 303. But just as we find that even through such things as subsist through others, others can in turn subsist, e.g. the degree of learning subsists through learning, and this through the soul of man; so the things subsisting through others can also receive, besides their noun substantive, an adjective from that which subsists through them. E.g. learning can receive from its degree the adjective great or high, so that one says a great or high learning. And accordingly, in languages where words can easily be compounded, as in our German, this gives occasion to compound adjectives, such as the name highly learned.
+
+[margin: Necessary remark.]
+
+§. 304. Both kinds of nouns are subject to changes. For since a noun is properly accustomed to signify a whole species, or a whole genus, it must signify one thing of this species and genus as well as many and all things of this species and genus. So that one can now distinguish whether the talk is of only one thing or of many,
+
+[margin: Difference of nouns with regard to the number of things.] [p. 147] the noun in the latter case must suffer some changes. Thus we say man or virtue when we speak of one man or of one virtue; but men or virtues when we speak of many men or of many virtues. And this difference is grounded on the number of the things that are reckoned to a species or genus.
+
+§. 305. Besides this, all things are connected with one another, as shall be demonstrated in its place, but which here one can assume as grounded in experience. Since now in speaking one must very often pay heed to this connection as well, in some languages the nouns are changed, but in others certain adverbs are used, which one is accustomed to call articles. E.g. we say in German der Mensch, des Menschen, and so on. But this is spoken of more fully in grammar, which we do not intend to treat here, although we must say something about its grounds.
+
+[margin: Difference with regard to their connection.]
+
+§. 306. So that one need not always repeat the nouns of things (which cannot be done without annoyance), some words have been devised which can be used in their stead in such cases and are called *pronouns*.
+
+[margin: What pronouns are.]
+
+[p. 3]
+
+Such are this, that, etc. Next, such words have also been used so that one can avoid the unpleasant prolixity that would arise if one had to use the nouns of the things themselves; such pronouns are I, you, my, your, etc. Finally, these words have been connected with the nouns of things, so that the noun belonging to a whole genus or to a whole species can stand for the noun of a single thing, since it is not possible to give every single thing a proper name, and since some cases also occur in which one does not want to use the proper name, as when it is unknown to the others to whom one is speaking, or when one hesitates for certain reasons to call a person by name.
+
+§. 307. Everything that we find in a thing besides its essence is either its attributes, or its changes, or its relation to others (§. 33. 44. 72. 126, 188). And hence all judgements depend on this, that a thing has this or that attribute, or has brought forth that change, that is, has done this or that, that it has suffered this or that change, that it has a force or faculty to do this or that
+
+[margin: What verbs are.] [p. 149] and to suffer, that it relates in this or that way to others, and the like: as also that none of this is the case. Now in order to signify judgements by words, special words have also been needed, by which one signifies the connection of the attributes with the essence, likewise that of the changes with it, as also its doing and suffering. The Latins are accustomed to call these the word above all other words, and so, following them, we can call them *verbs*, in respect of the other words that are used only alongside others.
+
+§. 308. To signify the connection of an essence with its attributes and changes, and also with its relation to others, one uses the verb to be: which is therefore called the *copula*. E.g. I say; iron is glowing: where the word is signifies the connection of iron and of glowing, that is, of the essence of a thing and its change. Therefore when something is denied, the *word of negation* must belong to the copula, as when I say; cold iron is not glowing: then the word of negation not belongs to the copula is.
+
+[margin: What the copula is.]
+
+[p. 3]
+
+§. 309. Since all judgements are either a connection or a separation of two concepts (§. 288); the copula, and indeed in the second case together with the word of negation, ought always to be met with whenever one utters a judgement: such an *enunciation* is also called a proposition (§. 3. c. 3. Log.). But for brevity's sake the copula has been hidden within the verbs, and in most cases must therefore only be understood in them. For e.g. I say: iron glows, instead of iron is glowing. In the same way one says: a pious man loves God, instead of, a pious man is loving God.
+
+[margin: It is hidden among the verbs.]
+
+§. 310. From this it is clear that verbs have a composite signification: in that they signify as much as the copula and yet another word together, by which one signifies the state of a thing along with its essence, as when in the previous example it is said; a pious man loves God: the word loves then signifies as much as the copula is and the word loving, which relates to the state of the pious man along with his essence: such words one can call *participles*.
+
+[margin: Verbs have a composite signification.]
+
+[margin: What participles are.]
+
+[p. 151]
+
+§. 311. Besides the words recounted so far there are some others by which circumstances are signified: which one is accustomed to call *adverbs* for this reason, that they are added besides to adjectives and verbs. Such is the word tomorrow, which signifies a circumstance of time and is put with verbs in order to indicate when something is to happen, as when I say: Tomorrow the letter is to be written.
+
+[margin: What adverbs are.]
+
+§. 312. There are also *prepositions*, which are put before nouns in order to mark the circumstances of things and their relation to others, or that of others to them. Such is the word with, as when I say: the letter has been written with the pen.
+
+[margin: Prepositions.]
+
+§. 313. Finally there are *conjunctions*, by which the parts of a discourse are joined with one another; such are the words and, but, and the like.
+
+[margin: Conjunctions.]
+
+§. 314. Among words one is accustomed to count some sounds by which one gives to understand the affects or movements of the mind, such as Ah, which in lamenting is used as a sign of sadness. And these words are called *interjections*
+
+[margin: On interjections.] [p. 3] because they are put between the others, without signifying anything of the things to which the other words relate.
+
+§. 315. There would still be very much to remark, partly about the words, partly about the phrases composed of them, partly about whole discourses, which could also be used with profit in other parts of philosophy. But since this would lead us too far from our purpose, and belongs to the general art of language and speech, of which it will be more convenient to speak at another time and in another place, I am content here to have shown only the ground of the different kinds of words, which serves for a better understanding of some things about the soul.
+
+[margin: Why no more is treated here of language and speech.]
+
+§. 316. For it is to be noted that words are the ground of a special kind of cognition, which we call symbolic. For we represent things to ourselves either themselves, or by words or other signs. The first cognition is called *intuitive cognition*: the other is *symbolic cognition*.
+
+[margin: Difference between symbolic and intuitive cognition.]
+
+§. 317. I say that in symbolic cognition we represent things to ourselves by words or other signs. What
+
+[margin: What signs besides] [p. 153] these other signs are, may seem obscure to some who can think of no example. I shall therefore first refer those who require an illustration here to numbers. Of these it is known that every number has its special name and also its special sign, which we call a *numeral*. E.g. the number called nine is signified by this numeral 9. The Romans and other peoples used letters instead of numerals, as they wrote nine with these letters IX. In algebra one gets a still greater light about such signs, where not only are the magnitudes, whether they be numbers or lines or degrees, which can be represented by numbers and lines, signified by letters; but there are also other signs by which their connections and relations to one another are indicated. In astronomy the planets have not only their names but also their signs, e.g. the moon has this sign ☽, Venus this one ♀. Similar examples are found in chemistry too, and the alchemists represented their processes by emblems. The art of dancing nowadays also has its signs, which a French dancing master, *Feuillet*, invented, by which a whole dance can
+
+[margin: words are used in symbolic cognition.] [p. 3] be marked out distinctly. In music the notes give an example of this, and in the art of reasoning one finds one in the doctrine of syllogisms, to which one must pay particular heed: as will become clearer hereafter.
+
+§. 318. But there is a great difference among signs. For some signs serve only for brevity. To these belong the chemical ones, which have no further use than that one can write things briefly in recipes and processes. Of just this kind are the astronomical signs, which have been hit upon for brevity in writing. Other signs serve to conceal what one wants to say, so that not everyone can guess it. Under this class belong the signs in secret writing, which no one understands but he who has the key to it, that is, to whom the signification has been disclosed, or the rules for discovering it have been put in hand, unless one possesses the art of opening hidden kinds of writing and the signs are so constituted that their signification can be worked out without a key. Here too belong the emblems of the alchemists, under which they conceal their processes. Still other signs serve to represent a thing distinctly
+
+[margin: Difference of signs.]
+
+[margin: What the art of signs is.] [p. 155] to another. And among these one must reckon the dance signs of today, by means of which everything that the dancer has to observe in the whole dance, in all respects, can be set down in its proper order on a single sheet. To this belong also the signs in the doctrine of the kinds of syllogisms, by means of which one can represent what is to be taken note of in each inference. Finally, some signs serve for discovery, such as one meets with in algebra, of which the numerals also give an example in some measure. And for this last purpose the signs have very much to say, and are bound by rules still more than the rest, which belong to a special science that I call the *art of signs*, but which I must so far still reckon among what is sought.
+
+§. 319. But symbolic cognition has many advantages over intuitive cognition when the latter is not adequate, that is, when it does not lay everything distinctly, as it were, before our eyes, what a thing contains in itself, and how it is connected with others and relates to them. For since our sensations are for the most part at present indistinct and obscure (§. 199. 214); words and signs serve for distinctness, in that through them we distinguish what we find to be different in the things
+
+[margin: Use of symbolic cognition.] [p. 3] themselves and among them. Now since by this the similarity that is to be met with between different single things becomes clear (§.18); one arrives in this way at general concepts (§.181). And accordingly general cognition becomes distinct through words (§.206). But how much use general cognition brings will become clearer further below.
+
+§. 320. Meanwhile symbolic cognition can also lead to some disadvantage, if one does not pay enough heed to it, in that we take for cognition empty words with which no concept is connected, and pass off words for things: of which I have treated at length in the *Thoughts on the Powers of the Understanding* (§.6.seqq. c.2.).
+
+[margin: Its disadvantage.]
+
+§. 321. Words and signs serve in particular for distinctness in judgements. For since it chiefly depends, when one judges, on distinguishing from the thing the attribute, or change, or effect, or relation to others, that is ascribed or denied to it, and on weighing the connection of these two different things (§. 288), and since therefore for the distinctness of a judgement in intuitive cognition it is required that one represent to oneself in order not only the difference of the concepts that are either separated or connected, but also
+
+[margin: Use in judgements.] [p. 157] the action of the soul by which it weighs this; but the words show in themselves the connection and separation of the concepts (§. 309): so in symbolic cognition the difference between judgements and mere concepts shows itself more clearly than in intuitive cognition (§.389), and the distinctness is accordingly greater (§.206).
+
+§. 322. Hence it also happens that, as soon as we want either to form a general concept of a species of things of which we see or otherwise sense one, or merely to notice something distinct, or to pass a judgement for ourselves about a thing; we proceed from intuitive cognition to symbolic, and speak to ourselves, or at least think the words necessary for it.
+
+[margin: Why we prefer symbolic cognition to intuitive.]
+
+§. 323. Meanwhile, since the words that signify a thing represent nothing distinct of it (for e.g. the word truth represents nothing of truth), and the word is therefore merely intelligible insofar as we recall in memory that it signifies a certain thing of which we have had a concept (§.248.), that is, in recollection of intuitive cognition (§.316); symbolic cognition too, which is grounded on ordinary language, has in itself no certainty and clearness.
+
+[margin: Difference of words.]
+
+[margin: What nouns are.]
+
+[p. 3]
+
+§. 324. It is possible for clearness and distinctness to be brought into symbolic cognition as well, and for it to set before our eyes, as it were, precisely what is to be found in a thing and by which one distinguishes it from others, so that, when composite signs that are equipollent to the concepts are compared with one another according to this, one can also see from them the relation of the things to one another. Examples of this one has in algebra, as it is treated today by the intelligent, and in the names of the kinds of syllogisms (§. 73. c. 4. Log.). But the art of combining signs, which one can call the *combinatory art of signs*, has as little yet been invented as the art of signs, and indeed neither can be separated from the other. Therefore, since there are still few who can form a concept of this art, and least of all are the sciences as yet in such a state that one can wholly separate their concepts from all images of the senses and the imagination and bring them to mere signs, by whose skilful connection all possible truth could be brought out, this is not the place to speak of it. It appears from a letter of
+
+[margin: How symbolic cognition attains clearness and distinctness.]
+
+[margin: What the combinatory art of signs is.]
+
+[p. 159]
+
+Mr von Leibniz in Wallis, in the third part of his works, that he had a concept of this art, since there he mentions an *Ars characteristica combinatoria*, which is distinct from the ordinary *Ars combinatoria*, to which he no doubt arrived through algebra. And in *Miscellaneis Berolinensibus* p. 20 he shows plainly that he had a concept of it. But the present imperfect state of the sciences has not let him think of any specimen of this art.
+
+§. 25. The cognition to which we attain by attending to our sensations and to the changes of the soul we are accustomed to call *experience*. And we call it *common experiences* when the sensations present themselves of their own accord: but *experiments* when we attain to them by our endeavour. E.g. The sky becomes overcast with clouds without our doing anything, and we see the dark clouds without having first had a design to see them. If I accordingly attend to what I see, and am conscious that the sky is overcast with dark clouds, this is a common experience. But when I pump the air out of a large copper or glass globe, in order to see whether it weighs less
+
+[margin: What experience is.]
+
+[margin: Difference between common experience and experiments.] [p. 3] than when it is full of air; this is an experiment: for I attain to this cognition by my endeavour. Without our doing anything we should never get to see the like: since nature does not bring together globes, air-pumps and scales, much less pump out the globes and hang them on the balance.
+
+§. 326. In experiences, then, we can do nothing further than carefully note everything that can be distinguished from one another, whether in the sensation of what is outside us or in the state of our soul, and call each of it by its proper name, so that we do not mix up our imaginings and preconceived opinions with experience, and in this way try to steal in some grounds of cognition that are not grounded in the things.
+
+[margin: What we have to do in experiences.]
+
+§. 327. But for this more skill is required than one should suppose at first. For first, a penetration is required here (§.209), which does not come without much practice, and which, in spite of that, is yet not attained by everyone in equal degree. Next one must be well master of language, that is, have clear concepts of at least all the words, and indeed those which custom
+
+[margin: What skill is required for it.] [p. 161] connects with them. And this, because of the similarity of things, or also of the foreign circumstances in which what belongs to the concept is hidden (§.8. c.1. Log.), and of the inconstancy in speech that arises from this, since words are not constantly taken in quite one and the same signification, is again no small matter. But it is harder still when one is to have distinct concepts of everything, so far as is necessary to the matter (§.18. c.1. Log.): by which inconstancy in speech is first properly avoided, and all misunderstanding on the part of others prevented. Finally one must free one's mind of all thoughts that we may otherwise have had of the thing, so that we do not come with the design of regarding it as a proof of our previously formed opinion, and, after this, of accepting and giving out as experiences our propositions which we suppose to be grounded here in experience: which commonly tends to happen. All this that I have said of the skill belonging to experience is clear from what precedes (§.325.)
+
+§. 328. Meanwhile some doubt could arise about the latter. For one might think it would be good if one came with the design of regarding experience as
+
+[margin: Objection and its answer.] [p. 3] a proof of an opinion. And my own example could be held against me, where such a design drove me to observe more closely the ring around the sun in the great eclipses (§. 253. Astron.). But it is not hard for me to remove this doubt. It is certainly quite proper, and no less to be recommended, that when opinions present themselves one consider well what would have to be found in experience if they were to be grounded in it, and that one attend, when occasion offers, to whether such a thing is to be perceived or not. Likewise it is well done when one notes what others suppose they have observed, in order, when occasion arises, to attend to whether we find it just so. But here we are not taken up with a preconceived opinion, and so do not come to experience with the design of regarding it as the proof of it: rather we have a quite free mind in observing the matter that presents itself; we merely hold in thought what we find against the other thing that we have undertaken to seek: from which no confusion, but rather greater distinctness (§.206.), can arise.
+
+[p. 163]
+
+§. 329. Now through experience we attain partly to concepts, partly to judgements. And I have set out in the *Thoughts on the Powers of the Understanding* c. 1. & 5. what is to be heeded in both cases, so that one may not err: although one must not imagine that this matter is already exhausted there. The *art of observation* and *of experimenting* is so rich in rules that one can make a special part of the sciences out of it. And it would not be without great use if this were done, because through experience we attain to very much cognition. We already have, not only among astronomers but also among some careful investigators of natural things, splendid specimens of observations and experiments, in which a head suited to it perceives general rules, which give occasion for further thoughts.
+
+[margin: What cognition one attains through experience.]
+
+§. 330. Although I do not intend here to make good the hitherto existing lack of the art of observation and of experimenting, I must nevertheless show whence the certainty of experiences comes: for he who wants to know the soul must be able to give the ground when he speaks of something that concerns it. Concepts are certain when their possibility
+
+[margin: Whence the certainty of experience comes.] [p. 3] is recognised (§. 24. c. 9. Log). Since experience now shows us that there are such things, of which it grants us a concept; so we also recognise from this that they are possible (§. 15). Judgements are certain when that belongs, or can belong, to the things which we ascribe to them (§. 6. c. 9. Log.). When we now arrive at a judgement by means of experience, we have recognised from it that this or that belongs to a thing, and it is accordingly clear from this, once more, that it can belong to it (§. 15). Yet since in judgements everything is said of a thing under certain conditions (§. 6. c. 3. Log.); it is not certain that something will happen again until the same conditions are again present, that is, in similar cases (§. 18).
+
+§. 331. Hence it happens that those who look merely to experiences, and are guided by them, wait for similar cases, and the expectation of similar cases is the ground of all their actions. If they now knew how to distinguish these rightly, that is, had at least a clear concept of them; they would be certain in their undertaking: for it is right that in similar cases the same thing happens (§. 10). But since the concept of this is often for the most part very obscure, and sometimes
+
+[margin: What certainty there is in the actions of those who go by experience.] [p. 165] also quite incorrect, in that one determines it by foreign circumstances which strike the eye in place of the true ones; the outcome of the undertaking is also very often doubtful, and it fails those who suppose themselves most certain.
+
+§. 332. What I have just said is of importance, because the greatest part of mankind, even of those by whose counsel the world is governed, ground their undertakings on experience, and those who care for the health of men have at present no sure ground for their curing other than experience. From which it is clear how necessary it would be that one seek to bring the art of observation into good condition (§.320) and practise oneself in it from youth.
+
+[margin: How much depends on this.]
+
+§. 333. When a thing presents itself to us that we have seen before, or known through other senses, and have also heard its name and ourselves named it, and we attend to the concept; its name then also comes to mind (§.238). And since our memory assures us that this name belongs to this thing (§.248); we ascribe it to the thing, and think or say, e.g. the thing is a dove. Since we thus judge that this name belongs to a thing (§.288); so
+
+[margin: How it comes about that we call a thing by its name.] [p. 3] we first judge that it has these or other marks, and a general judgement occurs to us: what has these marks is due this name, or has that essence which is signified by this name. And from this there finally arises our present judgement: This thing has this name, or also that essence which is signified by this name. As in our example of the dove I see its shape, and, attending to it, I judge, this thing has this shape. It occurs to me: what has this shape is a dove. And hence I judge and say: this thing is a dove.
+
+§. 334. Should anyone doubt that our thought comprises so much that is manifold in itself, when we see a dove and think, this is a dove; one can easily convince him of it. Just as everything has its sufficient reason why it is (§.30); so one must also be able to show a sufficient reason why this thought comes to us: this is a dove. Now I ask someone whether this thought would occur to him if he did not see the dove? There will hardly be anyone who would not answer this question with No. Accordingly it belongs to the
+
+[margin: It is further illustrated.] [p. 167] sufficient reason of this thought that I see the dove. But I speak here merely of the case where I see the dove and think at the same time that it is a dove. For in other cases this very thought may well have yet other grounds. Now I ask further whether one would come to the thought, this is a dove, if one did not attend to its shape and connect it with the essence, though obscurely represented, that is, if one did not judge, this thing has this shape (§. 288.)? He who attends to it closely, and compares the present state of the soul with another in which he also saw a dove and did not think, that is a dove, will very soon become aware that he must judge, this thing has this shape, if the thought is to occur to him: this is a dove. Namely, experience shows this, that we can see a dove, and sometimes the thought occurs to us, this is a dove, but at another time not, although the name dove is already known to us, and the blame therefore cannot be laid on the imagination and the memory. Accordingly the one state must comprise in itself something that contributes something to our thought, of whose origin we are speaking, and the other cannot have this.
+
+[p. 3]
+
+When we now examine the difference, we shall find that in the one case we judge, this thing has this shape, but in the other we judge nothing, and leave it at mere seeing (§.298). And from this, I think, it is clear that the judgement, this thing has this shape, also belongs to the sufficient reason of the thought, this is a dove. Finally, if I ask whether this thought, this is a dove, would occur to someone if he had never yet heard the name dove, nor seen it and judged, what has this shape is a dove, nor were it recalled to him that he had formerly passed such a judgement? then one will comprehend as before that, if one of these three were lacking, it would be impossible for the thought of which we speak to come into his mind: for he will recollect similar cases in which, for lack of the one, it does not come about, or also, if he is practised in distinct cognition, he will himself know how to show the ground why it does not come about. And accordingly all this also belongs to the sufficient reason of our thought, and consequently I have given nothing that was not grounded in experience. Indeed, if it were demanded, I would also give a sufficient [p. 169] ground, showing why none of all that has just now been circumstantially adduced can be lacking, if the thought which I have already repeated so often is to have a sufficient reason.
+
+§. 335. I hope this easy example will shed a light on how one is to conduct the investigation in other cases, so that one may separate out from one another the manifold that is involved one within another in a thought.
+
+[margin: Use of the elucidation.]
+
+§. 336. When we have a distinct concept of the thing that presents itself to us, then, if we attend to it, we notice in it the marks which, taken together, make up the concept (§. 13. c. 1. Log.). It occurs to us: the thing to which this concept belongs is the one to which this name is due. And therefore we think and say: to this thing this name is due. E.g. I see that the table has four sides, and judge accordingly: the table has four sides. I recollect that I have heard before: What has four sides is quadrangular. And therefore I judge: the table is quadrangular. Likewise I see in the evening, when the moon shines, that I can see everything around me, and judge therefore: the moon makes the surrounding things visible. It occurs to me that I have learned before: What
+
+[margin: What happens in this case when we have a distinct concept.] [p. 3] makes the surrounding things visible is a light. And therefore I judge: the moon is a light.
+
+§. 337. Again, when we have formed a general judgement about a thing, and another of the same kind comes before us, we are accustomed to apply it to this one in the same way. Our thoughts then follow one another in this order. We find by experience, or work it out in the former way: this thing (that is, the one that presents itself to us) is of that kind. It occurs to us: All things of that kind are so constituted. And therefore we judge: this thing too must be so constituted. E.g. I see that Titius willingly gives something to a needy man. It occurs to me: whoever willingly gives something to a needy man is generous. And therefore I judge: Titius is generous.
+
+[margin: How we apply general judgements in cases that present themselves.]
+
+§. 338. Just this is wont to happen when, under certain circumstances or also under certain conditions, we know something of a thing, and now find that it is again in these circumstances. In this case our thoughts follow one another in this order. Experience teaches us, or we think of it from other causes: this thing is in these circumstances. It occurs to us (§. 238.): when this
+
+[margin: How we apply judgements about certain conditions.] [p. 171] thing is in these circumstances, this or that happens. And therefore we judge: This or that will happen. E.g. I have seen that when it rains hard, it rains into the loft. Now when I see that it is raining hard, it occurs to me: when it rains hard, it rains into the loft. And from this I judge: It will now rain into the loft.
+
+§. 339. As I showed above (§. 334) fully and circumstantially that thoughts follow one another in such an order, and that the third takes place by reason of the two preceding, so this too, concerning the application of judgements once formed to new cases, could be shown here, if everyone could not do it for himself according to the guidance given there.
+
+[margin: How both are to be proved.]
+
+§. 340. When we bring out a proposition from two others, we call it *inferring*, and the manner of inferring an *inference*: the constitution of which inferences has been treated at length in the *Reasonable Thoughts on the Powers of the Understanding*, c. 4.
+
+[margin: What inferences are.]
+
+§. 341. Though I have spoken there of the manifold use of inferences in the sciences, which need not be repeated here, yet I have still here a special use of them
+
+[margin: Special use of inferences.] [p. 3] to treat of, which no one has thought of before, and of which I first spoke in my mathematical *Lexicon* under the word *Demonstratio*, and afterwards made mention in the *Ratio Prælectionum* sect. 2. c. 3. §. 20. p. 147. For inferences serve, namely, to let us comprehend how one thought always follows from another in an undisturbed series, and that in this way one can show the ground of all those thoughts that have arisen from another and represent to us something that is not present to our senses.
+
+§. 342. Since in the present undertaking my purpose is especially to show how one is to show the ground of the changes in our soul, that is, how one thought follows from another, I thought it necessary to show this use of inferences, never yet perceived, in an example. I suppose: Titius wakes early, hears five strike, and gets up. He dresses, says his morning blessing, reads in the Bible, studies in a book, and so on. For the sake of distinctness I suppose now that all this happens with deliberation, that is, that he wants to do everything he does. The question is therefore how it comes about that one thing after another occurs to him
+
+[margin: Is shown in an example.]
+
+[p. 172]
+
+I say it happens by virtue of the inferences, as they are treated in the Art of Reasoning and explained in my *Thoughts on the Powers of the Understanding*. Namely, Titius hears in bed five strike and judges: It is striking five now. He recalls his resolution: when it strikes five, I will get up. And from this he infers: I will get up now. In that he now carries out his will, he is conscious of it, that is, he knows: I am getting up now. Hence, if someone asks him what he is doing, he answers what he is thinking, namely: I am getting up. This thought again brings to his memory his resolution, once formed and carried out daily: when I get up, I must dress. And from this he concludes: I must dress. Therefore, if someone asks him, while he is getting up, what he is going to do, he answers at once what he is thinking, namely: I will dress. After he has likewise carried out this will, he is conscious of it, that is, he thinks: I have dressed. For if someone asks him what he has done, he is ready with the answer: I have dressed. By this, however, another resolution is brought to his memory:
+
+[p. 3]
+
+When I have dressed, I will say my morning blessing. And from this he infers: I will say my morning blessing. If he has further carried out this will too, he is conscious of the performance, that is, he thinks: I have said my morning blessing. This thought reminds him of his resolution formed before: When I have said my morning blessing, I will read in the Bible. And from this he concludes: I will read in the Bible. In that this will has been carried out, he is again conscious of it, that is, he thinks: I have read in the Bible. Hereby another resolution occurs to him: When I have read in the Bible, I will study in this book. And so the thoughts proceed in a series, until they are interrupted by a new sensation, which, as just now the striking of the clock, brings us to other thoughts that are no longer connected with the former in such a way.
+
+§. 343. In this example I find several things to remark. To begin with, some might come upon the thought that our soul does not actually make all these inferences, because it does not think all the propositions in those words in which we have set them out. But here it is above
+
+[margin: First remark on this.] [p. 175] all to know that what is spoken of is not the words but the things that are signified by these words. It is not necessary that I, e.g., when I hear five strike, think these words: It is striking five now, or: it strikes five; but it is enough that I hear it strike, am conscious of it, and call to mind the meaning of the striking of the bell, even if only, as it were, from afar. For these are the thoughts that I am wont to signify by the words It is striking five now (§. 288. 289). In the same way it is not required that, when I recall my resolution to get up at five o'clock, I think the words: when it strikes five, I will get up; but again it is enough that I merely represent to myself the state I was in at the time when I formed the resolution: for what the words signify is contained in this representation, although it is then rather obscure (§. 199). But that the representations which correspond to the words cited before (§. 342.) must all occur in the soul, and must follow one another in such an order as we have set the propositions one behind another, can be shown just as above (§. 334.). Namely, every thought must have its sufficient reason (§. 30).
+
+[p. 3]
+
+One may, however, leave out one of the preceding propositions; then one will no longer be able to show intelligibly how one came upon this or that thought. E.g. Suppose that someone had not formed the resolution to get up at five o'clock; then he will not acquire the will to get up when he hears it strike five; rather he will give this as a cause why he does not yet get up when someone asks him, or tells him to get up. Suppose that someone does not recall his resolution when he hears it strike five; then he will remain lying, and, when someone afterwards asks him why he did not get up, will be able to give no other cause than this, that he did not think of it. Whoever cares to go through the remaining inferences will find everything in the same way.
+
+§. 344. Perhaps some will also hold this analysis of thoughts to be useless subtleties, in that they look no further than at the example, which makes the matter contemptible to them because it is common. Now I could just as easily have chosen a lofty example of deep insight into the sciences as this quite common one: for just as nature observes the same rules when children play and when she herself acts in earnest in producing her changes, so it is also with thoughts. But
+
+[margin: Another remark.]
+
+[p. 477]
+
+I should then have acted contrary to what I asserted above (§. 159.). As for the use of this analysis, we learn by it to distinguish accurately the experiences from what is inferred from them, so that we do not smuggle in grounds of cognition: which is a very necessary labour (§. 326), and, as experience teaches, is often lacking even in those who wish to be called the most experienced. Indeed it is in just this that the penetration consists which we required above (§. 327.) for experiences, and the analysis of which we speak is at the same time the means by which it is obtained. Besides this, a special use of it will also show itself in the Doctrine of Morals, where one needs to take care how thoughts follow from one another, not only when one wishes to get to know oneself and others, but also when one wishes to understand whence the hindrances to virtues come, and in other cases more. Since I have not only remarked in the place of my mathematical *Lexicon* cited before (§. 341.) but also shown in the *Ratio Prælectionum* sect. 1. c. 2. §. 38. p. 35. that in mathematical demonstrations our thoughts follow one another in just such an order, this analysis of thoughts serves also to this end, that with regard to the inner constitution of a demonstration [p. 3] we learn to see aright, and so much the sooner comprehend that demonstrating belongs not only to numbers and figures, since it takes place even in the commonest and meanest transactions. This use is also not slight in particular, that one escapes many prejudices which otherwise creep in unnoticed when one investigates whence each thought comes. One must accordingly value this common example for its depth.
+
+§. 345. Besides, our example removes a common prejudice, as if we could make no syllogism, unless the conclusion were given to us with the middle term: from which one further assumed as a consequence that formal syllogisms were of no use in inventing. Our example shows the contrary. For here we arrived at the minor premise of the first syllogism through intuitive cognition, namely by this, that when we heard five strike we knew: It is striking five now. The major premise was brought to our memory because it had a term in common with the minor premise (§. 238). And we finally brought out the conclusion by connecting with one another the two different terms in the premises. The first conclusion
+
+[margin: Whether one can make a syllogism before one knows the conclusion.] [p. 179] we took anew as a minor premise to a new syllogism, and thereby arrived at a new major premise by means of the imagination and the memory as before, because namely this had a term in common with that. From this we brought out, in like manner as before, a new minor premise, by connecting with one another the terms that differ in the two premises. And so it went on continually. Thus the premises were always known to us before the conclusions. I do not define the words that are used here, because that has already been done in the *Thoughts on the Powers of the Understanding* (c. 4. §. 6.).
+
+§. 346. Whoever examines the mathematical proofs, which are wont to be called *demonstrations*, will find that they have just this constitution. For if one also wishes to think there in order, as their inventors did, one likewise takes a proposition either from the condition of the theorem or from the figure. Thereby one brings a preceding one again to memory, because it has a term in common with it. And from these two propositions one brings out the third, by connecting those terms with one another
+
+[margin: How mathematical demonstrations are constituted.] [p. 3] which are different in them. This third proposition, that is, the conclusion of the first syllogism, one takes anew as a minor premise to a new syllogism, and by means of it brings a preceding one to memory, because it has a term in common with it. And from these two one again infers the third, by connecting with one another the terms that are different in both. In such a way one proceeds in the mathematical demonstrations, until one finally arrives, in the conclusion, at that proposition which was to be proved. It is indeed true that we sometimes accept from the figure or from the condition of the proposition more than one proposition, and therefore, through different syllogisms that have nothing in common with one another, bring out different conclusions, whose comparison with one another furnishes a new proposition, which we accept as a minor premise to a new syllogism, and proceed according to this as before: but we find similar examples also in common life, where through two propositions, which we owe to intuitive cognition, two conclusions are drawn, whose comparison with one another gives a minor premise to a new syllogism. Of these [p. 181] and other such things, however, I cannot speak in this place.
+
+§. 347. But one sees from this what a demonstration properly is, namely a constant connection of many syllogisms, in which no premises are assumed except those whose correctness we recall having cognized beforehand. Another proof is not different from it, save that some premises are assumed of whose truth we are not yet fully assured. What I understand by the connection of syllogisms is to be gathered from what precedes. One syllogism is connected with another when its conclusion is made a premise of the other syllogism. One also connects two syllogisms with a third, when by a comparison of their conclusions one brings out a third proposition, which lets itself be made a premise in a new syllogism.
+
+[margin: What a demonstration is, and a proof in general.]
+
+§. 348. Some might well come upon the thought that in proofs one is not wont to use such prolixities. To these the answer, first, is what has already been remarked at length before (§. 334. 343.). Accordingly it is to be noted that I am speaking here of the understanding, but not of the imagination
+
+[margin: An objection is met.] [p. 3] and the memory, and accordingly show how we comprehend truth through the understanding, which requires a distinct representation (§. 277); but by no means how we learn to take propositions, with proofs given by others, into the memory and to repeat them again, for which an indistinct representation of what is required for the proof, indeed often even an obscure one (§. 214. 199), is enough.
+
+§. 349. Meanwhile it is true that very few men pay attention to the manner in which they infer, indeed often suppose that they cognize a proposition without a syllogism when it is actually brought out through a syllogism. The example of the dove given above (§. 333. 334.) can serve here for elucidation, and whoever pays attention in geometrical demonstrations will find several similar examples, where he supposes that he knows a proposition from looking at the figure, which he yet actually brings out through a syllogism. Indeed, if one is accustomed to apply at once to the matter at hand, of which we are proving something, e.g. in geometry to the figure drawn, those theorems which are used as major premises in syllogisms, then the conclusion is drawn together with the major premise into one, and it
+
+[margin: Why some do not perceive the syllogisms in the proof.] [p. 183] is as if we paid no attention at all to the form of syllogisms. Whoever now looks at the proof only superficially imagines, from haste, that he can comprehend and prove everything distinctly without having to concern himself with the form of syllogisms. And hence it has happened that Descartes, although he could demonstrate in geometry and also bring out new truths by his own reflection, persuaded himself that the doctrine of syllogisms in the Art of Reasoning is useless and is employed neither in inventing nor in proofs: whom, in this, among us Germans Mr von Tschirnhaus in his *Medicina Mentis*, and among the English Locke in his work on the understanding, have followed.
+
+§. 350. It is also to be noted that when we have already often made a syllogism, or brought out something through many syllogisms, and afterwards need only think of the matter itself, then that comes to mind which we otherwise brought out of it through a syllogism (§. 238). In this case it again has the appearance as if we arrived at a proposition without a syllogism, or at least paid no attention to the form of the syllogism prescribed in the Art of Reasoning. Indeed in proving and reflecting we can also be content with that
+
+[margin: When we make a sure leap in inferring.] [p. 3] if we are assured through memory (§. 248.) that we brought out the correctness of what now occurs to us through one or many syllogisms. If we therefore pass from one proposition to another, of which we previously brought out one from the other through syllogisms, then in inferring we make a leap; and in the present case it happens without danger. But such leaps do not always succeed, nor with everyone, and it is therefore more advisable if one is accustomed to think in order.
+
+§. 351. In this matter there is a great harm, even among those who learn proofs arranged in correct form, if they do not go through them in the manner in which the inventors of the proof, and often also of the proposition, thought; but always make the beginning of thinking from the conclusion, and ask themselves or others why it is true, give in answer the middle term; finally, when one asks them further whether this follows, bring forward in answer the major premise. One cannot indeed deny that one thereby learns to understand a proof and to comprehend the truth of the proposition: but one will thereby put a great hindrance in the way of one's own thinking, and also
+
+[margin: Why one does not see the true constitution of a proof.] [p. 185] hardly learn to set up a proof in order. One finds it even among the mathematicians, who, in their proofs, when they are accustomed to learn mathematics in this manner, or to learn to understand other inventions in this way, put the last first and often leave out altogether what is most necessary. Hence I have also chosen in my manner of teaching another way, as is to be seen from my *Ratio Prælectionum* sect. 1. c. 2. §. 38. p. 35.
+
+§. 352. To this also belongs what has been remarked in the *Thoughts on the Understanding* c. 4. §. 28. on concealed syllogisms, which either have no form at all or seem to offend against the fundamental rules: which, however, are wont to occur more in speaking and when something comes to us from memory, as if we were reflecting on something in the understanding or thinking in order.
+
+[margin: Further cause.]
+
+§. 353. But since I have now asserted hitherto that we come through formal syllogisms from one thought to the other, except that the premises are for the most part transposed, and the minor premise comes to mind first, then the major premise (§. 342), which some are wont to count among the kinds of concealed syllogisms, and call *concealment by transposition*: so some
+
+[margin: Why immediate consequences are dealt with.] [p. 3] will not without ground ask what is then to be thought of immediate consequences, where the conclusion is inferred from one premise. Therefore it is necessary that I treat this matter here thoroughly, of which I have made only slight mention in the *Thoughts on the Powers of the Understanding* (c. 4. §. 29). But it will be most serviceable if I go through the kinds of this consequence, and mention beforehand what is to be remarked of each in particular, before I open my thoughts on it in general.
+
+§. 354. The famous *Jungius* has treated the immediate consequences at length (Log. Hamburg. lib. 3. c. 2. 3. 4). He first adduces those which arise from the opposition of things. Of this sort are: All envious persons are wretched. Therefore it is false that some envious persons are not wretched. Or conversely: It is false that some envious persons are not wretched. Therefore all envious persons are wretched. Here one supposes oneself to infer a conclusion from a single premise. We have seen in the preceding manner of inferring that we can give a sufficient reason why the other premise occurs to us as soon as the one presents itself, and how we then arrive at the conclusion
+
+[margin: First kind of immediate consequence, from opposition.] [p. 187] by means of both. But in the example given it is not immediately evident why I must think of the conclusion, it is false that some envious persons are not wretched, when the premise, all envious persons are wretched, lies in my thoughts. Since now this alone is not enough, and yet a sufficient reason must be present (§. 30); we must investigate what further is required for this. Namely, if we are accustomed to set all things of one kind, and some of them, in opposition to one another, and we arrive at the general proposition, all envious persons are wretched, then there occurs to us also this particular proposition, some envious persons are envious (§. 238). And so we bring out through an orderly syllogism: Some envious persons are wretched (§. 340). Or if we see some envious persons or hear of them, we think in fact: some envious persons are envious, and it occurs to us (§. 238): all envious persons are wretched. We then again infer in order: Some envious persons are wretched. But whether I say, some envious persons are wretched, or, it is false that some envious persons are not wretched, this is of equal value: for they are equipollent ways of speaking, one of which can be put for the other, as in the [p. 3] concealed syllogisms is wont to happen (§. 29. c. 4. Log.). What one accordingly is wont to call an *immediate consequence from opposition* is in fact a formal syllogism, which is partly truncated (§. 17. c. 4. Log.), partly concealed. Meanwhile it is not to be denied that, when the correctness of the consequence has once been cognized, and the example, as it has been truncated and concealed, has been taken into memory, one is thereafter wont to infer the conclusion merely from one premise with just such clarity as through orderly syllogisms. Namely, as soon as a similar case occurs to us, the example floats before our eyes (§. 238), and since we have certainty of the correctness of the consequence through memory (§. 248), we imitate the manner of inferring, without thinking of the minor premise as in the first example. In this way the first kind of immediate consequence comes about through the orderly kind of syllogisms. Though one can now use it as well as these when one reflects on the truth, yet it was necessary to show that it takes the place of a formal syllogism.
+
+§. 355. In the proposition, some envious persons are envious, the second term is identical with the first term, and it belongs
+
+[margin: What empty propositions are, and their use.] [p. 189] therefore among those which one can call empty propositions, because in fact they say nothing. One sees therefore, from the example given and other examples belonging here, that empty propositions have a place in syllogisms, and are not to be rejected as a useless chatter, as is wont to be done by some. Some acute men have already long since remarked this, who analyse proofs into their syllogisms more exactly than others, and I have likewise found in mathematics (as Mr von Leibniz remarks) that one often employs empty propositions there in syllogisms. And these are in fact the only propositions that are clear in themselves and require no other proof. For that a thing is the very same thing is as clear as the principle of contradiction (§. 10.).
+
+§. 356. But so that it may be the more distinctly evident how we use an example of immediate consequence from opposition as a model in other cases, it is to be noted that this happens in two ways. The first kind consists in this, that the imagination represents the previous example only indistinctly (§. 236.), and the memory reminds us of it, that we have already used this manner of inferring (§. 248). The other, on the other hand, has distinctness
+
+[margin: How we imitate the examples of immediate consequence from opposition.] [p. 3] and is grounded in general cognition. Namely, every particular example has general grounds in itself. Whoever is now accustomed to reflect on everything arrives at a distinct cognition of it (§. 272. 206). As in our example (all envious persons are wretched. Therefore some envious persons are wretched. Or also: therefore it is false that some are not wretched), one soon sees that being wretched is said of some because it is said of all. And hence one remarks this general proposition: What is said of all can also be said of some. Likewise: What is said of some, one can also say of one. Further, in the other conclusion, therefore it is false, etc., one perceives the following general proposition: if something can be said of all, then it is false that one cannot also say it of some. And again: if something can be said of some, then it is false that it cannot also be said of some. As soon as we now have a proposition about all, there occurs to us the general proposition which we cognized through an example of an immediate consequence, and we infer: what is said in our proposition of all can also be said of some, through an orderly syllogism (§. 340). After [p. 191] we have cognized, however, that we can say it, we also do so. And in this way the understanding does distinctly what is otherwise done indistinctly by the imagination and the memory. Whoever is accustomed to reflect on things himself will perceive many examples of this if he attends to it, and attains a facility of distinct cognition in things that concern the soul.
+
+§. 357. The other kind of immediate consequence rests on the *equipollence* of propositions. E.g. It is the same whether I say: The father loves the son, or: The son is loved by the father. If I accordingly say: The father loves the son. Therefore the son is loved by the father; one takes this for an immediate consequence, since from one premise the conclusion is inferred. If we now investigate how it is possible that we can come from one proposition to the other, we shall find that it has almost just such a constitution as with the previous kind of immediate consequence: Suppose that someone sees marks of a father's love towards his son; then he cognizes through an orderly syllogism (§. 333.) this proposition, The father loves the son. If after this the occasion arises concerning the son to
+
+[margin: Another kind of immediate consequence, from the equipollence of propositions.] [p. 3] speak of the son; then the father's love for the son occurs to him again (§. 238), and, since he wants to speak of the son, language brings with it nothing else than that he says: The son is loved by his father. Now he knows indeed from memory that he otherwise, when he spoke of the father's love for the son, said, the father loves the son (§. 247). But in that he attends to the intuitive cognition of the father's love for the son, he sees for himself that I can say equally well, the father loves the son, as, the son is loved by the father, according as I wish to speak either of the father or of the son, and he recognises from this the equipollence of these propositions, because one and the same concept belongs to them. And since we have a concept of those things that are identical, there occurs to us this general proposition: Equipollent propositions one can put for one another (§ 17). From this one brings out through an orderly syllogism: Therefore I can also put these two propositions for one another. What I accordingly have cognized that I can do, the same I do. And accordingly I put in place of the proposition I recall, the father loves the son, this other, the son is loved by the father, because namely the occasion of speaking of the son this change [p. 193] requires. When this has once happened, then if only a similar case occurs to us again, the first example floats before our eyes, and we imitate it. If one now wants to proceed distinctly, or to represent to others why such a thing happens, one makes, instead of the immediate consequence, the orderly syllogism: Equipollent propositions one can put for one another. These two propositions are equipollent, because namely they express an identical intuitive cognition. Therefore one can put the one in the place of the other.
+
+§. 358. The correctness of what I have just said can be shown quite easily. Everything depends on this, that in no other way than this can one have a sufficient reason for this immediate consequence. But I can also assure you that I have found it so in experience, both when I reflected on mathematical and on other matters. For I find very often that, after I have accustomed myself to proceed in order in reflection, I have need to convert propositions that occur to me about a thing into other equipollent ones. And as soon as I want to represent to myself the correctness of my procedure, this proposition occurs to me: Equipollent propositions I can put for one another. Hence I have no
+
+[margin: The explanation given of it is upheld.] [p. 3] doubt that others too, when they have put themselves in the state of orderly thoughts, will experience this as well as I.
+
+§. 359. The third kind of immediate consequence consists in the transposition of the terms of a proposition, in such a way that the second term is put in place of the first term, and the first term in place of the second, e.g. when one infers: All learned men are mortal men. Therefore some mortal men are learned. Here too one sees sufficiently that the first proposition alone is not a sufficient reason why one thinks of the other. For otherwise the other would always have to occur to us with the first: which, however, does not happen. For if I do not either have the resolution to convert the proposition, that is, to transpose its terms, or the present circumstances, in which I think of the proposition, require this transposition; then I shall not come to the other. There is accordingly something more behind it. Namely, if one reflects more exactly on the matter, one finds again general grounds of transposition, which are cognized through orderly syllogisms, and thereby one can weigh in each particular case the correctness of the transposition, as in the
+
+[margin: Third kind of immediate consequence, by transposition of the terms in a proposition.] [p. 195] preceding ones the immediate consequence has been confirmed: of which, however, to treat more circumstantially the prolixity prevents, because I should otherwise have to explain much about the transposition of terms in propositions, which perhaps might not be for everyone.
+
+§. 360. The same holds with the remaining kinds of immediate consequences, in such a way that in general they have this constitution. Either they infer in an orderly form, if one completes them and arranges them rightly (§. 354); or they consist in an imitation of syllogisms once carried out (§. 356). And they are therefore permissible leaps. But I speak here of those who arrive at such syllogisms by themselves.
+
+[margin: How it is in general with immediate consequences.]
+
+§. 361. What is brought out from undoubted grounds through correct syllogisms, of that we are wont to say that we *know* it. And the facility of bringing out what one asserts from undoubted grounds, through correct syllogisms, is called *science*.
+
+[margin: What knowledge and science are.]
+
+§. 362. When from cognized truths one brings out others that were not yet known to us, one is wont to say that we *invent* them. And the
+
+[margin: What inventing and the art of invention are.] [p. 3] facility of bringing out unknown truths from others that are known is called the *art of invention*.
+
+§. 363. Because by the art of inferring one brings out from some known propositions others that were not known to us before (§ 340); syllogisms are a means of inventing truth that is still unknown. Namely, whoever wants to invent truths must bring them out from that which he has cognized, through orderly syllogisms, in the manner in which I have shown by an example (§. 342) that thoughts come one from another. One finds an example of this in the *Thoughts on the Understanding* c. 4. §. 24.
+
+[margin: Syllogisms are used in inventing.]
+
+§. 364. But although in inventing, if one makes no leap (350. 360), one always brings out one thing from another according to the form of orderly syllogisms, until one finally arrives at a proposition unknown to us before (§. 363); yet syllogisms are not the only means that we need for inventing; but something more is required for it, which is quite different from the art of inferring. Namely, to inventing there belong still some rules by which one is put in the state of making a beginning in inferring.
+
+[margin: Are not the only means of inventing.]
+
+[margin: What the principle of reduction is.]
+
+[p. 197]
+
+A rule of this kind is that one seeks to reduce the unknown which one is seeking into something equipollent that is known to one, which I call the *principle of reduction*.
+
+§. 365. I will illustrate the use of this rule by an example, and indeed once more only by a common one (§. 159). Everyone learns by common practice to count money, without any instruction being given him on that account. Yet it does not happen without rules, although not everyone recognises the rules distinctly. If now one is to invent rules in arithmetic by which one obtains a number that is as great as many others taken together, that is, the rules of addition, the principle of reduction comes in very handy: for one represents to oneself the different kinds of numbers, such as the ones, tens, hundreds etc., as different sorts of coin, dreyers, groschen, thalers etc.; and so one soon sees that the rules for adding are the same as the rules for counting money. Whoever therefore counts money and takes note of what he does, brings out the rules which he seeks. In like manner, if one wishes to know the duties of whole societies towards one another, one represents them to oneself, by virtue of the principle of reduction, as individual
+
+[margin: How it is used.] [p. 3] persons who live beside one another outside all society, in a natural state, if their duties have previously been made known to us.
+
+§. 366. One sees from the examples given that one reduces one case into the other on account of the similarity which they have with one another (§. 18.). And it therefore belongs to a ready use of the principle of reduction that one can perceive similarity easily. Whoever is disposed to this is called *ingenious*. And the ease of perceiving similarities is properly what we call *wit*. Thus, besides the art of inferring, wit also belongs to inventing, and without the latter one cannot get on rightly by the former alone: which those who practise themselves in inventing experience sufficiently, whether they seek to bring out for themselves truths already invented by others, or to think anew, or even only to take note of how they are brought out by others.
+
+[margin: What ingenious and wit are.]
+
+§. 367. Two kinds of rules accordingly belong to inventing. Some are derived from the understanding, others from wit. To the former belong the rules of inferences; of the others the principle of reduction (§.
+
+[margin: What the art of invention is like.]
+
+[p. 199]
+
+365.) an example. Of both kinds, those can remark more who, besides algebra, understand the devices which the mathematicians nowadays use in the solution of their problems. The particular rules are also grounded in the constitution of the thing, of which algebra and the general art of governing one's actions reasonably give examples. The particular rules can therefore not be understood before one has discovered many truths, and through the truths discovered further rules are found, by whose help one can go on further.
+
+§. 368. The art of inferring shows that the truths are connected with one another: which shall be proved in its place. The insight which we have into the connection of truths is called *reason*. That this definition of reason is in keeping with the usage of speech, I show thus (§. 16. c. 2. Log.). We say, e.g., that Sempronius has set about his affairs reasonably, when he considers everything well, what harm and use can arise from his actions, and so arranges them that in his doing and leaving undone he is not at odds with himself, but rather the one furthers the other. Wherein
+
+[margin: What reason is.] [p. 3] does the reason then consist, which he displays here? Certainly in nothing other than in the insight which he has into the connection of things, namely as much into the connection of his actions as of theirs with other things. For if one pays no heed to this, he arranges his actions to his own harm and that of others, and they run against one another. But then no one will any longer say: Sempronius sets about his affairs reasonably. Rather everyone will concede: He acted unreasonably. One can also see from this that the common concept of reason is nothing other than the insight into the connection of truths. When one says that someone has acted reasonably, and one is asked why, one answers at all times, because he thereby procures this advantage, or also prevents this harm, and the like; that is, because he has seen and considered what could come of his doing and leaving undone, and consequently has given a proof of his insight into the connection of things. On the other hand, if one wishes to prove that someone has acted unreasonably, one endeavours to show that he has undertaken something most thoughtlessly, without weighing what from his [p. 201] doing and leaving undone could come, and how it fits with his person and station, or also with other circumstances.
+
+§. 369. Whatever accordingly coheres with known truths, that is *in keeping with reason*: on the other hand, whatever conflicts with them, that is *contrary to reason*. Since now by demonstrating one brings out what coheres with known truths (§. 367); that which one has demonstrated is in keeping with reason. On the other hand, since without demonstration it is not to be seen whether something coheres with the known truths or not, in such a case it is uncertain whether it is in keeping with reason or not. If finally I can bring out by a demonstration from a given proposition one that contradicts a known truth, I have shown that it is contrary to reason.
+
+[margin: What is in keeping with reason.]
+
+§. 370. The more one sees into the connection of truths, the more reason one has (§. 368). Therefore one has so much the less reason, the less one sees into the connection of truths. And where one does not see at all how things cohere, there is no reason at all.
+
+[margin: Degrees of reason.]
+
+[p. 3]
+
+§. 371. Since now, of that which one knows by mere experience, that it is, one does not see how it coheres with other truths (§. 325); there is in this cognition no reason at all (§. 370), and for that reason experience is opposed to reason.
+
+[margin: Experience is opposed to reason.]
+
+§. 372. We have accordingly two ways by which we attain to cognition of the truth: experience and reason. The former is grounded in the senses (§. 220. 325); the latter in the understanding (§. 277. 368). E.g. that the sun rises again tomorrow morning, most men know from experience (§. 338), and they cannot say why it happens: whereas an astronomer, who sees into the cause of the heavenly motions and the connection of the earth with the heavens, knows it by reason, and can demonstrate that, why, and at what time it must happen.
+
+[margin: Ways of knowing the truth.]
+
+§. 373. Since the formal inferences which we described above (§. 340) lay the connection of truths distinctly before our eyes (§. 206), and we thus obtain by means of them the insight into the connection of truths; so
+
+[margin: Why inferences are called syllogisms.] [p. 203] they are rightly called syllogisms.
+
+§. 374. The expectation of similar cases (§. 331) has a similarity with reason. For when we have noted that under certain circumstances something happens, and on seeing the very same circumstances again we reckon upon it that it will happen again; it has the appearance as if one had here an insight into the connection of things and had to infer the one from the other. And thus this expectation is in some measure similar to reason (§. 368. 18).
+
+[margin: Expectation of similar cases is similar to reason.]
+
+§. 375. But it does not, in the greater part of men's actions, merely take the place of reason; it can also become equipollent to reason (§. 17), indeed even in keeping with it (§. 369), if one determines correctly the circumstances under which something happens. For then one knows that the outcome coheres with the circumstances, although one does not comprehend how this comes about, and thus has no distinct insight into the connection (§. 206).
+
+[margin: When it comes close to reason.]
+
+§. 376. Meanwhile the expectation of similar cases can also be without any reason. For if we have only a clear, but withal indistinct, indeed often quite obscure concept of the circumstances,
+
+[margin: When it is without reason.] [p. 3] by which the case is determined, and we behold these circumstances anew; then the imagination also represents to us at the same time what happened then (§. 238), and the memory assures us that both were together (§. 248), and therefore one looks for it again there.
+
+§. 377. One finds that in the common philosophy reason is denied to animals, but something similar to it is nevertheless ascribed to them. This has been held in our times to be an unintelligible word. But if one explains it by the expectation of similar cases, as it is grounded merely in the senses, the imagination and the memory (§. 376); then one will, in my opinion, have explained intelligibly what the ancients understood by the analogue of reason (§. 206). Whether it has been ascribed to them rightly cannot be settled at this place.
+
+[margin: What the analogue of reason in animals is.]
+
+§. 378. Since reason is an insight into the connection of truths (§. 368); we thereby attain to distinct cognition of truths (§. 206), and are skilled to infer from some known truths others unknown (§. 340), that is, to invent new truths (§. 362).
+
+[margin: Why some revile reason.]
+
+[p. 205]
+
+§. 379. Thus we cannot revile reason, if we understand what it is. But those who revile it either take the word in an incorrect sense, and understand by it now certain errors which one harbours in natural cognition, now unreason in human conduct, now something else; or they imagine that reason is contrary to faith and hinders it. In their concept of reason and in their opinion they are right: but it must not be applied to reason as I have defined it and as the daily custom of speaking brings with it.
+
+[margin: Why some revile reason.]
+
+§. 380. But if one asks whether the signification of the word reason, as I have defined it (§.398), is in keeping with Scripture or not, as perhaps some might fear: I could indeed leave this investigation entirely to those who devote themselves to the interpretation of Scripture; yet, so that no occasion be given to a misunderstanding, I find it necessary to remark the following. First, it is certain that, since I deal here as a philosopher merely with truths which are known without divine revelation, I must retain the signification of the words which they have according to the custom usual among us
+
+[margin: In what sense the word reason occurs in Scripture.] [p. 3] of speaking. Since I have now set out above (§. 368.) that the signification adopted by me is in keeping with the custom of speaking, and since, moreover, the definition of reason given distinguishes it distinctly from the rest of what we meet with in the soul in the cognition of things, and prevents all confusion; no one could disapprove of my procedure, even if it were demonstrable that Scripture takes the word reason in another sense. For although, according to this, the propositions of Scripture did not always agree literally with the propositions of philosophy, there would be nothing dangerous to fear on that account, because it would be no true contradiction (§. 11), but only an appearance of it, which one could soon remove by explaining the signification in Scripture. Secondly, it is to be remarked that one has to make a distinction between the passages of Scripture where the word reason is used and those where it does not stand, but is put in the interpretation in place of other words found there. In which case the interpreter has to prove that the sense of those words is just this, which either he or Scripture in another place ascribes to reason. Thirdly, I find that [p. 207] Luther in his translation has rendered at least ten Hebrew and well-nigh three times as many Greek words by the word reason, which can hardly all have one and the same signification; and yet there are barely two places where it is taken in a bad sense, namely Eph. II. 3. & Col. I. 21. where the will of the flesh and of reason are linked together and reason is thought of as evil. But in both passages stands the Greek word *διάνοια*, which there means as much as among us Germans *Gutdünken*, as also the famed Englishman Henry Hammond has taken it in his *Paraphrase*, where he puts for it *prout nobis videbatur*. In my opinion the Greek word *λογικὸς* is properly that which agrees with our German *vernünfftig* and is rendered both by Luther through *vernünfftig* and in the Latin Bible through *rationabile*. In both passages where this word occurs, it is taken in a good sense. For in the first, Rom. XIV. 2. a reasonable divine service is recommended to us; in the other, 1 Petr. II. 2. the Christian doctrine as a reasonable milk. When the interpreters shall be agreed whether the word reasonable refers to man, who [p. 3] is to offer himself to God as a sacrifice and to enjoy a milk befitting him, as Hammond explains the two passages and Le Clerc in the notes appended highly approves; or whether one must apply them to divine service and the Christian doctrine, which is understood by the milk: it will be quite easy for me to show, in the one case as in the other, that Scripture uses the word reasonable in just the sense in which I have taken it (§. 368). Meanwhile I leave everyone free to speak as he will, and require nothing further than that I be allowed likewise to enjoy the freedom granted to another.
+
+§. 381. Since reason is an insight into the connection of truth (§. 368), but truth is known when one understands the ground why this or that can be (§. 145); reason shows us why this or that can be. And thus there comes from it the cognition of the philosopher, of which I have spoken in the Introduction to the *Thoughts on the Powers of the Understanding* (§. 5. 6.), just as common cognition, as is mentioned there, comes from experience (§. 325).
+
+[margin: What cognition arises from reason.]
+
+§. 382. If one sees into the connection of things in such a way that one can connect the
+
+[margin: When reason is pure.] [p. 209] truths with one another without taking any propositions from experience; then reason is pure: on the other hand, if one takes propositions from experience to one's help, reason and experience are mixed with one another, and we do not see the connection of the truth with others completely. For when we come to the proposition taken from experience, we stand still, and our reason cannot go further. We find it sufficiently in the sciences that our reason is not always pure, especially in the cognition of nature and of ourselves. In arithmetic and geometry, likewise in algebra, we have proofs of pure reason: for here the inferences all proceed from distinct concepts and from some grounds which are separated from the senses.
+
+§. 383. Since science is a facility in proving all that one asserts from unshakable grounds, or, in a word, in demonstrating (§. 361. 347); but in demonstrating the truths are connected with one another: one therefore knows through science the connection of truths, and so it comes from reason.
+
+[margin: Science comes from reason.]
+
+§. 384. When we bring out a proposition through such premises (§. 347),
+
+[margin: What an opinion is.] [p. 3] of whose correctness we are not fully certain; then our cognition is called an *opinion*.
+
+§. 385. Since now the correctness of the propositions remains doubtful for the reason that we do not see their connection with other truths which we have known with certainty; opinions arise from want of reason. Where one accordingly remains merely with the senses, and lets it rest with the indistinct propositions of experience; one comes no further than to opinions, and remains far removed from sciences.
+
+[margin: Whence they come.]
+
+§. 386. Since for the confirmation of opinions such propositions are assumed whose correctness is doubtful to us; it can happen that we take a false proposition for true, and thereby deceive ourselves in our opinion. But it is also possible that we afterwards recognise the incorrectness of the proposition, or at least come to have greater doubt about its correctness than we had before, and therefore let the opinion go. Therefore opinions are changeable.
+
+[margin: Opinions are changeable.]
+
+§. 387. But opinions are the more changeable, the less certainty the premises have which we need to confirm them. Whoever therefore is overhasty with these propositions, because he lacks the
+
+[margin: Who often changes his opinion.] [p. 211] skill required for experiences (§. 323); must often change his opinions.
+
+§. 388. Whoever can demonstrate a proposition which to another is only an opinion, he knows it. And therefore it is possible that one can have science of a thing of which another has only an opinion. Since now opinions arise from want of reason (§. 385); whereas science comes from reason (§. 383); the one who knows the thing is in this respect more reasonable than the other who has only an opinion. I say in this respect: for the other may have science in other respects, where the former has only opinions, or he may even have greater science than this one.
+
+[margin: What one has an opinion of, the other can know.]
+
+§. 389. The *certainty* of our cognition is the concept of the possibility, or also actuality, of a judgement. Namely, in general judgements we look merely at the possibility, in that the general has no actuality except in the individual things of one species and genus (§. 182): but in judgements of individual things we direct our thoughts at times also to the actuality. E.g. I am certain that the swift growth of
+
+[margin: What certainty is.] [p. 3] plants can be furthered by art, when I represent to myself the possibility of it. I am certain that the father loves the son, when I represent to myself the actuality of it.
+
+§. 390. We obtain this concept, however, either through experience or through reason (§. 372). How experience brings it forth has already been explained above (§. 330). Through reason it comes about when we recognise the connection of our judgement with other truths (§. 368). Since now this connection is discovered through inferences (§. 340), but in inferences we have to look partly at the correctness of the propositions, partly at the manner of their connection with one another, that is (as one is accustomed to say briefly) partly at the matter, partly at the form; certainty arises in this case when we see into the correctness of the propositions, by which we connect our judgement, and the correctness of the inference.
+
+[margin: Whence certainty comes.]
+
+§. 391. The certainty, then, of reason is grounded also in the certainty of inferences. But I have already shown in the *Thoughts on the Powers of the Understanding* (c. 4. §. 5) that the certainty of inferences rests on the principle of contradiction (§.10). Since
+
+[margin: Is further elaborated.] [p. 213] now experience too has ultimately to thank it for its certainty (§10. 330): all certainty of cognition comes from it.
+
+§. 392. Where we attain the possibility of a judgement neither by experience nor by reason; it is uncertain to us. And uncertainty is accordingly nothing other than the cognition of the lack of a representation of the possibility or actuality of our judgement. I say with deliberation: a cognition of the lack. For sometimes the representation of the possibility of our judgement is lacking to us, or it does not show what it should, and we nevertheless think our opinion certain.
+
+[margin: What uncertainty is.]
+
+§. 393. This ungrounded opinion of the certainty of our cognition is called a *delusion*. E.g. when someone thinks himself certain that a medicine is a sure remedy against a certain disease, because he has heard it from a man who has come into repute in this art: he has no sufficient reason for certainty. And accordingly his opinion of certainty, which he thinks he has, is only a delusion.
+
+[margin: What a delusion is.]
+
+§. 394. I know well that some hold delusion and opinion for the same:
+
+[margin: How delusion and opinion are] [p. 3] but whoever pays exact heed to it will notice the difference very well. Namely, whoever has an opinion recognises that something is still lacking to him for full certainty: but whoever has a delusion does not recognise it. And so it is indeed true: every delusion is an opinion; but it is not true: every opinion is a delusion. It is certainly something else to recognise that something is lacking to us for full certainty, than to imagine that nothing is lacking to us for it, although in fact often very much is still lacking. Therefore we cannot call different things by one name. And since the name of an opinion undisputedly belongs to the first, the name delusion remains for the other.
+
+[margin: distinguished.]
+
+§. 395. When our judgement is possible, whether we recognise it or not, it is called *true*: but when it is impossible, *false*. Since now everything either is or is not; all judgements must be either true or false.
+
+[margin: What true and false are.]
+
+§. 396. Whoever holds a true judgement for false, and conversely a false one for true, *errs*. And a false delusion about the truth and falsity of a judgement is *error*.
+
+[margin: What erring and error are.]
+
+§. 397. When our senses represent different things to us as identical, and
+
+[margin: How error arises.] [p. 215] we judge on that account that they are identical; or also, when we otherwise from haste hold different things for identical: then we hold a false judgement for true (§.395), and so we err (§. 396). If we nevertheless think ourselves certain that the things are identical, we have a false delusion about the truth of our judgement (§.394.395). And accordingly we harbour an error (§. 396). From this source spring most errors.
+
+§. 398. But we fall further into error also when we make incorrect inferences. For since the conclusion does not follow from the premises if the inferences are incorrect; we can then draw a false conclusion from true premises. Since now we nevertheless hold it for true, because we do not perceive the incorrectness of our inference; we thereby fall into error (§.396).
+
+[margin: Another way in which it arises.]
+
+§. 399. When we have of a proposition some ground, yet no sufficient one; we call it *probable*, because it has namely the appearance as if it cohered with other truths. E.g. one says it is more probable that one throws 7 with two dice than that he throws 12. When
+
+[margin: What is probable.] [p. 3] one is to indicate the ground of it, why it is more probable to us, we find none other than this. We find that 12 can come only in one way, namely when 6 falls on both dice: whereas 7 in three ways, namely when 1 and 6, 2 and 5, 3 and 4 fall. Accordingly it is taken to be just the same as if one were, in the first case, to throw a required number with one throw, but in the other case with three throws. Since now we otherwise experience that a number has been brought out by repeated throws which would not fall with one; it occurs to us (§.238) that what will not fall by one throw can be brought out by repeated throws. And accordingly we expect here the like (§.331). We have therefore for this proposition, that with two dice 7 can be thrown sooner than 12, some ground: but it is not sufficient. And since we recognise this, we hold it only for probable. I say the ground given is not sufficient. For we also find in experience often contrary examples, that one throws a required number at once, which the other cannot bring out, not only with three, but with many more throws. Indeed, if one examines the matter closely [p. 217] it is also not quite all one whether I am to throw a number which can fall in three ways, or have three throws before me. For one presupposes here (which those too have assumed who undertake to calculate the outcome of games of chance as probable) that all throws are equally possible, and infers accordingly from possibility to actuality, which cannot be done with certainty (§. 13). For if the cases, which are possible in themselves, are to receive their complement, they are determined by other preceding things, which are not the same in one case as in the other: otherwise always only one number would have to fall.
+
+§. 400. But it is to be remarked that not all to whom a proposition is probable have one and the same ground for it. As in the preceding example, players or those who have watched play, or otherwise know how to weigh everything exactly, will indeed arrive at the ground of probability which I have given, although they are not able to unravel it so distinctly: whereas others will arrive at other grounds. E.g. when some consider that 7 can fall in three ways, but 12 only in one way; and they weigh thereby
+
+[margin: Not all have one and the same ground for it.] [p. 3] that it is just as much as if one were to throw a number with three throws, to which the other has only one throw free; they will bethink themselves that, if they are to accomplish something, it has succeeded for them sooner in three tries than in one, and therefore they also expect here the like (§. 331).
+
+§. 401. Therefore it also happens that one holds for probable what to another does not appear probable at all. Indeed, one can have certainty of that of which the other has only a probability. And to one something can be somewhat more probable than to the other. Indeed, among the probable things themselves one can have more probability than another.
+
+[margin: Degrees of probability with respect to the thing and to the one who knows.]
+
+§. 402. There would be very much to remark on this, if one wished to carry it all out with due distinctness. And Mr von Leibniz has already more than once reminded us that a Logic of the probable is still wanting. Huygens, Jacob Bernoulli, and Mr von Montmort in the matter of games, and some Englishmen in some other matters, have indeed given some specimens of it; but that is only a small beginning of it. Meanwhile, since in human affairs for the most
+
+[margin: Logic of the probable.] [p. 219] part it depends on probability, and one is therefore to choose the most probable; it would be a very useful labour if one brought this art into being. But one sees quite easily that two things are required for it. Namely, he who wishes to undertake this labour must have much to do with probable things, and must at the same time have wit (§.366) and understanding (§. 277), in order to discover the general grounds which are contained in particular cases, to bring them under distinct rules, and also, from those which he has found in such a way, to bring out others still further.
+
+§. 403. When one has once assumed some probable propositions, then everything that is inferred from them is also probable. Therefore if by a hundred inferences I finally came to a proposition which in the hundredth inference was the conclusion, and among the premises there were only a single one which had mere probability; the conclusion too would be merely probable. For it remains, to be sure, true that in probable matters one needs no new form of inferences, but keeps just that which is customary in certain matters:
+
+[margin: How probability proceeds and why a special logic is necessary for it.] [p. 3] but one needs other axioms, which furnish the first premises, and for recognising their probability and rightly determining its degree one has need of special rules, which make up the Logic of the probable.
+
+§. 404. In that we behold perfection, *pleasure* arises in us, so that pleasure is accordingly nothing other than a beholding of perfection. I will explain it by one example and another. When I see a painting, that it is similar to the thing which it is to represent, and consider its similarity; one has pleasure in it. Now the perfection of a painting consists in similarity. For since a painting is nothing other than a representation of a certain thing on a panel or flat surface: everything agrees in it, if nothing can be distinguished in it that one does not also perceive in the thing itself. But if it is so constituted, it is perfect (§.152); then it is also similar (§.18.19). Therefore similarity is the perfection of the painting, and, since pleasure arises from the beholding of similarity, so it arises from the beholding of perfection. I have
+
+[margin: What pleasure is.] [p. 221] shown above (§.152) that the perfection of a clock is evident from the correct indication of the hours and their parts. Whoever now sees a clock which marks the time exactly, has pleasure in it. And so pleasure consists in an intuitive cognition of perfection. In like manner, when one versed in architecture contemplates a building that has been erected according to the rules of architecture, he recognises from it its perfection (§.168). Since he then has pleasure in it, it is again evident that pleasure consists in the beholding of perfection.
+
+§. 405. But it is not necessary that pleasure have a true perfection as its ground; it is enough that a mere appearance be present. For we experience daily that men take pleasure in something which is imperfect, because they hold it to be perfect. E.g. someone has an incorrect concept of the rules of a good speech. If he now hears a speech that agrees in everything with these rules, he has, in his opinion, a cognition of the perfection of the speech. Therefore, since he takes pleasure and delight in it on that account, the pleasure arises in him from a false delusion of the
+
+[margin: It does not always have truth as its ground.] [p. 3] perfection. And so the beholding of a supposed perfection too can arouse pleasure.
+
+§.406. When pleasure has no true perfection as its ground, it is possible that one comes in time to recognise one's error (§.316). When this now happens, the beholding of the supposed perfection is gone. And accordingly all pleasure vanishes at once (§.405). We see this also from experience. For how often men take great pleasure in something: but in time it vanishes, and sometimes more quickly than one had supposed. Whoever then investigates whence it comes will find that he looked at the matter at first with other eyes than he finds it to be afterwards, when he becomes more exactly acquainted with it.
+
+[margin: When it is changeable.]
+
+§. 407. On the other hand, when it has a true perfection as its ground and one has certainty of it, it is unchangeable. For whoever is certain of his cognition need not fear that he will in future look at the matter with other eyes than now. Therefore, since it appears to him at one time just as at another, he may represent it to himself whenever he will, and he will always catch sight of its perfection, and hence
+
+[margin: When it is unchangeable or constant.] [p. 223] take pleasure in it. In this way his pleasure is constant.
+
+§.408. Since now science has certainty (§.361.390); pleasure is constant when one knows the perfection of a thing, or can demonstrate it.
+
+[margin: Whence constancy comes.]
+
+§. 409. The greater the perfection which we sense, the greater also is the pleasure which we have, if we only represent to ourselves the magnitude of the perfection. It is not necessary to prove this at length. It is evident at once from the definition given before (§.404). It is also clear (§.405) that pleasure rises to a higher degree if one has only a supposed cognition of the magnitude of the perfection.
+
+[margin: Degrees of pleasure.]
+
+§. 410. But because it is not enough that a perfection be met with in the thing, if we are to have pleasure in it, but it is also required that we sense it (§.404): the pleasure also becomes greater by this, that one has more certainty of the perfection of the thing. And it therefore serves for the increase of pleasure, if one makes oneself sure of the rules of perfection before all things (§.164).
+
+[margin: Another ground of the degrees of pleasure.]
+
+§. 411. One sees from what has been said hitherto why a connoisseur can take an insatiable
+
+[margin: Why connoisseurs have more] [p. 3] pleasure in a thing, in which the other has no liking at all. E.g. when a building has been erected according to the rules of architecture in such a way that the general rules of perfection (§. 152. & seqq.) have been carefully observed in it; then a skilled master-builder finds in contemplating the building so much pleasure that he cannot look at it enough: whereas others, who do not understand the art, pass by and look at it without any sensibility. Namely, the more he contemplates it, the greater perfection he perceives. Since he is now at the same time assured of the correctness of the rules with which it agrees, and recalls this certainty to himself (§. 238), as often as he thinks of the rules; his pleasure grows ever greater from a double cause (§.409), the longer he contemplates the building. To this it is added that he beholds at the same time the perfection of the master-builder who erected the building, and likewise of the artists who have worked at it: whereby a new kind of pleasure arises (§.404), which unites with the other and thereby increases it.
+
+[margin: pleasure in a thing than others.]
+
+§. 412. From this too one can comprehend why thorough cognition and new inventions cause us so great a pleasure
+
+[margin: Why science and inventing bring pleasure.] [p. 225] in such a way that the pleasure is the more sensible the more trouble we have expended on it before we understood it or brought it out. For we then have, at the same time, an intuitive cognition of the perfection of our understanding and of the thing that we distinctly know, as also of the perfection of the inventor, if we only learn to comprehend what another has invented. Now the more trouble it costs to comprehend or to invent something, the greater is the cognition we have of our perfection, if we otherwise recall that we have already known other things with less trouble; and in such a case the pleasure accordingly becomes greater indeed (§.409).
+
+§. 413. This pleasure not only sweetens science, but also makes us persevere in long reflection and overcome all the trouble and difficulty that arises from it. Indeed it also impels us to go ever further.
+
+[margin: Use of this pleasure.]
+
+§. 414. But it is well to note that no distinct cognition is required for pleasure, but only a clear one. For it consists in an intuitive cognition of perfection (§.404). But this obtains its distinctness only
+
+[margin: What kind of cognition is required for pleasure.] [p. 3] through the understanding (§. 277), when it attends to that which the intuitive cognition contains in itself (§. 268) and distinguishes from one another what one then perceives as different.
+
+§. 415. This is also confirmed by experience. For very few men have the gift of distinct cognition (§.206); yet all enjoy pleasure. And from this very fact it follows that they can make a pleasure for themselves where no true ground for it is found (§.405). Indeed, even if we are devoted to distinct cognition, and distinctly know that which belongs to the judging of perfection, the representation of perfection itself is nevertheless only clear and without distinctness. E.g. when one has before oneself a profound truth that is hard to comprehend, and after much trouble we finally bring it about that it becomes intelligible to us, the pleasure arises in us at that very moment, as we notice that we comprehend it. But here the representation of our perfection is only clear, but not distinct. And if we at the same time also think of the understanding and the skill of the inventor, we likewise represent them to ourselves only
+
+[margin: This is confirmed by experience.] [p. 227] clear, but not distinct. But that we do actually have the representation is evident from the answer we give to those who ask us why we make a pleasure for ourselves of the fact that we learn to understand and comprehend this truth. For we say either that it is because we have at last brought it out after all; or because inventors can bring the matter out so cleverly, and the like. One may also draw here upon the example of the master builder, which was given above (§ 411). For while he considers the building distinctly, he represents to himself its agreement with the rules only indistinctly, since the imagination represents the rules to him and memory assures him of the certainty he once had of them (§.238.248). Now since perfection is grounded in this agreement (§. 164), the representation of perfection is only indistinct. But that the agreement with the rules is then represented only indistinctly, one can gather from this: that in the time in which the building is considered it would not be possible to reflect upon all the rules and to apply them to the present building by orderly inferences; much less, besides this, to consider at the same time how thereby a complete concord [p. 3] of everything that is to be found in the building is obtained. Meanwhile, whoever wishes to unfold all that is then contained in the thoughts of the soul must go into particulars on all of this, as can be sufficiently shown from what has been adduced at length on the constitution of our cognition.
+
+§. 416. Meanwhile everyone sees that, since by indistinct representations we can make ourselves a pleasure without ground, and much follows from this that is of no use, as will be shown below, distinct cognition must keep our pleasure within its limits. For as soon as pleasure arises in us, it is good if we investigate what ground it has, so that we may distinctly know whether it is a true perfection that we represent to ourselves, or whether we are perhaps letting ourselves be blinded by a false appearance. If we distinctly know that only a false appearance is present, the pleasure will vanish (§.404), and hence nothing further can arise from it. Whoever therefore does not have the gift of distinct cognition does not have his pleasure in his power.
+
+[margin: What distinct cognition does in pleasure.]
+
+§. 417. From what has been said of pleasure one can at the same time know
+
+[margin: What displeasure is and how it arises.] [p. 229] what the constitution of displeasure is. For displeasure is nothing other than an intuitive cognition of imperfection, whether it be a true imperfection or have only the appearance of one. Experience agrees with this. Suppose that someone is to study a book and cannot get through it. If he thinks there is something in it and that the fault lies with him that he cannot understand it, then he has an intuitive cognition of his ineptitude, that is, since ineptitude at understanding something is an imperfection of the understanding (§.277), of his imperfection. Since displeasure now arises in him in this case, it is clear from this that displeasure is nothing other than an intuitive cognition of one's imperfection. I say in this case, when he ascribes it to his ineptitude that he cannot understand the book, that displeasure arises; for if he comprehends that the fault lies with the one who wrote it, he throws the book away and says: whoever does not wish to be understood need not be read. The displeasure, however, stays away. Other circumstances may indeed come in addition, so that he becomes angry with the man who wrote the book, or perhaps even [p. 3] weary of his state, and the like. But then the case is no longer the former one that we assumed. For where several circumstances are added, the case is changed, and in different cases the same thing does not happen (§. 30). Those who are fond of making objections to cognition drawn from experience should note this once and for all.
+
+§. 418. Displeasure is accordingly not a mere lack of pleasure, but something actual in itself. For a mere lack of pleasure suffices that we have no intuitive cognition of a perfection (§ 404); for displeasure, on the other hand, something actual ensues, namely the cognizing of an imperfection (§.417). Anyone can easily invert the examples given above concerning pleasure so that they fit displeasure. And then what is asserted here will also be evident from experience.
+
+[margin: Displeasure is something actual in itself.]
+
+§. 419. I have here described pleasure and displeasure in general, so that the definition given fits all cases. Therefore it is to be noted of this what is to be retained of all general definitions, namely that in particular cases one must not name the matter by the general
+
+[margin: Necessary remark.] [p. 231] name, but with the particular one. For example, if someone asks me in a particular case whence the pleasure comes in him, he must not answer from the beholding of perfection, but he must name the kind of true or supposed perfection that he represents to himself. E.g. if I ask someone who beholds a building with great pleasure why he beholds the building with such pleasure, it is not necessary that I say it is because he represents to himself the perfection of the building, but I can name it by its own name and answer: because the building has been erected most carefully according to the rules of art. In the same way, if I ask one who feels displeasure over his studying (§. 417) why studying causes him displeasure, it is not necessary that I say it is because he represents to himself his imperfection, but I answer with the particular name: because he can understand nothing in it. And so in fact all answer who are asked about their pleasure and displeasure. Meanwhile one must not suppose that the general definition is therefore useless. For it serves for this: that from it I can know by reason with greater certainty (§. 368) what I could otherwise [p. 3] learn only by long experience (§.370). And cognition through reason in general has this advantage over experience: that I have the former more in my power and can attain to it whenever it pleases me; whereas with experience I must first wait until it presents itself to me.
+
+§. 420. I do not think it necessary to add more here about displeasure. For what has been said above (§. 406. & seq.) of the inconstancy of pleasure, of its constancy, of its degrees, and of the kind of cognition that is required for it, can also easily be understood of displeasure, if one changes what the nature of the matter requires to be changed.
+
+[margin: Inconstancy, constancy, degrees of displeasure, etc.]
+
+§. 421. Pain also belongs to displeasure, which is nothing other than the separation of the continuous in our body (§.58). For example, we feel a pain when we cut ourselves. But the wound that pains us is a separation of the skin and the flesh, which have been cut through. That something of this kind is present in all pain is shown partly by magnifying glasses, through which one sees how the little fibres of the membrane, of the skin and of the flesh are torn where it pains us;
+
+[margin: What pain is.] [p. 235] partly reason, when one considers the causes of pain. But I think everyone will grant without much demonstration that, when something that ought to be whole is torn in our body, this is to be reckoned among the imperfections (§. 152). Now since pain has an imperfection of the body for its cause (§. 29), and the sensation of imperfection arouses displeasure (§. 418), pain certainly belongs to displeasure, and hence it also happens that every displeasure is called a pain.
+
+§. 422. What makes us and our state more perfect is *good*. E.g. the art of invention makes our understanding more perfect, and so it is something good; health makes our body more perfect, and so it is likewise something good. Money makes our external state more perfect, and so it too is something good. Not everyone, to be sure, could show from the concept of perfection defined above (158) that the art of invention belongs among the perfections of the understanding, health among the perfections of the body, and money among the perfections of our external state: yet since this, presumably, no one
+
+[margin: What is good.] [p. 3] calls it into doubt, it is not necessary that I demonstrate it here, where I adduce it only as an example.
+
+§. 423. Since the good makes us and our state more perfect (§. 422), and the beholding of perfection arouses pleasure (§. 404), the intuitive cognition of the good must arouse pleasure. Therefore we call *naturally good* what either brings pleasure or at least is displeasure.
+
+[margin: The good arouses pleasure, and what is naturally good.]
+
+§. 424. And by this the true goods can be distinguished from apparent goods. Namely, a *true good* is one that affords a constant pleasure or never causes displeasure; an *apparent good*, on the other hand, is one that brings only a changeable pleasure, which is often turned into a greater displeasure. E.g. the health of the body is a true good: for it never causes us displeasure. Skill of the body is a true good: for we always have pleasure in it when we perceive it. A food that tastes good to us but agrees with us badly is an apparent good: for the illness that results from it arouses pain and nevertheless displeasure (§. 421).
+
+[margin: Distinction of true goods and apparent goods.]
+
+§. 425. But we know that pleasure is unchangeable if it has a true perfection for its ground and one
+
+[margin: Further distinction.] [p. 235] has certainty beforehand (§. 407); changeable, on the other hand, if it has no true perfection for its ground (§. 406). Therefore those are true goods that have a true perfection for their ground; apparent goods, on the other hand, are those that have no true perfection for their ground. The examples given make it clear. For health and skill actually make our body more perfect; food, on the other hand, which tastes good indeed but agrees with us badly, is an imperfect food and makes our body ill, that is, imperfect
+
+§. 426. What makes us and our state more imperfect is *evil*. E.g. ignorance makes our understanding imperfect, and so it is evil. Illness makes our body imperfect, and so it is likewise evil. Poverty makes our external state imperfect, and so it is something evil.
+
+[margin: What is evil.]
+
+§. 427. Since the evil makes us and our state more imperfect (§.426), and the beholding of imperfection arouses displeasure (§. 417), the intuitive cognition of the evil must arouse displeasure. Therefore we call *naturally evil* what brings displeasure.
+
+[margin: The evil arouses displeasure.]
+
+[margin: What is naturally evil.]
+
+[p. 3]
+
+§. 428. And by this the true evil can be distinguished from the supposed evil. Namely, the true evil brings an unchangeable displeasure; a supposed evil, on the other hand, a displeasure that is finally turned into a pleasure. E.g. unhealthy food is a true evil: for from it comes illness, which can afford nothing but displeasure. The diligence of a beginner, on the other hand, has only the appearance of an evil: for although at first it causes much displeasure, this is nevertheless turned into pure pleasure when he finally attains his end through it.
+
+[margin: Distinction of true and supposed evil.]
+
+§. 429. But it is to be proved in just the same way as before (§. 425) that a true evil is grounded in a true imperfection; a supposed evil, on the other hand, has no true imperfection for its ground, or perhaps an imperfection that contributes something to the perfection of the whole (§. 170). The examples just given make it clear. For unhealthy food in fact makes our body more imperfect; the diligence of the beginner, on the other hand, promotes his perfection, although much that is burdensome is associated with it.
+
+[margin: Further distinction.]
+
+§. 430. Since perfections as well as imperfections have their different degrees (§.159), it must
+
+[margin: Degrees of good and evil.] [p. 237] also the good as well as the evil have different degrees (§. 422. 426). And accordingly what has been adduced on the judging of the degrees of perfection (§. 174) serves for knowing the magnitude of the good and of the evil. But since few have brought their reason so far, they commonly judge the magnitude of an evil by the magnitude of the displeasure they feel from it, and the magnitude of a good, on the other hand, by the magnitude of the pleasure they have in it. But, as with all indistinct cognition, it is very uncertain in this respect.
+
+§. 431. One can see this even from the fact that we know some goods only from the opposed evil, although in themselves they are very great: health gives an example of this, which one does not know until one is ill. On the other hand one also finds that some evil seems greater than before when one compares it with the opposed good, e.g. when someone compares his poverty with the riches of another.
+
+[margin: When the good and the evil become more sensible.]
+
+§. 432. If we remain only with clear concepts and do not go as far as distinct ones, we are accustomed to distinguish the good by the pleasure it affords us, and, if we then go far,
+
+[margin: What indistinct cognition does in distinguishing the good and the evil.] [p. 3] we take heed whether the pleasure is perhaps turned into displeasure. In this way we learn to discover by experience the appearance that can blind us. In the same way we distinguish the evil in this case by the displeasure by which it disturbs us, and, if we then go far, we take heed whether the displeasure is not perhaps turned into a pleasure or takes away a pain and a greater displeasure. In this way, again, we learn to discover by experience the appearance that can blind us. All this is clear from what has been said of indistinct cognition (§. 214), and of the good (§. 422) and the evil (§. 426).
+
+§. 433. On the other hand, whoever is not content with indistinct concepts, but distinguishes things from distinct ones, investigates the perfection that the good promotes in us and the imperfection that is thereby averted; likewise the imperfection to which the evil leads us (§.422.426). And here one can distinguish the essence from the shadow by reason.
+
+[margin: What distinct cognition does in this.]
+
+§. 434. From the indistinct representation of the good arises *sensitive desire*, which is accordingly nothing other than an inclination of the soul towards the thing,
+
+[margin: How sensitive desire arises.] [p. 239] of which we have an indistinct concept of the good. E.g. someone tastes the wine in the glass, and it tastes good; since the taste now produces a sensitive pleasure in him, he judges from this that the wine is good (§. 432), and this pleasure, through which he represents the thing to himself as good, arouses in him at the same time the desire to drink. This desire one rightly calls a sensitive desire. For it comes merely from the senses, and reason has nothing to do with it.
+
+§. 435. But it is well to note that very many representations can contribute their share to this sensitive desire, and that it is composed of very many small inclinations, which are sometimes hard or even impossible to distinguish from one another, even when one has already come far in distinct cognition. E.g. when someone sees and tastes the wine in the glass, the imagination, together with memory (§. 238-248), also represents the pleasure that he has felt on many other occasions, partly through the taste of the wine, partly enjoyed in company over the wine, although it is not possible to distinguish from one another all these representations that present themselves at once. All of them make, so to speak, an impression in the soul,
+
+[margin: How much contributes its share to it.] [p. 3] so that its inclination towards wine, which we call the desire to drink, has very many causes. But since one commonly pays no attention to this, one does not know oneself how it comes about that we sometimes acquire so great a desire, and are thereby led to do something that we regret afterwards.
+
+§ 436. The indistinct representation of the evil draws the soul, as it were, back from the thing of which we have the concept of the evil; this too one commonly reckons as belonging to sensitive desire. But one could rather call it a *sensitive aversion*. E.g. someone has felt great pain from an injury when it was handled with a certain instrument. If he now has an injury again, and the surgeon comes to it with the instrument, the imagination represents to him the pain he felt before, with all the displeasure that otherwise occurs with it, though quite obscurely (§.191), and this displeasure, from which we represent the use of the instrument to ourselves as evil, arouses an aversion to it, so that we cannot let it be applied to the injury. This aversion one rightly calls a sensitive aversion, for it comes merely from the senses
+
+[margin: How a sensitive aversion arises.] [p. 241] and reason has nothing to do with it.
+
+§. 437. What has been remarked of sensitive desire (§. 435) holds also of sensitive aversion. E.g. when a drunkard has vomited up the wine again, and has felt in doing so great weariness in the limbs, headache, vexation at his bad conduct, disgust at what was vomited up, and the like, he need afterwards only see the wine again, and the imagination represents to him not only all this, but still innumerable other things that are related to it (§. 238), and memory at the same time assures him that he has experienced the like before (§. 248). Now although so many representations cannot be distinguished by us at once, yet all together make an impression on the soul, and from this there finally grows the aversion one has to wine, so that one does not desire to drink it.
+
+[margin: How much contributes its share to it.]
+
+§. 438. And now one can comprehend why sensitive desire and sensitive aversion are not so great in one person as in another, although both have the same essential concept of the good and the evil in a thing. Namely, because so many past representations at the same time
+
+[margin: Why sensitive desire and aversion have degrees.] [p. 3] also make an impression on the soul, and these are not found in all in equal number, the desire and the aversion must indeed be of a lesser degree in some than in others.
+
+§. 439. A considerable degree of sensitive desire and of sensitive aversion is called an affect. E.g. when someone who loves learning comes upon a new book in the bookshop that he holds to be good, and, while he makes himself an indistinct concept of what use it will be to him and what pleasure he has to expect from it, he has a violent sensitive desire for it (§. 434), which is called an affect. In the same way, when one learns that someone has done us a wrong, a violent sensitive aversion to it arises, which we likewise call an affect (§ 436).
+
+[margin: What an affect is.]
+
+§. 440. There are accordingly three kinds of affects: pleasant, unpleasant, and mixed. Pleasant affects are those that consist in sensitive desires; unpleasant or adverse ones, those that consist in a sensitive aversion; mixed ones, where sensitive desires and aversion are united with one another.
+
+[margin: Kinds of affects.]
+
+§. 441. Since sensitive desires arise through indistinct representations of the good (§. 434), but sensitive aversion
+
+[margin: How the affects arise.] [p. 243] through an indistinct representation of the evil (§ 436), the pleasant affects must arise through indistinct representations of much good, the unpleasant or adverse ones through indistinct representations of much evil, and the mixed ones through indistinct representations of good and evil at the same time.
+
+§. 442. Whoever has indistinct representations of the good and the evil distinguishes the good and the evil by pleasure and displeasure (§. 432). Therefore in the pleasant affects there is sensible pleasure; in the adverse ones, sensible displeasure; in the mixed ones, pleasure and displeasure blended. And so one could also say: the pleasant affects are a sensible pleasure; the adverse ones a sensible displeasure; the mixed ones a union of sensible pleasure and displeasure.
+
+[margin: In which pleasure or displeasure is to be found.]
+
+§. 443. Hence it has also happened that some, who did not examine the matter closely enough, have held pleasure and displeasure to be kinds of affects. But from what has been demonstrated so far it is evident, 1. that not all pleasure is an affect, but first acquires this name when it becomes sensible, which is also the character of displeasure; 2. that in all affects pleasure or displeasure, or both
+
+[margin: Why some have reckoned pleasure and displeasure among the affects] [p. 3] are to be met with at the same time, and that therefore that in which all affects agree with one another is by no means to be held a kind of affect. Experience also shows the former. E.g. when a company has been together in moderate pleasure, without anyone letting anything adverse be noticed, one says that they have been satisfied together. Yet no one will call this satisfaction an affect. But even if that should happen, the inconstancy in speaking, which arises from want of sufficient cognition, can be to the prejudice of the truth in no way, which is remarked here once for all.
+
+§. 441. But every affect is accustomed to be connected with an extraordinary motion of the blood, and especially of the fluid matter in the nerves. Daily experience shows this. E.g. when someone becomes angry, he turns red in the face, he alters his looks and gestures: though it does not happen in the same way in all. Some begin to burst out with harsh words with vehemence and speed; others grind their teeth and put on a look as if they wanted to stab someone with their eyes. Still others stamp with their feet and fence with the
+
+[margin: What the affects cause in the body.] [p. 245] hands. Indeed some throw themselves about; some press their hands tightly together; some snort with the nose, and so on. The red colour in the face shows that the blood is swiftly driven away from the heart towards the outermost parts of the body. The pulse, likewise the warmth that one feels, and the sweat often breaking out show sufficiently that the blood is in swifter motion. Why the looks and gestures are so different in the angry cannot indeed be settled in this place; meanwhile they all consist in certain motions of the limbs of the body, and in this they agree with one another. But I shall demonstrate in another place that no motion can occur in the human body without a motion of the fluid matter that is in the nerves. And hence the changes of looks and gestures, likewise the deeds of an angry man, show that the fluid in the nerves has an extraordinary motion. I will give one more example, of fright. There we see that a man turns quite pale in the face and cold in the hands. The heart begins to beat strongly. Hands and feet often remain in the position that they just [p. 3] happen to have. The eyes become quite fixed. Some open their mouths wide and keep quite silent; others, on the contrary, begin to sigh. Some stand motionless, like a stone image; others sink down from weakness, or at least let their arms sink, and so on. Here the pale colour shows that the blood retreats from the outermost parts, and the strong beating of the heart indicates that it rushes towards the heart. The changes of looks and gestures give us to understand that the fluid in the nerves too has been put into an extraordinary state. Most men look solely and only at the changes in the body when they speak of affects, because these, in themselves as well as in others, fall under the senses when the affect takes possession of the mind.
+
+§. 445. The kinds of affects consist in different degrees of pleasure and displeasure, in their mixture and alternation: as can be sufficiently gathered from the definition of the affects given (§. 439. 442.)
+
+[margin: Why the affects differ from one another.]
+
+§. 446. A considerable degree of pleasure, which also outweighs the displeasure that may be present, makes *joy*. Since pleasure now consists in an intuitive cognition
+
+[margin: What joy is and how it arises.] [p. 247] of perfection (§. 404), and is therefore aroused by an indistinct representation of the good (§. 422), joy arises when we represent to ourselves much good in a thing at once (§. 214). E.g. when Titius has a great desire for a science and knows that he could attain to it through the use of a book, which he cannot however obtain, and afterwards Caius unexpectedly brings him the same book, he has great joy over it. But if one then examines the state of his mind, we find nothing but representations of many kinds of good, which however unite with one another in such a way that we cannot distinguish them from one another otherwise than by reason after much deliberation, and must also expect that we do not discover them all. For as soon as Caius hands the book to Titius, the imagination (§. 238) represents to him all the good that he formerly supposed he would learn from the book, the desire he had had for it, and the perfection of his state, on which he had reckoned after obtaining the cognition, together with much other good that had some affinity with it for him and for others. Memory at the same time assures him (§. 248) [p. 3] that he had had such representations before. He also represents to himself at the same time the improvement of his state that has been brought about by his having obtained the book, and the goodwill of Titius towards him, together with much else that has an affinity with it. We find accordingly here manifold pleasure, which taken together makes up a considerable degree, and manifold representations of the good, which the soul has at once and is therefore as little able to distinguish from one another as the noise of the single waves in the roaring of the sea, which consists of them together.
+
+§. 447. The joy over the end of displeasure, or over the fact that that which caused us displeasure and vexation is past, is called *gladness*. Hence we say: I am glad now that it is past; or, I am only glad that it is already got through, and the like. E.g. a sick man who has felt great pains becomes glad when he becomes aware that they are soon to end, or also considers that they have actually reached their end.
+
+[margin: What gladness is.]
+
+§. 448. A considerable degree of displeasure, which also outweighs the pleasure if any is present, makes up *sadness*. Since displeasure now consists in an intuitive
+
+[margin: What sadness is and how it arises.] [p. 249] cognition of imperfection (§. 417), and is therefore aroused by an indistinct representation of the evil (§. 426), sadness arises when we represent to ourselves much evil in a thing at once (§. 214). As before with joy, it can be illustrated by examples, which however is not done for the sake of brevity.
+
+§. 449. The readiness to draw considerable satisfaction from another's good fortune is *love*. And hence we rejoice over the good fortune of those whom we love (§. 446), and indeed much or little, according as the love is great or small. But since satisfaction or pleasure consists in an intuitive cognition of perfection (§. 404), it arises from the representation of the good that we suppose we perceive in another (§. 422). For then we have satisfaction in his person, and since the good in him satisfies us, we desire to perceive much good in him. In this way we are ready to make what satisfies him our own satisfaction, that is, we love him.
+
+[margin: What love is and how it arises.]
+
+§. 450. Hence it is accustomed to happen that a love is ascribed to us towards all things from which pleasure or satisfaction
+
+[margin: How we love lifeless things.] [p. 3] is drawn by us, that is, in things in which we perceive a perfection. Accordingly love towards lifeless things is nothing other than a readiness to take satisfaction in them. E.g. I say that I love a book when I feel pleasure as often as I see it or as often as I think of it.
+
+§. 451. Since joy is a considerable degree of pleasure or satisfaction (446), and whoever loves another takes satisfaction as much in him as in his good fortune (§. 449), whoever loves another greatly must rejoice when he sees him; in this case he must also rejoice over his good fortune.
+
+[margin: When love begets joy.]
+
+§. 452. Whoever rejoices over another's good fortune must be grieved or become sad over his misfortune (§. 446. 448). Since now whoever loves another ardently rejoices over his good fortune (§. 451), he must also be grieved over his misfortune.
+
+[margin: When it causes sadness.]
+
+§. 453. Accordingly both joy over another's good fortune and sadness over his misfortune are a sign of ardent love.
+
+[margin: Sign of a great love.]
+
+§. 454. *Hatred*, which is opposed to love, is a readiness to draw pleasure from another's misfortune or ill. Since pleasure now consists in an intuitive
+
+[margin: What hatred is and how it arises.] [p. 251] cognition of perfection (§. 404), we must hold the evil that befalls the other to be good (§. 452), that is, we must regard it as something good that such a misfortune strikes him. E.g. Titius draws satisfaction from the illness of Sempronius, not as if he represented the illness to himself as something good and had pleasure in it, but because he holds it good that the illness has struck Sempronius, for particular reasons that can differ in manifold ways. If we are to hold the evil that befalls another to be good, we must find something in him that arouses displeasure in us. And in this way the representation of the evil that we suppose we perceive in another produces hatred (§ 427).
+
+§. 455. From this it is evident at the same time how we can say of lifeless things that we hate them, namely when we perceive in them something that causes us displeasure or dissatisfaction. And then hatred is a readiness to draw satisfaction from their destruction.
+
+[margin: How we hate lifeless things.]
+
+§. 456. When hatred is great, the satisfaction that one draws from the misfortune of one's neighbour is great (§ 454). Since now a great satisfaction
+
+[margin: When hatred arouses joy.] [p. 3] makes up joy (446), whoever hates another greatly must rejoice at his misfortune.
+
+§. 457. The joy over another's misfortune is called *derision*. And so derision arises from a great hatred towards others. (456).
+
+[margin: What derision is.]
+
+§. 458. Often one sees no cause for hatred, and yet a man rejoices over other people's harm and misfortune. Such a man is commonly called a *malicious* man. But although the cause is hidden, there must nevertheless be one (§. 30. 454.), and in particular cases it can very well be found by the sharp-witted. E.g. an ambitious man wishes to be more than others. If he therefore perceives a fault in another, he draws satisfaction from it, which becomes joy when it is great (§. 446). And accordingly ambition is the cause of hatred.
+
+[margin: What a malicious man is.]
+
+§. 459. Whoever rejoices over another's misfortune must be grieved over his good fortune, or at least draw displeasure and dissatisfaction from it. Since now whoever hates another rejoices over the other's misfortune (456), or at least draws satisfaction from it (§. 454), he must also be grieved over his
+
+[margin: When hatred causes sadness.] [p. 253] fortune, or at least become dissatisfied at it.
+
+§. 460. The dissatisfaction at another's good fortune is called *envy*. And so envy or ill will arises from hatred (§. 459).
+
+[margin: What envy is.]
+
+§. 461. Whoever loves another is ready to draw satisfaction from his welfare (§. 449). Accordingly he is also ready to take dissatisfaction in his misfortune, or even to be grieved at it (§. 447. 448). The dissatisfaction and sadness at another's misfortune is called *compassion*. And so compassion arises from love.
+
+[margin: What compassion is, and how it arises.]
+
+§. 462. Whoever is compassionate is grieved at another's misfortune (§. 461); whoever hates another rejoices at his misfortune (§. 456). Therefore hatred and compassion cannot exist side by side.
+
+[margin: Hatred and compassion do not exist side by side.]
+
+§. 463. The joy at the good that we have done is *contentment with ourselves*. Namely, when we represent to ourselves the good that we have done either for ourselves or for others, we represent to ourselves at the same time, though indistinctly, our perfection, which has made us fit for it, or to which we have also attained, likewise the perfection to which
+
+[margin: What contentment with oneself is.] [p. 3] we have helped others (§. 422). Now since this representation excites satisfaction (§. 404) and joy (§. 446), we feel from the good that we have done satisfaction, or indeed rejoice in it.
+
+§. 464. To this very agreeable affect is opposed a disagreeable one, which is called *repentance*. Repentance is accordingly a sadness, or at least a dissatisfaction, at the evil that we have done. Namely, whoever represents to himself the evil which he commits either against himself or against others, represents to himself at the same time, though indistinctly, his imperfection, which has made him fit for it, or to which he has also attained, likewise the imperfection to which he has helped the other (§. 426). Now since this representation causes dissatisfaction (§. 417) and sadness (§. 448), we feel over the evil that we have done dissatisfaction, or are indeed grieved at it.
+
+[margin: What repentance is.]
+
+§. 465. Shame is often associated with repentance. But *shame* is nothing other than the displeasure which we feel at the judgement of others on our imperfection. And from this it is clear at the same time why it is associated with repentance: indeed it is
+
+[margin: What shame is.] [p. 255] moreover clear that it sometimes begets repentance, which experience also confirms.
+
+§. 466. The pleasure and joy at the judgement of others on our perfection and on the good that we have done we call *desire for glory*. It arises accordingly when we represent to ourselves that others recognise our perfection and the good that we have done, and therefore value us.
+
+[margin: What desire for glory is and how it arises.]
+
+§. 467. It is this affect which impels men to do good without self-interest, sweetens their hard toil for them, and gives them courage when difficulties arise, so that they do not give up until they have carried out what is praiseworthy. Of it one must understand what Ovid says:
+
+[margin: Its effect.]
+
+*Magnum opus aggredior, sed dat mihi gloria vires!*
+
+that is, I undertake something great; but glory gives me strength for it.
+
+§. 468. Hence experience also shows that those men who are wholly free of this affect accomplish little or nothing praiseworthy in the world, and therefore bring little benefit to the human race; likewise, that in their undertakings they are merely self-interested.
+
+[margin: Which men accomplish little that is praiseworthy.]
+
+[p. 3]
+
+§. 469. The love of a benefactor on account of the benefits shown to us is called *gratitude*. But this affect is to be distinguished from the virtue that bears this name. It is joined with a desire to show the other good in return, as far as lies in us, such as is likewise met with in the love of others.
+
+[margin: What gratitude is.]
+
+§. 470. This affect therefore arises when we represent to ourselves the benefits which we have enjoyed from another, and draw satisfaction from them.
+
+[margin: How it arises.]
+
+§. 471. The love of a person on account of his good conduct is called *favour* or goodwill. Now since love is a readiness to draw satisfaction from another's good fortune (§. 449), favour impels us to help another where it is in our power, and to prefer him to others who, besides him, seek help or assistance from us in some matter.
+
+[margin: What favour is.]
+
+§. 472. One might indeed object that we are sometimes favourable to persons who do not behave very well. But to this various things can be answered. Namely, a man sometimes takes pleasure in bad conduct, and holds it for good conduct. Sometimes there is something good in one
+
+[margin: An objection, with its answer.] [p. 257] man that wins our favour for him, and makes us overlook the bad. Sometimes someone shows himself obliging towards a person to whom he is not favourable, from certain particular causes, and by those who do not know it this is taken for favour. Sometimes it has perhaps still another character.
+
+§. 473. *Hope* is the pleasure which we have in the good that we intend to obtain. E.g. someone learns that a post has become vacant which would be advantageous to him, and represents to himself means and ways by which he can attain it. While he believes he will obtain it, and draws satisfaction from this, this satisfaction is called hope. But where no such satisfaction is present, there one says that one makes nothing of it, though one thinks of obtaining the post.
+
+[margin: What hope is.]
+
+§. 474. Joy at the good which one intends to obtain is called *confidence*. Now since joy is a sensible pleasure (§. 446), confidence is a high degree of hope. Hence we shall also find that people who have great confidence in something
+
+[margin: What confidence is.] [p. 3] say that they already take a real joy in it.
+
+§. 475. Because joy arises when we represent to ourselves much good at once (§. 446), we must also have in confidence a great certainty of obtaining the good: for otherwise we should hold the uncertainty for something bad, and thereby the satisfaction in the thing would be diminished. Indeed we should become the more uneasy, the more certain the pleasure were that we had in the thing.
+
+[margin: With confidence there is great certainty.]
+
+§. 476. The displeasure at an impending misfortune or supposed danger is called *fear*. E.g. whoever represents to himself at night great danger from ghosts: his uneasiness one calls a fear. Fear is accordingly opposed to hope (§. 473).
+
+[margin: What fear is.]
+
+§. 477. Since a sensible displeasure makes sadness (§. 448), fear too can become a sadness, namely when one represents the misfortune to oneself quite certainly. A high degree of sadness over the impending misfortune is called *despair*.
+
+[margin: What despair is.]
+
+§. 478. From this one sees how despair can come from repentance. Namely, repentance is a sadness at the
+
+[margin: How it can come from repentance.] [p. 259] evil that we have done (§. 464). If one therefore represents to oneself, together with the evil, the misfortune into which one has plunged oneself and others (§. 426), and is firmly convinced that one cannot escape it, then despair is there.
+
+§. 479. A sudden sadness in a high degree at an unexpected misfortune is called *fright*. When the fright is so great that one can distinguish nothing more in one's sensation, and so all one's senses fail, it is called *consternation*. E.g. when someone has made great calculations upon a post and has had great confidence of obtaining it, he is thrown into consternation when another is preferred to him contrary to all his expectation. And hence it also tends to happen that, when the fright subsides and so the degree of the affect decreases, only a sadness and finally a displeasure or dissatisfaction remains (§. 427. 448).
+
+[margin: What fright is, and in particular consternation.]
+
+§. 480. When pleasure and displeasure at the good, which we represent to ourselves but are not assured of obtaining, alternate, it is called *fickleness*. Namely, the pleasure arises from the representation of the good: the displeasure from the doubt whether we shall obtain it. And
+
+[margin: What fickleness is.] [p. 3] upon this follows further pleasure through the representation of the means how it is to be obtained: but on the other hand it is annulled again through the representation of the difficulties that arise in carrying out the means. Namely, fear and hope contend with one another (§. 473. 476).
+
+§. 481. When displeasure gains the upper hand, sadness arises from it (§. 448). And the sadness at the difficulties of obtaining the good is called *faintheartedness*.
+
+[margin: What faintheartedness is.]
+
+§. 482. Allied to this is *timidity*, which is nothing other than a sadness at the magnitude of the impending misfortune. Hence we find that timid people say they will not be able to endure the misfortune: just as a fainthearted person says it is impossible for him to overcome the difficulties which lie in his way when he strives to obtain the good.
+
+[margin: What timidity is.]
+
+§. 483. The displeasure at the expectation of the good in which we take satisfaction is called *longing*. Hence one finds that time grows long for those who feel a longing for something, and they are wont to say: I cannot wait for joy. Namely, there is still some fear mixed in with it (§. 476); and the greater this is, the greater becomes the longing.
+
+[margin: What longing is.]
+
+[p. 261]
+
+Fear grows from the representation of the danger to the good which one expects to come, or one also holds the delay itself for something bad, as when one awaits a good friend whom one loves very much and has not seen for a long time.
+
+§. 484. Among the most violent affects *anger* is to be counted: of which it has long been remarked that it is composed of many others. Commonly anger is a sadness at the wrong done by others to us or to those whom we love, joined with a hatred against him who offends us or others. Sometimes, however, many other affects are associated with it: as e.g. shame, when one supposes that what the person has done, with whom we are angry, is detrimental to us in the eyes of others; despair, when one imagines that the person against whom we rage has robbed us of our good fortune; repentance, when we suppose that we could have avoided the offence; fright, when we imagine that through the offence we have been put into unexpected danger; and so on.
+
+[margin: What anger is.]
+
+§. 485. Now according as many or few disagreeable affects come together, and indeed in a high or low degree,
+
+[margin: Whence the degree of anger comes.] [p. 3] so anger is great or small; which those do not understand who often wonder why someone can become so angry over a trifle. Namely, this is an indication that at other times he had already formed many disagreeable representations of the same person, which are then brought all at once into memory (§. 238. 248), even if the occasion for it is given by a trifle. Whoever therefore wants to unravel all the representations that are present at once in anger (§. 484) would have to give very lengthy descriptions, and very often, of what happens in a single moment.
+
+§. 486. That what has now been said accords with the truth, I can show quite easily without prolixity. Namely, when men extricate themselves from the confusion and begin to distinguish from one another what is indistinct in their sensation, they adduce as a cause of their anger that in which they suppose themselves to be offended. And then what was said before shows itself clearly. But as soon as this happens, that one directs one's thoughts one after another from one thing to the other, so soon anger also abates, and the mind becomes, as well as the blood,
+
+[margin: This is further confirmed.] [p. 263] calmer: unless something occurs in it which was formerly connected with many other disagreeable representations. For if these are thereby brought into memory anew (§. 238. 248), a new storm arises from it (§. 484).
+
+§. 487. Whoever quickly grows angry, especially at such things as are regarded as trifles, is usually called touchy. And so *touchiness* is nothing other than an inclination to quick anger.
+
+[margin: What touchiness is.]
+
+§. 488. Whence it comes is to be gathered from what was adduced just before (§. 486). And it is clear from this at the same time why people who have much wit are very angry and touchy: for they can at once make much of a trifle and hit upon many things at the same time (§. 366).
+
+[margin: Whence it comes.]
+
+§. 489. Of an angry man we are accustomed to say that he is cross, when the anger has indeed subsided somewhat but not wholly, and especially when hatred is still present together with some of the other affects adduced above (§. 485). On the other hand, when the anger is quite gone, one says: he is friends again. And therefore one is accustomed to call a not violent anger being cross. E.g. when we hear that Titius has without cause offended Caius
+
+[margin: What being cross and being friends again are called.] [p. 3] we say: One is quite cross with him for having done this, and sometimes we add: I have become quite resentful of him on that account. From which it is sufficiently clear that in such a small anger hatred has the upper hand, whereas sadness takes place little or not at all.
+
+§. 490. Through the affects man is carried away to do this and that, or to refrain, and they make sensitive desire and sensitive aversion (§. 434. 436) stronger than it would otherwise be.
+
+[margin: What the affects effect.]
+
+§. 491. Now since with the affects man does not consider what he does (§. 441), and he accordingly no longer has his actions in his power, he is as it were compelled to do and to refrain from what he would otherwise neither do nor refrain from, if he comprehended distinctly what it was. Therefore, because the affects proceed from the senses and the imagination (§. 439), the dominion of the senses, of the imagination and of the affects makes up the slavery of man. And therefore those are also called slaves who let their affects rule them, and remain merely with the indistinct cognition of the senses and the imagination.
+
+[margin: What slavery is.]
+
+[p. 265]
+
+§. 492. When we represent a thing to ourselves as good, our mind is inclined towards it. This inclination of the mind towards a thing for the sake of the good which we suppose we perceive in it is what we are accustomed to call *the will*. E.g. someone sees a book lying in a bookshop, leafs through it a little, and supposes he will find things in it that are useful for him to know, that is, he represents the book to himself as good (§. 422). While this is happening, he feels a desire to buy the book. This inclination, which he then comes to feel towards the book because he holds it to be good, is called the will. And one then says: he *wills* to buy the book.
+
+[margin: What the will is.]
+
+§. 493. On the contrary, our mind is drawn back from a thing which we represent to ourselves as bad. This drawing back of the mind from a thing for the sake of the evil which we suppose we perceive in it is what we are accustomed to call *nilling*. E.g. someone sees a book lying in a bookshop, leafs through it a little, and supposes he will find things in it that are partly of no account and partly absurd, that is, he represents the book to himself as bad (§. 426). While this is happening, he wants nothing further to do with the book,
+
+[margin: What nilling is.] [p. 3] throws it away and draws his mind as it were back from it. The drawing back of his mind from the book, which he holds to be bad or evil, is called nilling. And one then says: he *wills not* to have the book.
+
+§. 494. From this it is clear that nilling is something more than omitting to will. For one omits to will when one sees nothing good in a thing, as in the previous example, when in leafing through the book one finds nothing that one deems useful: on the other hand, one nills a thing when one meets with something bad in it, as in the previous example of the book, when in leafing through it one meets with absurd things. Namely (to keep to the figurative way of speaking that is used here, but which shall be explained below in its place), when we will, our mind is inclined towards the thing; when we nill, it is drawn back from it; when we omit to will, it remains as it were upright and unmoved, so that it is neither inclined towards the thing nor drawn back from it.
+
+[margin: How nilling is distinguished from the omission of willing.]
+
+§. 495. The ancients have reckoned both willing and nilling as belonging to the will
+
+[margin: How the ancients explained the will.] [p. 267] to the will: in which sense one must define the will as a force of the soul to incline itself towards a thing which one cognizes as good, and to draw back from another which one regards as evil. And then one calls willing *striving after a thing*; but nilling, on the other hand, *abhorring* a thing, or feeling an aversion to it.
+
+§. 496. It is clear from the definition of the will that was given that we must always have a ground why we will something, namely the representation of the good; likewise a ground why we nill something, namely the representation of the evil. And that this is so is sufficiently clear from the principle of sufficient reason (§. 30). For if everything must have its sufficient reason why it is rather than is not, then it must also have its sufficient reason why we will and nill something. These grounds of willing and nilling we are now accustomed to call *motives*.
+
+[margin: What motives are, and that the will cannot be without them.]
+
+§. 497. Experience also shows this: for one will not be able to adduce a single example in which one has either willed or nilled, and no motive present
+
+[margin: Whether experience confirms this.] [p. 3] had been, although those who are not acute enough do not always perceive it.
+
+§. 498. I know well that some are accustomed to adduce examples in which they suppose that no motive is present: but whoever is accustomed to consider things closely knows well how to find it. E.g. suppose that two ducats, of the same stamp and equal weight, indeed at least to all appearances quite alike, are laid on the table, and Titius is to take one of them. Now since it is supposed that Titius, who has beforehand considered and tested them both with all diligence, can discover not the slightest difference between them, and nevertheless takes one away, one imagines that he prefers one to the other without any motive, and so wants to have one rather than the other without there being a ground why he chooses this one rather than the other. It cannot be denied that it has some appearance as if this were an example of willing without any motive. But although no motive is to be found in the thing, one is nevertheless to be found in their relation to the person who makes the choice. Namely, one lies more conveniently
+
+[margin: The objections are answered.] [p. 269] than the other, so that it is more convenient for Titius to reach for it than for the other. And this convenience is the motive that one is seeking. Titius gives this clearly to understand. For when he is asked why he takes this one away and not another, he answers: he took the first that came. Namely, the first was the one that lay most conveniently to his hand, and therefore he held it to be one of the best, since no inner difference was to be found. In this way he preferred the better to the worse, and the representation of the good, which was present in the one but not in the other, was accordingly the motive. This example is therefore no exception to the rule (§. 496).
+
+§. 499. It is here especially to be noted that when we have already willed or nilled something often, we afterwards will or nill a thing again at once, as soon as it presents itself or occurs to us. E.g. when we have already eaten of a dish often, we enjoy it again without any hesitation when it is set before us. In the same way, when we have once resolved to go to a place about a certain time,
+
+[margin: Why in the commonest cases the motives are hidden.] [p. 3] we go there at once, when we become aware that it is about that time. Now it is certain that we do all this with intent, and accordingly will it. For although it can indeed also happen that, lost in thought, we unknowingly do something that we are otherwise accustomed to do, we have no need here to go into such examples. Besides, most of what we will throughout the day is of such a nature that we have already often willed it before, and so will it from habit. But although in these cases it looks as if there were no motive present, there nevertheless takes place in fact a representation, though indistinct and for the most part quite obscure, of those motives which we had when we willed it the first time.
+
+§. 500. It is with the will just as with the understanding. When we hear a word for the first time, we attend to it and ask what it means. But if we have already often heard it, or indeed even used it ourselves, the word seems at once intelligible to us, although we have only a quite indistinct, indeed obscure representation of the thing signified by it (§. 323), and it is only, as it were, quite from
+
+[margin: Further elucidation.] [p. 271] afar that we recall having had the concept of it before (§. 248). In the same way it is found that when we will something for the first time, the motives for the most part show themselves clearly. E.g. when a strange dish is set before someone, one first hears what others say of it, and tastes it before one resolves to eat any of it. On the other hand, when we have already often willed it, it is enough that our old resolution and the state in which we formed it are only, as it were, recalled to us from afar (§. 248).
+
+§. 501. Whoever therefore wants to know what the character of willing and nilling is must weigh those cases in which we willed or nilled something for the first time; or he must at least represent to himself as if he were now to will or nill it for the first time.
+
+[margin: What to attend to when one wants to know the will.]
+
+§. 502. In addition to this it is to be noted that among the motives one has to count not only the distinct representations of good and evil, but also the indistinct ones. And accordingly all pleasure and displeasure also belongs here, which a thing makes for us either now or before (§. 423. 427); likewise one must count with them all affects, whereby
+
+[margin: What is also to be counted among the motives.] [p. 3] we are either now moved, or which have previously been excited in us by the same thing (§. 490).
+
+§. 503. And this is precisely the reason why the distinct representations of good and evil are sometimes set aside, and one now wills what one before, by virtue of them, did not will; and conversely does not will what one before, by virtue of them, willed. Namely, pleasure and displeasure, together with the violent affects, make a stronger impression on the soul than the symbolic cognition of good and evil (§. 316): all of which will be clearer below, in its place.
+
+[margin: Why distinct representations are sometimes set aside.]
+
+§. 504. For this reason the ancients, not without ground, made a distinction between the antecedent and the consequent will. Namely, the *antecedent will* is that which arises when not all the motives are yet together: the *consequent will*, however, is that which takes place when the motives are all together.
+
+[margin: The distinction of the antecedent and consequent will.]
+
+§. 505. Now since the motives that are still lacking in the antecedent will can be stronger than those that are present, it also happens all too often that the consequent will is contrary to the antecedent.
+
+[margin: Why the consequent will can be contrary to the antecedent.]
+
+[p. 273]
+
+And that this is the true cause, men give us clearly enough to understand when they are asked why they did this, which they had nevertheless not resolved to do; or, on the contrary, omitted what they had intended to do? For when they are in a position to answer anything, they will say nothing other than that they had not thought beforehand of this or that, which showed itself afterwards, when the occasion to do it or to omit it presented itself.
+
+§. 506. Meanwhile it remains true, as was long since remarked by the ancients, that we will nothing but what we hold for good, and nill nothing but what we regard as evil. For the motives are either distinct representations of good and evil (§. 496), or pleasure, displeasure and affects (§. 502), that is, indistinct representations of good and evil (§. 404. 417. 441).
+
+[margin: We will only the good, the evil not.]
+
+§. 507. If therefore man wills the evil and does not will the good, this happens either because through error he holds the evil for good and the good for evil, or because he prefers a small evil to a greater, and therefore holds it for good, in so far as he regards it as a means of escaping the greater evil, although he does not hold it for good in itself. E.g. an evil-
+
+[margin: When we seem to will the evil.] [p. 3] doer, who is afraid of the harsh and severe punishment which he has to expect on account of his crime, and to whom the disgrace seems unbearable of being led out and executed as a malefactor before the eyes of so many acquaintances, seizes a rope and wants to hang himself: not as if he held suicide for good in itself, but because he regards it as the only means by which he can escape the pain he would have to endure and the anguish of the public disgrace.
+
+§. 508. Because one can neither will nor nill anything without motives (§. 496), it is impossible that one should will or nill something when motives of equal weight are present on both sides. Therefore, so long as one is in doubt whether the motives on one side outweigh the others or not, so long one comes to no resolution. But as soon as something is found on one side which is not to be met with on the other, and the indifference is accordingly removed thereby, then the weightier side retains the upper hand. The example given before (§. 498) of the choice of a ducat can explain the matter. For it is here to be well noted that the particular
+
+[margin: With motives of equal weight one comes to no resolution.] [p. 275] motives do not always strike everyone's eyes, but are sometimes so hidden that they can be sought out only by an acute person, namely one who, as was remarked above (s. cit.), is accustomed to consider things closely.
+
+§. 509. The ways of speaking that have been used here are taken from the balance: for one cannot explain the matter better than through the example of the balance. So long as the weights in both scales of the balance are equal, the balance stands still and can give a turn to neither side. If the turn is to follow, something must be added to the weight on the one side. The balance in this simile represents the soul, and the weights are to be taken as the motives.
+
+[margin: Elucidation by a simile.]
+
+§. 510. I know well that some hold the opinion that the simile of the balance does not suit the will. For the balance moves necessarily; the soul, on the other hand, is free in willing and nilling. Therefore one cannot infer from the necessary to the free. But pray, who infers from the necessary to the free? Whoever imagines this does not understand the simile. The comparison
+
+[margin: This simile is freed from the objection.] [p. 3] of the turn of the balance with the will goes no further than that both the one and the other must have a sufficient reason (§. 30). Namely, so long as the two weights are equal, there would be no ground why the balance should give a turn to the right rather than to the left. And it is just the same with the will. So long as the motives on both sides are of equal weight, there would be no ground why one should choose the one rather than the other. Now as by virtue of sufficient reason no turn can follow in the balance unless the one weight is strengthened by an addition, so too neither of the two can be chosen by the soul unless something is added on one side to the motives already present. So far goes the comparison, and one cares little whether in the balance the turn has a necessity, whereas in the soul the motives do not compel it. For the question is not whether the motives are a compulsion, but whether one of them is stronger than the other. But the simile of the balance suits this place very well for this reason, that the will was above [p. 277] defined as an inclination towards the thing by virtue of the good which we perceive in it (§. 492). For this manner of speaking is taken from a body which is inclined by a force from the perpendicular line towards the horizontal line on one side: which also happens in the turn of the balance. Although, of course, this word must have a special meaning when it is used of the soul, because the concepts of bodily things do not fit it, this nevertheless does not remove the similarity between what is to be found in the soul and the bodily, which is the ground of the name. But wherein the inclination of the soul consists can be shown only when I shall have explained the nature of the soul.
+
+§. 511. Those therefore err who define freedom as a faculty of choosing, from two contradictory things, the one as well as the other, without there being a motive why one chooses the one in preference to the other. For namely, by virtue of what has been set out at length, such a faculty is contrary to reason (§. 369) as well as to experience (§. 325).
+
+[margin: A false concept of freedom.]
+
+§. 512. It would also follow from this that all the representations by which one
+
+[margin: What follows from this.] [p. 3] wants to keep a person from evil and urge him to good would be in vain if they made no impression on the soul, or if man could not be brought thereby to willing and nilling. Indeed, we could point out a sufficient reason for nothing in the actions of men.
+
+§. 513. In order, then, to arrive at a better and more fruitful concept of the freedom of the will, let us investigate closely (§. 16. cap. 2. Log.) what the character of our actions is, which we call free.
+
+[margin: How to arrive at a better concept.]
+
+§. 514. We find accordingly that we understand, or distinctly comprehend, the character of these actions (§. 276). E.g. the question is whether I shall buy a book or not. I know what book it is and what I am to give for it. I know whether such a book can serve my purposes or not, and whether I can well spare as much money as is to be given for it.
+
+[margin: We understand free actions.]
+
+§. 515. We find, 2. that the actions which we call free are not absolutely necessary, since what is opposed to them is just as well possible (§. 36). E.g. in our case of the book to be bought, it is as well possible to buy the book as not
+
+[margin: They are not in themselves necessary.] [p. 279] to buy. For all the movements of the limbs of the body that are required for the purchase are in themselves possible, and the money for it is likewise at hand. But it is also possible to omit the movements and to undertake others.
+
+§. 516. Although, then, there are motives why the action is chosen, they do not on that account make it necessary in itself. For they leave the character of the thing and the faculty of carrying it out just as it was, and can make no change in it. E.g. although I consider that the book is useful to me, and thereby feel a desire to buy it, nothing is changed thereby either in the book, or in the movements of the limbs of the body required for the purchase, or in the other circumstances required for it; but everything remains as before. Namely, it can happen, and it can not happen. The one is as possible as the other.
+
+[margin: Nor do the motives make them necessary;]
+
+§. 517. Meanwhile it indeed remains true that they are that which makes the possible actual (§. 14): and, in so far as they are sufficient for it, they give a certainty. E.g. when one asks why I buy the book, since I could just as well have omitted it as I do it, I give as the cause: because I deem it to be
+
+[margin: but only a certainty.] [p. 3] useful to me, and giving the money for it is no hardship to me. And as soon as I have formed the resolution, for the sake of these motives, etc., it becomes certain that I buy the book; but not necessary: for it still remains possible, as before, that I should omit the purchase (§. 516). Hence it also sometimes tends to happen that the resolution firmly made is nevertheless changed again (§. 505), and one gives as a cause: something has intervened. Had the motives made the matter necessary, it would not have been possible that something could have intervened (§. 36).
+
+§. 518. We find finally, 3. that the soul has within itself the ground of its actions, which we are accustomed to call voluntary. For the representations which it uses for motives (§. 496) are in it and come from it, and it inclines itself by its own force towards the thing that pleases it, and draws back from it when it displeases it. And in so far as the soul has the ground of its actions in itself, in so far one ascribes to it *spontaneity*, and therefore calls *spontaneous* the doing and refraining of which the ground is to be found in the soul.
+
+[margin: Their ground in the soul.]
+
+[margin: What is spontaneous.]
+
+[p. 281]
+
+§. 519. If we take all this together, it is clear that freedom is nothing other than the force of the soul to choose, by its own spontaneity, from two equally possible things that which pleases it most.
+
+[margin: What freedom is.]
+
+§. 520. Since now insight into the connection of things shows what is good and evil, what is better and worse (§. 422. 426); reason is the ground of freedom (§. 368).
+
+[margin: In what it is grounded.]
+
+§. 521. It cannot be denied that a man who recognises something as better cannot possibly prefer the worse to it, and that it thus happens necessarily that he chooses the better. But this necessity is not contrary to freedom: for man is not thereby compelled to choose the better, because he could also choose the worse if it pleased him, since the one is as much possible in and of itself as the other (§. 516). It makes only a certainty, as was mentioned before (§. 517), of a kind that would not otherwise be in the actions of men. And if in future I shall explain the actions of men in particular, it will be shown that without this kind of necessity no certainty in the doctrine of morals would be to be hoped for.
+
+[margin: What kind of necessity in freedom.]
+
+[p. 3]
+
+§. 522. Notwithstanding this necessity, it also remains true that the will of man cannot be compelled. For since we can will nothing except what we hold to be good, and nill nothing except what we recognise as evil (§. 506), while the understanding cannot be compelled in its representations: it is also in no way possible to compel the will. And in this way the will is free from all external constraint.
+
+[margin: The will of man cannot be compelled.]
+
+§. 523. One is wont sometimes to bring forward an example by which one wishes to prove that the will is compelled: but if one pays close attention to it, one will find that only the consequent will is different from the antecedent, and that therefore no compulsion can be proved from it (§. 505).
+
+[margin: An objection is answered.]
+
+§. 524. To make this clearer it will not be unhelpful if I adduce such an example and answer it in particular. Lazarus comes to Croesus to beg and is not only rebuked by him with harsh words, but even driven out of the house with a cudgel, under the threat that he should expect the same treatment if he should venture to come again. When the poor Lazarus goes out again to collect alms and comes by
+
+[margin: Further elucidation.] [p. 283] the house of Croesus, he has indeed the will to beg at his house; but since he fears the blows, he must leave off begging against his will. Thus Lazarus wills to beg; but he is compelled by Croesus not to will it. And accordingly this is an example which clearly shows that one can compel the will. I say no to this, and indeed from the ground adduced before (§. 523), namely that the antecedent will is merely different from the consequent, because in the case of the consequent will other motives are to be found which were not present in the antecedent. That Lazarus is willing to beg at Croesus's house happens for this reason, that he knows that Croesus is a rich man who can sooner give him a thaler than another a penny, and he therefore supposes that he will obtain a rich alms from him. The representation of a rich alms is accordingly the motive of his antecedent will. But that he nevertheless leaves off begging at Croesus's house happens because he fears the threats of Croesus. This fear is a new motive which outweighs the former; and since it is for leaving off begging, the consequent will must be contrary to the antecedent (§. 523). Whoever [p. 3] accordingly changes his will through new representations is not compelled. And for this reason we also find at times people who, regardless of all threats and of the carrying out of threats already made, nevertheless stand by their resolve, because they hold it better to let all evil come upon themselves than to change their will to oblige the other. This would be an example of a compelled will if one could bring it about, with the motives unchanged, that a man changed his will: but the like is impossible (§. 30).
+
+§. 525. We find that the soul can acquire by practice a *facility* in thinking and inferring with respect to the understanding, as well as a facility in willing and nilling with respect to the will. Indeed this also holds of the imagination, the memory, sensitive desire and the affects. *Practice* consists in frequent repetition of one kind of thoughts. And the *facility* that grows from it consists in an ease of having such thoughts. The *ease* requires brevity of time and less trouble. Namely, in the soul everything comes about gradually, not all at once. It is apt for many things: but not at once ready for them. *Aptitude* is
+
+[margin: What facility is and how it is acquired.]
+
+[margin: What aptitude is.] [p. 285] a possibility of having certain kinds of thoughts. If now it is to reach its complement, something more belongs to it.
+
+§. 526. As for the kinds of facility, of the understanding as well as of the will, and the rest, they will be better spoken of below, where we investigate the essence of the soul and the ground in it of what we perceive of it.
+
+[margin: Where the kinds of facility of the soul will be dealt with.]
+
+§. 527. Therefore nothing remains here but that I adduce what we perceive of the agreement of our thoughts with certain changes in the body, and in turn of certain motions in the body with certain thoughts of the soul. But it is especially necessary here that we take careful note of what was recommended above (§. 316) with regard to experiences, and indeed all the more because in the present matter some prejudices commonly creep in incautiously, which hinder one from recognising the truth.
+
+[margin: The agreement of the soul with the body, how it is to be perceived cautiously.]
+
+§. 528. When external things produce a change in the organs of our senses, sensations arise at the same time in our soul, that is, we are conscious of those things at once. E.g. the light falls from a
+
+[margin: The agreement of the soul with the external senses.] [p. 3] building into the eye, from which it is thrown back, we see it at the very moment when this happens.
+
+§. 529. But one must take good care not to extend this experience further, to the detriment of truth, than is fitting (§. 527). We perceive nothing more than that two things are at once, namely a change that takes place in the organs of the senses, and a thought by which the soul is conscious of the external things which cause the change. By no means, however, do we experience an effect of the body on the soul. For if this were so, we should have of it a concept, though not a distinct one, yet at least a clear one (§. 352). But whoever pays close attention to himself will find that he has not the least concept of any such effect. And accordingly we cannot say that the effect of the body on the soul is grounded in experience. Whoever wishes to speak exactly cannot ascribe more to experience than that two things are at once. But from this it cannot even be inferred that the one is the cause of the other, or that one comes from the other (§. 11. c. 5. Log.).
+
+[margin: That thereby no effect of the body on the soul is evident.]
+
+§. 530. Meanwhile it is well to note that one does not here, on that account, reject the effect of the
+
+[margin: A necessary remark.] [p. 287] body on the soul as yet; but it is left open to further investigation. For it would be not only wrong if we were to say: what we cannot explain, that is, of which we have no distinct concept, cannot be; but I myself also declare it objectionable to say that what we have no concept of at all is not. Indeed I shall show below that we cannot even say that of which we are not conscious in our soul is not to be met with in it.
+
+§. 531. In particular we find also that with the pains of the body there are vexatious sensations in the soul, and likewise that the weaknesses of the body are accompanied by particular sensations. Hence, with a healthy and brisk body the mind is brisk and cheerful, if there is not present on the part of the soul a cause which hinders it. And this one understands when one says: When it is well with the body, it is also well with the soul; when it is ill with the body, it is also not well with the soul.
+
+[margin: Agreement of the soul with the pains and weaknesses of the body.]
+
+§. 532. One finds further that the soul grows with the body. For as long as children are small and still weak of body, so long also is their understanding very poor and there is no use of reason
+
+[margin: How the soul grows and decreases with the body.] [p. 3] present. Therefore it is said: understanding and reason do not come before the years. Likewise, when man becomes very old and weak, he also often becomes childish again. Indeed the illnesses that attack the head in particular deprive man not only of the acuteness of the understanding, so that he can no longer reflect as before, but sometimes even of reason, so that he becomes mad and raving.
+
+§. 533. Finally we find that the extraordinary motions of the blood and of the other fluid matters in our body, which are met with in the affects (§. 444), also take possession of the mind. Hence it was made a rule long ago: the affects, and in particular anger, as one of the most violent (§. 484), hinder the mind from seeing the truth. But when the blood in the body becomes calmer, the mind also comes to itself again, so that we know what we think and do, whereas in the violence of the affect we were beside ourselves, that is, did not sense ourselves and distinguished nothing of our thoughts.
+
+[margin: Agreement of the soul with the affects.]
+
+§. 534. Meanwhile, what was remarked before (§. 529) on the agreement of thoughts with the external senses
+
+[margin: That from this no effect] [p. 289] holds also of all the remaining agreement of the soul with the body, of which we have just spoken (§. 531. 532. 533). Namely, all this shows nothing more than that two things happen at once, that is, that a change in the soul takes place at the very time when a certain change in the body occurs. But why the two meet together each time remains a matter that must be investigated.
+
+[margin: of the body on the soul is evident.]
+
+§. 535. We note also, on the other hand, that certain motions follow in the body when the soul desires such motions. E.g. I want to reach for something; so I stretch out my arm toward it. I want to stand up and go away; so this also happens.
+
+[margin: Agreement of the body with the soul.]
+
+§. 536. If here too we wish to go no further than what we experience, we can say no more than that certain motions of the body happen at the time when we will them, or are also omitted when we nill them. But since we again have no concept, not even a clear one, of the effect of the soul by which it should produce the motion in the body, such an effect cannot be given out as grounded in experience, by virtue of what was already said before (§. 529).
+
+[margin: That from this no effect of the soul on the body is evident.]
+
+[p. 3]
+
+§. 537. Meanwhile one needs here too the caution that we took previously in a similar case (§. 530). For we do not on that account yet reject the effect of the soul on the body; but only leave it open to further investigation, which will be undertaken below.
+
+[margin: A necessary remark.]
+
+§. 538. Besides this it is well to note that the motion in the organs of the body does not follow if they are not constituted in the proper way. For if the nerves are either bound or cut through, likewise if the fleshy parts are cut through, the soul may will as much as it can, and yet no motion will follow on that account. So also there are various organs of the body whose motions are not directed by the will of the soul. Such are the hair, the heart, the stomach, and so forth.
+
+[margin: When no motion follows on the will of the soul.]
+
+§. 539. Because of this agreement of the thoughts of the soul with some changes in the body, and of some motions of the body with the will of the soul, it is customary to say that the soul is united with the body. But in what this *union of the soul with the body* consists cannot be shown until it has first been made out how it is possible
+
+[margin: Union of the soul with the body.] [p. 291] that the soul agrees with the body in the points adduced before.
+
+#### Chapter 4.
+
+### On the world.
+
+§. 540.
+
+Before we can understand what the soul properly is, and what ground there is for what has so far been said of it, we must first learn to know what a world is. For it will be shown in future that one can comprehend neither the essence of a spirit in general nor that of the soul in particular before one understands what a world properly is and what its constitution is.
+
+[margin: Why the world is dealt with here.]
+
+§. 541. But we do not wish now to concern ourselves just with the changes that occur in our world-structure, especially on the earth: for a complete account of that shall be given when my *Reasonable Thoughts on Nature and its Effects* come to light. Here we wish only to adduce what belongs to the general cognition of the world, which has so far been almost entirely lost from sight.
+
+[margin: How far it is dealt with here.]
+
+§. 542. In order now that we may obtain a correct concept of the world, it suffices
+
+[margin: How we obtain the concept of the world.] [p. 292] that we pay heed only to that which stands before us, and consider in so doing what we can distinguish in it from one another (§. 7. c. 1. Log.), and also compare with one another the things that we perceive (§. 19. cap. cit.).
+
+§. 943. While this is done, we find, 1. on our earth, many kinds of composite things (§. 51) which are beside one another at the same time; and in the heavens we meet, apart from the earth, with other great bodies, which have a similarity partly with the earth, partly with the sun (§. 291. 338. Astron.). We perceive, 2. that among the things we meet with on the earth some pass away, others on the contrary come, and so one follows upon the other; indeed even if the things themselves subsist, there are yet found in them many changes, one of which follows upon the other; and the like we also meet with in the stars, at least in their state towards the earth and among one another, to which not only daily experience but chiefly the observations of the astronomers bear witness. If one compares with one another the things that are beside one another, as well as those that follow one another, with their changes, one recognises, 3. that one always has its ground in the other, and one is for the sake of the other, that is, that both the things which are beside
+
+[margin: What our world is like.] [p. 293] one another and those which follow one another are connected with one another (§. 29). And this is what we can remark in general of those things which together make up the world.
+
+§. 544. Since now the actuality of things does not belong to their essence (§. 35), and the definitions of things merely present the essence of a thing (§. 48. Log.); it follows from what we have already remarked that the *world* is a series of changeable things which are beside one another and follow upon one another, but are all connected with one another.
+
+[margin: What a world is.]
+
+§. 545. I say that things are *connected* with one another when each of them contains in itself the ground why the other is at the same time beside it, or has followed upon it.
+
+[margin: When things are connected with one another.]
+
+§. 546. When, among the things that are at the same time, one contains in itself the ground why the other is at the same time beside it, each of them has its particular manner in which it is at the same time with the rest. Therefore each has its particular place (§. 47), and thus they are connected with one another in respect of space (§. 46).
+
+[margin: When they are connected in respect of space.]
+
+§. 547. When, among the things that follow upon one another, the preceding one contains in itself the ground why the other has followed, and on the contrary the following one
+
+[margin: When in respect of time] [p. 4] contains the ground why that one has preceded; they follow upon one another in an order (§. 132. 134), and thus they are connected in respect of time (§. 94).
+
+§. 548. Since now the things in the world are connected with one another, both in so far as they are at the same time and in so far as they follow upon one another (§. 544); they are connected with one another in respect of space as well as of time (§. 546. 547).
+
+[margin: In the world everything is connected in respect of space and time.]
+
+§. 549. What is connected with one another in respect of time and space makes up one. For from the connection of the diverse in respect of space and time one recognises that it is only *one thing*. Since now in the world everything is connected with one another in respect of time and space; the world is to be regarded as one thing.
+
+[margin: The world is something one.]
+
+§. 550. Therefore the world is a whole, and the things which are beside one another, likewise those which follow upon one another, are its parts (§. 24).
+
+[margin: The world is a whole consisting of parts.]
+
+§. 551. What consists of parts is a composite thing (§. 51). Since now every world is a whole that consists of diverse parts (§. 550); every world must be a composite thing.
+
+[margin: It is a composite thing.]
+
+§. 552. Therefore its essence must consist in the manner of composition (§. 59).
+
+[margin: Essence of the world.]
+
+[p. 295]
+
+And accordingly one world cannot differ from another otherwise than in the manner of composition.
+
+§. 553. Since the essence of the world is unalterable (§. 42); it would no longer remain the same world if the smallest part of it were taken away, or another put in its place, or even a new one pushed in.
+
+[margin: When the world no longer remains the same.]
+
+§. 554. Since all that belongs to a thing is grounded in its essence (§. 33); all changes that occur in the world must be grounded in the manner of its composition (§. 552). And in this way the things in the world are connected with one another in respect of time, because they are connected with one another in respect of space (§. 544).
+
+[margin: In what the changes of the world have their ground.]
+
+§. 555. If accordingly a change took place in respect of space which was not grounded in the manner of composition, as when a part were annihilated, or created anew, or exchanged for another; then in subsequent times quite other changes would come out than otherwise, if the composition had remained unaltered. And in this way the world would also in respect of time no longer remain the former one.
+
+[margin: When the world in respect of time no longer remains the same.]
+
+§. 556. Because not everyone might at once comprehend this, I find it advisable
+
+[margin: It is elucidated by a simile.] [p. 4] to elucidate it by a simile. The world behaves in no other way than as a clockwork. For the essence of the world consists in the manner of its composition (§. 552); the essence of a clock likewise (§. 59). The changes that occur in the world are grounded in the manner of its composition (§. 544): the motions in the clock likewise have no other ground than the manner of composition that is found in the clock (§. 33). And thus the world and a clock are similar to one another in this respect (§. 18). Now suppose that a clock goes exceedingly correctly, so that e.g. the hand points to exactly 12 o'clock whenever a star comes into the meridian, if the clock has once been set to it. When this happens, the seconds-hand too will constantly indicate a certain second for the entry of every other star into the meridian. As soon as one alters in this clock only the least thing in the tooth of a wheel, the motion is thereby either held back or accelerated, and this change goes through all the wheels, and finally strikes also the motion of the hand. Hence it will no longer, as before, mark the entry of the stars into the meridian; but when a star comes into it, it will be at a [p. 297] quite other place than it was wont to stand in before, and this change will go on every day. Just this constitution has the world, and it is just this that we remarked before and undertook to elucidate here. Namely, in the clock this event occurs on account of the connection of the parts: but in the world we have assigned it to just this cause (§. 555).
+
+§. 557. But one need be all the less surprised that I give a simile from a clockwork or a machine. For the world is likewise a machine. The demonstration is not difficult. A machine is a composite work whose motions are grounded in the manner of composition. The world is likewise a composite thing whose changes are grounded in the manner of composition (§. 544). And accordingly the world is a machine.
+
+[margin: The world is a machine.]
+
+§. 558. Since in the world everything is grounded in one another, in respect of time as well as of space (§. 548); there is order in the world and its changes (§. 132. 138), and consequently also truth (§. 142).
+
+[margin: In it there is order and truth.]
+
+§. 559. Since now there is truth in the world for this reason, because everything in it is grounded in one another in respect of time as well as of space (§. 558), but this comes from the manner
+
+[margin: Whence it comes.] [p. 4] of composition (§. 554); there is truth in the world precisely for this reason, that it is a machine.
+
+§. 560. One readily sees that what has been said of the world holds also of all composite things: namely that they too are machines (§. 30) and for just that reason there is truth in them (§. 146).
+
+[margin: All composite things are machines and therefore have truth.]
+
+§. 561. Since the present state of the world is grounded in the preceding one, and the future one in the present (§. 547. 548); the events in the world thereby obtain their certainty. And in this way, by the world being a machine (§. 557), all events in it are made certain.
+
+[margin: Whence the events in the world have their certainty.]
+
+§. 562. If the events in the world are certain, it is not possible that they should not come. And in such a way must they come; consequently they are necessary in so far (§. 36).
+
+[margin: What kind of necessity is in them.]
+
+§. 563. I say they are necessary only in so far as the preceding has been, and thus not absolutely. Namely each event is necessary in so far as one presupposes a certain connection of things. If now this connection is not necessary, but can also be otherwise; then the events too are in themselves not necessary, but, like the connection in which they
+
+[margin: It is further elaborated.] [p. 299] are grounded, contingent (§. 175). Therefore it cannot be judged sooner whether the events in the world are absolutely necessary or not, until it is made out whether the connection in which they are grounded, that is, the world itself (§. 544), is necessary or not.
+
+§. 564. That the certainty of the event does not make it absolutely necessary, but that it nevertheless remains contingent just the same, one can comprehend quite easily in particular cases. No one doubts that when a certain day is appointed for a solemnity, this happens spontaneously. But as soon as the day is appointed, the solemnity has its certainty. And if one supposes that the appointed date is fixed, it is not possible that it should not take place. Meanwhile this certainty alters nothing in its constitution, but it remains notwithstanding something spontaneous, which could also have been omitted, and consequently something contingent (§. 175).
+
+[margin: Certainty does not make a thing absolutely necessary.]
+
+§. 565. In order that we may now know whether the events in the world are contingent or necessary, let us investigate whether the world is necessary in itself, or whether it is to be reckoned among contingent things. But to this it will be necessary that we investigate more closely how its events are grounded in it. E.g. the heaven
+
+[margin: How the events of the world are grounded in it.] [p. 4] is now bright and starry. This has its cause: a east wind blows, which is dry with us and therefore brings fair weather. The east wind has again its cause, though we do not know it, and its cause has in turn a cause, and so on through all times. Since now in the world everything is also grounded in one another in respect of space; the east wind with us also has its causes in the things that are at the same time beside it in the world. And this is partly explained when one shows, in the consideration of nature, how a wind can arise. And since everything is grounded in one another, this connection of the wind must again go through the whole space. If one could accordingly comprehend completely why it is now bright, one would find that everything in the whole world that ever was in it or still is has contributed something to it. I put here again the example of the clock before those to whom this may be difficult to comprehend, and take for this a clock which can run a whole year and has not yet been wound and set more than once. In this case no one will doubt that the motion of the hand and of each wheel has its ground in the manner [p. 301] of composition, and accordingly in the constitution and motion of all the remaining parts that properly belong to the clock; likewise that the hand would not stand as it does at this present moment if it had not stood in all conceivable moments of time that have elapsed since the beginning as it has actually stood. This has in the clock no other ground than that the motions have their sufficient reason in the manner of composition. Since now this is likewise so in the world (§. 554. 556); it must also be true that every event, even the very least, in the world would not occur if not everything had previously gone as the former times have brought with them, and the world-space were so filled as we find it filled. Indeed the example of the clock shows that one has also to look to all future times, which follow upon the present in an unbroken series.
+
+§. 566. If it were to rain today, and thus that should happen which is opposed to what happens; the wind would have to come from the west: for the west wind is moist with us and makes constant rainy weather. If, instead of the east wind, the west wind were to blow, this would in turn have to have a
+
+[margin: What the opposite event requires.] [p. 4] quite different cause than is present now, when we have the east wind. If there were to be this quite different cause, then the further cause also, in the case of the west wind, would have to differ from that in the case of the east wind: namely, if a preceding state were the same in both cases, there would be no ground why a different one came out on either side. And accordingly this is impossible (§. 30. 10). Therefore the state of the world would have been different in all conceivable times if the west wind were blowing now, from what it has in fact been, since we now have the east wind. Since now in the world everything is also connected with one another in respect of space; the composition of the world-structure too could not remain entirely as it now is. I will elucidate it again by the simile of the clock, since I have already shown that it applies here (§. 556). Suppose accordingly that the hand which shows the seconds points to the fifth hour of the sixth minute after ten o'clock, when a certain star enters the meridian. If the hand were to point not to the fifth, but, say, to the twelfth second of the same minute; then it is clear that in all the preceding moments, as long as the clock has run, that [p. 303] is, from the beginning, since it was wound, quite other seconds must have been shown than it has actually shown. And if the clock had been set in a different manner in the beginning, the inner composition would have to be somewhat different from the one we have. What we now find here in the clock is just what I have taught of the world from like causes.
+
+§. 567. Therefore if the least event in the world were to be otherwise than it is, everything in the world would have to have been otherwise before, and in future too everything would have to come otherwise than it will now come. And thus there would have to be a wholly different world from what there is now (§. 17), just as in a similar case a wholly different clock is required to show the time otherwise than the one we have does, when both are set in one way in the winding.
+
+[margin: That it belongs to a wholly different world.]
+
+§. 568. Notwithstanding that the present connection of things does not allow the events in the world to be constituted otherwise than as they occur, and in so far they are necessary (§. 562); it does not follow from this that the opposites are impossible, but only that they cannot also occur at the same time with them (§. 10). On the contrary,
+
+[margin: The opposite events are not impossible.] [p. 4] since we comprehend that they could likewise be if another connection of things took place than there is now; they contain nothing contradictory in themselves, and are therefore, even though they do not come to light, as possible as the others which attain their actuality. The simile given of the clock is very serviceable for elucidating the matter. It is not possible that the hand in the clock should stand otherwise than as one finds it: meanwhile it would well have been possible that it could have stood otherwise, if one had made it otherwise. In this clock it could not have stood otherwise, but well in another. One may demand it at whatever place of the dial one will; there will always be a change possible in the manner of composition from which the demanded position of the hand at the given time would follow. And so it is also with the events of the world.
+
+§. 568. From this everyone can see how much it matters if something, even the very least, in the world were to be changed: namely all the state would change in the future times, and it would no longer be this world. It would be here just as in our simile of the clock. Suppose that from the smallest tooth
+
+[margin: How much it matters, if something in the world were to be changed.] [p. 305] of a wheel something is filed off; then, after this, the clock will go constantly otherwise than it would have gone if nothing had been filed away, and it is also in fact no longer the same clock (§. 17).
+
+§. 569. Since from what has been said it is clear that many other connections of things could be than is now found (§. 565 & seqq.), and a series of such things as are connected with one another in respect of space as well as of time makes a world (§. 544); more than one world is possible, that is, besides the world to which we belong, or which we sense, there are still other possible ones, which in their events are quite different from one another as well as from it (§. 47). The simile of the clock can serve here too for elucidation. For whence does it come that different clocks are possible? From nowhere else than that the manner of composition of the wheels and other parts can be different. And if one were to bring out the different manners of composition from reason, while having before oneself no more than one clock, and not knowing whether some changes could be made in it; we should need only do as we did with the world: namely we should need only suppose that another
+
+[margin: More than one world is possible.] [p. 4] clock were to be wound and set at the same time as the one we have before us, and yet the hand to stand at another place; then one versed in the matter would soon bring out how, by a change in the manner of composition of the parts, the demanded position of the hand is to be obtained.
+
+§. 570. If the example from the weather should seem doubtful to anyone, he can find many other events whose possibility he cannot call in question, even though they never attain their actuality. E.g. it is possible that I stand up while I am sitting: for the motions of the body that are required for this are possible. This is clear from the fact that it happens afterwards at other times (§. 15). Meanwhile, since I do not stand up at that same time, there is nothing to be found in the present connection of the matter that could bring me to it: for otherwise it would actually happen (§. 14). Notwithstanding now that in respect of this I must say it is not possible in this world, sufficient reasons can nevertheless be thought of which could move me to stand up, e.g. if fire broke out, or a noise arose in the street, or a good friend came into the room, and a thousand such causes more. Should
+
+[margin: It is further elaborated.] [p. 307] one of these causes now, however, again take place; one could again easily think of others from which they proceeded. Since now there is nothing contradictory to be found herein; one can call such a different connection of things nothing other than possible. And one says rightly that it would have been possible in another world that I should stand up when I remain sitting.
+
+§. 571. One can elucidate this also with the invented histories which one is wont to call romances. If such a narrative is so arranged with such understanding that nothing contradictory is to be met with in it; I can say nothing else than that it is possible that such a thing happens (§. 12). But if one asks whether it has actually happened or not; one will certainly find that it contradicts the present connection of things, and was therefore not possible in this world. Meanwhile it remains true that that which is still lacking before it can become actual is to be sought outside this world (§. 14), namely in another connection of things, that is, in another world (§. 544). And in this way I have to regard every such history as nothing other than a narrative of something that can occur in another world.
+
+[margin: Further elucidation.]
+
+[p. 4]
+
+§. 572. From this one recognises at the same time what becomes actual in our world: namely what is grounded in the connection of things which makes up the present world (§. 29). On the contrary, what contradicts it, or is not grounded in it, cannot happen in this world. What is therefore possible in this world has either already been there, or is still there, or will yet come in future: on the contrary, what is impossible in this world could nevertheless well become actual in another.
+
+[margin: What becomes actual.]
+
+§. 573. And so one understands why not everything that is possible can also become actual. For each requires its particular connection of things, of which one contradicts another. But two things running counter to one another cannot be at the same time (§. 10).
+
+[margin: Why not everything possible becomes actual.]
+
+§. 574. Meanwhile one must make a distinction between that which is absolutely impossible, of which has been spoken above (§. 12), and that which is impossible only according to the present connection of things, or in this world: which distinction is more than plainly evident from what I have carried out with care, quite at length and with all possible distinctness, on an otherwise very difficult and confused matter.
+
+[margin: Distinction of the impossible.]
+
+[p. 309]
+
+Should anyone wish to doubt that there is a difference among these, I can deny of all other things, on the very same ground that he has, that they are distinguished; and I will, for good measure, have referred him to the concept of the diversity of things (§. 17).
+
+§. 575. The same holds of the necessary. What is possible in this world must also come, if it has not already been there or is not still there, and cannot possibly stay away: for otherwise its ground, which it has in the present connection of things, would not be sufficient, which is contrary to what we assumed (§. 12), and therefore cannot be (§. 10). In such a way it is necessary (§. 41). Namely it is necessary with regard to the present connection of things, but not absolutely by itself (§. 36). But there is certainly a notable difference between that which is *absolutely necessary* and that which is *necessary only under a certain condition*, as in our present case, with regard to the present connection of things. Hence one has long since distinguished both kinds of necessity from one another by particular names. For one calls, just as
+
+[margin: Distinction of the necessary.]
+
+[p. 4]
+
+I have already done myself, *absolutely necessary* what is necessary by itself, or has the ground of necessity in itself; on the contrary *necessary under a condition* what becomes necessary only in regard to another, that is, has the ground of necessity outside itself. And the latter kind of necessity is called in particular the *necessity of nature*, because it has its ground in the present course of nature, that is, in the present connection of things. For why this is commonly called the course of nature shall be shown hereafter. But since one calls the other the *necessity of nature* or *natural necessity*, one is also accustomed, on the contrary, to call the former the *geometrical necessity*, likewise the *metaphysical*, because it is found in those things which belong to geometry and in part also to metaphysics. To the latter kind of necessity belongs also that which is found in freedom and of which something has already been said above (§. 521), which one is commonly accustomed to call the *moral necessity*, because it takes place in the morals of men.
+
+[p. 311]
+
+§. 576. Since the world could have been otherwise than it is (§. 569); it belongs among contingent things (§. 175) and is therefore not necessary with regard to its actuality (§. 36). I say with care, with regard to its actuality: for with regard to its essence it is and remains necessary, like all other things (§. 38). As indeed it is at the same time clear from this that nothing is contingent with regard to essence, but only with regard to actuality.
+
+[margin: The world is a contingent thing.]
+
+§. 577. Since the world is contingent, all its events must also be contingent. For its events occur solely for the reason that it is (§. 565). And accordingly the necessity of nature, which must be ascribed to them (§. 575), does not remove their contingency.
+
+[margin: All its events are contingent.]
+
+§. 578. The matter is indeed clear and distinct, now that I have unfolded it: but since not everyone sees this truth at once, which is nevertheless of great importance, in that we ascend on this ladder from the world to God, as will be shown below: it will not be unserviceable to explain it somewhat further. It is accordingly to be remarked that that which one calls the necessity of nature does not properly deserve the name of necessity, in that the concept of the [p. 4] necessity does not belong to it absolutely (§. 36); but properly should be called only certainty. And for this reason everything can be drawn in here that was carried out circumstantially above, namely that the certainty of an event does not make it necessary (§. 517). Meanwhile, since the name of natural necessity has once been introduced, and also explained in a correct sense (§. 575), so that one has therefore no error to fear; it would be unnecessary to abolish the word, or even to begin a dispute with anyone on that account. Next to this it is to be remarked that the necessity of nature concerns only the essence of things, and not properly their actuality: in that the actuality of the whole world, as that which with all its parts and events is to be regarded as one thing, is contingent. What happens in the world comes about necessarily, in so far as it belongs to the essence of the world, which is necessary (§. 576), but with regard to its actuality it remains as contingent as the actuality of the world itself is (§. 576). And this is what I must explain by the comparison with the clock, already so often happily applied. E.g. an artist undertakes to make a clock which goes exactly according to [p. 213] the course of the stars. He brings such a clock into being by his art, and so it attains its actuality in a contingent way. As soon as this clock has been made and set, it shows the time when each star comes to the meridian, and this happens necessarily with regard to its composition; on the other hand it remains something contingent that the time in question is indicated by a clock. For if the clock had not been made in a contingent way, this event too would have stayed away. Who then will regard it otherwise than as contingent?
+
+§. 579. Now we obtain a right understanding of the contingent in the world. Namely we know that contingent events cannot attain their actuality otherwise than through a series of countless other things, which have gone before them and are at the same time alongside them, in such a way that, if one is to indicate their ground, it again has a new ground without end. On the contrary, in what is necessary one soon comes to an end: for one finally finds a ground where one can stop. Those know this who have thoroughly learned mathematics. For they find that, however far they carry their demonstrations, they nevertheless
+
+[margin: Right understanding of the contingent.] [p. 4] come finally to such grounds that they need seek no further for them. On the contrary, to those who have devoted themselves to the cognition of nature, the other cannot be unknown. For when they investigate why this happens; we do indeed find a cause, but the cause has again a cause, and this in turn a further one, and so on. And one stops finally, indeed sometimes very soon, at a cause for which we know of no further one to give, but are content that we have met with it in nature, and are therefore assured by experience that it was there, and has not been invented by us.
+
+§. 580. Those who understand mathematics can comprehend quite distinctly that this is a very great difference, which we have made between the contingent and the necessary. For the necessary can be compared with the rational numbers; but the contingent with the irrational numbers. Wherein the comparison consists is not hard to guess, if one reflects on the matter. A rational number can be completely resolved, that is, one can show how it has arisen from other smaller numbers, and these finally from the units or their parts, beyond which one cannot any further
+
+[margin: Elucidation by a comparison.] [p. 515] go. On the contrary an irrational number cannot be completely resolved. For if one extracts the root in order to obtain a whole number and fractions or parts of the units of which it consists; one never comes to an end in the parts, but there always remain more still over, which also belong to it, yet cannot all be brought out, because they are infinite.
+
+§. 581. It is accordingly no small oversight of those who have taken the contingent and the necessary for the same. For it is not only in conflict with the first concept of what is the same and what is different (§. 17); but the difference is also palpable. To take the necessary and the contingent for the same is just as much as if one wished in mathematics to take rational numbers and irrational numbers for the same.
+
+[margin: Oversight of those who do not distinguish the necessary from the contingent.]
+
+§. 182. Since a world is a composite thing (§. 551); there must also be simple things, from which its parts are composed (§. 76). These simple things one is accustomed to call *elements*.
+
+[margin: What elements are.]
+
+§. 583. Since now simple things can have no parts (§. 75); so can
+
+[margin: Common error] [p. 4] the elements have no parts (579). Indeed, since simple things in themselves have no magnitude and figure, nor internal motion (§. 81); so the elements too can have no magnitude and figure, nor internal motion. And accordingly all those err who give out the elements as a heap of small divisible bodies, that is, to speak of the matter in general, who assume composite things as the elements of the world. Mr von Leibniz in his letters of dispute with the Englishman *Samuel Clarke* not inaptly called it the *philosophy of the lazy* (a), in which one assumes such elements and, in general, arbitrary things, for which one can adduce no other ground than the will and omnipotence of God. He does so not without ground: for they let it vex them to go further and stay with what first occurs to them, whereas, if one reflects on the matter only a little, one soon finds that the elements of things in the world cannot be discovered by mere attention to the composite ones (§. 83. 86), and also cannot have the same attributes as these (§. 82).
+
+[margin: of the elements.]
+
+(a) Epist. 5. §. 24. p. 176.
+
+[p. 517]
+
+§. 584. Since the elements are simple things (§. 579); everything holds of them that has been carried out at length above of simple things in general. They have a force (§. 125), whereby they change their inner state without cease (§. 126. 121), and are something subsisting by itself (§. 127), which can cease only through annihilation (§. 102).
+
+[margin: Constitution of the elements.]
+
+§. 585. Accordingly the simple things which make up the elements of the world cannot be distinguished from one another otherwise than by their inner state (§. 581. 17). The state of a thing is the manner of its limitation (§. 121). And accordingly they are distinguished from one another by the manner of limitation.
+
+[margin: Distinction of simple things.]
+
+§. 586. There cannot be in the world two simple things which are similar to one another. For since similar things agree in everything, by which one is to recognise them and distinguish them from one another (§. 18); one can find nothing in them why the one should be rather in this place than in that, and the other rather in that than in this. But without sufficient reason nothing can be
+
+[margin: In the world none can be similar to another.]
+
+[p. 4]
+
+(§. 30); and so it is not possible that similar things should be at the same time in different places. This very same remains true also with regard to time.
+
+§. 587. One comprehends quite easily that among the composite things too in the world none can be similar to another. For the demonstration which we put forward for the simple ones remains unchanged also for the composite. Meanwhile one can prove it of the composite in yet another way. I have shown clearly before (§. 565) that every composite thing which comes into being in the world (§. 64) presupposes everything that was before it and is at the same time with it. I have further proved besides this that, if another were to come into being in its place, then at the very time when that one appears everything before would have had to be otherwise and would still have to be alongside it (§. 566). Therefore if two similar things were to be at the same time, they would have to have had before them only similar things and still have them around them, that is, two similar worlds would have to be at the same time alongside one another (§. 544). Now if two similar things at one time in different places cannot appear otherwise than if two similar worlds are at the same time alongside one another;
+
+[margin: Nor can any composite thing be similar to another.] [p. 519] so it is impossible that at one time two similar things should be at the same time in one world in different places. But it can be comprehended just as easily that two similar things cannot be in one world at different times. For if a thing which comes into being anew in the world presupposes everything that has been in the world before it; it is clear that, if at different times two similar things were to be in one world, the part of the world that was before them would have to be the same on both sides, in time as well as in space. But this is not possible, if one supposes that the similar things have come at different times, and so one later than the other. Therefore, since this contains a contradiction in itself (§. 566. 567.); it is impossible (§. 12).
+
+§. 588. One sees easily that here the discussion is of such things as are perfectly similar to one another: by no means, however, of others which are similar to one another only in something, but different in the rest. Namely since simple things can be distinguished from one another only by their inner state (§. 58. 17); there cannot be, either at once or at different times, two simple things in the world which have the same variations
+
+[margin: Remark.] [p. 4] of their inner state. And if one considers this, and weighs at the same time that the ground why a simple thing is here and not elsewhere is to be sought in it, but not in the place (§. 47) and in the time (94): then one will be able to prove, almost in the very same way of simple things as has been done of composite ones (§. 587), that two similar simple things cannot be in one world. Again, since composite things are distinguished from one another by the manner of composition; one will here maintain that it is impossible for two things to be in one world, either at one time or at different times, which have completely the same composition, in such a way that in the manner of composition of the one nothing would be found which one did not also meet with in the manner of composition of the other.
+
+§. 589. This important truth Mr von Leibniz first recognised, and made known in his letters of dispute with the Englishman *Clarke* (a). Since we shall use it as a ground for proving other things from it, and indeed as a principal ground; we will give it, as above (§. 10. 30) to others of the kind, a particular name and call it the *principle of indiscernibles*.
+
+[margin: Principle of indiscernibles.]
+
+(a) Epist. p. 5. §. 4. p. 94.
+
+[p. 521]
+
+§. 590. This principle of indiscernibles, as well as the principle of contradiction and of sufficient reason, is also confirmed by experience: for one cannot bring together two things of one species, of which the one would be perfectly similar to the other, and in which one would not know how to point out a difference, if one examines both closely, at least through good magnifying glasses. Mr von Leibniz has adduced a proof of this (l.c. p. 94.). When one, to whom the talk of this came up in a garden where there were many trees, would not believe it; he was set the task of seeking out, among so many thousands of leaves that were present on the trees, two that were similar to one another. However earnestly he took this to heart; he could nevertheless not bring any leaves in which one could not soon have shown him the difference.
+
+[margin: Confirmation of this principle by experience.]
+
+§. 591. He who now considers how small both space and time can be divided (§. 96. 97) and comprehends through the principle of indiscernibles that even the very least space in the very smallest time that can be thought of is filled in a quite different way; indeed he who represents to himself by means of this principle how all simple things, from the beginning of the world, in all parts of time in which the world has been, have had a
+
+[margin: Great manifoldness of things in the world.] [p. 4] different inner state (§. 585): he will begin to see clearly the great manifoldness of things in the world (§. 206. 207), although it is indeed impossible that he can comprehend them all together, because time and space contain within themselves the infinite in many ways.
+
+§. 592. Since two simple things cannot be similar to one another (§. 586); something must always be met with in the one, and accordingly be perceptible by him who knows it (§. 276), which is not found in the other, and conversely something must show itself in the other which is not present in the first (§. 18). Therefore, since no difference can be found in simple things except in their inner state (§. 585); the inner state of every simple thing must be different at every moment from the inner state of all the rest.
+
+[margin: Inner state of simple things at every moment.]
+
+§. 593. Since everything must have its ground why it is (§. 30); there must also be a sufficient reason why each of the simple things is rather here than elsewhere. But since space and time contain nothing from which one could understand why this or that simple thing at this or that time is rather here than elsewhere, in that the parts, both
+
+[margin: Why each of the simple things is now here and not elsewhere.] [p. 523] of space and of time, have nothing in themselves whereby they could be distinguished from one another (§. 46. 94); the ground demanded cannot be met with in them either (§. 29). If it is accordingly not to be met with outside the simple things, it must be found in them, and consequently we must meet with it in the inner state of each simple thing.
+
+§. 594. Since everything has its sufficient reason why it is rather than is not (§. 30); there must also be a sufficient reason why each of them is to be met with beside these and not beside others. But since here too the ground is to be sought neither in space nor in time, in so far as they are regarded as empty of the things that are in them (46. 94); it must again be met with in the things which are alongside one another, and so in the inner state of the simple things (§. 565).
+
+[margin: Also why these and not others are alongside one another.]
+
+§. 595. Accordingly the inner state of each simple thing is regulated by the remaining ones that are around it. And accordingly all of them (§. 1) agree with one another: whereby perfection in the composite is preserved (§. 152).
+
+[margin: Origin of perfection in composite things.]
+
+§. 596. Since all composite things in the world are connected with one another (§. 544), and the simple ones with the
+
+[margin: In the whole world.] [p. 4] remaining simple ones, which together with them make up a composite thing (§. 595); the inner state of each simple thing must also be regulated by all the composite things that are around it, as around a centre in the world. And in this way each of the simple things agrees with the whole world: from which the perfection of the world grows (§. 597).
+
+§. 597. The inner state of a simple thing is nothing other than the manner of limitation of that whereby it subsists (§. 121): the variations of the limitations are its changes (§. 107): its changes are nothing but variations of the degrees (§. 106) of its force (§. 115). Since now in this way the simple things act constantly (§. 120); something must be produced by their action which relates itself not only to all the remaining simple things that are around it, but also to all composite things in the whole world.
+
+[margin: What simple things produce.]
+
+§. 598. What precisely this is, which is brought forth through the action of simple things; we will leave reserved for further investigation. Mr von Leibniz is of the opinion that in each simple thing the whole world is represented: whereby it can be comprehensibly
+
+[margin: Their effect is reserved for further investigation.] [p. 525] explained how each can be different from the other, and relate itself in a particular way to the whole world, indeed also how it relates itself differently to the things which it has around it than to those that are further away.
+
+§. 599. And from this one understands what Mr von Leibniz means by his *Monadibus* or *unities of nature*, which he is also accustomed to call the *indivisible of nature*. Only it is to be remarked that these unities, in his opinion, are not indeed all conscious of that which is represented in them. One could accordingly say: each unit of Mr von Leibniz is a mirror of the whole world, which represents itself therein according to the point where it is. Yet since we leave the investigation reserved for this time (§. 599); it is enough for us that we have supplied a distinct concept of the Leibnizian unities of nature, and at the same time shown how they are not contrary to what we have proved of simple things in the world (§. 597).
+
+[margin: Unities of nature.]
+
+§. 600. Since I have also demonstrated distinctly in the foregoing that the inner state of each simple thing relates itself to all the rest that is in the world (§. 596), and Mr von Leibniz this
+
+[margin: Universal harmony of things.] [p. 4] explains to the effect that in each simple thing the whole world is represented according to the point where it is (§. 599); one now understands further also how all things in the world, down to the smallest, agree with one another in his opinion, and what he accordingly means by his *universal harmony of things*. Yet since we do not for the present wish to determine in what precisely it consists that the inner state of simple things relates itself to everything in the world; we also leave reserved for now in what the universal harmony of things consists, and it is enough for us that we have proved that it is present, and that Mr von Leibniz explains it in an intelligible way.
+
+§. 601. Since each simple thing is at every moment distinguished from the rest by its inner state (§. 592); one recognises from this the magnitude of the universal harmony of things.
+
+[margin: Its magnitude.]
+
+§. 602. Again, since each among them in its inner state relates itself in a particular way to the rest (§. 595); it is in a particular way together with the rest, so that none among them can be in just this way with the rest. And so not only is each outside
+
+[margin: How simple things fill space.] [p. 527] the other (§. 45), but many together also follow one another in one order (§. 132. 133), and so they fill a space (§. 46), although each among them properly fills no space, but only has its certain point therein.
+
+§. 603. It will now be time that I explain how it is possible that from simple things, which have no parts at all at which they might touch one another, composite things nevertheless, which have parts, can come forth. If one rightly understands the constitution of simple things; it is not hard to comprehend this. For since each among them is at the same time with the rest in a particular way, in such a way that none among them can be in just that manner with the rest (§. 602); it is not possible that many can be at the same time in one point, but each requires its own. Meanwhile, since each is connected with those that are around it (§. 545); many simple things together make up one (§. 549), and hence the composite thing receives an extension in length, breadth and thickness (§. 53).
+
+[margin: How composite things come from simple ones.]
+
+§. 604. That difficulties have been found in how from indivisible things a divisible one should arise; has come about because one, as in mathematics all
+
+[margin: Whence the difficulties in this matter come,] [p. 4] indivisible points have been assumed similar to one another, and has wished to compose from them what is extended in length, breadth and thickness, as we see that in art the coarse parts are glued together or otherwise fastened to one another. Since we have now shown that the points of nature are indeed indivisible, but not similar to one another (§. 586), and also have a force constantly acting in them (§. 584), and hence each must be outside the other (§. 45): the first source of the difficulties is stopped up. Again, since it is not necessary, if an extension and in the extension a continuity is to come forth, that the elements be glued or stitched together, but it is enough that they are distinguished from one another, and yet make one together, and have such an order among one another that between them no more others can be set in another order (§. 53. 58); the other source of the difficulties is also stopped up. And everything retains its correctness in reason (§. 369): only we must not wish to imagine the inner and outer state of simple things. For what we imagine are composite things, since we bring together much in one image that we cannot distinguish distinctly from one another.
+
+[margin: and how to remove them.]
+
+[p. 529]
+
+§. 605. It is also clear from what has been said that simple things need no such fastening to one another as composite ones do. For each is different from the other and remains constantly different from it, and, since nothing in the world can happen without sufficient reason (§. 30), none can at once drive the other out of its point: for the inner state of each is regulated by those that are around it (§. 596). Accordingly nothing further is needed for simple things to hang together than the connection which the inner state of the one has with the inner state of the other.
+
+[margin: How simple things hang together.]
+
+§. 606. Having considered simple things, we must now come to the composite ones. What has now been proved of them in general must also hold of those which we meet with in any world. We call the composite things in our world *bodies*, or also bodily things, and accordingly it is clear that a body necessarily fills a space (§. 52) and is extended in length, breadth and thickness (§. 53); that it has a figure (§. 54), can be divided (§. 55) and moved (§. 57); that its essence consists in the manner of composition (§. 59); that it has a determinate size (§. 61);
+
+[margin: Constitution of bodies.] [p. 4] that it can come into being anew and cease again (§. 64); that without change of its essence it may undergo changes in size and figure (§. 65. 66. 68), and also, without prejudice to this, has inner motions (§. 71).
+
+§. 607. But let us investigate somewhat more strictly what constitution the body has, and how many different things we have properly to distinguish in it, so that we may find the proper ground of everything that belongs to it. We have seen that every body has an extension and can therefore be divided into many parts (§. 607), and experience also confirms this of the bodies in our world. We find besides that every body has a force of resisting motion, so that it cannot be set in motion before its resistance is broken. That now which gives it extension, together with its resisting force, is called *matter*. But we know from what precedes that extension, together with remaining in a place, comes from the simple things, as the elements (§. 603. 605), and accordingly matter is no formless lump, that is, no heap of similar parts thrown together, in which nothing but the size
+
+[margin: What matter is.] [p. 309] could be distinguished; but rather everything therein is distinguished from one another in a quite particular way. And the common concept of matter derives solely from the imagination, which represents things indistinctly and therefore overlooks what is in them (§. 214).
+
+§. 608. Since matter has a force of resisting motion (§. 608); no body can move itself, and accordingly, if it is to move, it must have a cause from outside (§. 30. 29).
+
+[margin: No bodies move themselves.]
+
+§. 609. Again, since nothing can happen that has not its sufficient reason why it is rather than is not (§. 30); the motion of a body into which it has once been set cannot cease again either, unless a cause is to be met with from outside why it happens. And in like manner it is clear that it must continue to move constantly towards one region, if nothing alters its direction.
+
+[margin: No body stops its motion into which it has been brought.]
+
+§. 610. In this way every body persists unmoved either in its rest, or in its motion, and keeps in its motion the same direction, until it is put by another into another state: all of which one also finds so in experience.
+
+[margin: Constancy in rest and motion.]
+
+§. 611. Since all bodies are composite things (§. 606), their essence consists in
+
+[margin: Essence of bodies.] [p. 4] the manner of composition (§. 59), and so bodies are distinguished from one another by this.
+
+§. 612. But it is well to remark that, since in composition we cannot get as far as the elements (§. 83. 84. 85.), we stop in the essence of bodies at composite, that is, bodily parts. Namely we do the same in natural things as in art. If we wish to know a clock, we pay attention to its parts, of which it has been composed; but we set aside the matter of which the wheels and other parts are made: not as if these materials, e.g. the metals, did not also have their particular manner of composition; but because this contributes nothing to the knowledge of the clock; and it is all the same in regard to the clock what constitution the matter has, since it is here regarded merely as a continuous, solid thing consisting of similar parts.
+
+[margin: How far one goes when one wishes to know it.]
+
+§. 613. And hence no prejudice is done to the truth if one assumes that the coarse bodies, which we reach with our senses, are composed of other small ones: only one must take care not to give out these little bodies for the elements, and
+
+[margin: How far little bodies have a place.] [p. 311] assumes indivisible parts in matter, as indeed commonly tends to happen, but without support in truth, since it is contrary to what has been proved before of the elements (§. 583).
+
+§. 614. The essence of a body consists in the manner of composition (§. 611). But everything that belongs to a thing is grounded in its essence (§. 33). Therefore everything that belongs to a body must be grounded in the manner of composition, that is, one must seek the ground of it in the magnitude, figure and position of its parts.
+
+[margin: Ground of what belongs to bodies.]
+
+§. 615. Again, in bodies, as composite things (§. 606), no change can occur except either in the magnitude, the figure, the place of the parts, or also of the whole (§. 72). Since now none of these can happen without change of place (§. 65. 68. 47); all changes come about through motion.
+
+[margin: Changes of bodies come about through motion.]
+
+§. 616. He therefore who wishes to comprehend everything that belongs to a body, and what changeable can occur with it, and to explain it intelligibly to others; must know how to indicate the ground of it in the magnitude, figure, position and motion both of it and of its parts (§. 77. 614. 615).
+
+[margin: How one comprehends bodily things and explains them intelligibly.]
+
+[p. 4]
+
+§. 617. From this one can comprehend (which also follows from what has already been proved above (§. 560. 606)) that bodies are nothing but machines, and that for this very reason there is truth in them, because they are machines (§. 146), and indeed that for this reason alone they can be explained intelligibly.
+
+[margin: Bodies are machines, and what follows from this.]
+
+§. 618. That from this very fact all certainty in the events of bodies follows, there is no need to prove anew. For since this has been shown of the whole world from the fact (§. 561) that it is a composite being; this is also to be ascribed to each body, which, as well as the world, belongs among composite things (§. 606).
+
+[margin: Certainty of the events of bodies.]
+
+§. 619. But just as I have also proved above that certainty does not make a thing absolutely necessary (§. 564), and the necessity of nature does not remove contingency (§. 577); so this too must be borne in mind of all changes of bodies, whether they are reckoned under doing or under passions (§. 104).
+
+[margin: All changes of bodies are contingent.]
+
+§. 620. If a body A is at rest, that is, remains lying unmoved in its place, and is set in motion by another, B, which moves and strikes against it; then something changeable is to be perceived in A as well as in B: for A causes
+
+[margin: When a body does something, when it is acted upon.] [p. 313] the motion of B (§. 29), and B is moved: since now A has the ground of its change in itself, but B has it in A; one says rightly that A does something, but B is acted upon (§. 104).
+
+§. 621. On the other hand, if two bodies A and B move against one another, and, in that they strike together, spring back from one another, but after this each of them runs back to where it came from; then a change goes on in both. B has the ground of its change in A, and A in B; but since A changes the motion of the body B, and B in turn changes the motion of the other body A, something changeable goes on in A as well as in B, of which the ground is to be met with in A and B: for one perceives in A and B something true that was not in them before, namely that they strike and each drives the other back. Therefore one can say rightly that both bodies A and B at the same time do something and are also acted upon, namely A acts in B and B in A, whereas B is acted upon by A and A by B (§. 104).
+
+[margin: When two bodies act on one another at the same time and can be acted upon by one another.]
+
+§. 622. Because matter produces no motion, but rather resists motion (§. 607); the body by virtue of its matter can only be acted
+
+[margin: Matter is only a thing acted upon.] [p. 4] upon (§. 620. 621). And accordingly matter is only a thing acted upon.
+
+§. 623. Meanwhile, since nevertheless one body moves another, and so the body can show itself active (§. 620. 621), whereas the ground of its being able to show itself active is met with neither in its essence (§. 611) nor in matter (§. 621); something else besides matter and essence must be met with, in which we find the ground of motion. And since all changes in bodies come about through motion (§. 615); that in which the ground of motion is to be found is in fact the source of the changes; consequently every body has, besides matter and essence, also a moving force (§. 115).
+
+[margin: Bodies have a force.]
+
+§. 624. All force consists in a constant endeavour to do something, or to change the state of a thing (§. 117. 121). Therefore this moving force too must consist in a constant endeavour to move matter. If accordingly the resistance is not greater, the motion actually follows.
+
+[margin: How this force is constituted.]
+
+§. 625. Therefore it is clear that those do not err who suppose all matter in the world to be in constant motion: which opinion Mr von Tschirnhaus
+
+[margin: Matter is in constant motion.] [p. 337] has defended, as likewise Mr von Leibniz and others, who have examined the constitution of bodies more closely.
+
+§. 626. And in this way there belong to a body 1. a matter, 2. an essence, and 3. a moving force, so that one can accordingly define a body: It is a thing composed of matter, which has a moving force in itself.
+
+[margin: What a body is.]
+
+§. 627. Those accordingly are accustomed to confuse matter and body with one another who declare body to be a merely passive thing (§. 622). But that matter and body are different from one another is evident enough from the definition given of each (§. 607. 606). Namely, a body has something more in itself than matter, that is, its essence and its force.
+
+[margin: Matter is distinguished from body.]
+
+§. 628. As it can now be acted upon by virtue of its matter (§. 611), so by virtue of its force it can do something (§. 623). And in so far as it is an active thing, one ascribes a *nature* to it, so that by nature nothing else is understood than a being that has a working force.
+
+[margin: What the nature of a body is.]
+
+§. 629. Since now, accordingly, the whole world also has a force from which all the changes occurring in it spring, for the forces of the bodies of which the world consists, taken together, make the whole
+
+[margin: What nature is absolutely.] [p. 4] force of the world: so one therefore also ascribes a nature to the whole world, and accordingly one understands by it the manner of composition and the moving force of the world, when one calls it *nature* absolutely. Sometimes one also calls it the *whole nature*, or even the *whole nature of things*.
+
+§. 630. What accordingly is grounded in the essence and the force of bodies, that is, in their nature, or else has its ground in the essence and the force of the world, that is, in the whole nature, is called *natural*. E.g. that the sun rises and sets is grounded in the essence and the force of the world, and accordingly is natural: that water evaporates in warm air is grounded in the essence and the force of water and of warm air, and accordingly is natural.
+
+[margin: What is natural.]
+
+§. 631. And accordingly what is natural can be explained intelligibly and comprehended distinctly, and hence *natural science* is possible, which is nothing other than a science of what is possible through the forces of things: of which we shall treat in particular hereafter.
+
+[margin: What is natural can be explained intelligibly.]
+
+§. 632. What is grounded neither in the essence nor in the force of bodies, and so not in their nature; nor again in the essence and the force of the world, and so not in the whole nature
+
+[margin: What is supernatural.] [p. 339] is called supernatural. E.g. if an ass spoke reasonably without having been trained, one has not the slightest suspicion that this is grounded in its essence and its force, that is, in its nature. Nor can one explain intelligibly how it happens. And hence this speech would be supernatural. When I say that he speaks reasonably, I understand it thus: he says what suits the matter, e.g. he asks, when he is beaten: why do you beat me? For the word reasonable brings this sense with it (§. 368).
+
+§. 633. A supernatural effect is called a *miracle*. Of this kind would be the previous case of the ass that spoke reasonably. And so miracles exceed nature, and cannot be explained intelligibly through the essence of things and their force (§. 632).
+
+[margin: What a miracle is.]
+
+§. 634. It is the case that the common man, and people who do not get far in the cognition of nature, call something a miracle when they perceive something unusual. Hence *Spinoza* (a) held that a miracle is an unusual event of nature. And in this *Locke* (b) has followed him, and by his misleading *Clarke* (c) also.
+
+[margin: Incorrect concept of miracles.]
+
+[p. 4]
+
+§. 635. But the good people deceive themselves in accepting a judgement of the common man for a definition. When the common man, and those who in this matter understand no more than he, see an unusual event in nature, which is contrary to what ordinarily happens, or at least has little similarity with what they have otherwise seen, they imagine that it is not natural but exceeds nature, and comes from somewhere other than from it. And hence they cannot, according to their thoughts, judge otherwise than that it is a miracle (§. 633). But this very judgement confirms that they themselves have no other concept of a miracle than that it is a supernatural effect.
+
+[margin: Its groundlessness.]
+
+§. 636. Since now the theologians themselves have no other concept of miracles than that they are supernatural effects, and define the supernatural in no other way than that it cannot follow from the essence and the force of the world and the bodies found in it, that is, as they are accustomed to say, according to the orderly course of nature; there is no cause why we should depart from
+
+[margin: Concept of the theologians of miracles.]
+
+(a) *in Tract. Theol. Polit. c. 6. p. 67.*
+
+(b) *Posthumous Works p. 217.*
+
+(c) *loc. cit. Epist. 2. §. 12. p. 48.* [p. 341] the meaning of the word once so well established, and after this wish to confuse other things, e.g. monstrous births, which are likewise unusual events of nature, with miracles.
+
+§. 637. So that one may better represent to oneself what a miracle is, I will illustrate it by a comparison. I have shown above that the events of the world are constituted just as the motions in a clock are (§. 556). The orderly motions that flow from the manner of composition, by the aid of the force that moves it, are like natural events (§. 630): but when the hand is lifted away from outside, this motion does not follow from the composition of the parts and the moving force of the clock, and accordingly it agrees with a miracle in nature §. 632. 633.
+
+[margin: A miracle is illustrated by a comparison.]
+
+§. 638. As now in the clock the position of the hand is changed, which would otherwise be different; so also in nature an event is changed by a miracle which would otherwise be different.
+
+[margin: What a miracle changes.]
+
+§. 639. And this change has very much to say. For if the slightest event in the world is changed, then everything in it would have to
+
+[margin: How much this change signifies.] [p. 4] come otherwise in future than it will now come, so that the future part of the world would no longer remain that which belongs to this world. Since now a miracle changes an event in the world (§. 638); the whole future world must thereby be changed, unless by a new miracle the disorder that has broken in everywhere is removed again and everything is put into the state in which it would have been if the miracle had not happened. Our comparison with the clock can illustrate the matter. When the hand is displaced from outside, the clock no longer goes, as long as it runs, as it would have gone if the hand had not been displaced. Indeed this change would last for ever, even if the clock went on eternally. If, on the contrary, I wished it to go again as before, I should have to draw the hand back again until it came to stand as it would have stood if it had not been displaced. Since now the motion of the hand from outside is like a miracle (§. 637); it is evident also from our comparison how the disorder that has been produced in nature by a miracle can be removed again in no other way than by a new miracle.
+
+[p. 343]
+
+§. 640. Since a miracle cannot happen in a natural way, but rather must have its ground outside the world in a being distinct from it (§. 632. 633); one sees that no miracle is possible unless there is to be found outside the world yet another being that can change some event in the world according to its pleasure. The comparison with the clock can once more illustrate the matter. For since a miracle agrees with the displacement of the hand, which happens from outside (§. 637); one sees at once, without my reminding, that the hand cannot be displaced unless there is present outside the clock a cause that does it.
+
+[margin: A miracle is not possible without a being that is outside the world.]
+
+§. 641. When I think of a being outside the world, the circumstances will show what I understand by the words outside the world. Namely, that thing is outside the world in which nothing is to be found that has its sufficient reason in the world why it is, so that it would not be if the world were not, and which therefore cannot be counted as part of the world: just as I say that the man who displaces the hand in the clock is outside the clock, because he is not on that account because the clock is, and does not, like the parts of the clock, belong to it.
+
+[margin: What is outside the world.]
+
+[p. 4]
+
+§. 642. Since now no miracle can happen unless there is outside the world a being distinct from it, which performs it (§. 640); those who recognise no other being outside the world cannot grant a miracle. And hence it is no wonder that *Spinoza* held that which is passed off as miracles to be merely unusual natural events. For atheists, who admit only nature, are compelled to adopt this concept, which *Locke* and *Clarke* have chosen to maintain among the English (§. 634).
+
+[margin: Why atheists deny miracles.]
+
+§. 643. I think that it is now sufficiently understood how natural and supernatural things are distinguished from one another. But it is also necessary that I show the difference found between natural and artificial things. Namely, a work of art, in so far as it is grounded in art, has merely an essence, but no force, which would belong to the nature of things (§. 628). It has an essence, for it is composed in a certain manner from a matter. But the manner of composition is the essence of a body (§. 611). This composition is made by the artist, and so it has its essence from art. On the other hand, no artist can bring a force into
+
+[margin: How the works of art are distinguished from natural things.] [p. 345] it, from which certain changes would follow in his work. Rather all the changes to which the work of the artist is also subject are grounded in nature, and therefore belong to it on account of its matter, which belongs to the world as well.
+
+§. 644. We have already shown above (§. 624. 625) that all matter, although of itself it stands against motion (§. 607), is nevertheless in constant motion: but we must now see how it is possible that bodies nevertheless do not continually change their place (§. 57).
+
+[margin: All matter is in constant motion.]
+
+§. 645. If accordingly two bodies, be they large or small, indeed even the very smallest little bodies that one can reach in thought, press against one another with equal force; they hold one another up and therefore remain in one place, just as if there were no motion in them.
+
+[margin: When bodies hold one another up.]
+
+§. 646. From this one can comprehend how the little bodies of which the large ones consist can hold together merely through motion, without there being any need to glue them to one another, or to fasten them in some other way. And so the difficulties fall away which the students of nature are accustomed to raise in this matter.
+
+[margin: How the little bodies hang together from which the large ones arise.]
+
+§. 647. Meanwhile it is not to be denied that the shape of the little bodies and other fluid
+
+[margin: Whence the difference in this comes.] [p. 4] matters which are in motion round about, and press them, contribute their share to this, that they hold together more firmly or less firmly. The difference of cohesion is shown by experience, through which we recognise that not all matter has the same degree of firmness, and indeed that some, which we are accustomed to call fluid, have no cohering parts at all, except perhaps the little bodies which we reach neither with our senses nor with our thoughts. But that two bodies hold together more firmly when they touch one another in a large part than when they touch one another in a small part, is in accordance with reason as well as with experience. One comprehends easily that two bodies which touch one another in a large part are pressed against one another in more places than others which touch one another in a small one. But what is pressed together in many places must be harder to separate than what is pressed together in few. Experience likewise sets this clearly before our eyes. Take a sphere and a cube of the same matter, and so of equal weight, and press them with equal force, for example by weights which, tied to an inextensible thread, and so with their whole weight, press upon the sphere and the cube.
+
+[p. 347]
+
+Then one will find that the sphere can be pushed away more easily under the weight than the cube: consequently what we have maintained is clear from this.
+
+§. 648. Besides this, it is to be noted that the small parts of which the body consists are in manifold motion, although one perceives no motion in the whole body: which is called the *internal motion of the body*. I know well that it seems strange to some when one speaks of internal motion in such bodies as remain in one place without any change, because they have imagined from youth that there is none there. But one can remove this difficulty very soon by a comparison. Put a clock, which can run a year or longer, in one place and take away the hand from outside; then one will perceive nothing changeable from outside in the clock, however long it remains in one place, as long as it can run. Meanwhile the internal motion of the wheels of which it is composed nevertheless goes on undisturbed. And so we have an internal motion of the parts in a body that remains immovable in one place without any change perceptible from outside.
+
+[margin: Internal motion of bodies.]
+
+[p. 4]
+
+§. 649. We find this internal motion also grounded in experience: for we meet with various events that cannot be explained otherwise than through such internal motion. Hydrostatics, which I have treated in the second part of my Elements of the Whole of Mathematics, confirms this sufficiently as regards fluid bodies. I will only adduce a few trials, from which the truth of what I have said is more than sufficiently evident. If one pushes a glass tube, in which a little quicksilver hangs at the top, which is open on both sides and is stopped with the finger only at the top so that the quicksilver does not fall down, somewhat deep into water, namely more than fourteen times as deep as the length of the part filled with quicksilver amounts to; then the quicksilver will spring out at the top with force, as soon as the finger is taken away. The heavy quicksilver does not move itself, but rather resists the motion, and indeed by its weight would sooner fall down than rise upward. Therefore there must be something present that drives it upward more strongly than its weight presses it down. Now there is nothing present but the water, which penetrates into the tube when the quicksilver gives way. Accordingly
+
+[margin: Is confirmed by experience.] [p. 349] it is pushed out by the water. But no body can move another unless it is itself in motion. And so the water must also be in motion, although we perceive none in it with our eyes. It is indeed true that one can show in hydrostatics that the force by which the quicksilver is pushed out of the tube at the top is the weight of the water standing around the tube: but it is shown in the explanation of the events of nature that no weight is without motion.
+
+§. 650. Gunpowder also gives a clear example of this. When only a single little spark falls into a great heap, it ignites entirely and expands with such force that the strongest towers are blown up and the pieces are thrown through the air with very great speed. The blowing up of strong walls with such force that the pieces fly through the air shows evidently that a very strong motion must be in the ignited powder. One sees nothing that set the powder in motion except the single little spark that falls into it. Since now no one will say that the single little spark could give the powder so tremendous a motion; it is clear that the motion must already be in the powder, yet,
+
+[margin: Further confirmation.] [p. 4] since the powder remains in one place, only internally with regard to the small parts. But through the little spark that falls into it, it is brought about that the motion of the parts becomes the motion of the whole.
+
+§. 651. In chemistry we meet with very many such examples, where a very swift and violent motion arises, while we see present from outside nothing at all that could cause the motion. E.g. when one lays a nail in aqua fortis, one perceives in an instant a motion in it, which gradually increases, until at last the aqua fortis begins to boil properly and to smoke strongly. One sees well here that the motion is caused by the nail laid in: for as the aqua fortis dissolves it, bubbles attach themselves to it and it bubbles up above it. But the separation of the parts from the iron by the aqua fortis can happen in no other way than through motion: and hence there must already be a motion in the aqua fortis, when the nail comes into it, which does not strike the eyes. In the same way, when some oil of vitriol is poured into oil of turpentine and the vessel in which it is contained is shaken a little; the oil of turpentine is accustomed, when
+
+[margin: Still more examples.] [p. 351] it has especially stood a little and become thick, to effervesce at once, to smoke strongly and to bubble out strongly, and even to burst the glass with such force that the pieces flying about shatter large strong glasses: as is known to me from my own experience. One sees easily here again that the oil of vitriol, which causes the motion, does not have the like of it by itself, and therefore again an internal motion must be present, which becomes the motion of the whole.
+
+§. 652. This would show itself still more clearly if I might adduce, for the demonstration, the rules of motion, which in recent times *Huygens* discovered and which I, together with many others, have demonstrated in my *Elementis Staticæ & Mechanicæ* (§. 378. & seqq.). But since the very fewest of those who will read this book understand those rules; I will also for this time set the demonstration aside, and let it rest with the explanation that I have given from the examples taken from experience.
+
+[margin: Remark.]
+
+§. 653. Meanwhile I find it necessary nevertheless to remark this further. Since nothing can be in the world that does not have its sufficient reason (§. 30), through which it can be comprehended and explained intelligibly (§. 29. 276.); so both the internal motion
+
+[margin: Objection together with its answer.] [p. 4] must always have its cause, and how it arises must be capable of being explained intelligibly, as it must also be comprehensible and intelligible to explain how the motion of the parts can become the motion of the whole. So that one may not now make an objection, as if we wished to assume something without sufficient reason that could not be explained intelligibly; it is to be noted that I postpone the explanation of these things to another place, where it can be done more suitably, namely, then we shall have better opportunity to investigate it, when I bring to the light of day those experiments through which the foundation is laid for a sure explanation of nature and its effects. Indeed even if we were not always able to explain distinctly this internal motion, and the manner in which it becomes the motion of the whole; the defect of our cognition cannot do away with the thing. And it is enough that we posit with good ground that there are such things in nature. But such a ground is that no motion can come except from a preceding motion, which I have made use of. Indeed such grounds are also the remaining rules of motion, which I mentioned (§. 652), and which one could with good right draw in here.
+
+[p. 353]
+
+§. 654. But so that we may learn to find our way better in this difficult matter of motion, over which many of the most ingenious men who have ever been in the world have racked their brains in vain, we must investigate somewhat more exactly what constitution both the resisting and the moving force of body has, and how it properly comes into the body.
+
+[margin: Present undertaking.]
+
+§. 655. So that we may therefore go surely in this matter, we will keep constantly to experience and assume nothing except what is confirmed by it. If one hangs a wooden sphere on a thread in such a way that it can move unhindered round it, by setting it in motion, and hangs beside it in the same way another sphere of wet clay, but then lifts this up from the side so that it strikes the wooden one with the speed obtained by the fall; one will find that it changes its shape, by becoming flat on that side where it strikes, whereas the wooden sphere is set in motion by it. From this it is evident that a body that is pressed by the striking body presses back again. For if it did not press back again, the shape of the striking one could not
+
+[margin: Bodies that are pressed press back again.] [p. 4] be changed so that it would become flat from round. One can also feel it oneself, when one presses something with the finger, or strikes a suspended sphere.
+
+§. 656. If one pays closer attention to this experience; various particular circumstances can be remarked, as *Mariotte* too has already done in his book *de la Percussion ou Chocq des Corps*, in which he demonstrates the rules of motion by such experiences. When the wooden sphere is large and so heavier, the one of damp clay is flattened more when it strikes, than when the former is smaller and so lighter: yet in this case also the wooden sphere is moved more slowly than in the other. From which it is to be seen that a heavier body, or one that has more matter in it which must be moved if it is to be moved, presses back more when it is pressed by the striking body than another that is lighter, or has less matter that is moved with it: which matter we will call, for brevity's sake, the appurtenant or also *proper matter*. Again, if two different spheres of clay, of which one is greater than the other, are let down from the same height and so move with equal speed; the greater and heavier
+
+[margin: Particular circumstances of this.]
+
+[margin: Proper matter.] [p. 355] one, which has more proper matter, is also flattened more than the other, which does not possess so much proper matter; but on the other hand it also moves the wooden one more strongly and swiftly than the other does, I say more strongly, that is, that it rises higher than the other. From which it is evident that a body presses back that one more which has more proper matter than the one which possesses less, when both strike with equal speed. But since that one which has more proper matter in turn moves more swiftly and strongly; it is further to be seen from this that it strikes harder than the other, which does not possess so much proper matter. One finds further that, if one lets the sphere made of wet clay fall from a greater height, and so strikes the wooden one with greater speed, its round shape is flattened more than if it falls from a lower height and so strikes the wooden one with a lesser speed: but on the other hand the wooden sphere also is moved more swiftly in the first case than in the other. From which it is to be seen that the same body presses back that one more which strikes it with a greater speed than another which does not move so swiftly. But since that one which moves more swiftly [p. 4] also moves the other, against which it strikes, more swiftly and strongly than one that does not have so much speed; it is further to be seen from this that it strikes harder than the other, which indeed has just as much proper matter but not so much speed. For in my opinion no one will deny that a body is moved more swiftly by a strong impact than by a slight one, and that one needs a stronger impact when a body is to be moved swiftly than when one is to move it more slowly. For whoever wished to doubt this need only try it; and he will soon find it out. Since we have now found that a body delivers a stronger impact when it either possesses more proper matter, or has a swifter motion than another, but on the other hand have also seen at the same time that the former is pressed back more by another, against which it strikes, than the other; it is evident from this that a body that delivers a strong impact is pressed back more than one that delivers a slight one.
+
+§. 657. Accordingly, since a body that is struck by another presses back by its resisting force, through which it resists motion (§. 607); it is clear that the magnitude of its resisting force through the magnitude of the
+
+[margin: Magnitude of the resisting force.] [p. 357] impact is determined. In this way it has of itself no fixed limits, but receives its limitation only through the impact, in which therefore the ground of its changes is to be found (§. 29). In this way a body can resist motion much or little, namely it resists a stronger motion more strongly, but a lesser motion less.
+
+§. 658. As to the moving force further, one finds that it can decrease and increase in a body. For when a body moves with a certain speed, it can attain a greater speed through a new impact. Since now everyone readily admits that to produce a swifter motion requires a greater force than another that is not so swift; it is clear that the moving force then increases. One can also recognise it from this: a body that moves more swiftly than before can set a greater body in motion and strikes harder than when it moved more slowly. But what can move a greater body and strikes harder must have more force than what cannot move so great a body and does not strike so hard. In just this way it is evident that the moving
+
+[margin: Moving force can decrease and increase.] [p. 4] force can be diminished. For if, e.g., a body that moves with a certain degree of speed strikes against another; it moves more slowly after this. But since it was shown before that a body has a greater force when it moves swiftly than when its motion is slow; it is at the same time clear from this that its force decreases with the speed, and accordingly can be diminished. It can also be demonstrated of itself in just the same way that a body has a smaller force when it moves more slowly, as we have shown that it has a greater one when it moves more swiftly.
+
+§. 659. But it is no wonder that the moving force can decrease and increase: for a force undergoes no changes except in degrees, and accordingly the moving force is changed by the degrees of speed in no other way than matter is changed in its extension by shape. Namely, all changes are nothing other than variations of limits (§. 107). Just as now extension receives its limits through shape (§. 54); so the moving force receives its limits through the measured degree of speed.
+
+[margin: Illustration.]
+
+[p. 359]
+
+§. 660. And hereby Mr von Leibniz (a) has demonstrated that force in a body is a lasting thing. For what has its limits and can exchange them must be something subsisting by itself and lasting.
+
+[margin: Moving force is a lasting thing.]
+
+§. 661. Since the increase and diminution of force consists merely in a variation of limits (§. 659); it is evident from this that it can take place without anything being newly created or any of what is present being annihilated, no otherwise than a shape can begin and cease without a new matter being created, or something of the former being annihilated. Namely, the degrees of speed are the limits of the moving force, by which it is changed, as the shape is of matter (§. 659).
+
+[margin: How its increase and diminution take place.]
+
+§. 662. But just as matter can never be without shape, when it has its measured magnitude and is not infinitely large (§. 54); so the moving force can never be without a certain degree of speed. For it is in constant endeavour (§. 117), and therefore it must have a measured degree of speed and a determinate direction.
+
+[margin: Moving force always has a certain degree of speed and a direction.]
+
+(a) *Acta Erud. A. 1711. p. 404.*
+
+[p. 4]
+
+§. 663. Now by the principle of sufficient reason nothing can be that does not have its sufficient reason why it rather is than is not (§. 30), and accordingly the present degree of speed too must have its certain ground why it is there, and why it follows upon the other. And in this way it must be comprehensible how from the present degree of speed another, greater or smaller, can come (§. 29).
+
+[margin: This change must take place in a comprehensible way.]
+
+§. 664. We find in experience that no change in the speed of a body can happen except through impact: namely, when a body is in motion and another strikes against it which moves faster than it, its speed becomes greater; but when it strikes against another that either stands still, or moves more slowly than it, its speed is diminished. Likewise experience shows that no body is set in motion from rest except by the impact of another that is in motion. And in this way no motion comes except from a preceding motion.
+
+[margin: It happens through the impact of bodies on one another.]
+
+§. 665. But it is now necessary that we pay somewhat closer attention to what change of the bodies in impact
+
+[margin: In impact the mutually touching] [p. 361] takes place. We have already seen above that when a soft sphere strikes against a wooden one, it becomes flat on the side where it strikes (§. 656). From which one sees that in impact, through the pressing and pressing back of bodies, the parts touching one another are pressed together. Namely, in bodies that are soft one can see that the parts that touch one another have pressed one another together, because their shape remains changed after the impact. But one might doubt whether this also happens in other bodies, as e.g. in two ivory spheres, where one perceives nothing changed in their shape after the impact. I do not now indeed recall having read anywhere that an experiment had been made whether the bodies in whose shape one perceives nothing changed after the impact were nevertheless pressed together in the impact: but one can comprehend from other grounds that it must happen. *Mariotte* has remarked various things in the book cited before, *prop. 14. part. 1. p. 23. & seqq. oper.*, by which it is confirmed. For 1. we find there, what is also otherwise sufficiently known by experience to everyone who pays only a little attention to the things in nature, that there are bodies that have their shape
+
+[margin: parts are pressed together.] [p. 4] change when they are pressed, but on the other hand soon resume their former shape when they are freed from the pressure. Of this kind is a ball that one has blown up with air. If one presses it against a table, it becomes somewhat flat, much or little according as one presses hard or lightly, both below against the table, against which it is pressed, and above under the hand, where one presses it. But as soon as one takes the hand away, it becomes round again as before. Let a ring be made of steel plate and pressed, as the ball just now, against a table or something else hard, then the ring will likewise change its circular shape and become oval. But as soon as one ceases to press, it takes on its former circular shape again. And to these bodies one ascribes an *elastic force*: for by the *elastic force* of a body one understands nothing other than an endeavour to expand itself. *Mariotte* has remarked 2. that when a body with an elastic force falls from a height upon another of just the same kind, it springs back again just as high as it came down: but 3. another, which is somewhat soft, like a sphere of lead, does not spring back again as high as it fell [p. 363] but at the same time retains a small change of its shape at the place where it struck, which is also to be perceived in the other body, if it is of like kind. From this now it is easy to see that the springing back comes from the elastic force, and that body changes its shape less which has more of this force than another. And accordingly, since experience teaches that it is only in those bodies which spring swiftly back from one another that no change of shape is to be perceived after the impact, it is easy to judge that they do indeed also change their shape in the impact, but only take on their former one again after it. It remains accordingly certain that all bodies, when they strike against one another, change their shape, and so press one another together in the parts where they touch one another. When I publish my experiments, through which the way is paved to a thorough cognition of nature and art; it shall also be established evidently by experience that every body, in striking against another, changes its shape, even though after the impact has been completed nothing changed is to be perceived in it.
+
+§. 666. But just as in impact the parts touching one another are pressed together; so one finds also that they
+
+[margin: When they separate again after the impact.] [p. 4] separate from one another again in those bodies that have a notable elastic force, after the impact has been completed. The matter is clear from what has just now been cited in part from the work of *Mariotte*, and will be carried out further in the experiments announced.
+
+§. 667. Besides this, it is easy to note that all parts in a body are moved equally swiftly. For the whole body moves on at once, and so all parts come in one time from one place into another. If now one moved more swiftly than another, the slower would have to stay behind, and either separate itself from the swifter, or no motion could happen at all.
+
+[margin: All parts of a body move equally swiftly.]
+
+§. 668. When a body A strikes against another B, B presses back against A, and A presses together some parts in B, as B does in A (§. 665). At the time when this happens, neither the body B nor A can move on. For as long as B presses back, so long it does not yield from its place and makes no room for A. Therefore A cannot go further, and so remains in the place where it is. On the other hand B too cannot go on, as long as it presses A back. For if A strikes against it from the right, it presses toward the right
+
+[margin: Bodies hold one another up during the impact.] [p. 365] and so its force has its direction toward the right. On the other hand, if it were to go forward, it would have to have a direction toward the left. Since it is now impossible that one and the same force should at the same time have a direction toward the right and toward the left hand (§. 10); B must stand still at the time when it presses on A, and, since A cannot come further so long as B does not give way to it, the two bodies must hold one another up in the impact.
+
+§. 669. Bodies hold one another up when they press one another equally strongly in opposite directions (§. 645). Accordingly, since two bodies that strike against one another in their motion hold one another up during the impact (§. 668); each presses the other as much as it is pressed by it. Namely, if A strikes B and wishes to press it away; it is pressed back by B as strongly as it presses it. And that is what the mathematicians of today are accustomed to assume as an axiom when they investigate the rules of motion. But one says in general: the *action* of a body on the other and the *reaction* of the other are always equal to one another: namely by the action of the body A on B they understand the pressure with which it presses it in striking, and by the reaction
+
+[margin: Both press one another equally strongly.] [p. 4] the pressure of the body B, with which, as soon as it is struck, it presses the other back.
+
+§. 670. Some who have not rightly understood the action of one body on another have imagined that no motion could follow if the action and reaction were equal to one another; rather they would have to hold one another up motionless in one place (§. 668) and could never move from the spot. They take the example which Mr *Newton* (a) has adduced to illustrate this proposition, and wish thereby to confirm it. ‘If a horse,’ he says, ‘draws a stone that is tied to a rope, the horse too (if I may so speak) is drawn back towards the stone equally strongly: for the rope, which has been stretched from both sides and seeks to give way again, draws the horse towards the stone as strongly as the stone towards the horse, and hinders the progress of the one as much as it furthers the progress of the other.’ Those now who have a doubt about the present proposition set against it another example and say: let us suppose that two persons pull equally strongly on a rope. If the one pulls as strongly as the other, it is not possible that one should give way to the other, and accordingly they both remain motionless in one
+
+[margin: Objection.] [p. 367] place. Indeed it is from this very fact that one recognises that they pull equally strongly, when neither needs to give way to the other. If now the horse too were pulled as strongly toward the stone as the stone toward the horse, as Mr *Newton* would have it and our proposition requires; then the horse would not give way to the stone, nor the stone to the horse, and so they would remain, like the persons, motionless together in one place. But since experience testifies that the horse goes forward and drags the stone away with it; it is clear that the horse pulls more strongly than the stone, just as everyone will grant that of two persons the one pulls more strongly who drags the other along the rope against his will.
+
+§. 671. It is not to be denied that this objection has, at first sight, some appearance of plausibility; but Professor Hermann has already answered it thoroughly in the appendix to his fine work on the motion of solid and fluid bodies (b). One must not take the force of a body and its action for the same thing, as those do who find a difficulty in our proposition. For a body does not act on the other with its
+
+[margin: Objection, together with its answer.]
+
+(a) *Princip. Phil. Nat. Math. p. 13. edit. sec.* [p. 4] whole force which it has, but only so far as the other resists it. Therein consists the action of the body A on B, that it breaks the resistance of the body B. Thus when the horse draws the stone, it does not act on the stone with its whole force, which it applies in going forward, but only with that part which suffices to break its resistance. The remaining part of the force is not applied in the action: for there is nothing present that resists it. In my opinion one can see this most clearly from the propositions of hydrostatics, which I have demonstrated in the elements of this science, and which in its own place I also wish to confirm by suitable experiments as grounded in experience. If e.g. a ball of stone or lead, one *cubic* inch in size, is hung in water; this ball, be it heavy or light, loses neither more nor less of its weight than a *cubic* inch of water weighs (c). The cause of the loss of weight is this. By virtue of its weight the ball presses on the water and the water presses back. The ball wants to drive the water from its place; but the water resists through its weight. Since now the water [p. 369] cannot give way before its whole weight is overcome; the water resists through its whole weight. Since now the ball loses as much of its weight as the weight of the water amounts to; it applies no more of its force to overcome the resistance than its size requires. The remaining force it retains for itself, and with it, if one lets it go, it sinks down in the water. In this case it is clearly to be seen that no more force is applied by one body to the overcoming of the resistance of the other than the magnitude of the resistance is, and accordingly that its action on the other body is to be estimated as great as the resistance. And in this sense one takes action and reaction in the proposition which we have freed from the objection.
+
+§. 672. Since bodies, by pressing in opposite directions and equally strongly against one another (§. 669), hold one another up in impact (§. 668); they hang together during the impact as one body (§. 646), and can accordingly at the same time, or in the same moment, be regarded only as one body (§. 549).
+
+[margin: During the impact two bodies are to be regarded as one.]
+
+(b) Phoronom. p. 378.
+
+(c) Elements of Hydrostatics, §. 24. p. 335.
+
+[p. 4]
+
+§. 673. So long as two bodies hang together and are to be regarded as one, one must regard each as a part of that composed of both (§. 24). Accordingly, since all parts of a body move with equal speed (§. 667); the motion of the two bodies that strike against one another must also be so divided among them that one receives as much speed as the other.
+
+[margin: How motion is communicated in impact.]
+
+§. 674. This is confirmed also by experience. For if two bodies that have no elastic force strike against one another; they move after the impact with equal speed. How this is to be brought to experience can be gathered from what was remarked above, since we have confirmed by experience that the parts of bodies that strike against one another are pressed together where they touch one another (§. 655).
+
+[margin: It is confirmed by experience.]
+
+§. 675. From these two grounds, that the action and reaction of two bodies are equal to one another (§. 669) and that the bodies receive equal speed through the impact (§. 673), all the rules can be derived that one has found for the motion of bodies that have no elastic force: as one can see from the demonstrations of it in my
+
+[margin: Grounds of the rules of motion, when the bodies have no elastic force.]
+
+[p. 371]
+
+*Elementis Mechanicæ* (d) which I have adduced.
+
+§. 676. If bodies have no elastic force, they must remain hanging together after the impact and move forward together as one body. For since in the impact they hang together as one body (§. 672), and begin to move with equal speed, like different parts of one body, after the impact has occurred (§. 673); they cannot come apart without a cause (§. 30).
+
+[margin: Bodies without elastic force remain hanging together after the impact.]
+
+§. 677. Since we now find in experience that even those bodies which retain an altered figure after the impact do indeed run on together at the same time, yet do not remain hanging together, and that the one striking runs a little more slowly behind; one sees from this that they too must have some degree of elastic force. For through this it can be comprehended how they come apart and how the hinder one follows somewhat more slowly. Namely the elastic force of the preceding body A pushes the body B, which has struck against it, somewhat back again after the compression of the parts has occurred, and on the other hand the elastic force of the body B pushes the body A somewhat further forward.
+
+[margin: All bodies in the world have some elastic force.]
+
+(d) §. 381. & seqq. p. 622. & seqq.
+
+[p. 4]
+
+Since now both bodies A and B push one another away from themselves; they no longer remain hanging together. On the other hand, although through the impact both bodies had received identical speed; yet the elastic force increases the speed of the body A, and on the other hand diminishes the speed of the body B, in that the body A is thereby pushed forward, but the body B is pushed back (§. 644).
+
+§. 678. One can see already from this that the elastic force, whereby the compressed parts go apart again, must cause a great change in the speed which they have received through the impact, when it is considerable in one or both bodies. For it is just as much as if the two bodies, while they moved with the speed received through the impact, were to get yet a new impact. But it is known that, when a body that is already in motion gets a new impact in the direction that it has in its motion, its motion is thereby accelerated; whereas when the impact is set opposite to its direction that it already has, thereby not only is its speed diminished, but even an opposite direction can be communicated, provided that through the new impact it receives a greater
+
+[margin: Elastic force changes the speed received through the impact.] [p. 373] speed than it had before (§. 664).
+
+§. 679. But the elastic force is always equal to the strength of the impact, whereby the parts touching one another are pressed together. For if a body that has an elastic force is pressed together; the elastic force is equal to that which presses it together: which is easily comprehended. The body that is pressed together resists a further compression through the elastic force, which is determined by the compression. Since now the compressing force can accomplish nothing more; the resistance must be equal to it, and consequently the elastic force is equal to it. Now it is clear of itself that the touching parts of two bodies striking against one another are pressed together through the impact, and so the impact is the force whereby they are pressed together. Accordingly the elastic force too, which is determined by this impact, must be equal to it.
+
+[margin: Magnitude of the elastic force.]
+
+§. 680. When two bodies strike against one another, the one presses back as much as it is pressed by the other (§. 669) and so it is just as much as if the parts touching one another were, by equal forces
+
+[margin: It is equally great in both bodies that press one another.] [p. 4] pressed together. Since now the elastic forces that are determined by the compression are equal to these forces (§. 679); the elastic force too, whereby the bodies striking against one another are driven apart again, is equally great on both sides.
+
+§. 681. The change, accordingly, which the elastic force causes in the speed received through the impact, is precisely that which would be found if each of the bodies lay still, and the other of them were to strike against it with a force equal to the elastic.
+
+[margin: What change it produces.]
+
+§. 682. And on these grounds rest those rules which the mathematicians of today bring forward concerning the motion of bodies that have an elastic force, and which I have demonstrated in my *Elementis Mechanicæ* (a).
+
+[margin: Grounds of motion in bodies that have elastic force.]
+
+§. 683. From all this that has been brought hitherto from experience concerning motion and proved with sound grounds, it is clear that motion is not communicated in a moment, but everything happens gradually, and also each thing has its sufficient reason why it happens, and that through this how it happens can be explained intelligibly.
+
+[margin: Motion is communicated gradually.]
+
+(a) §. 404. & seqq.
+
+[p. 375]
+
+§. 684. Since all matter is in constant motion (§. 625. 645) and through this one part is separated from another; it is in fact actually divided, and indeed so subtly in every respect that we can neither reach the smallness of the parts with reason nor grasp it with the imagination (§. 84. 85).
+
+[margin: Matter is actually divided.]
+
+§. 685. And thereby, that all parts are in motion and each among them has its particular motion, arises the distinction of the parts, and the parts receive their magnitude and figures (§. 54. 61). For if there were no motion in matter; no part would be distinguishable from another except by place, and the whole matter together would be a waste and empty lump: which Mr von Leibniz (a) has already remarked and adduced in confirmation of the necessity of a moving force in bodies.
+
+[margin: Motion gives the distinction of the parts.]
+
+§. 686. All changes of bodies happen through motion (§. 615) and through addition or removal, or also transposition, of the parts (§. 72. 65. 68. 69). Since now matter has been divided very subtly by nature through motions (§. 684) and motion is communicated gradually (§. 683); all changes of bodies too must happen gradually
+
+[margin: Nature makes no leap.]
+
+(a) Acta Erudit. A. 1695. p. 436. [p. 4] and accordingly all events occur gradually, by certain degrees. And this is what one means when one says: nature makes no leap.
+
+§. 687. Hence this is a certain mark of a natural effect, when it happens gradually. Namely, as often as one perceives that something arises gradually, not all at once; one can be assured that it is a natural event.
+
+[margin: Characteristic of natural events.]
+
+§. 688. Since accordingly everything is natural that happens not through a leap, but gradually (§. 687), but a miracle is not natural (§. 633); no miracle can happen gradually, and accordingly it happens all at once and in an instant.
+
+[margin: Miracles happen in an instant.]
+
+§. 689. Meanwhile one must take very good care not to be hasty in this matter, and not to take for a leap what happens suddenly. For a leap does not properly concern time, but the connection of things, how one comes from the other. And this happens through degrees, where one always finds in the preceding thing the sufficient reason why the other comes from it: which in slow motions indeed requires time and leisure, but in very swift ones can occur suddenly. E.g. In
+
+[margin: Caution.] [p. 377] motion it would be a leap if the body A, which is struck by B, were to run away from it at once, as soon as it touched it. For here we could find no ground why the motion should be communicated in such a way that both received equal speed through the impact. But since we see that everything happens gradually, that bodies first press against one another and thereby the one resists the motion of the other, then through this pressure hang together as if they were one; we have found sufficient reason that the speed in all parts of both bodies must be equally great: for it becomes comprehensible to us thereby why it happens. That which was adduced to illustrate the difference between truth and dream (§. 143) can give here no little light. Just so it would be a leap if food could nourish the body without being digested, or, in general, if something new could come to be out of a matter without its first having been wholly dissolved and different things separated from one another. For then it would no longer be comprehensible how one could come from the other. And accordingly the sufficient reason prevents the leap, just as its lack in a dream can admit it.
+
+[p. 4]
+
+§. 690. And from this it becomes comprehensible why a body that moves cannot come from one place into another without having to move at the same time through all the places lying between, and in this way the path must always proceed without interruption. Namely if one asks why this happens, one can answer briefly: because nature suffers no leap, but what happens naturally must come from one thing to the other (§. 689). But if one is to explain what kind of leap would then happen, that is, if one asks further: why does nature here suffer no leap? one must, as in all cases where this question is raised, answer: because otherwise it would not be comprehensible how the body could come from the one place into the other, and accordingly this change of place would have no sufficient reason (§. 29), which cannot take place (§. 30), especially in the truth of things (§. 143).
+
+[margin: Why a body must move through all the places lying between, from one into another.]
+
+§. 691. But since it could easily happen that some confused sudden events with a leap, and therefore no longer took them for natural, and consequently made a miracle of them (§. 633); it will not be unserviceable if we examine somewhat more closely whence sudden
+
+[margin: Whence sudden events come.] [p. 379] events can come in nature. Since now in corporeal things everything that can fall into our senses originates either from matter or from motion (§. 626); either many small parts of matter or many small motions must come together in a very short time, if something is to happen suddenly. Of the first it serves as an example when the sky, which is quite bright or starry in the evening, is, before one is aware of it, wholly overcast with dark clouds. For one knows (as I shall also set out in another place) that the clouds are a heap of vapours, and these vapours do not come into the air only when the sky is clouding over, but have been there already before: only they were scattered, and now they shoot together. While they were apart from one another, one could not see them on account of their smallness: but after they shoot together, they become visible. Of the other kind we have an example in the ignition of gunpowder and in many chemical trials. For when a little spark falls on a grain of powder it melts only a little matter and sets it in motion; but this in turn others, and so through the whole heap. (a)
+
+(a) Elements of Artillery §. 30. p. 15. 16.
+
+[p. 4]
+
+But since everything here goes on very swiftly, the motion of the ignited powder becomes considerable through the motions of many small parts coming together.
+
+§. 692. But since it is necessary for this that both the many small parts of matter and the many small motions come together in a very small and scarcely perceptible time; it will be necessary that we try to represent to ourselves somewhat distinctly how small a measure nature is accustomed to divide time. We can know the parts of time and distinguish them from other parts only through the changes that take place in them (§. 96). Since now magnifying glasses discover the minutiae in nature that we are otherwise unable to perceive; we must no less have recourse to them in the division of time than of space (§. 85. 86). *Delisle* has seen through a telescope a little worm that in a second of time, in which the pulse can scarcely beat once, moved its foot a thousand times. And so one can divide a time that we call a moment still into 1000, consequently an hour, which has 3600 seconds, into 360000 perceptible parts. Meanwhile this is not yet the smallest among the
+
+[margin: How finely nature divides time.] [p. 381] perceptible parts of time. For if we wish to examine what has been recorded by *Leeuwenhoek* and others of such changes, which they can bring out by good magnifying glasses, we shall be able to distinguish perceptibly still much smaller parts of time. Indeed one could also, if it were necessary, prove the division of time even by the division of space. For one need only assume a space through which a motion takes place in a very small time, and examine accordingly how small a space of the kind one finds divided in certain cases by magnifying glasses. For something small, however small it may be, must spend a certain time in each such part, since it is impossible for it to fill two parts of space at once.
+
+§. 693. No motion is communicated otherwise than gradually (§. 683). What has no parts and can [not] yield and after this expand again, to that motion cannot be communicated gradually (§. 665. & seqq.). And so nothing that has no parts, and consequently no simple thing (§. 75), can be moved by itself alone. Accordingly there belongs
+
+[margin: Simple things cannot be moved, but only bodies.]
+
+(b) *Hist. de l’Acad. Royale des Sciences A. 1711. N. 6. des Observ. de Physique gener. p. m. 23.* [p. 4] motion only to composite things (§. 57), that is, to bodies (§. 606).
+
+§. 694. Since now simple things are distinguished from one another and therefore are outside one another (§. 602), but none is movable by itself (§. 693); none can be brought away from another either. And hereby not only is that which has been said of the connection of simple things (§. 605) set in greater light; but it is also clear from this that nature, which has no other means of dividing matter than motion, by no means dissolves matter into its elements (§. 182).
+
+[margin: Nature does not dissolve matter into its elements.]
+
+§. 695. And now we can prove what we above showed only as probable (§. 86), namely that it is impossible to discover simple things, that is the elements of matter, through magnifying glasses. For what we discover through magnifying glasses, that we see by means of light, and it must accordingly throw back the rays of light. For this a motion is required. But no simple thing is in motion (§. 693) and can therefore also communicate no motion to another (§. 664). Therefore no simple thing can throw back light, consequently cannot be seen either.
+
+[margin: The elements cannot be seen, nor in general anything simple.]
+
+§. 696. Meanwhile one must not imagine, as if the elements constituted indivisible
+
+[margin: Matter does not consist of] [p. 383] parts of matter, from which afterwards the visible bodies arose. For since they can be set in motion with the composite things in which they are found, one of them that was in this part can soon, through a new motion, be separated off along with it and brought to another (§. 684). In such a way matter does not consist of certain unchangeable small parts.
+
+[margin: certain unchangeable parts.]
+
+§. 697. Hitherto we have seen what character it has by virtue of experience when one body moves another; above, however, it has been proved that a body must have both a resisting and a moving force on that account (§. 607. 623). Now we come to the harder question, how force really comes into bodies. We have heard above that force must be an enduring thing (§. 660). But we find in the body nothing enduring except the elements (§. 584), from which matter arises (§. 607). Therefore force must be found in them originally.
+
+[margin: Force is originally in the elements.]
+
+§. 698. But just as the visible bodies, yes all their parts that we can discover through the very best magnifying glasses, are not immediately composed of the elements, but only ever of smaller bodies; so likewise
+
+[margin: In bodies they come from fluid matters that are in motion.] [p. 4] these same bodies do not have their force immediately from the elements, but rather from fluid matters, which move to and fro through the space empty of proper matter. An example of this is given us by gravity, whereby a body not only resists the motion of another, as we plainly see in water and other heavy fluid matters, but is also itself moved, as the fall of a stone from a height shows. For since gravity cannot be without a sufficient reason (§. 30), and therefore must let itself be explained intelligibly (§. 77); but it is known from what precedes that no motion can be continually increased except by continual impact (§. 664): the matter of the stone, while the stone falls down, must be continually struck toward the centre of the earth. Accordingly there must be something which penetrates the stone throughout and can come to its parts, that is, one has need for this of a subtle fluid matter which is in constant motion. By just such a matter is elastic force explained, as is magnetic force no less: which in its place, namely in the *Reasonable Thoughts on the Effects of Nature*, will be set out more circumstantially.
+
+[p. 385]
+
+§. 699. In so far now as a body has within it *foreign matter* of this kind (for so we wish to call that which moves through the space free of its proper matter); in so far one can say that it has its force in itself.
+
+§. 700. And from this it is clear that in the explanation of events in the visible world one has no need to appeal to the primitive force that is in the elements (§. 697); but need only stay with those forces that let themselves be explained through the motion of a subtle fluid matter in the empty space of the body (§. 698).
+
+[margin: What force one must look to in explaining events in nature.]
+
+§. 701. There would indeed still be various knots of motion left over, which however I shall endeavour to resolve at another time. Now therefore I go further on, and show in what the perfection of the world consists, and whence the imperfections in a world take their origin. I have above (§. 152) set out in general that perfection is an agreement of the manifold. Accordingly, since the world is composed of many bodies, and each again of many smaller, and its state changes every moment (§. 625), or, to speak in general, since the world is a series of changeable things that are beside one another
+
+[margin: In what the perfection of the world consists.] [p. 4] and follow upon one another, but altogether are connected with one another (§. 544); the perfection of the world consists in this, that everything that is simultaneous and follows upon another agrees with one another. The greater now this agreement is, the greater also is the perfection of the world.
+
+§. 702. Since the perfection of the world must be judged from the agreement of all things, from the greatest down to the smallest, whether they be simultaneous or follow upon one another (§. 701), but it is not possible that we should know all things, much less see into how they altogether agree with one another; we are also not in a position to comprehend the perfection of the world and to explain it completely.
+
+[margin: We cannot comprehend the perfection of the world.]
+
+§. 703. Accordingly, since imperfections of the parts can also belong to the perfection of the whole (§. 170); it is possible that we, who only glimpse the perfection of the parts in something, but by no means are capable of comprehending the perfection of the whole world (§. 702), sometimes look on the world in this or that piece as imperfect, although in fact it has the greatest perfection that can be in a world.
+
+[margin: We can sometimes deceive ourselves in our judgement of it.]
+
+[p. 387]
+
+§. 704. Yes, this happens not only when we wish to judge of the perfection of the whole world; but we can err in just the same way when we have to judge of the perfections of its parts, indeed even of quite small bodies. For in every single thing in the world we find so great a manifoldness and so manifold a connection with others, that we are not able to survey everything. Therefore here too something can occur which, considered by itself, is rightly held to be an imperfection, but gains quite another aspect when it is weighed in connection with other things.
+
+[margin: Also in judging of the perfection of single things.]
+
+§. 705. Especially we go wrong in this matter when we have to judge of the perfection of our state: for we look only at the present, and therefore do not think of how it agrees with the past and the future. Yes, we do not even survey the present wholly, and accordingly leave it to be considered how it agrees together. He who accordingly wishes to judge of his state reasonably must carefully observe both, which is commonly forgotten.
+
+[margin: Especially when we judge of our state.]
+
+§. 706. Every perfection has its rules, by which it is judged (§. 164).
+
+[margin: The perfection of the world has]
+
+[p. 4]
+
+Therefore the perfection of the world must also have its rules, from which one can judge it. And accordingly one must concern oneself with these rules when one wishes to judge of the perfection of the world.
+
+[margin: its particular rules.]
+
+§. 707. The rules take their origin from the ground of perfection (§. 164). E.g. The ground of the perfection of the eye is the depiction of the things standing before it, and accordingly these rules, according to which the eye is composed, arise from this depiction of the things standing before it. Now since the perfection of the world requires that everything agree with one another (§. 152); all particular grounds of the perfections of particular things must also have a principal ground, in which they finally all come together, and through which they are comprehended. And from this principal ground arise the general rules, from which the particular ones are afterwards derived. Whoever therefore wished to bring out the rules by reason would have to seek before all things the principal ground of perfection and derive from it the general rules, and afterwards also seek the grounds of the perfection of particular things by the help of the principal ground
+
+[margin: How one knows them.] [p. 389] from their essence (§. 33), and derive from this further the rules of the particular perfections and combine them with the general rules. But one can also go yet another way, on which one finds one's way more easily than on the former. Namely one seeks the ground of the perfection of particular things (§. 157) and draws their rules from it. Since now the particular rules contain the general ones within them; one can by the help of these always come to more general ones. It would accordingly be serviceable if, following those teachings that have been given in the first chapter concerning the perfection of things in general (§. 152. & seqq.), one investigated the perfection of many particular things that we meet with in nature and art, and noted their rules with diligence; then the general rules would very easily give themselves.
+
+§. 708. I do not doubt that, if one investigated much in this matter, one could in time make a particular science of the rules of the perfection of nature and art, which would also contribute much in human life to a prudent conduct and reasonable procedure in all things.
+
+[margin: A particular science of it.]
+
+§. 709. We have already had above some such general rules, in which the perfection
+
+[margin: Example of these rules.] [p. 4] of nature is grounded. Hither I reckon that nature makes no leap: for thereby it happens that everything in the world becomes comprehensible and, as I shall show below, that the world is not only a work of the power but also of the wisdom of God, and that the works of nature can please us. It belongs here that a body always acts back on the other as much as the other acts on it: for in this are grounded the rules of motion, which constitute the order of nature. And elsewhere one has already noted several such, as that nature prefers the shorter way to the longer, and so loves no detours, as is clear from the rules of motions which I have proved in my *Elementis Mechanicæ*. Just such a rule is that in nature always one and the same force is preserved, as Mr von Leibniz has found and I have proved in my *Elementis Mechanicæ* (§. 425. 426.).
+
+§. 710. I have above shown in general that the rules of perfection can sometimes conflict with one another, and that therefore an exception from the rule arises, from which imperfection comes (§. 164. 165. 169). Therefore since also in the world there is a great difference of things, which all have their particular rules of perfection
+
+[margin: Whence imperfections in nature come.] [p. 391] and meanwhile there are nevertheless also general rules of perfection (§. 706); it is easy to judge that here too the rules sometimes run against one another and can thereby cause an unavoidable imperfection. E.g. The ground of the perfection of the eye is the depiction of the things which we are to see. Two things belong to the perfection of this depiction, namely clearness and distinctness, for otherwise the thing cannot be rightly known and distinguished from others. Clearness requires that the rays of light do not become too weak when they come at the back upon the eye: distinctness, on the other hand, wants the image to be large so that several parts can be distinguished in it. He who is versed in optics, and understands even only that which I have taught in the Elements of the Optical Sciences, which are to be found at the beginning of the third part of the German Mathematics; knows that much distinctness is a hindrance to clearness. Therefore here (to say nothing of other rules, which likewise conflict with the rules of the perfection of the eye) some exception from the rule of distinctness has had to take place, so that nothing would be sacrificed of clearness. And from this arises the imperfection of the eye, that it merely [p. 4] cannot see as sharply as through a magnifying glass. Meanwhile if one regards the eye as a part of the human body, and compares accordingly the imperfection of the eye with the general perfection of the whole body; one finds, as was already set out above in general (§. 703), that the imperfection of the eye also belongs to the perfection of the body, which would in fact have in general less perfection if the eye had more. We need not doubt that what we here meet with in this little example is so also in all the rest. There is need of nothing further to be assured of this, than that one undertake that work which I proposed a little before (§. 707).
+
+§. 711. Among the imperfections of nature we must also reckon the extraordinary or unusual events in nature, as when monstrosities are born, and the like. For these too are exceptions from the rule, which happen from no other cause than because various of the general rules conflict with one another in these cases. And we can say without error that even the rules through which the order in the world is maintained, and the orderly
+
+[margin: Origin of extraordinary events.] [p. 393] is produced, also brings forth the extraordinary at its time and in its place, and so that which deviates from the rules.
+
+§. 712. Meanwhile it is certain that a world in which the exception is so arranged that the greatest agreement with the rules is maintained (§. 166) is more perfect than one in which the exception from one rule causes again an exception from another. In the latter case the imperfections would needlessly accumulate, and many perfections would on the other hand be left out, which would have had a place in another exception. But it is impossible for us to show this in particular in a world (§. 702); yet in particular bodies, all of which are to be regarded as little worlds (§. 544), such as the bodies of animals and our own body, this can very well be comprehended.
+
+[margin: When a world is more perfect than another.]
+
+§. 713. Since perfection consists in an agreement of the manifold (§. 152), and this agreement is so much the greater the greater the manifoldness of things to be met with that agree with one another, a world is more perfect in which a greater manifoldness of things is to be met with than where one perceives less difference, and consequently
+
+[margin: Still further grounds of the perfection of the world.] [p. 4] where more is to be perceived than where one perceives less.
+
+§. 714. A doubt might arise here in someone, which is worth attending to. Formerly watches were made with many more wheels than now; yet everyone holds the present watches to be more perfect than the old ones for this very reason, because one can accomplish with few wheels what formerly required far more. And if one could make watches with still fewer wheels than we now have, which nevertheless performed just what our present watches can do, one would hold them to be more perfect on account of their lesser composition. Indeed, in general one holds it to be an imperfection when much is done by what one could accomplish by little. Therefore one should think that a world in which not so great a multitude of things were to be met with would be more perfect than one that is composed too much. Indeed, in this way it does not follow that a world is more perfect in which more is perceived to occur, but only that in which everything agrees better together.
+
+[margin: Objection.]
+
+§. 715. I will not deny that this objection can cause difficulties for those who do not sufficiently see into the nature of perfection. But
+
+[margin: Answer.] [p. 395] the example of the watch, by which the objection is illustrated, is also suited to remove all doubts if one reflects on it somewhat. When we judge that one watch surpasses the other in perfection because it is less composite, we assume thereby that one goes as well as the other and that one gets as far with one as with the other. Were there a difference to be met with in this, so that, e.g., the more composite watch went more accurately, or indicated more variations of time than the other of a simpler composition, one would not prefer the latter to the former on account of its simpler composition. From which one sees that the manifoldness, through whose agreement the perfection becomes greater, is to be sought chiefly in the changeable, which is brought forth through what endures. If we now are to apply to the world what has been said of watches, we must represent to ourselves two worlds in which the same sorts of events occur, just as the two watches indicate the same variations of time, but of which one consists of a greater quantity of matter and of more enduring bodies made from it than the other, just as the one watch has a greater number of wheels than the other [p. 4] Here no more that is changeable would be perceived in the one world than in the other, and yet in the one world it would be brought about by fewer means than in the other. Therefore the world in which one obtained this through less matter and through a smaller number of enduring bodies would admittedly be much more perfect than the other, in which one accomplished just as much only by more roundabout ways. Suppose, on the other hand, that in one world, through more matter and a greater number of enduring bodies, more events that agree with one another are maintained than in another world where there is not so much matter and where there are not so many enduring bodies, just as a watch that is more composite shows more variations of time than another of simpler composition; then there is no doubt that the world which has more matter and also a greater number of enduring bodies is to be preferred to the other, in which everything is found to be less.
+
+§. 716. But it must also be well considered that the more the events in the world agree together, the more is to be perceived in it. But where this happens, there is a greater perfection (§. 152). One sees at the same time from this that fewer exceptions to the rule occur in the
+
+[margin: Still more grounds of the perfection of the world.] [p. 397] which is more perfect: for the more everything agrees together, the fewer deviations there are. And therefore the world is more perfect in which the extraordinary is rarer than where it occurs often (§. 711).
+
+§. 717. Since there is order in perfection (§. 156), there must also be in a world so much the more order, the more perfection there is in it.
+
+[margin: Order in the world.]
+
+§. 718. But since all order is grounded on rules (§. 150), the rules according to which the changes in nature occur and the corporeal things are composed make up the order of nature.
+
+[margin: Wherein the order of nature consists.]
+
+§. 719. These rules, however, are not different from those from which the perfection of the world is judged (§. 706). Meanwhile order nevertheless remains distinct from perfection. For when the rules all agree together, perfection grows out of it (§. 152). Namely, rules make order (150); the agreement of the rules, and such exception as preserves the greatest agreement, makes up perfection.
+
+[margin: Difference of order and perfection.]
+
+§. 720. Hence not everything that is orderly is equally perfect. For e.g. the windows and doors in a building, according to the rules of congruity, can
+
+[margin: Not everything orderly is equally perfect.] [p. 4] be arranged. Now since congruity is grounded in a similarity of them and of their position (26. Archit.), they are orderly (§. 135). And this order has its rules, which one can derive from the said similarity in every given case (§. 141). Meanwhile the windows need not on account of this order be perfect: for many rules can be taken into account in them which do not come together in one general ground, that is, in the principal purpose of the windows, and therefore do not agree with one another. Indeed, rules can be taken into account which do not agree with the general rules of the perfection of corporeal things. And in this way perfection is lacking, although order is present.
+
+§. 721. Hence one is also accustomed to ascribe perfection to order, and one order can be more perfect than another. But this does not happen because more rules are to be met with in one than in another, but because the rules in one agree together more than in the other. This is clear from the fact that what is superfluous does not belong to perfection. The multitude of rules can indeed bring about an abundance, but no perfection
+
+[margin: Orders are distinguished from one another according to perfection.]
+
+[p. 399]
+
+Conversely, abundance is not at once an actual imperfection, although it can be counted as part of the lack of perfection. For imperfection arises from the conflict of rules, whereby an exception occurs without sufficient reason. Namely, many rules can come together in an order which do not agree with one another in one principal ground. These rules, to be sure, do not conflict with one another in themselves, since otherwise they could not hold at the same time, and so they do not properly constitute imperfection (§. 169). Meanwhile, since they nevertheless do not agree together, they also contribute nothing to perfection, and therefore they are to be regarded as superfluous with respect to perfection.
+
+§. 722. Because one does not see the order until one perceives the similarity in the changes of the series, both in time and in space (§. 132), much order can be hidden in a world which we do not perceive, since we survey too little of it. And since we, moreover, cognize things only obscurely, and therefore do not perceive what is to be found similar in them (§. 214), and consequently hold to be dissimilar what has much similarity both in space and in time
+
+[margin: The order of the world cannot always, nor fully, be known by us from experience.] [p. 4] in itself, we can even take order for disorder. Therefore one will not well prove the order of the world from experience, although one can adequately defend it against objections. But below, when we shall treat of God, it will be possible to prove it from his attributes.
+
+§. 723. We learned above (§. 587) that in the world no one thing can be similar to another: which, as the proof shows, is to be understood of a complete similarity. Therefore, when something similar is to be met with in the things that are in the world, it is always hidden among the dissimilar. Since we now do not cognize order until we comprehend the similar distinctly (§. 136), it is clear from this anew why the order of nature must often remain hidden from us.
+
+[margin: Why this happens.]
+
+§. 724. Because everything in the world follows as the essence of things and the rules of motion, of which we spoke above (§. 675. 682), bring with them, one can now comprehend distinctly what that properly is which one is accustomed to call the course of nature. Namely, the course of nature is nothing other than the sequel of the events in the world according to the essence of the things found in it
+
+[margin: What the course of nature is.]
+
+[p. 401]
+
+and the rules of motion.
+
+§. 725. And accordingly that is in accordance with the course of nature which has its ground in the laws of motion and in the essence of things, and consequently everything that is natural (§. 630); on the other hand, that is contrary to the course of nature which has no ground in the essence of things or in the laws of motion, but rather has what is opposed to them grounded in it.
+
+[margin: What is in accordance with it.]
+
+[margin: What is contrary to it.]
+
+726. And accordingly miracles are contrary to the course of nature (§. 633). And so they disturb the course of nature (§. 639).
+
+[margin: Miracles are contrary to it.]
+
+#### Chapter 5.
+
+### On the essence of the soul and of a spirit in general.
+
+§. 727.
+
+I have indeed already treated of the soul at length above in the third chapter, but only so far as we can perceive its effects and attain a distinct concept of them (§. 91). Now we must investigate wherein the essence of the soul and of a spirit in general consists, and how in it
+
+[margin: The present undertaking.] [p. 5] is grounded that which we perceive of it and have noted above. In this connection various things about the soul will then still be able to be treated, to which experience does not at once lead us.
+
+§. 728. The first thing that we noted of ourselves was that we are conscious (§. 1), that is, that we know that we now represent many things to ourselves as outside us (§. 144). E.g. I know that I now see the mirror and my figure in the mirror. Therefore let us now investigate how it comes about that we are conscious of this.
+
+[margin: Why we begin from being conscious.]
+
+§. 729. We find accordingly that we are conscious of things when we distinguish them from one another. Thus in the example just given I am conscious that I see the mirror when I distinguish from one another not only the different parts that I perceive in it, but also the very difference of the mirror from other things which I either see together with it or represent as seen a short time before. If then we do not notice the difference of things, even though they are present to us, we are not conscious of what falls into our senses. E.g. when someone reads in a book, he is not conscious of what he hears, although the sound of the words falls just as at other times
+
+[margin: When we are conscious of a thing.] [p. 403] into his ears and causes the usual change in them. And in this case we say, when we want to indicate the cause why we are not conscious of it: we did not pay proper attention to it. But if we now investigate what we then lose by not having paid proper attention to it, we shall find nothing other than that we do not notice the difference of the sound by which the words make themselves known.
+
+§. 730. Just from this it is clear when we are conscious of ourselves, namely when we notice the difference between ourselves and the other things of which we are conscious. But this difference shows itself as soon as we are conscious of the other things. For if we are to be conscious of what we cognize through our senses, we must notice the difference of what we perceive in it, indeed also distinguish the thing which we cognize thereby from other things at once (§. 729). But both the representation of things and (which seems to be still clearer) this distinguishing is an effect of the soul, and we therefore cognize thereby the difference of the soul from the things which it represents to itself. And accordingly we are also conscious of ourselves (§.
+
+[margin: When we are conscious of ourselves.]
+
+[p. 5]
+
+729). Experience agrees with what I have said. For if we do not think of the effects of the soul which occur in it, and by which we distinguish ourselves from the things we think of, then we are also not conscious of ourselves; and if someone should ask us whether we were now conscious of ourselves, we would give him no other answer than that we had not just now thought of ourselves. If one now wants to investigate further what is then lacking just now, when we have not thought of ourselves, and is otherwise present when we think of ourselves, we shall find nothing other than that we have not represented to ourselves the effects of our soul, and thereby the difference of ourselves from that which we have thought of.
+
+§. 731. If we do not notice the difference of things, obscurity of thoughts arises from it (§. 201). Therefore if in that which we represent to ourselves all at once no difference at all is to be noticed, so that in the whole representation we distinguish not the least, our whole thoughts would be obscure (§. 201). But we would then also be conscious of no thing (§. 729), consequently also not of ourselves (§. 730). Thus complete obscurity removes consciousness.
+
+[margin: Obscurity of inner sensation removes consciousness.]
+
+[p. 405]
+
+§. 732. But since clarity springs from the noticing of the difference in the manifold (§. 201), and distinctness from the clarity of the parts (§. 207), one can comprehend in just the same way that the clarity and distinctness of thoughts grounds consciousness.
+
+[margin: Consciousness requires clarity and distinctness of thoughts.]
+
+§. 733. He who distinguishes things from one another must hold them against one another. For we distinguish them from one another when we perceive in the one what we cannot put in the place of that which we find in the other (§. 17). But we cannot perceive this except when we hold against one another either the things themselves or what is distinguishable in them. When we hold the manifold against one another and distinguish it from one another, we call it reflecting. Therefore it is clear that reflection is required for consciousness. If accordingly a thing can reflect on nothing, it is conscious of no thing and consequently also not of itself.
+
+[margin: Reflection is required for consciousness.]
+
+§. 734. He who holds thoughts against one another must not only be able to retain what he thinks, but also know that he has had the thought already before, and must accordingly be endowed with a memory (§. 248). Since now he who is conscious holds thoughts against one another
+
+[margin: Memory is required for consciousness.] [p. 5] and distinguishes them from one another (§. 733), it must also have a memory. And in this way a memory is required for consciousness.
+
+§. 735. And now we comprehend how it properly comes about that we are conscious, that is, that we know what we think, or why our thoughts bring consciousness with them (§. 144). Namely, when we think something, we retain a thought for a noticeable time and distinguish it, as it were, from itself by the parts of time, which we distinguish from one another, though only obscurely (206). We hold it against itself and cognize that it is still the same (§. 17), and in this way we are at the same time mindful that we have had it before. And so memory and reflection bring forth consciousness (§. 733. 734).
+
+[margin: How it properly comes about that we are conscious.]
+
+§. 736. Since in this way various things must proceed one after another in the soul if it is to be conscious of a thing (§. 735), time is required for consciousness (§. 94). Since now our thoughts are changes of the soul of which we are conscious (§. 144), every thought occurs in time, or every thought has its measured time.
+
+[margin: Every thought has its measured time.]
+
+§. 737. But since one time can be greater than another, a thought can also
+
+[margin: Why thoughts have a] [p. 407] last longer than another. And therefore one ascribes a speed to thoughts, and so one thought can be swifter than another.
+
+[margin: speed.]
+
+§. 738. All changes of a body occur through motion (§. 615), and have their ground in the magnitude, figure and position of the parts (§. 615). Therefore if a body were to think, the thoughts would have to be a change that occurred in the position of some parts of a certain magnitude and figure through a determinate motion. If now the thought were to be maintained for a certain time, then either the parts would have to be maintained in their position, and so their motion be checked, or other similar parts would have to be brought into their place by a similar motion. If further the body were to be conscious of this change, the two similar states of the body (§. 18) would have to be compared with one another, and their similarity in itself, but their difference both in time and with regard to the body, would have to be noticed. Since now this cannot be brought about by the motion of the parts, for these can represent nothing further than something composite through their magnitude, figure and position, the body can, of this change and of the representation brought about thereby,
+
+[margin: No body can think.] [p. 5] not be conscious (§. 735). Since therefore thoughts bring consciousness with them (§. 144), no body can think.
+
+§. 739. I know well that those who attribute thoughts to the body imagine that the thoughts consist in the motion of a subtle matter. But since in our proof we did not assume that the matter is to be gross, it stands as firm and immovable as before, however subtle one may assume the matter to be. For we cannot get further than that at most a representation of something composite is obtained thereby: but consciousness, which is yet required for thoughts (§. 144), remains absent just as before.
+
+[margin: Even subtle matter cannot think.]
+
+§. 740. But even if there were a machine or body in which, through the action of light and other external contacts, an inner motion were excited, whereby a subtle matter were put in such order that it represented the external body from which the light came, or which touched it in some other way; there would still be a noticeable difference between this representation and the thought of the soul, whereby it represents this body to itself. For in the body
+
+[margin: Difference of thoughts and of representations in a machine.] [p. 409] the representation would occur in it: but the soul represents everything to itself as outside it. And the cause is clear from what we have already said. The soul represents to itself the things it thinks of as outside it, because it cognizes them as distinct from itself (§. 45). But by the motion of the machine it cannot be obtained that it holds the thing which is represented in it against itself and at the same time represents the difference from itself. Therefore the material representations of things in a machine can never become thoughts, do with it what one will.
+
+§. 741. I know well that Locke and some with him hold the opinion that God could communicate to a body a force to think, or, as they say still more clumsily, to matter. We have seen (§. 738) that no thought can come from the essence and nature of a body, and, in that they want God to bestow it on it, they themselves recognise this. In this way God would have to make something follow from the essence of a body which could not follow from it, and accordingly alter its essence, or communicate to it at the same time the essence of another thing from which thoughts can come. But now it is known,
+
+[margin: A body cannot receive a force to think.] [p. 5] that the essence of a thing is unchangeable (§. 42), and also that the essence of a thing cannot be communicated to another (§. 43). And accordingly it is just as much as if one said God should communicate to matter a force to think, as if one demanded that God should make iron at the same time into gold, so that it would be iron and gold at once.
+
+§. 742. Since neither can a body think according to its essence and nature (§. 738. 739), nor can a force to think be communicated to it or to matter (§. 741), the soul can be nothing corporeal, nor consist of matter (§. 192). And since from the proofs of the grounds adduced it is clear in general that thoughts can belong to no composite thing, the soul must be a simple thing.
+
+[margin: The soul is a simple thing.]
+
+§. 743. Since all simple things are things subsisting by themselves (§. 127), the soul must also be a thing subsisting by itself (§. 742).
+
+[margin: It subsists by itself.]
+
+§. 744. Again, since every thing subsisting by itself has a force, from which as from a source its changes flow (§. 114. 115), the soul must also have such a force from which its changes flow, which we above in
+
+[margin: It has a force.] [p. 411] third chapter, determined from experience.
+
+§. 745. Meanwhile, since it is a simple thing (§. 742), and in a simple thing there can be no parts (§. 75), there also cannot be found in the soul many forces distinct from one another, since otherwise each force would require a particular thing subsisting by itself to which it belonged (§. 127). And so there is in the soul only one single force, from which all its changes come, although on account of the various changes we are accustomed to give it various names.
+
+[margin: And indeed only one single.]
+
+§. 746. We find it so ourselves in corporeal things. E.g. in the flame of a burning candle there is no more than one single force, namely the moving one, whereby the flame has its motion. But this single force receives various names from us from the difference of its effect. For when one sees that the candle gives light, one ascribes to it a luminous force. If one perceives that its flame warms, one says it has a warming force. If one finds that it melts, one gives the candle a melting force. Likewise, on account of the kindling, one posits in it a kindling
+
+[margin: It is illustrated by a comparison.] [p. 5] force; on account of the burning a burning force; on account of the singeing a singeing force, and so on.
+
+§. 747. Accordingly the senses (§. 220), the imagination (§. 235), memory (§. 248), the force of reflecting (§. 272), the understanding (§. 277), sensitive desire (§. 434), the will (§. 492), and whatever else one might distinguish by the changes to be perceived in the soul, cannot be different forces (§. 745). Therefore the single force of the soul must bring forth now sensations, now imaginations, now distinct concepts, now syllogisms, now desires, now willing and nilling, now still other changes. And we shall have to investigate whence this difference of the single acting force in its effects comes.
+
+[margin: A single force of the soul brings forth various effects.]
+
+§. 748. In order that we may come to know this force, we must reflect on the changes that occur in the soul. For since force is the source of changes (§. 115), it can be cognized in no other way than through the changes which it brings forth.
+
+[margin: How one learns to know it.]
+
+§. 749. The most ordinary changes that we perceive in our soul are the sensations. These represent
+
+[margin: What sensations are.] [p. 413] to us the bodies which touch the organs of our senses (§. 220). Bodies are composite things (§. 606). And accordingly the sensations represent composite things. The soul, in which this representation occurs, is a simple thing (§. 742). In this way the composite is represented in the simple. The sensations are accordingly representations of the composite in the simple, which occur on the occasion of changes in the external organs of the senses.
+
+§. 750. When we imagine something, they are likewise corporeal things, namely those which we either otherwise sensed (§. 238), or compose ourselves (§. 240). And so here too the composite is represented in the simple, and in this the imaginations agree with the sensations.
+
+[margin: What imaginations are.]
+
+§. 751. But both sensations and imaginations agree in this respect with images, as paintings and statues, that they are a representation of something composite: and for that reason the representations of corporeal things are also called *images*. Namely, an *image* in general is a representation of the composite. On the other hand, the sensations and imaginations therein
+
+[margin: Difference of sensations and imaginations from images.] [p. 5] differ from paintings and statues in that they occur in the simple, but these in the composite. For an image which art makes is a representation of the composite in the composite, and in particular a painting is a representation of the composite on a surface; whereas a statue or a carved or raised image is a representation of the composite in a corporeal space.
+
+§. 752. If now to this representation reflection and memory are added, the soul is conscious of what it represents to itself (§. 733. 734), and in this way it becomes a thought (§. 144). But in that we are conscious, we cognize their difference from us (§. 729), and therefore we represent the things to ourselves as outside us (§. 45). And this the thoughts have in particular over paintings and carved images, that they represent the things outside the soul, whereas these represent them in themselves.
+
+[margin: How a sensation becomes a thought.]
+
+§. 753. I have already noted above that the sensations are governed by the changes occurring in the organs of the senses (§. 219) and represent to us the bodies in the world which touch our senses (§. 217. 220). But these bodies are a part of the world (§. 606). And so the soul represents to itself a part of the
+
+[margin: The soul has a force of representing the world.] [p. 415] world, or as much of the world as the position of its body in the world permits: consequently, since the effects of the soul arise from its force (§. 744), the soul has a force of representing the world to itself according to the position of its body in the world.
+
+§. 754. Since the soul has only one single force from which all its changes come (§. 745), all the rest that we perceive of the changeable in it must also arise from this force, by which it represents the world to itself (§. 753).
+
+[margin: Everything in the soul comes from it.]
+
+§. 755. Since accordingly this force is the ground of all that goes on changeably in the soul (§. 754), the essence of the soul consists in it (§. 33), and it is in this way the first thing that can be thought of the soul (§. 34). Indeed whoever cognizes it distinctly is in a position to indicate the ground of all that belongs to the soul (§. 33).
+
+[margin: In it the essence of the soul consists.]
+
+§. 756. Since that by which a thing is active or able to effect something is called its nature (§. 628); but the soul, by virtue of its force, by which it represents the world to itself (§. 753), is an acting being (§. 744); this force is at the same time the nature of the soul.
+
+[margin: Also its nature.]
+
+[p. 5]
+
+§. 757. What accordingly is grounded in the soul in this force is natural with regard to the soul, just as one likewise calls natural with regard to the body what is grounded in the nature of the body, that is, in its essence and its force (§. 630).
+
+[margin: What is natural to the soul.]
+
+§. 758. On the other hand, what is not grounded in this force does not follow from the essence and nature of the soul (§. 755. 756) and is accordingly supernatural with regard to the soul, just as, again, one calls supernatural with regard to the body and the world what is grounded neither in the essence nor in the nature of the bodies and of the world.
+
+[margin: What happens supernaturally in the soul.]
+
+§. 759. Since now a supernatural effect is called a miracle (§. 633), a miracle happens to the soul when a supernatural change occurs in it, that is, when this change is not grounded in the force of the soul (§. 758).
+
+[margin: When a miracle happens to the soul.]
+
+§. 760. We have already set out at length above (§. 527) & seqq. how far, by experience, the thoughts of the soul agree with some changes in our body, and again some changes in the body agree with others in the soul. But since we have now proved that the soul has a force of representing to itself
+
+[margin: Why the thoughts of the soul agree with the body is a difficult question.] [p. 417] that which causes changes in its body, we must now investigate whence it comes that soul and body agree with one another, and why precisely at all times a thought is brought forth by the soul which suits the present state of the body. And this is the difficult knot that has given the philosophers so much trouble, namely how it is possible that soul and body have a community with one another.
+
+§. 761. Commonly one believes that by the force of the body thoughts are brought forth in the soul, and by the force of the soul motions in the body. Namely, one imagines that when, through the corporeal things which touch the organs of our senses, a motion is excited in the nerves and in the fluid matter found in them, this subtle matter through its motion brings forth in the soul the thoughts that we call sensations (§. 220), and thereby we represent to ourselves the bodies outside us which cause the change in the organs of the senses (§. 749): whereas again the soul through its force, that is, through its will, brings forth certain motions in the organs of the body, whereby the body carries out that which the soul wants.
+
+[margin: Whether the force of the body brings forth thoughts in the soul and the force of the soul motions in the body.]
+
+[p. 5]
+
+Indeed some even ascribe to the soul a hidden force to move the body. And this opinion, which the common man holds, has long been current among the philosophers, although few assent to it nowadays. But this effect of the soul on the body, and of the body on the soul, has been called a physical influx of one thing into the other, and it is therefore maintained that the community of the body with the soul is grounded in a physical influx of one thing into the other. That one can neither comprehend this influx of the soul into the body and of the body into the soul, nor explain it in an intelligible way, one readily concedes; but one has supposed that it is grounded in experience. But since I have already shown above (§. 529. 586) that one cannot prove by experience that the body acts on the soul, and the soul in turn on the body, one can say nothing other than that the physical influx of the soul into the body and of the body into the soul is assumed without any ground, merely to pass the time.
+
+§. 762. Since the effect of the soul on the body and of the body on the soul can neither be explained intelligibly nor proved by experience (§. 761), one has indeed ground enough not to concede it, since
+
+[margin: The effect of the soul and of the body on one another is] [p. 419] one leaves a thing in suspense so long until it has been proved; but one has not sufficient reason to reject it. For something can nevertheless well be, although we neither comprehend how it can be, nor learn by experience that it is. Therefore it is necessary that we investigate further whether we cannot find a sufficient reason why we must either accept or reject it. I have noted above that by virtue of the rules of motion, in which the order of nature is grounded, always one and the same moving force is maintained in the world (§. 709). If the body acts on the soul and the soul on the body, the same moving force cannot be maintained in the world. For if the soul acts on the body, a motion is brought forth without a preceding motion, since one supposes that the soul brings forth the motion in the body merely through its will. Since now this motion has its measured force in itself, a new force arises which was not previously in the world. And so, contrary to the law of nature, the force in the world is increased. Likewise, if the body acts on the soul, a motion brings forth a thought. Since now after this the motion
+
+[margin: contrary to nature.] [p. 5] ceases without a new motion arising from it in another part of matter, a force ceases which was previously in the world. And so, contrary to the law of nature, the force in the world is diminished. From this it is clear that the rules of motion, according to which the changes in nature occur, will have it that always one and the same force be maintained in nature: whereas the effect of the soul on the body, and of the body on the soul, requires that not always one and the same force be maintained in nature, but rather that it be, to suit the soul, now increased, now diminished. Since accordingly the effect of the body and of the soul on one another is contrary to nature (§. 11), one has sufficient reason to reject it.
+
+§. 763. Descartes was the first to do so, and therefore sought to explain in another way how body and soul can have a community with one another. Since he gave up all hope that it could be explained in an intelligible way, he thought that in such cases, where the essence and nature of things no longer suffice to explain something, one could without blame seek the cause in God's will. Therefore he hit upon the thoughts that neither the body
+
+[margin: Descartes's alteration concerning the community of the body with the soul.] [p. 421] through its motions can produce the sensations in the soul, nor the soul, through the force of its will, the motions in the body; but rather that God, on the occasion of the motions in the body, produces thoughts in the soul, and in turn, on the occasion of the soul's willing, produces motions in the body, having once made a law that whenever the subtle matter in the nerves should move in a certain way through the action of external bodies on the organs of the senses, a certain sensation should likewise arise in the soul, and in turn, whenever the soul should desire that certain organs of the body should move, the motion should likewise follow. This will of God, once firmly fixed, is to be so effective that in the cases that occur, both the sensations in the soul and the motions in the body follow. In this way the soul is not the cause of the motions of the body, but only gives occasion for them, and the body is not the cause of the sensations of the soul, but likewise only gives occasion for them: God alone produces everything in both.
+
+§. 764. Notwithstanding that nowadays the
+
+[margin: Is rejected.] [p. 5] most hold to the opinion of Descartes, we nevertheless find very much to remark against it. If God produces by his immediate force the motions in bodies and the thoughts in the soul, and one takes away from bodies and from the soul their force, then the actions of bodies and of the soul are not sufficiently distinguished from the action of God, nor the nature of the world as well as of the soul from God; and since that is a miracle which is not grounded in the essence and nature of the soul and of bodies (§. 633. 759), perpetual miracles would be needed for the body to have a community with the soul. Indeed, if one examines the matter closely, Descartes's opinion conflicts with the laws of motion no less than physical influx does. It is true that Descartes assumes the subtle fluid matter in the brain to be in constant motion, and that its direction is therefore changed only by God for the soul's sake. In this way no new force is produced, and the law of nature, which always wants the same force preserved, remains without any offence. But it is with the direction just as it is with the force.
+
+[p. 423]
+
+If one examines the rules of motion closely, one will find that not less the same directions than the same force will be preserved, though not in the same matter, just as the force too is not constantly preserved the same in the same matter, but together in the whole of nature. But this cannot be set out at greater length here. What has now been brought against Descartes's opinion of the immediate action of God, Mr von Leibniz noted long ago (a); but I shall moreover show below that in such cases one cannot absolutely appeal to the immediate will of God. I add now that Descartes's opinion cannot stand with what we demonstrated in the second chapter (§. 106 & seqq.) of the nature of simple things, namely that by virtue of it the soul must have a force of its own, whereby it produces its thoughts by itself in an undisturbed order, as was briefly shown above (§. 744. & seqq.). Indeed Descartes's assertion hangs together quite ill with what was said of things in general in the second chapter.
+
+(a) Acta Erudit. A. 698. p. 429.
+
+[p. 5]
+
+§. 765. Since the soul now has a force of its own, whereby it represents the world to itself (§. 753), while all changes of the body too are grounded in its essence and its nature (§. 630): one readily sees that the soul does what is its own, and the body likewise has its changes by itself, without either the soul acting on the body and the body on the soul, or God by his immediate action accomplishing this; only the sensations and desires of the soul agree with the changes and motions of the body. And in this way we arrive at the explanation which Mr von Leibniz has given of the community of the body with the soul, and has called the *pre-established harmony* or agreement.
+
+[margin: Pre-established harmony.]
+
+§. 766. But the question now is precisely how it is possible that the sensations in the organs of the senses and the motions of the body agree constantly with the willing of the soul, so that one does not hold the pre-established harmony for an empty word, as some have imagined, and does not suppose that, if one were to explain the word in accordance with this, one would nevertheless fall back either on physical influx, or on
+
+[margin: It is no empty word.] [p. 425] the immediate action of God. That is true: we perceive by experience nothing more than a mere agreement or harmony (§. 527. 532. & seqq.). And accordingly, if the ground of it is to be shown, it is not enough for me to say that God has set up the harmony between the soul and the body; for otherwise I should fall, with Descartes, on the immediate will of God, which we do not allow. Rather it is necessary that I show how such a harmony is possible;
+
+§. 767. It is therefore to be remarked that the changes in the world all follow one another in an undisturbed order (§. 544), and, because likewise in the soul the preceding state must contain in itself the ground of the following (§. 108. 742), the sensations in the soul likewise follow one another in an undisturbed order. Now since the sensations represent the changes in the world (§. 709), it is only necessary that at the beginning they were once brought into a harmony with one another, and thereafter this can continue constantly: as Mr von Leibniz has already himself remarked.
+
+[margin: How it is possible.]
+
+§. 768. But since the soul and the body, each of which without the other
+
+[margin: Cannot take place without God.] [p. 5] can exist (§. 766), and accordingly are not necessary to one another, cannot come together by chance, there can be no harmony between soul and body unless there is also an intelligent being, distinct from the world, which brings them together. And it follows accordingly, irrefutably, that there is an author of the world and of nature, that is, that there is a God. From this too all the divine attributes could be demonstrated, if we did not think it more advisable to carry this out below in another way.
+
+§. 769. Since, then, the soul has a force of representing the world to itself, these representations must also have a similarity with the things that are in the world. For if they had no similarity, the soul would represent to itself not the world but something else. An image that is not similar to the thing which it is to represent is no image of it, but of another thing (§. 17. 18).
+
+[margin: Sensations have a similarity with the things sensed.]
+
+§. 770. Since now the world consists of nothing but composite things, and in these nothing but figures, magnitudes and motions can be distinguished (§. 72), all sensations of bodily things must represent nothing but
+
+[margin: They represent only magnitudes, figures and motions.] [p. 427] figures, magnitudes and motions.
+
+§. 771. If we can distinguish these figures, magnitudes and motions, the sensations are distinct (§. 206); if, on the other hand, we can no longer distinguish them, because many small figures and motions coincide in one point, the sensations are indistinct (§. 214).
+
+[margin: When they are distinct, when indistinct.]
+
+§. 772. This is confirmed by experience. For we always find that what we distinctly sense and imagine of bodily things is nothing but figures, magnitudes and motions. And when, with the help of magnifying glasses, we make distinct what the bare senses present to us indistinctly, there show themselves, in place of the indistinct, nothing but figures, magnitudes and motions, where it becomes distinct.
+
+[margin: Is confirmed by experience.]
+
+§. 773. In this way the soul represents to itself everything that is found in bodily things, from the greatest down to the smallest; only one cannot distinguish the many small figures, magnitudes and motions from one another, and from their confusion arises the sensation, which we cannot explain.
+
+[margin: The soul represents everything to the minutest detail.]
+
+[p. 5]
+
+§. 774. Time is nothing other than the order of things that follow one another in the world (§. 94). Since now the soul represents everything to itself to the minutest detail just as it is and happens in the world (§. 769. 773), there is among the thoughts that follow one another precisely the same order as among the things that follow one another in the world. And accordingly both have the same time.
+
+[margin: Its representations occur at the same time as the things in the world.]
+
+§. 775. Since now the representations in the soul occur in just such a time, as that which they represent happens (§. 774), the sensations must always coincide with the changes in the organs of the senses, and it is not possible that the sensation should come too early or too late.
+
+[margin: And therefore agree.]
+
+§. 776. And from this one also sees that the sensations in the soul are there at the very moment when the change occurs in the organs of the senses, and the motion in other organs of the body likewise follows at the moment when the soul wills this motion: for both happen at the same time and are therefore there together.
+
+[margin: Why the sensation is there so immediately when the external sense is touched.]
+
+§. 777. Therefore, since the body contributes nothing at all to the sensations in the soul, they would all follow just the same even if there were no world at all:
+
+[margin: The soul would see the world outside itself,] [p. 429] which Descartes too acknowledged, and long before him, already in earlier times, the idealists, who admitted nothing but souls and spirits and allowed the world no further space than in thoughts. Indeed it is clear from what was demonstrated above that we should also see, hear and sense in other ways everything outside us, even if there were nothing of bodily things outside us (§. 765).
+
+[margin: even if none were there.]
+
+§. 778. As for the body, it is true that a subtle motion takes place in the brain when the sensation occurs in the soul: for the motion that is impressed on the nerves in the organs of the senses is propagated to the brain. And the matter once set in motion there moves in the nerves that go to other organs of the body, and causes there its motion, which conforms to the willing of the soul. That the motion excited in the organs of the senses is propagated to the brain can very well be proved. We often find that motions in our body follow not only without, but even against the will of the soul, when we see or hear something. E.g. someone is apt to be frightened by gunfire. He stands far behind the gun and
+
+[margin: How the changes in the body that agree with the soul come about.] [p. 5] considers that the ball which comes out at the front cannot hit him. He comprehends that, even if the gun should burst through some unexpected accident, he is nevertheless so far away from it that it can do him no harm. He laughs at himself for having been afraid of the shot, and resolves to do no such thing now. But scarcely does he hear the shot than he starts, raises his hands in the air and draws his feet back. Here it is clear that the motions in the body follow without any contribution of the soul (which even those who maintain a physical influx must acknowledge), and are excited by the shot. The sound causes a motion in the nerves of hearing, and so the other motions must spring from this motion (§. 664). This cannot happen unless the motion that is impressed on the nerve of hearing proceeds to the brain, where all the nerves come together, and hence the subtle fluid matter can move from one into another. But that the organs of the body are moved by the inflow of a subtle matter into the nerves is shown in another place.
+
+[p. 431]
+
+§. 779. In this way all motions of the body follow from the manner of composition, that is, from its essence (§. 611), and through its force, that is, through its nature (§. 628), from the motions of other bodies, which cause the changes in the organs of the senses; consequently everything in the body happens naturally (§. 630), in such a manner as it is to be in bodies (§. 614. 664), and nature is disturbed in its proper course neither by the soul, as in physical influx (§. 762), nor by God, as in immediate divine action (§. 764).
+
+[margin: In the human body everything proceeds naturally.]
+
+§. 780. From this it is clear that all motions in the body would manifest themselves in just the same way as they do now, even if no soul were present, since the soul contributes nothing to it by its force: only we should not be conscious of what happens in our body (§. 738. & seqq.).
+
+[margin: Without contribution of the soul.]
+
+§. 781. And this is the high and weighty point which most hold to be incomprehensible, because they are not able to comprehend it, and therefore reject the harmony pre-established between the body and the soul. All the difficulties that are raised against it spring from this source. Since we can present general truths and
+
+[margin: Difficulties against the pre-established harmony.] [p. 5] reasonable inferences by words and other signs, which we can either utter or write down, to others, it seems to most people incomprehensible, indeed to many quite impossible, how a body that is a mere machine (§. 617) and has no reason of its own can nevertheless speak reasonably. Indeed, since all inventions that are produced by the subtlest understanding and the greatest wit can be made known by their inventors to others only by words, the body too, by itself, without wit and understanding, would have to be able to discover all truths, even those that belong to the knowledge of God and of the soul, because everything in it happens without contribution of the soul, that is, would happen just as it now occurs, even if the soul were not to be found in it. And in this way a machine could, by mere motions of certain matter, accomplish precisely what the soul accomplished by its spiritual forces; that is, a machine could know general truths, make reasonable inferences and invent truths. Finally, everything too that man does and leaves undone seems to be necessary. For the body is determined from outside by other bodies to its motions, to which [p. 433] it cannot resist, and its motions follow from those, as its essence and its nature bring with them: it has no understanding to know and to deliberate on what happens, and no power to change anything either, but must let everything happen that happens, and as it happens.
+
+§. 782. It cannot be denied that these difficulties have a great appearance. But if we learn to know more exactly what the character of the thoughts of the soul is, they can very well be removed. We will therefore investigate further only how the changes that we perceive in the soul come from its force of representing the world.
+
+[margin: How they are to be removed.]
+
+§. 783. Because the soul does not constantly have the same thoughts, as we experience this every day, indeed every hour and moment; but nothing in a thing can change except within its limits (§. 107): the soul is a finite thing, and therefore cannot be everything that it can be all at once, but must pass gradually from one state into another (§. 109).
+
+[margin: The soul is a limited or finite thing.]
+
+§. 784. We find in the soul nothing further than a force of representing the world to itself (§. 753.754.), and this is that which
+
+[margin: Wherein the limitation consists.] [p. 5] continues in it and makes it a being subsisting by itself (§. 743). All changes, accordingly, that one perceives in it are nothing but the various limitations of that force, whereby it is determined, since by itself and in itself it extends to the whole world, according to all its space and its time (§. 107). The ground of the limitation consists in the state of the body in the world (§. 753) and, because it is changeable, in all its changes.
+
+§. 785. Namely, the nature of the soul shows that the world with its changes can be represented through the force of a simple thing (§. 749). But since no finite force can represent the whole world with all its changes distinctly even in a single moment, because far too much occurs even in a momentary state to be distinguished therein, it must necessarily represent only something of it distinctly. Meanwhile, since everything must happen with sufficient reason (§. 30), there must also be a ground why the soul now represents this part of the world distinctly, and after that another. Therefore, since our body at any time occupies a certain place in the world, and without sufficient reason in nature does not
+
+[margin: Is explained further.] [p. 435] change it; the world can be represented not only according to the state of this body in the world and its changes therein, but when this happens there is also always a sufficient reason why in the soul now this, now another part of the world is distinctly represented, and why it passes from the former to the other.
+
+§. 786. It is to be remarked here in general that, when one asks why one sensation follows upon another, one can indicate no other ground than the ground why another state of the bodily things that we sense occurs in the world. For since the representations of the soul have a similarity with the bodily things in the world (§. 769), they are related to them as a painting or other picture is to the thing which it represents. Now if one considers a picture of a building and asks for the ground why this is so and not otherwise, one points to the very same ground to which one would appeal if the building itself stood before our eyes. Therefore, when one asks why this or that is so constituted in our sensation, one can likewise give no other ground than that to which one appeals when one asks why this
+
+[margin: What ground the changes of the sensations have.] [p. 5] or that occurs in the world. And precisely when one asks why this change takes place in our sensation, one can indicate no other ground than the ground why the things represented change in nature. But when, on the other hand, one asks why we now represent to ourselves this part of the world and now another, it is precisely the same ground that the change of place of our body has, or rather the change of place of our body itself, if we demand the nearest ground.
+
+§. 787. Whoever considers this will soon become aware that the idealists, who deny the actual presence of the world outside the soul, must explain natural events in just the same way as those who recognise the world as present outside the soul. For both indicate the same ground, if they understand the matter rightly (§. 786). And so the idealists, with their opinion, do the natural sciences no harm, but leave everything that can be rightly taught of the soul and the world in its value.
+
+[margin: The idealists do no harm to the sciences.]
+
+§. 788. Since the world can be represented by finite forces in as many kinds of ways as, endowed with organs of the senses,
+
+[margin: How many souls are possible.] [p. 437] bodies can come forth in the world (§. 785), there are also as many souls possible, and the difference of souls shows itself through the position of their bodies in the world and the changes which they can have, likewise through the changes in the organs of the senses arising therefrom.
+
+§. 789. And hence it is credible that animals, which like man have organs of the senses, also have souls, which represent to themselves the world according to the changes occurring in their organs of the senses. For since we learn from man that nature has joined to his soul a body endowed with organs of the senses, because his soul represents to itself the world according to the position of this body and the changes occurring in its organs, we recognise from this the purpose which nature has with such bodies. And accordingly one rightly attributes to every such body also a soul, that is, a simple being, which by its force represents to itself the world in conformity with the position of this body in the world and according to the changes occurring in the organs of the senses.
+
+[margin: That animals also have souls.]
+
+§. 790. The force of the soul represents the world according to the changes occurring in its organs
+
+[margin: Why the soul does not] [p. 5] of the senses (§. 753). Therefore, if the organs of the senses are defective, so that the change required for it either does not occur at all or cannot occur in the right way, nothing can be represented in the soul either, or the representation occurs incorrectly. And so a blind man, or one who shuts his eyes, cannot see; a deaf man, or one who stops his ears, cannot hear; one who has a strong catarrh cannot smell, and so on (§. 786).
+
+[margin: sense, when the organs of the senses are injured.]
+
+§. 791. And this very thing contributes greatly to the soul and the body not falling into disorder with one another. For because the motions in the body which conform to the will of the soul arise from the motions in the organs of the senses (§. 778), while the desires and the willing in the soul come from its representations of things (§. 434. 492), no desires arise in the soul in this way, and no willing comes about in it, unless a motion in the body conforming to them can at the same time follow.
+
+[margin: How this maintains the harmony between the two.]
+
+§. 792. If one therefore wishes to judge what sensations the soul can have, and why they occur in it and can be so constituted and not otherwise
+
+[margin: How we know what sensations] [p. 439] , we need only inquire what changes the state of our body in the world can have, and what changes can occur in the organs of the senses, both on that account and according to their constitution. Therefore optics serves, for example, to teach us to know what and how we can see a thing.
+
+[margin: our soul can have.]
+
+§. 793. Both experience and reason show that in two different cases one and the same change can occur in the organs of the senses. And therefore the soul too must represent two different things in different cases as one. E.g. in the eye all bodily things are depicted, being thrown in by the rays of light, and, since this is the change which takes place in it, the soul in seeing can represent these things to itself in no other way than according to the manner of this image (§. 753). Now if a large body, such as an ox, is far away, and on the other hand a small one, such as a calf, is near, one and the same image is depicted in the eye, and therefore the soul too cannot form more than one and the same representation in both cases. And this is the cause why an ox looks like a calf at a distance. It is indeed true that the
+
+[margin: Why our senses sometimes represent things incorrectly.] [p. 5] soul in this way sometimes represents things in the world incorrectly; but the rules on which the order in nature is grounded (§. 718) allow nothing else.
+
+§. 794. Again, since the clarity and distinctness of the sensations cause us to be conscious (§. 731), one can also comprehend that animals must be conscious, that is, an animal knows that it sees, or hears, or feels, etc. For animals have such organs of the senses as men have. Hence, e.g., bodies are depicted in their eyes just as in the eyes of men. Since now these images have clarity and distinctness, there must also be clarity and distinctness in their sensations. And accordingly animals are conscious (§. 731).
+
+[margin: Animals are conscious.]
+
+§. 795. Since a force is in a constant endeavour (§. 118) and from this continued endeavour action arises (§. 119), while the soul has a force of representing the world to itself according to the changes occurring in the organs of the senses (§. 753): the soul must exercise its force in sleep too. But since at that time the organs of the senses are little or not at all touched by external things, so
+
+[margin: What the soul does in sleep.] [p. 441] the soul too represents nothing to itself clearly and distinctly. And accordingly sleep, with regard to the soul, is a state of obscure and indistinct sensations of the thoughts (§. 213).
+
+§. 796. Therefore, since the obscurity of the sensations removes consciousness (§. 731), the soul in sleep cannot be conscious (§. 495). And hence it does not, properly speaking, think (§. 144), although it senses (§. 495).
+
+[margin: Why the soul is not conscious in sleep.]
+
+§. 497. I know well that some say the soul also thinks in sleep. But by thought they then understand only a bare sensation without consciousness, and so they differ from us only in words. But since we in general require consciousness for thoughts (§. 144), I too prefer, in order to avoid error, which could grow out of a wrong understanding of words, to keep to the usual meaning of the word, especially since today it is also introduced throughout in philosophy. Meanwhile we remain different from the Cartesians and the common man in this respect: that when we say the soul does not think in sleep, we nevertheless do not on that account deny it obscure and indistinct sensations, which does not happen with them.
+
+[margin: Whether it thinks in sleep.]
+
+[p. 5]
+
+§. 798. But the soul in sleep also cannot imagine anything, that is, represent to itself any bodily things that are not present (§. 235). For no imagining arises except from a preceding sensation or imagining, so that it has something in common with it (§. 238). Now since in sleep there is no clarity and distinctness in sensation (§. 495), nothing can be distinguished in what we sense either (§. 214), and therefore the other cannot be produced by means of what the present sensation has in common with another that we had before.
+
+[margin: Why the soul has no imaginings in sleep.]
+
+§. 799. Since we represent to ourselves much in a dream that is not present, and dreams therefore proceed from the imagination (§. 235), the cause of the dream must be sought in a sensation that has something in common with the imagining from which the dream begins (§. 238). Indeed the course of the dream must be explained by the rule of imagination (§. cit.), although it is possible that some new sensations also come in addition: in which case the dream is to be regarded as a composite dream, while the former, on the other hand, is to be called a simple one. And from this ground all difference of dreams proceeds.
+
+[margin: Origin of dreams and their difference.]
+
+[p. 443]
+
+§. 800. If a dream occurs in this way, it is grounded in the essence and the nature of the soul (§. 755. 756), and therefore natural. If, on the other hand, a dream arose either without a sensation, or were carried on contrary to the rule of imaginings (§. 238), it would not be grounded in the essence and nature of the soul (§. 755. 756), and would therefore be supernatural (§. 758) and a miracle in the soul (§. 759).
+
+[margin: Natural and supernatural dream.]
+
+§. 801. The imagination produces an imagining for the reason that the present sensation has something in common with it (§. 238). Where one recognises that two imaginings have something in common with one another, one must be able to distinguish the one from the other in the representations of the soul (§. 117): indeed experience teaches that this really happens in dreams. Therefore the representations in dreams have clarity and distinctness (§. 198. 206). And for this reason we are conscious in a dream (§. 731), that is, we know what we are dreaming while we dream, and we also think of ourselves.
+
+[margin: Why we are conscious in a dream.]
+
+§. 802. Meanwhile it can happen that the particular imaginings, of which the whole is composed as it were of parts, or, to speak more
+
+[margin: When we are only very little conscious in a dream.] [p. 5] truthfully, the representations of those particular things, which takes place all at once, are for the most part obscure in themselves, so that we do not rightly know what to make of them, although we recognise that one thing is something other than another. In this case it has very little clarity (§. 168), and, since the degree of consciousness is regulated by the degree of clarity (§. 211. 731), one is then also little conscious, and in such a state we are accustomed to say that we do not rightly know how it was with us, or what we dreamed.
+
+§. 803. Since in a dream we have indeed clear and distinct (§. 801), but not orderly sensations (§. 240), a dream is, with regard to the soul, a state of clear and distinct, but disorderly thoughts (§. 121).
+
+[margin: What a dream is.]
+
+§. 804. On the other hand, since in waking our sensations are orderly (§. 769), waking, with regard to the soul, is a state of clear, distinct and orderly thoughts (§. 121).
+
+[margin: What waking is.]
+
+§. 805. Since now sleep is a state of obscure sensations or representations (§. 796), a dream between waking and sleeping is an intermediate state of the soul, that is, it has something of both, but is neither of the two fully (§. 803.804).
+
+[margin: Dream is an intermediate state between waking and sleeping.]
+
+[p. 445]
+
+§. 806. Such a state of obscure and indistinct sensations as sleep is for us, Mr von Leibniz attributes to his unities (§. 599): which we shall not, however, investigate any further this time.
+
+[margin: State of the simple unities of Mr von Leibniz.]
+
+§. 807. The imagination produces nothing but what we have previously sensed or thought (§. 238), and so imaginings are nothing other than representations of a past state of the world (§. 769).
+
+[margin: Imagination represents the past state of the world.]
+
+§. 808. But since in the soul there is only one single force, from which all its changes proceed (§. 745), the force of representing the world must extend to the whole world, both in space and in time, and so not only to the present, but also to the future and the past state (§. 753).
+
+[margin: The force of the soul extends to the whole world.]
+
+§. 809. The force of the soul is a limited force (§. 783), and therefore it cannot represent all the past state of the world, nor all the future, at once. As for the future, it comes to that which follows upon the present, and indeed from no other cause than that the present state is grounded in the following (§. 786). On the other hand, from the past it can produce only that which has something
+
+[margin: How the soul comes from the present to the past and the future.] [p. 5] in common with the present, and further that which has something in common with what was first produced from the past, etc. For otherwise there would be no ground why the soul should fall from the past rather upon this than upon something else: which is nevertheless necessary (§. 30). And so the ground becomes clear of the rule of the imagination which we cited above from experience (§. 238).
+
+§. 810. What the soul accordingly knows of the present and the future is all grounded in one another; on the other hand, what the imagination represents of the past is not all grounded in one another. For the ground why one representation follows upon another is that which both have in common with one another (§. 809): but because something is to be found in one state which is also met with in the other, one state cannot follow from the other. And accordingly that which the imagination produces is not all grounded in one another; indeed it can produce what can neither be together nor follow upon one another in nature.
+
+[margin: Why imaginings are not grounded in one another.]
+
+§. 811. Perhaps some think they have found here an example that conflicts with the principle of sufficient reason; for we have shown that those
+
+[margin: Objection and its answer.] [p. 447] things which the imagination produces (§. 810), and so also those of which we dream (§. 142), are not grounded in one another. But we do have a sufficient reason why the soul comes upon this rather than upon something else from the past, namely because the present has something in common with the past (§. 810). On the other hand, the things that are represented are not actually there, and therefore the principle of sufficient reason does not apply to them, since it relates only to what either actually is or at least can be in another world (§. 30).
+
+§. 812. All sensations in the soul are associated in the body, and indeed in the brain, with a particular motion of a subtle fluid matter (§. 778). Now since a constant harmony is maintained between the soul and the body (§. 765), in the brain, whenever one of the past sensations is produced in the soul, that motion must also be excited again which formerly occurred together with the sensation. And this happens through the matter set in motion, whereby that is represented which the present and the past have in common with one another.
+
+[margin: What imaginings are in the body.]
+
+[p. 5]
+
+§. 813. Since now memory cannot exist without the imagination (§. 248), while the soul, in its imaginings as well as in its sensations, is regulated by the body, and in particular by the motion of a subtle fluid matter in the brain (§. 812): one sees from this why memory and the imagination are regulated by the state of the brain.
+
+[margin: Why memory and the imagination are regulated by the brain.]
+
+§. 814. From which it is further clear how, through an extraordinary state of the brain, memory as well as the imagination can be deranged, together with the senses: of which experience furnishes very many proofs in all sorts of cases. Namely, what cause it has in the body, the very same it also has in the soul (§. 786.), as that which in its order represents everything as it goes in the body.
+
+[margin: Why the senses, memory and imagination can be deranged.]
+
+§. 815. But if one asks why, then, the soul is regulated chiefly by the nerves and the brain, and the fluid matter contained therein: one can very well find the answer from what has already been explained. Namely, from the representations of the soul the desires grow, and from these comes the willing: since now the motions in the body conforming to them can be brought about only by the matter in the nerves, and these motions
+
+[margin: Why the soul is regulated chiefly by the nerves and the brain.] [p. 449] from other motions must arise, then the harmony between the body and the soul is maintained by means of the nerves and the brain and the subtle fluid matter contained in them (§. 778). And so the soul, in its sensations and imaginations, is determined by the state of the nerves and of the brain.
+
+§. 816. Therefore, since one can improve the extraordinary state of the nerves and of the brain by medicines, or bring it back into its former one, as experience teaches us, it must then also be the case, once the improvement has been made, that on account of the constant harmony of the soul with the body the soul too is put back out of its disorder into the state of orderly sensations. But for this reason one can conclude neither that the soul has a being composed of matter, nor that it can be cured with medicines. One must here and in other such cases constantly bear in mind that, as was already remarked above (§. 753), everything that happens in the body can also be represented by a simple being: the image conforms entirely to the thing that it represents.
+
+[margin: Medicine works only on the body, not on the soul; yet it benefits the soul.]
+
+§. 817. It is true that medicine is not necessarily used, and also that
+
+[margin: A doubt that might arise here] [p. 5] the improvement would not follow if it were omitted, just as, no less, in the case of no improvement following, the soul would remain in the state of disorderly sensations. Therefore it has the appearance as though, after all, through the use of medicine a change must also take place in the soul, if it is indeed true that in the soul the sensations must come out of one another in an unaltered order. For a quite different order is required by the corrupted state of the nerves and of the brain, and a quite different one by the improved state. But it is to be noted that events in the world have their certainty (§. 561). And accordingly it cannot happen in this world that a man who takes medicine should omit the use of it. Since now the soul represents this world and not another, it must also have the sensations that agree with the improved state of the nerves and of the brain after the medicine has been taken. If, after the state of the body had changed, it continued in the state of incorrect sensations, it would not have a force of representing this world, but another, in which, namely, according to the order established there, a man would omit the use of medicine.
+
+[margin: is removed.]
+
+[p. 451]
+
+§. 818. Because of the harmony with the body, the sensations have their ground in the body (§. 29. 765), and so, to all appearance, outside the soul (§. 45). Therefore they are reckoned among the passions (§. 104). Meanwhile, since they have in fact been produced by the soul (§. 753), and only set into a harmony with the body (§. 765), they are acts of the soul (§. 104), and the soul accordingly proves itself an active being in that it senses.
+
+[margin: Whether the soul shows itself active in sensation.]
+
+§. 819. Because the soul brings forth the sensations through its own peculiar force (§. 765), the images and concepts of corporeal things do not come in from outside, but the soul already has them in fact in itself, and only unfolds them, as it were, out of its essence in an order agreeing with the body.
+
+[margin: Whence the soul gets the concepts of corporeal things.]
+
+§. 820. Meanwhile, since the soul, to all appearance, is acted upon by the body when it senses, both Aristotle before this, and in more recent times Locke in England, have imagined that the concepts of corporeal things came into the soul from outside, and that the soul would therefore have none of them if it did not have a body. And Aristotle has on that account compared the soul with a waxen tablet
+
+[margin: Aristotle's and Locke's opinion.] [p. 5] which is quite smooth in itself and remains so unless figures are impressed upon it by an external force. Why the proofs they adduce do not conclude is to be shown from what was set out above (§. 786). It suits those who want to imagine everything but do not like to reflect much.
+
+§. 821. Imaginations are reckoned now among the passions, now among the acts. For sometimes we have the intention of imagining something, and are accordingly aware that the ground of the imagination is to be found in us. Therefore one holds the imagination to be an effect of the soul (§. 104). On the other hand, imaginations generally arise without our thinking of them or desiring them, indeed often against our will (§. 238). Therefore, since in this case it has the appearance as if the ground of it were to be sought not in us but outside the soul, one reckons the imagination in this case too among the passions of the soul (§. 104). But in fact the soul proves itself, in all imaginations, an active being (§. 808).
+
+[margin: Whether the soul proves itself active in imaginations.]
+
+§. 822. In an image (§. 751) and in general in every thing that represents something else, everything is mutually
+
+[margin: Perfections of an image] [p. 453] in agreement, if nothing is to be found in it whose like is not also to be found in the thing represented, since the ground why it is consists in the representation of another thing. And accordingly the perfection of an image, and in general of a thing that represents something else, is its similarity with what it represents (§. 18). The more similarity, accordingly, is found, the greater the perfection present (§. 152).
+
+[margin: and of a thing that represents something else]
+
+§. 823. The sensations are likewise nothing other than representations of the present state of the world, namely if I take together everything that the soul senses at once (§. 753). Therefore their perfection too must consist in the similarity with the present state of the world. The more similarity, then, I can discover, the more perfect I find the sensation.
+
+[margin: In what the perfection of sensations consists.]
+
+§. 824. In a corporeal thing nothing is to be distinguished from one another but figures, magnitude and motions (§. 606). All sensations also represent nothing but figures, magnitude and motion, with this difference, however, that in distinct ones the figures, magnitude and motions can well be distinguished, whereas in indistinct ones everything so runs together that one can no longer distinguish it from one another
+
+[margin: Sensations are perfect in so far as they have distinctness.]
+
+[p. 5]
+
+(§. 770. 771). And so the sensations, in so far as they are distinct, have a complete similarity with the things that they represent; but in so far as they are indistinct, the similarity is concealed, so that I cannot recognise it (§. 18. 771). Therefore the sensations, in so far as they have distinctness, are perfect; but in so far as they have indistinctness, imperfect (§. 823). Namely, in so far as they have distinctness, they represent the thing as it is; but in so far as they are indistinct, the thing is represented otherwise than according to its true constitution.
+
+§. 825. Examples can make the matter clear. When I look at a building, I can distinguish the figure and the magnitude of the windows and doors from one another, and so far my sensation is distinct (§. 206), but also at the same time similar to the building that it represents (§. 18). And so far it is accordingly also perfect (§. 823). But the plaster and the matter of the stones and of the wood that I see in the building I do not recognise distinctly, for I do not see the figure and magnitude of the parts of which these things consist, nor the position they have among one another; but everything here runs together, so that I, to distinguish it,
+
+[margin: It is illustrated by examples.] [p. 455] am no longer able. And so far the sensation is indistinct (§. 771), but at the same time not quite similar (§. 18): for it represents confusedly, in one another, what is in fact outside one another and orderly beside one another. And so far it is accordingly also imperfect. It is the same if I see a leaf of a tree or something else: indeed it is constituted in a like manner with the other senses too.
+
+§. 826. The more distinctness, accordingly, there is in the sensations, the more perfect they are (§. 824), and accordingly the degrees of perfection arise from the degree of distinctness, and the degrees of distinctness arise from the number of those things that are distinctly represented.
+
+[margin: Degrees of perfection in the sensations.]
+
+§. 827. Among all the senses, sight has the greatest distinctness, and after it hearing, but taste and smell have the least. Therefore sight is the most perfect among all the senses, and after it hearing the most perfect among the rest. On the other hand, taste and smell are the most imperfect among all (§. 826).
+
+[margin: Difference in the perfection of the senses.]
+
+§. 828. The more things, accordingly, the whole sensation represents, and the more it at the same time represents of each one among them distinctly
+
+[margin: Degrees of perfection of things similar] [p. 5] and all at once, the more perfect it is (§. 826), and consequently the simple being, too, that brings forth the sensations through its force is by so much the more perfect.
+
+[margin: to the soul.]
+
+§. 829. We have, then, a twofold ground from which we must judge the perfection of those things that represent the world to themselves through their force. Namely, first, one must look to the number of the things that are represented at once, that is, to the magnitude of the space and of the time that one can grasp at once (§. 46. 94); next, to the manner and way in which each part of the space or of the time is represented, whether with more or with less distinctness. In a word: one looks, in time as in space, to whether the distinctness extends far, into the great as well as into the small.
+
+[margin: Twofold ground of this perfection.]
+
+§. 830. Therefore there can be still many more imperfect souls than the souls of men are, and indeed of quite different degrees. And the number of the quite different species of animals, from the largest quadrupeds down to the tiniest vermin, gives us no slight ground to maintain that there are very many kinds of them (§. 789).
+
+[margin: There are souls more imperfect than the human.]
+
+§. 831. Indeed there can also be many more perfect souls than ours are, and
+
+[margin: Also more perfect ones.] [p. 457] indeed likewise of quite different degrees. Although, then, we find none upon our earth, yet such may perhaps actually be found in the remaining bodies of the world.
+
+§. 832. I have already shown above (§. 273) how we arrive at general concepts. But so that it may be the more distinctly clear how this comes from the one force that the soul has of representing the world to itself, I will repeat it here somewhat more circumstantially. The corporeal things in the world belong partly to one and the same species, partly to one and the same genus, as experience itself shows. Now both those things that are of one species and those that belong to one genus have something similar in themselves (§. 181), and so something in common with one another (§. 18). Therefore, when a thing of one species or genus occurs to us, such as we have already sensed before, which happens through the effect of the representing force of the soul, then the imagination, that is, just the same one force of the soul (§. 745), brings forth at the same time what we have formerly sensed of this species or of this genus (§. 238), and we recognise that we have already had such things before us earlier (§. 247). Since we now thereby
+
+[margin: How the force of the soul brings forth general concepts.] [p. 5] represent to ourselves the similar that they have in common with one another, we have the concepts of species and genera, and thus general representations.
+
+§. 833. A strong imagination and a strong memory are therefore required if one is to arrive at general cognition. But where one does not arrive at general cognition, there one cannot represent to oneself what was formerly sensed clearly and distinctly enough, or even enough of it: for I call the imagination strong here if it can represent the past clearly and distinctly; and the memory is called strong if it can, in everything, well recollect that it has been sensed before, which likewise proceeds from the imagination (§. 247).
+
+[margin: Cause of general cognition.]
+
+§. 834. We are accustomed to give one and the same name to things, in so far as they are similar to one another, and so either are of one species or belong to one genus (§. 291). And by help of this name we abstract, as it were, what they have in common with one another. And words, or also other signs (§. 317), are accordingly the means by which we attain general cognition.
+
+[margin: What words do in general cognition.]
+
+§. 835. Since now words are sounds that can be distinguished by hearing;
+
+[margin: How general cognition] [p. 459] so they can also be represented in the body by motions in the ear and the brain. Since now general cognition consists of words (§. 834), general cognition can in this way also be represented in the body, that is, motions can be produced in the body with which the general cognition of the soul agrees. For in general cognition I think words; the thoughts of the words are representations of certain sounds, which excite particular kinds of motion in the ears and the brain, and so there is a particular state of the body which agrees with the state of the soul in that it has general cognition.
+
+[margin: can be represented in the body.]
+
+§. 836. Those who first invent words have been moved by the contemplation of things to form certain sounds by means of the organs required for speech, whereby they indicate the things as by signs. Accordingly, from the motion that was excited in the organs of the senses and further in the brain, that motion arose which is required for the forming of sounds in the organs of the senses. They have heard the sound; whereby anew a motion has been excited in the ear and further in the brain, which with the other
+
+[margin: How the body alone can bring forth, in the proper cases, words suited to the general cognition of the soul.] [p. 5] motions that come through the other senses has associated itself there. Therefore, since the brain is so constituted that, when two kinds of motions have arisen there together, after this the other follows again from the one that was excited through the senses (§. 812), one sees from this how it is possible that our body, as a mere machine, brings forth those words that are always suited to the thing and indicate the general cognition of the soul.
+
+§. 837. It is the same with those who learn speech from others. We sense the thing and at the same time hear the word by which it is indicated (§. 296), and also begin to pronounce it. So we again have in the brain two kinds of motions, which have sprung from two or even more different motions that were excited in the organs of the senses, and from these arises the motion in the organs of speech. Therefore, if after this the one motion of the two has been excited through the change in an organ of the senses, then from it there also arises the other, and finally also the motion in the organs of speech.
+
+[margin: It is further elaborated.]
+
+[p. 461]
+
+§. 838. It is indeed true that, since these motions occur in a very subtle matter, which we cannot perceive, we also are not able to explain it completely. But it is enough that we assume no motion for which we could not show another from which it springs, although we cannot properly show how it arises from it. For so everything remains natural (§. 664), and one assumes nothing that exceeds the forces of the body, and which we would also fully comprehend if we could reach the manner of its composition even in the subtlest organs.
+
+[margin: A doubt is removed.]
+
+§. 839. Having once become accustomed to language, we are accustomed to represent words to ourselves in place of the things, and also to express with them our judgements of things (§. 321). Therefore in symbolic cognition nothing comes in, whether in the concepts or in the judgements, for which the body could not have an equivalent motion (§. 836. 837). And symbolic cognition is accordingly not contrary to the harmony between the body and the soul.
+
+[margin: How symbolic cognition is represented in the body.]
+
+§. 840. As soon as we think of words, there arises also in the brain a certain motion which agrees with it,
+
+[margin: Why we imagine, as if the thoughts] [p. 5] and from this motion follow the motions in the organs of speech, so that we speak what we think (§. 837). And hence, whenever we think words, there is also an endeavour to speak, although we resist it when we do not wish to speak. Now since words are formed from the air expelled through the windpipe, it seems to us no otherwise than as if the words we think came forth from the inner cavity of the body, where the heart is. And this is the cause why one imagines as if the thoughts came from the heart, as I already remarked long ago in another place (a).
+
+[margin: came from the heart.]
+
+§. 841. As for syllogisms, it is sufficiently clear from what has been set out circumstantially above (§. 333 & seqq.) that one needs nothing further for them than a proposition that the present sensation gives to hand, and yet another that the imagination brings forth according to its usual rule: for as soon as these two propositions are there, the syllogism is also present. Therefore syllogisms require no other force of the
+
+[margin: How the soul can make syllogisms.]
+
+(a) Vid. Acta Erudit. A. 1707. p. 513. [p. 463] soul than that which represents both the present and the past state of the world, either in itself or through certain signs, such as words are.
+
+§. 842. All representations of the soul, whether they be things or words by which the things are signified, and whether they be reckoned among the sensations or among the imaginations, can be accompanied in the body by particular motions (§. 778). Since now nothing further is required for syllogisms than such representations, all syllogisms can also be presented by particular motions in the brain. And accordingly here too the harmony between the soul and the body is constantly maintained.
+
+[margin: How syllogisms can be represented in the body.]
+
+§. 843. Again, since I have already remarked more than once that, as often as we think words, there follows also from the motion in the brain that agrees with them the corresponding motion in the organs of speech, by which the words are formed (§. 835); so one sees that the mouth too, from the force of the body, can bring forth all the words required for syllogisms, without the soul mixing itself in.
+
+[margin: How the mouth can speak reasonably without the influx of the soul.]
+
+[p. 5]
+
+§. 844. And so the most important difficulties are removed that one can bring forward from the understanding against the pre-established harmony (§. 781). And one sees clearly that everything that concerns understanding and reason can be explained in the soul through the one force of representing the world to itself; but on the other hand also that everything that goes on in the body contains nothing in itself that would exceed the nature and essence of a machine. Meanwhile, since the body is not aware of the motions occurring in it and of the representations thereby brought about, one can attribute to it neither understanding nor reason, but both remain peculiar to the soul.
+
+[margin: Difficulties of the pre-established harmony are removed.]
+
+§. 845. One will have so much the less to object to the explanation hitherto given of the changes occurring in the body, when we speak intelligibly and reasonably, because nothing is assumed except what even those themselves assume who maintain either physical influx or the immediate action of God. Namely, those who defend physical influx grant that through the external things in the world there takes place not only a motion in the organs of the senses but also in the brain, and hence a corporeal representation
+
+[margin: Further elucidation.] [p. 465] in the brain is to be found of what we sense. They grant that when we imagine something, just that motion in the brain recurs that was to be found there when we sensed that very thing. They also grant that when we imagine words, just as when we imagine another thing, the motions belonging to them are excited in the brain. And so they are contrary to nothing of what we have assumed. Only the difference is this, that they think that from these motions the others in the various organs of the body could not follow immediately, but that this must happen by means of the soul. But this latter is something they can in no way prove: whereas it is in conformity with nature that one motion follows from a preceding motion (§. 664). Indeed, in some cases, where it was sufficiently established to them that the soul cannot mix itself in, they themselves grant that from the motions excited by the impression on the organs of the senses and continued as far as the brain other motions in certain organs of the body can follow, examples of which have already been cited before (§. 778). What, then, they assume in some cases, that [p. 5] we assume in all, because in one case it has as much ground in its favour as in the other. Those who hold for the immediate action of God call none of what has been said of the motions in the brain into doubt. Only the sole difference is this, that they assume God determines the fluid matter in the brain so that it must move itself into certain organs of the body, e.g. into the organs of speech, when one wants to speak; where we posit that it is determined thereto by the matter moved in the brain. But just this, what they assume, is supernatural or a miracle; whereas we remain with what is natural, namely that every motion arises from another motion (§. 664). Indeed, in those cases where those who declare themselves for physical influx are in agreement with us, the others, who hold with the immediate action of God, cannot be opposed to us either. And in such a way we again assume in all cases what they grant in some, because in one case it has as much ground for it as in the other.
+
+§. 846. When we now consider everything that has been set out at length hitherto, we shall find that not only
+
+[margin: From what the series of thoughts] [p. 467] all imaginations but also the general concepts take their origin from the sensations (§. 809. 832). Since now the sensations belong to intuitive cognition (§. 316), all our reflection takes its beginning from intuitive cognition. Before we are brought to think of a thing, therefore, we must find a ground of it in our sensations; and this one also finds in all geometrical proofs, where one always assumes something from the contemplation of the figures that serves for the beginning of the thoughts. (a)
+
+[margin: takes a beginning.]
+
+§. 847. Therefore, if we always want to give a sufficient reason for the thoughts that occur in our soul, we have to look at three things as regards the cognition of things. Namely, the first ground is the harmony of the sensations of the soul with the changes in the organs of the senses; the second ground is the rule of imagination (§. 238); the third ground is syllogisms, which rest on the two preceding, as was already illustrated above (§. 342) by examples.
+
+[margin: Rules of thoughts.]
+
+§. 448. Because the force of the soul is called understanding in so far as it represents the possible
+
+[margin: Degrees of perfection of the understanding.]
+
+(a) Ratio Prælect. sect. c. 2. §. 37. p. 34. [p. 5] distinctly (§. 277), we can also measure the perfection of the understanding from what was said above in general of the perfection of souls (§. 828. 829). Namely, the understanding is so much the more perfect the more things it can represent distinctly, and the more it is able to represent distinctly in a single thing. And in the perfection of the understanding one must also look to how much it can represent at once. If we now consider what our understanding is able to do, we shall not only find a very great difference between the understanding of different men, but also find that lower and higher degrees of understanding are possible than we have.
+
+§. 849. We have three kinds of effects of the understanding: concepts, judgements and syllogisms. Since now the degrees of the perfection of the understanding arise from the degrees of distinctness (§. 448), and the distinctness of the judgements consists in the distinctness of the concepts that we have partly of the thing about which a judgement is made, partly of that which is judged of it (§. 209), two kinds of perfection are to be found in the understanding, namely
+
+[margin: Kinds of perfection.] [p. 469] one manifests itself through the distinctness of the concepts, the other through the distinctness of the syllogisms. And so one is sought in the faculty of representing things to oneself generally, the other in the faculty of inferring.
+
+§. 850. Whoever has much distinctness in the concepts of things, and so knows how to search out precisely wherein one is similar to another of its species and wherein it in turn is different from it, he is acute. And so acuteness is the first kind of perfection of the understanding, which extends both to intuitive and to symbolic cognition (§. 316). And accordingly one is so much the more acute the more he can discover in a thing that he represents to himself than another can. And in symbolic cognition acuteness reaches its highest degree if one can define everything (§. c. 1. Log.).
+
+[margin: What acuteness is and its degrees.]
+
+§. 851. The highest degree of acuteness is when one comprehends distinctly everything that can be distinguished in a thing, down to the very smallest, and so obtains a wholly adequate concept (§. 36. c. 1. Log.), and consequently when the understanding is wholly pure (§. 282).
+
+[margin: Highest degree of acuteness.]
+
+§. 852. Because now our understanding is never wholly pure (§. 285), it also cannot
+
+[margin: Understanding of man is] [p. 5] attain the highest degree of acuteness. And hence we cannot fathom everything that is in things: for we say that we fathom something when we comprehend distinctly everything that is to be found in it. One can also comprehend the impossibility of the thing from this, that in nature matter is actually divided into infinite parts (§. 684).
+
+[margin: not acute in the highest degree.]
+
+§. 853. Distinctness in inferring shows itself when one can prove the premises of a syllogism ever further. And one reaches the highest degree here if one can prove them so long until one comes to such syllogisms in which the premises are definitions of words and empty propositions. For neither the definitions of words nor the empty propositions can one prove, because the former are spontaneous, but the latter rest on the principle of contradiction (§. 355. 10).
+
+[margin: Highest degree of perfection in inferring.]
+
+§. 854. Whoever has much distinctness in syllogisms, him one calls thorough. And accordingly thoroughness shows itself through the distinctness of the syllogisms. The further, then, one can prove one's premises in the syllogisms, the more thorough one is.
+
+[margin: What thoroughness is and its degrees.]
+
+§. 855. So long as one must assume some propositions from experience, so long
+
+[margin: Understanding of man is] [p. 471] has one not attained the highest degree of thoroughness (§. 853. 854). Since now man does this in many respects, his understanding is not yet thorough in the highest degree.
+
+[margin: not thorough in the highest degree.]
+
+§. 856. The more thorough, accordingly, one is, the more syllogisms can he connect with one another in one series; the less thoroughness he possesses, the fewer syllogisms can he connect with one another in one series (§. 854). And so our understanding is the more perfect the more extensive proofs it can think through (§. 347), and so the more syllogisms through which it can work something out.
+
+[margin: Perfection of the understanding in respect of thoroughness.]
+
+§. 857. It does not follow from this that an extensive proof is more perfect than a short one: for the perfection of the proof is one thing, the perfection of the understanding another. It is certainly to be counted a fault if one proves something through many syllogisms that one can accomplish through few, even though one cannot always charge the fault to someone, because it is not always in our power to avoid it, and for the most part it is a piece of good fortune for the one who has avoided it, but not always a sign of his aptitude. Meanwhile it remains certain that whoever can link together a greater number of syllogisms in an unaltered
+
+[margin: Remark.] [p. 5] series with one another must have a greater facility than another who stops and grows tired when he is to proceed further with the syllogisms. And accordingly no one will deny that an understanding is more perfect which can also work out such things as it can work out only through many syllogisms, than another that extends only to such things as it can settle through few syllogisms. E.g. *Archimedes* worked out in former times, through very many syllogisms linked together, the ratio of the sphere to a circumscribed cylinder, which today one who understands the differential calculus of Mr von Leibniz can calculate, as it were playfully, without such laborious prolixities. Meanwhile no one who understands the matter will deny that *Archimedes*, in his prolixity, displayed more understanding than he who without detours works out just this through the Leibnizian calculation. And although this shorter way is far to be preferred to the prolix proof of *Archimedes*, yet the understanding of *Archimedes* remains for this reason raised very far above that which is required for the short calculation. But one must here also take care that one does not hold the understanding that Mr [p. 473] von Leibniz proved in the invention of his calculation to be one and the same with the understanding of him who applies it in an easy example.
+
+§. 858. Whoever is acute can represent distinctly to himself also what is hidden in things and overlooked by others (§. 850). If now the imagination brings forth other things that he formerly recognised, which have something in common with the present ones (§. 238), then he recognises through what they have in common with one another their similarity (§. 18). Therefore, since the facility of perceiving similarity is wit (§. 366), it is clear that wit arises from acuteness and a good imagination and memory (§. 248).
+
+[margin: Whence wit arises.]
+
+§. 859. Hence we find wit in those who retain much and readily recollect it, or, as one is accustomed to say, have a good memory, if they are at the same time attentive to things (§. 268). However, it is found in a small degree where acuteness does not come to it. Namely, where acuteness is lacking, one perceives only similarities that soon strike the eye; but where one is acute, one discovers similarities that not everyone perceives at once. In the first
+
+[margin: Wit is found with a good memory and attention.] [p. 5] case one can also take the appearance for the essence; but in the other case a well-grounded similarity is always present.
+
+§. 860. The more similarities, then, one knows how to discover, the more wit he has and the more ingenious he is (§. 366): likewise, the more hidden similarities one can discover, the greater is his wit. On the other hand, one is endowed with little wit if he can discover similarities only with great difficulty, and is without any wit who cannot see when one thing is similar to another.
+
+[margin: Degrees of wit.]
+
+§. 861. That the art of invention is grounded in wit and understanding, in particular in the facility of inferring, I have already shown above (§. 367). The perfection in the art of invention accordingly springs from the perfection of wit and of the understanding. Where there is much wit, acuteness and thoroughness, there the art of invention is in a great degree. But since here that art of invention is spoken of which one opposes to the art of experimenting, and where one discovers something not by mere attention to our sensations but rather brings out from some known truths, by correct syllogisms, others that have a connection with them, so for the perfection of the art of invention
+
+[margin: Whence the art of invention comes and its perfection.] [p. 475] or rather for the quick exercise of it, a great cognition is also required. Whoever knows much can find much, if he possesses the art of invention.
+
+§. 862. If one wants, then, to judge of inventors, one must above all make a distinction between what has been found by experiment, and so for the most part by effort and diligence, and that in which wit and understanding have done the most. And in the latter cases one needs to investigate how much wit, acuteness and facility in inferring has been required to invent something, on which both the state of the times and the particular state of the inventor cast a great light. What was said above of *Archimedes* (§. 857) can serve here for elucidation.
+
+[margin: How to judge of inventors.]
+
+§. 863. Those therefore err very greatly who are accustomed to esteem inventors either from the use of the inventions, or also from this, that they have found what others sought in vain: for sometimes there can be found with little wit and understanding what has been sought in vain with great understanding. E.g. nowadays one finds by algebra, without great wit and understanding, what formerly the ancients with the greatest wit and understanding
+
+[margin: Error in judging inventors.] [p. 5] with a greater cognition of the truths than is necessary for it today, sought in vain.
+
+§. 864. For I presuppose that, if one wants to judge of inventors, one asks how far they have advanced in the art of invention, for it is this that makes them inventors. The further one has advanced in this, the more perfect an inventor he is. But it is a quite different question who among inventors has procured more use for the human race than another: to which blind luck often contributes very much, and diligence in place of understanding can serve.
+
+[margin: Remark.]
+
+§. 865. By the fact that we can represent several things distinctly at once, we have an insight into the connection of truths, that is, we comprehend how one is grounded in another, and still more does this happen in symbolic cognition through syllogisms. Since now this insight into the connection of truths is reason (§. 368), reason likewise comes from the representing force of the soul, and indeed from a particular degree of its perfection (§. 856).
+
+[margin: Whence reason comes.]
+
+§. 866. Because one can have no insight into the connection of things if one does not pay attention to the things
+
+[margin: Why for reason] [p. 477] which one represents all at once, and reflects upon what one perceives in them; so reason does not take place without attention and reflection (§. 368).
+
+[margin: attention and reflection are required.]
+
+§. 867. Since words serve the distinctness of general cognition (§. 319), whereas reason, on the other hand, is grounded on the distinctness of cognition (§. 865); language, or also the use of other signs that are equivalent to words, or even often surpass them, promotes the use of reason.
+
+[margin: How language promotes the use of reason.]
+
+Indeed one will find how hard it seems to us when, through intuitive cognition of things, we are to find out their connection without the use of words or other equivalent signs, especially when inferences are required for it. I do not doubt that it will prove quite impossible for many to accomplish anything of the kind.
+
+§. 868. And from this I have shown before now (a) why one, before one has learned language, does not rightly arrive at the use of reason, and therefore that human beings brought up among wild animals, and deaf and dumb ones, have almost no use of reason at all, and also, after they learn to speak, do not remember their former state.
+
+[margin: Why, before one learns to speak, one has little use of reason.]
+
+(a) Act. Erud. A. 1707. p. 513.
+
+[p. 5]
+
+§. 869. Since animals have very few variations in their voice, by which they indicate something concerning their state, whereas one detects in them no formal sounds by which they might be wont to indicate the things that they represent to themselves; one can infer from this, because the soul and the body are in a constant harmony (§. 765), that they do not reflect much upon their sensations and images of the imagination, and have no great attention to them, and consequently lack the distinctness that is required for reason (§. 865. 866). Therefore one cannot ascribe reason to them either.
+
+[margin: Animals have no reason.]
+
+§. 870. Meanwhile we find that animals have a imagination and memory. For we perceive that when they have had two sensations at once, the other comes up in them likewise when the first is aroused, and that they are conscious of having had the first already before. But this shows imagination and memory (§. 238. 249). E.g. When one strikes a dog with the cudgel, he has seen the cudgel and felt the blow, and so has had two sensations at once. When one lifts the cudgel again against him, and he sees it,
+
+[margin: Animals have imagination and memory.] [p. 479] so one of those sensations is aroused again anew. Since he now begins to cry out and to run away, one can infer nothing else from this than that he represents the blows to himself again at the same time and remembers that he felt them before. And accordingly we have proofs of imagination and of memory.
+
+§. 871. And from this everything can be explained that animals are capable of learning when one trains them: indeed all their other doing must always have its sufficient reason in the senses, the imagination and the memory.
+
+[margin: In what the training of animals is grounded.]
+
+§. 872. Since now the expectation of similar cases also requires no more than senses, imagination and memory without any understanding (§. 376); one can also attribute it to animals (§. 873). Since now it is similar to reason in something (§. 377); animals have something analogous to reason, though not all in one degree, just as among human beings too reason is not dealt out in equal degree. The example given before of the dog (§. 870) can serve here also, and one sees from it at the same time quite clearly that the expectation of similar cases is similar to reason. Since now reason is an insight into the connection of truths (§. 368), while the expectation
+
+[margin: Animals have something analogous to reason.] [p. 5] of similar cases likewise presents some connection of things, as in the dog the sight of the cudgel presents the blows and the pain caused by them (§. 870); it is similar to reason in this respect (§. 18), and is, as it were, the lowest degree of reason, or the nearest step to reason, or also the beginning of reason. Meanwhile, since animals never get further, they always remain on the lowest step: they always begin and complete nothing. Nevertheless one sees that the opinions of the ancients can be clearly explained and are not without ground, although they themselves could not show such a ground.
+
+§. 873. The distinctness of thoughts is an indication of the perfection of the soul; but indistinctness a sign of its imperfection (§. 848). Since now the soul is conscious both of the distinctness and indistinctness of its thoughts, and also of itself (§. 728); it has accordingly in the first case an intuitive cognition of its perfection, but in the other of its imperfection (§. 316). Since now intuitive cognition of perfection arouses pleasure (§. 404), but of imperfection displeasure (§. 417); distinct cognition brings pleasure, indistinct cognition displeasure.
+
+[margin: Why distinct cognition begets pleasure, indistinct cognition displeasure.]
+
+[p. 481]
+
+§. 874. And hence one finds that when, in learning a science or art, one can comprehend everything, one goes on with pleasure; whereas, if one cannot comprehend it, one becomes vexed over it and in the end gives it up altogether out of vexation. For where one comprehends something, there one can represent everything distinctly to oneself: whereas where one cannot comprehend a matter, there one remains in confusion and does not know how to extricate oneself.
+
+[margin: When one keeps pleasure in learning, and when one becomes vexed.]
+
+§. 875. The soul has a force of representing the world, according to the position of its body in the world (§. 753) and the changes arising from it in the organs of the senses, especially the nerves and the brain (§. 778). Since now its body is a part of the world, and, like other bodies, causes changes in the organs of the senses, especially the nerves and the brain (for we can see and feel our own body, and also hear its voice); it must also represent to itself its own body and the changes occurring in it, in so far as they affect the organs of its own senses.
+
+[margin: How far the soul represents its own body to itself.]
+
+§. 876. A force has a constant endeavour to change its inner state (§. 118. 121). Therefore, since the soul has a force of representing the world (§. 745), it must also be in constant endeavour
+
+[margin: The soul is in constant endeavour to change its representations,] [p. 5] to change its representations. Since now the state of its body is represented by it also (§. 875); it has also a constant endeavour to produce other representations of the state of its body.
+
+[margin: also of the state of the body.]
+
+§. 877. It has already been shown above (§. 786) that the soul passes from one representation to the other because in the world the following is grounded in the preceding. Therefore when the soul represents to itself one state of the body after the other, this likewise happens because one is grounded in the other, or (which is the same) because one arises from the other in the way and manner already shown (§. 778). Since now the soul is in constant endeavour to change the representations of its body, its endeavour is directed to that state which can come from the preceding.
+
+[margin: Ground of this change.]
+
+§. 878. And from this we can understand how sensitive desire and the will require no special force beyond the representing force of the soul. Namely, we have seen above that sensitive desires as well as the will arise from representations of the good (§. 434. 492). Since now we take pleasure in the good which we represent to ourselves (§.
+
+[margin: How desire and will arise in the soul.]
+
+[p. 483]
+
+404. 422); the soul is thereby determined to endeavour to produce the sensation of it. And in this endeavour consists the inclination which is sometimes called sensitive desire, sometimes the will, so that it is accordingly nothing but an endeavour to produce a sensation which we previously know.
+
+§. 879. Because I know that some imagine that desires and the will could not come from the representing force of the soul, and therefore accept the definition of the soul given above (§. 753) only as a definition of the understanding; I find it useful to show by an example what I have set out concerning the origin of sensitive desire and of the will. When a man who has been walking in fine weather and has found himself pleased thereby catches sight of the fine weather, he wants to go walking again. Let us accordingly see how it comes about that he wants such a thing. While we see the fine weather, the imagination brings walking and the state of pleasure experienced in it back to memory (§. 238). And so we represent it to ourselves as good on account of the pleasure enjoyed in it (§. 442). Therefore the soul
+
+[margin: Illustration by an example.] [p. 5] is thereby determined to produce again the representation of walking and of the pleasure to be had from it. And this endeavour is what we properly call the will. Since now the soul cannot produce the representations otherwise than in that order in which things actually occur in nature (§. 786); this endeavour too is not continued by a leap, but all the representations are produced gradually, from those changes that must go on in our body before it comes to walking. Meanwhile, since in the interim the soul applies its force to produce those representations, the will lasts until fulfilment is reached. So one understands how the will comes from the representing force of the soul, if only one notes that there is in it a constant endeavour to change its representations.
+
+§. 880. One now also easily comprehends in what sensitive aversion and nilling properly consist. For since both arise through the representation of evil (§. 436. 493), at which we feel displeasure (§. 426. 417); the soul is in this case endeavouring to hinder that
+
+[margin: In what sensitive aversion and nilling consist.] [p. 485] disagreeable sensations be produced. Namely, since it is already to some extent determined thereto, it seeks to determine itself otherwise. The previous example (§. 879) can serve here also, if one alters it a little. Suppose, namely, that someone comes to us and wants us to go walking with him: but because the weather is bad, and we otherwise have little liking for walking in such weather, we do not want to.
+
+§. 881. An affect is a notable degree of sensitive desire and of sensitive aversion (§. 439): And so it must also manifest itself either through an endeavour to produce agreeable sensations or to hinder disagreeable ones (§. 878. 880). Namely, in agreeable affects much good is represented; in disagreeable ones much evil (§. 441). But since in both cases the representation is indistinct, there is no ground why the soul should determine itself rather to the one than to the other. Therefore it is determined to all at once. And so many endeavours arise at once to produce agreeable sensations or to hinder disagreeable ones: in which the soul becomes so entangled that it does not itself know what it wants to do.
+
+[margin: In what the affects consist.]
+
+[p. 5]
+
+§. 882. The endeavour to produce certain sensations, or also to hinder them, is accompanied in the body by an endeavour to move certain organs. And hence it comes about that in the affects extraordinary movements are to be met with in the body (§. 444).
+
+[margin: Why affects cause extraordinary movements in the body.]
+
+§. 883. What was brought forward above concerning freedom (§. 514. & seqq.) remains in its worth also under the pre-established harmony. Namely, the soul understands the constitution of what it wills, or of its actions; the actions are in themselves not necessary, but only contingent; the motives too do not make them necessary, but only certain; and the soul has the ground of its actions in itself. Since now nowhere more than under the pre-established harmony does the soul determine itself when it wills or nills something (§. 878. 880); the soul is also nowhere freer from all external constraint. And in this way it has here the greatest freedom that can be thought.
+
+[margin: The freedom of the soul subsists wholly under the pre-established harmony.]
+
+§. 884. It is indeed true that the body is determined to its movements from outside, namely by those things which act upon the organs of the senses, and that it cannot resist the movements, but must necessarily produce
+
+[margin: Objection and its answer.] [p. 487] them (§. 778). And in such a way those movements too which one takes for voluntary, by which namely the desire of the soul is fulfilled, are necessary in the body. But this happens without prejudice to the freedom of the soul. For it is all one whether the soul through its force determines the body to its movements, or whether the course of nature is so arranged that the corporeal things bring it to its movements in accordance with the will of the soul. Thereby nothing is changed either in the soul or in the body, but each retains what is its own, the one just as the other.
+
+§. 885. But it is possible that the course of nature is so arranged that the bodies of human beings and animals are determined to certain movements in accordance with the desires and the will which they have. For as desires and will in the soul have no absolute necessity (§. 515. 516), so nothing of the kind is to be met with either in the movements of the body or in the whole course of nature (§. 577): but yonder there is spontaneity, here the movements are contingent. Meanwhile both have their certainty, by virtue of which it comes about and does not fail to occur (§. 517. 561).
+
+[margin: Further elaboration.]
+
+[p. 5]
+
+And it is on account of this certainty that the contingent in the body and in the world can be attuned to the voluntary in the soul.
+
+§. 886. It also appears from this anew what I have already remarked before (§. 768), that the pre-established harmony between body and soul cannot subsist without an author of the world and of nature, that is, without God. If the voluntary in the soul is to be attuned to the contingent in the body and the world; then there must be a being distinct from the soul and the world, which produces both after its good pleasure and attunes them together.
+
+[margin: From this it follows irrefutably that there is a God.]
+
+§. 887. Above I have remarked (§. 80), and in the doctrine of God I shall prove it, that in explaining natural things, whether they concern the soul or bodies, one can never simply appeal to the will and omnipotence of God. But perhaps some will think that I do it here (§. 886) myself; for I do assume that God has by his power attuned body and soul together in their movements and their will. But if they weigh the matter rightly, they will find that I by no means adduce the mere will and omnipotence of God as a sufficient reason,
+
+[margin: Further objection and its answer.] [p. 489] why the voluntary and spontaneous in the soul accords with the contingent in the body and in the world. For I have indeed shown before (§. 885) that this accord is possible. But below I shall demonstrate that what is possible can also be brought about by the omnipotence of God. That all things are actually there comes certainly from the omnipotence of God: that these and not others are there comes from his will. But we shall see below that the will of God is grounded in his wisdom and that the possibility of things derives from the divine understanding.
+
+§. 888. Because I have at the same time had the animals in mind (§. 885), some might perhaps come to think as if freedom and a will were ascribed to them also. Therefore it is necessary that I disclose my thoughts on this. Sensitive desire arises from indistinct representations of the good (§. 434) and for it the senses and the imagination are sufficient (§. 277). Since now animals have senses (§. 794) and a imagination (§. 870); they must also have sensitive desires which arise from them. And experience agrees with this. We find affects in animals: these
+
+[margin: Animals have sensitive desire.] [p. 5] however can be nowhere where sensitive desires do not take place (§. 439).
+
+§. 889. Just as sensitive desire arises from the senses and the imagination (§. 434); so the will, in so far as it is opposed to the former (for sometimes the word is taken in so wide a sense that it includes sensitive desire in itself), comes from the understanding and reason, and accordingly requires a distinct representation of the good (§. 502. 277), by which one gets an insight into the connection of truths (§. 368), as of our doing with our state (§. 496. 422). Since now animals have no understanding and no reason (§. 869); no will properly speaking can be ascribed to them either.
+
+[margin: But not properly a will.]
+
+§. 890. Again, since animals have the ground of their actions in themselves, that is, determine themselves to their sensitive desires, inasmuch as the indistinct representations of the good come from them without any influence from outside (§. 789); one can also ascribe to them a spontaneity (§. 518).
+
+[margin: Animals have spontaneity.]
+
+§. 891. But on the other hand, because reason is required for freedom (§. 368. 519), and animals have no reason (§. 869); one can ascribe to them no true
+
+[margin: But no true freedom.] [p. 491] freedom. They are rather in slavery (§. 491. 888).
+
+§. 892. When we weigh everything that has been said hitherto about our soul and the souls of animals, we shall find the following difference. The souls of animals have a force of sensation and imagination (§. 789. 870), a memory (§. 870), and a sensitive desire (§. 888); but no understanding and reason (§. 869. 277), no will (§. 889) and no freedom (§. 891). On the other hand the soul of man has, besides the force of sensation and imagination (§. 220. 335), the memory (§. 248) and sensitive desire (§. 434), also an understanding (§. 227), a reason (§. 368), a will (§. 492) and freedom of the will (§. 519). Thus it is understanding, reason, will and freedom that the soul of man has over the souls of animals. Since now will and freedom derive from understanding and reason (§. 277. 368. 492. 519), reason comes through the understanding (§. 277. 368); the soul of man is distinguished from the soul of animals principally through the understanding, that is, through distinct representations also of particular things (§. 277). Accordingly, the more acute a man is, and the more thorough, the more he is from the animals
+
+[margin: Difference between the souls of men and of animals.] [p. 5] distinguished: whereas the more he clings to his senses and his imagination, and is therefore subject to slavery (§. 491), the nearer he comes to the animals or the cattle.
+
+§. 893. Because the difference between the soul of man and the soul of cattle consists principally in the distinctness of the sensation of particular things (§. 892); but this distinctness grows from higher degrees of clearness (§. 208); the soul of man has in its sensations greater clearness than the soul of cattle. Since now both in the soul of man and in that of animals there is only a single force from which all its changes come (§. 745. 789); the difference between the souls of man and of cattle comes from this, that the soul of man represents the world in a higher degree of clearness, but the soul of cattle in a lesser.
+
+[margin: Whence this difference comes.]
+
+§. 894. The representing force makes the essence and nature of the human soul (§. 755. 756). Since now animals likewise have a force of this kind (§. 789); their essence and nature must also consist in it. Meanwhile, since the representing force is in a higher degree in men than in animals; but forces of one kind can be distinguished only in degrees
+
+[margin: The essence and nature of the human soul is distinguished from the essence and nature of cattle.]
+
+[p. 493]
+
+(§. 125); so the essence and nature of the human soul is distinguished from the essence and nature of the soul of animals.
+
+§. 895. One might indeed say that if the degrees of the representing force make a difference of essence, then the soul of one man would also have to be essentially distinguished from the soul of another man; indeed in this way the soul of a man would even have to be distinguished from itself after some time. But if one considers the matter rightly, one will soon see that not every degree can give an essential difference, but only one that changes the whole representing force in general. And of this kind is the higher degree of clearness which the representing force in the soul of man has over the representing force in the soul of animals. For this degree brings about distinctness in the particular sensations and images of the imagination, and thereby makes the soul capable of general cognition of things, to which none of the animals can attain.
+
+[margin: A doubt is removed.]
+
+§. 896. We call in general a spirit a being that has understanding and a free will. Since now the souls of animals have no understanding and no
+
+[margin: What is called a spirit.]
+
+[margin: The souls of animals are not] [p. 5] will; so they are not spirits either (§. 892). On the other hand, since the souls of men have understanding (§. 277) and a free will (§. 592. 519); they are spirits.
+
+[margin: spirits; but those of men indeed are.]
+
+§. 597. Meanwhile, since the souls of animals have a representing force, of which the like is not to be met with in bodies, or in things consisting of matter (§. 741); they are yet not bodies, nor composed of matter, and accordingly simple things.
+
+[margin: Souls of animals are not bodies.]
+
+§. 898. I know well that some are wont to call everything that does not consist of matter spirits. And hence they would also call the souls of animals spirits, indeed in this sense they must reckon all simple things, indeed even the unities of Mr von Leibniz (§. 599), among the number of spirits. But although the designation produces no alteration in the matter, and accordingly nothing would depend on it if we also gave the souls of animals, and in general all simple things, the name of a spirit; yet I find it more advisable that the name of spirit be reserved solely for those simple things that have understanding and will, so that one may not, from the instability in speaking, confuse the properties of simple
+
+[margin: A doubt is removed.] [p. 495] things, and ascribe something to one that is not due to it. Indeed some propositions would come out of it too, which would be offensive even in the words, and might give occasion partly to error, partly to difficulties. E.g. If one wished to call all simple things spirits; then matter would have to be nothing other than a heap of spirits, because it arises from a heap of simple things (§. 607). If one were now to say that matter consisted of mere spirits; then, after this, many of them would imagine that the parts of matter had understanding and will, because they find such things in their soul, which is also a spirit. Since now, moreover, the essence of a spirit, as of our soul, is distinguished from the essence of other simple things, such as the souls of cattle and the elements of matter (§. 896), whereas essentially different things are called by different names; one cannot well give the name of spirit to things that have a different essence either. And this has doubtless moved Mr von Leibniz to give the elements of matter merely the name of unities.
+
+§. 899. It is no wonder that suitable names are lacking here, since the matters
+
+[margin: Why things similar to the soul] [p. 5] have not hitherto been sufficiently investigated and distinguished from one another. Meanwhile, since we learn to know the essence and nature of the soul (§. 754. 755), and also found that this force can determine itself in various ways (§. 788); we can thereby quite well distinguish the various species of things which have a force of representing the world, and partly assign them the names they have received, partly leave it free to everyone how he wishes to name the rest.
+
+[margin: do not all have names.]
+
+§. 900. But since all these things can be distinguished from one another only in the degrees of the representing force (§. 894); but the representations of the corporeal things of which the world consists are either clear or obscure, and the clear ones either distinct or indistinct (§. 198. 199. 206. 214); the species of these things, which have a force of representing the world, can be distinguished in the following way. The first species is that which represents the world obscurely, in such a way that in the whole representation, which takes place all at once, not the least thing can be distinguished from another. And these things have the lowest degree of perfection, since the obscure representations are the very worst (§. 199). They are also not conscious of themselves (§. 731) and therefore have no
+
+[margin: The first species of these things.] [p. 497] sensation (§. 220), nor other thoughts (§. 144). Since now with us sleep is a state of obscure representations (§. 796); these things are in a constant sleep. Mr von Leibniz takes them for the simple things in the world which we have called the elements (§. 582): but he gives them the name of unities (§. 806). I have already remarked above (§. 599) that I wish to leave undecided for the present whether the elements are those things which represent the world obscurely, that is, without being conscious of it. And accordingly I also leave quite undecided whether there are such things.
+
+§. 901. The second species is that which represents the world clearly but indistinctly, in such a way that in the whole representation one can indeed distinguish much from one another, but not in the particular ones. Here there is some distinctness in the whole representation, but not in the particular ones. Of this kind are the souls of animals, to which we have ascribed sense, imagination and memory (§. 892), of which quite different kinds can be (§. 830).
+
+[margin: Second species.]
+
+§. 902. The third species is that which represents the world clearly and distinctly, in such a way that in both the whole representation and the particular ones one can distinguish much
+
+[margin: Third species.] [p. 5] from one another. Of this kind are our souls, to which, besides the senses, the imagination and the memory, we must also grant understanding, reason and will (§. 892), and they are called spirits (§. 896).
+
+§. 903. Because now the degrees of distinctness can be very greatly different, very many species of them are also possible, and those spirits are called souls in which the representing force is limited by the position of a body in the world and its organs of the senses.
+
+[margin: Which spirits are souls.]
+
+§. 904. If now the state of the whole world is represented distinctly all at once, both as to space and as to time; then the spirit has the highest degree that is possible. And accordingly it is also the most perfect spirit. We shall demonstrate after this that GOD is that same spirit.
+
+[margin: Which is the most perfect spirit.]
+
+§. 905. Spirits alone have reason (§. 892. 893), and since reason is an insight into the connection of truths (§. 368); it has reached the highest degree of perfection when it extends to all truths. For to the insight into the connection of truths a distinct representation is required of how they are grounded in one another (§.
+
+[margin: Most perfect reason.]
+
+[p. 499]
+
+145). But a representation is perfect in the highest degree when everything is represented distinctly (§. 829). And accordingly the most perfect reason is an insight into the connection of all truths.
+
+§. 906. Since it is not possible that man should have an insight into the connection of all truths, in that he does not comprehend everything distinctly (§. 275); he has no perfect reason either.
+
+[margin: Men have no perfect reason.]
+
+§. 907. Again, the will is then perfect when all and every willing accords with one another, none running counter to another (§. 152). But this cannot happen except when its motive is the representation of the best. For if we represent the best to ourselves adequately; then it is not possible that we should will one time something that we would not have willed another time. And accordingly the most perfect will is that which has for its motives an adequate representation of the best.
+
+[margin: Most perfect will.]
+
+§. 908. One sees easily here what the most adequate representation of the best is, namely that it is required for this that one weigh the best in the connection with all things that are connected with one another. E.g. In man all his doing and leaving undone throughout the whole time of his life is connected with one another.
+
+[margin: Adequate representation of the best.]
+
+[p. 5]
+
+Therefore the best must be judged from the connection with his whole life.
+
+§. 909. Since now man cannot survey his whole life; he is also not capable of judging what is the best, but if he gets far, he can judge what is the better among that which he knows. Therefore man too has no perfect will in the highest degree (§. 907).
+
+[margin: Man has not the most perfect will.]
+
+§. 910. Willing consists in an endeavour to produce a certain sensation (§. 878). That now which is represented through this sensation is what we are wont to call the purpose. And accordingly the purpose is that which we think to obtain through our willing, and we are therefore wont to say, not without ground: the will strives after the purpose and seeks to attain it.
+
+[margin: What a purpose is.]
+
+§. 911. Because the will comes from reason (§. 859), sensitive desire however from the senses and the imagination (§. 434); a rational man acts always from purposes: whereas a slave, likewise the animals (§. 892), act without purposes (§. 910), at least without purposes known to them.
+
+[margin: A rational man acts from purposes.]
+
+§. 912. The intermediate sensations which the soul must have before it is able to arrive at the
+
+[margin: What means are.] [p. 501] one which it strives to produce, represent those things which we are wont to call means. And accordingly the means are that through which we obtain the purpose, that is, which contains in itself the ground why the purpose reaches its actuality. E.g. If someone wants to go walking in order to give himself a pleasure thereby; then the pleasure is the purpose, but the walking the means. If someone travels to the university and stays there for the sake of studying; then studying is the purpose, but the journey and the sojourn at the university the means.
+
+§. 913. In the world all things are connected with one another, in such a way that always one contains in itself the ground why the other comes about (§. 548). Therefore that which we have made our purpose can again contain in itself the ground why something else further follows. And, in so far as we further also make this other our purpose, the first purpose becomes a means of the other (§. 912). Accordingly purposes can be so arranged that the preceding are means of the following.
+
+[margin: Preceding purposes can be means of the following.]
+
+§. 914. Whoever is skilled at so arranging purposes that always one becomes a means of the other, and can discover the means for his
+
+[margin: What wisdom is.] [p. 5] purposes to be reached; he is *wise*. And in this way *wisdom* is a science of so arranging the purposes that one becomes a means of the other, and conversely of choosing such means as lead us to our purposes. That this definition is in accordance with the custom of speech, the examples show. For when we see that someone has so gone about his affairs that he attains his purposes, we are wont to say: he has acted *wisely*.
+
+§. 915. On the other hand, when someone so arranges his purposes that one runs counter to another, and chooses as means what is a hindrance to him in his purpose, one says: he acted *foolishly*. And from this one understands what a *fool* and what *folly* is.
+
+[margin: What folly is.]
+
+§. 916. The more numerous the purposes that are so connected with one another that always one becomes a means of the other: the more of the purposes agree with one another, and the greater and more perfect is wisdom (§. 914. 152). Again, the more one knows how to choose means that lead to the end, and the less one errs in the choice of means; the more everything agrees together. And accordingly it is also for
+
+[margin: Degrees of wisdom.] [p. 503] that reason that wisdom is greater and more perfect (§. 914. 152).
+
+§. 917. Further, the more one attains one's purpose through the means chosen, the more they agree with it: for in so far as I do not attain my purpose, in so far the means does not agree with it, but is either quite a hindrance, or contributes nothing to the matter. Therefore wisdom is also more perfect the more one attains one's purposes through the means chosen.
+
+[margin: Further degree of wisdom.]
+
+§. 918. Again, it belongs to the perfection of wisdom that one does not seek to obtain by roundabout ways that to which one can come by a shorter way. For when one has a shorter way, one chooses the roundabout ways without need, and accordingly acts, in so far as one does this, without purpose. A wise man, however, never acts without purpose (§. 911). Therefore in so far as one chooses roundabout ways without need, in so far one is not wise. Wisdom is accordingly more perfect when one chooses shorter means and prefers them to the longer-winded. One can also demonstrate it in this way: If we know means that help us to our end more briefly than others; then we find no ground why we should
+
+[margin: Still other degrees of wisdom.] [p. 5] prefer the others to the first. And therefore it also cannot happen (§. 30). If we accordingly choose roundabout ways, it happens because we do not know the shorter way. And so it comes from lack of cognition, consequently from imperfection of the understanding (§. 849). But what comes from imperfection of the understanding cannot be reckoned to the perfection of wisdom.
+
+§. 919. From this one sees at the same time that it is not contrary to wisdom to prefer a longer way to a nearer one, when one has sufficient reason for it. For in such a case one has, besides the principal purpose, other secondary purposes, which one can obtain through the longer way but not at the same time through the nearer. And in this case one accordingly does not act without purpose, in so far as one prefers the longer way to the nearer: indeed, speaking strictly of the matter, it is in fact not a longer way, since no shorter one is available, if one wants to satisfy all purposes at once.
+
+[margin: Necessary remark.]
+
+§. 920. From what has been said hitherto of the degrees of perfection of wisdom (§. 916. 917. 918), it is clear that certainty reaches the highest degree of perfection where one
+
+[margin: Most perfect wisdom.] [p. 505] all his purposes so connected with one another that none of them runs counter to the others, but rather one is a means to the other; when one not only attains one's purpose fully through the means, but also does nothing out of idleness, and therefore chooses the shortest way everywhere.
+
+§. 921. Of other perfections of the soul we shall treat in another place. We therefore remark here only further that, since the souls of animals as well as of men are simple things (§. 742. 789), they can neither arise by natural means (§. 87. 88) nor cease to be (§. 102). And accordingly they are both indestructible. Namely, destructibility is a separation of parts.
+
+[margin: The souls of men and of animals are indestructible.]
+
+§. 922. Therefore they do not perish along with the body when it ceases to be. For the soul cannot be annihilated by the parts of the matter of which the body is composed going apart from one another. But the soul, as a simple being, can cease only through annihilation (§. 102.)
+
+[margin: They are not annihilated by the perishing of the bodies.]
+
+§. 923. Because the souls of animals have no understanding (§. 892.) and therefore also no general cognition, they cannot recollect their former state (§. 868). And therefore they are
+
+[margin: The souls of animals do not remember their former state.] [p. 5] not conscious that they are the very same that were previously in this or that state.
+
+§. 924. Since one now calls a person a thing that is conscious of itself that it is the very one that was previously in this or that state; animals too are not persons.
+
+[margin: Animals are not persons.]
+
+§. 925. On the other hand, because men are conscious that they are the very ones that were previously in this or that state; they are persons.
+
+[margin: Men are persons.]
+
+§. 926. Because all changes of a simple thing are grounded in one another (§. 128); the state after the death of the body must also be connected with the state in life. And therefore the one must bring the other back to memory (§. 238. 248). Now since the soul of man knows that it is the very one that was previously in this state, and accordingly retains the state of its person even after the death of the body; it is immortal. For the indestructible is immortal when it constantly retains the state of a person. But it is also clear from this at once that the souls of animals are not immortal, although they are indestructible (§. 921).
+
+[margin: Souls of men are immortal; but not those of animals.]
+
+§. 927. Should this seem strange to anyone, let him be pleased only to consider that it
+
+[margin: Remark.] [p. 507] is in the same case with matter: it is indestructible, but not immortal. For if the body ceases through the separation of the parts of matter, which is the death of animals and men; matter is not on that account annihilated, but remains in the world as before, and is accordingly indestructible. Meanwhile no one will on that account say that it is immortal.
+
+#### Chapter 6.
+
+### On God.
+
+§. 928.
+
+We are (§. 1). Everything that is has its sufficient reason why it is rather than is not (§. 30): and so we too must have a sufficient reason why we are. Now if we have a sufficient reason why we are; this same reason must be found either in us or outside us. If it is to be found in us; we are necessary (§. 32): but if it is to be found in another, then that other must nevertheless have in itself its ground why it is, and so be necessary. And accordingly there is a necessary thing. But in order that we may learn to know whether we ourselves are this thing, or whether it is another; we shall examine the attributes
+
+[margin: There is a necessary thing.] [p. 6] of it, to see whether they belong to our soul or not.
+
+§. 929. That thing which has the ground of its actuality in itself, and is so constituted that it cannot possibly not be, is called an *independent* being. And accordingly it is clear that there is an independent being (§. 928).
+
+[margin: There is an independent thing.]
+
+§. 930. What is independent has the ground of its actuality in itself (§. 929). Therefore what is not independent, but derives from another, has the ground of its actuality outside itself, namely in the independent. And so the independent being must contain in itself the ground why the remaining things are that are not independent.
+
+[margin: This contains in itself the ground why the rest are.]
+
+§. 931. What is necessary can have neither beginning nor end, but is eternal (§. 29). Therefore, since the independent being is necessary (§. 929); it can have neither beginning nor end, but is eternal.
+
+[margin: It is eternal.]
+
+§. 932. One cannot accordingly measure the duration of the independent thing by the duration of any other, and eternity is therefore immeasurable. For if one wishes to measure something, one must take something of the same kind as the measure, which, taken several times, becomes equal to it
+
+[margin: Eternity is immeasurable.]
+
+[p. 509]
+
+(§. 62). But here we can find no such measure. We may assume a duration of as long a time as we please and multiply it by as great a number as we like; yet we cannot thereby find out how long that has been which has no beginning, and how long that will be which has no end, that is, the eternal (§. 931). In order that we may the better represent to ourselves what the immeasurability of eternity is, I will illustrate it by an assumed measure. Suppose, accordingly, that the space from the earth all round to the fixed stars, that is, a sphere which has 951005328 earth-diameters in diameter (§. 922 *Astron.*), each of which contains 1720 German miles, is filled with sand. Suppose further that every million years, that is, in a thousand times a thousand years, one little grain of it comes away: then one will be astonished at the length of the time before the great heap of sand comes to an end. Meanwhile, since one can know how much sand goes into a certain measure, and how many such measures come to a cubic earth-diameter (§. 16. Geograph.); one can also find how many little grains of sand are contained in the great space (§. 237. Geom.), and consequently find out the number of years that must pass by before the whole heap [p. 6] is gone. Therefore this immensely long time is still measurable, and can accordingly not be compared with immeasurable eternity. Indeed, even if one wished to take this immensely long time as the measure; one would still not be able to measure eternity by it.
+
+§. 934. Because the independent being has had no beginning and can have no end (§. 931); nothing can have been before it, nor can anything come after it. For if anything had been before it, or anything could come after it; it must at one time not have been, and could cease to be: which is absurd. Now the first is that before which there is nothing else, and the last that after which nothing further comes. Therefore the independent being is the first and the last.
+
+[margin: The independent being is the first and the last.]
+
+§. 934. What can have no end is indestructible (§. 921). Now since the independent being can have no end (§. 931); it is indestructible.
+
+[margin: It is indestructible.]
+
+§. 935. Composite things can arise and cease (§. 64). The independent being cannot arise and cease (§. 931), and accordingly is nothing composite, and consequently no body (§. 606).
+
+[margin: Nothing bodily.]
+
+§. 936. Since now there can be no other things than simple and composite ones
+
+[margin: A simple thing.]
+
+[p. 511]
+
+(§. 51. 75), and the independent being can be nothing composite (§. 935); it must be a simple thing.
+
+§. 937. Everything that is, is either through its own force or through the force of another. What is through the force of another has the ground why it is in something else, namely in that very one through whose force it is (§. 29). The independent being has the ground why it is in itself (§. 929), and can therefore be through the force of no other; consequently it must be through its own force.
+
+[margin: It is through its own force.]
+
+§. 938. Because, then, the independent being is through its own force, and accordingly has its actuality from itself, not from another (§. 14); it can be even if nothing else were at the same time beside it. And so it needs no foreign help to be what it is, and consequently it is wholly *independent* of all things. For we say that something is *dependent* on another in so far as it has the ground of something that is in it in the other. Now if it has the ground of its essence and its actuality in another; it is wholly dependent on it. We retain this meaning also in common life: for when we say that the other is in this respect
+
+[margin: It is independent of all.] [p. 6] dependent on the other, we indicate thereby that he can undertake nothing without what the other wills, and so the ground of his undertaking is the will of the other.
+
+§. 939. After we have discovered some attributes of the independent being; we can demonstrate that neither the world nor our soul can be an independent being. The world is not necessary (§. 576): the independent being is necessary (§. 928. 929): Therefore the independent being is not the world (§. 17). Again, the world is a composite thing (§. 551): the independent being is a simple, not a composite thing (§. 936); therefore the independent being is not the world (§. 17).
+
+[margin: It is not the world.]
+
+§. 940. Because, then, the independent being is different from the world and the world is not independent (§. 939), the world must have the ground of its actuality in it, and so be dependent on it (§. 938).
+
+[margin: The world is dependent on it.]
+
+§. 941. The representing force, in which the essence and nature of the soul consists (§. 754. 755), is regulated by the position of a body in the world and by the changes occurring in consequence in the organs of the senses (§. 753), and has accordingly the ground of its representations
+
+[margin: It is different from our soul.] [p. 513] also outside itself, namely in the world (§. 786). And accordingly the soul is dependent on the world (§. 938). But since the independent being is independent of all things (§. 938); the soul cannot be an independent being (§. 17). And in this way the independent being is also different from our soul.
+
+§. 942. It is not to be denied that in this proof it is presupposed that the world is actually present outside our soul, and does not subsist merely through its thoughts: which most people grant. Meanwhile, since we have demonstrated above (§. 777) that the soul would see the world outside itself even if none were there; indeed, that the actual presence contributes nothing to the soul's representing it to itself, and the Idealists allow the world no further room than in the thoughts of the soul and of spirits: I think I do no wrong if I arrange the proof also in another way, and indeed in such a way that it satisfies the Idealists at the same time: for in a matter as important as the present one, one must accommodate oneself to each person as far as is possible.
+
+[margin: For whom this proof holds.]
+
+§. 943. If the world is not actually there, but subsists only through the thoughts of the soul; it is indeed true that the ground of why the soul represents to itself this and
+
+[margin: Another proof.] [p. 6] not another world, is to be sought in its essence (§. 33). Therefore, since the representing force constitutes the essence and nature of the soul (§. 755), but the essence is necessary and unchangeable (§. 38. 42); the soul brings forth these and not other representations, and indeed in this and not in another order, because its force does not bring it otherwise with it. Meanwhile, since other worlds are still possible (§. 569), which can be represented just as well as this one, since our soul itself can represent to itself the one and the other of them (§. 571); other kinds of souls are also possible. And in such a way we must have a sufficient reason (§. 30) why these and not other souls are present now and here in this order. Since now this cannot be found in the soul, precisely because another kind of soul is as possible as it; the ground why it is there must be sought in something else that is different from it. The independent being has its ground why it is in itself (§. 930), not outside itself, and accordingly the soul cannot be the independent being (§. 17).
+
+§. 944. It is indeed true that an egoist, in order not to have to indicate a ground why the soul of this kind is now and
+
+[margin: The egoist is refuted.] [p. 515] here, but not one of another kind, therefore assumes that he is the only actual being and that outside him there is no other (§. 2): but one can easily convict him of his error. An egoist is at the same time an idealist, and accordingly allows the world no further room than in his thoughts (§. 777). Now since he can represent to himself several human bodies besides his own, and can comprehend of his own that the kind of his representations is thereby determined, which would be changed into another if he had one of the other bodies (§. 753); he cannot deny that souls which represent the world to themselves according to the state of the other bodies are as possible as his own. And so it is false that he alone can be, and nothing else: indeed he finds no ground why he could deny that the others are not as actual as he, since he finds in the rest everything that he finds in himself. And accordingly he may posit what he will as to why he is, he must also grant that the rest are; because the very same ground is found in them as in him.
+
+§. 945. It remains therefore certain that the independent being is different both from the world (§. 939) and from our soul (§. 943), and so in it the
+
+[margin: What God is.] [p. 6] ground of the actuality of both is to be sought. And this being, different from both, is that which we are accustomed to call God. God is accordingly an independent being, in which the ground of the actuality of the world and of souls is to be found.
+
+§. 946. Because it is now certain that there is such an independent being (§. 945); there is also a God.
+
+[margin: That there is a God.]
+
+§. 947. Therefore, since the independent being is eternal (§. 931); God also is eternal, and his eternity immeasurable (§. 932). Since the independent being is the first and the last, before which none has been, and after which no other comes (§. 933); God also is the first and the last, before whom none has been, and after whom none will come. Since the independent being is indestructible and nothing bodily, but a simple thing (§. 934. 935. 936); God is indestructible, nothing bodily, but a simple being. Indeed, since the independent being is through its own force and independent of everything, and not as that which would need something from anyone (§. 937. 939); God is through his own force, independent of everything, and not as one who would need something from anyone.
+
+[margin: Some attributes of God.]
+
+[p. 517]
+
+§. 948. If two similar worlds were actually present at the same time, in which the changes occurring might happen either at the same time or at different times; there would be no ground why in the first case one world filled this space and the other the other. For since in one world everything would be just as in the other (§. 18); everything would remain the same even if one exchanged the places of the worlds. Now since nothing can happen without a sufficient reason (§. 30); two similar worlds also cannot exist side by side at the same time.
+
+[margin: Two similar worlds cannot exist at the same time.]
+
+§. 949. If there are two different worlds, neither is connected with the other; for otherwise they would not be two worlds, but only one (§. 549). Now if neither is connected with the other, but each is wholly independent of the other (§. 938); nothing changeable would follow even if their places were exchanged. For in each world everything goes on as before, because neither has anything to do with the other. And accordingly there is no sufficient reason why one rather than the other should be in this place and not in the other. Therefore, since nothing without sufficient reason
+
+[margin: Nor two different ones.] [p. 6] can be (§. 30); two different worlds cannot exist at the same time.
+
+§. 950. Perhaps some might think that it would still be possible to have a ground why different worlds could exist at the same time. Namely, if the worlds are different from one another, there is not as much perfection in one as in the other (§. 712 & seqq.). Therefore, since we find that the perfections of the soul are attained little by little (§. 525); one could say: the different worlds would be necessary for this, that souls should always be transferred from a less perfect one into a more perfect one, and accordingly be raised by the contemplation of them little by little to greater perfection itself. But however ingenious this seems at first to have been devised; all appearance vanishes at once when we reflect that infinitely much perfection lies in this world, which the soul of man with its very limited force does not attain (§. 702). And therefore the soul would be led, without sufficient reason, from the theatre of this world to the theatre of another, since precisely what would be brought about in the other would be obtainable in this world. Indeed, because those
+
+[margin: Objection and its answer.] [p. 519] representations in the soul which concern the other world are connected with those that it would have in the other (§. 30. 29); those worlds also must be connected with one another (§. 786), and so they would not be different worlds, but only different theatres of one world (§. 549).
+
+§. 951. In God is to be found the ground why this world, in preference to the other, attains its actuality (§. 945). Now since one world is more perfect than the other (§. 712. & seqq.); this ground can consist in nothing else than that the greater perfection moved God to bring forth the one in preference to the other.
+
+[margin: Why one world exists in preference to the other.]
+
+§. 952. Therefore it is necessary that God can represent to himself all worlds at once distinctly: for otherwise it would not be possible for him to know the greater perfection. Perfection consists in an agreement of the things of which the world consists, and of their events (§. 701). Whoever, then, wishes to see the perfection of a world must be able to represent distinctly to himself everything that fills space and time in it (§. 548), in the minutest detail. But whoever wishes to judge where there is greater perfection must represent all worlds, with all their state, which they can have one after another
+
+[margin: God represents to himself all worlds.] [p. 6] in turn, compare with one another, and so represent them all at once.
+
+§. 953. Since now a world is nothing other than a series of changeable things, which are beside one another and follow upon one another, but are all connected with one another (§. 544); and everything that is possible is called a thing (§. 16); all worlds comprehend in themselves everything that is possible. Therefore, since God can represent to himself all worlds; he also knows everything that is possible.
+
+[margin: He knows everything that is possible.]
+
+§. 954. The force of representing the possible distinctly is the understanding (§. 277). Now since God represents to himself everything possible (§. 953); he also has an understanding.
+
+[margin: God has an understanding.]
+
+§. 955. The *understanding of God* is accordingly a distinct representation of everything that is possible, at the same time or all at once (§. 952. 933).
+
+[margin: What God's understanding is.]
+
+§. 956. And from this the difference is clear between the understanding of God and the soul of man, and also in general of all things different from him which are endowed with an understanding. For God knows everything that is possible (§. 955): man only something (§. 753). God knows everything distinctly (§. 955): man much indistinctly, indeed quite obscurely (§. 275). God knows everything all at once (§. 955): man one thing after another. And accordingly
+
+[margin: Its difference from other understanding.] [p. 521] the understanding of man is a representation, in part distinct, of some things one after another.
+
+§. 957. If we wish to make the greatness of the divine understanding in some measure represented and comprehensible to ourselves; we need only consider how much is required for it, if only one world is to be wholly known. Now since the world is filled both in space and in time (§. 548); one must take heed how it fills them both in the great and in the small. For the first consideration astronomy is of use to us: for the other, those writings lend a helping hand which describe the minutiae discovered by means of telescopes, among which in particular belong Leeuwenhoek's letters, which have come out little by little in various parts. When we direct our eyes upon the great space of the world, we behold there the sun, around which in all 16 planets or earth-globes move, namely Mercury, Venus, our earth with the moon, Mars, Jupiter with four moons, and Saturn with five moons (§. 371. Astron.). The diameter of the sun is, according to Huygens, at least 111 times as great as the diameter of the earth, that is, over 190000 German miles, and the sun
+
+[margin: How the greatness of the divine understanding is to be weighed.] [p. 6] itself over a million times greater than the earth (§. 561. Astron.), and it is certain that Huygens gave it rather too small than too great. From the sun to Saturn there are at least a hundred and seventy millions of German miles (§. 549. Astron.), and so our sun with its 16 planets takes up a spherical space which measures over three hundred and forty thousand millions of German miles in diameter. Let one now consider further that it is demonstrated in astronomy that the fixed stars are mere suns, which yield nothing to our sun in magnitude (§. 573. 575 Astron.), and that it is asserted of them with probability that around each of these suns there is a space as great as around ours, in which likewise a number of planets move, as around our sun (§. 574 Astron.). Let one consider further that one can observe up to 2000 stars with the naked eye (§. 154. Astron.), but an unspeakable number through telescopes, e.g. up to 2000 in the single Orion (§. 158. Astron.). If one reflects on all this, one will be able to represent to oneself in some measure the astonishingly great space which the world takes up, even if one leaves out of consideration the wide space between Saturn and the nearest fixed star (§.
+
+[p. 523]
+
+575. Astron.). But since it has already been set out above (§. 86) that in a little space which the smallest grain of sand takes up there can be 294207 many-footed little animals, one can reckon how many things must be in so great a space of the world. Therefore, because the divine understanding grasps not only the great space of the world all at once, but also distinctly represents everything that is to be met with of the smallest things in each smallest little space (§. 955); one can in some measure make the greatness of the divine understanding, which is in itself incomprehensible, comprehensible by this. But now the time is further to be weighed, in which the changes in the world occur. I will now only consider that the thousandth part of a time in which the pulse beats once is still quite comprehensible to us, indeed certain, and that this is still far from the smallest part of time (§. 692). Therefore, if one reflects thereby that even the very smallest space and the very smallest time is filled otherwise in nature than the other (§. 591); and at the same time represents to oneself that God beholds everything all at once (§. 955); one will wonder still much more at the greatness of the divine understanding. What shall I finally [p. 6] say, when we reflect thereby that in all these things innumerable harmonies are to be observed, and that finally the unspeakable number of all these things is greatly multiplied in the infinite kinds of worlds which are possible as well as this one? All this has already been set out more circumstantially elsewhere. (a)
+
+§. 958. Whoever considers this, and weighs thereby how little we can represent to ourselves of the world all at once, and how little distinctness there is in what we represent to ourselves, will comprehend more than enough that our understanding is nothing compared with the divine, and that, even if we wished to represent to ourselves an understanding however perfect, the divine one would nevertheless not let itself be measured by it. It would go with us here just as with eternity (§. 932). And we therefore have good ground to maintain that the divine understanding is no less immeasurable than eternity.
+
+[margin: God's understanding is immeasurable.]
+
+§. 959. Since God knows distinctly everything that is possible all at once (§. 955), and nothing remains indistinct to him, he has no senses and no imagination (§. 277).
+
+[margin: God has no senses and no imagination.]
+
+(a) *In specimine Physicæ ad Theologiam naturalem applicatæ, quod sistit notionem intellectus divini per opera naturæ illustratam.*
+
+[p. 525]
+
+§. 960. Because God has no sensations like ours (§. 960. 220); he also represents that which we are accustomed to represent indistinctly and obscurely, that is, merely to feel, e.g. the colours, quite otherwise than we do. Namely, since the divine understanding has nothing but distinctness, he sets everything apart from everything else, in which we are confused.
+
+[margin: In what God's representations differ from human ones.]
+
+§. 961. Meanwhile, since he also represents to himself the souls of men, he thereby beholds in them also their indistinct and obscure representations, or their sensations and images of the imagination.
+
+[margin: How he knows the sensations of men.]
+
+§. 962. Because he knows everything distinctly (§. 954); none can conceal the other from him, as happens with us: rather everything is bare and uncovered before him, and he sees not only what is outside, but also the innermost of things.
+
+[margin: Difference of his cognition from ours.]
+
+§. 963. And in this way, since he knows everything not only distinctly and down to the innermost (§. 962), but also all at once (§. 955); he has of all things an intuitive cognition (§. 316), yet at the same time also every symbolic one that is only possible (§. 953), and needs to bring out nothing by syllogisms (§. 340), although he represents them also all together to himself (§. 953).
+
+[margin: God has an intuitive cognition.]
+
+§. 964. In every world everything is, in space as well as in time, connected with
+
+[margin: He knows the whole world in] [p. 6] one another (§. 548.) Now since God represents to himself every world quite distinctly (§. 952); he must also know the connection of each thing with everything in the world. This also is required by the distinct concept of a contingent thing (§. 579. 580). In this way God sees the whole world, in space as well as in time, in each of the smallest things, and accordingly represents to himself every world wholly in each, even the very smallest part, and so infinitely many times, yet always with some difference.
+
+[margin: smallest part.]
+
+§. 965. Again, because he knows everything distinctly (§. 954) and is free from all sensations and images of the imagination (§. 959); his understanding is wholly pure (§. 282) and pure clarity (§. 207) and light (§. 208) in him.
+
+[margin: God's understanding is pure and in him pure light.]
+
+§. 966. The understanding is the more perfect, the more things it can represent distinctly, and the more it is capable of representing distinctly in one thing (§. 848). Therefore, since the divine understanding represents all things, and everything that is in them, in the most distinct manner, and indeed moreover all at once (§. 955); none more perfect than it can be thought. It remains therefore the most perfect of all.
+
+[margin: He is the most perfect.]
+
+§. 967. Everything that is possible, and does not happen in this world, belongs in another
+
+[margin: God knows also what] [p. 527] world (§. 570). Now since God knows all worlds distinctly (§. 952); he also sees what would happen under a condition which is not fulfilled in this world. E.g. If I had settled in another place than in Halle: many things would have followed which have now been left undone; on the other hand, others would have been left undone which have now followed. Now although it did not happen in this world that I settled in another place; yet it would have happened in another world, which has much in common with the present one. And in that world God sees what would have come of it if I had chosen my seat in another place.
+
+[margin: would happen under conditions that are not fulfilled.]
+
+§. 968. In the world the preceding state always contains in itself the ground of the future (§. 544. 545). Whoever, then, knows the preceding distinctly, can foresee from it the following before it comes (§. 29. 278), and accordingly foreknow the future. E.g. If I know where the sun and the moon stand in the heavens today, one can find from it where they will stand at a given time, as is taught in astronomy. From this one can further find, when sun and moon come together in such a way that the latter covers the former from us, and therefore
+
+[margin: How he foreknows the future.] [p. 6] foreknow the darkening of the sun before it comes. Namely, the following state is always comprehensible through the preceding. God knows the first state of the world distinctly (§. 955), and accordingly he knows from it the following, from this again the one that follows further, and so on, namely every future state. And hence he knows everything beforehand, before it comes, and, since the order of what follows upon one another is time (§. 94), and he represents everything in this order most distinctly (§. 955); he also knows most exactly the time when each thing is to come. And in this way God foreknows everything future.
+
+§. 969. By one's foreknowing something, nothing in the thing is changed, but it remains as it is. E.g. If we know that an eclipse of the sun is to come, our foreknowledge contributes nothing to the matter. Nothing in it is changed thereby: sun and moon keep their course as they did before I knew it. Therefore also by God's foreknowing everything, no thing is changed in the least, but everything remains in itself as it is. They are predetermined by their essence and by the connection with other things, to their events, and thereby made certain
+
+[margin: God's foreknowledge makes no change in things.]
+
+[p. 529]
+
+(§. 561). And hence it is possible that God can foreknow them before they come; but they are not thereby constrained that they must come, and indeed so much the less, because the certainty itself, for the sake of which foreknowledge cannot deceive, does not make things absolutely necessary (§. 564).
+
+§. 970. Since God's foreknowledge leaves the events of the world and of the soul as they are in themselves, and changes nothing in them in the least (§. 969); what is contingent remains contingent in the world, and what is voluntary remains voluntary in the soul. Namely, foreknowledge is outside the things and makes neither the event nor the certainty of it, but presupposes it. If life has been denied to a malefactor, and a date has now been fixed on which the sentence is to be carried out; his death and the hour of death are thereby fixed. And thereby it becomes certain that on that day he will lose his life, and one can foreknow that it will happen: the event is already predetermined. But just as life has been denied him freely, without constraint, and on due consideration a day has been appointed for the execution of the sentence; so both also remain something voluntary, and the whole event
+
+[margin: Does no harm to contingency in nature, nor to the freedom of the soul.] [p. 6] is something contingent, although one can foreknow that it will come and not stay away.
+
+§. 971. Those who make difficulties for themselves in this matter do not consider that the contingent as well as the voluntary has its sufficient reason, whereby it is determined to attain its actuality; which has been settled in what precedes (§. 561. 496). They further do not consider that, although certainty is thereby obtained, both in nature (§. 561) for the events and in the soul (§. 517) for willing and nilling, yet no necessity comes through this certainty into the events (§. 564) and into our will (§. 516). And therefore they imagine: either God cannot foreknow everything, or there is a necessity, both in the events of nature and in the will of the soul.
+
+[margin: Whence the difficulties in this matter come.]
+
+§. 972. Since now God knows everything that is possible (§. 953), also comprehends completely how each of what is possible can attain its actuality (§. 953), and foreknows everything that is future (§. 968); but to recognise anything further beyond this is impossible: God has all cognition that can be, and is therefore called omniscient. Thus omniscience
+
+[margin: God is omniscient. What omniscience is.] [p. 531] of God is a distinct or adequate cognition of all that is possible, whether, when and why it attains its actuality or not.
+
+§. 973. The cognition of a philosopher likewise consists in this, that he knows whether and why a thing can be (§. 5. *Proleg. Log.*) Now since the events in the world are grounded in one another infinitely onward (§. 579); man cannot get far if he is to represent to himself this connection of things. On the other hand, since God comprehends it completely (§. 972); he has an adequate cognition of philosophy and, since no one can equal him in this, he is and remains alone a perfect philosopher.
+
+[margin: God is alone a perfect philosopher.]
+
+§. 974. God sees the connection of things completely (§. 972), indeed he comprehends how each, from the greatest down to the smallest, is connected with one another in the whole of space and time (§. 952). Since now no higher reason can be thought than that which consists in the like insight (§. 905); God also has the very highest reason.
+
+[margin: He has the very highest reason.]
+
+§. 973. Because God represents to himself all worlds through his understanding (§. 952); the understanding of God is the source of the essence of all things. Now since the essence
+
+[margin: Origin of the essence of things.] [p. 6] of things consists in their possibility (§. 35); it is the understanding of God that makes something possible. Namely, something is possible for this very reason, because it is represented by the divine understanding. And since we have demonstrated above that the essence of things is eternal (§. 40); we now see where the essence of all things has been from eternity, namely in the understanding of God.
+
+§. 976. Because everything in a world is grounded in one another (§. 544), there is pure truth in them (§. 142). Since now the divine understanding brings forth this connection (§. 952); it brings forth the truths. And accordingly all truth is from God, whatever things it may concern. Let it be far from us, therefore, that we should wish to despise any truth!
+
+[margin: All truth is from God.]
+
+§. 977. Again, because in every world everything is grounded in one another in space and time (§. 548); everything agrees together in it, although not so much in one world as in the other. Therefore, since from this the perfections of things grow (§. 152); all worlds and all things found in them have their perfection from the understanding of God, and the understanding of God is the source of all perfection.
+
+[margin: Also all perfection.]
+
+[p. 533]
+
+§. 978. Since all representations in the divine understanding have the highest ground of distinctness (§. 956), he can also distinguish everything from everything else in the most adequate way (§. 206). And therefore he is conscious both of everything that his understanding represents (§. 729) and of himself (§. 730).
+
+[margin: God is conscious of himself.]
+
+§. 979. Whoever is conscious of himself and of what he does, knows himself: for it is precisely by this that we know ourselves, that we are conscious of ourselves and of the effects of our soul. Now since the representations in the understanding of God are his doing (§. 104), God is conscious of himself and of what he does (§. 978). Therefore he also knows himself.
+
+[margin: He knows himself.]
+
+§. 980. Among countless worlds that are possible, God has chosen only one and preferred it to the others, so that it attains actuality (§. 951). Now since no choice can take place without a free will (§. 529), God must also have a free will.
+
+[margin: God has a free will.]
+
+§. 981. But because nothing can happen without a sufficient reason (§. 30), there must also be one why God has preferred one world to the others. Now since the different worlds, as things of one species, can be distinguished from one another only by the degrees of perfection
+
+[margin: Motive of his will.]
+
+[p. 6]
+
+(§. 172); this ground can be nothing other than a greater degree of perfection which God found in this world, which he preferred to the others. And accordingly the greatest perfection of the world is the motive of his will (§. 496).
+
+§. 982. From this it is clear at the same time that the present world is the best among all: for we call that the best in which the greatest perfection is to be found (§. 422). Had a better one than this been possible, it could not have happened that he preferred the more imperfect to it. For where one prefers the more imperfect to the more perfect, it happens from ignorance, because otherwise there would be no sufficient reason why it should happen, if it were to happen knowingly. Now since God knows all worlds, he cannot out of ignorance prefer the lesser to the better.
+
+[margin: The present world is the best.]
+
+§. 983. I know well that many are of the thought that the world could be better than it is, because here and there they find something which in their opinion could be better: of which more shall be said below, where I shall have sufficient reasons for explaining the origin of evil and its permission. For now I will conduct those to whom these thoughts occur
+
+[margin: How the doubts that may arise here are removed.] [p. 535] only to this, that we men are not in a position to comprehend the perfection of the world and to explain it completely (§. 702), indeed that we can be deceived not only in the judgement of the perfection of the whole world (§. 703) and of individual things (§. 704), but even of our own state (§. 705.). Likewise I will here only appeal further to what has been set out in general about the perfection of all things, namely that the imperfection of the parts can contribute to the perfection of the whole (§. 170): for the elucidation of which what I remarked about the imperfection of the eye (§. 710) can serve.
+
+§. 954. In order now that we may return to the will of God, from which his motive has given us occasion to digress (§. 981. 982), it is to be noted that in the divine will we meet with everything that we found above in the freedom of the human will (§. 514. 515. 516. 518). God completely understands what he wills; for he knows not only from the greatest to the smallest what is found in the world which he has preferred to others, both in space and in time
+
+[margin: Constitution of freedom in the divine will.]
+
+[p. 6]
+
+(§. 952); but also knows how to gauge most exactly the degree of their perfection, and the preeminence over other worlds arising from it (§. 963). The choice of this world is not absolutely necessary, since there have been very many others, all as possible as this one, to which he preferred it (§. 569). And although he has a motive for it (§. 981), no compulsion arises from it, since it is a mere cognition of a greater perfection. Indeed, since the divine understanding brings forth this representation (§. 955), and since in addition God is independent of all things outside him (§. 938), he determines himself to his willing, and indeed by virtue of what precedes, without any necessity from without or from within: for necessity from within is present where the matter admits of no more than one way; necessity from without, however, where something exists outside me which I cannot withstand.
+
+§. 985. Because God has chosen the best world (§. 982), the motive of his will is the best. Now since this is the most perfect will, which has this motive (§. 907), the will of God is the most perfect of all. From the motives
+
+[margin: God's will is the most perfect.] [p. 537] one the difference of the wills (§. 492. 496).
+
+§. 986. If therefore God had not chosen the best, a more perfect will than his could be conceived. And therefore one must either call in doubt the greatest perfection of the divine will, or concede that this world, which attains its actuality, is the best. So exactly are the highest degree of perfection of the divine will and the actuality of the best world connected with one another.
+
+[margin: Connection of the most perfect will with the actuality of the best world.]
+
+§. 987. What we have adduced concerning the perfection of the divine will (§. 985) causes some difficulties to those who are not accustomed to looking deeply enough into things. They imagine, namely, that thereby God would be deprived of all freedom. For if God wills nothing other than the best, they imagine that he is compelled by his nature to will the best, for otherwise he would indeed also will something other than the best. But one can easily show that God is not on that account compelled, because he can will only that which is best: for he wills it gladly, and what he wills gladly, that he wills without compulsion. We find it in ourselves that we gladly do that which we take for good, and the more
+
+[margin: Doubt about the freedom of the divine will is removed.] [p. 6] gladly, the better it is in our opinion. But who would say that he is compelled to do what he does gladly? Besides this, it must be repeated here what was shown a little earlier as being required for compulsion (§. 984). For since one chooses the best gladly, there is no external compulsion; but since there is also something worse there, which one could take in place of the better, there is also no internal compulsion. And so freedom is grounded precisely in this, that one chooses that which he regards as the best. I will, for good measure, explain it by an example taken from man, since in any case the freedom of the divine will is similar to the freedom of man (§. 984). E.g. if someone is to choose one from three ducats, he examines them all and judges according to his insight which is the best. In that he prefers this one to the others, he does it without compulsion; for he has the faculty of stretching out his hand toward the one as well as toward the other. That he prefers one to the other, however, happens on account of his representation, which is something in him, not outside him. He would be compelled if someone from outside were to guide his hand, so that he had to take one of the ducats which he did not like as much as the other. Let us put for [p. 539] the ducats the world, and for man God; then one will be able quite easily to apply the matter to God as well. The whole doubt comes from the false concept of freedom, whose incorrectness I have long since shown (§. 498).
+
+§. 988. Because the perfection of the world moves God to choose one before others (§. 951), and that one alone which he has chosen attains actuality (§. 949): the will of God is the source of the actuality of things.
+
+[margin: Origin of actuality.]
+
+§. 989. Now since the divine understanding is the source of the essence, or of the possible (§. 957), whereas the divine will is the source of actuality (§. 988), one can never appeal to the will of God when one asks how something is possible; but only when one desires to know why something is actual, although even here one cannot simply appeal to the will of God, since he has a motive, namely the greater perfection of things (§. 981). Besides this, since one state in the world comes from another (§. 544), and therefore, in particular cases, a sufficient reason of actuality is also present in the world itself, one can never appeal to the will of God,
+
+[margin: When and how one can appeal to the will of God.] [p. 6] as if it were a question of the whole world in general.
+
+§. 990. Since, accordingly, nothing becomes possible through the will of God (§. 989), the possibility of things can also be demonstrated without the will of God. In mathematics, especially geometry, there are many thorough demonstrations; but nowhere is the will of God made the ground of the demonstration.
+
+[margin: Possibility is demonstrated without the will of God.]
+
+§. 991. In sciences we treat not of individual but of general things (§. 361). Individual things are actual, general ones only possible (§. 273), and so in sciences one treats not of actuality but only of possibility. Therefore one can also never in sciences simply appeal to the will of God (§. 990)
+
+[margin: In sciences one may not appeal to the will of God.]
+
+§. 992. If, accordingly, one assumes in sciences something of which one pretends that it has no other ground than the will of God: then this is something invented (§. 241) and a hidden attribute, which by its nature is incomprehensible.
+
+[margin: When one invents in sciences.]
+
+§. 993. Perhaps some will object that Scripture itself ascribes many effects of nature immediately to God. E.g. it says, God has
+
+[margin: Objection and its answer.] [p. 541] prepared us in the mother's womb; God gives rain; God makes grass grow, and so on. But here it is easy to answer. Scripture does not seek to teach men the cognition of nature, but only to fix this truth firmly, that nothing in the world is by chance, but everything happens according to God's will, who has previously thought out and resolved that it should come, so that thereby the mind of man may be directed and he may learn to conduct himself better in the world in fortune and misfortune. Scripture aims at piety, not at learning, and for this it uses the truths which suit all men, whether they be learned or unlearned, and which can immediately furnish a motive of the will. And this general truth we have indeed ourselves demonstrated before, namely that the actuality of things proceeds from God's will (§. 988). Scripture therefore speaks of actuality; philosophy of possibility.
+
+§. 994. Now since the will of God has to do merely with the actuality of things, but nothing with their essence or their possibility (§. 973), those err who imagine that God has arranged the essence of things according to his pleasure
+
+[margin: Error of an arbitrary essence.] [p. 6] and could also, according to his pleasure, change in it whatever he wished.
+
+§. 995. This error has arisen from men not having looked deeply enough into the character of inventing. When we want to invent something, we first set the thing a certain goal which it is to attain: afterwards we investigate how it must be constituted so that it attains it. E.g. if someone undertakes to invent a planetary clock (as Huygens did), he presupposes that the machine is to show the course of the planets as it is observed in the heavens. Then he concerns himself with what wheels he needs for it, and how they must be put together so that the course of the planets may be shown correctly. If he has now devised a composition, and it does not please him in everything, he changes this and that, until the work finally comes out as he wanted it to. In such a way men also represent to themselves God, how he brings forth the essence of things. The error in this is that we do not consider how by our inventing and improving we do not make the thing possible, but only, since with us one thought must come from another, determine ourselves to recognise what was possible already from eternity
+
+[margin: Whence it arose.] [p. 543] before we thought of it. The planetary clock which Huygens devised did not first become possible when he thought it out, but had already been from eternity in the divine understanding as well, which brought it forth like all other truths (§ 976). And if we change something in its composition, or in another thing, we do not change the essence of the thing, although this consists in the kind of the composition (§. 59), but because we must think gradually, we come from the essence of a planetary clock, or of a thing in general, to the essence of another thing, which differs from it merely in what is changed.
+
+§. 996. And from this one recognises that God alone is the only and true inventor, since his understanding brings forth everything that is possible (§. 976); whereas men get to behold only one or another of the infinite inventions of God, by directing their thoughts toward them. And therefore man can ascribe nothing to himself, as if it had been devised by him; but when he arrives at something by reflection, he must regard it as God's work, and his reflection as the way by which he has become aware of God's work.
+
+[margin: All inventions come properly from God, not from men.]
+
+[p. 6]
+
+§. 997. The will of God concerning the actuality of the world is called a decree: for we say that we have resolved something when we will that it shall attain actuality or happen.
+
+[margin: What God's decree is.]
+
+§. 998. Since everything in the world, from the greatest to the smallest, is connected with one another both in space and in time (§. 548), and so the world is to be regarded as one single thing (§. 549); it has also only one single decree of God.
+
+[margin: There is only one.]
+
+§. 999. Meanwhile, since God knows distinctly everything that is in the world, and sees its whole connection (§. 972), and from its agreement the perfection arises (§. 152), by which his will is moved (§. 981); his decree extends to everything, and nothing can come about but what he has resolved, but also nothing can fail to come about that he has resolved. And in such a way everything in the world comes from God, fortune and misfortune.
+
+[margin: It extends to everything.]
+
+§. 1000. And herein appears the difference of the decree of God from our decrees. When we resolve something, our decree goes only as far as we distinctly know the matter: of the rest we do not think. But when it comes to the execution, there mingle
+
+[margin: Difference of the divine decree from our decrees.] [p. 545] themselves, against our will, other things, which are connected with what we have resolved, because we do not adequately know what we know. With God, on the other hand, who sees through all things, nothing can come in beyond what he has resolved.
+
+§. 1001. And for this reason it can happen that the counsels of men, though reasonable, are unfortunate and miscarry, whereas God's decree stands, for nothing can intervene that would hinder it. Fortune and misfortune cannot mingle in, as happens with men.
+
+[margin: God's decree cannot miscarry.]
+
+§. 1002. In order that we may comprehend this the better, it will not be unserviceable if I explain here what fortune and misfortune properly are. But fortune, as well as misfortune, is nothing other than the connection of such causes as we cannot foresee: from which it is at once clear why fortune and misfortune have no place with God, namely because he foresees everything (§. 968). I will illustrate the explanation given by an example. Caius walks across the market-place in the evening in winter-time, and, because the cold is very severe, is obliged to draw the handkerchief out of his pocket. Since he had now unawares put the purse of gold
+
+[margin: What fortune and misfortune are.] [p. 6] into the pocket, he draws it out with it, and as it falls in the snow, he does not notice it. This event is called a misfortune for Caius. But it is clear that here many causes come together, which Caius did not foresee beforehand, and therefore could not consider what would follow from them: and yet each of them, unknown to him, has contributed its part to it. For if one of them had been absent, he would not have lost his purse of gold, and consequently would not have had the misfortune. Suppose now further that it snowed afresh during the night, and the purse of gold is covered with snow. Titius goes early to church: because it is somewhat cold, he walks quickly and, where the purse of gold lies, slips with his foot, so that the snow is pushed off it. As soon as he sees it lying, he picks it up and pockets it. This event he calls a fortune, and says to his good friends: fortune has bestowed the purse of gold on him. But one sees here again that many causes come together, which Titius could not foresee beforehand, and each of which, unknown to him, has contributed its part to his having found the purse of gold.
+
+§. 1003. Therefore, because God has seen the whole connection of things from eternity, and by his
+
+[margin: When fortune and misfortune from] [p. 547] decree has confirmed that it shall come (§. 997); one sees evidently how all fortune and misfortune comes from God. But what arrangement God has made in this we shall learn afterwards in treating of the wisdom of God.
+
+[margin: God come.]
+
+§. 1004. Since God is moved by perfection to will something (§. 981); it is not possible that he can will what conflicts either with his own perfection, or also with the perfection of the world and thus of individual things in their connection with one another. If this were not so, God could prefer that which he knows as more imperfect to that which he holds to be more perfect, and thus his will would not be directed to the best (§ 422): which is contrary to what was shown before (§. 985). And so we have a way of knowing the will of God through the consideration of the nature of God and of the essence and nature of the things that depend on him.
+
+[margin: First way to know the will of God.]
+
+§. 1005. However, since the perfection of things must be considered in their connection with one another, which we are not at all able to survey (§. 702); we must in this matter for the most part content ourselves with probability. Meanwhile we can through
+
+[margin: Necessary remark.] [p. 6] this way determine what God would prefer to the other, if among the different ways in which something can be nothing more were possible than what we know. If we can now demonstrate this latter, then it has also been completely demonstrated what God must will. E.g. hereby in astronomy the Copernican system of the world obtains a preference over the Tychonic. Likewise it is thereby settled that the planets have inhabitants, etc.
+
+§. 1006. It is further to be noted here that, although we have laid down the rule: God cannot will what is contrary to his own perfection and to the perfection of the world; this is nevertheless not to be understood as if one must always look at the same time to the perfection of the world and of the things found in it and to the perfection of God. Rather it is often possible that we need look only at one, and we can thereby settle what is in accordance with the will of God. E.g. when one asks in revealed theology whether God can will the eternal damnation of the godless, this question must be decided from the consideration of the divine perfections, namely one must show that it does not conflict with them.
+
+[margin: Another remark.]
+
+[p. 549]
+
+§. 1007. Again, since all things have their actuality through the will of God (§. 988), and in particular their present connection in the world subsists through him (§. 981); everything that happens is in accordance with the will of God, yet only in so far as it is regarded in connection with the rest. For in so far, and not otherwise, has God willed it (§. 997). And so we have yet another way of knowing the will of God: namely, we must pay heed to what happens in the world, and in particular how that which is simultaneous and follows upon one another agrees together; we can then make from it rules about what God can will.
+
+[margin: Another way of knowing the will of God.]
+
+§. 1008. When we pay heed in this way to what general grounds everything in nature depends on, one can find what, according to God's will, matters in nature: and these are the rules which are rightly called laws of nature, in that God has prescribed them to nature, although they might very well have been otherwise. Rules of this kind we have already adduced above (§. 709).
+
+[margin: Thereby the laws of nature are known.]
+
+§. 1009. Because everything in the world comes about as God wills it to be (§. 988); the bad and good events also
+
+[margin: How far that is to be ascribed to God,] [p. 6] which are connected with the doing and omitting of men are to be regarded only as following through the will of God thus and not otherwise. Namely, I can say with right: God wills that from this behaviour of men this evil and misfortune should follow for them; and likewise that from a different behaviour this good and fortune should accrue to them. And so it is the case that God sends to man, on account of his conduct, good and evil, fortune and misfortune.
+
+[margin: what follows from the doing and omitting of men.]
+
+§. 1010. These are the two natural ways by which one can attain to the cognition of the divine will. But we find that at all times and among all peoples it has been pretended that God also, now here, now there, has made his will known by an immediate revelation: and since the whole Christian religion is built upon this, it will not be unserviceable to investigate here from what one is to recognise a divine revelation and to distinguish it from a false pretence. For since a divine revelation, which consists in truth, is distinguished from an empty fiction and false pretence, the former must also have something about it which is not to be met with in the latter (§.17). Let us
+
+[margin: Why the marks of divine revelation are examined here.] [p. 551] accordingly investigate wherein the difference consists.
+
+1011. In a divine revelation one can look at two things: 1. at the matter that has been revealed; 2. at the manner and way of the revelation. As to the matter, then, that God is to reveal, it must be something that is most necessary for man to know, and to the cognition of which he cannot attain by the means and ways at hand: for if God reveals something to a man immediately, this cognition does not follow from the representing force of his soul, and accordingly it happens supernaturally (§. 758), and the revelation is a miracle on the soul (§. 759). Now since a miracle draws very much after it, as in the world (§. 639), so also in the soul, on account of the agreement of both (§. 753); there is no ground why God should accomplish in nature by a miracle what can happen in a natural way, and likewise why he should work new miracles when one that has happened before would already suffice to obtain that which is to be attained by the miracle. We shall see after this that the wisdom of God also stands in the way. And accordingly it is clear that God reveals nothing
+
+[margin: First mark of divine revelations.] [p. 6] that we can know through reason.
+
+§. 1012. It is indeed possible that in a divine revelation there occur such things as can also be known by the right use of reason, in so far, namely, as they are connected with the rest, to the cognition of which one cannot attain through reason and experience: but these things are then not themselves what has been revealed by God, but have merely been added alongside. And therefore one must not go through the divine revelation piecemeal, but take everything together that belongs to it.
+
+[margin: Necessary remark.]
+
+§. 1013. Again, because God can will nothing but what is in accordance with his perfections (§. 1005); that which God is said to have revealed must not be contrary to his perfections. What conflicts with his attributes he cannot have revealed.
+
+[margin: Second mark.]
+
+§. 1014. Further, since the divine understanding is the source of all truths (§. 976), but cannot bring forth anything contradictory, on account of its perfection (§. 966); that also which God is said to have revealed cannot be contrary to the truths of reason. But one easily sees that one here
+
+[margin: Third mark.] [p. 553] must take heed, lest one accept as truths of reason what are not such, but are only held to be so by us, or hold to be a contradiction what in fact is none. Namely, since we found above that there are two kinds of truths, necessary and contingent (§.38.578), and that the necessary cannot be otherwise (§. 41), but the contingent can (§. 175); it is admissible that the divine revelation may contradict contingent truths, because these can be brought about by a miracle (§. 633); but it is not possible that it can be contrary to the necessary ones. Therefore a contradiction in contingent things cannot in the present case be held to be one until, by virtue of the divine revelation, something is to happen in the world in a natural way otherwise than the course of nature requires.
+
+§.1015. Finally, because no truth can be contrary to another (§.1014); it is also not possible that a divine revelation can bind man to such a doing and omitting as runs counter to the law of nature, or also conflicts with the essence of the soul, which is in itself unchangeable (§.42).
+
+[margin: Fourth mark.]
+
+[p. 6]
+
+§. 1016. As to the manner and way of the revelation, it is to be considered above all things whether one can show how the man to whom the revelation is said to have happened could in a natural way have come to the cognition which he gives out as a divine revelation. For if this can be explained in a natural way, it is no immediate divine revelation, as one which happens in a supernatural way (§. 1011).
+
+[margin: Fifth mark.]
+
+§. 1017. To this what was said above of natural dreams (§. 800) is serviceable, and whoever understands the rule of the imagination, which we have given (§. 238) and circumstantially elucidated (§. 807 & seqq.), will also easily be able to distinguish true visions from false imaginations: for the former exceed the imagination and do not conform to its rule: otherwise a true vision could not be distinguished from a natural imagination.
+
+[margin: What is to be heeded in the practice of this.]
+
+§. 1018. Meanwhile, since God cannot do superfluous miracles, because they draw too much that is changeable after them (§. 639), and therefore does not immediately perform what he can carry out in the ordinary way; the manner of revelation must retain the forces of nature as far as possible. E.g. if the revela-
+
+[margin: Sixth mark.] [p. 555] tion happened through a dream, the dream could take its beginning by a miracle, so that it did not arise from a preceding sensation (§.799); on the other hand it could, according to the rule of the imagination, be continued, if not in a series, yet with interruptions. And to this belongs what our theologians say, that God accommodated himself to the condition of the prophets in the manner of writing.
+
+§. 1019. Besides this it is to be held here that in a divine revelation there must be heeded what is rightly demanded in every book written with understanding. Namely, since words are the signs by which things are signified (§. 291); no more words must be used than are necessary for the matter, and the words themselves must be intelligible: for which one may consult what I have set out on this in another place (§. 3. & seqq. c. 12. *Log.*). Indeed the whole arrangement of the words must agree with the rules of general grammar, likewise of rhetoric.
+
+[margin: Seventh mark.]
+
+§. 1020. Because the world, which has received its possibility from God through his understanding (§. 973) and has been chosen before others through his will (§. 980), has received through his
+
+[margin: God has power.] [p. 6] force its actuality (§. 988); God must have a force to make the possible actual. Now since such a force is called a *power*; it is clear that God has power, or is powerful. An idealist can object nothing to this. For although he denies that the world exists outside the soul; yet he must grant it a place in the souls of men, and so God has actually made the souls which can represent the world in a finite or very limited way.
+
+§. 1021. But since one world is as possible as the other (§.569.972) and none has in itself anything which could bring forth actuality (§.988); God can make the other worlds actual just as well as this one, which is present. Therefore, since all worlds together contain within themselves everything that is possible (§.953); he can make all things actual. Now since such a force of making everything possible actual is called *omnipotence*; it is clear that God is omnipotent.
+
+[margin: He is omnipotent.]
+
+§. 1022. It therefore does not belong to the omnipotence of God that he can make impossible things possible. E.g. since the essence of things is unchangeable (§.42), so
+
+[margin: Omnipotence does not extend to impossible things.] [p. 557] it is not possible that it can be changed (§. 10). And accordingly it indicates no impotence in God that he cannot change the essence of things. In like manner it is not possible that necessary truths should be absolutely changed: for if they could be changed, they would not be absolutely necessary (§. 41). And so again it is no more contrary to the omnipotence of God that he cannot make possible what contradicts necessary truths, than that he cannot make twice two more or less than four. The understanding of God makes possibility (§ 975): how then can one require that the power of God should annihilate again what his understanding has brought forth?
+
+§. 1023. Now although God can make actual everything that is possible (§. 1021); yet he does not do so. For since nothing becomes actual except through the force of his will (§. 988), but he can will nothing but what, considered in the whole connection of things, is the best (§. 985); he also brings forth only this, and all the rest subsists merely in his understanding (§.973).
+
+[margin: Why God does not make everything actual.]
+
+§. 1024. In this way his power extends as far as his will goes. If
+
+[margin: God can do what he wills.] [p. 6] something is possible and he does not do it, it remains undone merely because he does not will it. We men, on the other hand, will much; but it must remain undone, because our power does not extend so far.
+
+§. 1025. Now since no greater power can be conceived than that which extends to everything one wills, God has the highest degree of power. And because it extends at the same time to everything that is only possible, the degree of his power is absolutely the greatest. God's power is higher than everything that can be thought.
+
+[margin: He has the greatest power.]
+
+§. 1026. God therefore does not bring to actuality everything indiscriminately that his understanding brings forth; but only that which he has previously thought out should come (§. 997). Since he now lets the perfection of the world move him to this (§. 981), and this comes out of the agreement of things and of their events (§. 152); he has therefore sought to obtain these events and the perfections arising from them through the world, and accordingly they are all together to be regarded as his purposes (§. 910). And in such a way it is clear that God acts according to purposes. One can also demonstrate this in another way. Every rational being
+
+[margin: Acts according to purpose.] [p. 559] acts according to purposes (§. 911). God is the most rational of all beings (§. 974), and so he must act wholly according to purposes. I say God acts wholly according to purposes. Namely, we men do indeed also act according to purposes, but because we have no perfect reason (§. 906), and therefore do not wholly see the connection of what we seek with other things (§. 368); much mingles in our actions that we had not proposed to ourselves, and accordingly much comes about without our purpose. But because God comprehends the whole connection completely (§. 972); with him there is not the least thing that he had not foreseen beforehand (§. 968) and made part of his purpose.
+
+§. 1027. And from this it is clear that nature is full of divine purposes, which God strives to obtain through the essence of things. E.g. since by the composition of the eye, in which its essence consists, it is brought about that all bodily things from which enough rays of light fall in are depicted therein; I say with right that the depiction of this little image is the purpose which God had in view.
+
+[margin: That in nature there are nothing but purposes.]
+
+§. 1028. Because God knew everything that can follow from the essence of things (§.
+
+[margin: God's purposes are] [p. 6] [margin: consequences from the essence of things.]
+
+962), and for that reason brought it forth (§. 981); the necessary consequences from the essence of things are God's purposes. And accordingly those err very much who deny that there are purposes in nature, because what one calls purposes follows necessarily from the essence of things. Namely, our purposes too are nothing other than necessary consequences from the essence of those things which we choose as means to attain them: only the imperfection of our understanding brings it about that we think of the latter before the first, and from the latter come to the first on account of the connection which both have with one another. Were our understanding so perfect that it could represent means and purposes to itself at the same time; we should, like God, see at once that these follow from those. And this would not hinder us from choosing the latter as the purpose and the former as the means.
+
+§. 1029. But it is further to be noted that use and purpose are indeed different in respect of ourselves, but not in respect of God. We call the *use* of a thing a consequence from its essence which we did not think of beforehand when we aimed at bringing it forth. E.g. the inventor of the
+
+[margin: Use and purpose are the same in respect of God.] [p. 561] of clocks had as his purpose the cognition of time. Meanwhile, since the clocks have been made, one has also used them to make a show with them. And since the cognition of time has been found necessary in many cases, the clocks have acquired manifold utility, of which the inventor of the clocks did not think at all. And hence the utility of a thing in respect of men is distinct from its purpose. On the other hand, this cannot take place with God. He oversees everything and knows beforehand what can follow from it under all possible circumstances (§. 968. & seqq). Since he has now also intended to attain everything (§. 981), all the utility of things is a divine purpose, without which he would not have chosen them.
+
+§. 1030. And in this way the cases of good fortune and misfortune also belong among the divine purposes: since God has also chosen the world (§. 981) in view of their agreement with the remaining things, an agreement which also belongs to the perfection of the world (§. 152).
+
+[margin: Cases of good fortune and misfortune are divine purposes.]
+
+§. 1031. Indeed, in the same way it is clear that even the utility of the works of art is, in respect of God, among his purposes. For even though we did not foresee them, God has nevertheless discerned it
+
+[margin: Also the utility of works of art.]
+
+[p. 6]
+
+(§. 968) and in his decree has also firmly settled that it shall come (§. 997). And in this way God sees further in our works than we do, and has something in view with them that we do not understand. We must serve him in ignorance toward the carrying out of his counsel.
+
+§. 1032. God accordingly carries out his purposes through the essence of things in the world and through their nature: in that he has brought forth these things and not others, so that these events and not others follow (§. 981). Since therefore the ground is contained therein why God attains his purposes, the essence and nature of things are the means which God employs to attain his purposes in the world (§. 912).
+
+[margin: The essence and nature of things are God's means.]
+
+§. 1033. Since now in the world everything is connected with everything else, in space as well as in time (§. 548), and the preceding therefore constantly contains the ground why the following comes (§. 545), the preceding in the world is a means to the following (§. 1032). And in the same way it stands with the things in the world in respect of space.
+
+[margin: In the world one thing is a means to another.]
+
+§. 1034. But since everything that happens in the world is also a divine purpose (§. 1028), it is clear from this that God
+
+[margin: How the purposes in the world] [p. 563] has arranged the purposes in the world in such a way that the preceding means are means to the following.
+
+[margin: are arranged.]
+
+§. 1035. Since the essence and nature of things are the means by which God carries out his purposes in the world (§. 1032), while the purposes are all that which follows from the essence and nature of things (§. 1028), God by means of the means attains his purposes at all times fully.
+
+[margin: What God's means are like.]
+
+§. 1036. The science of arranging purposes in such a way that one becomes a means to another, and of choosing such means as lead to the purposes, is what we are accustomed to call wisdom (§. 914). Since now God possesses such a science (§. 1027. & seqq), God is wise.
+
+[margin: God is wise.]
+
+§. 1037. The world and everything that is in it are, on account of their essence, God's means by which he carries out his purposes (§. 1032). But their essence makes them into machines (§. 557). And accordingly the world and everything that is in it are God's means by which he carries out his purposes because they are machines. From which it is clear that they thereby become a work of the wisdom of God, because they are machines (§. 1036). Whoever therefore explains everything in the world intelligibly
+
+[margin: Why the world is a work of the wisdom of God.] [p. 6] as one is accustomed to do with machines, is led to the wisdom of God.
+
+§. 1038. But if there were a world that was not a mere machine, that is, in which not everything were connected with everything else in space and time, then one would no longer be the purpose and means of the other (§. 1028. 1032), and consequently the world would no longer remain a work of the wisdom of God (§. 1036), but merely a work of his power (§. 1020).
+
+[margin: Which world is merely a work of his power.]
+
+§. 1039. What is grounded in the essence and nature of the world and of the bodies of which it consists is natural (§. 630). Therefore if everything in a world proceeds naturally, it is a work of the wisdom of God (§. 1037). On the other hand, if events occur which have no ground in the essence and nature of things, it happens supernaturally or through miracles (§. 632. 633), and thus a world in which everything happens through miracles is merely a work of the power, but not of the wisdom, of God (§. 1038). And hence a world where miracles are very sparing is to be esteemed more highly than one where they occur frequently.
+
+[margin: A world with many miracles is lesser than one with few.]
+
+§. 1040. From this one recognises at the same time that for miracles less divine
+
+[margin: Miracles are not] [p. 565] force is required than for natural events. For miracles require merely God's power and cognition of a thing; whereas natural events require God's science, by which he connects each thing with everything in the world (§. 972), his wisdom (§. 1036), and also his power (§. 1020). And hence those teachers of the church have not had incorrect thoughts who maintained that the wonders in nature, which occur in it daily, that is, the natural events, were much greater than the miracles, that is, the supernatural events.
+
+[margin: something greater than natural events.]
+
+§. 1041. Since now God, as one who has the highest reason (§. 974), can never act without purposes (§. 912), he can also never set wisdom aside in his actions (§. 1036). And therefore it is not possible that he should accomplish by miracles something that can happen in a natural way. The natural way must as the better (§. 1040) be constantly preferred to the way of miracles (§. 985), and miracles therefore do not take place until he cannot attain his purpose in a natural way.
+
+[margin: Why God prefers the natural to miracles, and when he chooses these.]
+
+§. 1042. And in this case miracles also come not only from the
+
+[margin: When miracles] [p. 6] power of God, but at the same time from his wisdom, because he namely employs them as a means by which he attains a purpose, which he thereafter connects with the natural purposes: whereby the miracles are at the same time brought into the connection of things.
+
+[margin: are at the same time a work of the wisdom of God.]
+
+§. 1043. Now we have a mark by which we can distinguish true miracles from feigned ones. For if miracles are alleged in such cases where either nature suffices to satisfy the required purpose, or where even an old miracle, of which one has a report, can accomplish just as much as the new one, then it is not possible that God has done these miracles (§. 1041), and the alleged miracles are accordingly either feigned, or natural events which one regards from ignorance as miracles.
+
+[margin: How feigned miracles are to be distinguished from true ones.]
+
+§. 1044. Since God is wise (§. 1036), but wisdom requires that finally all particular purposes become a means to attain his principal purpose (§. 914), God must also have had a principal purpose in the world, on account of which he brought it into actuality, and for the attainment of which the world he has chosen is a means.
+
+[margin: God has a principal purpose in the world.]
+
+[p. 567]
+
+§. 1045. Since the world is the means by which the purpose is attained (§. 1044), but the means is distinct from the purpose (§. 910. 912), the purpose cannot be found in the world. And accordingly it is to be sought in God, as one who is outside the world and distinct from it (§. 945). But since God is independent of all things outside him (§. 947), nothing can be brought into him through the world that he did not already have before. And accordingly nothing remains but that the world represents God's perfections as in a mirror. This is the purpose which God can attain through the world, and one is accustomed to call it the *glorification* or *glory* of God: so that one can accordingly say that God has made the world for the sake of his glory.
+
+[margin: What this purpose is.]
+
+§. 1046. Since now the world and everything in it have been brought into actuality by God for this reason, that from them one can know his perfections (§. 1045), all creatures (for a creature is called a thing that has its actuality through God's force) are mirrors of the divine perfections.
+
+[margin: Creatures are mirrors of the divine perfections.]
+
+§. 1047. Therefore, since a world in which something could justly
+
+[margin: Why God has made only one world] [p. 6] be found fault with would not be a mirror of the divine perfections, in that it would at the same time be a mirror of a more imperfect being than God is, it is clear once more that God has produced no more imperfect world, but the best, and thus only one, as the sole means to attain his principal purpose (§. 1045).
+
+[margin: and indeed the best.]
+
+§. 1048. God knows by virtue of his omniscience all purposes that are possible, and all means by which they can be attained (§. 972). Since now he wills nothing other than the best (§. 981), he must also have the best purposes, and choose the best means for them. Therefore, since he also so arranges his purposes that always one becomes a means to another, but all together are finally to be regarded as a means to his principal purpose (§. 1034. 1044), he has the most perfect wisdom (§. 920).
+
+[margin: God has the most perfect wisdom.]
+
+§. 1049. Accordingly God and nature can do nothing idly, and must at all times choose the shortest way (§. 918): whereby what was recalled above concerning the shortest way (§. 919) is to be well noted.
+
+[margin: God and nature do nothing in vain, and take the shortest way.]
+
+§. 1050. In particular the pre-established harmony exalts the wisdom of God above everything that can be thought. For since here all motions of the body from its
+
+[margin: The pre-established harmony exalts God's wisdom] [p. 569] own essence and by its force, without the contribution of the soul, follow in accordance with the soul's desire (§. 779), even when we speak reasonably (§. 843), indeed all thoughts of the soul, whether they be images of the imagination (§. 812), or general concepts (§. 833. seqq.), judgements (§. 839) and syllogisms (§. 842), are represented in the body, in such a way that everything in the body would manifest itself in just the same way as now happens even if no soul were present (§. 780), there are innumerably many purposes, all of which are attained through the composition of the body. And our body is accordingly composed with unutterable wisdom, which we are not capable of comprehending (§. 916).
+
+[margin: above all.]
+
+§. 1051. Since now God made the world to show his perfection thereby (§. 1045), but this can happen through nothing more than through the pre-established harmony (§. 1050. 768. 885), and moreover with the pre-established harmony everything happens naturally, in the soul (§. 757) as well as in the body (§. 779), whereas with the immediate action of God miracles would occur at every moment, in the body as well as in the soul (§. 764), but God must prefer the natural to miracles (§. 1041), it is abundantly clear that he must have preferred the pre-established
+
+[margin: Why God has preferred it to his immediate action.] [p. 6] harmony to his immediate action.
+
+§. 1052. Therefore, although with the pre-established harmony the body is composed with unutterable wisdom, which we are not capable of comprehending (§. 1050), one must nevertheless not reject it for this reason. For it shows the perfections of God as they are in themselves, namely in so high a degree that it is impossible to comprehend them. Why should we be averse to a thing because it makes the glory of God all too great? Rather this should be an important ground for accepting it (§. 1045). It is enough that we have some insight into its possibility.
+
+[margin: Because it is incomprehensible to us, we cannot reject it.]
+
+§. 1053. God has also given actuality through his power to things that were merely possible through his understanding (§. 1020). This action of God is called creation, of which we have no concept, because we have no force to create anything. Yet one can in some measure represent it through the imagination, in that our images of the imagination stand to the soul as creatures stand to God, when we do not lose sight of the principle of sufficient reason (§. 244). For
+
+[margin: What creation is.] [p. 571] we then bring forth things in thoughts, in which there is truth, and which were not there before, according to our pleasure, and preserve them present through the force of the soul as long as we wish: yet we can give them no actuality outside the soul, which God nevertheless does in creation, and in which creation properly consists.
+
+§. 1054. Since accordingly nothing outside God subsists through its own force (§. 947), but rather everything through the force of God (§. 945), God must also keep making actual that which endures in the world, that is, the souls (§. 743) and the other simple things (§. 127) or elements (§. 582): for actuality cannot be attributed to them as their own (§. 939. 941). And therein consists the *preservation of the world*, which is thus in and of itself not distinct from creation, and is therefore rightly called, in this sense, a continued creation.
+
+[margin: What preservation of the world is.]
+
+§. 1055. Apart from what endures in the soul and the elements, we also meet with the limitation of it (§. 585. 783), through whose alternations the changes in things (§. 107), and even the bodies in nature (§. 113), arise. But these attain their actuality
+
+[margin: To what the preserving force of God extends.] [p. 6] at the same time with what endures, and need no particular action of God. E.g. if God preserves the elements of the matter of a sphere, then the figure too can be preserved through their connection with the surrounding bodies, and God need contribute nothing immediately to this figure. God accordingly brings forth through his force what endures in souls and elements; the changes, however, spring from the force which they receive through God's action. Namely, the actuality of this force is not comprehensible without God's action, as that which has no necessity of itself: but the changes are comprehensible without God's immediate action, through their essence and their force preserved by God. I will illustrate it by a simile. A clock is composed of wheels and other parts, which all consist of a certain matter. The matter is preserved in its state by nature: for without the surrounding bodies this matter would not remain together in its space. On the other hand the clockmaker has composed it, and brought it into this order, that the required motions follow from it; to this latter nature nothing immediately [p. 573] contributes. As the action of nature now stands here with the clock, so the action of God stands with nature. He brings forth what is enduring and subsisting by itself in the creature; the changes, however, which occur with it, come from its essence and from its nature. And from this one comprehends what in things is to be ascribed to God, and what one must attribute to nature.
+
+§. 1056. Since now the limitations of things have no need to be preserved by God (§. 1055), in that they subsist through the things which are limited, and not by themselves; moreover the limitations are not brought into things according to God's will, but already cling of themselves to their essence, as it is represented in the understanding of God (§. 952); but the imperfections come from their limitations, as e.g. ignorance from the imperfection of the understanding: so the preserving force of God proves in this way to be in no way effective in the imperfections of things, and these are not to be ascribed to him but solely to the things themselves. Since now everything that we call ill and evil springs from the limitations of things, God, in the case of the
+
+[margin: God contributes nothing to imperfection, to ill and evil.] [p. 6] ill and evil, has nothing to do, but it is the creature's own.
+
+§. 1057. Meanwhile, since nevertheless God brings forth those things from whose limitations the imperfections and ill spring (§. 988), he permits evil. And we now have to investigate from what causes this happens: for we should think that he could at least hinder it by a miracle, and therefore imagine that he ought rather to do a miracle than allow ill and evil to come into the world.
+
+[margin: God permits evil.]
+
+§. 1058. We have heard above that this world is the best among all that are possible (§. 982); but we find by experience that in this world there is much imperfection, much ill and much evil. Therefore it is clear from this that even the best world cannot be without imperfection, ill and evil. Since now God cannot prefer the less perfect to the more perfect (§. 981), it was necessary that he allowed the imperfections, the ill and the evil, which are found along with this world. Enough that in this way he obtains more good than would otherwise have happened, if he had not been willing to allow it, since in this case he would have had to bring a
+
+[margin: First cause why he can permit it.] [p. 575] different world into actuality, in which there would not have been so much good as in this one. But this rule is consistent with wisdom: that one permits the evil if one would hinder the good itself, in so far as one were not willing to permit it.
+
+§. 1059. That he does not, however, hinder ill and evil through miracles comes from his wisdom: For I have already demonstrated above that God must prefer the course of nature to miracles (§. 1041). And since God cannot in general will and not will something at the same time (§. 10), he also cannot will that this world should have its actuality, and yet not will that its events should occur as its essence and its nature bring with them: particularly since thereby the world would no longer remain so complete a mirror of the wisdom of God (§. 1041), for the sake of which purpose he has nevertheless made it.
+
+[margin: Why God does not hinder evil through miracles.]
+
+§. 1060. And precisely thereby he has proved his wisdom, in that he brings the evil, which springs without his contribution from the limitations of the creature, into agreement with the good that comes from him (§. 914). Namely he employs it as a means to the good and makes it so that thereby everything in the world agrees better with
+
+[margin: Another cause why he permits evil.] [p. 6] one another, and consequently greater perfection comes into the world than would otherwise be in it. I will illustrate both by an example, and the matter will soon become clear. E.g. We find in nature that very fruitful times follow again upon unfruitful ones. Since now in the world one state always comes from another, it is certain that the fruitful times would not have come to this degree if the unfruitful had not gone before (§. 547-548). And so God employs the unfruitful times themselves as a means that fruitful ones come. Since he has now moreover so arranged it that the unfruitful times must come more often, just when men with their evil conduct deserve punishment, or if he foresees that they would let the good times turn them away from the good, he promotes the good not only through permission of the evil, but also employs it to punish the wicked thereby, and to hold the good back from evil.
+
+§. 1061. The difficulties which one is accustomed to make in this matter come from this, that one presupposes much as certain, which is nevertheless found to be incorrect and false when one considers it more exactly. Thus one assumes, 1. that
+
+[margin: Whence the difficulties in this matter come.] [p. 577] a world is possible in which no ill occurs, that is, that bodily things could be connected with one another in such a way that nothing adverse would come of it. But this cannot be demonstrated in any way. We can overlook no whole connection of things in a world (§. 793), and can therefore neither comprehend for ourselves nor explain to others (§. 206) how it would have to be arranged so that all ill would be avoided. Nor is any such world actually extant anywhere (§. 949), that we could show it to anyone. I know well that one appeals to the omnipotence of God; but without ground. As long as I do not know whether such a world is possible or not, I cannot say that God can make it by his omnipotence (§. 1022). Rather I have already demonstrated that either no world was possible in which nothing evil is found, or that it must at least be of lesser perfection than the present one. And precisely this is what one assumes, 2., again idly, as if namely that world would be more perfect in which nothing evil were to be met with: because one is accustomed to judge of the perfection of the world apart from the connection of things, without [p. 6] which, however, no correct judgement can be formed in this matter (§. 703). Likewise one assumes, 3., that it would be better to hinder evil also through miracles than to permit it, although I have already shown the opposite of God (§. 1060), and shall hereafter demonstrate in another place, even of men, that they are not bound to hinder evil if they would on that account themselves have to do evil; which would happen in the case where they thereby hindered the good, which would follow if they, though with vexation, let the evil happen. In like manner one assumes, 4., without ground, that God could have created man on the earth in such a way that he would have remained entirely without sin. But since we know that God can change nothing in the essence of things (§. 994), but can only choose, according to his wisdom, what he finds best (§. 981), the opposite is rather clear. Namely, since he wished to put men on the earth, such as now inhabit it, he could also change nothing in their essence: otherwise he would have had to leave them out altogether and bring other creatures in their place, which however would have been contrary to his wisdom. The faculty to sin flows from the nature of man, and can therefore [p. 563] not be taken away from him. Men who could not have sinned would have been of another kind than these. It is indeed true that the possibility of sinning, according to Scripture, will be taken away in the other life: but this does not tell against us. For in that life we shall find ourselves in other circumstances than here on the earth. And therefore it may well be that a being in the circumstances of this world has a possibility of sinning, from which it is freed in other circumstances. But if one wished to say, God should have left men off the earth altogether: this would have offended against the wisdom of God. But here too one assumes, 5., as if God could have made this world without men: which, since the world is a machine (§. 557), is just as absurd as if one were to say, the clockmaker could have made the clock so that it still went as before even if he had left out this or that wheel.
+
+§. 1062. God has made the best world (§. 982), or the most perfect (§. 951). Since now the perfection of the whole grows from the perfection of the parts and their agreement with one another (§. 162), each thing also has
+
+[margin: How much good God shows to the creature.] [p. 6] in the world obtained as much perfection as is possible. Since now everything subsists through God's counsel and force (§. 1054), he has imparted to each thing as much perfection, and consequently shown as much good (§. 422), as is possible.
+
+§. 1063. The diligence in showing good to others is called *goodness*. Since now no more good can be shown than is possible, and God shows each thing as much good as is possible (§. 1062), God has the greatest goodness of all, and is good to the creature in the highest degree.
+
+[margin: God's goodness is the greatest of all.]
+
+§. 1064. The difficulties accordingly that are raised against the goodness of God arise partly from this, that one imagines a thing could have more perfection than it has attained, because we look at it apart from the connection of things, whose groundlessness has already been shown (§. 1061); partly because one imagines God should hinder evil (§. 1057), which he nevertheless, by virtue of his wisdom (§. 1059), indeed of his goodness itself (§. 1063), must permit, in that he can prefer neither a part to the whole, nor one to many, much less hinder evil in one by a miracle to the disadvantage of others; partly because one does not consider that all evil comes only from the creature,
+
+[margin: Whence the difficulties against it arise.] [p. 565] without any contribution of God (§. 1056); partly because one often holds as evil what is not evil, and on the other hand as good what is in fact harmful, because we do not foresee what follows from each (§. 428): to which it also belongs, that one does not consider how God lets what is adverse come as a means to promote our welfare (§. 1060). Whoever therefore weighs this will retain no scruple concerning the goodness of God; but will find in every way that God shows one as much good as is possible.
+
+§. 1065. An intuitive cognition of perfection makes pleasure (§. 404). Since now God sees all perfection, both his own and that of all other things, at once and completely (§. 964), God must also have pleasure, and indeed, since degrees of pleasure can grow only partly from the multitude and magnitude of the perfections, partly from the distinctness and the certainty connected therewith of the cognition one has of it (§. 409. 410), in the very highest degree.
+
+[margin: God has pleasure in the highest degree.]
+
+§. 1066. Since now God knows everything distinctly and at once (§. 955), it is not possible that a thing can appear to him at one time otherwise than at another.
+
+[margin: God's pleasure is constant.]
+
+[p. 6]
+
+And therefore his pleasure is constant and unchangeable (§. 407), and cannot accordingly turn, as with us men, into displeasure.
+
+§. 1067. All that we have hitherto demonstrated of God comes from this, that he can represent distinctly and at once everything that is possible. And accordingly the essence of God consists in the force of representing distinctly and at once everything that is possible, that is, all worlds (§. 33). And accordingly the divine essence has herein some similarity with the essence of our soul.
+
+[margin: In what the essence of God consists.]
+
+§. 1068. But since God possesses everything that flows from this representing force in the highest degree (§. 966. 858 etc.), man on the other hand in a quite small degree (§. 848. 852 etc.); moreover the representing force of God himself is the greatest of all that can be thought (§. 1067) (for who would think of a greater than that which represents everything at once, and indeed quite distinctly or adequately?), whereas this same force in men is very greatly limited (§. 753): so the essence of God is distinguished from the essence of the soul of man in this, that the former has the highest degree of perfection that is possible, but man only a quite low
+
+[margin: How it is distinguished from the essence of our souls.] [p. 567] degree of it, which in respect of the very highest is to be counted as nothing.
+
+§. 1069. And accordingly one can say: God is the being which represents all worlds at once in the greatest distinctness. I know well that there will be some to whom this seems to say too little of God; but if they will go through the foregoing with attention and are capable of comprehending it, they will see sufficiently from it that not only everything that is merely praised of God, but much more besides, is brought out from this representing force of the worlds in greater clarity and distinctness than perhaps has ever yet happened.
+
+[margin: What God is.]
+
+§. 1070. Since now in God's representations there is pure distinctness (§. 1059), whereas affects arise from indistinct representations (§. 441), no affects at all are to be met with in God. Rather since a free will comes from distinct representations (§. 514), God has in those cases a free will without any restless motion, where men are stirred by affects.
+
+[margin: God has no affects.]
+
+§. 1701. Meanwhile, since in God there are such distinct representations as indistinct and obscure ones in the affects are met with
+
+[margin: How far one can use the names of the affects in speaking of God.]
+
+[p. 6]
+
+(§. 441. 955), and therefore his will must also go to such things as have a similarity with the outcome of our affects, so one may to that extent also use the names of the affects in speaking of God. It is necessary that I explain this fully with an example. I have shown (§. 449) that love is a readiness to draw from another's good fortune a notable pleasure, and so in fact nothing other than a joy over the good fortune of others. But I have at the same time proved that it arises from the representation of the good that we perceive in another. We now find also in God a representation of the perfection of which the creature is capable (§. 964), and so a representation of the good that can be imparted to it (§. 422). This representation awakens in God pleasure in it (§. 1065). Since now this pleasure in man is the affect of joy (§. 446), I can say, God rejoices over the good that is met with in the creature. And since now the perfection known beforehand moved God to bring it into actuality (§. 951), I can say, God is ready to take pleasure in the good fortune of the creature. And to that extent I can also attribute to him [p. 569] love. Whoever therefore considers this, and pays good heed thereby to what has been demonstrated of God in the foregoing, will find with each affect something similar which he can, without injury to his perfection, ascribe to God, and attribute to him without any offence under the name of the affect: as we find that God too does it himself in Scripture.
+
+§. 1072. Since God represents to himself everything that is possible at once, and indeed in all distinctness (§. 955), but everything that can belong to him is contained in this representation (§. 1067): God is everything that he can be at once, and accordingly without any limitations, or infinite (§. 109).
+
+[margin: God is infinite.]
+
+§. 1073. From this, however, it further follows that he is unchangeable. For if God were to change in anything, he would become something that he was not before, and would accordingly not be everything at once: which is contrary to what has just been demonstrated (§. 1072).
+
+[margin: Unchangeable.]
+
+§. 1074. Again, since with God everything is at once, nothing goes before and nothing follows after (§. 1072). Therefore since time consists in the order of things which follow one another (§.
+
+[margin: Outside time.]
+
+[p. 6]
+
+94), God is not in time. With him there is therefore no difference between today and yesterday, between yesterday and tomorrow, but he is and remains always the same.
+
+§. 1075. Therefore even if God had produced the world from eternity, as Aristotle formerly maintained, it would nevertheless not be eternal in such a way as God is; for it would be in an infinite time, whereas God is outside time. And for this reason it would nevertheless be distinguished from God also in its duration.
+
+[margin: The eternity of the world is distinguished from God's eternity.]
+
+§. 1076. Since the essence of God has a similarity with the essence of our soul (§. 1067), but the soul knows itself (§. 730), and so has a concept of itself (§. 273), we have precisely thereby at the same time a concept of God. For since our essence, and the attributes grounded in it, are limited (753), but God is infinite in everything (§. 1072), we need only leave out the limitations of our essence and of our attributes, and we obtain a concept of the essence and the attributes of God.
+
+[margin: Whence we have a concept of God and his attributes.]
+
+§. 1077. The essence of the soul consists in the force of representing the world, according to the
+
+[margin: It is by example] [p. 571] state of its body in the world, and the changes occurring thereby in the organs of the senses (§. 755). The limitations of this force are, 1. that the soul represents only this world and no other; 2. that its representation is directed according to the state of its body, and it therefore represents only few things clearly, little in them distinctly, and indeed one after the other. If one therefore leaves out these limitations, and accordingly puts all worlds for the one world; if one further extends distinctness to everything that is in them; if finally one leaves out time, so that everything is represented at once; there finally comes out the force which represents all worlds at once in complete distinctness, that is, the essence of God (§. 1067). In the same way one can attempt it with the remaining attributes.
+
+[margin: illustrated.]
+
+§. 1078. And from this we understand why it is possible that we can arrive, through the cognition of our soul, at the concepts of the essence and the perfections of God. Namely it is possible because we have a symbolic cognition, whereby we can separate from one another what in intuitive cognition is met with together and in one another
+
+[margin: How the concepts of God are possible.]
+
+[p. 6]
+
+For we need only leave out the words or signs by which the limitations are indicated, and put others in their place, by which the freedom from all limits is signified; then the words or other signs represent accordingly the unlimited in God.
+
+§. 1079. It is accordingly clear that we have in this world no intuitive, but only a symbolic knowledge of God (§. 1078). But what intuitive is to be met with therein belongs to our soul (§. 1076), in such a way that we now see God only through our soul (§. 1076) and the world (§. 1046) as in a mirror.
+
+[margin: Character of the knowledge of God.]
+
+§. 1080. We found in the foregoing that a single God contains in himself sufficient reason of everything that is possible and actual. Whoever therefore would posit more than one God would assume something without sufficient reason. Rather, since nothing can be without sufficient reason (§. 30), we must conclude from this that there is only one God.
+
+[margin: There is only one God.]
+
+§. 1081. We therefore know merely thereby that there is only one God, because everything in the world is connected with one another, and therefore can have its ground in no more than one single thing. But for this very reason
+
+[margin: Use of the cognition that the world is a machine.] [p. 573] the world is a machine (§. 557). If one would accordingly not concede that the world is a machine, one would also take from a man the cognition of the unity of God.
+
+§. 1082. Since now paganism consists in this, that one assumes many gods with human imperfections, in which one seeks the ground of the world and its events, it is clear from this that what is groundless is false. But one also sees now how greatly those err who make philosophy, or the natural knowledge of God and of the world, into paganism, and thereby hold others back from it.
+
+[margin: In what paganism consists, and that it is false.]
+
+§. 1083. This one God now, besides whom we need no other, has an understanding, from which comes everything that is possible (§. 973), and a free will, through which everything is that is actual (§. 988). Since now a thing that has understanding and free will is a spirit (§. 902), God is also a spirit, and indeed, since his understanding (§. 966) and his will are the most perfect (§. 985), the most perfect spirit.
+
+[margin: God is the most perfect spirit.]
+
+§. 1084. Finally, since this one God is good (§. 1063), but also at the same time wise (§. 1036), he can, with his highest goodness, never put aside the rules of wisdom
+
+[margin: and the most just of all.]
+
+[p. 6]
+
+The goodness which directs itself according to the rules of wisdom is that which we call *justice*: as I shall explain more fully hereafter. God is therefore also just, and indeed, since he possesses the highest degree of goodness as well as of wisdom, he must also have the highest degree of justice. Whoever therefore understands what has been said of the goodness and wisdom of God needs no further instruction on the justice of God:
+
+§. 1085. Nothing remains but that I add something also of the blessedness of God. I shall demonstrate hereafter in another place that the *blessedness of man* consists in an unhindered progress toward greater perfection. Since now God is unchangeable (§. 1073), and already possesses all perfection in the highest degree (§. 1083), he cannot attain to a greater perfection than he already has. And in such a way the blessedness of God must be distinguished from the blessedness of men.
+
+[margin: The blessedness of God is distinguished from the blessedness of men.]
+
+§. 1086. Since accordingly God is unchangeable (§. 1073), he must constantly preserve what he has once. Therefore, since he possesses the highest perfection
+
+[margin: What the blessedness of God is.]
+
+[p. 575]
+
+(§. 1083), he must also constantly retain it. But he is, moreover, independent of all things (§. 938), and so no one can hinder him in the rightful possession of his greatest perfection. And accordingly his blessedness consists in a tranquil possession of the highest perfection.
+
+§. 1087. Since blessedness consists in an unhindered progress to greater perfections (§. 1085), one readily sees that it reaches the highest degree where one reaches the greatest perfection. Since now God reaches it (§. 1083), his blessedness is also the greatest that can be thought.
+
+[margin: It is the greatest of all.]
+
+§. 1088. No creature can attain the greatest degree of perfection. For if this were to happen, its essence would have to be turned into the essence of God. But we know that no essence can be changed into another (§. 42). Since now God's blessedness consists in the possession of the highest perfection (§. 1086), it also cannot be imparted to any creature.
+
+[margin: Cannot be imparted to any creature.]
+
+§. 1089. This supreme blessedness brings God a constant pleasure, and indeed in the very highest degree: because the intuitive cognition of the
+
+[margin: Brings God constant pleasure and contentment.] [p. 6] perfection is its cause (§. 404). But it also brings complete contentment: for since God has everything in the highest degree, nothing more remains that he could still wish for beyond it. And accordingly his wish is completely fulfilled in everything: which again cannot be said of any creature.
+
+#### THE END.
+
+[scan 624]
+
+### The First Index,
+
+#### in which some technical terms are given in Latin.
+
+A.
+
+Purpose, *Finis*.
+
+Universal harmony of things, *Harmonia universalis*.
+
+Intuitive cognition, *Cognitio intuitiva*.
+
+Species of things, *Species*.
+
+Manner of composition, *Structura*.
+
+To arise all at once, *In instanti oriri*.
+
+Elastic force, *Vis elastica*.
+
+Exception, *Exceptio*.
+
+Enunciation, *Enunciatio*.
+
+B.
+
+Event, *Eventus*.
+
+To comprehend, *Comprehendere*.
+
+Concept, *Notio*.
+
+Subordinate species, *Species subalternæ*.
+
+Motive, *Motivum*.
+
+Adverbs, *Adverbia*.
+
+Prepositions, *Præpositiones*.
+
+D.
+
+Distinct cognition, *Cognitio distincta*.
+
+Thing subsisting through another, *Accidens*.
+
+E.
+
+Attribute, *Attributum*.
+
+Proper matter, *Materia cohærens*.
+
+Images of the imagination, *Phantasmata*.
+
+[scan 625]
+
+Imagination, *Imaginatio*.
+
+Influence, *Influxus*.
+
+Limitation, *Limitatio*.
+
+Individual things, *Individua*.
+
+Sensation, *Sensatio*.
+
+Opposition, *Oppositio*.
+
+Art of observation, *Ars observandi*.
+
+Complement, *Complementum*.
+
+F.
+
+Facility, *Habitus*.
+
+Symbolic cognition, *Cognitio symbolica*.
+
+Foreign matter, *Materia interlabens*.
+
+G.
+
+Thought, *Perceptio, Cogitatio*.
+
+Reaction, *Reactio*.
+
+What is grounded, *Causatum*.
+
+Genera of things, *Genus*.
+
+Organs of the senses, *Organa sensoria*.
+
+Magnitude, *Quantitas, Magnitudo*.
+
+Thoroughness, *Soliditas*.
+
+Ground, *Ratio*.
+
+Principle of reduction, *Principium reductionis*.
+
+Principle of contradiction, *Principium contradictionis*.
+
+Equipollence, *Æquipollentia*.
+
+H.
+
+Verb, *Verbum*.
+
+K.
+
+Force, *Vis*.
+
+L.
+
+Empty fiction, *Figmentum*.
+
+[scan 626]
+
+Empty propositions, *Propositiones identicæ*.
+
+Pleasure, *Voluptas*.
+
+Passion, *Passio*.
+
+M.
+
+Participles, *Participia*.
+
+N.
+
+To strive after a thing, *Appetere*.
+
+Consequent will, *Voluntas Consequens*.
+
+To arise gradually, *Successive oriri*.
+
+Noun, *Nomen*.
+
+Necessity in freedom, *Necessitas moralis*.
+
+Necessity of nature, *Necessitas physica*.
+
+R.
+
+Pure understanding, *intellectus purus*.
+
+S.
+
+Proposition, *Propositio*.
+
+Principle of sufficient reason, *Principium rationis sufficientis*.
+
+Principle of indiscernibles, *Principium indiscernibilium*.
+
+Absolutely necessary, *absolute necessarium, geometrice necessarium, metaphysice necessarium*.
+
+Apparent good, *bonum apparens*.
+
+Limits, *Limites*.
+
+Things related to one another, *Relata & Correlata*.
+
+Sensitive aversion, *Aversatio sensitiva*.
+
+Sensitive desire, *Appetitus sensitivus*.
+
+Leap, *Saltus*.
+
+[scan 627]
+
+Continuity, *Continuitas*.
+
+State of orderly thoughts, *Status perceptionum ordinatarum*.
+
+T.
+
+Action, or doing, *Actio*.
+
+Penetrating insight, *Acumen*.
+
+Penetrating, *Acumine præditus*.
+
+V.
+
+To reflect, *Reflectere*.
+
+To abhor, *Aversari*.
+
+Change, *Modificatio*.
+
+Combinatory art of signs, *Ars combinatoria characteristica*.
+
+Copula, *Copula*.
+
+Things connected, *Connexa*.
+
+Conjunctions, *Conjunctiones*.
+
+Faculty, *Potentia*.
+
+Faculty of recollection, *Reminiscentia*.
+
+Word of negation, *Vocula negationis, signum negationis*.
+
+Reason, *Ratio*.
+
+Analogue of reason, *Analogum rationis*.
+
+Logic of the probable, *Logica probabilium*.
+
+Concealment by transposition, *Crypsis per transpositionem*.
+
+To explain intelligibly, *intelligibili modo explicare*.
+
+Experiments, *Experimenta*.
+
+Art of experimenting, *Ars experimentandi*.
+
+[scan 628]
+
+Indistinct cognition, *Cognitio confusa*.
+
+Displeasure, *Tædium*.
+
+Pre-established agreement or harmony, *Harmonia præstabilita*.
+
+Antecedent will, *Voluntas antecedens*.
+
+Thing subsisting by itself, *Substantia*.
+
+Pronoun, *Pronomen*.
+
+Cause, *Causa*.
+
+Primitive force, *Vis primitiva*.
+
+W.
+
+World, *Universum*.
+
+Noun substantive, *Substantivum*.
+
+Spontaneous, *Spontaneum*.
+
+Spontaneity, *Spontaneitas*.
+
+Arbitrary sign, *Signum artificiale*.
+
+Wit, *Ingenium*.
+
+Words, *Vocabula*.
+
+Actuality, *Existentia, Actus*.
+
+Effect, action, *Effectus, Actio*.
+
+Efficient cause, *Causa efficiens*.
+
+Z.
+
+Art of signs, *Ars characteristica*.
+
+Adjectives, *Adjectiva*.
+
+Contingent, *Contingens*.
+
+To press back, *Reagere*.
+
+Connection, *Nexus*.
+
+State, *Status*.
+
+Interjections, *Interjectiones*.
+
+[scan 629]
+
+### The Second Index,
+
+#### of the principal matters.
+
+Training of animals. Why it is possible, 479.
+
+To feel aversion, 267.
+
+Purpose. Definition, 500. Who acts according to it, 500.
+
+God’s purposes. What they are like, 560. 561. Why they belong to him, 558. 559.
+
+Purposes in the world. That they are to be found there, 559. How they are arranged, 562. 563.
+
+Analogue of reason. In what it consists, 203. Belongs to animals, 204. 479. 480.
+
+Similarity. Definition, 8. 9. Whether it is found in nature, 317. 318. 319.
+
+Similarity of composite things, 23.
+
+Affect. Definition, 242. Kinds of affects, 242. What it causes in the body, 244. & *seqq.* By what words they are signified, 151. What they effect, 264. In what they consist, 485. Why they cause extraordinary motions in the body, 486. How they are distinguished from one another, 246. Whether they belong to God, 563.
+
+Supreme goodness belongs to God, 580.
+
+God is most just, 589.
+
+Supreme reason. Why it belongs to God, 531.
+
+General concepts, 136. How the soul brings them
+
+[scan 630]
+
+forth, 457.
+
+General cognition. How it is attained, 131. 136. What use words are in it, 157. Its cause, 458. How it is represented in the body, 459. 460. 461.
+
+Universal harmony of things, 325. 326.
+
+General words. What is to be noted about their use, 95. 96.
+
+Omnipotence of God. What it is like, 556. 557.
+
+Omniscience of God, 520. 521.
+
+Agreeable affects. Definition, 242. How they arise, 243.
+
+Intuitive cognition, 152.
+
+Species, 103. 104.
+
+Species of things. How they are found out, 131. 136.
+
+Medicine. Whether it benefits the soul, 449. 450.
+
+Atheists. Why they deny miracles, 344.
+
+Attention. Definition, 129. Use, 130. Heightening, 130. Hindrances, 130. What it contributes to wit, 473. What it does for reason, 476. 477.
+
+Enunciation, 150.
+
+Elastic force. How it acts in motion, 372. Its magnitude, 373. Effect, 374.
+
+Extension in length, breadth and thickness, 21.
+
+Outside the world. What it means, 343.
+
+Outside one another, 19.
+
+Extraordinary events, 392.
+
+[scan 631]
+
+Outside us, 18.
+
+Measuring, 24.
+
+Exception. How it is made, 73. 74. How to arrange it, 74.
+
+Events in the world. Whence they come, 293. Necessity, 298. Whence sudden ones come, 378. 379. From what natural ones are known, 376. Whether they are contingent, 311. How they are grounded in it, 299. & *seqq.*
+
+Concepts. Definition, 131. How we arrive at them, 131. 132. Their difference, 132. How they become general, 136. How the soul brings forth the general ones, 457. How it attains the concept of God, 586. 587.
+
+Concepts of corporeal things. Whence they come, 451.
+
+Recollection. How it happens, 125. How far it extends, 125. 126.
+
+The best. When it is represented adequately, 499.
+
+Consternation, 259.
+
+Proofs. What they are like, 179. & *seqq.* Why one does not see what they are like, 184. 185.
+
+Motion. Definition, 22. Whether the soul brings it forth in the body, 289. 290. Its rules, 351. 370. 374. It gives the difference of the parts, 375. Is communicated gradually, 374. Arises from preceding motion, 352. How it is communicated, 360. & *seqq.* 370. Has a cause from outside, 331.
+
+Moving force can decrease and increase, 357. 358. Is a persisting thing, 359. How it can [scan 632] be increased and diminished, 359. Has a certain degree of velocity and a direction, 359.
+
+Motive of the divine will, 533.
+
+Motives. What they are, 267. When they are hidden, 269. 270. What is to be reckoned among them, 271. They make actions not necessary but certain, 279.
+
+Consciousness. Cannot be called in doubt, 2. Why it ceases in sleep, 441. Remains in dreams, 443. 444. Whence it comes, 402. & *seqq.* 406.
+
+Occurring to one. What it means, 124.
+
+Adverbs, 151.
+
+Prepositions, 151.
+
+Image. Definition, 413. 414. Its perfection, 452. 453.
+
+To be evil. What it means, 263.
+
+Evil cannot be willed, 273. When one seems to will it, 273. 274.
+
+Evil. Definition, 235. Difference, 236. Degrees, 237. Arouses displeasure, 235. Why God contributes nothing to it, 580. 573. Why he permits it, 574. & *seqq.* Why he does not prevent it by miracles, 575. Whether it is always good to prevent it, 578. 580.
+
+Bodies. Definition, 101. Ground of their attributes, 333. Changes, 333. 334. How they are to be comprehended, 333. Whether they are machines, 334. Their constitution, 329. 330. Force, 336. What they are, 337. How they are distinguished from matter [scan 633] 337. Their nature, 337. Essence, 331. When they hinder one another, 345. When they act on one another, 335. How they press one another, 365.
+
+Bodies press back, 353. & *seqq.* Have an elastic force, 371. Cannot think, 407. Nor obtain a force of thinking, 409. Cannot move themselves, nor hinder motion, 331.
+
+Corpuscles. How they cohere, 345. 346. How far they take place, 333.
+
+Creature. What they are, 567.
+
+Gratitude. What it is and how it arises, 256.
+
+Demonstration, 179. & *seqq.* Its certainty, 4.
+
+Thinking. Whether it takes place in sleep, 441.
+
+Distinct cognition, 133. Its use in distinguishing good and evil, 237. What it does in pleasure, 238. Why it makes pleasure, 480.
+
+Distinct concept. How it is used, 169.
+
+Distinct representations. Why they are sometimes set aside, 272.
+
+Distinctness belongs to consciousness, 405. How it enters into symbolic cognition, 158. Helps the memory, 129. Makes us understand something, 133.
+
+Distinctness of sensations helps the imagination, 110.
+
+Distinctness of thoughts. Definition, 97. Origin, 97. 98. Degrees, 98. 99.
+
+[scan 634]
+
+Thing. Definition and difference, 8. 49. How we can call it by its name, 165. & *seqq.* Whether they can be similar to one another, 317. Their multiplicity, 321.
+
+Things of one species. Their origin, 80. And difference, 80. 81. 82.
+
+Things similar to the soul, 455. 456. Why they do not all have names, 495. 496. Their species, 496. 497. 498.
+
+Things related to one another. Definition, 87. 88. How one learns to understand them, 88. 89.
+
+Things subsisting through others. Definition, 49. By what words they are signified, 144. 145.
+
+Things subsisting by themselves. Definition, 49. Species, 52. Effects, 50.
+
+Composite things. Definition, 21. Essence, 23. Attributes, 21. & *seq.* Similarity, 23. 24. Changes, 26. & *seqq.* Origin and destruction, 24. 25. Perfection, 323. How they come from the simple ones, 327.
+
+Obscure thoughts, 93.
+
+Obscurity removes consciousness, 404. Whence it arises, 94.
+
+Egoists. What they taught, 2. Are refuted, 514. 515.
+
+Attributes. Definition, 18. By what words they are signified, 148. 149.
+
+Proper matter, 354.
+
+Images of the imagination. Definition, 111. Difference from [scan 635] sensations, 112. Mixing with sensations, 112. 113. What they are, 413. How they are distinguished from images, 413. Why they are not grounded in one another, 446. 447. What they are in the body, 447. Whether they are to be counted among the acts of the soul, 452. What they represent, 445. Whether they are in our power, 116. Why they cease in sleep, 442.
+
+Imagination. Definition, 111. Rule, 113. Difference in its representations, 110. 116. Use in inferences, 179. What it properly is, 445. Why God has none, 524. Why it conforms to the brain, 448. What it has to do with, 115. 117. How it can be disordered, 448. How it is enlarged, 127. 128. 130. It brings slavery, 268. Disturbs attention, 130. Makes dreams, 114. Is useful in learning languages, 141. 142. Belongs also to animals, 478.
+
+Simple thing. Definition, 29. Actuality, 29. 30. Attributes, 32. 33. How they arise, 37. How they cease, 41. Their effects, 53. 54. 324. Inner constitution, 43. 44. 322. Limits, 47. Force, 52. How to distinguish them, 317. Whether they can be similar to one another, 317. How they fill space, 326. 327. How they cohere, 329. Ground of their connection, 322. 323. They cannot be moved, 381.
+
+Simple dream, 442.
+
+Identical, 8.
+
+[scan 636]
+
+Unity of God, 588.
+
+Unities of nature, 325. 496. 497. How their state is constituted, 415.
+
+Limitation of the soul. In what it consists, 433. 434.
+
+Individual things, 82.
+
+Elements. Their difference, 317. Why they cannot be seen, 382. What they are, 315. Common error concerning this, 316. Their constitution, 317.
+
+Sensibility. In what it consists, 263.
+
+Sensibility to good and evil, 237.
+
+Sensations. Definition, 103. What they properly are, 412. 413. Their clarity, 107. Obscuring, 107. Stronger ones obscure the weaker, 107. How far they are in our power, 107. 108. 109. Their similarity with the things sensed, 426. What they represent, 426. When they are distinct, 427. Their perfection, 451. 454. 455. Whether they are acts of the soul, 451. How the dream arises from them, 113. Why they coincide with the changes of the body, 428. Which the soul can have, 438. 439. What ground their changes have, 435. 436. How they become thoughts, 414.
+
+Sensations of men. How they are known by God, 525.
+
+Finite things, 46.
+
+Fictions in the sciences, 541.
+
+Experience. Definition, 159. Difference, 159.
+
+[scan 639]
+
+160. Rules, 160. & *seqq.* Whence it has its certainty, 5. 164. Use, 163. Difference from reason, 202.
+
+Art of observation, 163.
+
+Inventing, 195. Why it brings pleasure, 224. 225.
+
+Inventors. How to judge of them, 475. 476.
+
+Inventions. Their origin, 543.
+
+Fathoming. In what it consists, 470.
+
+Preservation of the world. What it is, 571. How far it extends, 571. 572. 573.
+
+To know, 133.
+
+Cognition. Definition, 133. Difference, 133. Degrees, 133. Imperfection, 134. Species, 152. Which is required for pleasure, 225 & *seqq.* Which is attained by experience, 163.
+
+Knowledge of God, 533. 525. 526. 588.
+
+Expectation of similar cases. Its similarity to reason, 203. Whether it is to be found in animals, 204. 479. 480. In what it consists, 164. 165.
+
+Eternal. Definition, 17.
+
+Eternity of the world is distinguished from God’s eternity, 586.
+
+Examples. Use of common ones, 69. 70.
+
+False, 214.
+
+Facility. What it is and how it is acquired, 284.
+
+Figure. How it is changed, 26. 27. How it arises, 22.
+
+Symbolic cognition. Definition, 152. Use, 155. 158. Disadvantage, 156. Advantage over the intuitive [scan 640] cognition, 157. Signs, 153. & *seqq.* Constitution, 157. How it is represented in the body, 461.
+
+Dark. What it signifies in the soul, 98.
+
+Cheerfulness. What it is, 288.
+
+Being glad, 248.
+
+Feeling, 104.
+
+Fear. What it is and how it arises, 258.
+
+Foreign matter, 385.
+
+Joy. What it is, 246. How it arises, 247.
+
+Freedom. What it is, 281. How one knows it, 278. False concept of it, 277. Its ground, 281. Whether it belongs to animals, 490.
+
+Freedom of the divine will, 535. 536. 537. 538.
+
+Freedom of the soul is not removed by God’s foreknowledge, 529. 530. Is consistent with the pre-established harmony, 486. 487. 488.
+
+Free actions. What they are like, 278.
+
+Memory. What it is, 120. 121. 122. False definition, 123. When one grasps something well in it, 123. Belongs to animals, 478. Serves in learning languages, 141. 142. Why it is found in wit, 473. Why it conforms to the brain, 448. What use it is in inferences, 178. 179. How far it goes, 125. Degrees, 216. Enlargement, 127. 128. How it can be disordered, 448. Is required for consciousness, 405.
+
+Art of memory, 129.
+
+Thoughts. Definition of the word, 91. Mark, 91. Difference, 91. 101. How they are represented in a machine, 408. 409. They have [scan 641] their measured time, 406. and a velocity, 407. why they seem to come from the heart, 461. 462. from which it is known that one has already had it, 119. 120. from what they take their beginning, 466. 467. their rules, 467. how they arise from one another, 113. 165. 172.
+
+Touch, 106.
+
+Reaction is equal to the effect, 365. & *seqq.*
+
+Hearing, 106.
+
+Spirit. What it is, 493. 494. 495. Which is the most perfect, 498.
+
+Paintings, 414.
+
+Geometrical necessity, 310.
+
+Justice. In what it consists, 573.
+
+Smell, 106.
+
+Skill. What it is, 284. 285.
+
+Aptitude for experience, 160.
+
+Genera. Definition, 83. 84. Difference from species and individual things, 84. 85. 86. How they are known, 135. 136.
+
+Taste, 106.
+
+Laws of nature, 331. How they are known, 549.
+
+Sight, 106.
+
+Control. What is within and beyond our control, 108. 109.
+
+Certainty of the events of bodies. Whence it comes, 334.
+
+Certainty of our actuality, 3. 4.
+
+Certainty of a demonstration, 4.
+
+[scan 642]
+
+Certainty in the actions of men, 164. 165.
+
+Certainty in experiences, 163.
+
+Certainty of geometrical truths, 4. 5.
+
+Certainty does not make absolutely necessary, 299.
+
+Certainty of our cognition. In what it consists, 211. Whence it comes, 212.
+
+Equality, 10. 11.
+
+Good fortune. What it is, 545. How it comes from God, 547. Is a divine purpose, 561.
+
+Organs of the senses, 103.
+
+God. Definition, 515. Actuality, 516. Attributes, 516. 520. & *seqq.* Does nothing in vain, 568. His essence, 582. 583. How he is known, 570. 571.
+
+Divine revelation. Its marks, 551. & *seqq.*
+
+Whole. Definition, 11. Attributes, 11.
+
+Magnitude. Definition, 10. 24. How it is changed, 25. 26.
+
+Greater, 11.
+
+Ground. Definition, 12. Principle of sufficient reason, 13.
+
+Principle of reduction, 197.
+
+Principle of contradiction, 5.
+
+Grounds of the rule of motion, 373. 374.
+
+Thoroughness. What it is and its degrees, 470. 471. 472.
+
+Favour. What it is and how it arises, 256.
+
+Good. Definition, 255. Arouses pleasure, 234. Difference, 234. 235. Degrees, 237. Moves the will, 273. How much God shows to the creature [scan 643] 579. Is sometimes taken for evil, 581.
+
+To be good. What it means, 263.
+
+Goodness. In what it consists, 580. Belongs to God, 580.
+
+Harmony of things. In what it consists, 325. 326.
+
+Harmony between body and soul. In what it consists, 424. How it is possible, 425. Cannot subsist without God, 426. What sustains it, 438. Raises God’s wisdom to the very highest, 568. 569. Why God prefers it to his immediate action, 569. What difficulties it is subject to, 431. 432.
+
+Hatred. What it is, 250. How it arises, 251. When it arouses joy, 251. When it causes sorrow, 252.
+
+Principal purpose of the world, 566. 567.
+
+Verbs, 148. 149. 150.
+
+The glory of God is the principal purpose of the world, 567.
+
+Paganism. In what it consists, 573. Becomes reasonable if one grants that the world is no machine, 573.
+
+Hearing, 103. 104.
+
+Hope. What it is and how it arises, 257.
+
+Idealists. What they maintain, 429. Do no harm to the sciences, 436.
+
+In a thing. What this manner of speaking means, 92.
+
+Inner motion of bodies, 347. 348. & *seqq.*
+
+In us. What this manner of speaking means, 92.
+
+Irrational numbers illustrate the contingent, 314. 315.
+
+[scan 644]
+
+Error. Definition, 214. Origin, 215.
+
+Clear thoughts. Definition, 93. Cause of the name, 93. 94.
+
+Clear sight, 93.
+
+Clearness of sensation, 107. Is required for consciousness, 405. Whence it arises, 94. Its degrees, 94.
+
+Smaller, 11.
+
+Faintheartedness, how it arises, 260.
+
+Force. What it is, 49.
+
+Force of bodies, 336. 337. Whether it can produce thoughts, 417. Is originally in the elements, 383. Whence it comes, 383.
+
+Force of the soul, 410. 411. 412. How it is to be known, 412. How far it extends, 415. What it is like, 414. 415.
+
+Force of invention. In what it consists, 115.
+
+Art. How it differs from nature, 344.
+
+Art of invention. Whence it comes, 474. Its perfection, 474. What it is, 196. Its grounds, 196. 197. 198. Its constitution, 199.
+
+Art of invention of the architects, 117. 118.
+
+Art of invention of some artists and scholars, 118. 119.
+
+Course of nature, 400. 401.
+
+Empty fiction, 115.
+
+Empty propositions. What they are and their use, 189.
+
+Body. How it can speak reasonably without the soul, 463. How its changes agree with the soul, 429. 430. How we know our own, 101. How the thoughts according to it [scan 645] are directed, 102. How it agrees with the soul, 289. 290. Whether it acts upon the soul, 89.
+
+Being acted upon. When it belongs to a body, 335.
+
+Passion. Is defined, 42. 43.
+
+Learning. When it brings pleasure, when vexation, 481.
+
+Light. What dawns larger in the soul, 98.
+
+Bright. What it signifies in the soul, 94. 95.
+
+Love. What it is and how it arises, 249. When it begets joy, 250. When it causes sorrow, 250. Its marks, 250.
+
+Pleasure. How it arises, 220. Comes from indistinct cognition, 480. Ground of it, 221. Constancy, 222. 223. Degrees, 223. 224. In which affects it is found, 243. Whether it is to be reckoned among the affects, 243. 244.
+
+Pleasure in learning, 481.
+
+Measure, 24.
+
+Power. What it is, 556. Belongs to God, 555. 556. Its degrees, 558.
+
+Manifoldness of things in the world, 321. 322.
+
+Matter. What it is, 330. Has a force of resisting motion, 331. Is in constant motion, 345. 336. Is distinct from bodies, 337. Cannot think, 408. Is actually divided, 375. How nature dissolves it, 382. Of what it consists, 383. Whether it is a thing acted upon, 335.
+
+Opinion. What it is, 210. Whence it comes, 210. 211.
+
+Man. Those who accomplish not much that is praiseworthy, 255. Has no perfect reason, 499. Nor will [scan 646] 500. Whether the possibility of sinning could have been taken from him, 562.
+
+Metaphysical necessity, 310.
+
+Compassion. What it is and how it arises, 250.
+
+Means. Definition, 501.
+
+God’s means. What they are like, 563.
+
+Participles, 150.
+
+Possible. Definition, 6. Why not everything becomes actual, 7. 308. Why God knows everything, 520.
+
+Possibility is demonstrated without God’s will, 540. Whence it comes, 532.
+
+Mother tongue. How it is learned, 141. 142. Why children understand it sooner than they speak it, 143.
+
+Consequent will, 272.
+
+Nouns. Definition, 143. 144. Species, 144. & *seqq.* Changes, 146. 147.
+
+Names of the affects. How far they are to be ascribed to God, 583.
+
+Nature of body, 337.
+
+The natures of things are God’s means, 562. What it is in itself, 337. 338.
+
+Nature of the soul, 415. How the human is distinguished from the bestial, 492. 493.
+
+Nature makes no leap, 375. and nothing in vain, 568.
+
+Natural. Definition, 338. Whether it can be explained, 338. What it is in regard to the soul, 416. Why it surpasses miracles, 565. And God prefers it to them, 565.
+
+Natural necessity, 310.
+
+Natural dream, 443.
+
+[scan 647]
+
+Natural signs, 140.
+
+Naturally good, 234.
+
+evil, 235.
+
+Natural science, 338.
+
+Envy. What it is and how it arises, 253.
+
+Nothing, 12.
+
+Nilling. In what it consists, 265. How it differs from omission of the will, 266. How it arises, 484. 485.
+
+Necessary. Its distinction, 309.
+
+Necessary under a condition, 309.
+
+Necessary thing, 507.
+
+Necessity. Definition, 15. Whence it comes, 79.
+
+Moral necessity, 310.
+
+Necessity of nature, 310. 312.
+
+Necessity of freedom, 281.
+
+Use. What it is, 560. 561.
+
+The uses of the works of art are divine purposes, 561. 562.
+
+What is orderly is not necessarily perfect, 397. 398.
+
+Order. Definition, 55. How it is known, 58. 60. Its rules, 60. Degrees, 63. 64. Number of the rules, 64. What it is like in the world, 297. 379. How it differs from perfection, 397. 398. How one learns to know it, 399.
+
+Order of nature, 397.
+
+Place. Definition, 19. What it is like, 20.
+
+Person. Definition, 506.
+
+Points of nature, 328.
+
+[scan 648]
+
+Space. What it is, 19. 57. Comprehensible parts, 39.
+
+Decree, 544.
+
+God’s decree. What it is like, 544. 545.
+
+Rules of motion, 351. 370. 374. Of thoughts, 467.
+
+Pure understanding, 134. 135. Belongs to God, 526.
+
+Repentance. What it is and how it arises, 254. Brings despair, 254.
+
+Smelling, 104.
+
+Desire for glory. What it is and how it arises, 255. What use it is, 255.
+
+Proposition, 150.
+
+Principle of sufficient reason, 13. Of indiscernibles, 320. 321.
+
+Malicious, 252.
+
+Shame. What it is and how it arises, 254.
+
+Acuteness. What it is and its degrees, 469.
+
+Syllogisms. Whence they have their certainty, 5.
+
+Syllogism. Definition, 171. How it is made, 165. & *seqq.* Use of it, 171. & *seqq.* Whether one can make it before one knows the conclusion, 178. 179. How they are concealed in demonstration, 182. 183. Degrees of their perfection, 470. Use in inventing, 196. What it is like, when we know that we are, 4.
+
+Slavery. In what it consists, 264.
+
+Fright. What changes it causes in the body, 245. 246. What it is and how it arises, 259.
+
+Creation. What it is, 570.
+
+Apparent good, 234.
+
+Absolutely necessary, 309.
+
+[scan 649]
+
+Tasting, 104.
+
+Pain. What it is, 234. 235.
+
+Independent being. Definition, 508. Actuality, 508. Attributes, 508. etc.
+
+Seeing, 103.
+
+Soul. Definition of the word, 90. Whether it senses, 104. 105. Its union with the body, 290. How it agrees with the body, 286. & *seqq.* Whether it acts upon the body, 288. 289. Is a simple thing, 410. Has a single force, 410. 411. Is a finite thing, 433. Its limitation, 433. How it represents everything, 427. 428. Whether it moves the body, 417. & *seqq.* Its community with the body, 420. & *seqq.* How many kinds of souls are possible, 436. 437. It is not independent, 512. 513. 514. Whether it shows itself active in sensing and imagining, 451. 452. Why it senses nothing when the organs of the senses are injured, 438. Why it conforms to the nerves and brain, 448. How it passes from one thought to another, 445. What it does in sleep, 440. 441. 442. Whence it gets the concepts of bodies, 451. Degrees of its perfection, 455. 456. How it makes syllogisms, 462. How it attains general concepts, 457. 458. How it represents its own body to itself, 481. Endeavours to change its representations, 481. 452. How it brings forth desire and will, 482. & *seqq.* Which souls are spirits, 498. In what its essence consists, 410. Error of Descartes about its essence, 90.
+
+[scan 650]
+
+Souls of men. In what they differ from animals, 491. 492. Whether they differ essentially from one another, 493. Whether they are spirits, 494. In what their essence consists, 497. 498. Are incorruptible and immortal, 505. 506.
+
+Souls of animals, 437. 497. Is incorruptible, 505. But not immortal, 506. Whether it remembers its former state, 505. 506. Are no spirits, 493. nor bodies, 494. 495.
+
+Souls that are more perfect and less perfect than the human, 456. 457.
+
+Senses. Definition, 103. Their number, 106. Disturb attention, 130. Bring slavery, 264. When they fail, 259. Why they sometimes represent things incorrectly, 439. How they can be disordered, 448. Their perfection, 455. Why God has none, 524.
+
+Blessedness of man, 590. and of God, 591.
+
+Sensitive aversion. How it arises, 240. 241. Degrees, 241. In what it consists, 484. 485.
+
+Sensitive desire. How it arises, 238. 239. 482. Its degrees, 241. Whether it belongs to animals, 489.
+
+Ingenious, 198.
+
+Languages. How they are learned, 142. How they promote the use of reason, 477.
+
+Leap. Why it is present in dreams, 114. But does not take place in nature, 375. When it is allowed in syllogisms, 183. 184. How it differs from the sudden, 376. 377.
+
+State of orderly thoughts, 194.
+
+Statue. What it properly is, 414.
+
+Continuity, 23.
+
+Striving after a thing, 267.
+
+[scan 651]
+
+Part. Definition, 11. Attributes, 11.
+
+Animals. Whence it is possible to train them, 479. Are no persons, 506. Are conscious of themselves, 440. Have a soul, 437. No freedom, 490. Sensitive desires, 489. No will, 490. No reason, 478. But something analogous to it, 479. Imagination and memory, 478.
+
+Doing. Definition, 42. 43. When it belongs to a body, 314.
+
+Depth of thoughts. Whence it comes, 98.
+
+Penetrating insight, 99.
+
+Penetration. In what it consists, 477. Means to it, 477.
+
+Penetrating, 98. 99.
+
+Folly, 502.
+
+Death, 507.
+
+Dream. Definition, 61. Difference from truth, 62. Origin, 442. Kinds, 443. What it is, 444. How it is to be explained, 113. 114. Why disorderly, 114. Why it does not remove consciousness, 443. 444.
+
+Sorrow. What it is, 248. How it arises, 249.
+
+Ill does not come from God, 573.
+
+Reflection. In what it consists, 131. Is required for consciousness, 405. Why it is necessary for reason, 476. 477.
+
+Supernatural. Definition, 339. What it is in regard to the soul, 416.
+
+Supernatural dream, 443.
+
+Agreement of the soul with the body. How it is to be perceived, 285. In what it consists, 286. & *seqq.* &c. See Harmony.
+
+[scan 652]
+
+Changes. What they are, 44. 46.
+
+Copula. What it is, 149. How it is concealed, 150.
+
+Combinatory art of signs, 158. 159.
+
+Union of the soul with the body, 290.
+
+Forgetting. When it happens soon, 124.
+
+Forgetfulness. What it is, 123. 124.
+
+God’s pleasure. In what it consists and what it is like, 581. Whence it arises, 591. 592.
+
+Conjunctions, 151.
+
+Connected. What it means, 293.
+
+Connection in the world. What it is like, 293. 294.
+
+Derision. In what it consists, 252.
+
+Longing. What it is and how it arises, 260.
+
+Mixed affects, 242. 243.
+
+Faculty, 50.
+
+Word of negation, 149.
+
+Reason. Definition, 199. Degrees, 201. Why some have reviled it, 205. Meaning in Scripture, 205. & *seqq.* Cognition that comes from it, 208. When it is pure, 209. Its perfection, 498. 499. Whence it comes, 476. With what it is associated, 476. 477. How it promotes language, 477. Why animals have none, 478.
+
+In accordance with reason, 201.
+
+The analogue of reason belongs to animals, 479.
+
+Rational beings act according to purposes, 500.
+
+Logic of the probable, 218.
+
+Syllogisms, 203. How the soul makes them, 462. How they are represented in the body, 463.
+
+To speak reasonably. How it happens without the influence of the soul, 463.
+
+To understand, 132. 133.
+
+Understanding. Definition, 132. Difference from the senses and imagination, 132. 138. Kinds, 134. Effects, 136. Degrees of its perfection, 467. 468. Kinds of perfections, 468. 469. Is not perfect in men, 470. 471.
+
+God’s understanding. Definition, 520. Difference from the human, 520. 521. Magnitude, 521. & *seqq.*
+
+[scan 653]
+
+What it is like, 526. Is the most perfect, 526.
+
+Art of experimenting, 163.
+
+Intelligible, 132.
+
+Trust. What it is and how it arises, 257. 258.
+
+Corruptibility. What it is, 505.
+
+Despair. What it is and how it arises, 258.
+
+Inconstancy in speaking. Whence it comes, 161. How it is avoided, 161.
+
+Indistinct cognition. Why it causes displeasure, 480. What it is, 133. What it does in distinguishing good and evil, 237. 238.
+
+Indistinctness of thoughts. Definition, 100. Origin, 101.
+
+Indistinctness of sensations hinders the imagination, 111.
+
+Infinite. What it is, 46. What it is in particular in God, 585.
+
+Misfortune. What it is, 545. 546. How it comes from God, 546. 547. Is a divine purpose, 561.
+
+Uncertainty. In what it consists, 213.
+
+Displeasure. How it arises, 203. 480. Its degrees, 234. In which affects it is found, 243. Whether it is to be reckoned among the affects, 243. 244.
+
+Impossible. Definition, 6. Distinction, 308. 309.
+
+Immediate consequences. Definition, 186. Their kinds, 186. & *seqq.*
+
+Disorder, 57.
+
+Impure understanding, 134.
+
+Things distinct, 8.
+
+Perishing of composite things, 25. 48. Of simple things, 41.
+
+The indivisible in nature, 325.
+
+Immortality, 506.
+
+Imperfection. Definition, 69. Does not come from God, 573. Where it comes from in nature, 390. & *seqq.*
+
+Perfection. Definition, 69. Degrees, 66. 77. How it is known, 68. Number in a thing, 60. Whether a thing can have several, 580. Whence it springs, 532. Its rules, 73. 75. Whence it arises in the composite, 323. Whence in the world, 324. Its order, 397.
+
+[scan 654]
+
+Perfection of an image, 452. 453. Of sensation, 453. 454. 455. Of the soul, 455. Of the senses, 455. Of the understanding, 467. & *seqq.* In syllogisms, 470.
+
+Perfection of the world. What it is like, 381. & *seqq.* Is hard to judge, 386. Has rules, 387. 388. 389. How it is to be discovered, 396.
+
+Most perfect wisdom, 504. 505. 568.
+
+reason, 498. 499.
+
+Most perfect spirit, 589.
+
+understanding, 526.
+
+will, 526.
+
+Foreknowledge of God brings no necessity, 528. 529.
+
+Pre-established harmony. In what it consists, 424. How it is possible, 425. Cannot subsist without God, 426. 488. Raises God’s wisdom above everything, 568. 569. Why God prefers it to his immediate action, 569. What difficulties it is subject to, 431. 432. Does not hinder the freedom of the soul, 486. 487. Is freed from the difficulties, 464. 465. 466.
+
+Antecedent will, 272.
+
+Things subsisting by themselves. What they are, 49. By what words they are signified, 144.
+
+Representations of God. How they differ from human ones, 525.
+
+Representations of the soul. How they coincide with the events of the world, 428.
+
+Pronouns, 147. 148.
+
+Cause, 12.
+
+Origin of simple things, 37. Of composite things, 28. 38. 40.
+
+Primitive force, 385.
+
+Judgements. Their constitution, 136. 137. 138. What use words are in them, 156. 157. How they are expressed, 170.
+
+Waking. What it is in regard to the soul, 444.
+
+Fickleness. In what it consists, 259.
+
+[scan 655]
+
+Truth. What it is, 60. 61. Its origin, 63. 532. Where many are to be found, 69. How it is known, 202. Why it is in the world, 297. Not in dreams, 114.
+
+True. Definition, 213. Difference from opinions, 214.
+
+True good, 234.
+
+Probable. Definition, 215. & *seqq.* Ground, 217. Degrees, 218. How it proceeds, 219.
+
+Wisdom. Definition, 502. Degrees, 502. 503. Perfection, 504. 505.
+
+God’s wisdom. What it is, 563. What exalts it most, 569.
+
+World. How a concept of it is to be attained, 291. What ours is like, 292. What it is, 293. Why there can be only one, 517. 518. 305. & *seqq.* 567. 568. Why one can be preferred to another, 519. How it is known by God, 519. Whether the present one is the best, 534. 535. 537. It is a whole, 294. Its essence, 295. In what its changes are grounded, 295. When it no longer remains the same, 295. 303. Is a machine, 297. How much the changes have to say, 304. It is not independent, 512. When it is more perfect than others, 398. & *seqq.* Origin of its perfection, 323. 324. When it is a work of wisdom, 563. When of God’s power, 564. Whether it is contingent, 311. Whether it could have been without men, 579. And without ill, 577.
+
+Philosopher. What his cognition should be like, 3. Why God is the most perfect, 531.
+
+Philosophy of the lazy, 316.
+
+Essence. Definition, 14. Attributes, 15. 16. 17. 18. Where it has been from eternity, 532. It is God’s means, 562. Whether it is arbitrary, 541. 542. 543. Whence it springs, 531. 532.
+
+Essence of bodies, 331. Of the soul, 415. How it differs from the brutish soul, 492. Of composite things, 23.
+
+Noun substantives, 144. Essential perfections, 87.
+
+[scan 656]
+
+Contradiction. What it is like, 6. What ground it has, 5.
+
+Disagreeable affects. Definition, 242. How they arise, 243.
+
+Will. How it arises, 482. 483. 484. What it is, 265. Its motives, 267. How it is known, 271. Kinds of it, 272. When it tends to evil, 273. Whether it is free, 281. Whether it can be compelled, 282. 283. When it cannot arise, 274. & *seqq.* Why animals have none, 490. When it is most perfect, 499.
+
+God’s will, 533. When one can appeal to it, 539. 540. How it is known, 547. & *seqq.*
+
+Spontaneity. In what it consists, 280.
+
+Spontaneous doing and omitting, 280.
+
+Arbitrary signs, 140.
+
+Science, 195. Why it brings pleasure, 224. 225. Where it comes from, 209.
+
+Wit. What it is, 198. Whence it arises, 473. With what it is associated, 473. Degrees, 474.
+
+Words. Definition, 139. Constitution, 140. 141. Origin, 140. 141. Difference, 143. 144. Meaning, 157. Serve for the distinctness of concepts, 155. What use they are in general cognition, 459. How the body brings them forth at the right time, 459. 460. 461.
+
+Actuality. Definition, 7. Whence it springs, 539. How we know ours, 1. 3. 4. Why God does not help everything to it, 557. What attains it, 308.
+
+Efficient cause, 51. Effect, 51.
+
+Miracle. Definition, 339. Incorrect concept of it, 339. Concept of the theologians, 340. What it entails, 341. 342. Is not possible without God, 342. How they happen, 376. & *seqq.* Whether they are in accordance with the course of nature, 401. Why they are denied by atheists, 344. When they are a work of God’s wisdom, 566. How to distinguish true ones from [scan 657] feigned ones, 566. Why they are less than natural events, 564. 565.
+
+Miracle upon the soul, 416.
+
+Timidity. In what it consists, 260.
+
+Signs. Definition, 139. Difference, 140. Use for the distinctness of concepts, 155. 156. And in judgements, 156. 157. Different kinds, 153.
+
+Signs for symbolic cognition, 153. & *seqq.*
+
+Art of signs, 155.
+
+Time. Definition, 38. Similarity with space, 39. Comprehensible parts, 39. What it is like, 40. What happens in it, 40. How subtly nature divides it, 380. 381. Whether God is in it, 585.
+
+Anger. What it is, 261. Degrees of it, 261. 262. What changes it causes in the body, 244. 245.
+
+Contingent. How it is rightly to be understood, 313. 314.
+
+Contingent things. Whence they come, 78.
+
+Adjectives, 145.
+
+Contingency in nature is not removed by God’s foreknowledge, 529. 530.
+
+Contentment with oneself. What it is and how it arises, 253.
+
+Future things. How God can foreknow them, 526. 527. 528.
+
+Composite things. Definition, 21. Essence, 23. Attributes, 21. & *seq.* Similarity, 23. 24. Changes, 26. & *seqq.* Origin and perishing, 24. 25. How they come from the simple, 327. Whence their perfection comes, 323. Whether they are machines, 297.
+
+Composite perfection, 71.
+
+Composite dream, 442.
+
+State. Definition, 51. Difference, 52. Change, 52.
+
+State of distinct thoughts, 99. 100. Of obscure thoughts, 100.
+
+Interjections, 151.
+
+#### End of the Index.
