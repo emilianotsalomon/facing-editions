@@ -1,0 +1,129 @@
+#!/usr/bin/env python3
+"""Export parallel-text HTML readers (the side-by-side-translation skill's DATA-array format) as corpus files.
+
+usage:
+  parallel_html.py FILE.html|DIR -o CORPUS/sub --author "A" [--collection "…"] [--prefix slugprefix] [--genre "…"] [--lang es]
+
+These readers keep their text not in <p> tags but in a JavaScript array near the end of the file:
+    const DATA = [{"orig": "…", "trans": "…"}, …];
+one entry per paragraph pair. corpus.py html (Tufte readers) cannot see it; this script reads the array and writes
+one corpus Markdown file per HTML file in the repository's convention: the original in quoted blocks (`> …`), the
+English in plain paragraphs, headings as `## ORIGINAL — ENGLISH`, `[p. N]` where the reader marks a printed page
+(`[N]` in both columns), `⁂` for a printed section break, verse lines joined with ` / `.
+A meta.json beside the HTML files supplies what the readers do not carry (keyed by file name): title, title_en,
+year, work (the book or periodical the text comes from), order, translation (review status), slug.
+"""
+import sys, os, re, json, glob, html, datetime
+
+args = sys.argv[1:]
+if len(args) < 3:
+    sys.exit(__doc__)
+SRC = args[0]
+opt, i = {}, 1
+while i < len(args):
+    if args[i].startswith('--') or args[i] == '-o':
+        opt[args[i]] = args[i + 1]; i += 2
+    else:
+        i += 1
+TODAY = datetime.date.today().isoformat()
+PG = re.compile(r'\[(\d{1,4}|[ivxlc]{1,6})\]')                      # [109] in both columns = a printed page begins
+ROMAN = re.compile(r'^[IVXLC]+\.?$')
+
+
+def load_data(src):
+    m = re.search(r'(?:const|let|var)\s+DATA\s*=\s*', src)
+    if not m:
+        return None
+    try:
+        data, _ = json.JSONDecoder().raw_decode(src, m.end())          # exactly one JSON value, however long
+    except json.JSONDecodeError:
+        tail = re.match(r'\[.*?\]\s*;', src[m.end():], re.S).group(0)[:-1]
+        data = json.loads(re.sub(r',\s*([\]}])', r'\1', tail))
+    return data
+
+
+def clean(t):
+    t = html.unescape(t or '')
+    t = re.sub(r'<br\s*/?>', '\n', t)
+    t = re.sub(r'<(em|i)\b[^>]*>(.*?)</\1>', r'*\2*', t, flags=re.S)
+    t = re.sub(r'<(strong|b)\b[^>]*>(.*?)</\1>', r'**\2**', t, flags=re.S)
+    t = re.sub(r'<sup\b[^>]*>(.*?)</sup>', r'<sup>\1</sup>', t, flags=re.S)
+    t = re.sub(r'<(?!/?sup\b)[^>]+>', '', t)
+    t = PG.sub(r'[p. \1]', t)
+    lines = [re.sub(r'[ \t]+', ' ', l).strip() for l in t.split('\n')]
+    return ' / '.join(l for l in lines if l)                        # verse: one paragraph, lines joined with /
+
+
+def is_heading(o, e):
+    """a short pair in capitals (or a bare roman numeral): a printed heading"""
+    oo = re.sub(r'^\[p\. [^\]]+\]\s*', '', o)
+    if not oo or len(oo) > 90 or oo[-1] in '.;:,?!»"”' or '*' in oo:
+        return False
+    letters = re.sub(r'[^A-Za-zÁÉÍÓÚÜÑáéíóúüñ]', '', oo)
+    return bool(letters) and (letters == letters.upper() or ROMAN.match(oo) is not None)
+
+
+def convert(path, meta):
+    src = open(path, errors='replace').read()
+    data = load_data(src)
+    if data is None:
+        print(f'{path}: no DATA array — skipped (a Tufte reader? use corpus.py html)'); return
+    tm = re.search(r'<title>(.*?)</title>', src, re.S)
+    title0 = html.unescape(re.sub(r'\s+', ' ', tm.group(1))).strip() if tm else os.path.basename(path)
+    mt = meta.get(os.path.basename(path), {})
+    title = mt.get('title') or title0.split(' / ')[0].split(' — ')[0].strip()
+    title_en = mt.get('title_en', '')
+    out, pages = [], 0
+    for x in data:
+        if not isinstance(x, dict):
+            continue
+        o, e = clean(x.get('orig', '')), clean(x.get('trans', ''))
+        if not o and not e:
+            continue
+        if re.fullmatch(r'\*\s*\*\s*\*', o) or re.fullmatch(r'[*⁂]+', o.replace(' ', '')):
+            out.append('⁂'); continue
+        pm = re.match(r'^(\[p\. [^\]]+\])\s*', o)
+        if pm and is_heading(o, e):                                 # a page begins at a heading: the mark opens the card
+            out.append(pm.group(1)); pages += 1
+            o, e = o[pm.end():], re.sub(r'^\[p\. [^\]]+\]\s*', '', e)
+        if is_heading(o, e):
+            out.append(f'## {o}' + (f' — {e}' if e and e.strip().lower() != o.strip().lower() else ''))
+            continue
+        pages += len(PG.findall(x.get('orig', '')))
+        if o:
+            out.append('> ' + o.replace('\n', ' '))
+        if e:
+            out.append(e)
+    lang = opt.get('--lang') or mt.get('lang', 'es')
+    head = {'title': title, 'title_en': title_en, 'author': opt.get('--author', ''), 'year': str(mt.get('year', '') or ''),
+            'original_language': lang, 'translation_language': 'en',
+            'edition_layout': 'clean text (paragraph pairs, as in the parallel-text HTML reader)',
+            'collection': opt.get('--collection', ''), 'order': str(mt.get('order', '') or '')}
+    if mt.get('work'):
+        head['work'] = mt['work']
+    head.update({'source': f'‘{os.path.basename(path)}’ (parallel-text HTML reader; regenerated by export_all.sh — correct the HTML reader, not this file)',
+                 'original_text': mt.get('original_text', 'transcription as in the HTML reader (no printed page numbers unless marked)'),
+                 'translation': mt.get('translation', 'machine-made (Claude); review status not recorded in the HTML reader'),
+                 'pages': pages})
+    if opt.get('--genre'):
+        head['genre'] = opt['--genre']
+    head['generated'] = f'{TODAY} by tools/parallel_html.py'
+    slug = mt.get('slug') or re.sub(r'[^a-z0-9]+', '-', (opt.get('--prefix', '') + ' ' + (head['year'][:4] if head['year'] else '') + ' ' + title).lower()
+                                    .translate(str.maketrans('áéíóúüñ', 'aeiouun'))).strip('-')[:60]
+    C = os.path.abspath(opt.get('-o', 'corpus')); os.makedirs(C, exist_ok=True)
+    fm = '\n'.join(f'{k}: {json.dumps(v, ensure_ascii=False) if isinstance(v, str) and (":" in v or v.startswith(("[", "*"))) else v}' for k, v in head.items())
+    t = f"# {head['author']}, *{head['title']}*" + (f" ({head['year']})" if head['year'] else '') + (f" — *{head['title_en']}*" if head['title_en'] else '')
+    conv = ('Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, '
+            'plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph; '
+            '`⁂` a section break as printed; verse lines are joined with ` / `. Regenerated by export_all.sh — correct the source named in the header, not this file.')
+    p = f'{C}/{slug}.md'
+    open(p, 'w').write(f'---\n{fm}\n---\n\n{t}\n\n{conv}\n\n' + '\n\n'.join(out).rstrip() + '\n')
+    print(f'{p}: {len(data)} pairs, {pages} page marks, {os.path.getsize(p) // 1000} KB')
+
+
+f = os.path.abspath(SRC)
+files = sorted(glob.glob(f'{f}/*.html')) if os.path.isdir(f) else [f]
+mj = os.path.join(f if os.path.isdir(f) else os.path.dirname(f), 'meta.json')
+META = json.load(open(mj)) if os.path.exists(mj) else {}
+for fp in files:
+    convert(fp, META)

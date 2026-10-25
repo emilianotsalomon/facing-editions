@@ -65,7 +65,10 @@ text "$HOME/Downloads/Edgar_Dacqué_Urwelt_Sage_und_Menschheit.pdf" dacque-urwel
 # --- Vasconcelos, Obras: the Tufte HTML readers in originals/vasconcelos-obras-v2 -> corpus/vasconcelos/ ---
 [ "$ONLY" = "" ] || [ "$ONLY" = "html" ] && "$S/py" "$S/corpus.py" html "$O/vasconcelos-obras-v2" -o "$C/vasconcelos" --author "José Vasconcelos" --collection "Obras (vasconcelos-obras-v2)" --prefix vasconcelos --genre "Latin American philosophy" && "$S/py" "$S/corpus.py" index "$C"
 
+# --- Iberico: the parallel-text HTML readers (DATA-array format of the side-by-side skill) in originals/iberico-htmls -> corpus/iberico/ ---
+[ "$ONLY" = "" ] || [ "$ONLY" = "html" ] && python3 "$H/tools/parallel_html.py" "$O/iberico-htmls" -o "$C/iberico" --author "Mariano Iberico" --collection "Essays and chapters (iberico-htmls)" --prefix iberico --genre "Latin American philosophy" --lang es && "$S/py" "$S/corpus.py" index "$C"
+
 # --- corpus/<slug>/ is the source now: staged files only add editions that have no folder there yet ---
-NEW=$(python3 "$H/tools/split.py" --into "$H/corpus" "$C"/*.md "$C"/vasconcelos/*.md | tee /dev/stderr | sed -n 's/^\([^: ]*\): round trip.*/\1/p')
+NEW=$(python3 "$H/tools/split.py" --into "$H/corpus" "$C"/*.md "$C"/vasconcelos/*.md "$C"/iberico/*.md | tee /dev/stderr | sed -n 's/^\([^: ]*\): round trip.*/\1/p')
 # --- a new edition enters in the paragraph standard: rejoin.py joins the paragraphs the page-by-page translation cut at page turns ---
 for r in $NEW; do python3 "$H/tools/rejoin.py" --write "$H/corpus/$r"; done

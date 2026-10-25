@@ -1,0 +1,265 @@
+<!doctype html><html><head><!-- frame-runtime --><base href="/_f/1787780817-b1fc/"><script>window.__FRAME_PREAMBLE={"v":1,"capabilities":{"artifact":"artifact.Cg566fpb.js","assets":"assets.8Gk803W0.js","comments":"comments.GLuHR3zP.js","db":"db.CRhVHzSt.js","downloads":"downloads.C3GSvEDP.js","embed":"embed.CxGAyc-v.js","mcp":"mcp.Bvma3qD7.js","network":"network.B5UA9Su4.js","permissions":"permissions.BNySkLV5.js","room":"room.BMMoe2BY.js","sample":"sample.BW2Uysoh.js","self":"artifact.Cg566fpb.js","user":"user.BpKav-Rf.js"},"transforms":"_transforms.CQm3TZ9K.js","comments":"_comments.PBVy184F.js","translate":"_translate.5HCW4BJh.js"}</script><script>(function(){"use strict";var J=["light","dark","system"],Q=/^[A-Za-z0-9_-]{1,64}$/,H=/^[a-zA-Z_:][a-zA-Z0-9_:.-]{0,127}$/,ee=new Set(["class","hidden","value","checked"]);function te(e){const t=e.toLowerCase();return t.startsWith("data-")||t.startsWith("aria-")||ee.has(t)}var Me="http://www.w3.org/1999/xhtml",re="http://www.w3.org/2000/svg",ne=new Set(["script","style","iframe","noscript","noframes","noembed","xmp","plaintext","template","title","textarea","object","embed"]),oe=new Set(["script","style"]);function se(e){const t=e.localName.toLowerCase();return e.namespaceURI==="http://www.w3.org/1999/xhtml"?!ne.has(t):e.namespaceURI===re?!oe.has(t):!1}var ae=new Set(["html","head","body","frameset"]);function ie(e){return e.namespaceURI==="http://www.w3.org/1999/xhtml"&&ae.has(e.localName)}function ce(e){if(e===null||typeof e!="object")return!1;const t=e;if(typeof t.target!="string"||!Q.test(t.target)||t.text!==void 0&&typeof t.text!="string")return!1;if(t.attrsSet!==void 0){if(t.attrsSet===null||typeof t.attrsSet!="object")return!1;for(const[r,n]of Object.entries(t.attrsSet))if(!H.test(r)||typeof n!="string")return!1}if(t.attrsRemoved!==void 0){if(!Array.isArray(t.attrsRemoved))return!1;for(const r of t.attrsRemoved)if(typeof r!="string"||!H.test(r))return!1}return!0}function le(e,t){if(e===null||typeof e!="object")return!1;const{seq:r,elements:n}=e;if(typeof r!="number"||!Number.isSafeInteger(r)||!Array.isArray(n)||n.length===0||n.length>64)return!1;for(let s=0;s<n.length;s++)if(!t(n[s]))return!1;return!0}function ue(e){return e===null||typeof e!="object"?!1:le(e.__frame_patch,ce)}function fe(e){if(e===null||typeof e!="object")return!1;const t=e.__frame_init;return t!==null&&typeof t=="object"}function pe(e){return e!==null&&typeof e=="object"&&e.__frame_size_poke===!0}function de(e){if(e===null||typeof e!="object")return!1;const t=e.__frame_theme;if(t===null||typeof t!="object")return!1;const r=t.theme;return typeof r=="string"&&J.includes(r)}var A=/^[\w.-]+\.js$/;function me(e,t,r){return r?"inert":typeof t=="string"&&A.test(t)?e?[t]:"inert":e?"inert":"framed"}function he(){return{post(e,t){parent.postMessage(e,t)},on(e){const t=r=>{r.source===parent&&e(r.data,r.origin)};return addEventListener("message",t),()=>removeEventListener("message",t)}}}function _e(){return{post:()=>{},on:()=>()=>{}}}var O="__frame_scroll",ve=150,ye=310,we=160,be=3e4;function Ee(){let e=0,t=!1,r=!1,n=!1,s=0,a=null;const l=i=>{try{sessionStorage.setItem(O,JSON.stringify({y:i}))}catch{}},d=()=>{if(clearTimeout(e),a===null)return;const i=a;a=null,l(i)},v=()=>{if(t){t=!1;return}r=!0,a=scrollY,clearTimeout(e),e=setTimeout(d,ve)};try{addEventListener("scroll",v,{passive:!0}),addEventListener("pagehide",d)}catch{}const y=()=>{let i;try{i=sessionStorage.getItem(O)}catch{return null}if(i===null)return null;let m;try{m=JSON.parse(i)}catch{m=null}const u=m?.y;if(!(typeof u=="number"&&Number.isFinite(u)&&u>=0)){try{sessionStorage.removeItem(O)}catch{}return null}return u};let S=!1;const h=i=>{try{const m=scrollY;scrollTo({top:i,left:0,behavior:"instant"}),s=i,n=!0,clearTimeout(e),a=null,l(i);const u=scrollY;u!==m&&(t=!0),u!==i&&!S&&(S=!0,addEventListener("load",()=>{try{if(scrollY===u){const k=y();h(k!==null?k:s)}}catch{}},{once:!0}))}catch{}},w=()=>{try{return!!location.hash}catch{return!0}};let o=!1;const f=()=>{try{if(o||innerWidth>ye||innerHeight>we)return;o=!0;const i=Date.now(),m=()=>{try{removeEventListener("resize",m)}catch{}if(Date.now()-i>be||r||w())return;const u=y();h(u!==null?u:s)};addEventListener("resize",m)}catch{}};let _=!1,b=!1;return{restore(){if(_||(_=!0,w()))return;const i=y();i!==null&&(h(i),f())},promoted(){if(b||(b=!0,w()))return;const i=y();i!==null?(h(i),f()):n&&h(s)}}}function ge(e,t,r,n){let s=null;try{s=window.trustedTypes?.createPolicy("frame-runtime",{createScriptURL:v=>v})??null}catch{}const a=window.Worker,l=a?.prototype,d=Object.freeze({Worker:a,workerOn:l?.addEventListener,workerPost:l?.postMessage,workerTerminate:l?.terminate,fetch:window.fetch.bind(window),preventDefault:Event.prototype.preventDefault,policy:s,origins:t});r(e).then(v=>v?.bootTopLevel?v.bootTopLevel(d,n):n.settle()).catch(()=>n.settle())}var Oe="modulepreload",Ce=function(e){return"/"+e},je={},Ae=function(t,r,n){let s=Promise.resolve();function a(l){const d=new Event("vite:preloadError",{cancelable:!0});if(d.payload=l,window.dispatchEvent(d),!d.defaultPrevented)throw l}return s.then(l=>{for(const d of l||[])d.status==="rejected"&&a(d.reason);return t().catch(a)})},Re=window===top,q=Object.getOwnPropertyDescriptor(window,"claude"),T=me(Re,window.__FRAME_PREAMBLE?.topLevel,q?.writable===!1),C=typeof T=="object"&&T[0],p=C?_e():he();(function(){const e=Object.defineProperty,t=globalThis,r=["RTCPeerConnection","webkitRTCPeerConnection","RTCDataChannel","RTCIceCandidate","RTCSessionDescription","RTCRtpSender","RTCRtpReceiver"];let n=0;for(let s=0;s<r.length;s++){const a=r[s];try{e(t,a,{value:void 0,writable:!1,configurable:!1})}catch{try{delete t[a]}catch{}try{e(t,a,{value:void 0,writable:!1,configurable:!0})}catch{}}typeof t[a]=="function"&&n++}if(n&&T==="framed")try{p.post({__frame_rtc_lockdown_failed:n},"*")}catch{}})();var Se=1e4,W=Object.freeze([...window.__FRAME_PREAMBLE?.origins??["https://claude.ai","https://preview.claude.ai"]]);function $(e){for(const t of W)if(t.endsWith(":*"))try{const r=new URL(e);if(`${r.protocol}//${r.hostname}:*`===t)return!0}catch{}else if(e===t)return!0;return!1}var L=Object.freeze({...window.__FRAME_PREAMBLE?.capabilities}),j=window.__FRAME_PREAMBLE?.transforms,N=window.__FRAME_PREAMBLE?.comments,I=window.__FRAME_PREAMBLE?.translate;function R(e){return Ae(()=>import("/_runtime/"+e),void 0)}function K(e,t){return{contract:e.contract,changes:new Set(e.changes??[]),flags:new Set(e.flags??[]),capabilities:e.capabilities??{},capBudgets:e.capBudgets??{},transforms:new Map,shellOrigin:t,mount:D,pipe:()=>({wrap:(r,n)=>(...s)=>{try{return n(...s)}catch(a){return Promise.reject(a)}}})}}var P=null,E=null;function Y(e,t,r){try{Object.defineProperty(e,t,{value:r,writable:!1,configurable:!1,enumerable:!0})}catch{try{Object.defineProperty(e,t,{value:r,writable:!1,configurable:!0,enumerable:!0})}catch{}}}var B=!1;function ke(e,t){const r=[];for(const n of e.elements){const s=document.querySelector(`[data-id="${n.target}"]`);if(!s){p.post({__frame_patch_miss:{seq:e.seq}},t);return}if([...Object.keys(n.attrsSet??{}),...n.attrsRemoved??[]].some(a=>!te(a))){p.post({__frame_patch_miss:{seq:e.seq}},t);return}if(n.text!==void 0&&(!se(s)||ie(s))){p.post({__frame_patch_miss:{seq:e.seq}},t);return}for(const[a,l]of Object.entries(n.attrsSet??{}))if(!G(s,a)){try{s.setAttribute(a,l)}catch{}X(s,a,l)}for(const a of n.attrsRemoved??[])G(s,a)||(s.removeAttribute(a),X(s,a,null));typeof n.text=="string"&&(s.textContent=n.text),r.push(n.target)}try{document.dispatchEvent(new CustomEvent("claude:edit",{detail:{seq:e.seq,targets:r}}))}catch{}}function X(e,t,r){if(!(e instanceof HTMLInputElement))return;const n=t.toLowerCase();n==="checked"?e.checked=r!==null:n==="value"&&e.type!=="file"&&(e.value=r??"")}function G(e,t){const r=t.toLowerCase(),n=e;return r==="data-id"||(r==="value"||r==="checked")&&(n.__artifactSecret===!0||/^(password|hidden|file)$/.test(n.type??"")||/(^|\s)(cc-|one-time-code|current-password|new-password)/i.test(`${e.getAttribute("autocomplete")??""} ${n.autocomplete??""}`))}function V(e){const t=document.documentElement;e==="light"||e==="dark"?(t.dataset.theme=e,t.style.colorScheme=e,B=!0):B&&(delete t.dataset.theme,t.style.colorScheme="",B=!1)}var M=new Map;function Te(){let e;const t={u:new Promise(r=>{e=r}),r:r=>{t.done=!0,e(r)},done:!1,nulled:!1};return t}function U(){for(const e of M.values())e.done||(e.nulled=!0,e.r(null))}var Le=Object.freeze(Object.assign(Object.create(null),{call:Function.prototype.call,apply:Function.prototype.apply,bind:Function.prototype.bind})),D=(e,t)=>{const r=M.get(e);if(!r||r.done){r?.nulled&&E&&p.post({__frame_cap_telemetry:{kind:"cap-load-error",cap:e}},E);return}const n=typeof t=="function"?Object.setPrototypeOf(t,Le):Object.assign(Object.create(null),t);typeof n.then=="function"&&delete n.then,r.r(Object.freeze(n))};function Z(){const e=q?.value??{};Y(window,"claude",e);for(const t of Object.keys(L)){if(e[t]!==void 0){Y(e,t,e[t]);continue}M.set(t,Te())}if(e.use===void 0){const t=r=>{if(typeof r!="string"||!Object.hasOwn(L,r))return Promise.resolve(null);const n=M.get(r);return n?n.u:Promise.resolve(e[r]??null)};try{Object.defineProperty(e,"use",{value:t,writable:!0,configurable:!0,enumerable:!1})}catch{}}}if(T==="framed"){const e=j&&A.test(j)?R(j).catch(()=>{}):Promise.resolve(void 0),t=o=>{if(o.type==="auxclick"&&o.button!==1)return;const f=o.target,_=f&&f.closest?f.closest("a[href],area[href]"):null;if(!_)return;const b=_.getAttribute("href");if(!b)return;let i;try{i=new URL(b,document.baseURI)}catch{return}if((i.protocol==="http:"||i.protocol==="https:")&&i.origin!==location.origin){o.preventDefault();const m=(_.getAttribute("target")??"").toLowerCase(),u=o.type==="auxclick"||o.metaKey||o.ctrlKey||o.shiftKey||o.altKey||!["","_self","_top","_parent"].includes(m);p.post({__frame_nav:!0,url:i.href,newTab:u},"*")}};addEventListener("click",t,!0),addEventListener("auxclick",t,!0);const r={},n=o=>{o.isTrusted&&(r.pointer=!0)},s=o=>{o.isTrusted&&(r.click=!0)};addEventListener("pointermove",n,{capture:!0,passive:!0}),addEventListener("click",s,{capture:!0,passive:!0}),e.then(o=>{o?.wireNav&&(o.wireNav(),removeEventListener("click",t,!0),removeEventListener("auxclick",t,!0),removeEventListener("pointermove",n,!0),removeEventListener("click",s,!0),o.wireEngagement?.(r))});let a=null;try{a=Ee()}catch{}Z();let l=null,d=null,v=0;const y=p.on((o,f)=>{$(f)&&fe(o)&&(l=o.__frame_init,E=f,y(),clearTimeout(v),d?.())});p.post({__frame_connect:!0},"*");const S=new Promise(o=>{d=o,v=setTimeout(()=>{y(),o()},Se)}),h=document.readyState==="loading"?new Promise(o=>document.addEventListener("DOMContentLoaded",()=>o(),{once:!0})):Promise.resolve();h.then(()=>{try{a?.restore()}catch{}});const w={cb:null};p.on((o,f)=>{if($(f)&&pe(o)){try{a?.promoted()}catch{}w.cb?.()}}),S.then(async()=>{if(!l||!E){U();return}V(l.theme);const o=E;let f=!1,_=!1;p.on((c,x)=>{if(x!==o)return;de(c)&&V(c.__frame_theme.theme),ue(c)&&ke(c.__frame_patch,o);const g=c?.__fc_mode;g&&typeof g=="object"&&!f&&N&&A.test(N)&&(f=!0,R(N).then(z=>z.install?.(o,g.on===!0)).catch(()=>{}));const F=c?.__ft_cmd;F&&typeof F=="object"&&!_&&I&&A.test(I)&&(_=!0,R(I).then(z=>z.install?.(o,F)).catch(()=>{}))});const b=Object.keys(l.capabilities??{}).filter(c=>Object.hasOwn(L,c)).map(c=>[c,L[c]]).filter(c=>typeof c[1]=="string"&&A.test(c[1])),i=await Promise.allSettled(b.map(([,c])=>R(c))),m=await e,u=E;if(m?.buildBoot||p.post({__frame_cap_telemetry:{kind:"cap-load-error",cap:"_transforms"}},u),m?.buildBoot)try{P=m.buildBoot(l,m.TRANSFORMS??{},{shellOrigin:u,mount:D},c=>p.post({__frame_cap_telemetry:c},u))}catch{p.post({__frame_cap_telemetry:{kind:"cap-load-error",cap:"_transforms"}},u),P=K(l,u)}else P=K(l,u);const k=c=>p.post({__frame_cap_telemetry:{kind:"cap-load-error",cap:c}},u),Pe=P;i.forEach((c,x)=>{const g=b[x][0];if(c.status!=="fulfilled"){k(g);return}try{c.value?.install?.(Pe)}catch{k(g)}}),U(),await h,p.post({__frame_ready:!0},E),e.then(c=>c?.installSizeReporter?.(u,w))})}else C&&(Z(),ge(C,W,R,{settle:U,mount:D}))})();</script><!-- /frame-runtime --><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}</style></head><body>
+<title>On Causality and Meaning</title>
+
+<style>
+/* ── Design tokens ─────────────────────────────────────────────────────── */
+:root {
+  --bg:         #ffffff;
+  --bg-alt:     #f5f5f5;
+  --text:       #1E2529;
+  --text-muted: #6B7C78;
+  --accent:     #3D7A70;
+  --rule:       #B8C9C5;
+  --fs:         15.5px;
+  --serif: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, "Times New Roman", serif;
+  --sans:  -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:#141C1E; --bg-alt:#1A2426; --text:#DDE8E4; --text-muted:#7A9490;
+    --accent:#5A9E93; --rule:#2E4240;
+  }
+}
+:root[data-theme="light"] {
+  --bg:#ffffff; --bg-alt:#f5f5f5; --text:#1E2529; --text-muted:#6B7C78;
+  --accent:#3D7A70; --rule:#B8C9C5;
+}
+:root[data-theme="dark"] {
+  --bg:#141C1E; --bg-alt:#1A2426; --text:#DDE8E4; --text-muted:#7A9490;
+  --accent:#5A9E93; --rule:#2E4240;
+}
+
+/* ── Reset & base ───────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg); color: var(--text);
+  font-family: var(--serif); line-height: 1.72;
+  padding: 0 0.5rem 5rem;
+}
+
+/* ── Masthead ───────────────────────────────────────────────────────────── */
+.masthead {
+  max-width: 820px; margin: 0 auto; padding: 3.5rem 0 0; text-align: center;
+}
+.main-title {
+  font-family: var(--serif); font-size: clamp(1.35rem, 3vw, 1.9rem);
+  font-weight: normal; font-style: italic; line-height: 1.3;
+  color: var(--text); letter-spacing: 0.01em;
+}
+.wave-rule {
+  display: block; width: 100%; max-width: 320px;
+  margin: 1.6rem auto 1.8rem; overflow: visible;
+}
+
+/* ── Column header bar ─────────────────────────────────────────────────── */
+.col-bar {
+  max-width: 1180px; margin: 0 auto;
+  display: grid; grid-template-columns: 1fr 1fr;
+  border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule);
+  padding: 0.45rem 0;
+}
+.col-label {
+  font-family: var(--sans); font-size: 10.5px; font-weight: 600;
+  letter-spacing: 0.14em; text-transform: uppercase; color: var(--text-muted);
+  padding: 0 1.5rem;
+}
+.col-label:last-child { text-align: right; }
+
+/* ── Paragraph grid with single vertical divider ────────────────────────── */
+/* The divider is one ::before pseudo-element on .paras running top-to-bottom,
+   positioned at exactly 50% (the column boundary). No horizontal rules. */
+.paras {
+  max-width: 1180px; margin: 0 auto;
+  position: relative;
+}
+.paras::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 0; bottom: 0;
+  width: 1px;
+  background: var(--rule);
+  pointer-events: none;
+}
+.row {
+  display: grid; grid-template-columns: 1fr 1fr;
+  padding: 0.85rem 0;
+  align-items: start;
+}
+.row p {
+  margin: 0; font-size: var(--fs); line-height: 1.74; hyphens: auto;
+  padding: 0 1.5rem;
+}
+.row p:last-child { opacity: 0.88; }
+
+/* ── Section dividers (short all-caps paragraphs) ───────────────────────── */
+.section-div {
+  display: grid; grid-template-columns: 1fr 1fr;
+  margin-top: 2.4rem; position: relative;
+}
+.section-div .s-orig,
+.section-div .s-trans {
+  font-family: var(--sans); font-size: 10px; font-weight: 700;
+  letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent);
+  padding: 0.55rem 1.5rem; border-top: 1.5px solid var(--accent);
+}
+
+/* ── Page markers ───────────────────────────────────────────────────────── */
+.page-row { max-width: 1180px; margin: 0 auto; text-align: center; padding: 0.35rem 0; }
+.page-mark {
+  color: var(--text-muted); font-size: 11px;
+  font-family: var(--sans); font-style: normal;
+}
+
+/* ── Controls (font size + theme) ───────────────────────────────────────── */
+.controls {
+  position: fixed; top: 1rem; right: 1rem;
+  display: flex; gap: 0.35rem; align-items: center; z-index: 100;
+}
+.ctrl-btn {
+  background: var(--bg-alt); border: 1px solid var(--rule);
+  color: var(--text-muted); border-radius: 4px;
+  padding: 0.28rem 0.55rem; cursor: pointer;
+  font-family: var(--sans); font-size: 11px; font-weight: 600;
+  letter-spacing: 0.04em; transition: border-color 0.15s, color 0.15s;
+  line-height: 1;
+}
+.ctrl-btn:hover { border-color: var(--accent); color: var(--accent); }
+.theme-btn {
+  background: var(--bg-alt); border: 1px solid var(--rule);
+  color: var(--text-muted); border-radius: 4px;
+  padding: 0.28rem 0.55rem; cursor: pointer;
+  font-family: var(--sans); font-size: 11px; font-weight: 600;
+  letter-spacing: 0.04em; transition: border-color 0.15s, color 0.15s;
+  line-height: 1; margin-left: 0.15rem;
+}
+.theme-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+/* ── Responsive ─────────────────────────────────────────────────────────── */
+@media (max-width: 640px) {
+  .col-bar, .row, .section-div { grid-template-columns: 1fr; }
+  .paras::before { display: none; }
+  .row p:first-child {
+    border-bottom: 1px solid var(--rule); padding-bottom: 0.6rem;
+  }
+  .row p:last-child { opacity: 1; padding-top: 0.6rem; }
+  .col-bar { display: none; }
+  .section-div .s-trans { border-top: none; padding-top: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+</style>
+
+<div class="controls">
+  <button class="ctrl-btn" id="fontDown" aria-label="Decrease font size">A−</button>
+  <button class="ctrl-btn" id="fontUp"   aria-label="Increase font size">A+</button>
+  <button class="theme-btn" id="themeBtn" aria-label="Toggle theme">dark</button>
+</div>
+
+<header class="masthead">
+  <h1 class="main-title">On Causality and Meaning</h1>
+  <svg class="wave-rule" viewBox="0 0 320 16" fill="none"
+       xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <path d="M0 8 C18 1,36 1,54 8 S90 15,108 8 S144 1,162 8
+             S198 15,216 8 S252 1,270 8 S306 15,320 8"
+      stroke="currentColor" stroke-width="1.2" stroke-opacity="0.28" fill="none"/>
+  </svg>
+</header>
+
+<div class="col-bar">
+  <span class="col-label">Español</span>
+  <span class="col-label">English</span>
+</div>
+
+<div class="paras" id="paras"></div>
+
+<script>
+const DATA = [{"orig": "DE LA CAUSALIDAD Y EL SENTIDO", "trans": "ON CAUSALITY AND MEANING"}, {"orig": "Si comparamos la relación causal a la relación de sentido, encontramos que la primera es una relación de antes a después, de anterior a posterior, relación que metafóricamente podemos llamar impulsiva, la segunda es una relación inversa, digamos atractiva, en que el futuro, lo posterior, lo venidero parece disciplinar las fases, los momentos, las etapas de la evolución que conducen a la realización final. El blanco, que es el sentido del proyectil, lo atrae en cierto modo, mientras que la detonación del explosivo lo impulsa. La dirección del tránsito disciplina el tránsito, y lo hace no por impulsión mecánica sino por atracción télica. De todos modos el sentido, como la causalidad son dos categorías de inteligibilidad que nos permiten comprender, es decir incorporar el hecho en una estructura racional, vital o anímica.", "trans": "If we compare the causal relation to the relation of meaning, we find that the first is a relation from before to after, from prior to posterior, a relation that metaphorically we may call impulsive; the second is an inverse relation, let us say attractive, in which the future, the posterior, the yet-to-come seems to discipline the phases, the moments, the stages of the evolution that lead to its final realization. The target, which is the meaning of the projectile, attracts it in a certain sense, while the detonation of the explosive impels it. The direction of traffic disciplines the traffic, and does so not by mechanical impulsion but by telic attraction. In any case, meaning, like causality, constitutes one of two categories of intelligibility that allow us to comprehend — that is, to incorporate the fact into a rational, vital, or psychic structure."}, {"orig": "Si se trata del movimiento de un automóvil el principio causal nos permitirá explicarlo mediante el análisis de los mecanismos que intervienen en el funcionamiento de la máquina, incluyendo como elementos mecánicos las impulsiones que imprime el conductor. Pero el principio causal que explica el funcionamiento del embrague y de la transmisión, no puede explicar las reglas del tránsito. Estas son de otro orden. Las flechas que indican la dirección, el sentido en que el vehículo deberá correr, se erige, sobre la causalidad mecánica, en un nuevo plano de determinación: intencional, télico. Y así este ejemplo, en su simpledad esquemática, nos hace comprender cómo en la historia hay dos órdenes de determinación: uno causal que implicaría una cierta equivalencia cuantitativa y por consiguiente calculable entre la causa y el efecto, y otro de atracción final que desde su trascendencia —como la flecha al tránsito— dirige hacia realizaciones intencionales la marcha de las cosas. Y no olvidemos en fin el tercer principio que al propio tiempo esclarece y mantiene en el misterio la dinámica del devenir histórico: el principio de creatividad que constituye el grande, el último enigma de la historia y del ser, porque implica lo que es incomprensible para la pura lógica, a saber: que algo salga de la nada.", "trans": "If we are concerned with the movement of an automobile, the causal principle will allow us to explain it by analyzing the mechanisms involved in the functioning of the machine, including as mechanical elements the impulsions imparted by the driver. But the causal principle that explains the functioning of the clutch and the transmission cannot explain the rules of traffic. These belong to a different order. The arrows indicating the direction, the meaning [sentido] in which the vehicle must travel, erect themselves, above mechanical causality, upon a new plane of determination: intentional, telic. And so this example, in its schematic simplicity, enables us to understand how in history there are two orders of determination: one causal, which implies a certain quantitative and therefore calculable equivalence between cause and effect, and another of final attraction which — like the traffic arrow — guides from its transcendence the march of things toward intentional realizations. And let us not forget, finally, the third principle, which at once illuminates and keeps in mystery the dynamics of historical becoming: the principle of creativity, which constitutes the great, the ultimate enigma of history and of being, because it implies what is incomprehensible to pure logic, namely, that something should arise from nothing."}, {"orig": "\"En todo aquello que llegue a nosotros por tradición, sobre todo por tradición escrita, el todo estriba en el fondo, en lo interno, en el sentido y dirección de la obra; allí reside lo primordial, lo divino, lo eficaz, lo intangible e indiscutible, no habiendo nada capaz de dañar a esa íntima, primigenia esencia, cuando menos más de lo que la enfermedad física puede dañar a una alma bien formada\". Según el mismo Goethe deberá considerarse la obra escrita \"como el cuerpo de una obra espiritual\".", "trans": "\"In all that comes to us through tradition, above all through written tradition, the whole resides in the foundation, in what is internal, in the meaning and direction of the work; there lies what is primordial, divine, efficacious, intangible, and indisputable, nothing being capable of damaging that intimate, primigenial essence — at least no more than physical illness can damage a well-formed soul.\" According to Goethe himself, the written work must be regarded \"as the body of a spiritual work.\""}, {"orig": "\"Contradíganse en buena hora los Evangelios, con tal que no se contradiga el Evangelio\".", "trans": "\"Let the Gospels contradict one another at will, provided the Gospel does not contradict itself.\""}, {"orig": "En la historia la causalidad no es suficiente para producir la inteligibilidad de los hechos del acontecer que ella estudia. Y esto por dos razones que se conjugan: a) El acontecer histórico no puede ser atribuido a una sola causa ni en consecuencia, explicado totalmente por ella. b) Siendo esto así, no es posible tampoco agotar la multiplicidad de las causas, factores, circunstancias físicas, psicológicas, sociales, etc., que pueden convergir para la producción de un hecho histórico; aparte de que, y esto es fundamental, de que como hecho humano, tiene un coeficiente ineli-minable de indeterminación. Se pueden quizá determinar con criterio estrictamente causal los elementos que intervienen en los aspectos psíquicos de lo que Bergson llamaría el yo superficial, pero el yo profundo queda sustraido a su influencia y por lo tanto no puede ser objeto de este análisis.", "trans": "In history, causality is not sufficient to produce the intelligibility of the facts of the occurrence that it studies. And this for two reasons that are conjoined: a) The historical occurrence cannot be attributed to a single cause nor, consequently, explained entirely by it. b) This being so, it is likewise impossible to exhaust the multiplicity of causes, factors, physical, psychological, social, and other circumstances that may converge in the production of a historical fact; apart from the fact that — and this is fundamental — as a human fact, it possesses an ineliminable coefficient of indetermination. One may perhaps determine by strictly causal criteria the elements that intervene in the psychic aspects of what Bergson would call the superficial self, but the deep self remains withdrawn from its influence and therefore cannot be an object of this analysis."}, {"orig": "Por consiguiente si queremos comprender los hechos históricos como comprendemos los hechos físicos deberíamos renunciar a su comprensión en profundidad. Pero disponemos de la categoría del sentido, y entonces lo que causalmente es inabarcable puede ser inteligible mediante la intuición de su sentido. Yo puedo ignorar las leyes mecánicas y físicas que impulsan a los automóviles pero comprendo por qué se mueven en tal o cual dirección porque conozco las leyes del tránsito. No conocemos las leyes psicofísicas que determinan el movimiento de las piezas en una partida de ajedrez, pero si conocemos las reglas del juego, comprendemos las jugadas, no precisamente por sus causas, sino por su sentido.", "trans": "Consequently, if we wish to understand historical facts as we understand physical facts, we should have to renounce their comprehension in depth. But we have at our disposal the category of meaning, and so what is causally ungraspable may become intelligible through the intuition of its meaning. I may be ignorant of the mechanical and physical laws that propel automobiles, yet I understand why they move in one direction or another because I know the rules of traffic. We do not know the psychophysical laws that determine the movement of the pieces in a game of chess, but if we know the rules of the game, we understand the moves — not precisely by their causes, but by their meaning."}, {"orig": "De todos modos, el sentido implica estilización y superación de la causalidad. En la inagotable, confusa complicación de las causas (psicológicas, sociales, biológicas, físicas, etc.) del acontecer, instituimos unas cuantas líneas de secuencias, y prescindimos de multitud de otras series causales posibles; procedemos como si el río de la historia fuera dejando en sus márgenes multitud de objetos, comprendidos primitivamente en su curso, pero que no entraron en su corriente central y dominante. Tratamos las causas no en relación con su fuerza intrínseca, sino según el grado de colaboración que les asignamos para obtener un resultado ya conocido. Nuestros libros de historia enumeran las causas de la revolución francesa, de la independencia de las colonias españolas, etc.; mas en realidad, en primer término, es preciso considerar que esas causas son también hechos históricos con sus respectivas causalidades, y en segundo término que esas enumeraciones están influidas por el sentido o si queremos por el fin a obtener y que nos induce a elegir las causas adecuadas con el objeto de que el acontecimiento aparezca como el fruto natural de un proceso, como un fruto que en realidad ya preexistía en nuestra mente. Con lo cual el sentido simplifica el acontecer e instituye sobre la mera materialidad, la intencionalidad del espíritu.", "trans": "In any case, meaning implies stylization and the overcoming of causality. Amid the inexhaustible, confused complication of the causes (psychological, social, biological, physical, and so forth) of occurrence, we establish a few lines of sequence and disregard a multitude of other possible causal series; we proceed as if the river of history were leaving on its banks a multitude of objects, originally comprised within its course, but which did not enter its central and dominant current. We treat causes not in relation to their intrinsic force, but according to the degree of collaboration we assign them in obtaining an already known result. Our history books enumerate the causes of the French Revolution, of the independence of the Spanish colonies, and so on; but in reality, in the first place, one must consider that those causes are themselves historical facts with their respective causalities, and in the second place that those enumerations are influenced by the meaning — or, if we prefer, by the end to be attained — which induces us to select the appropriate causes so that the event may appear as the natural fruit of a process, as a fruit that in reality already pre-existed in our minds. Whereby meaning simplifies occurrence and institutes, above mere materiality, the intentionality of the spirit."}, {"orig": "En toda evolución que culmina en un proceso de trascendencia humana, las llamadas causas son esencialmente miembros de un proceso de significación, ofrecido a la lectura como un texto cuyos signos no nos interesan por su naturaleza física o química sino por su significado y en cuanto sus enlaces formales nos ilustran sobre la corriente interior que los anima. Sólo pertenece a la categoría de la historia lo que es un signo; y por ello un objeto, sólo es histórico en cuanto directa o simbólicamente expresa algo humano. Una piedra mientras no es sino piedra carece de naturaleza histórica; la tiene si es un trozo de silex que puede ser una hacha arcaica.", "trans": "In every evolution that culminates in a process of human transcendence, the so-called causes are essentially members of a process of signification, offered to reading as a text whose signs interest us not for their physical or chemical nature but for their meaning, and insofar as their formal connections illuminate the inner current that animates them. Only that which is a sign belongs to the category of history; and for this reason an object is historical only insofar as it directly or symbolically expresses something human. A stone, so long as it is merely a stone, lacks historical character; it acquires it if it is a piece of flint that may be a primitive axe."}];
+const container = document.getElementById('paras');
+const root = document.documentElement;
+
+// ── Font size control ──────────────────────────────────────────────────────
+let fontSize = 15.5;
+function setFontSize(px) {
+  fontSize = Math.max(11, Math.min(22, px));
+  root.style.setProperty('--fs', fontSize + 'px');
+}
+document.getElementById('fontDown').addEventListener('click', () => setFontSize(fontSize - 1));
+document.getElementById('fontUp').addEventListener('click',   () => setFontSize(fontSize + 1));
+
+// ── Paragraph rendering ────────────────────────────────────────────────────
+function isHeader(s) {
+  return s.length < 80 && s === s.toUpperCase() && /[A-ZÁÉÍÓÚÑÜ]/.test(s);
+}
+function pageMark(num) {
+  const span = document.createElement('span');
+  span.className = 'page-mark';
+  span.textContent = ' [' + num + '] ';
+  return span;
+}
+function snapToWord(text, pos) {
+  if (pos <= 0) return 0;
+  if (pos >= text.length) return text.length;
+  if (text[pos] === ' ') return pos;
+  let lo = pos - 1, hi = pos + 1;
+  while (lo > 0 && text[lo] !== ' ') lo--;
+  while (hi < text.length && text[hi] !== ' ') hi++;
+  return (pos - lo <= hi - pos) ? lo : hi;
+}
+
+DATA.forEach((d) => {
+  if (isHeader(d.orig)) {
+    const div = document.createElement('div');
+    div.className = 'section-div';
+    div.innerHTML =
+      '<div class="s-orig">' + d.orig + '</div>' +
+      '<div class="s-trans">' + d.trans + '</div>';
+    container.appendChild(div);
+    return;
+  }
+
+  const row = document.createElement('div');
+  row.className = 'row';
+  const orig  = document.createElement('p');
+  const trans = document.createElement('p');
+
+  if (d.page_mid) {
+    const offset = d.mid_offset;
+    const ratio = offset / d.orig.length;
+    const tOff = snapToWord(d.trans, Math.round(d.trans.length * ratio));
+    orig.append(d.orig.slice(0, offset),  pageMark(d.page_mid), d.orig.slice(offset));
+    trans.append(d.trans.slice(0, tOff),  pageMark(d.page_mid), d.trans.slice(tOff));
+  } else {
+    orig.textContent  = d.orig;
+    trans.textContent = d.trans;
+  }
+
+  row.appendChild(orig);
+  row.appendChild(trans);
+  container.appendChild(row);
+
+  if (d.page_after) {
+    const nums = Array.isArray(d.page_after) ? d.page_after : [d.page_after];
+    nums.forEach((num) => {
+      const marker = document.createElement('div');
+      marker.className = 'page-row';
+      marker.appendChild(pageMark(num));
+      container.appendChild(marker);
+    });
+  }
+});
+
+// ── Theme toggle ───────────────────────────────────────────────────────────
+const themeBtn = document.getElementById('themeBtn');
+let dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+function applyTheme(isDark) {
+  root.setAttribute('data-theme', isDark ? 'dark' : 'light');
+  themeBtn.textContent = isDark ? 'light' : 'dark';
+  themeBtn.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+}
+applyTheme(dark);
+themeBtn.addEventListener('click', () => { dark = !dark; applyTheme(dark); });
+</script>
+
+</body></html>

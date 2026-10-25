@@ -1,0 +1,265 @@
+<!doctype html><html><head><!-- frame-runtime --><base href="/_f/1787780823-9459/"><script>window.__FRAME_PREAMBLE={"v":1,"capabilities":{"artifact":"artifact.Cg566fpb.js","assets":"assets.8Gk803W0.js","comments":"comments.GLuHR3zP.js","db":"db.CRhVHzSt.js","downloads":"downloads.C3GSvEDP.js","embed":"embed.CxGAyc-v.js","mcp":"mcp.Bvma3qD7.js","network":"network.B5UA9Su4.js","permissions":"permissions.BNySkLV5.js","room":"room.BMMoe2BY.js","sample":"sample.BW2Uysoh.js","self":"artifact.Cg566fpb.js","user":"user.BpKav-Rf.js"},"transforms":"_transforms.CQm3TZ9K.js","comments":"_comments.PBVy184F.js","translate":"_translate.5HCW4BJh.js"}</script><script>(function(){"use strict";var J=["light","dark","system"],Q=/^[A-Za-z0-9_-]{1,64}$/,H=/^[a-zA-Z_:][a-zA-Z0-9_:.-]{0,127}$/,ee=new Set(["class","hidden","value","checked"]);function te(e){const t=e.toLowerCase();return t.startsWith("data-")||t.startsWith("aria-")||ee.has(t)}var Me="http://www.w3.org/1999/xhtml",re="http://www.w3.org/2000/svg",ne=new Set(["script","style","iframe","noscript","noframes","noembed","xmp","plaintext","template","title","textarea","object","embed"]),oe=new Set(["script","style"]);function se(e){const t=e.localName.toLowerCase();return e.namespaceURI==="http://www.w3.org/1999/xhtml"?!ne.has(t):e.namespaceURI===re?!oe.has(t):!1}var ae=new Set(["html","head","body","frameset"]);function ie(e){return e.namespaceURI==="http://www.w3.org/1999/xhtml"&&ae.has(e.localName)}function ce(e){if(e===null||typeof e!="object")return!1;const t=e;if(typeof t.target!="string"||!Q.test(t.target)||t.text!==void 0&&typeof t.text!="string")return!1;if(t.attrsSet!==void 0){if(t.attrsSet===null||typeof t.attrsSet!="object")return!1;for(const[r,n]of Object.entries(t.attrsSet))if(!H.test(r)||typeof n!="string")return!1}if(t.attrsRemoved!==void 0){if(!Array.isArray(t.attrsRemoved))return!1;for(const r of t.attrsRemoved)if(typeof r!="string"||!H.test(r))return!1}return!0}function le(e,t){if(e===null||typeof e!="object")return!1;const{seq:r,elements:n}=e;if(typeof r!="number"||!Number.isSafeInteger(r)||!Array.isArray(n)||n.length===0||n.length>64)return!1;for(let s=0;s<n.length;s++)if(!t(n[s]))return!1;return!0}function ue(e){return e===null||typeof e!="object"?!1:le(e.__frame_patch,ce)}function fe(e){if(e===null||typeof e!="object")return!1;const t=e.__frame_init;return t!==null&&typeof t=="object"}function pe(e){return e!==null&&typeof e=="object"&&e.__frame_size_poke===!0}function de(e){if(e===null||typeof e!="object")return!1;const t=e.__frame_theme;if(t===null||typeof t!="object")return!1;const r=t.theme;return typeof r=="string"&&J.includes(r)}var A=/^[\w.-]+\.js$/;function me(e,t,r){return r?"inert":typeof t=="string"&&A.test(t)?e?[t]:"inert":e?"inert":"framed"}function he(){return{post(e,t){parent.postMessage(e,t)},on(e){const t=r=>{r.source===parent&&e(r.data,r.origin)};return addEventListener("message",t),()=>removeEventListener("message",t)}}}function _e(){return{post:()=>{},on:()=>()=>{}}}var O="__frame_scroll",ve=150,ye=310,we=160,be=3e4;function Ee(){let e=0,t=!1,r=!1,n=!1,s=0,a=null;const l=i=>{try{sessionStorage.setItem(O,JSON.stringify({y:i}))}catch{}},d=()=>{if(clearTimeout(e),a===null)return;const i=a;a=null,l(i)},v=()=>{if(t){t=!1;return}r=!0,a=scrollY,clearTimeout(e),e=setTimeout(d,ve)};try{addEventListener("scroll",v,{passive:!0}),addEventListener("pagehide",d)}catch{}const y=()=>{let i;try{i=sessionStorage.getItem(O)}catch{return null}if(i===null)return null;let m;try{m=JSON.parse(i)}catch{m=null}const u=m?.y;if(!(typeof u=="number"&&Number.isFinite(u)&&u>=0)){try{sessionStorage.removeItem(O)}catch{}return null}return u};let S=!1;const h=i=>{try{const m=scrollY;scrollTo({top:i,left:0,behavior:"instant"}),s=i,n=!0,clearTimeout(e),a=null,l(i);const u=scrollY;u!==m&&(t=!0),u!==i&&!S&&(S=!0,addEventListener("load",()=>{try{if(scrollY===u){const k=y();h(k!==null?k:s)}}catch{}},{once:!0}))}catch{}},w=()=>{try{return!!location.hash}catch{return!0}};let o=!1;const f=()=>{try{if(o||innerWidth>ye||innerHeight>we)return;o=!0;const i=Date.now(),m=()=>{try{removeEventListener("resize",m)}catch{}if(Date.now()-i>be||r||w())return;const u=y();h(u!==null?u:s)};addEventListener("resize",m)}catch{}};let _=!1,b=!1;return{restore(){if(_||(_=!0,w()))return;const i=y();i!==null&&(h(i),f())},promoted(){if(b||(b=!0,w()))return;const i=y();i!==null?(h(i),f()):n&&h(s)}}}function ge(e,t,r,n){let s=null;try{s=window.trustedTypes?.createPolicy("frame-runtime",{createScriptURL:v=>v})??null}catch{}const a=window.Worker,l=a?.prototype,d=Object.freeze({Worker:a,workerOn:l?.addEventListener,workerPost:l?.postMessage,workerTerminate:l?.terminate,fetch:window.fetch.bind(window),preventDefault:Event.prototype.preventDefault,policy:s,origins:t});r(e).then(v=>v?.bootTopLevel?v.bootTopLevel(d,n):n.settle()).catch(()=>n.settle())}var Oe="modulepreload",Ce=function(e){return"/"+e},je={},Ae=function(t,r,n){let s=Promise.resolve();function a(l){const d=new Event("vite:preloadError",{cancelable:!0});if(d.payload=l,window.dispatchEvent(d),!d.defaultPrevented)throw l}return s.then(l=>{for(const d of l||[])d.status==="rejected"&&a(d.reason);return t().catch(a)})},Re=window===top,q=Object.getOwnPropertyDescriptor(window,"claude"),T=me(Re,window.__FRAME_PREAMBLE?.topLevel,q?.writable===!1),C=typeof T=="object"&&T[0],p=C?_e():he();(function(){const e=Object.defineProperty,t=globalThis,r=["RTCPeerConnection","webkitRTCPeerConnection","RTCDataChannel","RTCIceCandidate","RTCSessionDescription","RTCRtpSender","RTCRtpReceiver"];let n=0;for(let s=0;s<r.length;s++){const a=r[s];try{e(t,a,{value:void 0,writable:!1,configurable:!1})}catch{try{delete t[a]}catch{}try{e(t,a,{value:void 0,writable:!1,configurable:!0})}catch{}}typeof t[a]=="function"&&n++}if(n&&T==="framed")try{p.post({__frame_rtc_lockdown_failed:n},"*")}catch{}})();var Se=1e4,W=Object.freeze([...window.__FRAME_PREAMBLE?.origins??["https://claude.ai","https://preview.claude.ai"]]);function $(e){for(const t of W)if(t.endsWith(":*"))try{const r=new URL(e);if(`${r.protocol}//${r.hostname}:*`===t)return!0}catch{}else if(e===t)return!0;return!1}var L=Object.freeze({...window.__FRAME_PREAMBLE?.capabilities}),j=window.__FRAME_PREAMBLE?.transforms,N=window.__FRAME_PREAMBLE?.comments,I=window.__FRAME_PREAMBLE?.translate;function R(e){return Ae(()=>import("/_runtime/"+e),void 0)}function K(e,t){return{contract:e.contract,changes:new Set(e.changes??[]),flags:new Set(e.flags??[]),capabilities:e.capabilities??{},capBudgets:e.capBudgets??{},transforms:new Map,shellOrigin:t,mount:D,pipe:()=>({wrap:(r,n)=>(...s)=>{try{return n(...s)}catch(a){return Promise.reject(a)}}})}}var P=null,E=null;function Y(e,t,r){try{Object.defineProperty(e,t,{value:r,writable:!1,configurable:!1,enumerable:!0})}catch{try{Object.defineProperty(e,t,{value:r,writable:!1,configurable:!0,enumerable:!0})}catch{}}}var B=!1;function ke(e,t){const r=[];for(const n of e.elements){const s=document.querySelector(`[data-id="${n.target}"]`);if(!s){p.post({__frame_patch_miss:{seq:e.seq}},t);return}if([...Object.keys(n.attrsSet??{}),...n.attrsRemoved??[]].some(a=>!te(a))){p.post({__frame_patch_miss:{seq:e.seq}},t);return}if(n.text!==void 0&&(!se(s)||ie(s))){p.post({__frame_patch_miss:{seq:e.seq}},t);return}for(const[a,l]of Object.entries(n.attrsSet??{}))if(!G(s,a)){try{s.setAttribute(a,l)}catch{}X(s,a,l)}for(const a of n.attrsRemoved??[])G(s,a)||(s.removeAttribute(a),X(s,a,null));typeof n.text=="string"&&(s.textContent=n.text),r.push(n.target)}try{document.dispatchEvent(new CustomEvent("claude:edit",{detail:{seq:e.seq,targets:r}}))}catch{}}function X(e,t,r){if(!(e instanceof HTMLInputElement))return;const n=t.toLowerCase();n==="checked"?e.checked=r!==null:n==="value"&&e.type!=="file"&&(e.value=r??"")}function G(e,t){const r=t.toLowerCase(),n=e;return r==="data-id"||(r==="value"||r==="checked")&&(n.__artifactSecret===!0||/^(password|hidden|file)$/.test(n.type??"")||/(^|\s)(cc-|one-time-code|current-password|new-password)/i.test(`${e.getAttribute("autocomplete")??""} ${n.autocomplete??""}`))}function V(e){const t=document.documentElement;e==="light"||e==="dark"?(t.dataset.theme=e,t.style.colorScheme=e,B=!0):B&&(delete t.dataset.theme,t.style.colorScheme="",B=!1)}var M=new Map;function Te(){let e;const t={u:new Promise(r=>{e=r}),r:r=>{t.done=!0,e(r)},done:!1,nulled:!1};return t}function U(){for(const e of M.values())e.done||(e.nulled=!0,e.r(null))}var Le=Object.freeze(Object.assign(Object.create(null),{call:Function.prototype.call,apply:Function.prototype.apply,bind:Function.prototype.bind})),D=(e,t)=>{const r=M.get(e);if(!r||r.done){r?.nulled&&E&&p.post({__frame_cap_telemetry:{kind:"cap-load-error",cap:e}},E);return}const n=typeof t=="function"?Object.setPrototypeOf(t,Le):Object.assign(Object.create(null),t);typeof n.then=="function"&&delete n.then,r.r(Object.freeze(n))};function Z(){const e=q?.value??{};Y(window,"claude",e);for(const t of Object.keys(L)){if(e[t]!==void 0){Y(e,t,e[t]);continue}M.set(t,Te())}if(e.use===void 0){const t=r=>{if(typeof r!="string"||!Object.hasOwn(L,r))return Promise.resolve(null);const n=M.get(r);return n?n.u:Promise.resolve(e[r]??null)};try{Object.defineProperty(e,"use",{value:t,writable:!0,configurable:!0,enumerable:!1})}catch{}}}if(T==="framed"){const e=j&&A.test(j)?R(j).catch(()=>{}):Promise.resolve(void 0),t=o=>{if(o.type==="auxclick"&&o.button!==1)return;const f=o.target,_=f&&f.closest?f.closest("a[href],area[href]"):null;if(!_)return;const b=_.getAttribute("href");if(!b)return;let i;try{i=new URL(b,document.baseURI)}catch{return}if((i.protocol==="http:"||i.protocol==="https:")&&i.origin!==location.origin){o.preventDefault();const m=(_.getAttribute("target")??"").toLowerCase(),u=o.type==="auxclick"||o.metaKey||o.ctrlKey||o.shiftKey||o.altKey||!["","_self","_top","_parent"].includes(m);p.post({__frame_nav:!0,url:i.href,newTab:u},"*")}};addEventListener("click",t,!0),addEventListener("auxclick",t,!0);const r={},n=o=>{o.isTrusted&&(r.pointer=!0)},s=o=>{o.isTrusted&&(r.click=!0)};addEventListener("pointermove",n,{capture:!0,passive:!0}),addEventListener("click",s,{capture:!0,passive:!0}),e.then(o=>{o?.wireNav&&(o.wireNav(),removeEventListener("click",t,!0),removeEventListener("auxclick",t,!0),removeEventListener("pointermove",n,!0),removeEventListener("click",s,!0),o.wireEngagement?.(r))});let a=null;try{a=Ee()}catch{}Z();let l=null,d=null,v=0;const y=p.on((o,f)=>{$(f)&&fe(o)&&(l=o.__frame_init,E=f,y(),clearTimeout(v),d?.())});p.post({__frame_connect:!0},"*");const S=new Promise(o=>{d=o,v=setTimeout(()=>{y(),o()},Se)}),h=document.readyState==="loading"?new Promise(o=>document.addEventListener("DOMContentLoaded",()=>o(),{once:!0})):Promise.resolve();h.then(()=>{try{a?.restore()}catch{}});const w={cb:null};p.on((o,f)=>{if($(f)&&pe(o)){try{a?.promoted()}catch{}w.cb?.()}}),S.then(async()=>{if(!l||!E){U();return}V(l.theme);const o=E;let f=!1,_=!1;p.on((c,x)=>{if(x!==o)return;de(c)&&V(c.__frame_theme.theme),ue(c)&&ke(c.__frame_patch,o);const g=c?.__fc_mode;g&&typeof g=="object"&&!f&&N&&A.test(N)&&(f=!0,R(N).then(z=>z.install?.(o,g.on===!0)).catch(()=>{}));const F=c?.__ft_cmd;F&&typeof F=="object"&&!_&&I&&A.test(I)&&(_=!0,R(I).then(z=>z.install?.(o,F)).catch(()=>{}))});const b=Object.keys(l.capabilities??{}).filter(c=>Object.hasOwn(L,c)).map(c=>[c,L[c]]).filter(c=>typeof c[1]=="string"&&A.test(c[1])),i=await Promise.allSettled(b.map(([,c])=>R(c))),m=await e,u=E;if(m?.buildBoot||p.post({__frame_cap_telemetry:{kind:"cap-load-error",cap:"_transforms"}},u),m?.buildBoot)try{P=m.buildBoot(l,m.TRANSFORMS??{},{shellOrigin:u,mount:D},c=>p.post({__frame_cap_telemetry:c},u))}catch{p.post({__frame_cap_telemetry:{kind:"cap-load-error",cap:"_transforms"}},u),P=K(l,u)}else P=K(l,u);const k=c=>p.post({__frame_cap_telemetry:{kind:"cap-load-error",cap:c}},u),Pe=P;i.forEach((c,x)=>{const g=b[x][0];if(c.status!=="fulfilled"){k(g);return}try{c.value?.install?.(Pe)}catch{k(g)}}),U(),await h,p.post({__frame_ready:!0},E),e.then(c=>c?.installSizeReporter?.(u,w))})}else C&&(Z(),ge(C,W,R,{settle:U,mount:D}))})();</script><!-- /frame-runtime --><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1"><style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}</style></head><body>
+<title>On the Vocation of Culture</title>
+
+<style>
+/* ── Design tokens ─────────────────────────────────────────────────────── */
+:root {
+  --bg:         #ffffff;
+  --bg-alt:     #f5f5f5;
+  --text:       #1E2529;
+  --text-muted: #6B7C78;
+  --accent:     #3D7A70;
+  --rule:       #B8C9C5;
+  --fs:         15.5px;
+  --serif: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, "Times New Roman", serif;
+  --sans:  -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:#141C1E; --bg-alt:#1A2426; --text:#DDE8E4; --text-muted:#7A9490;
+    --accent:#5A9E93; --rule:#2E4240;
+  }
+}
+:root[data-theme="light"] {
+  --bg:#ffffff; --bg-alt:#f5f5f5; --text:#1E2529; --text-muted:#6B7C78;
+  --accent:#3D7A70; --rule:#B8C9C5;
+}
+:root[data-theme="dark"] {
+  --bg:#141C1E; --bg-alt:#1A2426; --text:#DDE8E4; --text-muted:#7A9490;
+  --accent:#5A9E93; --rule:#2E4240;
+}
+
+/* ── Reset & base ───────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: var(--bg); color: var(--text);
+  font-family: var(--serif); line-height: 1.72;
+  padding: 0 0.5rem 5rem;
+}
+
+/* ── Masthead ───────────────────────────────────────────────────────────── */
+.masthead {
+  max-width: 820px; margin: 0 auto; padding: 3.5rem 0 0; text-align: center;
+}
+.main-title {
+  font-family: var(--serif); font-size: clamp(1.35rem, 3vw, 1.9rem);
+  font-weight: normal; font-style: italic; line-height: 1.3;
+  color: var(--text); letter-spacing: 0.01em;
+}
+.wave-rule {
+  display: block; width: 100%; max-width: 320px;
+  margin: 1.6rem auto 1.8rem; overflow: visible;
+}
+
+/* ── Column header bar ─────────────────────────────────────────────────── */
+.col-bar {
+  max-width: 1180px; margin: 0 auto;
+  display: grid; grid-template-columns: 1fr 1fr;
+  border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule);
+  padding: 0.45rem 0;
+}
+.col-label {
+  font-family: var(--sans); font-size: 10.5px; font-weight: 600;
+  letter-spacing: 0.14em; text-transform: uppercase; color: var(--text-muted);
+  padding: 0 1.5rem;
+}
+.col-label:last-child { text-align: right; }
+
+/* ── Paragraph grid with single vertical divider ────────────────────────── */
+/* The divider is one ::before pseudo-element on .paras running top-to-bottom,
+   positioned at exactly 50% (the column boundary). No horizontal rules. */
+.paras {
+  max-width: 1180px; margin: 0 auto;
+  position: relative;
+}
+.paras::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 0; bottom: 0;
+  width: 1px;
+  background: var(--rule);
+  pointer-events: none;
+}
+.row {
+  display: grid; grid-template-columns: 1fr 1fr;
+  padding: 0.85rem 0;
+  align-items: start;
+}
+.row p {
+  margin: 0; font-size: var(--fs); line-height: 1.74; hyphens: auto;
+  padding: 0 1.5rem;
+}
+.row p:last-child { opacity: 0.88; }
+
+/* ── Section dividers (short all-caps paragraphs) ───────────────────────── */
+.section-div {
+  display: grid; grid-template-columns: 1fr 1fr;
+  margin-top: 2.4rem; position: relative;
+}
+.section-div .s-orig,
+.section-div .s-trans {
+  font-family: var(--sans); font-size: 10px; font-weight: 700;
+  letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent);
+  padding: 0.55rem 1.5rem; border-top: 1.5px solid var(--accent);
+}
+
+/* ── Page markers ───────────────────────────────────────────────────────── */
+.page-row { max-width: 1180px; margin: 0 auto; text-align: center; padding: 0.35rem 0; }
+.page-mark {
+  color: var(--text-muted); font-size: 11px;
+  font-family: var(--sans); font-style: normal;
+}
+
+/* ── Controls (font size + theme) ───────────────────────────────────────── */
+.controls {
+  position: fixed; top: 1rem; right: 1rem;
+  display: flex; gap: 0.35rem; align-items: center; z-index: 100;
+}
+.ctrl-btn {
+  background: var(--bg-alt); border: 1px solid var(--rule);
+  color: var(--text-muted); border-radius: 4px;
+  padding: 0.28rem 0.55rem; cursor: pointer;
+  font-family: var(--sans); font-size: 11px; font-weight: 600;
+  letter-spacing: 0.04em; transition: border-color 0.15s, color 0.15s;
+  line-height: 1;
+}
+.ctrl-btn:hover { border-color: var(--accent); color: var(--accent); }
+.theme-btn {
+  background: var(--bg-alt); border: 1px solid var(--rule);
+  color: var(--text-muted); border-radius: 4px;
+  padding: 0.28rem 0.55rem; cursor: pointer;
+  font-family: var(--sans); font-size: 11px; font-weight: 600;
+  letter-spacing: 0.04em; transition: border-color 0.15s, color 0.15s;
+  line-height: 1; margin-left: 0.15rem;
+}
+.theme-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+/* ── Responsive ─────────────────────────────────────────────────────────── */
+@media (max-width: 640px) {
+  .col-bar, .row, .section-div { grid-template-columns: 1fr; }
+  .paras::before { display: none; }
+  .row p:first-child {
+    border-bottom: 1px solid var(--rule); padding-bottom: 0.6rem;
+  }
+  .row p:last-child { opacity: 1; padding-top: 0.6rem; }
+  .col-bar { display: none; }
+  .section-div .s-trans { border-top: none; padding-top: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+</style>
+
+<div class="controls">
+  <button class="ctrl-btn" id="fontDown" aria-label="Decrease font size">A−</button>
+  <button class="ctrl-btn" id="fontUp"   aria-label="Increase font size">A+</button>
+  <button class="theme-btn" id="themeBtn" aria-label="Toggle theme">dark</button>
+</div>
+
+<header class="masthead">
+  <h1 class="main-title">On the Vocation of Culture</h1>
+  <svg class="wave-rule" viewBox="0 0 320 16" fill="none"
+       xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <path d="M0 8 C18 1,36 1,54 8 S90 15,108 8 S144 1,162 8
+             S198 15,216 8 S252 1,270 8 S306 15,320 8"
+      stroke="currentColor" stroke-width="1.2" stroke-opacity="0.28" fill="none"/>
+  </svg>
+</header>
+
+<div class="col-bar">
+  <span class="col-label">Español</span>
+  <span class="col-label">English</span>
+</div>
+
+<div class="paras" id="paras"></div>
+
+<script>
+const DATA = [{"orig": "DE LA VOCACIÓN DE LA CULTURA", "trans": "ON THE VOCATION OF CULTURE"}, {"orig": "Tiene la palabra vocación un doble sentido, o mejor existe una polaridad intrínseca en la vocación como fenómeno espiritual y anímico. En efecto, en la vocación se da inmediatamente un impulso interior del alma, un apetito hacia determinada obtención o realización, y de otro lado en el otro polo, un llamado que viene de una instancia superior a la mera experiencia inmediata y que solicita las potencias anímicas hacia una promoción anagógica, es decir que las invita a subir, a ascender trascendiendo los límites de lo imperfecto y confuso, hacia el reino de lo excelso y perfecto.", "trans": "The word vocation bears a twofold meaning, or rather there exists an intrinsic polarity in vocation as a spiritual and psychic phenomenon. Indeed, in vocation there is present at once an inward impulse of the soul, an appetite toward a determinate acquisition or realization, and on the other side, at the opposite pole, a call that issues from an authority superior to mere immediate experience and that summons the powers of the soul toward an anagogical promotion — that is, that invites them to rise, to ascend, transcending the limits of the imperfect and confused, toward the realm of the sublime and perfect."}, {"orig": "Según lo cual en la vocación se darían dos movimientos que al propio tiempo se oponen y conjugan: uno de impulsión, otro de atracción, uno de pura espontaneidad psicológica, otro de obediencia, de sumisión al imperio de las formas y normas trascendentes que desde el mundo espiritual orientan y dirigen el esfuerzo que llamaremos plástico o configurador de la vida.", "trans": "By which token, in vocation there would be two movements that at one and the same time oppose and complement each other: one of impulsion, another of attraction; one of pure psychological spontaneity, another of obedience, of submission to the sway of transcendent forms and norms which from the spiritual world orient and direct the effort we shall call plastic, or the effort of giving configuration to life."}, {"orig": "La vocación en su doble sentido, en su polaridad de impulsión y atracción es una categoría esencial en toda existencia que revista verdadera dignidad humana, así en el individuo como en la sociedad, así en la persona singular en cuanto ente relativamente solitario y único, como en la cultura en cuanto ámbito universal de las vocaciones y realizaciones humanas. Y esa idea constituye la tesis fundamental de este capítulo.", "trans": "Vocation in its twofold meaning, in its polarity of impulsion and attraction, is an essential category in every existence that assumes true human dignity — in the individual as in society, in the singular person as a relatively solitary and unique being, and in culture as the universal domain of human vocations and realizations. And this idea constitutes the fundamental thesis of the present chapter."}, {"orig": "De suerte que la vocación es un fenómeno de tipo aristotélico, en el cual encontramos el apetito de la materia hacia la forma, y el imperio de la forma que atrae hacia sí a la materia y la promueve al plano de la configuración y del valor.", "trans": "So it is that vocation is a phenomenon of Aristotelian type, in which we find the appetite of matter for form, and the sovereignty of form that draws matter to itself and promotes it to the plane of configuration and value."}, {"orig": "Ideas todas que adquieren claridad evidente cuando se las considera en conexión con el fenómeno cultural, el mismo que, recíprocamente, adquiere un claro sentido cuando es estudiado como fenómeno de vocación, como realización histórica y modo de ser de lo humano dotado de significación permanente y excelsa en el mundo de los valores espirituales.", "trans": "All these ideas acquire evident clarity when they are considered in connection with the cultural phenomenon, which, reciprocally, acquires a clear meaning when it is studied as a phenomenon of vocation — as a historical realization and mode of being of the human endowed with permanent and exalted significance in the world of spiritual values."}, {"orig": "Pero antes conviene hacer una advertencia, y es que en este capítulo sólo nos ocuparemos de los aspectos formales del fenómeno cultural y que, en consecuencia, prescindiremos en lo posible de los hechos meramente materiales e históricos, los cuales nos servirán, principalmente, como ejemplos para ilustrar los esquemas de sus caracteres esenciales.", "trans": "But before proceeding it is fitting to enter a caveat: in this chapter we shall concern ourselves only with the formal aspects of the cultural phenomenon and shall consequently set aside, as far as possible, merely material and historical facts, which will serve us principally as examples to illustrate the schemata of its essential characters."}, {"orig": "Dentro de este criterio, nos parece que los caracteres principales de la cultura son los siguientes: Los mundos culturales son totalidades orgánicas, complejos de impregnación; El fenómeno cultural es un fenómeno de mediación entre la naturaleza y el espíritu, lo interno y lo externo, lo temporal y lo eterno; En conexión con este carácter toda verdadera cultura tiene una vocación arquetípica y, en consecuencia, implica, en sentido platónico, una cierta erótica; La actividad cultural es una actividad de configuración y simbolización.", "trans": "Within this criterion, it seems to us that the principal characters of culture are the following: Cultural worlds are organic totalities, complexes of mutual impregnation; the cultural phenomenon is a phenomenon of mediation between nature and spirit, the internal and the external, the temporal and the eternal; in connection with this character, every true culture has an archetypal vocation and consequently implies, in the Platonic sense, a certain erotic; cultural activity is an activity of configuration and symbolization."}, {"orig": "La simple enumeración de estos caracteres nos hace percibir que la cultura es un fenómeno de estructura dual, si queremos polar; dualidad cuyos términos o extremos se unifican en la realidad viviente de la creación cultural. Si quisiéramos esquematizar en una fórmula simple todo el conjunto de dualidades y oposiciones que se contrastan y unifican en la vida cultural, podríamos quizá decir, empleando metafóricamente las palabras latinas, que la cultura es el ámbito de mediación entre humus que representa la tierra maternal y fecunda, y lumen que es la luz creadora de formas. Por lo cual la imagen del árbol se nos ofrece como el símbolo paradigmático de la cultura, ya que el árbol hunde sus raíces en la tierra maternal, oscura, nocturna y sube expandiendo sus ramas, sus flores y sus frutos en la claridad solar y configuradora del espacio.", "trans": "The mere enumeration of these characters makes us perceive that culture is a phenomenon of dual, or if we will, polar structure — a duality whose terms or extremes are unified in the living reality of cultural creation. Were we to schematize in a simple formula the whole ensemble of dualities and oppositions that contrast and unify themselves in cultural life, we might perhaps say, employing Latin words [words of Latin] metaphorically, that culture is the domain of mediation between humus [humus], which represents the maternal and fecund earth, and lumen [lumen], which is the light that creates forms. Wherefore the image of the tree presents itself to us as the paradigmatic symbol of culture, since the tree sinks its roots into the maternal earth, dark and nocturnal, and rises expanding its branches, its flowers, and its fruits in the solar and form-bestowing clarity of space."}, {"orig": "Sobre la base de estas premisas estudiaremos sucintamente las que llamamos configuraciones de la cultura y que representan otras tantas posibilidades de la vocación cultural.", "trans": "On the basis of these premises we shall study succinctly what we call the configurations of culture, which represent so many possibilities of cultural vocation."}, {"orig": "Llamamos configuraciones de la cultura a las manifestaciones de significación espiritual en que se revela para la contemplación o la acción, la actividad creadora del hombre culto, como individuo o constituido en conjunto social. En cada una de esas configuraciones se revela como es natural una tendencia específica, pero todas tienen en común el constituir direcciones de una misma aspiración humana a la realización de formas arquetípicas que al par que limitan, promueven y encauzan la inquietud del hombre.", "trans": "We call configurations of culture those manifestations of spiritual significance in which the creative activity of civilized man — as individual or constituted in social community — reveals itself to contemplation or to action. In each of these configurations there is naturally revealed a specific tendency, but all have in common the fact of constituting directions of one and the same human aspiration toward the realization of archetypal forms that at once limit, promote, and channel the restlessness of man."}, {"orig": "Las principales configuraciones de la cultura serían a mi entender las siguientes: el mito, la religión, el arte, el lenguaje, la ciencia en cuya denominación englobamos la totalidad del saber teorético, las estructuras económicas, el orden ético y jurídico. Configuraciones que no estudiaremos en detalle sino en cuanto contribuyan a ilustrar, como formas ejemplares, la idea de cultura que nos proponemos desarrollar en este capítulo.", "trans": "The principal configurations of culture would be, in my understanding, the following: myth, religion, art, language, science — under which denomination we embrace the totality of theoretical knowledge — economic structures, and the ethical and juridical order. Configurations that we shall not study in detail, but only insofar as they contribute, as exemplary forms, to illuminate the idea of culture that we propose to develop in this chapter."}, {"orig": "Y con esta intención sólo nos ocuparemos aunque brevemente del mito, la religión, el arte y el lenguaje.", "trans": "And with this intention we shall concern ourselves, though briefly, only with myth, religion, art, and language."}, {"orig": "El mito es una configuración simbólica en que se personifican y presentan bajo especies imaginativas, ora las entidades metafísicas, o las potencias cósmicas que constituyen el fondo germinal de lo real, ora las tendencias elementales del alma, ora las grandes experiencias colectivas que aparecen envueltas en un ropaje maravilloso y que son proyectadas hacia una cierta región del pasado que se diría anterior al tiempo. Debiendo tenerse presente lo que acaso constituye el rasgo más importante del pensamiento mítico a saber: su sentido arquetípico, ya que las figuraciones míticas no son realistas sino imágenes en que se idealizan y estilizan para la admiración, el amor o el terror las oscuras potencias germinales de la vida.", "trans": "Myth is a symbolic configuration in which metaphysical entities, or the cosmic powers that constitute the germinal ground of the real, or the elementary tendencies of the soul, or the great collective experiences that appear clothed in a marvellous garb and are projected toward a certain region of the past that one would call anterior to time, are personified and presented under imaginative guises. One must bear in mind what perhaps constitutes the most important trait of mythical thought, namely its archetypal sense, since mythical figurations are not realistic but are images in which the dark germinal powers of life are idealized and stylized for admiration, love, or terror."}, {"orig": "El mito no es la religión, por más que muchas religiones se integren con elementos legendarios y míticos. La religión es mucho más que el mito; es esencialmente un sentimiento del alma, un modo que llamaríamos ontológico de la realidad humana, y en este sentido igualmente, en su fondo más radical, la religión es más que una mera configuración cultural. Pero si esto es así, también es cierto que las formas rituales y estéticas: plásticas, literarias, musicales en que se expresa el sentimiento religioso, están sujetas, a lo menos en una cierta medida, a las variaciones de los estilos y de las corrientes culturales. Pero hay una vinculación en profundidad entre la religión y la cultura, y consiste en el sentido de mediación que tiene la primera y que es como el modelo paradigmático de toda auténtica actitud cultural. En efecto, en la vida religiosa se manifiesta mejor que en ninguna otra forma de la cultura el sentido de mediación entre naturaleza y espíritu, ya que la religión por su acción global sobre el alma, al par que define la realidad humana singular y asienta y consagra el amor de la comunidad, atrae todo lo humano a las instancias superiores en que se diría que expira y al propio tiempo se eterniza la palpitación cordial del hombre.", "trans": "Myth is not religion, even though many religions are constituted with legendary and mythical elements. Religion is far more than myth; it is essentially a sentiment of the soul, a mode — which we would call ontological — of human reality, and in this sense equally, at its most radical depth, religion is more than a mere cultural configuration. But if this is so, it is likewise true that the ritual and aesthetic forms — plastic, literary, musical — in which religious feeling expresses itself are subject, at least to a certain degree, to the variations of styles and cultural currents. Yet there is a deep bond between religion and culture, and it consists in the sense of mediation that belongs to the former and that is, as it were, the paradigmatic model of every authentic cultural attitude. Indeed, in religious life there is manifested, better than in any other form of culture, the sense of mediation between nature and spirit, for religion, by its global action upon the soul, while it defines singular human reality and establishes and consecrates the love of community, draws all that is human toward the higher instances in which one might say that the cordial pulsation of man expires and at the same time is made eternal."}, {"orig": "El arte es una figuración del ser de las cosas y del alma, que extrae la intimidad ontológica de la existencia y la despliega en una superficie que no es sólo superficie, sino comunicación, lenguaje, símbolo. La ley del estilo se cumple con el arte con singular evidencia, tanto en lo que se refiere al artista individual, cuanto en lo que concierne al conjunto total de las obras artísticas pertenecientes a un determinado círculo de cultura. El estilo del artista genial traduce sus más íntimas predisposiciones personales sujetándolas a una ley de forma; el estilo de la cultura: gótico, renacentista, barroco imprimen en todas las creaciones de los artistas, por diversas que puedan ser las direcciones de su inspiración y de su genio, un sello común, un aire, un algo, como si por encima de la diversidad se impusiera, sin coaccionar la libertad, una común voluntad de forma. Por eso todas las grandes culturas constituyen un mundo unitario, aunque rico y vario, y por eso sin duda, recordando la inmortal ley estética de la unidad en la variedad y asimilando con justicia la creación cultural a la obra poética, podía decir Elie Faure que toda civilización digna de ese nombre es un fenómeno lírico.", "trans": "Art is a figuration of the being of things and of the soul that extracts the ontological intimacy of existence and unfolds it upon a surface that is not surface alone, but communication, language, symbol. The law of style fulfils itself in art with singular evidence, both as regards the individual artist and as regards the total ensemble of artistic works belonging to a determinate circle of culture. The style of the man of genius translates his most intimate personal predispositions by subjecting them to a law of form; the style of a culture — Gothic, Renaissance, Baroque — impresses upon all the creations of artists, however diverse the directions of their inspiration and genius may be, a common seal, an atmosphere, a certain something, as though above the diversity there imposed itself, without constraining liberty, a common will to form. For this reason all great cultures constitute a unitary world, albeit rich and varied; and for this reason doubtless, recalling the immortal aesthetic law of unity in variety and rightly assimilating cultural creation to the poetic work, Elie Faure was able to say that every civilization worthy of that name is a lyric phenomenon."}, {"orig": "Y es en el fenómeno cultural del arte donde se revela de modo más cierto y más luminoso la naturaleza oceánica del tiempo en que se dan los grandes movimientos de la vida espiritual. Una ola del tiempo trajo el estilo helenístico, otra ola del tiempo trae el gótico, otra ola trae el barroco. El océano del tiempo levanta una cresta de fúlgida espuma, la mantiene un momento y luego la abate. Pero tiene el tiempo de la cultura y del arte un privilegio de que carece el tiempo de la vida común y que consiste en que ese tiempo espiritual trae en sí un mensaje eterno y que de este modo la visión del ir y venir de las culturas a través del tiempo se nos ofrece, principalmente por virtud del arte, como una serie de instantes eternos en los cuales de una vez y para siempre se revela, por encima de toda precariedad, lo absoluto de la perfección y de la plenitud.", "trans": "And it is in the cultural phenomenon of art that there is revealed in the most certain and most luminous manner the oceanic nature of the time in which the great movements of spiritual life unfold. One wave of time brought the Hellenistic style; another wave of time brings the Gothic; yet another wave brings the Baroque. The ocean of time raises a crest of brilliant foam, sustains it a moment, and then dashes it down. But the time of culture and of art possesses a privilege that the time of common life lacks, and it consists in this: that this spiritual time bears within itself an eternal message, so that the vision of the coming and going of cultures through time presents itself to us, principally by virtue of art, as a series of eternal instants in which, once and for all, above all precariousness, the absolute of perfection and of plenitude is revealed."}, {"orig": "El lenguaje es una configuración cultural que cumple dos importantes funciones: una función expresiva y una función comunicativa. Mediante la función expresiva el lenguaje exterioriza la interioridad anímica, y lo hace generalmente gracias a la poesía que, valiéndose de la melodía y del ritmo, al par que suple la imperfección inherente a los signos verbales, confiere al lenguaje un poder de contagio y de magia. Mediante la función comunicativa el lenguaje transmite a los demás, con fines teóricos o prácticos, pensamientos, deseos, peticiones, mandatos, etc., lo cual requiere una cierta despersonalización de los signos para que puedan circular, dotados de una significación precisa, de mente en mente, como la moneda. No necesitamos decir que a las manifestaciones del lenguaje en su función expresiva se aplican, sin restricción las consideraciones que hemos formulado por relación al arte.", "trans": "Language is a cultural configuration that fulfils two important functions: an expressive function and a communicative function. By means of the expressive function language externalizes psychic interiority, and does so generally through poetry which, availing itself of melody and rhythm, at once supplies the imperfection inherent in verbal signs and confers upon language a power of contagion and of magic. By means of the communicative function language transmits to others, for theoretical or practical ends, thoughts, desires, requests, commands, and the like, which requires a certain depersonalization of signs so that they may circulate, endowed with a precise signification, from mind to mind, as coin circulates. We need not say that to the manifestations of language in its expressive function the considerations we have formulated with respect to art apply without restriction."}, {"orig": "Hay, entre otras que no consideramos necesario mencionar, dos grandes concepciones clásicas del hombre que se expresan en dos fórmulas latinas lapidarias: Homo Sapiens y Homo Faber, las mismas que consideramos verdaderas en cuanto afirman y falsas en cuanto implícitamente niegan o excluyen. Es cierto que el hombre tiene la vocación del conocimiento, es cierto igualmente que el hombre tiene el prurito fabril y más exactamente utilitario; pero es evidente también que estas características no definen al hombre entero ni siquiera expresan lo fundamental de lo humano, por lo cual sería de desear que poseyéramos una definición más amplia y más profunda. No sabemos qué fórmula latina podríamos instituir para absorber o sustituir las que hemos enunciado y que para emplear el lenguaje de Pascal nos atreveíamos a llamar parcialidades: parcialidad teorética, parcialidad pragmática. Y por ello sin proponer una fórmula en dos palabras, diríamos que lo que define al hombre en su humanidad más significativa es el ser, un ser de vocación, un ser que oscila entre la materia y la forma, entre lo que es y lo que debe ser; en otras palabras concluiríamos: diciendo que el hombre es un ser que busca la perfección, que quiere ascender; un ser anagógico que vive en la tensión creadora entre lo que tiene y lo que busca.", "trans": "There are, among others that we do not consider necessary to mention, two great classical conceptions of man that express themselves in two lapidary Latin formulas: Homo Sapiens [the knowing man] and Homo Faber [the making man] — conceptions which we regard as true insofar as they affirm, and false insofar as they implicitly deny or exclude. It is true that man has the vocation of knowledge; it is equally true that man has the fabricating and more precisely utilitarian itch; but it is likewise evident that these characteristics do not define the whole man, nor do they even express what is fundamental in the human, wherefore it would be desirable to possess a broader and more profound definition. We do not know what Latin formula we might institute to absorb or replace those we have enunciated and which, to employ Pascal's language, we would venture to call partialities: the theoretical partiality, the pragmatic partiality. And therefore, without proposing a formula in two words, we would say that what defines man in his most significant humanity is his being a being of vocation, a being that oscillates between matter and form, between what he is and what he ought to be; in other words we would conclude by saying that man is a being who seeks perfection, who wills to ascend — an anagogical being who lives in the creative tension between what he possesses and what he seeks."}, {"orig": "Y la cultura es el ámbito de esa tensión vital.", "trans": "And culture is the domain of that vital tension."}];
+const container = document.getElementById('paras');
+const root = document.documentElement;
+
+// ── Font size control ──────────────────────────────────────────────────────
+let fontSize = 15.5;
+function setFontSize(px) {
+  fontSize = Math.max(11, Math.min(22, px));
+  root.style.setProperty('--fs', fontSize + 'px');
+}
+document.getElementById('fontDown').addEventListener('click', () => setFontSize(fontSize - 1));
+document.getElementById('fontUp').addEventListener('click',   () => setFontSize(fontSize + 1));
+
+// ── Paragraph rendering ────────────────────────────────────────────────────
+function isHeader(s) {
+  return s.length < 80 && s === s.toUpperCase() && /[A-ZÁÉÍÓÚÑÜ]/.test(s);
+}
+function pageMark(num) {
+  const span = document.createElement('span');
+  span.className = 'page-mark';
+  span.textContent = ' [' + num + '] ';
+  return span;
+}
+function snapToWord(text, pos) {
+  if (pos <= 0) return 0;
+  if (pos >= text.length) return text.length;
+  if (text[pos] === ' ') return pos;
+  let lo = pos - 1, hi = pos + 1;
+  while (lo > 0 && text[lo] !== ' ') lo--;
+  while (hi < text.length && text[hi] !== ' ') hi++;
+  return (pos - lo <= hi - pos) ? lo : hi;
+}
+
+DATA.forEach((d) => {
+  if (isHeader(d.orig)) {
+    const div = document.createElement('div');
+    div.className = 'section-div';
+    div.innerHTML =
+      '<div class="s-orig">' + d.orig + '</div>' +
+      '<div class="s-trans">' + d.trans + '</div>';
+    container.appendChild(div);
+    return;
+  }
+
+  const row = document.createElement('div');
+  row.className = 'row';
+  const orig  = document.createElement('p');
+  const trans = document.createElement('p');
+
+  if (d.page_mid) {
+    const offset = d.mid_offset;
+    const ratio = offset / d.orig.length;
+    const tOff = snapToWord(d.trans, Math.round(d.trans.length * ratio));
+    orig.append(d.orig.slice(0, offset),  pageMark(d.page_mid), d.orig.slice(offset));
+    trans.append(d.trans.slice(0, tOff),  pageMark(d.page_mid), d.trans.slice(tOff));
+  } else {
+    orig.textContent  = d.orig;
+    trans.textContent = d.trans;
+  }
+
+  row.appendChild(orig);
+  row.appendChild(trans);
+  container.appendChild(row);
+
+  if (d.page_after) {
+    const nums = Array.isArray(d.page_after) ? d.page_after : [d.page_after];
+    nums.forEach((num) => {
+      const marker = document.createElement('div');
+      marker.className = 'page-row';
+      marker.appendChild(pageMark(num));
+      container.appendChild(marker);
+    });
+  }
+});
+
+// ── Theme toggle ───────────────────────────────────────────────────────────
+const themeBtn = document.getElementById('themeBtn');
+let dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+function applyTheme(isDark) {
+  root.setAttribute('data-theme', isDark ? 'dark' : 'light');
+  themeBtn.textContent = isDark ? 'light' : 'dark';
+  themeBtn.setAttribute('aria-label', isDark ? 'Switch to light mode' : 'Switch to dark mode');
+}
+applyTheme(dark);
+themeBtn.addEventListener('click', () => { dark = !dark; applyTheme(dark); });
+</script>
+
+</body></html>

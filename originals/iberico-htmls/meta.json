@@ -1,0 +1,18 @@
+{
+ "_about": "Header fields the parallel-text HTML readers do not carry, keyed by file name; read by tools/parallel_html.py. English titles are the readers' own renderings. `work` and `year` are given only where the reader states them or the text is the book itself; the undated essays still need their source book and year (the group's reprints are image-only PDFs, so they could not be checked here).",
+ "ritmo-cosmico.html": {"title": "El sentimiento del ritmo cósmico", "title_en": "The Feeling of Cosmic Rhythm", "work": "El sentimiento de la vida cósmica, segunda parte", "year": 1939, "order": "1"},
+ "iberico_claridad_parallel.html": {"title": "Concepto y sentido de la claridad en la filosofía del siglo XVII", "title_en": "The Concept and Meaning of Clarity in Seventeenth-Century Philosophy", "year": 1949, "order": "2"},
+ "aparicion-historica.html": {"title": "La aparición histórica", "title_en": "The Historical Apparition", "work": "La aparición histórica (first part: ten sections)", "year": 1950, "order": "3"},
+ "el-aparecer-translation.html": {"title": "El aparecer", "title_en": "The Appearing", "work": "El aparecer, chapter II", "year": 1950, "order": "4"},
+ "mi-sinopsis-tiempo-side-by-side.html": {"title": "La unidad sucesiva. Sinopsis sobre el tema del tiempo", "title_en": "The Successive Unity. A Synopsis on the Theme of Time", "work": "Perspectivas sobre el tema del tiempo, pp. 109–", "year": 1958, "order": "5", "original_text": "transcription as in the HTML reader; printed page numbers as marked there"},
+ "mi-memoria-mitica-final.html": {"title": "La memoria en la conciencia mítica", "title_en": "Memory in Mythic Consciousness", "work": "El espacio humano", "year": 1969, "order": "6"},
+ "01_On_the_Meaning_of_History.html": {"title": "Del sentido de la historia", "title_en": "On the Meaning of History", "order": "7"},
+ "02_On_Causality_and_Meaning.html": {"title": "De la causalidad y el sentido", "title_en": "On Causality and Meaning", "order": "8"},
+ "03_On_the_Vocation_of_Culture.html": {"title": "De la vocación de la cultura", "title_en": "On the Vocation of Culture", "order": "9"},
+ "04_Homogeneity_and_Division.html": {"title": "Homogeneidad y división", "title_en": "Homogeneity and Division", "order": "10"},
+ "lenguaje_metafisica.html": {"title": "Lenguaje y metafísica", "title_en": "Language and Metaphysics", "work": "chapter III of a book not named in the reader", "order": "11"},
+ "mi-contemplacion-plotino-side-by-side.html": {"title": "La contemplación según Plotino", "title_en": "Contemplation According to Plotinus", "work": "chapter II of a book not named in the reader", "order": "12"},
+ "unamuno_parallel.html": {"title": "Inquietud religiosa de Miguel de Unamuno", "title_en": "The Religious Unrest of Miguel de Unamuno", "order": "13"},
+ "on-the-foundation-of-criticism.html": {"title": "Sobre el fundamento de la crítica", "title_en": "On the Foundation of Criticism", "order": "14"},
+ "mito_y_paisaje_side_by_side.html": {"title": "Mito y paisaje: Inti", "title_en": "Myth and Landscape: Inti", "order": "15"}
+}

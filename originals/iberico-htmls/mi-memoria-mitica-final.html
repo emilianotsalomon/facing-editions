@@ -1,0 +1,334 @@
+<title>Mi Memoria Mítica</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap">
+
+<style>
+/* ── Tokens ─────────────────────────────────────── */
+:root {
+  --bg:          #F0EFF0;
+  --bg-header:   #E8E6EC;
+  --text:        #1E1B24;
+  --text-muted:  #7A758A;
+  --accent:      #5E4780;
+  --border:      #C4BED0;
+  --rule:        #B0A8C0;
+  --quote-bg:    #EAE8EE;
+  --font-display: 'Cinzel', 'Trajan Pro', 'Times New Roman', serif;
+  --font-body:    'Crimson Pro', Palatino, 'Book Antiqua', Georgia, serif;
+  --font-ui:      -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --row-size: 17px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:         #15121C;
+    --bg-header:  #1D192A;
+    --text:       #E2DFF0;
+    --text-muted: #6A6478;
+    --accent:     #A48DC8;
+    --border:     #2E2940;
+    --rule:       #3C3552;
+    --quote-bg:   #1C1828;
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg:         #15121C;
+  --bg-header:  #1D192A;
+  --text:       #E2DFF0;
+  --text-muted: #6A6478;
+  --accent:     #A48DC8;
+  --border:     #2E2940;
+  --rule:       #3C3552;
+  --quote-bg:   #1C1828;
+}
+
+:root[data-theme="light"] {
+  --bg:          #F0EFF0;
+  --bg-header:   #E8E6EC;
+  --text:        #1E1B24;
+  --text-muted:  #7A758A;
+  --accent:      #5E4780;
+  --border:      #C4BED0;
+  --rule:        #B0A8C0;
+  --quote-bg:    #EAE8EE;
+}
+
+/* ── Reset ──────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  min-height: 100vh;
+}
+
+/* ── Header ─────────────────────────────────────── */
+.page-header {
+  background: var(--bg-header);
+  border-bottom: 1px solid var(--border);
+  padding: 3.5rem 2rem 2.5rem;
+  text-align: center;
+}
+
+.eyebrow {
+  font-family: var(--font-display);
+  font-size: 9px;
+  letter-spacing: 0.22em;
+  color: var(--accent);
+  text-transform: uppercase;
+  margin-bottom: 1.1rem;
+}
+
+.main-title {
+  font-family: var(--font-display);
+  font-size: clamp(18px, 3.5vw, 32px);
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text);
+  line-height: 1.3;
+  text-wrap: balance;
+  margin-bottom: 0.75rem;
+}
+
+.sub-rule {
+  width: 48px;
+  height: 1px;
+  background: var(--accent);
+  margin: 0 auto 0.9rem;
+  opacity: 0.55;
+}
+
+.byline {
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-style: italic;
+  color: var(--text-muted);
+  letter-spacing: 0.02em;
+}
+
+/* ── Controls ───────────────────────────────────── */
+.controls {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  padding: 0.75rem 2rem;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg);
+}
+
+.size-btn {
+  width: 26px;
+  height: 26px;
+  border-radius: 50%;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-muted);
+  font-family: var(--font-ui);
+  font-size: 11px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.size-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.size-label {
+  font-family: var(--font-ui);
+  font-size: 11px;
+  color: var(--text-muted);
+  min-width: 2.8em;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ── Column headers ─────────────────────────────── */
+.col-heads {
+  display: flex;
+  max-width: 1360px;
+  margin: 0 auto;
+  padding: 1.25rem 2rem 0.75rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.col-head {
+  flex: 1;
+  font-family: var(--font-display);
+  font-size: 9.5px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.col-head:last-child {
+  text-align: right;
+}
+
+/* ── Main text area ─────────────────────────────── */
+.text-wrap {
+  max-width: 1360px;
+  margin: 0 auto;
+  padding: 0 2rem 5rem;
+  position: relative;
+}
+
+/* Center rule */
+.text-wrap::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 1px;
+  background: var(--rule);
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+/* ── Rows ───────────────────────────────────────── */
+.row {
+  display: flex;
+  gap: 0;
+  padding: 1.15rem 0;
+  border-bottom: 1px solid var(--border);
+  align-items: baseline;
+}
+
+.row:last-child {
+  border-bottom: none;
+}
+
+.col {
+  flex: 1;
+  padding: 0 2rem 0 0;
+  font-size: var(--row-size);
+  line-height: 1.72;
+  color: var(--text);
+}
+
+.col + .col {
+  padding: 0 0 0 2rem;
+}
+
+/* ── Title row ──────────────────────────────────── */
+.row-title .col {
+  font-family: var(--font-display);
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 400;
+  padding-top: 1.5rem;
+  padding-bottom: 0.5rem;
+}
+
+/* ── Quoted / verse passages ──────────────────────
+   A paragraph that starts with " or Death is → blockquote style */
+.col.verse, .col.blockquote {
+  font-style: italic;
+  background: var(--quote-bg);
+  border-left: 2px solid var(--accent);
+  padding-left: 1.25rem;
+  margin: 0.25rem 0;
+  border-radius: 0 2px 2px 0;
+  opacity: 0.92;
+}
+
+/* ── Responsive ─────────────────────────────────── */
+@media (max-width: 680px) {
+  .text-wrap::after { display: none; }
+  .col-heads { display: none; }
+  .row { flex-direction: column; gap: 0; }
+  .col, .col + .col { padding: 0.5rem 0; }
+  .col + .col {
+    padding-top: 0.75rem;
+    border-top: 1px dashed var(--border);
+  }
+}
+
+/* ── Focus ──────────────────────────────────────── */
+.size-btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .size-btn { transition: none; }
+}
+</style>
+
+<header class="page-header">
+  <div class="eyebrow">Mariano Iberico &thinsp;·&thinsp; El Espacio Humano</div>
+  <h1 class="main-title">La Memoria en la Conciencia Mítica</h1>
+  <div class="sub-rule"></div>
+  <p class="byline">Memory in Mythic Consciousness &thinsp;—&thinsp; edición bilingüe</p>
+</header>
+
+<div class="controls" aria-label="Font size controls">
+  <button class="size-btn" id="dec" aria-label="Decrease font size" title="Smaller">A−</button>
+  <span class="size-label" id="sz-lbl" aria-live="polite">17px</span>
+  <button class="size-btn" id="inc" aria-label="Increase font size" title="Larger">A+</button>
+</div>
+
+<div class="col-heads" aria-hidden="true">
+  <span class="col-head">Español</span>
+  <span class="col-head">English</span>
+</div>
+
+<main class="text-wrap" id="paras"></main>
+
+<script>
+const DATA = [{"orig": "LA MEMORIA EN LA CONCIENCIA MÍTICA", "trans": "MEMORY IN MYTHIC CONSCIOUSNESS"}, {"orig": "La memoria considerada desde el ámbito de la conciencia mística, reviste dos formas principales: la una consiste en la rememoración de las imágenes pertenecientes a los orígenes prehumanos del mundo y de la vida; la otra, en la rememoración personal de las existencias sucesivas que, según algunas religiones, atraviesa el ser humano en el curso del tiempo, de los siglos. Siendo de advertir que en ambos casos la palabra y la noción de memoria suponen una cierta extrapolación al plano extrapsicológico de una experiencia de tipo religioso, aunque en lo fundamental el concepto de memoria como facultad de reactualizar el pasado, sea en la imagen, sea en la acción, conserva su vigencia así en la psicología de todos los días, como en la perspectiva de la conciencia mítica. Sin duda que ninguna persona de nuestra actual sociedad civilizada podía recordar el momento en que Prometeo robó el fuego a Júpiter o el momento en que Palas Atenea surgió armada de las cabeza del Padre de los Dioses. Y quizá ni los mismos griegos posthoméricos creían posible tal recordación, porque para ellos el mito había descendido a la categoría de una mera ficción literaria de tipo simbólico. Pero el hombre arcaico sí cree poder recordar ciertos sucesos de sus leyendas cosmogónicas, y aun más: cree posible repetir la hazaña divina o heroica mediante la eficacia de ritos según fórmulas de carácter mágico.", "trans": "Memory, considered from the domain of mystical consciousness, takes two principal forms: one consists in the recollection of images belonging to the pre-human origins of the world and of life; the other, in the personal recollection of successive existences which, according to certain religions, the human being traverses in the course of time, across the centuries. It is worth noting that in both cases the word and notion of memory presuppose a certain extrapolation onto the extra-psychological plane of a religious order of experience, though in its fundamentals the concept of memory as the faculty of re-actualizing the past — whether in image or in action — retains its validity both in everyday psychology and in the perspective of mythic consciousness. No person in our present civilized society could remember the moment when Prometheus stole fire from Jupiter, or the moment when Pallas Athena sprang forth armed from the head of the Father of the Gods. Perhaps not even the post-Homeric Greeks themselves considered such recollection possible, for to them the myth had descended to the rank of a mere literary fiction of symbolic character. But the archaic man does believe himself capable of remembering certain events from his cosmogonic legends, and more still: he believes it possible to repeat the divine or heroic exploit through the efficacy of rites performed according to formulae of a magical character."}, {"orig": "A todo lo cual, y a título de complemento y al par de aclaración, me parece pertinente añadir lo que sigue: además de las dos formas de memoria que hemos mencionado y que son de tipo representativo, existe una tercera que en razón de su carácter predominantemente emocional llamaremos memoria pática y gracias a la cual se produce una cierta conmoción del ánimo que siente o mejor, que vuelve a experimentar, en forma confusa pero profunda el sentimiento de la vida propia del mundo originario y de la mentalidad arcaica, es decir esencialmente mítica.", "trans": "To all of this, and by way of both complement and clarification, it seems pertinent to add the following: beyond the two forms of memory we have mentioned, which are representational in kind, there exists a third which, by reason of its predominantly emotional character, we shall call pathic memory — thanks to which there arises in the soul a certain stirring, a sense, or rather a re-experience, confused yet profound, of the feeling of life proper to the originary world and to the archaic mentality, that is to say, the essentially mythic mind."}, {"orig": "El tipo individual de recordación mítica que estudiamos en primer término por razones de método, podemos considerarlo como una suerte de pluralismo existencial, puesto que admite una pluralidad de existencias que se suceden y que pueden ser evocadas, de modo que la muerte no es sino un tránsito de un mundo a otro o más exactamente de una existencia a otra, de la vida pasada a la vida presente la que, a su vez pasará a otra, y ésta a otras sucesivas indefinidamente; manera de concebir la sucesividad de las existencias humanas que constituye el fundamento espiritual de altas religiones como el Budismo, el Brahamanismo, el Orfismo, y que plantea difíciles y hondos problemas a la ontología y a la psicología de la realidad humana. Como ejemplo de esta creencia citaremos a Diógenes Laercio en cuyo libro sobre \"La vida de los Filósofos más Ilustres\", encontramos las siguientes referencias sobre las diversas encarnaciones de Pitágoras: \"que mientras vivió se acordó de todo, y después de muerto conservó la misma memoria, que tiempos después de muerto pasó al cuerpo de Euforbo y fue herido por Menelao. Que siendo Euforbo, dijo había sido en otro tiempo Etálides, y que había recibido de Mercurio el don de trasmigración del alma, como efectivamente trasmigraba y circuía por todo género de plantas y animales; previendo además lo que padecería su alma en el infierno y las demás allí detenidas. Que después que murió Euforbo, se pasó su alma a Hermótino, el cual queriendo también dar fe de ello, pasó a Bránchida, y entrando en el templo de Apolo, enseñó el escudo que Menelao había consagrado allí, y decía que cuando volvía de Troya consagró a Apolo su escudo. Que después que murió Hermótimo se pasó a Pirro, pescador delio, y se acordó de nuevo de todas las cosas a saber: como primero había sido Etalides, después Euforbo, luego Hermótimo y en seguida Pirro, y finalmente Pitágoras, y se acordaba de cuanto hemos mencionado\".", "trans": "The individual type of mythic recollection which we study first for methodological reasons may be regarded as a kind of existential pluralism, since it admits of a plurality of successive existences capable of being evoked — so that death is nothing other than a passage from one world to another, or more precisely from one existence to another, from past life to present life, which will in turn pass into another, and that into others indefinitely: a manner of conceiving the succession of human existences that forms the spiritual foundation of great religions such as Buddhism, Brahmanism, and Orphism, and that poses difficult and profound questions to the ontology and psychology of human reality. As an example of this belief, we shall cite Diogenes Laertius, in whose book on \"The Lives of the Most Illustrious Philosophers\" we find the following references to the various incarnations of Pythagoras: \"that while he lived he remembered all things, and after death preserved the same memory; that in time after his death he passed into the body of Euphorbus and was wounded by Menelaus. That being Euphorbus, he said he had at another time been Ethalides, and had received from Mercury the gift of transmigration of the soul, and that he effectively migrated and circulated through all manner of plants and animals; foreseeing moreover what his soul would suffer in Hades, and the rest detained there. That after Euphorbus died, his soul passed to Hermotimus, who, wishing likewise to confirm this, went to Branchidae, and entering the temple of Apollo, showed the shield that Menelaus had consecrated there, and declared that when returning from Troy he had consecrated his shield to Apollo. That after Hermotimus died he passed to Pyrrhus, the Delian fisherman, and remembered all things anew: how he had first been Ethalides, then Euphorbus, then Hermotimus, then Pyrrhus, and finally Pythagoras, and he recalled all that we have mentioned.\""}, {"orig": "Por lo que toca a la religión Brahamánica, de mitología algo confusa, poco tenemos que decir ya que es sobradamente conocido el hecho de que la trasmigración de las almas es una de las creencias más fundamentales y difundidas de dicha religión, por lo cual lo que hemos anotado, siguiendo a Diógenes Laercio, respecto de Pitágoras, podemos aplicarlo mutatis mutandis a las creencias de las religiones hindúes.", "trans": "As for the Brahminic religion, whose mythology is somewhat confused, we have little to add, since it is amply known that the transmigration of souls is one of the most fundamental and widespread beliefs of that religion, so that what we have noted, following Diogenes Laertius, with respect to Pythagoras, may be applied mutatis mutandis to the beliefs of the Hindu religions."}, {"orig": "Y así no nos parece superfluo referirnos aquí a la figura de Buda como representación eminente y muy significativa de la filosofía de la reencarnación, propia del sentimiento oriental y más especialmente hindú de la vida. En la doctrina budista, Buda posee el recuerdo, no sólo de algunas sino de todas sus existencias anteriores, a diferencia de otros sabios y yoguis que conocen tal vez un número considerable de sus reencarnaciones, pero no su totalidad. Buda sería pues omnisciente, porque disfrutaba de un saber universal; y saber es memoria, puesto que es reconocer, punto por punto todas las experiencias intelectuales y afectivas, vividas en el curso del tiempo.", "trans": "It therefore does not seem superfluous to refer here to the figure of the Buddha as an eminent and highly significant embodiment of the philosophy of reincarnation, proper to the Oriental — and especially Hindu — feeling for life. In Buddhist doctrine, the Buddha possesses memory not merely of some but of all his previous existences, unlike other sages and yogis who may be acquainted with a considerable number of their reincarnations, but not the totality. The Buddha would thus be omniscient, for he enjoyed a universal knowledge; and to know is to remember, since it consists in recognizing, point by point, all the intellectual and affective experiences lived through the course of time."}, {"orig": "La cuestión de saber si existen hombres capaces de tener experiencias asimilables a la memoria y relativas a los orígenes humanos o prehumanos, mejor dicho a la cosmogonía universal: creación, luchas entre los dioses y los elementos, etc., es una cuestión insoluble para nosotros, occidentales civilizados, que consideramos los mitos como meras ficciones simbólicas de la imaginación colectiva, o, en el mejor de los casos, si los mitos son parte integrante de algunas religiones (orfismo, hinduismo), como motivos de meditación y nada más.", "trans": "The question of whether men exist capable of having experiences comparable to memory and related to human or pre-human origins — more precisely to the universal cosmogony: creation, the struggles of gods and elements, and so forth — is an insoluble question for us, civilized Westerners who regard myths as mere symbolic fictions of the collective imagination, or, at best, if myths are an integral part of certain religions (Orphism, Hinduism), as objects of meditation and nothing more."}, {"orig": "Sin embargo, como una atenuación importante a lo expuesto, podemos citar el caso de Pitágoras, quien habría sido en una de sus numerosas encarnaciones Hermótimo, posible testigo de la guerra de Troya; según lo cual el filósofo, a través de Hermótimo podría recordar, después de siglos, la ruina de la ciudad asiática y evocar por lo tanto a Aquiles, a Helena y hasta algunos dioses olímpicos que intervinieron personalmente en la contienda. Posibilidad que podría suscitar la objección de que la guerra de Troya no es el origen del mundo, sino un hecho histórico comprobado por recientes descubrimientos arqueológicos. Reparo que nosotros destruiremos fácilmente, aduciendo que aunque esa guerra fuera un hecho histórico estaba llena de elementos míticos constituidos principalmente por la reiterada intervención de los olímpicos.", "trans": "Nevertheless, as an important qualification of the above, we may cite the case of Pythagoras, who would have been in one of his numerous incarnations Hermotimus, a possible witness to the Trojan War; by which reckoning the philosopher, through Hermotimus, might have been able to recall — centuries later — the ruin of the Asiatic city, and to evoke Achilles, Helen, and even certain Olympian gods who personally intervened in the conflict. A possibility that might prompt the objection that the Trojan War is not the origin of the world but a historical event confirmed by recent archaeological discoveries. An objection we can readily dismiss, arguing that even though that war was a historical fact, it was laden with mythic elements constituted above all by the repeated intervention of the Olympians."}, {"orig": "Y aquí nos parece el lugar adecuado para insistir en que en este ensayo no pretendemos afirmar la existencia de una memoria que recuerde sucesos que nunca existieron, sino únicamente estudiar los caracteres psicológicos de la vivencia (posible sobre todo en el hombre arcaico) que tiene como objeto intencional esos hechos ficticios que se supone ocurridos en el origen de los tiempos. Y la existencia de pueblos como la India que creen con absoluta certeza en la trasmigración nos confirma en la idea de que son posibles tales vivencias; ya que si el hombre puede retroceder en el tiempo indefinidamente ¿por qué no podría evocar algunas de sus remotas existencias en que fue testigo, por ejemplo, de la ya nombrada guerra de Troya o del sacrificio de Efigenia en Taulide? Si no es ya que ciertos mitos carecen de sentido anecdótico y que son meros símbolos o parábolas de intención filosófica, por consiguiente de carácter inactual como lo es, por ejemplo, el famoso incendio del bosque de Khandava interpretado según algunos indianistas como la representación de la lucha entre lo infra-consciente y lo supra-consciente, o como la hazaña intemporal de la divinidad por abolir la dualidad que representa el bosque y hacer que prevalezca al fin sobre la abolición de toda variedad, la sublime, la suprema unidad total.", "trans": "And here seems the fitting place to insist that in this essay we do not claim to affirm the existence of a memory that recalls events that never occurred, but only to study the psychological character of the lived experience (possible above all in archaic man) whose intentional object is those fictitious events supposed to have taken place at the origin of time. The existence of peoples such as India, which believe with absolute certainty in transmigration, confirms us in the view that such experiences are possible; for if man can regress in time indefinitely, why could he not evoke some of his remote existences in which he was witness, for example, to the already mentioned Trojan War or to the sacrifice of Iphigenia at Aulis? Unless it be that certain myths lack any narrative sense and are mere symbols or parables of philosophical intent, consequently inactual in character — as, for example, the famous burning of the Khandava forest, interpreted by some Indologists as the representation of the struggle between the infra-conscious and the supra-conscious, or as the timeless exploit of the divinity in abolishing the duality that the forest represents, and causing to prevail at last, over the abolition of all variety, the sublime, the supreme total unity."}, {"orig": "Al tratar del tipo de evocación que, a falta de otro nombre mejor llamaremos cosmogónica, la primera idea que se ofrece a la mente es la de similitud, por no decir identidad entre el modo de figuración mítica, cuyo objeto intencional imaginario es el pasado, y la figuración artística, más exactamente poética, tanto que uno estaría tentado a decir que el mito es una forma del arte. Pero se resiste a esta tentación asimiladora, considerando que la figuración mítica, por ficticia que sea, contiene un fondo de creencia en la realidad fáctica, por no decir histórica, de su figuración, al paso que la conciencia artística no atribuye realidad fáctica alguna a sus imágenes, sino que las considera como meros símbolos metafóricos de la subjetividad. Tesis concerniente a la íntima relación entre mito y arte que se corrobora, cuando se estudian los documentos originarios en que se exponen las concepciones míticas, especialmente las que constituyen el objeto de las narraciones poéticas de Homero y de Hesíodo. Según la Teogonía de este poeta, verdadera padre de la mitología griega, Mnemosine que es la memoria misma, es la madre de las musas, númenes favorables y aun más, inspiradoras celestes de las creaciones artísticas. Divinidades graciosas y celestes que sin duda heredaron de su madre los recuerdos maravillosos de los tiempos míticos y que inspiraron, gracias a esta memoria de lo maravilloso, los cuentos de la Teogonía, según los cuales antes que todo, es decir antes del tiempo fue el Abismo, del que nacieron Erebo y la Noche, la que a su vez engendró el Eter y la Luz del Día. A cuyos elementos debemos agregar el Amor, Eros \"el más bello de todos los dioses inmortales y que en el corazón de todo Dios como de todo hombre rinde a su imperio el corazón y la voluntad\".", "trans": "In treating the type of evocation which, for lack of a better name, we shall call cosmogonic, the first idea that presents itself to the mind is that of similarity, not to say identity, between the mode of mythic figuration — whose intentional, imaginary object is the past — and artistic figuration, more precisely poetic figuration, so much so that one would be tempted to say that myth is a form of art. But one resists this assimilating temptation, reflecting that mythic figuration, however fictitious it may be, contains a fund of belief in the factual, not to say historical, reality of its subject matter, whereas artistic consciousness attributes no factual reality to its images, but regards them as mere metaphorical symbols of subjectivity. This thesis, concerning the intimate relationship between myth and art, is corroborated when one studies the original documents in which mythic conceptions are set forth, especially those that constitute the subject of the poetic narratives of Homer and Hesiod. According to the Theogony of this poet, the true father of Greek mythology, Mnemosyne — who is memory itself — is the mother of the Muses, those benevolent and inspiring heavenly divinities of artistic creation. Gracious and celestial divinities who undoubtedly inherited from their mother the marvellous recollections of mythic times, and who inspired — through this memory of the marvellous — the tales of the Theogony, according to which before all else, that is before time, there was the Abyss, from which were born Erebus and Night, who in turn engendered Aether and the Light of Day. To these elements we must add Love, Eros, \"the most beautiful of all the immortal gods, who in the heart of every God and of every man subdues the heart and the will to his dominion.\""}, {"orig": "Y aquí, establecida la vinculación entre la memoria mítica y las musas, nos parece llegada la oportunidad de declarar que el mito es una creación colectiva y que, pese a los meritorios trabajos de etnólogos y sociólogos, no sabemos aun cómo trabaja, cómo opera en la profundidad, la imaginación creadora del alma colectiva.", "trans": "And here, having established the bond between mythic memory and the Muses, the moment seems ripe to declare that myth is a collective creation and that, despite the meritorious labors of ethnologists and sociologists, we still do not know how the creative imagination of the collective soul works, how it operates in the depths."}, {"orig": "Otra similitud y otra diferencia importante para la comprensión de la conciencia mítica del pasado son las que existen entre historia y mito. Ambas formas del saber espiritual se proyectan hacia el pasado, y hablando en sentido muy general podría decirse que los mitos son historia: la historia de los Argonautas, la historia de Dionisos Zagreo, historias que naturalmente discurren en un tiempo mítico. Sólo que la historia toma como objeto la realidad, digamos material, del acontecer, al paso que el mito es ficción, un tipo especial de ficción, nunca totalmente asimilable o reductible al hecho verdaderamente histórico. Tratando el tema en la perspectiva del tiempo dice Ernst Cassirer: \"la verdadera diferencia en cuanto al tratamiento del tiempo entre mito e historia, consiste en que para el mito se da un pasado absoluto que, como tal ni necesita, ni es susceptible de un esclarecimiento extensivo, al paso que en la historia el acontecer que se distingue o se destaca en la cadena del devenir, no contiene en sí mismo ningún punto privilegiado y absoluto, sino que al contrario, cada punto es susceptible de relacionarse retrospectivamente sin límite alguno de modo que en el pasado se ofrece un regressus in infinitum. El mito por su parte también establece una separación entre ser y devenir, entre presente y pasado, pero reposa definitivamente en el último, de tal manera que éste una vez alcanzado se considera como subsistente en sí y sustraído a toda problemática\".", "trans": "Another important similarity, and an important difference as well, bearing on the understanding of mythic consciousness of the past, are those that exist between history and myth. Both forms of spiritual knowledge are projected toward the past, and speaking in very broad terms one might say that myths are history: the history of the Argonauts, the history of Dionysus Zagreus — histories that naturally unfold in a mythic time. Only history takes as its object the reality, let us say material, of events, whereas myth is fiction, a special type of fiction, never wholly assimilable or reducible to genuinely historical fact. Treating the theme from the perspective of time, Ernst Cassirer writes: \"The true difference in the treatment of time as between myth and history consists in the fact that for myth there is an absolute past which, as such, neither needs nor is susceptible of any extensive elucidation, whereas in history the event that stands out in the chain of becoming contains in itself no privileged or absolute point, but on the contrary, every point is susceptible of being related retrospectively without limit, so that in the past there is offered a regressus in infinitum. Myth for its part also establishes a separation between being and becoming, between present and past, but it reposes definitively in the latter, in such a way that, once attained, the past is considered as subsisting in itself and withdrawn from all problematic.\""}, {"orig": "\"En la mitología griega —escribe Mircea Eliade— sueño y muerte, Hypnos et Thanatos son dos hermanos gemelos\"; y se comprende. Dormir equivale a una muerte transitoria, mientras que morir no es otra cosa que el sueño definitivo, eterno. A cuyas dualidades habría que agregar una tercera, quizá más importante, y que es la que en las grandes mitologías asimila la muerte al olvido. Dualidad muerte-olvido que nos interesa de modo especial por su relación estrecha con el objeto de nuestro estudio, puesto que, en realidad el olvido también es un hermano gemelo, aunque enemigo, de la memoria y de la muerte. Recordar es vivir y en consecuencia morir es olvidar. Y si es verdad como piensa Bergson que la conciencia (la vida) es memoria y que es la materialidad (digamos la muerte) quien pone en nosotros el olvido, no nos parecerá extraño y sí al contrario muy lógico que el hombre arcaico identifique la muerte al olvido, sobre todo cuando contempla la materialidad inánime de los restos mortales.", "trans": "\"In Greek mythology\" — writes Mircea Eliade — \"sleep and death, Hypnos and Thanatos, are twin brothers\"; and this is understandable. To sleep is equivalent to a transitory death, while to die is nothing other than definitive, eternal sleep. To these dualities a third must be added, perhaps the most important, namely that which in the great mythologies assimilates death to forgetting. The death-forgetting duality interests us in a special way by reason of its close relation to the object of our study, since, in reality, forgetting is also a twin brother — though an enemy — of both memory and death. To remember is to live, and consequently to die is to forget. And if it is true, as Bergson believes, that consciousness (life) is memory, and that it is materiality (let us say death) that instills forgetting in us, then it will not seem strange to us — on the contrary it will seem entirely logical — that archaic man should identify death with forgetting, above all when he contemplates the lifeless materiality of mortal remains."}, {"orig": "Ahora vuelve a asaltarme el temor de estar realizando un trabajo de Sísifo, porque si como afirman los psicólogos de la profundidad y los etnólogos, un cierto estado mítico es anterior al ejercicio de la función fabuladora o figurativa, entonces ¿se puede hablar de memoria? Pues ¿qué recordaría esa memoria? Creemos empero que sí es legítimo hablar de memoria mítica, no en el sentido de recordación anecdótica o histórica como la de un soldado que recordaría la batalla del Marne o la de un marinero que recordaría la batalla de Angamos, sino de una memoria de otro tipo que tuviese la capacidad de revestir la pura desnudez de la imagen con el ropaje ilusorio del recuerdo. Cree recordar lo que inventa. Parece que las figuraciones míticas surgidas de la mentalidad colectiva son recogidas y estilizadas por los poetas, los sacerdotes y los magos, y que luego emigran, a través de los siglos, no como meras repeticiones sino frescas y auténticas, como si las arrastrara por encima del tiempo el viento espiritual, imperecible del alma arcaica.", "trans": "Now again the fear assails me that I am engaged in a labor of Sisyphus: for if, as depth psychologists and ethnologists affirm, a certain mythic state is prior to the exercise of the fabulating or figurative function, can one speak of memory at all? What would that memory recall? We believe, nonetheless, that it is legitimate to speak of mythic memory — not in the sense of anecdotal or historical recollection, such as that of a soldier remembering the Battle of the Marne or a sailor the Battle of Angamos, but of a memory of another kind that would possess the capacity to clothe the pure nakedness of the image in the illusory garment of recollection. It believes it remembers what it invents. It appears that the mythic figurations arising from the collective mentality are gathered and stylized by poets, priests, and mages, and that they then migrate across the centuries, not as mere repetitions but fresh and authentic, as though carried beyond time by the imperishable spiritual wind of the archaic soul."}, {"orig": "Yo recuerdo haber oído cantar en un pueblecito de Cajamarca, a una mujer indígena de rara inspiración. Era un canto tan intenso, de una tan misteriosa profundidad que me produjo una impresión indescriptible. Era como un lamento místico, algo como una nostalgia, una reminiscencia, un recuerdo. Un recuerdo ¿de qué? No lo sé. Pero en todo ello había algo de memoria, un recuerdo de algo que yo no había vivido personalmente, pero que existía en mí como una reliquia, como un eco vibrante del pasado. Yo diría que se trataba de una cripto-memoria, sepulta pero viva desde los orígenes más remotos del hombre y cuyos recuerdos despertaban confusos ante la mágica encantación del canto, y así esta experiencia me hace percibir con claridad que mientras la memoria histórica es, sobre todo una memoria imagen, la memoria mítica es una memoria pática; y por eso cuando recordamos páticamente un hecho histórico, lo convertimos, sin advertirlo, en mito es decir en figura arquetípica y trans-histórica, más que histórica y situada en un tiempo que por su significación vital es ya perteneciente al mundo de los orígenes.", "trans": "I remember once having heard a song in a small village in Cajamarca, sung by an indigenous woman of rare inspiration. It was a song so intense, of so mysterious a depth, that it produced in me an indescribable impression. It was like a mystical lament, something akin to nostalgia, a reminiscence, a memory. A memory of what? I do not know. But in all of it there was something of memory, a recollection of something I had not personally lived, yet which existed within me like a relic, like a vibrant echo of the past. I would say that it was a crypto-memory, buried yet alive since the most remote origins of humankind, whose recollections stirred confusedly before the magical enchantment of the song — and so this experience makes me perceive with clarity that while historical memory is above all an image-memory, mythic memory is a pathic memory; and for this reason, when we recall a historical event pathically, we convert it, without realizing it, into myth — that is, into an archetypal and trans-historical figure, more than historical, situated in a time which by its vital significance already belongs to the world of origins."}, {"orig": "El gran poeta alemán Hölderlin poseía una suerte de memoria pática que le hacía sentir o volver a sentir con solemnidad y pasión la vida anímica de la Grecia arcaica, es decir mítica.", "trans": "The great German poet Hölderlin possessed a kind of pathic memory that made him feel, or re-feel with solemnity and passion, the psychic life of archaic Greece — that is to say, mythic Greece."}, {"orig": "El poeta traducía ese sentimiento en realidad inexpresable en forma maravillosa, y su caída en la demencia no fue quizá sino un retorno a la oscuridad original que así volvía a ser no sólo la fuente, sino algo así como el refugio final de su misteriosa inspiración.", "trans": "The poet translated that feeling, in reality inexpressible, in marvellous form, and his descent into madness was perhaps nothing other than a return to the original darkness, which thus became not only the source but something like the final refuge of his mysterious inspiration."}, {"orig": "Analizando la ecuación Hypnos-Thanatos, y poniéndola en relación con el olvido considerado como prefiguración de la muerte, accedemos a un nivel que ya trasciende el tema meramente psicológico del olvido y promueve el alma a planos de contemplación más elevados y trascendentes. Los griegos asimilaban el olvido (amnesis) a la muerte, y especulando entre la vida y la muerte llegaban, sobre todo en el seno de sociedades ocultas, mistéricas y de doctrinas escatológicas, a ciertas conclusiones que desconciertan un tanto nuestra mentalidad y nuestra psicología, porque resulta que esas sectas llegan a asimilar lo que nosotros llamamos vida a la ignorancia —sinónimo de olvido— y a afirmar que la muerte es el verdadero despertar al recuerdo y a la vivencia de la verdad y de la luz. Con lo cual nuestro cuerpo sería, como decían los óficos, una tumba donde el alma yace sepultada y en tinieblas.", "trans": "Analyzing the Hypnos-Thanatos equation, and placing it in relation to forgetting conceived as a prefiguration of death, we accede to a level that already transcends the purely psychological theme of forgetting and raises the soul toward planes of contemplation higher and more transcendent. The Greeks assimilated forgetting (amnesis) to death, and speculating between life and death they arrived — above all within the occult, mystery-oriented societies and eschatological doctrines — at certain conclusions that disconcert our mentality and psychology somewhat: it turns out that these sects come to assimilate what we call life to ignorance — a synonym for forgetting — and to affirm that death is the true awakening to memory and to the living experience of truth and light. Wherefore our body would be, as the Orphics said, a tomb in which the soul lies buried and in darkness."}, {"orig": "Así asistimos a una suerte de conversión espiritual en que la vida aparece como la muerte y la muerte como la verdadera vida y, lo que choca más con nuestra psicología y con nuestro sentimiento tradicional de la vida, es que nuestra existencia terrena, con sus apremios, dificultades y deseos, aparece como una forma del olvido y éste (o sea la muerte) como el despertar del sueño engañoso de la vida.", "trans": "So we witness a kind of spiritual conversion in which life appears as death and death as true life; and what clashes most sharply with our psychology and our traditional feeling for life is that our earthly existence — with its urgencies, difficulties, and desires — appears as a form of forgetting, while forgetting itself (or death) appears as the awakening from life's deceptive dream."}, {"orig": "Platón considera el conocimiento de los arquetipos ideales (ideas) como reminiscencias, forma atenuada de decir recuerdos, los cuales evocan un pasado metafísico en cierto modo anterior al tiempo. Doctrina que implica la concepción de una cripto-memoria que funciona por debajo de la memoria superficial y donde se guardan, o duermen las imágenes. Imágenes que pueden ser despertadas por virtud de la dialéctica o del éxtasis erótico que saca al hombre de sí mismo y lo eleva a la esfera de la trascendencia y de lo absoluto.", "trans": "Plato regards the knowledge of ideal archetypes (Ideas) as reminiscences — an attenuated way of saying recollections — which evoke a metaphysical past in some sense prior to time. A doctrine that implies the conception of a crypto-memory functioning beneath the surface memory, where images are stored, or sleep. Images that may be awakened by virtue of the dialectic or of the erotic ecstasy that draws a man out of himself and raises him to the sphere of transcendence and the absolute."}, {"orig": "Pero en esta relación mito-sueño-olvido, se realiza un fenómeno que podríamos llamar de sublimación del concepto de olvido, en numerosas escuelas filosóficas y místicas de Grecia, Egipto y Asia (órficos, neoplatónicos, gnósticos) y que consiste en que el olvido no es ya la amnesis de las percepciones externas ni de los aspectos anecdóticos o propiamente históricos de la vida: recuerdos de juventud, de viajes, de lecturas, sino el olvido de sí mismo, el olvido de la propia intimidad ontológica; de suerte que lo que llamamos vida es homologado al olvido, en tanto que la muerte es consagrada como el tránsito hacia la luz, y en realidad al recuerdo del mundo de las esencias ideales y supremas.", "trans": "But in this myth-dream-forgetting relation, a phenomenon occurs which we might call the sublimation of the concept of forgetting — in numerous philosophical and mystical schools of Greece, Egypt, and Asia (Orphics, Neoplatonists, Gnostics) — consisting in this: that forgetting is no longer the amnesia of external perceptions or of the anecdotal or properly historical aspects of life — memories of youth, of travels, of readings — but forgetting of the self, forgetting of one's own ontological intimacy; so that what we call life is equated with forgetting, while death is consecrated as the passage toward light, and in reality toward the remembrance of the world of ideal and supreme essences."}, {"orig": "He aquí como a través de estas páginas, dedicadas inicialmente a la memoria mítica, llegamos al pensamiento de la muerte, que es la realidad fatal por excelencia, es decir lo menos mítico que puede concebirse. Sólo que no sabemos a ciencia cierta lo que es la muerte ni lo que es verdaderamente la vida, puesto que según los platónicos la muerte es el acceso al recuerdo, mientras que la vida —\"lo que llamamos vida\"— es la caída en el olvido, es decir en la muerte. Ya lo decía el poeta español Rufo en versos que guardan su capacidad emocional a pesar de su rudo laconismo:", "trans": "Thus through these pages, initially dedicated to mythic memory, we arrive at the thought of death — which is the fatal reality par excellence, that is to say the least mythic thing conceivable. Yet we do not know for certain what death is, nor what life truly is, since according to the Platonists death is the access to memory, while life — \"what we call life\" — is the fall into forgetting, that is, into death. The Spanish poet Rufo already said as much, in verses that retain their emotional force despite their austere laconism:"}, {"orig": "La vida es largo morir\nY el morir fin de la muerte.", "trans": "Life is a long dying,\nAnd dying the end of death.", "verse": true}, {"orig": "Y el poeta órfico Shelley, que nos deja estos versos enigmáticos tomados de su maravilloso poema \"Prometheus Unbound\" y que nos producen una confusa impresión de esperanza y de angustia:", "trans": "And the Orphic poet Shelley leaves us these enigmatic lines from his marvellous poem \"Prometheus Unbound,\" which produce in us a confused impression of hope and anguish:"}, {"orig": "Death is the veil which those who live call life:\nThey sleep, and it is lifted;", "trans": "Death is the veil which those who live call life:\nThey sleep, and it is lifted;", "verse": true}, {"orig": "Este olvidar identificado a la muerte que estamos considerando como una derivación del estudio sobre la memoria mítica, parece a primera vista una secuencia incoherente y por lo tanto sin sentido, de las premisas originales de este trabajo. Pero no es así porque si, como lo sostienen los órficos y los neoplatónicos, la muerte es el olvido, o si preferimos, el supremo recuerdo, entonces nada tiene de extraño que incluyamos el pensamiento de la muerte dentro del tema de la memoria, puesto que el olvido es como diríamos un hermano gemelo aunque enemigo de la memoria. Morir es olvidar, pero es también en un plano distinto una forma de recordación ya sea en el hades, ya sea a través de la trasmigración que es un olvido de las existencias anteriores o un recuerdo discontinuo que borre los tránsitos letales. A este propósito conviene recordar las figuras de Buda y de Pitágoras que vivían y morían en el recuerdo, pero también tener en cuenta el resto no privilegiado de los mortales que viven en un presente puntiforme y en que al morir olvidan todo, o mejor se olvidan de sí mismos, ya sea en la luz del éxtasis, ya sea en la absoluta oscuridad de la total ausencia.", "trans": "This forgetting identified with death, which we are considering as an outgrowth of our study of mythic memory, appears at first glance to be an incoherent and therefore senseless sequence from the original premises of this work. But it is not so, because if — as the Orphics and Neoplatonists maintain — death is forgetting, or if we prefer, the supreme remembrance, then there is nothing strange in including the thought of death within the theme of memory, since forgetting is, as one might say, a twin brother though an enemy of memory. To die is to forget, but it is also, on a different plane, a form of recollection — whether in Hades or through transmigration, which is a forgetting of previous existences or a discontinuous memory that erases the lethal transitions. In this regard it is fitting to recall the figures of the Buddha and Pythagoras who lived and died in memory, while also bearing in mind the unprivileged remainder of mortals who live in a punctiform present and who, at death, forget all, or rather forget themselves — whether in the light of ecstasy or in the absolute darkness of total absence."}, {"orig": "No he tenido la pretensión pueril de agotar en estas cortas páginas los múltiples aspectos del tema de la memoria mítica sociológicos, etnológicos y metafísicos. Me he concretado a describir dentro de los límites de mi información la perspectiva, el horizonte imaginativo de la conciencia en su relación con el mito; y de esta suerte mi empeño ha sido más interrogativo que ilustrativo. Y, en verdad, no sé si he obtenido alguna enseñanza en esa indagación. Pero sí estoy seguro de haber llegado con el pensamiento de la muerte al borde del abismo del que nos habla Hesíodo, inspirado por las musas. Un abismo que no es únicamente cosmológico, sinónimo de caos, sino de naturaleza anímica: el abismo donde moran confundidas la ignorancia, la adivinación y la angustia. Y acaso algo más: aquella \"desesperada esperanza\" que experimentaba don Miguel de Unamuno.", "trans": "I have had no puerile pretension of exhausting in these short pages the multiple sociological, ethnological, and metaphysical aspects of the theme of mythic memory. I have confined myself to describing, within the limits of my knowledge, the perspective and the imaginative horizon of consciousness in its relation to myth; and in so doing my endeavor has been more interrogative than illustrative. And in truth I do not know whether I have attained any teaching through this inquiry. But I am certain of having arrived, through the thought of death, at the edge of the abyss of which Hesiod speaks, inspired by the Muses — an abyss that is not merely cosmological, a synonym for chaos, but of psychic nature: the abyss where ignorance, divination, and anguish dwell together in confusion. And perhaps something more: that \"desperate hope\" experienced by don Miguel de Unamuno."}, {"orig": "También me interesa dejar constancia de que no he pretendido invadir la esfera religiosa, salvo naturalmente cuando era inevitable en razón de su enlace a veces irrompible con el mundo del mito. La religión es una doctrina de salvación que se orienta hacia el futuro; el mito es un fenómeno de visión simbólica que tiene su punto de partida, o mejor su fundamento en un cierto sentimiento del pasado originario. El mito es una rememoración que tiene que ver con el destino terrenal del hombre; la religión es una esperanza que atañe esencialmente al más allá.", "trans": "I also wish to place on record that I have not sought to invade the religious sphere, except naturally when it was unavoidable by reason of its at times unbreakable connection with the world of myth. Religion is a doctrine of salvation oriented toward the future; myth is a phenomenon of symbolic vision whose point of departure, or rather whose foundation, lies in a certain feeling of the originary past. Myth is a remembrance that bears upon the earthly destiny of man; religion is a hope that concerns itself essentially with the beyond."}, {"orig": "En suma, si el fondo abisal del alma está constituido por la trágica tensión de los contrarios vida y muerte que se trasmutan recíprocamente el uno en el otro, creo que la forma más adecuada de terminar estas meditaciones interrogativas será recordando el fragmento 88 de Heráclito (Diels) que no sabemos si levanta o deja suspendido como en un teatro \"el velo que los hombres llaman vida\". Y ese fragmento dice así:", "trans": "In sum, if the abyssal ground of the soul is constituted by the tragic tension of the opposites, life and death, which transmute reciprocally each into the other, I believe the most adequate way to close these interrogative meditations will be to recall Fragment 88 of Heraclitus (Diels), which we do not know whether it lifts or leaves suspended, as in a theater, \"the veil that men call life.\" And that fragment reads thus:"}, {"orig": "\"Es la misma cosa lo que es viviente y lo que es muerto, despierto o dormido, joven o viejo; pues por el cambio, esto es aquello, y por el cambio, aquello es a su vez esto\".", "trans": "\"It is the same thing to be living and dead, awake or asleep, young or old; for by change the one is the other, and by change the other is in turn the one.\"", "verse": true}, {"orig": "En resumen, en nuestro concepto, si por memoria se entiende la capacidad psíquica de representar a la conciencia en imágenes más o menos fieles lo ya percibido, es evidente que no puede hablarse en estricto sentido psicológico de \"memoria mítica\"; puesto que el mito es una ficción y, como tal, pertenece más bien que a la esfera de la memoria a la de la imaginación creadora; pero si en un sentido más amplio y profundo se entiende por memoria la capacidad de revivir sin representación imaginativa y tan sólo de modo afectivo los estados psíquicos pasados y que pueden haber afectado la conciencia en edades más o menos remotas del tiempo, entonces sí podemos hablar de memoria mítica y sostener que sus vivencias pueden contener experiencias confusas, aunque en cierto sentido históricas de tendencias místicas y de sentido mítico, como lo prueban el pitagorismo y su derivación espiritual, el orfismo. Y es en este sentido en el que hablamos de memoria mítica en las páginas precedentes cuya utilidad, estimamos, puede consistir, dentro de sus limitaciones, en mostrar que por la vía del mito puede alcanzar el alma, planos de singular significación y de rara profundidad espiritual.", "trans": "In summary, in our view: if by memory is understood the psychic capacity to represent to consciousness, in more or less faithful images, what has already been perceived, then it is evident that one cannot speak in the strict psychological sense of \"mythic memory,\" since myth is a fiction and, as such, belongs not to the sphere of memory but to that of creative imagination. But if, in a broader and deeper sense, memory is understood as the capacity to relive — without imaginative representation, and purely in an affective mode — the psychic states of the past that may have affected consciousness in more or less remote ages, then we can indeed speak of mythic memory, and maintain that its experiences may contain confused but in a certain sense historical experiences of mystical tendency and mythic import, as attested by Pythagoreanism and its spiritual derivation, Orphism. And it is in this sense that we have spoken of mythic memory in the foregoing pages — pages whose utility, we believe, may consist, within their limitations, in showing that by way of myth the soul may reach planes of singular significance and rare spiritual depth."}];
+
+(function () {
+  const container = document.getElementById('paras');
+  const sizeLabel = document.getElementById('sz-lbl');
+  let size = 17;
+
+  // Font size controls
+  document.getElementById('inc').addEventListener('click', () => {
+    if (size < 24) { size++; update(); }
+  });
+  document.getElementById('dec').addEventListener('click', () => {
+    if (size > 13) { size--; update(); }
+  });
+  function update() {
+    document.documentElement.style.setProperty('--row-size', size + 'px');
+    sizeLabel.textContent = size + 'px';
+  }
+
+  // Render paragraphs
+  DATA.forEach((pair, i) => {
+    const row = document.createElement('div');
+    const isTitle = i === 0;
+    const isVerse = pair.verse === true;
+
+    row.className = 'row' + (isTitle ? ' row-title' : '');
+
+    // Determine paragraph class
+    const colClass = 'col' + (isVerse ? ' verse' : '');
+
+    // Render text — preserve newlines in verse
+    function toHTML(text) {
+      return text
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/\n/g, '<br>');
+    }
+
+    row.innerHTML = `<p class="${colClass}" lang="es">${toHTML(pair.orig)}</p>` +
+                    `<p class="${colClass}" lang="en">${toHTML(pair.trans)}</p>`;
+    container.appendChild(row);
+  });
+})();
+</script>
