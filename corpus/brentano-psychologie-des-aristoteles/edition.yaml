@@ -1,0 +1,15 @@
+title: Die Psychologie des Aristoteles
+title_en: The Psychology of Aristotle
+author: Franz Brentano
+year: 1867
+original_language: de
+translation_language: en
+edition_layout: clean text (both columns typeset)
+source: page files of _facing-pipeline/brentano (generated — edit the page files, not this file)
+original_text: corrected transcription of the print (by the translators, checked by the reviewers)
+translation: machine-made (Claude), reviewed against the original by Claude; no human review
+pages: 258
+genre: Psychology and religion
+generated: 2026-10-24 by corpus.py
+heading: "# Franz Brentano, *Die Psychologie des Aristoteles* (1867) — *The Psychology of Aristotle*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."

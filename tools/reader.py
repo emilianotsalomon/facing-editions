@@ -8,6 +8,8 @@ import json, shutil
 C, O = os.path.abspath(sys.argv[1]), os.path.abspath(sys.argv[2])
 os.makedirs(O, exist_ok=True)
 HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
+import facing                                       # editions kept as folders of single-language files -> the interleaved text
 SITE = json.load(open(f'{HERE}/site.json')) if os.path.exists(f'{HERE}/site.json') else {}
 REPO = SITE.get('repo', '')                          # "owner/name": shared annotations are written to annotations/<text>.json there
 if os.path.exists(f'{HERE}/annot.js'):
@@ -155,8 +157,7 @@ def md_inline(t):
     return t
 
 
-def header(path):
-    s = open(path).read()
+def header(path, s):
     m = re.match(r'---\n(.*?)\n---\n', s, re.S)
     h = dict(re.findall(r'^(\w+): (.*)$', m.group(1), re.M)) if m else {}
     h = {k: v.strip('"') for k, v in h.items()}
@@ -169,7 +170,9 @@ def header(path):
 
 def load_notes(rel):
     """CORPUS/notes/<rel>.md -> (general: [html], by_page: {label: [html]}); a '## [p. N] …' heading opens a note"""
-    f = f'{C}/notes/{rel}.md'
+    f = f'{C}/{rel}/notes.md'
+    if not os.path.exists(f):
+        f = f'{C}/notes/{rel}.md'
     if not os.path.exists(f):
         return [], {}
     general, by_page = [], {}
@@ -195,13 +198,14 @@ def load_notes(rel):
     return general, by_page
 
 
-def render(path):
+def render(path, s):
+    """path: where the text lives (or would, for an edition kept as a folder); s: its interleaved Markdown"""
     rel = os.path.relpath(path, C)[:-3]
-    h, body = header(path)
+    h, body = header(path, s)
     g = lambda k: h.get(k, '')
     pairs = g('edition_layout').startswith('clean text')
     mono = g('translation_language') in ('none', '')
-    NOTE = re.compile(r'^(\d{1,3}\s?[a-c]?\)|\*+\)|\(\d{1,3}\)|[†‡]|<sup>[^<]*</sup>\s)')
+    NOTE = facing.NOTE
     paras = [p.strip() for p in re.split(r'\n\s*\n', body) if p.strip()]
     paged = bool(re.search(r'\[(p\. [^\]]+|scan \d+|PDF \d+)\]', body))      # texts without any page marks: boxes per section
     cards, toc = [], []
@@ -307,16 +311,30 @@ def render(path):
     return rel, h, len(cards)
 
 
-def order_key(x):
-    m = re.search(r'^order: (.*)$', open(x).read(), re.M)
+def order_key(item):
+    x, folder = item
+    m = re.search(r'^order: (.*)$', open(f'{folder}/edition.yaml' if folder else x).read(), re.M)
     return (os.path.dirname(x), [float(t) if re.fullmatch(r'\d+(\.\d+)?', t) else 0 for t in (m.group(1).split('.') if m else [])], x)
 
 
+def sources():
+    """(path, folder) of every text: a plain <name>.md, or a folder with edition.yaml standing for <name>.md"""
+    def found(pattern):
+        files = [(f, None) for f in glob.glob(pattern + '.md')]
+        return [(f, d) for f, d in files if not os.path.exists(f'{os.path.dirname(f)}/edition.yaml')] + \
+               [(d + '.md', d) for d in glob.glob(pattern) if os.path.exists(f'{d}/edition.yaml')]
+    return sorted(found(f'{C}/*')) + sorted(found(f'{C}/*/*'), key=order_key)
+
+
 entries, resources = [], []
-for f in sorted(glob.glob(f'{C}/*.md')) + sorted(glob.glob(f'{C}/*/*.md'), key=order_key):
+for f, folder in sources():
     if os.path.basename(f) in ('README.md', 'PROJECT-INSTRUCTIONS.md') or '/glossaries/' in f or '/notes/' in f:
         continue
-    rel, h, n = render(f)
+    text = facing.merge_dir(folder) if folder else open(f).read()
+    rel, h, n = render(f, text)
+    if '/resources/' not in f:                    # every merged edition, for uploading to a Claude Project
+        os.makedirs(os.path.dirname(f'{O}/facing/{rel}.md'), exist_ok=True)
+        open(f'{O}/facing/{rel}.md', 'w', encoding='utf-8').write(text)
     (resources if '/resources/' in f else entries).append((rel, h))
     print(rel, n, 'cards')
 resources.sort(key=lambda e: e[1].get('title', '').lower())

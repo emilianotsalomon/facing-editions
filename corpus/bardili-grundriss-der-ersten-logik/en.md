@@ -1,0 +1,2291 @@
+[scan 6]
+
+## Outline
+
+of
+
+## First Logic
+
+purified
+
+of
+
+the errors of previous logics
+
+in general,
+
+and of the
+
+Kantian in particular;
+
+Not a critique but a
+
+*Medicina mentis*,
+
+useful chiefly for Germany’s
+
+critical philosophy
+
+by
+
+C. G. Bardili.
+
+Stuttgart,
+
+published by Franz Christian Löflund.
+
+1800.
+
+[scan 8]
+
+To the
+
+Berlin Academy of Sciences,
+
+to Messrs
+
+Herder, Schlosser, Eberhard,
+
+to each
+
+a rescuer of the ailing understanding
+
+of the schools in Germany,
+
+and therefore especially also to
+
+Mr
+
+Friedrich Nicolai,
+
+this monument is dedicated
+
+by German love of the fatherland.
+
+[scan 10]
+
+### Preface.
+
+In the preface to my essay on the *Origin of the Concept of Freedom of the Will* (Stuttgart 1796), pp. V, VI, I declared that “*nothing would keep me from first seeking out man everywhere in experience and history, then tracing back to natural laws what is in him, as exactly as if there were nothing else in him, and finally, after this natural-historical*
+
+[p. VI]
+
+*and physical manner of treating him, from seeing with my own eyes what, of its possessions, then still falls to metaphysics.*” This resolve has now been carried out. Turned away with my further investigations by a sated empiricism, I turned to higher speculation, and thus to the *doctrine of reason*. A fitting occasion for this was offered me, during the last Easter holidays, by a short stay in the country, whither *Bilfinger’s* and *Ploucquet’s* logics accompanied me, since the other company of my idle hours, the philosophers of Greece, could not well follow me there in any case. Here are the results of my reflection, as the inaugural essay of their author in that domain of more abstract inquiry. Whether the, to them
+
+[p. VII]
+
+prefixed title is presumptuous, its content must teach; the preface can spare itself that. Immodesty has, at least, never yet been made a reproach to me. Rather I recall having found it publicly remarked, more than once, and only quite recently again, that the bounds of decorum and moderation, even in dealings with opponents, are nowhere found overstepped by me. It is therefore solely to itself and its own character that one must unfailingly ascribe, partly the evil that was to be met, partly the conduct of its authors toward those who think otherwise, if a writer who was never accustomed to such a thing otherwise allows himself a stronger language against it. As circumstances stand, this is unavoidable. Whoever undertakes it prepares himself for the disagreeable consequences
+
+[p. VIII]
+
+that immediately follow; but he also consoles himself over this with the presentiment of a later gratitude. *O magna vis veritatis, quae contra hominum ingenia, calliditatem, solertiam, contraque fictas omnium insidias facile se per se ipsam defendat* [O great power of truth, that easily defends itself by itself against the wits of men, their cunning, their cleverness, and against the feigned snares of all!]. Where it has once come to this in a sect, that whoever is not of its faith is dismissed with the honorary title of an *uncritical ignoramus*, that it is not ashamed to declare every product that does not bear its stamp a schoolboyish exercise-piece, that schoolboyish youths from its midst even determine, exclusively and publicly, a man’s fitness for any philosophical purpose whatever by his share in their kinship, then it seems that it has itself proclaimed all delicacy to be at an end. If, moreover, the present writing becomes bitter,
+
+[p. IX]
+
+it will be so never against merit, but against youths of the rabble just described, who, turned giddy by untimely praise and strengthened in their conceit by weak heads, with a wisdom borrowed from the *Königsberg man*, but, as they fancied, far more than *Kantian*, wanted to become *tone-setting* for Germany’s philosophy, whereas the rod of discipline would still have been due to them. Speculation (like politicizing, if it is not to be a pewterer’s politics) requires *ripeness*, and no youth is ripe, and ripe not all men can become:
+
+*Cedo, qui vestram rempublicam tantam amisistis tam cito? Proveniebant oratores novi, stulti, adolescentuli.* [Tell me, how did you lose so great a state so quickly? New orators kept turning up, foolish young men.]
+
+Otherwise I know nothing to add here, except perhaps this, that if, in the pursuit of
+
+[p. X]
+
+my *prius*, the consequence led in part to *Leibnizian* representations, it was this consequence, and not *Leibniz* himself. It must do this great man more honor to be found by me also where one did not look for him, than merely to pay homage to him because one had already set out from him in one’s investigations.
+
+Stuttgart, the 18th of Aug. 1799.
+
+[p. XI]
+
+### P. S.
+
+In the Intelligence Sheet of the Jena *Allgemeine Literatur-Zeitung*, No. 109, Wednesday 28 Aug. 1799, p. 876, it says, on the occasion of the declaration in which Mr *Kant* drops *Fichte’s Doctrine of Science as an entirely untenable system*, among other things: “for pure doctrine of science is nothing more or less than *mere logic*, which with its principles does not climb up to the material element of cognition, but as *pure logic* abstracts from its content; to pick a *real object* out of it is a futile labor, *and therefore one never yet attempted*.” If, then, it really is a labor *never yet attempted* to posit a real object through *pure logic* (demonstratively), and the, in the previous logics
+
+[p. XII]
+
+noticed errors force upon one whom empiricism could no longer satisfy, in his sufficiently prepared transition to higher speculation, the thought that it is for logic itself still to constitute its *prius*, that it itself has hitherto been merely a heteronomous concrescence of material and form, even in its supposedly pure laws of thought; and, as he, accordingly, merely undertakes to provide it with its *prius*, he finds, what he had not set out for, a real object either posited *through it*, or else none positable anywhere, the key to the essence of nature either given *through it*, or else no logic and no philosophy possible at all: would this writer then be presumptuous, in case he calls his logic an Outline of *First* Logic? — It is surely a labor *never yet attempted*. — But as for the
+
+[p. XIII]
+
+*real object*, let one but once hold the following question calmly and without prejudice up to one’s own thinking, by considering whether any universality and strict necessity — be it even, for the moment, only that of time and space — would be what it nevertheless gives itself out to be in the thinking of each, namely this very universality and strict necessity, if it were something merely *subjective*, possibly belonging merely to this human species of the third planet, which rolls around the sun, and to its individual (or communal?) I-hood? — But let one likewise do logic the small service, in the second place, of holding this calmly and without prejudice up to one’s thinking: whether even *a single one* of the concepts, *one* of the judgments, *one* of the syllogisms, into whose interior it promises to introduce us, *could* take place,
+
+[p. XIV]
+
+if the *essentialia constitutiva* which it seeks to record of those concepts, judgments, syllogisms, already *as essentialia constitutiva of the same*, were to be entirely and altogether different from the *essentialia constitutiva* of that about which judgment is passed, as *essentialia constitutiva* of the latter? Whoever in this way could take up into the identity of a judgment things that in their *essence* are nothing less than identical with the *essence* of a judgment, but in their essence are rather diametrically opposed to the essence of a judgment, would have to be made for turning impossibilities into possibilities, or, which is one, in order to bring a connection nonetheless into this *fundamentally essential lack of a connection*, a *Fichtean I* would come to his aid. If logic
+
+[p. XV]
+
+is no key to the essence of nature: then the means of connection of which it is so proud are only *privative* means of connection; nature has none, or else its own logic, and the world is no system. In any case, *Epicurus* already gave the latter the deserved rebuke; aimless and planless, as in his school, its children, the atoms, embrace one another, in order aimlessly and planlessly to repel one another again; chance and caprice (a nonentity) is called its supreme law, and even there where one thinks to dispose of this chaos by means of one’s I, to the order of the day, it is the call of caprice to caprice, hence, according to Mr *Kant’s* newest language, l. c., *a, in the choice of means to favor purposes (in the universe), perversely behaving, clumsy call*, with which one spoils the time. *Universality and strict necessity cannot first come to be (γίνεσθαι) in us children of man, as out of moistures of the earth, in the plants, plant-saps*
+
+[p. XVI]
+
+*come to be*; there no chemical and no organic process suffices any longer, there is nothing *subjective* in it any more, as an Epicurus (*in altera philosophiae parte, quae* λογική *dicitur, plane inermis et nudus* [in the other part of philosophy, which is called logic, quite unarmed and naked]), *sacrificing all philosophy to the senses*, or the sophist *Protagoras*, *mocking all philosophy*, might maintain. Though it be called ten times over *human race*, what thus bears the form and essence of things privatively (subjectively) on itself, and consequently is to make everything solely into *human form*: everything would still cling to man only *as man*, and by the appendage of the *race* (for the purpose of universality) one by no means critiques oneself, with one’s new Critique, past the old one of the said sophist, which went: πάντων χρημάτων μέτρον εἶναι ἄνθρωπον. —
+
+Stuttgart, the 17th of Sept. 1799.
+
+[scan 22]
+
+#### §. 1.
+
+Whoever reckons, thinks. But he thinks without describing anything other than his thinking itself, in thinking. Only in *calculating* does he describe his thinking in an object outside it.
+
+#### §. 2.
+
+Whoever reckons *without calculating* thinks nothing besides expressing the act of his thinking itself, and yet he thinks; hence he describes the act of his thinking itself as refined and pure as possible.
+
+*Rem.* Whoever represents numerals to himself as objects does not reckon, as long as he does not give up representing them *as certain objects*, and does not try out on them, as mere mediators of it (without otherwise meaning anything), the act of his thinking itself. *Kant* holds numbers
+
+[p. 2]
+
+for *concepts*; thus presupposes, according to his *own* system, categories and intuitions for the possibility of a *number-concept*. (*Critique of Pure Reason*, 2nd ed., p. 15 ff.) Is it possible? I ask here only provisionally. Would they not, according to his *own* system, rather have to be *ideas* — perhaps *particular* ideas in a *pure* intuition, or, to put it properly, ideas on millions, millions of packthreads of an *a priori synthesis*? Yet that is how it must go, when one takes *thinking* for a *judging* (number-concepts, number-subjects, number-predicates, number-judgments? — No, *number-formulas*, l. c. p. 105, 206), and with *pure reason*, that is to say, with *thinking*, only comes afterwards.
+
+#### §. 3.
+
+The absolute possibility of *reckoning* rests on this, that one can repeat *one, as one and the selfsame*, infinitely many times in *the many*;
+
+*Rem.* — consequently not on the *empirical* counter-image of a *pure* intuition, as it is yielded by the five fingers at *Königsberg*, l. c. p. 15.
+
+[p. 3]
+
+#### §. 4.
+
+The absolute possibility of thinking rests on this, that we can repeat *one, as one and the selfsame*, infinitely many times in *the many* (not the manifold).
+
+#### §. 5.
+
+One must first be able to do this in *the many*, i.e. in the indeterminability of all possible cases, in order to be capable of the very same also in the *manifold*, i.e. in order to be capable (through thinking) of a *cognition*. The consideration of the former is attended to too little nowadays. One is too quick, and for that very reason all too manifold. One synthesizes, e.g., at once, in order then to be able to measure everything that comes, in a new way, by the ell.
+
+*Rem.* Multiplicity, *as multiplicity*, cancels the continuation of one and the selfsame repetition; *plurality* posits it.
+
+#### §. 6.
+
+That *one* is *the unchangeable* under all change, that which is *perfectly determined* through itself as well as *becoming-determining* in the indeterminable multitude of all possible cases of its use; (*Ens unum, verum, bonum s. perfectum*.) Only
+
+[p. 4]
+
+allow me the request not to concresce my one = A forthwith in phantasy with a C, hence to leave the *ens* aside, *at least in the meantime*, — the I *for ever*, —
+
+#### §. 7.
+
+To be able to repeat A, as unity, in A, A, A etc., hence (already in this case) in *the many*, or in the indeterminability of all possible cases of its use, infinitely many times, we therefore call our thinking.
+
+#### §. 8.
+
+To be able to posit A, with its infinite repeatability, also in C, we call: *to comprehend* C through A, or *to cognize*.
+
+*Rem.* What A may bring with it for the C, the 6th § says, *so far as it now belongs here*, namely no *concrescing* according to its nature described there, but a *determining*. The former may be done by phantasy, which we can very well do without here.
+
+#### §. 9.
+
+To demonstrate the comprehensibility of C, hence the *possibility* of a cognition in general, from A, is nowadays called *critique*.
+
+[p. 5]
+
+*Rem.* The *plus* which was found still to be required for A in this respect, I set = x.
+
+#### §. 10.
+
+To demonstrate the fundamentally essential components (*essentialia constitutiva*) of thinking from the possibility of being able to repeat A, as one, which remains the same also in the many etc. (§. 6), infinitely many times, is called *doctrine of reason*.
+
+*Rem.* The *plus* which a *logic* requires, see below. Instead of *fundamentally essential components*, I shall in what follows, not without reason, put *ineradicable modi*, and divide these again into the *modus generalis* and the *modi speciales*; the *eradicable modi*, or mere *affections*, however, I shall oppose to those in their proper place.
+
+#### §. 11.
+
+A, *designating the one*, which, equal to itself, unchangeable under all change, and infinitely repeatable as A, constitutes the essence of our thinking, can never become unequal to itself, never changeable under the change, never non-repeatable as A, hence A (in *this* meaning) never *Non A*.
+
+[p. 6]
+
+#### §. 12.
+
+*Thinking, as thinking, therefore suffers no difference of quality. Either thinking, or ceasing to think, i.e. contradicting oneself; otherwise there is in thinking, as thinking, no negation.*
+
+*Rem.* That this *ceasing to think* is each time to be understood of the *omitted connecting* of certain representations in a thinking, and that *thinking, as thinking*, cannot cease, it will be superfluous to add here.
+
+#### *Observation.*
+
+What the 12th § states can also be inferred from this, that what is to be *a thought, no* contradiction, must be positable in thinking in some context of representations.
+
+#### Corollaries from §. 12.
+
+1) Negation can never be drawn to that which, in a *categorical* judgment, is A, hence never to the *Est*, as the *logical copula* of a categorical judgment, as nevertheless happens in all logics; for that means to declare thinking in a categorical judgment to be a not-thinking, i.e. a contradiction. *The copula has no difference of quality.*
+
+[p. 7]
+
+*Rem.* A pity that one does not dispute publicly in mere categorical judgments too, as one does in syllogisms; otherwise it might perhaps have occurred to someone sooner that one could say just as little: *negatur copula*, as: *negatur conclusio*. The latter is laughed at; and the former is taught.
+
+2) Negation can never be drawn to the copula in a *hypothetical* judgment, i.e. to the *consequence*; hence one can say just as little: *negatur consequentia*, as: *negatur conclusio*. *The consequence has no difference of quality as copula.*
+
+*Rem.* A second *quid pro quo* of all logics, and at the same time an evident contradiction with their assertion that the ground necessarily posits its consequence! It is not the inference (consequence, *as copula*) that can be denied, but the sufficiency of the *matter* lying in the antecedent (*sufficientia conditionis*) to point out a ground here in thinking (to qualify itself for the copula for *this* matter, to qualify itself for a “so”). Further, A remains A here too, whether the matter may now fall in *modum ponentem*
+
+[p. 8]
+
+or *tollentem*. In both cases the copula remains unalterable, and suffers no difference of quality. That of hypothetical judgments, *as such*, it can never be said that they are affirmative or negative, that consequently with them, *as hypothetical*, all difference of quality falls away, *Maaß* too asserts (in his *Outline of Logic*, p. 143); but he seeks the ground of this not where it is, in the *unalterability of the copula*; but rather in this, that in no hypothetical judgment is the relation of a predicate to the subject thought. But what else *could* then be thought in it? — As for *Kant*, he has already, by the opening of his table of categories with *logical* quantity, promised not much that is profitable for logic. Had he begun with *quality*, he would at least still have betrayed some acquaintance with the nature of the object; for *this* first brings a difference of quality with it. But a *difference of quantity*, in the hitherto customary *logical* sense of the word, neither *thinking, as thinking*, nor the *object, as object*, knows; and with the *difference of quantity*, in the hitherto customary
+
+[p. 9]
+
+*logical* sense of the word, there begins nonetheless in *Kant* — the table of *our forms of thought*.
+
+3) Negation can never be drawn to the copula in a *disjunctive* judgment, i.e. to the disjunction itself, *insofar as it becomes possible through a thinking*, (to the A, to the thought in the either-or, *as thought*). *The disjunction has no difference of quality as copula.*
+
+*Rem.* Even the *Kantians* deny that disjunctive judgments can have another quality than the *affirmative*; (as if in *thinking, as thinking*, an affirmation were already possible), — although they likewise prove their assertion by a *vitium non causae pro causa*. The ground does not lie in the exhaustive character of the marks, *as marks*. How can *marks, as marks*, according to the Kantians’ *own* principles ever become exhaustive, whether one puts them together under an *either-or*, or, as one pleases. The ground (not merely the *conditio sine qua non*) lies rather in that which in the *either-or* is merely *thought*, copula, — *pure work of reason*
+
+[p. 10]
+
+is, one might say in their language; hence there is here *properly no possibility of a difference of quality, no quality at all, to be thought*, as *Maaß* too remarks; yet, as could not be otherwise, still *per substitutionem falsi medii* (page 154).
+
+4) Negation can never be drawn to the copula in a *syllogism*, i.e. to the *conclusion* (to the Therefore, *Ergo*, as to the A in a syllogism). This was admitted long ago (*vel quasi tacite*). But where does one find the *Why*? discussed. It belonged to the logical secrets: *The conclusion has no difference of quality as copula.*
+
+*Rem.* The question is natural, and one can therefore demand its answer: how it comes about that one here already so early took the *negating* (i.e. annihilating) of the copula for contrary to reason (did not see into it)? Answer: because among all modes of thinking a syllogism connects the most matter; and one consequently had so many accessory works of matter in which one could tumble about as a great logician, that the *Ergo*, hence the form of a syllogism as syllogism, in so far
+
+[p. 11]
+
+as a thinking is involved in it, did not come into consideration, to their good fortune; but whoever, with his oppositions, had wanted to venture even so far as the *Ergo*, by virtue of a dull feeling of the inconvenience which one believed one had to impute to him himself already as a *rational being*, would have been downright laughed at. Let one only recall what the figures of the syllogisms alone could give one by way of entertainment, before *Kant* ground them to pieces.
+
+5) What is *merely thought* in a concept is its repeatability infinitely many times as A, which excludes every Non-A in the repetition, its copula. What is merely thought in a concept can never be negated without annihilating it as thought, i.e. without contradiction. A concept, *as thought*, tolerates no difference of quality.
+
+*Rem.* It is clear, without my reminding, that here the copula of No. 1, the *categorical* copula, is meant; and that we have consequently to do only with *four* numbers; the fifth is merely an *opus supererogationis* for those who might have stumbled at the first, and for whom I add here that the *thought* in a categorical judgment and the *thought* in a concept are perfectly one.
+
+[p. 12]
+
+#### Consequences of the Corollaries drawn from §. 12.
+
+a) In *thinking, as thinking*, it is perfectly one whether *Est bonus*, *Est non bonus*, or *Non-homo est* [is good, is not good, or is a non-man]; whether He is, He was, or He will be; He is not, He was not, or He will not be, is to be represented therein. This is evident, (to put the remark on the 12th §. into German otherwise) also from the fact that circumstances can command one to let the One pass over into the Other. Only against this can circumstances do nothing, that in the infinitely repeated repeatability of the Bonus, of the Non-bonus, or Non-homo, etc., posited through *thinking, as thinking*, a non-repetition too might slip in through an altered position of things.
+
+*Rem.* In the sentence: *He is not*, etc., it will be said, the negation is after all drawn to the copula; for where else is one to put it?—I beg for a little patience, and remind you provisionally to keep merely to the German: *He is not*: in which the positing of a something, *precisely thereby*, that one designates its mere *present* absence, may be more striking than in the *non est*. One gains much already if one keeps to the *German*
+
+[p. 13]
+
+*language*, as our forefathers handed it down to us; this is proved among other things by the word *Begriff* [concept], which, as far as I know, we alone among Europe’s cultured peoples have not filched from the Romans; in Roman it would be called *complexio*. *Les langues sont le miroir de l’esprit humain* [Languages are the mirror of the human mind], *Leibniz*.
+
+b) What hitherto in the logics was regarded as the most insignificant thing in a categorical judgment, with which one believed one could drive the Yes or No at pleasure, and which *as thought* (for as not-thought one surely did not want to take the copula, or did one?)—hence *as mere thought*, already excluded the possibility of a Yes or No,—the *copula*—was precisely *thinking* itself, as one now says, the *Pure Reason*. In the negation of the copula, then, every logician hitherto would have negated *pure reason* to himself and to others; (*Kiesewetter’s Compendium of a General Logic according to Kantian Principles*, p. 47, §. 106, to say nothing of others).
+
+*Rem.* Through *Kantian* principles the exposure given would have been happily masked. How so?—Answer: because their need of a quite *Transcendental* Logic, which has
+
+[p. 14]
+
+a manifold of sensibility already *a priori* lying before it, (convenient!) *Critique of Pure Reason*, 2nd ed., p. 102,—postulated again the renewal of the distinction between *finite* and *infinite* judgments (ibid., p. 97); hence thereby sanctioned anew the relation of negation *either to the copula in negative judgments, or to the predicate in infinite* affirmative judgments.
+
+c) Every copula (No. 1–4) expresses a *modus specialis* of thinking itself; hence the *categorical* copula too is the *formal* (what is thought) of a categorical judgment; subject and predicate are, as concepts, as one has hitherto understood it, the *material*. (Let one judge accordingly how *pure* our hitherto *Pure* Logics were).
+
+Limitation of what was said under No. c, according to results the citation of which does not yet belong here.
+
+It remains the case that every copula (1–4) expresses a *modus specialis* of thinking itself. Yet the first two among them, the *categorical* (A in A), and the *consequence*
+
+[p. 15]
+
+(A *through* A) belong to thinking as thinking, without application of the A to B and Non-B of a cognition, (they are *pure modi*). The last two, on the other hand, are repetitions of the first two on the *two-part* nature of an object in cognition, a nature that does not alter *thinking as thinking* through its duplicity, as B and Non-B.
+
+*Rem.* I note that with this last I have already said something there which perhaps I should not yet have said. But it is difficult to avoid it, and, by touching on it, nonetheless not to disturb the intelligibility of one’s exposition, so long as one cannot yet explain the same. Let one therefore lay this B and Non-B aside each time where its summoning in the present context is unavoidable, and hold out, *as long as it must be*, by the eternal stream of the A as A, repeatable infinitely many times *in A as through A*, until it will of itself plunge into life over the *two-part* cataract of B and Non-B.—I must distract myself,—and am coming upon the solution of a riddle for lovers of a speculative pastime. For the question here again returns quite naturally: how it may have come about, 1) that one first saw in the
+
+[p. 16]
+
+*Ergo* that it cannot be negated? To this the answer has already been given: because most matter *attaches* to it *in thinking*; (so I must still express myself now, until it can be put into German); 2) how it may have come about that one then also saw this in the disjunction in disjunctive judgments? Answer, because the disjunction too, like the syllogism, still belongs to the *mixed* modi of thinking: *Kantians*; 3) how it may have come about that one finally saw this also in the *one pure* modus of thinking? here I have nothing to do but to name the name *Maaß*; although even by him the consequence could not yet be thought in its necessary purity (without hypothesis). 4) Whether it then occurred to nobody to make the logicians a reproach on account of their illogical representations of the other *pure* modus of thinking, of the *formal* of a categorical judgment? Answer: *Kant* made them a reproach about it (*Critique of Pure Reason*, p. 140, 141). But it went with him as it would always have gone with an opposition to the *Ergo*. He wonders, accuses them of a fault, but does not help, but makes the evil worse, and had to, *by virtue of the*
+
+[p. 17]
+
+*basic design of his Critique*, not only make the evil worse, but make the harm incurable for the orthodox. How so?—Because he, *by virtue of the basic design of his Critique*, leads man through categories first to pure reason, that is, *lets him first cognize and judge, and only then think*.
+
+#### Brief Condensation of the Result from §. 12.
+
+If one understands by *logical*, as has hitherto happened in all logics and in the *pure* ones in particular, the *formal* of *thinking itself*, our *work of reason* (= A) in every concept: then there is absolutely no logical negation except contradiction, i.e. non-thinking. The Non might come from wherever it liked: in thinking, as *thinking*, no difference of quality, hence no Non, no *Yes or No* can take place.
+
+#### Elucidation.
+
+An *Imperative*,—and this is the *whole* (not only the half practical), *comprehended under the law of identity, thinking* (A be eternally = A), can never become a non-imperative, however it may command or forbid with regard to an object
+
+[p. 18]
+
+This one surely recognizes; but did one also think of it already? And has one learned the imperative of the *One-times-One*?—
+
+#### Application of What Has Been Said to All Logics, and to the Kantian Critique *in specie*.
+
+*Logical* means, then, according to all logics, *the formal of thinking itself*, and yet, according to all logics, a logical reality (hence a thought) is supposed to be capable of being canceled only through its (surely also logical) negation (through a non-thought), *but nevertheless still remain a thought*?—Certainly; for the *Critique*, the Sun, as a reviewer expressed himself, for the philosophy of all centuries, has indeed even discovered a *form of thinking* (category) of *negation*, in order to refresh itself for centuries also on this. Much good may it do everyone in need of light who can think through negations and limitations, as his forms of thinking. This is what comes out of it when one holds the law of identity (hence A or thinking in every judgment)—itself for a judgment; why not then altogether for a *synthetic* one?
+
+[p. 19]
+
+Provided with the knot of apriority, it would then hold as firmly as an *analytic* one.
+
+Incidentally a few words on the discovery of the Critique under the name of an *a priori* synthesis; the rest follows later.
+
+Whoever assumes synthetic judgments *a priori* already puts judgments into thinking, as thinking *itself*. What is to be thought of this, our German word *Urtheil* [judgment] (*quasi divisio primaria Objecti* [as it were, the primary division of the object]) may provisionally announce.
+
+Whoever assumes synthetic judgments *a priori*, assumes, besides the law of identity, which he does not give up (*tacite*) recognizing as analytic and placing before all thinking, although already as a judgment, (for he cannot) still something non-analytic in thinking as thinking, he assumes, I say, still something non-analytic, which now either must nevertheless first be posited under the analysis of thinking (A repeatable infinitely many times as A), hence is in itself not yet a thinking, or which, just as it grew together synthetically of itself, also independently of A (as a B, C, D, E, etc.) has its analysis *in itself*; consequently he assumes
+
+[p. 20]
+
+a thinking as a B-thinking, and then again a thinking as a C-thinking, and so on through the whole synthetic alphabet.—What sort of new postulates these are, the law of contradiction reminds us.
+
+Whoever proceeds thus with the law of identity cuts off the head of philosophy (from Critical desperation, as *Reinhold* through his arbitrariness?) in order then, with an original, droll, creative, i.e. *exclusively Kantian* wit (hence also *only to him alone* is the business well suited), in place of the severed head, taken up again merely by the way, to be able to make a multitude of *a priori* knots, each of which has only to promote *one* piece of the trunk to the high unity with itself (i.e. properly only with him who makes and imitates the knots), and which therefore let the whole be frayed into a highly manifold of needless little pieces, and consequently recommend themselves uncommonly to the lecterns, etc., as a surrogate for the flogged-out metaphysics.—The *Königsberg man* knows his nation; for he is an excellent *empiricist*, hence a brilliant *judger* (knows how to turn a style onto everything, as one might put that synthesis-work among us)—But what shall one call you then, *Leibniz*,
+
+[p. 21]
+
+*Wolff, Bilfinger, Baumgarten, Mendelssohn, Eberhard, Schwab, Maaß* etc.?—Only analysts, because you are no synthesists in the *a priori* genus? No, *thinkers*. The rest follows later.
+
+#### Test of the 12th §.
+
+Place two zeros together without a preceding One, and they signify nothing. Let one hear one of the great nation of the new Romans pronounce his Non, Non *separated*, and he merely *doubles* thereby his *negation*. But if Non Non is combined in a thought *as thought*, e.g. in a predicate *as thought* (not as concept), hence is to be drawn to the copula of a concept or to the categorical copula (No. 1 and 5): then the *grammarians* remark, it *doubles its affirmation*. It posits at least. Odd; just too common for a *Faculty*. Even as long as the Transcendental spool still ran empty, one had too much to do in the important articles of conversion and contraposition of a proposition etc., for one to have been able to occupy oneself, in a manner befitting a faculty, with such trifles in a philosophical scruple, perhaps obtained from *grammarians*. Without
+
+[p. 22]
+
+knowing, like *Wieland’s* chancellor, an answer to every question, it might also, upon actually effected condescension to a *Rescribatur*, have been hard to resolve the *Dubia Grammaticorum* [doubts of the grammarians], after the copula had once been denied, and through the Critique the negating had been raised altogether to a form of thinking of its own. *Scribatur itaque Logicis:* [Let it therefore be written to the logicians:]
+
+*An attempt made on thinking itself, to duplicate it, after the manner of what is represented in thinking, also in its own quality, posits again simply what had previously been posited, hence does not duplicate; but only makes (in a judgment) the test of this, that A repeatable infinitely many times as A, without giving up thinking itself, cannot become, just so, also Non A, as B in representation certainly can also become Non B*; (in what sense this latter, see below!)
+
+The next test of this, hence of the law of identity, is the proposition of contradiction itself, in which thinking quite properly assigns itself its own essence (A repeatable infinitely many times
+
+[p. 23]
+
+as A) as the object of a judgment, which *must* then turn out thus:
+
+A repeatable infinitely many times as A, excludes all Non-A in the repetition; (Logical negation, if by *logical*, as hitherto, the formal of thinking itself is understood, is a contradiction)
+
+In all propositions now which read like *B non est non-B* [B is not non-B], or *Nullus doctus est non-doctus* [No learned man is unlearned], one makes *on any arbitrary object* the same test, that an A once posited in B can, by no attempt at a negation carried over from the object B also onto A (the thought), duplicate itself in its quality, or in any way alter itself at all.
+
+#### Conclusion of the 12th §.
+
+Should one suppose that *logicians* would have been able to infer the law of identity first from the proposition of contradiction, hence to have tried the *excluding* beforehand, before anything was yet posited? They could; for they did it—see all the newest logics. The ground?—because the Sun, *with a merely negative criterion of all truth*, that is, with an eclipse of the sun, had risen.
+
+[p. 24]
+
+See the *ipsissima verba* [very words] of the *Critique of Pure Reason*, p. 190.
+
+#### §. 13.
+
+*Thinking, as thinking, however, also tolerates no difference of quantity; but is always A, repeatable infinitely many times as A in all possible cases of its use, hence Universal in the strictest sense with exclusion of the possibility of the opposite.*
+
+#### Observation.
+
+This is evident also from the fact that no thought *as thought* admits a difference of quantity. Take the *Ergo*.
+
+#### Corollaries.
+
+1) Since an *Omne* [all] very well allows the opposite *of itself*, *as an Omne*, to be represented in a *Nullus* [none], *Quidam* [some] and *Hic* [this]: the positing of thinking in an *Omne*-thinking would, just as well as the positing of the same in a particular- or singular-thinking, make thinking itself into a non-thinking.
+
+2) What is actually thought in the concept *hic homo* [this man] must just as well be infinitely
+
+[p. 25]
+
+many times repeatable in all possible cases of its use, as what is actually thought in the concept *quidam homines* [some men], or *omnes homines* [all men].
+
+*Rem.* It has already occurred to me several times that one might take offense at the expression: *in all possible cases of its use*. What is that supposed to mean: *Possible* here? a Critic will object. But let one not be angry too soon; it would be in vain: for, why might I not say it?—*I am already looking ahead.*
+
+3) The *Omnes, Quidam, Hic*, accordingly cannot at all be sought in *thinking, as thinking*, as a designation of a difference of quantity. It cannot be a modus of *thinking, as thinking*, like the copula in the *categorical* judgment, and in the consequence.
+
+4) In *thinking, as thinking*, *Omnes, Quidam, Hic*, are rather perfectly one.—One can even, on the very same object, according as circumstances command, have to apply the same thinking in an *Omne, Quoddam* or *Hoc*. The limitation or extension thereby is not possible through an alteration
+
+[p. 26]
+
+of *thinking, as thinking*; this would be a no-more-thinking, hence a contradiction. It can therefore also not be determined in thinking already through thinking, as the modi of the copula are. It cannot be determined in thinking through the object, *as object*; *object, as object*, has itself no difference of quantity. It must accordingly be a mere repetition of the same thinking (together with the essence of its repeatability infinitely many times as A) *according to given rows of association in the imagination* (not phantasy), which now demands the one time a *Quidam*, as sign of its present aggregate in the imagination, then an *Omnes*, as a sign to the same end, then a *Hic*. Here I had to take refuge for the first time in our *imagining-into the world* (*tanquam informationes nostras in mundum* [as it were, our formations into the world]) in order to provide the thinking of my readers themselves with a footing, necessary here, and in the sequel nonetheless not harmful to the pure resumption of the A, as A.
+
+5) In *thinking, as thinking*, not only *universal and singular*, as one has hitherto assumed, but also all *particular* categorical judgments are perfectly equal to one another; for in thinking, as *thinking*, they can have no
+
+[p. 27]
+
+difference of quantity; this difference might come from wherever it liked: it can lie neither in thinking, nor in the representation of an object, as object; since the latter brings with it indeed the possibility of a *difference of quality*, but by no means a *difference of quantity* (as object) into its representability (in thinking).
+
+*Rem.* From this it follows what is to be thought of it, when one in the hitherto logics (*Jakob*, 3rd ed., pp. 52, 53) applied the difference of quantity even so far as to the *extent of concepts, as concepts*, (without their being yet already combined in a judgment), and divided them in this respect into *universal and particular*, finally, with the proper direction as to what is illogical about it, even further into *singular* ones (individual, ib. §. 119.). *Kiesewetter* suspected nothing good in this quantity-taxation of an object, as object, or even of a thinking as thinking; for otherwise I would not know what could be distinguished *logically* (consequently in the *thought-work proper*, as one has hitherto understood the logical) in a concept; (*Compendium of a General Logic*, pp. 22, 23). He says therefore first only: *“formerly one divided the*
+
+[p. 28]
+
+*concepts according to their extent into universal, particular and singular,”* protests then against the division, but instead of pursuing this hint further, he finally springs from the matter which could here alone be in question; whether namely a *concept, considered in and for itself and outside a judgment*, admits a difference of quantity, suddenly off, and discovers that one could after all call the one concept a *universal* one, the other a *particular* one, if one wished to compare them with each other in respect of their spheres, that is, if one held their spheres against each other *in a judgment*, consequently ceased to consider each of them as *a concept in and for itself*.—Hit; for that was precisely the subject; was it not? No, for I leaf through a few pages, and find, p. 34, in *Kiesewetter* himself, that this properly would first have belonged in his doctrine of the relation of concepts among themselves, hence not to the quantity of a concept, *as concept*; find also, that there *universal* and *particular* concepts are from then on no longer mentioned, but the expression *higher* and *lower* concepts is, as customary, again
+
+[p. 29]
+
+put in its place. With this we would be, then, again where we were, namely at the question: is there then no difference of quantity in a concept, *in and for itself, and outside a judgment, considered*, *and in how far is there none*? There is none in so far as there can be none, thus 1) *in so far as every concept must be a thought*, 2) *in so far as in every concept an object as object* must be represented, an object as object, however, admits no difference of quantity. What therefore in a concept *considered in and for itself* (perhaps for some heads not sufficiently capable of abstraction) might still appear to be a *logical* difference of quantity, of that one may be sure that it belongs neither to the work of reason nor to the representation of an object as object in this concept, but absolutely to its *materiature*. This materiature (the regard to the work of sense) is after all, according to all logics, something unlogical; consequently, according to all logics, their own division of concepts into universal, particular, singular, is unlogical; and if it is so for concepts, so it is also for judgments; the latter goes without saying, as it seems to me, since *par ratio* of No. 1, 2, in the case
+
+[p. 30]
+
+of judgments, as in that of concepts, applies.—Why, however, did *Jakob* want to reprove something of the kind only in the *singular* concepts? Why does *Kiesewetter* make that which one commonly passes off as singular concepts, e.g. the *nomina propria*, outright mere *signs* for the representations of single objects (intuitions)? p. 22, l. c. This compels me myself to go into the singular.—*With signs for the representations* we thus began our representations in *Kiesewetter*; for we surely begin with the singular, and not with the universal, in our representations?—With something unlogical or half-logical we began in *Jakob*; for an individual concept belongs indeed logically to the universal ones (as every singular judgment belongs logically to the universal ones), so it stands everywhere, (only not in *Kiesewetter*, perhaps through a misprint? p. 56), written; but there clings to it, *as individual*, also something unlogical, namely a peculiar mark of a single object or of an individual, so stands written in *Jakob* l. c.——I do not know, am I blind, or is it, here as there, still never day?—How would it be, then, if we
+
+[p. 31]
+
+human beings (not we logicians), were for once to let us human beings begin with thinking, the categories of *totality* etc. *hactenus* in honor?—There is, then, once a thinking = A there, and now, for all I care, a sensible material = C is to be there too. This materiature (= C) must, *as materiature*, be annihilated by thinking in thinking, otherwise no thought comes of it. A *nomen proprium* is a thought, like a *nomen nonproprium*; consequently it must, by the same process as every concept, be made into a *thought*, that is, not merely into a *sign for representations* (in which thinking in thinking ran out on *Kiesewetter*, after the latest German fashion), but, as said, into a true, perfect thought, for which the *actual* cases of its use are now determined by that intuition, which preceded it. This is the pervasive process in everything that is to be represented in a (human) thinking!—There is, then, no universal, no particular and no singular thought- and object-being. What is thought is thought; object is object. But I said: the actual cases of its use were, for that *nomen proprium*,
+
+[p. 32]
+
+determined by the intuition which preceded it. How? if now with us human beings, according to our generic kind of world-imagination, *in one* intuition several intuitions could already be determined, depending on whether something from outside, the necessary good occasion, were to come to it? More briefly, and perhaps more clearly, how? if we human beings, according to our generic kind of world-imagination, with an intuition once had, on occasion understood *multiplying*? Then it might be that in such cases, where the multiplication is permitted by a material at hand, the materiature, as materiature, would be annihilated by thinking in thinking *just once*, and in such cases it would be annihilated once and for all. This I would let myself call a *concept*; but such a concept would then be for A what a *nomen proprium* is for the same, and a *nomen proprium* would be for A what a concept is for the same. So *Jakob* must surely have meant, when, according to logical custom, and, as I therefore believe, without misprint, he said l. c. *that an individual concept belongs among the universal ones.* But if *Jakob* then takes offense at the peculiar mark of the individual concept,
+
+[p. 33]
+
+as something unlogical, nonetheless: then it could never occur to him, by virtue of all previous logics, and by virtue of the Critique least of all, that a concept, a whole complexion of truly sensible, and hence also sensibly remaining marks, is consequently *logically*, i.e. as was hitherto meant, *for thinking itself*, wholly one with an intuition (better: *apprehension*).—The length of the row in which A can be repeated at once makes no difference to the matter. If one wishes to push it still further, one can say that the concepts that are singular (not logically, as one hitherto understood it, but) *according to their materiature*, e.g. the famous *nomina propria Kant* and *Kiesewetter*, are purer thoughts than the universal concept *man* (*genus humanum*), *purer are they*, not through a contradiction with my A eternally equal to A; but because less materiature may be annihilated by thinking in thinking in their representation than in a representation of the whole human race in thinking. The concepts that are particular (not logically, as it was always understood, but) *according to their materiature* are either one carried out with the (world-imagination) sensible complexion of a certain
+
+[p. 34]
+
+All in the representation—a *division*:
+
+*Omnes homines sunt mortales* [All men are mortal]
+
+*Quidam homines sunt mortales* [Some men are mortal]
+
+or they are a *subtraction* carried out on the sensible complexion of a certain All in the representation:
+
+*Omnes homines sunt homines* [All men are men]
+
+*Quidam homines sunt docti homines.* [Some men are learned men.]
+
+Since now a *hic* homo (taken exclusively) too is a subtraction from an All in the representation: I cannot take it amiss in *Kiesewetter* if, even without misprint, merely weary of the old unintelligible proposition, on which *Jakob* still hung: *propositiones singulares aequipollent universalibus* [singular propositions are equipollent to universal ones]; he counted the *singular* judgments among the particular ones. He meant precisely the subtraction.—The further course will give, as I hope, satisfactory elucidation of everything that is asserted in this Remark. It cannot fail, so long as I do not become inconsistent; and only the misunderstanding of some expressions brought in here by way of elucidation, such as that of multiplication etc., could *up to now* draw upon me the appearance of an incorrect-
+
+[p. 35]
+
+ness in my assertions, which, however, under the stated presupposition, *must* disappear again. To those who should not be able to find their way into the annihilation of *materiature as materiature* in thinking *as thinking*, because under the 12th § I let the syllogism, e.g., connect the most matter in thinking (this meant precisely: *annihilate as matter*), I give it to *consider* what they may then have represented to themselves hitherto under *form* as opposed to *material*, if it was not a matter annihilated in thinking *as thinking*? I request them further to tell me whether their eye would be able to see, their ear to hear, if the former did not annihilate the rays of light and the air, the latter the air, *as objects* in a seeing or hearing, through the act of seeing or hearing itself; whether they could subsist before the tumult of the little organic world in them, as that which they are, as *these human beings*, if their materiature, the circulation of their juices, their business of digestion and secretion, the thousand piece-works (little fibers etc. with their labor) of which their physical man is composed, were not annihilated *in their representation*? I take the liberty of asking them yet
+
+[p. 36]
+
+one more thing, which of course, as a weak copy, can no longer speak so strongly for my cause as the original. It is: whether any artist, or indeed craftsman, would be able to *form* anything, if he did not, over the existence of what is to be formed (notwithstanding that this continues forever *in rerum natura* [in the nature of things]) draw over it another existence, spread it, or by means of fire (as in meltings) pour it out, and hence annihilate the former in this respect? Finally, if to anyone a *concept*, as a determinate kind of our human world-imagination, as a mere complexion of truly sensible, and hence also sensibly remaining marks (merely the A *so far* deducted from them), in which the human child begins his career through the act of a multiplication carried out first on *one* image (e.g. of the mother), if all this should by no means be evident, him I can perhaps meanwhile soothe by the reminder that through this odd assertion he can, so to speak as through a hypothesis, explain the still far more wondrous phenomenon: why philosophers so gladly become poets, whereas this cannot befall mathematicians *in mathematics* in the same way; explain
+
+[p. 37]
+
+consequently, how it may also have come about that from the previous *metaphysical ligata* [verse], even in a Critique of Pure Reason, merely a *transcendental ligata* (called *synthesis a priori*) could grow. A burnt-out poet, e.g., now goes over to us *absque saltu* [without a leap] to the categories, and finds roof and shelter there again, as if he were at home. One wishes, namely, to remark (§. 2, Rem.) that according to this Critique, in which the categories are recorded, thinking may only come afterwards, and that therefore in it (as can only now be added) no pure A is any longer to be had, but an A mixed with B and Non B, even with C, consequently an *uncommonly manifold*, entirely new thing, on which a poet to whom it ran out *a posteriori* can now try out *a priori* much that is pretty.
+
+6) *In thinking, as thinking, neither hypothetical nor disjunctive judgments have a difference of quantity.*
+
+*Rem. Maaß* saw it in them. It was for the shrewd man as if this must be so. But he did not know why, and therefore substituted here too a *falsum medium*.
+
+[p. 38]
+
+I owe him an account of my assertion. Here it is.—He says (p. 143, l. c.) “quality and quantity do not belong to the hypothetical judgment, *as such*, (and he says this p. 154 also of the disjunctive, appealing to the very same ground); this is evident from the fact that the said quality and quantity also occur in the antecedent and the consequent when these are not at all connected into a hypothetical judgment, but are considered quite singly for themselves.” So runs his *medius*. Analyzed, it rests on the unobjectionable remark that what is already there cannot first be brought along by one who is only now arriving; but now quality and quantity are already there in the categorical antecedent and consequent, considered singly, of which a hypothetical judgment consists: therefore a hypothetical judgment, as *hypothetical*, cannot first bring quantity and quality with it.—But how does it follow from this that it is now itself to have no quality and quantity at all? Do not the categorical judgments, of which it consists, bring both along? Answer: “1) as *hypothetical* it has none, 2) the quality and quantity brought along come into consideration here (in a
+
+[p. 39]
+
+hypothetical judgment, as according to p. 154 in a disjunctive one) only *as matter*, no longer as form, i.e. it is, as form, by means of the hypothesis, now annihilated in thinking by thinking.” How? can that, however, which is form, *as form*, ever become matter, notwithstanding that what is matter, *as matter*, is annihilated by the form? Can this be, can thinking, through a thinking, annihilate itself, as a thinking or having-thought, (for this is one in thinking) without contradiction? And if now this cannot be, is it possible that the quality and quantity, now annihilated, could previously have belonged to the *form* of a categorical judgment?—The Maaßian *medius* would then run thus: “because the *previous form* of a categorical judgment, and with it also its quality and quantity, is *now*, in its passage into a hypothetical one, through the *hypothetical* of the latter (likewise in the disjunction), annihilated into *matter*, hence *as form*: so the hypothetical judgment, *as such* (likewise the disjunctive), has neither quality nor quantity any more.” This, however, would be no *falsus medius*—annihilation of form, *as form*, would be thinkable? Further!
+
+[p. 40]
+
+*Maaß* says, moreover: “because hypothetical (likewise disjunctive) judgments no longer have subject and predicate: so by virtue of the *former* the *quality* ceases in them.” Now, however, in a hypothetical judgment (likewise in a disjunctive) subject and predicate are nonetheless present as parts of categorical judgments, hence as concepts; consequently they are now, since they cease, according to *Maaß*, to be subject and predicate, present *as matter*. Had they, however, as subject and predicate in a categorical judgment ever belonged to the *form* of a categorical judgment: then the same case would now occur with them as with quality and quantity, that now, through their use as a matter, thinking, through a thinking, annihilated itself as a thinking or having-thought (for this is one in thinking). In the same way it stands with that which in the little word *Est* in a categorical judgment belongs to the form. If it is form: then it remains form, and can, whatever one may begin with the categorical judgment, *as form*, never become matter in another judgment, i.e. never be annihilated without contradiction.—Put together, the *Maaßian*
+
+[p. 41]
+
+*medius* runs: “because 1) *quality and quantity* 2) *subject and predicate* of a categorical judgment become matter in a hypothetical (and disjunctive) judgment: so the hypothetical (and disjunctive) judgment has no difference of quality or quantity.” According to this he assumes either that the form can pass over into matter, that thinking can be annihilated by a thinking; or he assumes that quality and quantity, subject and predicate in a categorical judgment, *never* belonged *to form*, i.e. never to thinking, *as thinking*. In the former case he assumes a contradiction, in the other he would contradict his own principles on the categorical judgment, p. 90, 91, etc.; for otherwise he would, as is self-evident, already in the year 1793 have had to be entirely of my opinion. This, however, he was only in the thesis of No. 6, that neither hypothetical nor disjunctive judgments *can* have a difference of quantity (and, as was shown before) also none of quality; by no means in their foundations, without which it nonetheless falls. The *Kantians* simply give to hypothetical and disjunctive judgments the quantity of universality, as *of an Omne*,—
+
+[p. 42]
+
+(*Omne*—Then, *Omne*—Either-or); because no exception takes place there?—No; rather because no *Omne* takes place there (if judgment is ever to be passed inductively), hypothetical and disjunctive judgments have no quantity at all.—I return to *Maaß*. How does it come about that *Maaß* was *able* to set up an entirely correct thesis, and yet this very correct thesis from a *falsus medius*? How could he, *without a well-advised object for an Ergo* (permit me meanwhile so to paraphrase the *medius*) nonetheless bring out a true proposition in the conclusion? Answer: it was not *his* Ergo that brought out this true proposition for him; he had quite properly ceased to connect his representations in a thinking (for the *ceasing to think*, as I would still remind once more, is always to be understood so), when he came *to this* Ergo in his representation; had consequently only written down an Ergo for himself in his representation, where nothing of his representations any longer was connected in thinking, hence for thinking a Non-Ergo, i.e. a not-having-been-thought, a contradiction, was there. *But the thesis was already before, and from a prius qualified for inferring,*
+
+[p. 43]
+
+*correct*. As something that *must* be correct, it struck the keen sense of the man when he observed the hypothetical and disjunctive judgments; for keen sense is, taken as *sense*, the sprightliest forerunner of the *Why*. But since he now consequently looked about for a *medius only now*: he hit, for lack of any previous analysis of thinking *as thinking*, merely upon an *observation* which could be made on all such judgments. The observation was again correct, and went through for all inductively (I say *inductively*). On *all* of them it could indeed be shown 1) that already the categorical judgments, of which they consist, *considered singly*, have quality, quantity, predicate and subject, that consequently the hypothetical and disjunctive judgments do not first bring this with them; on *all* of them it showed itself 2) in the *observation*, that the supervening hypothesis or disjunction consumes the predicate and subject, the quality and quantity, *as that which they were before in a categorical judgment*, now in thinking. The business seemed correct; it was *shown* (monstrated, but not *demonstrated*). But now it was surely also to be rendered an account of
+
+[p. 44]
+
+the correct observation made. This observation had given quite unambiguously to be recognized a being-crushed of the predicate and subject, of the quality and quantity of categorical judgments through the thinking of the same in hypothetical and disjunctive ones. The account had therefore to turn out thus: “because predicate and subject, quality and quantity of the categorical judgments are so evidently crushed in the thinking of the same under a hypothesis or disjunction: so the only thing to blame for the quality- and quantity-lessness of the hypothetical and disjunctive judgments must be *that the named pieces of the categorical judgments become matter in those*.” And yet, according to all logics, subject and predicate, quality and quantity belonged to the *form* of categorical judgments; for otherwise these logics would not have been *pure* in all these pieces? And yet no form as form can be made matter, no thinking crushed by thinking in thinking? What was then the Ergo *in the representation*? A Non-ergo in *thinking*, i.e. a contradiction.—Herewith I believe I have described the course of things in all previous logics. Most of their theses were cor-
+
+[p. 45]
+
+rect, and as theses without fault; for what they asserted could be shown inductively. *But all rested on errors, which through the Kantian Critique became altogether unforeseeable.* If what is to happen happens: then what has happened, *as having happened*, is no fault; one can show the performance *as it ought to be*, to which *Kant* too appeals at once in his Preface to the *Critique of P. R.* But it can nonetheless be a *gross error* on that account. What has happened need only have arisen from a *supposed* Why, which was merely a Why *in the representation*. Error is a *deficit* in the use of thinking itself, and since from thinking *as thinking* no fault can proceed, a ceasing of the connecting of certain representations in a thinking, a not-thinking of certain marks, coalesced in the connection of a *mere* association; in short every error is a contradiction, be what has happened *as having happened* as it ought to be, or not as it ought to be, the error itself be contradiction through *inconsistency*, whereby, after repeated positings of A in B, finally a Non-A occurs in the series, or sheer contradiction at A and
+
+[p. 46]
+
+Non-A in one breath, like the old logical witticism of a Sidiroxylon. All theses of our previous logics, however correct they might be as theses, rested on errors, hence on contradictions. This is evident already from their presumption of a pure formal thought-work in them, since they nevertheless worked in the material; the further process in this one may see in the above thesis. One good head after another, namely, found such theses acutely, proceeded inductively with them, tried them on examples, found in these the *probatum est* of the thesis found, which he had already divined, indisputable, and therefore believed he had nothing but form, nothing but work of pure thinking in them. But when an account of the correctness was to be rendered: then he had to annihilate that which he had previously assumed as the form of concepts, in judgments, and his supposed form of judgments, in syllogisms, into sheer matter in thinking by thinking, consequently, had he reflected upon it, to declare himself guilty of a series of errors or contradictions in his logic; as indeed it was really at this odd annihilation of form that my own reflection on the ground or groundlessness of all our previous logics awoke.
+
+[p. 47]
+
+7) *In thinking, as thinking, no syllogism, be it categorical, hypothetical or disjunctive, has a difference of quantity.* (A syllogism is A, expressed in the copula *Therefore*; and if A connects so much matter at once, consequently annihilates it *qua* matter, as it can connect at once in man, consequently annihilate *qua* matter: then it is expressed through *Therefore*).
+
+*Rem.* Here first, with the syllogisms, *Kant* broke through. He succeeded, there where it annihilates the most matter as matter in thinking, in approaching nearer to the essence of thinking than had happened before him. Reason, or thinking *as thinking*, goes upon something *unconditioned*, in that it, *as thinking*, always is what it is, yet also, *as mere thinking*, has no thing already nor can have. Herein he would have been right and seen further herein than his predecessors, provided that he would have recognized how with his *unconditioned*, in the indicated sense, he was really just beginning, happily, for once, to describe merely the process of thinking itself in the *Est*, e.g., in short in A with its repeatability infinitely many times. *The unconditioned is a thing,*
+
+[p. 48]
+
+*or yields a* thing (whatever it may be). Herein he was mightily wrong. It stands with this as follows. What in the *unconditioned*, which *Kant* sets as the goal of reason only in *syllogizing*, is *actual* reason (the rest does not concern us here), that is, as said, nothing other than thinking itself *in its complete quality- and quantity-lessness*, hence, considered from this point of view too, a *true* (only not afterwards again *Kantianly* twisted) but true *unconditioned*, which cannot even posit an object (without a preceding C) merely out of itself and through itself; that therefore (*in itself and through itself*) posits nothing but itself. But instead of descending into the depth which began to open before him, he took from himself and from all inquirers who stepped in his footsteps every opportunity ever again to cast a sidelong glance into it earlier than only at *syllogizing*. Indeed, even through the disclosure about itself which it seemed to confide to this peculiar man, the business of thinking was, in a new hasty *will-to-know*, thoroughly and irretrievably confused. The *will-to-know* was, moreover, this time set on something strange,
+
+[p. 49]
+
+set merely on *knowing for certain that in metaphysics* (*as Kant meant it with her*) *one knows nothing*. Socratic; but did one need to go to such lengths for that?—Only *Kant’s* genius could, through so many eloquent pages (from p. 349 on, l. c.), hide from himself and others in the most artful way the contradictions in which he, his attention fixed undividedly on that war of extermination, gigantically bustled about. That they are contradictions is now briefly to be proved. In the first place, it seems to one that it already stands badly with an assertion if, of the hypothesis on which it rests, the exact contrary can be assumed, and the given problem can now be solved through this assumed contrary just as correctly or incorrectly as it happened through that hypothesis itself, consequently just as satisfactorily. Had *Maaß* seen in the actual thought-work in *categorical* judgments, too, its complete quality- and quantity-lessness, just as shrewdly as he saw it in the hypothetical and disjunctive judgments: then he must have been able to bring out from the former the (though according to *Kant* merely dialectical) unavoidability of a transcendental doctrine of the soul, from the hypothetical the (though
+
+[p. 50]
+
+according to *Kant* merely dialectical) unavoidability of a transcendental doctrine of the world, from the disjunctive the (though according to *Kant* merely dialectical) unavoidability of a doctrine of God, to a hair, as *Kant* himself brought all this out of the form of the categorical, hypothetical and disjunctive *syllogisms of reason*. In this way, namely, everything in the judgments would already have been so prepared that the unconditioned, that is, precisely *the mere thinking itself* in the *Est* in categorical judgments, would apparently have had to be able to ground also an unconditioned *subject* for our appearances of mind, hence a *soul*, the unconditioned in the *If* (or rather in the *Then*) an unconditioned subject for the outer appearances, hence a *world-whole*, the unconditioned in the *Either-or* an unconditioned subject for everything together, hence the *idea of a God*, entirely in the *Kantian* manner. But not from the judgments, but merely from the nature, opposed by him to the judgments in this respect, of the *pure syllogisms of reason*, which are supposed to press exclusively upon an unconditioned (i.e. upon thinking?), did *Kant* indeed want to derive those metaphysical ideas. The foundation can thus not
+
+[p. 51]
+
+possibly hold, since from his assumed contrary the same inferences for amateurs could be brought about.—But a striving after the unconditioned, which, as this striving after an unconditioned, posits a *thing*; a syllogism which (according to *Kant* himself) is a mere pure thinking, and yet, as this mere pure thinking, produces objects: a thing in itself produced in this way, which yet is no thing in itself, but an idea; three things in themselves, which are no things in themselves, but merely three ideas: three ideas wherein God, soul, world, as perfectly parallel to one another? flow forth from one and the same essence of thinking without further ado; a categorical syllogism, which could not be more categorical than in the idea of a God, and which yet forces on me only my own soul (dialectically): a hypothetical syllogism, which could not be more hypothetical than in the usual metaphysical idea of my soul, and which yet forces on me the world as a whole (dialectically); a disjunctive syllogism, which could be in nothing more disjunctive than in my human world-views, and which yet forces on me the idea of a non-world-being, of a God (dialectically): a pure reason that
+
+[p. 52]
+
+there, where it becomes purest, *merely by the very fact that it becomes purest, must* deceive; a thinking, then, which, there where it shows itself and can show itself most in its peculiar essence, is pleased to perform for me a dialectical juggling-show in three acts (not counting the scenes), mind you *merely out of itself as this thinking with its peculiar essence*, and hence, doubtless, without degrading itself thereby to a no-longer-thinking: a synthesis, consequently a judgment, one knows not whence flown? as condition of the possibility of the purest thinking; a syllogism, as condition of the possibility of the purest inferring, yet at the same time a false syllogism, and the purest inferring a false inferring:—these are rarities without equal, at which pure reason itself might well stand still. But with this unceasing skirmishing around thinking, yet only ever getting farther downward from the right spot, that humbles speculation once more, and humbles it,—who should doubt it?—in its boldest advocate.—*Maaß* was in his assertion of the complete lack of quality and quantity in the hypothetical and disjunctive judgments yet, within human memory,
+
+[p. 53]
+
+for the first time (even still outside the doctrine of syllogisms) advanced beyond the barrier of totality (*Omnitudo*), without suspecting how much he had broken through thereby. *Kant*, far from lighting, in his new doctrine of syllogisms, upon the *Ergo*, as the sole thing devoid of quality and quantity, hence the properly *unconditioned* in the syllogism (as a work of thought), and thereby paving for himself the *only right* way beyond the *Omnitudo*, proceeds instead from the universality of the *predicate* in the major premise, which, as he says (l. c. p. 379), we have thought in the major premise in its whole extent *under a certain condition*. “*This completed magnitude of the extent*, he adds, *in relation to such a condition*, is called *universality* (*Universalitas*).” Close to the right goal—compare his excellent explanation, peculiar to him, of the *absolute*, to which he ascends, from the universality of the predicate in the major premise, *hence as a splendid empiricist*, finally, from p. 382–385; but the *prius* for it was not found, but rather incorrectly stated, and consequently everything at once took a wrong direction again. It was dawning strongly,
+
+[p. 54]
+
+that one sees: (hence perhaps the loud outcry); day did not break; of this whoever can read and think may convince himself, if he will read further in the cited text; (hence perhaps the *motus retrogradus* of certain planets around the sun,—were it possible, wholly toward midnight).—A thinking, e.g., which, *as a thinking*, pressed for *totality*, i.e. for the ending of itself *as a thinking*, and whereby *Kant* precisely at once distorts again his so promisingly stirred-up thought of the absolute (l. c.), would be no thinking any more, but, considered *as a thinking* (as a beginning of pure reason), is a contradiction. Enough, then!
+
+#### Test on the 13th §.
+
+First a request. Do reflect, then, why it is one and the same in a geometrical figure, I will suppose, in the calculation of an isosceles triangle, whether one says: *hoc triangulum aequicrurum* [this isosceles triangle], or *quoddam triangulum aequicrurum* [a certain isosceles triangle], or *omne triangulum aequicrurum* [every isosceles triangle]. In *one* Δ *aequicruro*, *some aequicrura* are calculated, and *all aequicrura* are calculated. Should, with actual quantities, the hitherto so-called
+
+[p. 55]
+
+*logical quantitas*, as it seems, become superfluous? Were *pure* (blind) intuitions not the fashion now, I should almost believe that this must come merely from the essence of thinking itself and perhaps also from the nature of an object *as object*. However, even this will show itself in the proper place. Meanwhile the representation of a something as a something, of an object as object, may take the place of that Δ; for already with this, *one* is like *all*, and *all* like *some*. Now to the test!
+
+Not an *Omne* negated to the *Omne*, but a *Quoddam* negated to the *Omne*, gives exclusively a *contradiction*; so runs the assertion of the logics in the doctrine of *judgments*. But if one now finds in any logic a satisfactory account of this, or even only a compatibility of what was taught of the principle of contradiction with what was taught of contradicting judgments; then I willingly take back all my previous assertions, supposing that they could be taken back. *Omne* and *Non-Omne* are supposed, namely, merely for this reason to be not *contradicting* (*contradictorium*) but only *conflicting* (*contrarium*), *because already the Non-Quoddam under*
+
+[p. 56]
+
+*an Omne contains a contradiction*? A conflict is supposed to be that, when something positive is still added to the contradiction in concepts; thus a plus to a contradiction, and yet no contradiction any more, but a mere conflict? (See *Maaß* p. 30 and all *Kantian* logics). Is not perhaps this very thing, which is taught about contradiction, the most striking example of a contradiction? No; as certainly as it is that, so little could it, as what it is, strike one, so long as one, out of sheer logic and critique, failed to recognize the essence of one’s own thinking, and it was possible for *Critique itself* (pp. 48, 49) to pass off being in a place, and the not-being of the very same thing in the same place, *at another time*, as the connection of *contradictorily* opposed predicates *in one and the selfsame* object (for A as A and A as Non-A) *in one* object. Only now can whoever wishes bring this too to clarity in himself. The *Omnis* and *Omne* is a mere section of human imagining-into the world, arbitrary for thinking *as thinking*, under the eternal universality of thinking itself, as the *Quidam* and *Quoddam*, the *Hic* and *Hoc*, are such a section.—I am amazed, as I write this down, even before this
+
+[p. 57]
+
+abyss, before the universality without quantity, for which every concept is too narrow and therefore destructive, every word too small.—I take up the pen again, and write once more. The *Omnis* and *Omne* is a mere section of human imagining-into the world, arbitrary for thinking *as thinking*, under the eternal universality of thinking itself, as the *Quidam* and *Quoddam*, the *Hic* and *Hoc*, are such a section; hence the *omnes homines sunt mortales* [all men are mortal] can, according to the row of the associations at hand, become also a *quidam homines sunt mortales* [some men are mortal] and a *hic homo est mortalis* [this man is mortal], just as finally, without altering thinking itself in the least, also an *omnes homines non sunt mortales* [all men are not mortal], a *quidam homines non sunt mortales* [some men are not mortal], a *hic homo non est mortalis* [this man is not mortal]. This, (even that in it which is *conflicting*, if one wishes to call it so); is no concern at all of *thinking as thinking*; the Yes is for it, as a *thinking*, like *No*; and this *Yes and No* (*existence, or non-existence*, hence *being-there*; the *Kantian* contradiction, *Crit.* p. 48) may meanwhile designate the *conflict*. If, on the other hand, one posits one or the other of these judgments (for thinking it is all one which?) then one posits therewith its infinitely-many-times
+
+[p. 58]
+
+repeatability as A, i.e. as that of a thought, hence in the row of the infinitely-many-times repeatability of A as A a Non-A will cancel all thinking, i.e. become a *contradiction*. A contradiction is therefore:
+
+A as A and Non-A
+
+consequently a contradiction
+
+*Omnes homines sunt mortales* [All men are mortal]
+
+*Quidam homines non sunt mortales* [Some men are not mortal]
+
+(Here the linking in one thinking ceases, hence (as, after the proper explanation of the shorter expression § 12 Rem., I can say more briefly) *thinking itself* ceases. The copula is *negated*, i.e. annihilated; for a negating of the copula is an annihilating of it, no denying; *contradiction is an annihilation of the copula*).
+
+A contradiction, further, is what up to now was not seen as a contradiction, nor could be seen, the
+
+*Quidam homines sunt mortales* [Some men are mortal]
+
+*Non-Quidam homines sunt mortales*, [Non-some men are mortal]
+
+if, what in the *Quidam* is only thought, the *thought Quidam* (just so the *omnis*: *non-omnis*) and not a mere, for thinking *as*
+
+[p. 59]
+
+*thinking* quite arbitrary section of human imagining-into the world, next to which then again a *Non-Quidam* can exist infinitely many times repeatable, is meant by it.
+
+A contradiction, further, the
+
+*Hic homo est mortalis* [This man is mortal]
+
+*Non-Hic homo est mortalis*, [Non-this man is mortal]
+
+if, what in the *Hic* is merely thought, the *thought Hic*, and not a mere section, quite arbitrary for thinking *as thinking*, of human imagining-into the world, is meant, next to which, to be sure, then again indeterminably many *Non-hic homo est mortalis* [Non-this man is mortal] can exist without hindrance. On that first *Non-Hic*, posited in the row of the infinitely-many-times repeatability of the *Hic*, rested, to remark this in passing, the previous false expression of the misunderstood *principle of contradiction*, where it was still best expressed, as in *Maaß*. “B, *that would not be B*, is *Nothing*.” *Hic*, e.g., as B, and *Non-Hic* as Non-B, are perfectly compatible together, are therefore anything but Nothing, if only the one does not occur in the infinitely-many-times repeatability of the other, hence in the thinking of the other. Only then does thinking become a no-longer-thinking, i.e. a nothing of the
+
+[p. 60]
+
+being-linked in one thinking, a contradiction. Accordingly the principle of contradiction, already *applied to an object*, must read:
+
+B Non-B
+
+in whose representation in whose representation
+
+the A as A and Non-A the A as A and Non-A
+
+occurs, is no occurs, is no
+
+thought thought.
+
+Must not, then, in accordance with all this, the *Omnitudo* for thinking *as thinking* be wholly one with the *Quoddam* and *Hoc*? But why this pointing back to what has been shown? The above *Non-Quidam* itself makes the test of the true content of the *Omnitudo*, and proves *through that which* is represented in the *Non-Quidam* (as a section of the world), that the *Omnitudo* consists merely in a representation of the *Not-some*; for how else could that *Non-Quidam* (as section) take the place of the representation of the *Omnis* in thinking? But here there manifests itself yet a “hitherto wholly unnoticed” remarkable thing.
+
+The above
+
+*Non-quidam homines sunt mortales* [Non-some men are mortal]
+
+turns over for one, namely, in the act of thinking, just as well into the representation of a
+
+[p. 61]
+
+*Omnis homo est mortalis* [Every man is mortal]
+
+as into the representation of a
+
+*Nullus homo est mortalis* [No man is mortal]
+
+that is, in other words, the altered quality of the object (*Some*) alters for me, to be sure, also the world-section in which I am to assert something of it, and gives me precisely thereby to recognize that it, *as object*, by means of the difference of quality it has brought with it, may dominate this world-section. But it fills it, as altered quality of the object, with nothing yet; but demands *apprehensions*, which must first decide upon the *Omnis* or *Nullus*. It is therefore not only thinking, *as thinking*, which can decide nothing about the difference of quality; but also the object as object brings with it, to be sure, the possibility of this difference of quality, but does not itself determine it; rather it is blind without apprehensions.—But if once the quality is determined by apprehensions: then the quality determined by apprehensions dominates the quantity too. This will be confirmed if we take the above *Non-Hic* into account. Even the above
+
+*Non-Hic homo est mortalis* [Non-this man is mortal]
+
+[p. 62]
+
+will, namely, be able to turn over for us in thinking either into the representation of a
+
+*Nullus homo est mortalis* [No man is mortal]
+
+or into the representation of a
+
+*Omnis homo est mortalis* [Every man is mortal]
+
+that is, in other words, the altered quality of the object (*this one*) alters for me, to be sure, also the world-section in which I am to assert something of it, but it fills it, as altered quality of the object, with nothing yet; but leaves what in it does not yet rest upon an actual apprehension to further experience. Now, however, nothing in it rests upon an actual apprehension except that *this* man is not mortal; consequently this alone will also be decided, i.e. the *Omnis* will have to be furnished with an exception *for this one* (*excepto hoc* [this one excepted]). The *Nullus*, on the other hand, remains, insofar as the *Non-Hic* can also be a mere act of division of that which has already been multiplied in the *Nullus*; in other words, insofar as the A already posited in the *Nullus* can, on the occasion of an actual apprehension in a certain *Hic*, also have been merely repeated, in that I said:
+
+*Non-Hic homo est mortalis*, [Non-this man is mortal]
+
+[p. 63]
+
+#### Some further things that resulted from this test, connected with what was proved before.
+
+1) Thinking, *as thinking*, has neither a difference of quality nor of quantity (A).
+
+2.) The *possibility* of a difference of quality results only with the *object* as object (B, Non B).
+
+3) The *quality itself*, however, can only be determined through apprehensions (C).
+
+4) An object as object has no (logical) quantity.
+
+5) Although an object as object has of itself no (logical) quantity: yet it grounds, after the preceding C, the *possibility* of a difference of quantity.
+
+6) The *quantity itself*, however, can only be determined through apprehensions (= C).
+
+7) An *Omne*, like a *Nullum*, is merely a *Not-some*, consequently says merely the most complete complexion of apprehensions made, such as can take place in men, as already accomplished in a certain case. Hence the one, like the other, designates the greatest section of human imagining-into the world.
+
+[p. 64]
+
+So much follows from *what has been said hitherto* for the *Omne* and *Nullum*.
+
+8) For *concepts* in general, *as concepts* (not as thoughts) there follows further (but, as said) *merely from what has been said hitherto*;—for the row where *they* may stand above comes only afterwards,—that a concept as concept, *as one has hitherto understood it*, is a mere complexion of sensible apprehensions.
+
+*Rem.* How may it have come about that for the origin of concepts as concepts one has never yet had a *law of thought* of its own? The leap from the laws of thought to the origin of concepts, without finding in the laws of thought, *as laws of thought*, anything laid down in preparation for it, was indeed striking.—The *Kantians* remedied this inconvenience excellently by showing the origin of concepts only after the concepts. This passed for *pure*; for the impure was finally carried along only as a mere *by-the-way* of pure logic.—Through *concepts*, it should seem to one, merely *nature* constructs itself *in us*, as, according to preceding apprehensions of *our genus*, it constructs itself outside us. For we have, after all, no concepts
+
+[p. 65]
+
+of it until it constructs itself; and it does, after all, construct itself in the most finely organized heads, which for that reason are called *acute*, also in the manner most conformable to its actual course, still far from any preceding *Why*, indeed a thousand times, if the *Why* is to be forced in after the fact, under a false *prius*; hence perhaps the poets, like the philosophers, sometimes *prophesy* so happily, and most happily when they decline the *Why* in the process. *Kant* noticed this, and did so; for he declared logic (i.e. thinking of a *Why*, particularly after preceding *Critique*) closed since *Aristotle*, according to the Preface to the second edition of the *Critique of Pure Reason*, pp. VIII, IX. The whole remark, brought in here under No. 8, is to count, like my hitherto heaped-up parentheses, for no more than these too; for it lets one only *surmise*; but *surmised is not thought*. One must also occasionally rest, i.e. in the midst of thinking not refuse the request of one’s craving *to want to know* something provisionally.
+
+9) A *concept* is, *as that which, as concept, it has hitherto in all logics shown itself to be,*
+
+[p. 66]
+
+perfectly just that which an apprehension is; and apprehensions, *without concepts*, (in the animals) can lead to just that to which one (in us men) attains also through concepts. Concepts, on the other hand, without apprehensions, would, *as no concepts*, never be able to lead to that to which one attains through apprehensions.
+
+10) An *Omne* (say in the major of a syllogism) prefixed to certain concepts, as *indispensable* security of the universality of their assertion, is an *Omne* prefixed to certain apprehensions. (Just so the *Nullum*).
+
+11) An *Omne* which, as *indispensable* security of the universality of their assertion (say in the major of a syllogism), were prefixed to certain concepts *without apprehensions*, would be prefixed to apprehensions and also to *no* apprehensions, consequently a contradiction. (Just so the *Nullum*).
+
+12) There is for a syllogism consisting of concepts, hence also for that of which it materially consists, for concepts, *as that which they have meanwhile shown themselves to be in all logics*, for judgments, *as judgments* (without up to now bringing the *A* into account)
+
+[p. 67]
+
+no other truth than the correctness of the apprehensions on which they rest, hence *the truth of their materiature*.
+
+Necessary Anticipation of Some Propositions from the Doctrine of Primal Division (Ur-theilung) or of the Object, for the Purpose of the Next Following 15th §.
+
+1) Thinking, *as thinking*, must annihilate matter, *as matter* in thinking; otherwise it does not arrive, with matter, at a *something, as something thought*.
+
+*Rem. Spoken as well as written* words, e.g., must be annihilated *as matter* in hearing and reading, if thoughts are to arise from them.
+
+2) But as the *being-thought* in the case of a matter presupposes an annihilation of it *as matter*, just as well does the fact that one *can* get a thought from it presuppose something *in* this matter which absolutely cannot be annihilated by thinking, in a thinking. Without the former there would arise from it no *thought*, without the latter there would arise from it nothing *thought*, but rather a thing thought and also nothing thought, i.e. a contradiction.
+
+[p. 68]
+
+3) If it is therefore, *after preceding apprehensions* (= C), to come with the matter in thinking, through thinking, to a *something, as something thought*: then this process of thinking, applied to a matter, *must* (by virtue of No. 2) bring with it a *primal division* (*Ur-theilung*) in what is thought
+
+a) as a *something thought* (B *actuality*)
+
+b) as *thought* (Non-B *possibility*.)
+
+4) In other words, this means: thinking procures for itself, through its application to matter, an object = B, Non-B, or, as I can now express it more correctly, after the underlaying of the thoughts themselves which it designates, without having to fear misunderstandings any more,
+
+B (minus) − B
+
+| |
+
+*Actuality Possibility*
+
+as thought as thought.
+
+Together
+
+|
+
+*Object*
+
+as a *something in a thinking*, as *representation*, to be sure after the lack of a thinking on it has been removed, hence no longer *mere* representation,
+
+[p. 69]
+
+but also without any other plus than is essentially required for the possibility of the thinking of a something.
+
+This the above twofold, over which A, *after it has got hold of a material C*, plunges into life. These the two rows of the *primal division* (*Ur-theilung*), in which *thinking*, eternally equal to itself and just the selfsame, flows out over everything in its application (in us men). All our cognizing, every concept, every judgment, the categorical as well as the hypothetical, every syllogism rests therefore upon a preceding disjunction, as the first thing in the application of a thinking. This logical adventurousness may please or not; *it must* be so. (An imperative that has nothing to fear from any *imperativo caret* [it lacks an imperative], like *Kant’s* synthetic knots).
+
+5) This object, as *object*, is the beginning not of thinking itself,—thinking itself neither begins nor ends,—but of the *application* of a thinking to matter, is pure thought lying at the ground of all cognizing, in which everything apprehensible is annihilated in a thinking through thinking as far as it could be annihilated, a) in order not to become a thing thought and also Nothing thought, i.e. a
+
+[p. 70]
+
+contradiction, and thus b) to let apprehensions, in so far as they previously went along as a Not-thinking, as *mere* representations, *now under a thinking* attach themselves once more to themselves (*an sich*), as to a something that has now, in thinking, through thinking, become indestructible.
+
+*Rem.* This something of an object in itself (*an sich*), which, after preceding apprehensions, has become indestructible in thinking through thinking, has beguiled *Kant*, when he lets a thing in itself (call it *Idea*, or what he will) be posited by *pure reason* itself, i.e. by thinking, as a *mere* thinking, when he further lets *pure reason*, as pure, hence *thinking as a thinking*, press upon an absolute totality. Not to mention that he at once debases again to downright contradiction the thought of an *absolute* (see above), stirred up in him so promisingly, through the addition of a totality; for a *totum* is a *quantum*, and a *quantum* cancels being-*absolute*; not to mention this, then, a thinking which, as thinking, pressed upon a totality of itself, would, upon a limitation of itself, i.e. upon a termination of itself, i.e. upon A as A and upon
+
+[p. 71]
+
+A as Non-A, i.e. upon a contradiction, press.
+
+6) Should then *this* something still be a something, it must still distinguish itself from thinking itself as *mere* thinking.
+
+7) What now distinguishes itself from thinking, *as thinking*, only so far as is necessary in order to be still thought as a something, is necessary for a thinking *in its application*.
+
+8) Necessary is, in order to be still thought as a something, that on the not-thought, hence *on* the matter in the *mere* representation, something adhere that can in no way be annihilated in thinking through thinking (No. 2).
+
+9) Necessary, therefore, to the end that on the still not-thought, hence *on* the matter in the *mere* representation, an equally unalterable *modus* of *being-represented* adhere, as on thinking *one* unalterable *modus generalis* and two unalterable *modi speciales* of thinking adhere; (those of thinking are A as A 1) in A; A as A 2) *through* A).
+
+10) What is necessary shows itself here also actually. The unalterable *modus generalis*
+
+[p. 72]
+
+of *being-represented* of something represented is that it is not, just as A is thought already *as* A, equally, as that which it is, given wholly and completely already with the fact that it is, but rather is represented *outside one another*. This the *modus generalis* of being-represented, just as conversely A already as A is *modus generalis* of thinking. The former is necessary, because otherwise there would be no something, as *distinct* something for thinking, i.e. no object, as it has hitherto been understood everywhere *logically*.
+
+11) That for the possibility of an object as object a being-represented, as a being-represented *outside-one-another*, is essentially required, hence that no A already *as* A can take place here, *as* in a mere representation, so much, methinks, is clear.
+
+12) Clear, consequently, also, that an object without an *outside-one-another* in the representation would be no object;
+
+13) Clear, consequently, also, that an object assumed without an *outside-one-another* in the representation, as hitherto everywhere, would be an object and also no object, consequently a contradiction.
+
+14) A mere witticism, hence for thinking as thinking an absurdity, which it, for the sake of diversion,
+
+[p. 73]
+
+pardons, would it be to want to split in two this *outside-one-another*, which thinking itself inevitably demands for the possibility of an object for it, perhaps still *ad analogiam modorum specialium* of thinking, were there not problems which made this splitting necessary for thinking itself in its *application*.
+
+15) The problems which are at issue here demand 1) that that *outside-one-another*-being-represented found essential to the thinking of an object be broken down into a being-represented *one after another*, i.e. into occurring *alterations* for the sake of the possibility of a *representation* in general (for this already includes an alteration) and of a *distinct* something in thinking, but in particular for the sake of the thought of *a time*, in which thought thinking itself alone, applied to a *succession* in the representations, then describes itself. In this *succession* namely the very opposite of the A as A already thought in A is found; consequently A can be posited as in a *something*, therein; let this something now be whatever it will. (See below the *test*).
+
+[p. 74]
+
+*Rem. Time* is a thought. The *succession*, or an occurring alteration, is a necessary condition of the possibility of a representation in general, hence also of the applicability of a (human) thinking in particular. *Time*, by contrast, is thinking itself, already applied to the *succession* in the representations, or A infinitely repeatable as A in the *succession* of the representations. *Kant* concluded thus here: because time is no concept, and yet is necessary, it must be only something wholly new, an *a priori pure intuition*. The syllogism is built immediately on the (critically, hence not, as otherwise, applied) *principium exclusi tertii*; for thoughts there are in the *Critique* only at the back; hence at the front and in the *Transcendental Aesthetic* only the choice stood open between *concepts* (as, in my opinion, seeing) and *pure* (as *blind*) intuitions. A *tertium* would have been a contradiction. I refrain from going further, and here from the *Transcendental Aesthetic* add only, after pp. 47 and 71, some —
+
+[p. 75]
+
+#### Words of the Critique.
+
+“The representation which can be given only through *a single object given* (it is a question of the representation of *time*) is however intuition? — Nor would the proposition that different times cannot be simultaneous be derivable from a universal concept; (hit!) — The proposition is *synthetic*, and cannot arise from concepts *alone*.” (Thus *pure* intuition and yet a *representation* given through an *object*, not to forget the *single one*, and this *time*; — Thus a *synthetic* proposition, that one cannot think a *being-one-after-another* as a *being-simultaneous*, hence no contradiction; — Thus a synthetic proposition which indeed can arise from concepts, but only not from concepts *alone*? — Yet, as should already be apparent from this, and as stands in the *Critique* p. 71 *in so many words*, thinking itself surely has limits *at all times*).
+
+#### Words of the Critique.
+
+It is here a question of the object of natural theology, hence of *God*, who, without the conditions of time and space, as mere *pure* intuitions *of man and other finite beings*, is in turn
+
+[p. 76]
+
+supposed to have his *own pure* intuition; “for,” it says, “all his cognition *must* be of this kind, and not *thinking*, *which proves limits at all times*”— Enough, more than enough!—
+
+Whether it is true that since these words of the *Critique* one in Germany could now also make one’s own time for oneself, I leave undecided.
+
+16) The problems which are at issue here demand further 2) that that *outside-one-another*-being-represented found essential to the thinking of an object be broken down into a being-represented *beside one another*, as the second *modus specialis* of that *modus generalis* of a being-represented outside-one-another, found essential to the thinking of an object. An object, then, if it is to be an object for a (human) thinking, may not, just as A is already thought *through* A, be represented as one *through* the other, but already as object includes a *being-represented-beside-one-another*. This is, through the cognized necessity of an *outside-one-another* for every possible object of a (human) thinking, basically already conceded, and opens up on that first one merely the second
+
+[p. 77]
+
+How *(modus specialis) in accordance with the problems at hand*. But since it, notwithstanding its suitability for the solution of those problems, hence notwithstanding its serviceability as a *hypothesis*, may nevertheless meet with resistance as a thesis: I will, superfluously, seek to prove it too as a *thesis*, in the hope that this investigation also, if its standpoint is right, can only *gain* by going deeper. *Proved* I then call it, when an object, *without a being-beside-one-another in a (human) thinking represented*, for this thinking comes out upon a representation and also upon no representation in thinking, hence upon a contradiction, indisputably.
+
+*Proof that, if an object without a being-beside-one-another in a (human) thinking were to be represented, this object, thus represented, would come out upon a representation and also upon no representation in thinking, hence upon a contradiction, indisputably.*
+
+A *representation* designates either the *act* of representing in a thinking,
+
+[p. 78]
+
+or that which this act brings along with it for thinking, *the represented itself*. That act includes a *succession*, this is proved; for otherwise it would be no *distinct* something, no act.
+
+That which this act brings along with it for thinking, *the represented itself*, is however either a represented or no represented. No represented in a thinking, and yet thought as a represented in a thinking, is a contradiction. That (a represented in a thinking, namely) it cannot be, however, without essentially distinguishing itself from thinking; for otherwise it would be a represented and also no represented, hence again a contradiction. So in order not to be a represented in a thinking and also no represented in a thinking, the represented must essentially distinguish itself from thinking. So much I bring out indisputably through mere thinking over against a *representing, as representing*. But the *How* of this essentially requisite difference with regard to the *nature of the represented itself*, (not with regard to the essentially requisite *act* of a *being-represented* in general) also still from *thinking as thinking*, *representing as representing*, *wholly alone*, to want to determine
+
+[p. 79]
+
+would likewise be a contradiction; for it is now a question of the *How* of a *represented as represented*, of which *How* I, through mere combinations from a *thinking and representing* in general, can impossibly bring out anything other than that the *How* of this represented must be essentially different from the *How* of thinking. Herewith I would then, with my further proof, for the *essential* constitution of this *How* of a represented, whose *difference* from the *How* of a thinking I have nonetheless cognized as *essentially necessary*, be referred to that which I shall never be able to think as *non-nature* on the *nature* of this represented itself, hence shall *have to* think as the essential constitution of this *How* of a represented. Only in this way can I become wise about what my thought of an *outside-one-another*, which in *me* already necessarily included the thought of a *beside-one-another*, actually meant to demonstrate with this *beside-one-another*. I take the path, sure that it must lead to the goal.
+
+The material I call C. Without this C no application of a (human) thinking is, at the awakening of the same in a human individual,
+
+[p. 80]
+
+possible; for upon what is it otherwise to be applied, at its awakening in a human individual? Upon this material A annihilates in thinking whatever can be annihilated in it *as material*; otherwise material and thought, hence what was previously diametrically opposed, would *wholly become one*, i.e. a non-thing, a contradiction, or else nothing at all would come to be thought (as something *represented* in thinking). I say, what was previously diametrically opposed would either wholly become one, or else nothing thought (as a something *represented* in thinking) would come of it, if the *material as material* were not annihilated in thinking, *as thinking*. What was then in this case diametrically opposed to one another? *Material and thinking*, in other words *material and form*. If it must now however be conceded that to that material in its *mere* representation, as to something not yet thought, a certain *How* of outside-one-anotherness, which my *beside-one-anotherness*, already taken up into this *outside-one-anotherness*, now fully of itself determined perfectly through really present *dimensions of space*, inalterably adheres: then it must also be conceded that this material itself has an *unalterable form*. One form, *as form*, cannot annihilate
+
+[p. 81]
+
+the other; consequently thinking too, *as form*, cannot annihilate that which adheres to the material *as form*; (this would be, again, to annihilate a *copula*.) If thinking cannot annihilate that which is form in the material, and if the mentioned beside-one-anotherness, *now determined through dimensions of space*, is manifestly its form also outside a (human) thinking: (for how else would it go with the animals?) then this *beside-one-anotherness according to dimensions of space* also in the thinking of an *object in general*, in which nonetheless all material, *as material*, is annihilated, cannot be annihilated without an annihilation of form *through a form*, i.e. without a contradiction. But, it will be said, *consequently also not be thought*. Correct; this form *can* not be thought, but rather *must* be thought. That in which no material is any longer to be annihilated by a thinking in thinking, and which is nonetheless still a something, must be thought.—If at my table here everything that is material in it is annihilated by my thinking in thinking: then it has thereby gained; for it can now, as that which it has become in me,—*as thought*,—no longer be annihilated, but rather *must* be thought, (*Formæ rerum æternæ* [the eternal forms of things]).
+
+[p. 82]
+
+#### Only some of the corollaries which result from this proof.
+
+α) Without a *beside-one-another according to dimensions of space* in its representation, an object would be something represented and also nothing represented, hence a contradiction (so long as a *human* thinking in its application proceeds only from C, hence from a material).
+
+β) Space is, as *extension*, the essentially necessary condition of the representability of an object, as of a something still to be represented in thinking. Space is, *according to its three dimensions*, the beside-one-another *indestructible* in thinking by thinking, hence the *form* on the material, as a something still to be represented in thinking. Space is, *according to the detail of its geometrical relations* (that is, drawn into *reckoning*) an application of thinking as a thinking to the beside-one-another *indestructible* in thinking by thinking, hence to the *form* on the material, as a something still to be represented in thinking. This the ground of the *apodictic* in *geometry*.
+
+[p. 83]
+
+*Rem.* This apodictic quality in a *beside-one-another* has perhaps helped *Kant* to the discovery of his *a priori* synthetic propositions; whereby he then shoved upon thinking itself that which lies in the form of the *material*, namely the copula of the *material*, the synthesis of an indestructible *beside-one-another*, without being A itself; consequently he assumed in his *a priori* synthetic propositions, as propositions which are supposed to lie already *synthetically* in the *essence of thinking* itself, an A, where, *as in a synthesis*, or copula of the *material*, no A lies, but merely an essential condition of the applicability of an A to a material, in order to gain for itself a *something* in it. In short, the copula of *matter*, in order to be represented as a something in a thinking, concresced for him in his phantasy with the copula of *thinking*, which is merely A infinitely many times repeatable as A *in* A and *through* A; he took into the A a non-A as A; thus he floundered, a whole Critique through, in sheer contradictions; for the *prius* was an *error*.
+
+γ) An *occurring alteration* (a *succession*) is an essential condition
+
+[p. 84]
+
+of the possibility of a representation in general as of an *act* (as of an *actus*). *Extension* (a *beside-one-another*) is an essential condition, if this act is to *bring something with it* for thinking, consequently essential condition of the *represented* itself, as of a something *still to be represented* in thinking.
+
+δ) No *object* can be represented in a thinking without *extension*. My table there, my pen, my paper, in the thought of them, represented without extension, would be a table and not-table, etc.—As it is with individuals, so it is also with genera, *as that which they have hitherto shown in the logics*, with species, subspecies, so long as a human thinking in its application proceeds only from C, hence from a material.
+
+#### Addendum for those to whom this consequence might seem too hard.
+
+A, combined with C, and with this producing a (B−−B), in order thereby to be able to take up the C again into a representation for a thinking, this is the circle which our thinking describes in its application. But tell me now, how it would be possible
+
+[p. 85]
+
+to take up the C again in (B−−B) into a representation for a thinking, if in that (B−B) even the essential form of this (C) had been annihilated through thinking (A)?—No, under the persistence of this indestructible form of *beside-one-anotherness*, rather, our whole *actual imagining-into* the world, and, what is often still dearer to us,—our *phantasy* finds its place; just as, through the persistent in the *succession*, a *memory* finds itself assigned a day’s work, to be carried on in us in the service of a thinking. One should therefore do it as a favor to one’s phantasy, and consider whether each of its images, already *as image*, must not contain something spatial, or else be an image and also no image? But one should also do healthy common sense a small favor, (I speak with the critical arrogance) and consider whether the wholly space- and timeless *Kantian* categories, as *isolated* forms of the possibility of a thinking, are a thing and also no thing, or not? In children, who begin to think, they would be a thing, since there everything still goes by *images* (*general-images*, as some call them): but then they are no
+
+[p. 86]
+
+*Kantian* categories; in us older people they would become *Kantian* categories: but would begin, by my modest estimation, precisely thereby, to become, in us older people, a thing and also no thing; thinking would slip away from one, the older one grew, out of sheer purity, under thinking, in that its object lost all extension through twelve categories. It is also truly noteworthy that *Kant* need only attach pure syllogisms to his categories in order to produce from them, in the business of pure inferring, hence, as he believed, *through a wholly pure thinking*, *ideas*. Were his categories so pure, so wholly space- and timeless as he thinks, he would have been able to let nothing arise through them beyond the bounds of a possible apprehension, not even ideas any more, but would have been compelled to take the right path here, and to take refuge in *phantasy* in this case. What finally is actually thought in the *Kantian* categories is *eo ipso* no longer a *Kantian* category, but a *thinking*, as *this*, however, it cannot be shredded into *isolated* forms as conditions of its possibility. Rather it is, where it is, one and the selfsame.
+
+[p. 87]
+
+17) I believe, through what was said under No. 16, and in particular through No. γ, to have shown that I fear no consequence, as soon as it forces itself inescapably upon one after an incontrovertible (that is, just *actual*) *prius* (that is, is just a *consequence*). The word: *Some*, added to the corollaries in the heading before No. α), means merely that I wish to withhold here *in detail* the elucidation which that preceding proof gives to *mathematicians* about the *ground* of the incontrovertibility of their science, to *psychologists* about the whole business of phantasy in man, because it did not belong here.—But how could I forget that, indeed, awakened through C, effective in C through the production of a B·B out of the same, my own thinking, where it has broken through to the highest *possible* purification from that C as from this B−B, *and been turned back only into itself, can also think only itself*? Its form too is indestructible, because it is form; and its form is no outside-one-another, no after-one-another, no *beside-one-another*, hence apodictically certain *no extension*, but apodictically certain *space- and timeless*. In its purely thought laws (A as A in A, through A) I think to myself indeed nothing other than my thinking itself,
+
+[p. 88]
+
+and yet think. Yes, already in each −B, i.e. in every possibility, as possibility, in each thought *as thought* without a represented *something*, hence without a representation, hence without an *object*, as it has hitherto been determined, I think nothing other than my thinking itself, and yet think.
+
+Be greeted by me, holy Light, I might exclaim here with *Milton*; if every light were not only a reflection of this Light, *after a material has stepped in between*.
+
+18) Even if this −B is no object, as an object has hitherto been described, and as it, as object, as representation in a thinking, as a *represented* something in a thinking, must be: I should nonetheless have to annihilate through thinking in thinking a form, would have to annihilate precisely the form which concerns me most nearly, if I did not ascribe to it reality, or,—how shall I, hovering again over this abyss, name it?—the purest *Being* (εἶναι). But this matter is far too important for me not also to seek out, for this ground of its assertion, *already unshakable in itself* (so long as no form as form can be annihilated through a form as form),
+
+[p. 89]
+
+everything that might serve its further illumination.
+
+19) I do so, then, and now, disregarding B, pursue that −B further. To be sure I arrive, and this cannot be otherwise, on this path at sheer minuses; at the minus of a representation, at the minus of a something thought in a *representation*, at the minus of an object, at the minus of an outside-one-another, at the minus of a beside-one-another; consequently also at the minus of a time and at the minus of a space; consequently also at the minus of an (animal) life, and at the minus of an existence *which would admit a possible being-there, and a possible being-otherwise than what it is*.
+
+20) But, notwithstanding all these minuses which follow from it, I could, without this −B (this possibility), also have no B (no actuality) as a *thought* in me; just as, without B as a thought, I should also *know* nothing of −B. The −B thus grounds the possibility of B as *a thought*; the B on the other hand points only to something that I have already *learned to think* through the lead of −B. Can then the −B, and what it brings with it in its train, be a *nothing*?
+
+[p. 90]
+
+21) Disregarding B, and going back still further to this −B, I come finally, notwithstanding all the minuses following from it, even upon laws of its own, which this −B has. I therefore find myself here surely not in the domain of nothing; however much I remain aware thereby that I have now been carried away above everything extended and for that reason representable, above space and time, above everything visible and palpable. *These laws are.* Were they not, how could I have to thank them for everything that is *thought* in my knowing and cognizing? What in my knowing and cognizing is merely *thought*, is, *as thought, necessary*. Necessary, then, are these laws. They are eternally the same, are true and capable of neither restriction nor exception. Eternally the same, true, capable of neither restriction nor exception, are these laws; their not-thinking, like their thinking-otherwise, would be a contradiction. Purified so far that language can still express them, they run: *A as A, in A, through A.*
+
+22) The B on the object is accordingly now so led into my thinking that it points down the row to *representations*, and (under *this* point of view) in favor of the *representability* of a *something* (*ad formam*
+
+[p. 91]
+
+C), cannot be annihilated. The −B is now so led into my thinking that it (under *this* point of view) no longer, as downward in the row *everywhere*, needing a B (*ad formam* C), now also upward in the same points to *thoughts as thoughts*, and in favor of a *thinking, as thinking* (*ad formam* A, if it has been awakened through C), cannot be annihilated. Now, however, in the application of a thinking downward from thinking itself, and into the physical, no −B can be *represented* in thinking without a preceding B, (notwithstanding that the possibility is presupposed *in thinking* along with the actuality), and only B−B *together* give *here* an object, (proved above); hence I can also speak only *here* of an object (an existence, being-there under a thinking); but in thinking itself no longer of an object (an existence, being-there under a thinking); rather I must there speak of a *Being* simply.
+
+23) And if I then speak there of Being simply, of what kind of *Being* do I speak, according to what has gone before? Is it a *dialectical Being*, with which my own thinking, my *own pure reason*, puts me off and deceives, indeed in its ground and essence
+
+[p. 92]
+
+—as with a hereditary-sinful indestructible lie, on which it was caught only some thirty years ago—must put off and deceive? This, since the memory of man, only *one* man has so asserted, in mockery of reason, as it is now asserted in Germany, and thousands have parroted it. No, it is a true, necessary, eternal and unchangeable, of no exception or restriction capable, *Being*, whose not-thinking or thinking-otherwise than it is would be a contradiction; it is a *Being* such as philosophy, before its critical execution, from the times of *Pythagoras* and of *Plato* onward ever considered, as the Being of an *intelligible* world, which reveals itself in the thinking of man, and as a Being, *as it is with God*, and about which it, as apodictic certainty of a Being outside this changeable existence in material, was glad in its most thinking advocates.
+
+How things have gone with metaphysics, with the doctrine of God, toward the end of the 18th century in Germany, a note to No. 23.
+
+A philosopher who wanted to master the whole of philosophy rose up, behind a mighty
+
+[p. 93]
+
+bulwark of new words, with the dubious exception against the thesis of a God:
+
+*“Whether then the subjective thought of a God might also have objective reality?”*
+
+That, he meant, the simple-minded schools before him had never yet thought of, and that was surely the main thing. Now it rang from mouth to mouth: in philosophy, whose pulse the right physician had only just felt, a quite singular crisis was manifesting itself, about which one must take counsel, collectively and individually. Said, done! Whoever did not join in had no head.—They were consequently nothing but geniuses; and whoever was not yet one knew how to remedy, through an all-positing *I*, the stinginess of nature in an incomprehensible brevity of time,—as even the most esteemed learned journals of Germany could not conceal,—in the happiest way. Suddenly he rose, and became, after a little critical evolution-sickness,—a universal genius. If now, however, a non-universal-genius might permit himself, merely in all the simplicity of the simple old schools, a question to the gentlemen, from the head of the sect on down, about the point set forth above, which has gradually become their favorite matter! It would be: whether
+
+[p. 94]
+
+the famous *Königsberg man* also knew what he was saying when he could ask after an *objective reality* in God, i.e. after a reality falling within space and time, extended, belonging to material, either, were it possible, quite dead, or at most animal, palpable, and hence *never purely intelligible*,—*and that in God*, as an *intelligence* wholly pure in the eyes of every rational being (in German: a *spirit*)?—The harm which this man has already done through such an immature objection, which has no sense and can have none, is plain to see.<sup>∗)</sup> But so it goes,
+
+∗) That he himself did not know what he wanted in this is evident also from the fact that he was able, after the event, to invest the idea of a God—rejected in the *Critique of Pure Reason* as *constitutive*, i.e. as something that asserted an actual being—with the significance of a *regulative for our empirical cognitions*. For according to the constitutively dialectical idea of a God, man is nevertheless supposed to regulate his experiences, “in that one (these are words of the *Critique*, p. 698) derives the object of experience, *as it were*, from the imagined object of this idea, as from its ground or cause.” So
+
+[p. 95]
+
+when one wants to write a critique of thinking, and does not know either what *thinking* is, or what an object is. Had *Fichte* been able to wind himself out again from his *I*, into which *Kant*, as a consistent head, had to entangle him at last, and which, let Fichte determine it as he will, still always remains an *individuality*: *this* reproach he would have given to the founder of his sect *himself*. He was the one deceived through *Kant’s* fault. His acuteness wanted to go forward on the ground that had been laid; the ground was good for nothing, and he fell. If the wagon falls, says a provincial proverb among us, it has always had five wheels, i.e. the grossest faults, *which no man wanted to notice in it before*. I pity this man from the bottom of my heart, let him make of *me* what he will; *with Kant*, on the other hand, I am vexed; and if I do *him* an injustice: then let it be protested; I will answer for it. *Dixi!* [I have spoken!] —
+
+a *vel quasi*-deriving [an “or as if” deriving] of the objects of experience from a, *constitutively* dialectical nevertheless, God, as if he were their cause, makes God into a regulative, and makes *eo ipso* [by that very fact] this regulative into a nonentity, because it is *constitutively* dialectical.
+
+[p. 96]
+
+24) What can still be thought α) outside *space* alone, and, because we think, *must* be thought, is thinking itself in its *being*, not in a *spatial* something, together with that to which it points according to the last numbers.
+
+25) What can still be thought β) outside *time* alone, and, because we think, *must* be thought, is thinking itself in its *being*, not in a *temporal* something, together with that to which it points according to the last numbers.
+
+*Rem. Hence*, (α, β), the striking contrast of one infinity (of *being* as of a *thinking*), outside another infinity (of space and time, upon which one then nevertheless again imposed limits against that infinity)—in moments of consecration in sublime spirits, and nowhere more sublime than in the great *Haller*, *on eternity*, when he says of God:
+
+The swift pinions of thoughts,
+
+Against which time, and sound, and wind,
+
+And even the wing of light are slow,
+
+Grow weary over thee, and hope for no limits;
+
+I heap up monstrous numbers,
+
+[p. 97]
+
+Mountains of millions upon millions,
+
+I roll time upon time, and world upon world
+
+into a heap;
+
+And when from the fearful height,
+
+Dizzy, I look back again toward thee,
+
+All the power of number,
+
+multiplied a thousand times,
+
+Is not yet a part of thee;
+
+*I annihilate it, and thou liest whole*
+
+*before me.*
+
+*Hence*, however, also the *representationless feeling* in moments of consecration in religiosity generally!—
+
+26) No matter can be *thought* as matter, but can, as matter, be represented only for a thinking (in order to make an object out of it *for itself*).
+
+27) What, in matter, is *form* (*copula materiae* [copula of matter]) can not only, but *must* be thought, i.e. it *must* adhere indestructibly to the representation of C in a thinking, hence also to every object (B−B *downward* in the series and into physical life). If it *must* be thought in *this* way, which could only now be developed comprehensibly: then it *must* also be represented in thinking through something that is neither *itself* a
+
+[p. 98]
+
+thinking, nor can, as that which it is, ever *itself* become a thinking (through annihilation of form); for otherwise *forms* of matter (an outside-one-another, a succession, a juxtaposition, and the last according to three dimensions) would already adhere to thinking *as a thinking*, which is absurd; (A at cross purposes, hence Non-A).
+
+*Rem.* Here, at this being-absurd, something occurs to me about a *Critical Idealism* which I find indicated here and there as a still further spun-out *Kantian-Fichtean* philosophy. Should this Critical Idealism perhaps likewise consist in this (for I have never inquired more closely after it)—that *space* too, like time, would already be thought as positable through the I: then this I is either the thinking = A, or the object = B−B, or the material = C. Is it the thinking, it is an absurd I according to No. 27; is it the object, it is no I of the newest stamp: is it the material, it is again no I; consequently this new Critical Idealism, presupposed (as I must conclude, if the gentlemen are consistent) that it still turns about an I, would be an excrescence, proceeding from the Critical philosophy, of the fact that
+
+[p. 99]
+
+*Kant*, (be it practical or theoretical) lets, through thinking as thinking, a something (hence an object, hence space and time) already be posited *in man*; and so had to drive his adherents out at last upon *apriorist visions*, as the no longer communicable ground of all and every philosophy. To be sure, one might think that the sight of the animals ought already to have convinced these newest sages of the world that the being-represented *in juxtaposition and succession* cannot lie in the *human-I* alone, but must already adhere to consciousness in an animal life, hence also to the *horse-I* etc., as I, to my astonishment, have just now noticed in one of them, if representations are to come about in it. But this conviction would have been of *empirical* and not, as must be the case in a true philosophy, of *intuitive-transcendental* origin. Away with it!
+
+28) What in matter is *form must* therefore be thought *in the indicated sense*. But now the question arises whether, then, apart from *succession* and *juxtaposition*, nothing in matter is *form*, hence apart from this nothing
+
+[p. 100]
+
+in it *must* be thought *in the indicated sense of the word*?
+
+29) If A is once posited in a certain C through B−B: then in this C everything *that can be thought* in it (as object) runs back to B−B. What accordingly in C cannot be brought back to B−B (as object) is not thought in C (as object). But what in it runs back to B−B *as this*, that *must* be thought in C (as object), and is hence *form* of C, (as of an *object*). So much for now; the rest in the doctrine of *primal division* (*Ur-theilung*) or *doctrine of the object* itself!—And in order to be able to devote ourselves to this then (in the further development of logic) undividedly, we must here first rid ourselves entirely of *time*.
+
+30) *Time* draws itself, namely, in the property of No. 25, parallel with space (No. 24); this is not to be denied. But from another side, as the condition of the possibility of *inner* as well as of outer apprehensions, *as one now says*, whereas space is a condition of their possibility only for *outer* apprehensions, it threatens new difficulties. They are not dangerous. What there is in them, the test will show.
+
+[p. 101]
+
+#### Test of the Propositions Anticipated Here from the Doctrine of the Object (from No. 1–30).
+
+The contribution which these numbers will unfailingly supply to the explanation of what I still have to say about logic, combined with the marks of consistency which they, as it seems to me, bear in themselves, is without doubt the most proven test of their correctness. To forestall misunderstandings, and to let what in them is still *capable* or in need of a more precise determination receive this determination in such a manner that only arbitrariness (a not-thinking) could dispute the truth of the asserted propositions, this is therefore alone what must still be accomplished *this* time under *this* heading.
+
+From matter, it says in No. 2, there would come to be nothing thought, but rather something thought and also Nothing-thought, unless something adhered to it which could not be annihilated through thinking in a thinking. To whom this proposition, put in this way, does not want to be evident, he finds it under another position in the proof to No. 16, where it reads thus: in this material A annihilates in thinking what in it can be annihilated as *material*; otherwise
+
+[p. 102]
+
+in thinking material and thought, hence what was previously diametrically opposed, would become *wholly one*, i.e. a nonentity, a contradiction, or else there would come to be no thought at all. Note that here, to be sure, both times there is talk of the thinking of a *matter*, hence of the *representing* of a matter in a thinking; yet both times the word is used: *Thought*: not: *Represented*. Why this? Is not the thinking of a matter, as *thinking* of a matter, a contradiction, if it must, in order to be able to be thought, be annihilated in thinking through thinking as *matter*? Certainly, a downright contradiction! Why then, nevertheless, the expressions that include a contradiction, such as this one: *from matter there would come nothing thought*? Answer α) as to the contradiction, may one be pleased to attend to this, that it is *not* said *the* matter, but *from* the matter; and the contradiction is gone. My table, as *this* table here, never becomes a thought, to be sure, but *from* this table there comes to be in me a thought, or something thought.—Answer β) as to the peculiarity that I did not, after all, want to say here, as from No. 8 on, *nothing represented in a thinking comes of it*: it happened according to the *analysis*
+
+[p. 103]
+
+which may first, under the progressive development of what is at first comprehended in *One*, undertake the requisite separations, if it does not want, instead of *one* thread in thinking, to get ten at once, and thereby inevitably confuse itself. I therefore helped myself at first, where I had to put thinking in connection with matter, with the latter merely by prepositions.
+
+As to the difficulty mentioned under No. 30, which with regard to the complete discussion of *time* still seems to remain, I hope that the ease with which it can be removed by the above explanation of it will contribute so much to the corroboration of the latter that it should henceforth be subject to no further doubt.
+
+That time, *as time*, is a *thought*, we ourselves confess every time we bring it into the reckoning, which means just: every time we make *actual and present* use, in a thinking, of the infinitely repeated positing of A as A in it (let it be in itself what it will). The only question left, then, is: *of what* is it a thought? Answer: of a *succession*, or of preceding alterations, *not as something altered*,
+
+[p. 104]
+
+but *as* alterations, in short as a *succession*. Here I believe I may appeal simply to the consciousness of each one. Time is therefore a *succession* of the representations in a thinking, drawn into thinking. But as something *already* drawn by *us* into thinking, it can never be the condition of the possibility of any outer or inner apprehension; this would be a Kantian ὕστερον πρότερον [*hysteron proteron*]. If it cannot do this without contradiction: then it cannot do it *as time*; and if it cannot do it as *time*: then it can do it either not at all, or else only the *succession* in it (hence no longer time *as time*) can be the condition of the possibility of certain apprehensions. The latter is actually the case. For without a *succession* there can never come to be an application of a thinking (in man); let this thinking be applied now to *thinking* itself, or to an object. Always and in every case it presupposes, for the possibility of its application, an alteration proceeding from outside, an *act* (*actus*), an *impulse* through matter, what one may call, for all I care, a something of the *impulse* (through animal life), only not
+
+[p. 105]
+
+already a time, which, *as time*, first comes with the application of thinking. This succession is accordingly presupposed in every possible thinking in its *application*, and without it there would be, in man, *nothing thought at all of any kind*, hence neither inner nor outer apprehensions, hence no experiences of any kind. Was the difficulty, then, dangerous? It was none; for what was said above had only to be repeated and explained. Here again there befell *Kant* what always befalls him,—*a concrescence in his phantasy*, and this time indeed of A even with C. What was thought in time, *as time*, was fused in him with the, as he indeed assumes, *empirical* representation of an alteration; and, instead of saying: without a preceding alteration (without a succession) neither inner nor outer apprehensions would be possible, he says, without *time*, i.e. without A infinitely repeatable as A in the *succession* of the representations, i.e. without a thinking, already gone before in us, of the *succession*, in the application of a thinking to a succession, no succession of the representations would be possible. Then time might well grow long for one, before one came to a representation.
+
+[p. 106]
+
+And how did it fare, once more, with the poor animals?—These arrived at nothing at all of a representation; for *thinking* they notoriously cannot do.—But there is still something left over, which must not be allowed to lie unnoticed. If a succession is to be representable in a thinking *so that* it *must* be thought in the sense determined in No. 27: then it can never be annihilated in a thinking through thinking. If the succession, *as succession*, can never be annihilated in thinking through thinking: then also the condition of the possibility of this succession, the *impulse*, or the something of the *impulse*, or animal life, cannot be annihilated in thinking through thinking, but *must* rather be thought; as may already be evident from this, that otherwise thinking, in an application of itself, would not be awakened by this *impulse*, if thinking annihilated this impulse in a thinking. The impulse *must* accordingly be thought, as long as it remains impulse for a thinking, i.e. the *life* of man, *as life*, must be thought by him, as long as it remains in him impulse for a thinking. The life of man as *life* is his consciousness *that* (not how) he *lives*. The consciousness *that he lives* (consequently
+
+[p. 107]
+
+also that which is essentially connected with it, *as with an impulse*, *feeling, as feeling, drives as drives*), this consciousness *that he lives*, can therefore never be annihilated in man, *as man*, in thinking through thinking, but *must* rather, together with its essential appendage, be thought by him. It is a *form*, but precisely not a form of *thinking as thinking*, but of *material*; and indeed of material *insofar as an impulse goes out from it for thinking*. Hence the *simplicity* (not of the essence, but of the *act*), hence the *uncomprehendability* (not unthinkability or incomprehensibility) in all that comes to stand under the impulse *as impulse*; under the succession, as a *succession*, in the series of events in us, (such as feelings, drives, inclinations, *as this*)! Nothing betrays, *precisely because of the simplicity* of the *act* of an *impulse*, more approximation to the essence of thinking, notwithstanding that it is certainly still no thinking itself, than *feeling*. From it, as a *mere act*, *extension* falls away entirely, notwithstanding that without extension of that which first made the act possible, without extension of the material, there would presumably never have become an act, an
+
+[p. 108]
+
+impulse for a thinking.—Enough of the something of the *impulse*; for now the order comes also to a second, equally essential, question. It is: how does man also obtain a something of the *thing*, not merely of the impulse to a thing, (indeed of the impulse to the application of a thinking in general)? In other words: how does he now also obtain a *represented-in-thinking* (as that which we have so far called simply a something), *how* does he obtain an *object*?
+
+Judging only by what has gone before, I am very much inclined to let even the animals enjoy my reflection a little from time to time too. Instead, therefore, of starting out in man from *consciousness*, as the supposedly highest point in humanity, as *Kant* did, I seek, with regard to *consciousness*, first only to win from animal life an advantage for my cognition. To that end I therefore take up animal life, which seems to have already done me noticeable service as mere impulse, once more, and take it up this time as a whole. What does it bring, besides the impulse, what does it bring as a whole, where it meets a thinking, for this thinking with it? It brings with it—
+
+[p. 109]
+
+Not only *a* But also *a*
+
+*Something of the impulse; Something of the thing,*
+
+Feeling, Apprehension
+
+Consciousness that one lives, Apperception
+
+Drives as drives, Representations
+
+A desiring as desiring,
+
+#### *The Total*
+
+#### One
+
+#### *Individuality.*
+
+Both series I therefore now comprehend first of all under the expression of an *individuality* in that sense which has been determined here. This individuality in the *sense just determined* must be, for a thinking, as thinking, material (=C), and in order to be able to take it up into a thinking, thinking must accordingly annihilate everything in this individuality that is material, *not form*, in it: for should this individuality ever be a Not-material for thinking, consequently not let itself, like every other material too, be worked over by thinking: then let me have it made comprehensible what it should or could otherwise and apart from this be for thinking, *as thinking*? Half-material perhaps, coagulated with a half-thinking, a concrescence of *Kantian* categories, as they, in a *Kantian* phantasy,
+
+[p. 110]
+
+lie there preformed? I am able to think nothing in that. Material, then, is *this* animal life itself together with its appurtenances, in short the whole individuality in the sense of the word *determined above* is material for a thinking *as thinking*. I have and find otherwise nothing but *thinking* and *material*, before the former has arranged something to itself out of the latter in an *object*. And if one has nothing otherwise either, without inventing: then let me at least keep it, until we all together once get something better.
+
+If *this* animal life was previously exchanged for an individuality in general: then I now exchange the individuality again for a plus in general. Animal life as a *this* in *individual* becoming-conscious, individuality, I therefore now call simply that *plus* required for the possibility of an application of (human) thinking. In this *plus* that which in it is material must be annihilated in thinking through thinking; otherwise it would not thereby come to a thought. But there must also be something in it that cannot be annihilated in thinking through thinking; otherwise it would not thereby come to a something, as a something *represented* in thinking. If this *plus* is material: then everything in it can be annihilated that does not belong to the *outside-one-another* of the same in general, to the
+
+[p. 111]
+
+*succession and juxtaposition* in it in particular, and (as the test showed, as the condition of the possibility of a succession in representations) what does not belong to the *impulse*. This *plus* of an animal life will accordingly, as a thought, have nothing more in itself than the impulse indestructible in thinking through thinking, an *outside-, after-, beside-one-another*, which must first be filled out *empirically*, i.e. through individual feelings *as individual*, through individual representations *as individual*, or characteristically determined in its singularization. Here, my gentlemen, is your I, with all its mischief, which it still carries on behind the ruins of worlds and high above the thousand times thousand suns, according to the *Appellation* (pp. 113, 114). It is a concrescence in your phantasy, finer than those of your sect-head throughout are; it is the first stirring of a thinking announcing itself again, after its Critical guillotining, although under strong convulsions, in younger German heads. You have raised your heads up again; but you carried them, for that reason, so much the more degradingly for everyone else in the transcendental fog from which, once and for all, since the Königsberg epoch, no emerging was any longer possible at German universities. You again thought
+
+[p. 112]
+
+by halves, and half-thinking is not-thinking; hence the comical aspect of your philosophy for common sense, hence the bright soap-bubble of your I for the same.—How so?—Answer: Your I is nothing other than what every object, *as object*, also is; only that the *impulse* (of *animal life* in you), indestructible in thinking through thinking, also adheres to it indestructibly, on account of which indestructible appendage you then ascribe to yourselves *this* object (which, incidentally, is and remains like every other object) as your inalienable selfhood, and *must* ascribe. But if your I, (leaving aside now the adhering *impulse*), is an object: then it is an *outside-, after-, beside-one-another*, which, like all these *outside-, after-, beside-one-another*, would be quite meager in itself if it were not filled out *empirically* (material-containingly), and only thereby characteristically determined. *Empirically, however, your outside-, after-, beside-one-another is filled out in you* through your individual feelings as *individual*, through your individual representations, as *individual*; and herewith your I, *as I*, is finished: for you are characteristically determined in your singularization. I find myself in a position to give you on this point yet another, presumably unexpected, piece of information, which is offered me by animal
+
+[p. 113]
+
+life, converted into a *plus* (for the *application* of a thinking), and through which this very conversion of it into a *plus* might show itself, from yet another point of view, as other than that of a mere game. I started out from reckoning (§ 1); I spoke subsequently, merely in passing, of a subtracting, multiplying and dividing in the business of thinking. Many a one, I know for certain, has turned up his nose at this. This does not trouble me; I therefore continue and now *add* in thinking too, so that, when it is time for it, I may no longer speak *merely in passing* of a subtracting, multiplying and dividing in the business of thinking. One is posited, (A = 1). But once one remains one forever; and yet man comes out to *two*. But if he has once come out to this *two*: then it seems that it goes its assigned way to the end of his life with the *beside- and after-*, the *away-from- and toward-one-another*, the multiplying and dividing of what has already been multiplied. How then does he come out to *two*, notwithstanding that once one remains one forever? Surely unfailingly through a *plus*. To seek this *plus* in the “*once one is forever one*” would be a contradiction; *plus* is, as plus, not yet an *in and through*, notwithstanding that every *plus*
+
+[p. 114]
+
+must lead in the end to a plus, as an *in and through*. Be it, however, in itself what it will: it would still be a contradiction, in the “*once one is forever one*” *as a* once-one-is-forever-one, to seek yet besides a *plus*. For the possibility of the application of *that* one there must therefore come in addition a *plus*, hence a something. This something cannot be *that* one itself again; for otherwise it would have no *plus*, but only itself again. This something must, however, also be of such a constitution that *that* one can accept the same; how else would one bring *that* one and *this* something together? Were this something a *one*, and yet not *that* one: then they might fit together. Were this something no one, and *that* one could make it into a one: then they might fit together. Were this something e.g. *material*, and the material had a form, and this form were, *as form*, indestructible, and *that* one could annihilate everything in the material except its form: then *that* one could make this something into a one, and *that* one and this something made into one might fit together, would *have to* fit together, because no form can annihilate the other any more. We would therefore have 1 + 1, i.e. we would have come out to our
+
+[p. 115]
+
+Two, and hence to all our above reckoning-business in an *applied* thinking. At the latter One you have arrived, you gentlemen with the I, (hence the whole world had to sit in your I too,) and have supposed that you had thereby already broken through to the former One. But no; there was still something grown into your phantasy, as may be gathered without difficulty from the *Once-One*. I now notice well what will least please you about your dissected I, so openly do its *viscera* now lie there. It is without doubt the *beside-one-another* in it. Do not let that trouble you; it stays so. Above it was asserted that the outside-one-another already includes a beside-one-another, at least in *my* (applied) thinking. That this was no arbitrary assertion, but a thinking, I could now demonstrate by a mere appeal to the more developed nature of a *something*, or of a *plus*, required for the possibility of the application of a thinking. That something, or this *plus*, must namely be opposed to the constitution of *A as A in A through A*, otherwise nothing would come of it in what is *represented* in thinking. If it is to be opposed to the constitution of *A as A in A through A*, and one calls it B: then it cannot be B *as B*,
+
+[p. 116]
+
+but it must be B *outside* B, it cannot be B *in* B, but it must be B *after* B, it cannot be B *through* B, but it must be B *beside* B. Yet I will not let it rest here, but rather ask besides: how would it then be with the impulse, upon which that B (*cum annexis*) can first follow in an applied thinking, if that which is first to make the impulse were no *Outside-* and no *Beside-one-another*? I will ask once more how it would then even be possible to arrive at something as something *represented* in a thinking, be it this or that, an *I*, as you say, or a *Not-I*, i.e. object, provided with the animal impulse's appendage that is indestructible in thinking, or object without the same in representations which come from outside? Extension *must* therefore exist, in favor of the *impulse*, if it is to be able to bring with it a something for thinking; for what else would this something be? A not-something; what would the impulse be? A not-impulse. But that this extension should exhibit its essence precisely *in three spatial dimensions* in bodies, this we indeed learn, as finished-become, i.e. to *thinking* arrived men, only through a sight, connected with A, *hence already drawn into a thinking*,
+
+[p. 117]
+
+of these bodies themselves, and learn and cognize it *thereby*, because these three spatial dimensions are precisely that in those bodies which is indestructible through thinking in thinking, which bears to us an *apodictically* certain testimony of the extension, otherwise indeed eternally closed to our becoming-conscious without the preceding heed to a body-world lying before us, *as extension in three spatial dimensions*. — Now I can go further: thinking has its object, in the object of the geometer together with the reckoner he is, its science,—the I has, *as I*, its prophecy (*Weissung*).
+
+#### §. 14.
+
+*Thinking, as thinking, suffers no difference of modality in the Kantian sense of the word; but is rather the unchangeable absolute condition of the possibility of any modality of merely empirical assertions; in itself, however, it remains always equally necessary and without alteration of its eternal laws, hence A infinitely many times repeatable as A in all possible cases of its use.*
+
+[p. 118]
+
+#### Observation.
+
+This is also clear from the fact that what is connected in a thinking, *as connected in a thinking*, can never be denied. Only if it is not connected in thinking, i.e. is a contradiction, can it be denied. In other words: that something is a *thought*, that hence the matter in it has been annihilated by its connection in a thinking, can never be denied, if it is a thought, no contradiction. The difference of modality, whether something may be asserted as yet merely *problematically* (*cum formidine oppositi*) [with fear of the opposite], or already *assertorically* (*absque formidine oppositi*) [without fear of the opposite], or even *without any rejoinder to be feared from any man* (*tanquam id, quod in confesso est*) [as that which is admitted], must accordingly rest on the *empirical*. Quite correctly, therefore, *Maaß*, l. c., p. 92, reckons the difference of modality merely to that “*which takes place just so only in this or that judging subject*,” and which hence belongs in no Logic given out as *Pure* and besides *General*. Why the *Kantians* (*Kiesewetter* in particular) in their *Pure* and besides *General* (a *Critical* surplus) Lo-
+
+[p. 119]
+
+gics proceed so entirely without scruple everywhere with the difference of modality, as something *Purely Logical*, will become clear from the total confusion which their sect-head caused especially in this article, in that he raised judgments only up to consciousness, and then took what was empirical to be *pure*.
+
+#### Corollaries.
+
+1) What is merely thought in a concept as in a representation, that is absolutely necessary and suffers no difference of modality.
+
+2) The copula in *categorical* judgments, be they universal, particular or singular, be they affirming or denying, is absolutely necessary and without difference of modality; or, what in every possible categorical judgment is *merely* thought (hence *formally* and properly *logical* in the hitherto sense of the word) that is absolutely necessary and without difference of modality.
+
+*Rem.* “The strict universal affirmative *assertoric* judgments, which admit no exception, are,” it says in *Kiesewetter*, l. c., p. 56, “*apodictic*.” Now the question arises: what then are these strict, universal affirmative, *assertoric* judgments, which
+
+[p. 120]
+
+here declared *apodictic*, supposed to be?—They are 1) *strict*; and strict they are, in *Kiesewetter*, not because they need no *Omne* [all] any longer: the possibility of a being-beyond all difference of quantity, hence the essence of *thinking* as well as of the *object*, hence *Logic*, never came to his mind in his whole Logic; and he indeed himself straightway opposes to them the *particularly* affirmative judgments. It is accordingly not the strict universality which, needing no *Omne* any longer, already attaches to these judgments as to something *thought*, and in which the *particular-asserting* (e.g. a particular triangle) would be a contradiction; but they are through a prefixed *Omne*, consequently according to human world-sections in experience, consequently *empirically* strict, i.e. not strict. They are 2) *universally affirmative*; is there then in affirming, *as affirming*, a particularity, or is there not here a synkrasis of the *act* of affirmation partly with the number of those affirming, partly with that of what is affirmed? The unlogical expressions, still descending from the old logical formula: *Asserit A. e. c.* [A asserts, etc.], of a *Universally-* or *Particularly-affirming*, *Universally-* or *Particularly-denying*
+
+[p. 121]
+
+proposition, which, in a perverse way, draw quantity (according to language) to affirming or denying, one should, to avoid such misunderstandings, rather give up entirely, and put in their place: *Affirmed Universal*, *Denied Universal* Judgments, etc., to which in *Kantian* Logics there would still have to be put: universal-affirmed, universal judgments and universal-denied, universal judgments; otherwise they would not be *Kantian*-apodictic. *Kiesewetter* meant to say: they are something universally *affirmed*, partly with regard to the testimony of all men, partly with regard to the whole complexion of apprehensions which they express. They are 3) *assertoric*, i.e. according to *Kant* (hence also according to *Kiesewetter*) their affirming is merely actual, in *Kiesewetter’s* language (p. 41): The union of their marks in a unity of consciousness has merely already taken place, and yet they are supposed also to be *apodictic*, i.e. because their affirming is merely *actual*, so it is supposed to be also *necessary*.—Here he was now *Kantianly* entangled in contradictions, which, behind the synkrasis No. 2 and behind the epithet of the *Strict*, empty *in this connection*, quite properly hidden from him
+
+[p. 122]
+
+kept. In plain *German* and unconfused, his proposition namely runs: if a judgment is once universally affirmed, partly with regard to the testimony of all men, partly with regard to the whole complexion of apprehensions which it expresses: then it is apodictic. An assertion without exception, as well with regard to the number of men asserting as also with regard to what is asserted, in short *an experience without exception*, is therefore to him something *apodictic*. Since now an assertion without exception takes place in a *singular* judgment as in a *universal* one: so with him a *singular* judgment too (which he surely would not have conceded) is a *strictly universal affirmative* assertoric judgment, and is only then again, as strictly universal affirmative and *assertoric*, also at the same time *apodictic*. Since he further (if it is no misprint, cf. p. 46, § 102) on the same page counts the *singular* judgments among the *particular* ones: so with him a *particular* judgment too is a *strictly universal affirmative, assertoric judgment without exception*, hence *apodictic*, and yet he himself says l. c.: “the *particularly* affirmative judgments can be problematic,
+
+[p. 123]
+
+assertoric and apodictic.” So great is the confusion on this single page in *Kiesewetter*, and this confusion is genuinely *Kantian*.—*Kant* had namely, in order to serve his table of categories as is due, augmented the quantity, quality and relation of a judgment, already recognized before, with something new, under the title *Modality*, i.e. with the manner of the reception of a judgment in consciousness, or, in his language, with the gradual incorporation of a judgment into the understanding? (p. 101, l. c.). On this occasion there befell him the misfortune that he fell down from transcendental philosophy into the trivial empirical psychology, a misfortune which one could have prophesied to him, because he did not know what *thinking* is, and therefore, in critiquing the *Pure* Reason, never looked beyond consciousness, hence beyond the animal in the human child. This latter is confirmed by the *present* case itself already, in that it was possible for the Father of Critique to let something be incorporated *gradually* into the understanding. Such a *gradual* understanding in the business of incorporating into it is no thinking, hence no understanding *as a thinking*, hence
+
+[p. 124]
+
+merely nothing else than light or shade in a certain animal becoming-conscious, behind which then first lies that thinking, unchangeable *as thinking*, modality-less, in *our* class of beings. As soon as the old Logical footing of the quantity, quality and relation of a judgment gave out on him, and he now wanted to go further out transcendentally, it went, instead of upwards, downwards. It is, by everyone’s reckoning, an experience that, when one sees a man in the distance and does not yet see rightly, one is wont to say it is *possible* that this be a man (*Problematic* judgment; deposits: a category of *possibility*, consisting in the *approach*, or a *gradual* light for the animal becoming-conscious). It is, by everyone’s reckoning, a second experience, that when the man comes nearer and one sees him better, one is wont to say that is *actually* a man, (*Assertoric* judgment; deposits a category of *existence*, consisting in the *presence*, or a *decisive* light for the animal becoming-conscious). It is, by everyone’s reckoning, a third experience, that, when the man is now once there, and the whole society
+
+[p. 125]
+
+sees him, but one of the society still wanted to speak against it, and say it was no man, one would lead him to the man, and *show* the unbeliever (*monstrate* through eye, ear and touch) that this *must* be a man; or, if the man has already passed by, and one no longer saw him, but one of the society still wanted to speak against it, and say the man was still there, one would convince him by the not-seeing-any-more, not-hearing-any-more, not-being-able-to-touch-any-more of the man, that the existence of the man was now given to him *only still through its possibility*, but no longer through his senses, hence he *must* now, so *Kant* concluded, p. 111, the non-existence of this man, by virtue of the givenness of the existence of the same *through a mere possibility*, *unavoidably* admit. (*Kantian-apodictic* judgment; deposits a category of *necessity*, consisting partly in a *presence confirmed* through eye, ear and touch, and a decisive light *still supported* through ear and touch, for the animal becoming-conscious; partly in a not-seeing-any-more, not-hearing-any-more, not-being-able-to-touch-any-more,
+
+[p. 126]
+
+hence in an *indisputably* certain *shadow* for the animal becoming-conscious). That this presentation of the *Kantian* categories of modality is the only possible one I can prove generally from the fact that he had indeed already dispatched the, hitherto so-called, *Logical* reality (affirmation *considered in itself*) under the class of *categories of quality* (in company with negation and limitation as the *thought-forms* assigned to it?), hence nothing more at all could remain to him, for the category of *existence*, than the *local* existence, i.e. approach, or presence, removal or local vanishing. That, however, in particular the *Kantian* necessity is here drawn according to its nature becomes evident because 1) according to p. 110 “the third category everywhere arises from the connection of the second with the first of its class,” hence in the present case necessity (as the third of its class) must arise from the connection of the category of existence (as the second) with the category of possibility (as the first); existence, still connected with possibility, however, being nothing else than local presence, forced upon one, (in *Kant apodictic or necessary*
+
+[p. 127]
+
+made) through the *senses*, (this would be the *light* in the animal becoming-conscious, the first half of the category of *necessity*); because 2) according to p. 111 “necessity is nothing else than the existence which is given through possibility itself,” the givenness of an existence (of a *being-here*) through the *mere possibility*, however, can be nothing else than a not-seeing-any-more, not-hearing-any-more, not-being-able-to-touch-any-more of that which one formerly saw, heard or could touch, and because, finally, a necessity, as an *existence given through the possibility itself*, can be nothing else than an *extorted*, *unavoidable* and *Kantian-apodictic* confession (*in confesso est*) [it is admitted], obtained by a not-seeing-any-more, not-hearing-any-more, not-being-able-to-touch-any-more, that this existence, now given through a mere possibility, is a not-any-more-existence, an absence, a *shadow* for an animal becoming-conscious (= 0).—Herewith we mortals too would be measured out from this side in the *Critique*. Beyond the *digito monstrare, aut digito non amplius monstrare posse* [to point with the finger, or to be no longer able to point with the finger], their yardstick in this regard does not go. Of *Demonstrating* no talk;
+
+[p. 128]
+
+that would be *Wolffian*: of the necessary of *thinking as a thinking*, of the *object as object*, no talk; that would be dialectical: it skims over the pointing of the finger, and where something skims over the pointing of the finger, there arises the necessity of a givenness of its existence *through the mere possibility*, hence there arises through this mere possibility, in which its existence is now given, a *Kantian-necessary* and *Kantian-apodictic* givenness of its not-any-more-existence for an animal becoming-conscious, in so far as to an animal becoming-conscious an existence (as being-here, being-there) can be given only through seeing, hearing, touching. Of possibility and actuality, as the essential character of every possible object in a thinking in general, not merely as equivalent (according to the language of life) with a presence in the representation of an animal consciousness either not yet bestowed or already bestowed, no talk: this would already point to a being, and a being belongs, as is well known, first in the *practical* department, after it has known how, *theoretically*, through nothing but *mere thinking* (through thought-forms, paired with syllogisms), *Ideas* to
+
+[p. 129]
+
+prepare. But should now really, from *Problematic* judgments, a category of *possibility*, from *Assertoric* ones a category of *existence*, from *Apodictic* ones a category of *necessity*, be able to be lifted out, as the thought-form lying each time at the ground of such a judgment; should *existence* and *possibility*, connected with each other, according to p. 110, give the thought-form of *necessity*, or, according to p. 111, *necessity* be nothing else than a *givenness of existence through possibility*: then it would follow that according to p. 110 an Assertoric judgment, with which something Problematic has been combined, would *therefore* have to become Apodictic, because something Problematic and Assertoric came together in it, or, according to p. 111, *therefore*, because the Assertoric of a judgment (existence) would already be given through the Problematic in it (through possibility itself). Thus stand the matters; not even to the *unlocal*, i.e. provided with no *express* indication of place, presence of a representation in consciousness, not even to *that* manner of the gradual incorporation of a representation into the same (as *Kant* speaks),
+
+[p. 130]
+
+which the man can bring about by a subsequent development of that which was represented to him therein, either himself or with the help of others, not even to light and shadow, distinctness or confusion in the becoming-conscious of *concepts*, was any regard thus had in the *Kantian* division of judgments into *problematic*, *assertoric* and *apodictic*; but *Kant’s* whole modality is properly *palpability*, which, where it does not become wholly tangible, produces merely the category of possibility; where it becomes tangible, the category of existence; where it becomes tangible out of the not wholly tangible, according to p. 110, or else, where it, according to p. 111, drops away, and leaves behind only the dregs of the possibility *of an existence* in consciousness, the category of *necessity*. And such a philosophy could insist on *principles*? A philosophy that traces the *necessary* and *apodictic* back to intuitions, pure or coarse, and the pure again to the coarse (the five fingers, l. c.), a philosophy that attaches to thinking, there where it runs out beyond palpability, the scorn of an empty Dialectical illusion, could only speak a reasonable
+
+[p. 131]
+
+word about principles? Beardless striplings, who, crawled behind the aegis of your master, mocked Germany’s *Leibniz* and *Mendelssohn*, because they had not yet, as you fancied, walked the path of principles, what were principles in your mouth? Nonsense such as the gloomiest Scholastic never let come from him. But of you there can be no question at all; bluster as you will, in societies and in public papers. You are and remain to me ridiculous people. Your forever warped head may *Kant* answer for, to whom I return. He was so clever as to adopt the tone of principles in *philosophy* only far back in the Critique, where the slain theoretical reason was shortly to rise again *as practical*, and then finally came, in his *Critique of Practical Reason*, on the occasion of the imperative in a moral law, which he calls a fact, and indeed the *only* fact of pure reason (hence the *only* fact of *thinking*? pp. 56, 72, 73), to that with which he should have begun the Critique of *Theoretical* Reason,—to *thinking*, consequently only there to a *more than palpable* existence (a being), consequently
+
+[p. 132]
+
+only there to principles, i.e. to a *prius* as necessary condition of the possibility of such an imperative, as he meant, and which he believed he had found straightway in *freedom*. To freedom, therefore, the strongest minds among his adherents also tied their principles (words) one after another; and because they did not know theoretically how they stood with thinking, but thinking had in them theoretically, after genuinely *Kantian manner*, grown together with C, hence with the material, and they consequently *there* saw beyond animal consciousness as little as *Kant*: so it went with them as was described above, they posited the chimera of a (*Kantian*) imperative of freedom, as the sole supersensible lever for them, (as sole fact of the *pure*, hence also sole fact of *their* reason) into their I, concresced with the world, and produced, with the help of the same, now through their I the whole world, which, as a C already concresced with thinking in them anyway, hence as *their* caricature, was quite easy to push off by means of that lever; (*Critical*, upon an *I fertilized with freedom* built, *Idealism*, now also fully provided with its *prius*).
+
+[p. 133]
+
+—What, however, is now to be done at all with that late offspring of a *Kantian*-practical reason, begetting principles only as *practical*? Nothing more.—*Conclamatum est* [It is all over]. For either it is a thinking, and then it is dialectical; or it is no thinking, and then it is no reason. These are the pure principles of the wretched brood of *Kantian* philosophasters, (as *Nicolai* so aptly calls them).—Freedom, understood in the *Kantian* way, as necessary condition of the possibility of an imperative, is a thinking as necessary condition of the possibility of a thinking (considered still apart from its application); hence a thinking (considered still apart from its application), as *prius*, and again a thinking (considered still apart from its application) as *posterius*, hence, understood in the *Kantian* way, again nothing; but a freedom such as is already given in the imperative of the Once-One, a freedom with which a man, from whom thinking, *as a thinking*, remained hidden, merely described, without knowing it, thinking itself *one-sidedly*. Because, however, he did not know this: so, e.g., all postulates of his doctrine of right are postulates without their head; *reason wills just so*; further he never could go; for theoretically
+
+[p. 134]
+
+thinking had entered into its rest, and Germany had only principles *of willing* left, headless principles therefore: *volo, jubeo, mando* [I will, I command, I order]. To this comes the further inconvenience that precisely in the practical and in acting, the total impossibility of making use of one’s thinking, hence of one’s freedom, without an *each time* and indeed *noticeably* preceding animal impulse, is most striking of all; hence the toils under which *Kant*, in his *Critique of Practical Reason*, with his freedom, (as an at least *purely thinkable* premise for an acting), had to seek to evade *time* (i.e. all possible circumstances). In the series downward and into life, namely, −B can absolutely not take place without a B standing before it. Now, however, the impulse, as a something indestructible in thinking through thinking, can in its whole detail quite fittingly be placed under our B; the *Kantian* imperative, however, with its detail, under −B as the *merely thought* in the something, and what has been said accordingly be made graspable through the following scales:
+
+[p. 135]
+
+B − B
+
+Impulse of animal life Imperative
+
+Drives Ought
+
+Desiring Willing
+
+Understanding (as A posited in B) Reason (as A posited in − B)
+
+Grounds of motivation Willing for the sake of the ought
+
+Prudence (as mature deliberation, *prudentia*) Duty
+
+Good conduct (καθῆκον) Virtue (κατόρθωμα)
+
+Opportunity from without (τύχαι) Moral merit
+
+Health of the powers of mind Well-being (as − B, as good conscience).
+
+*Logical* is this opposition, under the alteration here introduced, without blame; for nothing of what occurs in the one series is already included in the mere thinking of that which occurs in the other: A, as A, although unchangeable, *as this*, is nevertheless, as A posited in B, in
+
+[p. 136]
+
+and with this B alone, not also at the same time to be considered as posited in (− B); otherwise one would consider B and (− B) as distinguished and yet also as not distinguished, i.e. one would fall into a contradiction. But *practically* it cannot subsist as an opposition, because no (− B) downwards in the row and into life occurs without a preceding B; consequently what stands under B must in all cases precede, before it can come to that which stands under − B, which already strikes common sense most noticeably *precisely in the practical*, notwithstanding that in every representation and every concept the same case must throughout occur. A *homo Noumenon* in a *homo Phænomenon* is therefore a nonentity; for as *Phænomenon* he is an individual, as *Noumenon* no individual, hence in this respect also no longer a *homo*. — Further, and once more back to modality itself, in order then to be able to determine what necessity is, not *Kantianly*, but actually. First to possibility! — It is supposed, according to *Kant*, to be that which, in the analysis of a problematic judgment, is found as its primal form, which hence makes every problematic judgment a *problematic*
+
+[p. 137]
+
+judgment. Does possibility, then, belong only to problematic judgments, or is it not the essential character of what is thought in general, *as a thing thought*? Can it, consequently, ever be made exclusively the distinguishing character of that which a man does *not yet know for certain*? Is it not a superficiality unpardonable in a philosopher if, from the problematic or uncertain of a sense-impression, which the language of life may designate by a mere possibility (of being-able-to-be-given in a representation), he believes he has found the essence of possibility itself, as of a thought, and has thereby, under the name of a form of thought for everything problematic, entirely and utterly dispatched it? — If one analyzes an *assertoric* judgment, there is supposed to be found, as its primal form, a certain category of *existence*. If in the language of life that is called *possible* which one indeed cannot reject as a *so-called thought*, but which yet is not *present* in one’s consciousness by means of any determinate representation as that for which it is given out: then in that very same language one calls that
+
+[p. 138]
+
+*actually existing, asserts or maintains* it, which one not only cannot reject as a *so-called* thought, but also has *present* in one’s consciousness in a determinate representation, be it one’s own apprehension or testimony, be it true or false. And in *this* actuality of local presence in representations, which lies solely in a, *Kantianly* interpreted, asserting, a, *Kantianly* interpreted, maintaining, that it is one’s own apprehension or testimony, that it is true or false, as its *sufficient ground*, can a philosopher let it rest *there*, *where he*, by virtue of the thought of possibility—placed here in *one* class with existence—would have had to give information about the *thought* of an actuality in general? Hence *Kiesewetter* above needed so many epithets in order to screw an assertoric judgment up to an apodictic one; hence it had first to become a *universally* affirmative one, i.e., if it is to have a sense, a *universally-affirmed* judgment, before it could pass over into a *Kantian*-apodictic one. If, finally, one analyzes an *apodictic* judgment, there is supposed to be found, as its primal form, a certain category of *necessity*.
+
+[p. 139]
+
+This necessity is now represented partly as an existence given through possibility itself (p. 111), partly as something sprung from the connection of existence with possibility (p. 110). If one now does not divide it (as happened above, in order to become master of the confusion) into two necessities, of which the one has local vanishing, the other local existence as its basis, but takes it, as is fitting, only as one and the selfsame in thinking: then *Kant*’s idea of a necessity, considered as *one* and the selfsame idea, destroys itself of its own accord. For an existence which is already given through possibility can certainly be no existence that should first spring from *a connection of existence* with possibility; (if something is already given in another itself, how can it then first spring from a connection of it with that other still to be undertaken?) But now, according to p. 111, necessity is nothing other than the existence which is given through possibility itself; consequently it cannot, without contradiction, any longer, as occurs on p. 110, be represented as something sprung from the connection of existence with possibility.
+
+[p. 140]
+
+We wish, however, once for all to assume 1) necessity to be nothing other than an existence given through possibility itself: then this existence is either a (*local*) existence, or an actuality (as *thought*). If it is, as *Kant* assumes, a (*local*) existence: then necessity is thus an existence, (*local*), given through possibility itself. But now an existence (*local*) given through possibility itself is a local non-existence (as regards the *present*); consequently necessity, as an existence (*local*) given through possibility itself, would be a local non-existence (as regards the *present*), a shadow = 0, since with it, it is indisputably certain, actual intuition is over and done; hence *Kiesewetter*, quite in the spirit of this *one half* of a *Kantian* necessity (the *prius* thereto he did not know), l. c. p. 56, reminds us: “the negative judgments cannot be problematic, and the *universally negative* (i.e. the *universally-negated*, general) *assertoric* judgments are *apodictic*”, (like the shadow = 0, of which nothing more can be said with *indisputable certainty* than of
+
+[p. 141]
+
+an intuited actual object). —
+
+If, however, what *Kant* does not assume (in that he had already previously dispatched reality as a *form of thought*), this existence given through possibility itself is actuality (as *thought*); then necessity consists thus in an actuality given through possibility itself, in a *being*, which, as is well known, may first show itself in the *Critique of Practical Reason*, hence found nowhere any access in the table of categories or, as it would have to be called in German, table of thinking, as *being*, i.e. as a *thinking*. — We wish 2) to suppose (since this is indeed supposed to be the case with all classes of the categories according to p. 110, and so has the majority on its side anyway) that necessity, as the third category of its class, has sprung from the connection of the second of its class with the first, hence from the connection of existence with possibility: then this necessity has now either sprung from possibility *as something problematic*, and from existence *as something assertoric*, or it has not sprung from this. — If it has sprung from possibility as something *problematic*, and
+
+[p. 142]
+
+from existence *as something assertoric* (this *Kant* assumes); then it is a something which one could not reject even as a thought, and to which there was added besides the *presence* in certain determinate representations. Accordingly, however, it would be nothing further than again an *asserting*, resting on the *presence* of certain determinate representations, which could be either one’s own apprehensions or testimony, either true or false, and where, in order to become *Kantian-apodictic*, it would have to run out into the *Kiesewetterian* general affirming (into the *in confesso est* [it is conceded]). But if this necessity has not sprung from possibility *as something problematic*, and not from existence *as something assertoric*: then it can also have its ground neither in something problematic nor in something assertoric. If this necessity has its ground neither in something problematic nor in something assertoric: then it rests either not at all on possibility and existence, or it rests on possibility *as something non-problematic*, and on existence *as something non-assertoric*. Something that did not rest at all on possibility
+
+[p. 143]
+
+and yet was supposed to belong as a something (as object) in the system of world-beings, would be a contradiction; this necessity must accordingly rest on possibility (− B). Something that did not rest at all on existence would rest either on nothing and yet be supposed to rest on something, would hence again be a contradiction, or it would rest on existence (merely as nothing monstrable any more), hence on existence *as actuality* (B). If it is accordingly contradictory that this necessity should rest not at all on possibility, and not at all on existence (as *actuality* = B): then it must rest merely on possibility, *as something non-problematic*, merely on existence, *as something non-assertoric*. Possibility, *as nothing problematic any more*, but as absolutely *apodictic*, is what is thought itself, *as thought* (− B); existence, *as nothing assertoric any more*, but as absolutely *apodictic*, is what is thought *as a something thought*, i.e. as a something represented in thinking (B); consequently necessity rests 1) on what is thought itself, *as what is thought* 2) on what is thought, *as a something thought*,
+
+[p. 144]
+
+in a word on thinking, *as thinking* (A), on the object, *as object* (B − B). Necessity is merely the expression, now once put into general circulation, for what is *ineradicably* found in thinking *at thinking*, and in thinking *at what is represented in one thinking*, and *this* necessity (otherwise none, no mere *in confesso est* [it is conceded]) is *apodictic*; for it is given in possibility, as *nothing problematic any more*, but as something apodictic, in existence, as *nothing assertoric any more*, but as something apodictic (in *being*). — By this manner of developing the Critical chaos I hope to have made noticeable at the same time the obliqueness with which *Kant* has coupled existence with possibility. Possibility is pure thought; existence (with the possible opposition of a being-there, hence of a no-more-existence) is sense-work, appended in us, if I may so say, to the unalterable thought of an object, as soon as once C has been annihilated in thinking through A down to a B − B. If now an object comes before our senses: then the sense-impression which it makes on us finds the thought of the object,
+
+[p. 145]
+
+hence of possibility and actuality and of the necessity, enclosed in their thinking, already in place, and also joins itself, because it cannot be otherwise, equally to all three. Only then is it first left to *empirical* conditions whether we must also bestow upon this sense-impression, which, as object, is possible as actual, and actual as necessary, the (sensible) representation of a *local* actuality (of an existence e.g. as a human existence), or else the non-representation of a *local* actuality (of an existence e.g. as no human existence). In the former case we call, in the language of life, the representation, which in itself is always necessarily-possible, *now as representation*, necessarily actual, hence, *as non-representation*, merely possible; in the latter case, on the contrary, we call the non-representation, in itself always necessarily-possible, *now as non-representation*, necessarily actual, hence, as we are accustomed to say, *as representation*, merely possible. On the simple business of thinking, just described, as of an A posited in B − B, and of representation, as of a light (with its gradations,) or of a shadow (with its gradations) for animal becoming-conscious, rests the whole essence of demonstrating
+
+[p. 146]
+
+on the one side, of pointing a finger (monstrating) on the other. What is *still material-containing* sense-work cannot be demonstrated; what is a matter of thinking, *as a matter of thinking*, cannot be monstrated. That one could not demonstrate the existence of things outside us in philosophy, and where one was wise never wished to demonstrate it, before *Kant* also made this great discovery (Preface to the *Critique of Pure Reason*, p. XXXIX), came about because it is something monstrable, but just for that reason nothing demonstrable. *Kant* is by no means of this opinion. To him it remains always “a scandal of philosophy and of universal human reason, to have to take the existence of things outside us, from which we after all have the whole material for cognitions even for our inner sense, merely on *faith*, and, if it occurs to anyone to doubt it, to be unable to set against him any *satisfactory proof*.” Here the case, perhaps not rare, occurs that a *scandalum acceptum* [scandal taken] is the worst *scandalum datum* [scandal given], at least on the part of a master in philosophy. Yet this was consistent for the first, partly crude, partly pure, *philosophy of intuition* in the world, for a philosophy which, where it speaks of pure
+
+[p. 147]
+
+intuitions, remarks of God himself: “for *such* must all his cognition be, and not *thinking*, which always proves limits”, l. c. p. 71. It was consistent, once what is only demonstrable (God’s being) had been put in question by a philosopher as *monstrable*, conversely also to put in question what is only monstrable (the existence of a world of sense) as de*monstrable*. It could not well be expected otherwise, after the other specimens of a *Kantian* method of demonstration, as it went e.g. in his proof for the existence of an intelligible world, which we are to enjoy only *after* this life. May I be permitted to go into this proof a little, before more is added on demonstration. His major premise sounds *Stoic*: it runs:
+
+Good conduct and well-being must be together; in other words, in the thinking of a duty fulfilled there is already also included the thinking of a state of mind, corresponding to this fulfillment of duty that has occurred, as − B, (in which the *Stoa* then sought the sole purely human perfection or blessedness, the *finis bonorum*),
+
+[p. 148]
+
+Under this *Stoic* pure proposition of reason, as its *major*, *Kant* now sets the exact counterplay in a *minor* 1) *limiting* the assertion of the major premise, 2) empirical, thus destroys his major premise again as a pure, hence indestructible, proposition of reason; (for the limiting of a proposition of reason, instead of subjecting to it, as to an eternal rule, every *minor* in empiricism absolutely, is a lifting-off of its *universal* truth, hence a destruction of itself); in that he concludes:
+
+But now this is not the case in the present life (*Critique of Practical Reason*, pp. 207, 208); consequently there must yet be another world.
+
+Something like this might not have happened to a *Chrysippus*. No, the Stoic showed himself in his morals too as a logician. The proposition of reason remained for him what it is, an indestructible proposition of reason, whose truth the philosopher, as engaged in the judging of the world, had to hold fast against every suffering of the time (through circumstances), and, as an active sage, to realize through his whole manner of acting, in that he assumed the fulfillment of duty absolutely and without any other regard as the standard of the greatest possible perfection for man, *as man*, unremittingly
+
+[p. 149]
+
+and in this regard should never separate the *utile* [the useful] from the *honestum* [the honorable]. Cicero reminds us (*Off.* III, 3): *Socratem execrari solitum eos, qui primum haec (honestum et utile) natura cohaerentia, opinione distraxissent* [that Socrates used to execrate those who first severed in opinion these two (the honorable and the useful), which are coherent by nature]. So did the *sophists*, and so did *Kant*. On both sides it went by way of fallacies. — But to return to the above: the question arises: can the existence of things outside us really not be demonstrated? *Postulated*, so that we can think something, but by no means *demonstrated*; for 1) what can only be postulated is for that very reason indemonstrable, 2) demonstrating consists precisely in this, that one must annihilate for someone his intuitions about a given object of sense, as *mere intuitions of a certain material*, in order to bring it back, notwithstanding that it remains an object of sense for itself, as purified of the material, only in its *form*, hence solely in the *necessary* components which cling to it as object of sense *ineradicably*, to A in B − B; *pointing*, on the other hand, consists in this, that to the object B − B one in turn ascribes a determinate C in intuitions (or apprehensions):
+
+(A + C) posited in (B − B + C)
+
+[p. 150]
+
+would thus be *pointing*, (monstrating, but not *dismissing* from the monstrable, i.e. not de-monstrating). But now nothing that is matter, *as matter*, can be taken up into a thinking: consequently *this* C too, *as matter*, must be annihilated in thinking, i.e. become a *thought*. If, however, *this* C is yet, *as* thought, to be distinguishable from B − B: then, besides what already lies in B − B, something must still adhere to it *as this C*, which makes it precisely a thought *of this C*. One comprehends that what thus adheres, in order to make it into *this* C in a thought, cannot lie in thinking itself, *as a thinking*, and, if it does not lie in thinking, yet *as matter* can just as little pass over into a thinking, as any C *as C*. What thus adheres must therefore pertain to C *as this C*, so much is clear; but it cannot pertain to it considered as mere material, cannot lie in it itself, considered as *mere material*, so much too is clear. If it must pertain to C *as this C*, and yet cannot pertain to it, considered as *mere material*: then it must pertain to it insofar as the material has been purified down to its form. This happens in the object, wherein the material
+
+[p. 151]
+
+has been annihilated down to the form of its juxtaposition, or down to extension, and down to the form of its succession, or down to alteration in itself and without further alterability. But this very thing we already have indeed in B − B, and what we are *now* seeking is a *plus* to B − B. A *plus* to B − B, which is to be neither a thinking, *as thinking*, nor a material, *as material*, seems, under the presupposition that in B − B extension too together with alteration without further alterability is already given, to be a perverse thing, which promises one, as to its existence, to point to Utopias. We simply cannot take any material into a thinking, i.e., as has already been often reminded, into the necessary representation of the object, as object in general, which is henceforth ineradicable for a thinking; this our investigation has stated so far. We may therefore not do so now either, for the sake of this *plus*; recall the syllogisms just built on that investigation. What counsel, then, with this *plus*? — It must turn up, if we recall to ourselves the manner and way in which it came about with the object above; for it is indeed once again a matter of an object, only with the difference that it is now to become a *this object*. Without a
+
+[p. 152]
+
+succession independent of it, our thinking would, as we saw, never arrive at an object, and without the inner life-impulse, ineradicable by thinking, *as thinking*, never arrive at a succession. But with this inner life-impulse is given merely the making-noticeable, ineradicable by thinking, of a certain determinate privation (feelings, drives, etc.); consequently merely a determinate *Minus* (subtraction) is laid down for the reception of a *Plus* (of an addition) in our animal becoming-conscious. In other words this means: the inner impulse, provided with the object at which it aims already by means of a *Minus*, i.e. *through a privation of it*, demands still something, adequate to it, active *externally*, equally ineradicable in thinking as it itself is. Besides the alteration from within, essentially required for the possibility of the application of a thinking and not to be altered by it, we should thus now also have found, as unavoidable, a determinate alteration from without, essentially required for the possibility of the application of a thinking and not to be altered by it; both of which can then very fittingly attach themselves to the likewise inalterable object (in B − B). Only the question is what this *external* alteration
+
+[p. 153]
+
+is to be, and in what it is to consist? In a determinate apprehension or sensible representation, as *this* representation, with this determinate, and *as for this* now inalterable juxtaposition, and *as for this* now inalterable succession. This apprehension, as act of a determinate sensible representation in our animal becoming-conscious, can with its essential determinations be as little eradicated by thinking, *as thinking*, as the life-impulse with its essential determinations; for otherwise one form would annihilate the other (an act, subsisting for itself, of an ineradicable *modus* would become an act, annihilated by another, for itself subsisting act of an ineradicable *modus*, hence an act of eradication on something ineradicable). If it cannot be annihilated as act: then there is thus in C, *as this C*, something that must be taken up into thinking, namely the act of its representation, as *this* representation; and the inalterable in a certain C, whereby it becomes suitable as *plus* for a B − B already ineradicable in itself, is hence the act of its representation in an animal becoming-conscious, as *this* representation, determined by a juxtaposition and succession given in it. If this act *must*
+
+[p. 154]
+
+be taken up into thinking: then the way is found out on which, notwithstanding the unavoidable eradication of the material in a certain C, in order to take it up as *this* C into a thinking, there can then, after its passage into a thinking has taken place, again attach itself everything that clung to it in the organs of conception of our five senses, and in our animal consciousness (not in thinking) may remain hanging, empirically-persistently, under manifold change, also for the future. This latter, namely, is merely a multiplicity in the manner of the existence of a material, given to us through our five senses as organs of conception, such as the seven primary colors, the seven primary tones, the simple impressions of feeling, smell and taste, which are anything but concepts (*perceptiones* or indeed *notiones tantummodo claræ* [perceptions, or indeed merely clear notions]) but rather a positing of our thinking (through B − B) into the original elements, ineradicable by our animal becoming-conscious, (sensible beginnings) of the multiplicity, under which the manner of existence of a material is given to us alternately through our five senses, and which are therefore forced upon our animal consciousness, as belonging to the existence of a material for us, by impulses from without,
+
+[p. 155]
+
+without our animal consciousness being able to eradicate them. But since they, the act of the impulse excepted, are yet eradicable in thinking in general, and yet no form can eradicate another; I must conclude that they are actually that *alterable something* in the material for me, in short that they are changing *affections* (*modi* in *existence* for my becoming-conscious, not ineradicable *modi*, as I have hitherto taken them, *not modi of being*), hence merely changing affections of the material *as material*, which in my (empirically-) persistently deposited image of certain objects of sense may have to be decorated now thus, now otherwise; hence they then also come to need a pointing of the finger or touching (in particular when the bloom of life is past) repeated from time to time, in order not to pass over too suddenly from the light, which they are for an animal consciousness, into a shadow for the same. *This* sense-work would thus be the *plus* of pointing at something extended, in order to fix it for conception in an animal becoming-conscious, would be the foundation of what *Kant* calls synthetic judgments *a posteriori*, the bare material in C, which hereby appears
+
+[p. 156]
+
+duly separated from our *plus*; in that our above formula for pointing,
+
+(A + C) posited in (B − B + C)
+
+has now resolved itself into the *formulas*,
+
+I) (A + C) posited in (B − B + a determinate something, inalterable for that which lies before the senses, of an alteration and extension without further possible alteration in that which just now lies before the senses, *insofar as it just now lies before the senses*); to which then attaches itself again,
+
+II) (A + C) posited in (B − B + an alterable something).
+
+To point at the latter is called *pointing* or *Kantian* demonstrating; the former formula, however, grounds every kind of actual demonstration. We must therefore still dwell on this. Meanwhile I will for now merely remind in passing, 1) that the *plus* of a determinate something, inalterable for that which lies before the senses, of an alteration and extension without further possible alteration, in the former formula, gives the representation of a *substance* (*ejus, quod rebus substat* [of that which underlies things]), which by the *logician*, brought over from metaphysics, and referred merely to the thought-work on it under B, is called *subject*
+
+[p. 157]
+
+called, and which, under the − B, takes on a predicate; (but if − B, e.g. in virtue, is made subject, then this − B is related under B to a substance, e.g. virtue was the character of Socrates); 2) that in every possible *empirical* judgment (hence also concept), let it have for a quantity, quality, relation and modality whatever it will, the first formula must be expressed, and that it exhausts therein what is properly *formal*, hence *logical*; 3) that every possible *empirical* judgment, insofar as the first formula is expressed therein, is *analytic*, insofar as the second is expressed therein, is *synthetic*, consequently the beginning of the *Kantian* critique too in this respect consists in the beginning of an unpardonable superficiality in Germany’s newest philosophy. But as for the grounding of the whole business of demonstration through the formula of No. I, this will be clear from the following analysis. The object is (as A in − B) thinking itself without possibility of an extension or alteration. The object is (as A in B) extension itself without further possible alteration of the extended. The object is (likewise as A in B) alteration itself without further possible alteration of the alterable. Thinking lets itself, in extension and alteration, *as something*
+
+[p. 158]
+
+*further unalterable*, be posited absolutely. Extension lets itself be posited in alteration, so long as the latter is still something alterable (material-containing), *as determining it*, until the alteration becomes unalterable (in the object or in *this* object as thought), and extension itself proves to be an alteration of the extended no longer to be altered. Alteration lets itself be posited in extension, so long as the latter is still something extended (material-containing), *as determining it*, until the extended (as *material-containing*) is annihilated in thinking, and the alteration of the alterable, no longer to be altered, proves itself to be an extension. Thinking can accordingly be applied to an extension, *as extension*, without altering itself or it, to an alteration, *as alteration*, without altering itself or it. Extension can be determined in a thinking, by means of the thinking’s becoming-posited in it, without the thinking altering itself or it. Extension can be determined through an alteration (not of extension itself, *as extension*, but of the extended, material-containing), without the alteration, as alteration, altering itself or it as extension; (this is the plus of the formula under No. I). Alteration can
+
+[p. 159]
+
+be determined through an extension, without the extension altering itself or it; (likewise the plus of the formula under No. I). An extension determined merely through an alteration (not of extension itself, *as extension*, but of the extended, material-containing), without the alteration altering itself or it *as extension*, would be a certain determinate, for thinking as thinking ineradicable, hence, upon the positing of a thinking in it, just as it itself is ineradicable, so also in everything that would be thought in it (in everything − B in it) an ineradicable, i.e. necessary something, which would furnish nothing but the apodictic or necessarily-to-be-thought for a thinking. An alteration determined merely through an extension (without further possible alteration *pro eo, quod substat* [on behalf of that which underlies it], like the figures of geometry, or the conductors of my thinking in reading, the letters as well as numbers), without the extension altering itself or it, *as alteration*, would be a certain *determinate*, for thinking, *as thinking*, ineradicable, hence, upon the positing of a thinking in it, just as it itself is ineradicable, so also in everything that would be thought in it, (in everything − B in it) an ineradicable, i.e. necessary something, which would furnish nothing but the apodictic or necessarily-to-be-thought
+
+[p. 160]
+
+for a thinking. Herewith we would now have the apodictic completely out, not of geometry in general only, but *also of every particular geometrical figure*. Such a figure, e.g. the square of my table *as square*, is nothing other than an alteration determined as unalterable in an alterable (material-containing) something, *pro eo quod substat* [on behalf of that which underlies it], by means of extension *as extension*; in short, the square on this table is *its* substance, (exclusively furnished with sensible *attributes*, everything else on this table are *accidents*) or the square on it is the determinate, for thinking, as thinking, ineradicable, hence, upon the positing of a thinking in it, just as it itself is ineradicable, so also in everything that is thought in it, (in everything − B in it) ineradicable, i.e. necessary something, which furnishes nothing but the apodictic or necessarily-to-be-thought for a thinking. Both formulas above describe to me the analytic course of my thinking herein. I begin, namely, with No. II, (A + C) posited in (B − B + an alterable something); (this plus of the monstrating, e.g. the color or the cleanness, the size or smallness of the strokes in a geometrical figure, must, *as a matter*
+
+[p. 161]
+
+*of the monstrating*, be eradicated in thinking *when demonstrating*); and I end with the formula under No. I.
+
+(A + C) posited in (B − B + a determinate something, inalterable for that which lies before the senses, of an alteration and extension without further possible alteration in that which just now lies before the senses, *insofar as it just now lies before the senses*).
+
+That the first formula had to be set up merely for the sake of analysis, and that *its* plus, when it comes to thinking, becomes an eradicated plus, hence a minus, as the second formula shows, one sees without my reminding. But should this minus nevertheless not dawn here and there: then I have nothing further to do than to refer each one to his own becoming-conscious as a human being; how would it be possible that he could ever arrive even at this consciousness if the thousand-wheeled machine of which his physical being consists were not eradicated in his becoming-conscious, *as a becoming-conscious*, i.e. notwithstanding that it is the plus of his existence, did not become a minus in his consciousness, and if, insofar as he becomes conscious of himself as a human being, something else remained over besides the (A + C)
+
+[p. 162]
+
+posited in (B − B + a determinate inalterable something of an inner as well as outer impulse, together with all that which it, as impulse, brings with it *of the inalterable* from both sides)? But this is our formula under No. II, applied to a human becoming-conscious in general in its *specially* (no longer merely, as under the previous §., *generally*) considered activity. For what must necessarily be the case in every possible *animal* becoming-conscious, (as we considered the human under the previous §.), that the plus of the material, *of which the animal individual itself consists*, in its consciousness, *as consciousness*, becomes a minus of the material, that happens in an animal becoming-conscious *under a thinking* (under A), which is for that very reason called a *human* becoming-conscious, *through thinking, in everything that is to be thought, everywhere*; otherwise it is nothing thought.—But how, if now the plus of the alterable something of the second formula were in certain cases of such constitution that it came to one here and there in life first, perhaps only twice or thrice, though not in an equal and identical way, (this would be impossible in the material as material; *principium indiscernibilium* [principle of indiscernibles]), yet in a *similar* way, in a
+
+[p. 163]
+
+way, then, which is a consequence of our imagining-into the world, of our animal becoming-conscious, occurred; and our animal becoming-conscious recalled (through a faculty of memory) the second and third time that it occurred in a similar way, that alterable something of the second formula into itself: then we should perhaps have the advantage of subsuming absolutely under that first formula this second and third also, similar to that one, hence *of comprehending a manifold in One*, consequently also, for a whole row of similar apprehensions, of being able to *demonstrate out* everything that may follow absolutely from that first formula. The advantage is here touched upon only as a *Perhaps*, i.e. not yet as something thought, i.e. not yet as something furnished with its *prius*. Where, then, would a *prius* (no induction) be found for the extinguishing of the unphilosophical *Perhaps*? Had we for the similarity of our twice and thrice recurring case, as *this* similarity, thus as something merely left hanging in our sensible organs of conception, also yet an *equality* deriving from elsewhere: then that *Perhaps* would here be outlawed. But now the equality can lie in nothing but either in the form of thinking, or in the form of the material. What we seek is equality of a form for
+
+[p. 164]
+
+*our thinking*, not equality *of the form of our thinking*; hence we are, with the equality which is sought, referred first of all to the form of the material. Equality (identity) in the form of the material is equality in alteration, *as an alteration*, without further possible alteration *pro eo quod substat* [on behalf of that which underlies it], and is equality of extension, *as extension*, without further possible alteration of the extended, other than that which found itself enfolded in the first-posited plus of the alterable something of the second formula. Where, then, in the plus of a second and third alterable something (on beholding the second and third tulip, after we have seen a tulip the first time), our sensible organs of conception indicate similarity of the twice and thrice recurring case with the first, and there is added in the second and third case to that similarity equality in alteration, *as an alteration*, without further possible alteration, *pro eo quod substat*, and equality of extension, *as extension*, without further possible alteration of the extended, other than that which found itself enfolded (for a thinking) in the first-posited case of a certain alterable something, there our first formula fits not only for the first,
+
+[p. 165]
+
+but also for the second and third case, i.e. we now have a *concept*, or a complexion of sensible marks, indeed of a whole row of sensible apprehensions, which can all be demonstrated out apodictically from precisely the same plus of the first formula, without their being monstrated. But since the matter hereby begins to run out into the greater, the brevity needful for overview counsels, first of all, only a shorter formulation of our formulas themselves, but, in view of the importance of the subject, a recapitulation *as distinct as possible* of the essential points of our prius, so as to bring it as near to the capacity of each as can be done. As for the former, we can now, to that end, sum up what is found under
+
+#### No. I. in the following letters
+
+#### (A + C) posited in (B − B + b)
+
+#### and what is found under
+
+#### No. II. in the letters
+
+#### (A + C) posited in (B − B + c)
+
+together. (A + C) posited in (B − B + c) becomes for me in thinking = (A + C) posited in (B − B − c) i.e. in thinking = (A + C) posited in (B − B + b). From the *letters* tulip = (B − B + c) there arises in me the *thought* tulip
+
+[p. 166]
+
+= (B − B − c) = (B − B + b). If I then see a tulip again, and my organs thereupon call back into my animal becoming-conscious that which of the first remained hanging in them, and I find a *similarity* forced upon my animal becoming-conscious thereby: then I now have (A + C) posited in (B − B + c + c), and at the third return of the same case I have (A + C) posited in (B − B + c + c + c). But in thinking all these (+ c) persist only as One and precisely the same (A + C) posited in (B − B + b). How comes this?—I permit myself here first only to ask *analogically*: whether not also all objects in thinking persist only as One and precisely the same object? I conclude then further; but now my tulip is in thinking wholly and entirely an object; consequently it too will have to persist in thinking as One and precisely the same object. Only now again the difficult *This*: gets in one’s way; for the question is indeed properly no longer directed to the persistence of the (B − B), but of the (+ b) added thereto, as one and the selfsame (+ b), in all possible cases of its use.—Once one has done with the *This*: one has done with it once and for all, or else there was no doing with it;
+
+[p. 167]
+
+one missed the prius. A missed, i.e., as it is called, *false* prius (*no* prius) however does not hide itself: that is what *Kant* proves throughout, and proves it still near the end of his speculative career in his *animal* first principles of a doctrine of right, which he, to the mockery of reason, calls *metaphysical* first principles of the same. Our second concern must therefore now be a recapitulation, as distinct as possible, of the essential points of our prius, so as to bring it as near to the capacity of each as can be done; what for our (+ b) follows from it will then attach itself of its own accord:
+
+A *as* A C
+
+In A, *through* A Outside-one-another,
+
+Juxtaposition-succession.
+
+#### Through (A + C) arises
+
+#### an object = B − B.
+
+In the object there arises a succession without further possible succession, other than the being-in-succession itself in the life-impulse, i.e. there arises an alteration without further possible alteration, or without all further alterability.
+
+An alteration, (or an altered), without further possible alteration, without all further alterability, is one, into the state of
+
+[p. 168]
+
+privation, of the emptiness of an alterable, (into the state of a minus) transposed alteration.
+
+An alteration, (or an altered), without further possible alteration, without all further alterability, is, however, also extension considered in itself and without adhering material (without an extended), for what can be altered in the extension is never it itself, *as extension*, but *the extended* as an extended something: if one therefore does away with this something: then one has in extension the only thinkable alteration without further possible alteration, or the only thinkable altered without all further alterability, after the material has been separated from it.
+
+If we therefore have in the alteration without further possible alteration something transposed into the state of privation or emptiness, hence in this respect a minus: then we have on the other side in it also something positive, a *plus*, i.e. extension in itself and without adhering material.
+
+Where, accordingly, it comes to an alteration without further possible alteration, as something *Negative* (a minus), there it comes at once
+
+[p. 169]
+
+to extension in itself and without adhering material, as something *Positive* (as a plus).
+
+Where it comes to an alteration without further possible alteration as something Negative, as privation and emptiness of an alterable, there the alterable will *necessarily have to* attach itself, because otherwise it would come down to the ceasing of a succession, hence to the annihilation of a form, which, nonetheless, in the minus of an alteration without further possible alteration, could have prepared for itself nothing other than a means to the eternal continuation of its form under multiplications of the same in its unity.
+
+Where it comes to an extension in itself and without adhering material, as something Positive, there extension *must* determine the alterable which attaches itself necessarily to that alteration without further possible alteration, just as it was determined beforehand through an alteration without further possible alteration, i.e. made into extension without something extended.
+
+A juxtaposition and succession determined in an alteration without further possible alteration (after a self-returning
+
+[p. 170]
+
+motion) through extension, *as extension*, is called *organism*
+
+If this happens through *the extended*, then one calls it *mechanism*.
+
+In organism, accordingly, the form of the material multiplies or manifolds itself, without, *as form*, becoming or being anything other than it is, indeed without further variety (capability of multiplication) *as form*, except that which is ineradicably situated in the three dimensions of space, and *by means of this* is still possible in the material, *as material*. This gives the geometer his trichotomy, as the acknowledged pure basis of his science in angles, triangles, etc. Has the investigator of nature still to seek it for organism?—
+
+In the object (B − B) organism (in its possibility) is therefore given to us; but the object itself has become for us only under a thinking (as immovable center). *Only under a thinking*, therefore, can organism also become; = (A + C) *as* A, *in* A, *through* A, posited in B − B + b; *purposes, ends, God!* (*Monas monadum* [monad of monads], *Ens realissimum* [most real being] with the immortal *Leibniz*; physico-theology).
+
+[p. 171]
+
+Every plant is for thinking beings a revelation. That the sun is shining at present is a mere *in confesso est* [it is conceded], in the *eyes* of all human beings; a divine being is to me *apodictically* already revealed *with and at thinking*; (the objections which one will make against *this* on the strength of my above assertion, that thinking can posit nothing outside itself, I foresee; but I shall answer *such* objections with nothing, and merely ask: *whether one grants a certain fact, as fact*, or not? Fact is not philosophy, and philosophy not fact.
+
+The form of the material itself is accordingly at once, *as form, the multiplicator of itself* under a thinking *outside us*, without altering itself as form in the least, and under a thinking *in us* this multiplicator gives itself to us as standing and equally inalterable, like the (B − B) itself, through a (+ b), which still comes to B − B, = 1 + 1 + 1 = 3. Now, with these three there, we have also come out completely at the individual and yet whole, which takes in all rows, as before at the possibility of the All of the rows in 1 + 1 = 2.—The variety in the unalterable, determined through
+
+[p. 172]
+
+an unalterable in the alterable material, *as material*, begins. The first *One* is the *prius* κατ᾽ ἐξοχήν, the second *One* is the *ground* (*fundamenti loco ponendum, s. id quod omnibus rebus substat, quatenus omnibus substat* [to be put in the place of a foundation, or that which underlies all things, insofar as it underlies all]), the third *One* is the *cause*; what the material, *as material*, supplies, are merely conditions (*conditiones*) for animal becoming-conscious, in order to return in a thinking to the cause, then to the ground, and finally to the *prius* κατ᾽ ἐξοχήν. But the cause cannot be taken up into a thinking, *as a thinking*, i.e. *demonstratively cognized* (better: *cognized absolutely*), without the ground, the ground not without the *prius* κατ᾽ ἐξοχήν, (logic not without metaphysics). What one has therefore hitherto given out in philosophy as causes were not the *cognized cause*; (otherwise the *sufficiens*, as a shaming pleonasm, which even the language of life here and there avoided, would surely long since have been banished by philosophers too from the *principio rationis*; for *ratio* is either *ratio* or it is none, to assert a third, hence a *sufficientem rationem*, means not to understand oneself, in that one imagines oneself to have a principle and yet, with it, is stuck among
+
+[p. 173]
+
+the *conditionibus* of the material). What one has therefore hitherto given out in philosophy as causes were not the *cognized cause*; and what then? Answer: *a, inductively* raised to *omnitudo* or *universalitas* in similar cases, complexion of sensible (i.e., as I shall no longer be allowed to explain, *not yet purified of the material*) apprehensions in the empirical-persistent of an animal becoming-conscious, to which the *cause* (hence the + b) was lacking, in short, it was merely the sensible shell of the (+ b), under the name of *forces*, with which one began with the force of thinking and understanding; (the *Kantians* were here again subtle; only in their doctrines of the soul was there an understanding as *force*, in logic it was transformed into a *faculty* i.e. merely into the ground of the *possibility* of a faculty of cognition). For what, among the *conditionibus* for animal becoming-conscious, was found inductively, as *conditio sine qua non* for all others in similar cases, one calls *force* (force of feeling, force of sight, electricity), and then speaks in the end still of a *fundamental force*, as the *conditione sine qua non* for all preceding. But has one also already considered that this fundamental force either is no force any more, consequently also no fundamental
+
+[p. 174]
+
+force, or, if it is still a force, likewise again the shell around the kernel, i.e. a complexion, raised to *universalitas*, of sensible (still material-containing) apprehensions, hence a *petitio quæsiti* [begging of the question], without the (+ b) without the *cause*? (Has *Kepler* perhaps discovered the simple and general law of the heavenly motions *out of a force*, and when his pupil *Newton* founded his *general* attraction on the *Keplerian* discovery, was it this attraction, *as a force*, or was it not rather the *Prius*, once found by *Kepler*, upon which *Newton* went on to infer? No, the former it was not; for *Newton* himself indeed considered his attraction merely as a *phenomenon*, and this is precisely what we want here). Not the force, call it fundamental force or what one will, produces organism, but organism (the + b) produces the force, as it then reveals itself in an animal becoming-conscious, conditioned by the material. Mechanism cannot, without (in thinking) presupposed organism, be thought, any more than an extended without extension; (this latter proposition, by virtue of which mechanism presupposes organism, or, in other words, *mechanism through organism*
+
+[p. 175]
+
+*is first made possible*, I have long clung to so firmly, that I finally sent the much that I had written down about it to one of the greatest German naturalists for his inspection; now I can *demonstrate* it to myself in few words). How bottomless the confusion must become there, where one wants to apply *Kantian* philosophy to higher, i.e. prius-endowed, physics, imagines oneself to be seizing *principles*, and gropes about in the material and among intuitions, hence in all cases, (let one hang out one’s *world-soul sign* ever so promisingly, in place of the abandoned inn “*At the I*”), begins and ends with sheer force,—how bottomless, I say, the confusion must become *there*, is evident of itself. (A pity that the writer whom I mean here let the scholar in himself, for which he was born, be spoiled, and chose a career in which he is made merely for parroting and exaggerating, hence for paradoxes; in *this* region to bring it, by means of his own or foreign eyes, finally to half-seeing, is worse than being blind. Cf., e.g., what is asserted in the *Ideas for a Philosophy of Nature*, p. 128 ff., *on the origin of the concept of matter*, in particular p. 131, 139, 140, 141, and
+
+[p. 176]
+
+if a rational person finds a sense in it, I wish to have said nothing.)
+
+This multiplicator, this standing unity in the many (in the variety of the form, possible through the three dimensions of space, without altering itself *as form*) is the *Facit*, become ours through our thinking, of a thinking *outside us*, which we now, as made, in a (+ b), into the *Facit* of a thinking *in us*, (in the animal I) and as thereby *understanding* nature, call our *understanding*, which gives us consequently, according to the doctrine of *thinking in general*, and according to the doctrine of the *object in general* or the *doctrine of primal division* (Ur-theilung), the plus mentioned above (§. 10. Rem.) to a *doctrine of understanding*, or to logic, so called hitherto. With omission of all other, not exactly very weighty, inferences, we turn therefore now merely again to logic, after its prius (its cause in the + b) has been completely (demonstratively) settled for it too, as logic so called hitherto, and the unalterability of this (+ b), as the necessary consequence of a form multiplying itself in the material (under A) without any alteration of itself, has been found.
+
+We remained above at the (A + C) posited in (B − B + c + c + c), which becomes, *as thought*,
+
+[p. 177]
+
+(A + C) posited in (B − B + b). That is a threefold apprehension; this, one and precisely the same thought in a threefold apprehension, hence, *for the sake of the threefold apprehension*, a *concept* as thought. Into this concept *as thought* we then multiply also, furthermore, the fourth, fifth (+ c) etc., the fourth, fifth tulip etc., arrive thus by this way at an *omnitudo* of complexions of sensible marks under *one* (+ b), *one* thought, at the *genus*, in which we, in the *major* of a syllogism e.g., take up a certain sensibly given property of all tulips, in order to be allowed, in the *minor*, merely to undertake the *division* of the major with a single tulip, and then immediately in the conclusion to be able to *demonstrate that property upon it unseen*, provided that this sensible property in the alteration without further possible alteration, hence in the (+ b) of the tulip, as often as we yet saw a tulip, in our animal becoming-conscious (not in thinking) as *every-time* affection of the same (as an in all cases ineradicable impulse) at the sight of a tulip remained empirically persistently hanging, belonged consequently to the *sensible* attributes (*conditionibus, sine quibus non*) of the tulip, which, as above
+
+[p. 178]
+
+was said of my table, finally clung to its substance, hence in the first place also to the (+ b) applied to it, not as sensible *accidents* but as *their* sensible attributes, and are therefore also quite rightly regarded by us as the marks of their *cause*, *as a tulip*. The *species*, *subspecies*, *varietates* of tulips, on the other hand, are the *latitudo* described above in the manner of *existence* of a material, which, with the exception of the impulse in a *present* presence before us of a certain tulip, as an object of the senses, are eradicable in a tulip in general, hence belong to the *accidents* of the tulip, and make the logical proposition *absolutely cognizable* to me (*demonstrate*, not merely register inductively), that everything that holds of the *genus* (the universal) must also hold of the *particular* that stands under it, whereas what holds of the particular need not on that account also hold of the universal, i.e. that (in the order of our cognizing) *the accidents are necessarily determined by the attributes, but not the attributes by the accidents.* But the question is: what sort of sensible attributes will those be which, necessarily applicable to every tulip, cling empirically-persistently in my animal
+
+[p. 179]
+
+becoming-conscious of a tulip? 1) that the alteration without further possible alteration is, in it, bound to a certain *germ* (*genus remotissimum* of *organic bodies in general*, which must be included along in the *genus* of tulips as sensible attribute of each and every organic body) 2) that this germ presents the shape, size (*juxtaposition* in an extended something), mode of development (*succession* in an alterable something) of *plant germs in general* in my animal becoming-conscious (*genus remotius* of *plants in general*, which must be included along in the *genus* of tulips) 3) that this germ deposits roots and stalk, a calyx, stamens, anthers, a pistil and a stigma (*juxtaposition* in an extended something), a growth (*succession* in an alterable something), in my animal becoming-conscious, as flowers in general are wont to deposit all this therein (*genus proximum* of *flowers in general*, which must be included along in the *genus* of tulips), that finally 4) the ineradicable impulse, at each sight of a tulip, makes my animal becoming-conscious, in that which was named under No. 3,
+
+[p. 180]
+
+still further sensible differences noticeable, which are forced upon it nowhere else among flowers, but among tulips always; *genus* of tulips, determined by sheer complexions of sensible marks in animal becoming-conscious under the standing inalterable (+ b), which in us as outside us designates the *cause*, is called there *understanding*, as standing multiplicator, here *organism*, as standing multiplicator. This different naming, however, as will become sufficiently clear from what precedes, is a mere ἓν διὰ δυοῖν; for just that (A *as* A, *in* A, *through* A) *in us*, posited in C, gives us a (B − B) as object in general, and a (B − B + b) as *our* object, with the appendage of *our* life-impulse, *our self*, and gives us, after eradication of the material in similar beings outside us, an (A *as* A, *in* A, *through* A) posited in (B − B + b) to be cognized in similar beings *outside us*. I cannot be plainer; I believe it is enough *for an Outline*: every monad is a mirror of the universe, said the great *Leibniz*, admittedly still very poetically, — *and broke off*. Only the sensible attributes still require, for the time being, an elucidation before one can proceed to further inferences. For it seems as though we ourselves
+
+[p. 181]
+
+let one form be annihilated by the other, in that we, e.g., in thinking of a flower in general, expel the sensible attributes of the tulip genus from consciousness. It seems so; but is not so. I ask you, first, not to leave out of account the *sensible* in these attributes; and then, what is meant by a *sensible* attribute of a tulip? That which, at *each* apprehension of a tulip, returns in it as ineradicable impulse for animal becoming-conscious, and just on that account is made by us its *conditio, sine qua non*. Now, however, we already gave to the simplest impulse ineradicability for a thinking; consequently surely also to the repeated one. Only the impulse of another flower, in the *ineradicable succession of our representations*, whether this occur in the faculty of recollection or at the sight of it, is no longer the impulse of a tulip, as regards what is material-containing in the impulse, and where something, by virtue of the altered impulse in the *ineradicable succession of our representations*, as regards what is material-containing in the impulse, drops away of itself already, there it cannot, and hopefully need not, first be annihilated. More important than the removal of this easily foreseeable objection is what
+
+[p. 182]
+
+can be inferred from the attention hitherto paid to the sensible attributes, for the *demonstrative* constitution of syllogisms. That the *omnitudo* drops away in the object in general, as in thinking itself, has been shown. But it drops away also in the (+ b) considered in and for itself, and in sensible *attributes*, as its immediate clothing in a certain material, hence in the *genus*, or, where it is posited in this case, it merely takes the place of the *genus*, e.g. *all* tulips grow. The *genus*, or its representative in this case, the *omnitudo* (better: the *universality*), as exponent of the multiplication, already accomplished, of certain sensible apprehensions into a (+ b), constitutes, with its sensible attribute just now brought up, the one *terminus* (= x) of an (in empiricism) *demonstrative* syllogism, and gives the *dividendum*; the isolated apprehension (in the *minor*) constitutes the other *terminus* of the same (= y), and gives the *divisor* ( − B + b in x B in y ). The *terminus* of the universality of an attribute, cognized through ( − B + b in x B in y ), hence through the understanding posited in a
+
+[p. 183]
+
+certain apprehension, also as *terminus* of the individual (by virtue of the assertion of an All = so), is hence the essence of an (in empiricism) *demonstrative* syllogism. Where therefore the *terminus* of universality (x = − B) is an attribute = n, and the *terminus* of the individual (y = B) is an attribute = n, there the *terminus* of universality (x = − B) is also the *terminus* of the individual (y = B). Every (in empiricism) *demonstrative* syllogism rests accordingly *formally* merely on two *termini*, the *terminus* of the universal, cognized through an understanding posited in an apprehension, also as *terminus* of the individual. But how does it fare here with the old *Medius*, or, in our modern speech, indeed with the *middle concept*? It is, as *concept*, a pardonable excrescence of our previous *concept*- or material-logics, just as the *Kantian* concepts of reflection are, for a *Critique of Pure Reason itself*, an unpardonable excrescence of the same, in four pairs of new groping-machines of the human understanding, with which it grabs at the appearances and, with the assistance of the categories, seizes them right and left. Just look up the logics, and in particular the *Kantian* ones among them: one will become aware that there
+
+[p. 184]
+
+in the doctrine of concepts there is talk of a certain *Principio Indiscernibilium*, according to which two concepts that were altogether one and the same are not to be thought at all (*Jakob* l. c. p. 61). Now one becomes eager to learn how these logicians then explain 1) the *genus*, 2) the *Medius*? “A higher concept (see l. c. p. 64, cf. *Kiesewetter* l. c. pp. 32—35), which contains the common essential marks of a certain sphere of lower concepts, is called a *genus- or kind-concept*.” Thus *common, essential* marks already in lower concepts, and these common essential marks then for the first time all together again in the genus-concept, hence surely also *common essential* marks of the genus-concept; and yet two concepts that were altogether one and the same are supposed to be an absurdity? That would plainly make the *genus* come to an absurdity. For the common essential marks are either identical or not. If they are identical, then there are identical marks, hence also identical concepts (*Jakob* l. c. p. 50 § 111), and the *principium indiscernibilium*, asserted a few pages before the *genus*, becomes a contradiction in respect of *concepts*. If they are not identical, then
+
+[p. 185]
+
+has *common* and *essential* no sense; for what is *common*? What is *essential*, if it is supposed to be found in the one entirely as in the other, and yet is not identical, consequently here so, there otherwise? Non-common, non-essential it is in this way, and yet is supposed to be common, and supposed to be essential, hence it is a contradiction. Can one therefore, if one will not expose oneself to any contradiction, which in the end means no more than if one will not deny one’s humanity, posit the common, the essential, the identity, in marks, *as marks*, in concepts, *as concepts*, or must not rather the identity and the essence be sought outside the marks and concepts, in the form, *as form*, hence in the inalterable of the impulse in general, as an alteration without further possible alteration in *momentary* apprehending, but, in the thought and in the *genus*, in (A *as* A *in* A *through* A) posited in (B − B + b)? As little as in the form, *as form*, a multiplicity takes place, just so little does there take place in the material, *as material*, an identity, hence a common, hence an essence: this *Leibniz* once proved inductively on tree leaves in a garden, which, with the greatest similarity,
+
+[p. 186]
+
+yet showed no equality. The *Kantian* concepts of reflection are accordingly 1) as *concepts*, which are supposed first to make an act of the understanding possible, although concepts presuppose a thinking and an understanding, as *facit* of thinking, for their very possibility 2) as *multiplicities* of a thinking even outside the table of thinking, beneath all critique. Sameness or non-sameness, agreement or disagreement, connected inwardly or outwardly, formally or materially (and as material *realiter*?) connected, and all that in thinking *as thinking*; (for the concepts of reflection no longer even relate to the determination of an *object*, as the categories do): this is the first philosophy *of its kind* under the sun. But, so as not to forget the *middle concept*, it is supposed to be one of the three principal concepts of a categorical syllogism, to be a mark of the subject, and finally the correct relation of the other two (of the subject and predicate) is supposed to be cognized through it (*Jakob* p. 112). *Kiesewetter* calls it (p. 104) simply the mediating representation, the intermediate mark of every categorical syllogism of reason. The *Medius* is thus here and there a concept, a representation, a mark, and belongs, *as this*, essentially
+
+[p. 187]
+
+to the possibility of a syllogism, i.e. to the cognition of the identity of x, as a universal, with y, as an individual. But now not even two concepts, two representations, two marks, that were altogether one and the same, can be thought (*Jakob’s* and *Kiesewetter’s Principium Indiscernibilium locis cit.*); consequently there can be cognized in no concept, *as concept*, no representation, *as representation*, no mark, *as mark*, the identity of x, as a universal, with y, as an individual, i.e. instead of becoming possible through a third concept, *as concept*, a syllogism through a third concept, *as concept*, becomes impossible, and all logicians who believed they *showed* the possibility of a syllogism through the *Medius*, *as concept*, have *demonstrated* through it, *as concept*, its impossibility. If I say: All planets move; the earth is a planet; therefore the earth moves: then the identity of the motion, as a universal, with the motion of the earth, as an individual, can absolutely not lie in the planet, as a concept, a representation, a mark; for there are indeed no concepts, no representations, no marks that were altogether one and the same; each planet, as
+
+[p. 188]
+
+concept, as representation, as mark, is rather itself something individual and different from the other planets; how can it, consequently, *as planet*, or as *concept* of a planet, mediate an identity? No, the identity lies rather in a non-concept, and indeed in the *All*, considered as a non-concept, in the representative of the *genus*, not as a complexion of sensible marks, but as a (+ b) situated still behind the sensible attributes, in the understanding, *as understanding*. The supposed *Medius* is our understanding itself, which, when in certain sensible attributes the *conditiones, sine quibus non* are sensibly given, takes up, as standing multiplicator, the form of the (material-containing) individual — a form by no means first determinable by those sensible attributes, but already conferred on it, *as understanding* — into the form of the universal, as altogether one and the same, and then, upon an occurring division of the universal by isolated apprehensions, recognizes the form of the universal again as (completely) identical with the form of the individual. In the formula x = n / y = n x = y that which gives the equation under the attribute n is our understanding, which the
+
+[p. 189]
+
+identity of form that has become known to it, *as understanding*, as a *facit* of thinking, — be it now clothed under a sensible attribute = x or = y or = n, be it shown under angles at the base or at the apex of a triangle, — recognizes as (completely) identical. It remains therefore thus, that the essence of an (in empiricism) demonstrative syllogism knows no *Medius*, but rests *logically* merely on ( − B + b in x B in y ); What, then, is the *Medius*, hitherto usurped for the possibility of a syllogism, e.g. in the above planet-medius? *Logically* the means of the sameness of two concepts in our cognition, and yet there are not two concepts that were one and the same, consequently *logically* a contradiction. *Sensibly* considered, on the other hand, it is an *index* or *exponent*, bestowed on us first through similarities in general, then through similarities in repeated apprehensions, hence through our progressive imagining-into (Hineinbildung) the world, an exponent of an identity in the form, an exponent which we ascribe *to ourselves* in the *omnis*, or, where the *terminus* of universality is already secured by the impossibility of a particularity, as in mathematics, simply make noticeable in letters; (for x is surely not
+
+[p. 190]
+
+y, and this n not that n, the angle at the apex of an equilateral triangle none of the angles at its base, as far as the *sensible* business of attributes in it is concerned: hence they too are mere exponents of an identity; (just bring two angles, however *equal* they may seem to the eye itself, under a magnifying glass; or judge whether the excellent *Blumenbach*, under the strongest possible magnification, in the origin of a water-moss, would have seen the *identity*). As to *similarity*, its discussion has so little difficulty at all that, properly understood, it offers itself to us of its own accord as *Medius*, and, since similarity takes place only in the material, will thereby cast the nativity of the *supposed logical Medius* once again. *Similar* is not, as one commonly says, when the sensible marks of the *one* object of the senses are also found in another: this cannot be; but when so many of the sensible marks of the *one* object of the senses drop away in apprehension that the *accidens* in it gives place to the sensible attribute, the sensible attribute to the (+ b), or to the no longer sensible identity, for the (unavoidable) connection with the sensibility before us.
+
+[p. 191]
+
+*Similarity* rests therefore on a non-becoming-conscious, or no-longer becoming-conscious, of certain sensible marks, hence always on the minus of a becoming-conscious, already determined on each occasion by animality, with regard to the quantity and multiplicity of the material; every minus in the world is only minus in order to make room for a plus, (there is no negation that is not *relative*, no negation *as sheer negation*, in the world, the second course [*Gedeck*] at Germany’s table of thinking excepted): the minus of a becoming-conscious with regard to the quantity and multiplicity of the material (smaller *extension* of concepts in the logics) will therefore *have to* bring about the plus of a complexion, of a drawing-together of sensible marks, (greater *content* of concepts in the logics), which, as little as they can be identical, are just as little in consequence still (sensibly) separable from one another, (hence the firmness of concepts, as hitherto foundation of philosophy; they grow fast to one quite strongly); and the minus of a becoming-conscious with regard to all *sensible* marks, *as sensible*, but for that very reason *impossibly identical*, will *have to* bring about the (+ b) as identity, so as then first to let the sensible attributes in themselves (as a + b),
+
+[p. 192]
+
+the accidents however to the attributes (*quasi vero in gyrum res rediret* [as if the matter were indeed returning in a circle]), attach themselves in due order. What must be exceedingly helpful to the (+ b) for its easier manifestation here is, as goes without saying, either a minus of a becoming-conscious, accelerated in one by the particular kind of animality, with regard to the quantity and multiplicity of the material, (*Wit*, our ape-talent, still hovers close around the accidents, and is therefore manifold, and, where one can speak, exceedingly garrulous; — *Acuteness* is briefer; — *Profundity* briefest, it eradicates most material), or it is the frequent repetition of apprehensions in a certain section of the world under the standing unity of the (+ b), hence *experience*, only no *Kantian* one; hence the name of an *experienced* man in his field, when he has brought it to the husk of the (+ b), to the husk of the *cause*, in the sensible attributes (the sensible *Medius*) of *his* section of the world. — The *Medius* is dissected; further, then, to the essence of syllogisms *in general*, not only of the syllogisms *demonstrative* in empiricism; for now, after removal of the *Medius*, as a supposed ingredient of the (A + C *as* A *in* A *through* A) posited in (B − B + b), we have
+
+[p. 193]
+
+path thither. The x and y, as marks of the (in empiricism) *demonstrative*, likewise removed, the formula stands thus: ( − B + b B ) i.e. the *prius* κατ᾽ ἐξοχήν (as A + C in − B), to which the *cause* is still added, divided by the ground (*per id, quod est fundamenti loco ponendum* [through that which is to be put in the place of the ground]). This must be the formula for the *demonstrative* syllogisms in that which one nevertheless knows with certainty without empiricism, without previously made experiences, without routine. (− B + b) is called a *possibility* (posited through A + C), or an applied *thinking* (posited through A + C), to which a *cause* or *substance*, consequently an extension which (under an A) has become the multiplicator of itself, was still added. The B placed beneath is called, as B, the *actuality*, insofar as it is taken up into a thinking, or the *ground*, hence extension *as extension*, without further possible alteration of the extended. The B placed beneath, as divisor of the (− B + b), is called accordingly the extension, *as extension*, without further possible alteration of the extended, insofar as it is contained in a *cause* or *substance*, which is the product of a thinking out of that extension
+
+[p. 194]
+
+is. The extension, *as extension* without further possible alteration (under an A), is *life* in general, which, insofar as the extension, *as extension*, is contained in a cause or substance, manifests itself as multiplicator of itself in the multiplicity of the material (plant life, animal life), and in the − B, in man, has taken a thinking to itself. ( − B + b B ) will therefore be called, *life in general, contained in a substance, to which the imperative of thinking itself still was added.* This is man; he in his own person has thus become our first *consequentia immediata*, in that in that formula we sought only the *consequentias immediatas* that he, as man, is wont to make. For a test, therefore, take it up once here also with the above scales, throw away the (+ b), found in the meantime, superfluous for *this* test, and set what stands on those scales under ( − B B ): so one has
+
+( − B B ) as an impulse of animal life, contained in man still in an imperative.
+
+[p. 195]
+
+( − B B ) as drives, contained in man still in an ought.
+
+( − B B ) as a desiring, contained in man still in a willing.
+
+Etc. But apply the same − B B to the theoretical too, and the same thing comes out again, according to the following scales:
+
+B − B
+
+Impulse of animal life Imperative
+
+Apprehension A thinking, considered according to the *possibility* of its application.
+
+Apperception A thinking, considered according to the *actuality* of its application.
+
+Representation A thinking, considered according to the *necessity* of its application.
+
+Concept / Judgment / Syllogism } A thinking, considered according to the identity of its application to whole complexions of sensible apprehensions.
+
+[p. 196]
+
+( − B B ) will therefore, according to the second row of these scales, be an apprehension, contained in the possibility of a thinking, i.e. in a human being. According to the last three rows, ( − B B ) will be a concept, a judgment, a syllogism, as complexions of sensible marks, contained in the identity of a thinking. Partly to (− B), partly to (+ b), partly to (B), all *consequentiæ immediatæ* must now also refer, everything must refer that man knows with certainty *without empiricism*; for of ( − B + b B ) he himself consists. (− B) gives the *consequentias immediatas* of the *doctrine of reason*, i.e. of thinking, *as a thinking*, insofar as it comprises knowing as well as acting; i.e. (− B) gives the *postulates under* (− B), which *Kant* misused, *per syntheses a priori*, into unheard-of, and hence in fact new, multiplicities in thinking itself. There is and can be only *One* postulate for *truth, virtue, right*, and hence for *logic, morals, natural right*, *One* postulate, *One consequentiam immediatam*, of which all others (under − B), as *its consequentiæ immediatæ*, or better: as various
+
+[p. 197]
+
+expressions of it, according to the multiplicity of occurring cases, must in turn issue forth. This postulate is a *consequentia immediata* of our thinking, demonstrative without empiricism, as *an* imperative, and reads: Everything that the impulse from within and the impulses from without (sensations and representations) bring to you (hence present to a *human* working-over), let that lie with you not merely as it has been brought to you, according to the course of time, customary manner, and current delusions (*permettes moi, que je vous endoctrine* [allow me to indoctrinate you], says *Voltaire*’s confessor), according to the sequence of *your own* association, according to impulses of *your* passions, but rather efface this (*yours*) from it and take it into a thinking! In short, *Cogita* [think]; promote everything from the first also to the second scale, from that under (B) also to that under (− B), so as then first to let that under (B) attach itself again to that under (− B); *therefore* you are man, and in that you have to perform this *as man*, you commit a contradiction, dehumanize yourself, if you do not perform it. *Commit therefore no contradiction, neither in your cognition, nor in your manner of acting*; this is the universal postulate under the imperative of your humanity,
+
+[p. 198]
+
+fruitful in sheer *consequentiis immediatis* (under − B). In that you, e.g., will that one not insult *you*, you will that one insult *no human being*; but if you nevertheless insult someone, you fall with your willing into a contradiction. *Willing, under an imperative desiring, demanding*, you can namely do only *as man*; (setting aside Kantian-absolute freedom, and dignity and end in itself, and whatever the thing in itself may be called). In that you, then, can will *only as man*: so what you will holds for humanity; non-insult of humanity you therefore demand in the demand that one should not insult you; if you nevertheless insult: so you fall, as said, into a contradiction; (what you will that people not do to you, that do not do to them either; and what you will that people do to you, that do to them also; only the difference prevails here, that the *ought-to-do*, *officia humanitatis* [duties of humanity], can be *constituted* only through the preceding taking-up of a *certain* case into a thinking, hence empirically, regulated it is always; the *ought-not-to-do*, however, stands in advance for all cases under the proposition of contradiction). If you fall into a contradiction, you can with nothing more
+
+[p. 199]
+
+excuse yourself (your *conscience*); for only the human being can excuse himself, and the human being has slipped away from you in your contradiction. If he has slipped away from you, then you are in this case an *animal* (in spite of all your materiature in concepts, judgments, syllogisms); the security against offenses, which your humanity gave you precisely by the fact that *it* could be offended and, as you yourself will, should not be offended—this security is gone; you are an animal, and without offending yourself in this regard (this is no longer possible for *this* case), one can now punish you, for one punishes merely the animal in you (together with the materiature of *your* concepts, judgments, syllogisms), since you yourself did after all want to be a human being, and hence one punishes the contradiction in your essence, which in other words is called *forgetfulness of duty*, *wrong*. Only where you do no wrong, violate no duty, and hence have right, can one offend you. Now, however, you violate no duty, e.g., when you occupy an ownerless thing (*rem nullius*), because it is *res nullius*; you therefore do right in occupying it, and whoever might perhaps subsequently want to disturb you, since you violated no duty with your occupation but did right in it, would *offend you*, and would, as could easily be
+
+[p. 200]
+
+shown, fall into a contradiction with that which he nevertheless himself wills; etc.—Nothing but immediate inferences under (− B), when, with actions, it comes *to thinking*; whence it looked, before the *Kantian* epoch, though one might almost say *outside* many schools and lecture-chairs generally, still so clear when one had to *convince* a person, even a quite young one, that this was right, that wrong. It really seemed to one that the lad knew all this already, before one told him it through *synthetic* postulates *a priori*; it came to him as if on a string.—*Duty and right* are nothing other than the identity of our thinking itself, posited in certain representations and concepts. Just this is *truth*; the same *consequentia immediata* of thinking as a thinking (in − B), which pronounces for duty and right: *commit no contradiction*; is also the universal postulate for truth. Here, however, there manifests itself anew the whole weakness of our hitherto so-called *theoretical* philosophy. In *actions* our thinking set itself, *as a thinking*, as an eternal norm for each of us, pressed in the momentary case of action for a *prius* κατ᾽ ἐξοχήν for every action that was just then in progress,
+
+[p. 201]
+
+for the eradication of the *conditionum, sine quibus non* in the material, of the sensible attributes *in us* (of the temperament), in order to let this sensible be joined again under its sovereignty, for the immediate working of the (A *as* A, *in* A, *through* A) into the *ground* (into extension, as extension, without further possible alteration of the extended, hence into *life in general*), and into the *cause* (into the extension multiplying itself in itself under one thinking, or the substance *in us*, hence into *our life*). Here, in *actions*, the *prius* κατ᾽ ἐξοχήν (through thinking in *conscience*) was thus demanded, lay there in plain day, as demanded of the most common human beings, in order *to be a human being*, and to have seen in this, lying there in plain day, what he saw in it, characterizes the *Kantian* acumen quite as advantageously on the one side as the manner in which he dealt with that fortunate view puts his *speculative* talent, his capacity for consistency, in short thinking in its application in him, in a disadvantageous light. To arrive with that view at thinking itself as well was, namely, by virtue of the vivacity of his genius and the originality of his combining wit, no longer possible for him; and he therefore had to mistreat, in the most unseemly manner, the
+
+[p. 202]
+
+thinking, *as a thinking*, or pure speculative reason, as he calls it, tear it away, as inadequate to his own purposes, as willing and not able, as dialectical, from the practical (which can, because it wills?), and misguide the practical itself, insofar as he saw the *prius only in this* (*in freedom*), perversely enough, until it finally, in the consistent *Fichte*, issued in an I with all its new splendors, which were besides imparted to the *Fichtean* consistency by hasty memory-heads without *Forbergian* taste and without *Forbergian* humor.—Instead of uniting everything, *Kant* tore everything apart, in order, under the magic wand of his mighty genius, to become the new *synthetic* creator of everything. And yet precisely that which our thinking declares in a *conscience* must everywhere be its universal declaration. Beyond the *conditiones sine quibus non* in the material, to grasp the cause, as *cause*, the ground, as *ground*, the *prius* κατ᾽ ἐξοχήν, as *prius* κατ᾽ ἐξοχήν, in one thinking, and to cognize cause and ground, with their unchangeableness *as this*, yet in the changeable of the material that stands under them as wholly dependent on that prius, and consequently
+
+[p. 203]
+
+finally to subject all in all to this prius—*this is just as much the goal of all speculation as it is the daily task of our conscience*. But where was *speculative* philosophy hitherto which had brought it (without images) beyond the *conditiones sine quibus non*, even so far as the cause? Yet we come to the cause (+ b) and the ground (B) only later: the *theoretical consequentiæ immediatæ* under (− B) must first have been completed. Where, then, was speculative philosophy hitherto which had brought it to thinking, *as a thinking*, and hence to the *theoretical consequentiis immediatis* under (− B)? Just look at its very first inferences in speculation! The law of identity, hence thinking itself, was supposed to be an immediate consequence of the principle of contradiction; did one there understand thinking as a thinking? The principle of exclusion was supposed to flow absolutely from thinking, as a (pure) thinking; for it was after all found everywhere among the supreme laws of thought, and indeed here and there with the express direction that it proceed from the *pure* thinking in the principle of contradiction? immediately. From our thinking, as a pure thinking, there followed, then, already an *Either*—or, followed already that
+
+[p. 204]
+
+to every object a certain mark (something sensible) either belongs or does not belong; for that is how the principle of exclusion was hitherto understood. The *principium rationis* (our *prius* κατ᾽ ἐξοχήν) (A as A *through* A), which is one with the law of identity (A as A in A), was treated as a sensible *conditio sine qua non*, hence furnished with the addition of a *sufficiency*, and then nevertheless inferred absolutely from it: the ground, *already as ground* (our *prius* κατ᾽ ἐξοχήν), posits its consequence necessarily. From thinking, as a *pure* thinking, there followed, then, already a *hypothesis* (of sufficiency), and yet again no hypothesis, insofar as the ground already as ground (our *prius* κατ᾽ ἐξοχήν) posited its consequence *necessarily*. With such *consequentiis immediatis* under (− B) the hitherto prevailing speculation began. No, the *consequentiæ immediatæ* of our thinking, *as a thinking*, under (− B), of the (A as A in A through A), are rather that it admits just as little as does the imperative of our conscience any difference of quantity, quality, modality, or relation, besides what has hitherto been remarked on this. Now to the *consequentiis immediatis* under (+ b), when it has first been settled
+
+[p. 205]
+
+whether we shall not perhaps have to take up the (B) even before the (+ b), with its immediate inferences, in accordance with our *present* purpose. (+ b) itself is a consequence of thinking when it, posited in the material, eradicates this in thinking, having thereby found an object = (B − B), but having also won for the object the genus for an: *this* object. (+ b) is therefore preceded by an (A as A in A through A), posited in (B − B), and accordingly we shall have to proceed first to the (B), without regard to the placement of the above formula ( − B + b B ), in accordance with the order and with our *present* purpose. Which, then, are the *consequentiæ immediatæ* under (B)? (B) represents to us 1) extension, *as extension*, without further possible alteration of the extended in the object (under an A). Whatever, therefore, holds of extension, *as extension*, (under an A), such as the axioms and postulates of geometry, will belong to the *consequentiis immediatis* under (B). (B) represents to us 2) in alteration without further possible alteration of the alterable (under an A) *time*. Whatever, therefore, holds of time, *as time*, (under A), will belong to the
+
+[p. 206]
+
+*consequentiis immediatis* under (B). (B) represents to us 3) as extension without further possible alteration of the extended (under an A), organism and life *in general*. Whatever, therefore, holds of organism, *as organism*, of life, *as life in general*, such as, e.g., the sympathy of the whole living nature (that overflowing into the fellow-feeling of a creature, *Goethe*), that will belong to the *consequentiis immediatis* under (B). (B) represents to us 4) the ground, *id quod est fundamenti loco ponendum* [that which is to be placed in the position of a foundation], (under an A). Whatever, accordingly, holds of the ground, *as ground*, consequently is an *essentiale consecutivum* of extension and motion (under an A) in geometry as well as in mechanics and chemistry (water in *Thales*, *air* in *Anaximenes*, *ether* in *Pythagoras*, light-material in more recent times, in short a *fluid as life-fluid*), that will belong to the *consequentiis immediatis* under (B). Without empiricism we know with certainty how man is to use the mechanism of his hands and feet: without empiricism there are born *mechanical* and born *philosophical* heads; to the former the *consequentiæ immediatæ* under (− B) are, to the latter the *consequentiæ immediatæ*
+
+[p. 207]
+
+under (B) readily present, without their necessarily having, in this, to see into the *prius* κατ᾽ ἐξοχήν as well. This leads us to the *immediate* inferences under (+ b). The difficult thing: *This*: on the object compelled us, out of our (B − B), to the addition of a (+ b). We ran, in going out, upon a multiplicity without possible survey of its limits, and all this multiplicity, ourselves not excepted, becomes for us here a *This*, there a *This*, and again a *This*; for us, therefore, it becomes *identical* and *one*, that which in a multiplicity, without possible survey of its limits, ourselves not excepted, lies before our apprehensions. Identical and one can be nothing that belongs to the material, *as material*; identical and one is the *genus* (+ b): the *genus* can therefore not belong to the material. If it does not belong to the material, as *in* the material, it belongs to the *form*, as *on* the material; for *on* the material the genus gives itself. The form becomes for us under a thinking; under a thinking there becomes for us, therefore, the genus: this thinking in a genus we call our *understanding* (+ b). But our understanding can no more than our thinking make anything where there is nothing. Identical and one, where our understanding cognizes it, genus,
+
+[p. 208]
+
+where our understanding cognizes it, must therefore have a *being* as *identical and one*, and as *genus*; otherwise our understanding could not cognize it. To have a being, and yet not to consist in thinking itself, and yet to be called no longer an object absolutely, but *this* object, leaves one no other choice than to let the form of the material multiply or manifold itself, *as form*, under an A (+ b as extension without further possible alteration of the extended, which multiplies itself under an A), and then to let it take up into itself the manifold of the material, (+ b, as *life individualized in one material*, which, however, as (+ b) presents the form of the universal, i.e. of extension under (B), in the particular exactly as in the universal, hence every *This* is a genus, and every genus a *This*). The extension multiplied in itself under an A is the *cause* (+ b, as cause) *quæ singulis rebus substat pariter ac omnibus* [which stands under individual things as under all alike]; (+ b as substance of the individual beings). That which (+ b) represents would therefore be the *This* in its identity and unity, = genus = understanding = extension without further possible alteration of the extended, as it *multiplies itself in genus and understanding*,
+
+[p. 209]
+
+= *individualized life*, considered according to the *possibility* of its being individualized, = form of the universal in the particular or individual, = cause = substance (*quatenus singulis rebus substat pariter ac omnibus* [insofar as it stands under individual things as under all alike]). The *consequentia immediata* of (+ b) as a *This* in its identity and unity is that we can speak, write, and read; for the *being able*, the *possibility* of it, rests on no empiricism; in all three cases the sensible attributes of the material *as material*, up to the impulse from without, must be eradicated in thinking, as thinking, in order to arrive at the *This* in its identity and unity through thinking: German is in this respect like French, and French like English, etc. The *consequentia immediata* of (+ b), as a *This* in its identity and unity, is also the persistence of our *self-consciousness in general* (which, taken together with its sensible attributes described above, or *conditionibus sine quibus non*, fixes our individuality, as that of a *person*, hence the *dear* I). The *consequentia immediata* of (+ b) as a *This* in its identity and unity is, further, the *possibility* of a conviction (I say: *conviction*) through *reminiscences*
+
+[p. 210]
+
+etc. The *consequentiæ immediatæ* of (+ b) *as a genus* are 1) the union of every mark with the concept in which it is contained or represented in juxtaposition and succession, as also of every predicate with its subject in a judgment, the judgment being affirmative or negative, insofar as this judgment and that concept are considered *logically*, hence in every case the identity of the form of the universal (in the predicate, or there in the concept) with the form of the particular (in the subject, or there in the mark of the concept) is asserted therein; 2) the traditional propositions of logic, *propositiones singulares æquipollent universalibus* [singular propositions are equivalent to universal ones]; what holds of the universal holds also of the particular which stands under it; what holds of the particular *taken together* holds also of the universal (*induction*), etc.; 3) the possibility of a conviction through analyzed concepts (without a present apprehension) insofar as one thereby gives someone to recognize the identity and unity of the universal also in the individual, consequently also the possibility of bringing someone by admonitions to the point that he must think himself without delay as comprehended under a universality (a rule or a law). The *consequentiæ immediatæ* of (+ b) *considered as genus*,
+
+[p. 211]
+
+are also the *consequentiæ immediatæ* of (+ b), *considered as understanding*. The *consequentiæ immediatæ* of (+ b), as an *individualized life*, or as the form of the universal in the particular, as it occurs in the life of every human being, *as an individual being*, are that he *knows* (not merely feels) what is conducive to the needs of his life, insofar as he *knows* this (drive of self-preservation: in man *self-love*). The *consequentiæ immediatæ* of (+ b) as a cause, or substance, are the identity of the form of the universal with the form of the particular in respect of the *peculiar* character, the *peculiar* temperament, the *peculiar* talents of a human being, etc., further the (hypothetical) necessity of that which is cause or substance, under (B), and of the (B) under (A) *as the only absolute*, or the *prius* κατ᾽ ἐξοχήν. So much for the *consequentiis immediatis* (or the various expressions for the same) from ( − B + b B ) as that of which man consists. The *consequentiæ immediatæ* from ( − B + b B ), however, are *syllogisms*, and these syllogisms have nothing pure-demonstrative
+
+[p. 212]
+
+about them, than precisely this ( − B + b B ) itself. The *only pure-demonstrative* thing in syllogisms will therefore be ( − B + b B ); now, however, precisely this is found also in judgments and concepts. The *only pure-demonstrative* thing of syllogisms (or, as one has hitherto said, the *logical* essence of syllogisms) is therefore also the *only pure-demonstrative* thing of judgments and concepts. It is called ( − B + b B ), and is the *analysis* in its simplicity in everything and anything cognizable. This leads us occasionally, before we go further, to a brief survey of the *pure-demonstrative* in all sciences in general.
+
+Philosophy, 1st Part. / (A as A, in A, through A.) Doctrine of magnitude in general / (A as A, in A, through A) posited in (B).
+
+Philosophy, 2nd Part. / (A as A, in A, through A) posited in (− B) Doctrine of magnitude applied to individual magnitudes.
+
+[p. 213]
+
+Philosophy, 3rd Part. (A as A, in A, through A) posited (in B + b)
+
+(A as A, in A, through A) posited in (− B + b)
+
+#### *Transition to the Doctrine of Nature.*
+
+(+ b)
+
+#### (Here only then — / the sensible *attributes* / —— *Accidents* / attach themselves again.)
+
+It is quite impossible to have a concept, to pass a judgment on anything in the system of the world, to make a syllogism, without there lying at its ground
+
+(B) contained in (− B + b),
+
+otherwise it is no concept, no judgment, no syllogism. *Pure-demonstrative*, however, is that without which it would not be possible at all to have a concept, to pass a judgment, to make a syllogism; the rest must be demonstrated *Kantianly*, i.e. one must point to it *with fingers*
+
+[p. 214]
+
+until it arrives with it (in a c + c + c +), hence in recurring similarities of view, at the cognizing of its sensible attributes. The sensible *attributes* now, as *sensible medii*, are banished above to their proper place; the essence of the syllogism has, after the clearing away of the former, just been set forth, and it seems, therefore, that we are done. (*Veritas limata est in disputatione* [truth is polished in disputation], Off. II, 10). We would be, if mere *accidents* could not also be taken up into syllogisms, and thereby be snatched from undemonstrative finger-pointing. So at least it seems to one; it must therefore be investigated. That mere accidents really can also be taken up into syllogisms is proved, besides daily common experience, by the venerable precedent of the father of critique, who declares judgments that *without the mediation of a third representation* can be derived from another, hence the *consequentias immediatas* from ( − B + b B ), consequently the *pure-demonstrative* in our whole cognition, to be *mere syllogisms of the understanding*, but those syllogisms, on the other hand, *which still need another judgment* in order to effect their consequence, to be genuine *syllogisms of reason*?
+
+[p. 215]
+
+The example with which he elucidates this *Critical* discovery is all too apt for our purpose for us not to retain it entirely, as it is communicated on p. 360 of the *Critique of Pure Reason*. When from the major premise: *All men are mortal* (− B + b in x), it is inferred: *some men are mortal* ( − B + b in x B in y ): then this is, in *Kant*, a *consequentia immediata*, and a *consequentia immediata* is called by him a *mere syllogism of the understanding*. The law of identity, applied under (+ b) to a sensible attribute, is thus for him a *consequentia immediata*, and *this consequentia immediata* would then be the *mere syllogism of the understanding*. Insofar as, in the given case, the form of the universal were also immediately cognized as form of the particular, hence the x and y, or the sensible attributes first brought out by observations, as here the attribute of mortality, were thought away, he would have done well to call this then a *consequentiam immediatam*; but precisely thereby it would now be no mere syllogism of the understanding any more; but the *pure essence* of every syllogism in *applied* thinking, hence in *reason* itself. But since he in the present
+
+[p. 216]
+
+example expressly draws a sensible attribute, that of mortality namely, into its *consequentiam immediatam*: then it is no longer a *consequentia immediata*, but merely a syllogism that is *demonstrative* in empiricism, i.e. through observations which finally lead to sensible attributes (induction), and through sensible attributes, *insofar as they attach themselves* to a (+ b), hence no longer a pure-demonstrative syllogism, no longer a syllogism in its *pure* essence, to which one would therefore, as a syllogism afflicted with sensible attributes, whose sensible attributes however attach themselves immediately to (+ b), sooner give the name of a *syllogism of the understanding* than of a *consequentia immediata*. But these are trifles, which entailed for the *Kantian* logics no other inconvenience than that, e.g., *Kiesewetter* believes he is dealing for twenty-six pages (pp. 72–98, l. c.) with *consequentiis immediatis*, where he is dealing with demonstrative syllogisms *from attributes in empiricism* under (+ b), hence with ( − B + b in x B in y ), that he 2) *genuinely Kantianly* regards every *consequentiam immediatam*, apart from the false sense which he gives it, merely as the forecourt to syllogistic, by no means as the *proper essence* of every syllogism, and that he
+
+[p. 217]
+
+3) presses these two incorrect presuppositions, like every article of his logic, through sheer differences of quantity, quality, relation, and modality, as putative forms of the purest thinking, once more to the point of satiety. But the worst case is that of the *Critique*, l. c., when it now proceeds further in its above example, and thereby also quite completely gives out its opinion of the *actual syllogisms of reason*, beyond possible misunderstanding, clear as the sun. It runs there as follows: “On the other hand the proposition: all scholars are mortal, does not lie in the underlying judgment (of the mortality of men), for the concept of scholars does not occur in it at all, and it can be inferred from this only by means of an intermediate judgment.” If, accordingly, one goes out from the sensible attributes, and along them, even all the way to the mere *accidents*, in order to take these up under (+ b) into a representation for a thinking, if, that is, one connects sensibly the most matter that one can bring together in one’s sensibility, in order to take up into a representation for thinking whatever qualifies itself for this: then there reveals itself to the Critique
+
+[p. 218]
+
+*only here*, consequently in the greatest quantum of the material, the essence of *actual syllogisms of reason*. How things stand here again with their thoroughness, with their presumed glance into the depths of our essence, others may judge. I do not trouble myself now either about this, or about the crookednesses which have thereby passed into our newest logics; but pursue merely my own, as yet uncompleted, path up to the point where it must finally also instruct me completely about the relation of the sensible *accidents* to my thinking. It is perhaps the most difficult task that I still have before me; but at least this reassures me in it, that it reveals itself to me, quite as difficult as it is, unreservedly. My above formula namely grows now on to a ( − B + b in x + c B in y + c ) i.e. to a *Kantian* actual syllogism of reason, e.g. all *double* (c) tulips are rare, now however this tulip is double;—and this c, this mere accident, I can nevertheless use in no thinking, *as thinking*. This intermediate judgment of a *Kantian* proper syllogism of reason (in c) must, as accidental, for a thinking, *as thinking*, again be removed, so much I see; but whither with it, and
+
+[p. 219]
+
+what then is put in its place in thinking, since I already have the (+ b) in the formula? An analogy occurs to me here first of all again.—I know from the language of life, and the *Critique* has proved it to me, that I can apply the thoughts of possibility, actuality, and necessity, which properly belong only to the object (= B − B) in me essentially and unchangeably, also arbitrarily to mere accidents of existence, being-there, of appearing or vanishing before my eyes, indeed that with these accidents I can alternate them, and e.g. call something that, *as object*, must always be possible, possible only when it moves into my field of vision, something that as object must always be actual, actual only when it moves still nearer into my field of vision, something that as object must always be necessary, necessary only when it lies palpable before me, or also, with respect to its accidental absence, can call it necessarily absent only when it has withdrawn itself wholly from my palpation and my other senses. Since the Critique has proved this to me irrefutably in measuring out my modality, the question arises: whether I might not now take the liberty of trying it likewise with
+
+[p. 220]
+
+my (+ b) *as genus*, and hence of applying the (+ b) to mere accidents too, where, to be sure, strictly speaking, *as with accidents*, there is no genus, and, strictly speaking, as with accidents, no concept either (as a *sensible* attribute of the + b) any more. The standing multiplicator is once and for all at hand. Why, then, should I not be allowed to multiply everything that comes, be it genus or non-genus, concept or non-concept, attribute or non-attribute, by means of it, indeed in the end perhaps even *have to*? In this way I arrived at a (+ b) in mere *species, subspecies, varieties*, in short in accidents; I arrived at concepts where, *as with accidents*, there are strictly speaking no concepts any more in that sense of the word according to which one could demonstrate to me with apodictic certainty a whole series of sensible apprehensions straight from the complexion of its sensible marks under a (+ b), but where one would always, *as with accidents*, still have to bring a pointing of the finger into play, such as, say, the concept of a region, of a landscape, of the starry heaven (in *astrognosy*), and all those concepts that assert nothing *organic*, for which I have consequently merely borrowed the multiplicator, as for my table
+
+[p. 221]
+
+and my chairs, as so-called concepts. This would give me then a geography, a topography, a technology, etc., under a (+ b), whereby, however, a pointing of the finger would always have to do duty as the indispensable servant for my (+ b). Would this give me the fair world of fictions, of these accidental configurations, which are accidental and yet not *without rule*? — Under (+ b) they join, like the accidental and indemonstrable, but otherwise often very meaningful element of human dreams, onto thinking in man. — Their standing multiplicator under an A, (the ἓν κατ᾽ ἐξοχήν, not ἓν καὶ πᾶν, the *unchangeable*, *eternal*, before whom I worship in this husk of material, which I owe to him) was held out to me by nature in the organism; therefore I now also *comprehend* the organism: it is the construction of nature outside me, just as it is constructed in me under an A; here I find myself at home in *proper concepts*; for I can *demonstrate* from concepts. But the dust is harder to comprehend than the flower; this the *Stagirite* already remarked, and I feel it *now*. However, either my previous prius was no prius, or in that which I have asserted hitherto there must also have been enveloped what
+
+[p. 222]
+
+I now still seek. To the material I ascribed multiplicity, to the form of the material unity in its plurality, and plurality in its unity. In three indestructible dimensions of space the form of the material spreads out into the ramifications of its unity, hence into its plurality, into a plurality which, as indestructible as the form everywhere, 1) under an A (in B − B) becomes the multiplicator of itself (+ b), without in the least altering itself (three is in six what it is in three hundred and twenty-three), which 2) takes all that comes to it of material into an alteration without further possible alteration under an A (B − B), and because it happens under an A, and *can happen only under one A*, the *succession*, as second form of the material, can now be made to describe its circular orbit in itself just as regularly as unalterably. This the *prius* κατ᾽ ἐξοχήν (A), this the ground (B), this the cause (− B + b); and indeed both the latter in their *peculiar*, but also in their *relative* determinations *to* A, and their *absolute* ones *through* A. The whole basis we have therefore now, and have it as briefly together as possible for our purpose. But the material is not simple like all this; it is *manifold*, not identical. From
+
+[p. 223]
+
+the material and on the material itself, *as material*, *variety* will therefore be taken up, into this and that unity once *absolutely* determined under A in the plurality of the form, as into the *ground* (*fundamenti loco ponendum*) and as into *its* cause (under A); consequently *variety* too can be promoted, in an alteration without further possible alteration, to the regular succession, to identity, as the ground of its alterations, insofar as it is something alterable, i.e. material. One need only recall, e.g., the variety in colors and tones on the material. This variety gives us our *accidents*. But this variety, *as accidens* considered by us, is taken up into the ground and into the cause (under A) just as well as a sensible attribute; it will therefore be as necessarily determined by ground and cause (under A) as ever a sensible attribute can be determined by this and that (*nihil sine ratione*). The superfluous (+ c) of our formula, the *Kantian* syllogism of reason, *as syllogism of reason*, is therefore expunged; ( + c + c ) is = ( x y ), and ( x y ) we have already above removed from the syllogism, *as syllogism*;
+
+[p. 224]
+
+consequently our formula now stands for ever, as long as one will still draw syllogisms in the human world, secured and pure, as the essence of every syllogism, which is called ( − B + b B ). Here I remark merely in passing that for the possibility of this formula, hence for the essence of every syllogism, as of every judgment and concept, a disjunction in (B − B) is already presupposed, and that the ill-treated proposition of *exclusion*, which asserts the former, instead of already drawing marks into it, would have to be expressed thus: *apart from possibility and actuality there is nothing true in itself downward in the row and into physical life*; but that the *hypothetical* syllogisms are quite properly the syllogisms for *accidents*; consequently can absolutely never, as *hypothetical*, belong to the *consequentiis immediatis*, as *Kiesewetter* seems to have discovered (l. c. p. 73). But how is one then to understand this, that accidents, which are given out as equally necessary with the attributes in regard to ground and cause (under an A), and *proved* as equally necessary in regard to ground and cause (under an A) as these, nevertheless and for all that remain *accidents*? Answer: as little as
+
+[p. 225]
+
+matter can pass over into a thinking, *as thinking*, *or let itself be transformed into it*, just as little can the prius κατ᾽ ἐξοχήν, the ground and the cause, pass over into an apprehension, *as apprehension*, or, (*as was only now to be explained*) *let itself be transformed into it*. Where neither can be transformed into the other, and yet the one acts on the other, there the one merely arouses the activity of the other, or the one becomes impulse for the other. Apprehensions can therefore become impulse for the prius κατ᾽ ἐξοχήν, the ground and the cause, consequently also for thinking *in its application* in us; but the prius κατ᾽ ἐξοχήν, the ground and the cause, consequently thinking *in its application* in us, will also be able to determine *present* apprehensions in us; (without their, however, considered as *copulae*, i.e. *formaliter*, altering themselves in the least, i.e. canceling or destroying themselves as *copulae*.) If an apprehension in a given case is stimulating or determining (impulse, *conditio, sine qua non*) for the activity of the applied A in us at all: then we push, in the language of life, the possibility, now arising, of a certain making-use of thinking in us,
+
+[p. 226]
+
+upon the sensibly present object, and say, it is *possible that it is this or that*, i.e. I can now think something, an object = (B − B), in connection with it; the making-use of thinking at all, now arising in us for a present case, therefore concresces us here in phantasy with the object of sense, *as object of sense* (with C); we are born *Kantians*. But if the object of sense moves closer into our field of vision, and thinking *in its application* now begins to determine the apprehension, but is also in turn reciprocally determined in its application by the apprehension (as external impulse) (− B + b), then we say: it is *actually* this or that, regardless of the fact that not the thing, *as thing*, but only our representation of the thing, as a *This* (+ b), has become *actual* in applied thinking; once matters have come that far: then there is no longer any lack of ( − B + b B ), i.e. of the cognizing of the form of the universal in the particular, or of the *necessity* of being represented, as a *This*, with all those sensible multiplicities which our thinking, *as thinking*, previously annihilated on it, i.e. had to transform into a minus of the consciousness of them as *multiplicities*,
+
+[p. 227]
+
+in order itself to be able to enter into consciousness with a (− B + b) (otherwise no *This*, *as thought*, would have come from it), whereupon those multiplicities can then at once connect themselves again, from the side of animal consciousness, to thinking, or rather first of all to the thought, as thought of a *This* (from − B + b). If it now goes with us with an object of sense, in repeated apprehensions, every time in such a way that the external impulse is on each occasion merely a *conditio sine qua non*, in order at all to awaken the activity of the applied A in us, and the A finds, in the repeated impulses of this object of sense, *for itself* never anything but (B − B), nothing, therefore, whereby it would immediately have to be brought to the thought of a cause under a prius κατ᾽ ἐξοχήν (to A in − B + b), (aims, purposes): then we call the object *accidental*, i.e. the cause with the prius κατ᾽ ἐξοχήν, which determined it absolutely, stayed away from us in its case (did not move into our consciousness), we do not *comprehend* it, the minus of an animal becoming-conscious with regard to the *extent* of its (sensible) marks takes no hold in its case, and the plus of the narrower drawing-together (greater content)
+
+[p. 228]
+
+can therefore also not take place, it remains *image*; we must therefore simply put our multiplicator (+ b) into the *image* of it (as we usually do in dreams, and as the child must do with everything at first, when thinking, as we say, begins in it). The (sensible) marks predominate, and no prius κατ᾽ ἐξοχήν (no aim, no purpose) in *such* an object of sense outside us meets the applied A in us; (no A outside us enters our consciousness with a (− B + b); for no minus of the consciousness of a material *as material* has made room for it). This the ground of the *accidental* in it in our representation, notwithstanding that *in itself* it can be as little accidental as an attribute. I could conclude this remark here, since in the case of the accidental I have come out again at *Kantian* palpability, from which I set out. But the solution of important problems, to which I look forward, determines me to draw also the *inner* impulse into the very same investigation by which the *outer* has been discussed with regard to possibility, actuality, and necessity. With the *inner* impulse, if one compares it with the *outer*, there prevails, namely, the particular difference
+
+[p. 229]
+
+that it must already, by virtue of animal consciousness, bring with it a minus of the material from which it proceeds, even in the animal; for otherwise no animal consciousness would arise (see above). Here, accordingly, no determinate, sensibly present object for thinking is there; what is there consists in *feeling* (feeling of life). The outer *This* (+ b) therefore drops away here, insofar as what is there consists merely in the *general* feeling of life, just as it drops away in thinking, *as a thinking*, (apart from its application). The possibility of making use of one's thinking with regard to the *inner* impulse will therefore coincide with the possibility of making use of the same with regard to an *outer* impulse insofar as, from within (through feeling, *as feeling*), as from without (through a distant object of sense, — *as distant*), merely the activity of A at all is awakened in an object (B − B); one desires and wills, *what*? indeterminately (whim). But can this be? Does not whim too desire something, only now this, now that? No, it cannot be that one should let it rest at the object, *as object*. (− B), without (under A) in a (+ b) having to retain its form (as B) unalterably
+
+[p. 230]
+
+(only on a reduced scale) would be a contradiction. A negation drawn to the copula in thinking posits (see above); a negation drawn to the copula in the material posits, and indeed under multiplications (through A). A, once posited in B, describes just as much the act of *its own* application in a (− B), as it describes, in the production of a (+ b) by means of the act of its application to B, the indestructibility of the one form by the other. The one cannot take place at all without the other; (as absurd as it would have been *not* to notice this, just as absurd and disturbing for the analysis it would have been if one had wished to proceed with this and with everything that will now still follow in this remark any sooner; *only now* can the reckoning be concluded, *if it is ever to be carried through to the very last*). Let us therefore assume that as yet no object of sense lies present anywhere in any apprehension; the *conditiones sine quibus non* for the sensibly perceptible of an interaction and manifestation of its essence, to be set up by A, by means of the (B − B + b), in the multiplicity of the material itself, must first present themselves in a certain moment, just now, and assume,
+
+[p. 231]
+
+what we *must* assume, (A + C), once posited in B, determines *itself*, in this B just as necessarily to a (− B), as it determines this B to a (+ b): then the (A + C), once posited in B, and becoming thereby, in the (− B), *aim, purpose*, must absolutely produce a (+ b), i.e. an *individual* life, (were it only a plant life), i.e. found the *essence* of the same, to which the material will relate partly as sensible attribute, partly as accidens, i.e. on which it will serve partly as *conditio sine qua non*, in order *to fall in this way or that into the senses* as individual, and, according to what it is, to arrive at *this or that* kind of imagining-into the world and imagining-into of the world in it under a consciousness, partly for the affections, without, however, being able to contribute the least to the essence of life, *as of a life in general*, to the essence of consciousness, *as of a consciousness in general*. This paves the way for us still deeper down, *if ever the reckoning is to be carried through to the very last*. Every monad is a mirror of the universe, said the great *Leibniz*, and hid his seer's glance behind images. Every primal material becomes an object (B − B), as soon as an A is posited therein;
+
+[p. 232]
+
+so runs this apophthegm of his philosophy without picture-language. In every primal material there arises, consequently, an extension, *as extension* (actuality), and a thought, *as thought*, (possibility), *an aim, a purpose*, as soon as an A is posited therein. Now, however, no object can subsist *as mere object*; A, posited in B, presses just as much for the manifestation of its own essence in a (− B), as for the manifestation of the essence (or of the form) on the material in a (+ b); under the stated presupposition, therefore, an organic being, which will be formed in the material itself, *as material*, according to coexistence, affinity, opposition, *must* receive its *essence*. (− B + b) represents accordingly, in the first power, *plant life*, (B, as divisor, remains, and admits no powers), indeed the life of a terrestrial body, according to whose orbit and climatic change the plants describe their orbit. But the A dominates in the life-impulse of a plant over the material only so far as is requisite for an *individual* life-impulse, annihilates only so much material as is unavoidably necessary for the production of an individual life-impulse, without its also making room, through a further annihilation of the material, for a (− B + b)
+
+[p. 233]
+
+*from outside*, hence for a (B − B² + b²). The plant, that is to say, has neither organs of sense, nor consciousness *through organs of sense*; other beings are not *for it*, hence it too is not *for itself*, but is there for other beings, just as the plant-like *in us* is not there for itself; we experience nothing of *that and how* we grow etc. (see above the *consequentias immediatas*, which have resulted in common for plants and man under ( − B + b B )). Plants are what *Leibniz* calls slumbering monads; they open to man the region of the *beautiful*, and through the beautiful the gateway to the true, in the true to the divine. Unity in the plurality of the form under an A is their design; on this form of the material there hangs again, on the side of the material, its multiplicity, and gives them the wealth of their various coloring. — Where organs of sense are, there they already make room for an object, *as this object*, through the material, in a becoming-conscious; for that reason they are *organs of sense*; although the A itself need not yet, for all that, enter consciousness precisely with its (− B), and organs of sense make room
+
+[p. 234]
+
+for the object, as a second object outside the *This* of its own: thus there arises from it ( − B² + b² B ). The A dominates here too in the life-impulse, *as life-impulse*, without, however, having itself to enter consciousness with its (− B). The cause, the *individual* life, appears as abandoned by the prius κατ᾽ ἐξοχήν, as mere feeling (instinct) in consciousness. In the lack of a becoming-conscious of the A, with its (− B), although it dominates, *as life-impulse*, in such an individual being, no minus of the becoming-conscious of the quantity and multiplicity of the material in apprehensions and their remnants in the mind can be brought about either; consequently no A with its (− B) can enter consciousness *from outside*, as plus, either; one cannot arrive at any *concepts*, as they were explained above. As the (+ b) from within, (the *individual* life itself) consists in a (+ b) without becoming-conscious of the A, (in instincts), so now also the (+ b) from outside (i.e. the *individual* apprehension together with its remnants) consists in a (+ b) without becoming-conscious of the A under a (− B). *Accidental*, as one thinks, a *This* is held out to one, now here, now there, for
+
+[p. 235]
+
+his inner impulse, i.e. for the satisfaction of his needs, as they arise as needs in the material; one lives in images, not in concepts, as they were determined above. But the accidental in them lies merely in the lack of a possible entrance of the A as A under a (− B) into animal becoming-conscious, comes from the plus of the quantity and multiplicity of the material in sensible representations, which, as this quantity and multiplicity, was not annihilated by the A dominating merely in the life-impulse, *as life-impulse*; (*animals*, *dreaming* monads; *human beings* in those respects in which they too are *dreaming* monads, i.e. do not know how they come by Something; see above those *consequentias immediatas* which have resulted in common for animal and man under ( − B + b B )). But there prevails here, after all, a significant difference. In the animal there must, to the ( − B + b B ) as its essence, (insofar as it *desires* something) also still, as *essential*, a ( − B + b B ) from outside, if it is to *be able* to represent to itself something in an apprehension,
+
+[p. 236]
+
+be added; for precisely therein, hence in the ( − B² + b² B ), consists the essence or the possibility of a desiring as well as of a representing. But just as little as the A for that reason has to enter animal consciousness, notwithstanding that it is indeed the prius κατ᾽ ἐξοχήν for the possibility of a desiring as well as of a representing, just as little does it follow from this that the animal would have to become wholly conscious also of the ( − B + b B ) in an apprehension from outside. According as the plus of the quantity and multiplicity of the material is constituted which is annihilated by A in the becoming-conscious of an external object in the animal, according to that the becoming-conscious of that which that formula asserts *must* be constituted in the animal. Now, however, it is quite well conceivable that in the apprehension of an external object by an animal, there might still remain such a plus of the material in this object, whereby not only the entrance of the A as A, but also of the (− B) into its consciousness would be made impossible. The formula ( − B² + b² B ), which
+
+[p. 237]
+
+nevertheless grounds the possibility of an animal consciousness, could consequently quite well be admitted in the animal becoming-conscious of the animal itself only with its ( + b² B ); this would mean in words as much as: the animal can, *as animal*, to be sure, in an apprehension be determined through actuality (as the essence of its representations) *under representations* to possibility (as to the essence of its desiring) *under a desiring*, and through possibility *under a desiring* in turn to actuality *under representations*; but it cannot take possibility, *as possibility*, itself into its animal consciousness, cannot *with consciousness* let actuality be determined in itself through possibility, and possibility through actuality, i.e. it cannot *think*. The apprehension is accordingly for the animal too a mere *conditio sine qua non*, notwithstanding that it must appear to it, (as to the man observing the animal), *as completely determining all* its exertions of force, since neither A nor (− B) is admitted into its consciousness; and therefore the ( + b² B ) taken up into it, in the lack
+
+[p. 238]
+
+of its prius for *animal becoming-conscious*, must concresce with the material straight away for it, which means precisely that it must present itself to it in its phantasy under sheer images with their fillings and multiplicities, as *last*, feigned determinations of its animal activity, (after the manner of the newest German philosophy of intuition and of the saturated *Critical* syllogism of reason). If human beings judge animal economy, they too, as said, usually stop at this or that attribute of the (+ b), hence of the *individual* life-impulse, as supposed cause, without going back to a prius κατ᾽ ἐξοχήν, indeed without going back even to a B, *tanquam id, quod est fundamenti loco ponendum* [as that which is to be put in the place of the ground], or to the (+ b) itself, as actuality, determined through possibility; therefore they also usually believe that they can get to the *ground* of animal economy through chemistry, hence through sensibly perceptible experiments which they make with the material, notwithstanding that they might thereby at best arrive at the *conditio sine qua non* for all other conditions, at the *consecutivum essentiae* at the end, after the Orientals and the Greeks began in this matter with water. But it is strange, after all, (what offers itself to me, without being sought
+
+[p. 239]
+
+by me), that in the essence of the plant only the (+ b) absolutely and in the first power, hence our third *One* as mere multiplicator of extension under A, shows itself absolutely, without our second *One* (extension, as extension, the alteration without further possible alteration) occurring already in the power of plants by means of a (+ b²), i.e. by means of an extension returning to them through organs of sense in the essence of a *representation* for them, (*vis, loco motiva animantium, virtualiter, s. quoad posse data* [the locomotive force of living beings, virtually, or as given in potency]). Should this not entitle me to the heart-lifting thought that the sensations which an object, *as object* (in life *in general*) must have in and for itself, (*virtualiter, s. quoad posse*), together with the sensations which, because (B − B) necessarily produces a (+ b), are necessarily connected with it, thus the sensations of the *father*, of the *mother* and of the *child*, may not be denied to the plant either, notwithstanding that it does not divide them into any representations, does *not enjoy them for itself, as individual*, and yet could enjoy them? — As the plant has indeed feeling, but as yet no representations from outside, so the animal has indeed feeling and representations from outside, but as yet no thoughts; (although
+
+[p. 240]
+
+its whole existence is determined by aims and purposes, hence by thoughts). Man describes the ( − B + b B ) of the plant in his feeling of life *as feeling of life*; he describes the ( − B² + b² B ) of the animal in its feelings and representations, *as feelings and representations*; he therefore infallibly has also the ( − B² + b² B ) for his essence. But ( − B² + b² B ) has been found also as the essence of the animal; where, then, would man's proper character be found? Does the A not only dominate, in the individual life-impulse of man, *as life-impulse*, over the change of the material, does it not only promote it there to an alteration without further possible alteration; but also undertake this very alteration without further possible alteration with the sense impressions in general, which have entered according to coexistence, affinity and opposition, as well as remained hanging (concresced) according to this type: then there arises from it such a minus of the becoming-conscious of the quantity and multiplicity
+
+[p. 241]
+
+(heterogeneity) of the material, in man *also with regard to his representations*, that now even our *first One*, and hence the highest and last plus (the A itself), will be able to enter into animal consciousness, 1 + 1 + 1 = 3 = ( − B³ + b³ B ).
+
+Where it will enter first is easy to judge. Namely there, where it had in any case to dominate wholly over the change of the material, in order merely to bring forth a consciousness, *as consciousness in general* (a *posse* of consciousness by means of the B), *consequently in the feeling of life*, which, *as human feeling of life*, is raised by the entry of the A to personality (− B³ + b³), but not first of all in sensible apprehensions, *as apprehensions*. Man first becomes *person*; there becomes sensible to him immediately, at the hand of Him who bears the universe, *That which is above him, and through him and in him*, the ὄν κατ᾽ ἐξοχήν, *the essence of essences*; there becomes audible to him *God’s* voice in *conscience* through the passage of the *Ur-One, of the First, which is and was*, into his *feeling of life*; (without thereby ever being able itself to become *human feeling of life*.) Before his consciousness, however, there passes by, even in the case of
+
+[p. 242]
+
+sensible *apprehensions*, the formula of the essences, not merely broken off in a ( + b² B ), as with the animal; but it stands there completely inscribed in a ( − B² + b² B ), *even in such cases*, where he is determined, in a sensible apprehension, like the animal, through actuality (as the essence of his representations) *under representations*, to possibility (as to the essence of his desiring) *under a desiring*, and conversely; consequently judges and acts according to *instincts*. The cause (+ b²) then comes to him, as was remarked above of the animal, under mere images with their fillings and multiplicities, yet under an expressly preceding (− B²) in consciousness. For in the human feeling of life itself, *as human*, the third power can indeed never sink so far to the second that man, *as man*, would lose his personality for ever from consciousness. But circumstances can nevertheless occur under which *temporarily* the quantity and multiplicity of the material, entering through apprehensions or stirring in any case in animal consciousness, becomes so overwhelming that the feeling of life (as happens in
+
+[p. 243]
+
+dreams) sinks to the second power. A coagulation of images, which lies before him, and which with its mere existence, according to coexistence, affinity and opposition, dupes him as an actual object, now hinders man from taking possibility, *as possibility*, into his consciousness without the animal appendage of conditions merely simulating it; he can no longer with consciousness let actuality be determined in himself through possibility, nor possibility through actuality, he no longer thinks in this moment, the A is lacking to him, his Ergo is no Ergo any more, hardly does the (+ b²), now set in mere images, maintain, through a (− B²) that always precedes it in human consciousness, i.e. through dreamt-up possibilities in those images themselves and through fabling projects, a weak connection with the A that has stepped out of consciousness; man is no longer man.—The object *in him*, and the object *outside him* through the object, *as object*, as it is given to his human becoming-conscious full and unmutilated, to let be determined under A, as the *prius* κατ᾽ ἐξοχήν, (setting aside all conditions already simulating beforehand this and that, which have to attach themselves to it only afterwards); and, because (B − B)
+
+[p. 244]
+
+necessarily produces a (+ b), by means of the (− B³), raised to the determining power through his representations as well as feelings, (*insofar as he wants to be called man*), also to found a (+ b³), i.e. a life corresponding to that first one, this is his great task, *in order to be man*. Unpardonable therefore is the unphilosophy which, with the dreamt-up inadmissibility of a physico-theology, would turn into a *deception* for us the will of God that meets man in every plant, since precisely this is the most real thing, and, for the weakness of our character, which even through supposed culture is ever more abandoned to animality, the most essential need. Even the doctrine of fables has, in the mouth of a philosopher to whom the *prius* κατ᾽ ἐξοχήν was already previously revealed, and who therefore regards the images as means, not as end, more sense than such a philosophy which, under the name of a war of extermination against *dogmatism*, fights with images, *as if they were end* (*or: thing in itself*), consequently with windmills. When the dying Socrates, *as Socrates*, speaks these last words of his life to *Crito*: *Friend, do not forget to bring a cock to the god of healing; for we owe him one*:
+
+[p. 245]
+
+so he is herein more a philosopher, i.e. *man*, than the German who in a great thick book ventures to impute to thinking itself, *as a thinking*, the deceptive property of phantasy, (a thought that destroys itself; for the man had after all to represent to himself *in his own head* even this non-empirical dogma as truth) in order, by a *dialectically* made thinking, *as thinking*, to annihilate phantasy-images, by working up through which (as through mere means) to the cognition of the essence of essences (as to the end) lies mankind’s divine vocation. No, even *skepticism* does not do this, and if it ever does or did do it: then it would deserve no refutation; *for it would destroy itself*. Yet without the course of speculation, hitherto left behind, in relation to the daily tasks of our conscience, (of thinking, as it reveals itself in our feeling of life), the sophistications of a critique of pure reason would not have been possible at all. *Actuality as actuality* to let be determined through possibility, *as possibility*, under an A in general, and hence an essence of essences, as primal being for everything that is, to find *apodictically*, (*omnibus, ex nihilo ducendis, sufficit Unum* [for drawing all things out of nothing, One suffices] *Leibniz*), and then, however,
+
+[p. 246]
+
+downward into life and into the world, to let possibility *in its application* (as − B) also again reciprocally be determined by actuality, in the necessary (by the absolute will of God as the primal being indeed absolutely, but also under ends, hence with *wisdom* dependent) production of a (+ b), and hence to assume no manifestation of the A *in us* without a (+ C), without preceding apprehensions, no manifestation of the same *for us* without coexistence, affinity, opposition in the material, (on which actuality lies as ground precisely *as their essence*), in short, to let the object *in us* and the object *outside us*, through the object, *as object*, as it is given to our human becoming-conscious full and unmutilated, be determined under A as the *prius* κατ᾽ ἐξοχήν, (setting aside all conditions already simulating beforehand this and that, which have to attach themselves to it only afterwards), this is just as much the misjudged *goal of all speculation* as it furnished above, in what is essential, the foundation of our conscience. Without many difficulties the following propositions might now arise from this also as the foundation of all speculation. Under a *prius* κατ᾽ ἐξοχήν everything that is is determined through possibility and actuality, with wisdom
+
+[p. 247]
+
+and necessity, of which the former, (possibility, namely), refers back to the essence of the primal being, the latter, (actuality, namely), to the essence of the material. Nothing can therefore be actual that is not possible; otherwise its actuality would be a contradiction, and nothing can be possible (− B i.e. determined wisely and necessarily by the application of an A to it, according to purposes) that is not actual; otherwise its possibility would be a contradiction. *This* possibility and actuality, however, to apply further to the *prius* κατ᾽ ἐξοχήν as well, to the primal being itself, and thereby to want to determine the same, since they are after all first posited through it, would likewise be a contradiction, and would mean as much as making the creator into the creature. To the Unnameable, Unchangeable, All-wise, Almighty there belongs only a *being* κατ᾽ ἐξοχήν, an ὄν κατ᾽ ἐξοχήν, but no longer the character of the standard of measure according to which it guides the course of the universe, and on which it bound, on this side the universe itself, on the other side its own being in a *human* becoming-conscious. Notwithstanding that this possibility and actuality constitutes our own essence, like the essence of all that is (i.e. that has an existence through *that being*): it yet enters only gradually into our *individual*
+
+[p. 248]
+
+consciousness under the *conditionibus* of affinity, coexistence, attraction and repulsion in the material, *as material*, from without, and under the corresponding *conditionibus* of similarity, coexistence and opposition in the material, *as material*, from within, (*Association*), which, considered as from within (as the inherited legacy of our dear I, as Ours), compose or configure our animal consciousness *individually*; but do not found its possibility, or its essence itself, (not even as *individually possible*). For since through affinity from without and similarity from within, through coexistence from without and within, through attraction together with repulsion from without and opposition from within, as through the material, separated from its essence (considered as non-ground, non-cause, least of all as *prius* κατ᾽ ἐξοχήν, but as a mere *conditio sine qua non* for *us children of men*), and hence through apprehensions from without and corresponding individual becoming-conscious from within, *thinking* in us is stirred up, while apprehensions, *as apprehensions*, and an individual becoming-conscious, *as individual*, absolutely cannot be changed into any thinking: thus thinking in us annihilates everything in the material or in the
+
+[p. 249]
+
+apprehensions, *as apprehensions*, in the individual becoming-conscious, *as individual*, that is material, and hence non-ground, non-cause, non-*prius* κατ᾽ ἐξοχήν, and hence mere affinity from without and similarity from within, coexistence from without and within, attraction together with repulsion from without and opposition from within, and brings it in this to the *object*, to possibility and actuality, to the form of thinking and to the form of the material (B − B), but also to the object as a *This*, to actuality determined through possibility (+ b); hence it brings thinking, in an individual human consciousness, to the *prius* κατ᾽ ἐξοχήν, to the ground and to the cause. But these three components depend on apprehensions on the one side, on an individual becoming-conscious, *as individual*, on the other. They are that which cannot be changed into an apprehension *as apprehension*, but for that very reason can be aroused through it; they are that which cannot be changed into an individual becoming-conscious, *as individual*, but for that very reason can be aroused through it. The excitability of the cause (i.e. of actuality determined through possibility) in our *individual* consciousness depends on the affinity with regard to the material from without, on the corresponding
+
+[p. 250]
+
+similarity with regard to the material from within (*called association through similarity*); the one as much as the other is *medius* for the excitability of the cause in our individual becoming-conscious, whereby one proceeds from sensible accidents to sensible attributes, in order to obtain *rationes sufficientes?* [sufficient reasons?] in the doctrine of the gods, as the *rabble* understood it; in our physics *forces* (without − B), and in the *Critique syllogisms of reason*. The excitability of the *ground* (*ejus, quod est Fundamenti loco ponendum* [of that which is to be put in the place of the ground], of actuality, or of extension, *as extension*) in our *individual* becoming-conscious depends on the coexistence in the material, outwardly as well as inwardly (as on *their* medius), without similarity in certain multiplicities stepping in between and separating the coexistence in consciousness. Hence B as B, stirred up in the coexistence without multiplicity stepping in between in consciousness, is answered, by thinking, through a necessary positing of thinking in the same as B, (space, time, mathematics), but by the impulse of life through the feeling of the *sublime*, i.e. through a momentary extension of the + b (of the cause in us) into the foundation of its actuality = B by means of thinking in us = A. One should not forget to remark that already a
+
+[p. 251]
+
+minus of becoming-conscious of *similarity* in *multiplicities* must enter, in order to make room for the plus of coexistence *as coexistence*. The excitability of the *prius* κατ᾽ ἐξοχήν (of that possibility which no longer requires any possibility for the determination of its being, hence of the absolute necessity in being κατ᾽ ἐξοχήν), in our *individual* becoming-conscious depends on the attraction together with repulsion with regard to the material from without, the corresponding opposition with regard to the material from within, (*association through opposition* so called); the one as much as the other is *medius* (condition) of the excitability of the *prius* κατ᾽ ἐξοχήν in our individual becoming-conscious. Here, then, a minus of becoming-conscious of similarity in multiplicities, a minus of becoming-conscious of affinity in the material, *as material outside us*, must enter, in order to make room for the plus of coexistence, *as a coexistence* in the phenomenon of attraction. But the plus of coexistence shows here, in its train, again a minus of the same in repulsion (or in opposition, *as an opposition with what was previously posited*). Every approach to the One is removal from the Other in the world; every movement
+
+[p. 252]
+
+is an alteration falling within the senses, which presents to us an approach to the One and removal from the Other in the world, hence attraction and repulsion as phenomenon, or, which is one thing, the alternating alteration in coexistence, *sensibly*, and consequently brings a plus and at the same time a minus into our consciousness. But to every minus a plus must again correspond. A position of coexistence, and in this position of a coexistence in turn a non-position of coexistence, cannot take place absolutely without a Third, grounding the position as well as the non-position; for how should a position be able at the same time to ground its own non-position? Here, then, there *must* be assumed either a *contingentia* (*Epicurean* chance, *Kantian* freedom, *Reinholdian* arbitrary will, *Fichtean*, all-positing act, *as act*,—*Fortuna volubilis errat!* [Fickle Fortune strays!])—i.e. a world-system that begins with a minus, and consequently without a head, or there *must* be assumed a *prius* κατ᾽ ἐξοχήν, a *primus motor*, an unchangeable primal ground of all motion. One has no other choice; either a not-thinking in a *contingentia*, or a thinking in an absolute necessity, (at whose side stands wisdom), by which also this apparent contingency
+
+[p. 253]
+
+must be determined. In such circumstances, since the cause, the ground, the *prius* κατ᾽ ἐξοχήν becomes excitable in our consciousness only under the conditions named, it easily happens that we take the conditions themselves, hence the affinity (similarity), coexistence, attraction together with repulsion, for the cause, the ground, the *prius* κατ᾽ ἐξοχήν, (so that to us, hence, what is the affair of the A is concresced with C), instead of having to presuppose the cause, the ground, the *prius* κατ᾽ ἐξοχήν, in order thereby to make an affinity, coexistence, attraction together with repulsion first possible, and to let these last three components attach themselves, with the *possibility* of their existence, to the formula of the essences ( − B + b B ). The physicist, e.g., will be able to believe that he has found out the cause of a thunderstorm in *electricity*, which a machine presents to him, whereas this electricity itself is nothing other than the sensible utterance of what follows necessarily from actuality, determined through possibility, given presupposed affinity of the material, hence a (+ b), given under certain *conditionibus* of the material, in which the mythologist makes known his confused insight into the necessary determination of the
+
+[p. 254]
+
+actuality *through possibility* (under the image of a *Jupiter tonans*), the physicist on the other hand makes known his clear insight into these very *conditiones*, under which a necessary determination of actuality through possibility manifests itself sensibly in a determinate way; for the physicist himself will not deny that he can see no cause; but certainly that under certain conditions he can let the concept of a cause, which *as cause* will always be the same, be aroused in himself. (When I speak of the cause as a *concept*, I understand, as is easily judged, the word *concept* not as it has hitherto been commonly explained; but take it for the *possibility* of a complexion of sensible apprehensions, in short for + b; I do not like to make new words; the only new word that I remember having made is the above one of a brilliant *judger* [*Urtheiler*]: whoever dislikes this may put instead: brilliant *raisonneur*; then it is quite French.) The mathematician will be able to believe that he has found the ground of the *equality* of the one angle, (so he says), at the base of an isosceles △ with the other, in the coexistence of the lines of this △, although this coexistence under an affinity is only the condition under which
+
+[p. 255]
+
+he recognizes the necessary form of the universal also in the form of the particular *as necessary*. The coexistence of the sun with the day, often repeated in our apprehension, makes us recognize it as a *conditio sine qua non* for the coming of day, and makes it therefore stir up the concept of cause in us, although it, *as something palpable to the senses*, can be anything but a cause, and although from that presupposition of an often repeated coexistence in our becoming-conscious, as the grounding of a cause, it would follow that a comet, with whose appearance great world-events coexist every time, must also contain the cause of them; just as little as the letters are the cause of what we read or write, so little is the sun, *as something palpable to the senses*, cause of the day.—Even when one has written a critique of pure reason, one will be able to believe that attraction together with repulsion is the *prius* κατ᾽ ἐξοχήν itself;—but no,—the *opposition*, the *either—or* of the disjunctive syllogism is said to lead to a *prius* κατ᾽ ἐξοχήν, but this *prius* κατ᾽ ἐξοχήν is said to be dialectical, until one hastens to its aid practically. This *opposition*, this *either—or* we must here still hold fast for just so
+
+[p. 256]
+
+long, until we thereby also fully arrive at the end-point of the *accidental*; for the *essence* of things we have. What in our cognition is the last, the pure cognition of a *prius* κατ᾽ ἐξοχήν, that is in the essence of things themselves the first, is the essence of essences, is *A as A in A through A*. In it the possibility (− B) of all that receives an existence through that being is given. It is unchangeable, and beyond every *either—or*, as beyond every *hypothesis*. But it has a material before it, or creates for itself a material; this is indifferent to philosophy; for the *creating of a material*, as creating of a *material*, falls into a region where it can absolutely determine nothing more *through itself* that is *act*, not *being*. It knows only, and knows *apodictically*, that with the A, *as A, in A, through A*, there must also be assumed a material = C, hence some coexistence or other, let it come from where it will, as unavoidable *hypothesis* (substrate, presupposition) *for actuality*, although it comes to fruition as actuality itself only through the application of the A to this coexistence with it; for just as little as the (B − B) can already be applied to A as A, just as little can, as is easily judged, this (B − B) already be applied to C
+
+[p. 257]
+
+*as C*; (the nought is no contradiction, but it also signifies nothing without a preceding *one*). Attraction together with repulsion, alternating alteration in coexistence, movement, was what led us last of all to A as necessary *primus motor*. Attraction together with repulsion, alternating alteration in coexistence, movement, will therefore again have to be the first thing that goes on, through the application of A to C, in C, and through which this C is advanced to an alteration without further possible alteration, to extension, *as extension*, to actuality after preceding possibility, to the beginning of a system of things according to purposes, to the (B − B). A system of things *according to purposes*, however, it cannot be, unless everything that is possible through (− B) in its connection with B thereby also becomes actual, hence (− B + b). Affinities will therefore *have to* present themselves, to this end, for the organism, and can present themselves by virtue of the preceding attraction and repulsion, by virtue of the preceding alternating alteration in coexistence; although they, as little as attraction and repulsion *for themselves*, can *found* the least thing in the organism, *as organism*. In order
+
+[p. 258]
+
+therefore to find mechanism, as it *now* is, comprehensibly, one must absolutely presuppose the organism as its ground. But in order to be able to take up the organism into the phenomena in which it now expresses itself, *as phenomena*, one must, besides the A, already originally also posit a C, for the purpose of the formula of the essences ( − B + b B ) unavoidably; whether this necessary coexistence has likewise arisen through the A, for which an attested fact speaks, or has not arisen, which philosophy, *as philosophy*, must leave undecided. Everything that now has an existence has its existence through ( − B + b B ) under an (A + C), so much is indisputable; indisputable, therefore, is it also that everything that now falls under our senses even *as mere mechanism* presupposes that formula. In other words: the necessary hypothesis for the possibility of the ( − B + b B ), namely the coexistence of the A with C in (A + C), is at the same time the necessary hypothesis of all existence, as it now falls everywhere into the senses; a material *must* be assumed, which
+
+[p. 259]
+
+through its existence leads first to the *being of the second order*, i.e. to ( − B + b B ) under an A, as the ὄν κατ᾽ ἐξοχήν; but now also through the *being of the second order*, i.e. through ( − B + b B ) under an A is so completely determined that all its change in all parts of the immeasurable realm of God, ordered and governed by God, under a ( − B + b B ), *as its essence*, *must run its course*. *Under a* ( − B + b B ) *as its essence*, it must run its course; but it could surely no longer be *its essence*, if the material had lost, through the annihilation of *it* by means of the A down to its form, also its *existence*, its, now regulated, coexistence with A. There is thus once more in this world of God no absolute annihilation; (*Kant’s a priori synthetic?* proposition that in all alterations of the corporeal world the *quantity of matter* remains unaltered), as where a *copula* would be annihilated, and this cannot be anyway. Even the relative annihilation of the material under A is rebirth
+
+[p. 260]
+
+of the same under a rule ( − B + b B ), is alternating transposition of its existence with a being, is all that it can ever gain. If the material remains, and it does remain: then a change remains; but the material remains now *under a rule*, hence a change remains under a rule. If a change under a rule remains, then the rule, *as rule*, must determine the change, but also the change, *as under a rule*, must determine the rule *in its application*. If the change, *as under a rule*, determines the rule, which it did not give but received, *in its application*: then this can again mean as much as: it determines it *to* its application, and then the change under a rule will, through *apprehensions* (as impulses), stir up the rule itself, *as rule*, hence as ( − B + b B ) in a consciousness such as the human one, e.g., is, i.e. precisely: awaken it in turn in a change under a rule, according to the multiplicities of coexistence, similarity and opposition of the material; or it can mean as much as: the change under a rule determines the rule quite properly *in* its application, i.e. this rule, which
+
+[p. 261]
+
+does not let itself be altered, will also *have to manifest in itself* the existence of the change, *hence the existence of the material itself*, as it is constituted on each occasion in its multiplicities, according to the measure of coexistence, of attraction together with repulsion, and of affinity, (notwithstanding that we invert it, and say, the rule manifests itself in the material, whereas the existence of the material manifests itself rather in that rule and according to it.) If the change under a rule determines the rule quite properly *in* its application: there arises an organic being ( − B + b B ). If the change under a rule determines the rule, already *in* its application manifested, also still *to* its application: there arises an organic being with a *faculty of representation* ( − B<sup>2</sup> + b<sup>2</sup> B ). If finally the rule, already determined in its application through the change, and also still advanced *to* its application in a faculty of representation, determines the change itself, as it runs its course under a rule: there arises a *thinking* organic being ( − B<sup>3</sup> + b<sup>3</sup> B ), *waking* monad. This
+
+[p. 262]
+
+monad will *wake*, insofar as it determines the change itself, as it runs its course under a rule, *through the rule*. This monad will *slumber*, insofar as the change under a rule determines the rule quite properly *in* its application in it (feeling in an *individuality*). This monad will *dream*, insofar as the change under a rule determines the rule, already manifested *in* its application, also still *to* its application in it (faculty of representation in an *individuality*). The minus in the middle, *the slumber*, the *mere feeling*, makes a plus possible from the one side and from the other. If on the material (by virtue of the alternation under a rule, *as this alternation takes place in a certain individuum*), hence on the *individual* apprehensions of a certain head, everything that is material in it is obliterated; then not only can the ( − B<sup>3</sup> + b<sup>3</sup> B ) *as rule*, but A itself too with its highest and last plus, enter his consciousness; he cognizes the *prius* κατ᾽ ἐξοχήν, together with the rule which it created for the universe, he *wakes*, and is a *human being* (*effective*). If however on the material (by virtue of the alternation under a rule, *as*
+
+[p. 263]
+
+*this alternation takes place in a certain individuum*), hence on the *individual* apprehensions of a certain head, not everything that is material in it is obliterated (in order then first to let this material attach itself again to the − B<sup>3</sup> + b<sup>3</sup> B, under a cognized A): then he dreams, when he speculates, seeks under an (− B<sup>2</sup>) standing everywhere in front with him (*as human being*), cause, ground and *prius* κατ᾽ ἐξοχήν in the conditions of similarity, coexistence and opposition, entangles himself therefore, for the sake of the (− B<sup>2</sup>) standing in front, in sheer contradictions, as, when he acts, in sheer transgressions, whereas the animal, for lack of a (− B<sup>2</sup>) accompanying its consciousness, is guided quite surely to its goal through similarity, coexistence and opposition. What even the merely *historical* cognition of a God and of his will, without having been guided to him by one’s own thinking, what then the taking up of this *historical* cognition into his *individual* feeling, as the mainspring of his actions, must contribute to the *moral* emancipation of man from the condition of an unhappy middle-thing, and how pernicious therefore the crooked course of a
+
+[p. 264]
+
+speculation which *denied the Good as God’s Will* might finally become, is plain of itself. *Moral* emancipation of man from the condition of an unhappy middle-thing between man and animal, *after and through* God’s will, consequently surely also chiefly *through* religion, is *freedom*; and to attain by the philosophical means to a high degree of this moral freedom, (to rid oneself of the *arbitrium servum*, ἐνθένδε ἐκεῖσε φεύγειν ὅτι τάχιστα· φυγὴ δὲ ὁμοίωσις Θεῷ κατὰ τὸ δυνατόν. *Plato*) I know no more excellent writing than *Ehlers’s doctrine of human freedom*, together with the works of the *Stoics*. — To B or to *extension, as extension*, the waking monad attains (in its representation) under the condition of *coexistence*; to (− B) under the condition of opposition; to (+ b) under the condition of similarity; just as its life itself *in its individuality* under the condition of coexistence to B or to *extension, as extension*: under the condition of attraction and repulsion to (− B); and under the condition of affinity to (+ b), hence under sheer conditions *on the part of the*
+
+[p. 265]
+
+material *already standing under a rule*, attained to individuality, *as individuality*. These conditions, now, must indeed be obliterated from within, as conditions of life, consequently as coexistence of certain parts, as attraction and repulsion, as affinity, even in the animal’s consciousness; otherwise no consciousness arises. But since the material nevertheless asserts its existence: so they show themselves for it as *conditions of representing*, or, as it is called, as laws of imagination (of the imagining-into [*Hineinbildung*] the world), and indeed in such a way that the coexistence under B is a law of representation as well as of memory *of the same name*, attraction and repulsion (under − B) a law of representation as well as of memory under the name of *opposition*, affinity (under + b) a law of representation as well as of memory under the name of *similarity*. Everything that comes to it from outside is consequently, even in the animal, not brought to it otherwise than under these conditions; the minus of a becoming-conscious of the material, *as material*, of which it (*individualiter*) consists, only makes room for the plus of a becoming-aware from outside. Just so it stands with us too, except that our apprehensions then reciprocally bring back the represented, not only as something
+
+[p. 266]
+
+represented, but also again as something thought, into our consciousness. If it comes back as something thought: then it comes back, let it be what it may, as (B − B + b), hence as a change under a rule, and reveals to us in this (B − B + b) the rule or necessary determination of every atom, to yield itself, under the requisite conditions of coexistence, of attraction and repulsion, of affinity, as soon as the change under a rule shall bring them about, to organism. What, according to the above results, (B − B + b) in us, as set into an image, yet into no *proper* concept, indicates, precisely that (B − B + b) indicates, set in *such* an atom, which the change under a rule has not yet brought under those conditions of coexistence etc., under which it must come, not only *virtualiter* but also *effective*, to the ( − B + b B ) in it. Just as therefore the continuing existence of the material on the one side is the indispensable condition for the application of the rule in an *individual* consciousness, even in the *individual* consciousness of man: so the continuing existence of the material on the other side is again the
+
+[p. 267]
+
+unavoidable obstacle, that the rule, present *virtualiter* everywhere and in every atom, nevertheless cannot be applied *effective* everywhere and in every atom, but must wait in the change under a rule for the conditions of coexistence etc., until it can come *effective* to the ( − B + b B ) in it. Only man has also already *effective* power over the being of this atom (of a *bound* monad), by expressing in a *judgment* its being ( − B + b B ), determining it not only as object, but also as a *This*, as e.g. in the judgment, *this wall is white*, which is nothing other than *a particular of the multiplicity* of the material (white), manifested in man in the rule of the universal, which expresses the formula of the essences ( − B + b B ). If now precisely this rule, after the change under a rule, manifests itself *effective* also in the atoms themselves, of which this wall consists, if the change under a rule brings about the requisite conditions of coexistence etc.: then there happens
+
+[p. 268]
+
+to these atoms what *virtualiter* lay in them already as atoms, and what my judgment (my rule for them) also as their rule already *effective* stated, they are *unbound*; their slumber begins in a plant, their dreaming in an animal, their waking in man. The material lying under them gives then the *particular of the multiplicity* (the species, subspecies, variety, individuality, indeed the *genus* itself, *as it has hitherto* been understood *in the logics as a mark-genus*, forth; ( − B + b B ) on the other hand the organism, *as organism*, yields the *genus*, *as genus*, or *as possibility of all genera*, the concept, *as possibility of all* concepts, i.e. of all complexions of sensible marks). — But it seems nevertheless as if we, over other discussions, had quite forgotten our above *Either-or*! It is not forgotten; but, through the stepwise course of the analysis, its discussion has been prepared, or rather first made possible. The material, or the disjunction *with* the *hypothesis*, had first also to be brought fully into the clear, after already before the disjunction *without hypothesis*, thinking in its necessarily disjunctive application
+
+[p. 269]
+
+to the *form* of the material, had been given satisfaction; *and now first are we also*, *with the accidental*, yet therein with what is necessarily determined, near the goal; the circular path will close. Above stands in his *Being* κατ᾽ ἐξοχήν, A (*as A in A through A*). As unavoidable hypothesis of his efficacy stands under him the *existence* of a material. A, (*as A in A, through A*) annihilates the material down to its form, so as, in the world of an all-wise Author, something lets itself be annihilated. In this way an *object* arises. The possibility becomes in a (− B); the actuality becomes in a (B): where (B − B) is posited, there with this also (+ b) is posited; the form of the universal *must* then also become form of the particular: a system of things arises. Possibility, actuality, necessity are in *this* region, on this side of the object and of the genus, *as genus*, hence indeed downward in the row and into the system of things, but nevertheless still abstracted from the material, *as material, as wholly inseparable*, given. What is possible must also be actual; what is actual must also be possible: what is actual and possible, and possible and actual, must be necessary. What is logically true must also be physically true; what is physically true
+
+[p. 270]
+
+must also be logically true. B at the object cannot take place without (− B), and (− B) at the object cannot without B, and (B − B) not without (+ b). But B is not on that account (− B), and (− B) is not on that account B; and (+ b) is neither B alone, nor (− B) alone, but is the immediate necessary consequence of both in their connection. Here a *disjunction*; but a disjunction *without hypothesis*; it is called *possibility, actuality*, (B − B); it is *absolutely* in regard to everything that stands under it, *absolutely* in regard to the whole world-system: it grounds the *Being of the second order*; *relatively* is it only in regard to the *Being of the first order*, to the ὄν κατ᾽ ἐξοχήν, *relatively* is it only in regard to *God*. If I see into possibility in mathematics: then I also see into actuality and necessity; and if I see into the actuality and necessity of a mathematical proposition: then I also see into its possibility. Just so in morals, where the actuality determined through possibility is called (necessary) *obligatoriness* (*obligatio*). Demonstrating itself and in general taken, what does it mean otherwise than to demonstrate through the possibility the actuality, and through the actuality the possibility,
+
+[p. 271]
+
+but through possibility and actuality the necessity of a truth? The ground, conditioned by nothing *in the world-system* any more, of all possible *Either — or* is hereby discussed. For it is that opposition (ἐναντιότης), which, separated by the opposing and yet indissolubly bound, two taken together, promotes to complete unity, and of which the one as well as the other stands under the absolute, uninterrupted influence of A, as of the essence of essences, without the one nonetheless ever becoming that which the other is, nor this that which that is. It is that without which no subject with its predicate in logic, — and without which no world-system, *as system*, would be possible. Everything that is to obtain an existence through *Being* plunges over this two-part cataract into life; above it thrones and guides the stream, and reveals itself and its world-system, *as system*, to man — *the Eternal Unnameable*. But this ground, conditioned by nothing within the world-system any more, of all possible *Either — or* can, without contradiction, just as little itself again be an *Either — or*, as *these* are, just as little as the *prius* κατ᾽ ἐξοχήν and the material, each considered by itself,
+
+[p. 272]
+
+could without contradiction already be an object. No, it must rather, as a ground, conditioned by nothing within the world-system any more, of every possible alternative, admit itself and *in its essence* no *exclusive* alternative any more, if every possible *exclusive* alternative is to be capable of being fully determined through it. In it must rather, as said, the possibility include also the actuality, possibility and actuality also the necessity; in short, it must be disjunction *without hypothesis* (without a further *conditio sine qua non within the world-system*); otherwise the disjunctions *with the hypothesis* within the world-system would have absolutely no firm hold on it. For if in the change under a rule, hence in the world-system, the change *only as change* stirs up the rule in the *becoming-conscious* (I say merely: in the becoming-conscious) of a subject: then it stirs it up, *as change*, in the quality of a mere unavoidable *hypothesis*, in order to arrive at the becoming-conscious of the rule. The rule ( − B + b B ) awakens thus *inwardly* in the becoming-conscious, there where it is given to a subject, as *ingredient* of its becoming-conscious, *necessarily*; it
+
+[p. 273]
+
+comes to the thought of possibility (− B) and actuality (B), and of actuality determined through possibility (− B + b). But that which stirred the rule in this way appeared in the becoming-conscious only as *change*, even though it is change under a rule, and *must be*. Did it appear only as change, then it appeared only as material; and did it appear only as material: then it appeared 1) only as a coexistence *without rule*, (without its *ground*), hence as *accidental* coexistence; it came about, we say, accidentally. Since now however the rule is nevertheless there inwardly in the becoming-conscious: so the coexistence itself will *have to* be made by us into the rule, or into the ground, into actuality, into the B in that which came into our becoming-conscious only as change (before one instructs us better). Actuality is posited into a piece of our world-imagining lying just now before us, into an *existence*, into a *Kantian* category of this name, which in *Kant* still has the singular quality that it, without being afflicted with space and time (*as a category*), nevertheless exhibits an existence. What is merely the indispensable hypothesis of an actuality for us, is thus itself made by us into actuality. But that by which the rule inwardly
+
+[p. 274]
+
+and in our becoming-conscious, only *as* stirred *through* a *change* from outside, appears in this becoming-conscious 2) as coexistence *under an opposition*; it might, it seems to us, either have happened or not, might either now or another time, either sooner or later, either here or there, either so or otherwise, either to a higher or lower degree and measure, have occurred; especially since our memory (the coexistence *in us*) brings forward a multitude of opposite cases in our consciousness. The coexistence, *falsely* raised by us already to actuality, or to the ground, which yet is merely *hypothesis* (*conditio sine qua non*) of an actuality for us, is thus now also fully honored by us with the honor of a *prius* κατ᾽ ἐξοχήν. The Either-or, with which it was overlaid in our representation, *as a mere representation*, rises in this representation, *but also only in it alone*, now fully above it, and goes, as *Fortuna*, as *Epicurean chance, which itself rules the coexistence (as the supposed ground) everywhere and absolutely, (as its prius κατ᾽ ἐξοχήν)*, as possibility *without*
+
+[p. 275]
+
+*actuality*, as possibility, posited for a mere supposed *accident*, as logically possible? but physically impossible, as hippocentaur and as chimera, as *Kantian* category of a possibility to be derived first from the wavering of a judgment, as *Reinholdian*, grown equally to the Either — or, *sans rime et sans raison*, arbitrariness etc., up over the universe. What is merely the unavoidable hypothesis (*conditio sine qua non*) *for us*, in order to stir up in us a *prius* κατ᾽ ἐξοχήν, an absolute, that even rules the ground (*id, quod est fundamenti loco ponendum* [that which is to be put in the place of the ground]) too, that is itself made by us into the *prius* κατ᾽ ἐξοχήν, *chance, arbitrariness*, (as imagination, *which first presses upon a thinking*), the *seemingly accidental* in a change, which nevertheless stands under a rule, and must stand under a rule, hence *can* admit nothing accidental; for otherwise there would be no world-system, *as system*, and the saying of Scripture: *without God’s, your Father’s, will not a hair falls from your head*; contains in this respect more pure reason than the whole *Critique of pure as well as practical reason*. But that by which the rule in our becoming-conscious only as
+
+[p. 276]
+
+stirred through a change from outside, appears in this becoming-conscious 3) as coexistence *under a similarity* (outwardly affinity). This similarity is mere *conditio sine qua non* for us, in order to arrive at the equality (identity) of the form of the material, how this form under A, according to everything that its three dimensions of space admitted, multiplies itself in itself, or, in other words, how it, as actuality, through possibility under A, is everywhere completely determined. In short, this similarity is mere *conditio sine qua non* for us, in order to arrive at (+ b), at the cause in every thing. Since now however after preceding coexistence *in general*, and preceding coexistence *under an opposition*, (attraction and repulsion, alteration of coexistence, motion), — the coexistence *under an affinity* really *on the part of the material* is the hypothesis without further hypothesis, in order to be able to posit therein immediately a (+ b), hence the identity of a form: so it all depends on whether the coexistence entering our consciousness *under a similarity* is also really a coexistence *under an affinity on the part of the present material itself*, (character of the acute heads; *harmonia*
+
+[p. 277]
+
+*vel quasi præstabilita* [or as it were pre-established]), or not, (character of the philosophical etc. cranks, *ils aperçoivent les verités de la Geometrie, mai elle ne leur aprend point à peser les probabilités. Ils ont pris leur pli, ils raisonneront de travers toute leur vie, et j’en suis faché pour eux, Volt. Quest. sur l’ Encic. Art. Esprit faux*) [They perceive the truths of geometry, but it does not teach them to weigh probabilities. They have taken their bent; they will reason wrongly all their lives, and I am sorry for them]. Is it a coexistence under an affinity *on the part of the present material itself*: then it is a *conditio sufficiens*, an applicable material-*medius*, in order to stir up (+ b) *there in us*, where it also outside us, under a hypothesis without further hypothesis *on the part of the material*, under its sensible attributes, is posited immediately and *effective* in a present object, where we consequently can determine applicably, and without further Either — or, the actuality thereon categorically through the possibility, (*posita conditione sufficiente, ex attributo sensuali, qua attributo* τῷ (+ b), *ponitur effectus*) [the sufficient condition being posited, from the sensible attribute, as attribute of the (+ b), the effect is posited]. As well as one can therefore say: *L ponit M*, just as well can one also say: *Non L (conditio non sufficiens) non ponit M*, of which indeed our hitherto best logics (*Ploucquet Elementa Philos. Contempl. p. 71,* Maaß l. c. p. 11) assume the opposite,
+
+[p. 278]
+
+and in the second case merely had to say: *Non M, non ponit L.* — What accordingly is merely the unavoidable hypothesis of a *cause*, of a *genus*, of a *concept* (as of the *possibility* of any complexion of sensible apprehensions) for us, the affinity of the material marks from outside, and the complexion precisely *of these* material marks from outside, *which have affinity*, also from inside through our manner of imagining-into [*Hineinbildung*] the world, as well as the imagining-into of the world in us, that is itself made by us into the cause, (until we are instructed better); in that we say e.g. categorically: the germ or the seed is the cause of the plant, further that our earth is a planet, is the cause of its motion around the sun. (Now Hume’s objections against the concept of cause, *without all Kantian critique*, might have been sufficiently met, and at the same time my above, contradictory-sounding, expression of demonstrative syllogisms *in empiricism* be justified. The *Humean* habit, the routine, can indeed ultimately lead to the affinities of a present world-section, hence to the immediate stirring of the (+ b) in us, there where it also from outside *effective* lies, consequently to demonstrability *in empiricism*, *in the routine*,
+
+[p. 279]
+
+as to the *conditio sine qua non* for this kind of demonstrability). — But the *Either — or* in our animal becoming-conscious (in our manner of imagining-into the world), is now only dispatched *as deception*, without its usefulness for truth itself having been already wholly discussed; hence it is not yet fully dispatched. For even deception namely can in a world-system, *as system*, not be absolute, but it must be merely relative, i.e. *it must make room for truth*, as the immortal *Leibniz* has proved of evil in the world in general, that it becomes each time the mother of the good. On humanity’s most important concern, on God, leads the *Either — or* the thinking man *apodictically*, this we saw. On the possibility of an application of his thinking in general to the cognition of the world of the senses, leads the *Either — or* every man (as unavoidable hypothesis of this possibility of an application of it), this remains still to be demonstrated. It is not to be denied that *this Either — or*, which is not, as one hitherto supposed, a law of understanding and thinking, but lies in our imagination, all sophistry, all conflict of philosophical systems, all objections of skepsis,
+
+[p. 280]
+
+and indeed each of these pieces *as a supposed* work of *thinking itself*, it has occasioned. It is further obvious that without the taking up of *this* Either — or into the form of thinking itself, no condemnation of this form, recently experienced by us, to a mere blind-work would have been possible. Yet incomprehensible might it seem to one that one should have been speaking so long of a form, hence of something unalterable, of the essence of things, and yet in doing so *was able* to take an *exclusive* Either — or, even into the form and the essence of thinking, *as of a thinking*; but most incomprehensible of all, that the actual *formal-philosopher* of our century was capable of treating the form, hence the essence, without which things would be nothing, in such a way, as if it were a mere non-essence, which only through intuitions gets a content, an essence, a sense and a meaning for us. What, from page 82 on, is reported as new in the *Critique of Pure Reason*, must therefore appear to a sober age, which no longer has a mind to let its own reason have the staff broken over it, as the most ridiculous satire on the philosopher himself who wrote it. Not even in man’s imagination
+
+[p. 281]
+
+is there, in spite of *its* either—or, such an *absolute* deception as that of our *reason*, in *Kant*, which would not even be usable as an instrument (organon) for something real, *l. c.* This will soon appear, if we first of all reassure ourselves again of the whole series of our thoughts belonging here. A being-represented *outside-, beside- and after-one-another* is a *conditio sine qua non* if in our thinking a *something* is to be represented; this was proved above. This outside-, beside- and after-one-another is and remains, *as form*, indestructible; but because it is an outside-, beside- and after-one-another, it is the indestructible form of a thing which is not already everything that it is *in and through itself*, in which therefore, *as in this thing*, (abstracting from its *form*) a temporal *becoming*, a *growing*, a *diminishing*, a *difference of degree* takes place. It is material, and alternates *as material*; but its alternation now stands under a rule, which states the formula of the essences; and if it stands under a rule: then in it, as alternation *under a rule*, no either—or occurs any longer; so much is evident. But through *being* under a rule the material, *as material*, has nevertheless not lost its existence; (see above!)
+
+[p. 282]
+
+If the material has not lost its existence, *as material*: then its existence will now manifest itself in the rule either as an existence through which being in us is merely stirred up, or else as a being through which an existence in us is determined. If the material manifests to us its existence *merely as an existence*: then it manifests it to us *without rule on its part*, hence with the possible opposition of a being-there, etc. (simple representation). If the material manifests to us its existence under a being; (if we annihilate in thinking the material, *as material*, down to the form): then it manifests it to us with the rule on its part, hence without possible opposition of a being-there, being-other, etc., in that it *is there*. In the former case the existence itself is indeed no deception; but the possible opposition of a being-there, being-other, etc., *in that it is there precisely now in this manner*, is a deception. But it is a deception which becomes usable as an instrument (organon) for something supremely real; in that through the existence, as no deception (in so far as it is taken merely for an existence), the *actuality* in a consciousness, to which it is conferred as actuality; through the possible being-there, however, of that which nevertheless *is there*, *as a deception indeed*,
+
+[p. 283]
+
+the *possibility*, (hence actually something supremely real) in a consciousness, to which it is conferred as possibility, is consequently stirred up through both together (B − B), and finally, through the coming-together of existence and being-there in our imagination, (as outside us through attraction and repulsion) like adds itself to like, hence, for the stirring-up of the (+ b) in our becoming-conscious, the necessary hypothesis, without further hypothesis on the part of the material, is wholly prepared. This last, there, when like joins like, therefore gives us the *categorical* assertion about things, for which we have found the *conditionem sine qua non* for all conditions, the sensible attribute, in that likeness, and gave our hitherto existing logics 1) one of their so-called supreme laws of thought, of the title: *nihil sit sine ratione sufficiente* [let nothing be without sufficient reason], which the *Kantians* have even transformed into a subjective condition of the possibility of a thinking in general, *as a thinking*, (*Jacob l. c.* p. 38, §. 82., *Kiesewetter l. c.* p. 10, §. 17, cf. pp. 11, 12) and which *must* run thus: *posita conditione sufficiente quoad materiam, necessario ponitur causa* (+ b), *et posita causa* (+ b) *sub conditione sufficiente quoad materiam*, (the change
+
+[p. 284]
+
+under a rule unbinds the bound monad), *necessario ponitur effectus* [given a sufficient condition as to the material, the cause (+ b) is necessarily posited, and given the cause (+ b) under a sufficient condition as to the material, the effect is necessarily posited]; (in its purity it will have to run thus: *posito* (B − B), *necessario ponitur* (+ b), *vel virtualiter*, *ubi deest conditio sufficiens quoad materiam*, *vel effective*, *ubi adest conditio sufficiens, quoad materiam* [given (B − B), (+ b) is necessarily posited, either virtually, where a sufficient condition as to the material is lacking, or effectively, where a sufficient condition as to the material is present]). There was given 2) to our hitherto existing logics their material-*medius* for *categorical* syllogisms. The first, on the other hand (the existence, namely, as no deception in so far as it is taken merely for an existence,) gives us the *categorical* assertion about things of which we were *eyewitnesses*. But as to the coming-together of existence and being-there (being-other) in our imagination, in particular: it is quite properly the brief sum of all that must happen on the part of the material in order to make objects of the senses *cognizable* to us through thinking. Not only is it the outcome of that coming-together that likenesses thereby join with likenesses, and thereby procure for the (+ b), the possibility of a causal connection in us, the requisite foundation; but it serves in general every one of the supposedly pure laws of thought hitherto set forth in the logics as the indispensable hypothesis. For if the existence, with the imagination-opposition of the possible being-there of a thing,
+
+[p. 285]
+
+which nevertheless *is here* and hence *can*not be there, has once stirred up in us the actuality and possibility (B − B), and likenesses (complexions of sensible marks, first images, afterwards concepts in the ordinary sense) have thereupon, because (B − B) necessarily produces a (+ b), under this (+ b) now necessarily ensuing, also necessarily been drawn together in us: then, *reciprocally*, all existence comes now to stand with us under B, all being-there or being-other under (− B), every complexion of sensible marks under (+ b), in such a way that we judge or *cognize* all existence and being-there (or being-other) according to (B − B), all complexions of sensible marks under likenesses, according to (+ b); (the latter gives us the manifold *forces*, or complexions of sensible marks under (+ b), in which, *as mere complexions of sensible marks*, we falsely believe we have found the key to the innermost of nature). B now, in so far as it is B, cannot be (− B); and (− B), in so far as it is (− B), cannot be B; (+ b), however, can be posited neither through B alone, nor through (− B) alone; but must first be posited through both together. In accordance with this we now judge or *cognize* 1) that the existence or presence according to space and time (thus
+
+[p. 286]
+
+that which stands with us under B), *in so far as it is here*, is not also absent according to space and time, past or future, consequently, regarded by us as B, not also at once (− B); but that also, conversely, the absent according to space and time, the past or the future (thus that which stands with us under − B), *in so far as it is absent, past or future*, is not also present according to space and time, consequently regarded by us as (− B) cannot also at once be B; (*idem non potest simul esse et non esse* [the same thing cannot at once be and not be]). Were B, as B, at once also (− B): then A, as A, which produced both, and manifests itself in both, *but also essentially distinguished both*, would have at once not to distinguish both essentially, consequently to deny its necessity as *prius* κατ᾽ ἐξοχήν, i.e. to become Non A out of A, which contradicts itself. If the existence, as standing with us under B, *in so far as it stands under this B*, cannot also be regarded by us as being-there or being-other, because otherwise B, in so far as it is B, would also at once have to be (− B): then it follows that a sensible mark which once is here, *in so far as it is here*, cannot possibly also at once be regarded as a sensible mark which would be *there*, hence not *here*. If, then,
+
+[p. 287]
+
+to such a thing, as this thing, a sensible mark is now just ascribed by someone: then this ascription, just now occurring, of this sensible mark must hold, with him who ascribed it to it, for a *being* (actuality = B), until perhaps the existence of this sensible mark in this thing (in alteration under a rule) has become being-there or being-other (never however absolute not-being), although another is not compelled to judge precisely so with respect to this *lent* kind of being; but rather arbitrary affirming or denying, as the Critique calls it, may begin here. In every possible judgment (about things that fall within the world-system), be it affirmative or negative, there is accordingly expressed 1) a being of the first order (a thinking) 2) a being of the second order (B − B + b), 3) a lent being of existence or being-there under (B − B), whereby he who, with respect to the *lent* being asserted therein, posits under B the judgment already determined in its essence by Nos. 1 and 2, will affirm it, but he who in this respect posits it under (− B) will deny the same. Since now all in a world-system must be determined under (B − B), and it within the
+
+[p. 288]
+
+world-system there is no third *determining* thing (+ b itself is not determined thereby): then only from this follows the proposition, which unavoidably needs the foregoing *opposition* in the imagination as its indispensable hypothesis; *to every thing a certain mark either accrues or does not accrue*. If one has, then, once gathered together empirically all that which, according to our manner of imagining-into the world, belongs to the existence as well as the being-there of an object of the senses at hand, if one knows, e.g., once all the primary colors, and one of these primary colors is in question in the case of a certain existence (hence under B): then one need only, through the imagination-law of the opposition, make present to oneself all the variations hitherto observed of the being-there or being-other of the primary colors (under − B), in order to be able to say with certainty, either this, or that, or a third, etc. primary color must accrue to the existence at hand, (objects of the senses under B); for through (B − B) everything in a world-system is completely determined. But notwithstanding that B, as B, cannot also at once be regarded as (− B), and conversely: still neither can take place without the other. Since, then, e.g., the denier posits under (− B) that which the affirmer
+
+[p. 289]
+
+posits under B: then the denier too must have set in front of his (− B) a B (as objects), and the affirmer must have attached to his B a (− B), as objects. This means, in other words: the being *lent* to an object in language or during apprehension indeed admits, to be sure, of the alternative of existence (under B), or being-there (under − B), and is for that very reason merely lent; but existence as well as being-there, *regarded in and for themselves*, must nevertheless be as possible as actual, and as actual as possible; what is logically true must also be physically true, and what is physically true must also be logically true; whether it be, *according to the measure of alteration under a rule*, here or there, in the past, present or future (prognosticating), only ripe for *effective* emergence in the series of phenomena; this does not matter at all for being in itself (within the world-system); enough that no actuality without possibility, and no possibility without actuality, *can* take place, so long as the object is not to become a non-object. *What contains no contradiction, is*; and *where accordingly in the representations of a man something is represented without contradiction, (hence thought)*,
+
+[p. 290]
+
+there the representation is *therefore correct, because with logical truth physical truth is just as inseparably bound up as (− B) with B, or as possibility must be bound up with actuality*. *What, on the other hand, is represented in the representations of a man, and is not, contains a contradiction; and is not merely because it contains a contradiction. To contain a contradiction, or to be called error, deception, deceit of the senses, is all one*; if it were, e.g., no contradiction that the sun revolved about our earth, then the sun would revolve about our earth, and the deceit of the senses, according to which we *must* believe the sun revolves about our earth, is deceit of the senses for the very reason that the belief built upon it contains a contradiction; the occasion for this contradiction, however, is that in this phenomenon too the material manifests its existence to us merely as an existence, hence without rule *on its part*, *and we now* take *the mere hypothesis* (*conditio sine qua non*), *in order to arrive at actuality*, for actuality itself; (in the animal it is no contradiction, hence no deception either;
+
+[p. 291]
+
+for the (− B²) does not come into its consciousness at all, and it must therefore hold the existence too merely for a *mere existence*). Just so it goes with us too in *sinning*; and the most powerful means against sinning is therefore to instruct one, concerning that which one is, *as man*, in something *better*; but not, concerning God, reason and world, as the sickly philosophy does, in something worse, by making, in the light French taste, Germanized through *Kant*, essence into non-essence, and non-essence into essence. *He who knows what is wrong, and does it nonetheless, to him it is sin; but if he knows it* (has taken it up hypothetically into a *thinking*, not merely into an association) and connects it with the *most real* thought of an *omnipresent* deity: then he will not sin. — Enough; and now also, finally, to the second proposition just indicated, that (+ b) can be posited neither through B alone, nor through (− B) alone, but must first be posited through both together. In accordance with this proposition men have as yet judged or cognized little; for they did not cognize the cause itself, *as cause*; but confused it with mere conditions (in the material). Now, however, in accordance with the same we cognize and judge II)
+
+[p. 292]
+
+that a category of cause, taken out absolutely from the hypothetical judgments of our understanding, consequently doubtless also all hypothetical judgments, *as hypothetical*, grounding, but at the same time, *as cause*, according to their nature and their essence, completely categorical, — could indeed have no sense and no meaning, so long as one does not accustom oneself critically to intuit them blindly; but that also, so long as it was still possible to deal thus with the cause in any school of philosophers, no philosophy at all has been possible among us. I therefore only remind further that the form of the universal would be sought in vain in the form of the particular, and consequently no world-system, *as system*, would exist, if it were not so that (+ b) can be posited neither through B alone, nor through (− B) alone, but must first be posited through both together. The essence of every atom consists, *as essence*, of an extension, *as extension, which at the same time has its purpose*, hence of (B − B + b). Only it depends on where and when the alteration under a rule will stimulate this bound monad (in the realm of lifeless nature, as we speak) to the becoming of an organic individual being. This too happens according to just the same rule, and under
+
+[p. 293]
+
+the conditions requisite in each case, on the part of the material in the macrocosm, as happens with us men, as the microcosm, when a manifestation of the essence of things is to be laid out in us, as human individuals. Naturally, the *multiplicity* of the material, which we cannot survey, which is something wholly other than *plurality*, (a million is *many*, but not *manifold*), must admit millions of varieties, under the very same (B − B + b), infinitely many times repeatable (through A), in us and outside us. The essence of all these varieties nevertheless remains for that reason one and the selfsame everywhere; otherwise it would be no essence, and the world would be no system. For at the beck of him who bears the universe, of the near and of the far, the omnipresent, eternal and all-wise, *plurality* in the unity of the form is made capable, by virtue of its three indestructible spatial dimensions, of underlying those millions of varieties, as *ground* (B), and as *their* respective (+ b). To know the possible sum of the pluralities in the unity of the form, which are permitted through its three spatial dimensions, would therefore mean as much as to know the *cause* (Ur-sache) (+ b) of each kind of those millions of varieties? For drawing and outline are indeed, as *Sulzer*
+
+[p. 294]
+
+says, the very *soul* of painting. — — — On the *object*, on the *This*, on the *either—or*, therefore, depends the philosophy of the system of things, *as world-beings*; so much, I believe, this remark has *demonstrated*. The reckoning has been carried through to the last; and now I can therefore also conclude the remark itself. I do so with a brief compilation of its principal results:
+
+That which grounds the possibility of the object (B − B) cannot again be object (B − B), but must be *prius* κατ᾽ ἐξοχήν, *God*, (*manifestatio Essentiae divinae* [manifestation of the divine Essence]) and under him must be, as hypothesis, *material*.
+
+That which grounds the possibility of the *This*, whose hypothesis in the material is the coexistence *under an affinity*, cannot be B alone, and not (− B) alone, but must be B, determined through (− B), = (+ b).
+
+That which grounds the possibility of the exclusive *either—or*, whose hypothesis in the material is the coexistence *under an opposition*, cannot itself again be exclusive, but must, without possible exclusion, be together, hence (B − B).
+
+[p. 295]
+
+B (− B + b) *virtualiter*, (*sine conditione sufficiente quoad materiam*); *bound* monad in alteration under a rule.
+
+B (− B + b) *effective*, (*cum conditione sufficiente quoad materiam*); *slumbering* monad, essence of the *plant*.
+
+B (− B² + b²) Essence of the *animal*; enters the consciousness of the animal as ( + b² B ); *dreaming* monad.
+
+B (− B³ + b³) Essence of *man, as man*; enters the consciousness of man either as ( − B² + b² B ); — *animal-man*;—or as ( − B³ + b³ B ), where it comes in him, theoretically as well as practically, to the recognition of *A as A, in A, through A*; *waking* monad; *man*.
+
+These formulas will remain, so long as a cognition of that which was thought by *Pythagoras*, (perhaps
+
+[p. 296]
+
+from the Orient) under numbers, stirred up again by *Leibniz*’s lofty spirit, but also vanishing meteorically with him—the *law of identity*—, consequently a cognition of thinking, consequently a philosophy, remains among men; this I know, and I bow in the dust, over which they may pronounce the *et me aliquando vixisse* [and that I too once lived], even if it mingles my ashes again with the ashes of my fathers. How the powers in the above scales and *consequentiis immediatis* are to be placed, where the latter relate to man, *as man*, the knowledgeable reader will gauge for himself. It would be a small trouble to enter the numbers there properly. But there I could only divine powers, not yet *think* them; they therefore do not yet belong there. — Thus it developed with me: thus I have thought it; thus written it down: and thus shall it also be printed. I shall alter nothing, but only strike out what my I may here and there have inspired in me in displeasure, and what my *reflection* finds unfair. — — That neither *thinking as thinking*, nor the object, *as object*, nor the This, *as This*, admits of any other than a *categorical* relation, hence of *no difference of relation* at all, I hope now
+
+[p. 297]
+
+no longer to need to prove. With modality, then, may this Outline conclude.
+
+3) The copula in *hypothetical* judgments is absolutely necessary and without difference of modality; or, what in every possible *hypothetical* judgment is merely thought (hence is formally and properly *logical* in the hitherto accepted sense of the word), that is absolutely necessary and without difference of modality.
+
+*Rem.* Just this holds of the *object* and of the *This* (B − B + b) in every *hypothetical* judgment; both are absolutely necessary and without difference of modality. The little word *If* designates merely the hypothesis on the part of the material, over which one would gladly arrive at the object as a *This*, hence at the *cause* (Ur-sache) of a phenomenon; hence in the best logics before *Kant* hypothetical syllogisms were already counted among the *syllogismi imperfecti* [imperfect syllogisms], (*Ploucquet l. c.* p. 58, 59). If now the hypothesis on the part of the material is a *conditio sine qua non*, for all the remaining conditions, if it is provided with the requisite *sufficiency*: then *that which is inferred from it will also be correct*. Only the *prius* κατ᾽ ἐξοχήν has a consequence
+
+[p. 298]
+
+without any hypothesis already in and through itself, (*A, as A, through A*). — How our hitherto existing logics dealt with *ground and consequence* in hypothetical propositions is evident from the following passage in *Kiesewetter l. c.* p. 50, §. 109. “If, then, one posits the ground, one must also posit the consequence; but not conversely, if one posits the consequence, one must also posit the ground, *for a thing can be cognized from several grounds*.” This is supposed to be logic, and indeed pure general logic, when one concedes to thinking the necessary positing of the consequence through the ground, but no longer the necessary positing of the ground through the consequence, since there can, after all, be *several grounds*? — Is, then, an empirical condition a ground? A logic which makes empirical conditions into the ground, and which then concedes to the *consequence* the apodictic character of its connection with the ground, but denies to the ground the apodictic character *of its* connection with the consequence, in that it says: *if one posits the consequence, one need not also posit the ground*;” is it a logic? A logic which, however, then nevertheless asserts again (p. 110, §. 235): “if the
+
+[p. 299]
+
+consequent (the consequence) is *cancelled*, then the antecedent (the ground in the hitherto existing sense) must also be *cancelled*, *for the antecedent stands with the consequent in the relation of ground and consequence*” — a logic that thus *customarily* gives back with the other hand, *according to circumstances*, what it has taken with the one: is it a logic? If the ground is there, then the consequence is there; and if the consequence is there, then the ground is there. This a logic that is to deserve its name must hold fast to, even if it did not know how it is then to get along with certain apprehensions. The arranging of certain apprehensions must conform to logic; not logic to the special view of certain apprehensions: and where both come into conflict, there the settling must therefore not be sought at the expense of logic, and by means of a restriction, i.e. annihilation, of its *apodictic* assertions; but the apparent conflict must lie in an (illogical) confusion of our representations of things, as e.g. here in the confusion of the ground with mere sensible conditions. If it comes, in alteration under
+
+[p. 300]
+
+a rule, to the possible manifestation of the ground *under certain sensible conditions*, (certain affinities): then it comes *eo ipso* also to the possible manifestation of its consequences under these sensible conditions. The consequence posits the ground everywhere as well as the ground the consequence. — If I know further, e.g., once, and know it *apodictically*, that the form of the universal *must* also be the form of the particular, if the world is to be no chaos but a system, and the atom will not fit itself to this apodictic assertion: then I should proceed very absurdly if I wished on that account to restrict again, i.e. annihilate, the apodictic assertion in the case of the atom. No, the atom *must* then bear the form of the universal in itself, like the greatest of all suns; and if it should ever not be so with it: then it is not its fault but mine, in that I take the lack of manifold sensible marks in it as if it therefore also lacked its share in the form of the universal, that is to say, as if it did not belong as well as I to a world-system, *if it is to be system, no chaos*. (No concept, no word, no proof, not even
+
+[p. 301]
+
+a connection in sensations, no sympathy, would be possible if the form of the universal were not also at the same time form of the particular. *Kant* treated form (the essence) in the *Critique of Pure Reason* as a mere *façon*, and, because the *façon* of a tobacco-pipe bowl would be nothing without the tobacco-pipe bowl itself, he judged quite transcendentally that form first becomes something through its content; for the material, he said, is what first gives it sense and meaning. How he proceeds in this with the object itself, according to an *omnitudo* appended to it, by means of logical conversion, is to be read in the *Critique of Pure Reason*, p. 283, where one will in any case find exceedingly much that is remarkable about possibility, actuality and necessity, from p. 265—288, as well as about the ὂν κατ᾽ ἐξοχήν from p. 113—116. This *per parenthesin*).
+
+4) The copula in *disjunctive* judgments is absolutely necessary and without difference of modality; or, what in every possible *disjunctive* judgment is *merely* thought (hence formally and properly *logical* in the
+
+[p. 302]
+
+hitherto accepted sense of the word), that is absolutely necessary and without difference of modality.
+
+*Rem.* The same holds of the object and of the *This* (B − B + b) in every *disjunctive* judgment; both are absolutely necessary and without difference of modality. That one must begin with disjunctive judgments in logic, if it is to come forth into applied thinking, because without a preceding disjunction (even without the *exclusive* either-or) no categorical and no hypothetical judgment would be possible in empiricism, is evident of itself from what was said under the Rem. to No. 3 of this §. It is striking that the *Kantians* too (*Jacob* l. c., pp. 83, 85, *Kiesewetter* l. c., pp. 54, 55) concede to hypothetical as well as to disjunctive judgments no other than *apodictic* modality: not because they had observed in this the *copula, as copula*, the *object as object*, the *This as This*, in its connection with the first two; otherwise they would have had to assert the same of *categorical* judgments too; but because in hypothetical and disjunctive judgments the relation of the ground to its consequence
+
+[p. 303]
+
+is expressed, but the ground posits its consequence *necessarily*. Yet if the ground now posits its consequence necessarily, how could they, a couple of lines earlier, nevertheless ascribe to hypothetical judgments a difference of quality, and say, e.g. (*Jacob* p. 84): in respect of quality they can be *affirmative* or *negative*? Did this latter statement not clearly prove to them that *their* ground is no ground at all, but merely a *conditio*, posited by them for the ground, on the side of the material, which as present *conditio* introduces the *modum ponentem*, as absent *conditio* the *modum tollentem*, into a hypothetical judgment, whereby, however, the consequence, *as consequence*, remains inalterable, and hence just as little capable of a difference of quality as of modality? Should it not at least have occurred to them, in endowing *disjunctive* judgments with the modality of the *apodictic*, that what they hold for a ground is none? For how can one set up the proposition (*Kiesewetter* p. 55) that in respect of modality disjunctive judgments are *apodictic* for this reason, *because the members determine one another reciprocally as ground and consequence*,
+
+[p. 304]
+
+in that the assumption of the one member would be the ground why one must necessarily exclude the other (or the others)? But does this mean: *the members themselves* determine one another reciprocally as ground and consequence? In this way the *learned man* would be the ground, and the unlearned man his consequence, if I said: either Caius is learned or unlearned. Yet this concerns only the confusion of language. So, to the point! I assume the case that, with regard to a certain object of the senses, one has only to choose between two colors, so that it would have to be either red or green. According to the Kantians this sole possible choice between *Two* would be the ground why one could then draw from it the *apodictic* inference and assert absolutely: the object is not yellow, not white, not black, etc. But is this presupposition, that there are only two colors that stand in the choice, then not merely an *empirical* condition, which for that very reason can by no means be a ground? And if one then asks after the real ground of that inference, apodictic under the said condition, i.e. if one wants to know the last thing, on which it necessarily rests in the world-system,
+
+[p. 305]
+
+will *this* ground not lie in something of which there is no thought in *Kant*, namely 1) in this, that through B (actuality) and (− B, possibility) everything in the world is completely determined, and that what has therefore once been brought under these two components absolutely admits of no third any more, whereby something could still be determined, (*omnimoda determinatio Logica adeoque et Physica*; *Kant*’s aggregate? *Critique of Pure Reason*, p. 112); — — 2) in this, that what is once posited in empiricism under B (= those two colors) *as posited under B* can absolutely not be taken as posited under (− B = the remaining possible colors), and what is posited under (− B), as posited under (− B), cannot be taken as posited under B; notwithstanding that (B − B) accompany one another inseparably in the world-system. It is with this as with the opposition of *honestum* and *utile*. The *honestum*, *as honestum*, is indeed no *utile*; but the *honestum* and *utile* accompany one another inseparably in a world-system, if it is to be a system, no chaos; see above, and now supplement the above scales only as follows:
+
+[p. 306]
+
+Actuality / | / B Possibility, / | / (− B) Actuality determined through the possibility / | / (+ b)
+
+Self-interest Non-self-interest Self-interest determined through something that is no self-interest.
+
+Self-interest, determined through something that is no self-interest, gives a third, which is neither self-interest alone, nor non-self-interest alone, but arisen from both, *human virtue*, and which inseparably joins the *utile* of the Stoics with their *honestum*; i.e. lays the ground for the only possible system of morals. But if this virtue is to come about in man: then *man*, i.e. the (− B + b), must with consciousness be raised in him to the third power, hence be (− B³ + b³). The third, which is neither self-interest alone, nor non-self-interest alone, but arisen from both, *human virtue*, has as its inseparable companion the *benefit of the part as well as of the whole*, (the *true* benefit, *utile Stoicorum*), because
+
+[p. 307]
+
+the *form* or the *essence* of things is so expressed in it that the entire individuality of man is regulated accordingly.
+
+5) The copula of *syllogisms*, be they categorical, hypothetical or disjunctive, is absolutely necessary and without difference of modality; or, what in every possible *syllogism* is *merely* thought (hence formally and properly *logical* in the hitherto accepted sense of the word), that is absolutely necessary and without difference of modality.
+
+*Rem.* The same holds of the object and of the *This* (B − B + b) in every syllogism; both are absolutely necessary and without difference of modality. — — *Kant* is perfectly right when he places the nature of syllogisms in this, that for the conditioned they seek the conditions, and for the conditions again higher conditions, i.e. annihilate the most material for thinking in thinking; in order finally to be led to the *conditio sine qua non* for all conditions in the *material*. But this, which the syllogism achieves herewith, is nothing further than a more *detailed development* of what already lay enfolded in every concept, *as a complexion of affine sensible marks*,
+
+[p. 308]
+
+and which the syllogism now, *according to the manner and way in which it arose and was associated* under the formula ( − B + b B ), *partly* lays asunder, and hence also lets be *partly* annihilated by thinking in thinking, until one has finally ascended to the sensible *conditio sine qua non* for the whole row of certain sensible conditions, and now the (+ b) as cause can be posited immediately in these. This whole operation, however, would not be possible if the *Unconditioned*, as *Kant* calls it, had first to be sought through this operation. No, the unconditioned of the cause (Ur-sache), of the *ground*, of the *prius* κατ᾽ ἐξοχήν, *as of an absolute*, already aroused in us beforehand, *as human beings*, by the impulse of life, *makes it precisely so* that we *can*, indeed *must*, undertake that operation with the material and ascend in it from conditions to conditions. If, e.g., the *ground* did not already lie beforehand absolutely and unconditionally *in us*, how would it be at all possible that we could undertake that operation with the material itself, what should induce us to go from condition to condition in it, until we finally came to the *conditio sine qua non* for
+
+[p. 309]
+
+all conditions in the *material*? Here too, then, *Kant* has again completely inverted a thought, excellently aroused in him, in that he lets man seek the *unconditioned* and absolute, (hence his own thinking), only through *syllogisms*, whereas man could nevertheless, without having the unconditioned and absolute in himself, neither form concepts nor make syllogisms. But that the very formula which underlies the syllogisms must already underlie the concepts is easily proved, if, after the above analysis, it still needs a proof at all. In that I say: *homo*: I posit an object, hence an actuality and possibility; there I find for the (+ b), consequently for the *genus humanum* as for the *This* (*hic homo*) the *one* limit of its origin, here (under the possibility) I find a place for the predicates, e.g. for the predicate of mortality, which is a possibility in connection with an actuality (hence − B + b), otherwise it would not be a predicate. But (− B + b) I have already in the above *homo*, consequently I now have in the judgment: *homo est mortalis* [man is mortal]: the formula ( B − B + b − B + b )
+
+[p. 310]
+
+= ( − B² + b² B ); and I understand why it is taught in the logics that the *extent* of the predicate is greater than that of the subject. But that I can bring it, in the judgment: *homo est mortalis*, to the expression of the formula ( − B² + b² B ) presupposes in me myself, insofar as I am man, a manifestation of the essence of things, hence a ( − B + b B ) lying at the ground in me myself, *as man*, and coming to consciousness, though not necessarily *as what it is*, but also merely under sheer sensible representations; and so I have thus a ( − B³ + b³ B ) already as inescapably necessary formula for the possibility of the connection of a subject with certain marks, or of certain marks with a subject, hence for the possibility of a *concept* in general in the widest sense of the word; notwithstanding that this ( − B³ + b³ B ), before I have cleared it up with what is material in my representations, will enter my consciousness merely as
+
+[p. 311]
+
+( − B² + b² B ). Shall I elucidate the matter still more clearly by the example just given? — So be it. I posit, then, the two named objects for a thinking once more in altered expressions for one and the same thing:
+
+*Homo*: *Non homo*; object
+
+*Mortalis*: *Non mortalis*; object,
+
+insofar as both are necessarily represented together in one thinking, and I can think no *Homo* without a *Non homo*, no *Mortalis* without a *Non mortalis*. — If, however, I now want to bring out the proposition:
+
+*Homo est Mortalis* [Man is mortal];
+
+then object comes to object, and I should accordingly have (B² − B²). But in (− B) the negation is drawn to a copula, hence to a *form* (and indeed here to the form on the material): yet no form can be annihilated by the other; rather, a negation drawn to the copula posits. The (− B) therefore posits a (+ b), and from the above *Homo*: *Non homo*, as necessarily represented together in one thinking, there must therefore arise a genus, or a *This*. Instead, therefore, of the
+
+[p. 312]
+
+*Homo*: *Non homo*
+
+in my formula as (B − B), I shall rather have to express it thus: B (− B + b), whereby (B + b) will express for me the *Homo*, as *Homo* (*secundum id, quod est fundamenti loco ponendum* [according to that which is to be put in the place of a foundation], extension, *as extension*, given under a coexistence) and at the same time in the (+ b) as *Homo* in a genus already cognized by me in it, but the (− B) the possibility, already noticed by me in it, of its being contained under a genus; hence the latter makes room for me, for the ranging of predicates under it, under a (+ b). If I now range the predicate *mortalis* under it: then by virtue of the nature of the object I already have two propositions:
+
+*Homo est mortalis* [Man is mortal]
+
+*Non homo est non mortalis* [Non-man is non-mortal];
+
+(for the *Homo* gives me, by virtue of the nature of the object, a *Non-homo*, and the *mortalis* a *non mortalis*), propositions of which the one, like the other, is necessarily grounded through my formula; and which assert nothing other than 1) the necessity of a reciprocal accompaniment of the actual by the possible, and of the possible by the actual, 2)
+
+[p. 313]
+
+the necessity of an uninterrupted distinction of the actual from the possible and vice versa, notwithstanding that they accompany each other uninterruptedly. But in the second proposition:
+
+*Non homo est non mortalis*
+
+the special case surely arises that there merely a possibility is set up in one and the very same proposition: yet the whole formula is supposed to hold for this proposition too. Certainly; and precisely for this reason, because no possibility takes place without actuality, notwithstanding that the possibility may never be taken for the actuality and the actuality never for the possibility. The *Non homo* thus brings with it for me, as possibility, also an actuality, notwithstanding that it is not itself this actuality, the *non mortalis* brings with it for me, as possibility, also an actuality, notwithstanding that it is not itself this actuality. The actuality determined through the possibility, as it already lay in the *Homo* as a genus, the actuality determined through the possibility, as it already lay in the *mortalis* as a genus, cannot first bring along to me the *Non homo* and *Non mortalis*, for these I already had in *Homo* and *mortalis*. Through the conjunction of the *Non homo*
+
+[p. 314]
+
+with a *non mortalis* under one thinking, there must therefore only again an actuality determined through the possibility, (a cause [*Ur*-sache], + b), and in language an *aliquid, quod nec homo nec mortale est* [something which is neither man nor mortal], be posited, just as from the above *Homo*: *Non homo*, as necessarily represented together in one thinking, a (+ b), consequently a third, which was neither *Homo* (*secundum id, quod est fundamenti loco ponendum*, extension, *as extension*, given under a coexistence), nor *Non homo*, but a *Genus hominum* or a *This*, resulted. From this I learn the following: when two objects (the object applicable in two items of cognition) come together in such a way that the one (*Homo*) under its (− B *Non homo*) makes room for the other (*mortalis*) for the attachment of its (− B, *non mortalis* together with the (+ b) inseparable from it): then there arises from this once more a (+ b), a new *genus rerum*, a new *This*, an *aliquid, quod nec homo nec mortale est*; in other words: the possibility on the side of the one object united with the possibility on the side of the other produces an actuality determined through the possibility, a *substance* or *cause* [Ur-sache], which, to be sure, is indeed also a
+
+[p. 315]
+
+(+ b), a *This*, a genus, an *aliquid*, but here in the given case an *aliquid, quod nec homo nec mortale est* [something which is neither man nor mortal], will be. Through the proposition: *Non homo est non mortalis*, an *aliud quid quod nec homo nec mortale est* has thus become actual; but it has become actual under a possibility; will therefore also be merely actual and *will have to* be actual, insofar as the actuality is accompanied there by the possibility, just as it can only be possible insofar as the possibility is accompanied there by the actuality; for, as to the latter, the (− B), without a (+ b) posited thereby, would be annihilation of a form, hence a contradiction. If in this way the *aliud quid, quod nec homo nec mortale est*, has arisen merely through thinking, *as a thinking* and the object, *as object*, and must it therefore be thought with its necessity: then in the given example the necessary *aliud quid*, insofar as it *here* points to an imperishability, leads the *thinking* man necessarily beyond sensibility, the sensible, on the other hand, it will cause to realize *its aliud quid* in the given example under phantasy-images, hence to commit a contradiction *insofar as he*
+
+[p. 316]
+
+seeks the actuality, *as actuality*, in the *Kantian* manner, in the world of sense or in something intuitable. I take yet another concept, *as object*, before I go further, and see what follows. Let it be the concept of the *world*:
+
+*Mundus*: *Non mundus*; object,
+
+*Mundus* thus expresses the *actuality* (B), *Non mundus* the possibility (− B) in the object. The actuality can indeed, as actuality, never be taken for the possibility, hence *Mundus* never for *Non mundus*, but the actuality is just as certainly accompanied, everywhere and inseparably, by the possibility, *hence the world by something that is not world*, as the possibility by the actuality; and here I am now with my (− B) again up at that which, for its *being* κατ᾽ ἐξοχήν, needs no more any possibility nor actuality *of the kind that that of the object is*, at *A as A, in A, through A*, with you, then, Father and Lord of the world, all-enlivening, beneficent Spirit, who created human beings after your image, and in whose contemplation my soul wells up with rapture! I descend again from you, Eternal One, — to
+
+[p. 317]
+
+man, as I weighed him with his sensible mortality, and posit him once more as object:
+
+*Homo*: *Non homo*; object.
+
+Through the *Non homo* room is made in our representation for an unsurveyable multitude of other possible things besides man; consequently thereby not only apprehensions, *as experiences*, but also apprehensions as mere configurations of coexistence, of opposition, of similarity *in our phantasy*, an immeasurable field is opened. *Experiences* they will be, if the (B − B + b), aroused in us by certain apprehensions, has so annihilated the material in these apprehensions under one thinking down to (B − B + b) or down to the form thereon, that now no longer merely the apprehension (or the material) may arouse the rule in us, but the rule determines the material as it is determined outside us under the very same rule, if consequently the object in us as a *This* (we ourselves) an object outside us as a *This*, through the object as a *This*, ( − B³ + b³ B ), under one thinking necessarily
+
+[p. 318]
+
+determines. These are experiences, or proper concepts, complexions of sensible marks in their necessary relation first to the cause (Ur-sache) as cause, then to the ground, and finally to the *prius* κατ᾽ ἐξοχήν; they are not merely inductively registered observations of certain conditions in the material, but observations which now stand in us under the very same necessary rule under which they stand in the world-system itself. If here the form, the rule or the essence of the universal (of the whole) were not also form, rule, essence of the particular (of the part): *Copernicus* and *Kepler* could have had their rules for the true world-system long in their heads, without the world-system ever having conformed to them in the experiences of later astronomers (e.g. a *Herschel*’s), unless *Copernicus* and *Kepler* had been able, like *Fichte*, to draw the world-system straight out of their I, and *Herschel* and every astronomer of later centuries enjoyed the same good fortune of an I creating suns and planets in fairest order out of itself. So long as in apprehensions and observations concerning certain objects the material indeed arouses
+
+[p. 319]
+
+the rule in us, but the rule does not yet determine the material as necessarily as it is determined outside us under the same rule, so long we have no proper experiences concerning such objects, but what has been vouchsafed to us about them are opinions (δόξαι), where there is still always a *Yes* or *No*, are confusions of conditions with the cause (Ur-sache). The elucidation of what the language of life, and what *Kant*, calls experience, hence *the origin of a human cognition in general*, (under the new title of a critique), can now in any case present no further difficulty:
+
+#### *Conditions of the Possibility of an Experience.*
+
+1) A *thinking* (*A as A in A through A*)
+
+2) Needful *hypothesis* (substratum); *coexistence in the imagination.* (Material, which affects thinking in a succession and juxtaposition)
+
+[p. 320]
+
+3) Disjunction of the coexisting in the *imagination.* (exclusive *either—or*, holding up of the opposite of that which is there, consequently of the possibility without actuality, consequently of an impossibility through the law of opposition in the *imagination*).
+
+*Rem.* If this sounds too harsh to anyone, let him consider whether the presence of a deceased friend is possible, and yet he is present to him in his phantasy, hence his phantasy entertains him in this case with an impossibility; and did it not entertain him with such impossibilities, then no affinities, no complexions of sensible marks, no concepts could contract in him. Yes, still more: how should we human beings even manage to attain cognition and application of the principle of contradiction, if our phantasy were not capable of presenting impossibilities to us, over which the thinking applied to them can then first pronounce the *being-impossible*?
+
+[p. 321]
+
+4) A compatibility, brought about through coexistence and disjunction in the *imagination*, of that which in the material itself agrees together, namely of the *affinities*.
+
+5) Disjunction in the *object*; the form rises above the material, in order to let the material, *as material*, join itself under (B − B + b), hence under form, with the character of regularity and persistence, to this (B − B + b), (*unbound* monad in alteration under a rule). (non-exclusive *either—or*, B − B inseparably together, and necessarily producing a + b).
+
+6) A real union (causal connection, *causatio reciproca*), brought about through the disjunction in the *object*, of that which in the material itself agrees together, namely of the *affinities*, under (B − B + b).
+
+7) Where now the action of the (A as A in A through A) on a certain material does not eradicate this material so far that it could come to the coexistence of the present with the past, of the near
+
+[p. 322]
+
+with the far, etc. in an (individual) imagination, hence to oppositions in an (individual) imagination, and thereby to the summing-up of the similarities in an (individual) imagination, in short to an (individual) *animal* becoming-conscious, that it consequently remains merely at the union of the affinities in the material under a (B − B + b) *after preceding attraction and repulsion*, there arises also merely a *plant life*, (*slumbering* monad).
+
+8) Where, on the other hand, the action of the (A as A in A through A) on a certain material eradicates this material so far that *sense-organs, as sense-organs*, can arise, hence an *individual* consciousness becomes possible, there then also an individual imagination or imagining-into the world and of the world into such a world-being, hence, after the preceding process of Nos. 3–6 incl., a regular running-off of the world *outside him* (in his *representation*), as *in him* (in his *sensation*), hence a ( − B² + b² B ) will take place; *animal* life, (*dreaming* monad).
+
+[p. 323]
+
+9) But a regular running-off of the world, in itself, *outside him* (in his *representation*) as *in him* (in his *sensation*), does not yet necessarily imply that such a world-being must also have insight into the *possibility* in the rule according to which both run off. Notwithstanding, therefore, that his essence consists of ( − B² + b² B ), the formula of his essence can nevertheless enter his consciousness merely as ( + b² B ), and *will have to* enter his consciousness merely as this, if the (*A as A in A through A*) does not also eradicate the material brought by the imagination to such a being (in representations), *in these representations*, down to the form of beings in general, hence not down to the actuality *determined through the possibility, as possibility*, and consequently wants to know the same led to possibility only under *sensations as mere sensations*, (instinct), to actuality only under representations, *as mere representations*, according to the plan of eternal wisdom; (*animal, as dreaming* monad).
+
+10) But the case posited under No. 9 can just as well be reversed. There can
+
+[p. 324]
+
+just as well also be world-beings who are to be led to possibility not only under *sensations as mere sensations*, to actuality not only under *representations, as mere representations*, according to the plan of eternal wisdom; but in whom, besides the gift of a merely animal becoming-conscious, already according to their essence, *actuality also still as actuality is to be determined through possibility also still as through possibility* (concept, experience), in whom therefore to the ( − B² + b² B ) of an animal being there still comes a ( − B + b B ) which will declare the *peculiarity* of their essence in a ( − B³ + b³ B ); (*waking* monad, *man in his essence*: at the same time the highest end of matter, that under God’s guidance it becomes a nursery of spirits).
+
+11) What was said under No. 10 will come to pass when the (*A as A, in A, through A*) does not, in the material of such beings, eradicate the material merely to the union of the affinities under a (B − B + b) after preceding attraction and repulsion
+
+[p. 325]
+
+(plant life *in us*), and not merely down to the coexistence of the present with the past, of the near with the far in an (individual) imagination, hence to oppositions in an (individual) imagination, and thereby to the summing-up of the similarities in an (individual) imagination (individual *animal* becoming-conscious *in us*); but there, where in any case a minus of the becoming-conscious of the *material, as material*, had to enter, merely in order to make an individual consciousness possible, in the life-impulse, *as impulse in general*, it so annihilates also completely everything that is not essence, this indestructible impulse, *as impulse*, excepted, that now the *prius* κατ᾽ ἐξοχήν itself, the (*A as A, in A, through A*) with *its* plus, can enter consciousness completely, and for such world-beings the full determinability of the essence of things through the essence of the same, in a now attained *personality* (in the object as a now possible object of their consciousness itself), hence in a ( − B³ + b³ B ), as *characteristic* ingredient of their essence, can become clear.
+
+[p. 326]
+
+12) If this ( − B³ + b³ B ) is once a *characteristic* ingredient of the essence of a certain class of beings itself: then again three cases are possible. Either the object *with the attached life-impulse* (the − B + b B, as manifestation of the essence of things *in and on us*), in short our personality, takes a certain judgment, which would otherwise consist only of ( − B² + b² B ), up *into itself*, and thereby makes it *for us* a ( − B³ + b³ B ), *we vouch for a thing*; or a judgment is determined through the object cognized in a thing *outside us*, and thereby becomes for *everyone* a ( − B³ + b³ B ); or else neither of the two named cases occurs, neither does our personality, *as personality*, take a certain judgment up *into itself*, nor is the judgment determined through the object cognized in a thing *outside us*, and it therefore remains with this merely at determinations of actuality through possibility under sheer representations and sensations, consequently at the ( − B² + b² B ),
+
+[p. 327]
+
+although with expressly preceding (− B²) in consciousness.
+
+13) In the first case (the taking up of a judgment into our personality *as personality*), α) *we, for our part*, are undeniably convinced of something, assert and assure it as *our* indisputable experience, (*subjective* necessity in a *special* experience in general); or else β) we make ourselves in such a judgment answerable for a thing, not only take on but also assure to others the obligation to a performance determined therein on our side, (*subjective* necessity in an obligation, *obligatio*), in that we connect the same with our personality, *as personality*, by means of the ( − B³ + b³ B ). A contract, e.g., in which the given conditions of the possibility of a cognition, from those of the imagination onward, (if one posits there as affinities merely the *convenience* of the paciscents) are completely justified, a *contract* thus expresses nothing other than the connection of the judgment about certain objects with the personality of two human beings *as*
+
+[p. 328]
+
+*personality* by means of the ( − B³ + b³ B ), which *here* in the third power has taken the object *with the attached life-impulse* into itself.
+
+14) In the second case (of the determining of a judgment through the object cognized in a thing *outside us*) there arise *universally-necessary* truths, *mathematically evident and demonstrative* propositions, hence experiences, such as those are which the astronomers can *now* make about the motions of the heavenly bodies, after *Copernicus and Kepler* once determined them as object, and, independently of mere intuitions, realized in them the formula of the essences, which *here* in the third power has taken the object in a thing *outside us* into itself, and now everything that belongs to this thing lets itself be attached demonstratively, in itself, *as its rule*.
+
+*Rem.* Even the observations of the empiricist offer themselves for the elucidation of Nos. 13, 14. Our personality steps out of consciousness in those efforts of *thinking, as a thinking*, which promote the health of the spirit more than anything else,
+
+[p. 329]
+
+in order to determine something beyond its sensible exterior *as object*. If, on the other hand, with a judgment that would in itself be merely ( − B² + b² B ), we connect also our personality, *as personality*, and *thereby* produce a ( − B³ + b³ B ) in consciousness: then it is not possible, in those *same* moments, that this judgment could at the same time also take into itself (demonstratively) the object in a thing *outside us* in consciousness, as may be clear already from this, that in that case it cannot well go on without special participation of our *individuality* in the thing and without emotions. How calm, by contrast, is the mathematician when, chaining syllogisms to syllogisms, he passes over the material to actuality (B, *extension as extension*), determined through possibility (− B, *reckoning*).
+
+15) In the third case (posited under No. 12), where neither our personality, *as personality*, has taken up a certain judgment into itself, nor a judgment determined through the object, cognized in a thing *outside us*,
+
+[p. 330]
+
+has been, there arises a mere *perhaps*, a probability, a holding-for-true *non sine formidine oppositi* [not without fear of the opposite], a dream, although with preceding (− B²) in consciousness.
+
+But I forget that I wanted to write merely an outline, and to conclude it with modality. The copula of every possible syllogism is absolutely necessary, apodictic and without difference of modality, it was said above. *Kiesewetter* (l. c. p. 108) remarks of the modality of a *pure categorical syllogism*, (as he expresses himself in § 232), that, according to No. 8 ibid. “*the conclusion of the same receives the lowest degree of the modality occurring in the premises, according to No. 9 ibid., however, the conclusion is nevertheless necessary.*” Thus the lowest degree of the modality occurring in the premises would fall to the conclusion, and yet the conclusion would be necessary. One is tempted to take this latest Logical Sidiroxylon once again for a misprint, but finds, on closer consideration of the two rules, under § 232, that Nos. 8 and 9 really concern the *modality* of a pure categorical syllogism, whose conclusion would accordingly, beside the fact
+
+[p. 331]
+
+that it, as conclusion, is necessary and apodictic, would also still, as conclusion from *certain* premises, be problematic or assertoric. I know no other way, this time, to explain to myself this exemplary guidance of the most celebrated new logic to downright contradictions, than that its author, with the transference of the lowest degree of the modality occurring in the premises to the conclusion (nonetheless apodictic and necessary in its modality), wanted to modernize the old Logical Canon *Kantianly*: *conclusio sequitur partem debiliorem* [the conclusion follows the weaker part], i.e. the quality (but not modality) of the conclusion is governed by the quality of that premise which has the lowest (a negative) quality, and the quantity (not however modality) of the conclusion is governed by the quantity of that premise which has the lowest (a particular) quantity.
+
+[p. 332]
+
+### Conclusion.
+
+If *A, as A, in A, through A*, acts on C, there arises 1) B a *something* thought (an *extension, as extension*, without further possible alteration of the extended, an *actuality*) and 2) (− B) a *what is thought, as what is thought*, (*possibility*, intention, end). From this something thought and from what is thought, *as what is thought*, there then springs, as from the *ground* (B) and the possibility (− B) under a *prius* κατ᾽ ἐξοχήν, a (+ b), in that a negation drawn to the copula cannot annihilate the copula, *as form*, but rather posits it, and indeed, if it is the copula of the material, hence space with its three dimensions, posits it under multiplications of these three indestructible dimensions of space in and under themselves; (to let the copula, hence a *form*, be annihilated by a negation drawn to the copula itself, would be a contradiction). This form of the whole now ( − B + b B ) must also be form of the part, every one of my judgments tells me this, which, without that presupposition, as judgment, (as connection of a thing already *in its essence* irreconcilable) would not at all be possible
+
+[p. 333]
+
+and this the world-system tells me, which, without that presupposition, as *system* (as unity of a thing already *in its essence* irreconcilable) would not at all be possible, etc. But what is most important here is that that formula points back, undeniably and with apodictic irrefutability, to a being of beings, if no contradiction is to be committed, and the *system* of things is not to be begun with a minus (− B). There must be a *God* who, *as God*, is all that he is only *in and through* himself. In the conscience of man he reveals himself; this was recognized, awakened by an inner voice, even by the most resolute unbelief itself, often enough. In the thinking of man in general, *as a thinking*, in every identity that leads me absolutely beyond the material, *as mere material*, hence in every rule, hence in the whole world-order as order, whose possibility without a thinking wise being would be an impossibility, this God reveals himself, I now know this, and rejoice in it, with apodictic irrefutability. It would be audacious if, with what he has revealed to me of himself in my thinking, I believed I had *fathomed* his essence in general, and I therefore call that which he has, in my thinking, of himself
+
+[p. 334]
+
+revealed to me, merely the indestructible *modus* of a being κατ᾽ ἐξοχήν, which I *must* assume besides this changeable existence if, considering my thinking itself and in and for itself, I do not wish to make it into a *dialexis*, i.e. to make my reason into unreason. If I follow the law of identity, the rule of all rules in me, if I take what lies before me sensibly into a thinking, not merely into an association: then I follow truth, duty and right. The essence and order of things, truth, duty and right, must therefore proceed from something whose being, precisely because it is removed from the sensible conditions of the material, can be placed under the condition of a possible intuition only through a contradiction, cannot be expressed more correctly than through the being of an *ens realissimum*, of an *ens entium*, of a pure intelligence, or of a *spirit*, of a *spiritual* substance. Let someone tell me a way that remained still open, in the shattered circumstances of our sickly German philosophy, to lay hold again of that jewel of humanity, if it was not the way of a consistent analysis of our thinking. I took it without this intention; this I confess myself. Errors in the logics had struck me, and only these I should gladly have got to the
+
+[p. 335]
+
+bottom of. That this undertaking has now disclosed to me—or given back—truths of which, as propositions *capable of such evidence*, I had not had the slightest inkling a quarter of a year ago: this is the sweetest reward, which no applause can give me, no blame take from me.—I will conclude, and must therefore take my leave also of the *Kantian* philosophy. Beyond the limits of a possible intuition, reason contrives merely by means of *wretched* syllogisms (*Critique of Pure Reason*, p. 283) in a subjective semblance an objective reality (l. c. p. 396–399) which it then lays as the ground of a supposed supersensible science, called *metaphysics*; this is the result of this philosophy in its critiquing of pure reason. A possible intuition would accordingly have the reason, critiqued in this way, behind it in the case posited by *Kant* himself; it would be beyond the limits of the same. Notwithstanding, however, that in the case posited by himself he assumes it removed beyond the limits of even an *only possible* intuition, he nonetheless reproaches it that what it still wants to know beyond has no longer any objective, i.e. no intuitive reality presentable in any object of sense, and so demands
+
+[p. 336]
+
+something of it which, according to his own presupposition, according to which he lets it already be beyond all *even only possible* intuition, can reasonably no longer be demanded of it, namely the corroboration of its syllogisms by the substitution of objects *palpable to the senses*. Is that not a sophistry like the chicanery of a *Gorgias*? *Kant*, it seems at least, wanted to make earnest of the venerable *Mendelssohn’s* jest: *I am playing out of my pocket*; (in order to explain this profane assertion to oneself the better, compare with it, in the *Kantian* philosophy, whatever you please, and see whether every fundamental thought of it, even if it is rightly grasped here and there, is not instantly twisted again; but chiefly be pleased to consult for this purpose his *Metaphysical First Principles of the Doctrine of Right*, where among other masterpieces in the art this too shines, that, despite his resolution of the good into the unchangeable laws of reason, which preceded in the *Critique of Practical Reason* and is in itself unobjectionable, he can now nonetheless, likewise *a priori*, hence likewise *according to necessary laws of thinking itself*, let it be now lawful what is wrong, now wrong what is lawful, pp. 139, 140, according
+
+[p. 337]
+
+as one and the same case at law is brought before the private-legal-practical, or before the court-legal-practical, but each time *pure* reason.). But no, I just recollect myself; it is sheer misunderstandings that divide us, and these misunderstandings rest merely once more on a certain kind of unpardonable πρῶτον ψεῦδος, such as a critical reviewer of the first magnitude long ago once proved one to me in my own work directly out of the *Critique*, as I still well know, and as will remain unforgettable to me. That *objective* reality, concerning which reason, beyond the limits of experience, is called to account by its judge and can no longer give account and answer, is anything but objective in the common sense, but objective in a new, deeper sense of the word. There is nothing spatiotemporal or palpable to the senses left in the objective; *and yet it is objective*. For, although in the *Critique of Pure Reason* an *objective* reality is denied to what lies beyond the limits of intuition: yet in the *Critique of Practical Reason* (p. 207 etc., where, however, the passage from *Epicurus’s Canonic*, p. 217, might likewise be noted) and in the *Metaphysical First Principles of the Doctrine of Right*
+
+[p. 338]
+
+(p. 141 etc.) the *objective* is taken also in such a way that it must designate a thing in itself, and not merely something lying in the subjective representation of man. Objective is, as one needs it, now sensibly-, now thingly-objective; whoever means it otherwise understands only the trade of *right and left at once*, not yet *comme il faut*. Beyond the limits of a possible intuition, theoretical reason can merely posit nothing *thingly-objective* any more without lying; for of the *sensibly- or intuitively-objective* one may, to be sure, by virtue of the self-same presupposition, reasonably no longer speak here; this would mean as much as to ask whether one can still have or make intuitions where one had oneself previously declared intuitions impossible. So it is to be taken; whoever takes it otherwise knows nothing. But why, I permit myself to ask, can theoretical reason accordingly posit nothing *thingly-objective* any more beyond the limits of a possible intuition? and I receive from the Critique the answer: because I tell you (*per petitionem principii*) that my categories become blind beyond the limits of a possible intuition. Intuition, I must therefore judge, it is consequently after all, which also
+
+[p. 339]
+
+must found the *thingly-objective* as reality. Where no intuition is possible any more, there is hence no reality any more; rather everything is to be rejected as empty ratiocination which (in the domain of *speculative* reason) cannot vouch for its objective reality through evident examples to be set up in experience, (before it proceeds *practically*, *Critique of Practical Reason*, p. 217), and the proposition remains unshakably standing: *Kant has demanded of speculative reason still intuitions as the only possible tests of reality in its assertions, after he had himself beforehand removed it beyond the limits of the possibility of any intuition whatever, and insofar as he had himself beforehand removed it beyond them; has thus imposed on it a performance, to meet which, through his own self-same presupposition, under which the performance was to take place, had been made impossible by him in his own person, and has then condemned the highest that humanity possesses, considered as something merely in and for itself, on that account, because it cannot perform what he nonetheless through his*
+
+[p. 340]
+
+*own presupposition, under this presupposition to perform, himself and in his own person, had made impossible for it to perform, has however notwithstanding this asserted* before as after once more, his only possible tests of reality, the intuitions of pure as well as impure nature, *lead* nevertheless *to no reality, to no thing in itself*, but to mere appearances, mathematics itself is indefeasible only for the sake of the intuitions, not for the sake of the (without intuitions wretched) syllogisms on which it rests, has thus let mathematics too attain to no reality in itself, but has degraded it, unprecedentedly, only to a necessary appearance; metaphysics, on the other hand, as a science at whose ground lie syllogisms without intuition, *he first rejected entirely*, and afterwards nonetheless built two of its principal pieces up again on a *fact, as fact*, hence in accordance with his own system built on a necessary appearance (for we do not, as is well known, get to things in themselves), and indeed on a necessary appearance *in thinking itself, as a thinking*? which lets itself also be coarsely sensualized through contingent appearances, through acts, and, *because it lets itself be coarsely sensualized*, lets
+
+[p. 341]
+
+also to that which they presuppose for their possibility (which, then, *as ground of possibility*, could surely by no means be intuitable?), likewise objective, i.e. intuitable, reality be assured. This sensibly palpable, gross reality (which, however, is no reality either, for we do not, as is well known, get to things in themselves) would now be that of which all philosophy before *Kant* in its simplicity never thought, would be e.g. not a merely *subjective* representation of God, but rather the proclamation of an objective, intuitable, palpable existence in him, although the idea of him, on account of its lack of intuitability, had previously been declared dialectical, i.e. something supported on mere wretched syllogisms and categories gone blind, hence senseless and meaningless, yet had at the same time, as *something senseless and meaningless*, been stamped a *regulative* for the whole of our cognitions of experience? Alongside this and in the same critical spirit the possibility of thinking is then grounded only through concepts (categories (*Critique of Pure Reason*, p. 125 ff. and concepts of reflection), the possibility of syllogizing only through judgments, although it is *thinking as thinking* that first makes concepts possible, or *reason as reason* that first makes judgments as well as syllogisms possible. Alongside this and in the same
+
+[p. 342]
+
+critical spirit thinking, as an unconditioned and as an *absolute* possibility which strays beyond the form of thinking of this name, (l. c. p. 285), must itself seek itself only in syllogisms; whereas, in order to arrive at the possibility of an intuition, one simply commands man to intuit already *a priori* in space and time, and makes him an apriorist visionary, who finally grows into a world-head that embraces in visions everything that is called reality, but which, to be sure, can communicate its private apriorist gift of vision (called *one and pure* philosophy) to no man any more. Alongside this, and regardless that the categories present the function of the unity of thinking, l. c. p. 94, the category itself nevertheless already presupposes combination, p. 131; this combination, however, is not the analytic form of thinking itself, (that would be merely *logical*, not *critical*, p. 267), but the *originally synthetic*? unity of apperception, hence the *animal* consciousness with the twelve forms of thinking already analyzed by it, from which the: *I think*: results (pp. 131–143). Alongside this, and regardless that a law to which no intuition were added would have to be not real (or only half real?), it is (*Critique of Practical Reason*, p. 68) declared for a
+
+[p. 343]
+
+flat contradiction, “to think to oneself a feeling (hence surely also an intuition) of a *law as such, to think, and to make that the object of sensation which can only be thought through reason.*” Are these series of contradictions not just so many philosophical cancers; and could one heal cancers with rose water?—Let there come of it for him what may, the honest man speaks freely from the heart where truth is concerned, in the face of the triumphant scornful laughter of hollow chicaneries? At the *laughing of uncritical ignoramuses* the Critique seems anyway to have been aimed; for thus speaks its author (p. X, cf. p. IX of the Preface to the *Metaphysical First Principles of the Doctrine of Right*) “if it is a test of the truth of a doctrine not to be despised, when it endures *laughter*: then in time it must surely be the critical philosophers’ turn to laugh *last, and so also best*.” Whoever has shown so intuitively through his own example that the *paper systems* (ibid.) of a metaphysics can be put an end to only through contradictions upon contradictions, hence only through an ending of thinking itself, hence only through a critique below all critique,
+
+[p. 344]
+
+to him it is to be granted, if he at least still *laughs best*; he has not philosophized best. But how is it to be explained that it was possible for a philosopher already *in primis viis* [at the very first steps], by means of a complete setting aside of the principle of contradiction, indeed by means of a genial skill, through the law of contrast in his imagination, of combining precisely the most contrasting most easily, (*Hogarthian* manner in philosophy), thus to proceed, and yet withal with many hundred pages of flat contradictions to succeed so exceedingly with his public? This question is answered by the age into which he had the luck to fall. It is the age of milking the he-goat, (*words of the Critique of Pure Reason*, pp. 82, 83), whereby, because it is something new, thousands come, and hold the sieve. Suffice it for me to restrict this to philosophy. *Leibniz* had in vain opposed the attempts of *Locke*, to explain everything about man from experience; his deep view was only for few among his own people; for foreigners, it seems, not at all. *Britons and Frenchmen* persisted with *Locke*, (see the *Discours préliminaire* to the French *Encyclopédie*). In trust in the invincibility of the *Lockean* principles and under the most confident expectations
+
+[p. 345]
+
+of the real thanks which their idol, sensibility and imagination, would render them for it, there came about at last in both nations a *mechanical* mode of explanation of the origin of the whole of human cognition, a psychological brain-fibre system, the form derived from the oscillating material, thinking from (hypothetical) intuitabilities, the analysis of thinking itself from a synthesis of the manifold, the essence from the non-essence, and hence, as the *Critique of Pure Reason* says, in philosophy, (*at the very least*), the business of milking the he-goat introduced as the future order of the day for the century of enlightenment. Of those who came and held the sieve there were countless, and among these countless, as goes without saying, (*car même ce Ms. Leibniz n’étoit qu’un Allemand* [for even this Mr Leibniz was only a German]), the Germans too, and among the Germans—*Kant*. With *his own manipulations* this man set about the work. He understood, like no other, *the right and the left at once*; *Leibniz* and *Locke* had to be reconciled: the *Critique of Pure Reason* came to be (*per Syncretismum enormem* [through a monstrous syncretism]). *Leibniz* had, what he knew, in *Kant’s* eyes known only by halves; the Briton *Locke* fared no better, (*Critique of Pure Reason*, pp. 118, 119:) whoever
+
+[p. 346]
+
+was able to play both halves together, *only he* obtained a whole piece. The oscillating brain-fibres were thus scraped and polished. Scraped and polished, they acquired a *Leibnizian* mien, passed over into apriorities, and gave, net, a set of twelve dishes under the foreign name of the *categories*, whose originator (the Greek *Aristotle*) can surely never have dreamt that his *modi enunciationis* [modes of enunciation] (σχήματα κατηγορίας, *de Decem Categor.* Cap. IV) would one day be misused *for possibilities of a thinking in general*. But the short-sighted *Leibniz* (also one of the uncritical ignoramuses, l. c.) had not noticed that the apriority of the understanding, which he took under his protection, is blind by nature, that it consists only in a *half* reality, the other half of whose reality it expects only from England, from *Locke’s* intuitions; this (that sensibility must realize the understanding, *Critique of Pure Reason*, p. 187) was noticed only at the end of the enlightened century, and indeed even then only in *Königsberg* alone. Hardly had this been noticed, acutely beyond compare: *tum* [then]—
+
+[p. 347]
+
+#### *Vidimus flavum Tiberim, retortis*
+
+#### *Littore Etrusco violenter undis,*
+
+#### *Ire dejectum monumenta regis*
+
+#### *Templaque Vestæ.*
+
+[We have seen the yellow Tiber, its waves violently driven back from the Etruscan shore, go to cast down the monuments of the king and the temples of Vesta.]
+
+It was now done with metaphysics, which only an inconsistency in *Locke* (*Critique of Pure Reason*, p. 127) could still save, for ever and ever. Stretched out ell-long in twelve categories and four pairs of concepts of reflection, the human understanding now lay there, and lay senseless and meaningless, hence incapable of any future metaphysics, there now, until the beneficent fairy of a *pure* intuition (which is of purely *Kantian* origin, Preface to the *Metaphysical First Principles of the Doctrine of Right*, pp. VII, VIII) took pity on him, insofar as he renounced the bungling of a *metaphysics*, brought him, lower down, the half of a foreign reality he had missed higher up, let him intuit *a priori* (without eyes), and had what he had intuited *a priori* finally sealed, grossly, *a posteriori*; *nam, quid juvat aspectus si non conceditur usus?* [for what good is sight, if its use is not granted?] p. 195, *Critique of Pure Reason*.—If in this way empirical psychology (whose epoch began with *Locke*), in its doctrine of the *senses*, was so distorted that it was now called *transcendental*:
+
+[p. 348]
+
+just as an original common disposition must lie at the basis of the senses of all men, so that in so many thousand human heads they accord with one another about colors, tones etc., (*Critique of Pure Reason*, p. 63) so there must also lie at the basis of the senses of all men an original (apriorist), but as *transcendental* far differing from that? space- and time-disposition (entitled pure intuition), so that they accord with *Kant’s* philosophy: thus empirical psychology too was, in its doctrine of *phantasy*, nothing less than spared *becoming-transcendental*. For one had, namely, besides the understanding already finished off, now still one’s dear trouble with *pure reason*, in order to be able to give metaphysics the well-deserved dust-broom, *in all due legal form*. In the doctrine of phantasy the empirical psychologist now taught: beyond the limits of a possible apprehension the phantasy-images have no objective reality, inasmuch as no actual object in intuition can be laid under them there any more. More welcome he could have taught nothing for a critique in which, with pure reason itself, beyond the limits of a possible apprehension, it was not
+
+[p. 349]
+
+any longer supposed to be right. For the word *phantasy* this critique now needed merely to substitute the expression *pure reason*, and to pass off that which it had drawn over from phantasy (*per heteronomiam* [through heteronomy]) into the essence of thinking as a *transcendental* insight, possible only to a critique, hitherto never experienced, into the exposed places of pure reason itself, and an age accustomed to nothing so much as to empiricism believed that quite gladly also, and entirely, of its own pure reason, of which it found daily proofs in its phantasy. The believing, to which *Kant*, as he says, first had to make room? followed in this regard all the more philosophically, since indeed even he who had still learned logic could develop of itself *this* result of a new philosophy already from the old proposition of his logic, that the physically true is indeed also logically true, but the logically true, on the other hand, need not be so also physically true, through an uncommonly easy consequence, without so many extravagances; for if the logically true (possible) need not be so also physically true (actual), *because it is once and for all logically true*, it follows that for logical truth apprehension (as an integrating part of its reality?) is unavoidably required. Also the pertness
+
+[p. 350]
+
+of the discipline-forgetting pure reason had thus now found its master completely in this way in *Kant*. He, namely, as her supposedly best friend, coaxed from her that hitherto secret of her phantasy-nature down to the very bottom, (thus one speaks as *newest critic*); but was also incautious enough to prattle forthwith before all the world what she had revealed to him alone and in confidence. According to authentic reports of the Critique it ran: “she, pure reason, did not wish to withhold from him how it fared with her utterances no better than with her sister phantasy. Beyond the limits of a possible experience she deceived the people, like that one, with an empty subjective semblance; was innocent, however, in doing so: for she had to do it, and could indeed do no otherwise as *pure reason*. Only in that which she confided to her *Kant* about herself beyond the limits of a possible experience she surely did not lie. To be sure, it was in this way all over not only with all metaphysics, but also with all logic, as science, indeed even, if one looks at it in the light, with all morals, and it would seem to the uninitiated in general that her first chosen one lacked, with his excellent genius, *everywhere at the foundations*
+
+[p. 351]
+
+But if *He* it be who thinks of saving some small pieces of the science of metaphysics, and of the two others just named everything hitherto belonging to them, or also of enriching the same with new discoveries: then he need only *postulate*, and it will come to pass. From now on everything is possible to him; speaking against will present as little difficulty to him, as formerly with certain famous men in Greece, as speaking for (*Critique of Pure Reason*, p. 697, cf. pp. 353, 355, 369–399, 170, 171 etc.). But he must not betray her; for otherwise whoever seeks wisdom might learn either merely how one, after the table of categories has been abolished and pure intuitions have departed, maltreats her, reason, herself; indeed how one must give objective trouble to eternal wisdom, or he would want, for his part, to postulate something again, to have his *own* pure intuitions again, and then things would finally arise from them that would not be on a par with the time. Only to him, then, is the secret entrusted *sub sigillo silentii reciproci* [under the seal of reciprocal silence]; herewith she dismisses him, and remains etc.” Since now, however, *Kant*, as said, did not keep his word; but put pure reason, with constant reference to her *own* declaration
+
+[p. 352]
+
+made to him, on trial publicly, hence through herself: thus we all in Germany learned on this occasion that pure reason could and must, *as pure*, hence quite and entirely out of herself, like a phantasizer, create an *ideal*, that pure reason could and must, *as pure*, hence quite and entirely out of herself, like a phantasizer, fall into a *paralogism* and into an *antinomy*, i.e. into a conflict of her own laws among themselves, that thinking must therefore abolish itself, *as a thinking*, of necessity, and destroy itself according to its ground and essence, *as pure thinking*.—The wheel of creation stands still; the night of chaos breaks in again:—*reason begins to rave, and must rave, insofar as she is pure reason*. Critics, are those not cancers?—Fare you well; I return to the Greeks. Logic itself shall follow in its time.
+
+[p. 353]
+
+### Supplement.
+
+An Unknown, to whom the advance sheet B of this work came into view, found, as I hear, the *Test on the 12th §* p. 21, not intelligible enough. For the benefit of such as might fare just so, I therefore add here this.—If one seeks to put something thought into the state of the not-thought: then each time again something thought comes of it, or else it was never something thought: *cogitatum nunquam potest esse s. fieri non cogitatum* [what is thought can never be or become not thought]. Precisely for this reason the copula too, *as copula*, can never be negated, i.e. never be made a non-copula. If e.g. in *doctus* or *omnis* thinking, *as a thinking*, is once posited, and in the series of the infinitely repeated repeatability of A as A in *doctus* or *omnis* a Non A is held up to it by the imagination: then in thinking itself, *as a thinking*, this Non A becomes each time again a non Non-A = A. Why? Because no copula, as copula, can be negated without its legitimating itself, through the negating attempted on it, as indestructible and unalterable, insofar as it is copula, i.e. *form*. Suppose I set in my imagination: *doctus non est doctus*,
+
+[p. 354]
+
+or, *omnis non est omnis*, together, and thus draw here, in a mere representation for my thinking, the negation to the copula (of thinking itself): then there must come of it in my thinking, *as a thinking*: *doctus non est Non-doctus* (A = A); *omnis non est Non-omnis* (A = A); *prohibiting* imperative. *Cogitatum, qua cogitatum, semper unum idemque est* (ἔστι), *perceptum, qua perceptum, non semper unum idemque manet* (ῥέει) [what is thought, as thought, is always one and the same; what is perceived, as perceived, does not always remain one and the same]. A complete confusion of elementary concepts must therefore be presupposed in a head which denies to the thought *as a thought*, under the name of a mere (human) *subjectivity*, the reality of *being*; for to take up thinking, as a thinking, and the thought, as a thought, even only into the concept of a mere (human) subjectivity, as into their ground depending on this subjectivity or determined through it, and on that account to want to impute to thinking as well as to the thought partly a merely subjectively imagined (dialectical), partly however a reality first to be brought about through intuitions, already betrays a *vitium primae concoctionis* [fault of the first digestion] (see above). The thought, *as thought, is*, and is without all regard to human subjectivity, which
+
+[p. 355]
+
+can give it, as a thought, nothing of reality, and take nothing from it. An essence of all essences, e.g., a *prius* κατ᾽ ἐξοχήν, a God, is a thought, *as thought*; to an essence of all essences, to a *prius* κατ᾽ ἐξοχήν, to a God, there *must* accordingly also pertain a *being*, without all regard to human subjectivity, which can give it, as a thought, nothing of reality and take nothing from it.—Should the (B − B) also find difficulties; “because indeed, as everyone already knows from arithmetic, B is *obviously* cancelled again by a (− B):” so serves as answer. 1) *Here* (in B − B, *as the only possible* description of the object, see above) the minus is applied by a form (through thinking) to another form (to that of the material), and no form can annihilate the other; but manifests itself merely in the other form as a minus (a negation) of that which this other form is, from which manifestation (of a minus of that which it is in it, what it itself is), then just this other form in a (+ b) too actually quite unharmed (but under purposes) emerges. 2) Every negation is a positing of that which is negated, *outside that* from which or on which it is negated; this the mathematician too must
+
+[p. 356]
+
+admit. But in admitting this, he admits at the same time that in every negation α) a something positing it indeed as negation, but itself and in itself not-negative (a thinking), that β) in every negation a something taking it up indeed as negation, but itself and in itself not-negative (inalterable externality), is presupposed, whereby then the negations of the *here or there*, hence the positings of that which is negated, *outside that* from which or on which it is negated (*negationes in concreto*), are first made possible. That, however, which first makes all these negations *in concreto* possible, the minus namely in the *object* (in − B), can surely not stand without necessary and inseparable connection with that which is negated in it (notwithstanding that this minus is nothing less than the negated itself); otherwise it would be negated into infinity, and *no* negation would have sense and meaning: the zero itself would stand at the top as ground of the possibility of all negating. Who can think this? And if one cannot, one thereby admits that (B − B) *in the meaning of the object fixed here* is by no means = 0, but rather = (B − B + b). One more thing, for an easier overview of the whole!
+
+[p. 357]
+
+1) Every circle expresses a complexion of relations, according to which everything in it, as a circle, is determined, and which yet do not lie in it as something afflicted with sensible marks (as something visible).
+
+2) Every concept expresses a complexion of relations, according to which the marks of this concept are determined, and which yet do not lie in this concept as something afflicted with sensible marks.
+
+3) The relations (from No. 1 and 2) are a thought, *as thought*, = (− B) = possibility.
+
+4) That circle as well as the marks of this concept are (setting aside the material-containing in it) a thought, *as a thought something*, = (B) = actuality. Both together = (B − B) = object.
+
+5) (B − B) produces necessarily a (+ b), i.e. the actuality, determined through the possibility, posits the form of the universal necessarily again and again on the form of the particular, gives accordingly a world-system, *as system*.
+
+6) But (− B), or the possibility, at the head of a world-system, would be a negation at the head of a world-system.
+
+[p. 358]
+
+7) I *must* therefore go out beyond the world-system to a Plus which, what it is, already is *in and through* itself, to a Plus for the possibility of all other Plus, to a possibility of everything possible that falls into the world-system, to a being of first order, to an essence of essences, to a spirit of all spirits, to a primal substance for everything spiritual in the universe in general,—*to a God*.
+
+8) A *modus inalterabilis* [unalterable mode] of his being κατ᾽ ἐξοχήν this God has revealed to me in my thinking; it is called *A as A in A, through A*, (law of identity).
+
+9) If I relate everything in me to this *modus inalterabilis* of *his being* κατ᾽ ἐξοχήν: then I follow truth, duty and right.
+
+10) As the unchangeable and omnipresent God, which he is, he must therefore at the same time be the primal source of that which truth, duty and right is, must be *all-wise, all-good* and *just*.
+
+11) All-wisdom, all-goodness and justice is consequently the rule according to which I have to judge the world-system, *as system* (*as thought*), according to which I have each of my experiences, *as experience* (not merely as sense-impression, intuition and φάντασμα), to sort
+
+[p. 359]
+
+out and *to understand*. Religiosity is my first duty with regard to the judging of the world; (σοφία *sapientia* of the Stoics, Off. 1, 43, *princepsque omnium virtutum est illa sapientia, quam* σοφίαν *Graeci nominant* [and chief of all the virtues is that wisdom which the Greeks call σοφία] l. c., *Plato* calls it νόησις. I am aware of no passage among the ancients through which Cicero’s *scientia rerum divinarum atque humanarum* [knowledge of things divine and human] l. c. would have become clearer to me than through the following saying of *Antonin’s Comment. ad s. i. Libr. III*, p. 37, “always, says he there, let the principles be present to you, according to which you can cognize the divine and the human, in order to accomplish everything, even the smallest, mindful of the connection between both; for without reference to the divine you will do nothing human aright, and conversely, without reference to the human nothing divine).”
+
+12) *This kind* of religiosity will also become the surest basis of my morality; for it rests itself already on the recognition of that which is elevated above sensibility, as the highest, *indeed sole* reality: and only under this presupposition can it be expected of me to let myself be determined in my actions, *as man*, by that which *alone* has reality, but not by the sensible. If the supersensible has in itself no reality,
+
+[p. 360]
+
+but receives it first through intuitions, and one nevertheless expects of me to let myself be guided by it thereby: then one does not know what one wants.
+
+13) What counts as ground of the apodictic certainty of these propositions (from No. 6), just that must likewise already be presupposed, if even only a logic, *as logic*, a doctrine of reason *from reason*, not merely from induction, is to be set up.
+
+14) But he to whom it has now indeed been granted to be able to bear an intuition-philosophy, *as philosophy*, whether it have the Epicurean-French or the Kantian-German cut, hence, without any offense against his (quite peculiar) principle of contradiction, to transform the conditions on the side of the material into the cause, the ground, the *prius* κατ᾽ ἐξοχήν, physics into a metaphysics, chemistry into an ontology, this physical metaphysics, this chemical ontology, however, once again (à la Kant) to declare for nothing less than for the attainment of what is *in itself* real, consequently to philosophize, without a philosophy ever emerging, and in this way alone *rightly* (critically) to philosophize—from him one must put up with it if he overturns for one, *together with all logic*, at once also all those propositions (from No. 6 on).
+
+*Rem.* For the elucidation of the difference between mere conditions and the cause, the ground, the *prius* κατ᾽ ἐξοχήν, the practical serves especially. Detention e.g. (*si quid manu teneo vel corpore occupo* [if I hold something with my hand or occupy it with my body]) can indeed be called a condition of appropriation, but is it therefore also its cause, etc.?

@@ -1,0 +1,15 @@
+title: Neue Kritik der Vernunft I–II
+title_en: New Critique of Reason
+author: Jakob Friedrich Fries
+year: 1807
+original_language: de
+translation_language: en
+edition_layout: photocopy (scan beside the English)
+source: page files of _facing-pipeline/fries (generated — edit the page files, not this file)
+original_text: OCR of the scan, uncorrected, cut at the English paragraph starts (the scan in the PDF edition is the authority)
+translation: machine-made (Claude), reviewed against the original by Claude; no human review
+pages: 718
+genre: Kant and post-Kantian philosophy
+generated: 2026-10-24 by corpus.py
+heading: "# Jakob Friedrich Fries, *Neue Kritik der Vernunft I–II* (1807) — *New Critique of Reason*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."

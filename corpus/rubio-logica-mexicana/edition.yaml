@@ -1,0 +1,15 @@
+title: Logica mexicana
+title_en: Mexican Logic
+author: Antonio Rubio
+year: 1615
+original_language: la
+translation_language: en
+edition_layout: photocopy (scan beside the English)
+source: recovered from the PDF ‘Logica_mexicana_facing.pdf’ (the page files were not kept) — THIS FILE IS THE SOURCE, corrections go here
+original_text: OCR text layer of the scan, uncorrected
+translation: machine-made (Claude), reviewed against the original by Claude; no human review
+pages: 771
+genre: Logic
+generated: 2026-10-24 by corpus.py
+heading: "# Antonio Rubio, *Logica mexicana* (1615) — *Mexican Logic*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."
