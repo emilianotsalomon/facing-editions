@@ -1146,11 +1146,13 @@ Größenlehre angewandt auf Einzelne Größen.
 
 [p. 213] Philosophie Ister (A als A, in A durch
 Theil. A) gesezt (in B+b)
+
 (A als A, in A, durch
 A) gesezt in (— B
 + b)
 
 ## Uebergang zur Naturlehre.
+
 (+ b)
 
 (Hier hängen sich dann erst — die sinnlichen Attribute

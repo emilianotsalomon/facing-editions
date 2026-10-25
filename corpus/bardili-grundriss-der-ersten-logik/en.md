@@ -168,9 +168,9 @@ An *Imperative*,—and this is the *whole* (not only the half practical), *compr
 
 *Logical* means, then, according to all logics, *the formal of thinking itself*, and yet, according to all logics, a logical reality (hence a thought) is supposed to be capable of being canceled only through its (surely also logical) negation (through a non-thought), *but nevertheless still remain a thought*?—Certainly; for the *Critique*, the Sun, as a reviewer expressed himself, for the philosophy of all centuries, has indeed even discovered a *form of thinking* (category) of *negation*, in order to refresh itself for centuries also on this. Much good may it do everyone in need of light who can think through negations and limitations, as his forms of thinking. This is what comes out of it when one holds the law of identity (hence A or thinking in every judgment)—itself for a judgment; why not then altogether for a *synthetic* one?
 
-[p. 19] Provided with the knot of apriority, it would then hold as firmly as an *analytic* one. Incidentally a few words on the discovery of the Critique under the name of an *a priori* synthesis; the rest follows later.
+[p. 19] Provided with the knot of apriority, it would then hold as firmly as an *analytic* one.
 
-### Gelegenheitlich ein paar Worte über die Entdekung der Kritik unter dem Namen Einer aprioris­chen Synthesis; das Weitere kommt nach.
+### Incidentally a few words on the discovery of the Critique under the name of an *a priori* synthesis; the rest follows later.
 
 Whoever assumes synthetic judgments *a priori* already puts judgments into thinking, as thinking *itself*. What is to be thought of this, our German word *Urtheil* [judgment] (*quasi divisio primaria Objecti* [as it were, the primary division of the object]) may provisionally announce.
 
@@ -332,9 +332,9 @@ that is, in other words, the altered quality of the object (*this one*) alters f
 
 11) An *Omne* which, as *indispensable* security of the universality of their assertion (say in the major of a syllogism), were prefixed to certain concepts *without apprehensions*, would be prefixed to apprehensions and also to *no* apprehensions, consequently a contradiction. (Just so the *Nullum*).
 
-12) There is for a syllogism consisting of concepts, hence also for that of which it materially consists, for concepts, *as that which they have meanwhile shown themselves to be in all logics*, for judgments, *as judgments* (without up to now bringing the *A* into account) [p. 67] no other truth than the correctness of the apprehensions on which they rest, hence *the truth of their materiature*. Necessary Anticipation of Some Propositions from the Doctrine of Primal Division (Ur-theilung) or of the Object, for the Purpose of the Next Following 15th §.
+12) There is for a syllogism consisting of concepts, hence also for that of which it materially consists, for concepts, *as that which they have meanwhile shown themselves to be in all logics*, for judgments, *as judgments* (without up to now bringing the *A* into account) [p. 67] no other truth than the correctness of the apprehensions on which they rest, hence *the truth of their materiature*.
 
-## Nöthige Anticipation Einiger Säze aus der Ur-theilungs- oder Objekt-lehre, zum Behufe des nächstfolgenden 15ten §.
+## Necessary Anticipation of Some Propositions from the Doctrine of Primal Division (Ur-theilung) or of the Object, for the Purpose of the Next Following 15th §.
 
 1) Thinking, *as thinking*, must annihilate matter, *as matter* in thinking; otherwise it does not arrive, with matter, at a *something, as something thought*.
 
@@ -650,7 +650,9 @@ Philosophy, 1st Part. / (A as A, in A, through A.)
 
 Doctrine of magnitude in general / (A as A, in A, through A) posited in (B).
 
-Philosophy, 2nd Part. / (A as A, in A, through A) posited in (− B) Doctrine of magnitude applied to individual magnitudes.
+Philosophy, 2nd Part. / (A as A, in A, through A) posited in (− B)
+
+Doctrine of magnitude applied to individual magnitudes.
 
 [p. 213] Philosophy, 3rd Part. (A as A, in A, through A) posited (in B + b)
 
@@ -660,7 +662,9 @@ Philosophy, 2nd Part. / (A as A, in A, through A) posited in (− B) Doctrine of
 
 (+ b)
 
-(Here only then — / the sensible *attributes* / —— *Accidents* / attach themselves again.) It is quite impossible to have a concept, to pass a judgment on anything in the system of the world, to make a syllogism, without there lying at its ground
+(Here only then — / the sensible *attributes* / —— *Accidents* / attach themselves again.)
+
+It is quite impossible to have a concept, to pass a judgment on anything in the system of the world, to make a syllogism, without there lying at its ground
 
 (B) contained in (− B + b),
 
