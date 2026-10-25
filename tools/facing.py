@@ -17,8 +17,8 @@ merge raises ValueError rather than fall back. Every other edition keeps the per
 Standard library only."""
 import os, re, json, difflib
 
-MARK = r'\[(?:p\. [^\]]+|scan \d+|PDF \d+)\]'
-INLINE = re.compile(r'\[(?:p\. |scan |PDF )([^\]]+)\]')                       # as in reader.py: label = m.group(0)[1:-1]
+MARK = r'\[(?:p\. [^\]]+|AA \d+:\d+|scan \d+|PDF \d+)\]'
+INLINE = re.compile(r'\[(?:p\. [^\]]+|AA \d+:\d+|scan \d+|PDF \d+)\]')                       # as in reader.py (MARKS): label = m.group(0)[1:-1]
 NOTE = re.compile(r'^(\d{1,3}\s?[a-c]?\)|\*+\)|\(\d{1,3}\)|[†‡]|<sup>[^<]*</sup>\s)')   # a footnote paragraph
 
 
