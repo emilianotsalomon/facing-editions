@@ -69,7 +69,12 @@ body.noside .page{gap:0 0}body.noside main{padding-left:.2rem}
 .notes h5{margin:0 0 .3rem;font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);font-weight:normal;text-align:left}
 .notes p{margin:0 0 .5em}.notes .who{color:var(--muted);font-size:.85em}
 .gnotes{background:var(--note);border:1px solid var(--line);border-radius:10px;padding:1rem 1.3rem;margin:0 0 1.2rem;font-size:.95em}.gnotes h3{margin:0 0 .4rem;font-weight:normal;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
-sup{font-size:.7em;line-height:0}.toolbar{display:flex;gap:.7rem;align-items:center;margin:0 0 1.2rem}.toolbar input{max-width:24rem}
+sup{font-size:.7em;line-height:0}.toolbar{display:flex;gap:.3rem;align-items:center;margin:0 0 .4rem}.toolbar input{max-width:24rem;min-width:0}
+.qb{font:inherit;font-size:.85rem;width:1.9rem;height:2rem;flex:none;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--muted);cursor:pointer}.qb:hover{color:var(--ink);background:var(--orig)}
+.qn{margin:0 0 .4rem;font-size:.76rem;color:var(--muted);min-height:1em}.qres{max-height:40vh;overflow:auto;margin:0 0 1rem;scrollbar-width:thin}.qres:empty{display:none}
+.side .qres a{display:block;font-size:.78rem;line-height:1.35;color:var(--muted);padding:.3rem .4rem;margin:0;border-left:0;border-radius:6px}.side .qres a:hover{background:var(--orig);text-decoration:none}.side .qres a.on{background:var(--orig);color:var(--ink)}
+.qres b{color:var(--ink);font-weight:normal;background:rgba(214,188,96,.4);border-radius:2px}.qres .ql{display:block;font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}.qmore{font-size:.74rem;color:var(--muted);margin:.4rem}
+::highlight(fe-hit){background-color:rgba(214,188,96,.45)}::highlight(fe-cur){background-color:#e39b2d;color:#000}.card.qcur{outline:2px solid var(--accent)}
 /* annotations */
 mark.an{background:transparent;color:inherit;border-radius:2px}mark.an.hl.straw{background:rgba(214,188,96,.28)}mark.an.hl.sage{background:rgba(120,160,120,.26)}mark.an.hl.rose{background:rgba(200,120,120,.24)}
 mark.an.ul{text-decoration:underline;text-decoration-color:rgba(122,42,34,.55);text-decoration-thickness:1.5px;text-underline-offset:3px}
