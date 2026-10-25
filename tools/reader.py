@@ -281,7 +281,7 @@ def render(path, s):
             if not paged and (cur['e'] or cur['o']):     # no page marks at all: a heading opens a new box (one per section)
                 new_card(cur['label'])
             toc.append((lvl, re.sub('<[^>]+>', '', txt), cur['id']))
-            cur['h'].append(f'<h{lvl}>{txt}</h{lvl}>'); continue
+            cur['h'].append((f'<h{lvl}>{txt}</h{lvl}>', len(cur['o']), len(cur['e']))); continue     # with where it falls on the page
         if p == '⁂':
             cur['e'].append('<p class="sep">⁂</p>'); continue
         if p.startswith('>'):
@@ -343,6 +343,21 @@ def render(path, s):
         if not o:                                   # nothing on the original side: show what there is, full width
             return f'<div class="row single{kind}"><div class="e" lang="en">{"".join(e)}</div></div>'
         return f'<div class="row{kind}"><div class="o" lang="{ol}">{"".join(o)}</div><div class="e" lang="en">{"".join(e)}</div></div>'
+    def inline(e, hs):
+        """English-only column with each heading where it falls"""
+        at = {}
+        for t, _, pe in hs:
+            at.setdefault(pe, []).append(t)
+        return ''.join(''.join(at.get(k, [])) + p for k, p in enumerate(e)) + ''.join(at.get(len(e), []))
+    def paired(o, e, hs, ol):
+        """rows with each heading between the pairs it falls between; headings all at the top when a heading
+        sits inside a pair or the two sides do not pair up"""
+        if not (o and e and len(o) == len(e) and all(po == pe for _, po, pe in hs)):
+            return ''.join(t for t, _, _ in hs) + rows(o, e, ol)
+        out, k = [], 0
+        for t, po, _ in hs:
+            out.append((rows(o[k:po], e[k:po], ol) if po > k else '') + t); k = po
+        return ''.join(out) + (rows(o[k:], e[k:], ol) if len(o) > k else '')
     for c in cards:
         if not (c['o'] or c['e'] or c['h'] or c['on'] or c['en']):
             continue
@@ -353,15 +368,14 @@ def render(path, s):
         lab = f'<span class="pg">{html.escape(c["label"])}</span>' if c['label'] else ''
         if mono:
             fn = f'<div class="fn">{"".join(c["en"])}</div>' if c['en'] else ''
-            out.append(f'<section class="card mono" id="{c["id"]}">{lab}{"".join(c["h"])}<div class="e" lang="{ol}">{"".join(c["e"])}{fn}</div>{notes}</section>')
+            out.append(f'<section class="card mono" id="{c["id"]}">{lab}<div class="e" lang="{ol}">{inline(c["e"], c["h"])}{fn}</div>{notes}</section>')
         else:
-            body = rows(c['o'], c['e'], ol)
             if not c['o'] and not c['on']:
                 fn = f'<div class="fn">{"".join(c["en"])}</div>' if c['en'] else ''
-                out.append(f'<section class="card mono" id="{c["id"]}">{lab}{"".join(c["h"])}<div class="e" lang="en">{"".join(c["e"])}{fn}</div>{notes}</section>')
+                out.append(f'<section class="card mono" id="{c["id"]}">{lab}<div class="e" lang="en">{inline(c["e"], c["h"])}{fn}</div>{notes}</section>')
                 continue
             foot = (f'<div class="fnrows">{rows(c["on"], c["en"], ol, " fnrow")}</div>' if (c['on'] or c['en']) else '')
-            out.append(f'<section class="card pairs" id="{c["id"]}">{lab}{"".join(c["h"])}{body}{foot}{notes}</section>')
+            out.append(f'<section class="card pairs" id="{c["id"]}">{lab}{paired(c["o"], c["e"], c["h"], ol)}{foot}{notes}</section>')
     orphan = [l for l in by_page if l not in seen]
     if orphan:
         out.append('<div class="gnotes"><h3>Notes on pages not shown separately</h3>' + ''.join(f'<p><b>{html.escape(l)}</b></p>' + ''.join(by_page[l]) for l in orphan) + '</div>')
