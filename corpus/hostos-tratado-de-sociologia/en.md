@@ -16,9 +16,7 @@ Holder of the Chair of Constitutional, International and Penal Law and of Politi
 
 of the Dominican Republic;
 
-Professor of Constitutional Law at the University of Chile;
-
-etc., etc.
+Professor of Constitutional Law at the University of Chile; etc., etc.
 
 MADRID
 
@@ -32,55 +30,29 @@ Calle de la Cava Alta, No. 5.
 
 Pages To the Reader                                                       5 Methodological Introduction to establish the method at              9
 
-once scientific and historical which is to be followed in
-
-this study.—1-2. Method and procedures.—3. What method
-
-is.—4-19. What those procedures are.—20. What the exposi‐
-
-tion of a science demands.—21. The natural method of a sci‐
-
-ence.—22. The effective method.—23. How a science ought
-
-to be studied.—24. How we shall study Sociology.—25. Plan
+once scientific and historical which is to be followed in this study.—1-2. Method and procedures.—3. What method is.—4-19. What those procedures are.—20. What the exposition of a science demands.—21. The natural method of a science.—22. The effective method.—23. How a science ought to be studied.—24. How we shall study Sociology.—25. Plan
 
 ## BOOK I
 
 Theoretical Sociology. CHAPTER I.—Intuitive Sociology.—1-4. Life in society.              21 Social facts.—5-11. What social facts are like.—12-19. How they present themselves in History.—20. Intuitive concept or judgment CHAPTER II.—Inductive Sociology.—1. Object of this                 28 chapter.—2. Formula of the intuitive judgment on Society.—3 and 4. Examination of this judgment. 5-7. Functions of social life.—8 and 9. The social order.—10-22. Classification of the social functions. Justification of such a classification.—23. Inductive judgment on Society CHAPTER III.—Deductive Sociology.—1. Formula of the inductive judgment on Society.—2. Natural laws of Society.— 3. How many are the natural laws of Society.—4. Which are the natural laws of Society.—5 and 6. Classification of the natural laws of Society.
 
-[PDF 6]
-
-— 252 —
+[p. 252]
 
 Pages 7-12. Study of the Law of Sociability.—13 and 14. Statement of      40
 
-the universal Law of Sociability.—15. Study and statement of
+the universal Law of Sociability.—15. Study and statement of the universal Law of Labour.—16. Universal Law of Liberty.
 
-the universal Law of Labour.—16. Universal Law of Liberty.
-
-Study and statement.—17. Study and statement of the univer‐
-
-sal Law of Progress.—18. Study and statement of the Law of
-
-the Ideal.—19. Law of Conservation. Its study and statement.
+Study and statement.—17. Study and statement of the universal Law of Progress.—18. Study and statement of the Law of the Ideal.—19. Law of Conservation. Its study and statement.
 
 —20. Law of Media. Examination and statement of it CHAPTER IV.—Systematic Sociology                                    54 Section 1.—Materials of Sociology.—1. Themes to be linked           54
 
-together in order to constitute Social Science. 2. What those
-
-themes are.—3 and 4. Relation of social phenomena among
-
-themselves.—5 and 6. Relation between sociotic facts and cos‐
-
-mic facts.—7. Society.—8. Labour.—9 and 10. Government.—
+together in order to constitute Social Science. 2. What those themes are.—3 and 4. Relation of social phenomena among themselves.—5 and 6. Relation between sociotic facts and cosmic facts.—7. Society.—8. Labour.—9 and 10. Government.—
 
 11 and 12. Progress.—13. The Ideal of the Good.—14. Social
 
 Conservation.—15. Sociability and the Media Section 2.—Work of systematization.—16. The bases for the           62
 
-scientific organization of Sociology.—17. What would have to
-
-be done
+scientific organization of Sociology.—17. What would have to be done
 
 ## BOOK II
 
@@ -96,9 +68,7 @@ laws are.—4. Which they are.—5. Classification of them.—6.
 
 Constitutive law.—7. Organic laws.—8. First organic law.—9.
 
-Second organic law.—10. Third organic law.—11. Fourth or‐
-
-ganic law.—12. Fifth organic law.—13. Law of procedure Section 2.—Statement of the Social Laws.—14. Why the so‐
+Second organic law.—10. Third organic law.—11. Fourth organic law.—12. Fifth organic law.—13. Law of procedure Section 2.—Statement of the Social Laws.—14. Why the so‐
 
 cial laws ought to be stated.—15. Statement of the Law of
 
@@ -106,9 +76,7 @@ Sociability.—16. Statement of the Law of Labour.—17.
 
 Statement
 
-[PDF 7]
-
-— 253 —
+[p. 253]
 
 Pages of the Law of Liberty.—18. Statement of the Law of Progress.— 73
 
@@ -120,41 +88,23 @@ Law of Conservation.—21. Statement of the Law of Media Section 3.—Social Ord
 
 24. Function of government, with reference to the Law of
 
-Liberty.—25. Function of public education, in so far as gov‐
+Liberty.—25. Function of public education, in so far as governed by the Law of Progress.—26. Function of religion and morals, with reference to the Law of the Ideal.—27.
 
-erned by the Law of Progress.—26. Function of religion and
-
-morals, with reference to the Law of the Ideal.—27.
-
-Conserving function, or function of the force of societies, with
-
-reference to the Law of Conservation. 28. The social media,
+Conserving function, or function of the force of societies, with reference to the Law of Conservation. 28. The social media,
 
 with reference to the Law of Media CHAPTER III.—Sociography.—1. What Sociography is                      94 Section 1.—General Sociography.—2. Object of General                  95
 
 Sociography § 1.—Social states.—3 and 4. First social state.—5 and 6. Second      96
 
-social state.—7 and 8. Semi-barbarism.—9-11. State of semi-
+social state.—7 and 8. Semi-barbarism.—9-11. State of semi-civilization.—12-16. Labour, Government, Education, Religion and Morals, and Public Force in semi-civilization.—17.
 
-civilization.—12-16. Labour, Government, Education, Religion
-
-and Morals, and Public Force in semi-civilization.—17.
-
-Civilization.—18. The signs of Civilization.—19. The civiliza‐
-
-tion of the Aryan family: that of the ancient Greeks.—20.
+Civilization.—18. The signs of Civilization.—19. The civilization of the Aryan family: that of the ancient Greeks.—20.
 
 That of the Italic branch.—21. Germanic civilization § 2.—Description of Labour.—22. What Labour is. Historical study. 115
 
-—22 bis. The basis of Labour. Application and adaptation of
+—22 bis. The basis of Labour. Application and adaptation of scientific, artistic and literary knowledge.—22 ter. Organic force of Labour § 3.—Description of Government.—23. What Government is. How it 118
 
-scientific, artistic and literary knowledge.—22 ter. Organic force
-
-of Labour § 3.—Description of Government.—23. What Government is. How it 118
-
-presents itself in the various social states.—24. The regime of
-
-law. Incomplete organization of its four elements § 4.—Description of Education.—25. Process of Education.—26 and 124
+presents itself in the various social states.—24. The regime of law. Incomplete organization of its four elements § 4.—Description of Education.—25. Process of Education.—26 and 124
 
 27. Characteristics of Education. The organization of
 
@@ -168,9 +118,7 @@ its organization ought to be Section 2.—Description of Society as particular l
 
 The parts of the social organism § 1.—The Individual.—32. What the Individual is.—32 bis.             129
 
-Tendency of the Individual to complete himself with another
-
-being. The Vedas and Genesis. The social cell: man-woman-
+Tendency of the Individual to complete himself with another being. The Vedas and Genesis. The social cell: man-woman-
 
 child.—32 ter. Evolution of the Individual in the Tribe § 2.—Description of the Family.—33. What the Family is.—34.          131
 
@@ -178,17 +126,11 @@ When the Family appears among the Aryans and the Indo-
 
 Europeans.—35. The Family among the Mongols, Semites and
 
-Cainites.—36. First evolution.—37. Historical characteristics
-
-of some human families.—38. The Family is at the beginning
-
-of its evolution.—39 and 40. Part which the Family plays in the
+Cainites.—36. First evolution.—37. Historical characteristics of some human families.—38. The Family is at the beginning of its evolution.—39 and 40. Part which the Family plays in the
 
 social organism. Ideal description of the group § 3.—Description of the Tribe.—41. The Tribe, considered physio‐     138
 
-logically.—42. The Tribe in History.—43. The case of Athens,
-
-of Rome and of the Italian Republics of the Middle Ages § 4.—Life of the Family, of the Tribe and of the Gens.—44. What “the 140
+logically.—42. The Tribe in History.—43. The case of Athens, of Rome and of the Italian Republics of the Middle Ages § 4.—Life of the Family, of the Tribe and of the Gens.—44. What “the 140
 
 Gens” is.—45. Historical evolution.—46. Attica, Argolis,
 
@@ -210,9 +152,7 @@ Potency of religious beliefs and of moral ideas § 5.—Conserving potency.—60
 
 How and towards what it is to be directed.
 
-[PDF 9]
-
-— 255 —
+[p. 255]
 
 Pages CHAPTER IV.—Sociorganology.—Study of the organs of Society 154 Section 1.—Vital organs                                                 154 § 1.—The Individual.—1. Part of the Individual in the social body.—2 154
 
@@ -226,13 +166,9 @@ facts § 4.—The Region.—8. How it is constituted.—9. The Region in mod‐ 
 
 ern nations § 5.—The Nation.—10. How nations are formed.—11. Occupation             161
 
-and possession.—12. The American nations.—13. Fundamental
+and possession.—12. The American nations.—13. Fundamental reason of a nation, according to the type of the American ones.—
 
-reason of a nation, according to the type of the American ones.—
-
-14. Occupation and possession in the Old World. 15. History and
-
-the constitution of nations. Section 2.—Institutional organs.—16. The action of Law in the 163
+14. Occupation and possession in the Old World. 15. History and the constitution of nations. Section 2.—Institutional organs.—16. The action of Law in the 163
 
 social organism § 1.—Domestic Council.—17. What the Family Council is                   164 § 2.—Municipal Council and government of the Municipality.—18. What the 164
 
@@ -256,13 +192,7 @@ ought to be organized.—33. The representative democratic State [PDF 10] — 25
 
 Pages § 5.—The international State.—34. It has not existed, nor does it   175
 
-yet exist.—35. “Christendom.”—36. The international State
-
-in the 19th century.—37. Two conceptions of the in‐
-
-ternational State.—38. What it will have to be and how it
-
-ought to be organized.—39. How it may be attained.—40.
+yet exist.—35. “Christendom.”—36. The international State in the 19th century.—37. Two conceptions of the international State.—38. What it will have to be and how it ought to be organized.—39. How it may be attained.—40.
 
 Aspect of the problem CHAPTER V.—Sociopathy                                               182 Section 1.—Social diseases.—1. Why Society can suffer dis‐ 182
 
@@ -272,11 +202,7 @@ diseases come.—4. What those diseases are § 1.—Diseases of an economic char
 
 Physiological misery.—7. The intertropical countries.—8.
 
-Cause of their state.—9. Social anaemia.—10. The case of
-
-some intertropical countries of Spanish origin.—11. Excess
-
-of population in some countries and cities. Pauperism § 2.—Diseases of a juridical character.—12-14. What the diseases of 188
+Cause of their state.—9. Social anaemia.—10. The case of some intertropical countries of Spanish origin.—11. Excess of population in some countries and cities. Pauperism § 2.—Diseases of a juridical character.—12-14. What the diseases of 188
 
 Law are.—15. The Latin-American Republics.—16. Which
 
@@ -288,41 +214,23 @@ The scenic perspective.—24. Gymnosophist contemplation.
 
 —25. Satyriac sensualism § 4.—Diseases of a moral character.—26. What determines them.— 196
 
-27. Exacerbations of religious sentiment.—28. Nervous
-
-overexcitements of political passions.—29. Anarchism.—30.
+27. Exacerbations of religious sentiment.—28. Nervous overexcitements of political passions.—29. Anarchism.—30.
 
 Social neurosis § 5.—Diseases of a mesological character.—31. Origins.—32.          198
 
-Withdrawal of the United States of North America within
+Withdrawal of the United States of North America within the American continent.—33. Influence which Sociology ought to exert upon the conservative tendencies of the
 
-the American continent.—33. Influence which Sociology
-
-ought to exert upon the conservative tendencies of the
-
-American peoples Section 2.—Manner of preventing social diseases. Social
-
-hygiene.—34. What it is.—35. How it ought to act. Precepts.
+American peoples Section 2.—Manner of preventing social diseases. Social hygiene.—34. What it is.—35. How it ought to act. Precepts.
 
 Prevention of economic diseases.—36. Preventive precept for
 
-[PDF 11]
-
-— 257 —
+[p. 257]
 
 Pages economic diseases.—37. The same for juridical ones.—38.       201
 
-Disturbances of progress.—39. Religious and moral distur‐
+Disturbances of progress.—39. Religious and moral disturbances.—40. Disturbances in the social force.—41. Influence which social Hygiene will have to have upon the development of societies Section 3.—Cure of social diseases. Social therapeutics.— 205
 
-bances.—40. Disturbances in the social force.—41. Influence
-
-which social Hygiene will have to have upon the development
-
-of societies Section 3.—Cure of social diseases. Social therapeutics.— 205
-
-42. How social diseases may be cured.—43. Cure of econom‐
-
-ic diseases.—44. Moral diseases.—45. Intellectual diseases
+42. How social diseases may be cured.—43. Cure of economic diseases.—44. Moral diseases.—45. Intellectual diseases
 
 ## BOOK III
 
@@ -332,9 +240,7 @@ the classification of the sciences.—What science it is and why Section 2.—Tw
 
 group Sociology belongs in each of these classifications Section 3.—Concrete sciences of the third group.—Which             213
 
-study ought to come first: that of the abstract sciences or that
-
-of the concrete? Section 4.—Newness and antiquity of Sociology.—Why, being 213
+study ought to come first: that of the abstract sciences or that of the concrete? Section 4.—Newness and antiquity of Sociology.—Why, being 213
 
 an ancient science, it has not been organized until these days.
 
@@ -356,9 +262,7 @@ the Ideal Section 9.—What order is.—Order derived from the natural          
 
 laws of Society.—Correspondence between laws and order
 
-[PDF 12]
-
-— 258 —
+[p. 258]
 
 Pages Section 10.—In what the natural order of Society con‐         236
 
@@ -370,13 +274,9 @@ cial being.—Organs that constitute it.—The most im‐
 
 portant of those organs Section 13.—Part which the Individual plays as a con‐         241
 
-stituent of Society.—Share which the particular end of
+stituent of Society.—Share which the particular end of every individual has in the general end of Society.—
 
-every individual has in the general end of Society.—
-
-Individualist theory.—Socialist theory.—Sociocratic the‐
-
-ory.—Organic theory.—What is to be thought of such
+Individualist theory.—Socialist theory.—Sociocratic theory.—Organic theory.—What is to be thought of such
 
 theories Section 14.—Notions of practical Sociology                    245 Section 15.—Application of Sociology to Politics, to Art,     246
 
@@ -434,9 +334,7 @@ Resolution of the “Sociedad de Enseñanza” of Santo Domingo:
 
 8. The mere fact of setting our means of knowing in activity will produce progressive knowledge: first, that of reality, through the intellectual activity which can perceive it; second, the knowledge of the real order, perceived by the organs of reason which can perceive it; third, the knowledge of the natural laws which produce that real order, laws recognized, formulated and stated by the organs of reason which are capable of discovering, affirming and stating universal laws.
 
-[PDF 19]
-
-— 11 —
+[p. 11]
 
 9. Art could not do what Nature has not done: so that no artificial means of knowing can improve upon or take the place of the natural means of reason. And since reason has to know reality by intuition, in order through it to induce the order and from it to deduce the law, there can be no other methods than the intuitive, the inductive and the deductive, nor can exact knowledge of any object of knowledge whatever be acquired except step by step, that is to say, procedure by procedure and function by function, or—what is the same thing—only by going from reality to order and from order to the natural laws. This is so, although in nature there is not and cannot be such a separation, for nature shows us in an intimate and connected whole what reason separates, analyses and decomposes. But as reason cannot have seen, nor can see, at one time the facts, and the reason of the facts, and the invariable law of the facts, and as the operations which it performs in order to perceive each one of the elements of reality are precisely the operations which the particular knowledge of each of those elements demands, and precisely in the very order in which the object or reality, the relation between the object and its cause, the relation between the cause and the object, present themselves to reason, it is impossible to arrive at any knowledge without following the natural methods of reason; and without the natural functioning of reason no method whatever can be followed.
 
@@ -458,9 +356,7 @@ The fact is that, in order to climb the ladder, there is an unavoidable necessit
 
 17. On the other hand, when induction is based upon intuition, the knowledge of the relations of effect to cause is so natural that the series of relations may be followed, just as one may go on climbing step after step.
 
-[PDF 21]
-
-— 13 —
+[p. 13]
 
 18. When one reaches the last, one has the knowledge of the whole: the floor, with all its accidents, down below; the relation between all the realities seen and the causes of those realities; the manner in which the one and the other are linked together; the aspect they present, the reality they constitute.
 
@@ -496,9 +392,7 @@ Attention to each social fact.
 
 Perception of each social fact.
 
-[PDF 25]
-
-— 17 —
+[p. 17]
 
 Recollection of the facts in themselves and in their circumstances.
 
@@ -542,9 +436,7 @@ Law of Conservation: its statement.
 
 Law of Media: its statement.
 
-[PDF 26]
-
-— 18 —
+[p. 18]
 
 Classification of the natural laws of Society.
 
@@ -768,9 +660,7 @@ The first social group which results from the association of individual needs an
 
 With the exception—so far as we know—of the two national Empires, on our Continent everything was regional. From East to West, and from the Atlantic to the Pacific, all our social life, wherever it had already passed beyond the first state, all our life was regional. It was the Region that made Society; it was the Region that constituted the nucleus of sociability; it was the Region that determined the force of association. Taking only two examples, let them be the Lucayan peoples of the Antilles and the Araucanian people of the western extremity of the Continent. In the Antilles—predominantly in Haiti-Quisqueya —the association of the groups adapted itself strictly to the orographic or geographical regions of the territory, in such wise that there subsisted in it, made brothers by bonds of origin and of neighbourhood, but completely separated in territorial authority and in social power, five independent cacicazgos. In Arauco, the ulmenados or governments of the ulmenes were— like the Antillean cacicazgos—regional States, in which partial groups of the same national society functioned independently.
 
-[PDF 53]
-
-— 45 —
+[p. 45]
 
 11. When it is a question of the last group of the first series, there is no need to recall, nor any need to show even today, in intertropical Africa, that, in reality, the first social group truly historical, effectively real, is the one which we—for reasons of order—place in the last place. In effect, and as follows from our recent analysis of the social states, when the Family does not yet really exist, the Tribe already lives in a completely natural manner. Well then: the Tribe is nothing more than the Nation unformed, without organization, without institutions, without articulations, without juridical personality. But, anorganic though it be, it appears from the first moment of human societies, and the Tribe is the Nation in rudiment, in embryo, in the commencement of existence.
 
@@ -778,9 +668,7 @@ If it appears as the first of all historical groups, it is not because physiolog
 
 Without insisting further on the fact of the earliness and even priority of the Tribe over every other social formation, the fact suffices to corroborate definitively the affirmation that Sociability is a natural law which all beings of reason obey.
 
-[PDF 54]
-
-— 46 —
+[p. 46]
 
 12. In reality, the Law of Sociability is not exclusively of rational beings, since vegetables and animals also obey it. And as it is a natural tendency of induction to seek its foundations in the first facts, primitive, anterior to every other, the Law of Sociability may come to be found, and in effect is found, related to facts of a cosmological character. Thus, in small masses, cohesion acts; in minimal masses, affinity; in maximal masses, attraction.
 
@@ -798,9 +686,7 @@ Because, in effect, in order that the statement of
 
 Now then: as the law of universal attraction establishes a relation so fixed that it constitutes the cause, the explanation and the reality of cosmic conservation, it is evident that the most extensive phenomenon, the first, the primitive, the one anterior to every other, is the phenomenon of universal conservation.
 
-[PDF 56]
-
-— 48 —
+[p. 48]
 
 Well then: if for the statement of the Law of Sociability we need to have as our point of view the most general phenomenon of association, we shall find that this phenomenon is also the conservation of Society, since the fact that societies conserve themselves is the continuous result of the pre-existence of the law of Association. Therefore, we have already one of the precise terms of the statement, which is social conservation. But as we are dealing with mobile and mutable beings, who can contribute, and in effect do contribute, to the alteration of the order of societies, we shall seek in their very nature a continuous fact which may manifest the necessity, the fatality, of individual and collective conservation, and we shall meet with the instinct of conservation. In that manner, we shall already have the positive face of the Law of Sociability, and it will only remain for us to seek the negative face. If positively the instinct of conservation concurs to the social order, negatively the lesser social development of that instinct common to all social beings will hinder that order.
 
@@ -808,9 +694,7 @@ Well then: if for the statement of the Law of Sociability we need to have as our
 
 15. Study and statement of the universal Law of Labour.—The statement of this law—like that of the preceding and like that of all the others—obliges us to seek and find— if this is possible—the two extreme terms of the relation which determines the order. Once they are found, the statement can no longer be vague or indeterminate, although it may continue to be objectionable, since, as we have seen, there always subsists the agent of alteration in the human bosom, free in its acts as individual and free in its acts as group.
 
-[PDF 57]
-
-— 49 —
+[p. 49]
 
 The extreme terms of the relation which constitutes the natural order of Society in its economic activity are: production and consumption; production, because it is the immediate effect of labour, of all labour, of any labour whatever; consumption, because it is the very object of labour.
 
@@ -826,9 +710,7 @@ The negative part is expressed in terms of negation: ..... and in a relation of 
 
 17. Study and statement of the universal Law of Progress.—Of all those which may be considered universal laws of Society, none has been so much considered such, for now more than two centuries, as the phenomenon of individual and collective development which is called Progress. Precisely because it is a matter of common consent that Progress is a natural law of Society, it is important to state it in the most precise terms possible. And since we already know that—for this—we must base ourselves upon the extreme terms of the relation which constitutes the particular order under examination, we must recall that in our inductive study we recognized that the two extremes of the relation of Progress are: education and perfection. Now, as education is a voluntary, precise and positive term, the statement expresses by means of it the positive part of the relation of Progress. Thus it says that Progress is in positive ratio to education. And as perfection is the term at which one arrives, and is contingent, uncertain, or—at the least—fluctuating, we express by means of it the negative face or part of the relation. Thus we say: ..... and in negative relation to perfection.
 
-[PDF 59]
-
-— 51 —
+[p. 51]
 
 It is to be understood that this part of the statement means precisely that: when perfection is very little active, it is because education is very passive.
 
@@ -862,9 +744,7 @@ An eternally painful example of this breaking of vital force in the sense of les
 
 In consequence of the wretched development of all those societies, when independence put them in a position to adapt the natural forces of civilization to their social medium, they did it so deficiently that there is not a single one of those forces which acts normally in a single one of those societies.
 
-[PDF 62]
-
-— 54 —
+[p. 54]
 
 ## CHAPTER IV
 
@@ -1026,9 +906,7 @@ In proportion as one meditates upon this intimate correlation of our human acts 
 
 This Law of Liberty acts manifestly in the social order, as it acts in the individual: in such wise that in the free exercise of our activity lies a part of the good to which we aspire, and in the depression of our Liberty lies a part of the evil which it is in our nature to combat.
 
-[PDF 77]
-
-— 69 —
+[p. 69]
 
 10. Third organic law of Society.—Progress is the name which is taken, in the unfolding of social groups, of general societies and of Humanity, by the growth and development which are necessary conditions of all that lives.
 
@@ -1058,9 +936,7 @@ That norm which, followed, gives order, and which, forgotten, gives social disor
 
 In human societies the same influence of Media is exerted upon the social forces or agents. Time, place, present circumstances, usages and customs, historical, religious, social, economic traditions, all are capable of modifying, and at times of hindering extraordinarily, the application of an advantage, a reform or a salutary transformation of Society. Hence the force of the Law of Media and the necessity of knowing it and applying it.
 
-[PDF 81]
-
-— 73 —
+[p. 73]
 
 ## SECTION 2
 
@@ -1086,9 +962,7 @@ It will always—therefore—be seen that, the stronger the instinct of conserva
 
 16. Statement of the Law of Labour.—Consumption is proportional to production, and production is proportional to the coefficients of labour.
 
-[PDF 83]
-
-— 75 —
+[p. 75]
 
 This means that production, which is the mediate object of labour, and consumption, which is its immediate object, are related as a cause to its effect: in such a manner that the action of the cause may be observed arithmetically in the effect. In itself, this relation is so simple that it would have sufficed to take account of it for the economic order to have been established long since, through its prevailing in the economic phenomena of Society, and for men to have desisted from the continual devising and contriving which forms almost the whole economic activity of ancient, mediaeval and modern societies.
 
@@ -1130,9 +1004,7 @@ In reality, what the statement of the Law of Conservation describes is no more t
 
 The knowledge of this statement of the Law of Conservation is most important, because it contains an extraordinary force and extension and application. In effect: whoever knows with certainty the infallible correlation—by the very nature of things—between the force of life and that of conservation will at no moment be able to doubt the truth of the Law of Conservation, and continually—though the understanding or the conscience of Society be of stone—will insist upon applying the truth of the statement to the particular life of any society whatever.
 
-[PDF 89]
-
-— 81 —
+[p. 81]
 
 Naturally, since, by virtue of the unequal development which hinders the perfect flowering of any civilization, it has not yet been achieved that any one of them should present all its manifestations equally active, it will not be claimed that each one of them should be equal in force, health or splendour to the one which shines most; but it will be claimed that Society should have all its functions so organized that all of them—some more, some less—should denote the normal activity which we have seen to be needed for social conservation to be produced normally.
 
@@ -1192,9 +1064,7 @@ This positive notion, which cannot be reached except after the effort of observa
 
 25. Function of public education in so far as it is governed by the Law of Progress.—Let us see, in the first place, what is deduced from the Law of Progress. From the first extreme of that law it is deduced that Progress is in direct ratio to education. Therefore it is not possible to conceive a social state in a situation of effective development except in so far as the cultivation of public and private reason is so fundamental that it serves as the support of the very development of Society. In other terms: from the first extreme of the statement of the Law of Progress it is deduced that one of the necessary coefficients of social progress is education, since upon it depends the development of individual and collective reason. From the second extreme is deduced the intimate relation that exists between Progress and material, moral or intellectual perfecting: in such a manner that we may negatively judge of the state of a society by the degree of perfection which it has reached.
 
-[PDF 97]
-
-— 89 —
+[p. 89]
 
 It matters much to understand in a positive manner, without vaguenesses of any kind, without generalities which say everything and say nothing, what education is. It is a natural function of collective and individual life, which results from the need of development that the reason and the conscience of man possess. When that need is satisfied, the unfolding of the characteristic aptitudes of the human species (reason and the conscience of rationality) makes patent the necessity of educating, that is to say, of directing in conformity with nature all the aptitudes of the individual and collective being: hence it is that education embraces alike the physical aptitudes and the psychical aptitudes of man, the individual and the collective aptitudes of the social being, the theoretical and the practical aptitudes of the rational being.
 
@@ -1202,9 +1072,7 @@ Education, thus understood in its essential signification, is by nature not mere
 
 26. Function of religion and morals, with reference to the Law of the Ideal.—In this, as in all the functions of social life, the objective of reason, that is to say, what reason discovers in the function as its supreme object, is in such manner related to the law to which the function refers, that the only way of becoming wholly imbued with the truth and of making use of it, applying it immediately to the benefit of individual and collective man, is to set oneself to see, and continually to see, how each function of social life is subordinated naturally, inevitably, to the universal law which explains it, and in what manner each and every one of the operations of the function are likewise explained by the same law.
 
-[PDF 98]
-
-— 90 —
+[p. 90]
 
 When we say, in stating the Law of the Ideal, that religion is in direct ratio to the development of morals, we clearly make understood, by the deductive way, what we had already come to discover by the inductive way: that is, that there is so intimate a relation between religion and morals that without morals there is no religion; whence, in practice, as much for the criticism of current facts as for our own rule of conduct, we draw in consequence that no religion which stands outside the road of morals is effective religion; nor is that a good religion which expressly places itself outside that road, or attempts to make itself independent of morals, or carries its audacity to the extreme of pretending that morals are subordinate to it, and its insolence to the point of condemning as ineffectual the morality which, being as it ought to be, expressly holds itself aloof from every prejudice or anticipated judgment of any religion whatever.
 
@@ -1254,9 +1122,7 @@ Social states are the natural modes of living which the social being has, accord
 
 The social being, the same as the individual being, does not begin to live with old age, but with infancy; and in the same manner that there is an individual infancy there is a social infancy. Therefore, just as there is for the Individual the state of individual infancy, so there are for Society states of social infancy. There is, then, a first character in social states, exactly the same as in individual states, which is imposed by the very nature of the social being. It is a being: therefore it has to live in conformity with the natural conditions of beings. As the first condition of the life of beings is development, and development begins from birth, as soon as an association is born it must either die immediately or remain subject to the law of development. This is successive and progressive; that is to say, of every moment, and from less to more. There is, therefore, no possibility that any social state can begin otherwise than with the infancy of the social group.
 
-[PDF 104]
-
-— 96 —
+[p. 96]
 
 § 1.
 
@@ -1314,9 +1180,7 @@ In the economic order, the transition from barbarism to semi-civilization is the
 
 14. Education in semi-civilization.—Semi-civilization is also a state of disequilibrium in the matter of public and private education, of maternal schools and of schools of the State, of general and particular organs of apprenticeship and instruction, of institutions of arts, letters and sciences; of the development of literature, of the intellectual arts, and of the general and applied sciences.
 
-[PDF 112]
-
-— 104 —
+[p. 104]
 
 As semi-civilization is still a state of society which corresponds to the second historical state of thought, that is to say, to the metaphysical state, an intellectual moment in which reason takes as the point of departure of its reasoning, discourse and general activity the notions a priori, or, what amounts to the same, the exclusively speculative notions which result from thought abandoning itself to itself without any consultation of reality, there happens what it is natural should happen. What is natural, in the metaphysical state of historical thought, is the abundant production of phantom-ideas, that is to say, of ideas representative of reality in the confused manner in which, in the half-darkness of starlit nights or in the confused brightness of the Moon, objects are represented: blended in the gloomy luminosity, vague, indistinct. While this production of intellectual phantoms of reality lasts, there is no scientific truth, because the understanding does not seek it where alone it can find it: it does not seek it in reality, but in itself; and the understanding is not the bosom of truth, but reality is; Nature is not given in the understandings, which are simple instruments of inquiry, of search, of registry of reality; this is what contains the truth, because it is in Nature what the word, the proposition, the clause and the period are in human thought; that is to say, a mode of manifesting itself, a mode of expressing itself. Well, then: in the period of semi-civilization intellectual production goes laden with all the metaphysical ailments, by the mere fact that in that social state human reason has not yet been formed sufficiently to be able to function inductively. Hence it is that ill-elaborated inductions, anticipating the normal period of the [PDF 113] — 105 — function, rushing headlong upon ill-formed intuitions, operating upon sketches of the physico-psychical reality of Nature, have not the force which corresponds to the second state of reason, and fabricate fantastic approximations, metaphysical matter, which in reality serves for nothing; it serves, at the most, only as a psychological document of the harshness with which the periods of semi-civilization maltreat the greatest understandings.
 
@@ -1352,9 +1216,7 @@ In consequence of the exclusivism of the precinct of Rome, which afterwards came
 
 It is commonly said, on seeing the care with which Rome went on slowly conceding the right of Roman citizenship, which gave access to all power, and afterwards the jus latinum, which served to qualify the inhabitants of Latium to plead their right before the judicial representatives of ancient Rome, or before the very tribunals of the metropolitan city; it is commonly said that Rome represents the greatest activity of Law among the peoples of antiquity. This is not so: for if it were so, humanity would already have seen a civilization in which the function of Law predominated and in which the law of liberty prevailed. Far from it, Rome, as has just been briefly seen, by its selfish manner of extending Law while restricting it, and of extending its dominion while violating with its invasions external law; Rome represents, in reality, nothing other than organized force. So that, if Roman civilization were to be characterized by that one of its exponents which was most continuous and most effective in what appears to have been the purpose of the Romans, it might be said that it is, of all known civilizations, the one which has best served to illustrate the Law of Social Conservation. Not even this is strictly exact, because Rome did not organize its public force in order to extend Law, nor to favour universal progress, nor to do good to the other men of the earth, nor for any end that was not as selfish as was in fact that of the Roman State and people.
 
-[PDF 119]
-
-— 111 —
+[p. 111]
 
 As irrefutable proof that such was the reality of things, it is plainly seen that, instead of that continual military organization yielding the result which is obtained from the true organization of force, that is to say, instead of conservation resulting, destruction resulted; for it is also a historical reality that the military predominance of Rome put an end to Rome.
 
@@ -1384,9 +1246,7 @@ Description of Labour.
 
 22. What Labour is. Historical study.—The labour of human societies, which begins and ends with the labour of nutrition and sustenance, appears from prehistoric ages, now in the form of hunting, or fishing, or plunder, or hand-to-hand struggle with wild beasts, or breast-to-breast struggle with the waves.
 
-[PDF 124]
-
-— 116 —
+[p. 116]
 
 The first thing is to feed oneself, and hence the continual labour of primitive man, who had to dispute with the vermin of the forests, or with the wild beasts of the plains and the thickets, or with the monsters of the waters, the food which he found freely given nowhere.
 
@@ -1456,9 +1316,7 @@ Description of Religion and Morals.
 
 29. Religious and moral ideas evolve with Society.— Religious worship and that of moral ideas go on naturally developing in the same direction in which Society develops.
 
-[PDF 135]
-
-— 127 —
+[p. 127]
 
 So it is: that by reason of the increase of material and intellectual means and resources, human societies go on giving to their religious and moral ideas the extension, applications and social character which befit the general ends of their life.
 
@@ -1568,9 +1426,7 @@ Description of the Tribe.
 
 This anomalous crystallization of the Tribe is a fact so far outside the natural order of physiological and historical development, that it is one of the greatest difficulties historical criticism can offer, to discern what is peculiarly proper to the tribe-state in the history of civilization, in which cities such as Athens, such as Rome, such as Venice or Genoa, have monopolized the civilizing activity of a national, or at least of an ethnic, family.
 
-[PDF 148]
-
-— 140 —
+[p. 140]
 
 § 4.
 
@@ -1584,9 +1440,7 @@ The historical Tribe, that is to say, the Tribe as it has been formed in the gen
 
 When from this urban enclosure there began to go forth families which could not withstand the difficulties of urban life, and which settled in the fields, the better to live, this first sectioning of the Tribe, produced by the division of labour, went on growing ever greater, in measure as the life of the urban individuals and families grew more complicated. Then, the tribes which together composed the Gens separating one from another, each one of them went on forming a centre of population which was at the same time, therefore, a centre of economic, juridical, pedagogical, moral, and military necessities; and thus the region was gradually formed.
 
-[PDF 149]
-
-— 141 —
+[p. 141]
 
 46. Attica, Argolis, the Peloponnese, Messenia, Macedonia.—At times this region, formed by the detaching of a gens, constituted of itself a national state, as is seen in the history of the Hellenic family; for Attica, Argolis, the Peloponnese, Messenia, and Macedonia, etc., are nothing other than the detachment of the Hellenic family, made into provinces, made into regions, by the more or less natural limits of the region in which they set themselves to live.
 
@@ -1632,9 +1486,7 @@ Hence it is deduced that the potential force of Society, in so far as it refers 
 
 51. Let us say it in terms that may help us to think of the necessity of contributing to the potential force of human labour; let us say that, in order to come to produce the material well-being of societies, it is necessary to know how to labour in such manner that production shall be in direct ratio to consumption, and that consumption shall be in a relation of harmony with the three factors of Labour.
 
-[PDF 152]
-
-— 144 —
+[p. 144]
 
 § 2.
 
@@ -1654,9 +1506,7 @@ That double example of stability and instability which the maximum and the minim
 
 If to juridical potency there is attributed the capacity of contributing to make the other social capacities effective, it is so done by virtue of the knowledge we have of how universal and all-embracing liberty is; since relative liberty is the result to which juridical potency can attain, when this has borne its fruit it suffices to apply it to the other activities in order to stimulate them.
 
-[PDF 154]
-
-— 146 —
+[p. 146]
 
 § 3.
 
@@ -1672,9 +1522,7 @@ It is true that this same intellectual capacity is perfectible; but it is so rel
 
 Since, then, it is relative perfecting to which we can aspire, and since we know that it can in no wise be indefinite, but relative, the pedagogical potency of Society cannot pass beyond the limits and relations to which nature has subordinated our physico-psychic forces. That is the reason why human progress is relative and can in no wise be indefinite: so that, our pedagogical potency being nothing more than our capacity of attaining to relative perfecting, and this perfecting being nothing other than the progress or natural development of things, it is clear that, if progress is relative, perfecting will have to be relative.
 
-[PDF 156]
-
-— 148 —
+[p. 148]
 
 § 4.
 
@@ -1716,9 +1564,7 @@ Adolescence and youth of both sexes will learn in their normal, technical, and p
 
 When the organization of force obeys, as Nature wills that it obey, this purpose of order, harmony, and conservation, it is not only a problem of public administration, but also one of common education, which the State and Society, the one with its institutions, the other with its activity, contribute to solve.
 
-[PDF 162]
-
-— 154 —
+[p. 154]
 
 ## CHAPTER IV
 
@@ -1740,9 +1586,7 @@ The Individual.
 
 3. A completely scientific organization of Society would also have to take into account what the social Individual has been, what he is, what he ought to be, and what he can be. Necessarily, as societies have not been organized scientifically, but physiologically, at the mercy of vital forces which have gone on acting according to necessity, the social individual has not had, in the reflective organization to which the spontaneous forces of Society have little by little been submitting themselves, more recognition of his existence, of his character, and of his importance, than that imposed by the natural force of things. For that reason it has been necessary to go on solving, at times by brute force, a number of problems of organization which would not even have presented themselves had that organization been rational and consistent: civil status, civil law, citizenship, political right, personal statute, international law. The proportional quota of wages, in the political economy of Society; the rights and duties of common education; all that, which has filled a considerable part of the history of peoples, would not have had to be the history of any one of them: it would have sufficed to give the Individual, from the first moment of social organization, the duties, rights, and powers which by nature belonged and belong to him therein.
 
-[PDF 164]
-
-— 156 —
+[p. 156]
 
 § 2.
 
@@ -1756,9 +1600,7 @@ In the first times, whatever be the social medium in which it appears, the Famil
 
 5. The Family in History.—When the second form of social labour begins to be constituted, and, together with agriculture, life becomes sedentary, the Family acquires a basis of sustenance which makes it immovable.
 
-[PDF 165]
-
-— 157 —
+[p. 157]
 
 Afterwards, when the notions of Law which have gone on becoming general are progressively applied to that first group, the cohesion of the group goes on increasing, and at the same time the hearth goes on becoming more resistant and the institution of the Family more potent.
 
@@ -1816,9 +1658,7 @@ The result of this sensible institution was so patent, in the life of the Americ
 
 More or less explicit, that declaration has been so efficacious for the establishment of political order that it has come to be considered as a veritable institution annexed and complementary to the substantive law.
 
-[PDF 172]
-
-— 164 —
+[p. 164]
 
 § 1.
 
@@ -1856,9 +1696,7 @@ These, which are the two poles of national government, as it has gradually prese
 
 24. Forms of national government.—These forms of government, which disregard the social power on which all government ought to be founded, have been so many in their denominations that it seems, at first sight, that the forms attributed to the exercise of national government have been innumerable. Nevertheless, they are readily numbered: in reality there are counted, apart from the governments of chieftainship or of absolute patriarchate, from government exercised by assemblies of the people, and from the government called pure democratic, exercised by an archon or by a consul, no other forms of government than the oligarchies, such as those of the petty republics of the Middle Ages, principally Venice, in which a small number dominated the great number; or dynastic governments, in which the executive authority, the better to dispense with social power, was called authority by divine right; or the mixed form of government, in which the dynastic power saw itself obliged to compromise with legislative representatives of the people; or the form of government in which the people has made itself representative of the social power and has chosen by itself the personnel that was to compose the National Council.
 
-[PDF 177]
-
-— 169 —
+[p. 169]
 
 ## SECTION 3
 
@@ -2026,9 +1864,7 @@ Diseases of a juridical character.
 
 12. What the diseases of Law are.—Let us begin with this poor republic in order to know what the diseases of Law are: first, a band of adventurers builds here and there a few hamlets, at whose head it places some councils or ayuntamientos which never even knew that there is a Law of necessity; afterwards, the ebb and flow of the discoveries and conquests on the Continent goes on diminishing the population of the city and the hamlets to the point that a day arrives on which the empty precincts of the towns and cities are as a reflection of a desert territory in which a few flocks form cattle-ranges, and those few ranges form centres of population so separated the one from the other that they do not even communicate.
 
-[PDF 197]
-
-— 189 —
+[p. 189]
 
 In such a social group, existing exclusively as property of the Crown of Spain, the military agent, be he a general, be he a colonel, be he a simple captain, is always an all-powerful one at whose feet lie the rights of the few who reside with him within the urban precinct. This group of population, which knows not, which practises not either, any of the resources, any of the initiatives, which the right to live gives to individuals and to social groups.
 
@@ -2038,9 +1874,7 @@ Abandoned to themselves, those isolated groups of Society sought by themselves t
 
 14. In reality, this evasion of the commercial laws of the mother country, far from being a common crime, was the true exercise of a right of necessity. If the mother country abandoned its colonies, it was natural that the colonies should disregard the prohibitive laws of metropolitan commerce.
 
-[PDF 198]
-
-— 190 —
+[p. 190]
 
 But, at all events, as those people did not proceed in the name of a right, but in evasion of a law, whatever of virile juridical protest there would have been in smuggling as a protest against abandonment, that much of anti-juridical and of criminal there was in evading the laws of the metropolitan authority. So that, instead of appearing in History as colonists moved by a sentiment of Law, they appear simply as subjects in perpetual rebellion against the laws which they evaded. And as they evaded only the commercial laws, and that by stealth, while they were accustomed to tremble before the Civil Code and the Penal Code of their mother country, the weakening of Law in the soul of those social groups was so continuous and so systematic that none of them was ever conscious of the harm which their mother country did them in depriving them of the normal regime of the Law.
 
@@ -2092,9 +1926,7 @@ Diseases of a moral character.
 
 26. What determines them.—There are a number of historical events which seem the work of stupendous abnormal forces of one or several societies, and which, in reality, are nothing but denotations of a most grave state of social health.
 
-[PDF 205]
-
-— 197 —
+[p. 197]
 
 For the very reason that this is one of the subjects still most untouched, it offers so wide a horizon to thought that we should run the risk of extending ourselves inconsiderately. And as what is fitting, exclusively, is to point the way, so that the furrow newly opened may be followed, let us point to some historical facts that make manifest the reality and effectiveness of diseases of the social will and feeling, which any attentive physician can compare with similar disorders of the will and feeling in human individuals.
 
@@ -2118,9 +1950,7 @@ Diseases of a mesological character.
 
 31. Origins.—These social diseases may have completely different origins: some may originate in an excess of attention to the circumstances or influences or media that modify determination, an act of the intellect, and resolution, an act of the will, in the conduct of social groups.
 
-[PDF 207]
-
-— 199 —
+[p. 199]
 
 32. Withdrawal of the United States of North America within the American Continent.—To make haste, let us give no more than one idea of this unwholesome influence of excessive attention to the medium. Through excessive regard for the particular interest of the nascent American Union, the founding statesmen of what has since been the traditional policy of the United States disregarded completely its geographical position on the Continent, its historical position, and its political position and its economic position, to the point of holding it the duty of the American Government to abstain not only from interventions that might have seemed capricious or selfish, but from the very interventions to which it was solicited by the weaker peoples of the Continent. Thus, when, in 1824, a truly continental interest impelled Bolívar to assemble a Congress at Panama, in order to give all the peoples there represented a direct intervention in the international affairs of America and in the definitive settlement of the affairs of the Continent, it came to pass that the United States, instead of profiting by that useful juncture to exert an ordering influence upon the affairs common to all the Americans of North, Centre and South, let that opportunity slip, through attending in excess to the exclusive interest of their national medium.
 
@@ -2130,9 +1960,7 @@ It is to be hoped that, as soon as the ideas of methodical Sociology are spread 
 
 On the contrary, the social thought of the peoples of southern latitudes, or, more exactly, of the intertropical peoples, is commonly the result of a complete inattention to the surrounding medium. Thus it is that, disregarding the circumstances completely, and attending exclusively to the desires of progress and of social prosperity, a malaise is produced which ends by becoming chronic, and which frequently manifests itself, not merely in perpetual disturbances, but even in the incapacity to emerge from the revolutionary period.
 
-[PDF 209]
-
-— 201 —
+[p. 201]
 
 ## SECTION 2
 
@@ -2174,9 +2002,7 @@ It must never be forgotten that, in order to give strength to a Society, it is i
 
 It may be predicted from now that, on the day when people have become familiar with these ideas, and thinkers have strengthened them in them, giving them systematic notions of the precepts of the Hygiene of societies, an innumerable quantity of the harms that appear every day in the social body will be avoided; for it is necessary to think, and to return continually to thinking, that there is one general cause of our individual and collective ills, which is: ignorance; that the original ignorance of those ills consists in not knowing that the ills of our species, like those of every other organized species, are simple perturbations of functions; and that, therefore, the best way of avoiding perturbations is to prevent them, and the most efficacious way of preventing them is to know them.
 
-[PDF 213]
-
-— 205 —
+[p. 205]
 
 ## SECTION 3
 
@@ -2302,9 +2128,7 @@ That regular and normal existence of human Society is what is seen, in a real an
 
 Whom we see.—The being whose existence philosophical History makes patent to us in an evident manner is Humanity; and, as Humanity is the congruent whole that constitutes general Society, in all times and places, Society is whom we see in History, since it is by means of Sociability, or the universal Law of Association, that man is manifested to us in time and in space.
 
-[PDF 228]
-
-— 220 —
+[p. 220]
 
 Data furnished us by the life of the being that presents itself in History.—The first datum that philosophical History furnishes us is: the reality of that collective life of the human being. The second datum that History furnishes to Sociology is that of the sameness of the nature of the collective being in all times and places. The third datum furnished to Sociology by History is that of the like conduct of the collective being in like circumstances, and in all that is essential to its nature.
 
@@ -2324,9 +2148,7 @@ Here are those truths:
 
 First truth, derived from the correlation of data and results: The association of men, for individual and collective ends, is a necessary condition of the existence of the individual and collective being.
 
-[PDF 229]
-
-— 221 —
+[p. 221]
 
 Second truth: The conservation of that association, or, what amounts to the same, the conservation of human societies, particular as well as general, is a necessary condition for the life of the collective being, as well as for that of the individual being, from whose aggregation the former results.
 
@@ -2378,9 +2200,7 @@ Applicable as we have seen it to be to the relation of all that are natural obje
 
 This correlation once demonstrated between the life of man, which presents itself to us as the effect of an active cause, and Liberty—which is an active cause—we must recognize the correspondence between that cause and that effect, and this is what in the physical and natural sciences we know by the name of universal law. Consequently, Liberty is a universal law of Society.
 
-[PDF 234]
-
-— 226 —
+[p. 226]
 
 Fourth social law. The Law of Progress.—To prove that Progress is a law of human Nature, as it is of universal Nature, one has only to define it. Knowing, in effect, that what has commonly been called Progress includes no other idea than that of development, we shall see that everything, in physical Nature, in the moral and in the intellectual; in conscience, in the Individual, in Society, everything progresses, because everything is subject to the law of development. This law acts in the mineral, which grows and develops, not from within outwards, but by juxtaposition; it acts in vegetables, which grow from within outwards, from below upwards, from the centre towards the sides; in animals, which grow, develop and progress; in man and in human societies, which grow, develop and progress, including all the forms of development, whether the mechanical and geometrical development of minerals, or the mechanical and the biological of vegetables, or the biological and systematic of animals, or the all-embracingly functional development of the human being; as a material and corporeal organism; as a moral organism; as an intellectual organism, etc.
 
@@ -2420,9 +2240,7 @@ Thus, we shall understand order, in Nature and in Society, all the better the be
 
 Correspondence between laws and orders.—If we now apply each one of the social laws which we have recognized to producing a social order independent of the will of man, and in which man is no more than a conscious and conscientious instrument that applies itself also to the production of order, we shall have: that the Law of Sociability has an invariable correspondence with the eternal association of men for attaining the ends of their life. Or, in other terms, and proceeding inversely: if we see that all men have associated themselves in order to live, and that that association is employed with invariable regularity, we shall see that this invariable order corresponds to the natural Law of Association.
 
-[PDF 240]
-
-— 232 —
+[p. 232]
 
 The Law of Labour has so manifest a relation with what we call economic order, that it suffices us to see a society in which that economic order has been established for us to affirm without hesitating, and without erring, that that order is born of the Law of Labour.
 
@@ -2498,9 +2316,7 @@ Part which the Individual plays as an integrant of Society.—The Individual, be
 
 Part which the particular end of every individual has in the general end of Society.—But, since the human individual is not an unconscious atom, but is expressly characterized by Nature as the only being of conscious rationality in this world, the part which the Individual takes in the realization of social ends is so much the more active and efficacious than that taken by the atom in lower relations, as the consciousness of his own individual ends is the clearer. In other and more obvious terms: the Individual takes a very influential part in the realization of social ends, because it is by contributing to realize those general or social ends that he can realize, and knows that it is the only way of realizing, his own and particular or individual ends. So that, by living with the greatest intensity of life he can attain, he contributes to the greatest intensity of social life.
 
-[PDF 251]
-
-— 243 —
+[p. 243]
 
 Individualist theory.—Through not having penetrated well enough into the depth of social reality, the Individual is given an importance more or less excessive, and, at other times, is denied a sufficient one. All those who give the Individual an importance superior to the natural one, to the effective importance which Nature has given him, so as to make him the generator of societies, have formed the individualist theory, which appears in all the social sciences, whether in Economics, or in Politics, or in Jurisprudence, or in Morals, inducing the belief that the Individual is everything in Society, and that Society is nothing; that Society is for the Individual, and not the Individual for Society; that Society ought to provide every good for the Individual, and that the Individual owes nothing to Society.
 
@@ -2538,9 +2354,7 @@ Application of Sociology to “Politics”. Although Sociology always draws its 
 
 Thus, verbi gratia: considering as the simple expression of the life of societies the efforts which all of them have made and make to constitute themselves, Sociology takes from History the general facts which refer to this, induces from them some principles and truths, establishes these as the basis of reasonings and of systems, and afterwards supplies them to Politics.
 
-[PDF 255]
-
-— 247 —
+[p. 247]
 
 How much the Science of Politics would gain by emerging from the empiricism and the utter groping to which it has generally been condemned, in order to enter upon this new path, one need only say.
 
@@ -2570,55 +2384,29 @@ What is said of the sciences and activities enumerated is said, also, of any oth
 
 Pages To the Reader                                                       5 Methodological Introduction to establish the method at              9
 
-once scientific and historical which is to be followed in
-
-this study.—1-2. Method and procedures.—3. What method
-
-is.—4-19. What those procedures are.—20. What the exposi‐
-
-tion of a science demands.—21. The natural method of a sci‐
-
-ence.—22. The effective method.—23. How a science ought
-
-to be studied.—24. How we shall study Sociology.—25. Plan
+once scientific and historical which is to be followed in this study.—1-2. Method and procedures.—3. What method is.—4-19. What those procedures are.—20. What the exposition of a science demands.—21. The natural method of a science.—22. The effective method.—23. How a science ought to be studied.—24. How we shall study Sociology.—25. Plan
 
 ## BOOK I
 
 Theoretical Sociology. CHAPTER I.—Intuitive Sociology.—1-4. Life in society.              21 Social facts.—5-11. What social facts are like.—12-19. How they present themselves in History.—20. Intuitive concept or judgment CHAPTER II.—Inductive Sociology.—1. Object of this                 28 chapter.—2. Formula of the intuitive judgment on Society.—3 and 4. Examination of this judgment. 5-7. Functions of social life.—8 and 9. The social order.—10-22. Classification of the social functions. Justification of such a classification.—23. Inductive judgment on Society CHAPTER III.—Deductive Sociology.—1. Formula of the inductive judgment on Society.—2. Natural laws of Society.— 3. How many are the natural laws of Society.—4. Which are the natural laws of Society.—5 and 6. Classification of the natural laws of Society.
 
-[PDF 260]
-
-— 252 —
+[p. 252]
 
 Pages 7-12. Study of the Law of Sociability.—13 and 14. Statement of      40
 
-the universal Law of Sociability.—15. Study and statement of
+the universal Law of Sociability.—15. Study and statement of the universal Law of Labour.—16. Universal Law of Liberty.
 
-the universal Law of Labour.—16. Universal Law of Liberty.
-
-Study and statement.—17. Study and statement of the univer‐
-
-sal Law of Progress.—18. Study and statement of the Law of
-
-the Ideal.—19. Law of Conservation. Its study and statement.
+Study and statement.—17. Study and statement of the universal Law of Progress.—18. Study and statement of the Law of the Ideal.—19. Law of Conservation. Its study and statement.
 
 —20. Law of Media. Examination and statement of it CHAPTER IV.—Systematic Sociology                                    54 Section 1.—Materials of Sociology.—1. Themes to be linked           54
 
-together in order to constitute Social Science. 2. What those
-
-themes are.—3 and 4. Relation of social phenomena among
-
-themselves.—5 and 6. Relation between sociotic facts and cos‐
-
-mic facts.—7. Society.—8. Labour.—9 and 10. Government.—
+together in order to constitute Social Science. 2. What those themes are.—3 and 4. Relation of social phenomena among themselves.—5 and 6. Relation between sociotic facts and cosmic facts.—7. Society.—8. Labour.—9 and 10. Government.—
 
 11 and 12. Progress.—13. The Ideal of the Good.—14. Social
 
 Conservation.—15. Sociability and the Media Section 2.—Work of systematization.—16. The bases for the           62
 
-scientific organization of Sociology.—17. What would have to
-
-be done
+scientific organization of Sociology.—17. What would have to be done
 
 ## BOOK II
 
@@ -2634,9 +2422,7 @@ laws are.—4. Which they are.—5. Classification of them.—6.
 
 Constitutive law.—7. Organic laws.—8. First organic law.—9.
 
-Second organic law.—10. Third organic law.—11. Fourth or‐
-
-ganic law.—12. Fifth organic law.—13. Law of procedure Section 2.—Statement of the Social Laws.—14. Why the so‐
+Second organic law.—10. Third organic law.—11. Fourth organic law.—12. Fifth organic law.—13. Law of procedure Section 2.—Statement of the Social Laws.—14. Why the so‐
 
 cial laws ought to be stated.—15. Statement of the Law of
 
@@ -2644,9 +2430,7 @@ Sociability.—16. Statement of the Law of Labour.—17.
 
 Statement
 
-[PDF 261]
-
-— 253 —
+[p. 253]
 
 Pages of the Law of Liberty.—18. Statement of the Law of Progress.— 73
 
@@ -2658,41 +2442,23 @@ Law of Conservation.—21. Statement of the Law of Media Section 3.—Social Ord
 
 24. Function of government, with reference to the Law of
 
-Liberty.—25. Function of public education, in so far as gov‐
+Liberty.—25. Function of public education, in so far as governed by the Law of Progress.—26. Function of religion and morals, with reference to the Law of the Ideal.—27.
 
-erned by the Law of Progress.—26. Function of religion and
-
-morals, with reference to the Law of the Ideal.—27.
-
-Conserving function, or function of the force of societies, with
-
-reference to the Law of Conservation. 28. The social media,
+Conserving function, or function of the force of societies, with reference to the Law of Conservation. 28. The social media,
 
 with reference to the Law of Media CHAPTER III.—Sociography.—1. What Sociography is                      94 Section 1.—General Sociography.—2. Object of General                  95
 
 Sociography § 1.—Social states.—3 and 4. First social state.—5 and 6. Second      96
 
-social state.—7 and 8. Semi-barbarism.—9-11. State of semi-
+social state.—7 and 8. Semi-barbarism.—9-11. State of semi-civilization.—12-16. Labour, Government, Education, Religion and Morals, and Public Force in semi-civilization.—17.
 
-civilization.—12-16. Labour, Government, Education, Religion
-
-and Morals, and Public Force in semi-civilization.—17.
-
-Civilization.—18. The signs of Civilization.—19. The civiliza‐
-
-tion of the Aryan family: that of the ancient Greeks.—20.
+Civilization.—18. The signs of Civilization.—19. The civilization of the Aryan family: that of the ancient Greeks.—20.
 
 That of the Italic branch.—21. Germanic civilization § 2.—Description of Labour.—22. What Labour is. Historical study. 115
 
-—22 bis. The basis of Labour. Application and adaptation of
+—22 bis. The basis of Labour. Application and adaptation of scientific, artistic and literary knowledge.—22 ter. Organic force of Labour § 3.—Description of Government.—23. What Government is. How it 118
 
-scientific, artistic and literary knowledge.—22 ter. Organic force
-
-of Labour § 3.—Description of Government.—23. What Government is. How it 118
-
-presents itself in the various social states.—24. The regime of
-
-law. Incomplete organization of its four elements § 4.—Description of Education.—25. Process of Education.—26 and 124
+presents itself in the various social states.—24. The regime of law. Incomplete organization of its four elements § 4.—Description of Education.—25. Process of Education.—26 and 124
 
 27. Characteristics of Education. The organization of
 
@@ -2706,9 +2472,7 @@ its organization ought to be Section 2.—Description of Society as particular l
 
 The parts of the social organism § 1.—The Individual.—32. What the Individual is.—32 bis.             129
 
-Tendency of the Individual to complete himself with another
-
-being. The Vedas and Genesis. The social cell: man-woman-
+Tendency of the Individual to complete himself with another being. The Vedas and Genesis. The social cell: man-woman-
 
 child.—32 ter. Evolution of the Individual in the Tribe § 2.—Description of the Family.—33. What the Family is.—34.          131
 
@@ -2716,17 +2480,11 @@ When the Family appears among the Aryans and the Indo-
 
 Europeans.—35. The Family among the Mongols, Semites and
 
-Cainites.—36. First evolution.—37. Historical characteristics
-
-of some human families.—38. The Family is at the beginning
-
-of its evolution.—39 and 40. Part which the Family plays in the
+Cainites.—36. First evolution.—37. Historical characteristics of some human families.—38. The Family is at the beginning of its evolution.—39 and 40. Part which the Family plays in the
 
 social organism. Ideal description of the group § 3.—Description of the Tribe.—41. The Tribe, considered physio‐     138
 
-logically.—42. The Tribe in History.—43. The case of Athens,
-
-of Rome and of the Italian Republics of the Middle Ages § 4.—Life of the Family, of the Tribe and of the Gens.—44. What “the 140
+logically.—42. The Tribe in History.—43. The case of Athens, of Rome and of the Italian Republics of the Middle Ages § 4.—Life of the Family, of the Tribe and of the Gens.—44. What “the 140
 
 Gens” is.—45. Historical evolution.—46. Attica, Argolis,
 
@@ -2748,9 +2506,7 @@ Potency of religious beliefs and of moral ideas § 5.—Conserving potency.—60
 
 How and towards what it is to be directed.
 
-[PDF 263]
-
-— 255 —
+[p. 255]
 
 Pages CHAPTER IV.—Sociorganology.—Study of the organs of Society 154 Section 1.—Vital organs                                                 154 § 1.—The Individual.—1. Part of the Individual in the social body.—2 154
 
@@ -2764,13 +2520,9 @@ facts § 4.—The Region.—8. How it is constituted.—9. The Region in mod‐ 
 
 ern nations § 5.—The Nation.—10. How nations are formed.—11. Occupation             161
 
-and possession.—12. The American nations.—13. Fundamental
+and possession.—12. The American nations.—13. Fundamental reason of a nation, according to the type of the American ones.—
 
-reason of a nation, according to the type of the American ones.—
-
-14. Occupation and possession in the Old World. 15. History and
-
-the constitution of nations. Section 2.—Institutional organs.—16. The action of Law in the 163
+14. Occupation and possession in the Old World. 15. History and the constitution of nations. Section 2.—Institutional organs.—16. The action of Law in the 163
 
 social organism § 1.—Domestic Council.—17. What the Family Council is                   164 § 2.—Municipal Council and government of the Municipality.—18. What the 164
 
@@ -2794,13 +2546,7 @@ ought to be organized.—33. The representative democratic State [PDF 264] — 2
 
 Pages § 5.—The international State.—34. It has not existed, nor does it   175
 
-yet exist.—35. “Christendom.”—36. The international State
-
-in the 19th century.—37. Two conceptions of the in‐
-
-ternational State.—38. What it will have to be and how it
-
-ought to be organized.—39. How it may be attained.—40.
+yet exist.—35. “Christendom.”—36. The international State in the 19th century.—37. Two conceptions of the international State.—38. What it will have to be and how it ought to be organized.—39. How it may be attained.—40.
 
 Aspect of the problem CHAPTER V.—Sociopathy                                               182 Section 1.—Social diseases.—1. Why Society can suffer dis‐ 182
 
@@ -2810,11 +2556,7 @@ diseases come.—4. What those diseases are § 1.—Diseases of an economic char
 
 Physiological misery.—7. The intertropical countries.—8.
 
-Cause of their state.—9. Social anaemia.—10. The case of
-
-some intertropical countries of Spanish origin.—11. Excess
-
-of population in some countries and cities. Pauperism § 2.—Diseases of a juridical character.—12-14. What the diseases of 188
+Cause of their state.—9. Social anaemia.—10. The case of some intertropical countries of Spanish origin.—11. Excess of population in some countries and cities. Pauperism § 2.—Diseases of a juridical character.—12-14. What the diseases of 188
 
 Law are.—15. The Latin-American Republics.—16. Which
 
@@ -2826,41 +2568,23 @@ The scenic perspective.—24. Gymnosophist contemplation.
 
 —25. Satyriac sensualism § 4.—Diseases of a moral character.—26. What determines them.— 196
 
-27. Exacerbations of religious sentiment.—28. Nervous
-
-overexcitements of political passions.—29. Anarchism.—30.
+27. Exacerbations of religious sentiment.—28. Nervous overexcitements of political passions.—29. Anarchism.—30.
 
 Social neurosis § 5.—Diseases of a mesological character.—31. Origins.—32.          198
 
-Withdrawal of the United States of North America within
+Withdrawal of the United States of North America within the American continent.—33. Influence which Sociology ought to exert upon the conservative tendencies of the
 
-the American continent.—33. Influence which Sociology
-
-ought to exert upon the conservative tendencies of the
-
-American peoples Section 2.—Manner of preventing social diseases. Social
-
-hygiene.—34. What it is.—35. How it ought to act. Precepts.
+American peoples Section 2.—Manner of preventing social diseases. Social hygiene.—34. What it is.—35. How it ought to act. Precepts.
 
 Prevention of economic diseases.—36. Preventive precept for
 
-[PDF 265]
-
-— 257 —
+[p. 257]
 
 Pages economic diseases.—37. The same for juridical ones.—38.       201
 
-Disturbances of progress.—39. Religious and moral distur‐
+Disturbances of progress.—39. Religious and moral disturbances.—40. Disturbances in the social force.—41. Influence which social Hygiene will have to have upon the development of societies Section 3.—Cure of social diseases. Social therapeutics.— 205
 
-bances.—40. Disturbances in the social force.—41. Influence
-
-which social Hygiene will have to have upon the development
-
-of societies Section 3.—Cure of social diseases. Social therapeutics.— 205
-
-42. How social diseases may be cured.—43. Cure of econom‐
-
-ic diseases.—44. Moral diseases.—45. Intellectual diseases
+42. How social diseases may be cured.—43. Cure of economic diseases.—44. Moral diseases.—45. Intellectual diseases
 
 ## BOOK III
 
@@ -2870,9 +2594,7 @@ the classification of the sciences.—What science it is and why Section 2.—Tw
 
 group Sociology belongs in each of these classifications Section 3.—Concrete sciences of the third group.—Which             213
 
-study ought to come first: that of the abstract sciences or that
-
-of the concrete? Section 4.—Newness and antiquity of Sociology.—Why, being 213
+study ought to come first: that of the abstract sciences or that of the concrete? Section 4.—Newness and antiquity of Sociology.—Why, being 213
 
 an ancient science, it has not been organized until these days.
 
@@ -2894,9 +2616,7 @@ the Ideal Section 9.—What order is.—Order derived from the natural          
 
 laws of Society.—Correspondence between laws and order
 
-[PDF 266]
-
-— 258 —
+[p. 258]
 
 Pages Section 10.—In what the natural order of Society con‐         236
 
@@ -2908,13 +2628,9 @@ cial being.—Organs that constitute it.—The most im‐
 
 portant of those organs Section 13.—Part which the Individual plays as a con‐         241
 
-stituent of Society.—Share which the particular end of
+stituent of Society.—Share which the particular end of every individual has in the general end of Society.—
 
-every individual has in the general end of Society.—
-
-Individualist theory.—Socialist theory.—Sociocratic the‐
-
-ory.—Organic theory.—What is to be thought of such
+Individualist theory.—Socialist theory.—Sociocratic theory.—Organic theory.—What is to be thought of such
 
 theories Section 14.—Notions of practical Sociology                    245 Section 15.—Application of Sociology to Politics, to Art,     246
 
@@ -2980,9 +2696,7 @@ Unpublished.
 
 28. Ciencia de la Pedagogía.
 
-[PDF 269]
-
-— 261 —
+[p. 261]
 
 29. Historia de la Pedagogía.
 
@@ -3056,9 +2770,7 @@ La Presse Associée, Paris.
 
 La América Ilustrada, New York.
 
-[PDF 272]
-
-— 264 —
+[p. 264]
 
 “The merit of the Biografía de Plácido (G. de la Concepción Valdés, the celebrated Cuban poet) is indisputable.”
 
@@ -3074,9 +2786,7 @@ El Buscapié, San Juan, Puerto Rico.
 
 El Eco de la Opinión, Santo Domingo.
 
-[PDF 273]
-
-— 265 —
+[p. 265]
 
 “The Lecciones de Derecho Constitucional prove that the author is an outstanding specialist, and a writer worthy that his lessons should be received by the youth of Spanish America with the applause and the recognition which are deserved by the efforts of an intelligence embellished by knowledge and ennobled by purposes of good.”
 
@@ -3098,9 +2808,7 @@ La América Ilustrada, New York.
 
 La Época, Santiago, Chile.
 
-[PDF 274]
-
-— 266 —
+[p. 266]
 
 “The luminous Proyecto de Ley general de Enseñanza pública is the work which most brings into relief the patriotism and the profound knowledge in matters of Instruction which the illustrious educationist possessed.”
 
@@ -3142,9 +2850,7 @@ University of Madrid.
 
 “The Derecho Constitucional is a most interesting book. The impression it has made here (Spain) has been excellent. I add my congratulations to those which everyone sends him” (the author).
 
-Adolfo Posada, Professor of Political Law in the University of Oviedo, author of works
-
-on Law.
+Adolfo Posada, Professor of Political Law in the University of Oviedo, author of works on Law.
 
 “Of the Lecciones de Derecho Constitucional it may be affirmed that there are few books written in Europe, in these times, in which representative constitutional Gov- [PDF 276] — 268 — ernment is expounded in a more orderly and systematic manner. As a didactic book it is of superior quality, infinitely superior to a great many that are in the hands of our University students.”
 
@@ -3168,23 +2874,17 @@ Chile and of the Superior Council of Instruction.
 
 “I praise in it chiefly the systematic spirit, the general lines, the harmony, the symmetry and the perfect development of the three fundamental parts of which it consists.”
 
-Dr. F. A. Berra, Director General of Schools in La Plata and in Montevideo, author of
-
-many didactic works.
+Dr. F. A. Berra, Director General of Schools in La Plata and in Montevideo, author of many didactic works.
 
 “The Programa de Historia is conceived with a criterion which is not the most general, but which is worthy of praise as to its content, inasmuch as it is concerned more with the development of the institutions, knowledge and customs of peoples than with palace intrigues, dy- [PDF 277] — 269 — nastic rivalries and the episodes of all the wars men have had. This programme gives elevation to thought: it therefore educates well.”
 
 “It is seen at first sight that particular care has been bestowed upon the Programa de Castellano. The author has developed it minutely, like one who takes pleasure in displaying all the particulars of an object of which he is fond. More still: fearful lest it fall into clumsy hands which might spoil it in handling, he stops at every step to prescribe how one ought to proceed. In this work there is much programme and much didactics, which imprisons the teacher more than the generality of teachers will consent to. I think there is too much zeal in it. To this it is due that the author has assigned too much time to preliminaries which do not require in the lyceums so much dwelling upon as in the primary or the preparatory schools, and that he has occupied himself with questions which are illustrative, it is true, but perhaps not necessary in a course of this kind. This does not prevent the conception of the general plan, and of some of its parts, from greatly surpassing the didactic usages generally prevailing in countries whose schools enjoy a good name. This Programa deserves to be known, because it teaches even those who know.”
 
-José L. Castillo,
-
-ex-Director of the Institute of Quezaltenango, C. A.
+José L. Castillo, ex-Director of the Institute of Quezaltenango, C. A.
 
 “The lofty pedagogical ideas which the Proyecto de Ley general de Enseñanza pública contains are not known in Central America.”
 
-José Maluquer y Salvador,
-
-of the Academy of Jurisprudence of Madrid:
+José Maluquer y Salvador, of the Academy of Jurisprudence of Madrid:
 
 “The Lecciones de Derecho Constitucional may be submitted without misgiving to the judgment of the most dis- [PDF 278] — 270 — passionate and exacting critic, or of one who, like the modest critic to whose lot it has fallen in this Review, does not share many of its philosophical and juridical theories.
 
@@ -3208,17 +2908,13 @@ International Institute of Santiago de Chile.
 
 “With his precious book the author adds one more illustrious service to the many he has rendered to the cause of education in my country (Chile), and he notably enriches the relatively poor pedagogical literature of the Castilian tongue.”
 
-Julio Bañados Espinosa,
-
-ex-Minister of Public Instruction, Senator, Deputy, Professor of
+Julio Bañados Espinosa, ex-Minister of Public Instruction, Senator, Deputy, Professor of
 
 Constitutional Law in the University of Chile, Writer on Law.
 
 “The Lecciones de Derecho Constitucional are among the most complete and philosophical work that has been done on the subject.”
 
-Dr. A. Angulo Guridi,
-
-ex-Minister of Public Instruction, Deputy, Rector of a Lyceum,
+Dr. A. Angulo Guridi, ex-Minister of Public Instruction, Deputy, Rector of a Lyceum,
 
 Professor of Law, Writer on Law and on Pedagogy.
 
@@ -3232,9 +2928,7 @@ Spanish man of letters and writer.
 
 “La Peregrinación de Bayoán has been to me like something fallen from heaven.”
 
-[PDF 280]
-
-— 272 —
+[p. 272]
 
 Guillermo Matta, ex-Diplomatic Minister, Senator, Academic Member of the University of
 

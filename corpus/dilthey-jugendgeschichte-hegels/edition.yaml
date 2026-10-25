@@ -5,11 +5,11 @@ year: 1905
 original_language: de
 translation_language: en
 edition_layout: photocopy (scan beside the English)
-source: page files of _facing-pipeline/dilthey (generated — edit the page files, not this file)
+source: exported from the page files of _facing-pipeline/dilthey
 original_text: OCR of the scan, uncorrected, cut at the English paragraph starts (the scan in the PDF edition is the authority)
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 211
 genre: Hegel and his school
 generated: 2026-10-24 by corpus.py
 heading: "# Wilhelm Dilthey, *Die Jugendgeschichte Hegels* (1905) — *The History of Hegel's Youth*"
-conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); `[scan N]` a page of the scan with no printed number; original and English are paired paragraph by paragraph within each page (in the facing text: original in quoted blocks, English in plain paragraphs); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml."

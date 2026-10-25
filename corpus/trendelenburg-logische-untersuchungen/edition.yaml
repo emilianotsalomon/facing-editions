@@ -5,11 +5,11 @@ year: 1870
 original_language: de
 translation_language: en
 edition_layout: clean text (both columns typeset)
-source: chunk files in trendelenburg-chunks (tag-aligned blocks) — THIS FILE IS THE SOURCE, corrections go here
+source: chunk files in trendelenburg-chunks (tag-aligned blocks)
 original_text: OCR of the print, corrected by the translators where evident
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 538
 genre: Logic
 generated: 2026-10-24 by corpus.py
 heading: "# F. A. Trendelenburg, *Logische Untersuchungen (translated chapters)* (1870) — *Logical Investigations*"
-conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); original and English are paired paragraph by paragraph within each page (in the facing text: original in quoted blocks, English in plain paragraphs); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml."

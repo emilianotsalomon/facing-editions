@@ -44,51 +44,11 @@ From what has just been said it will perhaps already be clear how momentous a ma
 
 In the philosophical system whose logical foundations I intend to set forth here we shall make no distinction whatever between the names “logic” and “theory of knowledge,” for we have no reason whatever to show any partiality either toward impressions or toward symbols, and in this way to neglect either of these two conditions of human science. That without the acquisition of impressions no science can exist, it is almost superfluous to state, and if there is anything to regret, it is only that fashionable thinkers do not hold symbols to be just as indispensable to human knowledge as impressions. For whoever regards human science with an unprejudiced eye can see at first glance that without the use of signs such a science could not exist. Pray imagine for a moment what would become of mankind if it were deprived of its sign-forming faculty! Or let us not go so far, and merely try in imagination to eliminate printing from the system of present-day culture. What if we eliminate even the art of writing, so that not only printed signs, but not even written ones [p. 5] are at our disposal: what then will become of human science? Finally, if we imagine man deprived of the signs of speech, indeed of every sign-forming faculty at all, then we have in reality turned him out of his humanity, for we have made it impossible for him to communicate with his fellow man intellectually and to stand with him in moral relation. But I shall not spin this thought out further, for I believe that every uncorrupted mind is clear that one of the conditions of existence of human science is that sign-forming faculty by virtue of which we are able to fix our knowledge for ourselves and our descendants, to transmit it from individual to individual, from generation to generation, and by this transmission to increase and perfect it. Consequently we shall place ourselves in opposition to every philosophical conception which would, under whatever title, belittle, reduce, or altogether annihilate the importance of the use of signs in science. And perhaps we do no superfluous thing if, right at the beginning of our logical inquiries, we especially emphasize the following guiding propositions:
 
-a) One condition of existence of all human science is formed
+a) One condition of existence of all human science is formed by those impressions which we can procure for ourselves through the working of our sense-organs, namely through touch, sight, hearing, etc. And since only progressing knowledge can be called truly living knowledge, we must regard it as a condition of life of all science that it set out systematically and untiringly to acquire ever new impressions (experiences).
 
-by those impressions which we can procure for ourselves
+b) The other condition of existence of all human science is formed by those signs which we produce by gesture or by our organs of speech or in any other way, and fix by notching, writing, printing, drawing, or in any other way, and which serve to bring our knowledge to expression through them, and to preserve it for ourselves and for others. And since, as we mentioned, knowledge must progress in order to remain truly living knowledge, we must regard it as a condition of life of all science that it perfect, systematically and untiringly, the system of signs which it uses to express knowledge.
 
-through the working of our sense-organs, namely through
-
-touch, sight, hearing, etc. And since only progressing knowl‐
-
-edge can be called truly living knowledge, we must regard it as
-
-a condition of life of all science that it set out systematically
-
-and untiringly to acquire ever new impressions (experiences).
-
-b) The other condition of existence of all human science is
-
-formed by those signs which we produce by gesture or by our
-
-organs of speech or in any other way, and fix by notching, writ‐
-
-ing, printing, drawing, or in any other way, and which serve to
-
-bring our knowledge to expression through them, and to pre‐
-
-serve it for ourselves and for others. And since, as we men‐
-
-tioned, knowledge must progress in order to remain truly liv‐
-
-ing knowledge, we must regard it as a condition of life of all
-
-science that it perfect, systematically and untiringly, the sys‐
-
-tem of signs which it uses to express knowledge.
-
-c) The twofold condition of existence of human science stands
-
-in close parallel with the twofold manifestation of human life,
-
-by virtue of which our organism on the one hand possesses re‐
-
-ceptivity for sensible impressions, and on the other hand is en‐
-
-dowed with a self-moving power or capacity. The sensitivity or
-
-receptivity of our organism makes it [p. 6] possible for us to acquire impressions; on the other hand, we need the self-moving power of our organism in order to be able to produce signs in which we express our knowledge. Without sensory nerves we should have no impressions, without motor nerves we should not be able to form signs, and thus the twofold condition of existence of all our science is already indicated in the structure of our nervous system. Just as one-sided as it would be for the biologist, or investigator of life, in studying the phenomena of life to regard merely the sensitivity of our organism or merely its self-motility, just so partial would the theorist of knowledge be if, in investigating human science, he confined himself merely to the investigation of impressions or merely of the signs used. In connection with this insight we can state that every attempt which plays impressions off against signs, or conversely signs against impressions, has a disintegrating effect upon logic and consequently a disintegrating effect upon the universality of human science.
+c) The twofold condition of existence of human science stands in close parallel with the twofold manifestation of human life, by virtue of which our organism on the one hand possesses receptivity for sensible impressions, and on the other hand is endowed with a self-moving power or capacity. The sensitivity or receptivity of our organism makes it [p. 6] possible for us to acquire impressions; on the other hand, we need the self-moving power of our organism in order to be able to produce signs in which we express our knowledge. Without sensory nerves we should have no impressions, without motor nerves we should not be able to form signs, and thus the twofold condition of existence of all our science is already indicated in the structure of our nervous system. Just as one-sided as it would be for the biologist, or investigator of life, in studying the phenomena of life to regard merely the sensitivity of our organism or merely its self-motility, just so partial would the theorist of knowledge be if, in investigating human science, he confined himself merely to the investigation of impressions or merely of the signs used. In connection with this insight we can state that every attempt which plays impressions off against signs, or conversely signs against impressions, has a disintegrating effect upon logic and consequently a disintegrating effect upon the universality of human science.
 
 3. But however firmly we resolve to give equal regard to the impressional and the symbolic pan of the scales of logical inquiry, by reason of our human frailty we shall now idolize our impressions, now our symbols. Individual, indeed national inclinations, or the fashionable moods of the age, play a great part in this respect. Thus, for example, the present age, if I am not mistaken, is quite able to appreciate the acquisition of new impressions from the standpoint of the progress of science, but it is questionable whether it is able to value to the same degree the importance of perfecting signs for the further development of science. One of the chief causes of this one-sided inclination I must point out here already in the introduction.
 
@@ -126,75 +86,15 @@ The rationalist logic we may accordingly regard as a symbolic logic that has for
 
 5. We now pass on to the core of the Aristotelian distinction, according to which only our judgments fall under the point of view of the true and the not true, while our concepts would be, so to speak, indifferent to truth. Since this conception [p. 16] establishes a real opposition between the nature of concepts and that of judgments, it is impossible to take note of it without the deepest uneasiness. We summarize our objections in the following points:
 
-a) A judgment, it seems, cannot consist of any other elements
+a) A judgment, it seems, cannot consist of any other elements than concepts. But since concepts are allegedly indifferent in the direction of truth, it is wholly unintelligible how from nothing but elements indifferent in the direction of truth there can arise something like the judgment, which is not indifferent toward truth. This is just as unintelligible as if someone wanted to obtain, as the sum of nothing but zeros added together, a number that differs from zero.
 
-than concepts. But since concepts are allegedly indifferent in the
+b) The above objection would lose its force only if the judgment did not consist of nothing but uniform elements, that is, of nothing but concepts, so that there would be in it, besides the elements indifferent to truth, still other elements which are not indifferent to truth. But in this case it is evident that for those elements which are indifferent to truth there would be no need whatever in the judgment. The truth or falsity of the judgment would be decided by those elements which fall under the point of view of the true and the false, while the remaining indifferent elements could simply be left out of the judgment, for after all they contribute nothing to its being true or false. If, for example, we consider the expression x + y + z + (a—a) + (b—b) + (c—c), then the terms a—a, b—b, c—c can simply be left out, for they are zeros, which change nothing in the value of the expression.
 
-direction of truth, it is wholly unintelligible how from nothing
-
-but elements indifferent in the direction of truth there can arise
-
-something like the judgment, which is not indifferent toward
-
-truth. This is just as unintelligible as if someone wanted to obtain,
-
-as the sum of nothing but zeros added together, a number that
-
-differs from zero.
-
-b) The above objection would lose its force only if the judgment
-
-did not consist of nothing but uniform elements, that is, of noth‐
-
-ing but concepts, so that there would be in it, besides the ele‐
-
-ments indifferent to truth, still other elements which are not in‐
-
-different to truth. But in this case it is evident that for those ele‐
-
-ments which are indifferent to truth there would be no need
-
-whatever in the judgment. The truth or falsity of the judgment
-
-would be decided by those elements which fall under the point of
-
-view of the true and the false, while the remaining indifferent ele‐
-
-ments could simply be left out of the judgment, for after all they
-
-contribute nothing to its being true or false. If, for example, we
-
-consider the expression x + y + z + (a—a) + (b—b) + (c—c), then the
-
-terms a—a, b—b, c—c can simply be left out, for they are zeros,
-
-which change nothing in the value of the expression.
-
-c) From the two preceding points it follows that a judgment can
-
-consist only of such elements as themselves fall under the point
-
-of view of the true or the not true. For if the judgment consisted
-
-of nothing but elements indifferent to truth, then in the sense of
-
-point a) it would itself become indifferent to truth, that is, would
-
-not be regarded as a judgment. If, however, it contained, besides
-
-the indifferent elements, elements sensitive to truth also, then in
-
-the sense of point b) the indifferent elements could be left out, so
-
-that finally no other elements would remain in the judgment than
-
-those that fall under the point of view of the true and the false.
+c) From the two preceding points it follows that a judgment can consist only of such elements as themselves fall under the point of view of the true or the not true. For if the judgment consisted of nothing but elements indifferent to truth, then in the sense of point a) it would itself become indifferent to truth, that is, would not be regarded as a judgment. If, however, it contained, besides the indifferent elements, elements sensitive to truth also, then in the sense of point b) the indifferent elements could be left out, so that finally no other elements would remain in the judgment than those that fall under the point of view of the true and the false.
 
 With this we have shown that the artificial opposition which
 
-Aristotle wishes to establish between concepts and judgments is
-
-logically untenable.
+Aristotle wishes to establish between concepts and judgments is logically untenable.
 
 Indeed, if we look more closely at the Aristotelian distinction, then very great obscurity, or rather ambiguity [p. 17] is found in it. For the Stagirite sage says that the truth or falsity of our judgments is always rooted in the composition and separation of concepts. It is evident, then, that this composition or separation would be the proper essence of the judgment. Concepts would be only, as it were, the bricks of the judgment, and would become a judgment in the true sense only by means of some thought-cement. This cement would bring it about that truth or falsity is contained in the judgment; this cement, therefore, ought not to be a concept, for concepts are only the bricks of the judgment and are indifferent to truth. Through the Aristotelian illumination, then, our judgments stand before us in two colors: at one time we believe that judgments consist of nothing but concepts and contain nothing else; at another we believe that concepts represent only one kind of element of the judgment, and that the chief role in them is played not by these concepts but by the thought-cement that holds them together. But the chief trouble is that, in whatever sense we take the ambiguous distinction, it remains in any case unintelligible. For if the judgment consists of nothing but indifferent concept-bricks, without any binding material, then it loses its character as a judgment. If, however, some binding material must be assumed among the concepts, we do not know what is to be understood by such binding material, for it must then not be a concept. From this we see in what hideous confusion Aristotelian logic leaves us on the fundamental question of logic: the relation of the concept to the judgment. This confusion has been inherited on through centuries and has made the healthy development of logic impossible. For a science into whose fundamental interpretations an inner contradiction has bored its way cannot advance.
 
@@ -286,7 +186,7 @@ We do not, then, set before the theory of knowledge the logically impossible aim
 
 There is a principle of logic according to which, if of two sentences, A and B, the one asserts what the other denies, then one of the two sentences must necessarily be true. How very carefully this principle must be handled, the struggle over innate ideas throws a most interesting light. Here are two sentences confronting one another: we have innate ideas; we have no innate ideas, of which the latter denies what the first asserts, and yet we cannot hold either of the two sentences to be true! And why? Because the asserting sentence is of wholly uncertain meaning, and so the denying sentence too can have no definite meaning. Of the disputing parties, then, the one does not know what he asserts, and the other does not know what he is contradicting. Such sorry disputes have brought philosophical dispute into ill repute in general. But we ought not to be impatient even with those disputes which begin over indefinite assertions and denials, for these very disputes may also have the result that the parties, becoming enlightened in the course of the dispute, formulate their positions intelligibly. Every philosophical dispute may be profitable, provided only that the parties really thirst for truth and do not wage war out of mere vanity.
 
-The rationalists, who contended for innate ideas, obscurely felt the truth that our sensible impressions, taken by themselves, are not yet sufficient conditions of knowledge; they sought, then, the other condition of our knowledge too, but since they could not notice that which lay nearest, the signs of man, they ran willy-nilly after the phantom of innate ideas. Locke and the empiricists, on the other hand, felt very well that a theory of knowledge cannot be founded upon the dissolving vapor of innate ideas; only they deluded themselves with the belief that the impressions, taken by themselves, are sufficient conditions of knowledge. Locke sets out upon his epistemological researches under the spell of this thought, but what is so very characteristic of his honest inquiry is that after long reflections he begins to suspect some flaw in his original starting-point, and with endearing candor at once confesses it. This confession of Locke’s is of epoch-making importance in the history of the theory of knowledge, for it lights up like lightning the [p. 38] the great error of the impressionist thinkers, by which they believe that the sole condition of existence of knowledge is sensible impression, and that consequently the science of knowledge, that is, the theory of knowledge, may content itself with the investigation of impressions, while it can wholly dispense with regard for speech-signs. Let Locke’s own words stand here:
+The rationalists, who contended for innate ideas, obscurely felt the truth that our sensible impressions, taken by themselves, are not yet sufficient conditions of knowledge; they sought, then, the other condition of our knowledge too, but since they could not notice that which lay nearest, the signs of man, they ran willy-nilly after the phantom of innate ideas. Locke and the empiricists, on the other hand, felt very well that a theory of knowledge cannot be founded upon the dissolving vapor of innate ideas; only they deluded themselves with the belief that the impressions, taken by themselves, are sufficient conditions of knowledge. Locke sets out upon his epistemological researches under the spell of this thought, but what is so very characteristic of his honest inquiry is that after long reflections he begins to suspect some flaw in his original starting-point, and with endearing candor at once confesses it. This confession of Locke’s is of epoch-making importance in the history of the theory of knowledge, for it lights up like lightning [p. 38] the great error of the impressionist thinkers, by which they believe that the sole condition of existence of knowledge is sensible impression, and that consequently the science of knowledge, that is, the theory of knowledge, may content itself with the investigation of impressions, while it can wholly dispense with regard for speech-signs. Let Locke’s own words stand here:
 
 “I must confess, then, that, when I first began this Discourse of the Understanding, and a good while after, I had not the least thought that any consideration of words [the signs of speech] was at all necessary to it. But when, having passed over the original and composition of our ideas, I began to examine the extent and certainty of our knowledge, I found it had so near a connexion with words [speech-signs], that, unless their force and manner of signification were first well observed, there could be very little said clearly and pertinently concerning knowledge.” . . . (Essay, Book III, ch. 9, § 21.)
 
@@ -396,9 +296,7 @@ But Kant’s formula of reconciliation was very well suited to bewitching minds 
 
 Kant himself, however, did not notice how unbridgeable is the opposition of his chemical dualism to the classificatory dualism of Leibniz, but, in a peculiar manner, swayed to and fro now on the waves of the one conception, now on those of the other. This is one of the chief causes of the strange twilight or half-darkness that is spread over his principal work. In this twilight he himself marvels that the concepts “a priori” and “formal,” and likewise “a posteriori” and “of content,” do not wish to coincide, although he himself set up his formula in such a way that they could not coincide. He comes to the point of having to distinguish two kinds of a priori cognition: the judgments that he calls analytic and synthetic. He calls analytic a judgment whose predicate merely unfolds what could already be thought in the subject anyhow (though perhaps somewhat obscurely). Such a judgment is merely explicative in character, does not carry our knowledge forward, and its characteristic mark would be that in it subject and predicate stand in the relation of identity. To the character of the synthetic judgment, on the other hand, it belongs that its predicate was not yet thought in its subject; it therefore enlarges and advances our cognition, and its subject and predicate accordingly cannot stand in the relation of identity. It is striking that here we are really confronted with formal and content judgments, for analytic judgments are nothing other than judgments of a purely formal character, which for that reason do not advance our knowledge, because they have no content. Synthetic judgments enlarge our knowledge because they have content. From this it can be seen what really induced Kant to the famous distinction of analytic and synthetic judgments. The reason for it lay in this, that the concepts
 
-a priori / formal
-
-did not wish to coincide. For a priori cognitions could not all consist of mere form, but some of them had to possess content too, in order to come into account at all as cognitions. Purely formal a priori cognitions had therefore to be distinguished, which Kant calls analytic cognitions, and further a priori cognitions that also possess content, which received the epithet synthetic. But quite similarly the concepts
+a priori / formal did not wish to coincide. For a priori cognitions could not all consist of mere form, but some of them had to possess content too, in order to come into account at all as cognitions. Purely formal a priori cognitions had therefore to be distinguished, which Kant calls analytic cognitions, and further a priori cognitions that also possess content, which received the epithet synthetic. But quite similarly the concepts
 
 a posteriori / of content did not wish to coincide either, wherefore Kant would have been obliged to distinguish also two kinds [p. 64] of a posteriori cognition: one that consists purely of content (and this would have been the synthetic a posteriori cognition), and one that consists not only of content but of form as well (and this would have been the analytic a posteriori judgment). Kant, however, thought it good to be wholly silent about these two classes, for what sense indeed would there have been in speaking of judgments that consist purely of content but possess no form (synthetic a posteriori judgments)? And again, what sense would there have been in a posteriori judgments that do not enlarge our knowledge at all (analytic a posteriori judgments), when every new experience evidently signifies an enlargement of our cognition as well?
 
@@ -420,197 +318,35 @@ It is true that Kant set his own transcendental logic over against general or Ar
 
 What the object of the theory of knowledge is, and what its task and method of inquiry are, becomes clear to us only in the measure in which we penetrate ever deeper and deeper into this science. But it is necessary that, before we plunge into the exceedingly delicate problems of the theory of knowledge, I should first give some approximate concept of the aims of this science and of its principal tendencies that have emerged in the course of history, at least to the extent that I may render account in advance, as far as possible, of my own innovating endeavors. For this purpose it may perhaps not be superfluous to summarize briefly in what follows the points of view already gained:
 
-a) The task of the theory of knowledge cannot be to establish
-
-the so-called limits of human knowledge, beyond which the hu‐
-
-man mind can no longer penetrate. Human knowledge has a lim‐
-
-it only in the sense that as human beings we can never become
-
-omniscient; otherwise, however, it is a logical impossibility to
-
-establish boundary-lines which the inquiring spirit could not
-
-cross. (The proof of this important proposition is contained in
-
-ch. 4, § 10.) Just as the astronomer does not explore the immea‐
-
-surable depths of space in order, as it were, to stake out beyond
-
-what boundary no further stars can be discovered, but rather
-
-labors so that by the invention of new instruments and methods
-
-he may open celestial horizons not yet opened, so the theorist of
-
-knowledge too cannot mark out artificial horizons beyond
-
-which the human spirit could not penetrate. If a son of man so
+a) The task of the theory of knowledge cannot be to establish the so-called limits of human knowledge, beyond which the human mind can no longer penetrate. Human knowledge has a limit only in the sense that as human beings we can never become omniscient; otherwise, however, it is a logical impossibility to establish boundary-lines which the inquiring spirit could not cross. (The proof of this important proposition is contained in ch. 4, § 10.) Just as the astronomer does not explore the immeasurable depths of space in order, as it were, to stake out beyond what boundary no further stars can be discovered, but rather labors so that by the invention of new instruments and methods he may open celestial horizons not yet opened, so the theorist of knowledge too cannot mark out artificial horizons beyond which the human spirit could not penetrate. If a son of man so
 
 5* [p. 68] thinks that he has reached a limit beyond which his mind does not penetrate, he has the right only to put this down to his own individual weakness of mind, for there is no human understanding so deep that beyond it a still deeper human understanding could not arise. The characteristic trait of the human spirit is unlimited capacity for progress, which has no other final barrier than that we cannot become omniscient. Those who wish artificially to mark out some boundary for our knowledge generally represent it as if they meant to admonish immodest and overweening minds to modesty and sobriety. But true immodesty and extravagance show themselves only when someone speaks as if he were an omniscient, that is, an absolute mind. Immodesty and extravagance therefore show themselves also when someone undertakes to peg out the very last limits of human knowledge, for, after all, whoever wished to reach this ultimate unattainable limit would already have to possess an omniscient, that is, an absolute mind. In the name of free inquiry we protest against every pretentious violence which, putting on the mask of modesty and sobriety, would stand in the way of mankind’s holiest desire, the search for truth. — With this I have indicated in advance my position toward criticism (Kant) and toward positivism (Comte).
 
-b) A science that could not advance would not even deserve
+b) A science that could not advance would not even deserve the name of science. For it is the characteristic of every truth that other truths dwell in its immediate neighborhood, in other words: every truth is only a transition to other truths.
 
-the name of science. For it is the characteristic of every truth
+And if some proposition had such a blind-alley character that through it one could not arrive at new true propositions, the suspicion would rightly arise that it is not a true proposition at all. Likewise a science that was walled in, as it were, would give rise to the suspicion that no truth dwells in it. Logic, or the theory of knowledge, can take a place in the series of the sciences only if it is a science possessing unlimited capacity for progress.
 
-that other truths dwell in its immediate neighborhood, in
+c) Since our knowledge of facts remains under all circumstances incomplete and fragmentary, and since in spite of this we can never give up our striving to unify knowledge, nothing remains for us but to subject to investigation the human mind itself as the unifier of facts. The science which, for the sake of unifying knowledge, seeks to lead the human mind to self-knowledge is called [p. 69] logic or theory of knowledge. In the historical times known to us Socrates was the first who regarded the striving for self-knowledge as the proper task of philosophy: thus everyone may regard himself as a disciple of Socrates who stands in the service of the development of self-knowledge, that is, of logic.
 
-other words: every truth is only a transition to other truths.
+d) The mind itself, however, we cannot directly make the object of investigation. The human mind can become aware of itself only in this way, that it creates works, produces sciences; it is these works of its that it must therefore investigate in order to know itself more and more. In this sense logic or the theory of knowledge is the science which presents our knowledge relating to our knowledge. For this reason it is called the science of the sciences, or the queen of the sciences: to which latter phrase, however, soberly considered, we can ascribe only this meaning, that the theory of knowledge embraces no other endeavor than to help to advance every special science by leading minds onto the path of self-knowledge.
 
-And if some proposition had such a blind-alley character that
+e) Our knowledge of objects cannot be properly developed without a deepening of our self-knowledge; conversely, our self-knowledge too begins to languish if we do not duly enrich our knowledge of objects.
 
-through it one could not arrive at new true propositions, the
+This proposition expresses the inseparable connection and mutual dependence of the special sciences and the theory of knowledge (or rather philosophy). As soon as in the name of self-knowledge we begin to look down upon knowledge of objects, or in the name of the enlargement of knowledge of objects to rebel against self-knowledge, we are only leveling the way for intellectual anarchy. Our age, alas, has suffered grievously for decades from the curse of this anarchy.
 
-suspicion would rightly arise that it is not a true proposition
+e) Although all investigations of logic are directed continually to the increase of our self-knowledge, by this very tendency it continually opens ever new points of view to our knowledge of objects, that is, to the special sciences. Insofar as logic or the theory of knowledge prepares, as it were, the plans of campaign for our advance in the knowledge of objects, to that extent I shall call it metaphysics. Metaphysics is therefore nothing other than the theory of knowledge itself, insofar as it sets itself the aim of marking out, by the increase of self-knowledge, the paths of advance in the knowledge of objects. In this sense I have called the theory of knowledge also the theory of the progress of human knowledge.
 
-at all. Likewise a science that was walled in, as it were, would
-
-give rise to the suspicion that no truth dwells in it. Logic, or the
-
-theory of knowledge, can take a place in the series of the sciences only if
-
-it is a science possessing unlimited capacity for progress.
-
-c) Since our knowledge of facts remains under all circum‐
-
-stances incomplete and fragmentary, and since in spite of this
-
-we can never give up our striving to unify knowledge, nothing
-
-remains for us but to subject to investigation the human mind
-
-itself as the unifier of facts. The science which, for the sake of
-
-unifying knowledge, seeks to lead the human mind to self-
-
-knowledge is called [p. 69] logic or theory of knowledge. In the historical times known to us Socrates was the first who regarded the striving for self-knowledge as the proper task of philosophy: thus everyone may regard himself as a disciple of Socrates who stands in the service of the development of self-knowledge, that is, of logic.
-
-d) The mind itself, however, we cannot directly make the object of in‐
-
-vestigation. The human mind can become aware of itself only in this
-
-way, that it creates works, produces sciences; it is these works of its
-
-that it must therefore investigate in order to know itself more and
-
-more. In this sense logic or the theory of knowledge is the science
-
-which presents our knowledge relating to our knowledge. For this
-
-reason it is called the science of the sciences, or the queen of the sci‐
-
-ences: to which latter phrase, however, soberly considered, we can as‐
-
-cribe only this meaning, that the theory of knowledge embraces no
-
-other endeavor than to help to advance every special science by lead‐
-
-ing minds onto the path of self-knowledge.
-
-e) Our knowledge of objects cannot be properly developed without a
-
-deepening of our self-knowledge; conversely, our self-knowledge too
-
-begins to languish if we do not duly enrich our knowledge of objects.
-
-This proposition expresses the inseparable connection and mutual
-
-dependence of the special sciences and the theory of knowledge (or
-
-rather philosophy). As soon as in the name of self-knowledge we be‐
-
-gin to look down upon knowledge of objects, or in the name of the
-
-enlargement of knowledge of objects to rebel against self-knowledge,
-
-we are only leveling the way for intellectual anarchy. Our age, alas,
-
-has suffered grievously for decades from the curse of this anarchy.
-
-e) Although all investigations of logic are directed continually to the
-
-increase of our self-knowledge, by this very tendency it continually
-
-opens ever new points of view to our knowledge of objects, that is, to
-
-the special sciences. Insofar as logic or the theory of knowledge pre‐
-
-pares, as it were, the plans of campaign for our advance in the knowl‐
-
-edge of objects, to that extent I shall call it metaphysics. Metaphysics
-
-is therefore nothing other than the theory of knowledge itself, inso‐
-
-far as it sets itself the aim of marking out, by the increase of self-
-
-knowledge, the paths of advance in the knowledge of objects. In this
-
-sense I have called the theory of knowledge also the theory of the
-
-progress of human knowledge.
-
-f) The task of the theory of knowledge cannot be to resolve the facul‐
-
-ty of cognition itself into two (or more) faculties: just as, for example,
-
-it cannot be the task of a sword to cut itself into two (or more) parts.
+f) The task of the theory of knowledge cannot be to resolve the faculty of cognition itself into two (or more) faculties: just as, for example, it cannot be the task of a sword to cut itself into two (or more) parts.
 
 Our faculty of cognition is forever one and indivisible [p. 70] as anyone can see at once if he tries to imagine that mental power could consist of something else than mental power, or if he attempts to conceive that two faculties, neither of which is a mental faculty, taken together should nevertheless constitute a mental faculty. Likewise it is a logical absurdity that the sciences brought into being by the faculty of cognition should consist of anything else than single cognitions, that is, that single cognitions should be capable of being resolved into constituents which taken in themselves are not cognitions. Over against the dualist theory of knowledge, which would resolve now the faculty of cognition into two faculties, now the single cognition into two so-called “elements,” I take my stand in what follows on the standpoint of the monist theory of knowledge, which can discover nothing else in our faculty of cognition than faculty of cognition, and can find nothing else in knowledge than knowledge.
 
-g) He alone possesses knowledge who refers by signs to impres‐
-
-sions, or who refers by new signs to these signs. Neither the
-
-impression nor the sign taken by itself is knowledge, but only
-
-the referring of a sign to some impression, or the referring of a
-
-sign to another sign, can enclose some kind of knowledge. I do
-
-not wish here to offer a “perfect definition” of knowledge, for
-
-it is very doubtful whether we can give a perfect definition of
-
-anything at all. Here the question is only whether what has
-
-been said above of knowledge applies to all our knowledge. Is
-
-it true that he possesses knowledge of objects who can refer by
-
-signs to his impressions? Is it true, further, that he becomes
-
-aware of his own awareness who can refer by signs to those
-
-signs in which he has expressed his ideas? Impressionism does
-
-not admit this, for it believes that knowledge can be traced
-
-back purely to impressions. (The untenability of this concep‐
-
-tion I have already discussed hitherto, but in what follows I
-
-shall prove it in detail.) Rationalism, on the contrary, looks
-
-with a certain disdain upon our sensible impressions, but per‐
-
-ceives the importance of signs just as little as impressionism.
+g) He alone possesses knowledge who refers by signs to impressions, or who refers by new signs to these signs. Neither the impression nor the sign taken by itself is knowledge, but only the referring of a sign to some impression, or the referring of a sign to another sign, can enclose some kind of knowledge. I do not wish here to offer a “perfect definition” of knowledge, for it is very doubtful whether we can give a perfect definition of anything at all. Here the question is only whether what has been said above of knowledge applies to all our knowledge. Is it true that he possesses knowledge of objects who can refer by signs to his impressions? Is it true, further, that he becomes aware of his own awareness who can refer by signs to those signs in which he has expressed his ideas? Impressionism does not admit this, for it believes that knowledge can be traced back purely to impressions. (The untenability of this conception I have already discussed hitherto, but in what follows I shall prove it in detail.) Rationalism, on the contrary, looks with a certain disdain upon our sensible impressions, but perceives the importance of signs just as little as impressionism.
 
 The rationalist is interested in signs only insofar as “meaning”
 
-(or sense) is attached to them, and he believes that we could
+(or sense) is attached to them, and he believes that we could conceive such a meaning or sense even if we had no signs.
 
-conceive such a meaning or sense even if we had no signs.
-
-Impressionism and rationalism therefore agree in this, that
-
-they cannot appreciate our signs: the one because it esteems
-
-only the impression, the other, on the contrary, because it does
-
-not value the impression, and consequently not the sign either,
-
-which is likewise of a sensible nature. Against both [p. 71] tendencies we shall unceasingly press the immeasurable significance of signs. Yet we must emphasize again and again that impressions and signs are evanescent things, and that what we call knowledge is always a referring, which, however, we could not carry out if we did not possess impressions and signs. When, therefore, in what follows we enter upon the investigation of knowledge, we shall always be investigating referrings: the referring of signs to impressions and the referring of signs to signs. 6. On the Constatation of Our Impressions.
+Impressionism and rationalism therefore agree in this, that they cannot appreciate our signs: the one because it esteems only the impression, the other, on the contrary, because it does not value the impression, and consequently not the sign either, which is likewise of a sensible nature. Against both [p. 71] tendencies we shall unceasingly press the immeasurable significance of signs. Yet we must emphasize again and again that impressions and signs are evanescent things, and that what we call knowledge is always a referring, which, however, we could not carry out if we did not possess impressions and signs. When, therefore, in what follows we enter upon the investigation of knowledge, we shall always be investigating referrings: the referring of signs to impressions and the referring of signs to signs. 6. On the Constatation of Our Impressions.
 
 18. Of logic we said that it occupies itself with the investigation of our cognitions, and we added that only he can possess cognitions who has signs at his disposal, with which he is able to refer either to his impressions or to his signs. By this we mean that if someone had no impressions at all, or had no signs at all at his disposal with which he could refer to his impressions or to his signs, he could not possess cognitions at all.
 

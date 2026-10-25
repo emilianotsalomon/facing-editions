@@ -1,5 +1,5 @@
 title: Orientaciones del pensamiento en México
-title_en: 
+title_en: Currents of Thought in Mexico
 author: José Vasconcelos
 year: 1922
 original_language: es
@@ -7,11 +7,11 @@ translation_language: none
 edition_layout: original text only (no translation)
 collection: Obras (vasconcelos-obras-v2)
 order: 4.7
-source: ‘4.7 vasconcelos-orientaciones-1922.html’ (HTML reader) — THIS FILE IS THE SOURCE, corrections go here
+source: ‘4.7 vasconcelos-orientaciones-1922.html’ (HTML reader)
 original_text: transcription as in the HTML reader (see its note on the text)
 translation: none
 pages: 36
 genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
-heading: "# José Vasconcelos, *Orientaciones del pensamiento en México* (1922)"
-conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."
+heading: "# José Vasconcelos, *Orientaciones del pensamiento en México* (1922) — *Currents of Thought in Mexico*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); the text is the original only (no translation); `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml."

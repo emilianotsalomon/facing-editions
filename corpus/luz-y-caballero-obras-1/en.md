@@ -1,6 +1,6 @@
 [PDF 1]
 
-L   ibrary Cuban
+Library Cuban
 
 SELECTED WORKS
 
@@ -1320,7 +1320,7 @@ CIX
 
 (June 29).—Inspiration is not sought: it is born within ourselves. It is a God who sweeps us along and sets us aflame, and from whom we cannot free ourselves except by marching on or burning ourselves, bringing forth what has been conceived.
 
-[p. 00]
+[p. 63]
 
 ❖     ❖    ❖    ❖    ❖    ❖    ❖    ❖     ❖    ❖    ❖    ❖    ❖     ❖    ❖
 
@@ -2886,9 +2886,7 @@ Note.—The classification of the aphorisms by subject, as well as the chronolog
 
 [p. ii]
 
-P hilosophy , M orality
-
-and
+P hilosophy , M orality and
 
 R eligion .
 
@@ -2898,15 +2896,9 @@ R eligion .
 
 ## D iscourse (1)
 
-D elivered in the S an C arlos S eminary at the
+D elivered in the S an C arlos S eminary at the opening of the course in philosophy .
 
-opening of the course in philosophy .
-
-Happy are we, if we succeed in reconciling pro‐
-
-found inquiries with clearness, and truth with
-
-novelty.
+Happy are we, if we succeed in reconciling profound inquiries with clearness, and truth with novelty.
 
 David Hume.
 
@@ -2984,9 +2976,7 @@ Lascerà poi quando sarà digesta.”
 
 Dante.
 
-[For if your voice is grievous at first taste, it will leave vital nour‐
-
-ishment afterwards, once it is digested.]
+[For if your voice is grievous at first taste, it will leave vital nourishment afterwards, once it is digested.]
 
 You suppose the doctrine of sensation annihilated by virtue of the attacks made upon it by Royer-Collard, Cousin and Jouffroy, following in the footsteps of the Scottish
 
@@ -3216,29 +3206,11 @@ I.
 
 Answer. (1)
 
-“Itaque huc res redit, ut organum nostrum, eti‐
-
-am si fuerit absolutum, absque historia naturali
-
-non multum; historia naturalis absque organo,
-
-non parum instaurationem scientiarum sit
-
-provectura. Quare omnino et ante omnia in hoc
-
-incumbere satius et consultius visum est.”—
+“Itaque huc res redit, ut organum nostrum, etiam si fuerit absolutum, absque historia naturali non multum; historia naturalis absque organo, non parum instaurationem scientiarum sit provectura. Quare omnino et ante omnia in hoc incumbere satius et consultius visum est.”—
 
 Bacon .
 
-[And so the matter comes to this: that our organon, even if it
-
-were perfected, would without natural history advance the in‐
-
-stauration of the sciences not much; natural history without the
-
-organon, not a little. Wherefore it has seemed better and wiser,
-
-above all and before all, to apply ourselves to this.]
+[And so the matter comes to this: that our organon, even if it were perfected, would without natural history advance the instauration of the sciences not much; natural history without the organon, not a little. Wherefore it has seemed better and wiser, above all and before all, to apply ourselves to this.]
 
 It is my intention to answer the article inserted in the Gaceta of Puerto- Príncipe of the twenty-third of May last, against the opinion that the study of Physics should precede that of Logic. To carry this out as is fitting, it will be well to set forth at some length the foundations on which that precedence (not preference) rests, refuting in passing some of the notions that figure most prominently in the course of the said writing. This exposition becomes all the more necessary, inasmuch as the publication there of a Preliminary Note in which were set forth, albeit succinctly, the motives that prompted
 
@@ -4792,9 +4764,7 @@ Morality,” published in the 3rd issue of the “Plantel”   . . . 137
 
 [p. 382]
 
-II.—Answer to the article of the subscriber to the “Plantel” in‐
-
-serted in the “Aurora de Matanzas,” of the 30th of
+II.—Answer to the article of the subscriber to the “Plantel” inserted in the “Aurora de Matanzas,” of the 30th of
 
 November last.                                                . . . 138
 

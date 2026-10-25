@@ -1,15 +1,15 @@
 title: Obras, tomo I
 title_en: Works, vol. I
 author: José de la Luz y Caballero
-year: 
+year: 1890
 original_language: es
 translation_language: en
 edition_layout: photocopy (scan beside the English)
-source: recovered from the PDF ‘Luz y Caballero - Obras I - Works I (ES-EN facing).pdf’ (the page files were not kept) — THIS FILE IS THE SOURCE, corrections go here
+source: recovered from the PDF ‘Luz y Caballero - Obras I - Works I (ES-EN facing).pdf’ (the page files were not kept)
 original_text: OCR text layer of the scan, uncorrected
 translation: machine-made (Claude), reviewed against the original by Claude; no human review
 pages: 368
 genre: Latin American philosophy
 generated: 2026-10-24 by corpus.py
-heading: "# José de la Luz y Caballero, *Obras, tomo I* — *Works, vol. I*"
-conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); quoted blocks (`> …`) are the original, plain paragraphs the English; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. Generated file — see the header for where corrections belong."
+heading: "# José de la Luz y Caballero, *Obras, tomo I* (1890) — *Works, vol. I*"
+conventions: "Conventions: `[p. N]` marks where a printed page begins (its folio as printed); `[PDF N]` a page of the source PDF with no printed number; original and English are paired page by page: the original is the OCR of the whole page, not cut at paragraphs; `*…*` is emphasis as printed; `<sup>…</sup>` a footnote cue, the note following its paragraph. This folder is the source: corrections go into its original.md, en.md and edition.yaml."
